@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership
 webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
-    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
-    publishedDateTime: 2024-01-29T13:22:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure for Organizations Worldwide"
     excerpt: "January 29, 2024 – VAST Data, the AI data platform company, today announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud."
     publishedDateTime: 2024-01-30T08:35:00Z

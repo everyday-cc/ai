@@ -32,14 +32,14 @@ images:
 
 related:
   - title: "Rail Vision Reveals its Next Generation AI Computer for Railway Safety and Accident Prevention"
-    excerpt: "Ra’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail Vision Ltd. (Nasdaq: RVSN) (the “Company”), a technology company at the forefront of revolutionizing railway safety and the data-related market, today announces its next generation AI- based computer to be incorporated in its Main Line and Switch Yard systems."
-    publishedDateTime: 2024-01-30T14:39:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/01/30/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and"
+    excerpt: "The new development offers high performance and real time AI deep learning inferencingRa’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail"
+    publishedDateTime: 2024-01-30T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and-accident-prevention-1033010258"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 7
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
 
 secured: "76TNXVo0KhBheJ4xujfWNoJLN6d4VkDk0XWj6l9a1KEj0h0etSnGsX9ULos9QsTsfoa3ruIJItdtkPffh7m9AsJmdktpBZpWkxXznCiFiqNzWcaZkftX6G9DtC3NvAcVQmhg19f9tPWHBMmECPj9TRHKoyVZpNhgUGfLYXRhvNwVYvqk5Gg69iCrb/uYvpaFgn8CYidrhziFEJPX1XbVfY1jbySIi/3Q9tEc7JDzgf5R1nGNS7TbrIWtsW9sbMvcVdJuHavwXjL7Wd9HxM7gu113NYkmc2fBExsv5bJhb9w/lq7RCeBi3n10MzL2Snb4QUlTgBo2xz2T35PPPmHU5MtZA51vDhNX/6frmzS7Qry1XzaIopLV+dno5InKAMdB6fQ6q0NVBLPHC75E00pi1+j43gw/WtiiE5q7HeXAy5F9qFJ9YwKUIJCwLi5Ryyuoau8tWsP02cSDQDnGFzp9D3ZdV7mH8e8x8r6JvUd0MlvGsUxuoR69oVQBoqypTXnZ4PelRbUxY/67DLFZJA5CEA==;tEKPvInYHZx7cUrDUgr/uQ=="
 ---

@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AMD Posts Strong Revenue Growth, Projects Robust Sales Of Its AI Chips"
+    excerpt: "Chip-maker AMD has posted $6.2 billion in revenue for the fourth quarter of 2023 and net income of $667 million, project"
+    publishedDateTime: 2024-01-31T07:06:00Z
+    webUrl: "https://menafn.com/1107790207/AMD-Posts-Strong-Revenue-Growth-Projects-Robust-Sales-Of-Its-AI-Chips"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?401005"
+        width: 396
+        height: 250
+        isCached: true
 
 secured: "EkDJ8F9DL3Qlc5RClxhpAO3uEw6BUcZSUKdEloDpq2Bg3Tu+MXPYHV5e2kSHaaA1b2L5nM5kOpNN9JGurjg1IfTCLqHpuI/2fBlpjX2nnT1iOpt1sKQJVeNrSp9WSaHo7NIwjf/bRsOBlIzP8uOhcbiKSfRF+wyT/K7xoIM5UYfdDV4DAPzEX9ZUK9n0tE6s7mHcbwxTb3SAMfw9CHKvutcToggwVTAFyZrabKnlulyhUzBoKrlCt2RMWCwg5hn50IhqdfTlXI+cfu2GNMADV/3IWuc+JD77LjXAADA2W0SbuthzpPPy2Z3icxl83fkzVL2D5x3Q60nacSKABumfd3+6tv+LmwCJfzCfKiiElGw=;c3SaA8Nr3e/SLYgAR/uBGA=="
 ---

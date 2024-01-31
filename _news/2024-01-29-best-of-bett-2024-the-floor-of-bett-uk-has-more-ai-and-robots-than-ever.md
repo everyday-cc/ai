@@ -7,7 +7,7 @@ originalUrl: "https://www.techlearning.com/news/best-of-bett-2024-the-floor-of-b
 webUrl: "https://www.techlearning.com/news/best-of-bett-2024-the-floor-of-bett-uk-has-more-ai-and-robots-than-ever"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI’s path in 2024: Another year of growth instead of monetization"
-    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
-    publishedDateTime: 2024-01-29T16:44:00Z
-    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
+  - title: "Super Bowl 2024: Top Ad Reveals, Taylor Swift And AI In Las Vegas"
+    excerpt: "There have been more than 55 ads announced for Super Bowl 58 so far, but only one features AI. Could this be the end of ChatGPT-mania? A look at the ads and themes."
+    publishedDateTime: 2024-01-31T06:21:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2024/01/31/super-bowl-2024-top-ad-reveals-taylor-swift-and-ai-in-las-vegas/"
+    ampWebUrl: "https://www.forbes.com/sites/martineparis/2024/01/31/super-bowl-2024-top-ad-reveals-taylor-swift-and-ai-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2024/01/31/super-bowl-2024-top-ad-reveals-taylor-swift-and-ai-in-las-vegas/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
-        width: 1200
-        height: 806
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b96e2d249a6cb12e70e237/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1256
+        height: 900
+        isCached: true
+  - title: "Las Vegas parent creates reading app using artificial intelligence"
+    excerpt: "LAS VEGAS, Nev. (FOX5) -A Las Vegas parent has created a new approach to reading apps. Like many other students, Aubrie Vinzant, 8, struggled to catch up with reading during and after the pandemic."
+    publishedDateTime: 2024-01-30T02:30:00Z
+    webUrl: "https://www.fox5vegas.com/2024/01/30/las-vegas-parent-creates-reading-app-using-artificial-intelligence/"
+    ampWebUrl: "https://www.fox5vegas.com/2024/01/30/las-vegas-parent-creates-reading-app-using-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox5vegas-com.cdn.ampproject.org/c/s/www.fox5vegas.com/2024/01/30/las-vegas-parent-creates-reading-app-using-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: FOX5 Las Vegas
+      domain: fox5vegas.com
+    quality: 57
+    images:
+      - url: "https://gray-kvvu-prod.cdn.arcpublishing.com/resizer/v2/I74R36422ZH4HDDTVSSLP57GQQ.png?auth=1bbf10cf502ce4d0993712f2a269ae2a1c57dd02683f8a626176e87e31710684&width=800&height=450&smart=true"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "UKZhzI1fkhw8MDbHf4s8a6HEDnC++Hv8Ss5ZO1UW7Fsl3UqZUr/bIW4ch9cFwB7bmGByR8IR6+wvGPKn2oauYSfh58zJd0CgMdQs8xf6d+nyVSTu/obbpkzPKcsXzjjqhgKLEFbIKC9DlTq1lGEAgGlK4eMx8nMexihQajheLHDQlGDKKzBvUDewCF0QbRf96oEX3jGM2LoltE0IL0JVpoK9UQybj7kN6K3RIrwEEDgyjKGxzU9qlMe5f1btnYq9eCDNCUfmoQAcRnTaQnegBnfAhcBlufuYsFDJIvwbX3ZlwK/i57hnbk4OlrC3ibMjU6MShuY9Tisq+kjcagNzRpNwuz4YKQIQtZUBka6xiMg=;gpLiLz1czmpElR/3w0mtSQ=="

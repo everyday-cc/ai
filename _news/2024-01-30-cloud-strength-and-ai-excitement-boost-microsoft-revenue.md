@@ -289,6 +289,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
+    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
+    publishedDateTime: 2024-01-31T08:00:00Z
+    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Microsoft revenue surges to US$62bil as AI bet delivers"
     excerpt: "Net profit also beat expectations at US$21.9 billion, instead of the US$20.71 projected by analysts. Crucially, revenue for Microsoft’s Azure cloud services jumped by 30% in the period, driven by the bigger computing needs that come with the adoption of AI. Overall, Microsoft’s cloud services sales were up by 24%, the company said."
     publishedDateTime: 2024-01-31T03:46:00Z

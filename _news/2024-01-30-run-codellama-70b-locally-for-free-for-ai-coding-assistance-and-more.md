@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Meta releases ‘Code Llama 70B’, an open-source behemoth to rival private AI development"
+    excerpt: "Code Llama 70B is a new and improved version of Meta AI’s code generation model that can write code in various programming languages from natural language prompts or existing code snippets."
+    publishedDateTime: 2024-01-30T03:46:00Z
+    webUrl: "https://venturebeat.com/ai/meta-releases-code-llama-70b-an-open-source-behemoth-to-rival-private-ai-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Code_llama_be1422ea-d027-46ed-9491-c3b76df94971-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "Meta releases new open-source AI coding assistant Code Llama 70B"
     excerpt: "Meta has released its latest version of Code Llama called the Code Llama 70-B which it has called its best and most powerful coding assistant."
     publishedDateTime: 2024-01-30T10:16:00Z

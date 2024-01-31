@@ -27,45 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
-    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
-    publishedDateTime: 2024-01-30T02:59:00Z
-    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
-    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
+  - title: "6 Job Openings for Responsible AI and Ethics in India"
+    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
+    publishedDateTime: 2024-01-29T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
     type: article
     provider:
-      name: Skift
-      domain: skift.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 54
-  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
-    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
-    publishedDateTime: 2024-01-27T02:44:00Z
-    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Meta to build $800 million, AI-first data center in Indiana"
+    excerpt: "Facebook parent company Meta will build one of its first data centers dedicated to generative AI workloads in Jeffersonville, Indiana, creating roughly 100 operational jobs and about 1,250 in construction work at a cost of $800 million."
+    publishedDateTime: 2024-01-26T14:38:00Z
+    webUrl: "https://www.networkworld.com/article/1298745/meta-to-build-800-million-ai-first-data-center-in-indiana.html"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 33
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
-        width: 600
-        height: 320
-        isCached: true
-  - title: "CyberLink's Facial Recognition Engine, FaceMe®, Powers 2-Factor Biometric Authentication Solution for South Korean Banking Sector"
-    excerpt: "Leading AI facial recognition provider, CyberLink Corp. (5203.TW), today announces a new collaboration with South Korean company, UNIONCOMMUNITY. In addition to the existing FaceMe® SDK integration into their UBio-X Face Premium terminal for access control,"
-    publishedDateTime: 2024-01-30T17:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954377.htm"
+      name: Network World
+      domain: networkworld.com
+    quality: 19
+  - title: "Six Principles for Redefining Retail with Responsible AI"
+    excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/six-principles-for-redefining-retail-with-responsible-ai"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 19
 
 secured: "JuI9LiZPDeG5AQY2ytFM+apiq5eexarhHEPrKCtNXa4TgKBetbR+9mHrnqEpQV+d2zt+QmZXj66iqitlgQmt+HJNGQMs2AouoZnpftNSk197KIQzYgCICeLl7GLm9giKrtI8uudfRTWCEdbB8MtmLDX/nVzlJBp1IThv7p57mWOHinhDXu6OoPQaVeuHWRrCh2mh4SH1E0n14bxE20mo9Ky4ERLzvfn6F4T56RTU7mrDUm5TY6hFRT3JTFkMI0FTdAZDmHpmKAqxydUguZS2HP9pLV2qbd926ill6UIdB66itrccojfHcindBTqvvm7prH5XdXhqI7w5fqlsogkql8rj9akKdwxHsDj/U7aKrI2QYVWqdhKH7fkVPHI5deZp4vNz8wrM4UVqtmBpR6GDL5r75r5jVdxElYJW8mZe55XWxMa3d3/aQsC0FRdz1Sfaa3pgw8B1sNn3wX4ny1ivLUiTN8Jrtws5MSeQmsWUDJrya90h+bfUsOh0v+rWFRYFmNGTkv0ySj0sgboEkySQNg==;4/7RrngCuzkeK1OMYAu5+Q=="
 ---

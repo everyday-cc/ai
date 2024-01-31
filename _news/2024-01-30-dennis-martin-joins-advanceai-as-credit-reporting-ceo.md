@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Industry veteran Dennis Martin joins fintech start-up ADVANCE.AI to lead credit reporting business"
+    excerpt: "ADVANCE.AI, Southeast Asia's leading provider of digital identity verification, compliance and risk management solutions, has appointed industry veteran, Dennis Martin, as CEO of its credit reporting business."
+    publishedDateTime: 2024-01-31T04:18:00Z
+    webUrl: "https://www.asiaone.com/business/industry-veteran-dennis-martin-joins-fintech-start-advanceai-lead-credit-reporting"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 25
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/pr-newswire_500_4_1464.jpg?h=7de12b8a&itok=gltfgyn5"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "HkQKEYRpp5eDT5D7CDVWoI6VbvQ6355EDA/YG4HQ4EsVQpcstF93d6bSO+buSrjdPy+lKBk/mj/cKKHpyB/yZ0eE4H3OA0k40Lw99ACmoM+hkSoKI9DuNEAbp9W1d5jhiThIr70l+1BVVMktLbNtb271oKWz3HPn02+ZN/s7DoDE4qi4/nYsUu6i7xS6cUHxRlhhuDe8PXUC3Tu5uCTg3/AavNEd3vlLsh/j0ons3QCXVsrB9g/rb9WfzrUM0bVa/qOIaJ5I59eJ0Dp27pZcoZP2QqEL+ikj3uX/wo0fZahrjeE0ImMMB5jh8rrZBA4r+HzZ3ktRk15J0zvMAtK/dIIeeuTby1m8A+HGw5ubnPeYkZfoOUPM0834/hyEq0fbkKMJBOnr+JeUfZwAtqbGs5qsdT4X8gxfiZIZWkT2Jqktsn0lWHh1qDujVDimvCmhXIun8AgZR8GHA8peJAKxXPAEFYB1iV49QZcaXAXwrgIBmOhaTaFpi8U240eGpRUyZdT6SgdG5mVPTrX0GUJ+lA==;moNkR61iGGKH6w1hXJVQrw=="
 ---

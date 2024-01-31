@@ -19,20 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Redefining Security With AI: Info-Tech Research Group Releases Blueprint for Security and Privacy in an Exponential IT Era"
-    excerpt: "Info-Tech's latest research blueprint navigates the complex landscape of AI-driven security threats and ethical considerations. The resource offers a strategic approach for security leaders to safeguard their organizations in the exponential IT era."
-    publishedDateTime: 2024-01-26T16:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/26/9953000.htm"
+  - title: "6 Job Openings for Responsible AI and Ethics in India"
+    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
+    publishedDateTime: 2024-01-29T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
+    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
+    publishedDateTime: 2024-01-30T09:53:00Z
+    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 49
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
+        width: 640
+        height: 362
+        isCached: true
+  - title: "Meta to build $800 million, AI-first data center in Indiana"
+    excerpt: "Facebook parent company Meta will build one of its first data centers dedicated to generative AI workloads in Jeffersonville, Indiana, creating roughly 100 operational jobs and about 1,250 in construction work at a cost of $800 million."
+    publishedDateTime: 2024-01-26T14:38:00Z
+    webUrl: "https://www.networkworld.com/article/1298745/meta-to-build-800-million-ai-first-data-center-in-indiana.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "EpJUO9FGbrZ8czpfN90Yq4nlbirBF4Cp9aCafY3feykA9OxHy+7kfiGan9YOUhH/dssjko3+MG4Obes/oDUiIqVuQoLm3KBbdMruW9gCGlSlho7iFQUjU5w+ofLZ0EhErSddw5WLBQTS9lwcKkoRkt6HSpkJ83KEgkAsv7yJ+GdfusRAE/q39xf7Fcnl9NgcFBcGjO163xWVrwOwUHvZkT8aawrkCm1YAvO7eXrHsQvrZxcO6QxeWBsGJksOrV+b3P/lYHIA9HuE+fPhQFxsbCBksvqsQJ4g6OfYu4dL3P9aey2HszDkwE4S5nf+c6Xf8L6mo6jO0Z8GytC8ULZrqm6UriBGccZMGTA/xeJNTA4=;33fHJv2piMTo+YJEAvbs6g=="
 ---

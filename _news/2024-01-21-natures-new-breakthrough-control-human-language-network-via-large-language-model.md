@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"

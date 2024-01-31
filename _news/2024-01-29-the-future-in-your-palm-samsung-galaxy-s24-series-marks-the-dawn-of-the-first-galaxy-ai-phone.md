@@ -113,7 +113,7 @@ related:
     provider:
       name: 9to5google
       domain: 9to5google.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Screenshot_20240129_145159_One-UI-Home.jpg?quality=82&strip=all&w=473"
         width: 473
@@ -128,15 +128,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 34
-  - title: "Samsung Galaxy S24 Powered By 'Galaxy AI' Sets A New Pre-Order Record"
-    excerpt: "The Galaxy S24 series offers multiple AI functions, including real-time translation of phone calls in different languages, a \"circle-to-search\" function for image search on Google, AI summaries and translation of voice recordings, and generative editing of ..."
-    publishedDateTime: 2024-01-26T09:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36801050/samsung-galaxy-s24-powered-by-galaxy-ai-sets-a-new-pre-order-record"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
 
 secured: "Z/HpW9Cu7Kxblv54558F4TTCbH2zuAsHvaYJUXpA6leaZWtn+2SITrnht34mz8Q7db0Gf/Lb2LlFc/58fuRyDlwe7cGlqB1R6YBMSSNSW0GXAmGzjkuLpGcCL8UnhOu743KFV8FpoEdQ6anp8B6amhGTgmzFCG9GuDDtN6m30TVs6A9KlIGt+hT54u9wi/otS+d1Hqc8MRwYnCfLjK4t0UWpHHpJGRqTgYFvuLF9dUSsP8GoospUz1CRshkOtYWNxlVo2LjgrAAh3h5rGatqjDjo6f76i+p9AZz29Hk8YcMzinjF79pNrOF/7w/Jpd2vBf4/AJNQknQ4uxH9aKYRzv+LkfrfbxX1O0Yq1NbragMJbrmOhZt69e/3U8UrMU6jirLMO31rojKootwbpgUUpNYVthh0gdzHSR0skVaushHYcdBicHj+gIOX2NfmGnTWuu6FdBs4Zky6m2s7P9wX0gYvSP4d9S0F57WNODm/kxwcRlsC8IcuJgtzELbxXEfAvJ2r8FdjtOeNQuAYVafMQw==;U8LD3oNr+r9Sqf19wp5wCA=="
 ---

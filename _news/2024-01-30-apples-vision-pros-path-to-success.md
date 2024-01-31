@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -45,21 +45,7 @@ related:
         width: 1600
         height: 885
         isCached: true
-  - title: "Apple Vision Pro 2: what we’d like to see from a second-generation spatial computer"
-    excerpt: "Perhaps it might just be called Apple Vision?. Here’s what we’ve heard about a second version of Apple’s spatial computer. Whether it will be a more mainstream model, or simply a follow-up – a Vision Pro (2nd generation), to use Apple’s parlance ..."
-    publishedDateTime: 2024-01-26T08:51:00Z
-    webUrl: "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/"
-    type: article
-    provider:
-      name: Stuff
-      domain: stuff.tv
-    quality: 18
-    images:
-      - url: "https://www.stuff.tv/wp-content/uploads/sites/2/2023/11/Apple-Vision-Pro-2-preview-lead.jpg"
-        width: 1536
-        height: 1024
-        isCached: true
 
-secured: "Yyv8hkLx6/mDz65zRK9ENSOSN79F7MBYjjmbq1+ugneIDFtqeZOOdfzj0n9s0kEQOgBmh8eJJUCv0LA3m/ECzgKehm6+lX0TGfl8Ug4kflQz6OTxhD7WW34fjyIQYLyxabrqdEJGi6cV7wBEw1ghhr6cplKrP07oEPsN/yHK+TzAsnFRvX7VmLh7GvNAc4w0kU7m4Xqjzq9zr0N3SriZ1r+cdkREQwHU39hZFi7y7qfz9DHx9FhT7NejgKKmyQZZTVr3kDhCSyG3SeQ0nWmo8+WunJtuW5ZWZN6c1auc2nRdlaGlYLxY1mOFVfw70dsv2jolKC5YFKyhIYaoIFHJ0iWaHmS0ZHtwUzeNMC6r4Gg=;VLIV0Xu3+2WW5efwQN2XeA=="
+secured: "DvXSMTyzbnxbiOCOi8BPRz9wLB2/BDeUGeWoQxKInH+FIp6TR8NkQ1Y1YOYZGbX9n4IDMWZAawMomDs1opJ5vpAhcUFO2BcteORgfSVlpOGuBRXOg18BUY9IxHMQqtS+AQOBCsCFM1Gh33Ul0Ux2O6EB7PKO88oM5JkNB2o6BsVhCnGmHPie8JXj5P4OUUWTOsDBuNHAGF3Zq99mVrQtLO5+Slpkz8J8UicMjOD4irKp9pqlqNe4lDkHKm3sUJj1QGXLHkyMFJTgjC5xvaMC7tzh94Hlek7kaemNUrGw2ODyyfUQmXqnjsG7zwm49vlHcmG86pYNIIYWvJpUIUCliF/GV9zq3cEyVkeaul3lc6Eb9EP/sOrnj5zkd6BoY/I8K8cNddynqq14IejQ/tUfSR4Vh48aSqiZopgjNvvfLoOmarDchnDg7tdZcA3JCw6jse8pS3NyLN0NiGHnVzDUxmRvY3pHk2bSxAfVRX3cw88qQF1MkF+UlkwYXa07Ro274mbOR24N+of03wKsvYIJcw==;IKTfOBhOmy107XUGnxhiWg=="
 ---
 

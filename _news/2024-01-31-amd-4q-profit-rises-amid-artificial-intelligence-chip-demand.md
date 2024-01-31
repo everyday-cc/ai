@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artif
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://media.nbcnewyork.com/2024/01/107364689-17062131932019-01-09t200350z_544163717_rc1ae532a0a0_rtrmadp_0_tech-ces.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AMD Posts Strong Revenue Growth, Projects Robust Sales Of Its AI Chips"
+    excerpt: "Chip-maker AMD has posted $6.2 billion in revenue for the fourth quarter of 2023 and net income of $667 million, project"
+    publishedDateTime: 2024-01-31T07:06:00Z
+    webUrl: "https://menafn.com/1107790207/AMD-Posts-Strong-Revenue-Growth-Projects-Robust-Sales-Of-Its-AI-Chips"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 71
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?401005"
+        width: 396
+        height: 250
         isCached: true
   - title: "AMD Raises Outlook for AI Chips. It Wasn’t Enough."
     excerpt: "Advanced Micro Devices increased its guidance for data center AI chip sales. On a conference call late Tuesday with investors and analysts, CEO Lisa Su said that AMD expects revenue for its data center GPU products to surpass $3."

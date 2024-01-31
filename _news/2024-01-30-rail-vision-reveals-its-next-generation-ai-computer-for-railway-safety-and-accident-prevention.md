@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Rail Vision Reveals its Next Generation AI Computer for Railway Safety and Accident Prevention"
-excerpt: "Ra’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail Vision Ltd. (Nasdaq: RVSN) (the “Company”), a technology company at the forefront of revolutionizing railway safety and the data-related market, today announces its next generation AI- based computer to be incorporated in its Main Line and Switch Yard systems."
-publishedDateTime: 2024-01-30T14:39:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2024/01/30/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and"
-webUrl: "https://stockhouse.com/news/press-releases/2024/01/30/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and"
+excerpt: "The new development offers high performance and real time AI deep learning inferencingRa’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail"
+publishedDateTime: 2024-01-30T15:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and-accident-prevention-1033010258"
+webUrl: "https://markets.businessinsider.com/news/stocks/rail-vision-reveals-its-next-generation-ai-computer-for-railway-safety-and-accident-prevention-1033010258"
 type: article
-quality: 7
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
@@ -36,6 +40,6 @@ related:
         height: 372
         isCached: true
 
-secured: "HVf6XU5lrWOv4QGNFm/S2lSidMs11klcewxsleoQO/uA24TRuLBFypWWsY10qfXpOucFVOXWt4SUsqCjmsl3E8V8sbxIa3Wpv/yAsB0WUOV656A3gxTMDQWhni2a0MT7NUkFSkReGmP3gfTiErq5+sigQ71bWgOy02XMLs43erVzdr2TcVqcwLcGvD2ikwcZ6LseVXY2+bvVa6rpTjNjYyh0ysm/q07vsyD+g2pFb6DFho8BLslH0VW4AgQBATfWbsFGOBRzh9bmVL6kTT3DE7SGCrhTQ/Bl2hly6q/3ZEDCqRybZFAV4l+poAovjoV2h6DcrzmJRisMflgzfWMy3eIURS93hT7++fijysLsZWo=;G718VsHcWo7IWiNlee1+hA=="
+secured: "4+IuFcqZ6kYDOlyscCIK9i9nkUwJf03CK0xm8395hX+Od/XH43yk97JOHG2H+sVVK9ukvh5140A+Hvu1Nci2gfn4IEOVw12S7TYbdYgKOO7l5Qz9IwtwUfhb1v9uCWSNHsYImKuwcLX6mFFHpJLBUBFQeO7zOjUnmVyEfIXcoDwLruyGafy6R068X+6LP4CMPRR1oaWDstOszGnipX+2nHbHfGilNYynMjSbUnbfEE0U9Xap73fAvoEIVYGiJ1KgwlsJcZSby4bpaAvkOM7o8BWdcg4Blj2lM4ooGyeSsUbvHD1KAYnYoOhjMNJEHUhP649bUsogPPMc8obcYV7wHQNAspIDr+LKFzXHbLKEipQ=;XosuEvZj2d+2gJHt0+vM3g=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png"

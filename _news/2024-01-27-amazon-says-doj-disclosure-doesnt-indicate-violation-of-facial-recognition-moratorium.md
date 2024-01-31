@@ -37,22 +37,6 @@ related:
       name: Skift
       domain: skift.com
     quality: 54
-  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
-    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
-    publishedDateTime: 2024-01-30T09:53:00Z
-    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 49
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "CyberLink's Facial Recognition Engine, FaceMe®, Powers 2-Factor Biometric Authentication Solution for South Korean Banking Sector"
     excerpt: "Leading AI facial recognition provider, CyberLink Corp. (5203.TW), today announces a new collaboration with South Korean company, UNIONCOMMUNITY. In addition to the existing FaceMe® SDK integration into their UBio-X Face Premium terminal for access control,"
     publishedDateTime: 2024-01-30T17:27:00Z

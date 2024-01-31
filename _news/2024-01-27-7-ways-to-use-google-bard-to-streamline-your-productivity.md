@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/7-ways-to-use-google-bard-to-streaml
 webUrl: "https://www.geeky-gadgets.com/7-ways-to-use-google-bard-to-streamline-your-productivity/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Google says you'll need a subscription to use Bard Advanced"
+    excerpt: "Google has revealed plans to charge for a Bard Advanced subscription. Bard is currently free to use, but Bard Advanced will run on the company’s more powerful Gemini Ultra AI model. It would be capable of performing highly complex tasks."
+    publishedDateTime: 2024-01-31T07:21:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-advanced-subscription-3409624/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "BRnaSGoayA4BWbSO5+ngJD8J1fv2SxxeNngaN9GiWEpsWP8Q3qqwq9n+rRFwDCjj+DCDRrKVIarfZiBRZQyyRWi47HhcpxhlYlk/UhemYo9eKy714LRWrP43Gur+OxDpIFO6/gNHGSz9eYnS+jW/UtazRIMZEVlmDoAqOGql0RLqWZnIg9JpiDdRU04BhR2YD9Z9amK+hzpXzQZjzh0wjFx/hzmQVJvo2qGK4j/URcU1bjLTFzoi2ed+XsBG07eYhQi5v/AEIPlErOfisfaFObUqtWwBcPE01D6JQD3jm8d/k4fnR8ZOuLhHrm5h8jpSSMRBWP6nKpFn/FK1OwdHgBjbVR0h+FB5YTqNIr8rJ1i/xPcCgh/I1Uy2JG+fLddLlx7nlnxfHngvLlYAepiYGNzJILDWiTBMZQ9I0HYnaCHivt2VKVYllseKIUmqImsHKxdA5aL9TJtPna8kIz7ESzZKyMT4NZxI2SIcMJkXk4liqdzw5MvEHSQ7GmxEPGbzBmdsKoewvhX4jJLK4Z9j2Q==;KvAP86cAihWTGlfBOXYhQQ=="
 ---

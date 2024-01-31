@@ -17,7 +17,14 @@ provider:
 topics:
   - Meta AI
   - AI
+  - Microsoft AI
 
-secured: "TbeB8Qck4j+OU4tyOWWPrCytz9HhLLaFEekOm43pnE37OkKUZW9tcN+0+fmNCArOKUqbXDyF5/mtMr0Q6/OLp6KyZiOZbJBeBxp9EWQECocon2y4MlTla1hudsAvvb8GlXNizvYpz6SwhHLOeO2JOSamI3eH9Dj+j4WNlOqkMlLT1UXLgEchDiSLYmX5lcGjr9MxQWIO6aIxDsq7XhyS0IMnt66+Psh00wPUxhq4PExyyie2TEA1cdXCl3V14DW57ceQVhmhZYIuGTdxiRt+qRGHTgshFmz1uQdrfp+VInKmu42TzJVu7cBKC+dIEZVq55jjD9KR3/XMN94Ar82DvZEA30lgAsVDDUUTkj4VuwNIGNFfetYnqPNWRXaBQmf/zgaut8aoyq/VshSLJ9rkBxFXPf0ELcdlyIzLdIrFZGg/ekU1sLcuxwiQqtznsvSH7F/F0oVSuV/i1w2IFkJCxNNGO1QVOaIjS9dqH2lrZ6RUXJ59TD5h60LWA8RSC97ptba/ylSkJfJpaBXA88G2nQ==;BOl+2OnKEn/SICQUlTGAUQ=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/RuiwNQrKr2x9r2itCFXiaY-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "hrJDarGZ2q5hsOk0HHry5RoxPVDyfcDg8WlbQBWR0HLxLCXgkPyTMfZHhTBc6smQ/BCimKC4TnStb57OUffHmTSFWF05uwwafla1wJJog5UsaJB+h1POhF+usTx5cJS5evw7ueevbljmZmeQjvPTCzBbg1h2deDEsWHD5fIKplp2Mq30BhfVc6ZCAaCj7W3qZ+ZGG6avX3le0wimRa3fyOdDKTXZX7O5fJ1pnlxEmJBhWb0oozOoJANn8IdsQIUc+pkgzg8RwQ916K3PhdQU6H/W/ntrUCa6sl0+t9lsQa94NCVR8xcMhDJICZydmLqGq2cYvvAAyKu48zxZbbehosiUTQ3K6aTGHHtOCNZLeSE=;hrE5skDfax62GiY/7igtwA=="
 ---
 

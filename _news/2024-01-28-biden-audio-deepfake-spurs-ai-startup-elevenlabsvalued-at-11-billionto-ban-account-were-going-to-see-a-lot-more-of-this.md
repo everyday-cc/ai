@@ -52,7 +52,7 @@ related:
     provider:
       name: WSLS 10
       domain: wsls.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
         width: 700

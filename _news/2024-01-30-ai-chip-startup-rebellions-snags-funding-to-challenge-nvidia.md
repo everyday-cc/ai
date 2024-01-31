@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 144
+heat: 174
 published: true
 
 provider:
@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Krutrim, founded by Ola CEO Bhavish Aggarwal's is India's first $1 billion AI startup"
+    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India. It becomes the first Indian AI startup to gain a billion-dollar ..."
+    publishedDateTime: 2024-01-26T09:49:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup-11706261875275.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup/amp-11706261875275.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/krutrim-founded-by-ola-ceo-bhavish-aggarwals-is-indias-first-1-billion-ai-startup/amp-11706261875275.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 50
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/01/26/1600x900/Bhavish_Aggarwal_Ola_AI_Startup_1706262119561_1706262119860.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
+    excerpt: "Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader in connected TV (CTV ..."
+    publishedDateTime: 2024-01-27T09:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
   - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
     excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
     publishedDateTime: 2024-01-30T10:54:00Z
@@ -82,6 +107,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240130pd231_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
+    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
+    publishedDateTime: 2024-01-29T02:00:00Z
+    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 37
+    images:
+      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
     excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."

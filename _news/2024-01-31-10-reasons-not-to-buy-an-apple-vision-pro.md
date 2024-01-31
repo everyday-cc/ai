@@ -41,21 +41,7 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Apple Vision Pro 2: what we’d like to see from a second-generation spatial computer"
-    excerpt: "Perhaps it might just be called Apple Vision?. Here’s what we’ve heard about a second version of Apple’s spatial computer. Whether it will be a more mainstream model, or simply a follow-up – a Vision Pro (2nd generation), to use Apple’s parlance ..."
-    publishedDateTime: 2024-01-26T08:51:00Z
-    webUrl: "https://www.stuff.tv/features/apple-vision-pro-2-what-we-would-like-to-see/"
-    type: article
-    provider:
-      name: Stuff
-      domain: stuff.tv
-    quality: 18
-    images:
-      - url: "https://www.stuff.tv/wp-content/uploads/sites/2/2023/11/Apple-Vision-Pro-2-preview-lead.jpg"
-        width: 1536
-        height: 1024
-        isCached: true
 
-secured: "aL6CtcnJ+OIhgL7U84P9YacMotVAoF5+53vpqovXh6E05fbeA2c8Jlh6nfddM1MaYI+xKBbx4haEjXt9FCYw508Vs3wPrxRzxIGqEQ1IJWkIPTt0+tKrk0T6apsCyUOjDa1NQQunMzMzWxfZqNJORneXlWmWqGlBtJ7Zm54ipaEvvD2oCiTyUcTYyLIx/plxsZQJCBuS/iDAtjFRe3ZHjWh2Lb3/AX7FjCncmbNFIGlgcyGB89bgWkN2vRrlubwboif0WWPdzfQ93/FDxw6JQSQZ2t0fGZb9diPtnKyBhchxoq+WsTlkWuYuP+ntf9+xA4qE9jJwpB+0fJsv+rUQMjmUxR8X0l/6JqMlDB9Ilgk=;I/uFbjexPlHuQtMh1xpKrQ=="
+secured: "2VVFpUmcJLRFkHZPeBRSoIlZVZtn1swdtUoVfsa9FOjMlQa3EXu8zFyrn34QD+JouWBadacFXT9EPBexyHTEIGHn4sl0ZigjdBEVqNoYryF70b6XcHjE4MIakhGSHviplwu+aHdnS7uSqwC8mlpiseAcaNCupDUE5+V33+Gv0omFzIC2C7rTcCHTW2+hjbq9RQwCWtZI8M+02bHfOv1VFhvqmCUOVj97aMoC5JKwwOkQke7dKRKskwC4WfIC6dJ2vP1Cp9n11NX+ACRLwKPFn6IRct4zovNTpjVEvdSRTUaVaVmOAZTRQ7VAkkpBKUcjNDtempKmPjeU88stjzIc48j9ldyLkoZl5atvXFZ7F9UD19plWVF+eojRdLkKgBgF+STPMcuMXzZ7dBBf0DXcT+tVrvobp5ha+KasUA+Zp5uN5lDT8yyzYkeMy0avJhYfHUFY9ddx0LWjP2IxXlAilwR4jAlH6QLrjPvpgGAbbn8LNH71uromm/GlzGw15k8S2KtfA5FMbJMVL1y8RXQtyQ==;3Vq1zkULOH1yscQPFD55eg=="
 ---
 

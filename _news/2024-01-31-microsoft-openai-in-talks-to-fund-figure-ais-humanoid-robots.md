@@ -282,6 +282,20 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
+    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
+    publishedDateTime: 2024-01-31T08:00:00Z
+    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Cloud strength and AI excitement boost Microsoft revenue"
     excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
     publishedDateTime: 2024-01-30T13:46:00Z
@@ -319,6 +333,6 @@ related:
       domain: thedailybeast.com
     quality: 15
 
-secured: "sZkXHrcuipFsFTvMCLXCmB/4r7vkQqBQEA3kbDKdd+8aKUWLeUPvCylsrIXphXYk2GjRJlTbJg2ggVMDRgG+pDOFyYDYVKh9HzH5gGKXqdHGl2pyCQdXMw6uoYsuJTlSo5lRxyi70F/teAeiRPWYpKU20oFxZxT/MgIPn0f3ke+nC4K00iCBIzH/DIzgC0PXMD7p/tJmpoyeKPcb5L8wZNTSaSiBEj4c/Hoagr9erUotBR8x/Pa/8KScrEBKm5JF8bmeD3g60Z3TDTtii9RTPnEoNkSmJhH7IL/85RKTfUWBcQI5qpVNIsewe3LR37Q2SUCPar4F3i84DHe4uN4f/4+FgoSe4jXvegJtIxUgiwY=;M52pSUGBduGtmnPwZg424g=="
+secured: "N6NZOCUB/LQCJ+fBmV9FxrikT+0WNPe4k45Ud+uCAC0SY5U4nWZySwl9n/ndfP2TSMA2SD5fLAWOeeKW5qDgR56uTJkvUxUo4xhWPBFmbK7HhVzgP+vkTsyvDvBI+A9NDqa9jhrAJBKkjvllIZs5TtuE9wC2qBChStVtqBRF93S1pdl1asUsjQ8pNzGIE+KU92uIViK3QInSa3tfj3HZu9NHKeqzwrGmPPYV/L1issMMP/iu08z3WkD3g36ia0XQXKoCE+Yt6T8xESQ10qT+9bOv9eVcR+cYFQ1xdVwQhmn7Z+wRuZRkwsOgtCyix3n0+NN3qXao5WWHGqsHlLWx6Y25WYJygJpdyWWMqG9WOmL5CMgHLyzw7CErjIxdGDaPU/B3RoCSYPg8TMvSUN61EuC0TFAn/M14hVebeVrAObQVxpTwLSc+8ItoZIUNleyl8q37Nl0Ub9v56z4GePoUm3TVKcswm3OPyW3j7zFpxrktbztEVnbUQtk85NCv/IE0pTNjsAisZkRUZf3ztxjqnQ==;uPkEqvVncIkcVimF9Q5j0w=="
 ---
 

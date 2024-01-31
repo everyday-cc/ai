@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
-    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
-    publishedDateTime: 2024-01-29T13:22:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Google Cloud opens up infrastructure for Hugging Face developers"
     excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
     publishedDateTime: 2024-01-26T15:41:00Z

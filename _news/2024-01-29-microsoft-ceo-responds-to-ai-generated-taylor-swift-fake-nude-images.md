@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 324
+heat: 334
 published: true
 
 provider:
@@ -284,6 +284,20 @@ related:
       - url: "https://www.ctvnews.ca/polopoly_fs/1.6745918.1706483708!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
         width: 620
         height: 349
+        isCached: true
+  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
+    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
+    publishedDateTime: 2024-01-31T08:00:00Z
+    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Cloud strength and AI excitement boost Microsoft revenue"
     excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."

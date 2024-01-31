@@ -9,7 +9,7 @@ ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
-    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
-    publishedDateTime: 2024-01-30T09:53:00Z
-    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 49
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
-        width: 640
-        height: 362
-        isCached: true
   - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
     excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
     publishedDateTime: 2024-01-27T02:44:00Z

@@ -117,21 +117,12 @@ related:
     provider:
       name: 9to5google
       domain: 9to5google.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Screenshot_20240129_145159_One-UI-Home.jpg?quality=82&strip=all&w=473"
         width: 473
         height: 1024
         isCached: true
-  - title: "Samsung Galaxy S24 Powered By 'Galaxy AI' Sets A New Pre-Order Record"
-    excerpt: "The Galaxy S24 series offers multiple AI functions, including real-time translation of phone calls in different languages, a \"circle-to-search\" function for image search on Google, AI summaries and translation of voice recordings, and generative editing of ..."
-    publishedDateTime: 2024-01-26T09:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36801050/samsung-galaxy-s24-powered-by-galaxy-ai-sets-a-new-pre-order-record"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 19
   - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
     excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
     publishedDateTime: 2024-01-29T14:47:00Z

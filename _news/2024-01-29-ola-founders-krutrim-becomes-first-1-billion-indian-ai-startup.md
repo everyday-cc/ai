@@ -24,49 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Ola founder’s Krutrim becomes India’s first AI unicorn"
-    excerpt: "On its website, Krutrim says it also plans to develop an in-house capability to manufacture chips optimised for AI compute. TechCrunch reported earlier that Aggarwal’s new venture will explore developing and designing chips. Krutrim is Aggarwal’s third ..."
-    publishedDateTime: 2024-01-26T08:51:00Z
-    webUrl: "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/"
-    ampWebUrl: "https://techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/26/ola-founder-ai-startup-krutrim-unicorn-in-50m-funding/amp/"
+  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
+    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
+    publishedDateTime: 2024-01-30T07:54:00Z
+    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
+    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-625022782-2.jpg?resize=1200,801"
-        width: 1200
-        height: 801
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
+        width: 600
+        height: 314
         isCached: true
-  - title: "Ola Founder Bhavish Aggarwal's Krutrim Becomes India's First AI Unicorn"
-    excerpt: "Bhavish Aggarwal's AI startup Krutrimt has become India's first AI unicorn after successfully closing its first funding round with a remarkable $50 million investment led by key investors, including Matrix Partners India. \"At Krutrim, we are committed to ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ola-founder-bhavish-aggarwals-krutrim-becomes-indias/468894"
+  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
+    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
+    publishedDateTime: 2024-01-30T03:43:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1706335388-newbhavish.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "6 Job Openings for Responsible AI and Ethics in India"
-    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
-    publishedDateTime: 2024-01-29T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 54
     images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Krutrim, founded by Ola CEO Bhavish Aggarwal's is India's first $1 billion AI startup"
     excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India. It becomes the first Indian AI startup to gain a billion-dollar ..."
@@ -84,72 +70,84 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup"
-    excerpt: "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion."
-    publishedDateTime: 2024-01-27T05:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/articleshow/107175284.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms"
+  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
+    excerpt: "Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader in connected TV (CTV ..."
+    publishedDateTime: 2024-01-27T09:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 50
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
+    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
+    publishedDateTime: 2024-01-30T10:54:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 48
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107179736,width-1280,height-720,resizemode-4/107179736.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
+        width: 780
+        height: 520
         isCached: true
-  - title: "Ola backed-Krutrim becomes India's first AI startup to get Unicorn status with $50 million funding"
-    excerpt: "Ola's Bhavish Aggarwal-backed Krutrim has raised $50 million in funding, with Matrix Partners India to become India's first AI startup to get the Unicorn status. Now, the company plans to expand beyond language models,"
-    publishedDateTime: 2024-01-29T03:44:00Z
-    webUrl: "https://www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html"
-    ampWebUrl: "https://www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/ola-backed-krutrim-becomes-indias-first-ai-startup-to-get-unicorn-status-with-50-million-funding-13663722.html/amp"
+  - title: "Nvidia: Don't Chase AI Too Far"
+    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
+    publishedDateTime: 2024-01-29T00:59:00Z
+    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 43
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/Ola-backed-Krutrim-becomes-Indias-first-AI-startup-to-get-Unicorn-status-with-50-million-funding.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1024
         isCached: true
-  - title: "Krutim’s 2 trillion token LLM is India’s first AI unicorn"
-    excerpt: "Krutim, a generative AI company that can converse fluently in multiple Indian languages achieved the status of India's first AI unicorn."
-    publishedDateTime: 2024-01-27T05:43:00Z
-    webUrl: "https://invezz.com/news/2024/01/27/krutims-2-trillion-token-llm-is-indias-first-ai-unicorn/"
+  - title: "Nvidia GTC to bring together renowned AI industry leaders"
+    excerpt: "Jensen Huang, Nvidia's founder and CEO, will make a keynote address at the forthcoming GPU Technology Conference (GTC) in mid-March 2024. Given its high level of sponsorship, the annual conference is expected to attract well-known AI leaders, according..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.digitimes.com/news/a20240130PD231/nvidia-gpu-conference-ai-tsmc.html"
     type: article
     provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 37
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
     images:
-      - url: "https://invezz.com/wp-content/uploads/2024/01/mother-daughter-indian-laptop-phone-1024x535.jpg"
-        width: 1024
-        height: 535
+      - url: "https://img.digitimes.com/newsshow/20240130pd231_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
-  - title: "Ola founder Bhavish's Krutrim becomes first $1 billion Indian AI startup"
-    excerpt: "It becomes the first Indian AI startup to gain a billion-dollar valuation, a mere month after debuting a large language model, the firm said in a blog post"
-    publishedDateTime: 2024-01-26T10:39:00Z
-    webUrl: "https://www.business-standard.com/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/ola-founder-bhavish-s-krutrim-becomes-first-1-billion-indian-ai-startup-124012600544_1.html"
+  - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
+    excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."
+    publishedDateTime: 2024-01-29T10:00:00Z
+    webUrl: "https://www.nytimes.com/2024/01/29/technology/ai-chips-nvidia-amazon-google-microsoft-meta.html"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 36
-  - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
-    excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
-    publishedDateTime: 2024-01-27T12:51:00Z
-    webUrl: "https://www.gadgets360.com/internet/news/krutrim-ai-startup-first-indian-unicorn-bhavish-aggarwal-4942613"
+      name: The New York Times
+      domain: nytimes.com
+    quality: 34
+  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
+    excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
+    publishedDateTime: 2024-01-27T20:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23645298/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 15
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
+  - title: "Singtel partners Nvidia under new direction to build new green AI-ready data centres"
+    excerpt: "SINGTEL will shut down five of its older data centres as it shifts its focus to building greener, artificial intelligence (AI) ready data centres under a new brand, Nxera, the telco announced on Wednesday (Jan 31)."
+    publishedDateTime: 2024-01-31T03:30:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/singtel-partners-nvidia-under-new-direction-build-new-green-ai-ready-data-centres"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 12
 
 secured: "23MIsGqjT3HFgQ6ai+clj7wnm4FjtA5iqcUxZM/8uHcetk+cr6QOZp7o8N7adN1nbw714UjrlqqzWkffkaKc05v5Mwzoqp7ytEjcFvfsSxeJvYcmx3XjYBPCPEUqhCfzjCTec1vqy/6hmufUGQAxlDScQkHhhyqWmhl0fF2yID4eLRLHcaAe4Se1xAqRRRT7YZ+Gy/RbvHVIf62xRVGsl+pIX8ROZTtIi6Fkj0K6rWINefXfrHHLY+nTYpNm9KJ+4FhBQ5pWMQLb1zVQRhlPGJwXDDptfEpsKpXPHdhhpAanGGdVTf4+fOHi9Xmpih4DOgadIL8RCuu22IJG7yKhjRzgC3aXlQAJV1wFH7YAXVQ=;K4WBnYTF8IPrO82ngUkZ8w=="
 ---

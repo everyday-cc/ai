@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence needs theology"
-    excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
-    publishedDateTime: 2024-01-26T07:32:00Z
-    webUrl: "https://www.christiancentury.org/editors/artificial-intelligence-needs-theology"
-    type: article
-    provider:
-      name: The Christian Century
-      domain: christiancentury.org
-    quality: 39
-    images:
-      - url: "https://www.christiancentury.org/sites/default/files/styles/facebook_ratio/public/images/022024-ai-theology.jpg?h=4bb898aa&itok=xMLz5fBL"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Use Artificial Intelligence to fight insecurity, Gachagua tells regional security chiefs"
     excerpt: "Deputy President Rigathi Gachagua has called for the integration of artificial intelligence and other forms of technology to enhance security in Eastern Africa. Speaking in Mombasa when he officially opened the Mashariki Cooperation Conference,"
     publishedDateTime: 2024-01-28T14:34:00Z
