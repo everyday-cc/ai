@@ -44,6 +44,20 @@ related:
         width: 3500
         height: 2279
         isCached: true
+  - title: "Microsoft and OpenAI Fuel Robotics Surge with $500M Figure AI Investment"
+    excerpt: "Microsoft and OpenAI, backed by Redmonds tech giant, spearheaded a funding round that generated more than $500 million for Figure AI, a robotics business. Microsoft, OpenAI Reportedly Lead $500M Fundraising Round"
+    publishedDateTime: 2024-01-31T14:34:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-and-OpenAI-Fuel-Robotics-Surge-with-500M-Figure-AI-Investment-1670588"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 85
+    images:
+      - url: "https://f1.econotimes.com/2024/01/71ssczxu6w_th_1024x0.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z

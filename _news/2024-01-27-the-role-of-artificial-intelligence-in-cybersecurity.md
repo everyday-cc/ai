@@ -19,29 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Why AI Methods Need Heightened Security"
-    excerpt: "The company has blended talent disciplines from cybersecurity and deep learning and they are now entering their fifth year of software development of their secure AI risk platform that covers computer vision, natural language processing, machine learning ..."
-    publishedDateTime: 2024-01-26T15:41:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
+  - title: "The Role of Artificial Intelligence in Cybersecurity: Strengthening the Defense"
+    excerpt: "Introduction: In the rapidly evolving landscape of cybersecurity, the integration of Artificial Intelligence (AI) has emerged as a game-changer. As cyber threats become more sophisticated and pervasive,"
+    publishedDateTime: 2024-01-29T11:35:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity-strengthening-the-defense/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b3cc5450e1d7610d2631ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/The-Role-of-Artificial-Intelligence-in-Cybersecurity-Strengthening-the-Defense.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Use Artificial Intelligence to fight insecurity, Gachagua tells regional security chiefs"
-    excerpt: "Deputy President Rigathi Gachagua has called for the integration of artificial intelligence and other forms of technology to enhance security in Eastern Africa. Speaking in Mombasa when he officially opened the Mashariki Cooperation Conference,"
-    publishedDateTime: 2024-01-28T14:34:00Z
-    webUrl: "https://www.the-star.co.ke/news/2024-01-28-use-artificial-intelligence-to-fight-insecurity-gachagua-tells-regional-security-chiefs/"
+  - title: "Artificial intelligence features, cybersecurity measures add to websites' complexity"
+    excerpt: "How have advances in cybersecurity complicated web design processes in recent years? \"Advances in cybersecurity have not really complicated the actual creative design of websites. But with increasing client requirements,"
+    publishedDateTime: 2024-01-31T11:45:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/01/31/design-firms-ai-cybersecurity-q-and-a.html"
     type: article
     provider:
-      name: The Star
-      domain: the-star.co.ke
-    quality: 25
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 10
 
 secured: "CgfSqoCRGdW4HFwbxkX9D1YXNGilCnay9zBgs3dlrdyHh7a4sU7iBJkpQPR4IOlUzKPPZ2LA0Enix7vhNaqZCl9DXwVWW5aocBRz8Q18Qq0nuh3Lfnx4DQnbjcwDnu2dLpvTRZ/oCpENri3P1RK+emiRcbHxEfpmu4g+CqiyU/mlzAesfDXGUQZUx/afECRpHO6qEI596D/aaNElOsbFmR6Y6uofPIXXC6H+H42vKVJda/SGWbQ7R7JvpKMZOdcMU929Mjx4G3pmDIlhOfA1Oqa3OcTHymtLaJzlWq95Wo+YbSKVWZ4quPSqR3F0T+yXDQPOhe3248auiOw5uKmY87T+6Xoljj+4kE3HqlXUEqymUWmSk77QjOcbOERu7L+VPLkMdtXTChcLfW2t+Frm0HidG/AqRNYIVDGwQlOjmcu4r5bZMefrvJTQXwWQz6FWYXVcCeCAPGJ0kX2s3zGJaT8+JVnaYEukR3gs1PnTSCYSVaBP1n7Y03BYg+qHUFqUcCd/o41iUSNYyoticxcFRw==;2xOTyRyn27M+0lVENXFVzQ=="
 ---

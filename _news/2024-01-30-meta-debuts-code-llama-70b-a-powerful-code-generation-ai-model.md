@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 171
+heat: 179
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
         width: 2400
         height: 1260
+        isCached: true
+  - title: "Meta Releases Code Generation Model Code Llama 70B, Nearing GPT-3.5 Performance"
+    excerpt: "Code Llama 70B is Meta's new code generation AI model. Thanks to its 70 billion parameters, it is \"the largest and best-performing model in the Code Llama family\", Meta says."
+    publishedDateTime: 2024-01-31T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2024/01/code-llama-70b-released/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 20
+    images:
+      - url: "https://res.infoq.com/news/2024/01/code-llama-70b-released/en/headerimage/code-llama-70b-released-1706709602051.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MmGVfKDHywwxy7uSBKj/xwMj4stT6yaEFMAZigx/RTASFRTYINzMUkBt9qa3SWNlFfj19TUnvhFpZQwahO+bzdI2wnrrpAJPreRx34WCHp47ZVPTK7xmsgiff7j/ZqvAtKZD3tn5RBpXXzVcMHVmjaNKpCVD12xddvSas4E84lifmZ/ML7HUZxcsCw+/o8qKSA40R1RlitcWI1sTkjnnGPEokXopBwn2UzqLQ4VycBjB8W1yAXpdgHnmbZvBl9OpHWpBe6p4jsgBqx340BMlBnEmZ70K9+O/QUtCH8d5xDhltTol2a2l7royHAXBzBZDh3dkAzjRB7S03N0GRoTEmqBVNsTro7fTkQ14CmrG4oc=;syeLbsZNKUPBbCjwZdBKtA=="

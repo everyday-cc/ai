@@ -43,6 +43,15 @@ related:
         width: 1260
         height: 504
         isCached: true
+  - title: "AI, new projects to jumpstart tech hiring in 2024"
+    excerpt: "2023 was marked by fluctuations between tech talent availability and the end of big tech overhiring, but analysts expect the tech jobs market to return to more steady growth this year."
+    publishedDateTime: 2024-01-31T13:57:00Z
+    webUrl: "https://www.ciodive.com/news/IT-workforce-tech-talent/706070/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "0SC0jNzxIGU4XCvNZdTTbc5xh8ZJ+uO6P4Pyx72xB7Z1uqPAE9l3ElMveisHBZEPgMC3LVhhtP1+bYc41lzcX5vbJezQW452rv048xWQLTZvL5i+9ORIQeeU9ZWreY18fQI+qrP7MYqoVRscD72vwmvNHJSLxPGE1uOFkMRUfhmGlbpxrRQzjPjK9pe0j3+BbGMTsM8CBYulvtkLeqP3oioiZwUi5hMpBQF8XqwavHg82pje8owXMnrSh5KgUPXtGqHWJonMsQ6ydTHRHZ5/fQujtZDIWinogNXRn3aln/WoKEY+PHgmJBgs0YCNG38E4t1AjISveq4azcIp9KItVSMl4jVgulAuq/nGlI30LUo=;x/r3dJdJsEu5+0M42eRSdw=="
 ---

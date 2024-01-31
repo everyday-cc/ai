@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Artificial intelligence investors spend big. Is it just hype?"
-    excerpt: "Artificial intelligence bets on Wall Street are huge. But some experts warn investor optimism around AI growth may be irrationally high."
-    publishedDateTime: 2024-01-26T16:19:00Z
-    webUrl: "https://www.marketplace.org/2024/01/26/all-aboard-the-ai-hype-train/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 37
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1246495499_MICROSOFT.jpg?fit=2000%2C1125&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "y95fRBTVZ4zgr2OxJMjXj3JwhA4TSQCPnTwHtAY59aFlxzzmhsrcPhk17Vvx1b5n/nrJJgYhKxFD5RSu6prGPkL2kNA684lcK/SxrK/dhI6i5uREAnlVgyieRESLSx9qreGXuwJLGD760He4DAWCsAmbt3c3ox7X+h+iCeinLWTaHV3tLHgcfLf7kC8KHiCnOaH0+R0CP+iiBsYGkFNNpXLoJoD18rZ9v2iewK0rHPyuxN9t5TEKT5vF2+J06Eg5YvnEoXoD/2Lpt6w+LvFQ6X6YMkicpU0ys8Zhe32iJBkiv2WZkkkbNk8bJAWjh1xeSnnqIFVZvpcmsd75r94Hxei5ZFD91jy+bjR5YoWxVwo=;ag9O5dnCvaczC20ZVLW41A=="
 ---
 

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -334,7 +334,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
@@ -374,7 +374,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 384,
       "tags": null,
       "images": [
         {
@@ -426,7 +426,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -513,7 +513,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {

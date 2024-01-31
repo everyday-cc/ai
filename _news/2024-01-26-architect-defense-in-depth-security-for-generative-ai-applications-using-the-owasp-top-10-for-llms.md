@@ -98,15 +98,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "The generative AI smartphone age is here"
-    excerpt: "Generative AI is coming to your smartphone ... That’s because Apple controls every aspect of the iPhone, from the software to the hardware right down to the chip that powers it all. That kind of capability should help Apple ensure that the overall ..."
-    publishedDateTime: 2024-01-26T15:11:00Z
-    webUrl: "https://www.aol.com/finance/generative-ai-smartphone-age-201110917.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
   - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
     excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
     publishedDateTime: 2024-01-30T12:26:00Z

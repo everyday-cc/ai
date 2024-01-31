@@ -44,6 +44,20 @@ related:
         width: 900
         height: 900
         isCached: true
+  - title: "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction"
+    excerpt: "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice."
+    publishedDateTime: 2024-01-31T15:00:00Z
+    webUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "OpenAI updates ChatGPT-4 model with potential fix for AI “laziness” problem"
     excerpt: "OpenAI announced updates to the AI models that power its ChatGPT assistant. Amid less noteworthy updates, OpenAI tucked in a mention of a potential fix to a widely reported \"laziness\" problem seen in GPT-4 Turbo since its release in November."
     publishedDateTime: 2024-01-26T17:26:00Z

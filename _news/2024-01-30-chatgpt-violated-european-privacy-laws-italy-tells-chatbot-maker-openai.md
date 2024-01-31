@@ -28,6 +28,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "OpenAI in talks to invest in robotics startup Figure — could we see ChatGPT powering robots soon?"
+    excerpt: "During a recent episode of Bill Gates’ podcast, OpenAI CEO Sam Altman revealed that the company is already and would continue to invest in robotics companies."
+    publishedDateTime: 2024-01-31T13:02:00Z
+    webUrl: "https://www.tomsguide.com/ai/openai-in-talks-to-invest-in-robotics-startup-figure-could-we-see-chatgpt-powering-robots-soon"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 55
   - title: "Italian Regulator Again Finds Privacy Problems in OpenAI"
     excerpt: "ChatGPT maker OpenAI has 30 days to respond to the Italian data regulator after an investigation by the agency concluded the company apparently had violated"
     publishedDateTime: 2024-01-29T22:53:00Z

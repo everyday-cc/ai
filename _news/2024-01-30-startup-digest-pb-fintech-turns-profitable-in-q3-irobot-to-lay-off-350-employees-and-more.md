@@ -164,6 +164,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Techtrust launches fintech talent hub"
+    excerpt: "IT staffing firm Techtrust has launched a database to help fintech companies in the US find top talent. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2024-01-31T14:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43616/techtrust-launches-fintech-talent-hub"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Yara Technologies enters African market, targets rapidly-growing fintech market"
     excerpt: "Yara Technologies, Sri Lanka’s premier edfintech company, expanded into the African market by partnering with Meus.... .."
     publishedDateTime: 2024-01-30T19:16:00Z

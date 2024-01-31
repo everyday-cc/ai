@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Budget 2024 Live updates: Fintech industry awaits initiatives for digital infrastructure and financial inclusion"
+    excerpt: "One day to go! Union Finance Minister Nirmala Sitharaman is all set to announce the interim Budget 2024. Be it industries, job seekers, students or senior citizens, India has shared its wishlist with the government."
+    publishedDateTime: 2024-01-31T16:17:00Z
+    webUrl: "https://www.cnbctv18.com/economy/budget-2024-expectations-live-updates-nirmala-sitharaman-itr-income-tax-slabs-defence-healthcare-auto-hra-liveblog-18921341.htm"
+    ampWebUrl: "https://www.cnbctv18.com/economy/budget-2024-expectations-live-updates-nirmala-sitharaman-itr-income-tax-slabs-defence-healthcare-auto-hra-liveblog-18921341.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/budget-2024-expectations-live-updates-nirmala-sitharaman-itr-income-tax-slabs-defence-healthcare-auto-hra-liveblog-18921341.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 38
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2024/01/union-budget-1280x720-1-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
     excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
     publishedDateTime: 2024-01-29T09:33:00Z

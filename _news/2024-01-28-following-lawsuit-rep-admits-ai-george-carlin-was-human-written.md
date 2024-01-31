@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy
 webUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Ars Technica
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "George Carlin’s heirs sue comedy podcast over “AI-generated” impression"
-    excerpt: "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\""
-    publishedDateTime: 2024-01-26T16:11:00Z
-    webUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Man Behind ‘AI’ George Carlin Has Plan to Literally Resurrect Himself"
     excerpt: "Turns out artificial intelligence wasn’t behind that “new” George Carlin stand-up special. But the guy who actually wrote it has clearly thought a lot about coming back to life."
     publishedDateTime: 2024-01-30T20:00:00Z

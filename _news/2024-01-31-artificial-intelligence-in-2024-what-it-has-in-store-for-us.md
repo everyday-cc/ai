@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 153
 published: true
 
 provider:
@@ -75,6 +75,24 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "AI In 2024: Beware Hallucinations, Pinpoint The Problem And Never Replace The Human Connection"
+    excerpt: "While we’ve seen conversations of AI \"replacing\" humans, we already know that to get AI to do its job, humans still need to be the subject matter experts."
+    publishedDateTime: 2024-01-31T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/ai-in-2024-beware-hallucinations-pinpoint-the-problem-and-never-replace-the-human-connection/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 35
+  - title: "AI Predictions for 2024: Moving forward with precise systems that combine power, security, intelligence, and ease of use."
+    excerpt: "Hard truth? More and more attacks will utilize AI. Artificial intelligence (AI) has been table stakes in cybersecurity for several years now, but the broad adoption of Large Language Models (LLMs) made 2023 an especially exciting year. In fact, LLMs have ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.csoonline.com/article/1302663/ai-predictions-for-2024-moving-forward-with-precise-systems-that-combine-power-security-intelligence-and-ease-of-use.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 13
   - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
     excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
     publishedDateTime: 2024-01-29T20:24:00Z

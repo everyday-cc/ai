@@ -232,15 +232,15 @@ related:
         width: 830
         height: 553
         isCached: true
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
+  - title: "Microsoft, Alphabet and AMD struggle to meet AI expectations"
+    excerpt: "All three took pains to highlight progress on AI. In AMD’s case, the company predicted that its new AI processors will generate even more sales than expected. Microsoft touted how users were embracing its AI assistants, and Google said the technology was improving its search and cloud computing services."
+    publishedDateTime: 2024-01-31T12:40:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/microsoft-alphabet-and-amd-struggle-meet-ai-expectations"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 36
 
 secured: "u0I+eJyST0irXL3z85kYcNTi7xPbmMVMsb8o13eHySMq/hBYUBXnJpT7DnB0Cn9vMP69hsvx2LGM7Z96Ha4RMzH5X/3Hi5c0Jh6BW/xONXaffL6iY7GYsKI6KqZaTG2HcvKyNZDw0jAJlqhlW/zpoScG0jQepeJb+zCLTFWyFtKuOeX0viKyWu2cx1k8cU8Et0wJlwlIDXZzkfSIGhPSA08uI47OWqgFLKE1MkDbO/tutW7+s4d5mMOP2lOcTRLbHwKl7nh968nKLzdIy8yEI/0odqMjOi6P/xR4IiriBJjX0TDY5Sm5Y++eHAOGjxthLjoi7pPD5kUIB40vAwhfyE43LqJoTXBPqvqmWfoXQa8=;HkVWbfWyZs75FZpLCy2Yqg=="
 ---

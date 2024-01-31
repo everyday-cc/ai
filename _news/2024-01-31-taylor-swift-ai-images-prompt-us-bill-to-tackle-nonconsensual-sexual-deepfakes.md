@@ -3,14 +3,12 @@ category: news
 title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
 excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
 publishedDateTime: 2024-01-31T01:17:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
-ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
+originalUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ICID=ref_fark"
+webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ICID=ref_fark"
 type: article
-quality: 53
-heat: 73
-published: true
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -22,12 +20,6 @@ provider:
 
 topics:
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3"
-    width: 620
-    height: 372
-    isCached: true
 
 related:
   - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
@@ -60,7 +52,35 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Taylor Swift deepfakes: a legal case from the singer could help other victims of AI pornography"
+    excerpt: "In between her record-shattering Eras tour and cheering on her NFL-star boyfriend Travis Kelce, Taylor Swift may be gearing up for a history-making legal battle over AI pornography. Swift is reportedly preparing to take action against distributors of “deepfake” images of her."
+    publishedDateTime: 2024-01-31T16:26:00Z
+    webUrl: "https://theconversation.com/taylor-swift-deepfakes-a-legal-case-from-the-singer-could-help-other-victims-of-ai-pornography-222113"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 27
+    images:
+      - url: "https://images.theconversation.com/files/572442/original/file-20240131-27-eqhekr.jpg?ixlib=rb-1.1.0&rect=0%2C125%2C4200%2C2100&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
+    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
+    publishedDateTime: 2024-01-26T22:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
+        width: 1021
+        height: 739
+        isCached: true
 
-secured: "5It0IAranzLXe+WPEUxbqqDTsuqVzb3FxI4F3cFfIAUziIjZX2oFJ2yNht72pYGoX/QYXTfjamENQn5fXsNRUly88kJ46wEv/oDKyrqT7uj/0GFK/tVdS+YCryTFQ6LZ5alLoIDI5FGxUJNm1Xc7T/ypEFFTStL28aRPfu751kUtgqZum2x/lNGuU+mivcn1Eqyp9wqoFv+yCFmnPagklrVzigoqo0pEU5ItvTrnyw2zQut8cv7J2PaD33hoiT0XyAg7Y1n6OBfqb+7P0jSmJccl+/mnyaS0y7nRHuEkSYAymnEah9+zedPoU+cjxXvete8LosWCsSh4SXOxCWGDWpLxThmRKvMU2QGVMJptjWvu8QjKFwfM/sofdwJ3Ny+rVvrcbZ4jEwEti9bM3KXXGQy3HuwmpmKocTE1oFcrL2N7w7xZiaL0/Q+VbIJcCJsq+k+iLanng4K9Ztw9GXwEtKYNmdoUUAwRqG3iJOMjrOgkKCgVZbp796SZ99PsfpfSLuOzN/bASAXH0mUaHGBaWA==;5zog2BPzh79XtHVxxORMlw=="
+secured: "i9H7K27LTlx5H3NljGKEd6RoytrL6iWab20CpF4YySYe9bmBvcPMvxPMUVmDVu0oaTxMUkA1O7WwTKp0CBP+prI+1dO2L+wOyTsb6PBK9IsbufItCfI7ySmKcYdQw9wo3PP8nVD75aoT9JKcOFY9q9DU9n5Ie5Zt/u/RA/1JteJAex9HdTqHCQtyXcXhXMJQECRwXKwMYnJnrdc2R9FP7F7heaJnCZJp2UvD3n/KRGBnD3WVjQ0zAoDCsHsG79m9GhNIgEOHzBFUlhig13oJ0ocKKoZ64aCBLz+hPfhSFe/+rE/CfskYFqtSQqVpgaRcaWkLdH7M+2wWStTuLqA5jRh2PK++o98I/at/TWx7SlAVq/3Vl+5PDIS4pBdNiziOrkrKODAKImiERt7jf6vpjI7jgRl4ekIRMIBROssuMTqp9s0xTaCaf9buk/Ek/fx09zBa+cPjz8V1CSrdueYpu+ckGkFOxny5yC5OLo7FfKi9TXvk3ZBhlDOzBYcMQC7QS2vg2L284MaZ+YSVnpJ5KQ==;dTGNqDksNSd/yhLUMqlNJQ=="
 ---
 

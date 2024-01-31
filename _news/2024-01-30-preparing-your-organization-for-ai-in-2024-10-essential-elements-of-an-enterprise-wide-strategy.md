@@ -78,6 +78,24 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "AI In 2024: Beware Hallucinations, Pinpoint The Problem And Never Replace The Human Connection"
+    excerpt: "While we’ve seen conversations of AI \"replacing\" humans, we already know that to get AI to do its job, humans still need to be the subject matter experts."
+    publishedDateTime: 2024-01-31T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/ai-in-2024-beware-hallucinations-pinpoint-the-problem-and-never-replace-the-human-connection/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 35
+  - title: "AI Predictions for 2024: Moving forward with precise systems that combine power, security, intelligence, and ease of use."
+    excerpt: "Hard truth? More and more attacks will utilize AI. Artificial intelligence (AI) has been table stakes in cybersecurity for several years now, but the broad adoption of Large Language Models (LLMs) made 2023 an especially exciting year. In fact, LLMs have ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.csoonline.com/article/1302663/ai-predictions-for-2024-moving-forward-with-precise-systems-that-combine-power-security-intelligence-and-ease-of-use.html"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 13
 
 secured: "Ri4Sra9qwhKy7eHzMyoh6TVi5rhGDYdi/kVEphSR4ugioLvmxshdFM5mgJpimP4F21bylC4QDpcLWe6E+CemXWuTyux1xImlz3EeiHtXe+WiwVeygQEX6nsZSEtSpIvEecjkSrM3TvYUhFL1oZr+DrMlbllU88qABzpZiIUvUHYLIIKe+l2W3gau5f869uC0QdNHkK6+7grEJ22YlJ0gUAXydqgHfzZQ+UcZL2RjADM1+FsJueXs4pYbrnNNIdT6mBJGbf3DDhdFru6IrjK69RCkErF9U5mPNKeYPao5BE0PwHar8ga/MRltr9fs7B6pXN7gFNoPDGNKJ/A6BUZ8ekduXQDRJ3CQhLGHl5Tb/i1Sp3BDRTAv/ep+6zoMd9lS6/bE2tZkN1d9fgufxLO2BllXM4SAYfqSVMGKlY93X7ekoKnHICrOXapZbp5Fpgz4B0pDFYyTsplgQ8bjA798W/xW9H4G3jj41Atipl5L7KIxZ7bl+Lk8APSX+/LIu4ZYSVVXRjT6KZBKByu0vOzCSg==;iwILJMHM74b791jWefT34Q=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -103,6 +104,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-28-ai-breaks-the-bank-80-of-jobs-find-replacing-humans-costly-reveals-mit-study.md",
+      "title": "AI Breaks the Bank: 80% of Jobs Find Replacing Humans Costly, Reveals MIT Study",
+      "excerpt": "A recent study by 5 MIT researchers reveals that replacing human operated jobs with AI is al lot more expensive due to large upfront cost.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/ai-jobs-replacing-humans-costly-mit-study/",
+      "originalUrl": "https://beebom.com/ai-jobs-replacing-humans-costly-mit-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2024/01/Man-fearing-robot-may-take-his-job.jpg?w=1250&quality=75",
+          "width": 1250,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/ai-jobs-replacing-humans-costly-mit-study/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/ai-jobs-replacing-humans-costly-mit-study/amp/",
+      "publishedDateTime": "2024-01-28T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1322,49 +1367,6 @@
       "provider": {
         "name": "International Banker",
         "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-indias-adani-group-takes-bold-leap-into-ai-with-uaes-ihc-partnership.md",
-      "title": "India’s Adani Group Takes Bold Leap Into AI With UAE’s IHC Partnership",
-      "excerpt": "Adani Group collaborates with UAE's IHC, forming Sirius Digitech to lead AI, IoT, and blockchain innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
-      "originalUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://coingape.com/wp-content/uploads/2023/12/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
-      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/india-adani-group-takes-bold-leap-into-ai-with-uae-ihc-partnership/amp/",
-      "publishedDateTime": "2023-12-28T10:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coingape",
-        "domain": "coingape.com",
         "images": null,
         "publishers": null,
         "authors": null

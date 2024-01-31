@@ -1,25 +1,25 @@
 ---
 category: news
 title: "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order"
-excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing \"one of the most fascinating combinations in the world\" in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year shy of ..."
-publishedDateTime: 2024-01-27T23:13:00Z
-originalUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
-webUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
+excerpt: "He is the go-to person on the technology and has the ear of Pope Francis as well as some of Silicon Valley's top engineers and executives."
+publishedDateTime: 2024-01-27T21:45:00Z
+originalUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
+webUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Richmond
-  domain: richmond.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/28/4281811b-659c-5c3c-b39c-70f01ea5c625/65adbff409ac0.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -44,6 +44,6 @@ related:
       domain: columbian.com
     quality: 19
 
-secured: "4IZjyMlkU6x7Y2BtXZHQe1aCxNHwAyJJ3xYYUh+jYJ3QLPP3CadGy4m4lmoZo4CeISGPKWOMPZJxTVRGl8qeSbaDYAd4al84cjSI4NhEcPpt8DyZxK5UIsaR3ER1Zl1NSe+u8jlE30znwfU+1k2AzEuLHQzK0AK2kypZ3h8hzPjjBTTM50z7dLWa6MOc7/PI5IEXav4SMBAheUNg3/iAySyArThc2D4jOQs++s73R2SWOKKauBAm7HBH9ZtN4Go9+rRa5POLiZ/hkE5ZTrr8OCLKVQav8ZF/AfGNZSLKN7W/1tacCpy5KD6V8hhy6Doy8DD+CJDoNFjRN0NsUDepDqtT76UyTtXGzfvmWLeLObs=;v4ZpCi6a1CdCEqumN93Uhw=="
+secured: "QfRsy+R0kBVQMugXBEDsgTHQqWTeVlt76FGAtTGsOPtmdbG4N8eXskq5sWxyNL3AdxjdimsGV6bmzJtAUzwg6xRojS62mtsFUBJuZSHPlLXR5HfiNAHZFUgb0t9TkYzLNHzPyqn+khPuzvDcPBlVh4v5RghOY2+L7ZY3JCVl0wXY8EQ/nnhWgR5qEMIRSkSK6QZnMwE70EPCUjVXap0M4cUH/615G8fSEBR8EheJt3XkGTJtA7DwqLcAbAwCmv4VKW/GYTUErB4JrXE8VmeIDI1VoG70pFOcBTXy4CB6HgrphKeJ2F8ZWkpOqOFnA4SOixRA3VgkxzbLSjIJbfkzRXkJs/9lbr55pjJtiQto2lQ=;GFxnhMge0W2A7NaaoSmarg=="
 ---
 

@@ -227,6 +227,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Microsoft, Alphabet and AMD struggle to meet AI expectations"
+    excerpt: "All three took pains to highlight progress on AI. In AMD’s case, the company predicted that its new AI processors will generate even more sales than expected. Microsoft touted how users were embracing its AI assistants, and Google said the technology was improving its search and cloud computing services."
+    publishedDateTime: 2024-01-31T12:40:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/microsoft-alphabet-and-amd-struggle-meet-ai-expectations"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 36
   - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
     excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
     publishedDateTime: 2024-01-30T00:35:00Z
@@ -236,15 +245,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 19
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
 
 secured: "UgeGdxoZvElTYgGXlheMYcb3JShWejIUKY/C0ePtRt9cWr9birIxlINSm+GIyy8G5wqd7Kp9vyIHHO2YxyHsIiY78pd3ofEWzY3lRtuGKcikZ39rM3ZNbA35WfDMcoIKxV0kE+t6DxZjE5MQLY/n6lptPAiRGxl7EB4AcNDIlqTj8qGVZ+dOerfCsphLZdxFlMmUdvKBJ/gWwEwjb9ztR+VodzF+Kanjkcpq707b3c9+iz3ygWGdHv7uZfzT8hVDKEo1rWkvzXmE5Vzok4VgOCZgdyml33CHEbInGr1zCPCNHP+rFOlOAPzCt7t39UuOi5OTzM8FoJRe5y3D9AqkkxdqSXZ44MB/3wSKeTjobwRT7zss5oAES0pcSupxBQd+1zx+MYQ/V4JM94HAATJAFeIUYTujt5Z2ltNjaxTgc19c463mqtawCMB/sLIWK1CUyVRqjQbi7o327lWYtgvnpF6fLXDGU7s6uHq7yPfl9kd0LvWZcfjdw2r4DY3/XH44bgjkGd4LUckVbS7tbJ3frA==;4Iwu+TBo1FnqS7c5048OTQ=="
 ---

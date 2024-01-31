@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
-    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
-    publishedDateTime: 2024-01-31T01:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
     excerpt: "How lawmakers hope to create a federal, baseline protection against AI abuse and uphold Americans' First Amendment rights online."
     publishedDateTime: 2024-01-29T23:47:00Z
@@ -57,6 +41,43 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Taylor Swift deepfakes: a legal case from the singer could help other victims of AI pornography"
+    excerpt: "In between her record-shattering Eras tour and cheering on her NFL-star boyfriend Travis Kelce, Taylor Swift may be gearing up for a history-making legal battle over AI pornography. Swift is reportedly preparing to take action against distributors of “deepfake” images of her."
+    publishedDateTime: 2024-01-31T16:26:00Z
+    webUrl: "https://theconversation.com/taylor-swift-deepfakes-a-legal-case-from-the-singer-could-help-other-victims-of-ai-pornography-222113"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 27
+    images:
+      - url: "https://images.theconversation.com/files/572442/original/file-20240131-27-eqhekr.jpg?ixlib=rb-1.1.0&rect=0%2C125%2C4200%2C2100&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
+    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
+    publishedDateTime: 2024-01-26T22:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
+        width: 1021
+        height: 739
+        isCached: true
+  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
+    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
+    publishedDateTime: 2024-01-31T01:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ICID=ref_fark"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 13
 
 secured: "YF2PdfATQ2qNvHrD4NWHXSJxCveJ+zNwdgE+fOp972vxGwvWY7C9AdfCoy9LhN0ijXBzPy/khDDYgKid1eXNBLwvEipSDXAf7WFMWu0XodBXohBI8HWkdGHiHQxoO0RWe5uIiI7nz8w5x4Xy060nf+nrMVoRlORloyjNl/8Rzh6qngFXdPbEvD2C2v5SRYWJoqdCFH/WQrltx85ELbcEbRpPsYmZHnUjlpInYufdzsg1+j7kGmBg1JKGHveaqxcbD8T5OpJ1ElstZQDGoCzsE+1wgLF7pP/3nAeMhzwLi/m4vj+1o9gTtA3nDzMuowmcwuuJWF/grEiQ0WK6g3Xve2rnecyY+h6cYcVTcg81B1Ax8IT2OeW97qAuxMgqYGNNyG99yFJP9c6+fKylMXiwYMiliAZief3cEMRiQ3UE1D2ml8AuGotzua8EedKC+8LjkjmR1r16NxM1YFpuu1sK9zeS32vBzfwlYu5sjvw4gHYRz1JRaSHQ5hZluzo0arsSFbTHHQBpF0LHE72AbhGDGg==;KD5+GuF3lxE2ajBjw2+GBw=="
 ---

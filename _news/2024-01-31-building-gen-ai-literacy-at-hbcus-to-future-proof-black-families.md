@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai
 ampWebUrl: "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

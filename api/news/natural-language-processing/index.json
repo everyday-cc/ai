@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-01-31-washington-state-to-develop-guidelines-for-agencies-using-generative-ai.md",
-      "title": "Washington state to develop guidelines for agencies using generative AI",
-      "excerpt": "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations.",
-      "sourceUrl": null,
-      "webUrl": "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "originalUrl": "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg",
-          "width": 648,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "cdnAmpWebUrl": "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order",
-      "publishedDateTime": "2024-01-30T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "katu",
-        "domain": "katu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-29-samsung-galaxy-s24-ultra-review-all-that-and-ai.md",
       "title": "Samsung Galaxy S24 Ultra review: all that and AI",
       "excerpt": "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features.",
@@ -342,10 +299,10 @@
     {
       "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
       "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
-      "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
+      "excerpt": "Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring products DarkIQ and Cerberus. This enhancement gives ...",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -355,11 +312,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:49:00Z",
+      "publishedDateTime": "2024-01-24T14:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -476,6 +433,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts.md",
+      "title": "Call of Duty's AI-powered anti-toxicity voice recognition has already detected 2 million accounts",
+      "excerpt": "Call of Duty's anti-toxicity voice chat moderation system has detected more than two million accounts that are being investigated. Last year, Activision announced that it would be implementing a new real-time voice moderation tool to its more recent Call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/gaming/consoles-pc/call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts",
+      "originalUrl": "https://www.techradar.com/gaming/consoles-pc/call-of-dutys-ai-powered-anti-toxicity-voice-recognition-has-already-detected-2-million-accounts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

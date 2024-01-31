@@ -224,6 +224,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Microsoft, Alphabet and AMD struggle to meet AI expectations"
+    excerpt: "All three took pains to highlight progress on AI. In AMD’s case, the company predicted that its new AI processors will generate even more sales than expected. Microsoft touted how users were embracing its AI assistants, and Google said the technology was improving its search and cloud computing services."
+    publishedDateTime: 2024-01-31T12:40:00Z
+    webUrl: "https://www.theedgesingapore.com/news/artificial-intelligence/microsoft-alphabet-and-amd-struggle-meet-ai-expectations"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 36
   - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
     excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
     publishedDateTime: 2024-01-30T00:35:00Z
@@ -233,15 +242,6 @@ related:
       name: The Tech Report
       domain: techreport.com
     quality: 19
-  - title: "Microsoft’s AI Push Has Made It the World’s Most Valuable Company. Now It Has to Prove It Can Stay There."
-    excerpt: "Microsoft is in the early stages of infusing OpenAI’s technology into all of its offerings. That raises some important questions: How much will it make from AI, and how long will it take to do so?"
-    publishedDateTime: 2024-01-26T13:34:00Z
-    webUrl: "https://www.barrons.com/articles/microsoft-stock-price-ai-chatgpt-c5019a73"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 17
 
 secured: "jzgjk4PYshBc7VuQSy456iUAez3JVQ2RyHtAPkCUNb4CKM64ePUBRhWovB4qLmpRVEPS+8aYN09UKUk//v3y3L3wsy7U33W/3fIN5W9KViLvaJUT+0QCfttmQXWdGN7+h7tpR8l8z36Rrk45kk0DR3lybA7ftZo4G0NPAsQ9vPaRqf+zhWffoOhH5fcg4E3by56Qw4N2K+OLnqscP8OW+PdzrKZdU6BYy4K0IxvCjDldX8Bxkz0Pr1/RDxxisPnbio2WuW+iGZd4B8tzSQjDYA/103jbvuxXt/5K62c9Xsq1eNFoqPe38wiMS6IGGWNCLQqd4f0sqyLHg5N5pDTICsv289sxtXqT2gDAfsA0Nog=;qj9NhVbS6UXjYmtHa1CT9w=="
 ---

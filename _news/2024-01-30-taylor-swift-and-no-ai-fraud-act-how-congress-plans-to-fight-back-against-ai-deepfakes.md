@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-pla
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
-    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
-    publishedDateTime: 2024-01-31T01:17:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ref=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/2b2d3c5637ec689c3322ce2ae98cbd51e185b2ca/0_0_5500_3300/master/5500.jpg?width=620&quality=85&auto=format&fit=max&s=112465229a5bd66a6d98903b44505ef3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "How Taylor Swift’s Experience With ‘Deepfakes’ Can Help Students Examine AI Ethics"
     excerpt: "Bordeaux, 17, has studied artificial intelligence in her journalism and yearbook class at Dawson County High School in Dawsonville, Ga., so she knew immediately that she was looking at “deepfakes”—AI-manipulated video, audio, or photos created using someone’s voice or likeness without their permission."
     publishedDateTime: 2024-01-30T22:11:00Z
@@ -56,6 +40,43 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Taylor Swift deepfakes: a legal case from the singer could help other victims of AI pornography"
+    excerpt: "In between her record-shattering Eras tour and cheering on her NFL-star boyfriend Travis Kelce, Taylor Swift may be gearing up for a history-making legal battle over AI pornography. Swift is reportedly preparing to take action against distributors of “deepfake” images of her."
+    publishedDateTime: 2024-01-31T16:26:00Z
+    webUrl: "https://theconversation.com/taylor-swift-deepfakes-a-legal-case-from-the-singer-could-help-other-victims-of-ai-pornography-222113"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 27
+    images:
+      - url: "https://images.theconversation.com/files/572442/original/file-20240131-27-eqhekr.jpg?ixlib=rb-1.1.0&rect=0%2C125%2C4200%2C2100&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
+  - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
+    excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
+    publishedDateTime: 2024-01-26T22:00:00Z
+    webUrl: "https://siliconangle.com/2024/01/26/deepfakes-wild-big-ai-funding-rounds-mixed-bag-earnings-layoffs/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/layoffssadclouds.jpeg"
+        width: 1021
+        height: 739
+        isCached: true
+  - title: "Taylor Swift AI images prompt US bill to tackle nonconsensual, sexual deepfakes"
+    excerpt: "Bipartisan measure introduced in the US senate will allow victims in ‘digital forgeries’ to seek civil penalty against perpetrators"
+    publishedDateTime: 2024-01-31T01:17:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/30/taylor-swift-ai-deepfake-nonconsensual-sexual-images-bill?ICID=ref_fark"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 13
 
 secured: "qCJtWfNRczhvz6SCcWrutasuOTAm0okCwix0rCymwfpiQOfcbLfrHmNsgIevozE73CipakgH+ZGkgJ+jRGzstTr9VQEUNMSYtd8EY/r0mct8zith/GEjb8FeP008tDzy5dJZgwdT1ZYk2IcHplcgxLLqXizLXDspkI0eycd5zd67L+QthMpW4zpbMWIQJJdVgou0weRFeaR3VA3cAvztIkKHzN+tHEnGd2qBKw4B2B69iD5+WQ9+vHU5vsRms6dijGN5YSFEk5lTWtJFiCP0kgkaUWAI2GIy62AvkmoBPW4EVzEcSYXCmz/ZmL6MyvSFEdL0ChNtnaPFupWgVly/rYfqXf1FCy09HPb1AnjDmVw=;EhKZFa8LvNMN5ViSpNiT8Q=="
 ---

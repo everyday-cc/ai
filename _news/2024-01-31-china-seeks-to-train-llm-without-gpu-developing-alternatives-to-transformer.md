@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-roc
 webUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-rockai.html"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 336
     height: 224
     isCached: true
+
+related:
+  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
+    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
+    publishedDateTime: 2024-01-31T07:17:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 58
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-30T22:37:00Z
+    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+    type: article
+    provider:
+      name: katu
+      domain: katu.com
+    quality: 19
 
 secured: "QCbRe6rW5+nrfRgGdhKfxspcGb7UwDzzYOxXFA+jn4z3gLkVWMeJmZ4LZ/Q7HfkPp+/W4zey0Z0G5YAt8dkoK0+GmtjZeYSPtRD/2RGIvEFthEnidlqulZ0rx5t/pzBOaCbxHxtee7i3rXhDPj3IZSQdmUZtzID+b4nNqqGrsoDL8o8d+KzlaxZwBH9omifJbMfs81xQ9APXZ5eegDlk1UdVwzyHv6EMF9ZYomRB6RXQbd2v/f3556db9nRl+GKFw37TWU7JmxfVMO5Vf6Y2sdGdkt4IcostTAagDqOo0gqs+Qnyyq3NbcgDUOFppTTX8HABwJsnK/edpuonjsqfWtvxmqh8v6WXjVhUFAZRL+0=;Pw/Rhc3ieFPZsxq/+KieFw=="
 ---

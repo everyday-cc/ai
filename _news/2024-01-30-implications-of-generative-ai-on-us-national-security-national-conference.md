@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 2106
         isCached: true
+  - title: "Microsoft and OpenAI Fuel Robotics Surge with $500M Figure AI Investment"
+    excerpt: "Microsoft and OpenAI, backed by Redmonds tech giant, spearheaded a funding round that generated more than $500 million for Figure AI, a robotics business. Microsoft, OpenAI Reportedly Lead $500M Fundraising Round"
+    publishedDateTime: 2024-01-31T14:34:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-and-OpenAI-Fuel-Robotics-Surge-with-500M-Figure-AI-Investment-1670588"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 85
+    images:
+      - url: "https://f1.econotimes.com/2024/01/71ssczxu6w_th_1024x0.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
     excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
     publishedDateTime: 2024-01-29T23:12:00Z

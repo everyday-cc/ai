@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-29-warning-google-will-start-mass-deleting-nest-hub-features-today.md",
+      "title": "Warning: Google Will Start Mass Deleting Nest Hub Features Today",
+      "excerpt": "Google says that it is focussing its development resources on the most commonly used features and deleting less popular skills. Unofficially, it is also making way for Assistant’s likely replacement: Bard. The full cull list can be seen here, but it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/",
+      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
+      "publishedDateTime": "2024-01-29T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
       "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
       "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
@@ -262,7 +314,7 @@
       "originalUrl": "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1417,58 +1469,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-alphageometry-an-olympiad-level-ai-system-for-geometry.md",
-      "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "excerpt": "AlphaGeometry: An Olympiad-level AI system for geometry",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "originalUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

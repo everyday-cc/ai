@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains.md",
+      "title": "In Iowa, Legislators Consider Singing Requirements And Unlicensed Chaplains",
+      "excerpt": "Some Iowa legislators want to offer public school students both chaplains and a daily dose of the Star Spangled Banner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
+      "originalUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba69e487156c00d253f211/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
+      "publishedDateTime": "2024-01-31T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-apples-vision-pros-path-to-success.md",
       "title": "Apple's Vision Pro's Path To Success",
       "excerpt": "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future.",
@@ -148,7 +200,7 @@
       "originalUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1293,49 +1345,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-how-to-find-out-if-facial-recognition-is-being-used-where-you-shop.md",
-      "title": "How to find out if facial recognition is being used where you shop",
-      "excerpt": "AI is watching. It sounds like something from a sci-fi movie.But if you go shopping at some big chain stores, you may be under the watchful",
-      "sourceUrl": null,
-      "webUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "originalUrl": "https://local12.com/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://local12.com/resources/media/d62bea90-86f1-4b19-92a7-1929ec5f1d0a-large16x9_OH_FACIALRECOGNITION_frame_1443.jpeg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "cdnAmpWebUrl": "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/news/good-morning-cincinnati/how-to-find-out-facial-recognition-being-used-where-you-shop-cincinnati-dave-hatter-banfacialrecognition-artificial-intelligence-ai",
-      "publishedDateTime": "2024-01-09T15:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local 12 WKRC Cincinnati",
-        "domain": "local12.com",
         "images": null,
         "publishers": null,
         "authors": null

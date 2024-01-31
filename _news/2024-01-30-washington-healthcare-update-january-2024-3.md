@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-30T22:37:00Z
-    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
-    ampWebUrl: "https://katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
-    cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
-    type: article
-    provider:
-      name: katu
-      domain: katu.com
-    quality: 59
-    images:
-      - url: "https://katu.com/resources/media/16aa9bad-1d99-4d03-9707-bf55019649b2-medium16x9_AP24004818306697.jpg"
-        width: 648
-        height: 364
-        isCached: true
-  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
-    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
-    publishedDateTime: 2024-01-31T07:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
     excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
     publishedDateTime: 2024-01-30T22:55:00Z

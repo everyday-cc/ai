@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "'A masterpiece quarter': Microsoft's earnings show it's on the cusp of a years-long, trillion-dollar AI opportunity, Wedbush says"
+    excerpt: "\"This was another masterpiece quarter and guidance from Nadella that will send a major ripple impact across the tech world,\" Dan Ives wrote."
+    publishedDateTime: 2024-01-31T16:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-revenue-ai-opportunity-copilot-cloud-wedbush-dan-ives-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/65ba4e6f7a3d271488761559?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rail Vision Reveals its Next Generation AI Computer for Railway Safety and Accident Prevention"
     excerpt: "The new development offers high performance and real time AI deep learning inferencingRa’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail"
     publishedDateTime: 2024-01-30T15:05:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -94,6 +94,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-ai-in-healthcare-risks-and-rewards.md",
+      "title": "AI in healthcare – risks and rewards",
+      "excerpt": "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.brecorder.com/news/40286158",
+      "originalUrl": "https://www.brecorder.com/news/40286158",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-28T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1303,40 +1347,6 @@
       "provider": {
         "name": "The Cincinnati Enquirer",
         "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-skeptical-about-ai-in-healthcare-heres-how-some-doctors-and-hospitals-are-using-it.md",
-      "title": "Skeptical about AI in healthcare? Here's how some doctors and hospitals are using it",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and ...",
-      "sourceUrl": null,
-      "webUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
-      "originalUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T15:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

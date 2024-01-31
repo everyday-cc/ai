@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why The Rise Of AI Shouldn’t Change The Way You Invest"
-    excerpt: "An exploration of AI's impact on the three largest sectors of the S&P 500 and why investors shouldn't change the way they invest because of AI."
-    publishedDateTime: 2024-01-26T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/"
-    ampWebUrl: "https://www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cicelyjones/2024/01/26/why-the-rise-of-ai-shouldnt-change-the-way-you-invest/amp/"
+  - title: "WPP Plans to Use AI Investments to Boost Sluggish Sales Growth"
+    excerpt: "Advertising giant WPP Plc said it plans to spend about £250 million ($318 million) a year to invest in new technologies to support its artificial intelligence strategy — an effort to boost its performance for clients during sluggish sales growth."
+    publishedDateTime: 2024-01-30T07:19:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-01-30/wpp-plans-to-use-ai-investments-to-boost-sluggish-sales-growth"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a96d9cae8f77d36a930c03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 856
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
 
 secured: "B4pZuhOIzSzQpxTGprOVEKQrMIO8gqk+LthBhE5ycmuVEpMx0E+xab23wz7tQ1GEtUD9ZfHGTETwhxOhkt4YaryqP5lKjGhUi858VcBRSrF73J+mWxROxXufn7Kjt3xymt1Ia2B+FauqKOVsYOvcMHYSIufQSkRTOnjlX1HWqmHaymdzI3xPBKhf7wFRoKkWlWKbuR9lkMrBrJs608pknGr8Omb4NPeO4cBmq4KIOau5oigt40JDPEFYyvTJagg+3E6TBOWNj0N/e9XRb9vFxmHdgnRd3qZKyq0ySzEGyQiV8G7BAYiT29qDRBDP5ki6sykn/peBOgY8c4ccTmOlOoWXOHqxLshGJm7cKsq9J7Q=;RCJ/GCCNa8IQaLg6gP6ixg=="
 ---

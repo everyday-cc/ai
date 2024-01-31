@@ -50,21 +50,12 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
         width: 1000
         height: 500
         isCached: true
-  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
-    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
-    publishedDateTime: 2024-01-26T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
 
 secured: "RNHRXpV0gh0N4Hy/8axrznzIp/ua/OuxwdWrKKa25RNN1nsMNFcpUvf5g7ao7g7ABlRRgKngsZtRZovNPlFbfRwApUrEK+7l6bGhC/a/5CaCYhc37W851EQ6WsYYO7Sx3x6avA2uIR42FBW7BQPp7LP+YwAj6dLsUy+HmCkbH0mQfiuMWAp4c7SWC0JRoLvlWT3+4QkWEXvnChO+GS5WZawnlKVjTLanzJTapmTthkpWDzJpwl3REePvmUiqYayCC9pxOF392wzKEte+Rkr7MeZ6SoBRFBM3KIG2YGwj3Ur6ofxBe5/+HqhNQceGWC8O5hk4YbMWpMU//pvpBYImfHIpEPR+cxX2F//0SouyR54=;cdWahcr2QibSy9J+xKXPcg=="
 ---

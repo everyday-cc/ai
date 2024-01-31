@@ -1,34 +1,22 @@
 ---
 category: news
 title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
-excerpt: "Looking at Microsoft Intelligent Cloud, the segment that includes server products and cloud services, such as Azure, revenue was $25.9 billion—up 20% (up 19% in constant currency) from the same time a year ago. Generative AI services such as large ..."
-publishedDateTime: 2024-01-31T12:14:00Z
-originalUrl: "https://fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/"
-webUrl: "https://fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/"
-ampWebUrl: "https://fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/amp/"
-cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/31/microsoft-earnings-reveal-c-suite-adapting-to-ai/amp/"
+excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
+publishedDateTime: 2024-01-31T11:14:00Z
+originalUrl: "https://www.aol.com/finance/microsoft-earnings-reveal-c-suite-121458398.html"
+webUrl: "https://www.aol.com/finance/microsoft-earnings-reveal-c-suite-121458398.html"
 type: article
-quality: 104
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Fortune
-  domain: fortune.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1921159214-e1706703158734.jpg?w=840"
-    width: 840
-    height: 590
-    isCached: true
 
 related:
   - title: "Microsoft CEO responds to AI-generated Taylor Swift fake nude images"
@@ -195,6 +183,15 @@ related:
         width: 500
         height: 354
         isCached: true
+  - title: "Microsoft joins forces with VB Lab for 3 stops on the AI Impact Tour"
+    excerpt: "VentureBeat's next stop on the AI Impact Tour, sponsored by Microsoft, will take place February 29 in New York City."
+    publishedDateTime: 2024-01-30T21:50:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-joins-forces-with-vb-lab-for-3-stops-on-the-ai-impact-tour/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
   - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
     excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
     publishedDateTime: 2024-01-29T11:09:00Z
@@ -213,22 +210,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Explicit AI-generated Taylor Swift images spread quickly on social media"
-    excerpt: "The fake images of Taylor Swift were predominantly circulating on social media site X, previously known as Twitter"
-    publishedDateTime: 2024-01-26T15:36:00Z
-    webUrl: "https://www.cbsnews.com/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
-    ampWebUrl: "https://www.cbsnews.com/amp/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/miami/news/explicit-artificial-intelligence-taylor-swift-images-spread-quickly-on-social-media/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/08/acd6305a-ba64-44fc-9d13-bb9a78cd7208/thumbnail/1200x630/10200a0442733918c2d545efb616e0f9/gettyimages-1916486593.jpg?v=9bdba4fec5b17ee7e8ba9ef8c71cf431"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
     excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
     publishedDateTime: 2024-01-28T17:42:00Z
@@ -284,6 +265,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 54
+  - title: "Microsoft Dishes on AI Revenue; Google CEO Says ‘Agents’ Are Coming"
+    excerpt: "Microsoft investors tuned into the company’s earnings call with bated breath Tuesday night, looking to see how much its new AI products were boosting sales. Microsoft didn’t deliver an unequivocal blowout—revenue in the December quarter grew moderately faster,"
+    publishedDateTime: 2024-01-31T15:00:00Z
+    webUrl: "https://www.theinformation.com/articles/microsoft-dishes-on-ai-revenue-google-ceo-says-agents-are-coming"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/12200/bb0bf2ed-b74d-4d2f-8188-89e5c74eff42-LesFYQ.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft smashes profit forecasts thanks to AI"
     excerpt: "Worth more than Apple now  Software King of the World Microsoft has wowed investors with its latest results, showing a massive surge in profits thanks to getting its foot in the AI door early. Microsoft reported adjusted earnings per share of $2."
     publishedDateTime: 2024-01-31T11:11:00Z
@@ -391,6 +386,6 @@ related:
       domain: thedailybeast.com
     quality: 15
 
-secured: "t2KCutYkWuonupbyf2Zj7J/rba7qZ8wv/cJ8VxcW9eHgJu5Y0FKUbEo7HspN7b7vsXGMZYRG1Xa1eUjIq+zXtiDSpErcVjQlwqhSbZdPZ2JPeVWrLWFMDNZ2qAsu/x6RuX9PjWkrN5HFcTO17F95hT/Bit9+q2gO7NYkuhYcj7SjkJCzNE0Sm6JJ8NbHVSITY3xWEYkujrsP1jGd6eO88YLDUqy4BBFLyiJ60iU6ENcQnhqfh7d2366Uw71dCvYgoifgrYTh8n66HxWG5WP1rX+aVtBrx1FVra9YlLHaGutUuuN81dyVPOtjnMNqVZ0EcRXEcJYyt5OI/tIxJsCMRnBUc9nezr9rzyBcDRvEeZQ=;hJyAGYd407BAShUZnAO9Hg=="
+secured: "6AnvW/1YKFwm5niWEQs3jtGNKPLAE9hIfnUH3tmof7xuuvXRw+TJiNN8idQIkeqgr89hkIyBBBhIWizSUDcURvZp+gS/3m8d6k8NyJH5ThJzJV00UJm1NQ3WKRGtvDd+12UeVH9WxiMUx2lKW6W+GRvoF5nrSa/gH3NvaatQZ8/e5ns6h0f57e2Nec4t3sR6siCSSwxB2Pho4h7oP2VI10v9ANnYQ3IqDZOEXtIjcEWTOjADvjqKu0Lo/mLmqNmd8i/DHbHpdZ/SSgvG9+EuwmoOYQ9okQ5jIxMRDWQDIcC4ifRrSEzvPRUhaQemn1RFY/6ok5lzK1U2LOd5MpMYsG3G9KD6bWFS7oaTwGcegT8=;iw+aaCFxN2vAsQf3Q52i5A=="
 ---
 

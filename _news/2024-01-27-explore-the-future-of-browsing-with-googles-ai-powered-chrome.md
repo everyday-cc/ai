@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2024/01/27/explore-the-future-of-browsing-w
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2024/01/27/explore-the-future-of-browsing-with-googles-ai-powered-chrome/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -35,7 +35,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
         width: 1000
@@ -55,15 +55,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
-    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
-    publishedDateTime: 2024-01-26T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
 
 secured: "NcEMP8BdLZA8gxUYPz9Scc1Nlm9A+uZ9P1YvOrlshk3+pbKy52FMM9PVib7JuVUp2+dmTcZPRgkYpF6tKuCdz6EwzgsiUFYl9JqzifcBHwhRV8ZLqF+KnLRlLQaeez9YdisyrM4g1eDUTcFjhn2VUx6ddyLRxGYSVyKX5IszVqdTMHTdAT7BryRuphNzC46E/wfdL8sABsbdT6eb83DvcaPSFuAd4ZyMooc+aDJAxK0QHLqXDMoQiQ1tIsK+mgBj1O2CVoeDpdtOvuX32g3wI/mSW+avMMmMT9wTTf06YHcHPSmO6/HwcSQ/RJcjxujrEseZMlF8tLtLDyThlm/BLjm7KUJu3vSRheL9YeM3l5UVSQnSUDeT8HgNA5vXdnW5fp6Z1qd8B+oWL+ieDb80RnaFUx9Cs/HkHnai3QPgZVdbsXOA+Mcl4vdDostG2ZbmPpDroxunq9sPEKm5Tv3iTmzQtRldkONPbrud76Dsp/ANm/QdzKmz1PZZE/ZduvMVw6pkkpodiNCKEXGmITjT+w==;h+9gUA199fuk8c2dB4UHsQ=="
 ---

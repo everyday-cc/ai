@@ -155,6 +155,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Techtrust launches fintech talent hub"
+    excerpt: "IT staffing firm Techtrust has launched a database to help fintech companies in the US find top talent. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2024-01-31T14:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43616/techtrust-launches-fintech-talent-hub"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Startup Digest: PB Fintech turns profitable in Q3, iRobot to lay off 350 employees, and more"
     excerpt: "Consumer robot maker iRobot announced layoffs of nearly 350 employees, approximately 31% of its workforce, after the $1.7 billion Amazon-iRobot deal was mutually terminated over regulatory hurdles. Founder and CEO Colin Angle is also expected to step down."
     publishedDateTime: 2024-01-30T14:08:00Z

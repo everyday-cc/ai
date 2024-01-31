@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-01-meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push.md",
+      "title": "Meta Platforms is primed for a big quarter with ads, AI push",
+      "excerpt": "In raising his price target to $435 from $390, Seaport Research Partners analyst Aaron Kessler is looking at robust ad growth and outlook, an updated outlook on 2024 operating expenses, the impact of regulation on content for teens, and how AI initiatives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-89343189/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
+      "publishedDateTime": "2024-01-31T16:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
+      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
+      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "publishedDateTime": "2024-01-30T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-a-view-of-artificial-intelligence-ai-from-the-trenches.md",
       "title": "A View Of Artificial Intelligence (AI) From The Trenches",
       "excerpt": "Digital transformation and cyber security ought to be bigger priorities for most companies. “How will AI change the CFO’s job?” My boss, the CEO, keeps asking me, “what’s our AI strategy?” What should I tell her?”",
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -723,6 +828,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-19-the-generative-ai-future-will-not-be-free.md",
+      "title": "The generative AI future will not be free",
+      "excerpt": "I asked Oren Etzioni, an AI expert and a veteran of the online Search business. He shared a few thoughts: The broad services (Search, Facebook, WhatsApp) are still free/ad-supported (if the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
+      "originalUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence.md",
       "title": "Meta CEO Mark Zuckerberg pledges to build out artificial general intelligence",
       "excerpt": "The company also plans to grow and bring its two major AI research groups – called FAIR ... has soured considerably since the days that Facebook became Meta, and so it is no surprise that ...",
@@ -1245,135 +1393,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-01-5-ways-artificial-intelligence-is-rapidly-changing-our-world.md",
-      "title": "5 ways artificial intelligence is rapidly changing our world",
-      "excerpt": "Other tech companies also jumped into the AI race. Meta, the parent company of Facebook and Instagram ... would be released for commercial use and research. Tesla, SpaceX and X owner Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/",
-      "originalUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4372445-five-ways-artificial-intelligence-is-rapidly-changing-our-world/amp/",
-      "publishedDateTime": "2023-12-31T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-31-why-artificial-intelligence-ai-could-be-a-game-changer-for-this-magnificent-seven-stock.md",
-      "title": "Why Artificial Intelligence (AI) Could Be a Game Changer for This \"Magnificent Seven\" Stock",
-      "excerpt": "Also, the advent of PCs capable of running AI apps is likely to encourage existing users to upgrade. Meanwhile, a recent research paper ... and spokeswoman for Facebook and sister to Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/31/why-artificial-intelligence-could-be-game-changer/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/31/why-artificial-intelligence-could-be-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-31T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-the-top-7-people-in-artificial-intelligence-e-commerce.md",
-      "title": "The top 7 people in artificial-intelligence e-commerce",
-      "excerpt": "He helped build Alexa's conversational AI-research arm; prior to that ... Prior to that, she did engineering work at Google Brain and Facebook. Shankar is now the chief scientist at Alta, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11",
-      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6525c4da6561dd877e76c57d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-ecommerce-2023-11?amp",
-      "publishedDateTime": "2023-12-29T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

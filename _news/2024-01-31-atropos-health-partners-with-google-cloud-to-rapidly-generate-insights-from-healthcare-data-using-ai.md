@@ -22,6 +22,17 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Data-Focused Strategy May Hinder Generative AI Deployment in Healthcare"
+    excerpt: "New Deloitte survey suggests that healthcare leaders must focus on data, governance, consumers, and the workforce to successfully implement generative AI."
+    publishedDateTime: 2024-01-31T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/data-focused-strategy-may-hinder-generative-ai-deployment-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+
 secured: "Ju7xmz+lhaTamE8UzeF2dtIZSqbggiS+XsjqH9ge+JBexBUsklL9GCiS3gb9+CXU/tYdB96HZvzvHOqCOspQvmDKI9ICT6fq8k4Y7kmgvywm5R6Q6L8hqWuWaQtLgjSe8puBFzsM6FegFyZR4NW8ArF6bs9o0t6/xXNZ3UtL6t73XHAEBqY+beyeUIoVzVBrLHC8SirryJOftx8M4qUwsalbUmAKyEawnzoTbD+IBo/dKTaPiJ9/mB/ltntoYZw2LdCPmehh5UBEAo7CcVF7W4G2SpDTgJzMVvLofDVpbMTL3XbwneoyXq4seKh0aj1ne9y57kwbyKL2f8PdZ4OxYupXeBqoupKjLd6pYocYWLU=;fC39M5KEbs2WvEBSWEHuvw=="
 ---
 

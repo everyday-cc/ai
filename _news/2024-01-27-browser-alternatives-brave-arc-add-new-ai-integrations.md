@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-
 webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
       name: jhuapl
       domain: jhuapl.edu
     quality: 30
+  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
+    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
+    publishedDateTime: 2024-01-31T14:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "OtEIKejGVUnepB/1qnH4I1J/PiJ2GYqZiSMeik7l2ZJAgdUGVimxcsybTHHbfq8AwdNso3hR0lfJv2gilbyrScPYXy1aa6biiVuP6z6sfh+Kwu7Ug/SUtydDMF/51XacI6cAoLa6dGPtHQ/anEc7nzLRruNs0zr5lVGfIOmVsD38TbslwOGLOPFGtXQLyezzejLYupPj1SG5ABoR4rIUq8JFZwlDgwDPupYpKHRPZcCCoGFt99CQ83aMW7CVDlavHxw3QUAsQGTe+RQ6TBzbYLO+7wQtN295BNRuo35u9TV2OdaCLgV7X0IViCAI36NtfWcY14B+VIb6kxTn4QJG1kPb00hQVQGp+i2tInQGNNoTi5bIHQIba+gPRCfH1zMZL9oboGARQ/ZctdRepMDnP+CxVoSXiO6bQufZLD8rMIGEqgGMvrkJ0ju80LpX5ffAQtcYWT/3YZ7lTLZP5rNhj8TEtigaYCHHzlxKk44jaerRfnqh6Tymk7E9HZfY7XqIPFpFMCVwNagcddbZEdpuVQ==;LmBT/t6ZmWAzuFvIe15uNw=="
 ---

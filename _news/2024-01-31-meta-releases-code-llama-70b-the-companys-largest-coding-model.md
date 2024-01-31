@@ -143,6 +143,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Meta Releases Code Generation Model Code Llama 70B, Nearing GPT-3.5 Performance"
+    excerpt: "Code Llama 70B is Meta's new code generation AI model. Thanks to its 70 billion parameters, it is \"the largest and best-performing model in the Code Llama family\", Meta says."
+    publishedDateTime: 2024-01-31T15:12:00Z
+    webUrl: "https://www.infoq.com/news/2024/01/code-llama-70b-released/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 20
+    images:
+      - url: "https://res.infoq.com/news/2024/01/code-llama-70b-released/en/headerimage/code-llama-70b-released-1706709602051.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "e1OBqztjS7jg/sBkRrM5dRHsWCEzmtcs1TsJcK21/dwec/kh0GpcXeM+UfhNiLFEUqAP/x9Kt68NoFUCKrnCV+ji8xPHdkpm+xxPwZvlApM058PcPIr2lPlZQCACX0SBLkXgiL3r2gJA9puHBeLhBRXDs+jhA7W1Xa8A7O0SJB+sNMnrI6yDR23w0uKAfuywwJSvhZ/G+pmnvlO768xi2x+qirtBHtYwcU+gSPJwzg+SAijT4XTxw3kB+elX7C41hDSz0HnGfMzDf35YHhVG0Kbz/do+6ascTHrFBu7stDFIlanQs/b2mthXviV8h65HjMBFxBbMhGv6WQJ79I/2YjmRtBLaCAndJPR7Jf+3IU0=;IjqKK8V0Um4hV1i9mIGrKQ=="
 ---

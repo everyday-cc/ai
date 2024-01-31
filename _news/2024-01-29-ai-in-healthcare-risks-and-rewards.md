@@ -7,8 +7,8 @@ originalUrl: "https://www.brecorder.com/news/40286158"
 webUrl: "https://www.brecorder.com/news/40286158"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Recorder
@@ -40,6 +40,15 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Are Consumers Left Behind in Healthcare’s Generative AI Talks?"
+    excerpt: "A new Deloitte report illuminates healthcare's blind spots when discussing generative AI, in particular pointing out that patients and healthcare consumers are left behind in these conversations."
+    publishedDateTime: 2024-01-31T11:59:00Z
+    webUrl: "https://patientengagementhit.com/news/are-consumers-left-behind-in-healthcares-generative-ai-talks"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 34
 
 secured: "yFHBIGZpV21mX9OemHcoLuItVvyra/fvPEZ9Te2ZZR4o4xpqvIafLo6PBziegP8SMJ9ZyxKShWetbx7oYgbY40K65eyEsNg44nVezo17POEn+Qu+6pq8FcJlmabgLw/o88R5g2KsA5tHGdbLJE1+edqeAdfGwmE+dPbk0BOfiofej/m6xUIfW5BG3XvMDnJycOKpjRO3edr76/+uyemroGQXS3a3B1UkpX6Q6veYW31oXYZlBbFNaoKezY+sSfB9zXJWtYOGsKikC9+aCz2ZHe1cWT9YZZeOLsRR2gBKCKYK/COAsRKgzg30GvzrHLejchZa2PxFqvCXjODTfYrjxtMEswvbZCWD2tvd4RLFn7Q=;DIYXlSYkTdyp+kmI9kSBMw=="
 ---

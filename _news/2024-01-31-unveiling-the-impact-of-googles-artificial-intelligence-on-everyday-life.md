@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-30T16:53:00Z
 originalUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
 webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Healthcare
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
@@ -56,15 +57,6 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Blending Art and Ethics: How Chris V Gomes Muffat's Ventures Are Shaping the Future of AI"
-    excerpt: "To this end, Gomes insists other experts in the field should remain committed to the principles of ethics and to enhancing human capabilities. As he puts it, “AI's potential is immense, but we're still scratching the surface of what it can do."
-    publishedDateTime: 2024-01-26T17:05:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/01/26/blending-art-and-ethics-how-chris-v-gomes-muffats-ventures-are-shaping-the-future-of-ai/72367370007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 25
 
 secured: "S8vbxIQO5s4OKffofsKhyDj9pk5UPeZbmJe+F40UlxtvCcTDEpeiEzllhkwOcm7T0a1KoNChsth9+6BpWiqBu4b79jBWk/iHp7xm1++ErKHhXUXdC5F7wRI6fIHtaAFT3NGbLl7JTX69cjjhoAErdviVlrrfq9CZYMk109fzOsphbw0cYQnED1tUazX115W7YiLSMOrzcfdk4pGps2huOoTy6Y5iixNlwx7FjaZbZLumUS7GTvNnhh4nH/ynOHR4x8T8r04roFTxjubsxFBT+E3/vdA8loBvajQuYSiGBBXCmTO1pp4URRtTHJ3wox5ZIypbFX1eErB07W5Ii7sJjK5OXJ09psQC4OtKW8QX9B8DnWJO469BDZ1eooQS0B3dMsOERxN6lfzf/Rxn6dX5I14RivQNfwtdeeZh301EWMJNuC4+BUuC2HzmU2nGE2OaWWqnLfCI5+m7cpB2kfYHW9T1f99Vnz2PNHis4n8GYXZYpAxacaCAjGZXO65mbol3MRs/1XPe7aFzvq604XaCWw==;1oYUX1l6VY79Lc+6uP6FxA=="
 ---

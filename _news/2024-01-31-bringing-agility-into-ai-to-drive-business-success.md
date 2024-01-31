@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "7 Ways AI and RPA Are Reshaping Your Business in 2024"
+    excerpt: "The convergence of artificial intelligence (AI) and robotic process automation (RPA) is a revolution transforming every industry imaginable.  This synergy of AI and RPA isn’t just about streamlining tasks;"
+    publishedDateTime: 2024-01-31T13:07:00Z
+    webUrl: "https://techbullion.com/7-ways-ai-and-rpa-are-reshaping-your-business-in-2024/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 19
 
 secured: "2/+UeosDW597qTp5qw82VQdzKrtVyZ7fTYHd1IUJ2d8zuMI63d8meq98S4uu3fsrYeCbinCju2zUycLvH6fZNmPWyTOswKgNAGfql31vfJ3HtYk/48ybD07TLc1iY/+njzjOSkVh+uFfIXJ2bDZG6AZRW4J00/A62Tz8AZbLaCg65ou5MDng/8qf0C8iUA3QG9a+f+4L4q6nq5oixF5S+mivKEHmyJnOoiyJLw1FlYCBYhkN7KkjPFITfJMwDTudxS3wceRB7C0mTt0PB89NO/V+PRiEg4t1qK7sKEyaqwKiwNbWjKMegqio3Fif4sgG/RQ5RECKtdaXUvX1OWpWdkKwpMiF0/d+LTo5iSBZRc8=;/DBXE2tRfwPmPoP/BplWlQ=="
 ---

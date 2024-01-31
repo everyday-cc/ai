@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -155,6 +155,15 @@ related:
     excerpt: "In this era of digital transformation, Fintech companies are not just adapting; they're evolving to prioritize and enhance their customer experiences, creating bonds that stand the test of time. Let's explore some strategies that can infuse a human touch  into Fintech, making it more than just a service but an experience."
     publishedDateTime: 2024-01-31T10:01:00Z
     webUrl: "https://www.finextra.com/blogposting/25624/how-can-fintech-companies-improve-their-customer-experience"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Techtrust launches fintech talent hub"
+    excerpt: "IT staffing firm Techtrust has launched a database to help fintech companies in the US find top talent. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
+    publishedDateTime: 2024-01-31T14:12:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43616/techtrust-launches-fintech-talent-hub"
     type: article
     provider:
       name: Finextra

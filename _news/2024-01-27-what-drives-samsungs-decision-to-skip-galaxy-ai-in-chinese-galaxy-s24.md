@@ -133,19 +133,19 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
-    excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."
-    publishedDateTime: 2024-01-26T16:00:00Z
-    webUrl: "https://www.wdef.com/tech-byte-samsungs-artificial-intelligence-smart-phone/"
+  - title: "Samsung Galaxy AI: Features, and everything you need to know"
+    excerpt: "Now, you’ll be able to translate the person on the other end of the line when you’re on the phone with someone who doesn’t speak your language. This is done in real-time, and a text is shown to you about the things that are said, and Galaxy AI can ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://pocketnow.com/samsung-galaxy-ai-features/"
     type: article
     provider:
-      name: wdef.com
-      domain: wdef.com
-    quality: 37
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
     images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/11/z/x/techbyte-epikos-carousel.jpg"
-        width: 768
-        height: 423
+      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2024/01/li-samsung-galaxy-ai.png"
+        width: 1920
+        height: 1440
         isCached: true
   - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
     excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"

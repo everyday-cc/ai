@@ -2,6 +2,411 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-30-shortwave-email-client-will-show-ai-powered-summaries-automatically.md",
+      "title": "Shortwave email client will show AI-powered summaries automatically",
+      "excerpt": "The startup introduced AI-powered summaries last year, but you had to tap a button to generate that summary. Now, with the new instant summary feature, the client shows the gist of an email or a thread in one sentence automatically. You can tap on that ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/",
+      "originalUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/AI-Autocomplete-full-UI.jpg?resize=1200,723",
+          "width": 1200,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/shortwave-email-client-will-show-ai-powered-summaries-automatically/amp/",
+      "publishedDateTime": "2024-01-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy.md",
+      "title": "This new iPhone app fuses AI with web search, saving you time and energy",
+      "excerpt": "With the AI summaries, you can scan the basic facts about your topic ... Arc Search kicks in other tools to help with your searches. You can easily start a new search by tapping the Search icon at the bottom. From there, a keyboard automatically pops ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/",
+      "originalUrl": "https://www.zdnet.com/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b6885bc6bcd0abe4c5c8a3b58435763354bf7f61/2024/01/29/a62a9d4d-c58b-4e7d-a565-da26eb4b6bc4/gettyimages-1401267940.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/",
+      "publishedDateTime": "2024-01-29T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-business-continuity-vs-disaster-recovery-which-plan-is-right-for-you.md",
+      "title": "Business continuity vs. disaster recovery: Which plan is right for you?",
+      "excerpt": "Business continuity and disaster recovery plans are risk management strategies that businesses rely on to prepare for unexpected incidents.\nThe post Business continuity vs. disaster recovery: Which plan is right for you? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/business-continuity-vs-disaster-recovery-plan/",
+      "originalUrl": "https://www.ibm.com/blog/business-continuity-vs-disaster-recovery-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/map_1-22-1.blog-lead-space-2x1-1.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:52:35Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-the-7-most-promising-blue-chip-stocks-according-to-grok-ai.md",
+      "title": "The 7 Most Promising Blue-Chip Stocks According to Grok AI",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity.md",
+      "title": "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity",
+      "excerpt": "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
+      "originalUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:50:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-samsung-galaxy-s24-ultra-review-all-that-and-ai.md",
+      "title": "Samsung Galaxy S24 Ultra review: all that and AI",
+      "excerpt": "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
+      "originalUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T15:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-intel-says-major-ai-enhancements-expected-in-panther-arrow-and-lunar-lake-chips.md",
+      "title": "Intel says major AI enhancements expected in Panther, Arrow, and Lunar Lake chips",
+      "excerpt": "Speaking at the company's Q4 2023 earnings call, Gelsinger revealed that the company is looking to improve the AI performance of its x86 processors by as",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-29-image-8.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.md",
+      "title": "Microsoft CEO responds to AI-generated Taylor Swift fake nude images",
+      "excerpt": "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 384,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571",
+          "width": 4523,
+          "height": 3047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "publishedDateTime": "2024-01-29T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-the-blueprint-for-a-modern-data-center.md",
       "title": "The blueprint for a modern data center ",
       "excerpt": "A look at designing the modern data center, exploring the role of advanced technologies, such as AI and containerization.\nThe post The blueprint for a modern data center  appeared first on IBM Blog.\n",
@@ -139,6 +544,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-29-warning-google-will-start-mass-deleting-nest-hub-features-today.md",
+      "title": "Warning: Google Will Start Mass Deleting Nest Hub Features Today",
+      "excerpt": "Google says that it is focussing its development resources on the most commonly used features and deleting less popular skills. Unofficially, it is also making way for Assistant’s likely replacement: Bard. The full cull list can be seen here, but it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/",
+      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
+      "publishedDateTime": "2024-01-29T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations.md",
       "title": "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations",
       "excerpt": "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently.",
@@ -199,7 +656,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "",
@@ -293,7 +750,7 @@
       "originalUrl": "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -578,7 +1035,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -717,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-29-how-could-artificial-intelligence-help-pregnant-women-in-zambia.md",
-      "title": "How Could Artificial Intelligence Help Pregnant Women In Zambia?",
-      "excerpt": "A team of entrepreneurs, researchers and health professional in Zambia are harnessing artificial intelligence to help improve care for pregnant women.",
+      "path": "_news/2024-01-29-ai-in-healthcare-risks-and-rewards.md",
+      "title": "AI in healthcare – risks and rewards",
+      "excerpt": "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/",
+      "webUrl": "https://www.brecorder.com/news/40286158",
+      "originalUrl": "https://www.brecorder.com/news/40286158",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17e5e12ae6b54b8aef398/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
+          "url": "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -739,118 +1196,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2024/01/28/how-could-artificial-intelligence--help-pregnant-women-in-zambia/amp/",
-      "publishedDateTime": "2024-01-28T21:27:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-28T23:39:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-i-just-cancelled-my-tesla-full-self-driving-subscription.md",
-      "title": "I Just Cancelled My Tesla Full-Self Driving Subscription.",
-      "excerpt": "I canceled myFull-Self Driving subscription. Whether that’s bad news or good news forTesla depends on your point of view.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "originalUrl": "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-06217458/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4",
-      "publishedDateTime": "2024-01-28T18:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "Business Recorder",
+        "domain": "brecorder.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business.md",
-      "title": "From Davos To Dominance: How AI Is Rewriting Our Planet and Business",
-      "excerpt": "Remaking business playbooks for an AI-infused marketplace demands revamping strategy, ethics, and vision or forfeiting control - of both future profits and shared destiny. The hour for responsible leadership has arrived. It is still not too late to shape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b6a410b7a2705fcafdda02/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/01/28/from-davos-to-dominance-how-ai-is-rewriting-our-planet-and-business/amp/",
-      "publishedDateTime": "2024-01-28T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -861,329 +1214,7 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power.md",
-      "title": "We Have Only Begun To Scratch The Surface Of AI’s True Innovative Power",
-      "excerpt": "With recent AI progress, 'we will likely see new businesses, focused on providing more natural and human-centric interactions between humans and machines, sprouting up.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635b38cb63aefdcfb6876e01/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1445,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/",
-      "publishedDateTime": "2024-01-28T16:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-prediction-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market.md",
-      "title": "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market",
-      "excerpt": "It's official: A new bull market is here. And part of the reason for that is the rise of artificial intelligence (AI). Amazon, the world's largest cloud services provider and the world's largest e-commerce company, should benefit in several ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
-      "originalUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-28T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
-      "title": "Why are so many robots white?",
-      "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_05_2020_04_41_08_0489537.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "publishedDateTime": "2024-01-28T06:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-nh-primary-biden-deepfake-robocall-traced-to-ai-startup.md",
-      "title": "N.H. Primary Biden Deepfake Robocall Traced to AI Startup",
-      "excerpt": "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
-      "originalUrl": "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T23:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend.md",
-      "title": "A Psychologist Reveals 2 Dangers Of Falling For An AI Girlfriend",
-      "excerpt": "AI girlfriends are chatbots, powered by large language models like GPT-3, or more recently, GPT-4, that can simulate coherent and diverse conversations through voice, text or images. These are virtual companions that users can “train” to be their ideal girlfriends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
-      "originalUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b531dd28205bb1fc4614e6/0x0.jpg?format=jpg&crop=2452,1150,x0,y227,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2024/01/27/a-psychologist-reveals-2-dangers-of-falling-for-an-ai-girlfriend/amp/",
-      "publishedDateTime": "2024-01-27T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-australian-open-hopes-ai-audio-translations-will-speak-to-new-fans.md",
-      "title": "Australian Open hopes AI audio translations will speak to new fans",
-      "excerpt": "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "originalUrl": "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations",
-      "publishedDateTime": "2024-01-27T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups.md",
-      "title": "FTC opens inquiry into Big Tech's partnerships with leading AI startups",
-      "excerpt": "U.S. antitrust enforcers are opening an inquiry into the relationships between leading artificial intelligence startups and the tech giants that have invested.",
-      "sourceUrl": null,
-      "webUrl": "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots",
-      "originalUrl": "https://komonews.com/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://komonews.com/resources/media/373ff4b5-9b9d-4281-8189-d1bab329bec8-large16x9_AP23115629674454.jpg?1682446591891",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots",
-      "cdnAmpWebUrl": "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/tech/ftc-opens-inquiry-into-big-techs-partnerships-with-leading-ai-startups-microsoft-artificial-intelligence-chatgpt-openai-federal-trade-commission-google-amazon-chat-bots",
-      "publishedDateTime": "2024-01-27T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "komonews",
-        "domain": "komonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI in Healthcare"
       ]
     }
   ],

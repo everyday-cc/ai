@@ -55,15 +55,6 @@ related:
         width: 640
         height: 362
         isCached: true
-  - title: "Meta to build $800 million, AI-first data center in Indiana"
-    excerpt: "Facebook parent company Meta will build one of its first data centers dedicated to generative AI workloads in Jeffersonville, Indiana, creating roughly 100 operational jobs and about 1,250 in construction work at a cost of $800 million."
-    publishedDateTime: 2024-01-26T14:38:00Z
-    webUrl: "https://www.networkworld.com/article/1298745/meta-to-build-800-million-ai-first-data-center-in-indiana.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
   - title: "Six Principles for Redefining Retail with Responsible AI"
     excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
     publishedDateTime: 2024-01-30T12:00:00Z

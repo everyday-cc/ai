@@ -1,0 +1,51 @@
+---
+category: news
+title: "Alphabet shares slide on disappointing Google ad revenue"
+excerpt: "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year."
+publishedDateTime: 2024-01-30T20:12:00Z
+originalUrl: "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html"
+webUrl: "https://www.cnbc.com/2024/01/30/alphabet-googl-q4-earnings-report-2023.html"
+ampWebUrl: "https://www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html"
+cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/30/alphabet-googl-q4-earnings-report-2023.html"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: CNBC
+  domain: cnbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://image.cnbcfm.com/api/v1/image/107325514-1698681177311-AP23303506550300.jpg?v=1698681233"
+    width: 6000
+    height: 4001
+    isCached: true
+
+related:
+  - title: "Google parent Alphabet holiday ad revenue disappoints, shares drop 4%"
+    excerpt: "Google, inventor of foundational technology for today's AI boom, faces tough competition from the two players that have captured the business world's attention, ChatGPT's creator OpenAI and its financial backer Microsoft."
+    publishedDateTime: 2024-01-30T23:03:00Z
+    webUrl: "https://www.aol.com/google-parent-alphabet-holiday-ad-210327299.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/1ac061945094639e8dbc2552c8d7d5d3"
+        width: 800
+        height: 499
+        isCached: true
+
+secured: "Ul7qOYALqu+Z42RPj0CqI4PGLNDzdtpCfbJiSDSVeix3Hz1FgU0fZJg+fyrOaU+cvkiFOjwYi2j1Gv/rdAqKo0QIaW5wq8DmmUpoC7M5nWt22dLCF1U9pHAPKbjsqU9LdtZq438u73D8qqrc/+X8jaa+SgenZYgm0Y3U9lO410eGopLBI03zEjeecYAep8fqBzkRlKQzKAPWnufbzqglB17G32LPBs3usNiEsJmJV/JR8jPn/O/kioCMcsyVmCvH9WNeT+Sw27hZLeHFeYUYUbtrvkabdlooUi0D8Y3PmZGgTvrnwXpNq5G4mRED/zNS9Akgvaud5gmxqGnZsCRnHaQ4LqImDyMdWbcEm5i5rsc=;IdaJU4zMuuPj7BP4C+A2yw=="
+---
+
