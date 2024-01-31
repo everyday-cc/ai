@@ -18,22 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "Want to Learn AI? AI Will Teach You"
-    excerpt: "Companies need to get their employees up to snuff on AI. And with all roads leading to AI lately, it turns out the technology is a powerful tool to do that"
-    publishedDateTime: 2024-01-30T18:32:00Z
-    webUrl: "https://www.livemint.com/ai/want-to-learn-ai-ai-will-teach-you-11706597915093.html"
-    ampWebUrl: "https://www.livemint.com/ai/want-to-learn-ai-ai-will-teach-you/amp-11706597915093.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/want-to-learn-ai-ai-will-teach-you/amp-11706597915093.html"
+  - title: "Want to Learn AI? AI will teach you"
+    excerpt: "Companies are having to get their workforces up to speed on artificial intelligence, and fast. And it’s looking like AI itself may be teaching the class."
+    publishedDateTime: 2024-01-31T00:22:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/01/30/1600x900/8784461264ae7b6a_1706598060059_1706598060264.png"
-        width: 1600
-        height: 900
-        isCached: true
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
 
 secured: "96s3C2psdccYT7msIf4xCKooSDXvBrlA0yCoA+n+Yiw5sGs4p/XsAlmNAdNBh2WXGyk7Tygg40riHn5NTjVL2mgd8+hKgfsX8vRvKsQY5zJqvDrnWH2gKifbh/KahSkWxC7VPES5340p6icSES0fh8y66nBT09/DzIFvFfcpFIulfQkpdy0KkrHt5oFDkF16TW5B12STHniPceaq5qd7odzF6Y92HbCp0hmR+xh5yMYuVkGwgOQF+eyM7glHS8zuj150qP2h/HDFL7s0BX5YqiJF8aQR2YCcOQeCCPIsQBxhJ3uvwddi1DIbbiIUzyoGniMyZxzlty9CYIdM4wUofVYwdbYwl3m0oObiiUC+vfomFvurxrI/ksEKUMG5rJ7GU8PesKx5p88K2H5ck2sU1qQVuPhCYJdJ1PhCOITsqI6eIUb162fOOx1TLbD7g18zHvVF0qafTR6CZiCT7jvEXfCN08BdMDkyk3rSvG/rH4EZ3aCLMwYAXCONf+4CnMxlwCJwKa5xgPJ1j8TwaajnCw==;PwEeDQe/c2xZtmfEQbr+Dw=="
 ---

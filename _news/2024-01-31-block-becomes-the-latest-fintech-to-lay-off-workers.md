@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
       name: Gulf News
       domain: gulfnews.com
     quality: 4
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
   - title: "Startup Digest: PB Fintech turns profitable in Q3, iRobot to lay off 350 employees, and more"
     excerpt: "Consumer robot maker iRobot announced layoffs of nearly 350 employees, approximately 31% of its workforce, after the $1.7 billion Amazon-iRobot deal was mutually terminated over regulatory hurdles. Founder and CEO Colin Angle is also expected to step down."
     publishedDateTime: 2024-01-30T14:08:00Z
@@ -133,6 +124,6 @@ related:
       domain: dailymirror.lk
     quality: 0
 
-secured: "BYVyTr6HR7AhIqfHVwn8PzMq9i1GrqeNsSKwSdka32xfFNQrIASqfz0PH4JRU3eewJeETnad46mboWzhgJudWEQrqM8Soqprb7QxlFtO+Ja1vTlBSwcLEXZJV+vTyEB9LLeEONcN1si75PcAAKCV4FAc0g3iwquuC/U/rm/FxjGLX5yLba6DDQJ82P/krCQD6DoVwcKNk66tXRUWyE4v6p4lz6CPXztmvSl2Z/XeuGOW3JvcnmYnH215Lumz4gV3FSpaO5o4Ykv1niKBzrFYinYzcemTtpIw4zyGofGgkjLYT1zpVSr/eWNSsd09/k0qVmn0UG4Tzuu1Q5wmm74c+8TliceMV6yK/V+QG94IWmU=;QD0bzVLr5Q9Y6qMXQDu5uA=="
+secured: "oqjV9v5GbrtzH87CSWt+Joqs9GEOw30TrTppUvdd+SCZ+6Tj/1AMMC/Z2kdsHAD4s82/wTtr16r61aecn7+YVa8YuehawKzqrmQ775gKC/dAZlBnmYLb9iDkfsYbc3JT+9pTgOXT+/yYnhClU33rr9TvZqqs9TMDKsHXP8JH/woAKVhV2UJdAPHMjnvYw8tIFI/DWAP9jeGClQ81DAkSIsCHR3wSqLSoksd2XZt51FeV4BWksdPbgDVjIIf5rdZaqG0jRPPHhRIQUHZP6VJFggzA0xrjBQ0Euz4I5DUhN8kljh3niZ/TXG0DFmwv1dpcgmxYfF3mynPpxDIqGLv+fWbM/SsXTGMkDe/ImAbR1QUrx+60M+db9UKcZtFezYyiXGGMTB2a+uEZw5bP4kiR9N8xGAO9JoeAzRFU+UKxbEGisvmMJJpmHa05asE72qsR82Xey3SyILdLbeXeBQkgWGjul8AhQTLhumLbZ2CZYnmp0aWASy3Qy+GC94AUPrK6zfjZcxQ3yKWTwYWtKloxLw==;1bvTqGYIN+SFXNZUPTQ+nw=="
 ---
 

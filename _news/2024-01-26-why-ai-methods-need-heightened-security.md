@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how AI can enhance cybersecurity in healthcare"
-    excerpt: "Artificial intelligence (AI) can help because of its potential to find anomalies in huge datasets in no time, facilitating early detection of ransomware, breaches, and insider threats. Before we highlight the ways AI impacts healthcare, let’s look at the ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.scmagazine.com/perspective/four-ways-ai-can-enhance-cybersecurity-in-healthcare"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 54
-    images:
-      - url: "https://files.scmagazine.com/wp-content/uploads/2024/01/DavidBalabanColJAN2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial intelligence needs theology"
     excerpt: "The plan is to create a “preparedness team” to supplement the artificial intelligence company’s current safety efforts, which include mitigating the technology’s adoption of human biases such as racism and preventing machine goals from overriding human goals."
     publishedDateTime: 2024-01-26T07:32:00Z

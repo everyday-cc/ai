@@ -220,6 +220,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 54
+  - title: "Microsoft, Google ride AI wave as revenues surge"
+    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked reve"
+    publishedDateTime: 2024-01-31T00:38:00Z
+    webUrl: "https://menafn.com/1107789058/Microsoft-Google-ride-AI-wave-as-revenues-surge"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/30/AFP_e555dimage_story.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
     excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
     publishedDateTime: 2024-01-29T07:10:00Z

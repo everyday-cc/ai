@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-30T00:00:00Z
 originalUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
 webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - Meta AI
   - AI
+  - Natural Language Processing
+
+images:
+  - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/how-toinstall-CodeLlamaon-your-local-PC-for-free.jpg"
+    width: 1280
+    height: 813
+    isCached: true
 
 related:
   - title: "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model"

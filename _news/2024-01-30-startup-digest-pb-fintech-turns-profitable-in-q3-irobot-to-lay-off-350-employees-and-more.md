@@ -109,15 +109,6 @@ related:
       name: Gulf News
       domain: gulfnews.com
     quality: 4
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
   - title: "Yara Technologies enters African market, targets rapidly-growing fintech market"
     excerpt: "Yara Technologies, Sri Lanka’s premier edfintech company, expanded into the African market by partnering with Meus.... .."
     publishedDateTime: 2024-01-30T19:16:00Z

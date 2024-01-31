@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Exploring the Boundaries of Using Artificial Intelligence in Legal Marketing"
-    excerpt: "The advent of artificial intelligence has disrupted the landscape of legal marketing and business development and has the potential to significantly alter the way law firms operate. By leveraging AI’s data analysis capabilities, process automation ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/exploring-the-boundaries-of-using-1780954/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 33
   - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
     excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
     publishedDateTime: 2024-01-30T20:21:00Z

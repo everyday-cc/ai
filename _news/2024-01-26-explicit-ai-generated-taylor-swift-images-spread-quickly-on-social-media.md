@@ -205,6 +205,20 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 54
+  - title: "Microsoft, Google ride AI wave as revenues surge"
+    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked reve"
+    publishedDateTime: 2024-01-31T00:38:00Z
+    webUrl: "https://menafn.com/1107789058/Microsoft-Google-ride-AI-wave-as-revenues-surge"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/30/AFP_e555dimage_story.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
     excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
     publishedDateTime: 2024-01-30T00:35:00Z

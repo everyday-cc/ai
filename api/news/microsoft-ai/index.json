@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-microsofts-activision-acquisition-and-bets-on-ai-yield-high-quarterly-revenue.md",
+      "title": "Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue",
+      "excerpt": "Tech giant now second business in history to reach a stock market valuation of $3tn, overtaking Apple as the world’s most valuable",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ff9e0227c0d40180253be9f779ab33c59c10677e/0_154_3229_1938/master/3229.jpg?width=620&quality=85&auto=format&fit=max&s=24f4a8ac375f5cf6b4e03446af606501",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings",
+      "publishedDateTime": "2024-01-30T21:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-koreai-a-startup-building-conversational-ai-for-enterprises-raises-150m.md",
       "title": "Kore.ai, a startup building conversational AI for enterprises, raises $150M",
       "excerpt": "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 294,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1458,59 +1510,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
-      "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
-      "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

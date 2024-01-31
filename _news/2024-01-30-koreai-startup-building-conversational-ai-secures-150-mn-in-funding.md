@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:33:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Cohere: The multinational, AI-for-enterprise company explained"
     excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
     publishedDateTime: 2024-01-29T00:00:00Z
@@ -124,15 +110,6 @@ related:
         width: 837
         height: 472
         isCached: true
-  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
 
 secured: "bWpi1Yy6/kTnjL3Nl6HHlml0LKAa8IkR+wLPiMbcqOMLXqhnDLpE0XfjhDGBKc8G5OCo8SKRLi8jTOQYnbo6UZivQKbDEJ/9uKbzX8u1SxJppKMyNhor+6vbj4t2ViTWsfMZ4WuMAL4b/69Oz5JxOpnrcctLTdUTYhkg0iQ/kY/tziEj6DiJf3Ah4kyDbH39QlCPIm7CEOQVsWjCDsS9+bQ5a6SZdvooow5u+R/RCWQIEjBHVVFCh7yai6ylP0FmTZ1U/fmEvDLiRq11BjSQi81U645rtG97cH1KgRlYdQ6TyVtG87bBJ8z+UUDM2zkEdMiFpG6T8zTTE4qLtd++s1VxC9Vs50V4OMRf0Xt+UNg=;DmmTIF2AAhUeGRjas+jLHg=="
 ---

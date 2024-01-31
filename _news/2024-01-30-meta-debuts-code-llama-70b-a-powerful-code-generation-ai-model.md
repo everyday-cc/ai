@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 151
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/8pwml7/article67792337.ece/alternates/FREE_1200/2024-01-29T182506Z_91499539_RC2WH3ADVC2D_RTRMADP_3_TECH-RESULTS-ADVERTISING.JPG"
         width: 1200
         height: 768
+        isCached: true
+  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
+    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/how-toinstall-CodeLlamaon-your-local-PC-for-free.jpg"
+        width: 1280
+        height: 813
         isCached: true
   - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
     excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
@@ -105,15 +119,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
-    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "MmGVfKDHywwxy7uSBKj/xwMj4stT6yaEFMAZigx/RTASFRTYINzMUkBt9qa3SWNlFfj19TUnvhFpZQwahO+bzdI2wnrrpAJPreRx34WCHp47ZVPTK7xmsgiff7j/ZqvAtKZD3tn5RBpXXzVcMHVmjaNKpCVD12xddvSas4E84lifmZ/ML7HUZxcsCw+/o8qKSA40R1RlitcWI1sTkjnnGPEokXopBwn2UzqLQ4VycBjB8W1yAXpdgHnmbZvBl9OpHWpBe6p4jsgBqx340BMlBnEmZ70K9+O/QUtCH8d5xDhltTol2a2l7royHAXBzBZDh3dkAzjRB7S03N0GRoTEmqBVNsTro7fTkQ14CmrG4oc=;syeLbsZNKUPBbCjwZdBKtA=="
 ---

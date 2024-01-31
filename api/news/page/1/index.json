@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
+      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
+      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "publishedDateTime": "2024-01-30T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
       "title": "Block becomes the latest fintech to lay off workers",
       "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -51,6 +103,58 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsofts-activision-acquisition-and-bets-on-ai-yield-high-quarterly-revenue.md",
+      "title": "Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue",
+      "excerpt": "Tech giant now second business in history to reach a stock market valuation of $3tn, overtaking Apple as the world’s most valuable",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com",
+      "originalUrl": "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ff9e0227c0d40180253be9f779ab33c59c10677e/0_154_3229_1938/master/3229.jpg?width=620&quality=85&auto=format&fit=max&s=24f4a8ac375f5cf6b4e03446af606501",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings",
+      "publishedDateTime": "2024-01-30T21:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -114,7 +218,7 @@
       "originalUrl": "https://www.marketwatch.com/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -405,7 +509,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -560,7 +664,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -741,7 +845,7 @@
       "originalUrl": "https://diginomica.com/conversational-marketing-combining-power-ai-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -827,6 +931,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-30-rebellions-lands-124m-to-develop-its-new-ai-rebel-chip-with-samsung.md",
+      "title": "Rebellions lands $124M to develop its new AI Rebel chip with Samsung",
+      "excerpt": "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/",
+      "originalUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/",
+      "publishedDateTime": "2024-01-29T23:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch.md",
       "title": "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch",
       "excerpt": "A look at the expectations from analysts for Microsoft's Q2 earnings report and key items for investors to watch.",
@@ -835,7 +991,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -990,7 +1146,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122413.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": null,
       "content": "",
@@ -1074,143 +1230,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-get-this-microsoft-tech-certification-training-bundle-for-just-70.md",
-      "title": "Get this Microsoft tech certification training bundle for just $70",
-      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/df5b14b9cd2f8cf22d8e1d6c9ef6321492a07146/2023/12/15/85893fe1-b2e5-4319-a1b2-16aa30ef10c1/microsoft-stack-social-bundle.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/",
-      "publishedDateTime": "2024-01-29T19:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-how-does-data-deduplication-work.md",
-      "title": "How does data deduplication work?",
-      "excerpt": "Demystifying data deduplication and explaining how it can work for your organization.\nThe post How does data deduplication work? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-does-data-deduplication-work/",
-      "originalUrl": "https://www.ibm.com/blog/how-does-data-deduplication-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T19:17:53Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes.md",
-      "title": "Nala Robotics incorporates generative AI into restaurant robot recipes",
-      "excerpt": "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg",
-          "width": 770,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

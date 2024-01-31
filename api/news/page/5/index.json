@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-26-hugging-face-teams-up-with-google-to-accelerate-open-ai-development.md",
+      "title": "Hugging Face teams up with Google to accelerate open AI development",
+      "excerpt": "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-teams-up-with-google-to-accelerate-open-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/hugging-face.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T19:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-kirsty-gilmour-working-with-ai-firm-in-bid-to-end-online-threats.md",
+      "title": "Kirsty Gilmour working with AI firm in bid to end online threats",
+      "excerpt": "Scotland's Kirsty Gilmour says she is still receiving death threats and abusive messages on social media despite using AI to block out trolls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/sport/badminton/68100383",
+      "originalUrl": "https://www.bbc.com/sport/badminton/68100383",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/576E/production/_132428322_gettyimages-1473746886.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/sport/badminton/68100383.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/badminton/68100383.amp",
+      "publishedDateTime": "2024-01-25T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-apples-app-store-now-permits-streaming-game-stores-adds-in-app-purchase-for-mini-apps-games-or-ai-chatbots.md",
       "title": "Apple’s App Store now permits streaming game stores, adds in-app purchase for mini-apps, games, or AI chatbots",
       "excerpt": "Alongside the numerous changes Apple is making to its platforms to comply with the EU's Digital Markets Act (DMA), the company is also updating its rules",
@@ -1114,83 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy.md",
-      "title": "Apple Car delayed until 2028, less ambitious design with downgrade to Level 2+ autonomy",
-      "excerpt": "Apple delays its electric vehicle until at least 2028: now a semi-autonomous driving car... will include the wheels and pedals, after Apple removed them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T02:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
-      "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
-      "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

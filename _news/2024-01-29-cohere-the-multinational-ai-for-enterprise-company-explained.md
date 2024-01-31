@@ -103,29 +103,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:33:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
     excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
     publishedDateTime: 2024-01-30T14:39:00Z

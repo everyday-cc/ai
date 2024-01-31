@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:33:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Cohere: The multinational, AI-for-enterprise company explained"
     excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
     publishedDateTime: 2024-01-29T00:00:00Z
@@ -117,15 +103,6 @@ related:
         width: 837
         height: 472
         isCached: true
-  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
   - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
     excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
     publishedDateTime: 2024-01-30T14:39:00Z
@@ -136,6 +113,6 @@ related:
       domain: business-standard.com
     quality: 17
 
-secured: "4/TPLhEL95ZAbxJzfBrQlqn5LbnNJdLJjgMF9NiNB9vBTc+GEmvlVOQb8PSupsiiuXCDSCH4/r7Y5kiPyai3SJPaie6keO6aQDbNqMrl65tXYcaL40Sy3MR+dUEyblRZY5ie/A3DTokk2DuDHMrSjLd0TE1eZbaQyJvUu9Vv2hr0kJTuj/9JRirn3NqiLwo7m7qX/a+7mr4/ev70QOAlRshO7yZv788UjGXRNJaCxhUCw7p0E4Po5lV+BS7FJ8cAs0H30BLRIlShV+r+DMneNk8QNFJ3HwcqMJi5/zO7ZP/bErmAjBDqEdEgoTvOlZTlEb1KLQIJW5HoZxzVI8EbvIviaJaW71cFDLX2CyH20Pw=;RtdKejsacXLt0XRwn4ARzQ=="
+secured: "xpOLr335biFIPZ/o7h23Uh/lhrK2HkIPxi9jXvm+gJQ129qH7AEaMJdU+5YHWV7N0Hz4YfqDsQqpNnumavc4InTFpgIeTlq+AxtP1v5jrtJHuUst71TcNJyDYukIhPoBsSekTj2Z+3a3AWN6EM/c4cG9vbMI3JFGYy/yWr4Xgnn1RTN0jZx6gMc8Pp4aTxzDjTvHIc0CMix26IBP9kf4IC/0zG7pXRV/zXL2O1vke9UjeagEuKRF4wvODXr6aVC/CgIKC7+Cc4OI7tEaICkWf30fZDVyQoLYTi6ISfo0xtbGAqGzuXe3AIdeyK0I2+g+whz4/YSmETIIgixzB7KNRKKmNPZAJPBYmOiB2ZDXMUKTczuqCZxG9MyYGvH+e0i86FfVpVQkFiu+JXBqM9C0yPgp2n4kSgBjoWnN1IkUgx5Eg7m0zUOqAZO7liyjvR7yiUvFn3mpN5Kt7YBxhTYyw8TumdPqmQ6zGZVV9pD2TqLfQaM3fgjz+t0Sfb6HfBPcIm9JvZafHf3Bx+Ghhc520g==;lu53CuoBM6GjM8+np6oV6w=="
 ---
 

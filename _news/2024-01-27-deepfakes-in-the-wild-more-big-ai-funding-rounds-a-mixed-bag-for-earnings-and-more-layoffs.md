@@ -54,6 +54,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How Taylor Swift’s Experience With ‘Deepfakes’ Can Help Students Examine AI Ethics"
+    excerpt: "Bordeaux, 17, has studied artificial intelligence in her journalism and yearbook class at Dawson County High School in Dawsonville, Ga., so she knew immediately that she was looking at “deepfakes”—AI-manipulated video, audio, or photos created using someone’s voice or likeness without their permission."
+    publishedDateTime: 2024-01-30T22:11:00Z
+    webUrl: "https://www.edweek.org/technology/how-taylor-swifts-experience-with-deepfakes-can-help-students-examine-ai-ethics/2024/01"
+    type: article
+    provider:
+      name: Education Week
+      domain: edweek.org
+    quality: 48
+    images:
+      - url: "https://epe.brightspotcdn.com/dims4/default/bc90c37/2147483647/strip/true/crop/1440x960+0+0/resize/945x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.us-east-1.amazonaws.com%2Ffa%2Fed%2F7c939c3a40e694ff8448dd9095f5%2F013024-taylor-swift-1-ap-bs.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "3AC5Ial8iR370QCOqFZbGF5A8xmIF9cm6h/N9OZCK8JNWrQ/+ErxxaClCMRUGTfk7uxiNTJ42lh3z6aIBGCwf7PItWe0z95C9wa79Mjk5ZTeto/mmrAInzyrGx4iD2ByM0oLUDytPqdIBUTh0zLxfxHTuSNDml2hpVSyxhXfYmqKguCXZ2s5oaRtv935Yskt0B0nm0c9+xjTLV5PaKcUZBNtMiUvXe2NvyRR5lUiEzbDEy1s1rd2IhfBOnD09xoC7CnsylFvVeb7tbajG+mSYTZ7hg81AgpWafaRYqyTmc3djIhzC2dtdzLokBNYAqvu2822sMzI5JMXbYWJD5CMeWAesLsRxnpsYhacbA1uQ+k=;c83gXjVyS3wn6xPWE9ttqg=="
 ---

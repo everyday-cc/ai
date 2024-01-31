@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-st
 webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,12 @@ related:
     provider:
       name: MedCity News
       domain: medcitynews.com
-    quality: 36
+    quality: 56
+    images:
+      - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1157229146.jpg"
+        width: 1732
+        height: 1732
+        isCached: true
 
 secured: "W9YaFVdxN4gKGrCNj5VHneKDgpqAGNWAtfJLqKDPGZ5Kxtb8AJBLwT2r/lQaJrRRk+VU3ZCT9wtx4QmLK7N9LtuszG3VcbjIiXSkefTQ+OJ7ofm4AlkePyslS3gOWCkPBBoqMAaMEMoO2pzDWSdfcPEo7nkYx89DNKI8p5ZdqOfqP7MHtcpqG30SIzhOME70aEQPaadCxeLdLLeAqw4m+Z4ZRmt6WAz+82ca1ihUNjIlZj4pZPV1ZzXSvUKFF2ksiwFe126tTRwK4a/HxgTbbIuQ2UTp5GOVfzKvibidmMCKSt6opFKtiQLMWT5pA5ZQ3ohmqISiDv42uKdUE2RqCtIlRWYQZ9zpVK9A/oovYYY=;k+aSYtzsY++IONqyqds1CA=="
 ---

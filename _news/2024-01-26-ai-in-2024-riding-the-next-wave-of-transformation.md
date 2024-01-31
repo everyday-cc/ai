@@ -36,6 +36,22 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 72
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 46
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "LMnDogy+YFNsaJDQ7GTw8rAHzM5Bom0+/FziC1gMDYIXszKm0Vne4V6vCFDI1MwGYAMQSWGBy6MYhUDJ/4WrHIKSOL/tYgIwGbjNzLsAUhZN3OCop7Ooj12ww4Qi+R1EHn8B011twU6iWfn0ebd79z+/Vq3+lbhx10B6EFXGs0KkGFz5rIyTzNVI3J8sFi42y/PVfvErLFNj1yOe3lPph0nqC79xD0ZPR0RSbLdp4JLtfyDtwlAfkiNt5jax+Ueu0+GPkTLlQxtBwsR4iKWjoj+VD3Yl3+3ate2cEm5bZN5hAbtOLvLPeaq87reEa1VqB3WUa3HgdHPSlUHpsDAT0BcgDMC4w6ZFnAqPH3y3zCU=;VcszXB1V3uhkE1kDlzs30Q=="
 ---

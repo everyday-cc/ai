@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
+      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
+      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "publishedDateTime": "2024-01-30T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
       "title": "Block becomes the latest fintech to lay off workers",
       "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1332,41 +1384,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-artificial-intelligence-machine-learning-in-finance-carry-potential-risks.md",
-      "title": "Artificial Intelligence, Machine Learning in finance carry potential risks",
-      "excerpt": "While rapid deployment of Artificial Intelligence and Machine Learning (AI/ML) in finance is promoting efficiency gains, redefining client interfaces, augmenting forecasting accuracy, and improving risk management and compliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "publishedDateTime": "2023-12-27T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

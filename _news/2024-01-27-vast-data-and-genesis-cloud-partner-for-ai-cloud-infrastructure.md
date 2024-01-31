@@ -61,6 +61,15 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Nvidia and Equinix partner for AI data center infrastructure"
+    excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
 
 secured: "i4LbVizkRfl9rfD16v4exxrUYklDNVfZgf7fuEGJ2IZ4nqs1Kws1ya1v6OCfm1hCsGPvHAhK2QMrJA4HeUb1AH7Vzsq5jH2zGNH65j8ZI6a1ynPJ37FhvnjPVzPlKb+CUJxlgU0z/ushODOABhcHp1UGP8FuwEtJktnX7JoOKXXK9woX8ynY8ydX5AlNPCVDXGLRfXqD2OpUQWz4FFQA1uHIL7eChkY1w7yI9mqm58Pln5/EKYbpDYetrN6MoTV120YUdf0s8hqiGRvGi9IJpPwDFDbwD7ltsOROp54jnB1n150MfClqHGvY0sejDBsd7s8rpLKNTmjlrR6icK6XoHoOU7xaGPLsbfdMwC+YwvhTkCkx+yTl0WUzMGrb5b+QxwbdKEL7dfq6s3XhF1xQ7iLW7aXOy56R23YUdcOxDbPrWr4X1WJsdssUNncPrVWCdQz3mWi50ouWhGBtGxYI+pOA81Oh/DVufJMKzV9r8+7j3c2bxgycAa1/KcK6GmrIWMtfQjD7PZm/oCJIKVoedg==;SfVenf0gXvRRfKc4sYTPSQ=="
 ---

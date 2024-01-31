@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 46
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "swzsQytHecjbi+5WEhpkZWMcUxo2CxJVQaXI+5kw9Ub+H70ZEA3ibBZlkjuGTgJm3IGR3LL5hlkNXBE10d30meddLSEEkhCz48HtyNfSL/aXA/aCLGG9P6RzkFAJNmWDXKOLrzISWilrQ/CSDgpKZCo/D1ejew/Jp8e+73Ui24hf3OD6iv0Xyd6XkdlJlMNaVHGWgNvJsDshV/h2uC6wdto/hWg45th8auJRvGRRqqSH9I+Ezbidk82MiYv13ujZy6ybWrwwnU9PDYsMeMUvR3mUV1ZVeqXEe/3+cgkWj2EfslLvMrKHrTPa4ndWki5C4GiyHelsHCq94H4o2ROqqo0sG+WxdATDs6kdZmAIbk8=;i+9CX5D0raiN2tfEL9QMVA=="

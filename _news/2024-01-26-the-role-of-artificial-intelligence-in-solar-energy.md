@@ -42,19 +42,19 @@ related:
         width: 1600
         height: 856
         isCached: true
-  - title: "Google Bard AI's addition to Messages could change the way we text forever"
-    excerpt: "Google’s experimental AI chatbot Bard may be coming to the Google Messages app in the near future – and it promises to bring some major upgrades to your phone-based chats. Tipster Assembler Debug uncovered the feature in the beta code of the Google ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.techradar.com/computing/software/google-bard-ais-addition-to-messages-could-change-the-way-we-text-forever"
+  - title: "WPP cuts costs to meet the challenge of artificial intelligence"
+    excerpt: "WPP rises to threat of artificial intelligence with £250 million-a-year reboot while making big cuts in its agencies"
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/wpp-rises-to-threat-of-artificial-intelligence-with-250m-reboot-hct3kdqbx"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 67
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 37
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9J2TaTmwLtSwcqA2WW9QrG-1200-80.jpg"
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fae7f2c51-52cc-4c7a-ba18-f680e41aa06a.jpg?crop=5000%2C2812%2C0%2C667&resize=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
 
 secured: "EnmAFiZe9RtfQweS5CjI9fRLp/TPmueVQ7m22k+YLfgFLjNwj24wihP3sUwyqBgp0OPDrDcq9IYLkjnT9+4DhNW2e9FXm9yBLDxZ2f7guOg5VBFNbawQyG+pKMLETA+Rr0veRBuTfTgp6dK/4SmedkFrPZxsZYocfAaxakf88OqeyYmkU39dAxwaG0oieWmTDExQU9vn+gtUQq2laS+5QOs04Ra5teLZDz8n1ZXUR27/BcaH1r8sg1Dmfdtw2obkCnHRDvzKoCWzbb7rNR4GlPf5Yp3W/MwWcasUcAoa7yk7G7IGGcyXnLxUV8W2A8hMc4h1EFNkXd8bwVxVFwNDZCY4qwd4w7tvr5STo4koe2A=;qV9fWQpoHJ/P6g8QxZKzJg=="

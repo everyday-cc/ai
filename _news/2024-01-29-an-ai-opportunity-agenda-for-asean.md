@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/"
 type: article
 quality: 109
-heat: 112
+heat: 109
 published: true
 
 provider:

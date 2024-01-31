@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 560
         isCached: true
+  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
+    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/how-toinstall-CodeLlamaon-your-local-PC-for-free.jpg"
+        width: 1280
+        height: 813
+        isCached: true
   - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
     excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
     publishedDateTime: 2024-01-30T04:22:00Z
@@ -101,15 +115,6 @@ related:
         width: 770
         height: 435
         isCached: true
-  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
-    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "JxNIxus6sAVRzCMH6GrYTyqx3+5dWgl7HxsKyWji2WKXYlYdL0+b2OX6GSrfYKxtyY3nier+4LpqAJmoYbdn04mGNlwJKHJArGt9aJS74AdMcmMN8BCNhTrt6hQW/njR9Km+4HkxnS9EnfhtwaBo5E6URbltEcVnFhszJVq8HL8Ts31u0PPTjofetnootslvKWJ++SUnKoHKDpqEmYx9g4hcmy472FLI5uZL9eMu8J1UT8zMs4INqnFgaA8/kLb8dc1EIx+rMIqSyu4AzasejriZn92QOTu5D5+K6S0ImhmsyHkV9xpMpbJ83Auctz871b9naTYFIKEaUfVv5279Bdj7LyAwtNnuYRO1qPlEVyI=;55ipM49L0wFg7Z5rogaJ3g=="
 ---

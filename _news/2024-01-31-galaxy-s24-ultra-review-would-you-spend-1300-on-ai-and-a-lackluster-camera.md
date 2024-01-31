@@ -39,54 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
-    excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
-    publishedDateTime: 2024-01-27T02:31:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107177596,imgsize-6576,width-1200,height=765,overlay-ettelecom/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "What drives Samsung's decision to skip Galaxy AI in Chinese Galaxy S24?"
-    excerpt: "This includes AI-based real-time call translation, summarisation ... stating that it is now on par with GPT-4, a language model developed by OpenAI. The emergence of advanced language models like ChatGPT and others prompted Chinese tech companies to ..."
-    publishedDateTime: 2024-01-27T10:09:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/samsung-galaxy-s24-series-baidu-ai-china-1706341467.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
-    excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
-    publishedDateTime: 2024-01-29T10:37:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107230595,imgsize-66992,width-1200,height=765,overlay-ettelecom/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China"
     excerpt: "Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features,"
     publishedDateTime: 2024-01-27T06:34:00Z
@@ -144,20 +96,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2024/01/28/2514788.jpg"
         width: 1240
         height: 825
-        isCached: true
-  - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
-    excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."
-    publishedDateTime: 2024-01-26T16:00:00Z
-    webUrl: "https://www.wdef.com/tech-byte-samsungs-artificial-intelligence-smart-phone/"
-    type: article
-    provider:
-      name: wdef.com
-      domain: wdef.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/11/z/x/techbyte-epikos-carousel.jpg"
-        width: 768
-        height: 423
         isCached: true
   - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
     excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."

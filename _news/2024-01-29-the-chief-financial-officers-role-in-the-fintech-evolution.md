@@ -104,15 +104,6 @@ related:
       name: Gulf News
       domain: gulfnews.com
     quality: 4
-  - title: "Announcing Radiance 2024: The Largest Fintech Conference in DFW at Globe Life Field"
-    excerpt: "Explore cutting-edge Order-to-Cash, Treasury, and Record-to-Report practices as finance leaders delve into transformative trends like Generative AI and Digital Transformation ... the largest Fintech Conference for the Office of the CFO."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.bizjournals.com/dallas/press-release/detail/9449/HighRadius"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
   - title: "Startup Digest: PB Fintech turns profitable in Q3, iRobot to lay off 350 employees, and more"
     excerpt: "Consumer robot maker iRobot announced layoffs of nearly 350 employees, approximately 31% of its workforce, after the $1.7 billion Amazon-iRobot deal was mutually terminated over regulatory hurdles. Founder and CEO Colin Angle is also expected to step down."
     publishedDateTime: 2024-01-30T14:08:00Z

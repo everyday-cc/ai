@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-30T13:45:00Z
 originalUrl: "https://medcitynews.com/2024/01/how-artificial-intelligence-could-be-the-ultimate-weapon-against-cancer/"
 webUrl: "https://medcitynews.com/2024/01/how-artificial-intelligence-could-be-the-ultimate-weapon-against-cancer/"
 type: article
-quality: 36
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+
+images:
+  - url: "https://medcitynews.com/uploads/2020/12/GettyImages-1157229146.jpg"
+    width: 1732
+    height: 1732
+    isCached: true
 
 related:
   - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
@@ -30,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 51
 
-secured: "xEPg5IiZwGO5VWh9ETT4mQjDXIQAEtoicmg2uCD0wbl6DDfkgNyRZ2Xva3wUHbSum7OAGu7oXVeT+k/AU2eWZDGpj4o1kXLk6rjt2Gqal92MbcSwALJ1k2hHZKsAHzmC1K17w6uzqNStkarxbw0aHixuQd6GsQy/QMpE3N1+rS8X933Vp977LR/Q5r8/pRUX4x+CxjZ2jAtP7/0XHPXaddtdD/nkKddjc5FyTWqYSIVglV5p5JpOvDxhdEH9A1c6v2Pn7hJrUaz3pwV3tO9QRKMNIu/nAtdSSNC4T9HAQ8MtthswYKh3yfK1JGDZ9u37xma22K7zKpjpJ9Ok3oR05uD8H2Dmr2spQorMGCsxACw=;XGkVcWw1sBoS0cIx6Ztv5A=="
+secured: "OLujEEZRMmldHB1XggEq34h80VxXx0BCirEO/jweWDCmJ3CVGtBoHMc9hqZYkDOy4buw1+nqeU4OO5+xNCaotbCXjUpjjPabddjvctWNYCptHDS1YZckt9WjHMTmW9ad7xXQmzPA6quy7OaditJdh+xnYdOQZ6hr7gOn2VBEH1MIDZ9WtrbeDFPBy6oeFeOPSx9soHyVK/w4chYSg9mrM7ut9hObjajscR6uXPihL87zecWV+r5l4zpxPcUo5SIzh3Ho3Yqqs/RHXeJcKrGO/6jSezC6aatFqDxN3VD2tQIedCvu9v4VQJzsv288R7s7Mrwih9ylUAtZ0vziNp6mzTo+2p1Drkoo/NInA6wya3g=;XenE7kNfaFzK0AI+izHaAA=="
 ---
 

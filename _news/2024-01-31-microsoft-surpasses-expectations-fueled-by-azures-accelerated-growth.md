@@ -46,6 +46,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 76
+  - title: "Microsoft touts AI strength, but shares dip as market digests costs"
+    excerpt: "Microsoft beat market estimates for quarterly profit and revenue on Tuesday, as new artificial-intelligence features helped attract customers"
+    publishedDateTime: 2024-01-31T00:15:00Z
+    webUrl: "https://theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/"
+    ampWebUrl: "https://theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/tech/microsoft-touts-ai-strength-but-shares-dip-as-market-digests-costs/1946278/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2024/01/Microsoft_553.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Microsoft adds 2 new Indian languages to Translator"
     excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
     publishedDateTime: 2024-01-29T09:00:00Z
@@ -62,17 +78,29 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "AI News: Microsoft Reached $3T Valuation on Back of AI But Faces FTC Probe"
-    excerpt: "Microsoft's strategic AI investments propelled it to a $3 trillion valuation; however, this success now faces scrutiny from the FTC."
-    publishedDateTime: 2024-01-26T00:59:00Z
-    webUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/"
-    ampWebUrl: "https://coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
-    cdnAmpWebUrl: "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/ai-news-microsoft-reached-3t-valuation-on-back-of-ai-but-faces-ftc-probe/amp/"
+  - title: "AI Companies Lose $190 Billion in Market Cap After Alphabet and Microsoft Report"
+    excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who had sent their stocks soaring."
+    publishedDateTime: 2024-01-31T00:15:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2024-01-30/ai-companies-lose-190-billion-in-market-cap-after-alphabet-and-microsoft-report"
     type: article
     provider:
-      name: Coingape
-      domain: coingape.com
-    quality: 52
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
+  - title: "Insight Enterprises inks new multi-year Microsoft Azure deal"
+    excerpt: "The company has received 65 Microsoft partner of the year awards in the last decade, including 11 worldwide awards for AI, Azure migration, IoT and mobile app development, among others. One of the first partners to publish offers for Microsoft 365 Copilot ..."
+    publishedDateTime: 2024-01-31T00:03:00Z
+    webUrl: "https://www.crn.com.au/news/insight-enterprises-inks-new-multi-year-microsoft-azure-deal-604595"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/signed_agreement400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
     excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
     publishedDateTime: 2024-01-29T11:00:00Z

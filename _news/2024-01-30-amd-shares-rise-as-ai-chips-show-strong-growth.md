@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AMD shares rise as AI chips show strong growth"
+    excerpt: "AMD makes graphics processing units, or GPUs, which are needed to train and deploy generative artificial intelligence models."
+    publishedDateTime: 2024-01-30T21:34:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amd-shares-rise-as-ai-chips-show-strong-growth/5089537/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amd-shares-rise-as-ai-chips-show-strong-growth/5089537/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amd-shares-rise-as-ai-chips-show-strong-growth/5089537/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 74
+    images:
+      - url: "https://media.nbcnewyork.com/2024/01/107364689-17062131932019-01-09t200350z_544163717_rc1ae532a0a0_rtrmadp_0_tech-ces.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AMD Raises Outlook for AI Chips. It Wasn’t Enough."
     excerpt: "Advanced Micro Devices increased its guidance for data center AI chip sales. On a conference call late Tuesday with investors and analysts, CEO Lisa Su said that AMD expects revenue for its data center GPU products to surpass $3."
     publishedDateTime: 2024-01-30T22:18:00Z

@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-29-revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024.md",
+      "title": "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024",
+      "excerpt": "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
+      "publishedDateTime": "2024-01-29T03:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
+      "title": "SKUSAT-K to have centre for AI, machine learning",
+      "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "originalUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "publishedDateTime": "2024-01-29T02:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-transforming-sleep-and-industry-in-the-ai-era-with-smart-mattresses.md",
+      "title": "Transforming Sleep and Industry in the AI Era with Smart Mattresses",
+      "excerpt": "In the realm of healthcare, AI is making significant strides towards personalized treatment strategies. IBM Watson for Oncology, for instance, utilizes artificial intelligence to assist in formulating treatment plans for cancer patients. Watson can process ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/sponsored-content/derucci-smart-mattresses/",
+      "originalUrl": "https://newatlas.com/sponsored-content/derucci-smart-mattresses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1c03d48/2147483647/strip/true/crop/1800x945+0+128/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2Fa8%2Fc23cf9ea41c19e6bc43c449c89ba%2Fnew-altas-4-lead-image.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-how-could-artificial-intelligence-help-pregnant-women-in-zambia.md",
       "title": "How Could Artificial Intelligence Help Pregnant Women In Zambia?",
       "excerpt": "A team of entrepreneurs, researchers and health professional in Zambia are harnessing artificial intelligence to help improve care for pregnant women.",
@@ -158,7 +305,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -541,7 +688,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -800,7 +947,7 @@
       "originalUrl": "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -840,57 +987,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-north-korean-hackers-spotted-using-generative-ai.md",
-      "title": "North Korean Hackers Spotted Using Generative AI",
-      "excerpt": "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai",
-      "originalUrl": "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -954,7 +1050,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-defense-in-depth-security-for-generative-ai-applications-using-the-owasp-top-10-for-llms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "",
@@ -1122,109 +1218,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy.md",
-      "title": "The Creator Economy Is Facing A Perfect Storm Of AI-Generated Content And Piracy",
-      "excerpt": "From Taylor Swift deepfakes to systematic theft of copyrighted content, social platforms are being overwhelmed by AI-driven bad actors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robsalkowitz/2024/01/26/the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy/",
-      "originalUrl": "https://www.forbes.com/sites/robsalkowitz/2024/01/26/the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b3dd176adbd5ebb81921c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robsalkowitz/2024/01/26/the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robsalkowitz/2024/01/26/the-creator-economy-is-facing-a-perfect-storm-of-ai-generated-content-and-piracy/amp/",
-      "publishedDateTime": "2024-01-26T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-warning-google-will-start-mass-deleting-nest-hub-features-today.md",
-      "title": "Warning: Google Will Start Mass Deleting Nest Hub Features Today",
-      "excerpt": "Google’s process of deleting Assistant features, the AI that powers its Nest Hub products, starts today. Two weeks ago, the company announced that it plans to delete 17 Assistant features on January 26th: today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
-      "publishedDateTime": "2024-01-26T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

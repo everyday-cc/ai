@@ -7,7 +7,7 @@ originalUrl: "https://www.brecorder.com/news/40286158"
 webUrl: "https://www.brecorder.com/news/40286158"
 type: article
 quality: 56
-heat: 66
+heat: 68
 published: false
 
 provider:

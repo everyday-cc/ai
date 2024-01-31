@@ -25,20 +25,107 @@ images:
     isCached: true
 
 related:
-  - title: "North Korean Hackers Spotted Using Generative AI"
-    excerpt: "So far, the North Korean hackers are not using generative AI to conduct actual cyberattacks. Instead, it looks like they are tapping today’s AI models for planning purposes."
-    publishedDateTime: 2024-01-26T22:30:00Z
-    webUrl: "https://www.pcmag.com/news/north-korean-hackers-spotted-using-generative-ai"
+  - title: "Rebellions lands $124M to develop its new AI Rebel chip with Samsung"
+    excerpt: "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais"
+    publishedDateTime: 2024-01-29T23:53:00Z
+    webUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/"
+    ampWebUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03rSROvnTpoDutDJJ0mNn9I-1.fit_lim.size_1200x630.v1706304011.jpg"
-        width: 1120
-        height: 630
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
+        width: 1200
+        height: 831
         isCached: true
+  - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
+    excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
+    publishedDateTime: 2024-01-27T02:31:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107177596,imgsize-6576,width-1200,height=765,overlay-ettelecom/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "What drives Samsung's decision to skip Galaxy AI in Chinese Galaxy S24?"
+    excerpt: "This includes AI-based real-time call translation, summarisation ... stating that it is now on par with GPT-4, a language model developed by OpenAI. The emergence of advanced language models like ChatGPT and others prompted Chinese tech companies to ..."
+    publishedDateTime: 2024-01-27T10:09:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/samsung-galaxy-s24-series-baidu-ai-china-1706341467.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
+    excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
+    publishedDateTime: 2024-01-29T10:37:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107230595,imgsize-66992,width-1200,height=765,overlay-ettelecom/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
+    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
+    publishedDateTime: 2024-01-30T19:33:00Z
+    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
+    excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."
+    publishedDateTime: 2024-01-26T16:00:00Z
+    webUrl: "https://www.wdef.com/tech-byte-samsungs-artificial-intelligence-smart-phone/"
+    type: article
+    provider:
+      name: wdef.com
+      domain: wdef.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/11/z/x/techbyte-epikos-carousel.jpg"
+        width: 768
+        height: 423
+        isCached: true
+  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
+    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
+    publishedDateTime: 2024-01-30T19:12:00Z
+    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
 
 secured: "bmNvQPgf1t2RPeqXKtNxPLAxVpRmJUtZF/woDPwj8S8F340npdMDRKlZ9CHsHcAdH6qCq2viM7yWSj4ygkZdqohvDnOieRNJQbpfCa2eWFXT56d5FCqeYTdC1Lz3AeJpimqPR4VzyVduszYgG66mPglMqvjmy5RCD20s7gmUiT8cg4sYMx+GNKZ1DLj+p4gGwylvvi8FRY6tnZKSh2kqaGEa0kuAImnIICJF5x+Uv1bPkp05b8ZfV2lFyDoneNkfWmbnBilyb5UkYT2nWakH+zqSoPvlcd0Sts/A1UZWh+duWkIFTkY/C8olu/TvQDhFTzPLGor99Z9u17oSSxJNtK8/Skw1dbeJgWhuiDB7uT9tp7iEVZ5cuL+NmwTGy9j5+JFxYjhQLV7tNb735OJ5FDaY3E4rXhK0aQicd8Y+QOoSsgm+aG1CJrr38C/JatnyUXFQUs3JveEmEc2EUuHBSIXUbV0/bFceZpDGWqGy6qXLmgvBN1tR/3R0xMQo1idJJFrsiJruObNGnKhfz7zavA==;eO/Op7Bnx/rSZuCsUOdNDg=="
 ---

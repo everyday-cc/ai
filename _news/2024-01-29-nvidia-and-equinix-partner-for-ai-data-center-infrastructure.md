@@ -19,89 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead"
-    excerpt: "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%."
-    publishedDateTime: 2024-01-26T00:28:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
+    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
+    publishedDateTime: 2024-01-29T13:22:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
     images:
-      - url: "https://images.mktw.net/im-474373/social"
-        width: 1280
-        height: 640
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
-    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
-    publishedDateTime: 2024-01-30T07:54:00Z
-    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
-    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
+  - title: "Google Cloud opens up infrastructure for Hugging Face developers"
+    excerpt: "The partnership marks the latest move from cloud providers to become the preferred location for deploying and tuning generative AI models."
+    publishedDateTime: 2024-01-26T15:41:00Z
+    webUrl: "https://www.ciodive.com/news/google-cloud-hugging-face-partnership-vertex-ai/705705/"
     type: article
     provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 24
     images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
-        width: 600
-        height: 314
+      - url: "https://www.ciodive.com/imgproxy/gxZu25_dafc14N-Ebt1iWHxtYGE1JKopSTw4-PY5Q5w/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0NTQ3MTIzNDUuanBn.jpg"
+        width: 770
+        height: 435
         isCached: true
-  - title: "AI Chips Market Reaching $400+ Billion in 2027"
-    excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/01/ai-chips-market-reaching-400-billion-in-2027.html"
+  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure for Organizations Worldwide"
+    excerpt: "January 29, 2024 – VAST Data, the AI data platform company, today announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud."
+    publishedDateTime: 2024-01-30T08:35:00Z
+    webUrl: "https://menafn.com/1107784909/VAST-Data-and-Genesis-Cloud-Partner-to-Deliver-AI-Optimized-Cloud-Infrastructure-for-Organizations-Worldwide"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
+      name: Mena FN
+      domain: menafn.com
+    quality: 20
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-26-at-7.17.57-PM.jpg"
-        width: 1608
-        height: 1262
+      - url: "https://menafn.com/updates/pr/2024-01/30/pr_11474_1101ed6c_image_story.jpg"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
-    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
-    publishedDateTime: 2024-01-30T03:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
+  - title: "VAST Data and Genesis Cloud Partner for AI Cloud Infrastructure"
+    excerpt: "AI data platform company VAST Data today announced a strategic partnership with Genesis Cloud, an  iInfrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud. Their partnership is intended to make AI and accelerated cloud computing more efficient,"
+    publishedDateTime: 2024-01-26T19:18:00Z
+    webUrl: "https://insidehpc.com/2024/01/vast-data-and-genesis-cloud-partner-for-ai-cloud-infrastructure/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
-    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
-    publishedDateTime: 2024-01-30T10:54:00Z
-    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 48
-    images:
-      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
-        width: 780
-        height: 520
-        isCached: true
-  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
-    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
-    publishedDateTime: 2024-01-26T12:57:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "ZFogF2zN/SJRSmL/ppDGgtSyWWPI9TMFLKMpsbZbPaRJlvOjro7vwn5TUpMUXI4TowggfvIahtHIe+wWDvgwm8Zkm9Yp9MvxoKR/J/7clgp0BO/fGX5usGK2p3q3LmQ9inh3rLz+8rVOJb4qdnuLW19GCocCxIqxa/+JJOEPq6TsBuqcWmJxE3s+yoNLU4vsHANFMDCk75l6FvKgigjT839OzEfh38l/O3SxQnrMCyFSU/beSQQpQAJBH4FasFkmopGYpz+R2e9wt4g+JEtieE5lJkxzY9M3V1kupZVGD18RME9DcqtE+KcNi806+AVXbPlqOQt0fDxSY4iHrDgMrsACZtUCAQTjWuZFaYZ7xqG76Z/JHUxr3yGyIdFMhNvmnl9XpeqQGWXhSW0cPN37ZtXIt3WQpMKEWbxgJr5X/2UeFwedW4qmUEQWTqsM/luliTpWl+Vme/ElmZapar+f5zEKP7hjWL7s/hz7YhgnamA3zwuxyJk/hiSwMLqs8DqUhdUGWkgm+BXyYWLEfvjh7w==;kGUsTsu50aFK6bRpjI4RjA=="
 ---

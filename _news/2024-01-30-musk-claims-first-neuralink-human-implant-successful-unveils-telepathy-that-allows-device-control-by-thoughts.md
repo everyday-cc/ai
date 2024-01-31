@@ -39,6 +39,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Here’s Everything You Need To Know About Artificial Neural Networks"
+    excerpt: "What Are Artificial Neural Networks (ANNs)? Artificial neural networks are machine learning algorithms that process data in a way inspired by the human brain. The network uses neurons, or ..."
+    publishedDateTime: 2024-01-27T00:00:00Z
+    webUrl: "https://inc42.com/glossary/artificial-neural-networks/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 19
 
 secured: "fK7RlLYNi/XUVD0o2wSf7eqYzPA4kigX14GKePxpDHzDYZSGfQ8tsyyY51d7R65GQW6C4CQj9tUllM7b0L9XRCVgP23hMFSJrafZb+TvRJ5bMkkTjItbuvJE/mqDtFrm5+TkepzULwdBAnjX6XiivmFfMXqQY2kFIJSVIqS5NoQWDYoxVN46hnF18m3ONhkFSriSKiBwyeV5f3Pq7/jswH5p3h8cpsKvrRO0wEB9nQctx8J/wAb5petnULprDu7cMksHmiEnltCegberK3Dt828cXAKHqDnwjGsowWHGvLjprfyCe+I4vbMzP7Z83kwFieGZaNHdo/Q2N+8HSDnPcDACDOdhwxLAdwKN4aLUGYyKl4LxQthGbwHstmiWz+NUVDUdWBIca54tALT1Q4Gl/WWFO7B5gUxF2qhVYlD1wroMlMWA7VIhW27NwjlCWs6ZygNaBJZBxvzk9HkRUBotMkGJcHIgdhqEmq1ORi4fKFXGsFQqKYGE1TZ/WzIaqhzp0yliAXW8PP03p1LxswRwrQ==;NwEaeKXw9x49QsvcLcnFXg=="
 ---

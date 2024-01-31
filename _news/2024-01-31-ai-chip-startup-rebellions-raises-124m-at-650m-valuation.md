@@ -19,83 +19,69 @@ topics:
   - AI
 
 related:
-  - title: "Kore.ai, a startup building conversational AI for enterprises, raises $150M"
-    excerpt: "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ..."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
-    ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
+  - title: "Rebellions lands $124M to develop its new AI Rebel chip with Samsung"
+    excerpt: "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais"
+    publishedDateTime: 2024-01-29T23:53:00Z
+    webUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/"
+    ampWebUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 87
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1335295270.jpg?resize=1200,675"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
         width: 1200
-        height: 675
+        height: 831
         isCached: true
-  - title: "Kore.ai Nabs $150M From NVIDIA And FTV To Scale Enterprise AI"
-    excerpt: "With Generative AI (GAI) at the peak of the Gartner Hype Cycle, we found ourselves in the too much talk and not enough impact phase—until now."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
+  - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
+    excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
+    publishedDateTime: 2024-01-27T02:31:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b7f70208a5487d77735151/0x0.jpg?format=jpg&crop=2867,1611,x0,y148,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
-        isCached: true
-  - title: "Three Questions Every Enterprise AI Startup Should Ask"
-    excerpt: "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that."
-    publishedDateTime: 2024-01-30T16:58:00Z
-    webUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/"
-    ampWebUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1576
-        height: 900
-        isCached: true
-  - title: "Assessing and quantifying AI risk: A challenge for enterprises"
-    excerpt: "Risks associated with artificial intelligence have grown with the use of GenAI and companies must first understand their risk to create the best protection plan."
-    publishedDateTime: 2024-01-30T08:00:00Z
-    webUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html"
-    ampWebUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 63
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2024/01/shutterstock_333013640.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
-    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
-    publishedDateTime: 2024-01-30T21:13:00Z
-    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 54
-    images:
-      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107177596,imgsize-6576,width-1200,height=765,overlay-ettelecom/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china.jpg"
         width: 1200
-        height: 673
+        height: 765
+        isCached: true
+  - title: "What drives Samsung's decision to skip Galaxy AI in Chinese Galaxy S24?"
+    excerpt: "This includes AI-based real-time call translation, summarisation ... stating that it is now on par with GPT-4, a language model developed by OpenAI. The emergence of advanced language models like ChatGPT and others prompted Chinese tech companies to ..."
+    publishedDateTime: 2024-01-27T10:09:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/samsung-galaxy-s24-series-baidu-ai-china-1706341467.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
+    excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
+    publishedDateTime: 2024-01-29T10:37:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107230595,imgsize-66992,width-1200,height=765,overlay-ettelecom/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
     excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
@@ -111,29 +97,34 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Cohere: The multinational, AI-for-enterprise company explained"
-    excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.androidpolice.com/cohere-guide/"
+  - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
+    excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."
+    publishedDateTime: 2024-01-30T02:01:00Z
+    webUrl: "https://www.tweaktown.com/news/95881/rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung/index.html"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/cohere-logo-ap-2024.png"
-        width: 837
-        height: 472
+      - url: "https://static.tweaktown.com/news/9/5/95881_47_rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung_full.png"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
-    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
-    publishedDateTime: 2024-01-30T14:39:00Z
-    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
+  - title: "TECH BYTE: Samsung’s Artificial Intelligence Smart Phone"
+    excerpt: "I’m Patrick Moates, welcome to this week’s Tech Byte! At the end of January, Samsung is rolling out the first ever Artificial Intelligence powered smartphone. The new line of Galaxy Smartphones boasts brighter displays, upgraded cameras along with some ..."
+    publishedDateTime: 2024-01-26T16:00:00Z
+    webUrl: "https://www.wdef.com/tech-byte-samsungs-artificial-intelligence-smart-phone/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 17
+      name: wdef.com
+      domain: wdef.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wdef.com/content/uploads/2023/11/z/x/techbyte-epikos-carousel.jpg"
+        width: 768
+        height: 423
+        isCached: true
 
 secured: "j9ieEN3zkizKnXFK7C15YijFK0IY6ua1lAxQXcz0++eA/l5A8pkes97V7HdoHZNlpHKUX4tEYBfLnFTecqayOgKCgL3cYHg6JBgmLfKXh1OPQpsuY1pewTVGd89efViPqIRpRSAz4QHAu5uOZxcT9UJJ7VuKzEgcYfS2QjNlkbTjbjONdyw8Hr9g/CoPJZDqjWX7HPJsDMsGjpmj5R7DTc3JLRu6WMjNokF38hgUymq75NeumyEFeKrQL1prpNSy+gAcoD19Sh0o3PRvXF3mvCKbk/qiiCM3IZXzGtn/eXklUFG0AasJWb+oR39oEfkWLQw2Ak7QeQSaaPgapUlMIWRAUKcbZUowqEj++VkkJlEwotPMBxlL8eK8SHsZegOPuVSWCoqaXKEnX/pXRWuD+v3vuEbaZh3ek7hSk5aKpgpDih+GwCcUyLrLbnHzGs17Is6V54qmv/hYkjUQaNA3DhvA+IzOgrykSIkm4CfDq21JkghIlDueVKcC/uHH8PUeJy1eYy6MqcAB3byOEthUUA==;pLyXZvdfLBzh13i4jOnI8g=="
 ---

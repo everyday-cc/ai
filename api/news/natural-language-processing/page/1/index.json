@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -865,6 +865,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-22-gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.md",
+      "title": "Gmail Voice Compose will use AI and your voice to draft emails",
+      "excerpt": "Long gone are the days of wonky voice recognition and misbehaving mobile assistants. AI-powered voice recognition works wonders, naturally; as this was one of the first proposed uses of Large Lang ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html",
+      "originalUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/05/Gmail-logo-AH.png",
+          "width": 1734,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html/amp",
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-the-future-of-work-in-the-age-of-generative-ai-insights-from-davos.md",
       "title": "The Future Of Work In The Age Of Generative AI: Insights From Davos",
       "excerpt": "The Oliver Wyman Forum’s new report, How Generative AI is Transforming Business and Society, shows a staggering pace of adoption. In less than a year, 55% of people globally are using gen AI for their work. ChatGPT reached mass adoption in ten months, while the internet took 17 years, smartphones took 21 years, and electricity took 37 years.",
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-using-natural-language-processing-to-detect-mental-health-crises.md",
-      "title": "Using natural language processing to detect mental health crises",
-      "excerpt": "The authors published their work in npj Digital Medicine. Using natural language processing, the team developed a machine learning (ML) system called Crisis Message Detector 1 (CMD-1) that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-nlp-to-detect-me.jpg",
-          "width": 950,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-natural-language-mental-health-crises.amp",
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

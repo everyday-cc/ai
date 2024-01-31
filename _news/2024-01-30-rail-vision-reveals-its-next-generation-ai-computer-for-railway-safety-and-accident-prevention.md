@@ -19,24 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "Arteris Selected by Rain AI for Use in the Next Generation of AI"
-    excerpt: "CAMPBELL, Calif., Jan. 30, 2024 (GLOBE NEWSWIRE) -- Arteris, Inc. (Nasdaq: AIP), a leading provider of system IP which accelerates system-on-chip (SoC) creation, today announced that Rain AI, an AI company building the world’s most cost and energy ..."
-    publishedDateTime: 2024-01-30T08:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/arteris-selected-by-rain-ai-for-use-in-the-next-generation-of-ai-1033010285"
+  - title: "Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue"
+    excerpt: "Tech giant now second business in history to reach a stock market valuation of $3tn, overtaking Apple as the world’s most valuable"
+    publishedDateTime: 2024-01-30T21:53:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings?ref=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/30/microsoft-revenue-activision-ai-surpassed-earnings"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
-    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
-    publishedDateTime: 2024-01-30T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
+      name: The Guardian
+      domain: theguardian.com
+    quality: 70
+    images:
+      - url: "https://i.guim.co.uk/img/media/ff9e0227c0d40180253be9f779ab33c59c10677e/0_154_3229_1938/master/3229.jpg?width=620&quality=85&auto=format&fit=max&s=24f4a8ac375f5cf6b4e03446af606501"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "HVf6XU5lrWOv4QGNFm/S2lSidMs11klcewxsleoQO/uA24TRuLBFypWWsY10qfXpOucFVOXWt4SUsqCjmsl3E8V8sbxIa3Wpv/yAsB0WUOV656A3gxTMDQWhni2a0MT7NUkFSkReGmP3gfTiErq5+sigQ71bWgOy02XMLs43erVzdr2TcVqcwLcGvD2ikwcZ6LseVXY2+bvVa6rpTjNjYyh0ysm/q07vsyD+g2pFb6DFho8BLslH0VW4AgQBATfWbsFGOBRzh9bmVL6kTT3DE7SGCrhTQ/Bl2hly6q/3ZEDCqRybZFAV4l+poAovjoV2h6DcrzmJRisMflgzfWMy3eIURS93hT7++fijysLsZWo=;G718VsHcWo7IWiNlee1+hA=="
 ---

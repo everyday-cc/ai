@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead"
-    excerpt: "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%."
-    publishedDateTime: 2024-01-26T00:28:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff"
+  - title: "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom"
+    excerpt: "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply."
+    publishedDateTime: 2024-01-26T04:45:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
+      name: scmp.com
+      domain: scmp.com
+    quality: 91
     images:
-      - url: "https://images.mktw.net/im-474373/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/26/a2635928-5278-4dc8-8593-d3abe5d38ede_2622355f.jpg?itok=G3ionfAy&v=1706240895"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
     excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
@@ -57,20 +57,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "AI Chips Market Reaching $400+ Billion in 2027"
-    excerpt: "New Street Research provides research on the rapidly growing AI chips and AI Industry. Their projections are for a far larger industry with more infrastructure by 2027. Elon Musk had stated that AI compute was growing by 10X every 6 months, which would be ..."
-    publishedDateTime: 2024-01-26T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/01/ai-chips-market-reaching-400-billion-in-2027.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-26-at-7.17.57-PM.jpg"
-        width: 1608
-        height: 1262
-        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z
@@ -85,24 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia and Equinix partner for AI data center infrastructure"
-    excerpt: "The deal is aimed at businesses that want to rapidly deploy generative AI applications but don’t have the infrastructure ... Equinix is hosting Nvidia GPU clusters, which start at six figures and shoot up to millions in cost. It’s made for businesses ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.networkworld.com/article/1302075/nvidia-and-equinix-partner-for-ai-data-center-infrastructure.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 19
-  - title: "Intel slumps as muted outlook highlights AI gap with rivals Nvidia and AMD"
-    excerpt: "Reuters reported last fall that both companies could begin selling the chips as early as 2025 ... He also vowed to \"execute on our mission to bring AI everywhere across our product segments.\" Analysts: Intel must step up AI effort However, analysts ..."
-    publishedDateTime: 2024-01-26T12:57:00Z
-    webUrl: "https://www.thestreet.com/investing/stocks/intel-slumps-as-muted-outlook-highlights-ai-gap-with-rivals-nvidia-amd"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 17
 
 secured: "igD12vTn9h65yJGA5KlRGZP5eDhVdMJHGoGragp3+yDMcgg+gysSF1bM8fDmgFo+bO9kQVnDUdR4AD3k8Cs3tXNe0rH+MqpMZByOrQJ/akgBGvfYevQhLtY1A5kpEehay40dOXy9y1rSRmYn6kfNgHUaO09EvKxona76W+xyHmJTvjuXoJiGrjFEzrSznfebdFtohR/3mDhjjflDgO30yMGgpiKtqquLRlhVy0RfRF4NVe3D2KwwS1ki+Ji17CQ2q+/7SUYxjRVyxaXVXR12i3IcqBtxYT2EUZRJpnBAwY8/Hg9mVr5NcWq298NX03PXlcRPdZpnL1xNd+ouEfEgVFGAcyO3ayEXoVs6Mmn26VVWvtsEfayOrGIWXqEz+Rjzfi8rgl2I7EzZJLJslGEKOBBcdAK4wMo50Jtr4lIhwP1z7haHrgwGvQUw+45DdA27O50P5aRAG45/U2NsqdUoqxh6bpoQaabjAoZxB0zcqqLKJE8JMpPSmcjbpP/2PI1t82Mol2Cg+CGo/8MhE8pSLA==;YcXE6KQbyd5OZa+t2lA1HA=="
 ---
