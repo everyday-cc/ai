@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft earnings: Tech giant to report Q2 earnings as AI mania pushes stock higher"
-    excerpt: "Microsoft’s Intelligent Cloud segment, which includes its Azure service is expected to bring in $25.3 billion in the quarter, up from the $21.5 billion it generated in Q2 last year. Overall Microsoft Cloud revenue is estimated to top $32.2 billion, versus $27.1 billion last year."
-    publishedDateTime: 2024-01-29T17:50:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-tech-giant-report-185023354.html"
+  - title: "AMD Earnings: AI GPU Revenue Is On the Rise"
+    excerpt: "We foresee the firm beating this new target, and we model $4 billion in DC GPU revenue in 2024. But we suspect this new estimate is still short of the expectations of at least some investors, perhaps leading to the 6% selloff in shares after hours."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 47
+      name: Morningstar
+      domain: morningstar.com
+    quality: 54
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/2nOg2aWl.K2JjowZwBJBIA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MTU-/https://media.zenfs.com/en/aol_yahoo_finance_433/169e7d6d4f12dc537b482135f02f58a8"
-        width: 1199
-        height: 815
+      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/oGwDOZVkYS5-ew8-uCS4jggt8Z0=/1201x676/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/4EQFKYGMOVDYNASNDOOG6E4K4I.jpg"
+        width: 1201
+        height: 629
+        isCached: true
+  - title: "AMD’s Earnings Won’t Be the Main Show. Its AI Update Will Be Everything."
+    excerpt: "Advanced Micro Devices shareholders are eagerly anticipating the semiconductor maker’s latest update on demand for its AI chips when it reports earnings on Tuesday. The company will report fourth-quarter earnings after the market close."
+    publishedDateTime: 2024-01-30T07:59:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-s-earnings-won-t-be-the-main-show-its-ai-update-will-be-everything--I8fkNw3SJhFSVq0XFlb3"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 38
+    images:
+      - url: "https://images.barrons.com/im-87209377?width=780&height=520"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "E6OIoW8OwPma08l6glfIQRVVWL6i3JSXv4l3HsPz9UGs7jYukIHLpgpV/ezsRvCjN55CPP2L+2fh/dFhNAQNp7JwVJ7rN54RFFEFACXIR1QbF7YcUjEX4skGo26KbM1CnHdlQtay+41uqwYn61viY8KO/OsAV8er67gKohRAHseied0nHWHUFaGdnxhq0UzuhBg/T2uFpYTk+/wEbyDTOlSc81j8/480w1grYG2l50eeODEzDRoyrN3xIv2PB0IGQuKeUWnQW51ajSf5ubbbh3siKOMk/UbJZQ9ry++aH5GQDYMPU+W7WNtt0Z3KgFvIYwJndS1D7l9bbuIofa1wIqtJxaX4AbRlrXXkSwyDpys=;9Ux4i7Is2yJgwIyfcVQcow=="

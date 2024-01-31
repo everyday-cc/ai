@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI Boosts Crime Detection in Indian Railways with Facial Recognition"
+    excerpt: "AI Boosts Crime Detection in Indian Railways with Facial Recognition - Indian Railways has embarked on an innovative initiative to elevate passenger safety, with the"
+    publishedDateTime: 2024-01-31T17:42:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ai-boosts-crime-detection-in-indian-railways-with-facial-recognition-nid-227645-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/k7Hfitcw.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Experts explore insights on personal data, AI and responsible tech use"
     excerpt: "Qatar has a liberal data protection law when it comes to the crossing of the border by data and the country is looking at engaging with"
     publishedDateTime: 2024-01-31T07:58:00Z

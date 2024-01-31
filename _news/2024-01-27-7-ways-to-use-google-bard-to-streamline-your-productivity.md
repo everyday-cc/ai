@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google confirms you’ll need to pay for Bard Advanced — here’s what it can do"
+    excerpt: "Google’s next-generation artificial intelligence chatbot Bard Advanced, will be a subscription service according to CEO Sundar Pichai. This has been suspected since Google first announced its Gemini family of models in December last year,"
+    publishedDateTime: 2024-01-31T17:34:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-confirms-youll-need-to-pay-for-bard-advanced-heres-what-it-can-do"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg"
+        width: 1116
+        height: 628
+        isCached: true
 
 secured: "BRnaSGoayA4BWbSO5+ngJD8J1fv2SxxeNngaN9GiWEpsWP8Q3qqwq9n+rRFwDCjj+DCDRrKVIarfZiBRZQyyRWi47HhcpxhlYlk/UhemYo9eKy714LRWrP43Gur+OxDpIFO6/gNHGSz9eYnS+jW/UtazRIMZEVlmDoAqOGql0RLqWZnIg9JpiDdRU04BhR2YD9Z9amK+hzpXzQZjzh0wjFx/hzmQVJvo2qGK4j/URcU1bjLTFzoi2ed+XsBG07eYhQi5v/AEIPlErOfisfaFObUqtWwBcPE01D6JQD3jm8d/k4fnR8ZOuLhHrm5h8jpSSMRBWP6nKpFn/FK1OwdHgBjbVR0h+FB5YTqNIr8rJ1i/xPcCgh/I1Uy2JG+fLddLlx7nlnxfHngvLlYAepiYGNzJILDWiTBMZQ9I0HYnaCHivt2VKVYllseKIUmqImsHKxdA5aL9TJtPna8kIz7ESzZKyMT4NZxI2SIcMJkXk4liqdzw5MvEHSQ7GmxEPGbzBmdsKoewvhX4jJLK4Z9j2Q==;KvAP86cAihWTGlfBOXYhQQ=="
 ---

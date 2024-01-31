@@ -53,20 +53,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "‘It was a false positive’: Security expert weighs in on man’s wrongful arrest based on faulty image recognition software"
-    excerpt: "He is now suing the parent company and blaming faulty image recognition software for putting him in jail. The theft happened a year ago this week. The lawsuit claims two armed men stormed in, pointed a gun to an employee’s face as the other person ..."
-    publishedDateTime: 2024-01-26T17:11:00Z
-    webUrl: "https://www.click2houston.com/news/local/2024/01/26/it-was-a-false-positive-security-expert-weighs-in-on-mans-wrongful-arrest-based-on-faulty-image-recognition-software/"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 16
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_218bd8a3476e4a97977117b5f5eb801f_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "ToCs+L2ap8tqj1B2wvTkP1+FP/bcVNjRYa03iPudppz4/mIcR1RE/qwQkdkuQiPT/o8FlhOXMloR2ItR/wi7MeasOsHmdGEZd5mQNA7GA1bY+bvdKlAjBtM7cLmSBg3k8fT0ZsFdO7S5o4sQBdD9wAx2xs6ZOGyzQuSSxB/U9cq7aDNwdXlio0heOdXvonTrHJINDsjN91UFRmbqc63CxXJQxxOVSuB/rja/Ltw+uuKxCaOANAQtUm5vAj8jhU/RpOHTh1MB/Ui705CNHgSC3JeHNgEYDMWTsE8uFSO7HUi11ff3vqnmr0kjoIb1rY6bJh90uWP5Xc7uui3WfUrpuZfa1RRHRvNLbr77TYUUPviz/yK0Ptd4GId5A2dvT42s5XC1snCd1KpXr2Tb0h5NylZjfbmZEiQiCsRc+5JOzTwvnYY4oSOSr7AM898na6azuZE4bFE/YfEwYiYF/oqvlpKS6v2mKYAraB79Xj2KKg5ym1YWD825S64991udRLtH15JCJKwNRUPaEZtw83hNtg==;smd1YTca/+UGlznBAmBnKA=="
 ---

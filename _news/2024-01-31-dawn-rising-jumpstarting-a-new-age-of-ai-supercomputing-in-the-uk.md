@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "AI, new projects to jumpstart tech hiring in 2024"
+    excerpt: "2023 was marked by fluctuations between tech talent availability and the end of big tech overhiring, but analysts expect the tech jobs market to return to more steady growth this year."
+    publishedDateTime: 2024-01-31T13:57:00Z
+    webUrl: "https://www.ciodive.com/news/IT-workforce-tech-talent/706070/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 17
 
 secured: "iE1iBLt6rfXiZihbde1odIzN+1TMfVQaGXu5TfaoT27qBd+Ebrr0J135ksPu+51LjYwgfCon304/qwVDJltT2Ji6uD2d7chdmPcT8qUijVzWdL4JQO+8wdyXOsuaBAxpPbf3PC4uorc41ShDUpiN6g+MqfdxxRADG7EQGsxEOiUP02Gi5DA67WVDM+RGrCbwhIJpKJ3Cp1y2Kqj+T1e065IULRtFAQbMVasQyqr5rwpWR6Zce3nCrJN1142xwivuq6UjtRqqkHebRz6QpeSRvGX3ZudbdFGK9YwzDeUOqNBeuUEQr+jzZD/y5mZH0DFRny8DKrtAvZ1m8lx54ivqH2zLGfufbecMKod859UNKl0=;3A/fZFlM8We7CObAYPUkWA=="
 ---

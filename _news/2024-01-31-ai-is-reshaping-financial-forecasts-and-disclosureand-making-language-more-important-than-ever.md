@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI is reshaping financial forecasts and disclosure–and making language more important than ever"
-excerpt: "Natural language processing (NLP) is another critical tool, reshaping how analysts hunt for indications about market activity by sifting through vast amounts of text–reports, filings, news stories, transcripts of audio and video clips, and social media ..."
-publishedDateTime: 2024-01-31T13:38:00Z
-originalUrl: "https://fortune.com/2024/01/31/ai-reshaping-financial-forecasts-disclosure-earnings-language-finance-leadership/"
-webUrl: "https://fortune.com/2024/01/31/ai-reshaping-financial-forecasts-disclosure-earnings-language-finance-leadership/"
+excerpt: "These algorithms respond to fluctuations in real time, integrating AI to optimize trading strategies and maximize returns. It underscores the importance of savvy communications and the role leaders will play in evolving commentary and public opinion in a volatile financial arena."
+publishedDateTime: 2024-01-31T12:38:00Z
+originalUrl: "https://www.aol.com/finance/ai-reshaping-financial-forecasts-disclosure-133842334.html"
+webUrl: "https://www.aol.com/finance/ai-reshaping-financial-forecasts-disclosure-133842334.html"
 type: article
-quality: 37
-heat: 37
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Fortune
-  domain: fortune.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "vpTdPF1+6y0JCHeQa9d3t/YTUCvZ5dRTrMq8agiN353EtPPtgiBS412SF2RBRthbgnP501vJiFD/3oczFqMVfQzgz0VCdm6UY7qdC5P/W+qg+GlBnoMZKjlTUpIgznGCJx2Sv3HaGTN1ygCgPL+hzFl6ofzJWNp/ruSbA944/PyBRfzmd+T/oVf1MlEEYA7wYSVXzA5O7Z9fxxRYocfKbr0THJJwZyq745ovvyGSq5oihglgEUS3lxCQ6EU0MZPEj/uJNu0XiYjSdD/BWvTDqEslvMYvIKTM5CUckcUD1SqVWdyBvva6peoATZYktQhkUvRCYJBEG47miRRa+noeyjI2MlwKLK8eybuysJYo59A=;HlgmVk8AwgWoLyumQYwWwQ=="
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/e8SP0GxSIET3.QM3OiBGpQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/549cc6ca764a793bbe413447f23047ab"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "dAFnuUlVx0rAO2oVmdxIPRGrKR+vyRXXWTFW834fGzfODO7/XfdU2Uagb9J9uOQHuewIepPa5EaodOj3Z0YYjBLMo2xPRfbhVoxJq2HZjBHvGOSwlMaGRcRIW/Ke1f32kukOYnkdRJCLBl+JQ0m0xtdNY1SKaqFzgZKEUooWONAQ5UcE9M7ifBNiqA+hkcFGlPLrGGy5nQOKvP37fR4+u4zy95e4r61H7dXEKKtUOkWzTG8rwyFsKmDnwiOVG1Lm7+hLxO47ZTDliY363HfgCvsa6CKqUCLcz88MWYQVUu2iDUl0xVcv5TRgdQ5XadeoQk4VhfgcAOFfXLZ5CdBWSbYMVf0lbWuyk4owwyfCy1A=;TCPphG4C2QSQCtokHpmwWw=="
 ---
 

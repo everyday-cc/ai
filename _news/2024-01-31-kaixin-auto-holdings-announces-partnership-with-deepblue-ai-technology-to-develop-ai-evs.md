@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kaixin Auto Holdings Announces Partnership With Deepblue AI Technology To Develop AI Evs"
-excerpt: "Kaixin Auto Holdings (“Kaixin” or the“Company”) (NASDAQ: KXIN), a leading new energy vehicle manufacturer and sales platform in China, today announced that it has reached strategic cooperation intention with DeepBlue Artificial Intelligence Technology Company (“ DeepBlue AI Technology ”)."
-publishedDateTime: 2024-01-31T10:35:00Z
-originalUrl: "https://menafn.com/1107790783/Kaixin-Auto-Holdings-Announces-Partnership-With-Deepblue-AI-Technology-To-Develop-AI-Evs"
-webUrl: "https://menafn.com/1107790783/Kaixin-Auto-Holdings-Announces-Partnership-With-Deepblue-AI-Technology-To-Develop-AI-Evs"
+title: "Kaixin Auto Holdings Announces Partnership with DeepBlue AI Technology to Develop AI EVs"
+excerpt: "HANGZHOU, China, Jan. 31, 2024 (GLOBE NEWSWIRE) -- Kaixin Auto Holdings (“Kaixin” or the “Company”) (NASDAQ: KXIN), a leading new energy vehicle manufacturer and sales platform in China, today announced that it has reached strategic cooperation ..."
+publishedDateTime: 2024-01-31T04:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kaixin-auto-holdings-announces-partnership-with-deepblue-ai-technology-to-develop-ai-evs-1033013898"
+webUrl: "https://markets.businessinsider.com/news/stocks/kaixin-auto-holdings-announces-partnership-with-deepblue-ai-technology-to-develop-ai-evs-1033013898"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?526556"
-    width: 397
-    height: 250
-    isCached: true
-
-secured: "XWhbZ0imd/ytLB7OAJUh/MAjx0AdjTUtyRC+H5X8CAXpAIuP5OifjsVQm39Lajjq0k0zIs8mEWFadbz2LxfQmVkiDVsjnnZRcqgKNe3dys6U64GgcaRafwwZJkq8ZvpiEUp9w6q3sfBiAKoywOAb9AG/0pZtUiB6KxnpYbIe7QbTcc11ap8QqlH9ljxkVjtRRIShYnzyB7Cq7+NuBJsZreeGTEDWC9M95bakMmNGEfZM4R0/0CP9HE82VOR8KgwHPKR1a354LflhcR9T8I5y5mO2agR5Iads3sq2mDQaOWybrjocDqdCtaDHO75I6n+LkBXJufN1jkarT4BOP/c2qMncreckqOWrbVMhA/Koqjw=;nh+xUNdksRaFl/q2N1v4Fw=="
+secured: "88CmZXPmB++uv5sjXQziEMPnlPAPUGh3PWOYIs9apswAumir4yG+q3++R8cmkRIWsfJ2fuz2PlMLSN5knj/iEmjP7VwCM6jpo1xWGl0tn1f+XCCpji3UGijeMv0V+vv8unXkr2JGXgKD+qqQn6fulwYjNwIOO9NbdCAXViT1+AvYnORKCuuU11X3twrA1S00RcHhBsR7t3PxmQrpouS2keehR8O/TtHqYlAF67FAZui1ivPgkEDITS4v8E7a65IjSc5/ju9FuhGrwLopFROuMcP+vjlPkJSiItv3aIlPvm3VAdTr7+rVp9ec1nzaxYYgnxvngP6pMKsTZNb1FNZ+jHs/LdJE4LE5ackOQ+r7MSM=;sMvLhAQrtkI6obReDWQRtg=="
 ---
 

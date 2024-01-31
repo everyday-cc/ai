@@ -141,20 +141,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Samsung Galaxy AI: Features, and everything you need to know"
-    excerpt: "Now, you’ll be able to translate the person on the other end of the line when you’re on the phone with someone who doesn’t speak your language. This is done in real-time, and a text is shown to you about the things that are said, and Galaxy AI can ..."
-    publishedDateTime: 2024-01-31T00:00:00Z
-    webUrl: "https://pocketnow.com/samsung-galaxy-ai-features/"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 39
-    images:
-      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2024/01/li-samsung-galaxy-ai.png"
-        width: 1920
-        height: 1440
-        isCached: true
   - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
     excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"
     publishedDateTime: 2024-01-31T10:58:00Z

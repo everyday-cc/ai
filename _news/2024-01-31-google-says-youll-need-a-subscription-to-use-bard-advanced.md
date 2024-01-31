@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/google-bard-advanced-subscription
 webUrl: "https://www.androidauthority.com/google-bard-advanced-subscription-3409624/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Android Authority
@@ -42,6 +42,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-1-2.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google confirms you’ll need to pay for Bard Advanced — here’s what it can do"
+    excerpt: "Google’s next-generation artificial intelligence chatbot Bard Advanced, will be a subscription service according to CEO Sundar Pichai. This has been suspected since Google first announced its Gemini family of models in December last year,"
+    publishedDateTime: 2024-01-31T17:34:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-confirms-youll-need-to-pay-for-bard-advanced-heres-what-it-can-do"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg"
+        width: 1116
+        height: 628
         isCached: true
 
 secured: "bjM/YneAtG69RnIz5Ipu1kUKnzYyYMrdeD0KdB2XKLjWrA/D+oRhVdqmhXgAp5giYng94FU8nig/fj/6wKBvQUiL8zyL119FCHgH7m1Jwn5kD0siD98oNtZTUFKKuMgESjDbCfqRjdd6qKcq62g3cronHjT+KIdhPlIIRagz7w6oXvCQoFIs/wSGYjB7eOSHFrtyO47+qakoI3VQjSZ4XCJ8ksIArEWGEKfOAK6q5uOldNqXwZT/ZRAOkrCBTbucqGOCG7AUJGyhqvNjWsuRV7ZSqlErXeEEj0VYeFqbqsD80MaQWyEfn1RQjooLO9ewsEoU5He1c7efUsukWqqHmVEGdCcyyNORqTLoLv1w3wLN9QrzNSOIWD0UBGTEHNXQXDfmeT2gJ4aAsRODghM5TzbpDaGQZp3bw7fScENj3kbnvgHPdF4pQfFWnYj7eQ+AHkdx6RD+o1k7esATo397FoSvKPbDYPMDON+ENWlIGrTIC1ZfITpAaOlyOSmQf7bla2vQ/W96mic000FT+40sLg==;y4ayoZvl7bMjj73OoFYgZA=="

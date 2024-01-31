@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-30T23:06:00Z
 originalUrl: "https://seekingalpha.com/article/4666161-ibm-2024-outlook-uniquely-set-to-ride-the-open-source-ai-wave"
 webUrl: "https://seekingalpha.com/article/4666161-ibm-2024-outlook-uniquely-set-to-ride-the-open-source-ai-wave"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/109707513/image_109707513.jpg?io=getty-c-w1536"

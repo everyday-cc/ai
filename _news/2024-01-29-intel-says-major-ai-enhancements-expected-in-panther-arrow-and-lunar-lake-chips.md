@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-f
 webUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html"
 type: article
 quality: 81
-heat: 91
+heat: 93
 published: true
 
 provider:

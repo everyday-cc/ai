@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
+    excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
+    publishedDateTime: 2024-01-31T17:25:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mendix-is-transforming-customer-experiences-with-generative-ai-and-amazon-bedrock/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
+        width: 1021
+        height: 511
+        isCached: true
   - title: "Application of Gen AI in Banks and \"Fintech\""
     excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
     publishedDateTime: 2024-01-30T05:28:00Z

@@ -55,6 +55,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Hollywood Agency Partners With AI Tech Company to Protect Actors From Deepfakes"
+    excerpt: "As AI begins to impact acting, the ad business and online content creation, an effort gets underway to protect actors' IP, led by William Morris Endeavor."
+    publishedDateTime: 2024-01-31T16:04:00Z
+    webUrl: "https://www.inc.com/kit-eaton/hollywood-agency-partners-with-ai-tech-company-to-protect-actors-from-deepfakes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/wme-deepfake-ai-inc-1744769333_536950_n4yawk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Deepfakes in the wild, more big AI funding rounds, a mixed bag for earnings, and more layoffs"
     excerpt: "Tech earnings kicked off this week with ups and downs from Netflix, Intel, IBM, SAP, ServiceNow and more. Next week will be the big one, with reports from the big three cloud players Alphabet, Microsoft and Amazon, as well as Apple, AMD, Meta, Samsung and more."
     publishedDateTime: 2024-01-26T22:00:00Z
@@ -79,6 +93,6 @@ related:
       domain: theguardian.com
     quality: 13
 
-secured: "8xhSqlhE7e8bJYzaa7TJt5Jv/yFvJCxFEhoRJ9oYurd6b74SZaVgVjoXnIPUL3IAcw7MMiC+19ZdwKv4ddKkyXCurJWiTetVJ/C/L/axqXSmqPTjy5mOA6uVIdk8bonS4BpQAUji0NbZ/OxpzZ4CsuDXLD4rZWV6WTquB4Q+/Eut85ldCDiY7yF76CuT1TFF1+b/dUkQq1A72lsGqyUBH+yxU7SiqU7j7N7v5s6SeWaYkYnUKmkPV7v65jHxBANRk24i0/0mfCXLu+0z4eiVbROf/1DZEWXlbOHU6FPXhTJSkuhG4ppz+NSeVyjWgxiSYAXc3GwQxD0wS3bM3V/L4pAb4Js2h5UFE0xcQCVTSBY=;achTT9/W0CWcQ88Y7YbACA=="
+secured: "PrOWYqkEf+4FSa/tL/29XwPwJFKOutvzTpBY9wKtfNNcE6k1B0ksZ7tJgKl6DkZJNEzjTgtA5owDmbwkvupNtPGVDqvAgZjUpfOALGhvExUY02n+ILRyANlmp3UDXv1/+zlRGiJ0LDwCA19fS483B3bSKa7fq5JdMEuSuUlEKvyAQ4Trb25s0DHB1A7Y7ftQDabcwqBYdtG5cdOzL5UkCfU6y+v9EzdUmVwCw011v+BxShDkNKvnLUKnMRqosxe43cuBQokrRK86xYfFeEKQP1w5DAfJIF06CrlYUsF343NkIwbBUFQSzpuF4shmGLmDsI03VinYGHuPfkv2FRJjTO+Nbb8yQc+u5Xbk5tZmowb9mczWNxbbSqiQgSeynmhqCD4kL/8rGo0g/HNUwHnG/Lv+EHL0WpZ+gFviwa9piwZiRTqvSSOK8gbmIsbDhPIyi1Wg1HoQy06lfzdgaLkUKHez7UyRXgJzKtAbEDEsUQ2/Bb1+Gqk/vJYCeZBY8zuKIjHA9IvH5TkvlwaGeriv/Q==;EcjCKfbcGbzKm7CULw8OIQ=="
 ---
 

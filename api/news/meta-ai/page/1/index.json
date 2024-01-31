@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-how-to-break-the-fear-factor-of-ai-adoption.md",
+      "title": "How To Break The “Fear Factor” Of AI Adoption",
+      "excerpt": "Despite AI’s potential to transform how organizations work, we’re seeing slower adoption and deployment, possibly because of workers’ misplaced fear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b9341aab18310b1c40e25a/0x0.jpg?format=jpg&crop=2308,1299,x0,y38,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "publishedDateTime": "2024-01-31T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
       "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
       "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
@@ -104,6 +156,58 @@
         "AI in Finance",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-meta-used-copyright-to-protect-its-ai-model-but-argues-against-the-law-for-everyone-else.md",
+      "title": "Meta used copyright to protect its AI model, but argues against the law for everyone else",
+      "excerpt": "Meta thinks effectively that everything available on the internet falls under \"fair use,\" because AI models like Llama do not exploit or reproduce copyrighted works. (Although they, in fact, very often, do). However, a few months before pushing this ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
+      "originalUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65b8546743bb77284ba18d1a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/meta-copyright-protect-ai-model-argues-against-law-everyone-else-2024-1?amp",
+      "publishedDateTime": "2024-01-30T18:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1306,92 +1410,6 @@
       "provider": {
         "name": "The Financial Times",
         "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-powerful-ai-tools-for-academics-and-researchers.md",
-      "title": "Powerful AI tools for academics and researchers",
-      "excerpt": "Here are some other articles you may find of interest on the subject of AI tools : For those in the clinical and biomedical sectors, Evidence Hunt is a tool you can’t afford to miss. It specializes in producing literature summaries tailored to your specific research questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-tools-for-academics-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/artificial-intelligent-powered-tools-for-academics-and-researchers.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T11:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-04-how-to-build-a-chatbot-with-the-llama-2-model.md",
-      "title": "How to build a chatbot with the Llama 2 model",
-      "excerpt": "Open-source large language models like Llama 2 can be used by anyone with basic coding knowledge to build on or modify or just use a copy of the model. Building a chatbot using such a model is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/s8vxk0/article67701321.ece/alternates/FREE_1200/2023-12-14T140124Z_457661628_RC2CX1AR8QDS_RTRMADP_3_HEALTH-AI-WHITE-HOUSE.JPG",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/how-to-build-a-chatbot-with-the-llama-2-model/article67701325.ece/amp/",
-      "publishedDateTime": "2024-01-03T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

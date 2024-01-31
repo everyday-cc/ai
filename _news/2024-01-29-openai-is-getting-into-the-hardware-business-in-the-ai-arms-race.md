@@ -89,20 +89,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
-    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
-    publishedDateTime: 2024-01-26T17:31:00Z
-    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 56
-    images:
-      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "YHnkWFakfatXLh4qWSXyDsfaD7TWaDWlfQvjN8LXy4QdoP4HvGTH5IWyKI59runIyPtpvYOTI2jIL9pGotTKZb4wNlBuhj5OKALFGUujTHkzq2lyaDPeCSTufM5BxRdxM/znM4RwFkSi1knqZQmkIYXF8IJXpBrph2/uB99NA5lHvqHiCnhkZm6j4NsfxQAs6N6IbwCjkWeVIEfjipNgCzsWgpsg0GpwplkMhTjRQW3yFfew7udHu1VwLFUN1UNJJyEMoH/jUuspug8bnOQ2vRQ+WeELl5Bn2DMWYlRf2czovdaZ8sZ46pD7qRkPq4/s6CVa4EoiXc2wl3BYh2U9APkYAwVrMYwO/i3CExJIGHbKkqaUJRByXpIfUxoRknI99yUHGVgHxCnSlg8CfwZEDyJcg4u4SkbEg+x2NJk0kCEeyu7NFHazganobTOD6nRTmGPNry709VWxlihd9+/acfnqkt47m0bBZlhBz8bIILjCbQEmSaD8utbUNCA5tDRlVtZCzAl6RhvrvFIMSOs3ag==;pP5l2Ndtp4N1yjH8PurSsA=="
 ---

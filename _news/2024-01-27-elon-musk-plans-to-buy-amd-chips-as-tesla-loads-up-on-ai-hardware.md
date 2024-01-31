@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-bu
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Business Line
@@ -22,21 +22,19 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Elon Musk's Tesla loads up on AI hardware to improve self-driving software"
-    excerpt: "Tesla CEO Elon Musk said he plans to buy chips from Advanced Micro Devices Inc. as part of a spending spree on computing hardware to handle AI."
-    publishedDateTime: 2024-01-29T12:14:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musks-tesla-loads-up-on-ai-hardware-to-improve-self-driving-software-101706530120504-amp.html"
+  - title: "Tesla will spend billions of dollars on NVIDIA AI GPUs this year, will also buy AMD AI GPUs"
+    excerpt: "NVIDIA already commands an estimated 90% of the AI GPU market, but Tesla has said that it will be not only using NVIDIA's various AI GPUs but also AMD AI GPUs but didn't specify which of AMD's AI GPUs it would be purchasing. Tesla boss Elon Musk did state ..."
+    publishedDateTime: 2024-01-30T14:08:00Z
+    webUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 72
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 61
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2024/01/29/1600x900/boring-company-tunnel_7f8024d0-0fe8-11e9-b03e-d829a175bb22_1706530317317.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.tweaktown.com/news/9/5/95840_91_tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd_full.png"
+        width: 1500
+        height: 857
         isCached: true
   - title: "Elon Musk Says Tesla Will Buy Chips From AMD, Invest Over $500M On Nvidia Hardware"
     excerpt: "The company is also planning on getting chips from AMD, he added in another post. “The table stakes for being competitive in AI are at least several billion dollars per year at this point,” Musk wrote. Why It Matters: During Tesla’s fourth-quarter ..."

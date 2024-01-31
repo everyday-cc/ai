@@ -50,6 +50,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 81
+  - title: "Dynatrace’s new LLM extension boosts observability, cuts costs"
+    excerpt: "The software supports extensions to Google AI Platform, Amazon SageMaker and other development environments. Wambach indicated that observability software is taking on a greater role today, as LLM-based and other AI proofs-of-concept move to production."
+    publishedDateTime: 2024-01-31T10:21:00Z
+    webUrl: "https://www.sdxcentral.com/articles/analysis/dynatraces-new-llm-extension-boosts-observability-cuts-costs/2024/01/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 4
 
 secured: "g7jBmjnsN0Iop5uh3EpLTUfZC5ElSMvxTlQgPVJFS+yIgJGdgBdKw3zkjOY+7QFa1RdNg7AK6BHnEyJz6eMpZa0FWkt9Xrsi8qIjg7W9EAv/l5FjZD3wT98HwCERwxPWLULI6plYK+v+jorQYu9zX5T/xJBXuNbq0VqXQZzrStOPsCxdpQdEAoxMMEOw+IKxUhAB2EOdfSz4FH7i+mJNLuqmsF3KfC2gvDgCr7f+EhV0qcalRaHM4ugEiRAPzvuqv8zhVohAuvMxRXPLVURbqr6V1/Hva2RcB5xmaHx9en2qPvdylVvth8qjGrwqfJ/vxZeGvfuijNYS6gHwWgk0TUW69Frg0U9r8JojkCPd2yg=;LYS+qvOt6v34adwF7ppgGg=="
 ---

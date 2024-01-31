@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print.md",
+      "title": "Microsoft Enjoys 'First-Mover Advantage' As AI Revenue Doubles, 5 Analysts Explore Q2 Print",
+      "excerpt": "Check out other analyst stock ratings. BMO Capital Markets: Microsoft delivered another “solid” quarter, highlighted by Azure growth of 28% year-on-year in constant currency terms, “including 6 points from AI workload,” Bachman said in a note.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/01/31/msft_microsoft_shutterstock_2325970865.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T12:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-microsoft-alphabet-and-amd-tout-ai-progress-but-investors-want-tangible-results.md",
       "title": "Microsoft, Alphabet and AMD tout AI progress, but investors want tangible results",
       "excerpt": "Shares of the tech giants slipped in late trading Tuesday after they delivered 2023 results and forecasts for the current quarter, as Wall Street seeks more clarity on AI’s impact on financial performance.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -374,7 +426,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 384,
+      "heat": 394,
       "tags": null,
       "images": [
         {
@@ -513,7 +565,7 @@
       "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1457,59 +1509,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner.md",
-      "title": "ChatGPT goes to college: OpenAI finds its first higher education partner",
-      "excerpt": "While some schools ban the use of generative AI, Arizona State University becomes the first college to implement ChatGPT Enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2372eed714badfd193c24dff4c994ee251cdcb3e/2024/01/19/07c812ae-e03d-4645-ac93-fae1d19d88fb/gettyimages-1406728413.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-goes-to-college-openai-finds-its-first-higher-education-partner/",
-      "publishedDateTime": "2024-01-19T09:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

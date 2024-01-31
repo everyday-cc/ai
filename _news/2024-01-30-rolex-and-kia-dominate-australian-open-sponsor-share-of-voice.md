@@ -41,20 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Face-as-a-ticket gets small try during Australian Open with Wicket biometrics"
-    excerpt: "Ticketmaster is running the AO Express Entry program which allows people with tickets to the tennis tournament can opt to use face biometrics for entry."
-    publishedDateTime: 2024-01-26T17:35:00Z
-    webUrl: "https://www.biometricupdate.com/202401/face-as-a-ticket-gets-small-try-during-australian-open-with-wicket-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 21
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/26122734/australian-open-biometric-ticketing-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "I6SNkG+H9mxavrke/LwC0GOoZtxZdDSEZtb8CIT/jrYGH4icJ8G5bj8aNEx1epaOJ4fR4E1eV2jX/PRJWdkPLrHEMrWU2xbRx3KjR6aS/td2FlCYx6AfmycI7mP4dAiUbuD+KVKPFqaFOp9C5y2tFEmfdGw8XVHBE9g80NrB3ui0VwhsXz0oZs5HbF1nYMF4yv8xdmkamSTwOM6QMOMVXDvNeybnKE3fQq7W+jLQn00TK2na9tk1hjGEkF7zOA82PWCxSCEQ7z0XVgPzBUEMOId7GNkPS8rUOL8MoBKTmHK8J1tzrBpYk0GbKnmDuBlHwnspRI+GozaCJoqrlrMkQOACm9bAUh9ck8CGtZMZcVMd6T8bRt2ela2y8iJRvr39w5cxeMqvHjhNnOJVjrbIrtlVqCo4bl7yfqGGOmquMmR+2iD9bXFGBS0FES7M+RF6AHRlKhsDy1Hcms42Xq6ajPeeUzNHaPCSoZxD2L4G4n1cmhmd312rbgbbqyJDOi8fcQwvVZKIFAUpHSJsXe2ypw==;s47Q2jOs2Og/xToe6rpaGA=="
 ---

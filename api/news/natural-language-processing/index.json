@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
+      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
+      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "publishedDateTime": "2024-01-31T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-samsung-galaxy-s24-ultra-review-all-that-and-ai.md",
       "title": "Samsung Galaxy S24 Ultra review: all that and AI",
       "excerpt": "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features.",
@@ -297,40 +350,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
-      "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
-      "excerpt": "Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring products DarkIQ and Cerberus. This enhancement gives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
       "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
       "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
@@ -381,6 +400,40 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
+      "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
+      "excerpt": "PORTSMOUTH, England & WASHINGTON--(BUSINESS WIRE)--Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240124937773/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240124937773/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1366,49 +1419,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
-      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
-      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

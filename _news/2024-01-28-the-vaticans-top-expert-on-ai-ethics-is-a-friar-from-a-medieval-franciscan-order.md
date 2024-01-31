@@ -1,25 +1,25 @@
 ---
 category: news
 title: "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order"
-excerpt: "He is the go-to person on the technology and has the ear of Pope Francis as well as some of Silicon Valley's top engineers and executives."
-publishedDateTime: 2024-01-27T21:45:00Z
-originalUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
-webUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
+excerpt: "\"It is a problem not of using (AI) but it is a problem of governance,\" the friar said. \"And here is where ethics come in — finding the right level of use inside a social context.\" Benanti noted ..."
+publishedDateTime: 2024-01-27T23:13:00Z
+originalUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
+webUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
 type: article
 quality: 49
 heat: 49
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: Richmond
+  domain: richmond.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/4/28/4281811b-659c-5c3c-b39c-70f01ea5c625/65adbff409ac0.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -44,6 +44,6 @@ related:
       domain: columbian.com
     quality: 19
 
-secured: "QfRsy+R0kBVQMugXBEDsgTHQqWTeVlt76FGAtTGsOPtmdbG4N8eXskq5sWxyNL3AdxjdimsGV6bmzJtAUzwg6xRojS62mtsFUBJuZSHPlLXR5HfiNAHZFUgb0t9TkYzLNHzPyqn+khPuzvDcPBlVh4v5RghOY2+L7ZY3JCVl0wXY8EQ/nnhWgR5qEMIRSkSK6QZnMwE70EPCUjVXap0M4cUH/615G8fSEBR8EheJt3XkGTJtA7DwqLcAbAwCmv4VKW/GYTUErB4JrXE8VmeIDI1VoG70pFOcBTXy4CB6HgrphKeJ2F8ZWkpOqOFnA4SOixRA3VgkxzbLSjIJbfkzRXkJs/9lbr55pjJtiQto2lQ=;GFxnhMge0W2A7NaaoSmarg=="
+secured: "y9m5+GF37F3PMQqGXi3xET/29WvIhq7E3QRUIF7exehJuEUsYF2hRKT0sxRp3cqFxGigoVceZF+Mpr/7ERwtHa244uQM1NbdxWFO2Dkg9qxtmRnFSKSX+Y+B9U34z23zl8JScltCAQLrgpwVmQrBDzAFBOXeFG5uNfM/XCTDM02A8Cg9pTRhdeQJKesAAcpdUJi/6iBYb+xqww8wQvp1hASwkyT6Dp+TQSt10QNAq4ok0E5ngBPpHw0xPTJvgX0QA9ebw1qIVI+hAQU5ZestQ9lUhRYtNYQNxLAiWKWTvrxG4izjaPg8E0mdpPpyfRmx1iO7PQ5/OdehTiCF6XzMROIYkX/pbv1prVVV5GnOLDA=;+MXs0dG7LxCliaPG1yaqLg=="
 ---
 

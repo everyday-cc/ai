@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Artificial intelligence in personalized cancer medicine: New therapies require flexible and safe approval conditions"
-excerpt: "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in"
-publishedDateTime: 2024-01-20T00:01:00Z
-originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242114"
-webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/242114"
+excerpt: "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in recent years. Applications of artificial intelligence (AI) will allow to adapt personalised therapies in an even more targeted manner."
+publishedDateTime: 2024-01-20T09:14:00Z
+originalUrl: "https://idw-online.de/de/news827773"
+webUrl: "https://idw-online.de/de/news827773"
 type: article
 
 provider:
-  name: AlphaGalileo
-  domain: alphagalileo.org
+  name: idw
+  domain: idw-online.de
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/16e5dedc-fda4-44a8-a470-b9b862cd9cbc-773a43cd-87d5-46df-91bf-eeaddfe85613--logo-horizontal-black.png"
-    width: 654
-    height: 274
+  - url: "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png"
+    width: 498
+    height: 259
     isCached: true
 
-secured: "5imjJKJpsHTRUZnt+RlVU4flhfqPHQnNfK7ok8IlA9/EAAm2rTFys0dFiTcXe3OVPJr/cEmxnnDYi5OxkohBScGNw2RVH4RVxpq6njJpTsDwlQbxGx+Okr9TZ0TrvDZM1vIHPLYIIZn03wrtZtnFZz94qERv5eOMgVnUyt+egdy32834iUnoX0V++Q8lJH9SioXPzumF3Lk+65b+eExKmGcnHCc3gPsBl1ALZKe8ED0XH/edBTn6EBC9MY7joxtwvb5dbeZYu84jydTnFqD4ysE32AAszbU9mPrpDx3zTdsxQD40vDmje8fjWosBnuFy9vrKGU+aEasBMuQ4FGvvv7bk/ws3dQiK7AEGGmxshBs=;X2K6gRqjQV2QRxUChm/I9w=="
+secured: "8JV7L3oBsON0XiYE2HE2YHuoLd5V74jrrB+a5EODZblKgs0JpVyGPtNUxQhTNOn+loDej46B8VH/1eU6/77sV/YqCGoybiJ9SB9RvIRsWeAp/y9+Umiruf2hjcAtBdPY13HghFURnjMQ3nNp7xYZBLAAJOODmpcOmf0SvEGHUoby9RPAw7AftzZ2eMRphZUa+5NIEqkDnwu5iypr7pbQ09EStFlN7aT3jJCXF5slKFykvbuWdMjz32RPIHfdUVGkv0Yyw9SGzfLOKc62lzs4qBqdSh2ReqAjaMsRFZMU+9jl6Pq9RTkJXmju0Tbn4hXqvvRtbFEnKU/x4UNHxqijlMBtPp1R33+D3Ve/SJioCk0=;Oqt1mSZcltHqwMrzQ/8OoQ=="
 ---
 

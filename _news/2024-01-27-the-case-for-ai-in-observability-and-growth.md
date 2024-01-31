@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 1124
         height: 549
         isCached: true
+  - title: "Dynatrace’s new LLM extension boosts observability, cuts costs"
+    excerpt: "The software supports extensions to Google AI Platform, Amazon SageMaker and other development environments. Wambach indicated that observability software is taking on a greater role today, as LLM-based and other AI proofs-of-concept move to production."
+    publishedDateTime: 2024-01-31T10:21:00Z
+    webUrl: "https://www.sdxcentral.com/articles/analysis/dynatraces-new-llm-extension-boosts-observability-cuts-costs/2024/01/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 4
 
 secured: "CpBKXYekqLAXhM7nw9R5ImvTvT0PH3sjHgm8EFedKE5qMTdQNM7uspiwEWxFnj8uZXVIY6ojPceLYdOU4rWPq+ue+cdXPJk8LSqYm5OkJV/VzPMHD++yrcAlRkwEljfCbV4uM1mvxSiTeUBWRNcVUHJ4HyXcDR+/zsq4VZIOfiROeIBpBIQw0t7/IYtes1TF9/PqCs18hzBfTveVLMdwWIrcUhfahoTCZSTbk0bgCruQZEIcBVr9xRE3TFQWxcP6xwWKe+/8uoJ2hKXvXRQWikUMYDzzB7aTuumvfM0aqifgtqORRBRfNXF0DFxxukOnrkk0kX1q7U2pVPTzIqbrAUCdySTD/2lNWc8csDCxQP2Z/7Ng2FDIkN7vEWMjMELAXwNnkMF2R3JlZ3z+9ApLqgImQPqlSkSSqFRR4qGWX9wt6ITbKr5pgkVM51imfbmGzVSLs+rS+GodYPPJCWSojrd5tOQ+hVmJCFSJsyOly7aqy+xS2dltMu1iJcvKcBfFaObe2t1uOpvxlBj6mR0Kgg==;X8ecQIwJ1u9jS6e4Lh2DTg=="
 ---

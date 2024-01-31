@@ -1,55 +1,100 @@
 ---
 category: news
 title: "Washington state to develop guidelines for agencies using generative AI"
-excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
-publishedDateTime: 2024-01-30T22:37:00Z
-originalUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
-webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
+publishedDateTime: 2024-01-31T02:31:00Z
+originalUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
+webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: katu
-  domain: katu.com
+  name: KSAT
+  domain: ksat.com
 
 topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
+    width: 700
+    height: 467
+    isCached: true
+
 related:
-  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
-    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
-    publishedDateTime: 2024-01-31T07:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
+  - title: "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity"
+    excerpt: "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-01-29T15:50:31Z
+    webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
+      name: IBM
+      domain: ibm.com
+    quality: 114
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "China seeks to train LLM without GPU, developing alternatives to Transformer"
-    excerpt: "With the emergence of AI smartphones and AI PCs triggering a wave of terminal AI applications in 2024, Chinese companies, mindful of the high demands on computational power, memory, and energy consumption posed by large language models (LLMs),"
-    publishedDateTime: 2024-01-31T08:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-rockai.html"
+  - title: "An Introduction To The Privacy And Legal Concerns Of Generative AI"
+    excerpt: "However, as this technological marvel gains momentum, it brings along a wave of multifaceted concerns, especially in the domains of education, ethics, privacy and legality. Generative AI, encapsulated in models like Bard, ChatGPT and DALL-E, embodies an ..."
+    publishedDateTime: 2024-01-29T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img.digitimes.com/newsshow/20240131pd214_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 833
+        isCached: true
+  - title: "10 Mind-Blowing Generative AI Stats Everyone Should Know About"
+    excerpt: "Discover the staggering impact of generative AI, from 75% of professionals expecting significant industry changes to 70% of Gen Z trusting AI for decision-making."
+    publishedDateTime: 2024-01-29T06:11:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b74f6f409f6c7459d4254b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1512
+        height: 900
+        isCached: true
+  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
+    excerpt: "IBM watsonx is bringing generative AI to the music industry."
+    publishedDateTime: 2024-01-30T18:48:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
+  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
+    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
+    publishedDateTime: 2024-01-28T05:45:00Z
+    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 38
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "UWYQDmdCFKpyqNd3amz69dsvgOTJZzAA9aHXMDiv66uJRcxy2izWL76PkQl21J7voIf1utpMRUGGsemYDIWUMSd764YhsgMl1gB7sWypdODEyTnBHL6ro4YIroHftoKEPjLZr3oePzvBT7EfulD3cWbO2+4HlNYwxyfNf8f/aV0/PI1v0Oq/IWCnETOn1nrTK5MtUbpwsBzChnWCoHsMIHy+T+blXi3k2p/4879S0qKndYmXbBB04zUL3QNq5qrkYEzmI9gFwTtelIALDAkQenBMxGoaWorPx492h8M6XBdC5EbUrXoTML8xyGdexPFf+UwE4RYVP06Yj6RURa1+7NlRLLxemuKjdOz4k28q13Q8MMoOGD64GA0bobuf78j/Ylu9Dxwxrn/THCbMQoV0zpqMIdXDLxRsPqa1BTJGuyx2mNGdGetW8r2NMzppzFZCYNIIx3w5C/8OYGgLWUhCkmKIizZsdoG72fCFtb0czsfS77xckqSvm996aXXVDs9EYfk1lZAk5VbrIfJdAdQBag==;v/qffnVK+PpxAv/MXbwsZQ=="
+secured: "CFcv3kdJivJn1C7NYiPaetB2LJpLWxe///P5HY2Gt6CV0zDaNegDBKXgjP9dxOiJaO+ecQIgXs+aHTKn9/92SQYdGhu3flnAwTOuZSbNIBxtBYiJrcUgoQYRUrWsQL2v4ufpElAFFmVaxKMKgPXdBAXStGOG5H2t8HAlzOHGPF/Tg2GuhRMcNqEI69e190vSgbw+kNwfu5O7cWNAMm+vxiSEHnvRGbrZ8qrPa5l6su4FgboqnKmAhuEPunO0pj4hBaIfd7sUf6jZHHjRrA6F1LLTDOXEEtWkCcmGTJHA68rA/mtAO4BW+nkU/oboEfKF2Frn4YAijb6HU7Ze3LLaeQkCJtU8Uvs2A4Ndo7cgewI=;VEy9cLSps/lqxKfBD7AomA=="
 ---
 

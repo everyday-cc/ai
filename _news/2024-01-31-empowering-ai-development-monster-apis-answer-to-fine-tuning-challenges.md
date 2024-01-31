@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Reimagining Innovation in the Age of AI"
+    excerpt: "It seems that almost every presentation of innovation and transformation brings up the exponential curve where the trajectory of innovation is traditionally charted along a steadily rising curve. However,"
+    publishedDateTime: 2024-01-31T17:39:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-01/AIDevine.jpg?itok=Ft0krctt"
+        width: 320
+        height: 244
+        isCached: true
   - title: "China seeks to train LLM without GPU, developing alternatives to Transformer"
     excerpt: "With the emergence of AI smartphones and AI PCs triggering a wave of terminal AI applications in 2024, Chinese companies, mindful of the high demands on computational power, memory, and energy consumption posed by large language models (LLMs),"
     publishedDateTime: 2024-01-31T08:26:00Z
@@ -41,15 +57,6 @@ related:
         width: 336
         height: 224
         isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-30T22:37:00Z
-    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
-    type: article
-    provider:
-      name: katu
-      domain: katu.com
-    quality: 19
 
 secured: "bnOAB3/Qw6gGUVoyC2cPFJ0O0vyy0LU1SDrZK65/bgRGoOndLtcx40rxzw7u9z2UQfFO8+haLpp3SxBCtORU1H7KDHBEjRxWNFtjPDNEczIKrJUKYN15fzxfh3QHNjBWtzbAoOyfWEiAcWrw+BT+2Gvt6335b2GHOGlL5a17h9Gpaog9Tv6dMMfSOm3foYEKOayygDtBbi/JTQ1PVFf15PQ5NTUFdzIPNCmRaWSaYRWM/jARM734qMGldg7Rbzeq/wxLQtePXoF8S4+aFypwuvxfm9BIZCyvv01FQSGz+ewyO3qmbN3xnL7snZhdvfyUE5yx9qKJbdgqJw0WuK+6d/eUK2ya5N4JNiQwBBfGzjmZVG2h2ayR5S36t9Cp3oMRZUK/DZh6dJRA4UwDV/P8b+PAAv33hgpjo4+LkMq0msXDdsKZrUIfW2H/79ArAB17em0PhIzH6o/B17SF7GJAt7Xdw63ngcP9F4zWw2AwXW/CKB0a8iw43i7vJ1QMenxN05Fc8wm/N4T4FeA3z8qnHQ==;FHidMKqaxe/FdexmNTOp9g=="
 ---

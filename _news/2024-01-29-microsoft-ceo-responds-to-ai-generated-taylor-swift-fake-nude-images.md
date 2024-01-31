@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 384
+heat: 394
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft's big bet on AI seems to be paying off"
+    excerpt: "\"By infusing AI across every layer of our tech stack ... There have also been reports of Microsoft and OpenAI looking into investing in a humanoid robot startup."
+    publishedDateTime: 2024-01-31T18:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI push sees Microsoft cloud revenues hit new high"
     excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
     publishedDateTime: 2024-01-31T12:28:00Z
@@ -74,6 +90,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
         width: 1200
         height: 765
+        isCached: true
+  - title: "Generative AI boosts cloud revenue for Microsoft, Google"
+    excerpt: "While the rise of generative AI has bolstered Microsoft’s revenue from its Azure and SaaS offerings, it also helped Google grow cloud revenue to the point it’s now 10% of Alphabet’s revenue."
+    publishedDateTime: 2024-01-31T14:14:00Z
+    webUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/spot_it_leadership_2021_intro_one_glowing_arrow_leads_a_pack_of_other_arrows_forward_leadership_momentum_progress_growth_by_gremlin_gettyimages-1050942106_2400x1600_homepage_hero-100870924-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Microsoft, Google ride AI wave as revenues surge"
     excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
@@ -150,20 +182,6 @@ related:
       - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
         width: 1600
         height: 800
-        isCached: true
-  - title: "The Fallout From the Taylor Swift AI Porn Could Be Huge"
-    excerpt: "Earlier this week, AI-generated porn featuring Taylor Swift started circulating on X (formerly Twitter). Swifties were scandalized. Polite society was incensed. Swift herself hasn’t publicly commented on the scandal but it’s easy to imagine she’s probably not thrilled about it."
-    publishedDateTime: 2024-01-26T17:20:00Z
-    webUrl: "https://gizmodo.com/the-fallout-from-the-taylor-swift-ai-porn-could-be-huge-1851198828"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
-    images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3387601ae913fa57814383a3cb8cd850.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Microsoft results show benefits of AI on Azure"
     excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."

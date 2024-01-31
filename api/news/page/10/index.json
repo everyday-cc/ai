@@ -2,6 +2,359 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
+      "title": "This Chinese Startup Is Winning the Open Source AI Race",
+      "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-financial-institutions-considering-which-type-of-ai-to-use.md",
+      "title": "Financial Institutions: Considering Which Type Of AI To Use",
+      "excerpt": "Financial institutions need to understand the key differences between these types of solutions to partner with the right providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae985ef0bc9604a2bf128b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1326,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
+      "publishedDateTime": "2024-01-23T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-opportunities-ahead-on-the-road-to-responsible-ai.md",
+      "title": "Opportunities Ahead On The Road To Responsible AI",
+      "excerpt": "Demand for expertise in budding fields, such as AI ethics and prompt engineering, will likely rise as the regulatory and legal groundwork to support responsible AI evolves. These important points reflect a vision for a future of innovation with net ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f038ad797a5ee00069255fd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
+      "publishedDateTime": "2024-01-23T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-eve-the-robot-can-cook-clean-and-guard-your-home.md",
+      "title": "Eve the robot can cook, clean and guard your home",
+      "excerpt": "Kurt “CyberGuy\" Knutsson introduces you to EVE, a smart and versatile humanoid robot that uses a modified version of AI and Chat GPT-4 to handle a variety of tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "originalUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed7f3ed3-7b32-4095-b15c-1b79086a972d/cf9675d4-15da-4a5b-ae91-590bbce4449c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-want-to-improve-rewire-your-brains-neural-pathways.md",
+      "title": "Want To Improve? Rewire Your Brain's Neural Pathways",
+      "excerpt": "Will your brain adjust just because it has the capability and capacity to do so? Not necessarily. You have to want to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae8254d725061c1c6886e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
+      "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
+      "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106875152-1619622957732-Avi_.jpg?v=1619623037",
+          "width": 4800,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "publishedDateTime": "2024-01-23T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-is-facial-recognition-a-useful-public-safety-tool-or-something-sinister.md",
+      "title": "Is Facial Recognition a Useful Public Safety Tool or Something Sinister?",
+      "excerpt": "In August 2023, the Chinese government issued draft regulations that aim to limit the private use of facial recognition technologies; the rules impose no such restrictions on its use for \"national security\" concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
+      "originalUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reason_com_448/751a000b23c47dfed65fe9d2063224c4",
+          "width": 1161,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
+      "publishedDateTime": "2024-01-23T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes.md",
       "title": "When One Man Used Computer Vision To Reassemble Shredded Bank Notes",
       "excerpt": "Clearly manual re-assembly is a challenging task. But now Chung Kong, a PhD student at Hong Kong University, has shown that computer vision can help reassemble shredded notes at least partially. Kong became intrigued after noticing that the Hong Kong ...",
@@ -808,352 +1161,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-how-to-handle-a-ransomware-attack.md",
-      "title": "How to handle a ransomware attack ",
-      "excerpt": "With ransomware becoming more prevalent, learn how your organization can swiftly respond to these cyberattacks.\nThe post How to handle a ransomware attack  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "originalUrl": "https://www.ibm.com/blog/how-to-respond-to-ransomware-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting.md",
-      "title": "AI-Powered Robocall Deepfakes Biden's Voice to Discourage Primary Voting",
-      "excerpt": "The robocall is targeting residents in New Hampshire, which will hold a presidential primary on Tuesday. 'Your vote makes a difference in November, not this Tuesday,' it falsely states.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "originalUrl": "https://www.pcmag.com/news/ai-powered-robocall-deepfakes-bidens-voice-to-discourage-primary-voting",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06sHJQ6QhfcIt6SC8UIb7vv-1.fit_lim.size_1200x630.v1705948204.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T18:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-corydon-five-arrests-after-met-police-uses-live-facial-recognition.md",
-      "title": "Corydon: Five arrests after Met Police uses live facial recognition",
-      "excerpt": "The Metropolitan Police has arrested five people after using Live Facial Recognition (LFR) technology in south London. The force said it deployed the technology in Croydon on 19 January as part of its work to \"reduce serious violence\". Civil liberties organisation Liberty called the Met's use of the technology \"deeply concerning\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-london-68062080",
-      "originalUrl": "https://www.bbc.com/news/uk-england-london-68062080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F739/production/_132398236_mediaitem110633248.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-london-68062080.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-london-68062080.amp",
-      "publishedDateTime": "2024-01-22T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
-      "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
-      "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/10/ML-11666-image001-1120x630.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:54:50Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat.md",
-      "title": "Is OpenAI’s ‘moonshot’ to integrate democracy into AI tech more than PR? | The AI Beat",
-      "excerpt": "After all, isn’t American democracy itself currently being tested like never before? Aren’t AI systems at the core of deep-seated fears about deepfakes and disinformation thre",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/is-openais-moonshot-to-integrate-democracy-into-ai-tech-more-than-pr-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-21-11.20.07-Abstract-illustration-representing-the-concept-of-making-AI-more-democratic-featuring-diverse-human-figures-and-symbolic-elements-like-digital-networ.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
-      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
-      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-these-robot-dogs-paint-like-picasso-and-fetch-up-to-40k-for-their-art.md",
-      "title": "These robot dogs paint like Picasso — and fetch up to $40K for their art",
-      "excerpt": "The robots can be seen painting, navigating their environment and self-charging in the show, which runs until April 7. The exhibition’s theme is generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "originalUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-85xyqhh4w-1705939812973.jpg?quality=75&strip=all&1705921857&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/01/22/tech/these-robot-dogs-paint-and-fetch-up-to-40k-for-their-art/amp/",
-      "publishedDateTime": "2024-01-22T16:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

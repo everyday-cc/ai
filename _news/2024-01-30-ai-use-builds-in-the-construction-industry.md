@@ -54,29 +54,6 @@ related:
         width: 650
         height: 450
         isCached: true
-  - title: "Artificial Intelligence and the Law"
-    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
-    publishedDateTime: 2024-01-29T14:30:00Z
-    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
-        width: 429
-        height: 648
-        isCached: true
-  - title: "Embrace AI and use it wisely to transform"
-    excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
-    publishedDateTime: 2024-01-30T18:56:00Z
-    webUrl: "https://www.newindianexpress.com/editorials/2024/Jan/30/embrace-ai-and-use-it-wisely-to-transform"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 19
 
 secured: "A7i8gfV5+fwswrkQP8HCbKjdVFc9JNRWUvVJLAYMn/fAAqi+/24kIOE9UmgeGoSP8XRCfb2aBogxzvY+msu/0jmJIhMsTWUGgCqIDdga04Cl1EbDqt2uSP9Gq6W6QYWJDJ2BNmmyYQAZ0cAwMNAv6jD5fAoZOr1uK9sIMpjqYl/Zjb3s8ewPGs8Qy83FwrdqKZSltjFKPCDhEIkXtwr97HyD8KrL/sWJvG3mT0e3VyFYsoYkHokpsCI/AOw8D+FFNdWJW1o/FW5sHTMMI7UApX1cTMMncXPWL0rszJ8HklQfjNSI8xGj//dra+FIr/qliaYDpMXiVonX7HuKg9CTmwIlOLvgeOq8jIOaZPkiVuGP81PKwE88xNDmURYLk7WLVC3Jytb6bysOLFypJPrgRjh//qjkPhMwrGTZ5STaoO5cYLMkhcuEls3CV5r2Ls4r7kgF4pRy/5qRFsfTbhfzYpYskeiq3CRrkdKRn8KZ8dhc0W/YkDoJtCBj8P2tpW1dqvXpzffWRPam5eVi7kpPJg==;SqW/aAA3/ev7vC1ymDlxXw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 88
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Train and host a computer vision model for tampering detection on Amazon SageMaker: Part 2"
+    excerpt: "In the first part of this three-part series, we presented a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. In this post, we present an approach to develop a deep learning-based"
+    publishedDateTime: 2024-01-31T17:07:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 111
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/train-and-host-vision-model.jpg"
+        width: 1023
+        height: 513
+        isCached: true
   - title: "Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock and Amazon SageMaker – Part 1"
     excerpt: "With the advent of generative AI, today’s foundation models (FMs), such as the large language models (LLMs) Claude 2 and Llama 2, can perform a range of generative tasks such as question answering, summarization, and content creation on text data. However, real-world data exists in multiple modalities,"
     publishedDateTime: 2024-01-30T17:07:34Z
@@ -43,15 +57,6 @@ related:
         width: 998
         height: 430
         isCached: true
-  - title: "AI, new projects to jumpstart tech hiring in 2024"
-    excerpt: "2023 was marked by fluctuations between tech talent availability and the end of big tech overhiring, but analysts expect the tech jobs market to return to more steady growth this year."
-    publishedDateTime: 2024-01-31T13:57:00Z
-    webUrl: "https://www.ciodive.com/news/IT-workforce-tech-talent/706070/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
 
 secured: "6x0ZR1V4YezI6P8rmcfr6i7uMBsYQoLo7SQLiHcudB7kSfJo8A3XgOkrcvE1zhTOw7KhmRYAdHy4SV1dQ5jXLOXs1RuSgesyE8zHMFGTtVjzrgKXSUdm/+Oz6t+c9lnFiOxV/Jd0RQHWn1Ppbn4e9iYVHvzawdTTHPmH/z0RNAmvgRM90BHb79khv5jvrFUGAQto1YCumdumf6VB0Op1jnYWwAAIB2hexb5Ar54fqBGK7a16XCm4x2p7Eq/e3tBLBxRvBzmtAm5LFnVrk3BUKCq935ijsgbMs689MlR3RjFiGy+NheLULlvXNKq7mw+sHppRYexhW+ABAUnk+aYbODq4SF/AoY7sDzFYRvnIgnM=;jmDXaiItmADRm5AbpzB5ow=="
 ---

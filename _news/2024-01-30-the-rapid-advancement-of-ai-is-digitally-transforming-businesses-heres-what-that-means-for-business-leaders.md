@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-business-leaders-can-harnes
 webUrl: "https://www.businessinsider.com/sc/how-business-leaders-can-harness-the-potential-of-ai"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,61 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "What The Top Nine Percent Understand About AI And Other Transformative Technologies"
+    excerpt: "A new report from Accenture exploring a predicted major uptick in business leaders using generative AI as the catalyst for strategic reinvention in the next 12-24"
+    publishedDateTime: 2024-01-31T18:50:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 81
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence and the Law"
+    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
+    publishedDateTime: 2024-01-29T14:30:00Z
+    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
+    type: article
+    provider:
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 39
+    images:
+      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
+        width: 429
+        height: 648
+        isCached: true
+  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
+    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
+    publishedDateTime: 2024-01-31T00:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 35
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Embrace AI and use it wisely to transform"
+    excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
+    publishedDateTime: 2024-01-30T18:56:00Z
+    webUrl: "https://www.newindianexpress.com/editorials/2024/Jan/30/embrace-ai-and-use-it-wisely-to-transform"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 19
 
 secured: "IbqGX+Tm8PGe0yOqMmC+L81q7GzWRmceW9CHy8fLSTXgk2MWmih8YVTcAyg1KzZrUokuFOKc/yNUe1+TvvtBETBFyNP/oPy/tRkxNGMJSCD7gxTTl3c56f2i/5jpI6xLuoZ9d0ZBG3h4j/4q4Um29ZypE7iYwUpYIKtIl6rjwb2/9MnLhsIT62OyUPNVtn3LuqwquTJO4UjNTy3pEU8O/9NTgvKb0NS3IuBZFXXpiRI53jTaASd75KxNpIOQ6Ebyx9p2dgXwEhQeIhE/j7fOwh58Js/psc4Wh55f6KUIbz1GvFaxYwqTGVH/PhtWPnkS/R8ro3CBMVvBFGkj94pC3/Aim5epXvcW8OTPa17v/nYK2SL/Y4VJAz8dpx0VBd7SlLZvumMfV5+U/HoJFPYY3fkix6vTaRsfmQfEsfbFUd5loDDcN4em9qYXMdt1uwCG5OUZU1x0oS0TYLpgPOhRi5C39PyBxhRLYtNDsWm/TN3zkFJQ/nZTcK7EmnTdTISl6Iybssu9svDtJujJvbIsOg==;ann/POSNCt6+mFhHpq0EIA=="
 ---

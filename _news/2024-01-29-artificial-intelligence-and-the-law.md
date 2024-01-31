@@ -25,48 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Transforming Sleep and Industry in the AI Era with Smart Mattresses"
-    excerpt: "In the realm of healthcare, AI is making significant strides towards personalized treatment strategies. IBM Watson for Oncology, for instance, utilizes artificial intelligence to assist in formulating treatment plans for cancer patients. Watson can process ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
+  - title: "What The Top Nine Percent Understand About AI And Other Transformative Technologies"
+    excerpt: "A new report from Accenture exploring a predicted major uptick in business leaders using generative AI as the catalyst for strategic reinvention in the next 12-24"
+    publishedDateTime: 2024-01-31T18:50:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://assets.newatlas.com/dims4/default/1c03d48/2147483647/strip/true/crop/1800x945+0+128/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fcb%2Fa8%2Fc23cf9ea41c19e6bc43c449c89ba%2Fnew-altas-4-lead-image.jpeg&na.image_optimisation=0"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 900
         isCached: true
-  - title: "AI Use Builds in the Construction Industry"
-    excerpt: "Syska has invested in Shadow Ventures, a contech and real estate investment fund, which in turn funded Okibo, a startup that makes smart robots for construction sites. “Robotics is just building a robot that can paint the wall,” said Ioanna. “The AI ..."
-    publishedDateTime: 2024-01-30T06:00:00Z
-    webUrl: "https://commercialobserver.com/2024/01/ai-in-construction-industry/"
+  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
+    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
+    publishedDateTime: 2024-01-31T00:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
     type: article
     provider:
-      name: Commercial Observer
-      domain: commercialobserver.com
-    quality: 41
+      name: ITWire
+      domain: itwire.com
+    quality: 35
     images:
-      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/01/image0_WEB.jpg?quality=80&w=768\t"
-        width: 768
-        height: 522
+      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Artificial Intelligence in Business: Transforming Industries"
-    excerpt: "Introduction: Artificial Intelligence (AI) has transcended its role as a futuristic concept and emerged as a powerful force reshaping the landscape of business and industries worldwide. In this article,"
-    publishedDateTime: 2024-01-27T09:15:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-business-transforming-industries/"
+  - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
+    excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
+    publishedDateTime: 2024-01-30T15:42:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-business-leaders-can-harness-the-potential-of-ai"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Business-Transforming-Industries.jpg"
-        width: 650
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Embrace AI and use it wisely to transform"
     excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
     publishedDateTime: 2024-01-30T18:56:00Z

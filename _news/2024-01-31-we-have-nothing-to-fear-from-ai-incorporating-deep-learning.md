@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-n
 ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -30,6 +31,22 @@ images:
     height: 900
     isCached: true
 
-secured: "qqmHR+otyK4JqXeRlCyG3cz6BTTj4aGH/VwPIqqPl4t0IP5rad61jg0FL7H/nPho6gswtW/8Vda/677HCOiOOhbLmv1MMUppG0gVrSgfZgrTKNi8c1HoVWKSkrA/IXobShN6WuLEDhy/X84uJ9jtdTo2PMA2boISBjqXi59KM+f8HR3RtsXoLY4sUBBNHOlTegSJHopkSevBtbWNKvLvKkUINHfbuoJ5kKGEZvZKgnd9Ms45okEeaHG+tuesMlXXqdu+3Opwr9KmFce6WqZWUuymO83/wXHmdvBBoPDXvbJhxtmHlE6AJxTQexjtmwn1gX9f7YND0DkO9J2/1hpkJwSNO2m1IH3hwMX4EjR59kM=;lDlhjwvvZRdt5hnfME9YqA=="
+related:
+  - title: "Samsung Galaxy AI: Features, and everything you need to know"
+    excerpt: "Now, you’ll be able to translate the person on the other end of the line when you’re on the phone with someone who doesn’t speak your language. This is done in real-time, and a text is shown to you about the things that are said, and Galaxy AI can ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://pocketnow.com/samsung-galaxy-ai-features/"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2024/01/li-samsung-galaxy-ai.png"
+        width: 1920
+        height: 1440
+        isCached: true
+
+secured: "EwLa3XK04SVCrKtrR3tHhMNbCJYsxeXgznA2oIfeg40rabYDfUSJY6nWEFeWErXS5Wf9tef5ZFWE//errOnzcxuPNuzOQuMPqka3rhDaLV3Qe8ePMLJu7qAMYEt8dkPQGXUhsGKAysXzzzgMEGvR2MxTmdPouEqCVVrtRA+TMV2K04s+zRwk6gQSKYp2U0005Exbvf09SLWII4G3FpcvoL8cXW90P2pcoMFc2iZJQ+oZGJMXQfxQIKpRnW02eTmpY71Ftz/PAapZOpN+Ys4zuRCW0gMYyasYkdlYScxJinkanzy1Dv5exP6ofcgaak0yqN96Wvd3VVGUtMloj4DspexWES+RPIZJxyPaQBdT2tA=;60rQUiMWdj0b4Fzgqg5GnQ=="
 ---
 

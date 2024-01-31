@@ -81,20 +81,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "OpenAI and Other Tech Giants Will Have to Warn the US Government When They Start New AI Projects"
-    excerpt: "The US government should now get advance warning of future AI breakthroughs involving large language models ... GPT-4 and Gemini respectively, but a congressional research service report on the executive order suggests that 10^26 FLOPS is slightly beyond ..."
-    publishedDateTime: 2024-01-26T17:31:00Z
-    webUrl: "https://www.wired.com/story/openai-tech-giants-us-government-ai-projects/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 56
-    images:
-      - url: "https://media.wired.com/photos/65b41ba4193fa014e3c5442f/191:100/w_1280,c_limit/Gina-Raimondo-Defense-Production-Act-Business-processed-3E46F538-745E-4D15-9A48-AE1DA2FDFE7A.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z
@@ -105,6 +91,6 @@ related:
       domain: bizcommunity.com
     quality: 21
 
-secured: "cMDnYcx9SfMLgd70JQiTK9v3BcNspECtCVPQCVOEH4frHiCPSifY15uCqj6L6jzFH+hOkuXPoKg8VjrFCh6FodRYmhXUVtEJrtXMOsF594mejQSqna1J7A+IgIcq/Bf605XVJUYA4zAJpQCQRO33qpWMv6pR1kXyY1cO5M6PmdrHfUHmcdJYOYTYrgAEtg3VFfvG5mKgJxv1NbJn/n7cDfKLjwE1TTtXlRkMXvqOWplC5BRAprWFxe4n7BhY6Q7ylrTBqf0tgF+H/V8tgHrDhx3hTIlBv7SkCvcBGt9bGY+t1CpPUG7Wbzqm7e1u88uQivLyc5L4waPNIUvHbQvUFSeEkvW2aMaV1QtB7Q1qJbQ=;81TzFrbMqRSpw5ccFczErA=="
+secured: "3kpxcQOfq8DatcVgQ1z+qvuyoLcDZyyUWX9qu0DlM4a6zAv1vUV87hTtR6MuynKSlnVzc0aeRzTMBH6WcJLVWxzTQ0VtzopOC3kTKy1/wKoOsi1ZB/Kbv9t+QUY2bIeb5P68q2acAqRQ9GtHkotAiMrykIA5f3ZU9HmdCE3d1OG8vV/jtF2Gk3oiRo3y4UwwsLYrEL67oEVUbGBBEgZ64+czl7w4yI66qi6XSJQKvVLHJFxlkUYs3C3XMD0Xb7rYcSxBwRPLEdsogTK4m+fd3yyfKxehG8p7ZTZ04lAMrzKpLJgkvEU/H2npd9N/DZ6XZy+V3q4ygtPA1t18joX4of2gFo97IR8O34gpmwtk3lvGwfwpz4GVNns53mi5NGAMAcqajKwsoBzcZEw56Effu5mSvHKidDDTKdbuhQfEkJ/xTwiq5gzXU8b1m/96w1k9gFR/ekF8ojPttPmckmfqGBKeVxciCVNYriwxBL5plkvwZEmsHviJ/Qb9odVVK1g37VJYXRGi0vt6NQn4aDQLXA==;vx/ujq9rTNee4Dmq9G8RQQ=="
 ---
 

@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Why are so many robots white?"
-    excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
-    publishedDateTime: 2024-01-26T18:03:00Z
-    webUrl: "https://www.beaumontenterprise.com/news/article/why-are-so-many-robots-white-18629768.php"
-    type: article
-    provider:
-      name: The Beaumont Enterprise
-      domain: beaumontenterprise.com
-    quality: 19
 
 secured: "UFTLVGwrvgwep2iEuT5bU2eUxlsXEJQuEwEhsatrSuN461oR2Mu8pV/UzcXb0Oo3kkV0TgxV5RObOmWP5D6O7VLWbBbGfQDrWHN2kmcgo8cWBEVxFVdZSiQ51g3dI+JZVR5TyHOxKeC/6Y2fEhlSQlZwbeIELiv2LswnePCckZlg5gSxZ6L9jUJluC00VHGszeXHMSENXhcO6YgdTJFRca0eAfUyJM3Tux77sCDqlA7UIkJT4lkubgkeu0SiVbdKbOkd8OVHTWyrnksuZgrt9ughinIZ9HhO5sYXjmCBcmVyZLduGcIlgYCTK7EnQXEJa/XDCrpiAHkiJe66SKsc2myHP0tfSHo53wgY9dh/TnI=;tflfw7hFverJQfinSjgu/g=="
 ---

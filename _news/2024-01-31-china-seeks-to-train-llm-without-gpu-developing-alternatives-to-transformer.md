@@ -41,15 +41,22 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "SEATTLE — The governor of Washington on Tuesday called for the state to develop best practices on how agencies should use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-30T22:37:00Z
-    webUrl: "https://katu.com/news/local/washington-state-generative-ai-artificial-intelligence-seattle-olympia-guidelines-watech-technology-tech-government-operations-safeguards-maryland-executive-order"
+  - title: "Reimagining Innovation in the Age of AI"
+    excerpt: "It seems that almost every presentation of innovation and transformation brings up the exponential curve where the trajectory of innovation is traditionally charted along a steadily rising curve. However,"
+    publishedDateTime: 2024-01-31T17:39:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
     type: article
     provider:
-      name: katu
-      domain: katu.com
-    quality: 19
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-01/AIDevine.jpg?itok=Ft0krctt"
+        width: 320
+        height: 244
+        isCached: true
 
 secured: "QCbRe6rW5+nrfRgGdhKfxspcGb7UwDzzYOxXFA+jn4z3gLkVWMeJmZ4LZ/Q7HfkPp+/W4zey0Z0G5YAt8dkoK0+GmtjZeYSPtRD/2RGIvEFthEnidlqulZ0rx5t/pzBOaCbxHxtee7i3rXhDPj3IZSQdmUZtzID+b4nNqqGrsoDL8o8d+KzlaxZwBH9omifJbMfs81xQ9APXZ5eegDlk1UdVwzyHv6EMF9ZYomRB6RXQbd2v/f3556db9nRl+GKFw37TWU7JmxfVMO5Vf6Y2sdGdkt4IcostTAagDqOo0gqs+Qnyyq3NbcgDUOFppTTX8HABwJsnK/edpuonjsqfWtvxmqh8v6WXjVhUFAZRL+0=;Pw/Rhc3ieFPZsxq/+KieFw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
+    excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
+    publishedDateTime: 2024-01-31T17:25:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mendix-is-transforming-customer-experiences-with-generative-ai-and-amazon-bedrock/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
+        width: 1021
+        height: 511
+        isCached: true
   - title: "Conversational marketing - combining the power of AI with humans"
     excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
     publishedDateTime: 2024-01-30T00:00:00Z
