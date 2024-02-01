@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-
 webUrl: "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-authoritative-dns/"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Should large enterprises self-host their authoritative DNS?"
+    excerpt: "There are several reasons why a large enterprise would want to build and host an authoritative DNS service on its own.\nThe post Should large enterprises self-host their authoritative DNS? appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-01T18:00:00Z
+    webUrl: "https://www.ibm.com/blog/should-large-enterprises-self-host-their-authoritative-dns/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/091a0057.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
 
 secured: "/jH5cx03DZcVrx60lYunU4tJTT/c8b0rAMoprlvyudZKPl+r/Z1IonE3hlzmlEJn34b8EfGqfJunReOh9E1E5yhOYUwW/0Oo3SDzAAhDxmfMn6GlFAMCK8HE37lJBWuj4Nw3+GrL3iZYpDXpZb31hk/dk/+EReL6tKZyQxJk3gcxz1qZD7B9QMx13UAngjC9BoE8PRTh248TeYULEGb1i/bbjxDdE4iJ2dVMQeOjRnvGG/ewS7nviQM5Cp8r+bR1WAiefzJwbDGMlBRkkwnB14Ff2OKiyZd9ANrE/s1830VfCejkEG3ySM5jNo5F8aoxL5ht/tSKe8gmcgNZ+J9k3amhlPUC+VN7qQDHcBey+cs=;WaceBCi8ZlNWUJphvcrG7A=="
 ---

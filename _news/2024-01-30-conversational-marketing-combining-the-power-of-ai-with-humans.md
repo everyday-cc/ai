@@ -41,20 +41,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
-    excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
-    publishedDateTime: 2024-01-31T17:25:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mendix-is-transforming-customer-experiences-with-generative-ai-and-amazon-bedrock/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
-        width: 1021
-        height: 511
-        isCached: true
   - title: "Application of Gen AI in Banks and \"Fintech\""
     excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
     publishedDateTime: 2024-01-30T05:28:00Z
@@ -68,6 +54,20 @@ related:
       - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Scholars Optimize Scientific Models with the Power of Artificial Intelligence"
+    excerpt: "The workshop focused AI research toward optimization of complex systems. Presentations of climatological and electromagnetic simulations showed these techniques resulted in more efficient and accurate computer modeling. The workshop also progressed AI research itself since AI models typically are not well-suited for optimization tasks."
+    publishedDateTime: 2024-01-31T11:59:00Z
+    webUrl: "https://www.cc.gatech.edu/news/scholars-optimize-scientific-models-power-artificial-intelligence"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 36
+    images:
+      - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2024/Scientific%20Workshop%20Photo.jpg"
+        width: 850
+        height: 478
         isCached: true
 
 secured: "7Zoh5Z+GXNCKMDAwvFhqtCaq8IUE032cxR/T47gzKLMd+8xKWTczk3yT54aRbNQrxnDKDiFdrwnBkydxYdadm2Z82ZXq0Z4TqeJdXIZItBuklmeQuGTqc9hOPFIQW/HkRbfFhqnY1z86plq4ehuDvcp1GQWVHwv3Krf4QMiX3cLjafManeTw/+lqVpcJ6MGKdrTmalJLogGwGGN7FD0kvRUbpPylxhivql45ZTTFlZiIO6LW2oCvfAHbgfH+wLjpStrDPuMaeiNlxOhjVomIpiDGhNQa8VAaBSD3k8FsbTFcYSlfC9WhTKcaevc7DTrJ0X6IK6RR6C3Xj1KMr875mEamJ5zCn20BdSUC+NvHyQM=;M50f/YIQI9UT96gLDso+rQ=="

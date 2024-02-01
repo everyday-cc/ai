@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T16:35:00Z
 originalUrl: "https://www.aol.com/finance/amazon-earnings-preview-expect-updates-163431696.html"
 webUrl: "https://www.aol.com/finance/amazon-earnings-preview-expect-updates-163431696.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/xMmRuYPv6RiIbKmcdZcNUA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTc-/https://media.zenfs.com/en/aol_yahoo_finance_433/c68b0699f7e29a73110aea579d8f9a0b"

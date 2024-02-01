@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "A new way to discover places with generative AI in Maps"
+    excerpt: "We’re incorporating generative AI in Maps, to help you discover things to do. Select U.S. Local Guides begin testing the feature this week."
+    publishedDateTime: 2024-02-01T17:00:00Z
+    webUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-guides/"
+    ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-in-Maps_SocialShare.width-1300.jpg"
+        width: 1300
+        height: 731
+        isCached: true
   - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
     excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
     publishedDateTime: 2024-01-30T16:00:00Z
@@ -60,6 +76,71 @@ related:
         width: 1218
         height: 600
         isCached: true
+  - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
+    excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
+    publishedDateTime: 2024-01-31T17:25:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mendix-is-transforming-customer-experiences-with-generative-ai-and-amazon-bedrock/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
+        width: 1021
+        height: 511
+        isCached: true
+  - title: "7 Ways Marketers Should Be Using Generative AI Now"
+    excerpt: "Right now, generative AI is the technology making the biggest waves in marketing. Explore the transformative impact of generative AI in marketing."
+    publishedDateTime: 2024-02-01T06:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/01/7-ways-marketers-should-be-using-generative-ai-now/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
+    images:
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
+        isCached: true
+  - title: "Generative AI Will Not Replace Your Employees"
+    excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
+    publishedDateTime: 2024-01-29T16:14:00Z
+    webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Use of generative artificial intelligence at UNIGE"
+    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
+    publishedDateTime: 2024-01-30T12:44:00Z
+    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
+    type: article
+    provider:
+      name: unige.ch
+      domain: unige.ch
+    quality: 37
+    images:
+      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
+        width: 1200
+        height: 620
+        isCached: true
   - title: "Generative AI startup taps 3 health system execs"
     excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
     publishedDateTime: 2024-01-30T18:14:00Z
@@ -74,15 +155,29 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
-    excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
-    publishedDateTime: 2024-01-30T12:26:00Z
-    webUrl: "https://www.aol.com/finance/language-dies-every-2-weeks-172634105.html"
+  - title: "Data-Focused Strategy May Hinder Generative AI Deployment in Healthcare"
+    excerpt: "New Deloitte survey suggests that healthcare leaders must focus on data, governance, consumers, and the workforce to successfully implement generative AI."
+    publishedDateTime: 2024-01-31T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/data-focused-strategy-may-hinder-generative-ai-deployment-in-healthcare"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 3
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
+    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
+    publishedDateTime: 2024-01-30T16:43:00Z
+    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
+        width: 700
+        height: 466
+        isCached: true
 
 secured: "8AL2SzWUQkufpPeSu1Bs3kDizfOGbYMvu7A6YT0nouszPTCigCV2gfRwNJD/1NNF4J5i7rWrC5QLArlD9mqiu5UMkvFU+TtOTkCyyHr1Xq6mLqEPOIFljYzowQ3k8Lhd5E2MReXZt1p765G28dNKAfLov+tpMrWLpvd0ed0k9t1MgbL5wl48fMFxGFWjGiB9lYQwDKChAOqsb039D7UbW6CwyaxRJYLyhzc/xEHOVE5mIdETG7crADeU/uS3UG7Hliiy54xzdjmxcK0MSEPRUvQlWrzxTdEnLWvbN7xR6h1l8ymCBk2ft2w6upt6ATdGyUG/yTvfgNtllHON8ZUPiXs4LARzL8fTKAtUWrKAbvE=;HgFa0LwyZVeWn9YBUmUDVw=="
 ---

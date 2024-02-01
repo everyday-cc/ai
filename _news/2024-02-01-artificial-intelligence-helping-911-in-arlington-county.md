@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wusa9.com/amp/article/news/investigations/911-amazon-con
 cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: WUSA
@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "An executive order was signed by Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI in government operations as well as its risks."
-    publishedDateTime: 2024-02-01T13:00:00Z
-    webUrl: "https://www.knkx.org/government/2024-02-01/washington-state-to-develop-guidelines-for-agencies-using-generative-ai"
-    type: article
-    provider:
-      name: KNKX
-      domain: knkx.org
-    quality: 19
 
 secured: "gxGxg4Iq0dno1GUYZhcaEQjIY2l5gXHohNDSXweH0NNRvzlg67TTC4L3rVGChD2wmSIhihoGvtlYtOC+ZzprlDfUY1+NLLz7A3/z3hzf1hq6ZyyNikQ4ix+E7G607ufPxsYnWo87rUn78uBhGYFBicQGJ9cR/a7FO07jyejlx/05rZUz/Pk7Plm/YstyLPFaljvjx1XeW7gCKfWLSnQBM16spHC+rH78oCiRYRJIxO/hiZVEkpA+HFSsz/RY1WINpYMNhTrCupevWSaQclLJhv5FvmVNko089x+xLJKZ1GImie9WrmykAyH2SJmZxZxZPxVapshXncdMKfoT1pOe43pN34KG76/trs5PTC4hJJE=;lnKf7ES/DGiOyqI/9Nfr2g=="
 ---

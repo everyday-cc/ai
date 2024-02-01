@@ -40,15 +40,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "An executive order was signed by Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI in government operations as well as its risks."
-    publishedDateTime: 2024-02-01T13:00:00Z
-    webUrl: "https://www.knkx.org/government/2024-02-01/washington-state-to-develop-guidelines-for-agencies-using-generative-ai"
-    type: article
-    provider:
-      name: KNKX
-      domain: knkx.org
-    quality: 19
 
 secured: "F7/volnznwrx9JpBCWak3PcKnjFABJVHU+FTQqNKpFaDf6OsxfcPtJhu4K8tbKfrkXxQQpSOW6hoV8rDsqoZyzSFEgQ9jrhEQ2DDL2a4H2zFumOXsJYoHsYKts+wjyhBetNnAv+mpNRaPtQ8RJRkwGuzmS2RHI/VoUZX58cZQgSaDOaVAdnh3+OZtK/YRQ7vo9xsnl+IwD0xycggxA/t/sFdmKR45FdFrjIY6q5CkuMu3IwXuvyl706m5SY15nFk/W2MD4cKr6WR7gQ85ywqmEDcSAW35ADjynF2Or1bVZhaRnEGJY/bjc8g+U29w7PUG1iTt49cwpnF2WETACBVsc0QRbM8ue3pOCqNhrGr3ik=;LLaRlxaaqR1N9jXPxOoLxA=="
 ---

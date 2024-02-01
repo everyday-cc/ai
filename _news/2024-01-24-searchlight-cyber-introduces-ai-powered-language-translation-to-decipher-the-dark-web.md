@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web"
-excerpt: "Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring products DarkIQ and Cerberus. This enhancement gives ..."
-publishedDateTime: 2024-01-24T14:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web"
-webUrl: "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web"
+excerpt: "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power"
+publishedDateTime: 2024-01-24T14:49:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm"
 type: article
 
 provider:
-  name: Morningstar
-  domain: morningstar.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "5ff9Bwl5EjhE3vhLMDRuVAzahJ7MlQnCf4Xbu+ZMoYPnrrQDo60TVo23UP9x4zC8XbBN1I9QsStnjTNVDa3ILTIBIxnTJYc1YE2NwJsnZDOS5EppM5DHNPHS4PPtivt/D9EzAC3U4gmQ3XDIvMGxw7UPvTcciOmSxd1qDt44hAwLqdfoEA/sQJAluzqGSlrWmxFaZ9fQ2mkNSFTjXO+fcfPEYQI1DspT55qiyFd1aOckXe596gFTRjxnO44Pupzp26GfazhxAvq5JprltFEoOeHHcX99qdkms6yzdp6kXjYBMoqgj1PDGPuXk/y1MTzNbRSDHF8vik66oC1ZGMW3XBeBRjd9FmZN5PsXQ8qWDBI=;/xuef4fIASezkOCT+Hq/2g=="
+secured: "VWjElAtEqYrPUFZ1Gj7jINesb6wWzFC6mVd7tDFZfK/t0BZGbN+raLm9Qiw+/1Nz/Zc2PWSqydiw0QIdq7aRtm7WCqwgCdupXg89x0rpk+hzvChRyVJSS9yKvdrspFi2I3mvgmgWI4hk2Bh4ENEoCjSYKBdmR4zPdgiIq/uP7GbqowM3ScUGHgarb/Z6hRGLN5M9U5J4gsWNdGUFsAgSmW5LuyK4OqhqglwyV2xmPVvBrFr60DeBp4I2nKELLb891IlGSgBXgkW7dgpTjnZMcpJcrmZ26FTAZy8RYDxlrZBsATUBUv5l7VV7RWCRlbtV+9l7ssIeVyO/AMv63JV/swksidft088rK2eaKQJGKw8=;QYlaKXnUfKRELgydiqlcVA=="
 ---
 

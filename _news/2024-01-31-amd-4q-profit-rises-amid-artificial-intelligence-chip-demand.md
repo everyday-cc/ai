@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artif
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/amd-4q-profit-rises-amid-artificial-intelligence-chip-demand-07ff5726"
 type: article
 quality: 104
-heat: 156
+heat: 154
 published: true
 
 provider:

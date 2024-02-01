@@ -19,36 +19,89 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence helping 911 in Arlington County"
-    excerpt: "In response to that storm, Arlington County decided to go high tech to take some of that stress off employees. Arlington County is one of the first 911 call centers in the country, and the first in the northeast, to use artificial intelligence to handle non-emergency calls using a system called Amazon Connect."
-    publishedDateTime: 2024-01-31T22:37:00Z
-    webUrl: "https://www.wusa9.com/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f"
+  - title: "Designing generative AI workloads for resilience"
+    excerpt: "Resilience plays a pivotal role in the development of any workload, and generative AI workloads are no different. There are unique considerations when engineering generative AI workloads through a resilience lens. Understanding and prioritizing resilience is crucial for generative AI workloads to meet"
+    publishedDateTime: 2024-02-01T18:17:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/"
     type: article
     provider:
-      name: WUSA
-      domain: wusa9.com
-    quality: 57
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://media.wusa9.com/assets/WUSA/images/b59e512c-6606-4fbd-a6ef-0c01d06fc0dd/b59e512c-6606-4fbd-a6ef-0c01d06fc0dd_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/generative-ai-workloads-resilience.jpg"
+        width: 1022
+        height: 511
         isCached: true
-  - title: "SFA vs. UT Arlington February 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The UT Arlington Mavericks (9-11, 4-5 WAC) play the Stephen F. Austin Lumberjacks (12-8, 5-4 WAC) in a clash of WAC teams at 3:00 PM ET on Saturday. The game airs on ESPN+. Watch college basketball, other live sports and ..."
-    publishedDateTime: 2024-01-28T11:17:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/02/10/sfa-vs-ut-arlington-buy-college-basketball-tickets/"
+  - title: "Bard Now Lets You Generate AI Images for Free"
+    excerpt: "Bard, Google’s AI chat bot, is now more than just a chat bot. You can now use Bard to generate images, powered by Google’s updated Imagen 2 model. This model, as explained by Google, balances quality and speed,"
+    publishedDateTime: 2024-02-01T18:55:00Z
+    webUrl: "https://www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/"
+    ampWebUrl: "https://www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/amp/"
     type: article
     provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
+      name: Droid Life
+      domain: droid-life.com
+    quality: 59
     images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/24SNZPDLRZOEZD7EW4Y4YLOBQE.jpg?auth=477be25dcb40d614270dd2fd1c6c969270fe94c3ca9814f9d0a3149bfe708b59&width=1200&height=600&smart=true"
+      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Gemini-Bard-600x315-cropped.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 46
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
+    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
+    publishedDateTime: 2024-02-01T03:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
+        width: 800
+        height: 451
+        isCached: true
+  - title: "Saudi Arabia Debuts 'Generative AI for All' Program"
+    excerpt: "Saudi Minister of Communications and Information Technology Abdullah Al-Swaha announced that the initiative will be supervised by the International Center for Artificial Intelligence Research and Ethics (ICAIRE) — which was launched in November 2023 ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb75b8da3b0dd6228/65bb9c01e4b697040a40b713/saudi_keyboard_sleepyfellow_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
+  - title: "Six Principles for Redefining Retail with Responsible AI"
+    excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/six-principles-for-redefining-retail-with-responsible-ai"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 19
 
 secured: "PX2gkZ30/iIB6c8rnICiU7maaPUgaLstLpr/VBLZJlEDdhnDF3PeaiTegXYVuAMlMdN2+xQW4Sg8Mm1xH07zC4Q9MHbb2ADIlUZCRa6UzyM6fASJpAmXDud/xnYf6wFazQyjCoqhEAeChhKth98jlNSfnC4NxKKq/pg8RSmvUiWQaqLaCd6dhDAMR+NstXuISExHXF7BfpU+5Qy3OANXKVOwyGJfbDFqD2dORn3eIzbtaZARHW1wbdBaW8kfoqT1eMAYAuUaBHWEqjxdyRXVH4Cbla5JKjkmix4atWmebMiUeDTOvh33HMz8MErcisMm/9QDxC9zINMddUD5CeN7ELyPGEIxDQ/GDTqW4A2tqMNM3kDblg+A/yNE6TQhgCWKNdLZh+jDnx+YDg7dOZYmGw0QLV+yeOh8fKcYaTkgs8nSUV5Cx4VdRMFcT6OQuz+Q7ytRvntea+9h5UWBlv2zRAC0Y6PUi9unNUOG8TWPggsYiO0fRhV+uhNNJJOvd1ikaCFD2XRSln6gRN+1adgwNw==;fl5lsXuQf5h6OqoXr7KO7A=="
 ---

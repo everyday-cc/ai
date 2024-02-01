@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/95888/nvidia-commands-90-of-ai-gpu-
 webUrl: "https://www.tweaktown.com/news/95888/nvidia-commands-90-of-ai-gpu-market-competitors-are-years-from-catching-up/index.html"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1500
     height: 857
     isCached: true
+
+related:
+  - title: "Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market"
+    excerpt: "A summary of the report from Wells Fargo Equity Research was posted on X by a Microsoft employee, and it contains some interesting insights into the data center GPU market. Chief among those is that Nvidia is projected to earn between $37 billion and $45."
+    publishedDateTime: 2024-02-01T17:32:00Z
+    webUrl: "https://www.extremetech.com/computing/analysts-estimate-nvidia-owns-98-of-the-data-center-gpu-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
 
 secured: "Iz+CiKYYF97vrAwb1V1VrpD/Plf8Xsu4fld9248FdqK+Mbg7w9Bun20Reg6GxG5QzT59ATN6vzkY/FS7cDkIdaqkJyf5FOC+SujhOSVWUy9RxhtewHzfaRPJHHp1EO9EGr9qj1lDynbaqM3qoP9CeNrdvipQj9JpTk9wlGvE+nF6K5NOb79zBEn2lkQEN9ykcDp1VY1MARzUc8bDvb5hzN2w1zxdjUdVatL9pLX8hpMM3TzznwZDyUcHwijy94UnjYRxUVn7Czyt+KkAgXFat0Ur0JB+ljATfHiP3C7LJtsfafXtXE2bTe4VOrRY3E1Bj5dxsGl/qcf1vq8G8pfY+BVl3HlrNUZP4WjAJdNoOBJCaP+rzYIM8vARYrMZuiAQVKzN0pJaNqlL4Ll2QR5LFvoM5oI2CX0tsFhF2YX3acQiTKhRUJ5vIOCm/E4KIDzhyiCjWses1t/hDh1VYXU6kK+FMZpNfcdEGk08FoXaH5FXp9iFS72h79PnEFiwkQ2FSjsvMB78CTcvIAFjyHVXJQ==;OiDGXedYspRUPMyaa1esBQ=="
 ---

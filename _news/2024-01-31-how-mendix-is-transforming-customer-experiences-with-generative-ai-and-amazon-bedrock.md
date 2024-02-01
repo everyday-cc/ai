@@ -29,49 +29,155 @@ images:
     isCached: true
 
 related:
-  - title: "Elevate Azure expertise with new AI and optimization video episodes"
-    excerpt: "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps"
-    publishedDateTime: 2024-01-30T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
+  - title: "A new way to discover places with generative AI in Maps"
+    excerpt: "We’re incorporating generative AI in Maps, to help you discover things to do. Select U.S. Local Guides begin testing the feature this week."
+    publishedDateTime: 2024-02-01T17:00:00Z
+    webUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-guides/"
+    ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 109
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI-in-Maps_SocialShare.width-1300.jpg"
+        width: 1300
+        height: 731
+        isCached: true
+  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
+    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
+    publishedDateTime: 2024-01-30T16:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
     type: article
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png"
-        width: 1260
-        height: 708
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
+        width: 1200
+        height: 674
         isCached: true
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
+  - title: "Three Tips To Help Your Business Start Winning With Generative AI"
+    excerpt: "As the generative AI revolution continues, it’s natural for business leaders to view it with curiosity and maybe even a little trepidation."
+    publishedDateTime: 2024-01-31T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
-        width: 640
-        height: 390
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b93b16980861665a65b341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Application of Gen AI in Banks and \"Fintech\""
-    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
-    publishedDateTime: 2024-01-30T05:28:00Z
-    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
+  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
+    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
+    publishedDateTime: 2024-01-29T03:19:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
     type: article
     provider:
-      name: Kompas
-      domain: kompas.id
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1218
+        height: 600
+        isCached: true
+  - title: "7 Ways Marketers Should Be Using Generative AI Now"
+    excerpt: "Right now, generative AI is the technology making the biggest waves in marketing. Explore the transformative impact of generative AI in marketing."
+    publishedDateTime: 2024-02-01T06:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/01/7-ways-marketers-should-be-using-generative-ai-now/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
+    images:
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
+        isCached: true
+  - title: "Generative AI Will Not Replace Your Employees"
+    excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
+    publishedDateTime: 2024-01-29T16:14:00Z
+    webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Use of generative artificial intelligence at UNIGE"
+    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
+    publishedDateTime: 2024-01-30T12:44:00Z
+    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
+    type: article
+    provider:
+      name: unige.ch
+      domain: unige.ch
+    quality: 37
+    images:
+      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
+        width: 1200
+        height: 620
+        isCached: true
+  - title: "Generative AI startup taps 3 health system execs"
+    excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
+    publishedDateTime: 2024-01-30T18:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-startup-taps-3-health-system-execs.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 37
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Data-Focused Strategy May Hinder Generative AI Deployment in Healthcare"
+    excerpt: "New Deloitte survey suggests that healthcare leaders must focus on data, governance, consumers, and the workforce to successfully implement generative AI."
+    publishedDateTime: 2024-01-31T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/data-focused-strategy-may-hinder-generative-ai-deployment-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
+    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
+    publishedDateTime: 2024-01-30T16:43:00Z
+    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
+    type: article
+    provider:
+      name: WPLG
+      domain: local10.com
+    quality: 28
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
+        width: 700
+        height: 466
         isCached: true
 
 secured: "JJfyngvCnvOMTlFlcsneiGOhmKlMXucrm1O/46CgX8GJyFkdEqZpE5j6I2OkdjA1PntdchI7tuP0X6UnejAYKO+bP/0B3brx7wIPSmJ2GgnoiSLMvY8tjBsTaL4z3/fFJYEqTz0gfPurM9b8IHRB6LnwJFjjTuIPaPcpzq51e2PGNlTfAqK5uENZgMdr/qNeoiRpXTQSBL0XvNU8EzUeEncTaCKXcUA1mf1Lx/7nvntxNSJQVBpHreoiBD86xpex0BdCqHkYE9PxjwZDpP1moX6QVQXLzrh2tk4i77PklQMqSZq4VdX37Vv/iGxP39r0/MfSNLkUBHETd6Fua7bwdDHWMBivTsF16wjyOhs6kBk=;oRQYwBBHbl3VILnBy+b0ew=="

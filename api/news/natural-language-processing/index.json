@@ -266,6 +266,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-26-the-benefits-of-medical-speech-to-text.md",
+      "title": "The Benefits of Medical Speech-to-Text",
+      "excerpt": "What is medical speech-to-text? Medical speech-to-text, also known as medical speech recognition (MSR), is a technology that allows you to dictate your medical notes instead of typing them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
+      "originalUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
+          "width": 700,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-not-going-away-a-star-greenberg-traurig-litigator-lost-her-voice-ai-brought-it-back.md",
       "title": "‘Not Going Away’: A Star Greenberg Traurig Litigator Lost Her Voice. AI Brought It Back",
       "excerpt": "Lori Cohen achieved an impressive 58 defense verdicts before suddenly and inexplicably losing her voice. Now, with the help of her long-time trial technologist and friend Gerard Buitrago, she’s harnessing the power of AI to get back in the courtroom.",
@@ -458,10 +501,10 @@
     {
       "path": "_news/2024-01-24-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web.md",
       "title": "Searchlight Cyber Introduces AI-Powered Language Translation to Decipher the Dark Web",
-      "excerpt": "Searchlight Cyber, the dark web intelligence company, has added AI-powered language translation into its dark web investigation and monitoring products DarkIQ and Cerberus. This enhancement gives ...",
+      "excerpt": "Bespoke AI tool is trained on dark web data to provide accurate translation for cybersecurity professionals and law enforcement Searchlight Cyber, the dark web intelligence company, has added AI-power",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20240124937773/searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web",
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-01/61219184-searchlight-cyber-introduces-ai-powered-language-translation-to-decipher-the-dark-web-004.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -471,11 +514,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T14:00:00Z",
+      "publishedDateTime": "2024-01-24T14:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
         "images": null,
         "publishers": null,
         "authors": null
@@ -688,6 +731,49 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses.md",
+      "title": "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses",
+      "excerpt": "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
+      "originalUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T07:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1342,103 +1428,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages-heres-how-itll-work.md",
-      "title": "Bard AI is coming to Google Messages. Here's how it'll work.",
-      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3405223/",
-      "originalUrl": "https://www.androidauthority.com/p-3405223/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
-      "title": "Academic Intelligence: The Evolution of Education Through AI",
-      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
-          "width": 2311,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T12:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diplomatic Courier",
-        "domain": "diplomaticourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/28/we-have-only-begun-to-scratch-the-surface-of-ais-true-innovative-power/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1445
     height: 900
     isCached: true
+
+related:
+  - title: "Artificial Intelligence and the Power of Creative Thinking"
+    excerpt: "CALGARY, Alberta, Feb. 01, 2024 (GLOBE NEWSWIRE) -- What if you could spark creative thinking by unlocking the power of Artificial Intelligence (AI)? Canadian artist, author, and best known as the front man for the band Moist, David Usher, believes you can."
+    publishedDateTime: 2024-02-01T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-the-power-of-creative-thinking-1033021921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "yzaGw3+HMzB1uApZpt9v8KSlP1T6wFTmFa6oBSX4O9N3fPSAKjb9nI0SoGoiRQMmyw8YBknJIwzQh14HghIAx7lfKEDtOzd1sf+Hfs4yVsWuFS+g25Rfh+EW9uGL2NLuRWNjbVFd+Baz2xCL7RU4/lsgTcet9eojlMrxBxDc4TU+vuC+RR07TZPqh5uWGEqZdYJrHosHk9PAnYFx1CrSIRlx2oFwVbNdohSLkOkboTISBrBIccd5LY3Bp0F8AEsCfrzWD8Jdb2avHpExCSixfGekKXa5LlkadfdxnyeM1omRAPvb43EdlW5KRS/H1W6sK22KdfYRX4qLqcwAzM6Nha0YPuvuvrXwBFJ+tSMmtwWwRhWX1wrMFI+PYiy+4U1qnIac3tyCfX9lhOSviVfWKdroLFtHS9TUvuFuS9H5ceE2C5sG5Klsa0OUUq7EvbKyAZuMr8TMSzErpe3JjMhWFGhIsqPoIhrFDmvdUa/BPhSWth6OX2JLRNR8jBMsNtvXHOMIaWQPAShhf9zpZroT2g==;wY/kOqByC0oRirlQxuZHWg=="
 ---

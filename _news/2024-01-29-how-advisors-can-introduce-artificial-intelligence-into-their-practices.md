@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-pr
 webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-how-advisors-can-introduce-artificial-intelligence-into-their/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Broker Complaint Alert Introduces AI-Driven Scam Analysis Service"
+    excerpt: "Today, Broker Complaint Alert (BCA) takes a monumental step in combatting this menace by announcing the launch of its AI-Driven Scam Analysis Service, a revolutionary tool designed to offer investors a robust shield against the sophistication of online scams."
+    publishedDateTime: 2024-02-01T18:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/broker-complaint-alert-introduces-ai-driven-scam-analysis-service-1033022125"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://api.blockchainwire.io/uploads/NcryptbitTechnologies/editor_image/d0e51e62-d16f-43d3-a85d-35b0a60b06e5.png"
+        width: 1219
+        height: 830
+        isCached: true
 
 secured: "bT7KIDiTxqdkMS+8o2WkUhwRpHUmBqQ/vhresGvQTE/z8P8utAZpKC9PJP+TLg3PX0i4jbaRtfdwGTug9nuzbC6HSnMjD0RJaXZyi8z5qeMW2l/yOis1uYdfzWm/tw6Lln7Lcpg06aHuM0iAFWRXQuHNYEHIWbCI7MwXWFlHD06N71QPKtXG43Q12OtayTE3VfR7i9gBVgvQ+smxzE4hPzVGqJk1d+OQNOTk3EYwDOFP/71oHOe+MPZXCZp5OBKzaUjsZoynBG8xt3eeM0CKjMC5zjLh9R+OWZsgEV8y+ejgBZtga5ZKDzZ6qNppIcznIQW5j28mVi154Nlf7wt25Q3qsmO9sAQiOcGNyp9Zdu8Fj6/VENoPc8wCsUziIRsUqFU9jpV+0SQ9eNPWj549kZBPm+Zno+TXi3UT/EQWX1yHHeAQKvX//ziV0Kin2H+JxGMD+HCSAgmE/MsM7fvTmKBKDzg95s9Q0mB7zyrwa3ikMjEJ6d8OIe/mILA2qiDL2NoOpZcTVjppehfZwaVyGA==;ovzy4BOdDpzfe8+0Gn70ig=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generati
 webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "Generative AI Will Not Replace Your Employees"
-    excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
-    publishedDateTime: 2024-01-29T16:14:00Z
-    webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "California restaurant incorporates kitchen robots and AI"
     excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."

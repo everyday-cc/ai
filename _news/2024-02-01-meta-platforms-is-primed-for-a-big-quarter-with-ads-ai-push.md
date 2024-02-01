@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

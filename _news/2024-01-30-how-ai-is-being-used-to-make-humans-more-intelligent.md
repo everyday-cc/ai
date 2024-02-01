@@ -68,20 +68,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
 
 secured: "7NZ5FOXwT/QIChIPHOAoIgsLHLvHYCwaHJdE8B/ndUG5ln09+v7xBpdmR4zlhzCAsAYKYpGtZ+Gxbjm8sg4qaCkTBqWFu6sRc2+dPH5luZC0ESgEGPOQLomD50GFJirDLs9xdJ7gJpFqPwX4ptzwAD7u0ml5d8M5RhimUQaMxUeB96e/OQWI2g11qGsWlQ3OSidESgapcdglPwe4NL3c55H8tQrxD8RLQBk5VkAWeN70MksXAlF1pDvMxhHQg12Zj5zzLW7ZNe6dzdj848bDt6uPnmdtXt9Z9DhJBdPDpvPwpfLOACVWnnXPqVP1CS2K9fdiZH6Cb9aCjqmfSmepqnabBAXU6mU9xW2QGihei/bOB0dyXhBMyf5dXBY9HLzAm78aY0i/YlpsY9yutZjkdZNQx40t3ztWmnAEm4nfxq1EPW+HaE7NxFdI0pP+zbxjGmWS9BxcCNXw8aqmB1DfllUph+9BKyRyN+rYAfSVhUQepNTry26FyvQJkbo0jEYhyF+o449FUJICAfCVRzlK8A==;DErzF+xzdOK7tX9cRJYp8g=="
 ---

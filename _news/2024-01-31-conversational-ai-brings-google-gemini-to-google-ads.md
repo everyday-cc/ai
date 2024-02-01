@@ -7,7 +7,7 @@ originalUrl: "https://www.cmswire.com/digital-marketing/conversational-ai-brings
 webUrl: "https://www.cmswire.com/digital-marketing/conversational-ai-brings-google-gemini-to-google-ads/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI chatbot Google Bard with Gemini Pro now available in SA"
+    excerpt: "Google Bard with Gemini has now equalled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard"
+    publishedDateTime: 2024-02-01T17:25:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/"
+    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
+    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Google Bard Advanced Confirmed to Get a Paid Subscription, to Be Powered by Gemini Ultra AI Model"
+    excerpt: "Google Bard Advanced will be capable of running complex tasks The AI chatbot will be multimodal and support images, videos, and more Google claims Gemini Ultra AI model outperforms GPT-4 on MMLU bench"
+    publishedDateTime: 2024-02-01T11:23:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 46
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_bard_advanced_subscription_1706785754691.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
     excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
     publishedDateTime: 2024-01-29T00:00:00Z
@@ -53,6 +85,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google could rebrand Assistant with Bard to Gemini"
+    excerpt: "Google's new version of its Assistant called \"Assistant with Bard\" may be named \"Gemini\" after the company experimented with a standalone \"Bard\" brand for it. The new name \"Gemini\" could help promote the underlying AI technology and create a more cohesive branding strategy for Google's AI tools."
+    publishedDateTime: 2024-01-30T10:27:00Z
+    webUrl: "https://www.androidpolice.com/google-rebrand-assistant-with-bard-gemini/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google may rename all of Bard to Gemini"
     excerpt: "Google is planning to rename its AI model, Bard, to Gemini, indicating a potential strategy to tie together its various generative AI services. Code on the Google Bard website and Google app suggests that both Bard and Assistant with Bard may be renamed to Gemini."
     publishedDateTime: 2024-02-01T11:15:00Z
@@ -67,6 +113,20 @@ related:
         width: 2040
         height: 1536
         isCached: true
+  - title: "Google might be considering another name for Assistant with Bard: Gemini"
+    excerpt: "We previously spotted how Google might be rebranding \"Assistant with Bard\" to just \"Bard\" and now it's apparently called"
+    publishedDateTime: 2024-01-29T22:42:00Z
+    webUrl: "https://9to5google.com/2024/01/29/assistant-bard-gemini-name/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-assistant-with-bard-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "R.I.P Bard: Google could rename it to Gemini"
     excerpt: "There were some strings of code found indicating that Google may want to rename Bard into Gemini. Yet to be confirmed."
     publishedDateTime: 2024-02-01T13:01:00Z
@@ -76,6 +136,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
+    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
+    publishedDateTime: 2024-02-01T08:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 0
 
 secured: "8WqlGc8S8wPZHR2eq3GW/+kmlV4WP/iIQj2ltB++LGGNhbTgZm5Znc5MkAg2NNK6yMBhxm9RGx2SSn2X0GFbkEPw32deiDIFgcwAxcQ15R5ex6Ue8FdFHaVQ9YLUxd0OB7bQAlbUzsvQuOk58i2jXBP5/aKxUN5i17d/Bh1XgdUAf59K0Ixl2CfjpyJ6o9gaZSwjY/Yugq4cFa3cvrKxFKVtJjAzjXnmUpuj8Iulo1dbqD976Zhnxt6urZxvA5gcH+c1krlH/R4vzu09dBp2YPF3iVI7Iv1DYFVG+pfmtVI3t2ONRb5KGNgsyV1VDaGDxRvq/qk0QTkEvxG6SS9jRuLInSkjLB61/rVIfRvusqjQNgmeunmWhE4U9R15JIt9zsR2Oe7uA6c+iG3Y2flBppobl2P9gexpV0NpfgYcse4wZRakuZWK+qYgDAKhDEoejsx01gsSIKvv0DkwqW3TGXs/DFKkldgP6+WTo5aoIWn9k1/qTUeekWHtsIky+53jQBtR2DSCxpFSgAE5CNplLg==;STrrqtIi1hNK2ag1wwL9zQ=="
 ---

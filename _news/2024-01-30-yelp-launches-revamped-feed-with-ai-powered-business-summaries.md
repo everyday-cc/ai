@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
-    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
-    publishedDateTime: 2024-02-01T03:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
-        width: 800
-        height: 451
-        isCached: true
   - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
     excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
     publishedDateTime: 2024-01-30T15:00:00Z
@@ -69,6 +55,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Google powers up Bard with Gemini Pro and releases new AI tools"
+    excerpt: "Google’s new standalone ImageFX tool, also powered by Imagen 2, was added to the company’s AI Test Kitchen, a place where the company allows public access to experimental AI tools. Google also updated MusicFX, a text-to-music AI model that allows users to make songs."
+    publishedDateTime: 2024-02-01T18:24:00Z
+    webUrl: "https://siliconangle.com/2024/02/01/google-powers-bard-gemini-pro-releases-new-ai-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Bard_Generated_Image-Gemini-Twins.png"
+        width: 1536
+        height: 970
+        isCached: true
   - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
     excerpt: "Enables organizations to embrace AI with confidence by providing unparalleled insights into all layers of AI-powered applications, helping ensure sec"
     publishedDateTime: 2024-02-01T11:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 webUrl: "https://newatlas.com/sponsored-content/derucci-smart-mattresses/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/01/image0_WEB.jpg?quality=80&w=768\t"
         width: 768
         height: 522
+        isCached: true
+  - title: "Will AI revolutionize the retirement industry?"
+    excerpt: "A recent survey from Professional Pensions showed 17% of pension experts think Artificial Intelligence (AI) will revolutionize the industry a great deal, while 60% agreed it will to some extent. Only 7% argued AI will not change the way things in the industry are done."
+    publishedDateTime: 2024-02-01T14:03:00Z
+    webUrl: "https://www.benefitspro.com/2024/02/01/will-ai-revolutionize-the-retirement-industry/"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 39
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2023/05/Digital-Transformation-Article-202305181913.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "5aEGbg9bclWXEPUndVSD6u9ooB8t7/v9jTRg8XEDXWf2f2H3Gd9vM7aPTImpzmuu3Qr/zFHNfMREbEmEoQvnigcfs2uxEBb4t4b8GmGRyR3oOOivuyjpVXWUjiIq9IxVOz5qMsQOELYEq/5V0RBFdAmXQwI756s5NpqqFu+45bzeTKyp2k0UhxU3LAVfcLjCeLf4s4HAVp1sZfBf0H5ZYq7v17lR0nWkCxGITvtCK2cBXHrV3vIBHp1Mc5DgCKiF7OYuhQv/nApRjmZgJpmXQlHLjPRgWD07zYL1E51oYt80jQCQ9lJeGJWq/tVEIAfNZrcx9DYQ60QKeQrfrIMAEOs0peMupkTfKPebE9L/zSA=;cwp+zt0Iy2Qh5solZFE6Fw=="

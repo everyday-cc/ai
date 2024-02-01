@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Australian Open hopes AI audio translations will speak to new fans"
-    excerpt: "Tennis Australia are using artificial intelligence to generate videos of players speaking for a multilingual marketing boost"
-    publishedDateTime: 2024-01-27T18:00:00Z
-    webUrl: "https://www.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/12d3ac6ad163065443b40880aae67ff8cede8785/0_0_4610_3073/master/4610.jpg?width=620&quality=85&auto=format&fit=max&s=44fb4d6cb33627d8c3c45e2f9c489f0f"
-        width: 620
-        height: 413
-        isCached: true
-  - title: "Australian IT Pros Need to Prepare for AI Regulation for the First Time With EU AI Act Imminent"
-    excerpt: "The EU AI Act may effectively force Australian businesses to implement regulations for AI or risk loss due to lack of compliance."
-    publishedDateTime: 2024-02-01T16:08:00Z
-    webUrl: "https://www.techrepublic.com/article/australia-it-eu-ai-act/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 57
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-australia-it-eu-ai-act.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
     excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
     publishedDateTime: 2024-01-29T21:57:00Z

@@ -33,22 +33,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Bard Advanced Confirmed to Get a Paid Subscription, to Be Powered by Gemini Ultra AI Model"
-    excerpt: "Google Bard Advanced will be capable of running complex tasks The AI chatbot will be multimodal and support images, videos, and more Google claims Gemini Ultra AI model outperforms GPT-4 on MMLU bench"
-    publishedDateTime: 2024-02-01T11:23:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 46
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_bard_advanced_subscription_1706785754691.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google confirms you’ll need to pay for Bard Advanced — here’s what it can do"
     excerpt: "Google’s next-generation artificial intelligence chatbot Bard Advanced, will be a subscription service according to CEO Sundar Pichai. This has been suspected since Google first announced its Gemini family of models in December last year,"
     publishedDateTime: 2024-01-31T17:34:00Z
@@ -81,15 +65,6 @@ related:
       name: Lifehacker
       domain: lifehacker.com
     quality: 19
-  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
-    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
-    publishedDateTime: 2024-02-01T08:27:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 0
 
 secured: "wwdTkcECHNULzR+wysh32fpnFPvexyWaAuwDstrqHiVE+t0eCXMCKqdeGOPJgQm4GdIJw9tT/7YItswJ1WKKPoUq5R7wZm20zGhM/CFR3ec+RP6/gF2Cg47xdhhDf2Bd9ys9oBTqmx4x8drgCMEUo6VbFqZ+5lC2dnH8WrSUMurd/wVmg1GcXtaSttQY50kA7ubyZvk4QrQo7T3H/wNOIYxTFP6wECU8sOQr+ZUMNFxiVc11vYCyNqdJ6QM5TYZbdG9GVTX3NEUqN+LRATESZYJaBknLniLmkByslazUqsDyu/H9HiZD/wRGf+S0tRrIjjEVmuUcZV+xuhVqch/Y3MhjdNk+RytBT2zBdZfEoaJIE+Vs3vk/7PNEU/HmyaXp8r+buhEd5aFqdy0EUCbgy1jfnGs23qgQpPHN6iot0s7dAO5nWphZp1ShThC7AkqVUwDMNIi6ywSFcNImImu7/65r69bHVs3v1+o1ob2jt2ywH0rFQL2it+cI/2hmBH55Qq791+I8UW8fodGxG+Hk2g==;TfFg+EcHvNDQbEkL1OzkrQ=="
 ---

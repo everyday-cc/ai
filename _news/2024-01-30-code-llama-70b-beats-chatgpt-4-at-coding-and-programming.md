@@ -78,6 +78,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
+    excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
+    publishedDateTime: 2024-02-01T18:01:00Z
+    webUrl: "https://www.techrepublic.com/article/google-gemini-vs-chatgpt/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-google-gemini-vs-chatgpt.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI Game-Changers: ChatGPT vs. Llama"
     excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
     publishedDateTime: 2024-01-31T18:26:00Z
@@ -107,6 +121,20 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google Bard finally lets you create AI-generated images, like ChatGPT and Bing"
+    excerpt: "Google has announced a new update for Bard that finally lets users create AI-generated images with a text prompt."
+    publishedDateTime: 2024-02-01T17:03:00Z
+    webUrl: "https://bgr.com/tech/google-bard-finally-lets-you-create-ai-generated-images-like-chatgpt-and-bing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 50
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
+        width: 1536
+        height: 864
         isCached: true
   - title: "New ChatGPT feature GPT Mentions and Brave browser integrates Mixtral 8x7B AI assistant"
     excerpt: "It facilitates seamless translation between different languages, catering to a global user base. This feature is vital in an interconnected world, enabling users to access and understand content in multiple languages. Brave Leo’s AI-driven capabilities ..."

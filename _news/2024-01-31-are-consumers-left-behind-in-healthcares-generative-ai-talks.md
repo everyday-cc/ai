@@ -28,15 +28,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Data-Focused Strategy May Hinder Generative AI Deployment in Healthcare"
-    excerpt: "New Deloitte survey suggests that healthcare leaders must focus on data, governance, consumers, and the workforce to successfully implement generative AI."
-    publishedDateTime: 2024-01-31T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/data-focused-strategy-may-hinder-generative-ai-deployment-in-healthcare"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
 
 secured: "6P5SjgQhErash1bSolijJbOoTotDf5SYjid88sLK3TvE3snABiuM0cjb+l8woDoMMWmi7Dp52efS3QSXmppx8ea2asK9rjy/Zm8j+5jxkAd9ZFwVnevXsrxmQcHTTnf+o3TKc2h4bgTatq4WNX8kVE4X/iX4raB3++W570aGgsXvDJVvU9hLBbke21ZPwoEXmcU9SDCa0ibLo53kORM201Taf1ZqmncvcELX4IHWXeB0FbwcMz1ptfMzeC2xSjbBFkL/cvnUMcbhbuYPOFxJPVx6QGhZrsblNzXuYvty0JGqAl5+dP328T9SOvO4EV3pAgNTbVyJQ3QGySCrFH6x2mpAam870k7coCRv/lbTfP7sxPBkn4a1qwAErU8yqfjZYBqj6/7wyfb0zqQzGRe4S72BC3IglL6Zf6vM1CMeVR16J96c4wnngsZGhlu4WQlJtyCxa4wFvPwpmeOhqaUgBBTJx0DzOL2vjM+J03QUrDorJRXRqxduFVH/IohdRA3d0HVIpXPIYZT0pyBevOpydg==;5KyAaegmu0lYpdjtYoPvXw=="
 ---

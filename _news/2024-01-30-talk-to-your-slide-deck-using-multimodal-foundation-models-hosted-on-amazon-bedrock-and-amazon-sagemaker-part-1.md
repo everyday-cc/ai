@@ -43,6 +43,20 @@ related:
         width: 1023
         height: 513
         isCached: true
+  - title: "Analyze security findings faster with no-code data preparation using generative AI and Amazon SageMaker Canvas"
+    excerpt: "Data is the foundation to capturing the maximum value from AI technology and solving business problems quickly. To unlock the potential of generative AI technologies, however, there’s a key prerequisite: your data needs to be appropriately prepared. In this post, we describe how use generative AI to"
+    publishedDateTime: 2024-02-01T17:40:46Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyze-security-findings-faster-with-no-code-data-preparation-using-generative-ai-and-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/amalyze-security-findings.jpg"
+        width: 1023
+        height: 509
+        isCached: true
   - title: "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart "
     excerpt: "When deploying a large language model (LLM), machine learning (ML) practitioners typically care about two measurements for model serving performance: latency, defined by the time it takes to generate a single token, and throughput, defined by the number of tokens generated per second. Although a single"
     publishedDateTime: 2024-01-29T18:34:21Z

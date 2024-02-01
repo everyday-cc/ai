@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI chatbot Google Bard with Gemini Pro now available in SA"
+    excerpt: "Google Bard with Gemini has now equalled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard"
+    publishedDateTime: 2024-02-01T17:25:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/"
+    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
+    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
+    type: article
+    provider:
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Google Bard Advanced Confirmed to Get a Paid Subscription, to Be Powered by Gemini Ultra AI Model"
+    excerpt: "Google Bard Advanced will be capable of running complex tasks The AI chatbot will be multimodal and support images, videos, and more Google claims Gemini Ultra AI model outperforms GPT-4 on MMLU bench"
+    publishedDateTime: 2024-02-01T11:23:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 46
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_bard_advanced_subscription_1706785754691.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Conversational AI Brings Google Gemini to Google Ads"
     excerpt: "See how AI is transforming digital advertising with Google's new conversational experience, streamlining complex campaigns effortlessly."
     publishedDateTime: 2024-01-31T11:31:00Z
@@ -54,6 +86,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google could rebrand Assistant with Bard to Gemini"
+    excerpt: "Google's new version of its Assistant called \"Assistant with Bard\" may be named \"Gemini\" after the company experimented with a standalone \"Bard\" brand for it. The new name \"Gemini\" could help promote the underlying AI technology and create a more cohesive branding strategy for Google's AI tools."
+    publishedDateTime: 2024-01-30T10:27:00Z
+    webUrl: "https://www.androidpolice.com/google-rebrand-assistant-with-bard-gemini/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google may rename all of Bard to Gemini"
     excerpt: "Google is planning to rename its AI model, Bard, to Gemini, indicating a potential strategy to tie together its various generative AI services. Code on the Google Bard website and Google app suggests that both Bard and Assistant with Bard may be renamed to Gemini."
     publishedDateTime: 2024-02-01T11:15:00Z
@@ -68,6 +114,20 @@ related:
         width: 2040
         height: 1536
         isCached: true
+  - title: "Google might be considering another name for Assistant with Bard: Gemini"
+    excerpt: "We previously spotted how Google might be rebranding \"Assistant with Bard\" to just \"Bard\" and now it's apparently called"
+    publishedDateTime: 2024-01-29T22:42:00Z
+    webUrl: "https://9to5google.com/2024/01/29/assistant-bard-gemini-name/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 23
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-assistant-with-bard-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "R.I.P Bard: Google could rename it to Gemini"
     excerpt: "There were some strings of code found indicating that Google may want to rename Bard into Gemini. Yet to be confirmed."
     publishedDateTime: 2024-02-01T13:01:00Z
@@ -77,6 +137,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
+    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
+    publishedDateTime: 2024-02-01T08:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 0
 
 secured: "g+FfvP7o/1bItRrOgJZi6g+YjksTbbHVixSap5HmJrLpc73x/nphpEvKAcdRC7auS/FOZkkHLCT2Em/paoV8px1R8ogAczkcj29mStrEyQ3vqpvKIoOFE6Bvtj9Wbe2gt1HVg/sJjXSXH5vmMtHYHinfjjBIz3iMN0L/5Uea9sorWW+ffyicMC9jB7gRbJM+1wlU7jj3D6rXz6F2kP0jXFSpYxcSBP+sm+ayIaAso1LQhZhrzTTEjbO3IHiszX7DHIvQE9OrqOZF4oQGmPChKdf6v8Mvmn+EFc/BCKuE6HMzKQ9rzc4MJWd3RdzQi4G1F/xGv+wx979ZyNn/+1c1IyCZx4hZzqwFYhzmtTvSG7nHc/f21ujZbgvFqk6RpfPTI9g0MlUga2mnXMdgpmBUtupPIlLKEIUtHykOokQthEIqYcY6EQqWpmT16gw/CKaSqDXDxfesRaQz57oJoni1RkVnWu8hs9w6+3+iU2BvcxAaeIpsXfYGq4ICsrGbuzGZHXtGiLpsywcJxatJEsotCA==;685MTIF6ZsAGc2G1I6Fp+g=="
 ---

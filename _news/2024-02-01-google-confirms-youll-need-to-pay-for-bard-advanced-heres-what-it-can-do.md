@@ -39,22 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Bard Advanced Confirmed to Get a Paid Subscription, to Be Powered by Gemini Ultra AI Model"
-    excerpt: "Google Bard Advanced will be capable of running complex tasks The AI chatbot will be multimodal and support images, videos, and more Google claims Gemini Ultra AI model outperforms GPT-4 on MMLU bench"
-    publishedDateTime: 2024-02-01T11:23:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-advanced-gemini-ultra-ai-model-paid-subscription-4973865/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 46
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_bard_advanced_subscription_1706785754691.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google’s Bard AI to Get Premium Subscription"
     excerpt: "Google plans to introduce a subscription model for its Bard Advanced AI chatbot In its Q4 earnings call, Google revealed that the advanced version — dubbed Bard Advanced —﻿ will be powered by the upcoming Gemini Ultra language model which promises more complex and improved responses."
     publishedDateTime: 2024-02-01T08:12:00Z
@@ -82,15 +66,6 @@ related:
       name: Mint
       domain: livemint.com
     quality: 8
-  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
-    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
-    publishedDateTime: 2024-02-01T08:27:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 0
 
 secured: "Xuuby3M5FvYknRFlCigdncwqhIWZ43pSbuehY7ff+9zVxOe8IDxerZQ1iFxUM8W6yVQKVfGIDJXSMbD7kHeGRqlZ+c4nbZTMJ+befaIDotJ6bDbmMBSJBipybD0hQQkr1UVHiKRtroxd1RkuGwtLEEODeqkUO24uiAx9xm8gBlCmflPrmM3KzS7K1fbQSWJ5HfUyw89SX/OhgLje6ZJZM3fK6ZI/1t5iLeugHmQGonMxaLDJwabK8Rmt8xR3eLyR4IvmANG+/kf/jO9SR1xAh6KLNZGUrJh3yoCaxgfpeyHyUrzLmkRyW0Dl533ZrBZXwM9ds9GOTYq8e5uSQYS4KWKzL2G00jFpaHIEz2C19JQ=;dor0WA+iFdg1oAanqLMdJQ=="
 ---
