@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Predictions For 2024: Things To Know About AI And Workplaces"
+    excerpt: "If I could add a prediction for peace here, I would be eager to do so, but because I can’t, I will instead share that peace is my most fervent wish for us all this year."
+    publishedDateTime: 2024-02-01T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/predictions-for-2024-things-to-know-about-ai-and-workplaces/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI In 2024: Beware Hallucinations, Pinpoint The Problem And Never Replace The Human Connection"
     excerpt: "While we’ve seen conversations of AI \"replacing\" humans, we already know that to get AI to do its job, humans still need to be the subject matter experts."
     publishedDateTime: 2024-01-31T12:45:00Z

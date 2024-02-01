@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact
 webUrl: "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: IBM
@@ -22,22 +22,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "The Case For AI In Observability And Growth"
-    excerpt: "In the modern business landscape, data is the new currency. It informs decisions, drives strategies, and can be a key differentiator in competitive markets."
-    publishedDateTime: 2024-01-27T15:42:00Z
-    webUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/"
-    ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b52f9a184f38f65ecec3bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Network Security in 2024: Artificial Intelligence, Observability, Simplicity, and Beyond"
     excerpt: "Looking back on this past year, the network and security space has experienced a series of major advancements, as well as brand new challenges. The"
     publishedDateTime: 2024-01-30T04:21:00Z
@@ -52,29 +36,6 @@ related:
         width: 1124
         height: 549
         isCached: true
-  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
-    excerpt: "Enables organizations to embrace AI with confidence by providing unparalleled insights into all layers of AI-powered applications, helping ensure sec"
-    publishedDateTime: 2024-02-01T11:12:00Z
-    webUrl: "https://menafn.com/1107796629/Dynatrace-Launches-AI-Observability-for-Large-Language-Models-and-Generative-AI"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/01/pr_12199_bd58cc08_image_story.png"
-        width: 960
-        height: 432
-        isCached: true
-  - title: "Dynatrace’s new LLM extension boosts observability, cuts costs"
-    excerpt: "The software supports extensions to Google AI Platform, Amazon SageMaker and other development environments. Wambach indicated that observability software is taking on a greater role today, as LLM-based and other AI proofs-of-concept move to production."
-    publishedDateTime: 2024-01-31T10:21:00Z
-    webUrl: "https://www.sdxcentral.com/articles/analysis/dynatraces-new-llm-extension-boosts-observability-cuts-costs/2024/01/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 4
 
 secured: "KfJVqj3MA2ifGu1MDkJ/9//wJ3vjukZstbXLhopbW+uIWi88cZGXHOcwH+3JQa+9RZdblP7VZ1GOrtLHTQ6VuZ0wAfC0Bha+3HtZi4qpodSFLFnRfk2nmBd15xmZOOJMHSa0Oetjh+x0iqucOKRvZMEhMpIY9ZAxd107eMl9VgQE8XZn4l3NyEtEBpCd27JWxHU+YmhxGBQjOAz1IUNc3erUcN4QGEWox0orn+JSjM2cXN0Bn+kOwKKq5xiarNyxe4emcyEE9Pq/jHT5fPPupH7rHKqbmi79Rr1/Z9WkqMs8ekLWkj04zZ0ZQSWumG1tWwLmgq009IIqrMqe5yotzo+t8Dmp39ZDc6K+oO0bcmY=;JaqDX2ic2/OzcqZ3ytjq8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Bard's latest update turns your words into AI images"
+    excerpt: "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Bard in Messages app may access your private conversations"
     excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
     publishedDateTime: 2024-01-29T13:07:00Z

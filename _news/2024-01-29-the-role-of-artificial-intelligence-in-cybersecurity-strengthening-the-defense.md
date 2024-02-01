@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Artificial Intelligence in Cybersecurity"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, the interplay between innovation and security is crucial. As cyber threats become more sophisticated, organizations are turning to advanced technologies to fortify their defenses."
-    publishedDateTime: 2024-01-27T13:21:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-cybersecurity/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 19
   - title: "Artificial intelligence features, cybersecurity measures add to websites' complexity"
     excerpt: "How have advances in cybersecurity complicated web design processes in recent years? \"Advances in cybersecurity have not really complicated the actual creative design of websites. But with increasing client requirements,"
     publishedDateTime: 2024-01-31T11:45:00Z

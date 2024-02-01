@@ -122,6 +122,20 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
+    excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-dall-e-now-google-bard-can-generate-images"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tVFLtdy3rkXtwzXdyXGSai-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RBQIK/y8KaFwAfZQ0XU9aDZhL2mjSCDd6b005U8tT5D0bpJ7YSOvBClQTLZNsD1s+T0VPLBUDbXoUgNDQxJSfB2B1P786ZGi9GaG/hcmZak1T87dQXTP8exLQk2X/eOq+6jCCX3ixlEb0j+EXvoBoC/Jt7W9y7BHMI8qm87H8j9oKS01MkkuuZpIQ/IVFNBpWhSOGhLp8/YW9jvVVOC0mahaNqeyES38avd2FEsq7ummXwLPKWx1WrEVmxn0urGt7VTnm3EAzJOmfF84Bff/Fbd+3/3l1kUIuSNA4YtBxR+lINqbKQGTtJcQQiF/g/UjhwmwD//eOchxZtAdVHZGxP/nNl1UrYEcLuXWjz+I4yc9/7Zsvl6sT46ZY9W7Y8nowkwK8AjOoCGMGw23t0el/3GP70SxIzEXHTD1izqno9D37E4L2PV4In15Sj+Y4sk1Jlwj2EOnRn+tt3l2Xi0x8LlqWlPlF7Guhho74cP/j404pBjaR2046aAz8JDuklrxk4830hQ6Di6j67zJss9spQ==;zpDlBVTZKySOFPQ6JdhnTQ=="
 ---

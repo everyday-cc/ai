@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/sport/2024/jan/27/australian-open-tennis
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/sport/2024/jan/27/australian-open-tennis-australia-ai-artificial-intelligence-audio-translations"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australian IT Pros Need to Prepare for AI Regulation for the First Time With EU AI Act Imminent"
+    excerpt: "The EU AI Act may effectively force Australian businesses to implement regulations for AI or risk loss due to lack of compliance."
+    publishedDateTime: 2024-02-01T16:08:00Z
+    webUrl: "https://www.techrepublic.com/article/australia-it-eu-ai-act/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 57
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-australia-it-eu-ai-act.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Rolex and Kia dominate Australian Open sponsor share of voice"
     excerpt: "Luxury watch brand Rolex and South Korean car manufacturer Kia maintained the highest share of voice at the Australian Open 2024, according to social and media intelligence and data analytics Meltwater."
     publishedDateTime: 2024-01-29T21:57:00Z

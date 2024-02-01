@@ -41,36 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Reimagining Innovation in the Age of AI"
-    excerpt: "It seems that almost every presentation of innovation and transformation brings up the exponential curve where the trajectory of innovation is traditionally charted along a steadily rising curve. However,"
-    publishedDateTime: 2024-01-31T17:39:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-01/AIDevine.jpg?itok=Ft0krctt"
-        width: 320
-        height: 244
-        isCached: true
-  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
-    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
-    publishedDateTime: 2024-02-01T03:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
-        width: 800
-        height: 451
-        isCached: true
   - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
     excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
     publishedDateTime: 2024-01-31T14:54:00Z

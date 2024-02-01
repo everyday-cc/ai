@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 34
-  - title: "Elon Musk says his AI startup xAI not raising capital"
-    excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
-    publishedDateTime: 2024-01-27T13:23:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/elon-musk-says-his-ai-startup-xai-not-raising-capital-12134591.html"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 17
 
 secured: "VDMkCqTlv2k/0PVx32ANYNyE3L7J+1RsdGNCoNbKBF9GNqVnWij+y7d658SH78RWFO33swGdHeLoBYTKQtIpUVK4al1b9uVDcxLOFWg64pLdurgvuKMnLSkcIoa70Aj6m5y3QFr8g27iRjUYIPTeiIni+F2t1CIah4Dit6SdZrq22WlOiGBf11RsI2xS2X1AfuKawnozN+4Jg6eqKP3bQ0ajAyimmIFw4WRK2lWXXL0n3zUarqfLaIgEbNKRK9Wv/z7kYK1hs++pFnpUwY8FAaZ5oAxfklkgCB1wgCWKCzRAXa6P/0hpdMUOQlkt5iFK2lpp4f4weWz7M6mqXnnUM0oZRuHX2uL5u5gAoZuevR/3ssUi9xBdMOboC/fQjbEKkkohInkmU75aUe3OLcIC/pPYhRHY3qi1HaGSRF4x8e2fH2JNsmC38bH8ZjT0lYSlEC9dRCEIpbN5285BrQq3BW9i3/cikGVeBbPCLKN9EX/MKG9TXCU+kcbaPUm2gsRyLTJxYik0Abww7SjKILYKVQ==;Z6NekPkmf8H837G7twIuRA=="
 ---

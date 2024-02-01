@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
 type: article
 quality: 98
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-ChatGPT-feature-GPT-Mentions.jpg"
         width: 1280
         height: 786
+        isCached: true
+  - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
+    excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-dall-e-now-google-bard-can-generate-images"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tVFLtdy3rkXtwzXdyXGSai-1200-80.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
     excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."

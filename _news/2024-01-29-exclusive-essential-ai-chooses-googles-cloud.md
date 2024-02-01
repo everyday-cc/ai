@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Exclusive: AI healthcare software startup Cohere Health just raised $50 million"
+    excerpt: "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana."
+    publishedDateTime: 2024-02-01T13:00:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Exclusive: Organic baby food startup Yumi has slashed its valuation after running low on cash"
     excerpt: "Yumi is raising a down round at a valuation around $40 million, BI has learned. It was once valued at more than $300 million, according to Pitchbook."
     publishedDateTime: 2024-01-31T22:32:00Z
@@ -33,6 +42,15 @@ related:
         width: 1066
         height: 533
         isCached: true
+  - title: "Exclusive: Incognia raises $31M to battle Gen AI fraud"
+    excerpt: "Incognia, a startup using precise location mapping to detect fraud, raised $31 million in Series B funding led by Bessemer Venture Partners. Why it matters: Incognia plans to combat all kinds of fraud, including that stemming from Generative AI — the new bogeyman of the space."
+    publishedDateTime: 2024-01-31T13:00:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2024/01/31/incognia-ai-fraud-bessemer-31-million"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
 
 secured: "NCcnWe4SjyIdc8Z1H8hW4UKDrynz30m7fyiDXaBIOoNlz4VhBzr2xRIqb3OC182v/acNRt/sdRDSA+TtgL0fhEQ48fXzeNOkdT/FGYD2wiV75ME2ZNVV3Jpjcau7iav7tuwAf7sEbMSswVWt3hiXMk74exbeao8PMKWK5bTDEvLZ8wx/COpqK99WifnbFxCwM9ceovQaGBHe1SOC3X4lVuIWscFbMCRtLjrrSabpjk7FxeAmIoeq/kKHMU8qgflw/AankwK2b5rJ3htjpfgzAc59XwfjD31fzDkIgl6JT766h2hMd5c8V2thG4TGRLXsudfxpDTl5FNCeoFYPHm8XrVISeW4UQ1WcwT24k11YiadxurBO9DZrPgE67uIC5ijrXHee4wkKrp1Cg4lCcW9ixEAzVtcdIulwHgVVL9mGXP5dfxz7wsfk5MIU1ekIGGLlhLeKp+jxv7r9o3JwL6KLb0MmnGEzdN5B1Ixi+A2axwSWbyE7kUnG9scV70GR/JdUW9iE1WqRGrP6v/etOA+yw==;KuLMrELRkQIZh+LQhMqVEQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/yumi-organic-baby-food-startup-val
 webUrl: "https://www.businessinsider.com/yumi-organic-baby-food-startup-valuation-down-2024-1"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -28,10 +28,28 @@ images:
     isCached: true
 
 related:
+  - title: "Exclusive: AI healthcare software startup Cohere Health just raised $50 million"
+    excerpt: "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana."
+    publishedDateTime: 2024-02-01T13:00:00Z
+    webUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "Exclusive: Essential AI chooses Google's Cloud"
     excerpt: "Essential AI — an enterprise startup founded by two notable former Googlers — has chosen Google Cloud to power its AI services. Why it matters: Google, Microsoft and Amazon are trying to convince startups to run their companies in their respective cloud environments versus homegrown generative AI efforts."
     publishedDateTime: 2024-01-29T14:30:00Z
     webUrl: "https://www.axios.com/2024/01/29/google-cloud-essential-ai"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "Exclusive: Incognia raises $31M to battle Gen AI fraud"
+    excerpt: "Incognia, a startup using precise location mapping to detect fraud, raised $31 million in Series B funding led by Bessemer Venture Partners. Why it matters: Incognia plans to combat all kinds of fraud, including that stemming from Generative AI — the new bogeyman of the space."
+    publishedDateTime: 2024-01-31T13:00:00Z
+    webUrl: "https://www.axios.com/pro/fintech-deals/2024/01/31/incognia-ai-fraud-bessemer-31-million"
     type: article
     provider:
       name: Axios

@@ -27,15 +27,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
-    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
-    publishedDateTime: 2024-01-30T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
 
 secured: "es6BFIVpfiZsaGYwq016sNACQ5ll0lGMzM5FZm8GbvrWhF/UZyzP/g/1WanHIrTA7UnO+oJKyR/Hd57pyDb5ze8x9X+MMncxX+zq241HVZPsS05vUbFqb/mpFWRdafobeSH+G/lYcAqUHyJzu25PyVQ6+VqYntXHUBUxDC4o/5xvhXYe0vK24xo88QT0sUSxNoKSRRd2xRS7qnkaO/JFNhhPLzEI/rHPyYgkBOunDkpOn/8oh5YzYD16K+f+LPSUuu0cFOqx/XAHvZKWUdEx98WveckwlP9ZSuJ8HV7XBDZk5Fs44iDt+C0mFU6M+0tPYlFs3X9Lr0PvQeDiTmwwtKAkK7TiyM9klPlfGiCRxzs=;+AD6liiLRLz1lKIPeaGyLw=="
 ---

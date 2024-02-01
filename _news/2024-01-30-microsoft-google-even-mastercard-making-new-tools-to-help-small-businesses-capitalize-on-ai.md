@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft: AI Tools Will Help Manage Time, Boost Cognitive Work"
+    excerpt: "Microsoft has demonstrated how leveraging Artificial ... that will enable them save ample time for creative and fulfilling cognitive work. Microsoft demonstrated the power of AI during the first ..."
+    publishedDateTime: 2024-01-28T23:32:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 74
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
     excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
     publishedDateTime: 2024-01-31T17:20:00Z
@@ -85,6 +101,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 33
+  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
+    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
+    publishedDateTime: 2024-02-01T14:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 22
 
 secured: "RcuTw/60bmKXB5DujIBj4Pzj2EKZ+4JvL69m5ZKt5EsgYgSEwX0aEqjUjGM73WLzITE2l47JyR9IR3xGgOzinrsmadNT/3Uv52b7D78ZglIobh3eX1ZTXwQWstk0TAAJCZpEAq22wsJ3srmM4puphP6OnvYemedj21AZDNATDmYAa6JOy529v4KFbg/35iJuOJfoWYryGavEbeqlrh/tGOiwWHoXmTNbUOcC2obHO2dhrQBQJJ3PwaCjVftFxwwYPc9hxONPV/t6mGqEk9UrIUwU4/gYi9FXOUKP96gyIhL6Uo2Pel20jPjYXVLlbIPVxFAxpXmlAWMLSUHpef19m9ZeS6TZdEnZXb9Uai2P1Qw=;xKrnYwdOH02s/EvQJz9hhA=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia's new China-focused AI chip set to be sold at similar price to Huawei product"
-    excerpt: "The graphics card, the H20, is the most powerful of three Nvidia has been developing for the Chinese market after the US expanded bans on high-end chip exports, aiming to hamper China's ability to develop AI and sophisticated computers for its military."
-    publishedDateTime: 2024-02-01T12:15:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/articleshow/107329042.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 67
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-193258,msid-107329315/nvidia-china-chips.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z
@@ -136,6 +120,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Nvidia's new China-focused AI chip set to be sold at similar price to Huawei product"
+    excerpt: "Huawei's 910B chip is widely considered the most competitive AI offering now available within China and has become more popular amid concern that buyers could be faced with further restricted access to Nvidia's products resulting from U.S. sanctions."
+    publishedDateTime: 2024-02-01T12:54:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/article67800592.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 27
   - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
     excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
     publishedDateTime: 2024-01-27T20:40:00Z

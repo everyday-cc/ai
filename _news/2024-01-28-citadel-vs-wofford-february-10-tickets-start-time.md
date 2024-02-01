@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Furman vs. VMI February 14 Tickets & Start Time"
+    excerpt: "Wednesday's SoCon slate includes the Furman Paladins (12-10, 6-3 SoCon) against the VMI Keydets (4-18, 1-8 SoCon), at 7:00 PM ET on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-01T14:21:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/14/furman-vs-vmi-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 2
 
 secured: "+QuquCuEWdWqUMWncgUFWCjt3eLjYOMUqeB9efEUI3sFCiRgAZzyp+rpslQta8L1OdkmQ9nMZbDOZRrSKoNg8f5y0rdX5LZJ3DSWPUeR8qjYos9inQOd3DFLH7zHXeVneVOxJR4f9JVzzlwlWLv3kK6EK8gTDj2oi6ka9DNO946DC5/S7RJdVkXBJSsPpP2AOAs+G+EzZwFZoD4a1XUibBByVFcbycta0z8kNlQRCWKAKlbZIzG0sOYWxOO4lJdvHP66Dab5sfawMZN/ctt1xS4+QBs7c9P8Afz5vGZAnpaWzgwgs0FVgc/1qlAa0mOqdZRmf8AyG4SoIr0fvKVr0TcrpF3eX8jELwhXLDRwhV+y0PXthJo3CcCud8RdpLG/hzMaTt971oco4/CIUw7HWvp+Lh/knSH2k6/brNtfgu6p49mfingcKgmk+csWR5t9gkHyP0gns3GJz9mNj+g62zs/wLT4deP9u75GYFbWIuxrpxre0H4GYCOlnwzvrqx+ewf06hG3U6rl1XxM3dpkbg==;P4rHMnUS7USclwdbpun2hg=="
 ---

@@ -64,6 +64,15 @@ related:
       name: Latest on SAYS
       domain: says.com
     quality: 19
+  - title: "You'll Need to Pay to Use Google's Best AI"
+    excerpt: "It doesn't cost anything to sign up for ChatGPT or to try out Google's AI bot, Bard, meaning anyone can experience the artificial intelligence hype for themselves. Now, Google is jumping on the bandwagon. During its Q4 earnings call, the company confirmed ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/what-is-google-bard-advanced"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 19
   - title: "Alphabet CEO Sundar Pichai confirms subscription model for Google's Next-Gen AI, Bard Advance"
     excerpt: "In a significant move that could reshape the landscape of conversational AI, Alphabet, Google's parent company, has officially confirmed the introduction of subscription plans for its upcoming advanced chatbot, Bard Advance. The announcement was made ..."
     publishedDateTime: 2024-02-01T07:37:00Z
@@ -83,6 +92,6 @@ related:
       domain: indiatvnews.com
     quality: 0
 
-secured: "xvUN62csipOAyY2ZIqL91hc7XCotASGEqwsy6K5/5/UzEG8v2k9S51dl6MVWKyDRINtAeVVRLb4osclyC5uau4QDfcCMEUNJnAMGGMMYsw3a11z743R1nxhwl+KPYMYsskKIGLSMlV89vOn2ww1Siym70WvcUKs6FmgL0KTFIDSWKdDoEZ4b6tbJcUhlXvMJRYOlH+Z/Xw8oLP0E5ySo1tEu8q8t8UrFK67lXt4BZHJONBGQmgJ/LbQyluUfaO70EgT09kFLm31zLsd3FECATxhVlvSq3hwJeU7dKYx0Rh8/3pL5Gq7ioevO2pzTtpyb/oWGRwf6ssiJj3gFr+IrriOVQ22bmU6e0aYeW1EFhUQ=;DVi7KYlQyzK1r4YVcbW7EQ=="
+secured: "tA9iS+qorETZGo3SOtZk6SLQT1DwLJMJhAUNa1CW51nTK1Vfz3BWmYoZ0VQfupMgpgd1OcFksYu8JHi1ijN8o057MmhPRrlJgtoYDd+ZiFWMrxJkt6mZWpdRoNUNo8Mp6PV9BEojDUClpRmF3aaaOJlGxodJNB2Hj3DDFTP2MoLYgR5zS0AIEWS8s5xPaGTml8KybyDR31ZjCBKOziLkd/lQlfxVoCyS3ZBRy/l1epeVeHg7clSgxba2yu6YBZDqWMNrcyw0pHPurJuJkO0LxSl5Z7ME+mQ7DX4CMjs6rgg38FD5Yt39WjVDFan4PDIMPiMIc4Bw4avyhLDFiALFjvcLPbo8vPDvHPVqGxkKxFkezNEmYEwY2q86fX3wrvBw3FMJBEr0h5mB5y8QTMK2/Jr5lvvkIhrQCqa3NMsHmOGPzOHkem10o6VxrkYRF7wgXlbBsdi/YkwrOC/rhda6eiFr3DvJ91P/dNn7kFEiGFsZC7JFp7LXAOE6U9zFV8vRvfhdK3O4UhtRbFx8JQO+yw==;u1vCHqWxvfQ9MBUhRzr89Q=="
 ---
 

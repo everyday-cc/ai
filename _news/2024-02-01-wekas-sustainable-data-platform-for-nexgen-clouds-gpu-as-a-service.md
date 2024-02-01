@@ -68,7 +68,7 @@ related:
   - title: "WEKA Partners With NexGen Cloud to Democratize AI"
     excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
     publishedDateTime: 2024-01-31T09:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
     type: article
     provider:
       name: TMCnet

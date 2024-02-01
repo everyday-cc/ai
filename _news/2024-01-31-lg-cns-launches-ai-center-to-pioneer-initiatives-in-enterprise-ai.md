@@ -34,22 +34,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Reimagining Innovation in the Age of AI"
-    excerpt: "It seems that almost every presentation of innovation and transformation brings up the exponential curve where the trajectory of innovation is traditionally charted along a steadily rising curve. However,"
-    publishedDateTime: 2024-01-31T17:39:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-01/AIDevine.jpg?itok=Ft0krctt"
-        width: 320
-        height: 244
-        isCached: true
   - title: "China seeks to train LLM without GPU, developing alternatives to Transformer"
     excerpt: "With the emergence of AI smartphones and AI PCs triggering a wave of terminal AI applications in 2024, Chinese companies, mindful of the high demands on computational power, memory, and energy consumption posed by large language models (LLMs),"
     publishedDateTime: 2024-01-31T08:26:00Z
@@ -63,20 +47,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240131pd214_files/2_r.jpg"
         width: 336
         height: 224
-        isCached: true
-  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
-    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
-    publishedDateTime: 2024-02-01T03:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
-        width: 800
-        height: 451
         isCached: true
 
 secured: "Yu/IuZ7UXTyQ8nHHKM9AcEMhIA16858pz/mhl9pN/lvVdQk1nhIo7VUaVpDD18Ov2jRND1WUHR4eoIO85t+0EHw2DZ46diMYPEmDugLIL00cND7mfQHzN+g82SX7mI8GYh4R+euM4ZW/e8DiTAur6D9Zihp/oPsfs6lwOh5mc9d4ytrdx4zPXSbiryNI+NlqPnFeieKBsx6MXiZ64iS2xHDU1eny+jvvaXPLpZBZlFSNwV9Mn7Of5Kt1XpbuEt1qTyxhpuZYtyAAQUaq08qAUmowQV2Q/OP8B3E0NLDOVaV8ZcoY7jkA7N+qUllON5+B6gNMke7vOvmKokSYSnRu8wlQBgE27Pc4HRBFrW49ANs=;lSPH3llpxnncr1OXvR4WWQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
 type: article
 quality: 99
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Microsoft-Shutterstock_0.jpeg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Microsoft: AI Tools Will Help Manage Time, Boost Cognitive Work"
+    excerpt: "Microsoft has demonstrated how leveraging Artificial ... that will enable them save ample time for creative and fulfilling cognitive work. Microsoft demonstrated the power of AI during the first ..."
+    publishedDateTime: 2024-01-28T23:32:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 74
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
     excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
@@ -88,6 +104,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 33
+  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
+    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
+    publishedDateTime: 2024-02-01T14:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 22
 
 secured: "5ZL1ti0mwee2YTeptjvJHFBAt5lQx1b8p0Zw9aVNub8YyFRI7DQJfpNNlO1xmfX6cl2i+W4oKn6XEuEZxqsgpv6csHGsNAn0X0qQqu/cdtX0JiKrtStLwDvLjqpeDucE1Kcg3nJVu+oxo091EsUQeZidv8hOa92xcUOnhE1MT5oHkJ0zHyjnii50V01JjT5Buv+zWF5O1TVj8iTsqPZEG09TMzKLgCrzG+lmzCUENZOxZ7rMIHTkJ+rzUC9lbHjeg26axsjktfO3g02IJ1t8gRsm9RZUsEGk7PlnyKBu/+FFDmqlaDZYMRby4Tt1E4Axo3m7r19N8xRNf1iC7Dw7QTUJZm2GQAUj+1IhCdsg+URrESm6SwzOQjDymX3GlHSCa89QwkbtXqX+KZJKTIkzo1WBuSiDPk3L7GwLK48kwEdqZjDXKiVmXOygT/VQeirY69DcpcpRtGMOtRqal4v5kMe3Rp8zkdE9W2sLpoPvSfeUBwI/EsXk7KgyRavd7cjhIHE4f/5TswWZE0VhYG5s8g==;srySTo8a13Chs5/zGlyxHw=="
 ---

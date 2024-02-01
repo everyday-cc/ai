@@ -54,6 +54,20 @@ related:
         width: 3727
         height: 2485
         isCached: true
+  - title: "Nous Achieves Microsoft AI and Machine Learning (AI/ML) Advanced Specialization"
+    excerpt: "Nous Infosystems, a leading global IT solutions provider delivering innovative technology services and solutions, announced that it"
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/nous-achieves-microsoft-ai-and-machine-learning-aiml-advanced-specialization-302050168.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 82
+    images:
+      - url: "https://mma.prnewswire.com/media/2331017/Nous_Microsoft_Advanced_Specialization.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Buy Rating Affirmed for Microsoft on Strong Azure Growth and AI Expansion"
     excerpt: "BMO Capital analyst Keith Bachman has maintained their bullish stance on MSFT stock, giving a Buy rating today. Keith Bachman has given his"
     publishedDateTime: 2024-01-31T10:08:00Z
@@ -242,6 +256,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
+    excerpt: "SAN FRANCISCO (AP) — Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology ... Analysts polled by FactSet Research expected Microsoft ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.wral.com/story/microsoft-profit-soars-33-on-ai-cloud-computing-investments/21260204/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 36
   - title: "Microsoft, Alphabet and AMD struggle to meet AI expectations"
     excerpt: "All three took pains to highlight progress on AI. In AMD’s case, the company predicted that its new AI processors will generate even more sales than expected. Microsoft touted how users were embracing its AI assistants, and Google said the technology was improving its search and cloud computing services."
     publishedDateTime: 2024-01-31T12:40:00Z

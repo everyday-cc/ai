@@ -55,6 +55,15 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "AI chatbots can be tricked into misbehaving. Can scientists stop it?"
+    excerpt: "To develop better safeguards, computer scientists are studying how people have manipulated generative AI chatbots into answering harmful questions."
+    publishedDateTime: 2024-02-01T13:00:00Z
+    webUrl: "https://www.sciencenews.org/article/generative-ai-chatbots-chatgpt-safety-concerns"
+    type: article
+    provider:
+      name: Science News
+      domain: sciencenews.org
+    quality: 21
   - title: "Exclusive: AI chatbots take aim at human loneliness"
     excerpt: "Luka executives have also been making the case that chatbots offer a safe space for people to try out dialogue and improve their human relationships. Yes, but: Kuyda acknowledged that attitudes could shift to the negative if other companies create AI chatbots that aim to maximize user attention in order to sell ads."
     publishedDateTime: 2024-01-30T17:12:00Z

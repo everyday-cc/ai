@@ -3,8 +3,8 @@ category: news
 title: "WEKA Partners With NexGen Cloud to Democratize AI"
 excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
 publishedDateTime: 2024-01-31T09:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
 type: article
 quality: 19
 heat: -1
@@ -71,6 +71,6 @@ related:
         height: 225
         isCached: true
 
-secured: "LEsO6liCDK19pxoUwNvtISuHkBng8a9YWi6+uxM+CifCQTRICpnDc+Rzi+XToaYHMn7wL6mkN37bSXe/SSqUKUNHfFZM/CS83DE/S959dWo7G/PurVOrjrQteaR2NIuWrF6o+/KWLP0M4+FwgDQHnwurlIfWHRH8JlGFViZIJIltH4ClpWt8ZyN3Mc852eBnb2aZQgYvazczRZ0eAX6Z4MbqH5nz0THpgqnaBmnzA6+jIVjP2YldqHQE+1fF5PP9z8DEg+4lL1dP9B/pXMLONQAHW4FQnPegitwa/nTb2QJ1ZqzPWQflOBXi3XmvoIp6esh+DxF+bj919Q4u4OsAh01L5wbUp0irE7ENGRklOm68n8SM2nzOjmeopU9ULI4Rj0TLjNzT2qE3LSTiPj3FOYY/0QTvSAJc4/BzrPpw3fkDBF5rOJDbGOmNiaYNQE3uVk66OgtgdynSgZLuoUtrE5kOmiWgqA/2dfEQRQeTIfxbnymJ7vb0RBWKDWoSeIm+8Ueo47lNGphZfOBGFiBPcg==;ESJXAefsns6Vrl12NBIFWA=="
+secured: "ho6ML85W9K7lFtNZGSBn2E9cFaupKcNe4gqsTtmbFIFWe7e0/pvbDiGxemDxKffp9lZlBSQrGjDLqmVc0z8PQYSL4pWSy+7g90/3l5tiAWxNrO1RG2q4F6Y3WwfHXN+pZ5Pm40mWJ+fgacm8z7Qvl+t/0+KYJQpGSDEtsrcT0ztlMW3Hycg5jJSXPDG2VQbOR0pZJFH3ro6NANoB+il5sJZM7pIVS3qfOubMJyFgOGeX57GitFTnd4CaQh7DiKMzlKxrGKhOllqSJeUBb+o8NXCgIjSbvwWgo/7WTm4aRbS0jdESgYDVg6Dwbqieoaqq83266I979sWCPHyVRbJAVgGk5EpjeYA73VjQWx0A/N+5JIehozBKdWZtI31/HHNQ6uzgbuuhxaqvnKdtztgPPhFbYkHW1ks9TJdUKmdGXMcGxnrhYP68IVMjUOl6Ur4OYh0iXAOsmmdm1Dk8tLC2Mjs362OQmiBHgsHiiMjrEGJwi1r0bpJoI9biL4sorn8LnenTtCRMMMBHGghHxeAiUA==;d1/SOBu0jD/rZvgYbmW9xQ=="
 ---
 

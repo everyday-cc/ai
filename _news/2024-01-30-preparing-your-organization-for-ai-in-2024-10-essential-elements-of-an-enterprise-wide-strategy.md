@@ -64,6 +64,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Predictions For 2024: Things To Know About AI And Workplaces"
+    excerpt: "If I could add a prediction for peace here, I would be eager to do so, but because I can’t, I will instead share that peace is my most fervent wish for us all this year."
+    publishedDateTime: 2024-02-01T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/predictions-for-2024-things-to-know-about-ai-and-workplaces/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI’s path in 2024: Another year of growth instead of monetization"
     excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
     publishedDateTime: 2024-01-29T16:44:00Z

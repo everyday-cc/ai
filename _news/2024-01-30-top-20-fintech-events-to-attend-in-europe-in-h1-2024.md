@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rocket adds AI and fintech expert to newly created board of director position"
+    excerpt: "Rocket Companies’ appointment of Alex Rampell to the newly created board of director position affirms its push as a fintech platform."
+    publishedDateTime: 2024-02-01T15:19:00Z
+    webUrl: "https://www.housingwire.com/articles/rocket-adds-ai-and-fintech-expert-t/"
+    type: article
+    provider:
+      name: HousingWire
+      domain: housingwire.com
+    quality: 36
+    images:
+      - url: "https://www.housingwire.com/wp-content/uploads/2021/06/Rocket-Pro-TPO-4.jpg"
+        width: 1200
+        height: 732
+        isCached: true
   - title: "The Chief Financial Officer's Role In The Fintech Evolution"
     excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
     publishedDateTime: 2024-01-29T13:00:00Z
@@ -168,6 +182,15 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Rocket taps Silicon Valley AI and fintech expert for new board spot"
+    excerpt: "Rocket Companies Inc. has gone to Silicon Valley for its latest board appointment. Nick Manes is a reporter covering residential real estate and local mortgage companies for Crain’s Detroit Business. He previously covered finance and tech startups. He joined Crain’s in 2020 after six years as a reporter at MiBiz."
+    publishedDateTime: 2024-02-01T16:04:00Z
+    webUrl: "https://www.crainsdetroit.com/banking-finance/rocket-names-alex-rampell-ai-and-fintech-expert-board"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 19
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

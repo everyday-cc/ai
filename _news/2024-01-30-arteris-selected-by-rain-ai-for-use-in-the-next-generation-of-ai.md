@@ -23,15 +23,6 @@ topics:
   - AI Hardware
 
 related:
-  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
-    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
-    publishedDateTime: 2024-01-30T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
     excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
     publishedDateTime: 2024-01-30T20:21:00Z

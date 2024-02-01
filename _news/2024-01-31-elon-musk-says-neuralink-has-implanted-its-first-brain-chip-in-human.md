@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neurali
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -83,6 +83,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Neuralink chip implanted into human brain for the 1st time, Elon Musk says"
+    excerpt: "Neuralink implanted its first brain chip in a human subject, and Musk posted on X that the person is \"doing well\" after surgery."
+    publishedDateTime: 2024-01-30T19:14:00Z
+    webUrl: "https://www.livescience.com/health/neuroscience/neuralink-brain-chip-implanted-into-human-for-the-1st-time-elon-musk-says"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 34
 
 secured: "4HpESSJ56sWZLZJ1QeHdB1kTXU85sO0fCE+qfCXCqDxIY8vV0IvF0yicWTIerd3ZD7EU4NfpZ7wA9i0tqLOsrSrT6WTDBUlDcayXHYFqrYyh5Mx+YjxCmY9QurOUlffF18oDnLoVk8n6em59QD70XcAIEFKVlKvqfGQld2Tp+i/VOJXlERI3p3JhA1Ko3ps7iOhH8EuXu99G9w22P/3Am+aoL4PKbS7p69zhHopjwMdrD8xol7If2Aio2Xsu2Nv7uMpRhIRAh0cnGJPWcib7BTZWktpnQ54wJRtqvcthxdWUvn6YBZbFqOI2cpDr6OVsHD5O3Om9gAPZaOZzfG0fEMTnUxZkOuvHj1yW9oIiThg=;4EqtcRfghdxzSTaO3h2B6w=="
 ---

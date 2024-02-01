@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
-    excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
-    publishedDateTime: 2024-01-27T16:01:00Z
-    webUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/"
-    ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 59
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
-        width: 840
-        height: 582
-        isCached: true
   - title: "Fake 'Biden' calls traced to AI startup"
     excerpt: "CONCORD — Fake robocalls that appropriated the voice of President Joe Biden to encourage New Hampshire voters to stay away from the polls have been traced to ElevenLabs, a successful startup company in the field of artificial intelligence. Officials at ..."
     publishedDateTime: 2024-01-29T00:00:00Z

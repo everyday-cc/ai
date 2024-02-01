@@ -2,6 +2,487 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-meet-the-6-startups-reimagining-the-future-of-customer-engagement-with-generative-ai.md",
+      "title": "Meet the 6 startups reimagining the future of customer engagement with generative AI",
+      "excerpt": "Twilio's AI Startup Searchlight recognized the startups that are driving pivotal advances in the future of AI-powered customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sc/6-startups-reimagining-the-future-of-customer-engagement-with-ai",
+      "originalUrl": "https://www.businessinsider.com/sc/6-startups-reimagining-the-future-of-customer-engagement-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65bbb7a543bb77284ba273ae?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development.md",
+      "title": "First ‘truly’ open source LLM from AI2 to drive ‘critical shift’ in AI development",
+      "excerpt": "The non-profit Allen Institute for AI (AI2) announced today that it has introduced OLMo, which it calls the first 'truly' open source LLM.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "originalUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T100255.565.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-google-launches-an-ai-powered-image-generator.md",
+      "title": "Google launches an AI-powered image generator",
+      "excerpt": "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "originalUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/",
+      "publishedDateTime": "2024-02-01T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-new-and-better-ways-to-create-images-with-imagen-2.md",
+      "title": "New and better ways to create images with Imagen 2",
+      "excerpt": "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "originalUrl": "https://blog.google/technology/ai/google-imagen-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Imagen_SocialShare.width-1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-imagen-2/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/",
+      "publishedDateTime": "2024-02-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-try-imagefx-and-musicfx-our-newest-generative-ai-tools-in-labs.md",
+      "title": "Try ImageFX and MusicFX, our newest generative AI tools in Labs",
+      "excerpt": "ImageFX, MusicFX and TextFX help you bring your most creative ideas to life with Google’s latest AI capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
+      "originalUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/keyframe_fx_hero_FLmAr3b.width-1300.png",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/",
+      "publishedDateTime": "2024-02-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-ais-energy-appetite-meeting-the-demand-for-innovation.md",
+      "title": "AI's Energy Appetite: Meeting The Demand For Innovation",
+      "excerpt": "To fully realize AI’s enormous potential for economic growth, we need to see change in how we address growing power demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659c2d1488df177bd020a272/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1169,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "publishedDateTime": "2024-02-01T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-exclusive-ai-healthcare-software-startup-cohere-health-just-raised-50-million.md",
+      "title": "Exclusive: AI healthcare software startup Cohere Health just raised $50 million",
+      "excerpt": "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "originalUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets.md",
+      "title": "Forging a framework for central bank digital currencies and tokenization of other financial assets",
+      "excerpt": "A high performing framework for CBDCs that combines privacy, regulation compliance and advanced resilience.\nThe post Forging a framework for central bank digital currencies and tokenization of other financial assets appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets/",
+      "originalUrl": "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-manageplusyour-journey-before-with-and-beyond-rise-with-sap.md",
+      "title": "ManagePlus—your journey before, with and beyond RISE with SAP",
+      "excerpt": "Considering an onboard into RISE with SAP? Explore a few scenarios and learn more about RISE with SAP's offerings.\nThe post ManagePlus—your journey before, with and beyond RISE with SAP appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/manageplus-your-journey-before-with-and-beyond-rise-with-sap/",
+      "originalUrl": "https://www.ibm.com/blog/manageplus-your-journey-before-with-and-beyond-rise-with-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond.md",
+      "title": "Top concerns industry leaders have about cyberattacks in 2024 and beyond",
+      "excerpt": "Read about the concerns that industry leaders have for the future and three approaches organizations can take to build up their defenses.\nThe post Top concerns industry leaders have about cyberattacks in 2024 and beyond appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "originalUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-memory-demand-for-ai-boosts-chip-tester-business-advantest.md",
       "title": "Memory demand for AI boosts chip tester business: Advantest",
       "excerpt": "Japan's Advantest said it sees sales of memory testers reaching 244 billion yen ($1.65 billion) in the financial year ending March, an increase of 5 billion yen from its October outlook but down a quarter on the same period a year earlier.",
@@ -157,7 +638,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -196,7 +677,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -259,7 +741,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -640,6 +1122,48 @@
       ]
     },
     {
+      "path": "_news/2024-02-01-artificial-intelligence-helping-911-in-arlington-county.md",
+      "title": "Artificial Intelligence helping 911 in Arlington County",
+      "excerpt": "In response to that storm, Arlington County decided to go high tech to take some of that stress off employees. Arlington County is one of the first 911 call centers in the country, and the first in the northeast, to use artificial intelligence to handle non-emergency calls using a system called Amazon Connect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wusa9.com/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f",
+      "originalUrl": "https://www.wusa9.com/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wusa9.com/assets/WUSA/images/b59e512c-6606-4fbd-a6ef-0c01d06fc0dd/b59e512c-6606-4fbd-a6ef-0c01d06fc0dd_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wusa9.com/amp/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f",
+      "cdnAmpWebUrl": "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/investigations/911-amazon-connect-emergency-dispatcher-arlington-county-jacob-saurer-national-emergency-number-association-brian-fontes/65-147ab52a-d3c7-4343-97e3-3c00becc992f",
+      "publishedDateTime": "2024-01-31T22:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WUSA",
+        "domain": "wusa9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-chatgpts-new-mentions-bring-multiple-personalities-into-your-ai-convo.md",
       "title": "ChatGPT’s new @-mentions bring multiple personalities into your AI convo",
       "excerpt": "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store.",
@@ -689,567 +1213,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-cops-bogged-down-by-flood-of-fake-ai-child-sex-images-report-says.md",
-      "title": "Cops bogged down by flood of fake AI child sex images, report says",
-      "excerpt": "The troubling case seems to illustrate how AI-generated child sex images can be linked to real criminal activity while also showing how police investigations could be bogged down by attempts to distinguish photos of real victims from AI images that could depict real or fake children.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-964741476-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T22:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-why-ddi-solutions-arent-always-ideal-for-authoritative-dns.md",
-      "title": "Why DDI solutions aren’t always ideal for authoritative DNS",
-      "excerpt": "Plenty of companies use their internal DNS, DHCP and IPAM (DDI) solution for external authoritative DNS as well. Here’s why that might not be the best idea.\nThe post Why DDI solutions aren’t always ideal for authoritative DNS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-authoritative-dns/",
-      "originalUrl": "https://www.ibm.com/blog/why-ddi-solutions-arent-always-ideal-for-authoritative-dns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies.md",
-      "title": "What The Top Nine Percent Understand About AI And Other Transformative Technologies",
-      "excerpt": "A new report from Accenture exploring a predicted major uptick in business leaders using generative AI as the catalyst for strategic reinvention in the next 12-24",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/",
-      "publishedDateTime": "2024-01-31T18:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-metronomes-usage-based-billing-software-finds-hit-in-ai-as-the-startup-raises-43m-in-fresh-capital.md",
-      "title": "Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital",
-      "excerpt": "Metronome, a startup which helps software companies offer usage-based billing, has raised $43 million in a Series B funding round led by NEA.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
-      "originalUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
-      "publishedDateTime": "2024-01-31T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2.md",
-      "title": "Train and host a computer vision model for tampering detection on Amazon SageMaker: Part 2",
-      "excerpt": "In the first part of this three-part series, we presented a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. In this post, we present an approach to develop a deep learning-based",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/train-and-host-vision-model.jpg",
-          "width": 1023,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T17:07:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-5-ways-to-use-circle-to-search.md",
-      "title": "5 ways to use Circle to Search",
-      "excerpt": "Circle to Search is now available on select premium Android smartphones — here are some helpful ways to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "originalUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ways-to-Circle-to-Search_2.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "publishedDateTime": "2024-01-31T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push.md",
-      "title": "Meta Platforms is primed for a big quarter with ads, AI push",
-      "excerpt": "In raising his price target to $435 from $390, Seaport Research Partners analyst Aaron Kessler is looking at robust ad growth and outlook, an updated outlook on 2024 operating expenses, the impact of regulation on content for teens, and how AI initiatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-89343189/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "publishedDateTime": "2024-01-31T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains.md",
-      "title": "In Iowa, Legislators Consider Singing Requirements And Unlicensed Chaplains",
-      "excerpt": "Some Iowa legislators want to offer public school students both chaplains and a daily dose of the Star Spangled Banner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "originalUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba69e487156c00d253f211/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "publishedDateTime": "2024-01-31T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-highlights-of-tesla-ceo-elon-musks-court-ruling-mars-frankenstein-a-self-driving-car-pun.md",
-      "title": "Highlights of Tesla CEO Elon Musk's court ruling: Mars, Frankenstein, a self-driving car pun",
-      "excerpt": "A Delaware judge voided the $56 billion pay package Tesla gave Elon Musk, CEO of the electric automaker, after finding the company failed to show it was fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335105-1700154424109-gettyimages-1760546933-UK_MUSK.jpeg?v=1706667973",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "publishedDateTime": "2024-01-31T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-warwick-scientists-develop-ai-tool-to-aid-cancer-treatment-decisions.md",
-      "title": "Warwick scientists develop AI tool to aid cancer treatment decisions",
-      "excerpt": "The tool has been developed by Histofy, a spin-out company from The University of Warwick A new artificial intelligence (AI) tool has been developed to help boost cancer diagnosis and treatment. Scientists at Histofy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=FC9564EA-C04A-11EE-AD3E-B4B2D0B4AF07&at_link_origin=bbchealth&at_link_type=web_link&at_m",
-      "originalUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=FC9564EA-C04A-11EE-AD3E-B4B2D0B4AF07&at_link_origin=bbchealth&at_link_type=web_link&at_m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12C15/production/_132512867_histofy_024.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-coventry-warwickshire-68155450.amp",
-      "publishedDateTime": "2024-01-31T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
-      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
-      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "publishedDateTime": "2024-01-31T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

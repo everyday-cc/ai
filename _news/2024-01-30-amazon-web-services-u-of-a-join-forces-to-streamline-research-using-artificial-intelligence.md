@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI apps transforming our daily lives from creativity to research"
-    excerpt: "A selection of new AI apps enabling you to easily transform your daily lives and business workflows into more productive and accessible"
-    publishedDateTime: 2024-01-27T14:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-AI-apps-transforming-our-daily-lives.jpg"
-        width: 1280
-        height: 717
-        isCached: true
   - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
     excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
     publishedDateTime: 2024-01-29T15:02:00Z

@@ -38,22 +38,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "Biden audio deepfake spurs AI startup ElevenLabs—valued at $1.1 billion—to ban account: ‘We’re going to see a lot more of this’"
-    excerpt: "a startup that uses artificial intelligence software to replicate voices in more than two dozen languages, said in a statement that it couldn’t comment on specific incidents. But added, “We are dedicated to preventing the misuse of audio AI tools and ..."
-    publishedDateTime: 2024-01-27T16:01:00Z
-    webUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/"
-    ampWebUrl: "https://fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/01/27/ai-firm-elevenlabs-bans-account-for-biden-audio-deepfake/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 59
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1953489325-e1706370704678.jpg?w=840"
-        width: 840
-        height: 582
-        isCached: true
 
 secured: "AhvBofRwh8fdrW7v4Z0ceYmUrG8y7+694kdxf0u8z/tJ1VulvlrgjUUxgAtYrbNPVLgmWy1qe7S9kVLLX4+MIRQsnJCRwRpU3Mbse0c5zEC3yDzXLKhbWRhyjMdyZmF6iSkFObzsXs55wt/4Nn36MOZKgyLZiADMLkJJzLAyQLyzyitOx2/dtxhHMPni89yRM5l6jHlubwdQJxr3Z++qL5jEpSDsCyYKRIGKQ6tYpPTkXTXTrgoHmWSUcZXSuSIy5omcr/MnZmD9LKC64LKzVtaEtfLNet4qc/6LdTpE6JOUYCS9/cSBa7HbV41Ouhvwtqe7LQLZ9IYnZ7Hk43HwxKkPtD7StIU35xQjB02UaUc=;HdThNl0K2l3CrfdGKnEY8Q=="
 ---

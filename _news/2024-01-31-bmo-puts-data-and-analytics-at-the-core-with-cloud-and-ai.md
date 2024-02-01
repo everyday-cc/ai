@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Beyond Surveillance: The Evolving Face of Video Analytics"
+    excerpt: "Video analytics have revolutionized traditional surveillance and security landscapes and transformed them into proactive and intelligent tools."
+    publishedDateTime: 2024-02-01T16:02:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/53095368/beyond-surveillance-the-evolving-face-of-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65bbbce0c2096c001e32598b-cyberthreatintelligenceasaservice800x4501768x432.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vital's Scientific Publication on Sepsis Paves Way for Predictive Analytics Tools"
     excerpt: "Sepsis is a life-threatening condition that must be treated promptly and is often difficult to detect, even by experienced physicians, in its earliest stages. The peer-reviewed paper, \" Sepsis Prediction at Emergency Department Triage Using Natural Language Processing: Retrospective Cohort Study ,"
     publishedDateTime: 2024-01-29T14:34:00Z

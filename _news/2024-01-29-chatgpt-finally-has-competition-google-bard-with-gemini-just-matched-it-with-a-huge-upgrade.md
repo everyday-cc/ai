@@ -68,6 +68,15 @@ related:
         width: 2040
         height: 1536
         isCached: true
+  - title: "R.I.P Bard: Google could rename it to Gemini"
+    excerpt: "There were some strings of code found indicating that Google may want to rename Bard into Gemini. Yet to be confirmed."
+    publishedDateTime: 2024-02-01T13:01:00Z
+    webUrl: "https://www.androidheadlines.com/2024/02/bard-google-could-rename-gemini.html"
+    type: article
+    provider:
+      name: Android
+      domain: androidheadlines.com
+    quality: 4
 
 secured: "g+FfvP7o/1bItRrOgJZi6g+YjksTbbHVixSap5HmJrLpc73x/nphpEvKAcdRC7auS/FOZkkHLCT2Em/paoV8px1R8ogAczkcj29mStrEyQ3vqpvKIoOFE6Bvtj9Wbe2gt1HVg/sJjXSXH5vmMtHYHinfjjBIz3iMN0L/5Uea9sorWW+ffyicMC9jB7gRbJM+1wlU7jj3D6rXz6F2kP0jXFSpYxcSBP+sm+ayIaAso1LQhZhrzTTEjbO3IHiszX7DHIvQE9OrqOZF4oQGmPChKdf6v8Mvmn+EFc/BCKuE6HMzKQ9rzc4MJWd3RdzQi4G1F/xGv+wx979ZyNn/+1c1IyCZx4hZzqwFYhzmtTvSG7nHc/f21ujZbgvFqk6RpfPTI9g0MlUga2mnXMdgpmBUtupPIlLKEIUtHykOokQthEIqYcY6EQqWpmT16gw/CKaSqDXDxfesRaQz57oJoni1RkVnWu8hs9w6+3+iU2BvcxAaeIpsXfYGq4ICsrGbuzGZHXtGiLpsywcJxatJEsotCA==;685MTIF6ZsAGc2G1I6Fp+g=="
 ---

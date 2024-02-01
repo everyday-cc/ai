@@ -41,6 +41,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Australian IT Pros Need to Prepare for AI Regulation for the First Time With EU AI Act Imminent"
+    excerpt: "The EU AI Act may effectively force Australian businesses to implement regulations for AI or risk loss due to lack of compliance."
+    publishedDateTime: 2024-02-01T16:08:00Z
+    webUrl: "https://www.techrepublic.com/article/australia-it-eu-ai-act/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 57
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-australia-it-eu-ai-act.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Australian gaming org pushes for 1:N face matching for gambling exclusions"
     excerpt: "Clubs Australia wants the government to loosen restrictions on FRT but one-to-many face matching has been a red line for many Australian privacy advocates."
     publishedDateTime: 2024-01-31T18:36:00Z

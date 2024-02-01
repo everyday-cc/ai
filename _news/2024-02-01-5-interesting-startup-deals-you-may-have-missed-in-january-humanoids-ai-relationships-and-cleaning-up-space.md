@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-01T12:00:00Z
 originalUrl: "https://news.crunchbase.com/startups/interesting-deals-ai-robotics-health-care-january-2024/"
 webUrl: "https://news.crunchbase.com/startups/interesting-deals-ai-robotics-health-care-january-2024/"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/5_Most_Interesting.jpeg"

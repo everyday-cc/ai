@@ -22,6 +22,13 @@ topics:
   - AI Ethics
   - AI
   - AI in Healthcare
+  - AI in Autos
+
+images:
+  - url: "https://ggsc.s3.amazonaws.com/images/uploads/robot_hand_human_hand.jpeg"
+    width: 900
+    height: 600
+    isCached: true
 
 secured: "bUaS9OJUyysawhod2csuo/dIAplXQSU3szE6IsMu6WF6DnaJ1RidvbDXNIiPFuYrV1h1/YXTH2LRWcKj2k3utJZa+syvuvkGzyY8tQVselGf/lhpZjuSdHdFfZ8yiQHZ4A5zFQUQFKUDSiG6xWRk/b6KIULRHa8Uzlbg5pH9CCEQY8Qho/1w09ae2OKOGf/2O5iZ8qaJ0aai3a9MrXXGCvWmQyTWPb9MabBN6tgWRR9UL42E8IaCfKl7Gs3PEAMZOkR0NUR1PfrFg8p03iezRD+tlms1bhWuCYPvd5c/NrQ8mQZfRTXMTxutelnfmow0Eq99bMrmqKABuLFAwtfXESTh6csZKQS/k9kO9V0GDBY=;095G3W5pqktX1YDArf3fnQ=="
 ---

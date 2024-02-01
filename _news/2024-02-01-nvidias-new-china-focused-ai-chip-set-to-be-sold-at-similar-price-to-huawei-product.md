@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Nvidia's new China-focused AI chip set to be sold at similar price to Huawei product"
-excerpt: "The graphics card, the H20, is the most powerful of three Nvidia has been developing for the Chinese market after the US expanded bans on high-end chip exports, aiming to hamper China's ability to develop AI and sophisticated computers for its military."
-publishedDateTime: 2024-02-01T12:15:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/articleshow/107329042.cms"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/articleshow/107329042.cms"
-ampWebUrl: "https://m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
+excerpt: "Huawei's 910B chip is widely considered the most competitive AI offering now available within China and has become more popular amid concern that buyers could be faced with further restricted access to Nvidia's products resulting from U.S. sanctions."
+publishedDateTime: 2024-02-01T12:54:00Z
+originalUrl: "https://www.thehindu.com/sci-tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/article67800592.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/article67800592.ece"
 type: article
-quality: 67
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
-  domain: indiatimes.com
+  name: The Hindu
+  domain: thehindu.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-193258,msid-107329315/nvidia-china-chips.jpg"
-    width: 600
-    height: 450
-    isCached: true
 
 related:
   - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
@@ -155,6 +147,6 @@ related:
       domain: businesstimes.com.sg
     quality: 12
 
-secured: "oKK/rObzCiAXAazsUpm7WDDOlPYxFAbT58lCWjeJ7b9EhgL2EqimHk55SWGCrtHyq5Zb9YpKDArJrovajWkWfoUPT9tevicUsbx64YjTFthhRno39ONXBJimM/RG5C3I6cxAnpdsRDq0I1l9wrcYRFbfI/DP0uxRidcqVVSfj4nczjkHywk3z4iteJ4hS2KnzeONBiOZPT71y/VXG57DCu562NiuWYh3GwvEyfsRUIZYZk/qyQ0+FzleuB4ZWJS6fbfi3awEWq24WLi2ecz7FB68LBHRy0goZcTDOmAOMc0okItszxa75hphxTUTrI2F+uWPKlviXtZh+JvGhmfedGMfROTl0tI0cRX3ogEbd7M=;iDyfmADRmGn29ykPdZNJ/w=="
+secured: "RzT22cwW23O4UrtoYSedraLeGIIJgkXBhfD960LWclCEO/6SkTYaKEtVJ+FTeQtz5R/vd38gMZV2Psau1kO5tzbTqrkVy6tzGcnMbZpZ5GX18SLGn+ssexV/0cP2TsI/DsFIAEjnCTPfLWpVkvfDKNGYLaB2DvB4FgoSLrYGLVT5pCpY4DZlH2zPBHaZWLSRFiK5yyuwUUfJu6QKxSg/yRPT35pl2hZys0zg0UKlcuIdHGDq8q6foZEzPQPZGCgYv23+NcozO7cnPvEOSf4CoX8hgfAfqJiroj8gozJmLesw6EKb773xvPc8fFLCqpxtIZSZfOWo4M6ucUzRyX2lZ46QxRP2m217+ym6bm7l5xY=;8LITuSZMJTbAsgaloT7ZfA=="
 ---
 

@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-05-three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai.md",
+      "title": "Three Stocks: Ringing Up a Great December, Another Day, Another Recall, and Analyst Trash Talks Old School AI",
+      "excerpt": "Rides High on December Sales Surge, Analysts Upgrade with Bullish 2024 Forecasts. Tesla (TSLA) Faces Recall Woes, Treading in Technical Danger Zone. International Business Machines (IBM) Takes Heat as Analysts Downgrade to 'Sell' Despite AI Legacy.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
+      "originalUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T13:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux.md",
+      "title": "Very few jobs will be completely replaced by AI: IBM HR chief Nickle LaMoreaux",
+      "excerpt": "In an exclusive interview with Moneycontrol, Nickle LaMoreaux, IBM’s Chief Human Resources Officer, said AI will only automate certain tasks and not replace employees at Big Blue, helping them focus on work that lets them move up the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/Nickle-LaMoreaux.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
+      "publishedDateTime": "2024-01-05T04:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders.md",
+      "title": "Become A Strategic AI Leader: How AI Is Game-Changing For Leaders",
+      "excerpt": "How Leaders Can Use AI. So what can you as a leader do to best use AI? Let's take a look. 1. Embrace Data-Driven Decision Making: 'The Decisive Code' Leadership in the age of AI r",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/12/28/become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/12/28/become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658c38ce64513c4c21b796a4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2023/12/28/become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2023/12/28/become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders/amp/",
+      "publishedDateTime": "2023-12-28T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-1-no-brainer-ai-stock-to-buy-for-164-and-hold-for-years.md",
+      "title": "1 No-Brainer AI Stock to Buy for $164 and Hold for Years",
+      "excerpt": "Is the AI market missing a beat? This blindingly obvious AI investment has gone surprisingly unnoticed in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/25/1-no-brainer-ai-stock-to-buy-for-164-and-hold/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/25/1-no-brainer-ai-stock-to-buy-for-164-and-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759587/ai-robot-hand-building-coin-stacks.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-25T10:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-reshoring-manufacturing-to-the-us-the-role-of-ai-automation-and-digital-labor.md",
       "title": "Reshoring manufacturing to the US: The role of AI, automation and digital labor",
       "excerpt": "Here are some concrete recommendations and examples from IBM for companies considering reshoring manufacturing\nThe post Reshoring manufacturing to the US: The role of AI, automation and digital labor appeared first on IBM Blog.\n",
@@ -1181,183 +1362,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-how-to-build-a-successful-procurement-strategy.md",
-      "title": "How to build a successful procurement strategy",
-      "excerpt": "Here are ten steps for building a procurement strategy to achieve operational efficiency, faster procurement cycles and greater cost savings.\nThe post How to build a successful procurement strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:17:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-the-three-main-types-of-cryptography.md",
-      "title": "The three main types of cryptography",
-      "excerpt": "A look at three main categories of encryption—symmetric cryptography algorithms, asymmetric cryptography algorithms, and hash functions.\nThe post The three main types of cryptography appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:14:26Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-seven-customer-service-types-that-organizations-should-provide.md",
-      "title": "Seven customer service types that organizations should provide",
-      "excerpt": "Done right, customer service can be a game changer. Explore these seven customer service types your company should offer today.\nThe post Seven customer service types that organizations should provide appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "originalUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/pi-1729842.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today.md",
-      "title": "10 reasons you should adopt reliability centered maintenance (RCM) today",
-      "excerpt": "RCM evaluates the criticality of assets, understands the root causes of assets, and creates a strategy for each asset to perform as expected.\nThe post 10 reasons you should adopt reliability centered maintenance (RCM) today appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today/",
-      "originalUrl": "https://www.ibm.com/blog/10-reasons-you-should-adopt-reliability-centered-maintenance-rcm-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T11:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

@@ -79,6 +79,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Neuralink chip implanted into human brain for the 1st time, Elon Musk says"
+    excerpt: "Neuralink implanted its first brain chip in a human subject, and Musk posted on X that the person is \"doing well\" after surgery."
+    publishedDateTime: 2024-01-30T19:14:00Z
+    webUrl: "https://www.livescience.com/health/neuroscience/neuralink-brain-chip-implanted-into-human-for-the-1st-time-elon-musk-says"
+    type: article
+    provider:
+      name: Live Science
+      domain: livescience.com
+    quality: 34
 
 secured: "+Uug7lu86Yx+4jeZZFwDQUaWPzNt1EShKD5ZLZPFibJG+H92Og9leE5LPlgmD5kxNsx2l4iHRTLKfxNRK1309iCqwpG7QX34D9ozVQJnj1UQzYmy93tSp5SJ9Amycs73FQf0rSGkYiQvN0HbBqv90JIAszPabsPtiNAnoVCpio4d0C34UM01nekcHOaqkjwg8+q2ZJgAWFMBYv/MiZZjdeBcgiaOX5u7eQz/HNjef8TyFPeyfJbJ5aIsAuadTXM657RqvwIq1WYc/cGzi007sigese1PktxtPwIaZTIo5xYNvqGr5Y0LPy618MqrJfLg0OAPPwZ0i4Qpow+FLvMZaZEmKWiib6cR4XWZ++fExrCP5Vb0gVDi0UjqpNEtxuNJkJk6CuA+F/9y7ff3F3ueGjdrSDaq+xKMGIHxo7B/TGkv6x1MPD2zxcHa6zMQORLmPRuEn0blIoI6xFv/v+KyIAsqePktixh55pkq1ClvYWFbTgAVLMO0N9Use2Q/fKVQ6IwcGMdtwdG7e82BB3eclA==;2mKDFoFZqC3Yo2LLYcYiQQ=="
 ---

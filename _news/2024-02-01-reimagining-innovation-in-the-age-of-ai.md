@@ -26,59 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
-    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
-    publishedDateTime: 2024-01-31T07:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "China seeks to train LLM without GPU, developing alternatives to Transformer"
-    excerpt: "With the emergence of AI smartphones and AI PCs triggering a wave of terminal AI applications in 2024, Chinese companies, mindful of the high demands on computational power, memory, and energy consumption posed by large language models (LLMs),"
-    publishedDateTime: 2024-01-31T08:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-rockai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240131pd214_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
-    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
-    publishedDateTime: 2024-02-01T03:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
+  - title: "Meet the 6 startups reimagining the future of customer engagement with generative AI"
+    excerpt: "Twilio's AI Startup Searchlight recognized the startups that are driving pivotal advances in the future of AI-powered customer experience."
+    publishedDateTime: 2024-02-01T16:02:00Z
+    webUrl: "https://www.businessinsider.com/sc/6-startups-reimagining-the-future-of-customer-engagement-with-ai"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 43
+    quality: 60
     images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
-        width: 800
-        height: 451
+      - url: "https://i.insider.com/65bbb7a543bb77284ba273ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
-    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
-    publishedDateTime: 2024-01-31T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "9HUaZLodCgFy2cb6GNmz1Ih/ssuHKgSWphdY4ONHc4JOl4VPz6sRWUgO+wyLO2iVS1y+t2lQht/Tc9Qk7vadG3vhjnok67S4CKnYihUYClIQuTkPR30CDM3OGQjklpoAQp6sRkbeNP+nu6MsQWgZWziX5TtWaB4XGOmWMpt3YW+jbL0gmhkk4t6SoEzz8lwdDoexES37S4YAiPkJWInd0HEvCOYcCEeSaOr15ITsoeZXyWOCIhTZtxSIR0FUN34kpFKpk2lbn7qg24rkSI9UgbIYbZaESOqHxBldP6Kiryz5tfmdFAWCuZxAQDxepwZc31C2p6r30cRf5A1kIS1SVylORSSQIvmz6IJxuyOYSZTGQ5BhL4h6X9INMV1xP2iDj93/6c+IRiiH7G6/4vmgXN5pfFbQH9lPZqB/Q6sZTJJUpKvT76RnYHSKuNcwMmecC7wWKnaxgG4EBRxMMOcotcsDBIlabk3lnv8yN+EMmebHwugUd6LcC9YQRvF3xOEJX5698GjjQrUfqALdNXJ19g==;r875wr4Ct+tyflFuVV/zsw=="
 ---

@@ -25,75 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
-    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
-    publishedDateTime: 2024-01-30T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Three Tips To Help Your Business Start Winning With Generative AI"
-    excerpt: "As the generative AI revolution continues, it’s natural for business leaders to view it with curiosity and maybe even a little trepidation."
-    publishedDateTime: 2024-01-31T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/three-tips-to-help-your-business-start-winning-with-generative-ai/amp/"
+  - title: "How Artificial Intelligence Is Shaping Public Transit"
+    excerpt: "Keeping up with evolving customer expectations is key to effectively providing services that people want and need."
+    publishedDateTime: 2024-02-01T11:31:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b93b16980861665a65b341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ba7d3032ea0fb104d193c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1349
         height: 900
         isCached: true
-  - title: "Google And Hugging Face Partner To Advance Generative AI With Open Models"
-    excerpt: "The partnership between Google and Hugging Face is expected to democratize AI by making it easy for companies to build their own AI using open models and technologies."
-    publishedDateTime: 2024-01-29T03:19:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/28/google-and-hugging-face-partner-to-advance-generative-ai-with-open-models/amp/"
+  - title: "How AI is affecting neobank jobs"
+    excerpt: "Challenger banks, like traditional banks, are under pressure to operate with fewer expenses. Artificial intelligence is part of the answer, and the impact on the workforce may be profound."
+    publishedDateTime: 2024-01-31T22:13:00Z
+    webUrl: "https://www.americanbanker.com/news/how-ai-is-affecting-neobank-jobs"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b725f69acb5f69d91e1e6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1218
-        height: 600
+      - url: "https://arizent.brightspotcdn.com/dims4/default/00591d4/2147483647/strip/true/crop/6960x3654+0+493/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F91%2F54%2F82c125ba416298fca5fa6c712549%2Fadobestock-421157105-editorial-use-only-4.jpeg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Generative AI startup taps 3 health system execs"
-    excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
-    publishedDateTime: 2024-01-30T18:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/generative-ai-startup-taps-3-health-system-execs.html"
+  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
+    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
+    publishedDateTime: 2024-01-28T12:25:00Z
+    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "How AI Is Being Used to Make Humans More Intelligent"
+    excerpt: "Thanks to the buzz it generated in 2023, AI is on everyone's mind. But not everyone understands it. Here are some tips to help."
+    publishedDateTime: 2024-01-30T08:13:00Z
+    webUrl: "https://www.inc.com/shama-hyder/how-ai-is-being-used-to-make-humans-more-intelligent.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
     quality: 37
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1533019598_536787_hhnokb.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
-    excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
-    publishedDateTime: 2024-01-30T12:26:00Z
-    webUrl: "https://www.aol.com/finance/language-dies-every-2-weeks-172634105.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 3
 
 secured: "nLeVrmSYEpviVoQuhDRrNW/BQIZL1w8G2T4PKsIcfGesvUcPwHzXoPlCyiu6cDLwIkeIcbuH4D6fCsRBHKud9Y525LSTfpXA7d3b83qaW0YKfwo19k+6faunp5KmZnuw0O8sp3Ol8n6ko2ytWSbVOx+QNF2CN1cHKTbkTBHpo1FXrMKQ9ygtechnYn8IpXKZppS7iEI0LUIbBtz5ao3tt1fc6XUAmkaGJj6fwVXTs6bHD+RXMGRqoDZ9sZD8Z1BcG6V+/QqoYSYb+v/YBJaBh7kfa/JWG356wZ40aiKR5siEFYn44Th1TxPqDUhLXgA0MNr6ltUgX/waAuO/bqLsBBGvY7ZpBiFxPSimpAJeKVE=;Jc7bufMQatXp5kLOCLnJ2Q=="
 ---

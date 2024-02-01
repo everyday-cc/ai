@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-to-write-college-application-e
 webUrl: "https://www.businessinsider.com/how-to-write-college-application-essays-chatgpt-tutor-2024-1"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Why does ChatGPT say \"error generating a response\", and how to fix it"
+    excerpt: "Does ChatGPT often say that it encountered an error while generating a response? You're not alone, here's how to fix it."
+    publishedDateTime: 2024-02-01T10:04:00Z
+    webUrl: "https://www.androidauthority.com/chatgpt-error-generating-response-fix-3409968/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 49
 
 secured: "MBWsiA2Im7w454y4Ke2t2vqPbsT/oKNH5CtMwZOJmS8aPuNsj5c4TApC+F1idVp5Xvg/hZZp1gBxjdmocAK3vrQHTGWKbpUGOBjwl4wJ8I4SvTxRXY5WIdNGC7UFTU5hh1n7w6/WpHKTobOBidGKK03qlzAPAKUv7WMXYlsZEL50k/TXcuAzRHAosTYeg4LRWx84Yyhl313XM/KbmakdxzxMC8HWq6KuAu3u7tODRP7x0zbJhTE/k+vzhEWDAY3MyOWv4Li/B+jzuRiZA6l+5dS/G70TVExPDnoF4X1lGmUDXUyjo5cZ4RkOe1IM1ZIdoBivcU9yZtviXffNXKIEnupDoKngJTRg5XAjwMlzTZY=;K8yCxdrIyUdvDircTfFu1g=="
 ---

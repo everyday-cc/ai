@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-01-forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets.md",
+      "title": "Forging a framework for central bank digital currencies and tokenization of other financial assets",
+      "excerpt": "A high performing framework for CBDCs that combines privacy, regulation compliance and advanced resilience.\nThe post Forging a framework for central bank digital currencies and tokenization of other financial assets appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets/",
+      "originalUrl": "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-metronomes-usage-based-billing-software-finds-hit-in-ai-as-the-startup-raises-43m-in-fresh-capital.md",
       "title": "Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital",
       "excerpt": "Metronome, a startup which helps software companies offer usage-based billing, has raised $43 million in a Series B funding round led by NEA.",
@@ -115,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1336,58 +1379,6 @@
         "AI",
         "Machine Learning",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
-      "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
-      "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "originalUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-77047086/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "publishedDateTime": "2024-01-05T17:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

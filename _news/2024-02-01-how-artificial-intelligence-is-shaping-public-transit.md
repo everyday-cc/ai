@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificia
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ba7d3032ea0fb104d193c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -58,6 +59,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "How generative AI is transforming the future of work"
+    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
+    publishedDateTime: 2024-01-29T11:20:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 39
+    images:
+      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
+        width: 1181
+        height: 405
+        isCached: true
   - title: "How AI Is Being Used to Make Humans More Intelligent"
     excerpt: "Thanks to the buzz it generated in 2023, AI is on everyone's mind. But not everyone understands it. Here are some tips to help."
     publishedDateTime: 2024-01-30T08:13:00Z
@@ -73,6 +88,6 @@ related:
         height: 576
         isCached: true
 
-secured: "qTRsInbNjSlmT5whO5ODMu5Z+O+QxoOBjV5jxgk24NBPLbmax25treUJJYXIk2maInr6Utm/X6sWsOb5GYZ5sAKWYI6AqtGush8HWYbtPVI59jdIJI9orQ3XqVBUy0+62a3Sse5XVswomKPeadCXaequB+5gMv+FrfIvGsXu4IV76867vgcAYpmeiVhOmlE5hd6bxpJHb8nCAiftGouh/xIMY5dsE97IigtiJo4Q9L32g7GzM4HGTsdXjBQq3BqFT1AaGQRYmGz1kpl98K3F47oPrxk281Mde6RYYvqOWEyjbLNrWQZRxx+XuPpXE93hSBKzjQ9fraaf4ACDBJ4M7AucV4sLqbSrMUlVdgx3yG4=;IBXXOqnnlP/tBz+dM676Dw=="
+secured: "k6Bp5x8whMZtx1fxWa/qUDagm0b+7uFxhI99rYMlfu85FxUhn3EM1Q8mY1KcPCOApLYa6VQa1d8BIYBqD3xP5dqTP3q+0isAs/27dd0s+ObC3p84W7d9rFcI+ImgxK3Xug+w1/EKvREGVPnX2c0K6GzE0YTCCrdxN6wTFjE1hrJ+Gqt7jg7Z0FgZKzN+6Qodxi1sJckYNF8p/9ejmsO8wXB340j0ir/XBo6OEtVmLOUuE4sGWpn2Lawtij+zmtZMIbzCJvE37G6sLz4Xly+rdYdPq4DB/+DjvAsbmUHQKA6NdKoZCU5uFlm85LMUwWc1vumB0ToGu3XQMo7vDavdDHzyGijHW3xl/Qs/ltLOceCiharUFBGQNqnl4x6ghLbNkWk4U0+BGKr2LdO2Dq9UZNOndlnDDry6cveQRjyb9IchP3/bXGLuTnCQzf0ef4SwATejQHgVwOpVtRUuFY+K3gawJ4Mojf4RP+ZaXjkJRRsy6C+eDFaQYh5hTXQSIN/j+9YHRPm2N2fUxc2eZsMDyQ==;VkCyEhErgpGASFse3TegJw=="
 ---
 

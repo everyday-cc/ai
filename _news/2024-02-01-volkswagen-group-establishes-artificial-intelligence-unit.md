@@ -23,6 +23,17 @@ images:
     height: 1150
     isCached: true
 
+related:
+  - title: "Volkswagen launches new AI company to build prototype vehicle tech"
+    excerpt: "The Volkswagen Group launched an artificial intelligence company called “AI Lab.” It will be focused on prototyping tech for vehicles."
+    publishedDateTime: 2024-02-01T16:44:00Z
+    webUrl: "https://cointelegraph.com/news/volkswagen-launches-artificial-intelligence-ai-company-prototype-vehicle-tech"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+
 secured: "h0Y2omHQVEX0JprCr6ZOdUrcGLPszGIiNwitzt7+GbT5aVMCOXmYS0NJ7WBClhA9G6Db8WROl4UEIJ+Wuf6OEjH6D7IDwgfBW+/HL6nSe1XEjtYIqY443GkGCCPbnEhhMg+oGQHlBD/FIR0Rj5uhwyB2pQoDB4M59mQEvUwfSvn70eW5S0J5UzeXPssOiZ3UbK7lGARI7yuqMJBXA9j7a893qXjzFEaK2b7zVRz99OEdFoD0dSyJPVPll/P2QuMN5l6Kl10V3nzDmUY/GvloeFt1fpl+9+dDOs3o/2HRQPcHN5lIefHkTHStB0rTuyzyzbNBNrkd5f1F/nfuw9aaZhyCEkjaX6WKuM0c1ajBo1k=;vOysPs3V9h9jAnGDmke/UQ=="
 ---
 

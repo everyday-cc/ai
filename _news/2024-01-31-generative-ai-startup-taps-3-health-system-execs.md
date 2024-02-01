@@ -70,20 +70,6 @@ related:
         width: 1218
         height: 600
         isCached: true
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
   - title: "A language dies every 2 weeks. AI can help save them from digital extinction–or accelerate their demise"
     excerpt: "Building generative AI tools for at-risk languages will give speakers a chance to teach AI how they speak their native tongues in natural conversations. AI tools will also improve translation and interpretation apps aimed at helping people communicate ..."
     publishedDateTime: 2024-01-30T12:26:00Z
