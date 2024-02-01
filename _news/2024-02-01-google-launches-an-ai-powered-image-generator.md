@@ -70,19 +70,19 @@ related:
         width: 1536
         height: 970
         isCached: true
-  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
-    excerpt: "Enables organizations to embrace AI with confidence by providing unparalleled insights into all layers of AI-powered applications, helping ensure sec"
-    publishedDateTime: 2024-02-01T11:12:00Z
-    webUrl: "https://menafn.com/1107796629/Dynatrace-Launches-AI-Observability-for-Large-Language-Models-and-Generative-AI"
+  - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
+    excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
+    publishedDateTime: 2024-02-01T22:24:00Z
+    webUrl: "https://www.androidpolice.com/google-ai-generated-profile-picture-creepy-as-youd-expect/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
+      name: Android Police
+      domain: androidpolice.com
+    quality: 31
     images:
-      - url: "https://menafn.com/updates/pr/2024-02/01/pr_12199_bd58cc08_image_story.png"
-        width: 960
-        height: 432
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "mY2Q+9nTTBPNLYFY2YoJDLT9yF2YfhQP+BIuByaFV8RhH/A6ofBv+ANV1Umo/XJbp9cWnRftgS4lF//Ob9/G1HCmMfo5C0TdsgjKfz5sJAMzM84gNEdSIkGXiGd/HSyPFBJrTQhnzVN5OOnOylZS1hFOPz7loTvs8q7wCzSgThLNlqYYmi15Wvo7Sa/FWBoNhizw2ExzxvcQJgc/7Ylw/HrK2mPq2TquslYf2huQKFpQGa9COWkTfKycozcLkxh0ZwOaTSvH0DOpGDDLjpdfvkNFJThMfpl+qFbrDYy2a3P3eh2LRk2y0Z+964g9Eck+T2HTqwHaz88GMXcGn9EZAt+TrILzoL3Z0b904CQZgYI=;zvrSq64DICUAqSvmgMT8ng=="

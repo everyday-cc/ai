@@ -136,7 +136,7 @@ related:
     provider:
       name: BGR
       domain: bgr.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
         width: 1536
@@ -156,6 +156,15 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
+    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
+    publishedDateTime: 2024-02-01T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
     excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
     publishedDateTime: 2024-01-30T00:00:00Z

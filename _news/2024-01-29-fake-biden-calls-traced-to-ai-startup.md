@@ -38,6 +38,20 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "The Biden Deep Fake Underscores the Risk Artificial Intelligence Poses in an Election Year"
+    excerpt: "AI literacy will be integral to preserving a fair and free election--and every business has their role to play."
+    publishedDateTime: 2024-02-01T22:04:00Z
+    webUrl: "https://www.inc.com/melissa-angell/the-biden-deep-fake-underscores-risk-artificial-intelligence-poses-in-an-election-year.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 27
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/joe-biden-ai-deepfake-inc-1953489723_537010_u5drml.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "AhvBofRwh8fdrW7v4Z0ceYmUrG8y7+694kdxf0u8z/tJ1VulvlrgjUUxgAtYrbNPVLgmWy1qe7S9kVLLX4+MIRQsnJCRwRpU3Mbse0c5zEC3yDzXLKhbWRhyjMdyZmF6iSkFObzsXs55wt/4Nn36MOZKgyLZiADMLkJJzLAyQLyzyitOx2/dtxhHMPni89yRM5l6jHlubwdQJxr3Z++qL5jEpSDsCyYKRIGKQ6tYpPTkXTXTrgoHmWSUcZXSuSIy5omcr/MnZmD9LKC64LKzVtaEtfLNet4qc/6LdTpE6JOUYCS9/cSBa7HbV41Ouhvwtqe7LQLZ9IYnZ7Hk43HwxKkPtD7StIU35xQjB02UaUc=;HdThNl0K2l3CrfdGKnEY8Q=="
 ---

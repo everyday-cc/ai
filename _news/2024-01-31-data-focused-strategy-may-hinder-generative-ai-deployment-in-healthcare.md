@@ -174,6 +174,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
+    excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
+    publishedDateTime: 2024-02-01T15:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-stella-automotive-ai-collaborates-with-microsoft-advance-automotive-/2024/02/01/9955980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "R14kWpsY5ywMCEjaDa656NgGtegItWRfwv2CJ+2BQe6XJRpYteF6TnhcEb5zzfGXf+kALQPvfPljyEUMGRPhtJWe0FwyvhgyaYlF3XnmmCblpMntPgR9q0s/Cu2rPpG00YReIG3R+jlMpQqFAVHWIKSXunY4TcGEKjuOOOaHx/IIYwe5zTGjqylW0whMofPERrHSYUMjw9PJj8WkGz/AZiMwPlTpV1jxC9FonEaz6oqVPxeb3BLVmCpwkgcZ25FrIDsu+/hR9AUUVqqsgwAjrNQBJ4jQ4qswb+wipyKC5zrNfDkocOsIuB8P52LT/brbY3eqN2anIGCkoIrmPSJCmq76geiVcASlJW8EV7YFL0g=;bJqpM2OWankDJ6M9/YBf6w=="
 ---

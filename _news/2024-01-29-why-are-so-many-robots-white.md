@@ -71,6 +71,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Kaspar, Nao, Pepper to iCub, why are so many robots white?"
+    excerpt: "Robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. (Unsplash) Problems of racial and gender bias in artificial intelligence algorithms and the data used to train large language models like ChatGPT have drawn the attention of researchers and generated headlines."
+    publishedDateTime: 2024-02-01T20:47:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/kaspar-nao-pepper-to-icub-why-are-so-many-robots-white-71706777562805.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "t/PrMQ2RolMW2fqfmv2YPWVJqSchtlZeyuD3Y/Tys5YDxRn7gliG7glErD7UF+92L9QF2mslriaWxpoeSoJngLOzIUTLySji0D3mGxBASZbvL/NTlMmILVhCDwDlqKg1Ti5YcUa8PvPp6XuzykqMzjUecu2iwzAQTyuxJjswlDwNbOrO9iq2yIPPipTYDHy2D3s5aV4FSbttxMGxt9bpvJxjae8Ou1Ctd72HlU5gXCGCoA4vg8zLsTRMqHVNyrTvXVYVfsO/rKMHT5Pm3Lw7VK5P+tGDkJR+pQ+dbwrG2dr/yCzpoO8tHQnvXLv0Vm48zmg2B0MZrAXEERFOz/IAP/R50wvr9JZ2/W4LpGzjb/c=;jH+0Eiaq8ym41L/eq49f2Q=="
 ---

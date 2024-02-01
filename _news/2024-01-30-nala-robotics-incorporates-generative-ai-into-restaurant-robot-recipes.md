@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generati
 webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "California restaurant incorporates kitchen robots and AI"
-    excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."
-    publishedDateTime: 2024-01-27T20:45:00Z
-    webUrl: "https://www.kwtx.com/2024/01/27/california-restaurant-incorporates-kitchen-robots-ai/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 34
   - title: "Yelp will use AI to generate restaurant descriptions"
     excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
     publishedDateTime: 2024-01-30T14:07:00Z

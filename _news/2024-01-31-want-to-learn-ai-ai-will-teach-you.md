@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "A Camera-Wearing Baby Taught an AI to Learn Words"
+    excerpt: "Most machine-learning models rely on mountains of data to replicate human text, but new research suggests the recipe for learning language might be simpler"
+    publishedDateTime: 2024-02-01T19:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
   - title: "Will Artificial Intelligence Lead to War?"
     excerpt: "A deterrence strategy depends on adversaries’ perceptions of both capabilities and intentions. Today, large language models and other fast-evolving forms of generative AI could change those perceptions in ways we can scarcely anticipate. Machine learning ..."
     publishedDateTime: 2024-01-30T00:00:00Z

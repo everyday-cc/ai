@@ -144,6 +144,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google is preparing to fully rename Bard to Gemini"
+    excerpt: "In a somewhat surprising move, it seems that Google is ditching the “Bard” branding altogether across the web app"
+    publishedDateTime: 2024-02-01T18:55:00Z
+    webUrl: "https://9to5google.com/2024/02/01/google-bard-rename-gemini/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 4
 
 secured: "RLE2DAz1f49dAjDUZssX0yT3L+/bjiKBkxGtfE+MoaXQGXreAcfD2ujHkDn3SoZzaq4m638jS9oraWQ+3LtI1XP1e/kfSJ0UzTTFDx8WuKdiFLl47smfOf9+syUxLVliW9lR5s8Eu2psN/DpxtJGk5IVo8Ix4lPidqewc24t+eCkbePjitbqe6zCmEbCeix45/DLdnWvGBaEc6xVfL/IJH/bD/CkMPWl0SqINW8Vw+2W3Lx1ylePKWtudG3gY1ufAlwi6FG3Cz/SWPMrKR9oUKs5JbAgr7hoc1nKU2Pm1vxXJ+cPzD0Evufa3gtrjrnize+g+ri8l/tIc9GMwQgvyo+eVqetvcKN7R7sbNWj0OtpyFpxVdaiOZRvIIdNrxyUYMGHOx8YZee4wuy+d2Lk2J1VmU2Inb+TmPS9f6AzKXA4Aoq6nRC56ytvxXx60HOjCOjZQhzyof6QvBzNu6cCh3MHfci+B4+rRiXmqmxxhXDnNZd34MB7M8Pg2nshTw4cGlQHiwxQ6Q7sB4PKecFBew==;O9kn0iUm2LZXmyGbOJyKqg=="
 ---

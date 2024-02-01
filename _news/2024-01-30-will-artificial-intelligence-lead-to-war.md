@@ -29,6 +29,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "A Camera-Wearing Baby Taught an AI to Learn Words"
+    excerpt: "Most machine-learning models rely on mountains of data to replicate human text, but new research suggests the recipe for learning language might be simpler"
+    publishedDateTime: 2024-02-01T19:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
 
 secured: "96s3C2psdccYT7msIf4xCKooSDXvBrlA0yCoA+n+Yiw5sGs4p/XsAlmNAdNBh2WXGyk7Tygg40riHn5NTjVL2mgd8+hKgfsX8vRvKsQY5zJqvDrnWH2gKifbh/KahSkWxC7VPES5340p6icSES0fh8y66nBT09/DzIFvFfcpFIulfQkpdy0KkrHt5oFDkF16TW5B12STHniPceaq5qd7odzF6Y92HbCp0hmR+xh5yMYuVkGwgOQF+eyM7glHS8zuj150qP2h/HDFL7s0BX5YqiJF8aQR2YCcOQeCCPIsQBxhJ3uvwddi1DIbbiIUzyoGniMyZxzlty9CYIdM4wUofVYwdbYwl3m0oObiiUC+vfomFvurxrI/ksEKUMG5rJ7GU8PesKx5p88K2H5ck2sU1qQVuPhCYJdJ1PhCOITsqI6eIUb162fOOx1TLbD7g18zHvVF0qafTR6CZiCT7jvEXfCN08BdMDkyk3rSvG/rH4EZ3aCLMwYAXCONf+4CnMxlwCJwKa5xgPJ1j8TwaajnCw==;PwEeDQe/c2xZtmfEQbr+Dw=="
 ---

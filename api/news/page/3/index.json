@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-31-eternal-you-reveals-how-ai-chatbots-aim-to-resurrect-the-dead.md",
+      "title": "'Eternal You' reveals how AI chatbots aim to resurrect the dead",
+      "excerpt": "Chatbots can scan the dead's social media profiles and texts, and then simulate the departed's way of speaking to create new messages. The documentary Eternal You probes into this intriguing use of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/eternal-you-review",
+      "originalUrl": "https://mashable.com/article/eternal-you-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/07ET7WkarUwAIIdJLgASzRF/hero-image.fill.size_1200x675.v1706637281.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-how-to-break-the-fear-factor-of-ai-adoption.md",
+      "title": "How To Break The “Fear Factor” Of AI Adoption",
+      "excerpt": "Despite AI’s potential to transform how organizations work, we’re seeing slower adoption and deployment, possibly because of workers’ misplaced fear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "originalUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b9341aab18310b1c40e25a/0x0.jpg?format=jpg&crop=2308,1299,x0,y38,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/keithferrazzi/2024/01/31/how-to-break-the-fear-factor-of-ai-adoption/amp/",
+      "publishedDateTime": "2024-01-31T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-amazon-earnings-preview-aws-advertising-ai-in-the-spotlight-for-holiday-quarter-results.md",
       "title": "Amazon earnings preview: AWS, advertising, AI in the spotlight for holiday quarter results",
       "excerpt": "It is also facing scrutiny from the FTC, which filed a lawsuit against Amazon in September and last week launched an inquiry into Amazon’s investment in AI startup Anthropic. Amazon continues to trim its workforce and recently launched new advertisements ...",
@@ -200,7 +294,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -944,7 +1038,7 @@
       "originalUrl": "https://www.ibm.com/blog/average-219-roi-the-total-economic-impact-of-ibm-instana-observability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "",
@@ -1130,109 +1224,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-ai-growth-lower-interest-rates-foil-recession-threats-in-2024-says-imf.md",
-      "title": "AI Growth, Lower Interest Rates Foil Recession Threats In 2024, Says IMF",
-      "excerpt": "NVDA), which is the market leader in AI chip production. “It’s hard to find a company that has benefited more from AI than Nvidia. Currently, Nvidia produces 70%-90% of all AI chips globally. As just about every analyst calls a top, the company keeps ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/ai-growth-lower-interest-rates-foil-recession-threats-in-2024-says-imf-1033011372",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/ai-growth-lower-interest-rates-foil-recession-threats-in-2024-says-imf-1033011372",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Economy--bull-market--shutterstock_1.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T12:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-how-ai-can-enhance-your-resume-in-2024.md",
-      "title": "How AI Can Enhance Your Résumé In 2024",
-      "excerpt": "Clarissa Windham-Bradstock is CEO/Chief People Officer of Any Lab Test Now, a leading national retail healthcare and lab testing franchise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7cd1c8231c891e67c960b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1355,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
-      "publishedDateTime": "2024-01-30T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

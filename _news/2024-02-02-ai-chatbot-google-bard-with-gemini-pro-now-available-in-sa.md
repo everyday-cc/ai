@@ -9,7 +9,7 @@ ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bar
 cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -136,6 +136,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google is preparing to fully rename Bard to Gemini"
+    excerpt: "In a somewhat surprising move, it seems that Google is ditching the “Bard” branding altogether across the web app"
+    publishedDateTime: 2024-02-01T18:55:00Z
+    webUrl: "https://9to5google.com/2024/02/01/google-bard-rename-gemini/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 4
   - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
     excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
     publishedDateTime: 2024-02-01T08:27:00Z
@@ -146,6 +155,6 @@ related:
       domain: indiatvnews.com
     quality: 0
 
-secured: "5pt7cWatt5rfdXUcj1OoWcZc6848uSO0BXPV+6iWIxRpR7K98H6Syk7XBORuCGnRW9wbM2tTqPj1fOLVFrHTGP67Pujq6NfEGPdPAYJJFhfjzPkc/XPzy9sr29QeLO9eXN3p1ETOC4e35VM7e4ije4Ex27s7JdPI/0xQKlvONIz1XUVjfN2vVt2hYzft3YZwrir49osPcq23P5ljPm2Wzrj8DGFXX8DtxLtK8AZfExYEHFt5f28B8F/KdhBxpc8OQ8Wl948mAk5joCh78ibnCd9+Hx5WLfg3Nhcy7JV1IJ5FEjNX0pJspL/W7Kl7oSilqgKCQ6acU/at/Q2OX9FtecGIcJfkf3XRZcAVucdobLw=;LJyRsNRFz4PAFtnoMU8wOA=="
+secured: "7qLttmyTDQ67+ktuOxwEtfmOCV/imf7e5B5rZTGGApBj4gIGr3aM8h7gQv7Q607+976TTkIgWjgS7H9H5wbUPQK1++L3zRmsqbymQC0h2Sq3b9V6BzHiLGsxaPFhKuMT+Zz869Rf/LCbqU2XpzSgjJEBxZyQi9nTjLf+SwuSQ8QFjp9V+hQZzpVD1WVessruI5UQMTcVW1ubIpBH2Bletwyf6JNufos1xScn/rsR8IrBHqJDpPp/NbWKuNPMqtYywezP0L9v7JTh18O6fhqnnhHUORF753MqA2G8jhTd6WwV18Hv0XMbhKmrrop39WThUL9tvBnQM0Zj0G9BUbnuCz24xmfx+UAUFobsPcYIV04y/H6DTqD8c7gfupPnf/oov78WvosSgghnd5536lIVLDgEQ01s8fSgQH1Bv8JDgAbgW8fimjezCBPG0fKYnSwH7KOGhrbeZCUnlEPVEAg4FNdUDgX9gE7apnyyGqnHHKOA6IUkKS14VRikKW6oelAO9GnErtozvw+G/IqZTBUV9Q==;zrcY5HAl87YLarZo9cpyLA=="
 ---
 

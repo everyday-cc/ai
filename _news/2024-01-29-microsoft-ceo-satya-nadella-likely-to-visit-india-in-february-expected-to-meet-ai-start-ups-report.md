@@ -380,15 +380,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 34
-  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
-    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
-    publishedDateTime: 2024-01-27T20:27:00Z
-    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 15
 
 secured: "+oZJf/+XfWhZ+K1G1DfyK3XEpdllkwLce+Hg8i32aO1xfG+9E+NBFL/nixf6EEbLBXDP3PgFNsBa0sO5DzVmwcStyJng1sjNL4Y5kZePUBzpluaAUfh7gudymJyb/Jq/Jj/eo0OMYEnecgyTDt11acYhHijTwxIvqIPf9XOCRPHt7bmipt+SYLf5baEhePg6ius0QdusSKnYR6XUBxtwWiAxkna3Keagbnc9TREm3QfQFlGPtw0p2KuKosCftlM7lB0K3F2kxuGbOsBDhS7xqjkj/0OsQXiFjOb29UwgAsv9aWbzjghSHiPqpr/7nKnQzlxTOywin77LVIaXfSmZtVPSYouV4gcjjc2XbhQx0jvt3+L1HljX2OV8pdtEn1r1mTABOngKYuSXmu/66Yt2wZhQUbvwh9bxj2VGvsewsde93bDLOxqpMXOIVUCZUR+e5kImd1tH5aHZh/qwD1RLz27MKpTZPhgUEkh9ODaH1zYKO2tRucLaVYwM9MBhr64w+50ZG/2MBD6EevhTdq4T1Q==;+zB+bQa5csOluh0WOryOHw=="
 ---

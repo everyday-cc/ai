@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2790601-why-are-so-m
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1024
         height: 538
         isCached: true
+  - title: "Kaspar, Nao, Pepper to iCub, why are so many robots white?"
+    excerpt: "Robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. (Unsplash) Problems of racial and gender bias in artificial intelligence algorithms and the data used to train large language models like ChatGPT have drawn the attention of researchers and generated headlines."
+    publishedDateTime: 2024-02-01T20:47:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/kaspar-nao-pepper-to-icub-why-are-so-many-robots-white-71706777562805.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "A2nayPnSl/A62DKzNOEbBewJOpCLzjOMT1cBrEeXKaG0lvGObohU/ajkgr1xiiGB6YDpxR/9RTrNb3/wMSVA6SkIgbowrEJVJgQOt0TPeGZPJekeHOWsIyhDWXblIBbmozOn43qJmmfaVT23n4D/B5+1SToHU6dymkNfuF2FvrJETYfsI421p/jYBxyx1gU4Fkif5y/9DnqzZ3f1MpjCmewttwpN+Ls9jxuViBxTnER3NyhXlQQB1PLoQ2TPK5ZPH+7fh+5JFr7zPs1A1d5pdUFcIXg293iPkQGI3A7+NroOBnVasQxHC+GXryuD1DNOCQsOlcUxVePSXpWiGjznZJzI6D2UIGzECARCSiWPRW0=;qP4TpIK12pDTAu1UUoh7nw=="
 ---

@@ -63,7 +63,7 @@ related:
     provider:
       name: cc.gatech.edu
       domain: gatech.edu
-    quality: 36
+    quality: 38
     images:
       - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2024/Scientific%20Workshop%20Photo.jpg"
         width: 850

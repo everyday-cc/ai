@@ -46,15 +46,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "California restaurant incorporates kitchen robots and AI"
-    excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."
-    publishedDateTime: 2024-01-27T20:45:00Z
-    webUrl: "https://www.kwtx.com/2024/01/27/california-restaurant-incorporates-kitchen-robots-ai/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 34
 
 secured: "mwW5KUFuoV8c0JuMln4VRG+wNpoB5UH1+RpWaZQLRxytCar8SoIk/SKW+XE2bRmiwzu21+Q+JTUW76K0UhRhuL6dORlpnKniaXLP1ogI/lVuoOAIAI3qtYN0Eej97Ob50akM16MgKTvG4R6+TlOBHjT+QEQIPb41M1gQo/NKa0TG2GIwkX+Y7ZHAoTBtYsUYWLBufnZkNbXPf9/94MUjrMFGEavErqi2VEmmpW54j70y+kNPYU3fACQ7soFOQsQjvBX9yR9Lz+8quhxq/VARbIK9/IyGLySbqLyVLioBwJdErLikrZeZ1BDxGaYep6Vh+nKk5tSBZWckOQnj5ql8UC/YQrZSkNCYvomgeUawwoPgt5mUKnOo012IW+rNFOcCNsSzHl3zJNRf8OK2kNaYSatSUCdQT7ZabaFAYcHY7cnuB9K8ZtkVOIRVQRieKM/sRVFAWoQFzX5+3IN4CRxg9aq8TAve0Vjfoz/TGwMkC6/Ay5CRjGZuRbtOvX3BIOHqVn3sFnx/HgqtqJSlfBrMhw==;6YYwkYV5eH67Gl9Zl0XpNg=="
 ---

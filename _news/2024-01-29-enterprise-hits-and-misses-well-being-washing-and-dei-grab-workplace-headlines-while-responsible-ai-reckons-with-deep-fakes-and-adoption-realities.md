@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-well-being-washing
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-well-being-washing-and-dei-grab-workplace-headlines-while-responsible-ai?amp"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 424
     height: 283
     isCached: true
+
+related:
+  - title: "Manipulating reality: the intersection of deepfakes and the law"
+    excerpt: "Sara H. Jodka of Dickinson Wright PLLC discusses deepfakes, the technology involved in creating them, and the legal challenges their use poses."
+    publishedDateTime: 2024-02-01T16:02:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/manipulating-reality-intersection-deepfakes-law-2024-02-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
 
 secured: "sZZK0ICTMyjfpRkb+hHkihflMG38tFQJ1d3RlGTmiYkUVz6xMAr2+VBhjiFUG/kd3ky0M3i/S/7x4L4zR2r7wJoGtYQK8YJaaaze8gBS5WnZ4lBP7K51Hj9ezPJVwfn0bh4+/NODUggx+DhU45Kve9wmcuB8rErMOFDu1npsnzacMELI4beuroh9KeppveYRaBp28FKtwwBJUHaX1r4wEkZPpsdxWaFsGvy6EUgTNcnRq20UosIuP0yXPNOduy58L1vtg61uCKyY+Rx0jzkqt0lkoeL9rGj3CHUeKhRLjShaytzYk4qfttj1v5a61ndYvUTFclTTIxeUvyhL4Ijt0lyUOzSBDfs6F7o8xksOae4=;lMVggCX5EvqPzqBisF1W9g=="
 ---

@@ -296,6 +296,15 @@ related:
         width: 1089
         height: 725
         isCached: true
+  - title: "Unlike Alphabet That Seems Locked In The AI Battle, Microsoft Shined With Its Quarterly Results"
+    excerpt: "Google-parent Alphabet Inc (NASDAQ: GOOG)(NASDAQ: GOOGL) and Microsoft Corporation (NASDAQ: MSFT) reported their quarterly results."
+    publishedDateTime: 2024-02-01T15:41:00Z
+    webUrl: "https://www.benzinga.com/24/02/36892935/unlike-alphabet-that-seems-locked-in-the-ai-battle-microsoft-shined-with-its-quarterly-results"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Microsoft Poised to Overtake Apple as Most Valuable Company"
     excerpt: "Microsoft’s stock has surged 7% so far in 2024, propelling its market capitalization above $3 trillion. It has now outpaced Apple as the world’s most valuable company."
     publishedDateTime: 2024-01-30T00:35:00Z

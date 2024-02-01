@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-f
 webUrl: "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity"
+    excerpt: "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia"
+    publishedDateTime: 2024-02-01T18:56:00Z
+    webUrl: "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 79
   - title: "AMD, like Intel, hopes to sell a ton of AI Chips, but expects revenue to take a hit, reveals earnings call"
     excerpt: "Major chip makers like AMD and Intel expect to sell a ton of computer processors and more of AI chips. However, they also expect their revenue to take a hit this year as they mount a challenge to NVID"
     publishedDateTime: 2024-01-31T04:42:00Z

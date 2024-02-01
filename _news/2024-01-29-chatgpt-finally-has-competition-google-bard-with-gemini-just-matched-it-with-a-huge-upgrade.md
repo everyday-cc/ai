@@ -137,6 +137,15 @@ related:
       name: Android
       domain: androidheadlines.com
     quality: 4
+  - title: "Google is preparing to fully rename Bard to Gemini"
+    excerpt: "In a somewhat surprising move, it seems that Google is ditching the “Bard” branding altogether across the web app"
+    publishedDateTime: 2024-02-01T18:55:00Z
+    webUrl: "https://9to5google.com/2024/02/01/google-bard-rename-gemini/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 4
   - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
     excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
     publishedDateTime: 2024-02-01T08:27:00Z

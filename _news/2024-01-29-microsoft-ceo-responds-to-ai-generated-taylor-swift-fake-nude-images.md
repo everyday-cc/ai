@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 384
+heat: 374
 published: true
 
 provider:
@@ -385,15 +385,6 @@ related:
       name: Business Today
       domain: businesstoday.in
     quality: 19
-  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
-    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
-    publishedDateTime: 2024-01-27T20:27:00Z
-    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 15
 
 secured: "wBzprhOqNF/U616nnNhyjEola4lKexPX9CcySvwY4gT+Ji7iXchHQLAZsJuqDXtBQzb1SZCVU+HQfXmcowXU211Zj3eQBqfSM5ZJuZ9L4Uln6pagfik3ZJzZSrMrvrw8UTogMhjXG6xez1/LoNhQX74p+6uBBnYIWAufu7+uQcjuGgyutaGvaiRfjaHEAg99YPiE3MHe2WdAjLSKrLrXihZElQu9t4l4iLiMDOzT9wJDItt4VCEsqT54CMc/IUvh9YLQShtIwbHh6nhfeUED+oG115fNm9B/B05zutRwCKCYLicFqGInl1nVvuFWywmZLVJ9ID9R8VpRq3l9DgzHKcBxX5r8tw5bHnxInvCwkPf2JE6vj9tpsoLcuTRygQAblPHp3XPucywDpIP6Lenw1PXtFzQgR2AfFHrPPykLJTvS+Tw/Abl9CRcjgfhji/A20dH1uzk43EUULJPwgjmS/b1vc8AHCL2oZ9kqHe8nshQfi/br60wwlzm7sl/ArxH5obsF+yxugtL1mNhyzEm4bQ==;u4f2UyncUkUQyNr4gJFfQg=="
 ---

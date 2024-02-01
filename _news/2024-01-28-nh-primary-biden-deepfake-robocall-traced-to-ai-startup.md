@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-trac
 webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/c1/3c1c504a-bee0-11ee-ac7d-63171bcd371a/65b07cdfa9dd8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Biden Deep Fake Underscores the Risk Artificial Intelligence Poses in an Election Year"
+    excerpt: "AI literacy will be integral to preserving a fair and free election--and every business has their role to play."
+    publishedDateTime: 2024-02-01T22:04:00Z
+    webUrl: "https://www.inc.com/melissa-angell/the-biden-deep-fake-underscores-risk-artificial-intelligence-poses-in-an-election-year.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 27
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/joe-biden-ai-deepfake-inc-1953489723_537010_u5drml.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "NrUA4n+XKtpOnK7Ky94F1WlSZykW0sWnHmcjvXpfncQe9DVPWe7Dp0lba4Tbk12wOjFutaWFPOt6qmFnPzkHtwE/gQpj8Kj4a++JbGFGgG/NwKdMxFANBm5/LzqRWq8Mw89lItWl/7fUHYY5bPn8xRqn7sK+iqiGQGWQsDJ2/y4NzswH4qis6Iyl8ox9EGP7IWcjLx4XwlQRjh5ipBs1/Rp5e72DI5PeQ8tdEwLQ0xJkX42yeFX9vCa/dxIfBBOKKjLkES0+LEfW3Lo3yQyBvKGlrnGniLfMFq2pn0643xbbrzEDiO6n5jSqamuXc/HtjuVyGt8KgOV5XZihCj4hZT216VofmAA5UnN9Y8vtMx3ZbfdJCcAv+lqYw6bd1bHI2WRF9i2QTzTc8CYTqXtjW7Ge1m4OzxdN879VGHR+AWpadr6+r2KJW9QL831SLxlOnmakOhT/h8zqI5VlFc1PsgWNI1SrFf9LXedv8L+gkHEj/HzvReziJjeL7dhCnvm5eY4N9OzVvJlR73+rHbrCyA==;fAie1t7BvrzP0v7MthBwPQ=="

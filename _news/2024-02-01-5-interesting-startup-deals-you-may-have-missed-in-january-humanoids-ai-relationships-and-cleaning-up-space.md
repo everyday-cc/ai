@@ -24,6 +24,17 @@ images:
     height: 506
     isCached: true
 
+related:
+  - title: "AI Will Be Doing More Accounting If Startup Investors Have Their Way"
+    excerpt: "Investors have pumped billions into startups developing software to automate bookkeeping, auditing, compliance and tax filing. Now, increasingly, they’re turning AI to the task."
+    publishedDateTime: 2024-02-01T19:46:00Z
+    webUrl: "https://news.crunchbase.com/ai/accounting-startup-investors-datasnipper/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 17
+
 secured: "YjyoCycv04glnmp4duy9E1ohqdarXofsnJEBg2c2b2/TvmZGLJ3wryGhgv+4MlIokKwtx07mrdh//Whs1EuPnZgsPLaGmCCl3jLFp4yxYKzXeqAf396DfvaHWM2xNKdiJeS/VRGoh9j9WxF10RSw1sq1OgRDrNNlkXm2+Eq+CzrQ0ShN+ykNilYbcYZi6v+K/qTk/YryaXwznTmdxyDCVuiTLrpO9PU6zwZJl58+73um3yV2f9Wq805Qs3H6fvViEesRRNp/8h4qKnOXNwGqR+h0zUg1YwhTJeFPtkkiCmexJ72gDDof99LBmknk/rox1W4pbmyAn/zeh/9mE1LL8pDC1FVkkdyLAMEVc90oo/I=;IrnmS3dFis2OGnmnIDW1Fg=="
 ---
 

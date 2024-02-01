@@ -7,8 +7,8 @@ originalUrl: "https://www.jdsupra.com/legalnews/florida-s-new-advisory-ethics-op
 webUrl: "https://www.jdsupra.com/legalnews/florida-s-new-advisory-ethics-opinion-6543014/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: JD Supra
@@ -41,6 +41,15 @@ related:
         width: 648
         height: 365
         isCached: true
+  - title: "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives"
+    excerpt: "Delray Medical Center in Florida is using an artificial intelligence program called Viz Vascular. The tool, which can be accessed through a phone, is helping save lives. Tennant Healthcare National Medical Director of Vascular Surgery and Endovascular ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://nbcmontana.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
+    type: article
+    provider:
+      name: NBC Montana
+      domain: nbcmontana.com
+    quality: 10
 
 secured: "kge9Lz7e7Q5kYg0lrEYPAmIGzP5N69usOUIQyShlqgxtWzFrqu3h3EalgWvDpOE3WqY4FWeD7b9hyYL7NHQM8IHmSb/Mc5i7gv/SWxSYDA/2Mu3lqtH1D4m1TmXvS5GDa0WBS19lEeVg+qosZg7tz+sdijmd96/x4h1+RC81X3dpliA9pLijjIVOLNu4sY0LVBlmJXGnR13mg8SD0kjqsYBIlZYkyGJ67ubPCQeS56ptFf1SIMaaiatGU/AcEfhQT/qCWC81Cw1S+5SYYdYiPgMBHkxoRvTUuQsMAl1/l4WUxazR4wnFPhFwqe9nRzRkmefs6W2lIbJcFV1kdKBjXbsfpQ+mpca3s3+h1TbzJiA=;1mooss10LBfunuRgfwsu/Q=="
 ---

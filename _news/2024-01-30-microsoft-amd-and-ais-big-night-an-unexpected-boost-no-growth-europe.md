@@ -49,6 +49,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy"
+    excerpt: "Reuters reports “Artemis” will complement the hundreds of thousands of Nvidia H100 chips Meta bought. Similar to the MTIA chip Meta announced last year, Artemis is also focused on inference — the actual decision-making part of AI — and not training AI models, but it’s already a little late to the game."
+    publishedDateTime: 2024-02-01T20:20:00Z
+    webUrl: "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 75
   - title: "Microsoft: AI Tools Will Help Manage Time, Boost Cognitive Work"
     excerpt: "Microsoft has demonstrated how leveraging Artificial ... that will enable them save ample time for creative and fulfilling cognitive work. Microsoft demonstrated the power of AI during the first ..."
     publishedDateTime: 2024-01-28T23:32:00Z
@@ -65,6 +74,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Microsoft’s Strong Financials and AI Growth Prompt Buy Rating and Increased Price Target"
+    excerpt: "Wolfe Research analyst Alex Zukin reiterated a Buy rating on Microsoft (MSFT – Research Report) yesterday and set a price target of"
+    publishedDateTime: 2024-01-31T10:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-strong-financials-and-ai-growth-prompt-buy-rating-and-increased-price-target-1033014845"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
     excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
     publishedDateTime: 2024-01-30T01:40:00Z
@@ -98,6 +116,15 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
+    quality: 36
+  - title: "Microsoft's full set of Office apps will be available on Apple's Vision Pro — including the company's new AI assistant, Copilot"
+    excerpt: "The tech giant said programs including Microsoft Word, Excel, and PowerPoint would be available on Apple's new headset on its launch day."
+    publishedDateTime: 2024-02-01T15:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-office-apps-apple-vision-pro-copilot-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 36
   - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
     excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T17:03:00Z
 originalUrl: "https://bgr.com/tech/google-bard-finally-lets-you-create-ai-generated-images-like-chatgpt-and-bing/"
 webUrl: "https://bgr.com/tech/google-bard-finally-lets-you-create-ai-generated-images-like-chatgpt-and-bing/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - Google AI
 
 images:
   - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
@@ -141,6 +142,15 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
+    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
+    publishedDateTime: 2024-02-01T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
     excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
     publishedDateTime: 2024-02-01T15:01:00Z
@@ -165,6 +175,6 @@ related:
       domain: geeky-gadgets.com
     quality: 21
 
-secured: "JoWq7Bvh6qiPLjLpLMRBNkJX2kwmUtxhRQpNUxvynUmTh4dDRWrdNQppppOcHGqy64DAWqQXnww8wNyHaTblqznV5syvgAzkv5fWJYXNezXNxgNOkIvUQTJLALFN5tvrcEdoAkKRY5OcWNO9bTaNgQ0sfi+rYx9Idkol5eIRp6Inc1oJHwCmlH4EAsOtDTa5KxiSfd35jUAm36gEJHomAiESiY96vuURgQEYoNs8OUW4lj8HJJl68jsZAJy5KXJ5LP50QpjHqxGC0A8VTCw8Yff3RV86H4p5TJysRGe0JIFz6ZgBQi6QDDBfaZ1Ow6DZL2koxeR7XfHIsvNyU0E+F0XCgxeQomnAf5RxTaR8pJQ=;Jt44AFfu3gYy/65ENO1nEQ=="
+secured: "fJym0mMJ5W8T1dbCyKwplcEtV859B5JUf0q6ik7d3nON8JEbXRN16wnv/0Zk9Xl0WkfouWSSPvI5iWYGk0RqPBs0ONkrNSMvowoXNt+swBqY+AwRwFlrEbWiPZBeVR010ZPCTZTh8j2MOTTZiZw0T3F7I8bUOLsTTFT0PQc3YmOHfRgiD+EbjqhLcaO3d6BrKd48zJIQQT+cfOztqekR+xwGRxYBRAOpVySCAZN8HACH7ABmvH9oANOZTefYdcIYT0Ic/FSPYAxd8F3YR+Pk6NwbWh0b7jHedSTiUCzBYjq4aEvGdI7u4Z/SDYQuIjTPLkwX9F5pS+9QCZcWr8ffll56HIywTy9UPRScVj2bYhRmm1m/SCuUIsR8JYo0kL0eiortPOXsmbhhbpRPwz0qdMI92FdamLXOoWTu1HNnX6BkFx3ddsVYdZeIgcRnWO7n37fK7rrWcOo/60S8CFRXXYG5Vua+kebpY0FHYkoXw2EtN6f77yFuo83uQpwlxsqgoHITW4WpEYeLJKEszFBmwA==;KeGcujRfOi4Z9V6RkJHMgg=="
 ---
 

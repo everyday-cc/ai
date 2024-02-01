@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -179,6 +179,15 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
+    excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
+    publishedDateTime: 2024-02-01T15:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-stella-automotive-ai-collaborates-with-microsoft-advance-automotive-/2024/02/01/9955980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "6jvtSjN2lANQ4nsJCh2WKzKSCPb2kxHWo4sT+EGZazI0A4aGgmmMt3IgFuahJRCU/Je6/qmCwgs+QXihbjS7r1kVsMCV6EMs+d9Y9tixKIan6XnUUZLjbFspSkVksixbqSnlcdx/lLRb44yx01qS5f5VCi54S7Kq0TgCn6hnk1bFqbGN8PvlNfPgQeFfAeVziRlTqqpEpdDmCC5XowA6719UXbAzxyOMO8wUkwi4EytBOx/J0GPwjEqAlQ91qjgd5+qdBSjE+gxEmlz8Qd+/cEjA0PYftlfrsji8+pMmSECy3easdyRBbkVmVJZLfr9Bf3GebHh52kI2Up56uy0SYZJjo4KGxvhrdGcNxorBffA=;yWia9pvqswfdYeihCWPudg=="
 ---

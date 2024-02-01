@@ -381,15 +381,6 @@ related:
       name: Business Today
       domain: businesstoday.in
     quality: 19
-  - title: "Taylor Swift Removed From Twitter Search After Explicit AI Photos Go Viral"
-    excerpt: "After sexually explicit, non-consensual photos of the singer created with AI circulated online, X has seemingly blocked all users from searching Swift’s name."
-    publishedDateTime: 2024-01-27T20:27:00Z
-    webUrl: "https://www.thedailybeast.com/taylor-swift-removed-from-twitter-search-after-explicit-ai-photos-go-viral"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 15
 
 secured: "dK0N4qNIiM4F3EvDGN8OJhh3QGuJ94hxI1sxGZOTz2PCOpMVHXiNVJWXW6P9/O+Tz0zhaYF6WDuKkQeeyzq+gYSihiXjotiTM8mLw2lHvS+ILajr8AnGKPE4KF30sxIE0x17n+vNBNsGC5+1qpH9oupN1SJsx5kipP04EmHUAjcd5qATES+8IEnnMMDzhpYevi243kmvbq7/eFXy/HfHjzEie75n5MzDf17GB7LdHsp8Gtzs0+8tiXZC9HoHNXM+nR+vo8JhHiUgFa6A9xLu8/x25Iy/Iwbki/L+79z3lJxa8jC6tLNPPD3d7Z3me3mkzI5qCc9isJH4MqCdyNUXVnKUDMCqbxIRb/zsIENndME=;BEeWpO7brRFisk30e6QgkA=="
 ---

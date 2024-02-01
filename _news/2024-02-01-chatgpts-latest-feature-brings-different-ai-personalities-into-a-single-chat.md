@@ -125,7 +125,7 @@ related:
     provider:
       name: BGR
       domain: bgr.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
         width: 1536
@@ -145,6 +145,15 @@ related:
         width: 1280
         height: 786
         isCached: true
+  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
+    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
+    publishedDateTime: 2024-02-01T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
     excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
     publishedDateTime: 2024-02-01T15:01:00Z

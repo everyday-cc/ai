@@ -22,17 +22,6 @@ topics:
   - AI
   - AI in Healthcare
 
-related:
-  - title: "Are Consumers Left Behind in Healthcare’s Generative AI Talks?"
-    excerpt: "A new Deloitte report illuminates healthcare's blind spots when discussing generative AI, in particular pointing out that patients and healthcare consumers are left behind in these conversations."
-    publishedDateTime: 2024-01-31T11:59:00Z
-    webUrl: "https://patientengagementhit.com/news/are-consumers-left-behind-in-healthcares-generative-ai-talks"
-    type: article
-    provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 34
-
 secured: "Ju7xmz+lhaTamE8UzeF2dtIZSqbggiS+XsjqH9ge+JBexBUsklL9GCiS3gb9+CXU/tYdB96HZvzvHOqCOspQvmDKI9ICT6fq8k4Y7kmgvywm5R6Q6L8hqWuWaQtLgjSe8puBFzsM6FegFyZR4NW8ArF6bs9o0t6/xXNZ3UtL6t73XHAEBqY+beyeUIoVzVBrLHC8SirryJOftx8M4qUwsalbUmAKyEawnzoTbD+IBo/dKTaPiJ9/mB/ltntoYZw2LdCPmehh5UBEAo7CcVF7W4G2SpDTgJzMVvLofDVpbMTL3XbwneoyXq4seKh0aj1ne9y57kwbyKL2f8PdZ4OxYupXeBqoupKjLd6pYocYWLU=;fC39M5KEbs2WvEBSWEHuvw=="
 ---
 

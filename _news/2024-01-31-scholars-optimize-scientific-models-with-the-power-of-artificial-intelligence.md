@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-31T11:59:00Z
 originalUrl: "https://www.cc.gatech.edu/news/scholars-optimize-scientific-models-power-artificial-intelligence"
 webUrl: "https://www.cc.gatech.edu/news/scholars-optimize-scientific-models-power-artificial-intelligence"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cc.gatech.edu/sites/default/files/images/main/2024/Scientific%20Workshop%20Photo.jpg"

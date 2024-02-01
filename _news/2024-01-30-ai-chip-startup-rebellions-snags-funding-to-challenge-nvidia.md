@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -129,15 +129,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 27
-  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
-    excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
-    publishedDateTime: 2024-01-27T20:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/23645298/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to-wall-street/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 16
   - title: "Singtel partners Nvidia under new direction to build new green AI-ready data centres"
     excerpt: "SINGTEL will shut down five of its older data centres as it shifts its focus to building greener, artificial intelligence (AI) ready data centres under a new brand, Nxera, the telco announced on Wednesday (Jan 31)."
     publishedDateTime: 2024-01-31T03:30:00Z

@@ -114,7 +114,7 @@
       "originalUrl": "https://www.techspot.com/news/101675-intel-panther-lake-offer-6x-faster-ai-performance.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -208,6 +208,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-floridas-new-advisory-ethics-opinion-on-generative-ai-hits-the-mark.md",
+      "title": "Florida’s New Advisory Ethics Opinion on Generative AI Hits the Mark",
+      "excerpt": "Image: Kaylee Walstad, EDRM with AI. As a former Florida trial lawyer and judge who appreciates emerging technology, I admit that I had more than a little concern when The Florida Bar announced it was working on a new ethics opinion on generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/florida-s-new-advisory-ethics-opinion-6543014/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/florida-s-new-advisory-ethics-opinion-6543014/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1407,50 +1450,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security.md",
-      "title": "Striking the Right Balance: Navigating Ethics and Trust in AI and Commercial Data for Homeland Security",
-      "excerpt": "In the realm of homeland security, the marriage of artificial intelligence (AI) and commercial data holds immense potential but comes with ethical considerations and trust implications that demand careful consideration. While these technologies promise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "originalUrl": "https://www.hstoday.us/featured/striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hstoday.us/wp-content/uploads/2019/02/technology-3389904_1920.jpg",
-          "width": 1920,
-          "height": 1078,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Homeland Security Today",
-        "domain": "hstoday.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -296,6 +296,15 @@ related:
         width: 1089
         height: 725
         isCached: true
+  - title: "Unlike Alphabet That Seems Locked In The AI Battle, Microsoft Shined With Its Quarterly Results"
+    excerpt: "Google-parent Alphabet Inc (NASDAQ: GOOG)(NASDAQ: GOOGL) and Microsoft Corporation (NASDAQ: MSFT) reported their quarterly results."
+    publishedDateTime: 2024-02-01T15:41:00Z
+    webUrl: "https://www.benzinga.com/24/02/36892935/unlike-alphabet-that-seems-locked-in-the-ai-battle-microsoft-shined-with-its-quarterly-results"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Microsoft Data Governance: Preparing for the Copilots"
     excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
     publishedDateTime: 2024-01-31T20:47:00Z

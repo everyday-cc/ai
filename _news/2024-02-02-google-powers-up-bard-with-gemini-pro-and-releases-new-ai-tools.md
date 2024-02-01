@@ -66,21 +66,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
-  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
-    excerpt: "Enables organizations to embrace AI with confidence by providing unparalleled insights into all layers of AI-powered applications, helping ensure sec"
-    publishedDateTime: 2024-02-01T11:12:00Z
-    webUrl: "https://menafn.com/1107796629/Dynatrace-Launches-AI-Observability-for-Large-Language-Models-and-Generative-AI"
+  - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
+    excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
+    publishedDateTime: 2024-02-01T22:24:00Z
+    webUrl: "https://www.androidpolice.com/google-ai-generated-profile-picture-creepy-as-youd-expect/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
+      name: Android Police
+      domain: androidpolice.com
+    quality: 31
     images:
-      - url: "https://menafn.com/updates/pr/2024-02/01/pr_12199_bd58cc08_image_story.png"
-        width: 960
-        height: 432
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png"
+        width: 1600
+        height: 900
         isCached: true
 
-secured: "KpqHbC8XdTI4VGjJAiAvGC61/kJzCiPIwPhbUyDID3rmGNQrj01DBNkqbaw8GJ/YylKgt9K424Fj9rO4r7sfbX5mmsoVVaqg+4Uy1wk4C9oN5GMdkkX04ouWuWwUZHExoGPGp3yZnsd+9pKT/9l2c2Bp5URGxWitPz8rsSITYVa+eNXsJKiCNyNUFFV41fGC37Ej8IT08S0LZWIQvlIMp+jVXMt1zV2HgXGOX8P1GQSziNsrMqEmhL0cZKx0W+/7ijMxSwU+gQ3x1owl2KJYs/qWIFF/hgaEjDARwqMs83M0Py+3TNIhtDMXqZ7PmR4bKHBjrpQPUCEKr9oUu3Omn8BJiQZ31kiwTFWfp3Qfwlo=;9cKUA9qG9TBSGE+aU1LMBw=="
+secured: "SiSj/6L+NIcN2zgYokYWfGRCuYCZrFd+Bo+ZDC3YNxpeTjRjF+yh+r97oagsXV3fez5SBOUVR9NUKYwj13zuLY4G5NJvARqt9SnvSqC+43QawJwTHXro9NqrDHapU8KlUCKPIWaeDwIxKflRQpLNIZVPCcyxGx67LKYa6x74ZP93PIGEMOFeoN7G/O0V2MSFxwl149ngIdnePGrt1bjp69FgrOjK63EyLkPS+ntFvyl25/cF6bKNMYbRC94sZo5zcEUwjFWSH7FtQyfy6t+j1K1ZHqp3KlgpAwBz/oVbZf76/us1kCUceUeULNgFRxJmD0pJ7ONaKxL2J+KZddn7LeTlyI8F5d4m17nAXbvfOLs1oL6U5FxTofKnQ3qlRGdPKvFFLVutWUsUmy89VKyMHYCKCIMtY0W8nYqrsg8jFgrBUl2usf5WlztcobX5xYFksNPi+eC51MNCd32F/JRBhUaqDSpmmFmKygR8QwMYI4w2XaYRlo8SLXvxvpCpaZLNK5RzDXolvm3ZO+gxk+8a5Q==;ayzJz6xIwQMKIAP5Y8wclw=="
 ---
 

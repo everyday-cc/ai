@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "FTC Hosts Artificial Intelligence Technology Summit"
+    excerpt: "The Federal Trade Commission (FTC) held a virtual FTC Tech Summit focused on artificial intelligence (AI) and AI's impact on competition and consumers on Jan. 25, 2024. The Tech Summit began with the announcement that the FTC launched a market inquiry into ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-artificial-intelligence-3470134/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "CFTC Requests Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets"
     excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
     publishedDateTime: 2024-01-30T00:00:00Z

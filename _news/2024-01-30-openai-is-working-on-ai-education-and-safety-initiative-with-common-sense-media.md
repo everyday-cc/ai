@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
         width: 1280
         height: 711
+        isCached: true
+  - title: "Clients, Common Sense Drive Big Law Gen AI Policies"
+    excerpt: "Most law firms aren’t feeding client data into generative AI tools, but a handful have begun testing the technology on closed systems with client permission."
+    publishedDateTime: 2024-02-01T21:45:00Z
+    webUrl: "https://www.law.com/2024/01/31/clients-common-sense-drive-big-law-gen-ai-policies/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/06/Robotic-Assistance-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Impacts of Artificial Intelligence on Education"
     excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."

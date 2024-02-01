@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity"
+    excerpt: "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia"
+    publishedDateTime: 2024-02-01T18:56:00Z
+    webUrl: "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 79
 
 secured: "HcdvNvT6U7UuREcBYnBPk1hyZMFCj1Bdk0KlI+Yeombe5iS2CJOcwHe3vBqUk5AMrxkfaFPr+2V0QnkKoSqvIKb/L+Iay0mR61eG7OBZ+5zp1tDh/DBjnvbQdPs0kXJYX0J64EoEEU9mlnHChOlYnfG1UbML45gsKZt20NLuB8zCm330D30FmamCbKBUf8E2lpG7tIHn2DdlMM8OZQnKWRFqm8ciGnvEbblFikib9YfOgl/v8+H1fdcSRHp0Xrx356lTJNryEY7AlPGLz8kiM4z/JGgmD3sB4CTfVR9KdH3Zp9cv1LvqCtK6OMfK0ob3PR3c433l+RxgMJKc57XiSppTFAIg9v3CH/Zou/z8e/tB/sQcDgF2SFqTRsqNefNSlhubnD3kSd9TOudRWnPcFl+aum79JcHWkKUHIyiPMFUaQgjEXh9igEcftU8aeg+2ZhkiQ3CNKo6vz+eiRfihRjOCu43UbHMb4P6YoH7V7cRaY5An91LonmvUQBZYv5klRJ336GED/6IpZysyPDO3VQ==;9+h3NGfTVcctn19vhMhkMQ=="
 ---

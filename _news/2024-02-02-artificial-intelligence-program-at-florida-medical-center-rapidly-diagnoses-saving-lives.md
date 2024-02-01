@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives"
+    excerpt: "Delray Medical Center in Florida is using an artificial intelligence program called Viz Vascular. The tool, which can be accessed through a phone, is helping save lives. Tennant Healthcare National Medical Director of Vascular Surgery and Endovascular ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://nbcmontana.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
+    type: article
+    provider:
+      name: NBC Montana
+      domain: nbcmontana.com
+    quality: 10
 
 secured: "HKF73bi7JzUi90AfZGHFDuAbAGRit+HZBRvQ7y545thh0FABVhSVKrnL58/UXlAOnxyTsbp5iQ23dVnOPKxo09FPZS6fPM3/nSN/n6rF6IGb2FWnEbmMWl5dN2+Oti09MDLqdAzm3zzbjrtuz7GiPQacx3u4445SSrLbdgMlhkwpxRqAfFIbZuWPWR1gXv4RctramogOV8AKhaeZXlimTDtAeViB/M9FFQD8WVagxwJ5M1zePiRuyoDFPQOooc2usGBiTYSdjHq7z9aZ2YzfUMbyvRE0XUDH7eLdOL6NxfDsHwc8bxl1hj43yXYMxsgG7+F1Vw7NRLoR6AYdqKo9myv5CWFGJT33HlOkKTSHwcE=;OKow5lrfoPOcTqfEhFu6CA=="
 ---
