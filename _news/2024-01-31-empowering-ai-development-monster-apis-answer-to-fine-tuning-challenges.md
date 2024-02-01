@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-a
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
+    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
+    publishedDateTime: 2024-01-31T14:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
 secured: "bnOAB3/Qw6gGUVoyC2cPFJ0O0vyy0LU1SDrZK65/bgRGoOndLtcx40rxzw7u9z2UQfFO8+haLpp3SxBCtORU1H7KDHBEjRxWNFtjPDNEczIKrJUKYN15fzxfh3QHNjBWtzbAoOyfWEiAcWrw+BT+2Gvt6335b2GHOGlL5a17h9Gpaog9Tv6dMMfSOm3foYEKOayygDtBbi/JTQ1PVFf15PQ5NTUFdzIPNCmRaWSaYRWM/jARM734qMGldg7Rbzeq/wxLQtePXoF8S4+aFypwuvxfm9BIZCyvv01FQSGz+ewyO3qmbN3xnL7snZhdvfyUE5yx9qKJbdgqJw0WuK+6d/eUK2ya5N4JNiQwBBfGzjmZVG2h2ayR5S36t9Cp3oMRZUK/DZh6dJRA4UwDV/P8b+PAAv33hgpjo4+LkMq0msXDdsKZrUIfW2H/79ArAB17em0PhIzH6o/B17SF7GJAt7Xdw63ngcP9F4zWw2AwXW/CKB0a8iw43i7vJ1QMenxN05Fc8wm/N4T4FeA3z8qnHQ==;FHidMKqaxe/FdexmNTOp9g=="
 ---

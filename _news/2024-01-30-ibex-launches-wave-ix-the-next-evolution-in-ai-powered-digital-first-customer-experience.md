@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Using Artificial Intelligence, Better Pollution Predictions Are in the Air"
+    excerpt: "As the global climate warms, wildfires are increasing in severity and frequency, and consequently releasing more smoke-borne contaminants into the air. To better predict how and where those pollutants are traveling,"
+    publishedDateTime: 2024-01-30T20:21:00Z
+    webUrl: "https://www.jhuapl.edu/news/news-releases/240130b-ai-improves-air-quality-forecasting"
+    type: article
+    provider:
+      name: jhuapl
+      domain: jhuapl.edu
+    quality: 30
 
 secured: "7SlUbMqN9PxPER+OKeKDjj8xwD5c4LsWRl6wPTCtD4TwRL2TqpXP48nTVAYBg8dIX/iwUD74zwifGDzm1if2XM9lcGoCOKf9+xMONyt+Z2jpmWxr8UFSVniENmusAFwh/BlvLeMxL2AtKJTgosEu225Sq1eBgRxtj6gNbmuwJPpUYQfR3wLlHGIBZwCIcJ3q+mm5gYRcl6E05GCuFx3LdAJJd35PxlC3dhUMy4vq/G5l95R6Q8eRCodkJEFjA+QIiJQrbiX1cingTBlwOeVambN0KeekZcMzzpjoorfN7//wsz4cPsz9vLa0Sj4iAtey+HsSA1+eR6F0HDBeCswk0FndIWHECDVY9CbeuGZ2HwQ=;x87fATeYo6EueqJh62RXIQ=="
 ---

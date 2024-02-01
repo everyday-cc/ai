@@ -1,27 +1,27 @@
 ---
 category: news
-title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
-excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
-publishedDateTime: 2024-01-30T10:54:00Z
-originalUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
-webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
+excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
+publishedDateTime: 2024-02-01T06:55:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/34806-singtel-to-offer-nvidia-s-full-stack-ai-platform-to-enterprises-across-southeast-asia"
+webUrl: "https://www.thefastmode.com/technology-solutions/34806-singtel-to-offer-nvidia-s-full-stack-ai-platform-to-enterprises-across-southeast-asia"
 type: article
-quality: 48
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.barrons.com/im-30232407?width=780&height=520"
-    width: 780
-    height: 520
+  - url: "https://www.thefastmode.com/media/k2/items/src/92399b1acb2d90339e10c311440525eb.jpg?t=20240201_064156"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -64,6 +64,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
+    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
+    publishedDateTime: 2024-01-30T10:54:00Z
+    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 48
+    images:
+      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Nvidia: Don't Chase AI Too Far"
     excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
     publishedDateTime: 2024-01-29T00:59:00Z
@@ -129,20 +143,6 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
-  - title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
-    excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
-    publishedDateTime: 2024-02-01T06:55:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34806-singtel-to-offer-nvidia-s-full-stack-ai-platform-to-enterprises-across-southeast-asia"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 32
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/92399b1acb2d90339e10c311440525eb.jpg?t=20240201_064156"
-        width: 752
-        height: 408
-        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
     excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
     publishedDateTime: 2024-01-27T20:40:00Z
@@ -162,6 +162,6 @@ related:
       domain: businesstimes.com.sg
     quality: 12
 
-secured: "igD12vTn9h65yJGA5KlRGZP5eDhVdMJHGoGragp3+yDMcgg+gysSF1bM8fDmgFo+bO9kQVnDUdR4AD3k8Cs3tXNe0rH+MqpMZByOrQJ/akgBGvfYevQhLtY1A5kpEehay40dOXy9y1rSRmYn6kfNgHUaO09EvKxona76W+xyHmJTvjuXoJiGrjFEzrSznfebdFtohR/3mDhjjflDgO30yMGgpiKtqquLRlhVy0RfRF4NVe3D2KwwS1ki+Ji17CQ2q+/7SUYxjRVyxaXVXR12i3IcqBtxYT2EUZRJpnBAwY8/Hg9mVr5NcWq298NX03PXlcRPdZpnL1xNd+ouEfEgVFGAcyO3ayEXoVs6Mmn26VVWvtsEfayOrGIWXqEz+Rjzfi8rgl2I7EzZJLJslGEKOBBcdAK4wMo50Jtr4lIhwP1z7haHrgwGvQUw+45DdA27O50P5aRAG45/U2NsqdUoqxh6bpoQaabjAoZxB0zcqqLKJE8JMpPSmcjbpP/2PI1t82Mol2Cg+CGo/8MhE8pSLA==;YcXE6KQbyd5OZa+t2lA1HA=="
+secured: "+wEQVmN2NI7SaFaMQiLsT6OD6Vi6vUHoi5BetpknfZAh1yUIQZAJcU4YQ7RIcQsCs7EmyIRlvOf5SYGz/v8g/gbNHabUE/oWcI3NOXAd9RoYuMoxiO9DZoOt+qvtzy0lesGnXXLyqT911DtBokk8g0Bs3VmAvmJcBfaaw0qYjSzu5Jxy0IT6fLT7UUoll7uNMxJ45IUqvp48u5iHzpCQ5xReDxkle3qbOqecs/5r6vghQjXq/APhl0UD1lkVP2OYs7/m53Str0sEBIG79Qvj7/gQ/Z0eM2s30n9pFQpppJ/qlbALJ+OGz2zbxvLIaD2xJeVEKCSoyELQgZAKrYrewZH2FfprLQ32AWJrrvdMUcI=;Yjnp9wQ2whZ4aKzht++Wzg=="
 ---
 

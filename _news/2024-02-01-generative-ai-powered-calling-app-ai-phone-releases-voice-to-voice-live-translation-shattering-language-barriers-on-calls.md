@@ -75,7 +75,16 @@ related:
         width: 336
         height: 224
         isCached: true
+  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
+    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
+    publishedDateTime: 2024-01-31T14:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 17
 
-secured: "/3jBqZPsN38x3Z8fSPxZXzoRa4CpA8LW4XGgvzRcaBnPTQfdzrAV5yr0eivsmF+eH1dDMB3J//W5IhVgJTCpkeRvO+/5sE3yrxT1tdVoRGL8WiSiBpNXBmbK55Q5l2wyesQWUpf0O5h91DQXrHJ8tiljKQuPi5O5HGH4b11+lmHhuDNS5M76++vUKeReNSAjAi3qRWVfAHRZIFKVTaOTyKCJ4Pjeeu48fNzjRXiVlGzZfyz7ZQuuJZK5O+MKGkcokSp30z6KLOuJJZJ3tQaEmi6DIKxzhP6JR81JmaH2UatWFEJC4uyRj+BF+RDqHohLOwN7B/AGkF7TH0ZtDQvRfB0RfRE82V5tETXTCUFyyPg=;WbWCs324VJ4qMr7von7SNg=="
+secured: "VyWf19G+pFieSwMI2OsPgLhLOQiiWbtOMtyXa0qNvQ1WFuwCWDsiWvW0hn+vVIBQ2cHWsM1aEvS8sTA3+liZ2zPP2F1VxAMB7rUltIQx7rVb6l6QvrI2/kbc/d3HUNeVxhUbVuYrQRRxID2da5sT902A2Z3Gu2CGsZuLR+kWfjfkVcVHPRnkvFRQFU6x3jZUbCt68oUfn43qmPQSnP3yjtNKYolj3u50ezjsvgsDm0gMmBS2/taNcA8LtaX6YpPR9T94ICWccIiBAmeefPKWYX82AA4WMwWXf3MxNwIGDXOM2cDv4JOdcUY2HVZ80Wr/eiGsdhlsddqHnn/dHA8N+L5OQ/XI5fd3yDMM+M0DFZ82iLcR1VXselZWD2rWxIaMdO6lZ9zHfsMaEa6pKhcY8bOySthzA7u9PFydKwdaf8ElIMW1rEJwihYMoTA1GKar6DXUdQCKmh2DB1gcgZEqwhRJsEOmTVpqkA0X2+O9bD/lIQ9ebHs90/E928w6xbD50Ikvcz/CS9LhIK6s+MxnDQ==;02vDpw8Y+2NLU9luYPrcqg=="
 ---
 

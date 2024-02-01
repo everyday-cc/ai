@@ -128,6 +128,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
+    excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
+    publishedDateTime: 2024-02-01T06:55:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/34806-singtel-to-offer-nvidia-s-full-stack-ai-platform-to-enterprises-across-southeast-asia"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/92399b1acb2d90339e10c311440525eb.jpg?t=20240201_064156"
+        width: 752
+        height: 408
+        isCached: true
   - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
     excerpt: "The Trade Desk operates the largest independent ad tech platform for media buyers. Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader ..."
     publishedDateTime: 2024-01-27T20:40:00Z

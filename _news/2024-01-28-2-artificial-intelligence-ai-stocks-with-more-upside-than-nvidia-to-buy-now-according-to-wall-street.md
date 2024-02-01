@@ -136,6 +136,20 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
+    excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
+    publishedDateTime: 2024-02-01T06:55:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/34806-singtel-to-offer-nvidia-s-full-stack-ai-platform-to-enterprises-across-southeast-asia"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 32
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/92399b1acb2d90339e10c311440525eb.jpg?t=20240201_064156"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Singtel partners Nvidia under new direction to build new green AI-ready data centres"
     excerpt: "SINGTEL will shut down five of its older data centres as it shifts its focus to building greener, artificial intelligence (AI) ready data centres under a new brand, Nxera, the telco announced on Wednesday (Jan 31)."
     publishedDateTime: 2024-01-31T03:30:00Z

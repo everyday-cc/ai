@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Samsung replaces Google's AI with Baidu’s Ernie on its Galaxy S24 phones in China"
-    excerpt: "Samsung has launched its Galaxy S24 lineup in China, and it comes with the Galaxy AI. But, there is a catch. Unlike the rest of the world, where Google’s Gemini AI model powers Galaxy S24 phones' AI features,"
-    publishedDateTime: 2024-01-27T06:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/articleshow/107181467.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/amp_articleshow/107181467.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/samsung-replaces-googles-ai-with-baidus-ernie-on-its-galaxy-s24-phones-in-china/amp_articleshow/107181467.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107181443,width-1280,height-720,resizemode-4/107181443.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
     excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
     publishedDateTime: 2024-01-29T00:00:00Z

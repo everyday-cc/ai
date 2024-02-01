@@ -27,8 +27,8 @@ images:
 related:
   - title: "Elon Musk says Neuralink has implanted its first brain chip in human"
     excerpt: "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder"
-    publishedDateTime: 2024-01-30T19:48:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant?ref=biztoc.com"
+    publishedDateTime: 2024-01-31T01:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
     ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
     type: article

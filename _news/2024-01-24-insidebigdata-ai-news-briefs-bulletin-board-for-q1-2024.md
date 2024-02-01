@@ -18,6 +18,7 @@ topics:
   - Meta AI
   - AI
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2023/07/AI-News-Briefs-column-banner.png"

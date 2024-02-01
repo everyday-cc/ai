@@ -31,15 +31,6 @@ related:
       name: Richmond
       domain: richmond.com
     quality: 29
-  - title: "Vatican’s top AI expert is a Franciscan friar"
-    excerpt: "In 2023, Smith did a podcast with Benanti in Rome, describing the friar as bringing “one of the most fascinating combinations in the world” in terms of his background in engineering, ethics and technology, to the AI debate. Benanti, who was one year ..."
-    publishedDateTime: 2024-01-27T06:04:00Z
-    webUrl: "https://www.columbian.com/news/2024/jan/27/vaticans-top-ai-expert-is-a-franciscan-friar/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 19
 
 secured: "goS1TmGzlXW+6Pha/i4sRYnayroUHYBKU/i4a1Yp049KAImbcluyOmHwmBV280JBhXJQh3Q/YlNu7dDtLzL2u8OCs7y07gOHTv6VoPshWegTla8245KNhGGJYKSFpULieMWSNQztCmfKyMF1qQzKse1YIOiXswOPc10DaqVL/OfxjosbrrAr4wCoG9TpoUiM3MsJRXfZk6pqqVhVoY04jUR93VrNI7hlmevX29QEM/1zgj1EJYr2K4SO/dT9XFT3YptaLGsh2kEuS1qpwjsJCpKs7rYApRrQywuFa3n36bZ0r+jSYW/hctd4TK6O905P+gAMpRK4l290KpB4WXzTnXWZgyiJ6630z03A6tLdyBtVOhP8qo01S2Y7dvh5LjqBBrOXSNOY4uM0uWDq50W3nRkGK0KFJI0jeTkfOAuRGXCahJvHlEUIBtKWYytySpeCmMMCevodwpz5MPVYJ2Yo6k+Zq8kmVdrotVji6QwbDQVRlkThBrLWZz1VF1Fn8jw9dv0WP0Qkkfdx7yIPxOlTxg==;2s8OjIRaXZUBZapXSwGnnQ=="
 ---

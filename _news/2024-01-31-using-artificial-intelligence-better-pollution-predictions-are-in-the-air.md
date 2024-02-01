@@ -18,29 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "Browser alternatives Brave, Arc, add new AI integrations"
-    excerpt: "Both are attempting to create a better, faster, simpler, and more private web browsing experience than market leader Chrome"
-    publishedDateTime: 2024-01-27T05:42:00Z
-    webUrl: "https://venturebeat.com/ai/browser-alternatives-brave-arc-add-new-ai-integrations/"
+  - title: "Arteris Selected by Rain AI for Use in the Next Generation of AI"
+    excerpt: "CAMPBELL, Calif., Jan. 30, 2024 (GLOBE NEWSWIRE) -- Arteris, Inc. (Nasdaq: AIP), a leading provider of system IP which accelerates system-on-chip (SoC) creation, today announced that Rain AI, an AI company building the world’s most cost and energy ..."
+    publishedDateTime: 2024-01-30T08:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/arteris-selected-by-rain-ai-for-use-in-the-next-generation-of-ai-1033010285"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_vector_image_line_art_abstract_retro_modern_1960s_retro_56799ded-4e42-4f8e-98ca-cb9cdf150aa0.png?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
-    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
-    publishedDateTime: 2024-01-31T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
+    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
+    publishedDateTime: 2024-01-30T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
 
 secured: "es6BFIVpfiZsaGYwq016sNACQ5ll0lGMzM5FZm8GbvrWhF/UZyzP/g/1WanHIrTA7UnO+oJKyR/Hd57pyDb5ze8x9X+MMncxX+zq241HVZPsS05vUbFqb/mpFWRdafobeSH+G/lYcAqUHyJzu25PyVQ6+VqYntXHUBUxDC4o/5xvhXYe0vK24xo88QT0sUSxNoKSRRd2xRS7qnkaO/JFNhhPLzEI/rHPyYgkBOunDkpOn/8oh5YzYD16K+f+LPSUuu0cFOqx/XAHvZKWUdEx98WveckwlP9ZSuJ8HV7XBDZk5Fs44iDt+C0mFU6M+0tPYlFs3X9Lr0PvQeDiTmwwtKAkK7TiyM9klPlfGiCRxzs=;+AD6liiLRLz1lKIPeaGyLw=="
 ---

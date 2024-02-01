@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-i
 webUrl: "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/"
 type: article
 quality: 82
-heat: 82
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "scSb6e11IiSvKn4q3IYI3ip0xbeMHqRRHjGib+eO1IHKhdryyL8knMShM4kZIAw7ADwj7VPwFb1tPabT22ZvG59nq0XsbQ1ZhOlXNvMJg5UiqWk0y7mD1acVsatBlQFRtH6lhtX/9TLa4bHUaUxvJ4cUmg8nA2DNDE+I5p6m8kJvvH6leK/osdcUSNG9H0H857DqtSm3Tqz+GfmHxouhrUDMgVXhSrovAE5aQQqaJv7fzigwMed5GI6I+sOqvzUwFeuYk+S+NgdnJtdq9wtWqUUCWeFAg4P5VnNxAFVEBKLD30fWmk4qiZIQ00FWrur0syPQFu7+iMUudMQxM29zTrWgrHNIwyHcU6SGIP9afCE=;lp7Fz503W3eZUaT0D/1ViA=="
+secured: "iSK+6bngHg5FI9uBC2yK0bWMxl9LZ76WkjQ9VERjWx+VQ66SwDur5V9SC9loTaejkMTP0hTdYvyJEX0PQqxFrlkGfmnGKvv1Dn7vr/M0z0T+qeE8zqeaoJMh/C2tAmhaGMCDkGvDq5SEiRj3Y39vY0RcJoY8kRJ6ek2xkDHLN0rnEol/TZXKzHg4Uw8uDTHv8TzJiASu/+j6Y0qFU3Iezkitmf+fOwnFE+K/t8rJW1lXcBaUwzlEpe4A03dHXUCdaWZzSJhQVhEIjciUDTXn2wxgsVcfOvMaVjBATst6xhHueflp30N9s/kQDYbJNlzVkdlUNvWyXtDD/sz/Ou/9omPpW+HQP6+dVmGQ3PFUIZ92Jd/qU72kqm6Y0Q4uKNhsuJRxBibcQrbIdvZkSI+gJvFmdHozReFno7d2gAZigtIpRMbkeL0NvP151WC4vTk8MJiVh4SDoEaguAPUNbsQqZ8t7kT/TBeJ65g3ECSEIykhAwd2MaeLbVhibOxmuu7h1umC2bMwmV/ZEQDUsFas9A==;WV2E4AEo+dDxdkAlphxuoQ=="
 ---
 

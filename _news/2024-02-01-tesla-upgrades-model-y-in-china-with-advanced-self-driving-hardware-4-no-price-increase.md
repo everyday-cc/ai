@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla upgrades Model Y self-driving hardware to lift China sales"
+    excerpt: "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,"
+    publishedDateTime: 2024-02-01T03:02:00Z
+    webUrl: "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm"
+    ampWebUrl: "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 76
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2022/05/tesla.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "I Just Cancelled My Tesla Full-Self Driving Subscription."
     excerpt: "I canceled myFull-Self Driving subscription. Whether that’s bad news or good news forTesla depends on your point of view."
     publishedDateTime: 2024-01-28T18:54:00Z
