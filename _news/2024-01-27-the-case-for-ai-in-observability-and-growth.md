@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2024/01/27/the-case-for-ai-in-observability-and-growth/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/1d4b41e77fbc585f9b26a114ef5a1dcc.jpg?t=20240130_040639"
         width: 1124
         height: 549
+        isCached: true
+  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
+    excerpt: "Enables organizations to embrace AI with confidence by providing unparalleled insights into all layers of AI-powered applications, helping ensure sec"
+    publishedDateTime: 2024-02-01T11:12:00Z
+    webUrl: "https://menafn.com/1107796629/Dynatrace-Launches-AI-Observability-for-Large-Language-Models-and-Generative-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/01/pr_12199_bd58cc08_image_story.png"
+        width: 960
+        height: 432
         isCached: true
   - title: "Dynatrace’s new LLM extension boosts observability, cuts costs"
     excerpt: "The software supports extensions to Google AI Platform, Amazon SageMaker and other development environments. Wambach indicated that observability software is taking on a greater role today, as LLM-based and other AI proofs-of-concept move to production."

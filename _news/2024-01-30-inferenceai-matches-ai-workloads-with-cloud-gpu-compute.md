@@ -5,9 +5,11 @@ excerpt: "Inference.ai, a startup building a platform that matches AI workloads 
 publishedDateTime: 2024-01-30T13:31:00Z
 originalUrl: "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/"
 webUrl: "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/"
+ampWebUrl: "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/"
 type: article
-quality: 64
-heat: 74
+quality: 104
+heat: 114
 published: true
 
 provider:
@@ -22,6 +24,12 @@ topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1318623693.jpg?resize=1200,675"
+    width: 1200
+    height: 675
+    isCached: true
+
 related:
   - title: "WEKA and NexGen Cloud Announce Partnership to Boost Enterprise AI with Advanced GPU Cloud Infrastructure"
     excerpt: "Rise of the GPU Cloud The explosion of generative AI in the past year is driving extremely high demand for the powerful graphics processing units (GPUs) needed to fuel AI model training and inference. Obtaining the necessary GPUs these performance ..."
@@ -33,6 +41,6 @@ related:
       domain: datanami.com
     quality: 17
 
-secured: "CEozJl71Clr5HRdihLxxCifHkLTRrnGCL4wy0PGkcGslnVH8hmpmFifs7y4GZa+HkRehQ3w9Huf8o4Q5L+3VmgwZdsWJEcAfAR6dDrAyHNBI349tylDKT8xyaAvyOy6GWhyXVex8yq2Gk5qPueEHagELIZW5mxKL/lzWNbYbqyvcQ81O01Xh9sgmWowc1teBb/TocPgVhiozk/6YohkySzRddsoSEnpw5DjKkC0iXWXimRadJLVuMLyyB3ODrgATHfwubWPpfwZ6R1gpITib6Gzus5P8yXpVRLJnmd9QUqFXKtTrevz5rTCUjcsQC4epqkV9bdYvigOYpCSbEz80cZedG9dm9MGv4t/zAEahKYs=;O73MCDRvGpd2kmNnVG/XLg=="
+secured: "eaMAhTdvU9vqlk2GJGCLGB19Trb+bkMpfN8VgDCOdVxQtNoccOIbzNNwHEEGLWRzRxjz5/m4gmHcvKydo99XwiFEeHNAu8BisCRX03OXIk1g8EqoHo2qr5Zg6QEq6Uus4mfFM4VoCAdJmtuWWhS7NCKjUqYoo0PtNmTUeBSov8fYeaYFSGqY3DIbeyVqm+muS/HtpkrqhJK5KH7iGHzJ7lbYePGHalpOjAtoDy5rTDICdw0ErfhQdonzpRP61ZcatXkub9XU+5BtXR/TE8rGwhyhhxzogANJl9znC1Y/wXNzqnyMCWNY+SyfVJ87c/Jw5AAxvclS6fWi6Qlqcn24zY6fq6ZEDjzllpr77bHaIds=;g9aV5bmlDeuNPT4WdaVxHA=="
 ---
 

@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "India well-positioned to help shape future of AI: Google DeepMind's Jeff Dean"
+    excerpt: "India has tremendous technical talent; there's a long tradition of computer science students in India doing amazing things, says Dean"
+    publishedDateTime: 2024-02-01T12:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Research-@-Bangalore-578x435.jpg"
+        width: 578
+        height: 435
+        isCached: true
   - title: "DeepMind uses AI to tackle neglected deadly diseases"
     excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
     publishedDateTime: 2024-01-28T08:00:00Z

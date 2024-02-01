@@ -102,6 +102,20 @@ related:
         width: 910
         height: 1084
         isCached: true
+  - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
+    excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
+    publishedDateTime: 2024-02-01T10:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/perplexity-vs-bard-vs-chatgpt-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
+        width: 1280
+        height: 711
+        isCached: true
   - title: "Libraries Provide Guidance on Using Artificial Intelligence in Higher Education"
     excerpt: "The University Libraries, in coordination with the office of Academic Initiatives and Integrity, have created a research guide titled"
     publishedDateTime: 2024-02-01T06:46:00Z

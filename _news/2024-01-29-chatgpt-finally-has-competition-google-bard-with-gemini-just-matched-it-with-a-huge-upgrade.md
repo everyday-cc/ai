@@ -54,6 +54,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Google may rename all of Bard to Gemini"
+    excerpt: "Google is planning to rename its AI model, Bard, to Gemini, indicating a potential strategy to tie together its various generative AI services. Code on the Google Bard website and Google app suggests that both Bard and Assistant with Bard may be renamed to Gemini."
+    publishedDateTime: 2024-02-01T11:15:00Z
+    webUrl: "https://www.androidpolice.com/google-rename-bard-gemini/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/05/google-bard-hero-0-5x.jpg"
+        width: 2040
+        height: 1536
+        isCached: true
 
 secured: "g+FfvP7o/1bItRrOgJZi6g+YjksTbbHVixSap5HmJrLpc73x/nphpEvKAcdRC7auS/FOZkkHLCT2Em/paoV8px1R8ogAczkcj29mStrEyQ3vqpvKIoOFE6Bvtj9Wbe2gt1HVg/sJjXSXH5vmMtHYHinfjjBIz3iMN0L/5Uea9sorWW+ffyicMC9jB7gRbJM+1wlU7jj3D6rXz6F2kP0jXFSpYxcSBP+sm+ayIaAso1LQhZhrzTTEjbO3IHiszX7DHIvQE9OrqOZF4oQGmPChKdf6v8Mvmn+EFc/BCKuE6HMzKQ9rzc4MJWd3RdzQi4G1F/xGv+wx979ZyNn/+1c1IyCZx4hZzqwFYhzmtTvSG7nHc/f21ujZbgvFqk6RpfPTI9g0MlUga2mnXMdgpmBUtupPIlLKEIUtHykOokQthEIqYcY6EQqWpmT16gw/CKaSqDXDxfesRaQz57oJoni1RkVnWu8hs9w6+3+iU2BvcxAaeIpsXfYGq4ICsrGbuzGZHXtGiLpsywcJxatJEsotCA==;685MTIF6ZsAGc2G1I6Fp+g=="
 ---

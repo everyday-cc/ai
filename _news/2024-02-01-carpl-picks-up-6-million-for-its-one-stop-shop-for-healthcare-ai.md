@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "ev8zsZKNzOqDCriepesxHRNjUx+LFO5HteqSb3M3i+PYJR+VDtLzOcGDDPknnhGs/OzzrOo8kZpMkzoPhVHwLy6bCKdRq1ZOlgmR8JQaRBRUoMCtD+Oa88775syXvjdbUOW/VX9HNh7WavKt9RVix3O1HhjbIuLPx0zTJ+umzZRt9e/uWkfPbxBlKbG90D8Vh3ERddJ6l8nAT39KRmrBA89UJcltj1CyZsnPUlATuR0RggymMa3mmDTPdfDARToChFaISPamsN7cCE6vrM+0f9RIP1R9WiSsMUf0d2Nt4X+2/YIGT103STaJnV6RCdO9jkT6hGOHpDIuJQCvVKUpUk6W5TdPGcj45OgeHxJtRcg=;CEIoTtvz4z/9nrU2fGHifw=="
+secured: "Jq+NQNn/4GYdQWWAfbOXoGpt0Mt10sMAPp5bK9V4tl9hjR87cTpGEQRffv25MFs0TBTcpI6AQ6bSdub3ZpxxXPg8eNgAC4iYrAEPbK2HtBh6SEPixV/tLeDTSkP4NZ8Uy7LQNfq/WU2bYybwY8tNrJFGz4iwuSArqOZqkUwiHDKpj9jUpxmBbgbsECsgDi0J38h8TqDkfJL+IyY55kcyqRQKlvoqc3dMvOQH47sA5bkTNITDUJ80foYI4FlOPshVbnRwlAApnKVxja97C48jF798LHa4to1K1pm5ogTsSRyo7a3+1tYwx1ITvyEhREBBVLv++dGflLSJ5grftDdOy17osWUKax8w4gJ44KSiELAIqOy5BCSAF5IGkKgxP1sgEJXFowO0ZnVBJqaODxEneoeI3E/+PW1A5xSlbil1tD6SbaJ/EyZ6VBdo3N2bGj+tQ0pXdNWE7p2yqdojla3YsMHdhnB0dEiucq13AHNrlLC7KDqZq7UtxWCPOHAK8vUVS+ha/92lZMmE9vfCVmnXJA==;kyhx0NLi9yFRJZnRjLEciQ=="
 ---
 

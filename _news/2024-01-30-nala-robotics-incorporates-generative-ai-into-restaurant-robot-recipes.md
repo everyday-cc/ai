@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generati
 webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Combining robotics and AI to create humanoid robots"
+    excerpt: "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination"
+    publishedDateTime: 2024-02-01T11:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Generative AI Will Not Replace Your Employees"
     excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
     publishedDateTime: 2024-01-29T16:14:00Z

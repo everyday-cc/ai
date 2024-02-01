@@ -41,6 +41,22 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Nvidia's new China-focused AI chip set to be sold at similar price to Huawei product"
+    excerpt: "The graphics card, the H20, is the most powerful of three Nvidia has been developing for the Chinese market after the US expanded bans on high-end chip exports, aiming to hamper China's ability to develop AI and sophisticated computers for its military."
+    publishedDateTime: 2024-02-01T12:15:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/articleshow/107329042.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/nvidias-new-china-focused-ai-chip-set-to-be-sold-at-similar-price-to-huawei-product/amp_articleshow/107329042.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 67
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-193258,msid-107329315/nvidia-china-chips.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z
@@ -110,20 +126,6 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_WBP502.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
-    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
-    publishedDateTime: 2024-01-29T02:00:00Z
-    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 37
-    images:
-      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
     excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."

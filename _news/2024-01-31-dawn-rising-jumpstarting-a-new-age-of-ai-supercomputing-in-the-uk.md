@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: CIO
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cadence brings AI supercomputing to digital twin simulations"
+    excerpt: "Cadence Design Systems has launched a hardware and software platform to bring supercomputing performance to digital twin and AI simulations."
+    publishedDateTime: 2024-02-01T12:00:00Z
+    webUrl: "https://venturebeat.com/games/cadence-brings-ai-supercomputing-to-digital-twin-simulations/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cadence-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "Chroma ATE spotlights AI and IoT chip test solutions to address soaring demand in edge computing"
     excerpt: "The rising popularity of generative AI is spurring demand for high-performance computing. This in turn fuels demand for edge system components and related applications, all of which bring along stringent testing requirements."
     publishedDateTime: 2024-02-01T04:10:00Z
@@ -41,15 +55,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "AI, new projects to jumpstart tech hiring in 2024"
-    excerpt: "2023 was marked by fluctuations between tech talent availability and the end of big tech overhiring, but analysts expect the tech jobs market to return to more steady growth this year."
-    publishedDateTime: 2024-01-31T13:57:00Z
-    webUrl: "https://www.ciodive.com/news/IT-workforce-tech-talent/706070/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 17
 
 secured: "iE1iBLt6rfXiZihbde1odIzN+1TMfVQaGXu5TfaoT27qBd+Ebrr0J135ksPu+51LjYwgfCon304/qwVDJltT2Ji6uD2d7chdmPcT8qUijVzWdL4JQO+8wdyXOsuaBAxpPbf3PC4uorc41ShDUpiN6g+MqfdxxRADG7EQGsxEOiUP02Gi5DA67WVDM+RGrCbwhIJpKJ3Cp1y2Kqj+T1e065IULRtFAQbMVasQyqr5rwpWR6Zce3nCrJN1142xwivuq6UjtRqqkHebRz6QpeSRvGX3ZudbdFGK9YwzDeUOqNBeuUEQr+jzZD/y5mZH0DFRny8DKrtAvZ1m8lx54ivqH2zLGfufbecMKod859UNKl0=;3A/fZFlM8We7CObAYPUkWA=="
 ---

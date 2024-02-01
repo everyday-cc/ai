@@ -7,7 +7,7 @@ originalUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-a
 webUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "6 Job Openings for Responsible AI and Ethics in India"
-    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
-    publishedDateTime: 2024-01-29T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "eloWx075N2SBU4JZhQuzL2dsZz/dmhnWVPtQACZQmjqS9OAk6xmDcKeh7AqLQHpe9EfBG9OpJJTwy+QKbMt6VOyzFhMW8Gzj0o1Q/9hyW6S+jiYcABU24zrFbSoBLKwLQKVPdyaKf7M18NTqJbGgJ0dvWbqEcOYupIrKV6YmSMM1shprltFb6Cc5PFbwltNj8zHeq4hb/29iJCG02mJoMV4hs38BXAltWpWEWp2KVAcjBwwaS3cv22w85iNTgLoGmylDMHO6CUYcd9yvihiN/awG22fJcmybgLz/FES/dJV/Eg6utj+OqbqKL8q5w2kIS3ckDVMHVSjdprdVRP7fcWt8waGFfItk9ydkmUTv2wWyCuzAx2GltilmlyTnVQHbqFlleKaLfahYhlvPMxlpGCH1pL1CvVivYIqjRqOCkW9b5S7F3evOfO4AAfkX/Ixog+oih6BhKv08ZlDeao4im2WP58Z1n6rTYq05GKtiTx+FJ6NNKLL3iHT5mM1lMGe3APD+cNlcStqDfIgtm7BfrA==;X/7BQYoDMRkKMqQ0FxFNfg=="
 ---

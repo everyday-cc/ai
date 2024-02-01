@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "How Indian Farmers Are Using AI To Increase Crop Yield"
+    excerpt: "Saagu Baagu shows AI's growing role in agriculture, helping developing-world farmers achieve sustainable and profitable practices."
+    publishedDateTime: 2024-02-01T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb73f8a637e4b346f8873d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "6 Job Openings for Responsible AI and Ethics in India"
+    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
+    publishedDateTime: 2024-01-29T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
     excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
     publishedDateTime: 2024-01-30T02:59:00Z
@@ -36,35 +66,33 @@ related:
       name: Skift
       domain: skift.com
     quality: 54
-  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
-    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
-    publishedDateTime: 2024-01-30T09:53:00Z
-    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
+    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
+    publishedDateTime: 2024-01-29T02:00:00Z
+    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
     type: article
     provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 49
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 37
     images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "CyberLink's Facial Recognition Engine, FaceMe®, Powers 2-Factor Biometric Authentication Solution for South Korean Banking Sector"
-    excerpt: "Leading AI facial recognition provider, CyberLink Corp. (5203.TW), today announces a new collaboration with South Korean company, UNIONCOMMUNITY. In addition to the existing FaceMe® SDK integration into their UBio-X Face Premium terminal for access control,"
-    publishedDateTime: 2024-01-30T17:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954377.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
+      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
-        height: 627
+        height: 630
+        isCached: true
+  - title: "Tamil Llama Uncovering New Grounds in Indian Languages"
+    excerpt: "Tamil Llama, a pioneering language model that is specifically designed to understand and interact in Tamil, demonstrating significant advancements in computational linguistics, particularly for Indian languages."
+    publishedDateTime: 2024-02-01T10:59:00Z
+    webUrl: "https://analyticsindiamag.com/tamil-llama-uncovering-new-grounds-in-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/image-3-1300x975.png"
+        width: 1300
+        height: 975
         isCached: true
 
 secured: "oCtKPQM0VNDWTQ55uZ5HWkDFWY0FkQRwvfGc2KuWDOAv1ofefgoz05ZaoUg1zbtIs00e7eBc4rFUoPNAwcEBo8/g4qVfLPizjqHOobGYSnithp3kTq4/0ajwLPyS31D6ALEBRo9nmy0BrrSXNPFY27/XPaCXvuOxqXr7s9wnTW74PcJ1c+YNtrmQkU61Pj3fbWdJ9kfdKz8f7tKax+/Gn1RTiiglUA6EOziNu/x/siMp6QX+r1iU3lp2x4N6jBxXegwx8PjhT5D3pbqVfYDXXjwNixtO29/xd3DTAie3ZxMP5r0oivODbe6hE0Y3dRtGu07HRd4u22IpF+KiG1ax7vyS9ElMSDSUQ+nA7/fnGzg=;PdJyR/i9PTBY2LtdHdfPTw=="

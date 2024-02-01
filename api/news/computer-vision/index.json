@@ -211,40 +211,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-30-facial-recognition-check-in-coming-soon-at-more-indian-airports.md",
-      "title": "Facial Recognition Check-In Coming Soon at More Indian Airports",
-      "excerpt": "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel.",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2024/01/29/__trashed-9/",
-      "originalUrl": "https://skift.com/2024/01/29/__trashed-9/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2024/01/29/__trashed-9/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/",
-      "publishedDateTime": "2024-01-30T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-30-the-5-best-smart-telescopes-for-android-and-ios-in-2024.md",
       "title": "The 5 best smart telescopes for Android and iOS in 2024",
       "excerpt": "These are the best smart telescopes for stargazing in your backyard, while camping, or wherever you want to be. Just sync your phone and go.",
@@ -305,7 +271,7 @@
       "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122413.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": null,
       "content": "",
@@ -1375,6 +1341,40 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-sensormatic-solutions-maximizes-shopper-experiences-through-store-guest-behaviors-powered-by-computer-vision-analytics-at-nrf-2024.md",
+      "title": "Sensormatic Solutions Maximizes Shopper Experiences Through Store Guest Behaviors Powered by Computer Vision Analytics at NRF 2024",
+      "excerpt": "As part of Sensormatic Solutions computer vision capabilities, Store Guest Behaviors is an artificial intelligence (AI) solution that leverages an adaptive learning model to help retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

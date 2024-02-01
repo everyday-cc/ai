@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2024/02/01/1087445/this-robot-can-tidy
 ampWebUrl: "https://www.technologyreview.com/2024/02/01/1087445/this-robot-can-tidy-a-room-without-any-help/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087445/this-robot-can-tidy-a-room-without-any-help/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/household-robot.jpg?w=3000"

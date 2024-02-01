@@ -1,0 +1,78 @@
+---
+category: news
+title: "How Artificial Intelligence Is Shaping Public Transit"
+excerpt: "Keeping up with evolving customer expectations is key to effectively providing services that people want and need."
+publishedDateTime: 2024-02-01T11:31:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/"
+type: article
+quality: 87
+heat: 117
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65ba7d3032ea0fb104d193c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1349
+    height: 900
+    isCached: true
+
+related:
+  - title: "How AI is affecting neobank jobs"
+    excerpt: "Challenger banks, like traditional banks, are under pressure to operate with fewer expenses. Artificial intelligence is part of the answer, and the impact on the workforce may be profound."
+    publishedDateTime: 2024-01-31T22:13:00Z
+    webUrl: "https://www.americanbanker.com/news/how-ai-is-affecting-neobank-jobs"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 54
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/00591d4/2147483647/strip/true/crop/6960x3654+0+493/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F91%2F54%2F82c125ba416298fca5fa6c712549%2Fadobestock-421157105-editorial-use-only-4.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
+    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
+    publishedDateTime: 2024-01-28T12:25:00Z
+    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "How AI Is Being Used to Make Humans More Intelligent"
+    excerpt: "Thanks to the buzz it generated in 2023, AI is on everyone's mind. But not everyone understands it. Here are some tips to help."
+    publishedDateTime: 2024-01-30T08:13:00Z
+    webUrl: "https://www.inc.com/shama-hyder/how-ai-is-being-used-to-make-humans-more-intelligent.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1533019598_536787_hhnokb.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
+secured: "qTRsInbNjSlmT5whO5ODMu5Z+O+QxoOBjV5jxgk24NBPLbmax25treUJJYXIk2maInr6Utm/X6sWsOb5GYZ5sAKWYI6AqtGush8HWYbtPVI59jdIJI9orQ3XqVBUy0+62a3Sse5XVswomKPeadCXaequB+5gMv+FrfIvGsXu4IV76867vgcAYpmeiVhOmlE5hd6bxpJHb8nCAiftGouh/xIMY5dsE97IigtiJo4Q9L32g7GzM4HGTsdXjBQq3BqFT1AaGQRYmGz1kpl98K3F47oPrxk281Mde6RYYvqOWEyjbLNrWQZRxx+XuPpXE93hSBKzjQ9fraaf4ACDBJ4M7AucV4sLqbSrMUlVdgx3yG4=;IBXXOqnnlP/tBz+dM676Dw=="
+---
+

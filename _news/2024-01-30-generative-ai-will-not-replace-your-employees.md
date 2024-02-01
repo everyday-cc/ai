@@ -38,6 +38,20 @@ related:
         width: 770
         height: 497
         isCached: true
+  - title: "Combining robotics and AI to create humanoid robots"
+    excerpt: "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination"
+    publishedDateTime: 2024-02-01T11:53:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "California restaurant incorporates kitchen robots and AI"
     excerpt: "CaliExpress isn’t just using robot chefs. The ordering system at the restaurant is powered by artificial intelligence and uses facial recognition software run by Pop ID to keep track of food choices and payment. The technology’s creator says that the ..."
     publishedDateTime: 2024-01-27T20:45:00Z

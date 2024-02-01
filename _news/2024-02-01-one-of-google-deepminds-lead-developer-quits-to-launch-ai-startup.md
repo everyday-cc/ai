@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "India well-positioned to help shape future of AI: Google DeepMind's Jeff Dean"
+    excerpt: "India has tremendous technical talent; there's a long tradition of computer science students in India doing amazing things, says Dean"
+    publishedDateTime: 2024-02-01T12:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Research-@-Bangalore-578x435.jpg"
+        width: 578
+        height: 435
+        isCached: true
   - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
     excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
     publishedDateTime: 2024-02-01T00:23:00Z
@@ -67,6 +83,6 @@ related:
         height: 840
         isCached: true
 
-secured: "+D+yoe2aHt139f45tqGjn0QWhd7pdSItaUL8np+tzCZRTDU8lx+unOxM3BIkrBa6E9DwSAgRQxmh/fV9HITUyjI1aU4G2U0rLKItuRTow3g7QVW6sUVUrG2MYPGsYqRXvUhUbfiY8n+B8gIBiLgsYu2JvM9jGFMoUQbx+NL6AIBsor0o/W/X3U+qRDlNm1nfNAXI2gRa8LGIzECFcdk0sXFcu/LfTdSbAwT3xgCaucZTY217fXdxmzJvufGl1BzYbOd09EZkmZwBOC2HBkfsuMdjmREjzWjOoyd8h8K6jlX1VjhRlxunKSiU7ReC6HHNJXOYko/hEOlI1ocE+o/3hDn4aXsdLcwQeiyknNFcxr4=;fA2QJRtI9vZ79Ed4rhXlgw=="
+secured: "uKQjnY0DZcJFAPL7UslgLSdOauckHVSNZ1A5Y5ugNBQdi6/X8lr+lzXdx9TO4kW0KJgaICt6IW0opnfobx4Ni0NcDma55Bg7HNwJCliu9cz7j/0NPeolYNId+UQS5U0Bimisy4AnhHh4bCjvcH/+WEDjV4liospxW4niB4ZJqG9X9Zm7KIsLIioMCy6GpygDgrcOCJmnKPEQwmrWyfEPFKTALigfpKI2UD0Jr7y0aRdUPytxzq8iSgyAxqtKbPkLzw8kf4+ZyJx7WCvGJO4SmGTc+/7c92jW9Mfx3O3NpJEhB9tlwHPQcpgwpKvUbxEaim4iMfbJQxBN5iokC4I8KcQkV4JwQCKx3seOHr7LABxZQnqnfSDpVljvHuzqKgJKhrLsK/3ITqrAr8N7hSf1rOgSla/o20f1W6CV8p7qf4fhAdSRfpvI6WRRGgVK+fmQwr6w9RYTrEf8CLDik0wnDRXdWejpYpvuOQix3YHrt5AHYlPESyx/TpbtUJEaxXdcUHQx0gYgNqFKywzSOD3ixA==;TeYC4gz5LF+C4YveCnN/zA=="
 ---
 

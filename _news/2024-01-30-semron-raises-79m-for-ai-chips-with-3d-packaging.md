@@ -6,9 +6,9 @@ publishedDateTime: 2024-01-30T07:00:00Z
 originalUrl: "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/"
 webUrl: "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/01/semron-2.jpg?w=1200&strip=all"

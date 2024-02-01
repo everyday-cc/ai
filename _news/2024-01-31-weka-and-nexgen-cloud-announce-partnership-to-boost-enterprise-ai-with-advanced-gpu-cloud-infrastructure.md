@@ -23,11 +23,18 @@ related:
     excerpt: "Inference.ai, a startup building a platform that matches AI workloads with available GPU compute, has raised new venture capital."
     publishedDateTime: 2024-01-30T13:31:00Z
     webUrl: "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/"
+    ampWebUrl: "https://techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/inference-ai-matches-ai-workloads-with-cloud-gpu-compute/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 64
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1318623693.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "bKPNH2KJfNjyO3ThaAwcf55inngmo+8ptYd27ih0+3apMaWkmb81qWqQsq82bWL1t3zijx4AWuEmkH9FR7RooBfonQfrv8pDFWP31Rbre2rpfr/XYFcUEBagpAFW7OFDccIk0vXS3XRPC3ZPd6BqQi6ixFtujgbksTw9gpiuOJ8d6cJ82AcdGDf4NDbh9Vkz6x81n4nExbDpP+LjelXoFrHqBxPB+k+aePL+C7zmbf9L26bX5xcRx800EbMUHafrohBCgWV9t5VosDlU0otM/E39HfNDJJXUzC/FUbLHWF7C9/Z+9unDfthQxVkc7kW0DpEfrFdMxhIAJadPwtWm/rpeV3qA2itFYZTYpSl30vYWijwUwcgPWqBGnXeqHVIpjXqz4749sI4xUXFhIquSvYvAXMFBlbA+DHZP+No5mCwCusgKkj6aMV6oMdvE+pYoJ5RMnHJn0ETvLKMyWbwC6nINGnf+J0MpWGNcZKdfJwGnvqxt/pT6m0m+atYGgALVd1A6WAgacgweXCLkPB7oOQ==;1RvyuJ2foLVqE5euZlj5xg=="
 ---

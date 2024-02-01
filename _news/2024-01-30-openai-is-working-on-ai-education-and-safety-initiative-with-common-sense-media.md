@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 180
+heat: 190
 published: true
 
 provider:
@@ -97,6 +97,20 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2020/08/brianheadshot.jpg"
         width: 910
         height: 1084
+        isCached: true
+  - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
+    excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
+    publishedDateTime: 2024-02-01T10:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/perplexity-vs-bard-vs-chatgpt-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
+        width: 1280
+        height: 711
         isCached: true
   - title: "Impacts of Artificial Intelligence on Education"
     excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
