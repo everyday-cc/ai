@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Ola Founder Bhavish Aggarwal's Krutrim Becomes India's First AI Unicorn"
-    excerpt: "Bhavish Aggarwal's AI startup Krutrimt has become India's first AI unicorn after successfully closing its first funding round with a remarkable $50 million investment led by key investors, including Matrix Partners India. \"At Krutrim, we are committed to ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ola-founder-bhavish-aggarwals-krutrim-becomes-indias/468894"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1706335388-newbhavish.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup"
     excerpt: "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion."
     publishedDateTime: 2024-01-27T05:08:00Z
@@ -78,15 +64,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "Krutrim & AI — Bhavish Aggarwal’s Biggest Bets"
-    excerpt: "Bhavish Aggarwal’s Krutrim has come out of the gates fast and furious in a bid to create ‘AI For India’ and compete against tech giants"
-    publishedDateTime: 2024-01-28T01:29:00Z
-    webUrl: "https://inc42.com/features/krutrim-ai-bhavish-aggarwal-biggest-bet/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 17
 
 secured: "4/cvKBghBPd1aShvV130q6gyO3H9NtvYzGcxadlC4ixPa+MaxRf9EkagHjeoTDsk8VWb//NbWglyWtt5yuaWhoyv09YpgEYZ+qfPgtsLhCPt4HzWO6zKigDaK8IPXL/Ox0Oew8B5E8GYJSXe3U7/6Xe2cUTy18YrYfHTL7s8pomMZiKECheRhkPkCEeHcxY3tM6ZKFRNgKkIRVJHZqx/m66J3Fg9l6xUR92Bds/2U6ywjWgcinIMW056dcabe8/L7+CcUhPGOKHRfM4AA4ESgY3Qag2rfjVLTh3q/ixUY/GdAxfP2GgvcwbeLW7nbuqYWvcpusWpZAw1a6nzw6Lx+jnOwv0Yc5Kzifds/0KStldiCTyP8Roax0dhV6XUXmln+6UDXrCKjBq+4jgrN5lF7t+A1/J16euAb/0DQwu2wxn6NNipKgmVV8TWp+VTT821+UO7cZ0qpl94eeIK3czWyKOXu8ZDmk4mKtwvH/ekjHNeVrzxuV6Kt8Cbl/UHzSMUCdauZimA+NVLrbz/41PvRw==;frfmLaz22NVMP505X6tJWg=="
 ---

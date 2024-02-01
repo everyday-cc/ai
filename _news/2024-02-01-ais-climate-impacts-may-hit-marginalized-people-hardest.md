@@ -3,8 +3,8 @@ category: news
 title: "AI’s Climate Impacts May Hit Marginalized People Hardest"
 excerpt: "A Brookings Institution report warns that energy-hungry artificial intelligence tech will worsen the climate crisis"
 publishedDateTime: 2024-01-31T21:45:00Z
-originalUrl: "https://www.scientificamerican.com/article/ais-climate-impacts-may-hit-marginalized-people-hardest/?ref=upstract.com"
-webUrl: "https://www.scientificamerican.com/article/ais-climate-impacts-may-hit-marginalized-people-hardest/?ref=upstract.com"
+originalUrl: "https://www.scientificamerican.com/article/ais-climate-impacts-may-hit-marginalized-people-hardest/"
+webUrl: "https://www.scientificamerican.com/article/ais-climate-impacts-may-hit-marginalized-people-hardest/"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "T4C8kejNSbejuwkTmkOr8kV5IdOJD6XXA4fwnJtOCO5LFRxorQJD8otx4gsB94Pl0MQJghF0wy3vIiAO9AJ2IA+LMbHw4ZHxLtQ5XZ8aHXvNYufbhwJNbvEhvrZoLb+OJwJajabdUTvXde0XY+atSw236DKnGF/iNXx+ZtQtZESj/kKyd+B9LLIEmC0cPY2G30cmCEPTvbySt8ozuLE15MNPZ9MupQ6RPxCefWLYGW0HNnpCPxQSwm4Q7S1TiAaufXXnSNwMY8H5NhF1xRRCuaHuMR88LJ5aYtXhXbGJsfpcJhwfDlr+sICl4UY9LaIkHU7/CN5wuWE3cqwlSlbt2Sqe1Q7szmJeYMUBw8jN+hg=;v779XLzfKRMVN15H7OavKA=="
+secured: "aHGcwxmeO1EHvZ23PxlY+RIrVPUnhiaTX+TH7XcnhQv1Vd8GyngDD2W2sCk0mph82mWjoj3cbaCz1ZL0pF9sk+m9eCzD5Rydy7H4M3AAck6b35FBMx8uxHYabOTRV9chHTgkwqwFnptRDs4WwB+yI3LHOeJGMFwxbPaggbP2i9mm+nrxM2z5/f7veradji4vbct88pwIKDsiyi5XjgzT7yCLm3GLgtIG5wiGxa9uZP7HZiSElTXtmn/76/demJsOmZDlDwESKYwen+uP8qbj/UFOiw0iw0MusmO407iUHpTQ9oAzaJBfMQrTjIZM0U4XWb06nku9szInd9oeISkPVPdAa+N5FMrF/3bp5XWVAHk=;KKZOZAJ/4Bd1hPIxpi+PFg=="
 ---
 

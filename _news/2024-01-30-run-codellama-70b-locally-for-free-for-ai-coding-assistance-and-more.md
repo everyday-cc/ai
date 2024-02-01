@@ -158,6 +158,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Unveils “Code Llama 70B” an Open-Source Coding Tool"
+    excerpt: "The availability of Code Llama 70B on three versions of the code generator is what sets it apart from its predecessors. It continues to cater to both research and commercial uses while remaining free. The model’s training on a massive 1TB of code and code-related data contributes to its prowess."
+    publishedDateTime: 2024-02-01T04:31:00Z
+    webUrl: "https://www.dqindia.com/meta-unveils-code-llama-70b-an-open-source-coding-tool/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 4
 
 secured: "8EjJjV6gMZLzhBuC3/vb4bCLApkdFgM4pZ34P9/59s6nQiwi0FgcAWlaKW+KWkY3wdiOnSzbjchNvxp9k8FFoc4MMdS2FQe/QOfZbGzfbAUcJg6tsKDZ+IACBItv8u2wJxSqNebZjsnakmx8h59OOZZXPlOel2iJ/fm4I2QgHXDzr21ZjqI7K5EBprtpcuRXxaAW7NrjY+XNAnim0DEheDMIhO0uoeMiEVL00f/cE0bnhXLo+4FjDTLA4FCTLOlfj1VKU4xgTbImx88j4AhC9L4Bmwk7LAB0Wdn27Qz2zR7wsVNyKpdsBIhUCJ3AGpu4HnYg0ZUaY7+V+3kJfaU3cEHOEEtFxGrue71Ij0opaVI=;mDIKTeabe6QjV6Vh5uVyvg=="
 ---

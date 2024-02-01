@@ -7,7 +7,7 @@ originalUrl: "https://www.thedrum.com/opinion/2024/01/29/augmented-marketing-our
 webUrl: "https://www.thedrum.com/opinion/2024/01/29/augmented-marketing-our-future-heres-why"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Future of Digital Marketing: 7 Trends You Can’t Afford to Ignore"
-    excerpt: "The increasing reliance on AI in digital marketing cannot be overlooked, as it is transforming how businesses develop"
-    publishedDateTime: 2024-01-26T23:17:00Z
-    webUrl: "https://www.dmnews.com/future-of-digital-marketing-7-trends-you-cant-afford-to-ignore/"
-    type: article
-    provider:
-      name: Direct Marketing News
-      domain: dmnews.com
-    quality: 41
-    images:
-      - url: "https://images.dmnews.com/wp-content/uploads/2023/12/Digital-Marketing-Trends.jpg"
-        width: 1000
-        height: 571
-        isCached: true
-
-secured: "OV9jUwVDULiO6fjw/YgVa+TVUGWwTot6IOCzytLcLWPDZSeEkfZ6BGo+uJ0hWlPuFKrNx9MKaHFSdJ74FvSvyBWGDTE9OFv/3stCov4QdbTVWwWRauq1OUWR4MUwfaLakzpvYnDNEEzRx9luQoXb6S/TDEXVjzclMrpvyy9VF+JsINulAD7PUvh+AYjvN4WG9RR/WdWsuAoOvLMtHIHZIPPn0TUUrgiTFRKbp1VjyPJThdCY8tfvboQ/Vbp2IoergBCkzRpYdTyrIPDy6b+kYX5whdN0/3VdflFIEZtobKhbJ2ImRMME6jvmzQ/XJhqnNQ9GW129FZzqgbQhN/lZHxHWiJS/wttWtl8BBIVyE+I=;MlmWnj3b2NZEt2CTQsvioQ=="
+secured: "gzYJihoMd2NwHayG68E49LwB/ztjL3m86NkuQOyeoYuzhdBy55sii+V1vuKAndCnG2YOZ+16cfOmZgk/ZA+WtbCN96xgyu17F3fIr01f64DUSwAfYEodgY9kC/z0KFeQZdsWFf1FgYYJL9FfjF4PhldY6dmhi1ZeINdY6HOunFiXveNlsJKJExIAtjm/Fx+Exd+EKFPJY9UPfGTCb2+LJLcLfxQ/pG7DAD7OL2Lct18VO3P1FyX9lPcLG8BExpX+zUK59IeOAkemRS4Iet70x40JSON9JhfiWYI4+dWK1yz/5M+2QpLnigyoNoccM6A5TfjlqN9Ar/P2p1cs+kbkXf/FNz7lx7FArTv2zi9dbrtp8HG6nN8xtJGfxxlbp09KZLFup4qqRYmuPb9HB5/bj4pnuyjkqBn+yRfJuYfjpOOL3bVgINDYFKF6lobqKvP4xtbP9T+NeRrBRO96s6B4I5DsucK1yIuG9bosvr2FoKTkG7hTjxdpjcmmMqlw4hX7BxYLZhdoREyn50mR5aPpQA==;EIBQNVLeBl5k5JN13qiSpw=="
 ---
 

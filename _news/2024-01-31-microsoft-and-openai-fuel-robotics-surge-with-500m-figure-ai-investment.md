@@ -81,6 +81,29 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Figure AI Talks With Microsoft & OpenAI About $500M Investment"
+    excerpt: "Figure AI, startup developing humanoid robots, is talking to Microsoft and OpenAI to raise $500 million in new funding at a valuation of over $2 billion. Figure AI just made a deal with BMW to put the humanoid robots into the car factory for pilot tests ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/figure-ai-talks-with-microsoft-openai-about-500m-investment.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 56
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2020/08/brianheadshot.jpg"
+        width: 910
+        height: 1084
+        isCached: true
+  - title: "Impacts of Artificial Intelligence on Education"
+    excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
+    publishedDateTime: 2024-01-31T23:30:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/24089118.impacts-artificial-intelligence-education/"
+    type: article
+    provider:
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 34
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z

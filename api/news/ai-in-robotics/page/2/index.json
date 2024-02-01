@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-18-artificial-intelligence-ai-market-insights-and-forecast-to-2031-alphabet-nvidia-blue-frog-robotics-131-pages-report.md",
+      "title": "Artificial Intelligence (AI) Market Insights and Forecast to 2031 | Alphabet, Nvidia, Blue Frog Robotics | 131 Pages Report",
+      "excerpt": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. North America, especially The United ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots.md",
       "title": "At CES tech show, start-ups unveil AI-powered humanoids, robots",
       "excerpt": "Thanks to generative AI, robots depend less on pre-written scripts Las Vegas ... \"Why live with ugly machines,\" says Jerome Monceaux, head of Paris-based start-up Enchanted Tools, who was on hand to present the pair at the CES tech show in Las Vegas ...",
@@ -1292,40 +1326,6 @@
       "provider": {
         "name": "Smithsonian Magazine",
         "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
-      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
-      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null

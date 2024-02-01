@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "Samsung replaces Google AI with Baidu AI on Galaxy S24 devices in China"
-    excerpt: "Ernie AI will offer same Galaxy AI features based on Gemini foundational models, like AI-based real-time call translation, summarisation, and text format features on the Chinese version of the Galaxy S24 series,"
-    publishedDateTime: 2024-01-27T02:31:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china/107177596"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107177596,imgsize-6576,width-1200,height=765,overlay-ettelecom/devices/samsung-replaces-google-ai-with-baidu-ai-on-galaxy-s24-devices-in-china.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Samsung's Galaxy AI to Reach 100 Million Galaxy Mobile Devices This Year"
     excerpt: "Samsung's Galaxy AI and its features will reportedly remain free for users until 2025. The South Korean brand may consider introducing more powerful AI features in the future for paid Galaxy AI subscribers."
     publishedDateTime: 2024-01-30T10:16:00Z

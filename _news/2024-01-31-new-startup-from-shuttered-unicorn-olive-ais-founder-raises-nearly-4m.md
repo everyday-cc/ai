@@ -28,7 +28,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793"
         width: 1200

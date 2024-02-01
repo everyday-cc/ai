@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google’s Gemini Pro Beats GPT-4"
-    excerpt: "Google's Bard (Gemini Pro) has clinched the second position on the HuggingFace Chat Bot Arena Leaderboard, surpassing OpenAI’s GPT-4."
-    publishedDateTime: 2024-01-27T04:41:00Z
-    webUrl: "https://analyticsindiamag.com/googles-gemini-pro-beats-gpt-4/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/09/google.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "TFtJwSG9HVbxdY4dAynUUC7m7sBWF72rn48LndkZI2L7yHz9whe5wNYweS17ZtoTKdRu/LClv4EIGdhF98jHRBaqA/RZs5nJHfOMm/nW/Gre+yl22x5pnWxdEBeUZ2GlwVd3DN73fxindR9NHYg51hQUpXhyigFSwyn2SVLaMFE6/fGRIwRwEFcyH9GhfSjN49gz/diKZ7R3xSL7az2P+6uaqTG9AkVvp9gNrI6wtlbGUkTF31PB4+IuQ7WpIgAVsi6xNst4XAZpinXkjHmvkmBaFHiIELh+WEGdoP32s2/NtJD17gXbs0wOdL1yM4OF01H9NlRXa1iJriJS24nD70vCKObjdFhoH8UC0X3tEMiRIkXjZuGheWh+JWUSmeLAtAdXR4hMcKbezF9kvSJGcR20ZlOBiuLy0/0F4DOX1ovPwPLEI+Cba7ML/xv+GqfXGmaZOCrmJQD9kH41r+ba3oWb7BhjzyzOwhjqqs0BB5/RP19rSWwSeo4QE8O5QnB+PDjoclL1piUFiWPE7Bfehg==;XLKJE+hkCXylO9b+fPV5aw=="
 ---

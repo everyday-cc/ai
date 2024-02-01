@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT’s new @-mentions bring multiple personalities into your AI convo"
+    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
+    publishedDateTime: 2024-01-31T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Ars reader reports ChatGPT is sending him conversations from unrelated AI users"
     excerpt: "ChatGPT is leaking private conversations that include login credentials and other personal details of unrelated users, screenshots submitted by an Ars reader on Monday indicated."
     publishedDateTime: 2024-01-30T01:43:00Z
@@ -39,21 +53,7 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "A tutor shares 3 rules for writing college application essays, including how to use ChatGPT the right way"
-    excerpt: "A Stanford grad who runs a tutoring business shared his rules for students writing their college application essays — and how they should use ChatGPT."
-    publishedDateTime: 2024-01-29T12:13:00Z
-    webUrl: "https://www.businessinsider.com/how-to-write-college-application-essays-chatgpt-tutor-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-    images:
-      - url: "https://i.insider.com/65b3d08bf4b446f3be9d3de3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "oZtV+6423cMROFHyL3vg6wapMAhsyaxqAnHSt1myYM5OakyaUOSImHiCn9qTlsI1OPHrks6rU3eXSrl+PKqEVMbNbMCsSAWEBHfX0EaDZ8czWcAybBs4pij/cYdzTnd4M7sZVzIt5ZtVOXndSSZN3JS+DbW4Pogxeb5xgXDNDq10Fwiv8bTQlC+eOWaoa6rDJw5HdvlQQeDY9McFwc6XECGSQG/KTHPSNG/ZbgzmN9I8kx9Arqk76J4ammvlWd87fn3m7d9onjyN+pws7hFwTTLdwwrwMu6RhtpeogvZDakLMU7V0+2GxV8b4uxkSzEzaFz2O8jyD0t3dbKTeqY8mW21ZcNxE2mNOxQMZd5BMFg=;tDg5lq3eC7iqgqfheKnZIw=="
+secured: "450BuY9MaSeOseljHCqaHqszCdAeWlDlH3gyecSyXUYBd15zMmZCbe9s7YD9Nmra5BOguWaJ8t8sKhIrLHObnXf16KrFeAV43HDMHTEfg8KVKe13zYrnDmiyWOcolCLKDq/FcEAFJJOUSw5Ux1VYtecGYIv3Btlz+qUgZ7gziH3k6WP+2kjAlD/4fckMIex2gfa9Yh7tUeETHOW0Fw3o+gUubfx9qKgqbgok0nNSusrFFMNRbUQEiQ2fHYoupqqAXzMPg95EVWC+K0YGx1iNihMPhH5NKNl/WbHg/QlmhDdvgmEeUaV+7rjMqHw87TqGuLVhLuZFYyN0Hj+rq6Tup59nkJQVvd5bwbN8xcbb8hx4ZutIMYvItvkq2NcYh0e+RXAzscY1NHIu4zWAajIU3l5nT2nVjBFKMcMiz8UAdZPhOe1ACkq5O/wMIaLCjOohYd88zvOwXYSb45w3vpdMC0a0jSz33eI+m8RIZZpnQefH3FcXMhvzQOxU6ZzWMowHQ1v/YIfoJgEcWK4Cd9FKIA==;lJNttZIczrqnGswtW6lJww=="
 ---
 

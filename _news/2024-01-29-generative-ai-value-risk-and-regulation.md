@@ -7,7 +7,7 @@ originalUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-
 webUrl: "https://businessmirror.com.ph/2024/01/29/generative-ai-value-risk-and-regulation/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://assets.bizclikmedia.net/1200/f3cddb89296f98410a26ecf4dbc5a68c:4713206bf2d9e5ca2fb434ea8caccbea/gettyimages-1750773501-1.jpg.jpg"
         width: 1200

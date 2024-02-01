@@ -41,6 +41,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Apple’s Vision Pro is new, but big tech’s fascination with face computers is not"
+    excerpt: "Apple's Vision Pro could get more people introduced to the world of VR - some very familiar ideas but implemented in such a way that gives a realistic view of what is there and what’s about to come."
+    publishedDateTime: 2024-02-01T04:34:00Z
+    webUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/"
+    ampWebUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 39
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Apple.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "2VVFpUmcJLRFkHZPeBRSoIlZVZtn1swdtUoVfsa9FOjMlQa3EXu8zFyrn34QD+JouWBadacFXT9EPBexyHTEIGHn4sl0ZigjdBEVqNoYryF70b6XcHjE4MIakhGSHviplwu+aHdnS7uSqwC8mlpiseAcaNCupDUE5+V33+Gv0omFzIC2C7rTcCHTW2+hjbq9RQwCWtZI8M+02bHfOv1VFhvqmCUOVj97aMoC5JKwwOkQke7dKRKskwC4WfIC6dJ2vP1Cp9n11NX+ACRLwKPFn6IRct4zovNTpjVEvdSRTUaVaVmOAZTRQ7VAkkpBKUcjNDtempKmPjeU88stjzIc48j9ldyLkoZl5atvXFZ7F9UD19plWVF+eojRdLkKgBgF+STPMcuMXzZ7dBBf0DXcT+tVrvobp5ha+KasUA+Zp5uN5lDT8yyzYkeMy0avJhYfHUFY9ddx0LWjP2IxXlAilwR4jAlH6QLrjPvpgGAbbn8LNH71uromm/GlzGw15k8S2KtfA5FMbJMVL1y8RXQtyQ==;3Vq1zkULOH1yscQPFD55eg=="
 ---

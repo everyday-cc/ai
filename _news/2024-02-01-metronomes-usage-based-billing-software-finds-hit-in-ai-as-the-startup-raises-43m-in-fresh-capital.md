@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-softwa
 ampWebUrl: "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793"

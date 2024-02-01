@@ -187,6 +187,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Labour vows to make UK fintech leader"
+    excerpt: "The UK's Labour party says it will deliver the next phase of Open Banking, become a standard setter for the use of AI, and embrace securities tokenisation and a digital pound if it wins the next election."
+    publishedDateTime: 2024-02-01T00:51:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43629/labour-vows-to-make-uk-fintech-leader"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Yara Technologies enters African market, targets rapidly-growing fintech market"
     excerpt: "Yara Technologies, Sri Lanka’s premier edfintech company, expanded into the African market by partnering with Meus.... .."
     publishedDateTime: 2024-01-30T19:16:00Z

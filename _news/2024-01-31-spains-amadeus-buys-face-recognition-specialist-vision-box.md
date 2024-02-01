@@ -22,6 +22,22 @@ topics:
   - Computer Vision
   - AI
 
+related:
+  - title: "Spain's Amadeus buys face-recognition specialist Vision-Box"
+    excerpt: "Spanish travel booking group Amadeus will buy Portugal-based face-recognition technology company Vision-Box for 320 million euros ($346.7 million), it said in a filing to the CNMV stock market regulator."
+    publishedDateTime: 2024-02-01T01:39:00Z
+    webUrl: "https://www.channelnewsasia.com/business/spains-amadeus-buys-face-recognition-specialist-vision-box-4089026"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ElAmzxee--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-31t133924z_1_lynxmpek0u0j8_rtroptp_3_spain.jpg?itok=K_odAFZv"
+        width: 1200
+        height: 676
+        isCached: true
+
 secured: "sAQfChWBccgXBpr+CJCHS4kIjNFkG3Brk0SGY4e0/saH2sc3ScZ2Nf07kG2K8WLRcHqu8IeVHWXbxZNmevAWn3O4DBT1rtGkOLNj5jkj0naHiHrh1UrCwO1Hd+50ByePIHrm9gn8C2WCC3rVYNCYEle6eozHSjW+3C7CDUpKjh6VDRNxKbmHOusQ89wmEWl9d5Pu+XGois0S6cvrmBTEwFh1cKcRMVUq37CnipNIlfzab+3b7VgMbsdKH43UCNnkAMbH8rm9qB8Pb3uyPXOGgkpC6NyQDfPSsLdaom0LFh7quDZDkjlqCsRmoLd7hD1AWS+p3Rw+YOQ2IqOUnDVguUifLbCqskkXEUNduw/lipo=;/Z6u0WvNkgc8xxTWJLNnUw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple’s Vision Pro is new, but big tech’s fascination with face computers is not"
+    excerpt: "Apple's Vision Pro could get more people introduced to the world of VR - some very familiar ideas but implemented in such a way that gives a realistic view of what is there and what’s about to come."
+    publishedDateTime: 2024-02-01T04:34:00Z
+    webUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/"
+    ampWebUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 39
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Apple.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "10 reasons not to buy an Apple Vision Pro"
     excerpt: "I'm not buying Apple Vision Pro yet, and I don't think you should either. Here are ten reasons not to buy Apple's spatial computer."
     publishedDateTime: 2024-01-30T21:57:00Z

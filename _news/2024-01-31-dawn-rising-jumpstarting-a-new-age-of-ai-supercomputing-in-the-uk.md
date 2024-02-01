@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-a
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: CIO
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chroma ATE spotlights AI and IoT chip test solutions to address soaring demand in edge computing"
+    excerpt: "The rising popularity of generative AI is spurring demand for high-performance computing. This in turn fuels demand for edge system components and related applications, all of which bring along stringent testing requirements."
+    publishedDateTime: 2024-02-01T04:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20240129PR200.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 41
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240129pr200_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AI, new projects to jumpstart tech hiring in 2024"
     excerpt: "2023 was marked by fluctuations between tech talent availability and the end of big tech overhiring, but analysts expect the tech jobs market to return to more steady growth this year."
     publishedDateTime: 2024-01-31T13:57:00Z

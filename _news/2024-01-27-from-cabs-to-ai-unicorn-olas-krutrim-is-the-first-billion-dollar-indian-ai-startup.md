@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 80
+published: true
 
 provider:
   name: Indiatimes
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ola Founder Bhavish Aggarwal's Krutrim Becomes India's First AI Unicorn"
-    excerpt: "Bhavish Aggarwal's AI startup Krutrimt has become India's first AI unicorn after successfully closing its first funding round with a remarkable $50 million investment led by key investors, including Matrix Partners India. \"At Krutrim, we are committed to ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ola-founder-bhavish-aggarwals-krutrim-becomes-indias/468894"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1706335388-newbhavish.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Ola backed-Krutrim becomes India's first AI startup to get Unicorn status with $50 million funding"
     excerpt: "Ola's Bhavish Aggarwal-backed Krutrim has raised $50 million in funding, with Matrix Partners India to become India's first AI startup to get the Unicorn status. Now, the company plans to expand beyond language models,"
     publishedDateTime: 2024-01-29T03:44:00Z
@@ -70,15 +56,6 @@ related:
         width: 1024
         height: 535
         isCached: true
-  - title: "Krutrim & AI — Bhavish Aggarwal’s Biggest Bets"
-    excerpt: "Bhavish Aggarwal’s Krutrim has come out of the gates fast and furious in a bid to create ‘AI For India’ and compete against tech giants"
-    publishedDateTime: 2024-01-28T01:29:00Z
-    webUrl: "https://inc42.com/features/krutrim-ai-bhavish-aggarwal-biggest-bet/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 17
   - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
     excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
     publishedDateTime: 2024-01-27T12:51:00Z

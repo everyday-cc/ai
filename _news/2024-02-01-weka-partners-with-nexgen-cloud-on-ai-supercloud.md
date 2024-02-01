@@ -70,13 +70,13 @@ related:
   - title: "WEKA Partners With NexGen Cloud to Democratize AI"
     excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
     publishedDateTime: 2024-01-31T09:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
 
-secured: "sWDUWQv4QNolX0cyaYinzZjuhqIil9vmtlY1gCCvQt2rpyfSa9zeoe8sh2LNknA+7lnFVkP6o5eKci/YqzTdw8hkKwegKrRVSR2OOwhPnsArwltl9ukeFYq2FbzoE5ln+2qlaKUcLAfwU3iUKajjFPrzsvm2jO+nkxdBZiSykBhF9lcCQC1+DgWLCCq2zbcynY1Q+qXgDmlKpowQrc+M43wuiyU5MQMv5qc5pembslo5Jx/32mU3ADDrNqXVS7wmghgBbrT71tQAPNJTBsS6ICfbbYaMKIu7DI+4SeBv5an1qmjznYrW6JAaH1jZu2vVPo63WPBQVR3kNnJR4hxrHAOMxn3hWZPmu9P9A9qFqic=;CdkqmO7GVhJ51VM6DQeLWQ=="
+secured: "RDi1g61+slCvLmducullNS/QDKrZ3Ap1tW1TfavF05L492d1mtpTHnaqnIlNF1NOfVfiUEW4NJAhyS1t/a22DkmwkubVPo/cz8tMODx8Tyr7YYgeuP0ohaLzkddgdE4AHoLT3LYdR2emqnPEfO3pqU4Zrlj3WZmNFz1ObKaccCrRrcIfC75c7A6qHdbO8koxi4igmlRpJyKtkuzMGq/mEvkonVIYABMjC8Ym6m7Z0UoODq05CELo807nyuJh16ln77LfKf9/c8nemgAxh/KDoYK0GyKR/pv02vLNmt6/hpzPD3u8L3ci62X7wRZQYwtgRP6h6moeDdPfpdMT3cx6HsYhicjhR33ThfiwV4C+4xROOn3ALsLw06YEMTLUrksWrPYYvdvvSnLKP+Bp5+ZIb20SVX0F4tHGQ25njwpBgPF0rE2WJ8qTrIpxvyty059XW8zU9RPVsiOIsMGLmAyNMfj9yW+WTCF2sbBvuH972WI5FEYy9ZeAXL1/3pt22pn6+e7mE5savyU9TzBLs51diA==;Ru4CBal3kpVvIlSctEx30w=="
 ---
 

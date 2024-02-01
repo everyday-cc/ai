@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-california-based-figure-predicts-an-ai-and-robotics-revolution.md",
+      "title": "California-based Figure Predicts an AI and Robotics Revolution",
+      "excerpt": "California-based Figure developed the FIGURE 01 humanoid robot to address drastic labor shortages and reduce the number of workers in unsafe jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/",
+      "originalUrl": "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T11:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "realtybiznews",
+        "domain": "realtybiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-elon-musk-says-neuralink-has-implanted-its-first-brain-chip-in-human.md",
       "title": "Elon Musk says Neuralink has implanted its first brain chip in human",
       "excerpt": "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder",
@@ -1309,40 +1352,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-artificial-intelligence-ai-market-insights-and-forecast-to-2031-alphabet-nvidia-blue-frog-robotics-131-pages-report.md",
-      "title": "Artificial Intelligence (AI) Market Insights and Forecast to 2031 | Alphabet, Nvidia, Blue Frog Robotics | 131 Pages Report",
-      "excerpt": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. North America, especially The United ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

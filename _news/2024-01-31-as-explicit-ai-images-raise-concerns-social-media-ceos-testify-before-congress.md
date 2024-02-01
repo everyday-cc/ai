@@ -2,26 +2,24 @@
 category: news
 title: "As explicit AI images raise concerns, social media CEOs testify before Congress"
 excerpt: "artificial intelligence, content moderation and misinformation. Google's YouTube is notably missing from the list of companies called to the Senate Wednesday. That's even though more kids use YouTube than any other platform, according to the Pew Research ..."
-publishedDateTime: 2024-01-31T09:26:00Z
-originalUrl: "https://www.9news.com/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
-webUrl: "https://www.9news.com/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
-ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
-cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
+publishedDateTime: 2024-01-31T02:26:00Z
+originalUrl: "https://www.12newsnow.com/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
+webUrl: "https://www.12newsnow.com/article/news/nation-world/social-media-ceos-testify-child-exploitation/507-b908dbb1-03b2-4049-bdcf-d44d74b80810"
 type: article
-quality: 55
-heat: 65
+quality: 35
+heat: -1
 published: false
 
 provider:
-  name: 9NEWS
-  domain: 9news.com
+  name: 12 NEWS
+  domain: 12newsnow.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://media.9news.com/assets/CCT/images/c43f2df1-1c73-4022-8628-e16e88aa6f84/c43f2df1-1c73-4022-8628-e16e88aa6f84_1140x641.jpg"
+  - url: "https://media.12newsnow.com/assets/WOI/images/c43f2df1-1c73-4022-8628-e16e88aa6f84/c43f2df1-1c73-4022-8628-e16e88aa6f84_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -42,6 +40,6 @@ related:
         height: 420
         isCached: true
 
-secured: "K+W1wGCqxQZQ6rmQvl/GeVho/WyGHETF1Nd0byDNyy+CDKWxlxL2MEgWDowRH4n+WW65tFFIY+buLNQtLqOsixZw+aU0QT5SOgE4oshUDI6qyNC4tx4qH8SeO557BsLYVmv+0UNULojtsx95W1hTkeBf7LCgbQk0IKe37Jaa18iePUxfVjgrzTxF0jyuJauJ2hVnY1jINP2tw2pwZJftiVpunl39vuffupXUZYgfJPIMf9zGD5zdhnfH2/RDBlqsODLyQ33Bttt1BZofneUmhkxLXplS2KycjfOUOFhIYeiw7gUfTq/4r8IFhqSfU9uh1xE1Q2ZXek3Vq0byD1EEj8vZU1w5fWbJIWlhswd8ryY/v4n6EFVgYrWFmF+k/Gac9dEqiER3Anyb04p7CFu0vTSlRCLgicWlxhOUFydluLAPgFNSAu/bI3IQB66gMNC147yh+s/p4nAuw6aTBuN7vtaIYRosoLLCKicxuHDXD1SMVKUE5timGrC/23lfcGClT4LjvS7KekIXsDgbe2hpbg==;c1EaknB7Z/ACOAx92Tt5Rw=="
+secured: "mp4pIt+VMlfvNpfxd205llpuFCyFsnKam9oDeF78o7DWGxBhSqDUaW6rdslswxfLBzgaLOwee6Tcr0PSbkTiOd3i3eOEoPj8v+5fYofgRsdyMbUetebx1rliYXwurYWMlzMoyx4n8dafc1FLFiY2pzIlCqPoNZp71cY6LIesFAhsKWQmHqo+OUYj8JvEm6kJZSXrCfs3c2nZnrVdhObkxlCtG42xP4RnoMPej2ksD1END+dpCbwEfq+ooRSMoHziQQsc0PGW4WlVQ16Hek5ubh49R3sZ+bI6vRYf9oxshvB9pC4jm+ObIo4oz5io070ei6UbpK8aQKCHJPBUmCCFWTpJMCueVAGcMIhL8xtc9iI=;n8wwsaAwp7fS0fy7kwnSgA=="
 ---
 

@@ -25,21 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "New open source AI coding tool surpasses its inspiration: Google DeepMind’s AlphaCode"
-    excerpt: "A new open source AI code generation tool, AlphaCodium, has surpassed DeepMind's AlphaCode, which had Twitter/X all aflutter this week."
-    publishedDateTime: 2024-01-27T02:11:00Z
-    webUrl: "https://venturebeat.com/ai/new-open-source-ai-coding-tool-surpasses-its-inspiration-google-deepminds-alphacode/"
+  - title: "One of Google DeepMind’s lead developer quits to launch AI startup"
+    excerpt: "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai."
+    publishedDateTime: 2024-02-01T02:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 77
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-26-11.45.04-Generate-a-minimalist-abstract-illustration-that-represents-AI-code-generation-ensuring-it-contains-no-human-elements-or-facial-features.-The-design-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
+    excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
+    publishedDateTime: 2024-02-01T00:23:00Z
+    webUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/"
+    ampWebUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 66
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
+        width: 567
+        height: 536
         isCached: true
 
-secured: "khyfjXaUxknrkyylZak6SxYBF5K0X4R2EfcA5EkEGX/tSdW4a+sNq80gpZYgdIhskegyA96NIKVOjYgQQDDLZGvVym7IS6gYpNAZqsxjRApZMhvr6AIMyWYRUMm6wrU1rfoZhOjFOwMP83R+F0j88ZQ76uIdbkZUOvjPpGUGhK8aOUPUSAhTZqxlqIAoZLe8X0agqRr8AQZgTfLsk0GBfTlKQyISpC6sAKjnICAisvMr5UNxn3gyfe2zuhxLaWzAyCjBm+FVVBV5Iu9sJ+cIbrsLOlO8TmVI4LnhyDVNfg51T3PH76YiKyn6pjvxxge4xsUxpHdD9MjlyQS3632WnDaJXe2tbkMUySwkkwYrmRU=;d5qy4MaOLbcznMAv7OoM3g=="
+secured: "qVJD+LjsYhq5TJ10KBaJP8R8HSZUGLodEfPoWjtsmpa06QwSeyFcDxHlLmD6QLh9WP6w+/5NNdCfUnzFPmnU6QA2Q5cBjmcMMERa474SfFDL8tl4oOJOKsjQfKr5ILB+zQnIlbFSC26BNrIkPk3rEOlz5H3bzmaNiXVrhVAgxpLpGFNpxPmBiHw9AjYB+NtHVGBGlZWlkTzNQFtIzgSImKBTVxid44DA8Jr0pRejutpWsW4nQyRa0JMIa0zXnV18RfTNNSs44X5SkQLTEzrALL+4pSYqMhyNKmAMPMxWBhHiAqBpYYwaf4m/VZAGVwDai/3Y3LLcVOwT96933xSIf8r0zuDPQxB6cj2N4PxmHLI48BnUG30BqavyYnQL09sOo5+olyVdroLcjeqf5Q0GCgiRTdVcKcgKQWmCOG/uPCQrU+l88BfW5I+aB6oNpdNt5Ni13FJxcWijC7EadCipC7h0pvgJ/JeIgwDVpQBN19ZAkyfs7cOAIbg4gdwe8K0D+CANdezOMgFEPhwgg/IBZA==;jSVa+Pui72SFeeiDP8cdOQ=="
 ---
 

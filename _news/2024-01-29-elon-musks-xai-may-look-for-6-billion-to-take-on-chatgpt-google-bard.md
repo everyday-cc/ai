@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk Aims for $6 Billion Fundraise to Fuel His AI Startup’s Growth"
-    excerpt: "According to a new Financial Times report, Musk is looking to secure $6 billion in fresh funding for his startup XAI. This enormous target reflects Musk’s ambitions to aggressively scale up XAI and compete at the top levels of the red-hot AI sector."
-    publishedDateTime: 2024-01-27T05:04:00Z
-    webUrl: "https://techreport.com/news/elon-musk-aims-for-6-billion-fundraise-to-fuel-his-ai-startups-growth/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities-2.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Elon Musk Looking for $6 Billion to Develop AI Outside Tesla"
     excerpt: "Then there's the current controversy over Musk angering investors by threatening to move AI projects away from Tesla, which could help explain his startup's latest round of funding. The news comes after Musk denied a Bloomberg report that stated xAI had ..."
     publishedDateTime: 2024-01-28T02:57:00Z

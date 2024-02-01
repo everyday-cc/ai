@@ -54,20 +54,6 @@ related:
         width: 840
         height: 582
         isCached: true
-  - title: "Artificial intelligence and the dangers of deepfakes"
-    excerpt: "After an explicit AI-generated picture of Taylor Swift circulated online, a Virginia Tech professor is weighing in on the dangers of artificial intelligence. “Seeing is sometimes not believing in the world of AI,"
-    publishedDateTime: 2024-01-26T23:43:00Z
-    webUrl: "https://www.wsls.com/news/local/2024/01/26/artificial-intelligence-and-the-dangers-of-deepfakes/"
-    type: article
-    provider:
-      name: WSLS 10
-      domain: wsls.com
-    quality: 43
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-26-2024/t_5e609583d2de423da2e82a10e45c4b34_name_image.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "AhvBofRwh8fdrW7v4Z0ceYmUrG8y7+694kdxf0u8z/tJ1VulvlrgjUUxgAtYrbNPVLgmWy1qe7S9kVLLX4+MIRQsnJCRwRpU3Mbse0c5zEC3yDzXLKhbWRhyjMdyZmF6iSkFObzsXs55wt/4Nn36MOZKgyLZiADMLkJJzLAyQLyzyitOx2/dtxhHMPni89yRM5l6jHlubwdQJxr3Z++qL5jEpSDsCyYKRIGKQ6tYpPTkXTXTrgoHmWSUcZXSuSIy5omcr/MnZmD9LKC64LKzVtaEtfLNet4qc/6LdTpE6JOUYCS9/cSBa7HbV41Ouhvwtqe7LQLZ9IYnZ7Hk43HwxKkPtD7StIU35xQjB02UaUc=;HdThNl0K2l3CrfdGKnEY8Q=="
 ---

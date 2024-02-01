@@ -22,6 +22,20 @@ topics:
   - AI in Autos
 
 related:
+  - title: "Elon Musk’s $50 Billion Tesla Pay Was Struck Down. What Happens Next?"
+    excerpt: "The company’s board of directors will now decide whether to appeal the decision, change where Tesla is incorporated or negotiate a new pay package."
+    publishedDateTime: 2024-01-31T21:25:00Z
+    webUrl: "https://www.nytimes.com/2024/01/31/business/tesla-elon-musk-pay-package.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2024/01/31/multimedia/31tesla-musk-vgfc/31tesla-musk-vgfc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Tesla will spend billions of dollars on NVIDIA AI GPUs this year, will also buy AMD AI GPUs"
     excerpt: "NVIDIA already commands an estimated 90% of the AI GPU market, but Tesla has said that it will be not only using NVIDIA's various AI GPUs but also AMD AI GPUs but didn't specify which of AMD's AI GPUs it would be purchasing. Tesla boss Elon Musk did state ..."
     publishedDateTime: 2024-01-30T14:08:00Z
@@ -35,20 +49,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/5/95840_91_tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd_full.png"
         width: 1500
         height: 857
-        isCached: true
-  - title: "Elon Musk Says Tesla Will Buy Chips From AMD, Invest Over $500M On Nvidia Hardware"
-    excerpt: "The company is also planning on getting chips from AMD, he added in another post. “The table stakes for being competitive in AI are at least several billion dollars per year at this point,” Musk wrote. Why It Matters: During Tesla’s fourth-quarter ..."
-    publishedDateTime: 2024-01-26T23:15:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36813208/elon-musk-says-tesla-will-buy-chips-from-amd-invest-over-500m-on-nvidia-hardware"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Elon-Musk_9.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "xeP6Cq+d8Ulcp0r0XRpwzgrUDuzX7XsrKWiE7I5eKrFViiARAOYfO5i5rvwWBKLZi1Pt0Wjs+96k/dT1wEOsPCyAnnHpL32o7GmbYZDYBwkFG05Eewdwx0bRAAUm4xu5SQKB0gYhBST2K/sMbmfW5eLuAWISPa14kA/Ch+yKE9etucNvW669nwuiKnw+G9H190sKfDdtU9skwXhuxD8tDfFOkfB1YSIgLypXzDByNaqO/ZywC8Znw6sfkQU8ijG7bwcVmnNTRC3HfgpTfiwPcj/V0HVpVpkrj75qCUBzZOHDP5LWqz7FxAhbr3yzqC/W6+2bqkx788uSxiSUQ2j76kgcwH86sM2pXTw2CanwPwWZ1/P0BBXqz1WguDK6ON328vmtnryCjVKT/1PRh95ss/+E7LeWf/mUfi2yiUrN/WNugI0EkPRDRHBHlfmf4yk3w4vUq5JgWuY3cnH7ChDB74S09AWYdsC4eJ5CzdyndHazzxhh3FTo2nal/4j2OE4ln+CqTxFGVCeRYcfGEMeOQQ==;I96ckAFq1bnQ+PMi8GTfnQ=="

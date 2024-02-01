@@ -9,7 +9,7 @@ ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Amazon says DOJ disclosure doesn’t indicate violation of facial recognition moratorium"
-    excerpt: "The statement came after FedScoop reporting noting that, according to the DOJ, the FBI is in the “initiation” phase of using Rekognition."
-    publishedDateTime: 2024-01-27T02:44:00Z
-    webUrl: "https://fedscoop.com/amazon-response-doj-fbi-use-rekognition-software/"
+  - title: "AI Boosts Crime Detection in Indian Railways with Facial Recognition"
+    excerpt: "AI Boosts Crime Detection in Indian Railways with Facial Recognition - Indian Railways has embarked on an innovative initiative to elevate passenger safety, with the"
+    publishedDateTime: 2024-01-31T17:42:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ai-boosts-crime-detection-in-indian-railways-with-facial-recognition-nid-227645-cid-1.html"
     type: article
     provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 33
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
     images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600"
-        width: 600
-        height: 320
+      - url: "https://www.siliconindia.com/news/newsimages/k7Hfitcw.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
+    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
+    publishedDateTime: 2024-01-30T09:53:00Z
+    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
+    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 49
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
+        width: 640
+        height: 362
         isCached: true
   - title: "CyberLink's Facial Recognition Engine, FaceMe®, Powers 2-Factor Biometric Authentication Solution for South Korean Banking Sector"
     excerpt: "Leading AI facial recognition provider, CyberLink Corp. (5203.TW), today announces a new collaboration with South Korean company, UNIONCOMMUNITY. In addition to the existing FaceMe® SDK integration into their UBio-X Face Premium terminal for access control,"

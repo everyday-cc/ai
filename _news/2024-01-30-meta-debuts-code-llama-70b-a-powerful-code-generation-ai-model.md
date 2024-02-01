@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-cod
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -161,6 +161,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Unveils “Code Llama 70B” an Open-Source Coding Tool"
+    excerpt: "The availability of Code Llama 70B on three versions of the code generator is what sets it apart from its predecessors. It continues to cater to both research and commercial uses while remaining free. The model’s training on a massive 1TB of code and code-related data contributes to its prowess."
+    publishedDateTime: 2024-02-01T04:31:00Z
+    webUrl: "https://www.dqindia.com/meta-unveils-code-llama-70b-an-open-source-coding-tool/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 4
 
 secured: "MmGVfKDHywwxy7uSBKj/xwMj4stT6yaEFMAZigx/RTASFRTYINzMUkBt9qa3SWNlFfj19TUnvhFpZQwahO+bzdI2wnrrpAJPreRx34WCHp47ZVPTK7xmsgiff7j/ZqvAtKZD3tn5RBpXXzVcMHVmjaNKpCVD12xddvSas4E84lifmZ/ML7HUZxcsCw+/o8qKSA40R1RlitcWI1sTkjnnGPEokXopBwn2UzqLQ4VycBjB8W1yAXpdgHnmbZvBl9OpHWpBe6p4jsgBqx340BMlBnEmZ70K9+O/QUtCH8d5xDhltTol2a2l7royHAXBzBZDh3dkAzjRB7S03N0GRoTEmqBVNsTro7fTkQ14CmrG4oc=;syeLbsZNKUPBbCjwZdBKtA=="
 ---

@@ -37,19 +37,19 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 71
-  - title: "Elon Musk Says Tesla Will Buy Chips From AMD, Invest Over $500M On Nvidia Hardware"
-    excerpt: "The company is also planning on getting chips from AMD, he added in another post. “The table stakes for being competitive in AI are at least several billion dollars per year at this point,” Musk wrote. Why It Matters: During Tesla’s fourth-quarter ..."
-    publishedDateTime: 2024-01-26T23:15:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36813208/elon-musk-says-tesla-will-buy-chips-from-amd-invest-over-500m-on-nvidia-hardware"
+  - title: "Elon Musk’s $50 Billion Tesla Pay Was Struck Down. What Happens Next?"
+    excerpt: "The company’s board of directors will now decide whether to appeal the decision, change where Tesla is incorporated or negotiate a new pay package."
+    publishedDateTime: 2024-01-31T21:25:00Z
+    webUrl: "https://www.nytimes.com/2024/01/31/business/tesla-elon-musk-pay-package.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 50
+      name: The New York Times
+      domain: nytimes.com
+    quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Elon-Musk_9.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://static01.nyt.com/images/2024/01/31/multimedia/31tesla-musk-vgfc/31tesla-musk-vgfc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Wfj3ZTVDJvCFRYwEspNSBjziL6As7z9+DfPTfqArUCmD55sNhuGjk654Eiqr+nP6I0UlKwYObsaAZGboLbZZJmsCTpce0cC2mlxnzSpuyvrMjNErP55YBO3gOd3yqIglrdA1WLcS2pWnHoWv2jWj2EziBfc7IY7U0N58cYQbovyH6tArna73ij9IkSGSr/5FI1uANKOKvNgDJsPFwvaLBXgSOuskaClCdcIt7zbCcuUQFBL4CiXlEovSviZsaiT8hpLyp5leqGRSWOEMEVsIGdPqpRIeclPgAuQ4ifSvOjbTPEd28m/hm+I7WolXCREXANiUCP10C4Ol8jjnXo/i2n/wwHFO7SLQs9ewFXPRLZWJBrLNtOWYV2RrV7igTQsiMgPsDJN8upCnjL/6OZKembfKefB0D761z/WXvSdp9Ml+lwARmwgvGE0eNdSYSLGtjgJi983fMpHARGAW+2YtUQ4ejmBx7Kki3+1geJ/E2vzYYWvLTmkr0+9CvdFKGM8WOQIU3VPGgQy8M5bvdT2eAg==;rgoVMeYjwJCYOHamd/GCcg=="

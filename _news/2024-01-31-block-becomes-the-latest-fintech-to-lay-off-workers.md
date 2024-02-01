@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -178,6 +178,15 @@ related:
     excerpt: "IT staffing firm Techtrust has launched a database to help fintech companies in the US find top talent. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2024-01-31T14:12:00Z
     webUrl: "https://www.finextra.com/newsarticle/43616/techtrust-launches-fintech-talent-hub"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Labour vows to make UK fintech leader"
+    excerpt: "The UK's Labour party says it will deliver the next phase of Open Banking, become a standard setter for the use of AI, and embrace securities tokenisation and a digital pound if it wins the next election."
+    publishedDateTime: 2024-02-01T00:51:00Z
+    webUrl: "https://www.finextra.com/newsarticle/43629/labour-vows-to-make-uk-fintech-leader"
     type: article
     provider:
       name: Finextra

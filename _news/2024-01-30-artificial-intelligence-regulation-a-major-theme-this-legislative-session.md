@@ -49,15 +49,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
-    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
-    publishedDateTime: 2024-01-30T16:08:00Z
-    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
+  - title: "Trusted, transparent AI is fundamental to next-generation decision making"
+    excerpt: "Transparent, explainable AI is more than a story of customer confidence. It’s about having trust in strategic decisions your business makes based on your AI’s analytics. Trustworthy AI is quickly becoming one of the hottest business debates on the planet."
+    publishedDateTime: 2024-02-01T04:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/trusted,-transparent-ai-is-fundamental-to-next-generation-decision-making.html"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 29
+      name: ITWire
+      domain: itwire.com
+    quality: 38
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/107319a4967fc4ebfc0e9e6a355f01c6_M.jpg"
+        width: 375
+        height: 231
+        isCached: true
 
 secured: "MgpiHLlORRyf8AdADfo6BSpUFRNKJwUk1vSLzbz9QlayNXBvsa/Upcu58m07orlo7HfvUlIciwmJLL6ZPfPL/RzMEZR7K92xMnCE3V3Yv72tNTrUP4IKgUCLcGN7YJSzCBQgm9gimpRG8uZF4sc5U/xAYs8xxlJz2lGGckL2qCZL+8I5Eeu+TxBMrKJK10YxDDPHctxZaKq+q/Q4wIUsFLw753tenXntp8wZpZKg6rJj5BCHRktw4XL5F0r1Qe5QYCvJO/Fh2/kNhz6XU49i96EIMNOw6epJIqJ/PPv+hKgPhcc/D5lmx3lQj/Y9eAAnoGkSlWiqV8sMZNFiAgccZeUpHUJY8+/fS4+juDPdEKEkBvTJTOdKX0SLB7pwQdwdtIdC+FyY8WCMyX2Cs3ItqA+G95AooHeAGwqy4GnaLLKjwilOxiVWw1ufu3kqE74M+o1uvtbvHlCiM7wvs7XDLWphUQJ+1oi3eQeHNvpTdRcTnM/tMMeD6Fdc2njgR/xF5xe0jkXzxcl9GQiiOki1gA==;Y5mopoVLrlVIF9g7nh0MAQ=="
 ---

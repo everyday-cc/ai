@@ -143,6 +143,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Buy Rating for Microsoft on Strong Q2 Earnings and Dominant AI-Driven Cloud Growth"
+    excerpt: "D.A. Davidson analyst Gil Luria has reiterated their bullish stance on MSFT stock, giving a Buy rating today. Gil Luria has provided a Buy"
+    publishedDateTime: 2024-01-31T10:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-microsoft-on-strong-q2-earnings-and-dominant-ai-driven-cloud-growth-1033014835"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Insight Enterprises inks new multi-year Microsoft Azure deal"
     excerpt: "The company has received 65 Microsoft partner of the year awards in the last decade, including 11 worldwide awards for AI, Azure migration, IoT and mobile app development, among others. One of the first partners to publish offers for Microsoft 365 Copilot ..."
     publishedDateTime: 2024-01-31T00:03:00Z

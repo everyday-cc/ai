@@ -19,77 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "6 Job Openings for Responsible AI and Ethics in India"
-    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
-    publishedDateTime: 2024-01-29T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
+  - title: "Nine was slammed for ‘AI editing’ a Victorian MP’s dress. How can news media use AI responsibly?"
+    excerpt: "Generative AI is everywhere, including licensed software tools that news media use for their work. Everyone needs to learn more about these features, their risks and benefits."
+    publishedDateTime: 2024-02-01T01:06:00Z
+    webUrl: "https://theconversation.com/nine-was-slammed-for-ai-editing-a-victorian-mps-dress-how-can-news-media-use-ai-responsibly-222382"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: The Conversation
+      domain: theconversation.com
+    quality: 26
     images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI Boosts Crime Detection in Indian Railways with Facial Recognition"
-    excerpt: "AI Boosts Crime Detection in Indian Railways with Facial Recognition - Indian Railways has embarked on an innovative initiative to elevate passenger safety, with the"
-    publishedDateTime: 2024-01-31T17:42:00Z
-    webUrl: "https://www.siliconindia.com/news/general/ai-boosts-crime-detection-in-indian-railways-with-facial-recognition-nid-227645-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/k7Hfitcw.jpg"
-        width: 570
-        height: 367
-        isCached: true
-  - title: "The economy and ethics of AI training data"
-    excerpt: "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans."
-    publishedDateTime: 2024-01-31T22:12:00Z
-    webUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 54
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Union Budget: India needs to spend on Graphics Processing Units to compete in the AI world"
-    excerpt: "The joint report of Nasscom and Deloitte recommends that integrating Gen AI into our existing digital payment infrastructure (like Aadhar and UPI) could enhance its technological capabilities, inclusive access,"
-    publishedDateTime: 2024-01-30T09:53:00Z
-    webUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/union-budget-why-india-needs-to-spend-on-graphics-processing-units-to-compete-in-the-ai-world-13669842.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 49
-    images:
-      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/doomsday4.jpg"
-        width: 640
-        height: 362
-        isCached: true
-  - title: "Experts explore insights on personal data, AI and responsible tech use"
-    excerpt: "Qatar has a liberal data protection law when it comes to the crossing of the border by data and the country is looking at engaging with"
-    publishedDateTime: 2024-01-31T07:58:00Z
-    webUrl: "https://thepeninsulaqatar.com/article/31/01/2024/experts-explore-insights-on-personal-data-ai-and-responsible-tech-use"
-    type: article
-    provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 39
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20210121_1611205231-270803.jpg?1635250003"
-        width: 960
-        height: 640
+      - url: "https://images.theconversation.com/files/572616/original/file-20240131-17-f3bxeg.jpg?ixlib=rb-1.1.0&rect=185%2C179%2C3628%2C1814&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "EpJUO9FGbrZ8czpfN90Yq4nlbirBF4Cp9aCafY3feykA9OxHy+7kfiGan9YOUhH/dssjko3+MG4Obes/oDUiIqVuQoLm3KBbdMruW9gCGlSlho7iFQUjU5w+ofLZ0EhErSddw5WLBQTS9lwcKkoRkt6HSpkJ83KEgkAsv7yJ+GdfusRAE/q39xf7Fcnl9NgcFBcGjO163xWVrwOwUHvZkT8aawrkCm1YAvO7eXrHsQvrZxcO6QxeWBsGJksOrV+b3P/lYHIA9HuE+fPhQFxsbCBksvqsQJ4g6OfYu4dL3P9aey2HszDkwE4S5nf+c6Xf8L6mo6jO0Z8GytC8ULZrqm6UriBGccZMGTA/xeJNTA4=;33fHJv2piMTo+YJEAvbs6g=="

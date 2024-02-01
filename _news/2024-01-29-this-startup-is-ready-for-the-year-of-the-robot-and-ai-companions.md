@@ -39,6 +39,20 @@ related:
         width: 1050
         height: 900
         isCached: true
+  - title: "Trusted, transparent AI is fundamental to next-generation decision making"
+    excerpt: "Transparent, explainable AI is more than a story of customer confidence. It’s about having trust in strategic decisions your business makes based on your AI’s analytics. Trustworthy AI is quickly becoming one of the hottest business debates on the planet."
+    publishedDateTime: 2024-02-01T04:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/trusted,-transparent-ai-is-fundamental-to-next-generation-decision-making.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 38
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/107319a4967fc4ebfc0e9e6a355f01c6_M.jpg"
+        width: 375
+        height: 231
+        isCached: true
   - title: "Artificial intelligence regulation a major theme this legislative session"
     excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
     publishedDateTime: 2024-01-29T21:26:00Z
@@ -53,15 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
-    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
-    publishedDateTime: 2024-01-30T16:08:00Z
-    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 29
 
 secured: "XVC8iGYcjO6kXIPooLi2sbfXWTmFi7Y+0KC3wCQjRnmPM4yG2GmOYLyGrKliqv4uwaUoxnuYSaYJAlXY0GOEiQ+D1zOdjX4Yx3fE0+zYSKG6qU+WmyvSeLirF1hmlDqiFmHqhkyG9QJFVfnssKUddP+pN1CuEgvW+3TWcTuH4ESvAldyAKqQTd3oqlKYSuFg78CulI+XGxSOWaguSUNiXaUJOjrIaO9CR0H4Z32V72zrGyEUKscso8eK0L4LjI+rbrhmUor+o8zjWaJlycLEKuQqDopQjzd7f22eZLRqksHNMHEh3xf6nDyrNpQy8dSIUhAtRvvVkc0gB4B4FrDDT7VxdBQe6hqZ5CWf/rT6RPMxogf1J1/wS0rU+MGZ1Sjtl2Rb48EojkXNHUfvnLyja7xOx8mIGhHSuACsESdoJwGaXjOuDFSbNhaux/S21XqOQeiMcrKY42UUCgDuBQ1uCKLVvyBMcemvgmM38kzrCOHugPp1DnZK5e42EmhivRfrKsQ2Ac0ODFL6oRuX/5rWXg==;F3j9YzviqST9E9Xlz1L3/g=="
 ---

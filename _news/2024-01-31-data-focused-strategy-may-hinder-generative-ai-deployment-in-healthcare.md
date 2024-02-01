@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
+  - title: "Are Consumers Left Behind in Healthcare’s Generative AI Talks?"
+    excerpt: "A new Deloitte report illuminates healthcare's blind spots when discussing generative AI, in particular pointing out that patients and healthcare consumers are left behind in these conversations."
+    publishedDateTime: 2024-01-31T11:59:00Z
+    webUrl: "https://patientengagementhit.com/news/are-consumers-left-behind-in-healthcares-generative-ai-talks"
+    type: article
+    provider:
+      name: patientengagementhit
+      domain: patientengagementhit.com
+    quality: 34
 
 secured: "R14kWpsY5ywMCEjaDa656NgGtegItWRfwv2CJ+2BQe6XJRpYteF6TnhcEb5zzfGXf+kALQPvfPljyEUMGRPhtJWe0FwyvhgyaYlF3XnmmCblpMntPgR9q0s/Cu2rPpG00YReIG3R+jlMpQqFAVHWIKSXunY4TcGEKjuOOOaHx/IIYwe5zTGjqylW0whMofPERrHSYUMjw9PJj8WkGz/AZiMwPlTpV1jxC9FonEaz6oqVPxeb3BLVmCpwkgcZ25FrIDsu+/hR9AUUVqqsgwAjrNQBJ4jQ4qswb+wipyKC5zrNfDkocOsIuB8P52LT/brbY3eqN2anIGCkoIrmPSJCmq76geiVcASlJW8EV7YFL0g=;bJqpM2OWankDJ6M9/YBf6w=="
 ---

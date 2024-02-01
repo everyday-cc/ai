@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-31T14:23:00Z
 originalUrl: "https://fintechmagazine.com/articles/integrating-rpa-and-ai-the-future-of-automation"
 webUrl: "https://fintechmagazine.com/articles/integrating-rpa-and-ai-the-future-of-automation"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://assets.bizclikmedia.net/1200/f3cddb89296f98410a26ecf4dbc5a68c:4713206bf2d9e5ca2fb434ea8caccbea/gettyimages-1750773501-1.jpg.jpg"

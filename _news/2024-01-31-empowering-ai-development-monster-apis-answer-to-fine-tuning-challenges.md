@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-a
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240131pd214_files/2_r.jpg"
         width: 336
         height: 224
+        isCached: true
+  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
+    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
+    publishedDateTime: 2024-02-01T03:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
+        width: 800
+        height: 451
         isCached: true
 
 secured: "bnOAB3/Qw6gGUVoyC2cPFJ0O0vyy0LU1SDrZK65/bgRGoOndLtcx40rxzw7u9z2UQfFO8+haLpp3SxBCtORU1H7KDHBEjRxWNFtjPDNEczIKrJUKYN15fzxfh3QHNjBWtzbAoOyfWEiAcWrw+BT+2Gvt6335b2GHOGlL5a17h9Gpaog9Tv6dMMfSOm3foYEKOayygDtBbi/JTQ1PVFf15PQ5NTUFdzIPNCmRaWSaYRWM/jARM734qMGldg7Rbzeq/wxLQtePXoF8S4+aFypwuvxfm9BIZCyvv01FQSGz+ewyO3qmbN3xnL7snZhdvfyUE5yx9qKJbdgqJw0WuK+6d/eUK2ya5N4JNiQwBBfGzjmZVG2h2ayR5S36t9Cp3oMRZUK/DZh6dJRA4UwDV/P8b+PAAv33hgpjo4+LkMq0msXDdsKZrUIfW2H/79ArAB17em0PhIzH6o/B17SF7GJAt7Xdw63ngcP9F4zWw2AwXW/CKB0a8iw43i7vJ1QMenxN05Fc8wm/N4T4FeA3z8qnHQ==;FHidMKqaxe/FdexmNTOp9g=="

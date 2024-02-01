@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ola Founder Bhavish Aggarwal's Krutrim Becomes India's First AI Unicorn"
-    excerpt: "Bhavish Aggarwal's AI startup Krutrimt has become India's first AI unicorn after successfully closing its first funding round with a remarkable $50 million investment led by key investors, including Matrix Partners India. \"At Krutrim, we are committed to ..."
-    publishedDateTime: 2024-01-27T00:00:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/ola-founder-bhavish-aggarwals-krutrim-becomes-indias/468894"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1706335388-newbhavish.png?format=pjeg&auto=webp"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup"
     excerpt: "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion."
     publishedDateTime: 2024-01-27T05:08:00Z
@@ -70,15 +56,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Krutrim & AI — Bhavish Aggarwal’s Biggest Bets"
-    excerpt: "Bhavish Aggarwal’s Krutrim has come out of the gates fast and furious in a bid to create ‘AI For India’ and compete against tech giants"
-    publishedDateTime: 2024-01-28T01:29:00Z
-    webUrl: "https://inc42.com/features/krutrim-ai-bhavish-aggarwal-biggest-bet/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 17
   - title: "Ola Electric Founder's AI Startup Krutrim Becomes India's First AI Unicorn"
     excerpt: "Krutrim is the first Indian AI startup to gain a billion-dollar valuation The name Krutrim translates to “artificial” in Sanskrit Krutrim wants to create servers and supercomputers for the AI ecosyste"
     publishedDateTime: 2024-01-27T12:51:00Z

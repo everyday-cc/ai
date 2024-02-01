@@ -7,8 +7,8 @@ originalUrl: "https://www.brecorder.com/news/40286158"
 webUrl: "https://www.brecorder.com/news/40286158"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Recorder
@@ -26,29 +26,45 @@ images:
     isCached: true
 
 related:
-  - title: "How Are Healthcare AI Developers Responding to WHO’s New Guidance on LLMs?"
-    excerpt: "This month, the World Health Organization released new guidelines on the ethics and governance of LLMs in healthcare. Reactions from the leaders of healthcare AI companies have been mainly positive. However,"
-    publishedDateTime: 2024-01-29T21:59:00Z
-    webUrl: "https://medcitynews.com/2024/01/ai-llm-healthcare-technology/"
+  - title: "Beyond Boundaries: The Promise Of Conversational AI In Healthcare"
+    excerpt: "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ..."
+    publishedDateTime: 2024-01-31T23:12:00Z
+    webUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://medcitynews.com/uploads/2021/11/GettyImages-1077219356.jpg"
-        width: 788
-        height: 443
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1466
+        height: 900
         isCached: true
-  - title: "Are Consumers Left Behind in Healthcare’s Generative AI Talks?"
-    excerpt: "A new Deloitte report illuminates healthcare's blind spots when discussing generative AI, in particular pointing out that patients and healthcare consumers are left behind in these conversations."
-    publishedDateTime: 2024-01-31T11:59:00Z
-    webUrl: "https://patientengagementhit.com/news/are-consumers-left-behind-in-healthcares-generative-ai-talks"
+  - title: "HYFI 2024 Singapore: Beyond Boundaries: Web3, AI, and the Future of Technology"
+    excerpt: "HYFI 2024 Singapore is expected to attract an estimated 500 participants, including industry experts, entrepreneurs, investors, and technology enthusiasts. With its prime location at ONE°15 Marina Sentosa Cove, this event promises an exceptional experience in a breath-taking waterfront setting."
+    publishedDateTime: 2024-01-31T06:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954688.htm"
     type: article
     provider:
-      name: patientengagementhit
-      domain: patientengagementhit.com
-    quality: 34
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://lh7-us.googleusercontent.com/1CIbayrhXlgVCyUjlI6QzQzinJygASV1z3UlmzeC9V7RTkntkxDp5yalKvxHXDinq6Iu6DhJQnBaxY9dzHgYEqN9FWYL18dLjG9o_wRxGPrxgZ1bMdjXw9Mo_WuRLzKX5Gx2QXxuNuVYdL3vRZPtsd1DMCqnlJDn2bHRO9BG5be67ghQBh032iEN1b2gpVYw-j1i-2NaWA"
+        width: 1600
+        height: 934
+        isCached: true
+  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
+    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
+    publishedDateTime: 2024-01-30T16:08:00Z
+    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 29
 
 secured: "yFHBIGZpV21mX9OemHcoLuItVvyra/fvPEZ9Te2ZZR4o4xpqvIafLo6PBziegP8SMJ9ZyxKShWetbx7oYgbY40K65eyEsNg44nVezo17POEn+Qu+6pq8FcJlmabgLw/o88R5g2KsA5tHGdbLJE1+edqeAdfGwmE+dPbk0BOfiofej/m6xUIfW5BG3XvMDnJycOKpjRO3edr76/+uyemroGQXS3a3B1UkpX6Q6veYW31oXYZlBbFNaoKezY+sSfB9zXJWtYOGsKikC9+aCz2ZHe1cWT9YZZeOLsRR2gBKCKYK/COAsRKgzg30GvzrHLejchZa2PxFqvCXjODTfYrjxtMEswvbZCWD2tvd4RLFn7Q=;DIYXlSYkTdyp+kmI9kSBMw=="
 ---

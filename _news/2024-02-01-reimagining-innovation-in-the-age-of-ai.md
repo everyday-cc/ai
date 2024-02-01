@@ -56,6 +56,20 @@ related:
         width: 336
         height: 224
         isCached: true
+  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
+    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
+    publishedDateTime: 2024-02-01T03:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
+        width: 800
+        height: 451
+        isCached: true
 
 secured: "9HUaZLodCgFy2cb6GNmz1Ih/ssuHKgSWphdY4ONHc4JOl4VPz6sRWUgO+wyLO2iVS1y+t2lQht/Tc9Qk7vadG3vhjnok67S4CKnYihUYClIQuTkPR30CDM3OGQjklpoAQp6sRkbeNP+nu6MsQWgZWziX5TtWaB4XGOmWMpt3YW+jbL0gmhkk4t6SoEzz8lwdDoexES37S4YAiPkJWInd0HEvCOYcCEeSaOr15ITsoeZXyWOCIhTZtxSIR0FUN34kpFKpk2lbn7qg24rkSI9UgbIYbZaESOqHxBldP6Kiryz5tfmdFAWCuZxAQDxepwZc31C2p6r30cRf5A1kIS1SVylORSSQIvmz6IJxuyOYSZTGQ5BhL4h6X9INMV1xP2iDj93/6c+IRiiH7G6/4vmgXN5pfFbQH9lPZqB/Q6sZTJJUpKvT76RnYHSKuNcwMmecC7wWKnaxgG4EBRxMMOcotcsDBIlabk3lnv8yN+EMmebHwugUd6LcC9YQRvF3xOEJX5698GjjQrUfqALdNXJ19g==;r875wr4Ct+tyflFuVV/zsw=="
 ---

@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Elon Musk Aims for $6 Billion Fundraise to Fuel His AI Startup’s Growth"
-    excerpt: "According to a new Financial Times report, Musk is looking to secure $6 billion in fresh funding for his startup XAI. This enormous target reflects Musk’s ambitions to aggressively scale up XAI and compete at the top levels of the red-hot AI sector."
-    publishedDateTime: 2024-01-27T05:04:00Z
-    webUrl: "https://techreport.com/news/elon-musk-aims-for-6-billion-fundraise-to-fuel-his-ai-startups-growth/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 37
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/01/Artificial-Intelligence-in-Indonesia-The-current-state-and-its-opportunities-2.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Elon Musk says his AI startup xAI not raising capital"
     excerpt: "Musk denied a report that xAI had secured $500 million in commitments from investors toward a $1 billion funding goal."
     publishedDateTime: 2024-01-27T13:23:00Z

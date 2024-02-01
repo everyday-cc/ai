@@ -7,8 +7,8 @@ originalUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-a
 webUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: realtybiznews
@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
-secured: "PO3Au9mY7JMCJG6TE7Klr3HlOIPs0avSXaGYEOycy/eZn3x+S9q7M7TCdP5rAt7IUsdIP1ZJJjlKu4XIDwbaMGpURdXwZp1Fq1Gho7q2PJewq8viU4aSMNX6KYHEXP0eV4f3KIlnUBtK/oUDUlfl4wUQMxzMrSkg2myCXzbIG26sKz3b1MMT5m1KvHJdk9zJmMxI2o+bMOgC3PIkKk/h/hH2Y7d+XF2BD4NP2v8sp0w9LVt7v7dHP9+Dplmew8KtYGeQ3ZbZcF3pVC55rjej3FeiUUuX07getO20iyDbGnHX84OwgHR/I6nA/QRS3J/j/CBF43ryMy34akYt9xCbEyyyG1Gu/AXF60Us3KPvZA0=;wRvHsEdVQz76/zWW3blEOw=="
+related:
+  - title: "Robots And AI Tools Set To Revolutionise Real Estate"
+    excerpt: "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence"
+    publishedDateTime: 2024-02-01T04:47:00Z
+    webUrl: "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "YTwY7ThokXiRrmlSsT1zKgTpMjL4cpWWNEYEyDvRq4S4FjEeXyYfk3ZKIQrJL3Zw38OLe1odX5oL41OmyBJnttCd6sh7GJdsmEUxQlLtCQEnQ1GiKvZ+iZNGGmX72SE3nhRddAF9bsq8IxoNqaV8Ypy5F0QPIDeP7ID9PlE9tvKMXMmlg68WCPRVzOt26/FaI9/SarDB/XVffNOoeU+IrE6NiwTPPwDziCBfLdSWot8FULLaIN0QuxaMkOnECmlqXH3bo141Bqj7vbBoSjJC+XWT2xpEQWFSjodyBbfYOQOdUl2ucIIRalwUtzpgbgihVml4mI1Z4/HWwnhzMW1klTvF6smCIraKAwKsjuBBxV6y54KMr0eThqoFfvkPYm9OA7icRj/tBsCSnnFzKZmyV91M1LN5QLI0OhZHD6yNeAU4gKdquKQIw9ag8vRK+doqVgaxgIvC0w5kt0wdHNqVEPc6fyGUubwmhBQsdfp4hqXnfGhuva52SmI+rY21RmuOuEEgr4oQlcsBt97hIJlA6A==;QoZXzS5YZ+yH0tXk2jJJXg=="
 ---
 

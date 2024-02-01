@@ -24,6 +24,17 @@ images:
     height: 682
     isCached: true
 
+related:
+  - title: "ThoughtSpot Touts ‘Data Renaissance’ with GenAI Update"
+    excerpt: "Analytics tool provider ThoughtSpot today rolled out a host of new generative AI capabilities that it claims will set off a “data renaissance” among its"
+    publishedDateTime: 2024-01-31T22:51:00Z
+    webUrl: "https://www.datanami.com/2024/01/31/thoughtspot-touts-data-renaissance-with-genai-update/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
 secured: "8ikabWP3Uh8KRbtXY41bfIcAmZQThxbc/7dcvioi03mQtAxphQxIPghq8/qEpA2lgPhRewwWq1LR+bjxb2wPm+b7PW/tpIhqvprOshCuUUBq4DyUZ3Sm2gHGtUoOYH9xsCuRNEsXlO0LNAdNjMBfy4abncg4JxrrGrqW53PQNqMYzvcjh+kMUfeIdiEbTwXAwdeFzcXAkD/aNudRtu6haZ+/QqWJC5v4pBjXqopOMdXugFgMpjc+lQGsj/+wvYdPGfF9+cdNfL9PRj315vo3igyXUDQS1ee8cdbhllH07+D6yQ025JPCZ3M/K2mTJDCDxk8eZJbUQQ01T7lcGptUYNzVvwOHSlCaSAR7tWOVHXw=;PfgNF2QTqlqCElC+xvbXGA=="
 ---
 

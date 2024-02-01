@@ -19,44 +19,49 @@ topics:
   - AI
 
 related:
-  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
-    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
-    publishedDateTime: 2024-01-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+  - title: "Beyond Boundaries: The Promise Of Conversational AI In Healthcare"
+    excerpt: "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ..."
+    publishedDateTime: 2024-01-31T23:12:00Z
+    webUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 94
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1050
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1466
         height: 900
         isCached: true
-  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
-    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
-    publishedDateTime: 2024-01-29T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
+  - title: "AI in healthcare – risks and rewards"
+    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
+    publishedDateTime: 2024-01-28T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40286158"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Artificial intelligence regulation a major theme this legislative session"
-    excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation-a-major-theme-this-legislative-session"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 36
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/1431b27/2147483647/strip/true/crop/2000x1050+0+275/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F25%2Fbb71713941e7bb4959907c8ae495%2F42271822770-09cee734c0-k.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "HYFI 2024 Singapore: Beyond Boundaries: Web3, AI, and the Future of Technology"
+    excerpt: "HYFI 2024 Singapore is expected to attract an estimated 500 participants, including industry experts, entrepreneurs, investors, and technology enthusiasts. With its prime location at ONE°15 Marina Sentosa Cove, this event promises an exceptional experience in a breath-taking waterfront setting."
+    publishedDateTime: 2024-01-31T06:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954688.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://lh7-us.googleusercontent.com/1CIbayrhXlgVCyUjlI6QzQzinJygASV1z3UlmzeC9V7RTkntkxDp5yalKvxHXDinq6Iu6DhJQnBaxY9dzHgYEqN9FWYL18dLjG9o_wRxGPrxgZ1bMdjXw9Mo_WuRLzKX5Gx2QXxuNuVYdL3vRZPtsd1DMCqnlJDn2bHRO9BG5be67ghQBh032iEN1b2gpVYw-j1i-2NaWA"
+        width: 1600
+        height: 934
         isCached: true
 
 secured: "BkOYBr1vb1suhSNJZ1mLXELRDI3L8R6ekn40YqMNhwGGey1KhKfkXtszvfE/zi8fHXOjxcBKSza67IKv/FVe2uSlkWzySeMtKsvvbJsbnl/+gk0qZY0uACedeSHcTBfQFjIHmiiWHRLjA9DnIyNf7RXjU9Gh/Y2QYgKBlkSzRURpCDzhJU/srvhPaB1yfEGyiy+QG+z5T60E4uE9scQ/if+8cDD4d58NgkjAO46K9mltWPX206wdcZfgjp/JC73paVnfmt3n6zTocQAmqSkaR+3wqCygZ41mDU7DJEmcaYVTHN4ud3rVAfM4S2uyPjYskynIIqVCTLDPmPiuUjuUP+gzReeyv0hTAfsxfGNpMqwUosAgkwDw50CM3xajUh2xVN5b88z2ZzfGDUmkwNK2vKPvf+HSVIdTecEvnkYsqf97/vOvwdFNoiIBCFjIBfoaxEbmOwdCTGTPolC1YUuGMLe1n/VAX+CI4+fkkWCIzbBSe2VWvL0daDRsYeovR9uXK46SB1mYuJtInCXIvV3pKQ==;8Dx4Jg8MUr/apTSFqP9IDQ=="
