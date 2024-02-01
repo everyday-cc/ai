@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Natural Language Processing
+  - AI in Finance
 
 images:
   - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5080765554-AdobeStock_272020121_partners_partnership_business_alliance_supersize_1200x630.jpeg"

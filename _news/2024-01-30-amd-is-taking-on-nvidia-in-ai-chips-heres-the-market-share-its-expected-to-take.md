@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
-    excerpt: "Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader in connected TV (CTV ..."
-    publishedDateTime: 2024-01-27T09:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
   - title: "Nvidia: Don't Chase AI Too Far"
     excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
     publishedDateTime: 2024-01-29T00:59:00Z

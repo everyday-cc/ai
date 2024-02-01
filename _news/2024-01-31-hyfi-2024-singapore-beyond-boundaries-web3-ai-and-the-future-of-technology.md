@@ -35,7 +35,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1466
@@ -55,6 +55,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "AI and healthcare communication"
+    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
+    publishedDateTime: 2024-01-28T02:26:00Z
+    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 36
   - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
     excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
     publishedDateTime: 2024-01-30T16:08:00Z

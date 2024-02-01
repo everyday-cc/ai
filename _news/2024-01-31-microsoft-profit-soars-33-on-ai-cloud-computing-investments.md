@@ -59,6 +59,15 @@ related:
         width: 3727
         height: 2485
         isCached: true
+  - title: "Buy Rating Affirmed for Microsoft on Strong Azure Growth and AI Expansion"
+    excerpt: "BMO Capital analyst Keith Bachman has maintained their bullish stance on MSFT stock, giving a Buy rating today. Keith Bachman has given his"
+    publishedDateTime: 2024-01-31T10:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-microsoft-on-strong-azure-growth-and-ai-expansion-1033014840"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
   - title: "AI robot startup Figure in talks for funding round led by Microsoft, OpenAI"
     excerpt: "US-based startup Figure AI, specialising in humanoid robots, is reportedly in discussion with Microsoft and OpenAI to lead a funding round to secure $500 million. According to a Bloomberg report, Microsoft is expected to invest approximately $95 million, with OpenAI contributing around $5 million."
     publishedDateTime: 2024-01-31T09:28:00Z

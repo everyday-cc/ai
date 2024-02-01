@@ -57,6 +57,15 @@ related:
         width: 567
         height: 536
         isCached: true
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
+    publishedDateTime: 2024-01-28T08:00:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 64
 
 secured: "qVJD+LjsYhq5TJ10KBaJP8R8HSZUGLodEfPoWjtsmpa06QwSeyFcDxHlLmD6QLh9WP6w+/5NNdCfUnzFPmnU6QA2Q5cBjmcMMERa474SfFDL8tl4oOJOKsjQfKr5ILB+zQnIlbFSC26BNrIkPk3rEOlz5H3bzmaNiXVrhVAgxpLpGFNpxPmBiHw9AjYB+NtHVGBGlZWlkTzNQFtIzgSImKBTVxid44DA8Jr0pRejutpWsW4nQyRa0JMIa0zXnV18RfTNNSs44X5SkQLTEzrALL+4pSYqMhyNKmAMPMxWBhHiAqBpYYwaf4m/VZAGVwDai/3Y3LLcVOwT96933xSIf8r0zuDPQxB6cj2N4PxmHLI48BnUG30BqavyYnQL09sOo5+olyVdroLcjeqf5Q0GCgiRTdVcKcgKQWmCOG/uPCQrU+l88BfW5I+aB6oNpdNt5Ni13FJxcWijC7EadCipC7h0pvgJ/JeIgwDVpQBN19ZAkyfs7cOAIbg4gdwe8K0D+CANdezOMgFEPhwgg/IBZA==;jSVa+Pui72SFeeiDP8cdOQ=="
 ---

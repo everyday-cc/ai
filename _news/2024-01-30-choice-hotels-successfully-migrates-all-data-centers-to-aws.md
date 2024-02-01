@@ -39,6 +39,15 @@ related:
         width: 1080
         height: 567
         isCached: true
+  - title: "Choice Hotels Makes History by Moving Entire Infrastructure to AWS Cloud"
+    excerpt: "Now fully on Amazon Web Services (AWS), the move to the cloud enables Choice to respond ... tools more efficiently and more completely layer in the power of Artificial Intelligence (AI) and other cloud technologies to help hotel owners drive profitability ..."
+    publishedDateTime: 2024-02-01T08:46:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/choice-hotels-makes-history-by-moving-entire-infrastructure-to-aws-cloud/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 18
 
 secured: "klJqHvG5rqygjUybne1qTE9bp9kb/+SdQrzlsiR5eBhhBDN9EUyzaOzS9ysgd2u0Kk80mOpJmsIRLT50kDoMiNVnV6kCBOEwHL8ShKBguHI5GUKGDJ63BYIAmN5FXa7hrdJhEOqamojCf3XRbktPk8FjDT7ZJHO36iJjw/Li1L78Mhta9GvPe2+wLeCSntHoZtUHLxwYbsPcqAFjc9mfksZkwGK1thtiJrROIuJ6H8zMo/D3ZiJeImSE/D/2gWawJtE/x0LZrtwY8VchZkcTD1oyLNulL2AdEhGhbYzUpG7G8XjXAuOKD+fzmMR4OJLHF6ETHTiEINxJHy86CPPXZT3N7XH30C+O1lyV0Khmvwkf65JtXVlHLovuOWYIkiAfR8uEo+IoYbHkTeZ6n7XJqCKE4Mjyh5cMiaixAqmS7rQkATyF+LDYUjyimEcqd5vMs/nZllrXfqL9fx30KYBW2MCF+0qmRWat4wKtrm4I+/A9M5v5oQT1C/44DjMDsGz4Su792OueC6YNBi3MSWJwOw==;2Fo53/cztL40oal56yk3UQ=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is Siri an AI? Will Apple embrace ChatGPT and modern AI?"
+    excerpt: "Apple released Siri over 10 years ago, but has it fallen behind new AI chatbots like Bard and ChatGPT? Yes, but here's how Apple may catch up."
+    publishedDateTime: 2024-02-01T08:40:00Z
+    webUrl: "https://www.androidauthority.com/is-siri-ai-3409932/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 86
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Siri-telling-a-joke-on-iOS-17-Standby-Mode-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
     excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
     publishedDateTime: 2024-01-31T22:34:00Z

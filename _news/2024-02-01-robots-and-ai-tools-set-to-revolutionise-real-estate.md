@@ -39,6 +39,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics"
+    excerpt: "Embodied, Inc., founded by American Paolo Pirjanyan, is a leading company in the field of robotics and artificial intelligence. Embodied's advanced robotic companions aim to enhance people's quality of life."
+    publishedDateTime: 2024-01-31T10:01:00Z
+    webUrl: "https://armenpress.am/eng/news/1129253.html"
+    ampWebUrl: "https://armenpress.am/eng/amp/1129253"
+    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253"
+    type: article
+    provider:
+      name: Armenpress
+      domain: armenpress.am
+    quality: 65
 
 secured: "eZNR21DyO45OFf6VHdPk39o1ohYJPCGg8Ire2eqdHTYtebvsU/zcRLoFdq1TjQP/vwDMR1X59ZAnKQ11XIDq69i/FFNV2aBLv2h5gKJBbJ/4+Nv17/LREcEVDMPpwh4no9PNMefo52nrg/of+LjC8mCc2yHyrx/plFThtjejGSwkB5wbYYVuUPBlG4xcAswuaX2NMvHd+d1WZXIWXZChl+UlGABGsZUZ26N3ILONBC5kK+Qpn0u/1vwNkGQrixrJ/QCufprABsZ6CU37ttFY9N6hAl9YlDVFJja1tIQ1fh1s985KRR41hBmduBjNQkip0DxgpO5Xc5L9lJry4TamN/0BjjNv/fZIR3cNc5IwT94=;aF+ZiDAl8KMPMhWTg1UbOg=="
 ---

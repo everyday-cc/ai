@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 831
         isCached: true
-  - title: "What drives Samsung's decision to skip Galaxy AI in Chinese Galaxy S24?"
-    excerpt: "This includes AI-based real-time call translation, summarisation ... stating that it is now on par with GPT-4, a language model developed by OpenAI. The emergence of advanced language models like ChatGPT and others prompted Chinese tech companies to ..."
-    publishedDateTime: 2024-01-27T10:09:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/samsung-decision-to-skip-galaxy-ai-in-chinese-galaxy-s24-2024-01-27-913929"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 59
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/samsung-galaxy-s24-series-baidu-ai-china-1706341467.jpg"
-        width: 360
-        height: 202
-        isCached: true
   - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
     excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
     publishedDateTime: 2024-01-29T10:37:00Z
@@ -102,6 +86,20 @@ related:
       - url: "https://localnews8.b-cdn.net/2024/01/qsNeacaJ-slot3-375x225.jpg"
         width: 375
         height: 225
+        isCached: true
+  - title: "Samsung’s New AI Robot Vacuum With Mop Finds Stains and Steam Cleans Them"
+    excerpt: "Spread the loveSamsung Electronics has once again revolutionized the smart home industry by unveiling its latest innovation—a state-of-the-art AI robot vacuum that does more than just sweep the floors."
+    publishedDateTime: 2024-02-01T08:25:00Z
+    webUrl: "https://www.thetechedvocate.org/samsungs-new-ai-robot-vacuum-with-mop-finds-stains-and-steam-cleans-them/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 53
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/05/photo-1531837763904-5d3cb2632ea3-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
   - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
     excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."

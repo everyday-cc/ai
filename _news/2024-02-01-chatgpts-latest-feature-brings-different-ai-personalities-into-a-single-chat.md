@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Is Siri an AI? Will Apple embrace ChatGPT and modern AI?"
+    excerpt: "Apple released Siri over 10 years ago, but has it fallen behind new AI chatbots like Bard and ChatGPT? Yes, but here's how Apple may catch up."
+    publishedDateTime: 2024-02-01T08:40:00Z
+    webUrl: "https://www.androidauthority.com/is-siri-ai-3409932/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 86
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Siri-telling-a-joke-on-iOS-17-Standby-Mode-scaled.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI Game-Changers: ChatGPT vs. Llama"
     excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
     publishedDateTime: 2024-01-31T18:26:00Z

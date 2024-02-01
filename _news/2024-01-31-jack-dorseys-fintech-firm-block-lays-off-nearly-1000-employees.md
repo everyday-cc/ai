@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 751
         isCached: true
+  - title: "FinTech, VR, AI, and the Reshaping of British E-Commerce"
+    excerpt: "The trajectory of e-commerce growth in the UK is remarkable. By 2026, it’s expected that global retail e-commerce sales will leap from 6 trillion to over 8 trillion US"
+    publishedDateTime: 2024-02-01T07:00:00Z
+    webUrl: "https://thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/"
+    ampWebUrl: "https://thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/amp/"
+    cdnAmpWebUrl: "https://thebusinessmagazine-co-uk.cdn.ampproject.org/c/s/thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/amp/"
+    type: article
+    provider:
+      name: thebusinessmagazine
+      domain: thebusinessmagazine.co.uk
+    quality: 59
+    images:
+      - url: "https://thebusinessmagazine.co.uk/wp-content/uploads/2024/01/Payrow1.png"
+        width: 2008
+        height: 1050
+        isCached: true
   - title: "The rise of digital banking: Fintech trends in 2024"
     excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
     publishedDateTime: 2024-01-29T18:34:00Z

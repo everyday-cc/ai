@@ -20,64 +20,59 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Elevate Azure expertise with new AI and optimization video episodes"
-    excerpt: "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps"
-    publishedDateTime: 2024-01-30T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
+  - title: "Beyond Boundaries: The Promise Of Conversational AI In Healthcare"
+    excerpt: "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ..."
+    publishedDateTime: 2024-01-31T23:12:00Z
+    webUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 106
     images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png"
-        width: 1260
-        height: 708
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1466
+        height: 900
         isCached: true
-  - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
-    excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
-    publishedDateTime: 2024-01-31T17:25:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-mendix-is-transforming-customer-experiences-with-generative-ai-and-amazon-bedrock/"
+  - title: "AI in healthcare – risks and rewards"
+    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
+    publishedDateTime: 2024-01-28T23:39:00Z
+    webUrl: "https://www.brecorder.com/news/40286158"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 56
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
-        width: 1021
-        height: 511
-        isCached: true
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
+      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
         width: 640
-        height: 390
+        height: 480
         isCached: true
-  - title: "Application of Gen AI in Banks and \"Fintech\""
-    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
-    publishedDateTime: 2024-01-30T05:28:00Z
-    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
+  - title: "HYFI 2024 Singapore: Beyond Boundaries: Web3, AI, and the Future of Technology"
+    excerpt: "HYFI 2024 Singapore is expected to attract an estimated 500 participants, including industry experts, entrepreneurs, investors, and technology enthusiasts. With its prime location at ONE°15 Marina Sentosa Cove, this event promises an exceptional experience in a breath-taking waterfront setting."
+    publishedDateTime: 2024-01-31T06:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954688.htm"
     type: article
     provider:
-      name: Kompas
-      domain: kompas.id
-    quality: 54
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
     images:
-      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
-        width: 1024
-        height: 576
+      - url: "https://lh7-us.googleusercontent.com/1CIbayrhXlgVCyUjlI6QzQzinJygASV1z3UlmzeC9V7RTkntkxDp5yalKvxHXDinq6Iu6DhJQnBaxY9dzHgYEqN9FWYL18dLjG9o_wRxGPrxgZ1bMdjXw9Mo_WuRLzKX5Gx2QXxuNuVYdL3vRZPtsd1DMCqnlJDn2bHRO9BG5be67ghQBh032iEN1b2gpVYw-j1i-2NaWA"
+        width: 1600
+        height: 934
         isCached: true
+  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
+    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
+    publishedDateTime: 2024-01-30T16:08:00Z
+    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 29
 
 secured: "xZe9H9x4uWtF7J+on0e+lcEnMK05iBsmNXlaDIB5G5WwjZbPri0JY9StvYWbKwxctPKbFRydQ7kAgLzs8e3/9caTC6nfw77+0grc/zWdQ3ammJGZtclNBAYV7NKvyfW3HPl5O8AOJEKJaDZ3YrNxykFD/BHGFiRpAzEBd+M60se+oOkwd/sCtRJ6pZ+4hSjUN+63q933LGz0yOVoHkQptdBHVC5vV/vK3UiuxNefjJf0Eh1X+r6r1wnI95hyCM33hdz13C0qhZ/RD/QSm5iyP/nvgY12CqloPZzhwBq3MxT6YyX/UsM+CoScH/zuo3HvQE4jn1WRe68k9EM2wYbZrJYBhf4yHDkaHrZLMVqs7Tg=;DVMKx0zGDNyBwi4onRSQsg=="
 ---

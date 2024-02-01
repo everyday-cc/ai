@@ -51,6 +51,15 @@ related:
         width: 3727
         height: 2485
         isCached: true
+  - title: "Buy Rating Affirmed for Microsoft on Strong Azure Growth and AI Expansion"
+    excerpt: "BMO Capital analyst Keith Bachman has maintained their bullish stance on MSFT stock, giving a Buy rating today. Keith Bachman has given his"
+    publishedDateTime: 2024-01-31T10:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-microsoft-on-strong-azure-growth-and-ai-expansion-1033014840"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
     publishedDateTime: 2024-01-30T21:42:00Z

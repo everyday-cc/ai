@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "2 Artificial Intelligence (AI) Stocks With More Upside Than Nvidia to Buy Now, According to Wall Street"
-    excerpt: "Its software leans on artificial intelligence (AI) to help advertisers create, measure, and optimize campaigns across digital channels. The Trade Desk is the market leader in connected TV (CTV ..."
-    publishedDateTime: 2024-01-27T09:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/2-artificial-intelligence-ai-stocks-with-more-upside-than-nvidia-to-buy-now-according-to"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
   - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
     excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
     publishedDateTime: 2024-01-30T10:54:00Z

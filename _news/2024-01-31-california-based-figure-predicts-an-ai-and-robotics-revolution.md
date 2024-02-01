@@ -7,7 +7,7 @@ originalUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-a
 webUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics"
+    excerpt: "Embodied, Inc., founded by American Paolo Pirjanyan, is a leading company in the field of robotics and artificial intelligence. Embodied's advanced robotic companions aim to enhance people's quality of life."
+    publishedDateTime: 2024-01-31T10:01:00Z
+    webUrl: "https://armenpress.am/eng/news/1129253.html"
+    ampWebUrl: "https://armenpress.am/eng/amp/1129253"
+    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253"
+    type: article
+    provider:
+      name: Armenpress
+      domain: armenpress.am
+    quality: 65
   - title: "Robots And AI Tools Set To Revolutionise Real Estate"
     excerpt: "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence"
     publishedDateTime: 2024-02-01T04:47:00Z

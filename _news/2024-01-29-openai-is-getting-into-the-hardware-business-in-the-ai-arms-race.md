@@ -112,6 +112,15 @@ related:
       name: This is Local London
       domain: thisislocallondon.co.uk
     quality: 34
+  - title: "Libraries Provide Guidance on Using Artificial Intelligence in Higher Education"
+    excerpt: "The University Libraries, in coordination with the office of Academic Initiatives and Integrity, have created a research guide titled"
+    publishedDateTime: 2024-02-01T06:46:00Z
+    webUrl: "https://news.uark.edu/articles/69364/libraries-provide-guidance-on-using-artificial-intelligence-in-higher-education"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 30
 
 secured: "YHnkWFakfatXLh4qWSXyDsfaD7TWaDWlfQvjN8LXy4QdoP4HvGTH5IWyKI59runIyPtpvYOTI2jIL9pGotTKZb4wNlBuhj5OKALFGUujTHkzq2lyaDPeCSTufM5BxRdxM/znM4RwFkSi1knqZQmkIYXF8IJXpBrph2/uB99NA5lHvqHiCnhkZm6j4NsfxQAs6N6IbwCjkWeVIEfjipNgCzsWgpsg0GpwplkMhTjRQW3yFfew7udHu1VwLFUN1UNJJyEMoH/jUuspug8bnOQ2vRQ+WeELl5Bn2DMWYlRf2czovdaZ8sZ46pD7qRkPq4/s6CVa4EoiXc2wl3BYh2U9APkYAwVrMYwO/i3CExJIGHbKkqaUJRByXpIfUxoRknI99yUHGVgHxCnSlg8CfwZEDyJcg4u4SkbEg+x2NJk0kCEeyu7NFHazganobTOD6nRTmGPNry709VWxlihd9+/acfnqkt47m0bBZlhBz8bIILjCbQEmSaD8utbUNCA5tDRlVtZCzAl6RhvrvFIMSOs3ag==;pP5l2Ndtp4N1yjH8PurSsA=="
 ---

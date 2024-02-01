@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-mac
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/eternal-you-review"
 webUrl: "https://mashable.com/article/eternal-you-review"
 type: article
 quality: 67
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/pexels-thisisengineering-3861969_0.jpg?itok=9fke_752"
         width: 1528
         height: 800
+        isCached: true
+  - title: "AI Chatbots Are Here to Stay: Learn How They Can Work for You"
+    excerpt: "Spread the loveIn the ever-evolving world of technology, artificial intelligence (AI) is a game-changer, especially in the realm of customer service and user interaction. AI chatbots are a pivotal innovation in this domain,"
+    publishedDateTime: 2024-02-01T09:22:00Z
+    webUrl: "https://www.thetechedvocate.org/ai-chatbots-are-here-to-stay-learn-how-they-can-work-for-you/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/03/bus-1319360_960_720-660x400.jpg"
+        width: 660
+        height: 400
         isCached: true
   - title: "Exclusive: AI chatbots take aim at human loneliness"
     excerpt: "Luka executives have also been making the case that chatbots offer a safe space for people to try out dialogue and improve their human relationships. Yes, but: Kuyda acknowledged that attitudes could shift to the negative if other companies create AI chatbots that aim to maximize user attention in order to sell ads."

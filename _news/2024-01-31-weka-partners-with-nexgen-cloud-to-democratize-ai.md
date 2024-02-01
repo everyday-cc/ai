@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service"
+    excerpt: "WekaIO partners with NexGen Cloud, the leading UK-based sustainable IAAS provider, to establish a high-performance foundation for NexGen Cloud's upcoming AI Supercloud."
+    publishedDateTime: 2024-02-01T06:23:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "WEKA Partners With NexGen Cloud to Democratise AI"
     excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
     publishedDateTime: 2024-01-31T09:13:00Z
@@ -60,20 +69,6 @@ related:
       - url: "https://mma.prnewswire.com/media/2329670/PR_WEKA_NexGen.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure for Organizations Worldwide"
-    excerpt: "January 29, 2024 – VAST Data, the AI data platform company, today announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider for GPUs and accelerators in the cloud."
-    publishedDateTime: 2024-01-30T08:35:00Z
-    webUrl: "https://menafn.com/1107784909/VAST-Data-and-Genesis-Cloud-Partner-to-Deliver-AI-Optimized-Cloud-Infrastructure-for-Organizations-Worldwide"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 20
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/30/pr_11474_1101ed6c_image_story.jpg"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "LEsO6liCDK19pxoUwNvtISuHkBng8a9YWi6+uxM+CifCQTRICpnDc+Rzi+XToaYHMn7wL6mkN37bSXe/SSqUKUNHfFZM/CS83DE/S959dWo7G/PurVOrjrQteaR2NIuWrF6o+/KWLP0M4+FwgDQHnwurlIfWHRH8JlGFViZIJIltH4ClpWt8ZyN3Mc852eBnb2aZQgYvazczRZ0eAX6Z4MbqH5nz0THpgqnaBmnzA6+jIVjP2YldqHQE+1fF5PP9z8DEg+4lL1dP9B/pXMLONQAHW4FQnPegitwa/nTb2QJ1ZqzPWQflOBXi3XmvoIp6esh+DxF+bj919Q4u4OsAh01L5wbUp0irE7ENGRklOm68n8SM2nzOjmeopU9ULI4Rj0TLjNzT2qE3LSTiPj3FOYY/0QTvSAJc4/BzrPpw3fkDBF5rOJDbGOmNiaYNQE3uVk66OgtgdynSgZLuoUtrE5kOmiWgqA/2dfEQRQeTIfxbnymJ7vb0RBWKDWoSeIm+8Ueo47lNGphZfOBGFiBPcg==;ESJXAefsns6Vrl12NBIFWA=="

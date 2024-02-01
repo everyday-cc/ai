@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-i
 webUrl: "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/"
 type: article
 quality: 82
-heat: 84
+heat: 87
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-educatio
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
 type: article
 quality: 100
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -107,6 +107,15 @@ related:
       name: This is Local London
       domain: thisislocallondon.co.uk
     quality: 34
+  - title: "Libraries Provide Guidance on Using Artificial Intelligence in Higher Education"
+    excerpt: "The University Libraries, in coordination with the office of Academic Initiatives and Integrity, have created a research guide titled"
+    publishedDateTime: 2024-02-01T06:46:00Z
+    webUrl: "https://news.uark.edu/articles/69364/libraries-provide-guidance-on-using-artificial-intelligence-in-higher-education"
+    type: article
+    provider:
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 30
   - title: "OpenAI is getting into the hardware business in the AI arms race"
     excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
     publishedDateTime: 2024-01-29T14:21:00Z

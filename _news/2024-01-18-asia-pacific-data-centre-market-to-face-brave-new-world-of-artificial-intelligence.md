@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://assets.techrepublic.com/uploads/2024/01/tr_20240117-data-centres-market-asia-pacific.jpg"

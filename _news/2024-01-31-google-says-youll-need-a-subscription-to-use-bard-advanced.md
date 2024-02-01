@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-bard-advanced-subscription
 webUrl: "https://www.androidauthority.com/google-bard-advanced-subscription-3409624/"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 Ways To Use Google Bard to Streamline Your Productivity"
-    excerpt: "In the current era of information saturation, maintaining productivity is increasingly challenging. However, a solution is at hand with Google Bard, the advanced AI-powered language model. Google Bard represents much more than a simple query-answering tool ..."
-    publishedDateTime: 2024-01-27T10:01:00Z
-    webUrl: "https://www.geeky-gadgets.com/7-ways-to-use-google-bard-to-streamline-your-productivity/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-1-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google confirms you’ll need to pay for Bard Advanced — here’s what it can do"
     excerpt: "Google’s next-generation artificial intelligence chatbot Bard Advanced, will be a subscription service according to CEO Sundar Pichai. This has been suspected since Google first announced its Gemini family of models in December last year,"
     publishedDateTime: 2024-01-31T17:34:00Z
@@ -57,6 +43,33 @@ related:
         width: 1116
         height: 628
         isCached: true
+  - title: "Google’s Bard AI to Get Premium Subscription"
+    excerpt: "Google plans to introduce a subscription model for its Bard Advanced AI chatbot In its Q4 earnings call, Google revealed that the advanced version — dubbed Bard Advanced —﻿ will be powered by the upcoming Gemini Ultra language model which promises more complex and improved responses."
+    publishedDateTime: 2024-02-01T08:12:00Z
+    webUrl: "https://says.com/my/tech/google-bard-premium-subscription"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 19
+  - title: "Alphabet CEO Sundar Pichai confirms subscription model for Google's Next-Gen AI, Bard Advance"
+    excerpt: "In a significant move that could reshape the landscape of conversational AI, Alphabet, Google's parent company, has officially confirmed the introduction of subscription plans for its upcoming advanced chatbot, Bard Advance. The announcement was made ..."
+    publishedDateTime: 2024-02-01T07:37:00Z
+    webUrl: "https://www.livemint.com/technology/alphabet-ceo-sundar-pichai-confirms-subscription-model-for-googles-next-gen-ai-bard-advance-11706772862782.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 8
+  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
+    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
+    publishedDateTime: 2024-02-01T08:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 0
 
 secured: "bjM/YneAtG69RnIz5Ipu1kUKnzYyYMrdeD0KdB2XKLjWrA/D+oRhVdqmhXgAp5giYng94FU8nig/fj/6wKBvQUiL8zyL119FCHgH7m1Jwn5kD0siD98oNtZTUFKKuMgESjDbCfqRjdd6qKcq62g3cronHjT+KIdhPlIIRagz7w6oXvCQoFIs/wSGYjB7eOSHFrtyO47+qakoI3VQjSZ4XCJ8ksIArEWGEKfOAK6q5uOldNqXwZT/ZRAOkrCBTbucqGOCG7AUJGyhqvNjWsuRV7ZSqlErXeEEj0VYeFqbqsD80MaQWyEfn1RQjooLO9ewsEoU5He1c7efUsukWqqHmVEGdCcyyNORqTLoLv1w3wLN9QrzNSOIWD0UBGTEHNXQXDfmeT2gJ4aAsRODghM5TzbpDaGQZp3bw7fScENj3kbnvgHPdF4pQfFWnYj7eQ+AHkdx6RD+o1k7esATo397FoSvKPbDYPMDON+ENWlIGrTIC1ZfITpAaOlyOSmQf7bla2vQ/W96mic000FT+40sLg==;y4ayoZvl7bMjj73OoFYgZA=="
 ---

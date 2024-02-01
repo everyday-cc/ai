@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 879
         height: 649
         isCached: true
+  - title: "3 of the Smartest AI Stocks to Buy Now for Long-Term Growth"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Are you looking for AI stocks that could provide long-term ... lower YoY due to increased operating expenses, mainly research and development, and lower operating income. Despite that, SMCI ..."
+    publishedDateTime: 2024-01-28T00:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-of-the-smartest-ai-stocks-to-buy-now-for-long-term-growth-1033002759"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "3 Once-in-a-Lifetime AI Stocks With Unprecedented Surge Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips History will show that 2023 was the year that AI stocks truly took off. Many"
     publishedDateTime: 2024-01-31T10:00:00Z

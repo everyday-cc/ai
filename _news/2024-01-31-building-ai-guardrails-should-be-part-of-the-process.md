@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "7 Ways Marketers Should Be Using Generative AI Now"
+    excerpt: "Right now, generative AI is the technology making the biggest waves in marketing. Explore the transformative impact of generative AI in marketing."
+    publishedDateTime: 2024-02-01T06:07:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/01/7-ways-marketers-should-be-using-generative-ai-now/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+
 secured: "LsupQmzPpjyj4fshC30veCmnB7M+8cwmVBuwGv7kVR+wp/fR3QRIV6YhVPasecGzHMv69n2eUJbkrTRYc0lWFDVaoJU4e8jlFuCblETje7J63MjJJTozE6mCOKQdIlkdzPs1W4CGVO9cAW9M50s5iYaBzrh04tXdCUizGoWS+wdBgPE/PtHQcMcclo+qnxXZ6Kz+VQ1rrKjdO/yYQdywTaoL+mK7bUob8sMsoTWDisAodn+IyJmGO3cKi7nixHIPJpwSTQgj5V24SX6kIlvt4UPMQHz0O9pX0YVtnsk2ZcJCz3o5LEIViVvnVoaJVkYFJb3dChXfGGdH6yuzrKgzC27bDwMP3BYSQzFRKyQo3SKb067ZENWqAGmN19MmOPwKjDWJ04Z9YGSYYyZobJYSQpqBFheEn9jou4cTlDcH+1kCogLWqh55n+X1dZN1RIUndoogL2a2ZkC4z/aZg7wO/syzHVisP1HRiJdx3gNaPHLryVcttdCBxnId2Wi2c3kGonPJJwtNobxgKPaK3H2qHQ==;38zQ8p6DO52WlTwqRsNVZA=="
 ---
 

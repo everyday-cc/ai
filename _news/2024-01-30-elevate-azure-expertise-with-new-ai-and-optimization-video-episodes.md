@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-wit
 webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
 
 secured: "AtvYJxHzr1XcEqPTx77vsp83ruop7J5ikP118QwTRN7hcgwY1pL0V297N2GmqO79QZRiJzDGB3TwPiG4BXXSDmIe7Le9yOEzgByQjaEYCffDKmql+7besLxTGZOEF8pUbNgnYU9LmhcjkoCg8fVuxR3wCGhPV4BIXHlwlIQjDH8chl15CFWzf7vIqSyCajLr1srXowZjbniO55W3x7V0k6rySkSK/aLP80k7XFmxppXA6b+KJGYxr9a8vYQKyJGxCbWKEwJxlvhGnSk7XNyySsnBHCOoBekqfdjI82dalNFT4L9iWICglvOhqwqOUKNxrgdiyG2mF3VOoC3OIETzQq1u6MByYS8uQwUvUUyvdHY=;wb0ntpzLGmZrzdxR2mNo+A=="
 ---

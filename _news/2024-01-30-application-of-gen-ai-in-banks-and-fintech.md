@@ -69,15 +69,6 @@ related:
         width: 640
         height: 390
         isCached: true
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
 
 secured: "JANmdx5F4zqaOuKYeWuUhj8ZSdwqZOp9v+KcjVGY/emq03fRA+fYWmbRvoWhLAGATyG1qrZGr9yK8t74hNDeBc0h8HetLDCbf/YgXBL+wFOeiMsr2N1fqYEjCbCWxIzVNgvGuyd2OMZ3t4k5zCPnNnFNof0ELFs7qHnFRdIVSMmmtiCA/ADuPs+Y9NnyJBKkzCGbTDWIxs1Oyq1y46bHIRsZM75QKEjg9kK/YPetUogazL8mNJCCJl5ZOtVqn6Gj3S7KIpSgWNI2S6toKbJPPaw3uptZyZodlL212AsoaJhISV416IKDUpEUukhkMmE1JcatKiXvjyhWz2V6uz2aMb5slktUhfni9Zz9i1LudcJzw+X7j19sTiQbv/PyPukurk9pKW4nGbyr085bXm4EEE3QKipIYbjY2dSzK3PFV1jogf8Ka82p7+0tFnorN/mr3wdTvCjgf0zirHXJ9GNwk4pP9h+mo2r/FHkUyDcJ5MqO8+Y/PE38d41+BehPl4iszFU4en5aG4t6Uq+EbaifmA==;6qat1aQU2dRuiQAVtwdhgQ=="
 ---

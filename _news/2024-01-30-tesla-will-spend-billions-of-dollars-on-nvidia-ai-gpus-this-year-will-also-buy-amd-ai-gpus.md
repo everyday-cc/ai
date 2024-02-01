@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-
 webUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,33 +24,6 @@ images:
     width: 1500
     height: 857
     isCached: true
-
-related:
-  - title: "Elon Musk plans to buy AMD chips as Tesla loads up on AI hardware"
-    excerpt: "Tesla CEO Elon Musk plans to buy chips from Advanced Micro Devices (AMD) for artificial intelligence, in addition to Nvidia hardware."
-    publishedDateTime: 2024-01-27T09:54:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/elon-musk-plans-to-buy-amd-chips-as-tesla-loads-up-on-ai-hardware/article67782271.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 71
-  - title: "Elon Musk’s $50 Billion Tesla Pay Was Struck Down. What Happens Next?"
-    excerpt: "The company’s board of directors will now decide whether to appeal the decision, change where Tesla is incorporated or negotiate a new pay package."
-    publishedDateTime: 2024-01-31T21:25:00Z
-    webUrl: "https://www.nytimes.com/2024/01/31/business/tesla-elon-musk-pay-package.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2024/01/31/multimedia/31tesla-musk-vgfc/31tesla-musk-vgfc-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "Wfj3ZTVDJvCFRYwEspNSBjziL6As7z9+DfPTfqArUCmD55sNhuGjk654Eiqr+nP6I0UlKwYObsaAZGboLbZZJmsCTpce0cC2mlxnzSpuyvrMjNErP55YBO3gOd3yqIglrdA1WLcS2pWnHoWv2jWj2EziBfc7IY7U0N58cYQbovyH6tArna73ij9IkSGSr/5FI1uANKOKvNgDJsPFwvaLBXgSOuskaClCdcIt7zbCcuUQFBL4CiXlEovSviZsaiT8hpLyp5leqGRSWOEMEVsIGdPqpRIeclPgAuQ4ifSvOjbTPEd28m/hm+I7WolXCREXANiUCP10C4Ol8jjnXo/i2n/wwHFO7SLQs9ewFXPRLZWJBrLNtOWYV2RrV7igTQsiMgPsDJN8upCnjL/6OZKembfKefB0D761z/WXvSdp9Ml+lwARmwgvGE0eNdSYSLGtjgJi983fMpHARGAW+2YtUQ4ejmBx7Kki3+1geJ/E2vzYYWvLTmkr0+9CvdFKGM8WOQIU3VPGgQy8M5bvdT2eAg==;rgoVMeYjwJCYOHamd/GCcg=="
 ---

@@ -90,6 +90,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
+  - title: "Google I/O 2024: possible date, Android 15, Pixel 8a, Pixel Fold 2, AI and more"
+    excerpt: "Meanwhile, we could learn more about the new and improved Google Assistant with Bard integration, which is reportedly coming in March but could launch at Google I/O instead. And Google has also announced that it will be rolling out a premium version of ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/google-pixel-phones/google-io-2024-possible-date-pixel-8a-pixel-fold-2-ai-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 15
   - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
     excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
     publishedDateTime: 2024-01-29T20:24:00Z

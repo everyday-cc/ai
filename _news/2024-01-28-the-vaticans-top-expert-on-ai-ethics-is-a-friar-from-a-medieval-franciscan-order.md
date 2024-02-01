@@ -2,21 +2,27 @@
 category: news
 title: "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order"
 excerpt: "\"It is a problem not of using (AI) but it is a problem of governance,\" the friar said. \"And here is where ethics come in — finding the right level of use inside a social context.\" Benanti noted ..."
-publishedDateTime: 2024-01-27T23:13:00Z
-originalUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
-webUrl: "https://richmond.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_4281811b-659c-5c3c-b39c-70f01ea5c625.html"
+publishedDateTime: 2024-01-28T00:02:00Z
+originalUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
+webUrl: "https://omaha.com/news/nation-world/artificial-intelligence-religion-catholic-church-colonialism/article_e730234b-30f5-5d60-96c7-62e845fdd0a9.html"
 type: article
-quality: 29
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Richmond
-  domain: richmond.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/e/73/e730234b-30f5-5d60-96c7-62e845fdd0a9/65adbff3d726e.preview.jpg?crop=1735%2C911%2C0%2C68&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Taiwan President Tells Pope Francis She Supports His AI Concerns"
@@ -29,6 +35,6 @@ related:
       domain: usnews.com
     quality: 47
 
-secured: "j6U1hLpBDd/fNm4LoLpiaAC9o7hY8nb1DFRGDsqFa7JR9rvB7saPPCq91hj6nrctAJ1Vrv3A2o2athrEAHBG9iVerin8dFOdrKEqQsB4nrja7EUEvNqrXhuaWsPhya5kWaiA1NtjtXgf+2QyFtX50xDDlblHGz+t5lDoydJWo4cbfqoxrVzLPQ3CigvQ5YBPxh2KrSEO/bxknnwSHEyyeOCMkDXIolgX1tCrFBuI1gM37R2CPIMeirKJZzKiwOky5fNWNEZl5MPs+hb3IxOKejuB9o2phbG0oh+nNX6sGJdgV5H5OpJfhAEnTwn7Kgbd4PCQGTo3FJWoUxvaAik6ozZlxlxBxNdDoTTzl/CyhxM=;c1TVCKr8H7a9xysfkSDN6g=="
+secured: "UyNEtNgVpHU5J450IiVnRklnYx2JXlbVRpo43udIsmaxAkiD/N4dbRXSO6s6IQCq9UP42tbY3AgnYvTmT9is6xvT5e7o+yur4W+h4xgiwiPLukYelXHyiP9qzsr1/SkQclLC+mGif+He3/Dod2EnDGfV4aSM8g49TmbepOIBC5T+041err99taUHh1W8gRgSi1gAwv9DxO8ycIze/eCSo4tTPS2fizQP8myC88BsQFW+PQJOuUt1igge0/DYuaX9q97IeBRFSvfWdK10Nn0TpzVFVsTY38LQWrnUw90OPlX/y1hrsYDjgm30YR7JA9Orl5K6PR/4O/z3cqZwQLTs7bKm2Df+8wS5eX2lDJHuLXk=;OMihKY0NzGs6VEbkWIWrhg=="
 ---
 

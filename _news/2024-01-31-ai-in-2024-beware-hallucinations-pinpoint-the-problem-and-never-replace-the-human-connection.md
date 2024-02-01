@@ -82,6 +82,15 @@ related:
         width: 1200
         height: 806
         isCached: true
+  - title: "Google I/O 2024: possible date, Android 15, Pixel 8a, Pixel Fold 2, AI and more"
+    excerpt: "Meanwhile, we could learn more about the new and improved Google Assistant with Bard integration, which is reportedly coming in March but could launch at Google I/O instead. And Google has also announced that it will be rolling out a premium version of ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/google-pixel-phones/google-io-2024-possible-date-pixel-8a-pixel-fold-2-ai-and-more"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 15
   - title: "AI Predictions for 2024: Moving forward with precise systems that combine power, security, intelligence, and ease of use."
     excerpt: "Hard truth? More and more attacks will utilize AI. Artificial intelligence (AI) has been table stakes in cybersecurity for several years now, but the broad adoption of Large Language Models (LLMs) made 2023 an especially exciting year. In fact, LLMs have ..."
     publishedDateTime: 2024-01-31T00:00:00Z

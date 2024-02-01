@@ -1,0 +1,71 @@
+---
+category: news
+title: "Google’s Bard AI to Get Premium Subscription"
+excerpt: "Google plans to introduce a subscription model for its Bard Advanced AI chatbot In its Q4 earnings call, Google revealed that the advanced version — dubbed Bard Advanced —﻿ will be powered by the upcoming Gemini Ultra language model which promises more complex and improved responses."
+publishedDateTime: 2024-02-01T08:12:00Z
+originalUrl: "https://says.com/my/tech/google-bard-premium-subscription"
+webUrl: "https://says.com/my/tech/google-bard-premium-subscription"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Latest on SAYS
+  domain: says.com
+
+topics:
+  - Google AI
+  - AI
+
+related:
+  - title: "Google says you'll need a subscription to use Bard Advanced"
+    excerpt: "Google has revealed plans to charge for a Bard Advanced subscription. Bard is currently free to use, but Bard Advanced will run on the company’s more powerful Gemini Ultra AI model. It would be capable of performing highly complex tasks."
+    publishedDateTime: 2024-01-31T07:21:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-advanced-subscription-3409624/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 54
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Google confirms you’ll need to pay for Bard Advanced — here’s what it can do"
+    excerpt: "Google’s next-generation artificial intelligence chatbot Bard Advanced, will be a subscription service according to CEO Sundar Pichai. This has been suspected since Google first announced its Gemini family of models in December last year,"
+    publishedDateTime: 2024-01-31T17:34:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-confirms-youll-need-to-pay-for-bard-advanced-heres-what-it-can-do"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg"
+        width: 1116
+        height: 628
+        isCached: true
+  - title: "Alphabet CEO Sundar Pichai confirms subscription model for Google's Next-Gen AI, Bard Advance"
+    excerpt: "In a significant move that could reshape the landscape of conversational AI, Alphabet, Google's parent company, has officially confirmed the introduction of subscription plans for its upcoming advanced chatbot, Bard Advance. The announcement was made ..."
+    publishedDateTime: 2024-02-01T07:37:00Z
+    webUrl: "https://www.livemint.com/technology/alphabet-ceo-sundar-pichai-confirms-subscription-model-for-googles-next-gen-ai-bard-advance-11706772862782.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 8
+  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
+    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
+    publishedDateTime: 2024-02-01T08:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 0
+
+secured: "RMUCj3pGgtCCOXV5Bmp+tM8vBOYNXfzki8W0jc6tFi0TBWF26Y3hU7bB1geNjbN0GIn9aAKa0RhZ6wFvd6m9xlG+Au8x0w4ztF2Z0GoFkZ5eNxSq2cmKNP4X/di2ttICBBaFniPDGokn4lQFlMk4iafdWBkuho1/hcOuaXaSvS7Kh69G7Y1AQ/n3PD3UKMxW7vr0ctmJIGQ/48Aj8f5C4rI7wSaX+kmWK53ZG9YpGzfYy4IWZFyW+8rSb0nH/iRjfm0s5NtLN69eJ3hc1S4gWUZIzxTRQHn7h0DkvKLleSXV1gOND1wGDff2hlq0fUKvT53/Oo5cscxCMyoxb+ZHmOxtofHxBiyB8tiE6fRvDXL2GmGH3EoTs38/Gr7nvtcKEXTq7FIvpEilDjTlKPNFjyoSaUmbse+uzPo47KrnOne+SqEPF75dZu1QDdk0ifSwJUWws71zuMSHad9Tf1hVdLy18NkwKcn8E88/AvpgFQXi5h9hHF0f29+wzFIjmByTct2Kwp0QELYZNT1e9Q7E4w==;6ySgUO9fVhkXYq9mpFG5Yw=="
+---
+

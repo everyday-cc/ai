@@ -23,52 +23,65 @@ topics:
   - AI
 
 related:
-  - title: "My Top-5 AI Growth Stocks to Buy Hand Over Fist for 2024"
-    excerpt: "Now, AI may be set to deliver a new boost. Your searches on Google are about to garner even better results thanks to Alphabet's focus on this potentially game-changing technology. Alphabet recently unveiled its most powerful AI tool yet, Gemini, and tests of Gemini in search have resulted in improvements in quality and speed."
-    publishedDateTime: 2024-01-27T10:05:00Z
-    webUrl: "https://www.fool.com/investing/2024/01/27/my-top-5-ai-growth-stocks-to-buy-for-2024/"
+  - title: "The 7 Most Promising Blue-Chip Stocks According to Grok AI"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded"
+    publishedDateTime: 2024-01-29T15:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/762310/artificial-intelligence-ai.jpg"
-        width: 2102
-        height: 1426
-        isCached: true
-  - title: "3 Artificial Intelligence (AI) Stocks You Should Buy and Keep Forever"
-    excerpt: "Detailed price information for Amazon.com Inc (AMZN-Q) from The Globe and Mail including charting and trades."
-    publishedDateTime: 2024-01-31T12:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "This AI Chip Stock Has a Near-Monopoly"
+    excerpt: "The need for high-performance memory chips — a bottleneck in realizing full AI potential, according to Wennick — also adds urgency for chipmakers to book EUV lithography systems, especially since it normally takes the company between 12 to 18 months to ..."
+    publishedDateTime: 2024-01-30T22:58:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXHB/pressreleases/23710695/this-ai-chip-stock-has-a-near-monopoly/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 54
     images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/667b46d4c23ff4d85ed20232924d5b22/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5eedbbef10113d068d4c0ed29a82971.png%26amp%3Bw%3D700"
-        width: 720
-        height: 466
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/711674cab7014ef022276ee149baa799/aoeuna9hsm3e25h9.png"
+        width: 879
+        height: 649
         isCached: true
-  - title: "1 Monster AI Growth Stock Up 31,400% Since 2000 to Buy Now and Hold Long-Term"
-    excerpt: "Nvidia stock gained over 31,400% over the last 24 years, compounding at 27.4% annually. To put that in context, $10,000 invested in the company in January 2000 would be worth about $3.1 million today. The chart below shows how much Nvidia's stock price increased (or decreased) in each year between 2000 and 2023."
-    publishedDateTime: 2024-01-28T09:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/1-monster-ai-growth-stock-up-31400-since-2000-to-buy-now-and-hold-long-term"
+  - title: "3 Once-in-a-Lifetime AI Stocks With Unprecedented Surge Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips History will show that 2023 was the year that AI stocks truly took off. Many"
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-once-in-a-lifetime-ai-stocks-with-unprecedented-surge-potential-1033014097"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 46
-  - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
-    excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
-    publishedDateTime: 2024-01-28T20:15:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR/pressreleases/23655439/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
+    publishedDateTime: 2024-01-28T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 10
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
+    publishedDateTime: 2024-01-29T21:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "Cutting-edge projects driving robotics, according to Bill Gates"
+    excerpt: "The billionaire and co-founder of Microsoft is most enthusiastic about building machines that mimic the function of the human body."
+    publishedDateTime: 2024-01-31T02:00:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2024/01/31/cutting-edge-projects-driving-robotics-according-to-bill-gates/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
 
 secured: "ykAS0lWOidIafYbAzlqA3l9z2rC2m2zkUkwvKv9DdPezjeBM4cb08n+dwcsdSB7397jwG28E+x/odQ/Y9J9CtPOViZnPX6PC+veivv/Iv/Rv03unHDn6NmHzBkf4PTB3u8wZX4Kil5SyMYzFTcCrjaaLYyQx8a03dOxq5JUkPN8onQVJWo11/WLBh3fFWNHz5lHZZyYANHKeD8P5sFlL+PNKcx5wTeA8i8QFwSJzrnCpFnik9cJBHHxOHoxzcoqWPCodV9Sf+fUO9NfaMCwnaT5Z0g5mk1UO/cB4RDLfTmeJG8uAvurLwq208DxFFonsM3mMK51aR1nV73mCN1mYP35eRnKyFQz+ZArpU2EplWM=;q/hHR7ETMzA0Q5vVMazDag=="
 ---

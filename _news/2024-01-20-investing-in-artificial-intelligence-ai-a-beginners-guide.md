@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/Kj2WnW8zNoQUZfjfK175CA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/2c5c722c8c89262b83e7d45ded28db1c"

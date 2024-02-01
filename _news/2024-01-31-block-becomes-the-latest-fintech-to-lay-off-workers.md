@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech, VR, AI, and the Reshaping of British E-Commerce"
+    excerpt: "The trajectory of e-commerce growth in the UK is remarkable. By 2026, it’s expected that global retail e-commerce sales will leap from 6 trillion to over 8 trillion US"
+    publishedDateTime: 2024-02-01T07:00:00Z
+    webUrl: "https://thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/"
+    ampWebUrl: "https://thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/amp/"
+    cdnAmpWebUrl: "https://thebusinessmagazine-co-uk.cdn.ampproject.org/c/s/thebusinessmagazine.co.uk/companies/fintech-vr-ai-and-the-reshaping-of-british-e-commerce/amp/"
+    type: article
+    provider:
+      name: thebusinessmagazine
+      domain: thebusinessmagazine.co.uk
+    quality: 59
+    images:
+      - url: "https://thebusinessmagazine.co.uk/wp-content/uploads/2024/01/Payrow1.png"
+        width: 2008
+        height: 1050
+        isCached: true
   - title: "Jack Dorsey's fintech firm Block lays off nearly 1,000 employees"
     excerpt: "Jack Dorsey's financial services company Block is laying off close to 1,000 employees, which will affect staff in the Cash App, Afterpay and Square subsidiaries of the company."
     publishedDateTime: 2024-01-31T05:39:00Z
