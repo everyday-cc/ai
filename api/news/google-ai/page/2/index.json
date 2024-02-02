@@ -3,11 +3,11 @@
   "value": [
     {
       "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news.md",
-      "title": "Google DeepMind Scientists in Talks to Leave and Form AI Startup - Bloomberg News",
-      "excerpt": "(Reuters) - A pair of scientists at Google's artificial intelligence subsidiary DeepMind is in talks with investors to form an AI startup in Paris, Bloomberg News reported on Friday, citing people familiar with the conversations.",
+      "title": "Google DeepMind scientists in talks to leave and form AI startup - Bloomberg News",
+      "excerpt": "Scientists Laurent Sifre and Karl Tuyls, who have already given notice to leave DeepMind, have held discussions with investors about a financing round that could raise over 200 million euros ($217 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-19/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-19/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
+      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
+      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,21 +17,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T19:31:00Z",
+      "publishedDateTime": "2024-01-19T19:25:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
 type: article
 quality: 64
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Catch Up on the AI Boom With 3 Stocks That Are Still Undervalued"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Finding undervalued AI stocks may seem like a search to find a unicorn as"
-    publishedDateTime: 2024-01-28T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/catch-up-on-the-ai-boom-with-3-stocks-that-are-still-undervalued-1033003156"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
     publishedDateTime: 2024-01-29T21:26:00Z

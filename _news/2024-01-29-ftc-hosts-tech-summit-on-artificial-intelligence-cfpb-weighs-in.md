@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FTC Hosts Tech Summit on Artificial Intelligence"
+    excerpt: "On Thursday, January 25, the Federal Trade Commission’s (FTC) Office of Technology hosted the FTC Tech Summit to discuss key developments in artificial intelligence (AI). The FTC brought together thought leaders from across the AI landscape to consider ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artificial-5669004/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15516_5958.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "pcTw0BGr8/ghPFgunSTP5gzm/Zwl+bNLh4OjnYzzolMkvVL18C14cAhEDWzzWaKFsuR86zlD88FQSITokJU10+152vQT55DwDlz1ACK2ScqPUvhOkfj6Hv4M/eeh2yZuosnOUhmITwJrhCQvy4yf5CEshqNdanlhdWzSvU80loEz6OspQA6THaO1EKjqPAfWKXIGiL7B8ZmujDcOA1+95J4JfTfoz9AXSJYFK8X//hhrayy4bohBn1r8sLO1JTiksi35c3FWVe9Xb1vG99OEzl5yPx9rT4g4QV0xFF7kh6c5nwNLfdl7fZ7hwizArBdI5gWUYEJrZitMAFkZbcpVidCo1sb/uz0WTKoNhnMcXq8=;enVj7fCzzvd/Sx2snRkPrQ=="
 ---

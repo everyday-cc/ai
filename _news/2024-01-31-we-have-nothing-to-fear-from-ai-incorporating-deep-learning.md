@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-hav
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/"
 type: article
 quality: 106
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Promising Heart Drug Identified With Machine Learning"
+    excerpt: "UVA researchers have identified a promising new drug, using AI, to treat harmful scarring that can occur after heart attacks and other injuries."
+    publishedDateTime: 2024-02-02T09:56:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/promising-heart-drug-identified-with-machine-learning-383401"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 19
 
 secured: "EwLa3XK04SVCrKtrR3tHhMNbCJYsxeXgznA2oIfeg40rabYDfUSJY6nWEFeWErXS5Wf9tef5ZFWE//errOnzcxuPNuzOQuMPqka3rhDaLV3Qe8ePMLJu7qAMYEt8dkPQGXUhsGKAysXzzzgMEGvR2MxTmdPouEqCVVrtRA+TMV2K04s+zRwk6gQSKYp2U0005Exbvf09SLWII4G3FpcvoL8cXW90P2pcoMFc2iZJQ+oZGJMXQfxQIKpRnW02eTmpY71Ftz/PAapZOpN+Ys4zuRCW0gMYyasYkdlYScxJinkanzy1Dv5exP6ofcgaak0yqN96Wvd3VVGUtMloj4DspexWES+RPIZJxyPaQBdT2tA=;60rQUiMWdj0b4Fzgqg5GnQ=="
 ---

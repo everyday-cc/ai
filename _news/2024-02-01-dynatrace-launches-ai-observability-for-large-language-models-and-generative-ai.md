@@ -63,7 +63,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://www.datanami.com/wp-content/uploads/2024/02/Dynatrace-square-300x300.png"
         width: 300

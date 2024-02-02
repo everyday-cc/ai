@@ -118,6 +118,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 43
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
     publishedDateTime: 2024-01-31T02:13:00Z
@@ -148,6 +162,6 @@ related:
       domain: thestreet.com
     quality: 33
 
-secured: "0IcLRC0phJG7BT8NjwM7iev+pGtb1vU5rjkxnvS9T3Mu8wviRJVnEyOTk7jzYTKecAlQYJw/rNieXgid/zmCGrDil7Lm4N9T8IxDZ3q6g2Zi2Usi1ASN5SR7fecZDLhS1FAidBftuvmCa7W8RfDCm5ZmIdNhRqTdEW2gJIMMc62k/bXIXV/YYYiqnojSc6WP7c1jnIRJpafLwe8nERVVH+fp4m3WmLyLgkPOGzuM+uTt6FiENtK3N/cjMgMTN/1yDESOwIC6oITeYAMj8XwwSTGO2Gs/CeW+Zwx0djGsNwzenx8uE8BADGrs8RDU5+5ZpYSoxzNtwK4QrVMG7Z6E5rRgowfDipcuer+61MDmrzQ=;3gtEPZOa6C3GwYZmbTocDQ=="
+secured: "IzwfdyugWIHxn3fU/mrlm6TStqQolNxPk5cGSr1wegAA26brmysUvXjXgq3/05ewkXBLXB23ZjwiarsCbXg1yuMyXzGnWicd7+9iqni3gekx2zKJu7umrjllSfApgQhH0IiYAN3anuD9AnwaizT0IQD/mZVWNRWrWwRmSJ156Js44pRYaspIiat7ztv6i7pqYLZ8Bdct7RmBkw9Zu3+koRjoF+1+tX5BWyi2ZQg/QhrrlvSV1T4FtZnoMCqbyeppzzRRnxhnoqpUD87pL+27GDgVbsnm1nBGvUVJE7CGd7diiyv+ISpNd4r7bWuKtU+2J1umKy2jLntQ3k/8pxYt0s4sgXlyQhSq1yUJSsFAQJEPDtxNgOccUhljEmGY/XN5cleQXRyZYM3swwGxbEQ8xzztfQv15T/T4hA9Wi18RGXe2I1o4RacktztP+iM6SGmB+0dI6GOXNhiu02z8tz0Ox/Z/G9U3kGS9pVxur9aM0a8YPPFQNhUu7NDf5rKPxxjX2UHDgSj+KEWg8HqxEUO4Q==;FjZct3RRGoeQ3qDHgaGDEA=="
 ---
 

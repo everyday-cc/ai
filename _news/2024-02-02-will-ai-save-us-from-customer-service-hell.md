@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-02T10:10:00Z
 originalUrl: "https://www.economist.com/1843/2024/02/02/will-ai-save-us-from-customer-service-hell"
 webUrl: "https://www.economist.com/1843/2024/02/02/will-ai-save-us-from-customer-service-hell"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/1843_20240114_1843_Services_01.jpg"
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "8U6jhL1jGtgDhNfz2slxFmC7NGtaY8Sta+zUpdz8lgmExHJe8jATE+H7XNwUJhOGunf69KRjR2GVOtiAOTQp/etANY1dqpTskxc0SECMm3+aDNRrVTaIUKe57k7emkllRtL2czYaJ2q3ncglSqXr/yyFerlHOt8NWw+Jcr7+GEx78/iPC+66pCc6KExc1x5EdqpeWUVbtulNeaAY13iwr180lMWRtU7i6t7HyuIdAsu5Afs8z6Nt65xSIiemU6phXRR+A35m2R35aSIShhlNR5e0yyAWmmrMlnY2124w11J/anqsdNSIdajrjf2X7y6bletkhfsmXD3m3LSX46r9GAs9W+foeISbX7xh8BP/UrQ=;ToQU5ZKhwMUKCNnQYsR3sQ=="
+secured: "XTpu1DH1Qjh8bEVVGFU+NVM8DvSAbJhVl3UnHFty+XBeu9xlQsWGxjhEdINkjKgGuqAZQD90cH9D5+JmYCC2edQftvhvEY2tVYL6irkmBPZDViLucAINOr9UbWTjGNgYO1VkMBgmEV16c79Qp4KaPBilGDfnQs4XG+cFZhv7ySDVlym99iKkktPymgryy+h7UW2DYlEQMzK4RAXgdqgh4IJhgg+M9K8Gq7bLjJSEJJN9XKIeIYwAmrIYv/DalZISYoWVKJ5YDzYCkC7EoIsuNCz7XXFUHGO/KdlQn1/fLPLViBgxUj4aTsMC+nr7YwLDOZcyEIgAu3KDy3YYEsD6mAQHMdh+XVRYrByFdJ7SVROhMUDaWbvhyvvaperqUKijPOhYgIDPKKCPvKubGba9RrleC81yqRtqS7/N5qoyx4PH0I44am5h+w/BgnHlI7LMAeCstUaaiEQGKKD5WijwmuCiIeysko4RgGOEvEgw7bXduQpHhvdlyDcVvitD5f9H5U35CoyfnxaZtfKHVgvPuA==;iqM9PAeudWq4PjJc3V6hGg=="
 ---
 

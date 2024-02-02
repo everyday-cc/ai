@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/01/1087497/the-download-rec
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087497/the-download-recyclings-role-and-tidying-robots/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1063
     height: 598
     isCached: true
+
+related:
+  - title: "The Download: how babies can teach AI, and new mRNA vaccines"
+    excerpt: "Japan recently approved a new mRNA vaccine for covid, and this one is pretty exciting. Just like the mRNA vaccines you know and love, it delivers the instructions for making the virus’s spike protein. But here’s what makes it novel: it also tells the body how to make more mRNA. Essentially, it’s self-amplifying."
+    publishedDateTime: 2024-02-02T13:10:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/02/1087569/the-download-how-babies-can-teach-ai-and-new-mrna-vaccines/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "P7pzQtM1cJdJtQnJAhfERaHhm5AqFOaRQyh2Rr0YG3TXfSu+rrzsOZtJvdul+SR9inW9SX4zdx6+iKOtmuc2jllOKIyc+bkjTzwAprzY7Sn4M1pYVu9haP/PbzklSaygHKqeBfyLSmbGeho6eRsa+zOXXqpjLmeGrH/66f0UypkmgNehzXfmnK/MoOQHuVkQl8PYb6CDl09lbtxW0baItrF/SYHXJWME5V1jAJfRoDdfdVO0qImk1Fn+8gslaJzhpJv8UqFeKfsWGF8hNBbpTxBtyj8EhKJes55kaReJjucZ0xWhcpsFD5zDOrOLImwkzVU17Z9T0Iy/fT6lnCf8mro3nU02fs+xIKMThdAwtMQ=;fGbo8dy5F2Qx8AVTi4Q/fg=="
 ---

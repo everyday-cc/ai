@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Salary data revealed: Here's how much 16 top US and European AI startups like OpenAI, Anthropic, and Hugging Face are paying staffers"
-excerpt: "Databricks makes data management more simple for businesses and enterprises. Its platform is used to test and deploy machine learning and AI applications, and it has a cohort of high-profile clients such as Shell and Microsoft."
+excerpt: "Industry leaders such as CoreWeave and Databricks are shelling out base salaries of over $200,000."
 publishedDateTime: 2024-02-01T11:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-salary-data-how-much-top-companies-pay-2024-1"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-salary-data-how-much-top-companies-pay-2024-1"
+originalUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
+webUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
 type: article
 quality: 38
 heat: 38
@@ -48,6 +48,6 @@ related:
       domain: axios.com
     quality: 19
 
-secured: "QLQbVVYFo/b5JX6P9jf4CByPfEYnAuHKm5Zjjth2aY7inI4bW9q7FsDaSmiNmkkan46teh6eSufZs9gGYqOkmmDyxzun/YvE8q9mfK/OQqv3ko09rB3r3UUgWQCPPfw4/6Y6+WlxrRme+6p2rECazGzTl6vEGLtsWuT0wKa+f5XZHmcT/tN9ZpXhjj3jDy8+0GvtsMXZvf8zmMv7WWzdT52FNIpOmbzuO9N8rlvX8BIwi5PcXE4VtutIJ10DsurkzG1j9oxmkFFXVc1YCeDGyYoyfSaOIU5kXestUuxcDuVtIPV6EqucmnnAT8ub7qPpiJp5Jp8c4hu1W/4dMmQjOTKRVn2lM7/kNNcZ7p5Q+DjncGP9/wLNni5GaHThqb/xKaH5ulchETNVeRhLMZaNKN2wQh9tPhBLFsgQPFzaWs7lbubimtwmNsRX20GZ3iguK1yhsoRr5BlcOp88JYe2AH8/cJfky4g0w3AKTkJ5gnjZ8IxhCfZqr1quD9y1hSwyc2vsRS1RkwYHvDjdZrdM3w==;xzdkGYIEh5zNeGTU9A9mYA=="
+secured: "ux3cNYvruyXUrYmsfx+o6yUO/MBJP9UN7RtcgRfY1hW9+9MIZQl5ghHaWhcEQieyWrz6k9s97HE0P9hPz6YhE4feOaTqOQQDO4XqVdwHsiW85LuGJO499ecWxqS8BungnWsWtZcRwPZr95t/qnXAlfvm5UEc1Wpl/0ZKxB4XQwjEtwNDmRLiwkeP2RL318Mp2jHQC4q4aeWL9KKKu8fFXCW7l++4rwksRxG0Ycuy8y5uqazNFErPqDFLmEmXCkr9XrHnmm0EgkqJp7xG1sJ3oltw8e2ubWqop8/4la8k9fXKiHng8qaRAiHkO5xz55BM8ml2U06QHCiZtdRZtDfMKvYPEADWeC9rHBu2DHgvxrs=;thX6daPasMGM5TonQu+7PQ=="
 ---
 

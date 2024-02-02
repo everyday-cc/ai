@@ -9,7 +9,7 @@ ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bar
 cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 355
         height: 250
         isCached: true
+  - title: "Google’s Bard chatbot gets the Gemini Pro update globally"
+    excerpt: "Google announced today that its Bard chatbot is now powered by the Gemini Pro model globally with support for over 40 languages."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/01/googles-bard-chatbot-gets-the-gemini-pro-update-globally/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
     excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
     publishedDateTime: 2024-01-29T00:00:00Z

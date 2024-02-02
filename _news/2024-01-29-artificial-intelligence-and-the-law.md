@@ -41,6 +41,15 @@ related:
         width: 1456
         height: 900
         isCached: true
+  - title: "Artificial Intelligence and the Power of Creative Thinking"
+    excerpt: "CALGARY, Alberta, Feb. 01, 2024 (GLOBE NEWSWIRE) -- What if you could spark creative thinking by unlocking the power of Artificial Intelligence (AI)? Canadian artist, author, and best known as the front man for the band Moist, David Usher, believes you can."
+    publishedDateTime: 2024-02-01T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-the-power-of-creative-thinking-1033021921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
     excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
     publishedDateTime: 2024-01-30T15:42:00Z

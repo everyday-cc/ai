@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
 type: article
 quality: 99
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 43
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
     publishedDateTime: 2024-01-31T02:13:00Z

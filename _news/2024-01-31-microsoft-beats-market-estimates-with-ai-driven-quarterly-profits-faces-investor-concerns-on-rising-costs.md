@@ -124,6 +124,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 43
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft's full set of Office apps will be available on Apple's Vision Pro — including the company's new AI assistant, Copilot"
     excerpt: "The tech giant said programs including Microsoft Word, Excel, and PowerPoint would be available on Apple's new headset on its launch day."
     publishedDateTime: 2024-02-01T15:12:00Z

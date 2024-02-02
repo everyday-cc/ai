@@ -54,6 +54,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "IBM watsonx Korea Quantum Computing (KQC) deal sealed"
+    excerpt: "IBM has teamed up with Korea Quantum Computing (KQC) in a strategic partnership that's set to advance on some computing. This alliance is not just a"
+    publishedDateTime: 2024-02-02T13:39:00Z
+    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx-quantum-computer/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 19
 
 secured: "RAA/nTbNnBUsiBMlIWUeMGQjIIjD5OqH8RNb8b7ENVkHXU+h3Ki2ruYBrqBztrvF556C+l8dxWyDZP5IXVbEUJTF0PCX2jQzenYgoGzrU0818NrKlp/BOjjdFxZANVbyt0qbxavjuru8FQMhZ6NJr3+k+wVT3JzIYYKSRvgeb4Aau49gH3Il2t6wlh6ZjORty0aqUUmGkWB5tOF8FGNHdOFsg7wOs9OqoPs/IL+oYMfGDQKVkoZCCd8CaKFqcE9PxtiV5FnvdSuiKDXDEp8iPPZ4l3ahi9TzamnfscQksGyYueskH5KyVBlIBH0aXvKzUksPpk7yO396AzJr5Hirg9vc1yhym5iIHEbFNZiM0r5iZsf6Z6e63UgjXcLXuW9JkNa+4T85iyqTIQJCN9cgEZbRU6wd4BGTQigr/xUMimh4HR04jVNrjBj4huj+QRQmdGlvGF+syz5H+NHTOcAw3zx5M95DB3aMblWSDsOeytbDdGWxgnL0eU7oxeYUIsSLg0CEfTO216pIUA42u5lxqA==;U4oTqvhOXp8y4kYp477RTw=="
 ---

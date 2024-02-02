@@ -3,10 +3,10 @@ category: news
 title: "WEKA Partners With NexGen Cloud to Democratize AI"
 excerpt: "WekaIO ( WEKA ), the AI-native data platform company, announced today that it is partnering with NexGen Cloud, a sustainable infrastructure-as-a-service provider based in the UK, to provide the high-performance infrastructure foundation underpinning its forthcoming AI Supercloud,"
 publishedDateTime: 2024-01-31T09:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-weka-partners-with-nexgen-cloud-democratize-ai-/2024/01/31/9954727.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9954727.htm"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2329623/PR_WEKA_NexGen.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service"
@@ -77,6 +71,6 @@ related:
         height: 225
         isCached: true
 
-secured: "Z8uoEv2bv4rcKVXFvI87x7+bqyjOoXiD/5cAeuMaDPqPSJ10uSEN0aaGApImQyWf7Ewi1gwpSVrgbkYvG1weV3h/Psp9DqBoHVD9EP/Tm9RsH1QCeM7W+xkaDh0HfRNih2rtY1bKie6kx6XeTUsyimb+yVLQ/cXX7eeC6Q5P/EwemnlZENQhaOcbyxeSteYcQBuGJDgIsb80lvj/DQbiBudd/It1Td+xMT9OSYEZeEKVjVUZqiAbLjUeeAhNDb9bkgvtwmhEeJM6GJEJd2RNvvZcJLFVf7x1G/P6IcIBlPKiPRhAcEJQP/l/QUuPp4X1DfSCSzwHMeQxpGq9mneclglC/9wi6tXwlkz1+co8BZmkLOkEsooZgB+hbmGEM7GCRN2ZHk86nLGY6A3+DAutPqfgaT1JdjjONKaPyAm3wpMlMpC5Oa9IBmcQQSMuqdr9gt70fsW5PoKlaVDsrK2srifxfEyZApl6klHCBYJXsbQ10EbuJyHP2myQsA7T+Vrni7KzvyybO7bxbbZhbTTGxg==;ClhdneLtFIwbsirc5Kz+5Q=="
+secured: "V09EYSIg8tN+9o3cECtsmt6wtFVzpBcK4u2p/hlYXAT+f3KvX6hDti2JQqK/oagWc6pwDEk0uhcbWKG81nH9oFHbghDIgb21xsrWpzrDRCpXx/1lbxPUHF9vek9r6+PJ2q8i4uwsEdeTg+hRCtXHpLr6yyytxRKRfXC3apOwbEl121PwuELsTjW3wQVChNe76LR6LPlnLYxOwMxzR7w5s8csxuLtNX9agSX4NYQ6LxM6rBzzHiPW1VnuIJP1NC++JqPdw3eoqhM6U9eFVTYeXIbKA3WHKWPsCeyG38owva7dul7wP4pO+ZW93vJpZgCeomWO2OkKIFvsBDEPH2ysE8eS+MiRKDCCZEnNjo1hY/O1VkaCEYc9W+mJDTI3uYdBbczfGxT+Q3ZsI/S8YoeD7y2ZWlZVsaHzEp09J3RANx6xKSPp8nmwTcXxjHtJIfmmjl0raJExTsmbZIS7lTMVXlUyckE00BDpe/zFxFX3N/0gyCCpTFbJ+cutR2ocD8D06iahECVItIqWwXM57m4wtA==;U5QalEmFHKuXDsufkuHFAA=="
 ---
 

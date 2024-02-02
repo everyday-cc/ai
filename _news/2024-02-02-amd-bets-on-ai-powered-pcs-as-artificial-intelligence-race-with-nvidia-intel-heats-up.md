@@ -135,6 +135,24 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "Meta unveils Artemis chip to boost AI, cut Nvidia ties - Report"
+    excerpt: "Meta confirmed plans to deploy a new custom semiconductor chip, dubbed \"Artemis,\" in its data centers to enhance AI capabilities, reducing dependency on Nvidia. Meta, the Facebook and Instagram parent company, is preparing to deploy a new version of a ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/meta-artemis-chip-ai-development-2024"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "Nvidia Readies H20 Chinese AI Chip to Compete With Huawei"
+    excerpt: "Previous reports claim that Nvidia aims to begin full production of the H20 in the second quarter of this year. Nvidia may also be working on additional China-specific AI chips, but there's no information on the alleged L20 and L2 accelerators."
+    publishedDateTime: 2024-02-02T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-readies-h20-chinese-ai-chip-to-compete-with-huawei"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
     excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
     publishedDateTime: 2024-02-01T06:55:00Z

@@ -150,6 +150,24 @@ related:
       name: The New York Times
       domain: nytimes.com
     quality: 34
+  - title: "Meta unveils Artemis chip to boost AI, cut Nvidia ties - Report"
+    excerpt: "Meta confirmed plans to deploy a new custom semiconductor chip, dubbed \"Artemis,\" in its data centers to enhance AI capabilities, reducing dependency on Nvidia. Meta, the Facebook and Instagram parent company, is preparing to deploy a new version of a ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/meta-artemis-chip-ai-development-2024"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
+  - title: "Nvidia Readies H20 Chinese AI Chip to Compete With Huawei"
+    excerpt: "Previous reports claim that Nvidia aims to begin full production of the H20 in the second quarter of this year. Nvidia may also be working on additional China-specific AI chips, but there's no information on the alleged L20 and L2 accelerators."
+    publishedDateTime: 2024-02-02T14:00:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-readies-h20-chinese-ai-chip-to-compete-with-huawei"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Nvidia's new China-focused AI chip set to be sold at similar price to Huawei product"
     excerpt: "Huawei's 910B chip is widely considered the most competitive AI offering now available within China and has become more popular amid concern that buyers could be faced with further restricted access to Nvidia's products resulting from U.S. sanctions."
     publishedDateTime: 2024-02-01T12:54:00Z

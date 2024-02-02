@@ -1,10 +1,10 @@
 ---
 category: news
 title: "National Beat: Layoffs at Google's moonshot factory, the NBA's AI scheduling tool, and more startups to watch"
-excerpt: "Want this rundown of startup deals, exclusive insights and business ... the current proposal only defers the tax through 2025. Figure AI has inked a deal with BMW to have its robot work in the car developer’s United States' facilities."
-publishedDateTime: 2024-01-30T17:01:00Z
-originalUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/jacksonville/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
+excerpt: "As layoffs ripple their way across Alphabet, the latest to see cuts is the inno vation lab of Google, Bay Area Inno reports."
+publishedDateTime: 2024-01-30T16:01:00Z
+originalUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/01/30/google-layoffs-startups-to-watch.html"
 type: article
 quality: 0
 heat: 0
@@ -15,9 +15,9 @@ provider:
   domain: bizjournals.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
-secured: "gg5iDN/MOlwmBXbvWLJwvXe7PwBsqLkd0FB6KvshpgndvIiEVcbgSSmiixnAVnf9C0ad4fyhu//Vht8xnWNgsGKd0w4o5dcy33PLx0V4dfFo4dJ8Yd/iFDqvitgJkMp4m7u0I+7A71sjoMmQhUXFK1DZLNrOdPZuY2znep+Mdi2zOEIb4lqtHEjDl5TW7sdraKvNB3vvbwi3IL5/Ouvf5WJ7PMbULSMCbbXpQ+Ncw1gTUXZtrpcZehlxDJ8XY+U8UQxuJM9hxJfkg/6GsgIvKrQvrwzQnVVSby+yQRc3C8dl/Ftgzxt/w29wpICeglGwxhc983qvvAQkG+m6mneLR3YD9YBExlEuHVQv9uAiZS0b+RaSwLj4Fe6SW+Pnrx3Mz2vH93f792cGiEYEDuodoZgWCdH9rAvhIDBQhda/Eq8RnXFJq2NwPELlBvacVl09nJyww2+owkkyykarR4FxaIi5w0BN2lu4p4hfYmvn8wT/iv1tMcgDBXZEMPY2nHK78Vb7UnXa19lXk7DPLc/xWg==;sTIzFMUK4o6cWUatxEBhzA=="
+secured: "F9tLeiTM9v1WB32Nje9K93CE2T8iJoSLB1peyrJ4zQaENuXuInqViZCBF0ZQzQyOFUqUQ2Mvi3uPK66phiEOZ0ZX7LODzu1ym5jLVcRYzo7NzSnmsNX/gkM/MQpyi2TFfcZXzEZBe6IRE7/Xie2Nzs5vSmImwtygH1LhEyRhRj8YE5hoFXEhRqvbZf+Bv8krC/aA+4gnV0llD5LhBpjDvaf36+zcxahvIdwEGtNiuWWW3lAqETpkX8oRXNbHUeFJUchnznz90WpW24VgIlCsQdE5+8Lmyy6IMgldWCK7gyZDVyzwjKCZKqn+S70qihR6Dx1VmZoRg1YXHRT7LkcjVOp+InbsXCeH8yKb07wXrP82CRBfbMQgPxA+QqQy39iWWdGH0OonmXBgPG3BSCBWd4Sy9To+cXPGDmdH/MpQuot65rt5V3zQ8/qLuCcooO0TkLzo570XUSpHDGMenvWiNnK93sk8T3t9L0OAolcVcQlyTAWGj3/gt9tKZWAEyX5gIDS3uXZhq8aOYiFVk92lXg==;OoNzbxlzmGeHt/FA4Ramdw=="
 ---
 

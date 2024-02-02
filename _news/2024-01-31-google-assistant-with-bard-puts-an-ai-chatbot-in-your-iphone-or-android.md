@@ -50,6 +50,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 41
+  - title: "Apple’s most exciting AI iPhone features reportedly won’t be available until 2025"
+    excerpt: "The first steps into Apple's generative AI will be with iOS 18 and the iPhone 16, but the real features will only come in 2025."
+    publishedDateTime: 2024-02-02T14:26:00Z
+    webUrl: "https://bgr.com/tech/apples-most-exciting-ai-iphone-features-reportedly-wont-be-available-until-2025/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 14
 
 secured: "AxzC1oThSPMv99ho4BzPg2fVYKoD+xj62jeaSEEqMcjhF6iOazrKcM9H5bZKdxc8T3opx2dJ/fzHpWmdvjiTKndGcgFQAFcMT5MdfiJoYtd2kJvMl0IVHP/3Eyxe/++UpNc2wAaDgtLZq3hN6TGFuKtkTN4BdMQr+U8W97ixjvkCVSbLsOd0+FWUGN9stXwCyOSern3I1A1ZN+CyHc6MLJfek3yWqitTw8jjzDxMsgNg4wiXEzqb8W4YC0CbXflDdMoHlPwNrSVAkDkxSboViGDLs4tyULsf0ag6woxoaoLyfNbiCkYtx/yLKUy11jKZ6rSQFObKGw0uJJS8CxLqlIoI6vwBcd/lpfHb1a9OrS0=;Hw//2uwzT6Sx9RQ6vECpsw=="
 ---

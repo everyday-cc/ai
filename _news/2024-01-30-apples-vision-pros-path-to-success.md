@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Create images with Adobe Firefly AI for Apple Vision Pro"
+    excerpt: "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app."
+    publishedDateTime: 2024-02-02T15:57:00Z
+    webUrl: "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro"
+    ampWebUrl: "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Apple’s Vision Pro is new, but big tech’s fascination with face computers is not"
     excerpt: "Apple's Vision Pro could get more people introduced to the world of VR - some very familiar ideas but implemented in such a way that gives a realistic view of what is there and what’s about to come."
     publishedDateTime: 2024-02-01T04:34:00Z

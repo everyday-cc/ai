@@ -43,6 +43,15 @@ related:
         width: 1019
         height: 573
         isCached: true
+  - title: "Nirmala Sitharaman’s exclusive interview: What the FM said on growth, fintech, and 2024 elections"
+    excerpt: "Seven per cent growth is possible, said Finance Minister Nirmala Sitharaman as she spoke about India’s economy in an exclusive interview with Network18 managing director Rahul Joshi. Ahead of the general elections,"
+    publishedDateTime: 2024-02-02T13:39:00Z
+    webUrl: "https://www.firstpost.com/explainers/nirmala-sitharamans-exclusive-interview-what-the-fm-said-on-growth-fintech-and-2024-elections-13683702.html"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 6
 
 secured: "1AIiAzpL4nqbt2FLnWdshxvJZqo7H0LPDDRtL/41cEJ4DZs3a+0qhpcMSoMJebtdDjc2HblIvE+lvd4VoBqgn76RZJPykQbUSU1qZFQAmN9PCtC7Jx+MaTnXbe71R/ams8zL1ZbupuAGkwuf+VQ42REhOxYrnZnjQLjbWngLhj3xntaTmHbEyzPI//5v5PolZ19PvvShwRmYG8C8eghfUZQBGv3aGF6jrCRIpq3OUmXdBEuDT3hcWANtDIXaxX/P6kvyC9g1ii4iFfwHKa/ZKnJ6jHg4AX3NbUiUu97qhGwyOBYjO92N8IhbYFYS0GnGmUHRaDbsxEnEslBUVzkk4CyCZXW5TU7XMa2JF2jww2pPSW+qxES9OsB8QFKF0Co+AWb8mnaeemv8UpcbUHYiT43oLzdJRRFpIdyU0oagn3QUe2Y6dRUdV7HB679EL5xS/NXiHVcpH2kinmDRVbn8eA4X7R9i3Gv/HOlEMITORqXvHRbv4Dda/9r0MHQctrBVoHsW116aF/VxML4i1CmAHQ==;ke/RHFbEBzM7DLHn2zwX4A=="
 ---

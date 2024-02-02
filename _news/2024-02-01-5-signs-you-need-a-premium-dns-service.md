@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/5-signs-you-need-a-premium-dns-service/"
 webUrl: "https://www.ibm.com/blog/5-signs-you-need-a-premium-dns-service/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 630
     height: 330
     isCached: true
+
+related:
+  - title: "Is premium DNS worth it?"
+    excerpt: "How to measure the value of a premium DNS depends on how you account for the contribution of DNS to the bottom line.\nThe post Is premium DNS worth it? appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-02T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/is-premium-dns-worth-it/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 82
 
 secured: "DdMLga8DXopzbRDYqJf8RJSTFwdVrGAy2YbwGRXakebDDiPibh3Bn69mRRM5doUWXC109FaBuPYAdOD+fZ4fRpzrwl3MlJqs6LUYf7onU70Nk5Nk1kskubbWz2FYG97MSLJhHcI+U4FT3cV1XbiZ4kIp5Vxv6ew0hKUx+dfwb2qz/75oP7eZcgdSkYQ2hrxGVVczh1zRDkCOkctrC45aHbMTYz/2jRAPp2lEUXCYVUrfJBdpXnOw0JXR6eCLw7Hd6hRab0Rl8RCpevdFvuCDKl7ubgUvMmxC/goWvBY0xy+nqjs1ZzqS+4qytDEMzyo6Q9BrxpvyeJ7a7QuubqO+mp5X1neDSf4ThKZND1O6kSQ=;5K40lqDQawnQjh26fR0DiA=="
 ---

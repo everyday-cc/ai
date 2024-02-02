@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "Utilising active microparticles for artificial intelligence"
     excerpt: "Home > Pressemitteilung: Utilising active microparticles for ..."
     publishedDateTime: 2024-01-29T11:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 660
         height: 400
         isCached: true
+  - title: "Apple’s most exciting AI iPhone features reportedly won’t be available until 2025"
+    excerpt: "The first steps into Apple's generative AI will be with iOS 18 and the iPhone 16, but the real features will only come in 2025."
+    publishedDateTime: 2024-02-02T14:26:00Z
+    webUrl: "https://bgr.com/tech/apples-most-exciting-ai-iphone-features-reportedly-wont-be-available-until-2025/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 14
 
 secured: "CM2Fe6mWA01pJK10b6vl0Q3il91QGntQweVn7i96MbzS1VZW1BulpJ2s5on7bVi9VWWQA/YycJnNK+LpTedFGL7k179H7MpJHrjnsZcQslPBIbEbFwPgRC8zHZHRmDU72EigG3cdM9/YbOuHerkVaPaPg2P8PomsBoORnDMqjM+leVR4AePMEwBAXgIEcUvJ+TyDT/mr3lLT5hN6sc2O1uyqBfOi/8utifHpUOzK8EFnxhniyVEIJrR/YRRYWgxOmRiIA27FyXMP8LucZy2WAJk7qx9qd68yHFIS2IvOY3ATolaYkuVa+X+99ScQF2o5JMv1MkL4DFQIvbdYX5oP4IuBkJBYltovDMoG4BcCYb0=;6VyERJYbgG6gdIJvD5YJKg=="
 ---

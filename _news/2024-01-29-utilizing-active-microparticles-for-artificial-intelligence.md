@@ -6,9 +6,9 @@ publishedDateTime: 2024-01-29T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122349.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122349.htm"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: Science Daily
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 related:
   - title: "Utilising active microparticles for artificial intelligence"

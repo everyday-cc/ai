@@ -33,6 +33,15 @@ related:
         width: 1535
         height: 1150
         isCached: true
+  - title: "Car Industry Embraces AI Technology as Volkswagen Establishes Its Own AI Lab"
+    excerpt: "The primary purpose of AI labs is for research and development to explore AI breakthroughs. However, in Volkswagen’s case, the main objective is to bring its lab’s AI innovations to its vehicles to make them smarter."
+    publishedDateTime: 2024-02-01T05:43:00Z
+    webUrl: "https://www.opprairie.com/technology/car-industry-embraces-ai-technology-as-volkswagen-establishes-its-own-ai-lab/16797/"
+    type: article
+    provider:
+      name: The Orland Park Prairie
+      domain: opprairie.com
+    quality: 16
 
 secured: "+ykqnnAI0Wb6vK8ZwJzrfqfLlY3Guoo8igr6teE76Ms2TBvTZcWw/T7Tv9dQ5CnU2YvrAG6HppWqHDtiXwENCdM64C3W165DKo/xgSXDhLCdf9PACToo0aQbRJJ5IWN8dZUptSzEOzHzinYDSqNKOVplkbBFt1CELDxsZsMol618sGp2noo/dQSCLlbh/l6udiLeQT2/1d9u2+o2hMQ8/1f9jfv0jvEZelcuR28qGktLy1Ra1BsAtbdh3mcE9iOhM+CGvfj00yKfxEU76olPXxmXrziGCSag8brMBJMtDOjFGaMVfW1nKZ4t8bT/Qh+MMddZzcYf0LYiIUExTVvgMItMAU+lp/AWIGpWpizfIseTjkYNnVb+zKLf/s3Nc5VbAixgLPANQH8/fPkG5prAwhszFiCOSXRCup4uvHM9/va70j/qiPk359gw/+a3gfjOsAu/0JYJcU9EdZwYtXnTqf65hpoUO9M5s+0xzVp3q2TTNomX2jnVXUBjGcrUmfHxJGs3IlWAlVDqan+xMGNc4A==;vC+OFdv610sSIBg8vKDBZw=="
 ---

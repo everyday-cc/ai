@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 related:
   - title: "OpenAI, Nvidia, NSF, NASA And More Partner On Federal Program To Increase Access To AI Resources"

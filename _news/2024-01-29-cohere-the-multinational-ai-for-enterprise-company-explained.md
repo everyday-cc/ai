@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 673
         isCached: true
+  - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
+    excerpt: "Lots of big rounds this week, with none bigger than the whopping $1.5 billion raised by sustainability and infrastructure investment firm Generate Capital. On top of that, there were another five rounds of $100 million or more."
+    publishedDateTime: 2024-02-02T16:29:00Z
+    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 28
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
     excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
     publishedDateTime: 2024-01-30T14:39:00Z

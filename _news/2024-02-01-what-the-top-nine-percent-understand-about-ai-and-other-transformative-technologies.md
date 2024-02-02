@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence and the Power of Creative Thinking"
+    excerpt: "CALGARY, Alberta, Feb. 01, 2024 (GLOBE NEWSWIRE) -- What if you could spark creative thinking by unlocking the power of Artificial Intelligence (AI)? Canadian artist, author, and best known as the front man for the band Moist, David Usher, believes you can."
+    publishedDateTime: 2024-02-01T17:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-and-the-power-of-creative-thinking-1033021921"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Artificial Intelligence and the Law"
     excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
     publishedDateTime: 2024-01-29T14:30:00Z

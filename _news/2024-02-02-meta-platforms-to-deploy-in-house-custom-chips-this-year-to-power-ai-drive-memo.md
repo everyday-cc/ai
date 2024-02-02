@@ -8,9 +8,9 @@ webUrl: "https://tech.hindustantimes.com/tech/news/meta-platforms-to-deploy-in-h
 ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
 type: article
-quality: 69
-heat: 109
-published: true
+quality: 71
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times Tech
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/dima-solomin-mr26tQgHGmc-unsplash_1701087797851_1706838974567.jpg"
@@ -27,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo"
+    excerpt: "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document."
+    publishedDateTime: 2024-02-02T16:03:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 75
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Meta to deploy in-house custom chips this year to power AI drive: Memo"
     excerpt: "Meta plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its AI push, according to an internal company document."
     publishedDateTime: 2024-02-02T04:20:00Z
@@ -80,7 +95,16 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Meta to deploy its own AI-supported chips in its data centers"
+    excerpt: "Meta, the parent company of Facebook, Instagram, and WhatsApp, is planning to deploy an updated version of its own AI-supported custom chips into its data centers this year."
+    publishedDateTime: 2024-02-02T14:04:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/meta-to-deploy-its-own-ai-supported-chips-in-its-data-centers/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
 
-secured: "IT5XW49fIxZobq588vMHfoPrB7VVEQiMPFjdWkzhwCPSKq47XIB1ePcXlfoiHWaIUoU2H9rawIaSihZEqEEaHYP3YGIgh/vj88U4aACuF5pYrR/v5rx2WJs4PnPV1sCwDQQ+fYLtZnqKehDFPJZvGHgDh7A3BTdAitKDd9tOjRgzeN2/I+J5JGhhKbwkSYIx4vFtt1krfWVU+O5WHWB2R2rIBxm9zkxDMkX4SYLb8MOeOz6e9oL9bq1w03wYbjSa6eWD0bAjxSo8I924zl5exJ/Wnb8Bvwes/UtDcZBayBr9eDo31BBAJwN9zID/gETP2Mu0ShGDjckp1qVTyxOlDOM42HYPHHhzp6//xiWAT4o=;mil8pPS8BvHP2jwvlxvY+g=="
+secured: "lYSo1qD+KFKO0foUhOFt4i9XRZOR3mbpaw3YhVC9yOwTw0+f8jdDdjopfj1sQ8TAjdhjOz/eyUDZeooirVKkwl49Qt6AVk2h6dWtzVTiAX9cQMniwKsUp0gHlkuK+9QWI0gAL6Qhb1KZacKkt0G+Qyh/W/d1nfTKA3LucV46z+LDvRRAvSvY9UtDrKmng15BD96e4pTYmSpnexYW/CAwIfIIUqBxPaVdIgZbLcGU1/c9DkPFx/yGWxBTmGhsPeYpXkSzLRTX/GD1nHncrH9stD6KyRFuDTrk6J25qwgAHyd4t5jueH4Gg/zVv254bgV9tmUSNhFoWoc6y7mHn8t9eNIvBvQH1GMQsjaHnJrfN8FwrZCwYWjBvIau2Qe4ULhOzrY77ItPIZi4pgwg4ANE3PBsrs7kCK7ni5YXISCdK6DqjXIvYzB/gmjXo0YpREhszTBSMMG3RLEEwD6Uuyi4OQzRtlvwjtDvVB11oCJAYU0GKcbmyrzWCY84X7zb97/SdQnfITExB+kxm7g5Lc33Vg==;i32RpdJyXKdmxv4xf7uZIA=="
 ---
 

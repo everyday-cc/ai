@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 751
         isCached: true
+  - title: "Embracing the AI revolution as an ethical vision for traders fintech innovators and financial titans"
+    excerpt: "How can we ensure that AI serves as a catalyst for positive change, rather than a source of disruption? For traders, investors, FinTech owners, and financial institutions, the rise of AI is not just a technological shift but a strategic opportunity."
+    publishedDateTime: 2024-02-02T15:24:00Z
+    webUrl: "https://www.fxstreet.com/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 61
+    images:
+      - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Europe/Eurozone_countries/Eurozone/euro-coin-20956600_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Jack Dorsey's fintech firm Block lays off nearly 1,000 employees"
     excerpt: "Jack Dorsey's financial services company Block is laying off close to 1,000 employees, which will affect staff in the Cash App, Afterpay and Square subsidiaries of the company."
     publishedDateTime: 2024-01-31T05:39:00Z

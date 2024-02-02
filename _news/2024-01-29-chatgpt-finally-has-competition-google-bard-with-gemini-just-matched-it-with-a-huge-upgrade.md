@@ -88,6 +88,15 @@ related:
         width: 355
         height: 250
         isCached: true
+  - title: "Google’s Bard chatbot gets the Gemini Pro update globally"
+    excerpt: "Google announced today that its Bard chatbot is now powered by the Gemini Pro model globally with support for over 40 languages."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/01/googles-bard-chatbot-gets-the-gemini-pro-update-globally/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "Google Gemini Pro moves to second place in chatbot performance table"
     excerpt: "Google's Bard has made a significant leap in the world of chatbots, climbing to the second position on the Chatbot Arena leaderboard. This notable rise"
     publishedDateTime: 2024-01-29T11:38:00Z

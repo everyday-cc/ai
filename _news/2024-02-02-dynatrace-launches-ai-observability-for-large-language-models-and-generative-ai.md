@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-02T00:00:00Z
 originalUrl: "https://www.datanami.com/this-just-in/dynatrace-launches-ai-observability-for-large-language-models-and-generative-ai/"
 webUrl: "https://www.datanami.com/this-just-in/dynatrace-launches-ai-observability-for-large-language-models-and-generative-ai/"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.datanami.com/wp-content/uploads/2024/02/Dynatrace-square-300x300.png"

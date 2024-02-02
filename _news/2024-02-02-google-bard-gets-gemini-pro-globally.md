@@ -69,20 +69,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Google could rebrand Assistant with Bard to Gemini"
-    excerpt: "Google's new version of its Assistant called \"Assistant with Bard\" may be named \"Gemini\" after the company experimented with a standalone \"Bard\" brand for it. The new name \"Gemini\" could help promote the underlying AI technology and create a more cohesive branding strategy for Google's AI tools."
-    publishedDateTime: 2024-01-30T10:27:00Z
-    webUrl: "https://www.androidpolice.com/google-rebrand-assistant-with-bard-gemini/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google may rebrand 'Assistant with Bard' as Gemini"
     excerpt: "Last October, Google set the ball rolling to integrate the company's advanced Artificial Intelligence chatbot Bard with Google Assistant feature on Android phones. It was initially made available to select registered users to seek feedback and weedout any ..."
     publishedDateTime: 2024-01-31T00:00:00Z
@@ -144,6 +130,6 @@ related:
       domain: 9to5google.com
     quality: 4
 
-secured: "mrPI5uqCdo3Nlkadkt1u5cuTJZRAI3mFktISZr4z+c6mZSDuRMLM6ooShzVgeUKjFADz1E7MPNGKWEsCRTNm6N6TBDjv3msTW+KNHWeeRQzlAa61o5j43SQ3yqxzqfK7FH4H0yO5C6tPU/Q0byo/iD4Y/4WEsxr6jfxjo4v2uWdcnxt0aCkzlH6bF5RXyKHa1opNYZq5FGygz4gt29rkY5RVB9tGNSRvTSfU4MxaBjLMZOAk5om+cFi2g1/PY4z1ap+dRuPlvWT/Odc9VTvv8W6VM5kPQrSzy81ObRA6hE+ysNm0/RrIiUaNRKfiyR6HWEDwNTWFRTj4q63kqpzAN8xGUHKjftof/0pL6WcfJqc=;MnCmo6Mv6DFYYQAhyhoUfg=="
+secured: "VIB+4d+u/e+9XNiPAOzIiwky7PsCaSi0ai3238KQQ/vySEhcg+46r2+aBsg1+NwoaEULUoJUWJSWFFohwwZcoJ3eSaDfeRKgceAfQuQZuQm3IHrUx20s0/+/yrfUhBRWkc1RFdteli7Cw3Ik7Z3uifNQigyeFGIVo7ljNnaa6xlpp8v5KlI/eSEIvGPoWSEE8Vgd/53D/ksSrSAqHH08LZjcsf73m/RFmMmR+JVo13jq7kfnpTtJnAHuCY/otKDm46gRBDQ+NxchFYrh+RV9VjSk0VYJJN/01nRQvPGB7t4aJOADx2PpcTDWxg4bvPzB1XhmYPMzV3rXWgZbirF3NVEbqtM3OuCpdcVMcyOb7TZETf+4xSQJFvTI9uCbEjt0Tn8kaq7kQT5vhMlMk7CgThjHHE+eGLNNGpXUD2G000cDDCmLlGzrVt4sQVu95YWWzyI0d/7uPxfbbR8/7aetkK6zjSQ3vnmtbAYOISpc7HVKvN8UHfxGgWlHOujSOKXzNpLDRkBXQU2uqlS6RsNpRg==;TdQJFEE7qLeqjeQZPsy0dA=="
 ---
 

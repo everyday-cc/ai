@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Citadel vs. Wofford February 10 Tickets & Start Time"
-    excerpt: "Saturday's SoCon slate includes the Wofford Terriers (12-9, 5-3 SoCon) versus the Citadel Bulldogs (9-12, 1-7 SoCon) at 7:00 PM ET on ESPN+. If you're looking to catch this game in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-01-28T14:20:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/10/citadel-vs-wofford-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 2
 
 secured: "oUXKo2ufNbCSxdOc6hyWl6T8EZhLCdXs18ZDun5jtkQ+UVWrbP4Tjggyomip4jn6iUWVyAf4E1p9KZJ3Rm8XSCOJteLBzC4AqvVm+r0dgGx+u58gm++M2uhDirA0EKwAnBDruKZyW8o6MbopU7qP3dscXa76t2S7C8W3GybN2Yfm8pOUB4c69up91UuiRjcXbhfYLl3Oxpep8gi+BvnNJjE5UUyvZwgvxhKHM+nJyLulwiMJarTU/xsyjsRMQVDzjTY/Bykf48sPF69pIkMYKe7Yy/j2KcgCWX/exSw99IHgcpO+DBJM5kB6bSDDhOu1Z1tgPwk9any+J+G5jv5r+iHLfK2m7pr342Lgdl3PXS+d4eAPuOBh8PGJWmIZQD23NlwM/Tl1iV9MrTfy8Cgoo/kyrJolYkVjmqi1N37ORyh2kXSopBSpkj1udqkx6xcm80KnDbvzAv9cT4IoRlOCH+N0U63CFWHgCtHGZvgW61fDBhqF7eLiDH5sDbdXGyVeYoYEM2I/2HGhscZ1NeMhgg==;U2gwXNEjacziT1oDT+/jHg=="
 ---

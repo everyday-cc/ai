@@ -33,7 +33,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 51
   - title: "Utilizing Active Microparticles for Artificial Intelligence"
     excerpt: "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with electricity but with so-called active colloidal particles."
     publishedDateTime: 2024-01-30T09:29:00Z

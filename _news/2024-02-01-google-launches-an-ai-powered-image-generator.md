@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-imag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
 type: article
 quality: 89
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Google Bard Gets Big Upgrade; Can Generate AI Images, Supports More Languages"
+    excerpt: "Apart from adding image generation capabilities, Google has also expanded Bard to more than 230 countries and territories. Additionally, it now supports more than 40 languages including Arabic, Bengali, Tamil, and Urdu. Previously, it was available in 170 countries and only supported English."
+    publishedDateTime: 2024-02-02T12:48:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_bard_image_generator_1706877744448.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google Bard updated with image generation, support for Indian languages"
     excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
     publishedDateTime: 2024-02-02T10:28:00Z
@@ -110,6 +126,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Bard_Generated_Image-Gemini-Twins.png"
         width: 1536
         height: 970
+        isCached: true
+  - title: "How to Use Google Bard’s Free AI Image Generator From Anywhere"
+    excerpt: "Google Bard has a new AI image generator that's easy to use for anyone in the US. Even if you're not, we can suggest a tested workaround."
+    publishedDateTime: 2024-02-02T16:22:00Z
+    webUrl: "https://tech.co/news/use-google-bard-ai-image-generator"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/02105942/AdobeStock_602890609_Editorial_Use_Only-1-e1706889628126.jpeg"
+        width: 1920
+        height: 960
         isCached: true
   - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
     excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."

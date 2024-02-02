@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 ways startups can use AI to differentiate and win"
+    excerpt: "While much of the AI conversation is dominated by technology giants, startups are quietly giving bigger organizations a run for their money."
+    publishedDateTime: 2024-02-02T15:11:00Z
+    webUrl: "https://venturebeat.com/ai/3-ways-startups-can-use-ai-to-differentiate-and-win/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_447348676.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "AI, sustainability and enterprise tech marketing take center stage at CES 2024"
     excerpt: "At CES 2024, we witnessed a wide range of innovative applications in AI, sustainability and enterprise tech marketing. What was considered a new innovation just four years ago at CES 2020 is now more advanced and mainstream. We are seeing an increase in the promotion of AI in its various forms."
     publishedDateTime: 2024-01-30T03:30:00Z

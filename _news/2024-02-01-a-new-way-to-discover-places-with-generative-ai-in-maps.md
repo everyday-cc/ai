@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 249
+heat: 250
 published: true
 
 provider:

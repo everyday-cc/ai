@@ -41,6 +41,20 @@ related:
         width: 1348
         height: 900
         isCached: true
+  - title: "3 ways startups can use AI to differentiate and win"
+    excerpt: "While much of the AI conversation is dominated by technology giants, startups are quietly giving bigger organizations a run for their money."
+    publishedDateTime: 2024-02-02T15:11:00Z
+    webUrl: "https://venturebeat.com/ai/3-ways-startups-can-use-ai-to-differentiate-and-win/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/AdobeStock_447348676.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "KT2+YqBVpR9xMlx/7cCgoUog1so3znBNul7YYGvSVCKcbXDCe9QZW01bJuheMhxW22rMqv3wc9X/Z8PxfF+D0buwXSDVOG+abBuazKyuoN6yfLDFJuDuSwihLjfYJlfv9pFW8JmqPTCEKjApzDDKIFT1MDEuiHKNVlKe8LfwLBDkf+jspv/gJinKfJYtIJ/BoVYNSyH+NkfyCvAMgTTE6ElY5u0SXUOv0vDzBKSMXEALh+KD/yC4TrdTPXERmzouoEE4VNrh/dvn3XyBXVlcWlZQKz3fJTMnzyl1ucuhNtta3SO3ZHeBI9+MZp8G2KkN+j08EPdzWJUKO219OioJYLqhTvQtmwRFQkl8oe863RA=;+x1VDJl5ZMDULwMFFWu+KA=="
 ---

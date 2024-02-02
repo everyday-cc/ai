@@ -7,7 +7,7 @@ originalUrl: "https://www.marketingdive.com/news/dentsu-amazon-aws-ai-tools-expa
 webUrl: "https://www.marketingdive.com/news/dentsu-amazon-aws-ai-tools-expansion/705876/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 770
     height: 435
     isCached: true
+
+related:
+  - title: "AWS has its mojo back thanks in part to artificial intelligence"
+    excerpt: "While AWS looks to have handled customers optimizing their cloud spending with aplomb, the resumption of workloads and a \"rapidly rising\" contribution from AI bode well for the rest of 2024, Goldman Sachs analyst Eric Sheridan said."
+    publishedDateTime: 2024-02-02T12:48:00Z
+    webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 34
 
 secured: "ZPs2ecnV09dV46WviQr4Nd1UszWW3Fc4q8Egnlna2ybcoRws8ClKaewlMfubG0tG733ngfesVovIiWgivDRdqFS1iJIPNMJL5a9ktvk++iW9Q1E0g6sA2KtMpHBmyfTVX2vXTz5ruNSFfQq6UEx6r+yYx/SqdLjyjJ9hJ6PWZDKWvYkBvWKHVHNI4o9Lmq9fi+scD/EIYQMXns8kNvJGww0BVWm1243tYARY4mh1rmNjtpX9fAV1oieeuXyGDQkX0lyISuiq8qLNGJ5Wl002MEI/WBIwL+UpRYpu6RI+zEVF2Sqt/n3FShn/jGvxK2pm0LpOqCt4f7tGfo3moF/GsbHySVQgxKSsmG4al7fhUD8=;1MustDYNmbJdnnq+YeNu2Q=="
 ---

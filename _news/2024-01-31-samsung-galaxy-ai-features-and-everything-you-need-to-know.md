@@ -41,6 +41,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Promising Heart Drug Identified With Machine Learning"
+    excerpt: "UVA researchers have identified a promising new drug, using AI, to treat harmful scarring that can occur after heart attacks and other injuries."
+    publishedDateTime: 2024-02-02T09:56:00Z
+    webUrl: "https://www.technologynetworks.com/drug-discovery/news/promising-heart-drug-identified-with-machine-learning-383401"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 19
 
 secured: "0HrEvliy1hRBc9cUPnuRtCxYhbWh7GyR12P6Y8JaDjGTHSljO89gvTsy3VSxXjArJ5FJNK3PMnzk6XSbNFuGuxGz48d342thFT6YZe0WUD1vjhbcRI9WJyZTvQrjfrCkJBiUxQ7A5jfFX37NQfNJZv/K0vdQQATlko9fljiwonK1Rduif9CBFougARztYcmval5QOFbFd9CgZf3goSAv14chnH/var2PioUVNx+nIHYyPzf6UvKgyCywh5WJjEBy7xt0HBw81WfVXJjz2o76EC9HZa38o6yuKSjadGkZpiEdXRLtE843mir+YdMKuVbVYPXx6/OKN93+6FNE36LMDqUKm2tniMz7F6R/YDcDkac=;lZ1K/uRi5DZpkwDqEHilqw=="
 ---

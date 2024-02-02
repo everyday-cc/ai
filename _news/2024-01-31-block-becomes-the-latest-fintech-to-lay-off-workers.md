@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Embracing the AI revolution as an ethical vision for traders fintech innovators and financial titans"
+    excerpt: "How can we ensure that AI serves as a catalyst for positive change, rather than a source of disruption? For traders, investors, FinTech owners, and financial institutions, the rise of AI is not just a technological shift but a strategic opportunity."
+    publishedDateTime: 2024-02-02T15:24:00Z
+    webUrl: "https://www.fxstreet.com/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    ampWebUrl: "https://www.fxstreet.com/amp/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/education/embracing-the-ai-revolution-as-an-ethical-vision-for-traders-fintech-innovators-and-financial-titans-202402021524"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 61
+    images:
+      - url: "https://editorial.fxstreet.com/images/Macroeconomics/Countries/Europe/Eurozone_countries/Eurozone/euro-coin-20956600_Small.jpg"
+        width: 320
+        height: 213
+        isCached: true
   - title: "FinTech, VR, AI, and the Reshaping of British E-Commerce"
     excerpt: "The trajectory of e-commerce growth in the UK is remarkable. By 2026, it’s expected that global retail e-commerce sales will leap from 6 trillion to over 8 trillion US"
     publishedDateTime: 2024-02-01T07:00:00Z
