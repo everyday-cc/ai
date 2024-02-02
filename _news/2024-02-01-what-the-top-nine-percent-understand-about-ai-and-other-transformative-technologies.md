@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
         width: 429
         height: 648
-        isCached: true
-  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
-    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
-    publishedDateTime: 2024-01-31T00:43:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 35
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
-        width: 375
-        height: 250
         isCached: true
   - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
     excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."

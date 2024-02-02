@@ -29,33 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT’s new @-mentions bring multiple personalities into your AI convo"
-    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
-    publishedDateTime: 2024-01-31T22:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+  - title: "Has ChatGPT rendered the US's education report card irrelevant?"
+    excerpt: "ChatGPT and GPT-4 excelled at the nation's benchmark for answering science questions. The programs' abilities to overcome the working memory limit of humans carries 'significant implications' for educators,"
+    publishedDateTime: 2024-02-02T03:29:00Z
+    webUrl: "https://www.zdnet.com/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: ZDNet
+      domain: zdnet.com
+    quality: 106
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://www.zdnet.com/a/img/resize/e9bd1cf798853f3476cae3dbcaa223ab957ec916/2024/02/01/1121b60d-68cc-4d56-ac8c-82286d48d75a/gettyimages-1077184960.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "ChatGPT Now Allows Users to Bring Multiple AIs Into Conversations"
-    excerpt: "Artificial intelligence company OpenAI rolled out a new feature for ChatGPT this week that allows ChatGPT Plus users to add multiple GPT chatbots into existing conversations. This means that it's now possible to have your custom chatbots talk to each other. The feature could help users boost creativity and make better decisions."
-    publishedDateTime: 2024-01-31T21:34:00Z
-    webUrl: "https://www.inc.com/ben-sherry/chatgpt-now-allows-users-to-bring-multiple-ais-into-conversationshow-to-turn-chatgpts-new-feature-to-boost-creativity-at-work.html"
+  - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
+    excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
+    publishedDateTime: 2024-02-01T18:01:00Z
+    webUrl: "https://www.techrepublic.com/article/google-gemini-vs-chatgpt/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1362558433_536956_idayhy.jpg"
-        width: 1024
-        height: 576
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-google-gemini-vs-chatgpt.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "nfZgbdxnrOmh9hJ/l/HaYabQYRD3wchSrM1PIOHoIeb4S8A1rSXBLNxa4hUQ+6cYStltbIxVgl/lzQln5Hw9wFewpj8CJ674Z2JqQ9RJwAZWB7EIwMmhq98PPS9mWLaujx23cWwFkwd+wlli/m1ayixda+ZYpV4ufM50ukd6b7r4GD/I23FuOXBsMtcmRnbeGYRBWUdnElGKz9lK4OBq06zoBndIv1RC4/WGLuNUFnyBaciO9o+M4UPjTVxRiMEjLp/Gi62h2F8AV2Hgewtu1RyAFuh4Pvyb3MUkVjfygJqd3qkgNHIdvNkk0zDwdhilMDZH0y2hSuJLItuP2yoDA2+hlMKVzgZnUDpjLDVKVfU=;LEFrvkuxV8iZC2jVGCGG9A=="

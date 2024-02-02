@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Facebook owner Meta's shares soar 14% after profits triple in 'year of efficiency'"
+    excerpt: "The user base of Meta's apps, which include Facebook, Instagram, Messenger and WhatsApp, also grew. Monthly active users reached 3.98 billion at the end of the year, up 6% from 2022. Facebook, now known as Meta, has reported a 3% increase in monthly active users, reaching 3.07 billion by the end of December."
+    publishedDateTime: 2024-02-02T12:10:00Z
+    webUrl: "https://www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331"
+    ampWebUrl: "https://www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331.amp"
+    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331.amp"
+    type: article
+    provider:
+      name: The Mirror
+      domain: mirror.co.uk
+    quality: 38
+    images:
+      - url: "https://i2-prod.mirror.co.uk/incoming/article32030446.ece/ALTERNATES/s1200/0_1195178B000003E8.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook-Parent Meta Declares First-Ever Dividend"
     excerpt: "Meta Platforms announced its first-ever dividend of $0.5 per share and beat expectations for fourth-quarter revenue on Thursday, sending its shares up 8% in extended trading. It also authorized an additional $50 billion in share buybacks."
     publishedDateTime: 2024-02-01T21:07:00Z
@@ -28,20 +44,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "As Facebook turns 20, politics is out; impersonal video feeds are in"
-    excerpt: "Facebook and its imitators have done more than make money. Social media have become the main way that people experience the internet—and a substantial part of how they experience life. Last year nearly half of mobile screen-time worldwide was spent on social apps (and more than a quarter of waking hours were spent on phones),"
-    publishedDateTime: 2024-02-01T10:19:00Z
-    webUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 24
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_FBD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facebook owner Meta to pay investors for first time after profits triple"
     excerpt: "Meta, which owns Facebook, Instagram and WhatsApp, will issue its first dividend, paying investors 50 cents a share."
     publishedDateTime: 2024-02-01T22:30:00Z
@@ -51,15 +53,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 3
-  - title: "Google, Facebook worst at collecting data from apps for kids, finds privacy research group"
-    excerpt: "The study highlighted that edtech, childcare, and coding apps accessed the highest number of dangerous permissions, with about two-thirds of childcare and edtech apps having access to children's exact locations."
-    publishedDateTime: 2024-01-29T11:22:00Z
-    webUrl: "https://www.firstpost.com/tech/google-facebook-worst-at-collecting-data-from-apps-for-kids-finds-key-privacy-research-13666602.html"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 0
 
 secured: "FMS9dWoBBVyji/uPZ8tnUOTHdtcx0a2b35KAxhhYqaD2GPyydXdvllxXUoJ5EKgORpr1aNSLvqc9qCDrBrghM+hE2ZFHVIUjESTvaKv5bGg4UsE0Tdy4UOeh9oqVgr5G4aArvoEmOlqTLC0Fbom/jzfFqSApYdtTWZv4gHT91Gueyz++eZ8ighMH6uRAPTnNwgKuM3UG54mwjtll/AeTlcXpI/sMeAAAPlj+bJ4+wWstbXuIQ1m/LMZZ3TEpUKgGdgfMTjb4MitH6/sWD5wFxeUQ8rEh1HTOzt8aF9i9if34jLUAUOgVgogyXnAfD+SVkQsby9XnVlqfXLPuCQuMttKC8dCVghTULBOHFjRcvnE=;sGZUYS46UkGIKUCqKthubw=="
 ---

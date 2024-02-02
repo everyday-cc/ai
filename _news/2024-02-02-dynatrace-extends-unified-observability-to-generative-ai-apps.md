@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/"
 type: article
 quality: 91
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-02/01/pr_12199_bd58cc08_image_story.png"
         width: 960
         height: 432
+        isCached: true
+  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
+    excerpt: "It also supports the major platforms for building, training, and delivering AI models, including Microsoft Azure OpenAI Service, Amazon SageMaker, and Google AI Platform. Dynatrace AI Observability leverages the platform’s Davis AI and other core ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/dynatrace-launches-ai-observability-for-large-language-models-and-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/02/Dynatrace-square-300x300.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Dynatrace’s new LLM extension boosts observability, cuts costs"
     excerpt: "The software supports extensions to Google AI Platform, Amazon SageMaker and other development environments. Wambach indicated that observability software is taking on a greater role today, as LLM-based and other AI proofs-of-concept move to production."

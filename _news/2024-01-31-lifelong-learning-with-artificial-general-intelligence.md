@@ -7,7 +7,7 @@ originalUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2
 webUrl: "https://www.insidehighered.com/opinion/blogs/online-trending-now/2024/01/31/lifelong-learning-artificial-general-intelligence"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial General Intelligence Could Redefine Accessibility"
+    excerpt: "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities."
+    publishedDateTime: 2024-02-02T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6426e6cf87a5ab65cbbbf2c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1409
+        height: 900
+        isCached: true
   - title: "Four Key Artificial-Intelligence Trends for 2024"
     excerpt: "AI development and deployment, with no corner of the world unaffected. Four main trends will be of particular consequence in the coming months: the transformative power of generative AI, the diversity of multimodal AI,"
     publishedDateTime: 2024-01-31T09:15:00Z

@@ -2,25 +2,24 @@
 category: news
 title: "Meta to deploy in-house custom chips this year to power AI drive"
 excerpt: "Meta: The world's biggest social media company has been scrambling to boost its computing capacity for the power-hungry generative AI products it is pushing into apps Facebook, Instagram and WhatsApp and hardware devices like its Ray-Ban smartglasses,"
-publishedDateTime: 2024-02-02T06:20:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107346660"
-webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107346660"
+publishedDateTime: 2024-02-02T10:30:00Z
+originalUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107357399"
+webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107357399"
 type: article
-quality: 56
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
+  name: brandequity.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
   - Meta AI
   - AI
-  - AI Hardware
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-107346660,imgsize-29598,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-107357399,imgsize-29598,width-1200,height=765,overlay-etbrandequity/digital/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
     width: 1200
     height: 765
     isCached: true
@@ -82,6 +81,6 @@ related:
         height: 534
         isCached: true
 
-secured: "hfaC0MLyFS1ce+TjUURXiIUfebpU0AnGK0GPPZSO40lt0NVcEdHRwlbSU6DXEsW9BPvXeLYSMmH04I+R0SrX/gFGJBMgRy9qMLopvZJcADquxnlIFBzTi//Gu/um+g8YmF3b2VeambNiLx+H2EWqMCh4ikjLmlNIA5n4khUbm126QEl+7fItXKofvxJZglHfkoYmzy6uTYz/ah9qpD156+TG1jKgGIsNmiFGWsVaxmR96ADFqyql6C5yyCPb7uQK8DvFpq3uh6W/OVTYHI1GwBLt2qRgzu7ju/KgX9Lo8wcUnDmnQIEKNNNCtb7rjtToVJJTAltUfSs8gfvVa5FlRd28Ysu90tp+ZjnxA2E5U28=;4i5i9iKGPZxlmgXp0rjPZA=="
+secured: "1NIo6SkQNMJFcpUddkD5mjY9CzGnsZzIU0Htq66z8ZrqycuON8NQXNkY7sGn95/YcAmZbs8VmsFHZL6/qG2jje8FBpSrYLUsKChll1roWCnsOfdMb0SGYDjovW9/YngYHl7mYEHCPLIHDsUwV2WPIJznzVRdA6GIdBchgrjYDo3UI2WxH1WpiAqTUyhMm67RJevBOpCwZ/1KdjiO7dS3g1UJov+HdlbJh9lAMhYahCAIocLF4Wrb+kUffsI1MEs1Cumprc1tqbnG1heuh6Uhl+wcjdVjoq3X2JhDGA3Svf99NUh/CNRJDpfnOXYTMg+M+VP0O0K6k3SCqzR5Ri5fpPUlzYwjPVnv1Mrd8CjHzD8=;BkRXos345hpO6+SFCuq6uA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -129,6 +129,20 @@ related:
       - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
         width: 1181
         height: 405
+        isCached: true
+  - title: "Navigating the New Era with Generative AI Literacy"
+    excerpt: "Data literacy has been a strong focus among data-savvy organizations. However, with the advent of advanced generative AI tools, this focus is quickly changing. Learn the components you should be focused on in the new era of generative AI literacy."
+    publishedDateTime: 2024-02-02T11:13:00Z
+    webUrl: "https://tdwi.org/Articles/2024/02/02/TA-ALL-Navigating-the-New-Era-with-Generative-AI-Literacy.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI20.jpg"
+        width: 976
+        height: 400
         isCached: true
   - title: "Generative AI Will Not Replace Your Employees"
     excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."

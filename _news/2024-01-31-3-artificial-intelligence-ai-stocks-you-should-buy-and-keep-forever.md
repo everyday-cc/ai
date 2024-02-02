@@ -7,8 +7,8 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pres
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Globe and Mail
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "3 Stocks That Could Be Surprise Artificial Intelligence (AI) Winners in 2024"
+    excerpt: "2023 kicked off an arms race in artificial intelligence (AI). Big tech companies spent heavily on software development and specific chips from companies like Nvidia to train their AI models. As a result, investors saw a few select chipmakers emerge as big ..."
+    publishedDateTime: 2024-01-29T14:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU-Q/pressreleases/23667927/3-stocks-that-could-be-surprise-artificial-intelligence-ai-winners-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
   - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
     excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
     publishedDateTime: 2024-01-28T20:15:00Z

@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ModelBest launches new AI large model"
+    excerpt: "Photo provided to chinadaily.com.cn] Chinese artificial intelligence startup ModelBest Inc launched on Thursday its latest light-weighted large model, an emerging less expensive AI technology that aims for more targeted commercialized scenarios."
+    publishedDateTime: 2024-02-02T09:12:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/02/WS65bcaab8a3104efcbdae9650.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202402/02/65bcaab8a3104efc330243fa.jpeg"
+        width: 944
+        height: 629
+        isCached: true
   - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
     excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
     publishedDateTime: 2024-01-29T13:22:00Z

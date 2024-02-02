@@ -204,6 +204,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Fintech Industry Leaders React On Interim Budget 2024"
+    excerpt: "Here are Interim Budget reaction by leading fintech companies. 1) Yashoraj Tyagi, Chief Executive Officer, CASHe: â€œThe"
+    publishedDateTime: 2024-02-02T12:33:00Z
+    webUrl: "https://menafn.com/1107801813/Fintech-Industry-Leaders-React-On-Interim-Budget-2024"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
+        width: 355
+        height: 250
+        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

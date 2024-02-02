@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
 type: article
 quality: 98
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
-    excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
-    publishedDateTime: 2024-02-01T18:01:00Z
-    webUrl: "https://www.techrepublic.com/article/google-gemini-vs-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-google-gemini-vs-chatgpt.jpg"
-        width: 1200
-        height: 900
         isCached: true
   - title: "AI Game-Changers: ChatGPT vs. Llama"
     excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."

@@ -196,6 +196,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Fintech Industry Leaders React On Interim Budget 2024"
+    excerpt: "Here are Interim Budget reaction by leading fintech companies. 1) Yashoraj Tyagi, Chief Executive Officer, CASHe: â€œThe"
+    publishedDateTime: 2024-02-02T12:33:00Z
+    webUrl: "https://menafn.com/1107801813/Fintech-Industry-Leaders-React-On-Interim-Budget-2024"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
+        width: 355
+        height: 250
+        isCached: true
   - title: "Rocket taps Silicon Valley AI and fintech expert for new board spot"
     excerpt: "Rocket Companies Inc. has gone to Silicon Valley for its latest board appointment. Nick Manes is a reporter covering residential real estate and local mortgage companies for Crain’s Detroit Business. He previously covered finance and tech startups. He joined Crain’s in 2020 after six years as a reporter at MiBiz."
     publishedDateTime: 2024-02-01T16:04:00Z
@@ -260,6 +274,6 @@ related:
       domain: dailymirror.lk
     quality: 0
 
-secured: "DeHWTyQuwUZ3IRy/BaanvhAAOBk5fSf31f/S4XPPRxlSCBuIHGsPl6zSxnd6vZFj/j49SkSe549mnoqJC3gk4Y23z86yaTVTl4DozrfYToWCFOiiXFlrM+R0pFk7goJVU+lz7BpEq0jukyeFQXXI+AB4B2eUyaoEu4GUoMvuNTvuTJBRjgzABCl9eksDeDqXP+fzl0OAmfyWdPO15obTl1WfPjr3UPPYkLA73LmiOdTcObRah0/5NaKLuzBAxXM+CPVtGtlPnexR+w8lYIm3kfUHcUtKFnxtsoC9EPLhST02yHk4Bhh0dODynhb01hoCpdE6O05Hlt3mIxTbaV9cmxeBIrGuBAU7uA0Dt12oNvU=;u0/qDrdTtOkUZbHPLNc+mA=="
+secured: "AsxfSZURpOzycEc6NK8zZxww7PE6gKiRYE0jWFbsW40JcP2BSW7MRZdmzsSZd7Iobr2D1Lzq/8DVhOrsLxeBXBI2IpH5Lc8G5AGkgByHeC+CSQ883LJr7DvYYX1aeg8+9jkqBgOh0ZYBhfNRNL/P4mPFSWLTLQvX17agohCu/7upXGek5HIfSO7Kp0aFZU2M1ctXLKcALpQcd5qJflsJcW2LVaMgnHEbG8XKAJeKOW+AsGbsELwbaQ+TsB++O5y/RLpE43nl7ZILsuAFM3Zmo8YPJcdNv5mAwD6C7sa8Nwp4oWLieGTcXctygjO3lZxgb1igZC9loOZ6EeYuMDuzAG4YCXASaBLUCh7aRalmlGJk7jcx7zI8/9/qV2Gb7ui02NCQ5Nd37ePZ73ILXg5cbNpRyY+5ZdGHVfc3qjTCKGIqHYgcrBIF/DX5sLdmG/hi8wSSGueNGtu6eL78AvGRwZBEuF+8l1l/j2/6/VUec4zPlH5weVEHzutncYVRTa/mwEouszERtw/EzFTH4jCpTw==;fYwX9X8VF2NZw/0a3Adf3A=="
 ---
 

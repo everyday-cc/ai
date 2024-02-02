@@ -32,6 +32,15 @@ related:
         width: 720
         height: 466
         isCached: true
+  - title: "3 Stocks That Could Be Surprise Artificial Intelligence (AI) Winners in 2024"
+    excerpt: "2023 kicked off an arms race in artificial intelligence (AI). Big tech companies spent heavily on software development and specific chips from companies like Nvidia to train their AI models. As a result, investors saw a few select chipmakers emerge as big ..."
+    publishedDateTime: 2024-01-29T14:40:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU-Q/pressreleases/23667927/3-stocks-that-could-be-surprise-artificial-intelligence-ai-winners-in-2024/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
 
 secured: "3by35IwBkQxxbtaY6LGkav+X7AQGen2KuOpumEUB9UGRqNb4bTEb34hXWGthqXxz3En59FS/bYDFgcuFI1KiYIBSKtzUnt8m80/gkh/qwfA6FQ9M3NTWCFiAi/tuwGrh5cpO6bMRMRshFDsvZ+hQQCYpacLSPDHWbOzcAV6eL5J8rfGcuWImm7Dg+4Gm5uYJRXEq+PMOl4hxNhqK9VHSLzH32KENMtNupU2rVTPR1CeGxBN22xs6ys/t4TtEZ652LhcWcYfMoqnKPI5AFGHvI76krXiLRcIkCZbTQ8lfgEsamsq4YZgVVB1KZBJG9Mx8iag9lV6MIKqkgsHsuxI0WgvGmedzsG7ztC7qXfhNaUpR4rkhiHXuP3pdGHqEZaVGBt42X9ud/6KsVXDzc90ZfuAb3PCxZgTNI5PxosquDUcSugVPyzZ7TcOOrXpCMElxQ66o+LiUtcW0Ec0rX7p3u0jo1lAxlhb830QtQNieFwPBYoQKGf75u9cx1LinnsKshJw/iGBGpWJZUVr0rwxiOg==;JqTNMoS22XKkl8gJnN9NjA=="
 ---

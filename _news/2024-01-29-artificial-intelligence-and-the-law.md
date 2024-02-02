@@ -41,20 +41,6 @@ related:
         width: 1456
         height: 900
         isCached: true
-  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
-    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
-    publishedDateTime: 2024-01-31T00:43:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 35
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
-        width: 375
-        height: 250
-        isCached: true
   - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
     excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
     publishedDateTime: 2024-01-30T15:42:00Z

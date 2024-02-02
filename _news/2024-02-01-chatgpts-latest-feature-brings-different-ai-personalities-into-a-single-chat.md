@@ -73,20 +73,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
-    excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
-    publishedDateTime: 2024-02-01T18:01:00Z
-    webUrl: "https://www.techrepublic.com/article/google-gemini-vs-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-google-gemini-vs-chatgpt.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "AI Game-Changers: ChatGPT vs. Llama"
     excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
     publishedDateTime: 2024-01-31T18:26:00Z

@@ -38,6 +38,22 @@ related:
         width: 1366
         height: 774
         isCached: true
+  - title: "Meta to develop, use its in-house data centre AI-chips this year, AI tools to cost over $30 billion annually"
+    excerpt: "Meta will develop its own custom AI chip and deploy them at their local data centres to power their AI tools. All of this, including the development and deployment of these new AI tolls could cost as"
+    publishedDateTime: 2024-02-02T11:20:00Z
+    webUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html"
+    ampWebUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 40
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/02/Meta-to-start-developing-using-its-in-house-AI-chips-this-year-AI-to-cost-over-30-billion-annually.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "l4yQJMltpq79iMPbmspJulodN1Ygm98ZqzG2Jxb2zd2BvlxpZaKTAMa+/FvtZ+OBkBC5ivvHRYiUhPd8dgYm6TbgBwqqCiFTC6mCJrCI9rMyk+uXcuh1C6mJDMmEEfttgfGgjO8s0PiixqUrAcVAcNjQnQKTt6f8XbRlg+ervA+qVBKFR5GOxpXsY5B//NK3dYl7+Our03c5pSN+4emdXhTyWkMpblD9C8zgHhg2KuPgaAawgHPYddUdEnc/5cRj4JPUfVN+DWFrXJKwynPkZL0hbaMafx7ewtMa+J6IF0M11ODh10lJ+5q7Yg85UzVe4U90IL2jal4JmaP63qOZ80QO34/EPnjjkDzUNGFWW78=;smVp6X1XFyUdZtWLIL09bg=="
 ---

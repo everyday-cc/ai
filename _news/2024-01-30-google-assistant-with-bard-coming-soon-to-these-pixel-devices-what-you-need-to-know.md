@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google may rebrand 'Assistant with Bard' as Gemini"
-    excerpt: "Last October, Google set the ball rolling to integrate the company's advanced Artificial Intelligence chatbot Bard with Google Assistant feature on Android phones. It was initially made available to select registered users to seek feedback and weedout any ..."
-    publishedDateTime: 2024-01-31T00:00:00Z
-    webUrl: "https://www.deccanherald.com/technology/google-may-rebrand-assistant-with-bard-as-gemini-2872419"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 24
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2024-01%2Ffb0b1fd3-941b-4fac-8ff1-d4fe7dd6ae74%2FGoogle_Bard_CS_5.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FEik5yhfmuU/Chj0M/TyiFKiz6i1WZdozy1vIJBv2j7zCf03L2abZDLRocDAFqni5Eg39Go9B0JrpepY73pKwIpAeg8jztjWYLZomX3qR0j74NsJhrK5OmFVzKDrWJlUyMAkxXssF9Hoff+F2gZ+D/aTmxUlZPkm7kR5cznJQrYNEb1J0Wp0FQAuluBEfZCh5a75x74jOP3h/7mLNU+1WGF3IVaO/HpY2v/oU9lpU3ie8SlNEqceYUgbmfv6Wf9VCEFdEQoGlvj64W1wSNsBb9XuSFZDIuKAV6oAjdr+G+A1vW0fbfBxc+FCc9s5IZqeP8IUaQu0dLZiQD1obvbPbRAvlAGuKAye+NpXiOgWLGGeXq9dOIc7UdOlP79HEfrEskj7vFfHSky/Z4MRWO2mt3xsejrNdJpD2O6Oz0VjWf2z/S6sJvDljbBS6rHeyo4U+WU3WULl/hWfQJupmdkSBBl4MtDfEqqYa3hQwJvTFgfkhNYtXNWABimRJnMASOf2XNqKi1tZ+ClGqsMoZYetmg==;RM4gUyu3xkqf6mMqXVI8VQ=="
 ---

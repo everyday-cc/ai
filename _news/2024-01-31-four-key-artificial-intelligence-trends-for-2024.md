@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "How Artificial General Intelligence Could Redefine Accessibility"
+    excerpt: "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities."
+    publishedDateTime: 2024-02-02T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6426e6cf87a5ab65cbbbf2c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1409
+        height: 900
+        isCached: true
   - title: "Lifelong Learning With Artificial General Intelligence"
     excerpt: "What will it mean to higher education when AI systems carry out tasks at an intelligence level that matches or exceeds humans’?"
     publishedDateTime: 2024-01-31T08:14:00Z

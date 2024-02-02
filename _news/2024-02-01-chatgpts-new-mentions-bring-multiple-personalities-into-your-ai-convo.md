@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-la
 webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ars reader reports ChatGPT is sending him conversations from unrelated AI users"
-    excerpt: "ChatGPT is leaking private conversations that include login credentials and other personal details of unrelated users, screenshots submitted by an Ars reader on Monday indicated."
-    publishedDateTime: 2024-01-30T01:43:00Z
-    webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "ChatGPT Now Allows Users to Bring Multiple AIs Into Conversations"
     excerpt: "Artificial intelligence company OpenAI rolled out a new feature for ChatGPT this week that allows ChatGPT Plus users to add multiple GPT chatbots into existing conversations. This means that it's now possible to have your custom chatbots talk to each other. The feature could help users boost creativity and make better decisions."
     publishedDateTime: 2024-01-31T21:34:00Z

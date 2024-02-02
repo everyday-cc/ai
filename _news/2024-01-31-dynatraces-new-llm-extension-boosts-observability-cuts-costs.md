@@ -63,6 +63,20 @@ related:
         width: 960
         height: 432
         isCached: true
+  - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
+    excerpt: "It also supports the major platforms for building, training, and delivering AI models, including Microsoft Azure OpenAI Service, Amazon SageMaker, and Google AI Platform. Dynatrace AI Observability leverages the platform’s Davis AI and other core ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/dynatrace-launches-ai-observability-for-large-language-models-and-generative-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 35
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/02/Dynatrace-square-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "3cbHSqZCAb+IN4TYRdifuEEq8fXeBOiXVxKFjLhblZI5By78VQpkh79j20y31pHPXnU87qJu9TJg3hKqCJZbxoziwNUdf8jGuR1oGObI/bd7AefnCeNMFHTfF6pKvEso72uT5JobrVb4KdbilMnmmry5u20pltsPYE0dEyWwABS4BI9SYr5NFWNjYKfC2KRCZOXwJPN706kvQbBuRAafUPNA1uzP8AIk8eeJxhqVMm4dO4i3G2xm5lJYi4J3OojybH4prOPWgeRAWlp/M71rCxXflQUpfFTOqDFSy0fuUC0QsSjgX/fctxNFBj8Ud8LWhBZ8tjNEICWBmYMHdXlAs6PIqFnxMTJanVezKjp8e9I=;kK0cG0QKiXPLL+67uBhXtw=="
 ---

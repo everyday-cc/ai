@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-i-tested-a-next-gen-ai-assistant-it-will-blow-you-away.md",
+      "title": "I Tested a Next-Gen AI Assistant. It Will Blow You Away",
+      "excerpt": "WIRED experimented with a new form of voice assistant that can browse the web and perform tasks online. Siri, Alexa, and other virtual helpers could soon be much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "originalUrl": "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics.md",
       "title": "KettyBot Pro will provide personalized customer service, says Pudu Robotics",
       "excerpt": "KettyBot Pro's new features include a larger screen for personalized advertising, cameras for navigation, and smart tray inspection.",
@@ -31,6 +83,49 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-3-artificial-intelligence-ai-stocks-you-should-buy-and-keep-forever.md",
+      "title": "3 Artificial Intelligence (AI) Stocks You Should Buy and Keep Forever",
+      "excerpt": "Detailed price information for Amazon.com Inc (AMZN-Q) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/667b46d4c23ff4d85ed20232924d5b22/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5eedbbef10113d068d4c0ed29a82971.png%26amp%3Bw%3D700",
+          "width": 720,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T12:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1275,101 +1370,6 @@
         "name": "KSHB Kansas City",
         "domain": "kshb.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
-      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
-      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
-          "width": 467,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "publishedDateTime": "2024-01-19T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
-      "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
-      "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a974ad913d58e48af2a75f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "publishedDateTime": "2024-01-18T18:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

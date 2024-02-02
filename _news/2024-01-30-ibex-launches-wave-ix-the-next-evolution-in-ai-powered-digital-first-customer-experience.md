@@ -55,6 +55,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google’s Bard AI Adds Image Generation with Gemini Pro & Expands Language Support"
+    excerpt: "Google has recently improved its Bard AI by adding Gemini Pro and a new image generation feature. These updates aim to make Bard more useful in different languages and regions, providing users with better tools."
+    publishedDateTime: 2024-02-02T11:29:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/02/bard-ai-now-supports-gemini-pro/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Bard-Image-Generation.gif"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Google Bard updated with image generation, support for Indian languages"
+    excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
+    publishedDateTime: 2024-02-02T10:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/j2ys2i/article67803977.ece/alternates/FREE_1200/IMG_Google_2_1_1FBO6532.jpg"
+        width: 1200
+        height: 875
+        isCached: true
   - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
     excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
     publishedDateTime: 2024-02-02T07:15:00Z

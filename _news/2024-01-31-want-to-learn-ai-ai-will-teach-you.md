@@ -29,7 +29,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg"
         width: 1280

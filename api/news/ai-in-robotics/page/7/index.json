@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-30-locomotor-control-and-rehabilitation-robotics-laboratory.md",
+      "title": "Locomotor Control and Rehabilitation Robotics Laboratory",
+      "excerpt": "With that in mind, we have developed clinical protocols for treating ... The participant is in complete control of the speed and direction of the belt; users can determine if they want to walk forward or backwards. The KineAssist allows participants ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
+      "originalUrl": "https://www.uab.edu/shp/pt/locolab?trk=public_profile_project-title",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T15:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaleido Scope",
+        "domain": "uab.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-gesture-controlled-robot-arm-is-a-nifty-educational-build.md",
+      "title": "Gesture-Controlled Robot Arm Is A Nifty Educational Build",
+      "excerpt": "Traditionally, robot arms have been controlled either by joysticks, buttons, or very carefully programmed routines. However, for [Narongporn Laosrisin’s] homebrew build, they decided to go with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "originalUrl": "https://hackaday.com/2023/11/29/gesture-controlled-robot-arm-is-a-nifty-educational-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2023/11/F1U4GZ0LP8CJKO4-e1701171720301.jpg",
+          "width": 2583,
+          "height": 1451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T11:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-robotics-stocks-bot-is-mans-best-friend.md",
       "title": "Robotics Stocks: Bot is Man’s Best Friend",
       "excerpt": "From the first weaving loom to today’s AI-powered surgical robots, modern human history evolves around ... permitted automation (not to be confused with mere automatization), i.e., computerized control of previously human-led tasks.",
@@ -1253,83 +1330,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-new-york-drones-robotics-ai-summit-heralds-growing-automation-industry.md",
-      "title": "New York Drones & Robotics AI Summit Heralds Growing Automation Industry",
-      "excerpt": "Speakers at the Drones & Robotics AI Summit in New York discussed state and federal support of tech startups, as well as opportunities",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
-      "originalUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-21T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo.md",
-      "title": "Polish company employs world's first ever AI humanoid robot CEO",
-      "excerpt": "During an interview with Fox Business over a video call, it was noted that there was a “significant delay” in Mika’s response time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
-      "originalUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2023/11/21/dictador_mika_.jpg",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/offbeat/polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo-743622?amp",
-      "publishedDateTime": "2023-11-21T07:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

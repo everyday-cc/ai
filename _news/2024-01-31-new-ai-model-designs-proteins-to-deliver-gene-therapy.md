@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_01_2024_17_12_06_4359606.png?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ModelBest launches new AI large model"
+    excerpt: "Photo provided to chinadaily.com.cn] Chinese artificial intelligence startup ModelBest Inc launched on Thursday its latest light-weighted large model, an emerging less expensive AI technology that aims for more targeted commercialized scenarios."
+    publishedDateTime: 2024-02-02T09:12:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/02/WS65bcaab8a3104efcbdae9650.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202402/02/65bcaab8a3104efc330243fa.jpeg"
+        width: 944
+        height: 629
         isCached: true
   - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
     excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"

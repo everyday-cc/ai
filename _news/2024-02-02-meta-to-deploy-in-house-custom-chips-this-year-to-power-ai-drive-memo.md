@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "Meta to deploy in-house custom chips this year to power AI drive"
     excerpt: "Meta: The world's biggest social media company has been scrambling to boost its computing capacity for the power-hungry generative AI products it is pushing into apps Facebook, Instagram and WhatsApp and hardware devices like its Ray-Ban smartglasses,"
-    publishedDateTime: 2024-02-02T06:20:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107346660"
+    publishedDateTime: 2024-02-02T10:30:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107357399"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
+      name: brandequity.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 56
+    quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107346660,imgsize-29598,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107357399,imgsize-29598,width-1200,height=765,overlay-etbrandequity/digital/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
         width: 1200
         height: 765
         isCached: true

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-how-artificial-general-intelligence-could-redefine-accessibility.md",
+      "title": "How Artificial General Intelligence Could Redefine Accessibility",
+      "excerpt": "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6426e6cf87a5ab65cbbbf2c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1409,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
+      "publishedDateTime": "2024-02-02T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-exclusive-ai-healthcare-software-startup-cohere-health-just-raised-50-million.md",
       "title": "Exclusive: AI healthcare software startup Cohere Health just raised $50 million",
       "excerpt": "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana.",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -263,7 +315,7 @@
       "originalUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1341,49 +1393,6 @@
       "provider": {
         "name": "The American Journal of Managed Care",
         "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
-      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
-      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami County Republic",
-        "domain": "republic-online.com",
         "images": null,
         "publishers": null,
         "authors": null

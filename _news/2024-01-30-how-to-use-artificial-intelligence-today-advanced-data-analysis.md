@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/29/how-to-use-artificial-intelligence-today-advanced-data-analysis/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 47
+  - title: "Meta to develop, use its in-house data centre AI-chips this year, AI tools to cost over $30 billion annually"
+    excerpt: "Meta will develop its own custom AI chip and deploy them at their local data centres to power their AI tools. All of this, including the development and deployment of these new AI tolls could cost as"
+    publishedDateTime: 2024-02-02T11:20:00Z
+    webUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html"
+    ampWebUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 40
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/02/Meta-to-start-developing-using-its-in-house-AI-chips-this-year-AI-to-cost-over-30-billion-annually.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "MRXb9PfCj9X/hdX2QFOxz8yWU6Upgx+PEbD7vbEvCfaymNP3IiJpm8VBS7cHLx3W1HO0Hzy3/QXeAFGgU3sQtdnAQQtz9qDba2s7MY+FQ26mFltDOvlB8hANZ+7yUtD2WMUoG+0dCEkxTPEwRKmmcjeoLr3IvdIIGot6IRFJGpbmSRTThzVokVndu75QEE/Xe88jIqLzy6JzDvyuuhV+mdCceJDmspXJsSuVutQEAWiY3UTOjVD6NDI0iTOFbZZ1DfeY++aGHvzHP8tN7461HqGh6Ed+G5momvDA85SMtbnHFEOZ93gbX65H8V4iNk/5S5/zWObmMCHqq5z52NTmuBdjAJF18hPcouDDjd40zqk=;KB0lljyzJHaoQj03LUk/Gw=="
 ---

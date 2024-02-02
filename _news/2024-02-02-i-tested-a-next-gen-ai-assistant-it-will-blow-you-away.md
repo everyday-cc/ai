@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-01T17:00:00Z
 originalUrl: "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/"
 webUrl: "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/65baf73038f4406f11e1a29c/191:100/w_1280,c_limit/business_ai_voice_assistant.jpg"

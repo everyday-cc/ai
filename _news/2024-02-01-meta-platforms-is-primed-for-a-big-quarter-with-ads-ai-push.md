@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Platforms Poised for Growth: AI Integration Spurs Revenue and Engagement Uptick"
+    excerpt: "Meta Platforms (META – Research Report), the Communication Services sector company, was revisited by a Wall Street analyst today. Analyst"
+    publishedDateTime: 2024-02-02T06:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/meta-platforms-poised-for-growth-ai-integration-spurs-revenue-and-engagement-uptick-1033024210"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Meta Platforms' AI Outlook Might Overshadow Its Results"
     excerpt: "Meta Platforms is betting big on artificial intelligence. The company’s commentary about its AI investment program’s progress may be more important than near-term financial results. The internet company will report its fourth-quarter earnings after the market close Thursday."
     publishedDateTime: 2024-02-01T08:01:00Z

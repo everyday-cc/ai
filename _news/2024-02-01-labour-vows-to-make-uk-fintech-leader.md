@@ -204,6 +204,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Fintech Industry Leaders React On Interim Budget 2024"
+    excerpt: "Here are Interim Budget reaction by leading fintech companies. 1) Yashoraj Tyagi, Chief Executive Officer, CASHe: â€œThe"
+    publishedDateTime: 2024-02-02T12:33:00Z
+    webUrl: "https://menafn.com/1107801813/Fintech-Industry-Leaders-React-On-Interim-Budget-2024"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
+        width: 355
+        height: 250
+        isCached: true
   - title: "Rocket taps Silicon Valley AI and fintech expert for new board spot"
     excerpt: "Rocket Companies Inc. has gone to Silicon Valley for its latest board appointment. Nick Manes is a reporter covering residential real estate and local mortgage companies for Crain’s Detroit Business. He previously covered finance and tech startups. He joined Crain’s in 2020 after six years as a reporter at MiBiz."
     publishedDateTime: 2024-02-01T16:04:00Z

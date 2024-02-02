@@ -41,20 +41,6 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "Revolutionizing Health Care: How AI is Reshaping Patient Diagnoses"
-    excerpt: "Introduction In recent years, the integration of Artificial Intelligence (AI) into the healthcare sector has brought about a revolutionary transformation, particularly in the realm of patient diagnoses."
-    publishedDateTime: 2024-01-28T12:25:00Z
-    webUrl: "https://techbullion.com/revolutionizing-health-care-how-ai-is-reshaping-patient-diagnoses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Health-Care-How-AI-is-Reshaping-Patient-Diagnoses.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "How AI Is Being Used to Make Humans More Intelligent"
     excerpt: "Thanks to the buzz it generated in 2023, AI is on everyone's mind. But not everyone understands it. Here are some tips to help."
     publishedDateTime: 2024-01-30T08:13:00Z

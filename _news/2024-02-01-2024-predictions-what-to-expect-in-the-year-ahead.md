@@ -26,24 +26,6 @@ images:
 
 related:
   - title: "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market"
-    excerpt: "It's official: A new bull market is here. And part of the reason for that is the rise of artificial intelligence (AI). Amazon, the world's largest cloud services provider and the world's largest e-commerce company, should benefit in several ways ..."
-    publishedDateTime: 2024-01-28T13:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
-  - title: "3 Stocks That Could Be Surprise Artificial Intelligence (AI) Winners in 2024"
-    excerpt: "2023 kicked off an arms race in artificial intelligence (AI). Big tech companies spent heavily on software development and specific chips from companies like Nvidia to train their AI models. As a result, investors saw a few select chipmakers emerge as big ..."
-    publishedDateTime: 2024-01-29T14:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU-Q/pressreleases/23667927/3-stocks-that-could-be-surprise-artificial-intelligence-ai-winners-in-2024/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
-  - title: "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market"
     excerpt: "And part of the reason for that is the rise of artificial intelligence (AI). Amazon ... More e-commerce spending should lead to higher revenue for Amazon. Robotics innovations could lead to massive cost savings. Amazon is already America's second-largest ..."
     publishedDateTime: 2024-01-28T19:54:00Z
     webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META/pressreleases/23654454/"

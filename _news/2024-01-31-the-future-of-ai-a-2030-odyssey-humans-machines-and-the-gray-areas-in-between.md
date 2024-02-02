@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Data Breaches in the Age of AI: How Smart Machines Can Help Us Patch the Leaks"
-    excerpt: "Data breaches are a growing nightmare, exposing our personal info like stolen treasure. But fear not! Artificial intelligence, like a digital watchdog, can analyze data, predict threats, and adapt to stop hackers."
-    publishedDateTime: 2024-01-31T07:13:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2774350-data-breaches-in-the-age-of-ai-how-smart-machines-can-help-us-patch-the-leaks"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2774350-data-breaches-in-the-age-of-ai-how-smart-machines-can-help-us-patch-the-leaks?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2774350-data-breaches-in-the-age-of-ai-how-smart-machines-can-help-us-patch-the-leaks?amp"
+  - title: "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond"
+    excerpt: "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being."
+    publishedDateTime: 2024-02-02T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_01_2024_17_35_01_3041357.png?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1416
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence: The New Eyes Of Surveillance"
+    excerpt: "While artificial intelligence systems continue to be hyped in 2024, the risks posed to data privacy can no longer be ignored."
+    publishedDateTime: 2024-02-02T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
+    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
+    publishedDateTime: 2024-01-31T00:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 35
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "+n4TnxeHZbTtZ+S2eTP+yvjzU4oCP1HNw9usJAmnoOPqZApqeUtVzYbRbwBR8kvYbZKVRNDwDkTMZxA1jMuoE0vsNrTN2Xi7WsGQMsBLpj1jpimx7e7tx4DVWm4jaibc10P4IQg2dAogvWXgYwyC/bsMpYNE2ycHJzmbgT1XWya9IG3Erp01VhR9mfuDTIzMun+vgrgkVqrZ8Zka/iwA0AyJ0XcnyHpqgvOYBPnGUfSeV9T/lvpAZWoQZ3E3vO9XtM1Qu9hvC7PPwCbZRVbPjSBghONe2OQB9SiIRvlxcjDuE/Y0cFwq5918YDQGAr6qqM5oAsfXwhzqByAxz77ZvSgQQD1brEYJzF8T75AjoMWDdHBFW9LiqLGTJJPAv12Rpdv5+1exw467L8FeOUv33Ao1WXIFf28Fz4uB/VTtT+LuIpU4VI3G30fF7SJ3T/944T8YRqtYd1hc39Q0DCq5VesYErcFokEGcxaP5XAz00RK0jUEmN/pLV+Mktfp2VIiTf8+MgANhELKWjfbZQEbFQ==;V0DmFTvUdhMKrjsgGap/nQ=="

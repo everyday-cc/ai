@@ -85,20 +85,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
-    excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
-    publishedDateTime: 2024-02-01T18:01:00Z
-    webUrl: "https://www.techrepublic.com/article/google-gemini-vs-chatgpt/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 71
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240201-google-gemini-vs-chatgpt.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
     excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
     publishedDateTime: 2024-01-31T12:42:00Z
