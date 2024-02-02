@@ -80,20 +80,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
-    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-    publishedDateTime: 2024-01-28T05:45:00Z
-    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 38
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "qn+YesE0I4r/lyIc8Im/HsBr47yV3DkCP2nBUUh5E7cgsS2CjWDA3gIIQAEHy6iZUspuZeO3ak5v2aryE3jY0EIBmKRmIVYAPPYKZmmPKKxBHXZ7CZ+0DkAfhFvok+nz7taoQo6SEnMtBZN4sU6xm59dEaolB4BoOhFy9cxaY45fS8BbkmCTeDHZmrAj6ANA+iZ4AaNJkZd3TToyDOFBVo8EUcqUB1Er8Gsjgq/0z1/BwjvrcLQKj+u7p0/pNM6+QkBRx8Pz6k8vbO5mCRoK3YJdwtjX4IL2auREHGEhtgM0rVgZmUUql0ay9vbMMgGonV7BfXba5fdGes2vG00PsBoJ8uOxPDpczZBR7Q3t9HXBdWLgluJE33FmbB3gzLcgdzVmtt2Y2wHqvKAWIT09Je1PgRqddmsde8OjkIzL+fHWeWEyf8RHPpqdaauZTRnT+gMJJLSFsdpWIj7XK7ZRUwgn3VzAQVnUc+5YSZXtdcuonc/YFNtrqjXK3Tfa7jsXl0NljSVhCsVwhV9E9tV4Kw==;O9oXjFvrb3gW2auPEvxABw=="
 ---

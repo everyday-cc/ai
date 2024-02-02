@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/mendix-transforming-customer-experiences.jpg"
         width: 1021
         height: 511
+        isCached: true
+  - title: "How to Generate AI Images Using Google Bard"
+    excerpt: "With the February update, you can now generate images in Google Bard for free with a simple text prompt. It creates two images at once."
+    publishedDateTime: 2024-02-01T23:08:00Z
+    webUrl: "https://beebom.com/generate-ai-images-google-bard/"
+    ampWebUrl: "https://beebom.com/generate-ai-images-google-bard/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/generate-ai-images-google-bard/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/image-generation-in-bard.jpg"
+        width: 1250
+        height: 750
         isCached: true
   - title: "7 Ways Marketers Should Be Using Generative AI Now"
     excerpt: "Right now, generative AI is the technology making the biggest waves in marketing. Explore the transformative impact of generative AI in marketing."

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-f
 ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 131
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds"
@@ -83,6 +84,6 @@ related:
         height: 1267
         isCached: true
 
-secured: "ZIpJEjZHBPVEDuxmFRu1VnjN4+22kLbpm55SdJnC+M38DAvLSFMtKcT0WzaI4dpAktNT3Hjg95S9GnuR6HjelFqVji9FfUJ4DubUW5svcOiZNWtx21qDTaxMSM3ezD5MlumqZHTw1jLjyuLA8itX5iIE4x0YiHvSvBhQps6piCltvSGHf07Ge3TB+jcxIzihzpJPv1gBr2o2WTGrcL3HNRQJ2LKEOcSSsmWM8WgfCKHWWaA3no/curUdtxEUIePGapAf8x9Xm4w918WXADZqqTIUSwnP/6+/elxPkqYWRhvBP2HOfXRdFfqPs0qZfX6nk0y9I6hcssukIJXz4bCTZyZB1YT9Lky76VxVy6MIZPA=;xVmUQnXUSft8FcZRI8u6zA=="
+secured: "fGjrBURuuYtC3CO9tv744cukjXQ26ke5qejL5MlnoDYNzxyzDMRrl+p93HEOz9kzrAN/YrTeG1GcnNyeJ3C+5cpPgTXe4DvtpVHlyk9gw/KQUso8bikf8uHkCaK2H2wLWFncpsNDTSRhmu5kIecW6ccNL4IJaP2MuGo8vE86AFTC0h3lgiHEP3Y5hQNIcp72s3nXWqbZvNS5bPA6k/gb7B4aRu9ypDyyCT6yZAjcZYpoAfOHsTWE6bjQvVt4k59Sy36emZyJsqSzHrwGDHYdwjC78QD3v+HNMZAcYoyvKUsVLBtE4F88Go17DisDtkrAalKIq+Va6SEgooHjF4rfJ0YAHVZY0DCHcB1I5PmZeco=;0rtm/z/fOAcmmR9hc7GtGA=="
 ---
 

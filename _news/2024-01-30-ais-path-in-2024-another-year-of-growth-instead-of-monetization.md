@@ -89,6 +89,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
+  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
+    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
+    publishedDateTime: 2024-01-29T20:24:00Z
+    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
+    images:
+      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Google I/O 2024: possible date, Android 15, Pixel 8a, Pixel Fold 2, AI and more"
     excerpt: "Meanwhile, we could learn more about the new and improved Google Assistant with Bard integration, which is reportedly coming in March but could launch at Google I/O instead. And Google has also announced that it will be rolling out a premium version of ..."
     publishedDateTime: 2024-02-01T00:00:00Z
@@ -107,15 +121,6 @@ related:
       name: CSOonline
       domain: csoonline.com
     quality: 13
-  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
-    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
-    publishedDateTime: 2024-01-29T20:24:00Z
-    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 4
 
 secured: "f+NVo0Z8+FTjz67mvXpNZo/SsKgycX9xxvynnwp7ExI/ZWKJa5IxswgXiqK1MPO4QalLIQI03mDOz9EJ+B4R6qZppQ9ovWF358okXoPBsY3gF0nvNR7mrlJPZd2/A9fQ6K/sej4SLYhSs41CnasQn14X6sbKf9OYQV+K9BviddbEtnXzViyt6bVlTHxNrkHNCTSn5tdiKZGF88mkFactc8o5yFWDK7HgbDBKylv8guOJc6EtFCPaRahm8ROABbzSZZSZJ4o/sA0HzAQ0+u1fupk+8jKgmadYm7pY5Vm8CbldCXZfPIQ60b66mc9Quml3A03U6JvZYrDqkKv5qwbcWLZrC5Xuds9VHymgr2XKEGRSmIqxhW2Z7GJJqyfa3yo/V8zQWp5uOZqcvTFf2G7oR2KjkymvjuEDpVLIKSlUiuZSFaBZ7PgZt/RNjJ48m8nB152WL/hbg1URYEXFE1VEfRDzhi5OHBo6tHrJIc8of76ADxvOkmwotPjrR8zyza48D/pKujs3Xjt4E/12YEFJzA==;vA0N41ac6E4hPOylGDp6Zg=="
 ---

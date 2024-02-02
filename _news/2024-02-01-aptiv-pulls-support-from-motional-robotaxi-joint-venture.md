@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-suppo
 ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -24,6 +24,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "0mWL+sZj4yqN0I7O/KOvFoJ+v4ytFm652DAwS/VPKXPSCDqQBr4WlXS97EVIwfWMy0OpHKSogBomJlRiUrz/5DeYqTm+gfVycTpzQK+u5qVc1ioGrxdpJJGd1vMft3qLigAdDjAmd1yDXKv9XZcno03HTqsJqgccH7za4ywE0Ttt+9U72N8N+5rBOIvFH/c964/oZCXxKspo7gqAZmvERz5x4SVSoDiVwVrr/Z9x1iPb6YgxTk1i1Uq2pzLI6q78x1KzJtbB694OATddM+rdA9lfUBu58JDNVcS/rXhN8ihNXz7h7+QycTHUbLepi0uAsr7CNGo7Ov14h9jOdmv0fQ/UrxpWQ2ec1KKYGI6i6Z0=;+Kux7cbCm6n7RHJAaQpLEQ=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65bae550a3e7964d63dd7466/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1350
+    height: 900
+    isCached: true
+
+secured: "CMVsO3W60vCpxI2/KgM++iQSdHmxwRTR73cKVDbQaRLV3qx1HC5boK9owVQDP5ABQ4ck3nD28NjylSNlp8KNgq+aAkq9wnHph6/ahE2hXa23FQMrWEtgwTdb/a0eSZjFNm2xSG+88MOpblWax+3ks+FVYn1slADZRRWceHK7V99G4DUvXRXuHbIS92g4d4ZA/nlaBH7dojIqnPAXPcOonHbRuDZRb25zD0Gj4jo9it/TLWbNPJt8CjT9J6rlFCj25L/K/GQrW7su2U8p1XzdPuh2pQeosZS8t00Evy77W5t7NmNfweu7dryqpkA/HuoddHgli4XtKUwB6YmqD2p90dv0rHYmGHexn9te5YkmafA=;XmAI3EQodojkuCsLcnGQYA=="
 ---
 

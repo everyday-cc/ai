@@ -98,6 +98,22 @@ related:
         width: 1021
         height: 511
         isCached: true
+  - title: "How to Generate AI Images Using Google Bard"
+    excerpt: "With the February update, you can now generate images in Google Bard for free with a simple text prompt. It creates two images at once."
+    publishedDateTime: 2024-02-01T23:08:00Z
+    webUrl: "https://beebom.com/generate-ai-images-google-bard/"
+    ampWebUrl: "https://beebom.com/generate-ai-images-google-bard/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/generate-ai-images-google-bard/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/image-generation-in-bard.jpg"
+        width: 1250
+        height: 750
+        isCached: true
   - title: "How generative AI is transforming the future of work"
     excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
     publishedDateTime: 2024-01-29T11:20:00Z

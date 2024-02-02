@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why are so many robots white?"
-    excerpt: "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism."
-    publishedDateTime: 2024-01-28T06:11:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 59
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_05_2020_04_41_08_0489537.jpg?width=1280"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Academic demands diversity because there are too many white robots"
     excerpt: "Paterson referred to a book on human machine interaction by anthropologist Lucy Suchman which gives a “cultural imaginary” (what is shared in pop culture, texts and images) of what robots are supposed to look like. He explained that the cultural imaginary can be linked to how computer science and engineering teams view robot bodies."
     publishedDateTime: 2024-01-30T00:46:00Z
@@ -71,15 +55,6 @@ related:
         width: 251
         height: 282
         isCached: true
-  - title: "Kaspar, Nao, Pepper to iCub, why are so many robots white?"
-    excerpt: "Robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. (Unsplash) Problems of racial and gender bias in artificial intelligence algorithms and the data used to train large language models like ChatGPT have drawn the attention of researchers and generated headlines."
-    publishedDateTime: 2024-02-01T20:47:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/kaspar-nao-pepper-to-icub-why-are-so-many-robots-white-71706777562805.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "ePSJYlbFnsFB10lQiS3c63KUPH3Wha/KLHJlAQWenXQOM+u9FxnXxyDnXjBYAXP5vfbhtEcXxvvACzBkMHheNQEfTp5A28fJ0xeq3e+5aktA8+GihJAG0YYva6C66W7CXgKAC18/VTNvrpBirYzfaKKyCPHeAmLCzJQb1SVqR+qpny7GcMglpBCpSeTzKCXFN6iWiS2s4rHa0clSvUhO7qxdUHcUqSIDwuH7Ai7uL/mzXvnXNCXLsUEc9eJbkUpQ7ik7kFOfjmhQNlBsKxjwK0AGrar7a5fsx2I0TtPvKmvmkq4U94KHrG83AMsKK63nO518Iyu1gbq/fUfIQhcl7OlufKREnj7qLaJuxLnviCzTZH3FXuT5H+k6tR3JScg2BtoP+O9RE9jDvLLSPETlP107lYkhGou5gUuPHcfig6rIfJbNo8Tw7ih/Kjw4q9eBRAG9tL/bEty2vYz2fucEjyGgIQu+Vhu6dnX8btsvFuAW3QsXqMPuuWaO+vgpSR0PPEimYRUS19eEBFJ85iUdhA==;g1rGEGjIS2vW+/N/wz3iZw=="
 ---

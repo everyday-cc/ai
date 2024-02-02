@@ -1,0 +1,77 @@
+---
+category: news
+title: "Google introduces text-to-image generator, Imagen 2 to Bard with Gemini Pro expansion"
+excerpt: "Google Bard to support text-to-image generator, Imagen 2. Know how it will work along with Gemini Pro expansion."
+publishedDateTime: 2024-02-02T06:31:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/pexels-photomix-company-5494323_1673710341128_1706855261007.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "New and better ways to create images with Imagen 2"
+    excerpt: "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI."
+    publishedDateTime: 2024-02-01T15:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-imagen-2/"
+    ampWebUrl: "https://blog.google/technology/ai/google-imagen-2/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 94
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Imagen_SocialShare.width-1300.jpg"
+        width: 1300
+        height: 731
+        isCached: true
+  - title: "Bard’s latest updates: Access Gemini Pro globally and generate images"
+    excerpt: "We’re expanding Gemini Pro in Bard to all supported languages and bringing text-to-image generation into Bard."
+    publishedDateTime: 2024-02-01T15:00:00Z
+    webUrl: "https://blog.google/products/bard/google-bard-gemini-pro-image-generation/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 74
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_10_socialshare.width-1300.jpg"
+        width: 1300
+        height: 731
+        isCached: true
+  - title: "Is That Real? Google Debuts 2 New AI Image Generators, With Watermarks"
+    excerpt: "It's getting harder to believe what you see online these days, but Google says you can find out if images created in Bard, or a new tool called ImageFX, are AI-or human-generated."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.pcmag.com/news/is-that-real-google-debuts-2-new-ai-image-generators-with-watermarks"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05qsaanfRL5Zhb1mVvgjhCC-1.fit_lim.size_1200x630.v1706740622.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+
+secured: "wHsVFdRLo6GTk9NPdZ4acXYAIeOViE+sXootFU6P0AtZv/UOWmG1DKjzaLVJGDq1pnev7wVtT+IPGqwRq1/2T96EbPd2Mso6lMuk/UeK8vuS0R42wtlD4k9NBr5GNgOyFkmuUQqLCvRRjzKIi8L1zBBG4GlpMhU/H4xks50Ll//gu3TiGvMX4vSyVb/kslarcCFxdJWCpcZ8JVIkrYoLJdh4otAHD0dx70vr+t0yENIS8UNrRC80QZx9QzL1WiQmJrfL5TxSOJ8O7Yb+J32Nv4iazNjja+wSezuZ6t5qWe/sNp+MT/Evuu3oqFawPgdDYGXy25XCq2nCc8JY2E0Xzmj7rFLepjvW7J8fIYH5364=;InhyZvasfKhxqW8HpB04/g=="
+---
+

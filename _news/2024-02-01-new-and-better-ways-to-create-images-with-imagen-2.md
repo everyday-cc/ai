@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-imagen-2/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05qsaanfRL5Zhb1mVvgjhCC-1.fit_lim.size_1200x630.v1706740622.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Google introduces text-to-image generator, Imagen 2 to Bard with Gemini Pro expansion"
+    excerpt: "Google Bard to support text-to-image generator, Imagen 2. Know how it will work along with Gemini Pro expansion."
+    publishedDateTime: 2024-02-02T06:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 37
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/pexels-photomix-company-5494323_1673710341128_1706855261007.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "hgfMNDcrwuVVsdYOUAPUfSv3p1M9a1yOe16ewsOHLuN9g9qaA+6zcCdmBfhELj3xn0gqDqZ2KA6NkDyYTDso9bfUxpzWzpaJxOD9KVqHbDnFuPl5piZtOMqEJVqAMGj1My6z5SqyhhTUq2Z+zcGSBKoW4P4o4TY1bodhu7v3E2rJtvSMHauW3TzrW4xBL2ttZWwtdDfr4xnYpf9biDX4RrJqC5UkddFpcnMmffKqRxxqadFRQ88J1HdnVnCUP5ojcMNg1K0ChXLZ/nzDVRrXbZYjpWVQyilbiZedIwxmeu+dhcKf3wPqPxNRjYMjEfV/8BP3dwlwOU0mYGZrG/RL4kBtZHR1UuEW5tmb23HsbCw=;fhPPY3kS6DMxtH9wn/7wUQ=="

@@ -84,20 +84,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
-    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-    publishedDateTime: 2024-01-28T05:45:00Z
-    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 38
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "ddPaAHywGaRaQc71sIcNDed3dtpa1YA5dlNbmzOQ5lMWkRfqUF6YwIuasTOFhc5pcuObA+a8jdLwNKukPLW5RZgUQvNJhMr18M6CgIBAacwuKeywF2Wu0Xz6p3Ct+sjqmzDFHrHVOHzsgiKRM9+QweKqWl1qeEdxDDvMFBcmVeGFam9nBWPdVHMYP4vVzhV2sC9smRVc4depjWNZn88bTW7ez+TDzqs74h57ygZqUKYzkooaMILyvHcPP8wfAZw1VC2yYOKOZeQL9Go5v/ZKXhEdnKPJBku3Mgdw4zMROkMxuZgLM+QSdlkxUQvdl0YkNF1S6eC4yWicx2gRF0XpQzXfgDLAIDefJWc/+YtcB6T0TROZRSrqrJudyKygCjMbaSPLTybdBKkaiOIz3OVERSuQ9mnU9dBpnfe5ERkff0IxLpm1GydrXJGh6xmXPA1yHn9pAHEpRKHpB+Faj/7UqgBG3jg4AZMa1CmnWc58uDsVUu1VlSZ3+5PWZPRyhpK6e73jh+Ic8zgCkkzxabsuqw==;o8bt/wGtearOGg6zr4gZgg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orc
 webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
 type: article
 quality: 114
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
         width: 700
         height: 467
-        isCached: true
-  - title: "AI is for everyone: Prompts to help you with work, life, school and love"
-    excerpt: "You don’t need a Batcave full of robots to join the AI party. If you’re not sure how to even access ... You are a marketing guru I hired to help me with a plan to get the word out. Where should we start?” Find a date: Most people are blank, staring ..."
-    publishedDateTime: 2024-01-28T05:45:00Z
-    webUrl: "https://ktar.com/story/5558514/ai-is-for-everyone-prompts-to-help-you-with-work-life-school-and-love/"
-    type: article
-    provider:
-      name: KTAR News
-      domain: ktar.com
-    quality: 38
-    images:
-      - url: "https://ktar.com/wp-content/uploads/2024/01/AI-for-all-work-love-school-life.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "iMBra2yed31lKzCu5WD+Az8h1WOc5s3JZdaShxbbhSquI9TNU5ndZco+0ZCQtbwJys8MYICu1XILTZs6aaDHFSsST8jHxIAdw3wSFpgQa4uGEDlHIw6Q4FCPa1hPE9T8E/YdkwJE6EkXlhzL7YKrkGdCl2AFSGIQd52GX69ku56fJ0eNDvYfj5FYjbkjdcG9gVMtpHPEDJjBmZYPJr78brNgEMX2zFKi/qS6DJA91IZunaqmVm37s1EhGOVNbrFYC8AGK11wnUcwveVAz/oi1vH7i1Im2OM3JmQCp6YYqlnBfeZ7ArsFtm+8eLUhsLffZ66tP1NsCu3qtWki+ccJRlZ0q9RkSh+XbuPZ6JR1fkY=;VCDkA2DlPmVw+mZ7ZpjmpQ=="

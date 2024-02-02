@@ -97,6 +97,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
+  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
+    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
+    publishedDateTime: 2024-01-29T20:24:00Z
+    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 26
+    images:
+      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
+        width: 724
+        height: 483
+        isCached: true
   - title: "AI Predictions for 2024: Moving forward with precise systems that combine power, security, intelligence, and ease of use."
     excerpt: "Hard truth? More and more attacks will utilize AI. Artificial intelligence (AI) has been table stakes in cybersecurity for several years now, but the broad adoption of Large Language Models (LLMs) made 2023 an especially exciting year. In fact, LLMs have ..."
     publishedDateTime: 2024-01-31T00:00:00Z
@@ -106,15 +120,6 @@ related:
       name: CSOonline
       domain: csoonline.com
     quality: 13
-  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
-    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
-    publishedDateTime: 2024-01-29T20:24:00Z
-    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 4
 
 secured: "G3IV6zBZcX3cpVL7KpNtjbqnCBXzBB5t1v0r4GDFvvn0fnc2JfoRiRxvmL+utDGSJvrk9cYkM68FZp4+NUB1LCzykmua1B314RALXVXt7oSfCnD0vlMfedAuGGjVoCT2iEXQiNBMRTzIWfDL0x56FBq0pAmno5CmzvyAtsky5+A8/Erh2xg/FRHa8sczmPQXjh/CIYiZVyKo3/9w5/uJyle+0gPJuaLaskZNqZ6HRxeS3BFb0SDLWoXinQotRKNFcHX/K89AE/zAzCG0sGsQMTzwmoltJVTyjalfN+hRJ7JoEr96WpuC9IicYttQNsubhUIiU6yeN174Pk/iwWFupIZ+pRhY2sxH5uQOK2rnIP4=;lrbb5diWHyOGzeBl2/QIbQ=="
 ---

@@ -59,6 +59,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google introduces text-to-image generator, Imagen 2 to Bard with Gemini Pro expansion"
+    excerpt: "Google Bard to support text-to-image generator, Imagen 2. Know how it will work along with Gemini Pro expansion."
+    publishedDateTime: 2024-02-02T06:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-introduces-text-to-image-generator-imagen-2-to-bard-with-gemini-pro-expansion-71706855167753.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 37
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/pexels-photomix-company-5494323_1673710341128_1706855261007.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "9rgn/BZWOnLtIDs8mG8wM6tn6kbv9OKSzc9ggyjnWyQRG6Is6IUiNOMbJC2vTq6bPNzpFk/dfhMznBfqQfpeH0oS8YXoVaCe1/sUq+/59Ge7HA9wNpJZTphx1oYN+Tta0xERAMfYy4ZwkPi0PcKga3I9hY9ZvwXAwW4n3xqSkxa+ruNuciETNdbvYA31YBop3JuDM+oJqEUW9DZF353IhsRbbWblhXEK7r3JQywNcRk7bCG24sNzZ5xw0T5zYmodLrnFKwdcg3F8pmhxS1MsaP+6e3eI9EPcBEPuQXzRb1ETVpuuPNnqUEn52O0YqLHB3pDccQw+gEJOrKOTKiPuRA8XoQHsKo4JKXD25vvv5WE=;ATDi4LjIiXHCnsrcmeWHeg=="
 ---

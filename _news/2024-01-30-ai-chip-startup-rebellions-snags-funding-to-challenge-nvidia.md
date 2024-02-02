@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up"
+    excerpt: "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies"
+    publishedDateTime: 2024-02-02T05:41:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 64
+    images:
+      - url: "https://media.nbcnewyork.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta plans new in-house AI chip 'Artemis' to break away from Nvidia"
     excerpt: "Meta, the world's largest social media network, has been investing heavily in boosting its computing power to support its ambitious AI vision."
     publishedDateTime: 2024-02-02T02:55:00Z

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Grid Dynamics secures the AI and Machine Learning on Microsoft Azure Advanced Specialization, building on top of its recently awarded Analytics on Microsoft Azure Advanced Specialization."
-publishedDateTime: 2024-01-16T14:50:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61148611-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61148611-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-200.htm"
+excerpt: "\"Securing the AI and Machine Learning Advanced Specialization on Microsoft Azure is not just a reflection of our expertise and commitment to AI and ML innovation, but also a symbol of our robust ..."
+publishedDateTime: 2024-01-16T13:45:00Z
+originalUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
+webUrl: "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced"
 type: article
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "+4GAieUlUPHzsNlgFadZ1wEb6kN5rqrTRB4Ijaua7KACd3viyt/1NNFq3JkwFadJsWSvvv2+c80eUXFDDDtDg4aE+mxCm2IBqa5tWeNmKBWis5t0wghMBsJce5cGr5ZMfVsboD7cBBHzfmFc9mp/q1lZxe6L2IKbAXcXUDvHx/5iOH+TTvPWfafgC8Ue/K8fvy49bHUySLeq4Nl+EuRqrspGKefUQfd+5UP0dfqGxNFPM1LWtziG3KTsrfbcFBtw/rwuUAypDnFoLZP+O95S5lyLmz0pqOBqXMZrTyfml6Bt1wbVNW48Fy8oPYOn6rF2EP+6h7+jTDKb2tdBgwz1u2EXWSkyEDwg5pCZTUPLcP8=;ySIkcJppPhKsl0ix+F1M7w=="
+secured: "hwLgm+wGXX0kS+2HYxd9QHw8UgKJeGBAXCw2XxjaHU5jdBX4Ms0t3F2Y4kILM/Uu3sGXVa4LC/pmg7EHvG9nIy8Ho/IqOWnawrZPMGzpoC4x7cu/s7vk5LLR4MFfTS7mBRRLcxr4BY5rrDzhqBK6I48hsbNcZUaemMpKOkiboz+dkzafT81dgna3oYSSCozCWa5mfDuAH41042jgP1iKXl0TkkrVJeoRJZ3Chz6DbyRNWE1Avhnx8H8iBIeEZTZgSu8U/YRrZVx+92FlPJaGSN1tHbBnoJ8JFBrLSwVIXCZr55OsWlqEZvAf++KPE8krW0zWrmU42dWodHt4BBjha1lhLU3i2gWV6NG2WcC9zVM=;TGjSucmiyuYckeWCaCDfwQ=="
 ---
 

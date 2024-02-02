@@ -6,7 +6,7 @@ publishedDateTime: 2024-01-29T20:24:00Z
 originalUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
 webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
 type: article
-quality: 4
+quality: 26
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
+    width: 724
+    height: 483
+    isCached: true
 
 related:
   - title: "Artificial Intelligence In 2024: What It Has In Store For Us"
@@ -115,6 +122,6 @@ related:
       domain: csoonline.com
     quality: 13
 
-secured: "Ri4Sra9qwhKy7eHzMyoh6TVi5rhGDYdi/kVEphSR4ugioLvmxshdFM5mgJpimP4F21bylC4QDpcLWe6E+CemXWuTyux1xImlz3EeiHtXe+WiwVeygQEX6nsZSEtSpIvEecjkSrM3TvYUhFL1oZr+DrMlbllU88qABzpZiIUvUHYLIIKe+l2W3gau5f869uC0QdNHkK6+7grEJ22YlJ0gUAXydqgHfzZQ+UcZL2RjADM1+FsJueXs4pYbrnNNIdT6mBJGbf3DDhdFru6IrjK69RCkErF9U5mPNKeYPao5BE0PwHar8ga/MRltr9fs7B6pXN7gFNoPDGNKJ/A6BUZ8ekduXQDRJ3CQhLGHl5Tb/i1Sp3BDRTAv/ep+6zoMd9lS6/bE2tZkN1d9fgufxLO2BllXM4SAYfqSVMGKlY93X7ekoKnHICrOXapZbp5Fpgz4B0pDFYyTsplgQ8bjA798W/xW9H4G3jj41Atipl5L7KIxZ7bl+Lk8APSX+/LIu4ZYSVVXRjT6KZBKByu0vOzCSg==;iwILJMHM74b791jWefT34Q=="
+secured: "cE4+VCzQKP6zQ6Tk53dmAvmH4R0V4rZd8A1ZhMrQAQW+E/06CijWNyXf710xcl/zkh0W97PxJwf+2PHOS/+qQ7OYNyCcdUmYKCeSrXbZYZzMUbG+23IUG75sR2nM+9HgOOU1mMuPK6wQEAK67bKwktm6JijL71C/iSxi7AqFFYiqWnjeJl61+n7xQtEVNspKIXTbIhNGZLphhpFQ5bQ8w3TlE9HDfEW0UtNTvj+KLz4iQ+LYQsvtSvnMkhOAIQbqDDQ68MnJWIFC/DZQ377y1tfEC0c2x5uLpjA4yD1EoptGmIOOTtTE1EMBWzJpTZzGDMMeZte4OAAu3LmJ+2RJanxNYhhGfTPIDrMHk/Alv6Y=;K878jju/rTou0WGF3uFeLw=="
 ---
 

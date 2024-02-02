@@ -21,6 +21,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/65a941acdcdb354a98588ec8?width=1200&format=jpeg"

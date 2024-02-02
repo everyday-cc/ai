@@ -5,8 +5,10 @@ excerpt: "Amid the hype around AI in the business world, IBM is one of the AI pr
 publishedDateTime: 2024-02-01T20:48:00Z
 originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/"
 webUrl: "https://www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/"
+ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/amp/"
 type: article
-quality: 47
+quality: 89
 heat: -1
 published: false
 
@@ -20,6 +22,13 @@ provider:
 
 topics:
   - AI
+  - IBM AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65bbffab177f5295eb838642/0x0.png?format=png&height=900&width=1600&fit=bounds"
+    width: 936
+    height: 408
+    isCached: true
 
 related:
   - title: "IBM Doubles Down On Its AI Cloud"
@@ -39,6 +48,6 @@ related:
         height: 807
         isCached: true
 
-secured: "EL4OdFBSvbU88h4MHPatOduLdmRCFuai2f2NCpxXl8L5AnTpGYmx9Idn7jFzxhNeRFplFI9Zvb5OHG65CxfURQPTgBna5lwflN2XT4kblL1UbtwXsmTu1TIZbSOHuHgOUWg2zvnNYiF02+W1/YpD+R/AE4MVknKMfhSaU388QbgyhAmiJgtACjTWrOt/FzBxXhZDko3TXxukbgtwwUDcEx8wDdEWQl1Q5OTadindsvJnNj1M+Zx7DV9ktJyGNgXiYTqriE6aZbSg1+HvF75/rVN4AVTCz/0i2qzOtLqnkuIvSuDPZds+EDcqhGf4cV8GPbfD+XgtBJKSYPvLEYYFYepMQ9XubFYR1BjcQCr0ZIqodGclWX2F41Lj+6c+aqLPIU4naD4f4kF3M5wGemqwu8D8+Y4nNwSaDqx1X49B4XZW3V2uP++0PwDjZ12qw/RZOj58phqFNPRCWKTLsnOe6J0IuEVY4FS8VW8jzOkJP9DaPddxLRae4dxba2vPXT3oo/qXGDhoJIW+jKi/6Dyfsw==;ra9h8PrVE9dMFCcE6Fp8AQ=="
+secured: "7mhTDPxHuRutPVUdBUcAr/xwrogLf7AmmIGt9Zy7FYanI25Rb+9WOeHnyFfrYn3oXgLkj7z6yHvpJ3gP81Jdbz893oP+xlBg2e5cjNj8A+FVG90RvsqfyGEdN4Ha6m4Lmt0XPbKEVHLEYIvJebb2hrG4uMLmMHZDEbPVfOtsNvjRwk7s2WrB13qiK5eB8TzoFNs/RMuUNbYFWs+Vb8ec4DUVrkGSYh8UsKiN4ZKxFBRoO403zfJFPYuTQnBnYrt+i8y2XFb93fseJ3FxJ+ueWGwrPlLlWuksIX+4vbJrusuhnj3xuO0jFAqx1GOxJyo2u7+4ebg6yHh+SRF9tl//yWPUsSM1fT7t2mgsTM73Ur4=;dkGJuvkor1Qr8ikzq9eU7Q=="
 ---
 

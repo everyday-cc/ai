@@ -36,12 +36,19 @@ related:
     excerpt: "Amid the hype around AI in the business world, IBM is one of the AI providers standing out for substance rather than mere talk. Patrick Moorhead digs into the details."
     publishedDateTime: 2024-02-01T20:48:00Z
     webUrl: "https://www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2024/02/01/a-year-in-review-of-ibms-ambitious-ai-strategy/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bbffab177f5295eb838642/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 936
+        height: 408
+        isCached: true
 
-secured: "txdw6ExmiwyJmGPNyUSngu6T8WoDSJ6LpIDDiT2xS+fG3Sw84BGz0hUv2SYRtZnBn0d+0IKUlBgdfutP/faX265Z2n0Hju1l0NNu//1B+3ptK2heEgeWMZROk0YPlB9FRf5LhK7KOETtQ5GCuh3tkU1V/YtfR9ug6t28CHb5yUtp8qa7z4LUxe3wj1Scug7fWWHu2VPB5P4rySWA9Cv60BosAf6O70Hg5iX5tN1qQU6TRIgQS15bPlnn+m2WHWQ+6+WFz6ZSRBpoWI/hpCAoZUME1JRjKiSrnUvdxiAtm1Dme82jrx0xMVzWmQns/rhfqD/xkqhMR6LSfACkjixBU8V6eyyvH1cFs1gQynIQL9A=;roz4Kpd2uwnaII+4rLl1VQ=="
+secured: "k1ENoBemTM6TXpA/2dL4hE6K2FFOBGUDYavFU6Jqef28Ylsb0pFVzCKeZRaPeAKpejMXd+hEDAQQAqvtFGHCmzLfSiqBR5JEvOdrgnaYI4gfuTfM83KbNkxbz8CHXpuwQFSQ662dsszLyZnD5EakS1nD8NQ5Z+45u1J4I4XZ5MW7xm0jKhXLgBpwAIktlxn5NJwEFTYzV3WpvgE7a7/dZ2OGGpTjGMbWbg8UjTUO8lF0ijw26CU10Zig1HoH+2SSPKpNNK2JJjK2SYDlQMFLCDgzNUmT9Z//Z2jq/XlqKJE5JVN1hZLu+R/IliiujrinG4ZY8/tJooh4Q/IkAgaOs+fMNfyTysqc8qRogCJ9t1HcmGzb9DSXkur/i/hjUcR7ATnAwfuCIcH4iNYrah2RrXVFbIVAQ/YD6bsIUh0ueHz4AJVBvuxEsUVJiG8FNQl61FK5sA0gwS6JZ5kPnMJ/YLRjQJ/mfHbO6FxxIicMg3nwOD6Tvp+Xm2wydGVamxtkOJ/n6nLKGYv6pJl4RY6skA==;lQmwdxKKv1u+yTaU2hr4kg=="
 ---
 
