@@ -32,7 +32,16 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Apple CEO Tim Cook Hints at AI Announcement ‘Later This Year’"
+    excerpt: "Apple may have an AI-related announcement later this year according to remarks made by the company’s CEO Tim Cook."
+    publishedDateTime: 2024-02-02T15:38:00Z
+    webUrl: "https://www.coinspeaker.com/apple-ceo-tim-cook-ai-announcement/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 19
 
-secured: "/k6frLIjsZQNplnNJBp9Kg8kPAksW1y6U+bVd9zyGcgMvSiaE5vmQja9M40FBtibLDE4Zg6EBpop5ruNkvM5fp5rQeuvuHYqDq0bN/c5g/NN1tFcf+ktRAakRSXAHKwG3jp5yscfejIfTFGm8SiyTUPs+y8vz2PdJ3tzosByglXJBl63n5GqRMFBwGDpRGjbNUh6vcIZCJivsgNlt0e81kJeqKuUx8fvOrrlh0wmqBSYdMDFAYoaOQFeqBxlKB1dqMHtIOXN2PAGpocA8V1GIuYKJeB+uyZYyd8hSiqIvznC4pxuuV/DffEcFdFiWPJbf3sUW/awsU5KF/F/xPxfRMBuMI/bjEywAhr6xbA+148=;te7BMTJJNQzn2hqiFdD3fw=="
+secured: "ogJyyAn6yRg3Km0+R1vnRlC5jDgIXUEVMeJGF/b0UU5zYjwbcYu8AWJLKQ0nGDaJVenllo45mTujCstqFynrFuZ1WxQzmRIEeGJMbibNLINh5gRcRpHe7JngyqQ3RMnDoqeQ3o1I77hZHV49YWbut4MsgYtX5sGWA1Ft6At7wn029FtlwkB3FYzB3iyS5TGtUTK8sl3VjENGIAqsxay0K04G0QyGYslELcNnljppzDwDqhlxDokgmT4NADHFqKpnXwLhw3e1oltVdeN34S2Y1A2lQisGa5k2C2SCnjoKO2GmHp+b4dT/5MsbVUWh1+rQAo1qZf25KdY4eydl5KmulVHiZRCA8XMqc1vecr0X7MKgwt6R4afhUePEZbJwYA8CZ6m0A9uBV2hIJa8qZU4q9tbQjv6R9ZuqFv+4JiWSMVf7VAfCDoztMkNNJRfJd2WWyTbtSC2D1r7dT1uKhHE4mvikg9SzT/szdnaLcvEan0mqv1f8orO0vNWL0d2vuEHH3nfLZZ07h6p4CwXPpmI2jg==;K81f5bQZK0HM2k2hUvmq0w=="
 ---
 

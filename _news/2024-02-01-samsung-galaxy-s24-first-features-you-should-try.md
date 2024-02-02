@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Vision Pro review: magic, until it’s not"
-    excerpt: "The Apple Vision Pro is supposed to be the start of a new spatial computing revolution. After several days of testing, it’s clear that it’s the best headset ever made — which is the problem."
-    publishedDateTime: 2024-01-30T18:00:00Z
-    webUrl: "https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/uCgzK17G5rY_qJnFUAHN7-SQRsY=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25255994/246965_vision_pro_AKrales_0235.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
     excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
     publishedDateTime: 2024-01-29T00:00:00Z
@@ -93,15 +79,6 @@ related:
         width: 473
         height: 1024
         isCached: true
-  - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
-    excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/apple-vision-pro-review-a-mind-blowing-look-at-an-unfinished-future/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
   - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
     excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
     publishedDateTime: 2024-01-29T14:47:00Z

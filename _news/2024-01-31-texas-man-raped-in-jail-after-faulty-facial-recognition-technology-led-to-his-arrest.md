@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 740
         isCached: true
-  - title: "Study Confirms Facial Recognition Technology’s Success in Disease Prediction"
-    excerpt: "MyAnIML used proprietary facial recognition and deep learning technology to accurately predict Infectious Bovine Keratoconjunctivitis (IBK), or bovine pinkeye, 99.4% of the time and several days before veterinarians were able to detect symptoms ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.agweb.com/news/livestock/beef/study-confirms-facial-recognition-technologys-success-disease-prediction"
-    type: article
-    provider:
-      name: AgWeb
-      domain: agweb.com
-    quality: 36
-    images:
-      - url: "https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/brightcove/videos/images/posters/image_52490.jpg"
-        width: 345
-        height: 238
-        isCached: true
 
 secured: "U1NZAlGrGUtTROfIHDSYDq/sH+7tX6m7LjVaWyuN7gp9NlcWxb6JzMYZ4ejCTtKTeMBpAyDbAl9yD7joUuG+RKGygSYJeemkHXBzzeDhFQpxBIldsDXMGIkqMpPwmSTFzh0BtHA0unnnMrf87NvIkNgc4hqmqY+YTRn/8633ZWBs4JpI8jgsc/xO8nbX+/mqWZmGV4QJMhbw6f+sQcLgDCTcU2g2Fa9yxk6VMF4Eh12wPJaMApyQn1BKPJlKCFzpTPJCUinU+wEENgkVhbQYByp5PfUTc4Nj4oiJGeKHR/kYiMsSB87UxCaO46zLWUZrxbShb4hEBjAAqtzpiWeyFLCcHNmxvd/HLvKeRSkNkcY=;tRf4KQz8WUjQxYerygwUBQ=="
 ---

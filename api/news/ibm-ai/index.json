@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
+      "title": "IBM Databand: Self-learning for anomaly detection",
+      "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T19:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-examples-of-sustainability-how-new-efforts-are-shaping-the-environmental-future.md",
       "title": "Examples of sustainability: How new efforts are shaping the environmental future",
       "excerpt": "With new tools and technologies in hand, organizations can find new ways to use it to reach their own goals—and a more sustainable future.\nThe post Examples of sustainability: How new efforts are shaping the environmental future appeared first on IBM Blog.\n",
@@ -18,6 +60,57 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-02T18:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
+      "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
+      "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T17:00:11Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -1265,91 +1358,6 @@
         "IBM AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards.md",
-      "title": "IBM Unveils AI Stories with watsonx to Enhance the Digital Fan Experience for 66th Annual GRAMMY Awards®",
-      "excerpt": "ARMONK, N.Y., Jan. 25, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today introduced AI Stories with IBM watsonx, a generative AI solution co-created alongside the Recording Academy® to generate and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240125ny20633/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240125ny20633/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2326512/IBM_2024_Grammys_AIContentPackage_1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-penetration-testing-methodologies-and-standards.md",
-      "title": "Penetration testing methodologies and standards",
-      "excerpt": "Discover the top penetration testing methodologies used to find security vulnerabilities and mitigate cyberattack risks.\nThe post Penetration testing methodologies and standards appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
-      "originalUrl": "https://www.ibm.com/blog/pen-testing-methodology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

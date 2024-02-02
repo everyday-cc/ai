@@ -50,6 +50,33 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Buy Rating Affirmed for Meta Platforms Amid Strong Q4 Results and Strategic AI Investments"
+    excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report ... Additionally, the company’s strategic investments in AI technology are enhancing its ad systems and product line, contributing ..."
+    publishedDateTime: 2024-02-02T03:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Buy Rating on Meta Platforms: Strong Revenue Trajectory and AI Initiatives Drive Positive Outlook"
+    excerpt: "Deepak Mathivanan, an analyst from Wolfe Research, reiterated the Buy rating on Meta Platforms ... The company’s investment in AI initiatives has led to a continued acceleration in revenue despite challenging comparisons from previous financial periods."
+    publishedDateTime: 2024-02-02T03:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-meta-platforms-strong-revenue-trajectory-and-ai-initiatives-drive-positive-outlook-1033024867"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Buy Rating Affirmed: Meta Platforms’ Growth Prospects Bolstered by AI Initiatives and Strong Financials"
+    excerpt: "In a report released yesterday, Josh Beck from Raymond James maintained a Buy rating on Meta Platforms (META – Research Report), with a price ... Meta Platforms’ strong position in the burgeoning AI era. Beck recognizes an extensive revenue opportunity ..."
+    publishedDateTime: 2024-02-02T03:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-meta-platforms-growth-prospects-bolstered-by-ai-initiatives-and-strong-financials-1033024747"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "YnwnsAhC82uiu954yet5QpuqcivM9pJQfcnRggAn9txzz+VpDZaJHpvwo0BuvguUOC29Rp9ZU8Zp9Mbmro9T33LnA14v4qlPEg8/EdvRslXWp7dCkTrDlgNVJOEoDgUtjPnM2/BmRzPl9vTLO6/ejtwIqRubV2Fo/FcdcdOTTMyf+4xYXxnRt1cz4cuVP9GKJd285BacBFo6r4adCnB8bJJRh80eRWMfbyLHiLLAqLgfEDet2+A8GgCA9NvBFW0xjHJFHsoVfjYDNZR+8pM3jfs+edVt12L7LojvUdR4qinb5UsLAsfEAFA1DV8qtKpWLcZYJpYOusKRFIrARmpCxPG97dqEPR9yVaxnh5ykejU=;zxWU6j+ixz7o3R/TRyQDBg=="
 ---

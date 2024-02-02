@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
+      "title": "The Impact Of Artificial Intelligence On The Art World",
+      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "publishedDateTime": "2024-02-02T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-how-artificial-general-intelligence-could-redefine-accessibility.md",
       "title": "How Artificial General Intelligence Could Redefine Accessibility",
       "excerpt": "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities.",
@@ -41,6 +93,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-students-speak-how-we-use-artificial-intelligence.md",
+      "title": "Students Speak: How We Use Artificial Intelligence",
+      "excerpt": "Artificial intelligence is becoming increasingly integrated into our lives, and Louisiana State University is no exception. Students are interacting with AI in a variety of ways, including using chatbots to answer questions, receiving AI-generated instruction and learning how to work with AI in the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence",
+      "originalUrl": "https://edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/higher/sites/edtechmagazine.com.higher/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/020124%20Students%20speak.jpg?itok=3qkhdYyl",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-01T18:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1306,93 +1401,6 @@
       "provider": {
         "name": "pharmaphorum",
         "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
-      "title": "Check It Out: Read up on artificial intelligence",
-      "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "originalUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/uploads/2016/04/930101_johnston_063-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages.md",
-      "title": "How Data Extraction Artificial Intelligence Is Helping to Alleviate Health Care Worker Burnout, Staffing Shortages",
-      "excerpt": "Bevey Miner, executive vice president of health care strategy and policy, Consensus Cloud Solutions, shares how extraction artificial intelligence is helping train machine learning models to recognize and extract information from documents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "originalUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/80f499f29719b6efae44ea2ef1e50fcc3f71e0c2-2880x1526.png?fit=crop&auto=format",
-          "width": 2880,
-          "height": 1526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T21:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
         "images": null,
         "publishers": null,
         "authors": null

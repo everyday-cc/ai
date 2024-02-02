@@ -23,19 +23,37 @@ topics:
   - AI
 
 related:
-  - title: "Samsung Galaxy S24 Ultra review: all that and AI"
-    excerpt: "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features."
-    publishedDateTime: 2024-01-29T15:36:00Z
-    webUrl: "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery"
+  - title: "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled"
+    excerpt: "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making."
+    publishedDateTime: 2024-02-02T17:49:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 684
+        height: 900
+        isCached: true
+  - title: "Spatial Computing: I Picked Up My Apple Vision Pro Today And Here’s My Experience"
+    excerpt: "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making."
+    publishedDateTime: 2024-02-02T17:49:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 69
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg"
-        width: 1200
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 684
+        height: 900
         isCached: true
   - title: "Apple Vision Pro review: magic, until it’s not"
     excerpt: "The Apple Vision Pro is supposed to be the start of a new spatial computing revolution. After several days of testing, it’s clear that it’s the best headset ever made — which is the problem."
@@ -51,66 +69,36 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
-    excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-browsing-assist-on-samsung-galaxy-s24"
+  - title: "Apple's spatial computer Vision Pro goes on sale starting today: CEO Tim Cook appears on magazine cover"
+    excerpt: "Apple's spatial computer Vision Pro goes on sale starting today. CEO Tim Cook appears on magazine cover. Apple Vision Pro is the company's $3,499 headset and its first major release since the Apple Watch nine years ago."
+    publishedDateTime: 2024-02-02T05:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/articleshow/107345863.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/amp_articleshow/107345863.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/amp_articleshow/107345863.cms"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 46
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xqrpsmD89RAHzjKcG7SLxi-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-107345913,width-1280,height-720,resizemode-4/107345913.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Samsung Galaxy S24 Ultra: All about AI"
-    excerpt: "On top of that, the AI can translate any text (and voice), currently supporting 13 languages, including English, Mandarin, and Spanish. For some languages, it includes multiple locales – United States and the United Kingdom for English, for example."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/29/samsung-galaxy-s24-ultra-all-about-ai"
+  - title: "Vision Pro Reviews: Surprising Battery Life, 'Weird' Personas, and More"
+    excerpt: "The first full-length reviews of the Apple Vision Pro were published today, revealing some new details about the headset before it launches in"
+    publishedDateTime: 2024-01-31T02:23:00Z
+    webUrl: "https://www.macrumors.com/2024/01/30/apple-vision-pro-review-highlights/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/28/2514788.jpg"
-        width: 1240
-        height: 825
+      - url: "https://images.macrumors.com/t/V8cHY47DWtZsF7cXLntfeTOb8nE=/1600x/article-new/2024/01/Apple-Vision-Pro-EyeSight.jpeg"
+        width: 1600
+        height: 894
         isCached: true
-  - title: "Galaxy S24 Ultra Review: Would you spend $1,300 on AI and a lackluster camera?"
-    excerpt: "The Samsung Galaxy S24 Ultra is possibly the best Android phone on the market, but limited upgrades and a high price tag make it a hard sell."
-    publishedDateTime: 2024-01-30T18:00:00Z
-    webUrl: "https://9to5google.com/2024/01/30/samsung-galaxy-s24-ultra-review/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 37
-    images:
-      - url: "https://9to5google.com/wp-content/uploads/sites/4/2024/01/Screenshot_20240129_145159_One-UI-Home.jpg?quality=82&strip=all&w=473"
-        width: 473
-        height: 1024
-        isCached: true
-  - title: "Samsung Galaxy S24: First Features You Should Try"
-    excerpt: "The Samsung Galaxy S24 is a particularly feature-packed release from the South Korean tech giant, and—yes—most of them surround all the newfangled (and, for the moment, free) Galaxy AI. Sure, there’s the Ultra’s titanium, but you’re interested in just what the new phone is capable of compared to previous generations."
-    publishedDateTime: 2024-01-31T19:56:00Z
-    webUrl: "https://gizmodo.com/samsung-galaxy-s24-features-you-should-try-android-ai-1851213139"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 34
-  - title: "The Future In Your Palm: Samsung Galaxy S24 Series Marks The Dawn Of The First Galaxy AI Phone"
-    excerpt: "Real-time language translation for your phone calls or chats is now at your ... Let your creativity flow without worrying about lighting constraints - the AI-powered camera will do the work for you. Transform Your Memories into Masterpieces Give your ..."
-    publishedDateTime: 2024-01-29T14:47:00Z
-    webUrl: "https://menafn.com/1107782783/The-Future-In-Your-Palm-Samsung-Galaxy-S24-Series-Marks-The-Dawn-Of-The-First-Galaxy-AI-Phone"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 7
 
 secured: "hn2Fu7qs0BmUbr59yy6oz3tyw9zIRO2BK0qzKw5GPisnWO934B3znlAkUQIaxfyUKBxQ2WQT3QDj95qZBNqYfywzOKMC+5kk2o2n9n4rxS9ilGApXxQtBO7lDqtmtw5Zhd86DB86o18uv/FT83vQYGCNDl0aRVO5Bw5ory3Mi4VeBC0ovQDXmLaDFkdGVrUGYZbxvPOViQ/xT4wfWiSp90YN7Lsy4n9ebhu+4fy1ilvM34d4ZQD5QkeoCQYVM3pIEaHTaxQirfGP0To4gdjLjds9uu2jhf2iiLqCsbf4ptVnYyWYSMjYGPEk+/htBleXO2jv3VF9AntEApWgWcrC5Dd9qemUZL6Z8Axm3Dq9Owk=;mTk7DdKhK+BSQ5jaiN0ZxQ=="
 ---

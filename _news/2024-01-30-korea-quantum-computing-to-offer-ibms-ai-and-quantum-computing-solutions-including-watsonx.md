@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quant
 webUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quantum-computing-to-offer-ibms-ai-and-quantum-computing-solutions-including-watsonx"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®"
+    excerpt: "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once"
+    publishedDateTime: 2024-02-02T17:00:11Z
+    webUrl: "https://www.ibm.com/blog/watson-discovery-grammys/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 108
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea"
     excerpt: "\"KQC is providing versatile computing infrastructure in Korea through our collaboration with IBM. Our robust hardware computing resources and core software in quantum and AI are poised not only to meet the growing demand for high performance computing ..."
     publishedDateTime: 2024-01-30T00:00:00Z
@@ -40,29 +54,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Korea Quantum Computing and IBM Collaborate"
-    excerpt: "has engaged IBM to offer IBM’s AI software and infrastructure, as well as quantum computing services. KQC’s ecosystem of users will have access to IBM’s full stack solution for AI, including watsonx, an AI and data platform to train, tune"
-    publishedDateTime: 2024-01-30T21:36:00Z
-    webUrl: "https://insidehpc.com/tag/watsonx/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 24
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "IBM watsonx Korea Quantum Computing (KQC) deal sealed"
-    excerpt: "IBM has teamed up with Korea Quantum Computing (KQC) in a strategic partnership that's set to advance on some computing. This alliance is not just a"
-    publishedDateTime: 2024-02-02T13:39:00Z
-    webUrl: "https://www.geeky-gadgets.com/ibm-watsonx-quantum-computer/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 19
 
 secured: "RAA/nTbNnBUsiBMlIWUeMGQjIIjD5OqH8RNb8b7ENVkHXU+h3Ki2ruYBrqBztrvF556C+l8dxWyDZP5IXVbEUJTF0PCX2jQzenYgoGzrU0818NrKlp/BOjjdFxZANVbyt0qbxavjuru8FQMhZ6NJr3+k+wVT3JzIYYKSRvgeb4Aau49gH3Il2t6wlh6ZjORty0aqUUmGkWB5tOF8FGNHdOFsg7wOs9OqoPs/IL+oYMfGDQKVkoZCCd8CaKFqcE9PxtiV5FnvdSuiKDXDEp8iPPZ4l3ahi9TzamnfscQksGyYueskH5KyVBlIBH0aXvKzUksPpk7yO396AzJr5Hirg9vc1yhym5iIHEbFNZiM0r5iZsf6Z6e63UgjXcLXuW9JkNa+4T85iyqTIQJCN9cgEZbRU6wd4BGTQigr/xUMimh4HR04jVNrjBj4huj+QRQmdGlvGF+syz5H+NHTOcAw3zx5M95DB3aMblWSDsOeytbDdGWxgnL0eU7oxeYUIsSLg0CEfTO216pIUA42u5lxqA==;U4oTqvhOXp8y4kYp477RTw=="
 ---

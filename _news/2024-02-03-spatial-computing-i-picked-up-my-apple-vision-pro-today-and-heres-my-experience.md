@@ -31,49 +31,74 @@ images:
     isCached: true
 
 related:
-  - title: "Cadence brings AI supercomputing to digital twin simulations"
-    excerpt: "Cadence Design Systems has launched a hardware and software platform to bring supercomputing performance to digital twin and AI simulations."
-    publishedDateTime: 2024-02-01T12:00:00Z
-    webUrl: "https://venturebeat.com/games/cadence-brings-ai-supercomputing-to-digital-twin-simulations/"
+  - title: "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled"
+    excerpt: "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making."
+    publishedDateTime: 2024-02-02T17:49:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cadence-1.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 684
+        height: 900
+        isCached: true
+  - title: "Apple Vision Pro review: magic, until it’s not"
+    excerpt: "The Apple Vision Pro is supposed to be the start of a new spatial computing revolution. After several days of testing, it’s clear that it’s the best headset ever made — which is the problem."
+    publishedDateTime: 2024-01-30T18:00:00Z
+    webUrl: "https://www.theverge.com/24054862/apple-vision-pro-review-vr-ar-headset-features-price"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 54
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/uCgzK17G5rY_qJnFUAHN7-SQRsY=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25255994/246965_vision_pro_AKrales_0235.jpg"
         width: 1200
-        height: 710
+        height: 628
         isCached: true
-  - title: "Dawn Rising: Jumpstarting a new age of AI supercomputing in the U.K."
-    excerpt: "Dawn vastly increases the U.K.’s AI and simulation compute capacity and supports some of the largest-ever computing workloads for scientific, industrial, and academic research applications. It’s expected to drive discoveries and advancements across a ..."
-    publishedDateTime: 2024-01-31T00:00:00Z
-    webUrl: "https://www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html"
-    ampWebUrl: "https://www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html?amp=1"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/1302698/dawn-rising-jumpstarting-a-new-age-of-ai-supercomputing-in-the-u-k.html?amp=1"
+  - title: "Apple's spatial computer Vision Pro goes on sale starting today: CEO Tim Cook appears on magazine cover"
+    excerpt: "Apple's spatial computer Vision Pro goes on sale starting today. CEO Tim Cook appears on magazine cover. Apple Vision Pro is the company's $3,499 headset and its first major release since the Apple Watch nine years ago."
+    publishedDateTime: 2024-02-02T05:54:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/articleshow/107345863.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/amp_articleshow/107345863.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/apple-vision-pro-ceo-tim-cook-appears-on-magazine-cover/amp_articleshow/107345863.cms"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 43
     images:
-      - url: "https://www.cio.com/wp-content/uploads/2024/01/iStock-1414943628-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
+      - url: "https://static.toiimg.com/thumb/msid-107345913,width-1280,height-720,resizemode-4/107345913.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Chroma ATE spotlights AI and IoT chip test solutions to address soaring demand in edge computing"
-    excerpt: "The rising popularity of generative AI is spurring demand for high-performance computing. This in turn fuels demand for edge system components and related applications, all of which bring along stringent testing requirements."
-    publishedDateTime: 2024-02-01T04:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20240129PR200.html"
+  - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
+    excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."
+    publishedDateTime: 2024-01-30T14:00:00Z
+    webUrl: "https://www.cnet.com/tech/computing/apple-vision-pro-review-a-mind-blowing-look-at-an-unfinished-future/"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 41
+      name: CNET
+      domain: cnet.com
+    quality: 34
+  - title: "Vision Pro Reviews: Surprising Battery Life, 'Weird' Personas, and More"
+    excerpt: "The first full-length reviews of the Apple Vision Pro were published today, revealing some new details about the headset before it launches in"
+    publishedDateTime: 2024-01-31T02:23:00Z
+    webUrl: "https://www.macrumors.com/2024/01/30/apple-vision-pro-review-highlights/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 24
     images:
-      - url: "https://img.digitimes.com/newsshow/20240129pr200_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://images.macrumors.com/t/V8cHY47DWtZsF7cXLntfeTOb8nE=/1600x/article-new/2024/01/Apple-Vision-Pro-EyeSight.jpeg"
+        width: 1600
+        height: 894
         isCached: true
 
 secured: "nyVc9WxRjf688zaA9gJ7Q4yZ2YiaW+GX40cvqQn7ODAMEtsllcmgEPwKRMSdSgAN8laWKA41suoR0hdTwrnHhzTt//b04lQgqJE+fC1zK//vQKHNEpx9H3qpCmenC5Mve2/BSmmo90J018xYk4sHuEZwSnr3LaWEGeKQFh98+kAEkXYpUWirCD+r67ZG/7Kg+jch60CaNYRWSon0D/XxNWWGmhh6PwfzsVB/xJ1eJ4JR0bOSXzq4D2Gxc7qsbBUOuCn1NBIUCu4zk3CaeVmtkrEZI/pk3vInyFihDHxu3qU423kC8RAmFlxCNcoSIKlS/6pB1b1ejeyPTlwM8O4OlZrMEHYARwQuT9iaKpFZrIY=;36UeuCbYR3dFjzciFWMQdA=="

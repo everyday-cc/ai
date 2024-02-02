@@ -53,6 +53,33 @@ related:
         width: 780
         height: 520
         isCached: true
+  - title: "Buy Rating Affirmed for Meta Platforms Amid Strong Q4 Results and Strategic AI Investments"
+    excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report ... Additionally, the company’s strategic investments in AI technology are enhancing its ad systems and product line, contributing ..."
+    publishedDateTime: 2024-02-02T03:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+  - title: "Buy Rating on Meta Platforms: Strong Revenue Trajectory and AI Initiatives Drive Positive Outlook"
+    excerpt: "Deepak Mathivanan, an analyst from Wolfe Research, reiterated the Buy rating on Meta Platforms ... The company’s investment in AI initiatives has led to a continued acceleration in revenue despite challenging comparisons from previous financial periods."
+    publishedDateTime: 2024-02-02T03:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-on-meta-platforms-strong-revenue-trajectory-and-ai-initiatives-drive-positive-outlook-1033024867"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Buy Rating Affirmed: Meta Platforms’ Growth Prospects Bolstered by AI Initiatives and Strong Financials"
+    excerpt: "In a report released yesterday, Josh Beck from Raymond James maintained a Buy rating on Meta Platforms (META – Research Report), with a price ... Meta Platforms’ strong position in the burgeoning AI era. Beck recognizes an extensive revenue opportunity ..."
+    publishedDateTime: 2024-02-02T03:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-meta-platforms-growth-prospects-bolstered-by-ai-initiatives-and-strong-financials-1033024747"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
 
 secured: "EltRMpAI46gPmdcxubufg7ASpZJLeFjJ5OdjPYHYst0XGAe+J68L6BXoy0716tmrezbb6fMQRgs3/H2DX1GYZDIyXvUM8m+NkCeUo790/aLBXznBjytr7djHXac3oFSi7AAay1w0gvqtYRYZi5cDvtpFmARUI2L1IaqiVzXz9vRb7HmXS7mUZbABl4bCnaahmDHvIL0xd6/w1fhQkwdQVp+X9T45Ke6H4a3fSQJ4Jb4VOhc8vNwN0I3+CFDFfYBdfIV8U8uqIfdFLsRiiQoJE5ArB9xZktsaaY2cwaCYXqZsyL4x9WviPvRIXD/qX1bNsYA18loLcGNw9AsULGT5HCHBBr87ky1KibAMEjn/Jco=;1FlV671Mo0QXnH4rWlvXSQ=="
 ---

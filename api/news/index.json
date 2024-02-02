@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
+      "title": "IBM Databand: Self-learning for anomaly detection",
+      "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T19:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-tech-execs-are-telling-investors-they-have-to-spend-money-to-make-money-on-ai.md",
+      "title": "Tech execs are telling investors they have to spend money to make money on AI",
+      "excerpt": "On this week's earnings calls, tech executives highlighted the need in AI to build infrastructure and the opportunities to make money with agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300076-1694615430004-gettyimages-1662694510-AFP_33V72TK.jpeg?v=1706903237",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "publishedDateTime": "2024-02-02T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-examples-of-sustainability-how-new-efforts-are-shaping-the-environmental-future.md",
       "title": "Examples of sustainability: How new efforts are shaping the environmental future",
       "excerpt": "With new tools and technologies in hand, organizations can find new ways to use it to reach their own goals—and a more sustainable future.\nThe post Examples of sustainability: How new efforts are shaping the environmental future appeared first on IBM Blog.\n",
@@ -18,6 +112,109 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-02T18:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-apple-vision-pro-review-spatial-computings-promise-is-fulfilled.md",
+      "title": "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled",
+      "excerpt": "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
+      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds",
+          "width": 684,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
+      "publishedDateTime": "2024-02-02T17:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
+      "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
+      "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T17:00:11Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -328,6 +525,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
+      "title": "The Impact Of Artificial Intelligence On The Art World",
+      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "publishedDateTime": "2024-02-02T12:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond.md",
       "title": "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond",
       "excerpt": "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being.",
@@ -336,7 +585,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -941,7 +1190,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -983,256 +1232,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-amazon-cloud-unit-speeds-up-revenue-growth-as-clients-adopt-ai-services.md",
-      "title": "Amazon cloud unit speeds up revenue growth as clients adopt AI services",
-      "excerpt": "Amazon pointed to artificial intelligence traction in the cloud during the fourth quarter. Acceleration of cloud growth should continue, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1706824464",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
-      "publishedDateTime": "2024-02-01T21:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-i-just-tried-apple-vision-pro-heres-what-i-think-of-this-3500-headset-so-far.md",
-      "title": "I just tried Apple Vision Pro — here’s what I think of this $3,500 headset so far",
-      "excerpt": "The Apple Vision Pro offers some truly impressive entertainment and multitasking capabilities, but will it be worth $3,500? Here’s what we think after going hands-on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/240201150423-apple-vision-pro-preview-cnnu-1.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/electronics/apple-vision-pro-hands-on",
-      "publishedDateTime": "2024-02-01T20:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law.md",
-      "title": "FCC to declare AI-generated voices in robocalls illegal under existing law",
-      "excerpt": "FCC Chairwoman Jessica Rosenworcel's proposed Declaratory Ruling would rule that \"calls made with AI-generated voices are 'artificial' voices under the Telephone Consumer Protection Act (TCPA), which would make voice cloning technology used in common robocalls scams targeting consumers illegal,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/02/fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/fcc-to-declare-ai-generated-voices-in-robocalls-illegal-under-existing-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T20:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-its-time-for-a-chief-ai-officer.md",
-      "title": "Why It’s Time For A Chief AI Officer",
-      "excerpt": "Does your company need a CAIO? Artificial intelligence has the potential to impact every areas of business. Early adopters include the Mayo Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "publishedDateTime": "2024-02-01T19:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-this-baby-with-a-head-camera-helped-teach-an-ai-how-kids-learn-language.md",
-      "title": "This baby with a head camera helped teach an AI how kids learn language",
-      "excerpt": "A neural network trained on the experiences of a single young child managed to learn one of the core components of language: how to match words to the objects they represent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/",
-      "originalUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/Vong-adi1374-image-4.jpg?w=466",
-          "width": 466,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/",
-      "publishedDateTime": "2024-02-01T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

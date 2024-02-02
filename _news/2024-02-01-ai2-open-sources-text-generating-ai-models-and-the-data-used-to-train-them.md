@@ -36,6 +36,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI learns through the eyes and ears of a child"
+    excerpt: "Researchers have been skeptical that recent AI advances can tell us much about human learning and development. To address this, a team training an AI model, not on massive data, but on the input that a single child receives."
+    publishedDateTime: 2024-02-02T13:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240201212821.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "k/9irBF0sM1cp1iGGbyuHx5bV17Z5zmbOY5wKFFXSb1/htzpkNAYR10WW/NTfAZKZd9iVXgA6C5jWTtjzEGPWwA3wKXYvoUXG9byKdx8EsJk5JXm4heD5I5w5TWDdnp+kqLAN8vGSFxAcpBCGJ2MCfTk79qF9Gpg0E6wjkrGiocf0fqpszs3/PpmhfFg/eDUdTrx/Ozg9vVrylB+7BRvniJANcw0yBSvhZE5Tz7f5fyE4oamXVb6qJbmObjK7WFaGOFZkumLh4SSHxJqebDrepepqen8B0sP0tdLcbgZV+n8LOeES8irbHpEEL3ZZAzQNMgeW8I2+3Mmjvi8/ONkOcyMFtWiI2qGLe5uIAd1z/0=;r8IpdQH+hwDrP+QD5GYmDw=="
 ---

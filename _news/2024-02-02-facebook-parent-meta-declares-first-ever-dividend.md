@@ -48,6 +48,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Apple, Amazon, and Facebook-Parent Meta Report Earnings"
+    excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
+    publishedDateTime: 2024-02-02T14:35:00Z
+    webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo?siteid=yhoof2"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
   - title: "Facebook owner Meta to pay investors for first time after profits triple"
     excerpt: "Meta, which owns Facebook, Instagram and WhatsApp, will issue its first dividend, paying investors 50 cents a share."
     publishedDateTime: 2024-02-01T22:30:00Z

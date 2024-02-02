@@ -7,7 +7,7 @@ originalUrl: "https://www.dig-in.com/news/inflation-storms-legacy-systems-and-ge
 webUrl: "https://www.dig-in.com/news/inflation-storms-legacy-systems-and-gen-ai"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 740
     height: 675
     isCached: true
-
-related:
-  - title: "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market"
-    excerpt: "And part of the reason for that is the rise of artificial intelligence (AI). Amazon ... More e-commerce spending should lead to higher revenue for Amazon. Robotics innovations could lead to massive cost savings. Amazon is already America's second-largest ..."
-    publishedDateTime: 2024-01-28T19:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/META/pressreleases/23654454/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 27
 
 secured: "IjjbsHGnsbbmiE0Knn/9rm4cztGYhShX43WlJo3lMKZXB+nibm8gubjP1XMLuDUIynr+hA1BvxZp9tPx76U5Jhl/VkHKLgvd3mxFlGCI+x+MemzpXWWnWMOjW7k6DIYU9BWsrL7Vl5/BymyxLn769W7gjz/nIKzTINMQ2VEgeQMvPymYbc0WCFMQ/PwUKSilZKJUGgoFmJI+Beo7sFE7N8/eal5icHhFuMcugRrsiifN1/Asp6Nh/oXKHv3fbgJO92l+cn6Z0hHxInnFet2SEqCFg6hYgZlhtr8mxLzMu9JW7RzSBlCXjyxgp9t4i8rpPVl+ttmvWSk25K6Y8bnNQSqQ6OkrckH0tuURDpO1Svk=;Y7eJf/3yRjKbknbEirALdA=="
 ---

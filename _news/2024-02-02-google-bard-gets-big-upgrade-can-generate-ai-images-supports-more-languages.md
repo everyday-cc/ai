@@ -74,6 +74,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Google's Bard Now Features AI Image Generation"
+    excerpt: "(RTTNews) - Alphabet Inc.'s (GOOGL), Google has recently added an AI text-to-image generation feature named ImageFX in its Bard chatbot. ImageFX is available on Google's AI Test Kitchen, an experimental platform that allows users to interact with Google's projects while they're still under development."
+    publishedDateTime: 2024-02-02T21:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-s-bard-now-features-ai-image-generation-1033026514"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Google Bard updated with image generation, support for Indian languages"
     excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
     publishedDateTime: 2024-02-02T10:28:00Z

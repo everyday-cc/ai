@@ -32,15 +32,6 @@ related:
         width: 720
         height: 466
         isCached: true
-  - title: "The S&P 500 Just Hit an All-Time High. Here's 1 Artificial Intelligence (AI) Stock to Buy and Hold Hand Over Fist."
-    excerpt: "One of the biggest investment themes in 2023 was artificial intelligence (AI). The \"Magnificent Seven\" stocks in particular helped fuel gains across major indexes, and the momentum appears to have carried over into 2024 (for now). The stock is up almost ..."
-    publishedDateTime: 2024-01-28T20:15:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR/pressreleases/23655439/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 10
 
 secured: "gpzooGtQ7qe2gz8N+HAzBKVjQVM2LsCdAQFxuifUClLbnsAFrA1KuJZRfgLxmjoUaC6IBtf+7+Q4qh7q+xqd7aqF26CHdeAMo2sh4PNJfuiNZDczkH5LnvFGXlZv6sGH+KDIFuym+rKD66c3CDob3mwJb0KsRdq09fT6hwGZiaEolfZEOM4ID3PEI8d8qU4j+uJqwChyPh4/ApqwOD2s0LcR318/enyXiA03fvTHmTk9pEGd44VzuGEx9cdN8l/a9Gfvb7JAFuB5aY6vuha048zenUo82dWrEfW7eOWqGxT2izwQGYLLnPMWV7uFX+yncbpSMIoEjIrOfmCcYoO6K+Gu/FYQYc6U1j10SrPiWNW6tmKN2hWCT9mJACs+AQLlRtOoNSyOlajlOrw0jsshsqiPVJlJOgKHMCCG0o5DMNJnWX6o8T8lsF17ioChldWXl6AMjvBMq7edSSToNfOlh7SS1AVkRRRIuLb68V6cJY1InKXW0jRtgC73XJjMUzECKTueIeogZt0dR5VyYpP9KQ==;XM4VJBcr6AQhq9id/etIOQ=="
 ---

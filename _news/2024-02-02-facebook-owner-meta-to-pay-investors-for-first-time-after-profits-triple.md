@@ -53,6 +53,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Apple, Amazon, and Facebook-Parent Meta Report Earnings"
+    excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
+    publishedDateTime: 2024-02-02T14:35:00Z
+    webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo?siteid=yhoof2"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "Uld/MI8sPN52MGEG+dHQAAOS+LVkCEwdovJ486XJJGWDTESGLoIEiMtct/9C03HgGibz6sMfeJ0pTJbOSgdWGwoWcVGBv8h1KHwN4AtsjAe8ivbF0iX6NrtZNjsjJVmaTsGtokQoNMYGMd7mR9HZkaYZnxEWdZjSvsakNvd9yB0B+2BIEQp6yNEactrMMmRstBjFK9C+EiS2/FRqClBWrF/eNzzIpLuPYsxdjOuSbbFQRYaOmvUa6pi7GTJo81MjzWdxLZSlTKEc7BXYr/OpQ6AE7we3s4ucGY+0+Ya1DKFbLmh+Kv9sYvWebIKlOppa2zkwuS9pm16YYa8p4Bl33IuE2z6lsv2u9H+gBJvGWLI=;LEKsq0Rj2F1YoHD3VSh+Qg=="
 ---

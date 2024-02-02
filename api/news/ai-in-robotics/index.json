@@ -140,6 +140,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-01-the-economy-and-ethics-of-ai-training-data.md",
+      "title": "The economy and ethics of AI training data",
+      "excerpt": "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
+      "originalUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T22:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics.md",
       "title": "KettyBot Pro will provide personalized customer service, says Pudu Robotics",
       "excerpt": "KettyBot Pro's new features include a larger screen for personalized advertising, cameras for navigation, and smart tray inspection.",
@@ -169,49 +213,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-3-artificial-intelligence-ai-stocks-you-should-buy-and-keep-forever.md",
-      "title": "3 Artificial Intelligence (AI) Stocks You Should Buy and Keep Forever",
-      "excerpt": "Detailed price information for Amazon.com Inc (AMZN-Q) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/667b46d4c23ff4d85ed20232924d5b22/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5eedbbef10113d068d4c0ed29a82971.png%26amp%3Bw%3D700",
-          "width": 720,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T12:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null

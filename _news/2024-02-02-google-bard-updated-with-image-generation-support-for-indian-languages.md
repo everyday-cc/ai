@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google's Bard Now Features AI Image Generation"
+    excerpt: "(RTTNews) - Alphabet Inc.'s (GOOGL), Google has recently added an AI text-to-image generation feature named ImageFX in its Bard chatbot. ImageFX is available on Google's AI Test Kitchen, an experimental platform that allows users to interact with Google's projects while they're still under development."
+    publishedDateTime: 2024-02-02T21:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-s-bard-now-features-ai-image-generation-1033026514"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
     excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
     publishedDateTime: 2024-01-30T15:00:00Z

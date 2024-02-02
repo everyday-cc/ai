@@ -9,8 +9,8 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2024/02/students-speak-how
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: EdTech
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Learns to Speak Like a Baby"
+    excerpt: "A paper published in Science found that a relatively simple AI system fed with data filmed from a baby’s-eye view began to learn words."
+    publishedDateTime: 2024-02-02T20:27:00Z
+    webUrl: "https://time.com/6632398/ai-language-study-baby/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Teachers wary of possible AI use by some students"
     excerpt: "Amid teachers' concerns over the use of AI in schoolwork, the DepEd and several universities believed that the use of the technology was unavoidable and are creating guidelines on its use."
     publishedDateTime: 2024-01-29T13:35:00Z

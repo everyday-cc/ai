@@ -292,6 +292,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 36
+  - title: "Charted: How Microsoft's AI lead is showing up"
+    excerpt: "The big picture: Any first-mover advantage may shrink over time, but for now, investors clearly see Microsoft as leading the generative AI race. The company's market cap stands at nearly $3.1 trillion — while Apple's has fallen to $2.9 trillion. The size of Alphabet, Amazon and Meta are all currently below $2 trillion."
+    publishedDateTime: 2024-02-02T22:41:00Z
+    webUrl: "https://www.axios.com/2024/02/02/microsoft-tech-earnings-ai-apple-google-meta-amazon"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
   - title: "Inside a collaboration between Microsoft and the Pacific Northwest National Laboratory"
     excerpt: "The Pacific Northwest National Laboratory (PNNL) in Richland, Washington, has turned to Microsoft for high-performance computing requirements. In what it calls a multi-year collaboration, the lab and the software giant will apply artificial intelligence to speed up research in clean energy."
     publishedDateTime: 2024-01-29T20:17:00Z

@@ -99,6 +99,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nvidia stock hits record high as tech earnings reinforce AI bullishness"
+    excerpt: "Nvidia traded as high as $666 per share on Friday, with the stock buoyed by optimism over AI expressed in mega-cap earnings this week."
+    publishedDateTime: 2024-02-02T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-record-high-artificial-intelligence-tech-earnings-nvda-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
     excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
     publishedDateTime: 2024-01-30T10:54:00Z

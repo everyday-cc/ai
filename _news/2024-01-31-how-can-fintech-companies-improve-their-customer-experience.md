@@ -206,20 +206,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Best Execution and Investments in FinTech Shape the Market"
-    excerpt: "While generative AI has not yet had a material impact on IT spending, investment in AI more broadly is supporting overall IT spending growth, according to the report. “Tech spending is the only thing that continues to go up, even in times when market ..."
-    publishedDateTime: 2024-02-02T00:00:00Z
-    webUrl: "https://www.tradersmagazine.com/featured_articles/best-execution-and-investments-in-fintech-shape-the-market/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/12/Be60_Web-Joe-Wald-900x600-1.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Fintech Industry Leaders React On Interim Budget 2024"
     excerpt: "Here are Interim Budget reaction by leading fintech companies. 1) Yashoraj Tyagi, Chief Executive Officer, CASHe: â€œThe"
     publishedDateTime: 2024-02-02T12:33:00Z
@@ -243,15 +229,6 @@ related:
       name: Crain's Detroit
       domain: crainsdetroit.com
     quality: 19
-  - title: "How fintech leaders can build for the future"
-    excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
-    publishedDateTime: 2024-01-28T20:35:00Z
-    webUrl: "https://gulfnews.com/uae/education/how-fintech-leaders-can-build-for-the-future-1.1706260835025"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 4
   - title: "Techtrust launches fintech talent hub"
     excerpt: "IT staffing firm Techtrust has launched a database to help fintech companies in the US find top talent. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this, but you may change your preferences at our Cookie Centre. Please read our Privacy Policy."
     publishedDateTime: 2024-01-31T14:12:00Z

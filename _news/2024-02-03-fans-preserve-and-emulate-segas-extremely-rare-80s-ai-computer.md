@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-02T18:00:00Z
 originalUrl: "https://arstechnica.com/gaming/2024/02/fans-preserve-and-emulate-segas-extremely-rare-80s-ai-computer/"
 webUrl: "https://arstechnica.com/gaming/2024/02/fans-preserve-and-emulate-segas-extremely-rare-80s-ai-computer/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/segaai-760x380.jpg"
@@ -27,6 +28,6 @@ images:
     height: 380
     isCached: true
 
-secured: "JObHWroi8CjqW6c/Zj3hwThW3IrUTAV6ESVJ9nOrvxgggvBSwV8OkIh7hPRP5BcFGhIvQLU6SyOtaWFNOozaq0LdiJOLMqKS/9tjpVeWTugVeokCaxsanhSdu4IC5n0Uibp4cn5nec8O/yXbORY6mEfBvM2zcEYLcSv4Iatd8kL9btOW4lzNOJVOS1deU2TTGAkRky+eVqVKL5KJjwRoHpLa2DFRjU0qK4a9wZvRBbtJc7lwwHQo93DisEDlCpTprKwQpzorp4CJV0lkPjJS57dsgg4xN4+QjFOWwYRtXae4vkEZJbNFI56txJlnq4YX2EN/BEgA3tJOC11aTMd2oCcTL+V75vgZsMyzhf0abwo=;kkik0TOhWDwHwwJMrbO7hA=="
+secured: "VLhPTHZxv+37DWD78VAVCuEFQYj3dO56lf4dK5fcZHkOgBkWyVzVCOGF0i+i0Ef8NyVpeJ0onkzm7pUYtRTRWipBCdLbxxxywJQznVImMUR7tCFFinDPvnFARZwlyB0FhIK/8iWzuiHKcTqAowDCW4PZH4YIBWZfV2NF7pO/Odm1PDnQM4zfUR24zIM9tZyOWEEE337hEIYM8uJaXXXYZB1wZeYmY1p2uu/F7Sz4X7G4AnDwpi8pREyVR7hp1Dso6Az609X/E/rjLEBn84bu8nn52YUaFk4RbEmkk1O25/W0yQkevEeLpmYF7uW7jNt1956iwDqLCHgdt87VbYF7yAAOQSwT5ogliOAb1dwRvOP+1kQjDmwyYIlLNZCXGMrmfDZBY8H4V8CLxvprUwwCiy2BFTAD9Ls+fIzcIq0G/+TEpg+FZY5q5jnqMjUd7nRmG8brXFngRcSmy/UrnnoaCMIp3ysB0X3LY9wIaA6uORXAyIwG3IAObKQ71KF+vQujDeeWe1ht8R9CeVYhYWUblQ==;CWwgyjq5WX37pOwMjPDgkA=="
 ---
 

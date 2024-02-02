@@ -7,8 +7,8 @@ originalUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-a
 webUrl: "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Marketplace
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI learns through the eyes and ears of a child"
+    excerpt: "Researchers have been skeptical that recent AI advances can tell us much about human learning and development. To address this, a team training an AI model, not on massive data, but on the input that a single child receives."
+    publishedDateTime: 2024-02-02T13:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240201212821.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "AI2 open sources text-generating AI models — and the data used to train them"
     excerpt: "AI2, the AI research institute, has released several text-generating models in open source, along with the data used to train them."
     publishedDateTime: 2024-02-01T14:30:00Z

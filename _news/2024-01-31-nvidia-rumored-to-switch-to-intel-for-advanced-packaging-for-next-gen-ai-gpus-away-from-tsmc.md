@@ -39,6 +39,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Aetina Introduces New MXM Gpus Powered By NVIDIA Ada Lovelace For Enhanced AI Capabilities At The Edge"
+    excerpt: "Aetina, a leading global Edge AI solution provider, announces the release of its new embedded MXM GPU series utilizing the NVIDIA A"
+    publishedDateTime: 2024-02-02T20:00:00Z
+    webUrl: "https://menafn.com/1107803089/Aetina-Introduces-New-MXM-Gpus-Powered-By-NVIDIA-Ada-Lovelace-For-Enhanced-AI-Capabilities-At-The-Edge"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
 
 secured: "Mnia+QGFuZ9JSAUVnyWUFri8U+NXR0Oig5ddH8qK5y5ixB7y3sWNDVp9m5j+U+MvZj7MMHhdzATqk7QoU9cOgh1kQBiamaHb6I5zSFylKxZMBrn3Q7HIrdQO08HuXcBA0yXN3GYaaqIEjmGYs7dHtiMrTNcfflJi9+3P+0IyEEc6DocBwQgJ9C3ZbfJTXJqVAfAGw544/vqxIpnWF03SgLEhuHQkp4s706qthbF+pkMqeXEl31TL+omcgFjr7DTF4rIrIxlVHyA1KN6gUTHS8IGOV2FrrC45AQcwbnU5DJGS3ptFuS/64Ma3ZTWmhLVYqfnOczTwGz70R8SytqR2JJ3r0SuPNBgqP6K1tp9CWeFeI7aCn3Hc9xUISTIlRqu9Zv6clr1YRaRzmQIpVb/KRUyQkaBdHBMLgke93HikrvKSRtAza8QtSXFUN0mLOGvN1RHe7KBgf26GsJlK+ubcZCoeX+aom1Y06VVnwHxPuKfOb6gyrmYiKizI2OY/UtZSY+2sQUVBZyNSI35RPH9KYg==;PBfzg732UoL+x7+m9sDthw=="
 ---
