@@ -69,6 +69,22 @@ related:
         width: 1512
         height: 900
         isCached: true
+  - title: "IBM says generative AI can help automate business actions"
+    excerpt: "A new program called SNAP uses large language models to predict the next most probable development in a process such as a loan application or an HR situation."
+    publishedDateTime: 2024-02-02T00:29:00Z
+    webUrl: "https://www.zdnet.com/article/ibm-says-generative-ai-can-help-automate-business-actions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/28158bf83549a355b0939671ef07da0b159e2605/2024/02/01/d44a65be-7fb3-44c6-a742-fc3d4b400ae0/gettyimages-1766154620.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Washington state to develop guidelines for agencies using generative AI"
     excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
     publishedDateTime: 2024-01-31T02:31:00Z

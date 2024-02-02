@@ -190,6 +190,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Best Execution and Investments in FinTech Shape the Market"
+    excerpt: "While generative AI has not yet had a material impact on IT spending, investment in AI more broadly is supporting overall IT spending growth, according to the report. “Tech spending is the only thing that continues to go up, even in times when market ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/best-execution-and-investments-in-fintech-shape-the-market/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/12/Be60_Web-Joe-Wald-900x600-1.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "How fintech leaders can build for the future"
     excerpt: "Engaging with the Ministry of AI in the UAE, the Mastercard team worked on a groundbreaking ... grounding in theory alongside looking at the applications. “As crypto and fintech have grown, we spend more time exploring systemic risk issues as well ..."
     publishedDateTime: 2024-01-28T20:35:00Z

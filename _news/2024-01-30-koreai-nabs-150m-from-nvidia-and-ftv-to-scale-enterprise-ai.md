@@ -78,6 +78,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Cohere: The multinational, AI-for-enterprise company explained"
     excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
     publishedDateTime: 2024-01-29T00:00:00Z

@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
+    excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
+    publishedDateTime: 2024-02-02T07:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Google powers up Bard with Gemini Pro and releases new AI tools"
     excerpt: "Google’s new standalone ImageFX tool, also powered by Imagen 2, was added to the company’s AI Test Kitchen, a place where the company allows public access to experimental AI tools. Google also updated MusicFX, a text-to-music AI model that allows users to make songs."
     publishedDateTime: 2024-02-01T18:24:00Z

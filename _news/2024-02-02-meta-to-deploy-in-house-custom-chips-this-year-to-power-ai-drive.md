@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-02T06:20:00Z
 originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107346660"
 webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive/107346660"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-107346660,imgsize-29598,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"

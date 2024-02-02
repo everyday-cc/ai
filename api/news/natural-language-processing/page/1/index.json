@@ -736,19 +736,19 @@
     {
       "path": "_news/2024-01-23-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses.md",
       "title": "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses",
-      "excerpt": "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled ...",
+      "excerpt": "The study focuses on two processes: translation and localization. Translation is the transformation of text from one language to another in a way that preserves themeaning of the original text, while localization adapts that text to the needs of a specific market and incorporates specific cultural nuances.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
-      "originalUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/23/9950353.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -758,11 +758,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:13:00Z",
+      "publishedDateTime": "2024-01-23T12:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,21 +1335,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-19-next-gen-ai-powered-voice-translator-previewed-by-vasco-at-ces.md",
-      "title": "Next-gen AI-powered voice translator previewed by Vasco at CES",
-      "excerpt": "Vasco Electronics previewed its next-generation live voice translation device that is powered by artificial intelligence (AI) and can provide live translations of nearly 50 languages to your ear.",
+      "path": "_news/2024-01-20-david-lammys-speech-disrupted-by-pro-palestinian-protesters.md",
+      "title": "David Lammy’s speech disrupted by pro-Palestinian protesters",
+      "excerpt": "David Lammy’s speech calling for a ceasefire in Gaza was disrupted by pro-Palestinian protesters. Labour’s shadow foreign secretary was addressing the Fabian Society conference on Saturday when flag-waving demonstrators mounted the stage shouting: “When will you condemn the genocide?",
       "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces",
-      "originalUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces",
+      "webUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
+      "originalUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/25844fe6-06e4-4c68-abf2-849fa1a0bde3/c5a474d0-0442-458b-b0ea-60f7ca9bd359/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.ealingtimes.co.uk/resources/images/17666148/?type=og-image",
+          "width": 945,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1357,13 +1357,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/next-gen-ai-powered-voice-translator-previewed-vasco-ces.amp",
-      "publishedDateTime": "2024-01-19T13:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T14:50:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
+        "name": "Ealing Times",
+        "domain": "ealingtimes.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1378,21 +1378,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-19-bard-ai-is-coming-to-google-messages.md",
-      "title": "Bard AI is coming to Google Messages",
-      "excerpt": "You might soon be able to chat with Google Bard in Google Messages. The feature was spotted in the latest beta version of the app. Bard will be able to help users ...",
+      "path": "_news/2024-01-20-when-states-try-to-take-away-americans-freedom-of-thought.md",
+      "title": "When States Try to Take Away Americans’ Freedom of Thought",
+      "excerpt": "He refused to do so, calling the requirement “McCarthyist” and an affront to his free-speech rights ... demonstrate “an ongoing awareness and recognition of racial, social and cultural ...",
       "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
-      "originalUrl": "https://www.androidauthority.com/google-messages-bard-3405223/",
+      "webUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://static01.nyt.com/images/2024/01/20/opinion/20statespeech/20statespeech-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1402,14 +1402,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T09:19:00Z",
+      "publishedDateTime": "2024-01-20T00:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1425,9 +1425,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html"
 type: article
 quality: 73
-heat: 74
+heat: 75
 published: true
 
 provider:

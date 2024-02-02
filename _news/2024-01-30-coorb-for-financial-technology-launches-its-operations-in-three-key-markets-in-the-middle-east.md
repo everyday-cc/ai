@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Unlocking the Secrets of Financial Technology Careers: The Path to Success"
-    excerpt: "Are you fascinated by the fast-paced world of finance and technology? Do you dream of diving deep into the secrets that drive this industry forward? If so, then get ready to embark on an exhilarating journey!"
-    publishedDateTime: 2024-01-28T08:43:00Z
-    webUrl: "https://techbullion.com/unlocking-the-secrets-of-financial-technology-careers-the-path-to-success/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 22
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/FinTech-Careers.jpg"
-        width: 1000
-        height: 500
-        isCached: true
 
 secured: "kpOavqfJypA6jeZ8J5GKeKZ8+CK0D2ZZaSDleJfBquKOlushlaF9ExbmN7Hvw6ykTGLYX/tKVPCQk9kHwSBNIpHxDp7gMRrOTBL24Nm9Q31XZtjKJsq8+RWTm+ynZT9pklgESS4W/n0TxTfGk0o4pHqIJH9whybnK6S8iyHU1B23dSLhP9MsXIqlNicFKYkcI/15dcbeC7ewaL/rnubUG8yHZHAbTVRqdJCompQYbsBgeJ7Koyk7Y8p4DjewSclxPc7Ox+ZA/d3G5a+AW8iPr8rCjjTYCtA5/vijKDq0etwL0VIGDdj5AGeBf/JaOvqkjK/9EZLTe39lxCFAjhaPFUhMQKb5m392HVZl4v7eoIJDzy+vsQnxlR+UMlkxqanVHxZI2wWxOtggN/5Jq6+TFXRRMKUhbWo0CwGsEhP6V7hLqE1JbOt/DYGYF+IAsN3Q18acmGTWHPeKED09iHr9wRcvbwVEFEWJN1lGl7HTscmoYveJaYcY1X9F8wiHN87e3F0gRV96qs8btNnAvYAoVA==;PaVMKsuCOaJ5dzeHynS5ww=="
 ---

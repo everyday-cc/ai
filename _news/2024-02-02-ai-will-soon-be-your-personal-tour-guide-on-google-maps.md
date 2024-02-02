@@ -54,6 +54,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google’s Bard AI can now generate images, gets updated fact-checking capabilities"
+    excerpt: "The most eye-catching new feature is undoubtedly image generation. Users can now describe an image to Bard in natural language, and it will conjure up a custom visual. This leverages Google ’s updated Imagen 2 model to produce high-quality, photorealistic images on demand."
+    publishedDateTime: 2024-02-02T07:51:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 54
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Hero_10_1.width-1200.format-webp.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google Bard in Messages app may access your private conversations"
     excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
     publishedDateTime: 2024-01-29T13:07:00Z

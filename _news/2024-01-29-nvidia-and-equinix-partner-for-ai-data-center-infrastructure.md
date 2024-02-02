@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Move over Nvidia: Super Micro Computer is the top-returning AI stock over the past year"
-    excerpt: "The surge in Super Micro Computer's stock has catapulted its market valuation from just under $5 billion at the start of 2023 to $27.5 billion today ... Super Micro Computer sells high-performance servers that are AI-enabled to data centers and enterprises ..."
-    publishedDateTime: 2024-01-31T03:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/super-micro-computer-stock-outperforms-nvidia-artificial-intelligence-ai-stocks-2024-1"
+  - title: "Nvidia chief sees rise of ‘sovereign AI’ infrastructure across nations, driving demand for company’s advanced chips"
+    excerpt: "Such a national approach to the artificial intelligence boom stands to drive an expansion of data centres that would need Nvidia’s know-how and hardware."
+    publishedDateTime: 2024-02-02T07:52:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3250726/nvidia-chief-sees-rise-sovereign-ai-infrastructure-across-nations-driving-demand-companys-advanced"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: scmp.com
+      domain: scmp.com
+    quality: 62
     images:
-      - url: "https://i.insider.com/65b938747a3d27148875e173?width=1200&format=jpeg"
-        width: 1131
-        height: 565
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/5cec8d3c-6901-4ad4-8d70-fd08901e7e69_3322aa00.jpg?itok=MIP_KK5n&v=1706860366"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ZFogF2zN/SJRSmL/ppDGgtSyWWPI9TMFLKMpsbZbPaRJlvOjro7vwn5TUpMUXI4TowggfvIahtHIe+wWDvgwm8Zkm9Yp9MvxoKR/J/7clgp0BO/fGX5usGK2p3q3LmQ9inh3rLz+8rVOJb4qdnuLW19GCocCxIqxa/+JJOEPq6TsBuqcWmJxE3s+yoNLU4vsHANFMDCk75l6FvKgigjT839OzEfh38l/O3SxQnrMCyFSU/beSQQpQAJBH4FasFkmopGYpz+R2e9wt4g+JEtieE5lJkxzY9M3V1kupZVGD18RME9DcqtE+KcNi806+AVXbPlqOQt0fDxSY4iHrDgMrsACZtUCAQTjWuZFaYZ7xqG76Z/JHUxr3yGyIdFMhNvmnl9XpeqQGWXhSW0cPN37ZtXIt3WQpMKEWbxgJr5X/2UeFwedW4qmUEQWTqsM/luliTpWl+Vme/ElmZapar+f5zEKP7hjWL7s/hz7YhgnamA3zwuxyJk/hiSwMLqs8DqUhdUGWkgm+BXyYWLEfvjh7w==;kGUsTsu50aFK6bRpjI4RjA=="

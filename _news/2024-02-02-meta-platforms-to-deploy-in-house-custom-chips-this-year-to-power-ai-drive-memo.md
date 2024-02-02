@@ -51,7 +51,7 @@ related:
     provider:
       name: cio.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107346660,imgsize-29598,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
         width: 1200
@@ -81,6 +81,6 @@ related:
         height: 534
         isCached: true
 
-secured: "zl50AZlGvhW3tDosaEMoWnAWl9nxDiLhPabhnEbU3cWtEwgFAdYuGOY3HGfArKT7suFUX5Ojc10Gc9apE39uLsGRSGfF1FGmSV2AbeHgSP6094uFOdSDmfddnEiYL5gLFOAcRgIYWy8FVqj0dqVqpHIdrnZCbaGdqCGKM+wj2BMKYZVqM/XQcsI8REXrKEn2UY8ydMfyclsCWMOHgOPEShT2qg+UF8cJVxDybTLIpT1cSYiRVInp0RgYrQG4623dEX35mETITUS702qxwxy+xtkfLvkqSebL4NPAUS1NMtKlIHZ3pTThxUWKYn0OPvhB7KZMWgMkBXsbfRgf6gTn0oennECM66stzLlNwr58Y5U=;OhrbX9PxNrCUVeQEROcdvA=="
+secured: "IT5XW49fIxZobq588vMHfoPrB7VVEQiMPFjdWkzhwCPSKq47XIB1ePcXlfoiHWaIUoU2H9rawIaSihZEqEEaHYP3YGIgh/vj88U4aACuF5pYrR/v5rx2WJs4PnPV1sCwDQQ+fYLtZnqKehDFPJZvGHgDh7A3BTdAitKDd9tOjRgzeN2/I+J5JGhhKbwkSYIx4vFtt1krfWVU+O5WHWB2R2rIBxm9zkxDMkX4SYLb8MOeOz6e9oL9bq1w03wYbjSa6eWD0bAjxSo8I924zl5exJ/Wnb8Bvwes/UtDcZBayBr9eDo31BBAJwN9zID/gETP2Mu0ShGDjckp1qVTyxOlDOM42HYPHHhzp6//xiWAT4o=;mil8pPS8BvHP2jwvlxvY+g=="
 ---
 

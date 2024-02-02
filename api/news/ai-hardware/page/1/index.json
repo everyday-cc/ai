@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-nvidia-chief-sees-rise-of-sovereign-ai-infrastructure-across-nations-driving-demand-for-companys-advanced-chips.md",
+      "title": "Nvidia chief sees rise of ‘sovereign AI’ infrastructure across nations, driving demand for company’s advanced chips",
+      "excerpt": "Such a national approach to the artificial intelligence boom stands to drive an expansion of data centres that would need Nvidia’s know-how and hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250726/nvidia-chief-sees-rise-sovereign-ai-infrastructure-across-nations-driving-demand-companys-advanced",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250726/nvidia-chief-sees-rise-sovereign-ai-infrastructure-across-nations-driving-demand-companys-advanced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/5cec8d3c-6901-4ad4-8d70-fd08901e7e69_3322aa00.jpg?itok=MIP_KK5n&v=1706860366",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T07:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo.md",
       "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive - memo",
       "excerpt": "Meta CEO Mark Zuckerberg last month said the company planned to have by the end of the year roughly 350,000 flagship \"H100\" processors from Nvidia, which produces the most sought-after GPUs used for AI. Combined with other suppliers, Meta would accumulate the equivalent compute capacity of 600,000 H100s in total, he said.",
@@ -1384,49 +1436,6 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-us-regulator-probes-ai-investments-by-tech-giants.md",
-      "title": "US regulator probes AI investments by tech giants",
-      "excerpt": "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
-      "originalUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
-      "cdnAmpWebUrl": "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
-      "publishedDateTime": "2024-01-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grand Junction Daily Sentinel",
-        "domain": "gjsentinel.com",
         "images": null,
         "publishers": null,
         "authors": null

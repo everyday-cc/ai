@@ -66,6 +66,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 40
+  - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
+    excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
+    publishedDateTime: 2024-02-02T07:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
   - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
     excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
     publishedDateTime: 2024-02-01T22:24:00Z

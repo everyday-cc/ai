@@ -6,8 +6,8 @@ publishedDateTime: 2024-01-29T10:03:00Z
 originalUrl: "https://wtop.com/business-finance/2024/01/artificial-intelligence-isnt-just-taking-jobs-in-dc-its-also-creating-them/"
 webUrl: "https://wtop.com/business-finance/2024/01/artificial-intelligence-isnt-just-taking-jobs-in-dc-its-also-creating-them/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://wtop.com/wp-content/uploads/2024/01/tlmd-congreso-paquete-fronterizo-scaled.jpg"

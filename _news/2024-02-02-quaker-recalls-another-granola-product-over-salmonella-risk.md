@@ -2,26 +2,26 @@
 category: news
 title: "Quaker recalls another granola product over salmonella risk"
 excerpt: "(CNN) - Quaker Oats is recalling another granola bar over possible salmonella contamination. The Quaker Oats Company says the recall has been expanded to include its Quaker Chewy Dipps Llama Rama. The company says the bars were discontinued last September and they have best before dates of either Feb. 10 or 11 of this year."
-publishedDateTime: 2024-02-02T05:49:00Z
-originalUrl: "https://www.kktv.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
-webUrl: "https://www.kktv.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
-ampWebUrl: "https://www.kktv.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
-cdnAmpWebUrl: "https://www-kktv-com.cdn.ampproject.org/c/s/www.kktv.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
+publishedDateTime: 2024-02-02T07:49:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
+webUrl: "https://www.hawaiinewsnow.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
+ampWebUrl: "https://www.hawaiinewsnow.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
+cdnAmpWebUrl: "https://www-hawaiinewsnow-com.cdn.ampproject.org/c/s/www.hawaiinewsnow.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KKTV11
-  domain: kktv.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/3WKGQGQ7IRDGRG2TEVFY6ZOCI4.png?auth=647cf75fd92c4a37f27887b62eea18bd496ff926a68ac5fbdb31350d0bbf5a80&width=800&height=450&smart=true"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/3WKGQGQ7IRDGRG2TEVFY6ZOCI4.png?auth=647cf75fd92c4a37f27887b62eea18bd496ff926a68ac5fbdb31350d0bbf5a80&width=800&height=450&smart=true"
     width: 800
     height: 450
     isCached: true
@@ -42,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "FiBCJhH98HC9TyFjnlTs0yt0e+qkvdt4Ci6FLc92CbYVWO0p1kuRZRVSpeQkk3F53daY46uAtoy5/DUIZIZPRimZ2zt2k/hbl56hFEfNBZLN29i3JNy34NNUrPPLib07EV5LdxsTBgTJSvJNpaAhs5Y9nY4aSTSrHY9gbf6MHygAPFVkcCg3Lx46v+HlNAVuz9PUUWTq/eN7MXzJ+G2+GpQY7W2L+fDF+gC9Tq+2+JcaKSlj/0/P+lJrzk5vSMmrRp1qYgQ1mbekpGnqzynXbQ8oRLf+rkY+lO6W7V07BJ1+P6VVYA9tiDXSuXEtYmN7TnZuAxfMF7cdxEK36bEkYZ6O7kavLJRm3FAQ8KT8cPs=;S+tVuS4d0lzr6nVl75Dppg=="
+secured: "Ol6G3jsAY5x1uWwElksE4nKEbTKVgYKDpCmXOfD8QP3RsYznE7waEXyDVFClb/sFSt20bfWFn0XIkFPPmOi71XVYdavmB+bm526jrtDIwC3tGvndxOXepv8k9fBMaA5Zb/X95gz186eZwWmejkP0EKEEEYScB1Qbc7vGBNM5TIFPnGn0AdHsGfswMZqe81R7guHySloo6owU7vs2BtiNbh3DJ4IjE2UAiXbdMa+lICYxMINxALXEx8eq5C5ICN/AEDeYSNaZeBppHuJQSNkM5SdEbIXPp6ftvTekjjFQHbc52wYzunlYMCnqpZ/3EqIaYulDHFumIusodpLNC/rW8eodRo5mQCBUdxNWR8ceO6E=;CJB1vIQS/R6iEqTZvRSbpQ=="
 ---
 

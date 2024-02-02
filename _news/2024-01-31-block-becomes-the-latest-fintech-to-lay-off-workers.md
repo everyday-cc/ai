@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 255
+heat: 264
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "Best Execution and Investments in FinTech Shape the Market"
+    excerpt: "While generative AI has not yet had a material impact on IT spending, investment in AI more broadly is supporting overall IT spending growth, according to the report. “Tech spending is the only thing that continues to go up, even in times when market ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.tradersmagazine.com/featured_articles/best-execution-and-investments-in-fintech-shape-the-market/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2023/12/Be60_Web-Joe-Wald-900x600-1.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Rocket taps Silicon Valley AI and fintech expert for new board spot"
     excerpt: "Rocket Companies Inc. has gone to Silicon Valley for its latest board appointment. Nick Manes is a reporter covering residential real estate and local mortgage companies for Crain’s Detroit Business. He previously covered finance and tech startups. He joined Crain’s in 2020 after six years as a reporter at MiBiz."

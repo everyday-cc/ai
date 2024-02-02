@@ -65,7 +65,7 @@ related:
     provider:
       name: cio.economictimes.indiatimes
       domain: indiatimes.com
-    quality: 39
+    quality: 56
     images:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107346660,imgsize-29598,width-1200,height=765,overlay-etcio/artificial-intelligence/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive.jpg"
         width: 1200

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Utilizing active microparticles for artificial intelligence"
+    excerpt: "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122349.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Utilising active microparticles for artificial intelligence"
     excerpt: "Home > Pressemitteilung: Utilising active microparticles for ..."
     publishedDateTime: 2024-01-29T11:20:00Z
