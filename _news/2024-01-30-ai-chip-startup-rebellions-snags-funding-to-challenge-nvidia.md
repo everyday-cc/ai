@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei"
+    excerpt: "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points"
+    publishedDateTime: 2024-02-02T16:51:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 69
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up"
     excerpt: "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies"
     publishedDateTime: 2024-02-02T05:41:00Z

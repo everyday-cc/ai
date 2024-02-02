@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-ha
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "I Just Cancelled My Tesla Full-Self Driving Subscription."
-    excerpt: "I canceled myFull-Self Driving subscription. Whether that’s bad news or good news forTesla depends on your point of view."
-    publishedDateTime: 2024-01-28T18:54:00Z
-    webUrl: "https://www.barrons.com/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
-    ampWebUrl: "https://www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/i-just-cancelled-my-tesla-full-self-driving-subscription-65ea0be4"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-06217458/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla Upgrades Model Y In China With Advanced Self-Driving Hardware 4, No Price Increase"
     excerpt: "What Happened: Hardware 4, abbreviated as HW 4, is the latest version of hardware for powering Tesla’s self-driving. Though Tesla has introduced new hardware, the price of the SUV remains unchanged in the Chinese market, starting at 258,900 yuan ($36,264)."
     publishedDateTime: 2024-02-01T03:21:00Z

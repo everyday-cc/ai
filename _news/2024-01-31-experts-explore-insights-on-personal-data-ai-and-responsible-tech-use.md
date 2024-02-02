@@ -39,6 +39,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "WATCH LIVE: House holds hearing on AI and intellectual property"
+    excerpt: "The House Judiciary Subcommittee on Courts, Intellectual Property will explore how Congress can support responsible innovation in applications of AI technology while addressing growing concerns."
+    publishedDateTime: 2024-02-02T16:58:00Z
+    webUrl: "https://www.foxbusiness.com/video/6346070268112"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 37
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/be51eaa4-0090-42cf-a032-4f7f7f46b58d/7b67837f-a446-4df8-9851-e07f8019a06e/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "3hH4+5a6M+nmh7/XtqVhyy51AmirIDbFSUUT4cNKM5o8eGvMZKQPVu5LLsx9TS+xGvEIVgusG6+5TUSIUgrA+eJtFgVmxsoNztFbnKPV+BbLU8L/ANIbaVdkNIFmvplZL5GHv76wsl2ruThYP6n2MLww5iXwOsWWIXSPlJt9lIj08wR0TA6lZs3RoW4AKAiCLTJz6mD48asV4j4KgI7QmGtUB46Z+otm469c3HUykDP80p+X0M5NtpGIlZhiVotg6JrMBwVVXHHfGu5WM6irE1eN5dzPYo7cyblnd2dyDgf8q5AxaP/XgeyGLrOh3J4yuS8OcW4pevEa/YojWuvPl6j4X3EtQkPKdW272Ux+4OE=;H4HNRUUQJuh21m8IkAB2Cw=="
 ---

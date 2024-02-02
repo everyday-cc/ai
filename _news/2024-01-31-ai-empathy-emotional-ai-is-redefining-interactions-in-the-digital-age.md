@@ -47,22 +47,6 @@ related:
         width: 855
         height: 570
         isCached: true
-  - title: "Revolutionizing Marketing: The Convergence Of Data Science And AI"
-    excerpt: "It's like having a high-powered microscope that reveals the intricate patterns and trends of consumer behavior."
-    publishedDateTime: 2024-01-28T17:38:00Z
-    webUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2024/01/28/revolutionizing-marketing-the-convergence-of-data-science-and-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b69ee7487bbaa2db1536d8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
   - title: "Four steps for integrating generative AI in learning and teaching"
     excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
     publishedDateTime: 2024-01-29T00:00:00Z

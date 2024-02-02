@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Utilising active microparticles for artificial intelligence"
-excerpt: "Home > Pressemitteilung: Utilising active microparticles for ..."
-publishedDateTime: 2024-01-29T11:20:00Z
-originalUrl: "https://idw-online.de/de/news827703"
-webUrl: "https://idw-online.de/de/news827703"
+excerpt: "(Nanowerk News) Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so ..."
+publishedDateTime: 2024-01-29T00:00:00Z
+originalUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64528.php"
+webUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64528.php"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: idw
-  domain: idw-online.de
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "http://www.idw-online.de/de/institutionlogo30472"
-    width: 792
-    height: 278
+  - url: "https://www.nanowerk.com/nanotechnology-news3/id64528_1.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
         height: 360
         isCached: true
 
-secured: "tLJRoo7Z+b3KYcFro97bzKl76qsnFzteFOTDB52DCizKjnKO2YnaDOD8b86Oi+MHscMm9PlJLMgv5arpzni3097aZ2jtDYmJaU27INk2Dqy3JwDMAhHleG9K8yFHy9foA/NM/vn2bkvlslRq5fH15AV55VL335bmRrIUPDcyav4LEo8w0IG9HuvOYcGbYkN0wJSpNYDg7YGd4QnFcJSRXdY7sfkvFmuAyWLwP5tjJdwkFyhJOZGaNis9CgNKf+CLjQz+Z+6YtGWrZlQYd8+swWmMlspkuvQ833Aw9g/HMrRotbNx975pog8ZTWpBjgsW5YjEYEAgmSJMbFXnvmowQE2NPOFcECdahOXKHNZU8wc=;uPOXN9kHAOW7ISk59VlMIw=="
+secured: "DOPkiY2j1CH2RXBC9riPb0WoNNvBFhnFhJ/VcD1NWWANy7bR5xXkOf1ue2ZDagnp69mbO7JoWnJTUbfq+bx02pBkfZ6/VGcumiqaMJm8F7QbYg41Vn7GtvCcWxTw495Dgv0M+hfhCVqxjGOZDNOadc9yuJD88jZ4lIuw2LoJhYVPBv7hsR3SDP42yowNRjpI5Q8RmuLAythzxx3Tpg0CD9Zzo5qftNcwqxgCBh2re2ppzA4eG+PTaTBIazd4PBxBUc2J4nSLzaLXsoSOkfrjIps2ejvPtdocgjGzC0XyCmSAVC6X9WzlUjqawA1T28Ncs+XkhzpuW4Vy3jbyKvWdrT9q8no0G+rGwAgKjTHOsqg=;q8aCGJL0K10qEIXOxcLAlA=="
 ---
 

@@ -28,6 +28,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Summarization and ChatGPT: a look at Silverman v. OpenAI"
+    excerpt: "Larrea, Daniel M. Barabander and Lucille Dai-He of Cravath discuss questions raised in the case of Silverman v. OpenAi, Inc. over summarization with ChatGPT."
+    publishedDateTime: 2024-02-02T16:35:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/summarization-chatgpt-look-silverman-v-openai-2024-02-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "OpenAI in talks to invest in robotics startup Figure — could we see ChatGPT powering robots soon?"
     excerpt: "During a recent episode of Bill Gates’ podcast, OpenAI CEO Sam Altman revealed that the company is already and would continue to invest in robotics companies."
     publishedDateTime: 2024-01-31T13:02:00Z

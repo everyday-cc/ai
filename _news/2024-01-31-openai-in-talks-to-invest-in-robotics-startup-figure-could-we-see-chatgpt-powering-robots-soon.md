@@ -30,6 +30,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Summarization and ChatGPT: a look at Silverman v. OpenAI"
+    excerpt: "Larrea, Daniel M. Barabander and Lucille Dai-He of Cravath discuss questions raised in the case of Silverman v. OpenAi, Inc. over summarization with ChatGPT."
+    publishedDateTime: 2024-02-02T16:35:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/summarization-chatgpt-look-silverman-v-openai-2024-02-02/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Italian Regulator Again Finds Privacy Problems in OpenAI"
     excerpt: "ChatGPT maker OpenAI has 30 days to respond to the Italian data regulator after an investigation by the agency concluded the company apparently had violated"
     publishedDateTime: 2024-01-29T22:53:00Z

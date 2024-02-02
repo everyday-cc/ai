@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Databricks Boosts Natural Language Processing Capabilities With Latest Acquisition"
+    excerpt: "Data lakehouse platform developer Databricks has acquired Einblick, a natural language processing technology startup."
+    publishedDateTime: 2024-02-02T17:16:00Z
+    webUrl: "https://www.crn.com/news/software/2024/databricks-acquires-einblick"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 13
   - title: "Exclusive: Databricks is acquiring AI startup Einblick as CEO Ali Ghodsi embraces ‘asymmetric’ strategy"
     excerpt: "You may not know much about Databricks, but you're going to hear about the AI analytics unicorn a whole lot more this year. The company is being closely watched as one of the year’s top IPO prospects."
     publishedDateTime: 2024-01-30T14:36:00Z

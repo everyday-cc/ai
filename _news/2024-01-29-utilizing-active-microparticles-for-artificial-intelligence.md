@@ -25,18 +25,18 @@ topics:
 
 related:
   - title: "Utilising active microparticles for artificial intelligence"
-    excerpt: "Home > Pressemitteilung: Utilising active microparticles for ..."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://idw-online.de/de/news827703"
+    excerpt: "(Nanowerk News) Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so ..."
+    publishedDateTime: 2024-01-29T00:00:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64528.php"
     type: article
     provider:
-      name: idw
-      domain: idw-online.de
+      name: Nanowerk
+      domain: nanowerk.com
     quality: 39
     images:
-      - url: "http://www.idw-online.de/de/institutionlogo30472"
-        width: 792
-        height: 278
+      - url: "https://www.nanowerk.com/nanotechnology-news3/id64528_1.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Utilizing Active Microparticles for Artificial Intelligence"
     excerpt: "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with electricity but with so-called active colloidal particles."

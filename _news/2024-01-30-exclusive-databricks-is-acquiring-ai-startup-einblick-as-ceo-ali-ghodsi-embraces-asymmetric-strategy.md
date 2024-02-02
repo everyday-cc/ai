@@ -32,6 +32,15 @@ related:
         width: 911
         height: 448
         isCached: true
+  - title: "Databricks Boosts Natural Language Processing Capabilities With Latest Acquisition"
+    excerpt: "Data lakehouse platform developer Databricks has acquired Einblick, a natural language processing technology startup."
+    publishedDateTime: 2024-02-02T17:16:00Z
+    webUrl: "https://www.crn.com/news/software/2024/databricks-acquires-einblick"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 13
 
 secured: "2BFbuJKLFieJMbfLPkBtv3hIzYr6OEPPZe0iLOqlK2tmeFTU21F+dk31e40b/9NjHr2fd8C2n60DsyQFEFvxsde+uSK50gr01uXfDYliQ+GoXn3Ea0C5oCyh8AtpZl31rYheSV+zXqPmEQev6bfgIpCc/trxoyYcZh9X7TYeBBbwbXzxQyLoAZE8UPVh//ysUAKqn3CX3mOyc5kk/3BcbSBlRQXPbR4Y0+rtw0bkLef/n7ZucakRyN50dI9J+1hG0f+vDvkRk0uxxTsvxt4jWfZnTaYtNtgWBGo7VDVnl3CwWVdBSK09hVyqK87Amhb6VqP4YSHP8RcvJOr4cOYwL4NJ34ao0I+Wj5x96ozcbPM=;t6zuwVrjEi4FZsVYKreGAw=="
 ---

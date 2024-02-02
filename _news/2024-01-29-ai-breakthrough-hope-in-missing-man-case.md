@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/articles/cq578jyexzno.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cq578jyexzno.amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using artificial intelligence in business"
+    excerpt: "(MASS APPEAL) – AI, or artificial intelligence, is everywhere and growing rapidly. But, as Jessica Curtis found out, it’s not just a tool for big corporations. It’s a powerful tool for small to medium sized businesses as long as they use it in a safe ..."
+    publishedDateTime: 2024-01-30T19:17:00Z
+    webUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/"
+    ampWebUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 61
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "H2O.ai Announces Breakthrough in Reducing Cost of Inferencing with Snowflake Integration"
     excerpt: "H2O.ai, the open source leader in Generative AI and machine learning, today announced a significant breakthrough in reducing the cost of inferencing through its integration with the Snowflake Data Cloud. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20240129636509/en/"
     publishedDateTime: 2024-01-31T18:29:00Z

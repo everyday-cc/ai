@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 710
         isCached: true
+  - title: "Spatial Computing: I Picked Up My Apple Vision Pro Today And Here’s My Experience"
+    excerpt: "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making."
+    publishedDateTime: 2024-02-02T17:49:00Z
+    webUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/"
+    ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/spatial-computing-i-picked-up-my-apple-vision-pro-today-and-heres-my-experience/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds"
+        width: 684
+        height: 900
+        isCached: true
   - title: "Dawn Rising: Jumpstarting a new age of AI supercomputing in the U.K."
     excerpt: "Dawn vastly increases the U.K.’s AI and simulation compute capacity and supports some of the largest-ever computing workloads for scientific, industrial, and academic research applications. It’s expected to drive discoveries and advancements across a ..."
     publishedDateTime: 2024-01-31T00:00:00Z

@@ -71,6 +71,20 @@ related:
         width: 1260
         height: 504
         isCached: true
+  - title: "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart"
+    excerpt: "One of the most useful application patterns for generative AI workloads is Retrieval Augmented Generation (RAG). In the RAG pattern, we find pieces of reference content related to an input prompt by performing similarity searches on embeddings. Embeddings capture the information content in bodies of"
+    publishedDateTime: 2024-02-02T17:46:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-embedding-drift-for-llms-deployed-from-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/18/8-998x630.jpg"
+        width: 998
+        height: 630
+        isCached: true
 
 secured: "0SC0jNzxIGU4XCvNZdTTbc5xh8ZJ+uO6P4Pyx72xB7Z1uqPAE9l3ElMveisHBZEPgMC3LVhhtP1+bYc41lzcX5vbJezQW452rv048xWQLTZvL5i+9ORIQeeU9ZWreY18fQI+qrP7MYqoVRscD72vwmvNHJSLxPGE1uOFkMRUfhmGlbpxrRQzjPjK9pe0j3+BbGMTsM8CBYulvtkLeqP3oioiZwUi5hMpBQF8XqwavHg82pje8owXMnrSh5KgUPXtGqHWJonMsQ6ydTHRHZ5/fQujtZDIWinogNXRn3aln/WoKEY+PHgmJBgs0YCNG38E4t1AjISveq4azcIp9KItVSMl4jVgulAuq/nGlI30LUo=;x/r3dJdJsEu5+0M42eRSdw=="
 ---

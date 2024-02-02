@@ -202,6 +202,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
+  - title: "Microsoft set for AI-powered revenue surge as stock pulls ahead"
+    excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth ..."
+    publishedDateTime: 2024-01-29T11:10:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-set-ai-powered-revenue-surge-stock-pulls-ahead-2024-01-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
     excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
     publishedDateTime: 2024-01-29T11:09:00Z
@@ -235,22 +244,6 @@ related:
       - url: "https://static.digit.in/Google-Bard-vs-Microsoft-Copilot-3.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "X blocks searches for Taylor Swift after explicit AI images of her go viral"
-    excerpt: "Social media platform X has blocked searches for Taylor Swift after explicit AI-generated images of the singer began circulating on the site. In a statement to the BBC, X's head of business operations Joe Benarroch said it was a \"temporary action\" to prioritise safety."
-    publishedDateTime: 2024-01-28T17:42:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68123671.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68123671.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 55
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/CF56/production/_132487035_gettyimages-1917155488.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "AI advances lift Microsoft revenues to $62bn"
     excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"

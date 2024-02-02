@@ -35,7 +35,7 @@ related:
     provider:
       name: scmp.com
       domain: scmp.com
-    quality: 75
+    quality: 77
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356"
         width: 1200

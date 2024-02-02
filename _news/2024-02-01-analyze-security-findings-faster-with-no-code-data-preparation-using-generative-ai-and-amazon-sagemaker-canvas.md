@@ -58,6 +58,20 @@ related:
         width: 1260
         height: 504
         isCached: true
+  - title: "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart"
+    excerpt: "One of the most useful application patterns for generative AI workloads is Retrieval Augmented Generation (RAG). In the RAG pattern, we find pieces of reference content related to an input prompt by performing similarity searches on embeddings. Embeddings capture the information content in bodies of"
+    publishedDateTime: 2024-02-02T17:46:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/monitor-embedding-drift-for-llms-deployed-from-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/18/8-998x630.jpg"
+        width: 998
+        height: 630
+        isCached: true
   - title: "Talk to your slide deck using multimodal foundation models hosted on Amazon Bedrock and Amazon SageMaker – Part 1"
     excerpt: "With the advent of generative AI, today’s foundation models (FMs), such as the large language models (LLMs) Claude 2 and Llama 2, can perform a range of generative tasks such as question answering, summarization, and content creation on text data. However, real-world data exists in multiple modalities,"
     publishedDateTime: 2024-01-30T17:07:34Z
