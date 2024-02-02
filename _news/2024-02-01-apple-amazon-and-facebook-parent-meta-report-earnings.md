@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Facebook-Parent Meta Declares First-Ever Dividend"
+    excerpt: "Meta Platforms announced its first-ever dividend of $0.5 per share and beat expectations for fourth-quarter revenue on Thursday, sending its shares up 8% in extended trading. It also authorized an additional $50 billion in share buybacks."
+    publishedDateTime: 2024-02-01T21:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-01/facebook-parent-meta-declares-first-ever-dividend"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "As Facebook turns 20, politics is out; impersonal video feeds are in"
     excerpt: "Facebook and its imitators have done more than make money. Social media have become the main way that people experience the internet—and a substantial part of how they experience life. Last year nearly half of mobile screen-time worldwide was spent on social apps (and more than a quarter of waking hours were spent on phones),"
     publishedDateTime: 2024-02-01T10:19:00Z
@@ -32,20 +41,6 @@ related:
       - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_FBD001.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facebook turns 20: but who is left to celebrate?"
-    excerpt: "Facebook celebrates its twentieth birthday this weekend. But with younger audiences favouring newer platforms, does anyone use it anymore?"
-    publishedDateTime: 2024-02-01T11:00:00Z
-    webUrl: "https://startups.co.uk/news/facebook-turns-twenty/"
-    type: article
-    provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 24
-    images:
-      - url: "https://images.startups.co.uk/wp-content/uploads/2024/02/Facebook-uninstall-1.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Facebook owner Meta to pay investors for first time after profits triple"
     excerpt: "Meta, which owns Facebook, Instagram and WhatsApp, will issue its first dividend, paying investors 50 cents a share."

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T08:01:00Z
 originalUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-platforms-ai-outlook-might-overshadow-its-results-2QxTIz4bS7n12gObIZad"
 webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-platforms-ai-outlook-might-overshadow-its-results-2QxTIz4bS7n12gObIZad"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Meta AI
   - AI
+
+images:
+  - url: "https://images.barrons.com/im-07628977?width=780&height=520"
+    width: 780
+    height: 520
+    isCached: true
 
 related:
   - title: "Meta Platforms is primed for a big quarter with ads, AI push"
@@ -36,6 +42,6 @@ related:
         height: 640
         isCached: true
 
-secured: "jIvLcGRZFNu/P9K1mOcohSNbI5DxRs761QXKSgZw2M57BCVLasYKOx5cO1ou8Tk074rVTBZ9brYjk9UO/3Pw6+qLEg2UdUXGIg+1fu4e0QQuonzL3EtK8aPQ9WZbkr28dytTCnT3GbXR/bCS6IneHOhQdeWF0V7zXSdYe0L9HeUhaG/rznsAuQhqak3ISQYyprJAFsxcsY6IsUD3JroGuplsJmy1E+tfSuOQQIdiNx8HED16JIpOrLiURUvd4zjfmaEEXh7fppvnzH89qYCVlxmmoSEr7XS+qgRQ9rEGK6Z4gWoQNpZeOuB4jtkfo3ysf9wYp4JFCq0O7VI25zoacYQyK/9rCdBwqqrmcYy02ts=;JXJtYYfscPP4ABvO1g4Ljg=="
+secured: "YnwnsAhC82uiu954yet5QpuqcivM9pJQfcnRggAn9txzz+VpDZaJHpvwo0BuvguUOC29Rp9ZU8Zp9Mbmro9T33LnA14v4qlPEg8/EdvRslXWp7dCkTrDlgNVJOEoDgUtjPnM2/BmRzPl9vTLO6/ejtwIqRubV2Fo/FcdcdOTTMyf+4xYXxnRt1cz4cuVP9GKJd285BacBFo6r4adCnB8bJJRh80eRWMfbyLHiLLAqLgfEDet2+A8GgCA9NvBFW0xjHJFHsoVfjYDNZR+8pM3jfs+edVt12L7LojvUdR4qinb5UsLAsfEAFA1DV8qtKpWLcZYJpYOusKRFIrARmpCxPG97dqEPR9yVaxnh5ykejU=;zxWU6j+ixz7o3R/TRyQDBg=="
 ---
 

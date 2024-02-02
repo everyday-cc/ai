@@ -5,10 +5,12 @@ excerpt: "IBM has doubled capacity in its Vela Cloud, part of the IBM Cloud offe
 publishedDateTime: 2024-01-31T18:39:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/"
+ampWebUrl: "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65aea124b07c8335b8db3c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 807
+    isCached: true
 
 related:
   - title: "A Year In Review Of IBM’s Ambitious AI Strategy"
@@ -33,6 +42,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "NTe1yp3InaHLxs5m5wQ16vjT7tUJsapSkn4fYC1rK7UBQjM9lpukftQSJEzHP95a7QB+J6mbpNZB+k2uweLcBNLaa/oDmNwSEdWxmfLhJoX4nU5FsQxKnGYC5naD/FryX94BqwAZ9oxsUQdJ1/BX5lIGt9Me2x3OWV5nUVRbJ0qiDFXggqA3U2SngE20zASDs0NDs4O0t2COKb6Ede3Nuq0chjtYbIyWx7zWea13vgfxlz26Ene7fzsH0JQ8x3KOvAJywyVed8bbEi67y1AG4bgqJy47QidAx9OtiAQZxLfgWuGjarqqhP0oAFJdlzHgWrP7gVyEkpzkYtI4CTW+JMhQQgUNKp4Usn09kpOysbHvHvGIaF+6hi4+yKIFJhbWUPNSc7roPdiTKIpY6yXp1sz4GMjHxQWqRO/P93iCK4SL/XSpNBWsJddH/UgBgVHYImsVRHRiS0Ntwp4R5o23mCBXkt5thHJx3uF/ceFZ7M/pWFWfLHcg2JOw6yW/05quMk8AWAtuLJe2Qd5dEVZ60g==;IF4S/+5yzJXOSaJB0ngffA=="
+secured: "txdw6ExmiwyJmGPNyUSngu6T8WoDSJ6LpIDDiT2xS+fG3Sw84BGz0hUv2SYRtZnBn0d+0IKUlBgdfutP/faX265Z2n0Hju1l0NNu//1B+3ptK2heEgeWMZROk0YPlB9FRf5LhK7KOETtQ5GCuh3tkU1V/YtfR9ug6t28CHb5yUtp8qa7z4LUxe3wj1Scug7fWWHu2VPB5P4rySWA9Cv60BosAf6O70Hg5iX5tN1qQU6TRIgQS15bPlnn+m2WHWQ+6+WFz6ZSRBpoWI/hpCAoZUME1JRjKiSrnUvdxiAtm1Dme82jrx0xMVzWmQns/rhfqD/xkqhMR6LSfACkjixBU8V6eyyvH1cFs1gQynIQL9A=;roz4Kpd2uwnaII+4rLl1VQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/meta-platforms-to-depl
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta to deploy in-house custom chips this year to power AI drive: Memo"
+    excerpt: "Meta plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its AI push, according to an internal company document."
+    publishedDateTime: 2024-02-02T04:20:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo/article67803352.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo/article67803352.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo/article67803352.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/g0fqfo/article67803355.ece/alternates/FREE_1200/2024-02-01T213729Z_1538148217_RC2WH3A42MA7_RTRMADP_3_META-PLATFORMS-RESULTS.JPG"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Preparing For An AI-Driven Future In Chips"
     excerpt: "Designs need to be flexible enough to handle an onslaught of continuous and rapid changes, but secure enough to protect data."
     publishedDateTime: 2024-02-01T08:01:00Z

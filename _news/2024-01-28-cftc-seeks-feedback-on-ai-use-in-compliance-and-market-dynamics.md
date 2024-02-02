@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "CFTC Requests Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets"
+    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/cftc-requests-comment-use-artificial-intelligence-cftc-regulated-markets"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 10
+
 secured: "DI2PyFmaicUhVu4JpZ2HH+CnP0IwDkjArVpXTZkJpe2cbZqIe/1C/XZWNxPYoLGBxSFwu/hWWxHckz0JmyNLycDiPAgUcvwhDbDILHa1ssgkfR+UDRzbYBF4sQbyzhWB2613wIzWNpHIgqE7cVaK8GxcWJtaJ95znxhlrhM5/aDdJ7QN+bmUseBt1MM3Fq5NSa5Ds06Elsp1XaAigTlzytsVHYNUALPhqKZ1ng4/xRLrqOKWFXfVgWY2M7DOKe8drKW4iy5K2MBTMBiugtBWLkC43YYJcTGQew0LLumSgvS5z3HI+RvFERNeW0WCKKpSEfw/yzAHC3my5UpBCqs89KsWz25ROQK7QP09at1YtXbVPtLMkdSFxOSiR85hEtNhpF5TSRbmNuoEin8WtrzuQFatlsOHYykXAlh5KdKELjuQmNBiINxFTqygSXI8RMdrPjvNjW1Si1rTjzr3r7Mjje5HfpdjZ+T1Y5UwNKmvGFApy2OjS8DtixVKu0z5hV1WNeLcxXQc1uzIYyGyExmJ8g==;uE7GvJ8a0GdTpRSAB3tXXg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64546.php"
 webUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64546.php"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 534
     isCached: true
+
+related:
+  - title: "Machine learning guides carbon nanotechnology"
+    excerpt: "Carbon nanostructures could become easier to design and synthesize thanks to a machine learning method that predicts how they grow on metal surfaces. The new approach will make it easier to exploit the unique chemical versatility of carbon nanotechnology."
+    publishedDateTime: 2024-02-01T13:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/01/240131144507.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "dnXZtr3TL8uuMHuRrgSm15I3kEwIvnkU2ncZRJ9YwsGfZ+hZJvEYwm0RysATJ9MRpGfl9IKCd7RMOo5j+hrALDZZF/Jd6UxbdeFP35ffc0f5Txmt2SpO6ylAr0OmjQg1xLfczmJ3lc6gapuHkXvqiGD6gxloborYrSsjfWdlU5A6rDtHsrYZC7N/pwdgkZchi1sLykHb2SjTOMD2GGTt1IY6bOdAZPZ0ixqr0pO8TADb17WEhm00wTOqNMGSMSBN87C/DxsZZrcqMoHabwKovpt97YJoss6Jdpucusu+5bl7V5OKmIZ7oNJH1BQDMU7A/AMuZQbH3VVbrK07ei00/RAzTyL8fDiqeBMiM/76p38=;vvBaDtlcpU0jj7A4gjw5Lw=="
 ---

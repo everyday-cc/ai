@@ -27,17 +27,17 @@ images:
 related:
   - title: "Quaker recalls another granola product over salmonella risk"
     excerpt: "(CNN) - Quaker Oats is recalling another granola bar over possible salmonella contamination. The Quaker Oats Company says the recall has been expanded to include its Quaker Chewy Dipps Llama Rama. The company says the bars were discontinued last September and they have best before dates of either Feb. 10 or 11 of this year."
-    publishedDateTime: 2024-02-02T02:49:00Z
-    webUrl: "https://www.wmbfnews.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
-    ampWebUrl: "https://www.wmbfnews.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wmbfnews-com.cdn.ampproject.org/c/s/www.wmbfnews.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
+    publishedDateTime: 2024-02-02T04:49:00Z
+    webUrl: "https://www.fox8live.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/"
+    ampWebUrl: "https://www.fox8live.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
+    cdnAmpWebUrl: "https://www-fox8live-com.cdn.ampproject.org/c/s/www.fox8live.com/2024/02/01/quaker-recalls-another-granola-product-over-salmonella-risk/?outputType=amp"
     type: article
     provider:
-      name: WMBF News
-      domain: wmbfnews.com
+      name: WVUE FOX 8 News
+      domain: fox8live.com
     quality: 44
     images:
-      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/3WKGQGQ7IRDGRG2TEVFY6ZOCI4.png?auth=647cf75fd92c4a37f27887b62eea18bd496ff926a68ac5fbdb31350d0bbf5a80&width=800&height=450&smart=true"
+      - url: "https://gray-wvue-prod.cdn.arcpublishing.com/resizer/v2/3WKGQGQ7IRDGRG2TEVFY6ZOCI4.png?auth=647cf75fd92c4a37f27887b62eea18bd496ff926a68ac5fbdb31350d0bbf5a80&width=800&height=450&smart=true"
         width: 800
         height: 450
         isCached: true

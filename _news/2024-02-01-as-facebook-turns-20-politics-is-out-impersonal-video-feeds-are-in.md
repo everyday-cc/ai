@@ -7,7 +7,7 @@ originalUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20
 webUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook turns 20: but who is left to celebrate?"
-    excerpt: "Facebook celebrates its twentieth birthday this weekend. But with younger audiences favouring newer platforms, does anyone use it anymore?"
-    publishedDateTime: 2024-02-01T11:00:00Z
-    webUrl: "https://startups.co.uk/news/facebook-turns-twenty/"
+  - title: "Facebook-Parent Meta Declares First-Ever Dividend"
+    excerpt: "Meta Platforms announced its first-ever dividend of $0.5 per share and beat expectations for fourth-quarter revenue on Thursday, sending its shares up 8% in extended trading. It also authorized an additional $50 billion in share buybacks."
+    publishedDateTime: 2024-02-01T21:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-01/facebook-parent-meta-declares-first-ever-dividend"
     type: article
     provider:
-      name: Startups
-      domain: startups.co.uk
-    quality: 24
-    images:
-      - url: "https://images.startups.co.uk/wp-content/uploads/2024/02/Facebook-uninstall-1.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
   - title: "Apple, Amazon, and Facebook-Parent Meta Report Earnings"
     excerpt: "Earnings reports from the rest of Big Tech are nearly here. Amazon.com, Apple, and Facebook-parent Meta Platforms provide updates after the market close today."
     publishedDateTime: 2024-02-01T08:01:00Z

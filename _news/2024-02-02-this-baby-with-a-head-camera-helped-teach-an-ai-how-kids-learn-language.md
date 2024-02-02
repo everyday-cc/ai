@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Want to Learn AI? AI will teach you"
-    excerpt: "Companies are having to get their workforces up to speed on artificial intelligence, and fast. And it’s looking like AI itself may be teaching the class."
-    publishedDateTime: 2024-01-31T00:22:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "This AI learnt language by seeing the world through a baby’s eyes"
     excerpt: "An artificial intelligence (AI ... The researchers trained their neural network — an AI inspired by the structure of the brain — on frames from the video and words spoken to Sam, transcribed from the recording. The model was exposed to 250,000 words ..."
     publishedDateTime: 2024-02-01T00:00:00Z

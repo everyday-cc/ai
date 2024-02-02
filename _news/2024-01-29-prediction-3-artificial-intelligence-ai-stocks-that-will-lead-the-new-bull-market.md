@@ -37,6 +37,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 29
+  - title: "2024 Predictions: What to expect in the year ahead"
+    excerpt: "Insurance professionals face a daunting year with a myriad of challenges, but are hopeful they can capitalize on potential opportunities."
+    publishedDateTime: 2024-02-01T11:31:00Z
+    webUrl: "https://www.dig-in.com/news/inflation-storms-legacy-systems-and-gen-ai"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 24
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/4695b06/2147483647/strip/true/crop/149x136+0+0/resize/740x675!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F20%2Fcf%2F6e63edac455a8ae049ffad826a47%2Flooking.jpg"
+        width: 740
+        height: 675
+        isCached: true
 
 secured: "T183tLq9AMpgZgmeHXboT0M86xNAZvC8RpATyyp9OdJNJzGe33iWnVyErWgp587mIeBQYNEfRAISxsjOd+h2HUKcpyIgijjeUDahLquUpFPcRMRzh+koax7PkwanL/mPKDLOf3SDzb0F9zW7iiFKxB/u/2y/zXFuJFwrQPsNmXwPHPOu3Mp9qfTnHj/0IlC9lQCF4KEFQ2Dk1h++zjxUo/Dk1F2+dDLsYJaETrA0Gu5MV7dipo2zq4tnmJh0/1+Ma6xIm6Bjcs3AB1uxYd2EIUpgvwuG6iGNsaBcSCZjfejvgelwqif2JXlC82cV4i8IJfLfKnrWe5zbJCL4RlNwoVnalXFEdNtCk65ZYFCe9bUi9zTudEKylLLTC8lF4/lx0FRkUsziXeHfCM4JG93GVN8NEzbvXkjwV7HnDFGjq34LjKDnJdFvoQb1mGFLp/G5wczs8YLwtG9X+ZBowpsxXmDpeG631FiW8eoCejPgUlPbjRp/fYlTZysMAPbayv8W7igExUYLr/AnTRXggGME2g==;OpQP19/ikEP8FMRADKYmFQ=="
 ---

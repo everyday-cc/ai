@@ -10,7 +10,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -180,6 +180,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-ibm-doubles-down-on-its-ai-cloud.md",
+      "title": "IBM Doubles Down On Its AI Cloud",
+      "excerpt": "IBM has doubled capacity in its Vela Cloud, part of the IBM Cloud offering, to enable its clients to refine more and larger models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aea124b07c8335b8db3c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
+      "publishedDateTime": "2024-01-31T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -486,7 +539,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1375,58 +1428,6 @@
         "name": "The Grand Junction Daily Sentinel",
         "domain": "gjsentinel.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.md",
-      "title": "SK Hynix swings to fourth-quarter profit on strong AI chip demand",
-      "excerpt": "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107094418-1658892335251-gettyimages-465379179-SKOREA_HYNIX_EARNS.jpeg?v=1706139305",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
-      "publishedDateTime": "2024-01-24T21:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

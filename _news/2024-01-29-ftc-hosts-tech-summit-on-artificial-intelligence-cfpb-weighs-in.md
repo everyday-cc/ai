@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artific
 webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artificial-4803308/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,48 @@ images:
     isCached: true
 
 related:
-  - title: "CFTC Requests Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets"
-    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/cftc-requests-comment-use-artificial-intelligence-cftc-regulated-markets"
+  - title: "FTC Hosts Artificial Intelligence Technology Summit"
+    excerpt: "The Federal Trade Commission (FTC) held a virtual FTC Tech Summit focused on artificial intelligence (AI) and AI's impact on competition and consumers on Jan. 25, 2024. The Tech Summit began with the announcement that the FTC launched a market inquiry into ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-artificial-intelligence-3470134/"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 10
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14849_2738.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "VW Opens AI Lab To Create Next-Gen Technologies"
+    excerpt: "Soon after Volkswagen announced that the Mk8.5 Golf has an infotainment system with support for the ChatGPT AI system, the carmaker opened a dedicated artificial intelligence lab that will serve as a “globally networked competence center and incubator” for next-gen technologies."
+    publishedDateTime: 2024-02-01T12:35:00Z
+    webUrl: "https://www.carscoops.com/2024/02/vw-opens-ai-lab-to-create-next-gen-technologies/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2024/01/VW-AI-2.jpg"
+        width: 2250
+        height: 1265
+        isCached: true
+  - title: "When It Comes To Generative AI, The FTC Has Big Tech In Its Crosshairs"
+    excerpt: "Which is why “centralized, shared resources for improving the safety and quality of AI models” is on Frankle’s wish list. Anyone could pull a data set off the shelf, whether they’re a fledgling startup’s founder looking to fine-tune a model ..."
+    publishedDateTime: 2024-01-29T10:50:00Z
+    webUrl: "https://www.adexchanger.com/ai/when-it-comes-to-generative-ai-the-ftc-has-big-tech-in-its-crosshairs/"
+    type: article
+    provider:
+      name: adexchanger
+      domain: adexchanger.com
+    quality: 37
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2023/09/adx-social.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "pcTw0BGr8/ghPFgunSTP5gzm/Zwl+bNLh4OjnYzzolMkvVL18C14cAhEDWzzWaKFsuR86zlD88FQSITokJU10+152vQT55DwDlz1ACK2ScqPUvhOkfj6Hv4M/eeh2yZuosnOUhmITwJrhCQvy4yf5CEshqNdanlhdWzSvU80loEz6OspQA6THaO1EKjqPAfWKXIGiL7B8ZmujDcOA1+95J4JfTfoz9AXSJYFK8X//hhrayy4bohBn1r8sLO1JTiksi35c3FWVe9Xb1vG99OEzl5yPx9rT4g4QV0xFF7kh6c5nwNLfdl7fZ7hwizArBdI5gWUYEJrZitMAFkZbcpVidCo1sb/uz0WTKoNhnMcXq8=;enVj7fCzzvd/Sx2snRkPrQ=="
 ---

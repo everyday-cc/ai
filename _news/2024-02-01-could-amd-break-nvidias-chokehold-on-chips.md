@@ -41,6 +41,20 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Meta plans new in-house AI chip 'Artemis' to break away from Nvidia"
+    excerpt: "Meta, the world's largest social media network, has been investing heavily in boosting its computing power to support its ambitious AI vision."
+    publishedDateTime: 2024-02-02T02:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-plans-new-in-house-ai-chip-artemis-to-break-away-from-nvidia"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/02/image/jpeg/3BYqG1Ho4scPJvxuv4RJ0uCyZIpI9DYqaKhfo0oY.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z
@@ -138,6 +152,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 12
+  - title: "Meta Boosts Its Spending Plans for 2024. It May Be Good News for Nvidia."
+    excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
+    publishedDateTime: 2024-02-01T21:36:00Z
+    webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 3
 
 secured: "HFlFIQQGAn+vpYyWBqd0/IRKKG9DB6QTOttb331dBVj+fuqtKu2XRRWhAB2w6J75i9cpKlcf8nth2DVveIsx76HCNZ/nLjZt3ocbU4VMMADSVNeooptBcJGQhvMSrRB/td7KU2OPdWdYQoQjPeoiCBesjRBZPlHEskPAY0Gtvu/pNQHvaBBafHRFCre+kMjQkE8Y39tecKqwC1WTDKgrkuXpSYksArh65jdZj65luFmt45PvD/JfvVZan49auJtV6MU6yQEQCOSFfQOQDcxoC8OygSSYnoLxs3lKevvgFcY5QJRsrFBWIRk2OVjCFueKq/0/zmqFT+g8reGIVKQzuc/cusrKe59hhqDxJd1BH6M=;hgfybDGWo+jA5k/WTn/taA=="
 ---

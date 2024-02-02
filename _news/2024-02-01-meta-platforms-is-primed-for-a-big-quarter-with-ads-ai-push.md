@@ -39,7 +39,12 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-07628977?width=780&height=520"
+        width: 780
+        height: 520
+        isCached: true
 
 secured: "lBWpxDdaooQC7KQvRFRZgUtgioVi55bALO66o6jVbL67LG+45B7Lmx00cRummh7kJC07nbYz2FoAtUx6VKU7MkZ4Pxrs/vZRsAyKhRYQp9472zcuD9sgwND6ykWHJLVyJbSmF8wT9hkyZoM3qgh4AHkgXA/luiHO8ezlA7DskE6gYdiPrZjnPRbxetciNuJ4KUSW2UgywBjIDesD1SCain1A9qm/OqiT4Yb+R8sCrkZ9hQKE/xAaNY3GJevSodpQtS8ouqNOjOisVjwtlo51v4hUq4e2oPPGnBLp3bSxYlaNec5m6+g1wcpkYzglKd78RY6eRhNmRrc32OursUy4v3Z1us58Z9Wv5vH4/NL5bo4=;maYZnLAgFQRqWBfRWdj9uQ=="
 ---

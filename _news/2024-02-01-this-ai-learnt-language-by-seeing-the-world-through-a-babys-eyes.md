@@ -41,17 +41,6 @@ related:
         width: 466
         height: 621
         isCached: true
-  - title: "Want to Learn AI? AI will teach you"
-    excerpt: "Companies are having to get their workforces up to speed on artificial intelligence, and fast. And it’s looking like AI itself may be teaching the class."
-    publishedDateTime: 2024-01-31T00:22:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f"
-    ampWebUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
-    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 39
   - title: "A Camera-Wearing Baby Taught an AI to Learn Words"
     excerpt: "Most machine-learning models rely on mountains of data to replicate human text, but new research suggests the recipe for learning language might be simpler"
     publishedDateTime: 2024-02-01T19:00:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind uses AI to tackle neglected deadly diseases"
 excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
-publishedDateTime: 2024-01-28T08:29:00Z
-originalUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
-webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
+publishedDateTime: 2024-01-28T08:00:00Z
+originalUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
+webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
 ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 840
         isCached: true
 
-secured: "Y0j0iTC9BA8Z7E7PEyO6r1TH0xUr/PfwfJKZTIIo+lFHvd/HRvo/UfuDyp/YlnfudMKXpv6o43DyAsJyHL4nYw58O1lZv5J25gPEYGSx3NJYZrlsnr9aSDr+Dd1UC500ddZA8r1aWBBvt9NnnBKeIGJVsHjKPnUIn4yHRPs6vEPwnWXbI0nwlQLVJ2L4lGbk+TahonaA0Fs6kyX0CaNzFA8W3KQ2ZSotCekDRjy09dQ4HNxZUv7uQjd33ELYQIZSnQ+6QMCMsxHtD+tWPA1m2Mg9ZhgHxrICbnfgMsuozBSZG574mHRqNMn7oUwLWsLquiEKkSpzGM1xSLtLY+/6jeRpg4/99BXtKEHSqnsiEoM=;BeaYWkUp5VfzTGhfrL6EMg=="
+secured: "eUQ+pFv02Qa/WmLNZMXst9Ke9CjXIObwxSczNPm85/ghj2aaU8IsTl4oI/Q1RGpp5fy3ZgOrR+sfYzyqfyNvQS5+hOz7B+DBOX2uQ0rJVPa80SzekYik0UiZlQk3Xu8qTNIT8ULA/5z3fangGTVhcDAOg+nBtL1dc2/xJfifTCTT/kS9r3PyDrSzye2poMofQ0CSFWYOvIRjKqTzA2Dt6kqrUxNH80pyL1RXy8EhrdJJknNREtk/4lTknup7lire3FuqEO0t9O3xzwBi7heQBELjer30UoN43tg2mCzdJAnhExvYNSyUck+RCE4ABqTsrVhr+Y0giHGFhVTmJcFukDWboPOgubometqErRtJjZw=;94ATyuKRQURoqTdrPdeDJw=="
 ---
 

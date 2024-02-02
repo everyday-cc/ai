@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta plans new in-house AI chip 'Artemis' to break away from Nvidia"
+    excerpt: "Meta, the world's largest social media network, has been investing heavily in boosting its computing power to support its ambitious AI vision."
+    publishedDateTime: 2024-02-02T02:55:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-plans-new-in-house-ai-chip-artemis-to-break-away-from-nvidia"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 56
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/02/image/jpeg/3BYqG1Ho4scPJvxuv4RJ0uCyZIpI9DYqaKhfo0oY.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z
@@ -138,6 +152,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 12
+  - title: "Meta Boosts Its Spending Plans for 2024. It May Be Good News for Nvidia."
+    excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
+    publishedDateTime: 2024-02-01T21:36:00Z
+    webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 3
 
 secured: "b23Y76xzxgNH3TEeqH+es+UnbSJ2G+9FdjH9ylmwa80Qavi+JahqepTVp9UmfQ8yZq/zedNFf4ZrpEOA2mhK2+t2DQjT1OR6djVLCQfZYZZXCZC44w/lXeRfKOpEVnHTj0QL4i9rR7xPwGYJfEkrn3jwJ3JMhW/Yeu0mE4vhDDKJ8fIwkXeXncBzr5xM88Z1iPELU6l0R4Lmkf3GC0JnI5Bn6vbKpo3wngBHzJzPZ1/2qlEulCFy965Mf7D5dtPtWXIpVw5S7AAG9LHo12LwqUDQfTppbX9knJsSB+Dcc2rX8G5jCtnIciTgQYjYjjY8nYa3x51nXYhjACoOIuP//VC1+EIb+LrodBF8Xf4q1is=;zXOZFOUEgOFajVIK3gY5SQ=="
 ---

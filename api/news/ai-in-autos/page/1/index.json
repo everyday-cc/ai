@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-02-why-its-time-for-a-chief-ai-officer.md",
+      "title": "Why It’s Time For A Chief AI Officer",
+      "excerpt": "Does your company need a CAIO? Artificial intelligence has the potential to impact every areas of business. Early adopters include the Mayo Clinic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
+      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
+      "publishedDateTime": "2024-02-01T19:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales.md",
       "title": "Tesla upgrades Model Y self-driving hardware to lift China sales",
       "excerpt": "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,",
@@ -1262,50 +1314,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
-      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
-      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T09:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

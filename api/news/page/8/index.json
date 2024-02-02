@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-26-ai-in-2024-riding-the-next-wave-of-transformation.md",
+      "title": "AI in 2024: Riding the next wave of transformation",
+      "excerpt": "the expansion of AI ethics frameworks, and the democratization of capabilities to empower new creators. Let’s look at what’s driving these forces and their sectoral implications. AI models saw their most impressive advancement in 2022 through Large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2023/07/Godrej-2023-07-31T051530.333.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-2024-riding-the-next-wave-of-transformation-3375807/lite/",
+      "publishedDateTime": "2024-01-26T06:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-how-generative-ai-is-revolutionizing-customer-service.md",
+      "title": "How Generative AI Is Revolutionizing Customer Service",
+      "excerpt": "Explore how generative AI is revolutionizing customer service, creating more efficient and intelligent chatbots to providing personalized recommendations and insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b35d290a254ed766ac2607/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/26/how-generative-ai-is-revolutionizing-customer-service/amp/",
+      "publishedDateTime": "2024-01-26T06:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-heads-of-chip-giants-nvidia-tsmc-meet-in-taiwan-as-tight-chip-supply-threatens-to-hinder-ai-boom.md",
+      "title": "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom",
+      "excerpt": "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/26/a2635928-5278-4dc8-8593-d3abe5d38ede_2622355f.jpg?itok=G3ionfAy&v=1706240895",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
+      "publishedDateTime": "2024-01-26T04:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work.md",
       "title": "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work.",
       "excerpt": "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter.",
@@ -1038,153 +1185,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call.md",
-      "title": "EXL Schedules Fourth Quarter 2023 and Full Year Financial Results Conference Call",
-      "excerpt": "NEW YORK, Jan. 25, 2024 (GLOBE NEWSWIRE) -- ExlService Service Holdings, Inc. (“EXL”) (NASDAQ: EXLS), a leading data analytics and digital operations and solutions company, will announce financial results and host a conference call for the fourth quarter and year ended Dec. 31, 2023, on Thursday, Feb. 29, 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call-1032996506",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exl-schedules-fourth-quarter-2023-and-full-year-financial-results-conference-call-1032996506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T14:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-balancing-ai-do-good-and-avoid-harm.md",
-      "title": "Balancing AI: Do good and avoid harm",
-      "excerpt": "HR leaders need to be innately involved in developing programs to create policies and grow employees’ AI acumen.\nThe post Balancing AI: Do good and avoid harm appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "originalUrl": "https://www.ibm.com/blog/balancing-ai-do-good-and-avoid-harm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-samsung-galaxy-s24-ultra-review-a-pricey-way-to-join-the-ai-craze.md",
-      "title": "Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze",
-      "excerpt": "You can also translate any of these types of content into different languages. These features should sound familiar to anyone who has been following Google's AI developments over the past year. That's intentional: Samsung worked closely with Google on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/cc46635c9507b24a40989d15d3a3dbdad54f175f/hub/2024/01/24/73947584-67eb-4e99-b66d-207b4c0e1eda/samsung-galaxy-s24-ultra-1887.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
