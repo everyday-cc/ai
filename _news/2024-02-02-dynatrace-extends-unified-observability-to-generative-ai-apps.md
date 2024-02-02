@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 123
 published: true
 
 provider:

@@ -165,6 +165,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
+  - title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
+    excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
+    publishedDateTime: 2024-02-01T15:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
     excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
     publishedDateTime: 2024-01-30T16:43:00Z
@@ -179,15 +193,6 @@ related:
         width: 700
         height: 466
         isCached: true
-  - title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
-    excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
-    publishedDateTime: 2024-02-01T15:22:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-stella-automotive-ai-collaborates-with-microsoft-advance-automotive-/2024/02/01/9955980.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "JJfyngvCnvOMTlFlcsneiGOhmKlMXucrm1O/46CgX8GJyFkdEqZpE5j6I2OkdjA1PntdchI7tuP0X6UnejAYKO+bP/0B3brx7wIPSmJ2GgnoiSLMvY8tjBsTaL4z3/fFJYEqTz0gfPurM9b8IHRB6LnwJFjjTuIPaPcpzq51e2PGNlTfAqK5uENZgMdr/qNeoiRpXTQSBL0XvNU8EzUeEncTaCKXcUA1mf1Lx/7nvntxNSJQVBpHreoiBD86xpex0BdCqHkYE9PxjwZDpP1moX6QVQXLzrh2tk4i77PklQMqSZq4VdX37Vv/iGxP39r0/MfSNLkUBHETd6Fua7bwdDHWMBivTsF16wjyOhs6kBk=;oRQYwBBHbl3VILnBy+b0ew=="
 ---

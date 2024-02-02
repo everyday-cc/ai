@@ -57,6 +57,34 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Why Tim Cook Is Going All In on the Apple Vision Pro"
+    excerpt: "Inside Apple Park, the tech giant’s CEO talks about the genesis of a “mind-blowing” new device that could change the way we live and work."
+    publishedDateTime: 2024-02-01T11:00:00Z
+    webUrl: "https://www.vanityfair.com/news/tim-cook-apple-vision-pro"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 24
+    images:
+      - url: "https://media.vanityfair.com/photos/65bac158ddd1100ab8b9630f/16:9/w_1280,c_limit/042024_Apple_opener.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "13 best visionOS apps to download when you get your Apple Vision Pro"
+    excerpt: "Here are the 13 best apps available for Apple Vision Pro at launch, whether you want to play a game, boost your productivity, or relax."
+    publishedDateTime: 2024-02-02T01:02:00Z
+    webUrl: "https://bgr.com/tech/best-apple-vision-pro-apps/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-best-apps-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
 
 secured: "2VVFpUmcJLRFkHZPeBRSoIlZVZtn1swdtUoVfsa9FOjMlQa3EXu8zFyrn34QD+JouWBadacFXT9EPBexyHTEIGHn4sl0ZigjdBEVqNoYryF70b6XcHjE4MIakhGSHviplwu+aHdnS7uSqwC8mlpiseAcaNCupDUE5+V33+Gv0omFzIC2C7rTcCHTW2+hjbq9RQwCWtZI8M+02bHfOv1VFhvqmCUOVj97aMoC5JKwwOkQke7dKRKskwC4WfIC6dJ2vP1Cp9n11NX+ACRLwKPFn6IRct4zovNTpjVEvdSRTUaVaVmOAZTRQ7VAkkpBKUcjNDtempKmPjeU88stjzIc48j9ldyLkoZl5atvXFZ7F9UD19plWVF+eojRdLkKgBgF+STPMcuMXzZ7dBBf0DXcT+tVrvobp5ha+KasUA+Zp5uN5lDT8yyzYkeMy0avJhYfHUFY9ddx0LWjP2IxXlAilwR4jAlH6QLrjPvpgGAbbn8LNH71uromm/GlzGw15k8S2KtfA5FMbJMVL1y8RXQtyQ==;3Vq1zkULOH1yscQPFD55eg=="
 ---

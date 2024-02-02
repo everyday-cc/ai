@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "1 in 4 Organizations Are Banning Gen AI for Now, Fearing Risks"
-    excerpt: "The risks of AI are real, but they are manageable when thoughtful governance practices are in place as enablers, not obstacles, to responsible innovation, Cisco Chief Legal Officer Dev Stahlkopf said."
-    publishedDateTime: 2024-01-30T20:41:00Z
-    webUrl: "https://www.law.com/2024/01/30/wary-of-security-risks-27-of-orgs-pass-on-generative-ai/"
+  - title: "Meta Platforms to deploy in-house custom chips this year to power AI drive - memo"
+    excerpt: "Meta CEO Mark Zuckerberg last month said the company planned to have by the end of the year roughly 350,000 flagship \"H100\" processors from Nvidia, which produces the most sought-after GPUs used for AI. Combined with other suppliers, Meta would accumulate the equivalent compute capacity of 600,000 H100s in total, he said."
+    publishedDateTime: 2024-02-02T02:00:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 39
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 69
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/390/2024/01/Fear-of-Generative-AI-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/dima-solomin-mr26tQgHGmc-unsplash_1701087797851_1706838974567.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Exclusive-Meta to deploy in-house custom chips this year to power AI drive - memo"
+    excerpt: "Facebook owner Meta Platforms plans to deploy into its data centers this year a new version of a custom chip aimed at supporting its artificial intelligence (AI) push, according to an internal company document seen by Reuters on Thursday."
+    publishedDateTime: 2024-02-01T18:20:00Z
+    webUrl: "https://www.aol.com/news/exclusive-meta-deploy-house-custom-161945583.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/8fb9bcf2c722b5e8ef70997e1f688ad9"
+        width: 800
+        height: 534
         isCached: true
 
 secured: "VZzvud4htXUx2ggS6O+PoJ2x+PtzymfnhnLMeI7mXfwhCg/KZrmBAW6q2NHH/UOWw2Bj2R385W7S8GQs1KqlmQqKk/ZuE0z8BrvIhiZL2nM9+pqz1aBUq+feEnVBLZmMMM7gSTMLX1+xEogl7N0WmCIqlZwluwzsRE0n2oiSaQmeC0wFUYmOSrjrGrQTFCn7siARComAodvACoArEA2noPBsAUntk2EE2MVxDi9ndg/szOBgWpWajTlj2Muv3dreEf/02IQeXu1T+6da/j943bgnMfVM1RTLeE9xcwMdaBJ3U5GOS9BmpI/xefsORJETUtfuaVSIneKukqLf+2cohgD4ZfVde0VyVTdVqbp6cFk=;LhNeP8rwweiRDBOOHeLknw=="

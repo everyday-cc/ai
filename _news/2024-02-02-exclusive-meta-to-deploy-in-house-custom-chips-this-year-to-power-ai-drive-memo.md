@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/exclusive-meta-deploy-house-custom-161945
 webUrl: "https://www.aol.com/news/exclusive-meta-deploy-house-custom-161945583.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 800
     height: 534
     isCached: true
+
+related:
+  - title: "Meta Platforms to deploy in-house custom chips this year to power AI drive - memo"
+    excerpt: "Meta CEO Mark Zuckerberg last month said the company planned to have by the end of the year roughly 350,000 flagship \"H100\" processors from Nvidia, which produces the most sought-after GPUs used for AI. Combined with other suppliers, Meta would accumulate the equivalent compute capacity of 600,000 H100s in total, he said."
+    publishedDateTime: 2024-02-02T02:00:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-memo-71706811429158.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/02/1600x900/dima-solomin-mr26tQgHGmc-unsplash_1701087797851_1706838974567.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Preparing For An AI-Driven Future In Chips"
+    excerpt: "Designs need to be flexible enough to handle an onslaught of continuous and rapid changes, but secure enough to protect data."
+    publishedDateTime: 2024-02-01T08:01:00Z
+    webUrl: "https://semiengineering.com/preparing-for-an-ai-driven-future-in-chips/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 34
 
 secured: "kJi5jiQG4o4LAimy3gXD8CnmBEEW1s2pXL4NIuFHy/fPOwYc8HcDV0f6jJfREsh7F7izRY1r/qeze6EgOkAJwcKIDUN9gX8PSHp3wEpDbnnWIjJ5q946vRzQNUIlUmsSx9SD1oehQyRWuDNQbr0MzE0XdSF0hQzDrwrsW3xAdENBDX8Noq6HF/Reg6i3HIMC4N11N2knh41es0DTR6CBPoB0X7x9ufm+nzK32NuSZ64IbVGpnDw1E39pSU9MWAY17fTGUtF+es+K3pMa0EnWPqJhx5P2TgRSYHd39gsOgTjl/KfGKkziGfQ87IC9wttuaZShfvlW2gbzZSgVDOuVKCcbEuiEk+izeXYGNAYfS10=;TVUcvHUf9nYAInvdeFvdiQ=="
 ---

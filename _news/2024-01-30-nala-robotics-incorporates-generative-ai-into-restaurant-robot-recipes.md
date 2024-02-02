@@ -33,7 +33,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg"
         width: 480

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Salary data revealed: Here's how much 16 top US and European AI startups like OpenAI, Anthropic, and Hugging Face are paying staffers"
-excerpt: "Industry leaders such as CoreWeave and Databricks are shelling out base salaries of over $200,000."
+excerpt: "Databricks makes data management more simple for businesses and enterprises. Its platform is used to test and deploy machine learning and AI applications, and it has a cohort of high-profile clients such as Shell and Microsoft."
 publishedDateTime: 2024-02-01T11:00:00Z
-originalUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
-webUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-salary-data-how-much-top-companies-pay-2024-1"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-salary-data-how-much-top-companies-pay-2024-1"
 type: article
-quality: 40
-heat: 40
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-  - Meta AI
 
 images:
   - url: "https://i.insider.com/659d60016979d73718219b94?width=1200&format=jpeg"
@@ -49,6 +48,6 @@ related:
       domain: axios.com
     quality: 19
 
-secured: "hd+QsdYzVkjEDSTuj1FiD3T7PfO3QLaI33HxqJNH5dnCRUM5tYNrDURf/HbZp7QB5xIbsQDuj6uuS3t/n3djy0MjQsbolsyUM59+p0MQMip0wBW6/Z0dkX3fgGlTjkwbCwyeqjBU6z2xgfRGCyyClwLuLUDhViaKX8XAjonnXvK34eWNdoyHUlQkkEFP3rfcrl8ChTZdoHmQnjluvf9qPQaCGOxEaYfEe0Tn/6FDTqCIe8IbwOroYLo+vD8RszBxuYoDNdbFhcCD/AXnDK9IjQJfUlL/G12TGYUPsEquXvVdHVZmOMIyZzxKbpnmiYI3XoaysoTKiFtjFjCpLHOrnrKmyzqH3cng+5RSHtCwWIWkZStGJl5Po+YqmGV8RIB+I8aEvFz614ifk3fGq6ZPVmsuKnO+u2FstNwK4K5/iXNA0RpRPOJ2OJXNCdO6uiHBpIB5jTJWkl4wmNJkknRWn40f4SKjncW2a1IW7Mqz67t1pw3guBfWwHcUE1R9dJbAguw921dgV2u7YHNQRkUJ6w==;40YYZAw3Kgm4iKkZkRkjfQ=="
+secured: "q6KDd8FQ8GAtf/wIdapjUlDISg/PgppJ9HQrojGf969UC7fUFRHUA+GQZy2p5b6nGjwFW9iMrva1lggrxoG+SXc2QCQ9PP4nEy+tNcfBOIXETYwidcIVm+EH4hBMwM3o6LH9OXnIWI5/l8b9NzylECh/Rtfv4KHdu81/Aw5kcifo7sHEqdMYFhbqveBH3Cv0ShFhDcrUJq38Fife91EhN3N7RsgDYouOKC/p7p0UivqYHiHRWyFdXMzSZumys7jZ5VsUhCqo3vvAHpuMPcK1JUKTGP9fC/Ovn9z4NS90VuXt7+gEyD0yo3g2d83J3mF6459sHvpwEPAEV7rtdsdwUVcTstkjjh37+QM19LXwy0s=;2AtchakhNv/DB626mdxugw=="
 ---
 

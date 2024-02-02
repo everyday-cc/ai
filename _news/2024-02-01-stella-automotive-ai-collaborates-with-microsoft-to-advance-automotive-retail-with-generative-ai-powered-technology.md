@@ -3,10 +3,10 @@ category: news
 title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
 excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
 publishedDateTime: 2024-02-01T15:22:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-stella-automotive-ai-collaborates-with-microsoft-advance-automotive-/2024/02/01/9955980.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-stella-automotive-ai-collaborates-with-microsoft-advance-automotive-/2024/02/01/9955980.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955980.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955980.htm"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.tmcnet.com/tmc/world.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "A new way to discover places with generative AI in Maps"
@@ -184,6 +190,6 @@ related:
         height: 466
         isCached: true
 
-secured: "RolmxsisY/GTx2YaMYWdj3GZQY9BSzp2pHZlrVUEj9cCXVGLD5VEOuDqpskLvY7ENb8nSat+UT6HWdJrOS35/HijZ6/2a1k/r4qRso3Q+6jOxodX/o5lNDRDncWXSSA5xfmKuVJ+MJKh+jSRcaIo18dVHTDLogT749RoC+V9z9xaKXh5JsBmkeHB/ZRd/FHckRdXOPLp6Izx96MiHN8Z1/onfpsMaNOehYgjCFpJ78wX1jNlbK2pjx0/4qV/LjX/XV6B33M+QtnMmDaQuel+gkzUDC/SiVhrpbqQ5r2+xr7PBCoTrW0s2F01oWse3oX6V/a5/8AiHf/nZBE+2L7hVxSM9E66HkccGvfYTaovktg=;DH2g9VpsEXA9JqkldnlodQ=="
+secured: "uY3fCK3Ekvi5uIJi51MjyeJWUCBiLw0rwU4fzqx9TiHZ55phXTTJUnkPM3nb/vFJZslPYIOMwlzrm18uQetqyJq3oRzIjYl/0yAHqIINRlfhgoW1941XmAaapUB17YTTxOYjegWcAPvD1lYWlvdYcZpHkUp/pn1ckbnVeKf0/mHYnyBWfAHNKzK4Y3twjeTm56kc5b/Z800ZnWXVr67QxQWyem1qVCmNFsYeFFFc3cfhrcRADzK1sB2B8WNuF/3gyx9DLqe6AdIbwTG7wPhLlcftsw4f2ZWfVxEK9kuX+vPCvcUgY4o52CnRkdn+pXikdRyzuUDBwuk8OInJ+f/szVVK+czuJ8+Td2M+PmoKNWQ=;suylaeW/qdEUIGWHq3//zQ=="
 ---
 

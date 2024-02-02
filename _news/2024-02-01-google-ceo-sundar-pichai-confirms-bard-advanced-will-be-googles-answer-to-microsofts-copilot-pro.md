@@ -5,8 +5,10 @@ excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-p
 publishedDateTime: 2024-02-01T14:43:00Z
 originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
 webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
+ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
 type: article
-quality: 22
+quality: 62
 heat: -1
 published: false
 
@@ -18,6 +20,12 @@ topics:
   - Google AI
   - AI
   - Microsoft AI
+
+images:
+  - url: "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Microsoft, Alphabet and AMD tout AI progress, but investors want tangible results"
@@ -137,6 +145,6 @@ related:
       domain: thestreet.com
     quality: 33
 
-secured: "C8fMsBsHg3L7r2jz8oYy6Ly922EO9Sw7jo1pkLvUXFSJiEpjgjSJ3FlCvq4OGUL9AIrlOC3ffdjsDjRfOoiP/avmzkZDjgMvHOrrYLpGN7PVJev5iyPtxolqDDSZXz6eL2CYsoh5fgYkywus9m3Hl5t/6gAXXDnuCgzigHii1NnAPWMkxqqpuUGBd/5oeTiLvEtqXa6NiMWjMCZQZKy1LBfA+X8r4gDhNHK58HrIcNUbeMP8Sk1CEJtW9Ck7Lh5SJCtfmmG3rg9exiE0M+uOx/Sr0zuk3A4+nE4YczoOZ/8MxOIbMfDyQDkfZY9G+e+4bzxwhexzckrQ7DXETTJD/OTuzKGCoH8uGBqzJ4KXrGI=;AP/sb/UK30Q9O5STQjBahQ=="
+secured: "c6XFDkLCTk2O6yA5ooVanwzSUDSP3q9b/39WqzAN+rYPTJhZexsSasIlkXdWiXRKa5EFGLqHTOsi0uCXsUn5enSf9oLA8CHvLGcEdPvLRJyLjOkVyuZqbSMzc/DUx2Hvau7rCjzbLgyFRObWq00Yv4PXOHNpIBtr+URj6T9PROkv+Uoa94Mm4xLEkC5GJiup9owTEaj8TriEyucTZZQ5ep1F+tl16f47M9HDmd+6Rk1kPb7EbO0fGgZ/wTTtc5FyyKtgKIUvZMuXNMniGLLzLbq0ATQc6xcoWJdLyUo4S5bgJFlvzLSLEh5FHSzL0dDYd6tS+ZLSL6kLffvNew9jDFQvjnaDYjex1FUTBn6Qeb0=;6QS1zMTZKTJDlir3m1H6+g=="
 ---
 

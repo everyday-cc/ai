@@ -35,7 +35,7 @@ related:
     provider:
       name: Inc
       domain: inc.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/joe-biden-ai-deepfake-inc-1953489723_537010_u5drml.jpg"
         width: 1024

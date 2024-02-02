@@ -24,17 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Preparing For An AI-Driven Future In Chips"
-    excerpt: "Designs need to be flexible enough to handle an onslaught of continuous and rapid changes, but secure enough to protect data."
-    publishedDateTime: 2024-02-01T08:01:00Z
-    webUrl: "https://semiengineering.com/preparing-for-an-ai-driven-future-in-chips/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 34
-
 secured: "uDFaj73HLYxD9FnQrpnjQfLKxkMlvBfsEopjUDJiT4xMBR4PJpsJot6W5i65zL6envQ/S0m6lv9XMXWfhlrioTY5ScY0ReB+iipNs1Yi4cG54sgYg22kouMEQxHdWVjirZlIhnAO1KlH1ab4/3cTEyXku1TGNJ3IHL5batnSbw3rs5s6y1lAQ8/Wal5tN4vrIsTFLjsJYVDWYvwGilV5gD9S73XeO0t4it0oWiwJQBPIqn/JApfHgtEpxfNCUawOxreFb6BATTgPUgoFXpO6qQmyY4ih6wWQ8fy3E/i93aftEpSJZ0JMSr7C2QY3zjwoQmD+aSwWsA7ZBDH2+WXGfplASH/YbyWuTSI4xSdccp0=;bSRcnrJsMSjTRkioWaXxSw=="
 ---
 

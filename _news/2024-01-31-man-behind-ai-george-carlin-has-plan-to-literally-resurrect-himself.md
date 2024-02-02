@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/chad-kultgen-man-behind-ai-george-ca
 webUrl: "https://www.thedailybeast.com/chad-kultgen-man-behind-ai-george-carlin-has-plan-to-resurrect-himself"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Following lawsuit, rep admits “AI” George Carlin was human-written"
-    excerpt: "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\""
-    publishedDateTime: 2024-01-28T01:44:00Z
-    webUrl: "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "FDv2fFU6gqv0UlQDyZgsNqyMecgjkboE5QfYOUMgctirbQPXa27r+hFhWbHolQBBcaQaCPK0V+REEChX5T+4vOF2OBFRs3j/mfojNrKE9L4gVZevMziSE+iw9Ao5ag1vtG7oNMVGZVpubouIT714WApHE+I+VR9CnF4OXcp+8CqjwEmSRRJeVOp1luGMqDT97g5VLjz9fjq2HB6y+qGfcn9SC8oRC+lCg1LwgLvnFR1dnazAuKOp5aVrRP+B63btWMpa4SKetWA65XsW9imn8VSTmyKNCmBKKL9l0jo4d9ItWOmDgjRPqjOqI+e2WmjRHYnTtlTdwQoO+YLimT51kg2VeO5ikA2H+nlaExhwYVVxH9wqkPgpo5nIXXuVP7BEEfgxklay93/eJ/slfe+rK6VCDp+Na8zPYkDT7bxUBKqz45mbMyYw1JoT7uF4hkxLeqPNrb48rFMnKbvtNUkWhKaLmhjCy52K+GDz4Pvj10uVNngFXK/u1KEy3SKio+2mgpY+9djVvF04D6bzrTZWZg==;kRgT7UF1PpwECTp1vx3hSw=="
 ---

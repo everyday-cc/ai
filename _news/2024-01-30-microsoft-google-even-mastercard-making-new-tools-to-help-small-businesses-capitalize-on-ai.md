@@ -81,6 +81,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
+    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
+    publishedDateTime: 2024-02-01T14:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 62
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft’s Strong Financials and AI Growth Prompt Buy Rating and Increased Price Target"
     excerpt: "Wolfe Research analyst Alex Zukin reiterated a Buy rating on Microsoft (MSFT – Research Report) yesterday and set a price target of"
     publishedDateTime: 2024-01-31T10:06:00Z
@@ -128,15 +144,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 33
-  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
-    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
-    publishedDateTime: 2024-02-01T14:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 22
 
 secured: "RcuTw/60bmKXB5DujIBj4Pzj2EKZ+4JvL69m5ZKt5EsgYgSEwX0aEqjUjGM73WLzITE2l47JyR9IR3xGgOzinrsmadNT/3Uv52b7D78ZglIobh3eX1ZTXwQWstk0TAAJCZpEAq22wsJ3srmM4puphP6OnvYemedj21AZDNATDmYAa6JOy529v4KFbg/35iJuOJfoWYryGavEbeqlrh/tGOiwWHoXmTNbUOcC2obHO2dhrQBQJJ3PwaCjVftFxwwYPc9hxONPV/t6mGqEk9UrIUwU4/gYi9FXOUKP96gyIhL6Uo2Pel20jPjYXVLlbIPVxFAxpXmlAWMLSUHpef19m9ZeS6TZdEnZXb9Uai2P1Qw=;xKrnYwdOH02s/EvQJz9hhA=="
 ---

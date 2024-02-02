@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T22:04:00Z
 originalUrl: "https://www.inc.com/melissa-angell/the-biden-deep-fake-underscores-risk-artificial-intelligence-poses-in-an-election-year.html"
 webUrl: "https://www.inc.com/melissa-angell/the-biden-deep-fake-underscores-risk-artificial-intelligence-poses-in-an-election-year.html"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/joe-biden-ai-deepfake-inc-1953489723_537010_u5drml.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,34 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-282.jpg?quality=82&strip=all"
         width: 1600
         height: 885
+        isCached: true
+  - title: "Why Tim Cook Is Going All In on the Apple Vision Pro"
+    excerpt: "Inside Apple Park, the tech giant’s CEO talks about the genesis of a “mind-blowing” new device that could change the way we live and work."
+    publishedDateTime: 2024-02-01T11:00:00Z
+    webUrl: "https://www.vanityfair.com/news/tim-cook-apple-vision-pro"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 24
+    images:
+      - url: "https://media.vanityfair.com/photos/65bac158ddd1100ab8b9630f/16:9/w_1280,c_limit/042024_Apple_opener.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "13 best visionOS apps to download when you get your Apple Vision Pro"
+    excerpt: "Here are the 13 best apps available for Apple Vision Pro at launch, whether you want to play a game, boost your productivity, or relax."
+    publishedDateTime: 2024-02-02T01:02:00Z
+    webUrl: "https://bgr.com/tech/best-apple-vision-pro-apps/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 24
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-best-apps-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
 
 secured: "DvXSMTyzbnxbiOCOi8BPRz9wLB2/BDeUGeWoQxKInH+FIp6TR8NkQ1Y1YOYZGbX9n4IDMWZAawMomDs1opJ5vpAhcUFO2BcteORgfSVlpOGuBRXOg18BUY9IxHMQqtS+AQOBCsCFM1Gh33Ul0Ux2O6EB7PKO88oM5JkNB2o6BsVhCnGmHPie8JXj5P4OUUWTOsDBuNHAGF3Zq99mVrQtLO5+Slpkz8J8UicMjOD4irKp9pqlqNe4lDkHKm3sUJj1QGXLHkyMFJTgjC5xvaMC7tzh94Hlek7kaemNUrGw2ODyyfUQmXqnjsG7zwm49vlHcmG86pYNIIYWvJpUIUCliF/GV9zq3cEyVkeaul3lc6Eb9EP/sOrnj5zkd6BoY/I8K8cNddynqq14IejQ/tUfSR4Vh48aSqiZopgjNvvfLoOmarDchnDg7tdZcA3JCw6jse8pS3NyLN0NiGHnVzDUxmRvY3pHk2bSxAfVRX3cw88qQF1MkF+UlkwYXa07Ro274mbOR24N+of03wKsvYIJcw==;IKTfOBhOmy107XUGnxhiWg=="

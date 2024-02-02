@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T11:53:00Z
 originalUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 webUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg"

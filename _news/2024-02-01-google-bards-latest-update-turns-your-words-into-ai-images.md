@@ -45,6 +45,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI will soon be your personal tour guide on Google Maps"
+    excerpt: "From sushi hotspots to cheap oil changes, Google Maps' new AI feature has all the insights on the best places to go"
+    publishedDateTime: 2024-02-02T02:50:00Z
+    webUrl: "https://www.androidpolice.com/google-maps-will-use-ai-to-help-you-discover-new-places/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-maps-2024-2-ap-hero-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google Bard in Messages app may access your private conversations"
     excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
     publishedDateTime: 2024-01-29T13:07:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promisi
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415"
 type: article
 quality: 64
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
     provider:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
+    quality: 34
+  - title: "3 Stocks to Unlock the Incredible Potential of Quantum Computing"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Quantum computing will be a massive game-changer. With it, the world may be"
+    publishedDateTime: 2024-02-02T02:03:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-stocks-to-unlock-the-incredible-potential-of-quantum-computing-1033022831"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 34
 
 secured: "0FaJjfoqSDHOjuQJghNtRvtEFaESYp47AyciTJ4/TNxVcIOiL3b+pYAnAIo/ypEMw1ZEdOhrQqb8JHGOMKRkwwCDiK47jTtm//Z/yaoWtqTqsG5E+kS+iDYJegb3F7CuZNeXgD1Y2UJ0/nje0bdqmL5XYkfoKD8Y2KhDavTDVN7Qv7rreTpT460MPNSWc1u7ojiJBjgDqhjxEcjky6LHS2Fa/S1Ra/nx75ni8OYfmPr3t4/lwbEhqTWelsgFLk+M9HN6kShMhSpKT6YofKvKsEe8SlsQM7gdcFQc0izMhcLjF3k7zZM9H8IaqhzUIh1BUORLlPXPzD7n/rRKVwNPO3b0Ma/mGfPXy7Gb3ZY3QtnsQ1Wlm5hWWMBINFWX2J5CpFBGHfR4vy7C6xG0siNGm5WEPW9Jz53DCbAnWhUj+/f/W9z8HXrX5BTb872dDmzHseWGbrqTPwLos/oyAxY3g0drRZi53fYxx1KKxcac/Fy6aWu540SpADP0g2Fzd2Vvj04ihrPhuZ8JBFIb8T7QCQ==;Q9RudrhJIJ0FlFU3hv26zg=="

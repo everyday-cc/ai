@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI will soon be your personal tour guide on Google Maps"
+    excerpt: "From sushi hotspots to cheap oil changes, Google Maps' new AI feature has all the insights on the best places to go"
+    publishedDateTime: 2024-02-02T02:50:00Z
+    webUrl: "https://www.androidpolice.com/google-maps-will-use-ai-to-help-you-discover-new-places/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-maps-2024-2-ap-hero-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "CZRO42rt0KAMQcBjkt/nDHLfEfbehr986gPPweCmi0qY7OoioS/vI8EcQvQtCVDrhY0sA0CFBd0uwed62l03/rMqRwtW1jI2CrSKTsP6peA6Tsym7mz8BSM+76zdUiYcVdrWRFwfhGFeiiowmFfr6i4XRTiTPmrG/WOg7z8VCPcWarGva17w84wS2txU8ZBqFHSCgNMec5Xwn6PG/4tMj4sUeni7NMlI8Thy3vAAI9MJ2imcEWqE3oe7M606hVp66XNm67GcwZoSoSxGHrSygcWxVzdZKOJb1aofEGDIoGGnmhVV8Io1NeIv6GOAVD64y1KIbwryaP+0XphZsDQEk+3pFoczA3rjQAtaVpBWrAHwYVn3SvX0O+jpk+JaiBkBU2k2Lxa38mppjC5QjUfBjLowSiBWX/pm4wOiEw6/QiIluJsuftCV3ZlA60OwtltEQTkcsxWDWY+pSEnwHU/6+EQenZgPSwDGXIdmiKXsj6Twajdib96p7/TDtAI6b9Kq2eYgmS0D6R7Ojsw0jw8mlQ==;Qfeao3OEc0MD1eMwuf16iw=="
 ---

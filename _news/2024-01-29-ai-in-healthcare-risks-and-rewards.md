@@ -42,15 +42,6 @@ related:
         width: 1466
         height: 900
         isCached: true
-  - title: "AI and healthcare communication"
-    excerpt: "By leveraging advanced language processing capabilities, AI tools can assist in real-time translation, ensuring that medical information is conveyed accurately and comprehensively. This is likely to be better than using a family member as a translator as ..."
-    publishedDateTime: 2024-01-28T02:26:00Z
-    webUrl: "https://www.business-reporter.co.uk/management/ai-and-healthcare-communication"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 36
   - title: "HYFI 2024 Singapore: Beyond Boundaries: Web3, AI, and the Future of Technology"
     excerpt: "HYFI 2024 Singapore is expected to attract an estimated 500 participants, including industry experts, entrepreneurs, investors, and technology enthusiasts. With its prime location at ONE°15 Marina Sentosa Cove, this event promises an exceptional experience in a breath-taking waterfront setting."
     publishedDateTime: 2024-01-31T06:53:00Z

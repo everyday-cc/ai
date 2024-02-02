@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 69
     images:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "AI will soon be your personal tour guide on Google Maps"
+    excerpt: "From sushi hotspots to cheap oil changes, Google Maps' new AI feature has all the insights on the best places to go"
+    publishedDateTime: 2024-02-02T02:50:00Z
+    webUrl: "https://www.androidpolice.com/google-maps-will-use-ai-to-help-you-discover-new-places/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-maps-2024-2-ap-hero-1.jpg"
         width: 1920
         height: 1080
         isCached: true

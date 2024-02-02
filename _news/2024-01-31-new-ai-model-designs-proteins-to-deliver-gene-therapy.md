@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:
