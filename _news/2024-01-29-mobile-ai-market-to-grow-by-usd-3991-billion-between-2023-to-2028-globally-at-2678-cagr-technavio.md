@@ -24,22 +24,6 @@ images:
     height: 231
     isCached: true
 
-related:
-  - title: "43.6% CAGR to be Recorded in Aerospace Artificial Intelligence Market between 2023 and 2028 - 17,000+ Technavio Research Reports"
-    excerpt: "NEW YORK, Jan. 28, 2024 /PRNewswire/ -- The global aerospace artificial intelligence market size is estimated to grow by USD 4.69 billion from 2023 to 2028, according to Technavio. The market is estimated to grow at a CAGR of 43.6% during the forecast period. It is also estimated to register a 40.42% YOY growth during 2024."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/28/9953132.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
-    images:
-      - url: "https://mma.prnewswire.com/media/2326899/Technavio_Global_Aerospace_Artificial_Intelligence_Market_2024_2028.jpg"
-        width: 400
-        height: 231
-        isCached: true
-
 secured: "2mSGf6HkG4x/qnF9KH8AIdwaqfgY5otmnItUfew4ICraym53wEl3Yh+BgHOaElFoFf2fgyDoZkm7egnp+DPNpJCph1UVIlpS+OcDE4190rQHGeT01QraoIACU51S+zH3K2+C1/2YEIXDw8bmI44kJq4GXzHynJ1xRxGgJnRXHvpJ/MORcDQDpEmrj8BydMGZmK19FwA9GwWl7Wud+lz2Whce+99BmPPQqX52+B9A3FkmJDL2HogH3Oi8b7gki9agpi8QBCtbQ2KY86CTpXuPaxkLEKiBWQ/AjG0H2SOaqGiK2DNjdiUIK5JUXQ3c8k1YCvHqMaqwNc8xFxyU9yPXYJjUoV9kzl/68Wm209qmmrE=;xTNfnEndKYl9G422xaisGg=="
 ---
 

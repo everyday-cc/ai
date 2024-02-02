@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai.md",
+      "title": "What the G7 countries should do at their next summit to regulate AI",
+      "excerpt": "Agreement on AI at the upcoming G7 summit should address social inequalities plaguing training data, laborers, and users.",
+      "sourceUrl": null,
+      "webUrl": "https://thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/",
+      "originalUrl": "https://thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thebulletin.org/wp-content/uploads/2024/01/AdobeStock_704826826.jpeg",
+          "width": 1920,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/amp/",
+      "cdnAmpWebUrl": "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2024/01/what-the-g7-countries-should-do-at-their-next-summit-to-regulate-ai/amp/",
+      "publishedDateTime": "2024-01-31T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bulletin of the Atomic Scientists",
+        "domain": "thebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
       "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
       "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
@@ -1396,49 +1439,6 @@
       "provider": {
         "name": "International Monetary Fund",
         "domain": "imf.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
-      "title": "Educators raise concerns over the ethics of AI in the classroom",
-      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

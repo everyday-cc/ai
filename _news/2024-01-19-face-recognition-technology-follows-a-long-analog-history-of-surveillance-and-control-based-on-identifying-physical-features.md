@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features"
-excerpt: "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge."
+excerpt: "In all three cases, the authorities had the wrong people. In all three, it was face recognition technology that told them they were right. Law enforcement officers in many U.S. states are not ..."
 publishedDateTime: 2024-01-19T13:42:00Z
-originalUrl: "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html"
-webUrl: "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html"
+originalUrl: "https://theconversation.com/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-217226"
+webUrl: "https://theconversation.com/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-217226"
 type: article
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/ab/4abddc93-c436-58bb-9eaf-c96eef058a99/65b285e5108c0.image.jpg?crop=1440%2C756%2C0%2C113&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://images.theconversation.com/files/569962/original/file-20240117-29-ri412u.jpg?ixlib=rb-1.1.0&rect=0%2C276%2C5272%2C2636&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "GfSstySrp8jlDiJ0XI/lasZjqum+f1qlKQI8yHiVzvR/ZRSb27s2vOfIEOIQeWVNeE1oJmsHuBxUB9Hto1FM06z+q3Okxi3QQNGgZCqrw2rHhkG1z3yy8PpGsOhxgDt1TcQ/Fuw0A3mCrk2YoEeKNoDx/feDrUaNG1GOXKo8RFkkDL7OHVFFYjGlTXSI2rXnB9F/sDUbqAe/dI1w7JHaWOAnP8PB92OhKLpsUpFRlYGmuTMDmz/mrWvNq8r58WhOnckBhFJ0PTVivUtkJemRVBDwnIxGfRoA1DLwFROwCO52EYsL2Dl1e/nut7EpOu7Za3xmV4YMG8vOlyI8yLJCG9jc3vHAsifQ+oWWOZiznDw=;cpt/8tr4A6IPUqoccKLMBA=="
+secured: "+MraSwzj5uK4twcbIwzXOLnQr8oJr2ggiX8XSq35+JMspHb3cfN+MxO+nIStLzHH00mPGW1HIlzqP1JSkpOwobTRmarNaDzlrQ7HDqXA+GEGGAL0ApO9fPjBfR/PFrKjCPNaj/DeEnOPH/2U2o8SjkowVwd57vLL9n/odp+g/CTsgDpYa320DtvSCiiGE/GYeZWKBIt78jsjyoxhivBJ/IdxGgOIPGLW6GgWDysW0USNBr+rYACFUTHT32djqkNrDsizAxknBr2DbbxAtMvC8Z6GxDB6WoT9ku32bY5nVA8rClvU2uisNttr0Jdde8FhzpQjbhAi8cHd5PjolwzKT/Pagkpa1JV5CGFkEI/Xfog=;blwys3yisiAJqA/uZLdqlQ=="
 ---
 

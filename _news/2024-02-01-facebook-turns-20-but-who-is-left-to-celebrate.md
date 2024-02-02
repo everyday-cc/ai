@@ -48,6 +48,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Facebook owner Meta to pay investors for first time after profits triple"
+    excerpt: "Meta, which owns Facebook, Instagram and WhatsApp, will issue its first dividend, paying investors 50 cents a share."
+    publishedDateTime: 2024-02-01T22:30:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-owner-meta-to-pay-investors-for-first-time-after-profits-triple/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 3
   - title: "Google, Facebook worst at collecting data from apps for kids, finds privacy research group"
     excerpt: "The study highlighted that edtech, childcare, and coding apps accessed the highest number of dangerous permissions, with about two-thirds of childcare and edtech apps having access to children's exact locations."
     publishedDateTime: 2024-01-29T11:22:00Z

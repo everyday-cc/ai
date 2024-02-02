@@ -7,7 +7,7 @@ originalUrl: "https://www.thetechedvocate.org/google-opens-up-its-bard-ai-tool-t
 webUrl: "https://www.thetechedvocate.org/google-opens-up-its-bard-ai-tool-to-teenagers-around-the-world/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://s.yimg.com/ny/api/res/1.2/FyG3bZXDIzJo7RiUPGSuWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/9418430d04dcbd87bbebe5a6ca556589"
         width: 1199

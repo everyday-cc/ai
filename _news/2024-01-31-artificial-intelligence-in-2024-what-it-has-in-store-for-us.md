@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/"
 type: article
 quality: 89
-heat: 173
+heat: 169
 published: true
 
 provider:

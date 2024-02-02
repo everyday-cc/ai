@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-hav
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 118
 published: true
 
 provider:

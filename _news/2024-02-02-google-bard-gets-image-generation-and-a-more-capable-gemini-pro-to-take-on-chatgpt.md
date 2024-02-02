@@ -140,20 +140,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "New ChatGPT feature GPT Mentions and Brave browser integrates Mixtral 8x7B AI assistant"
-    excerpt: "It facilitates seamless translation between different languages, catering to a global user base. This feature is vital in an interconnected world, enabling users to access and understand content in multiple languages. Brave Leo’s AI-driven capabilities ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/gpt-mentions-brave-browser/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 48
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-ChatGPT-feature-GPT-Mentions.jpg"
-        width: 1280
-        height: 786
-        isCached: true
   - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
     excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
     publishedDateTime: 2024-02-01T15:01:00Z

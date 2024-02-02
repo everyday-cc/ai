@@ -2,13 +2,15 @@
 category: news
 title: "DeepMind uses AI to tackle neglected deadly diseases"
 excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
-publishedDateTime: 2024-01-28T08:00:00Z
-originalUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
-webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
+publishedDateTime: 2024-01-28T08:29:00Z
+originalUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
+webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
+ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 144
+published: true
 
 provider:
   name: BBC
@@ -21,6 +23,12 @@ provider:
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "One of Google DeepMind’s lead developer quits to launch AI startup"
@@ -55,21 +63,19 @@ related:
         width: 578
         height: 435
         isCached: true
-  - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
-    excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
-    publishedDateTime: 2024-02-01T00:23:00Z
-    webUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/"
-    ampWebUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 66
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
-        width: 567
-        height: 536
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Google DeepMind WARM: Can Make AI More Reliable"
     excerpt: "Researchers at DeepMind published details of a new AI training model called WARM that improves efficiency, reliability, and quality"
@@ -86,6 +92,6 @@ related:
         height: 840
         isCached: true
 
-secured: "61XcRhTwtyTp0IArS5axhCaZFtm0GubPWLNTjEah53mZmi2zlgbxRcMHhhyHYXMttxrS1bp9J5c40CC4lEOQxukexr1ujo/GYpnFdm9p9oy4yfFDWFzae7aJ+yOOnxQixXCCa3rvnmjTwBBseGPxXFEjWijJFFXeaU7GYdxfIE4+UdOYnc3+rxtf4d4/eIcDC+MOPcNh+fEyxFcxjRWR4Y6nPBDaWD48v6lHDPV60EW4J3SgjtYaaBe6ir9g6m3MKqwfzsCgxo9pGqgKtThpSk0tDd89Aga12fnZBH/PXBmiXGEvsWJA/VRLb3kqRPvarEa6rtXlo5LbncoNMX64GpZABBNd/SIUPEBHqvsBeug=;tZAlNu9Fvx7hn9pH+Vo9kA=="
+secured: "Y0j0iTC9BA8Z7E7PEyO6r1TH0xUr/PfwfJKZTIIo+lFHvd/HRvo/UfuDyp/YlnfudMKXpv6o43DyAsJyHL4nYw58O1lZv5J25gPEYGSx3NJYZrlsnr9aSDr+Dd1UC500ddZA8r1aWBBvt9NnnBKeIGJVsHjKPnUIn4yHRPs6vEPwnWXbI0nwlQLVJ2L4lGbk+TahonaA0Fs6kyX0CaNzFA8W3KQ2ZSotCekDRjy09dQ4HNxZUv7uQjd33ELYQIZSnQ+6QMCMsxHtD+tWPA1m2Mg9ZhgHxrICbnfgMsuozBSZG574mHRqNMn7oUwLWsLquiEKkSpzGM1xSLtLY+/6jeRpg4/99BXtKEHSqnsiEoM=;BeaYWkUp5VfzTGhfrL6EMg=="
 ---
 

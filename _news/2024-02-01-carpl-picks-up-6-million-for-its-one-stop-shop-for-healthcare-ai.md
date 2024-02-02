@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 116
 published: true
 
 provider:

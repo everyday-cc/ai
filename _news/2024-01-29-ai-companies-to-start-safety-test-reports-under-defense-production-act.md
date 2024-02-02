@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Companies WIll Now Have To Warn The Government When They Start on New Projects"
-    excerpt: "Now when OpenAI and other tech companies start new AI projects they’ll need to inform the US Government of their plans. The Biden administration has plans to use the Defense Production Act to require tech companies to let the government know when they ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://uk.pcmag.com/ai/150641/ai-companies-will-now-have-to-warn-the-government-when-they-start-on-new-projects"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 42
   - title: "AI companies will report their safety tests to the government"
     excerpt: "(AP Photo/Jacquelyn Martin, File) WASHINGTON (AP) -- The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI ..."
     publishedDateTime: 2024-01-30T10:20:00Z

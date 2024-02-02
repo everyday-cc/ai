@@ -55,6 +55,100 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-amazon-cloud-unit-speeds-up-revenue-growth-as-clients-adopt-ai-services.md",
+      "title": "Amazon cloud unit speeds up revenue growth as clients adopt AI services",
+      "excerpt": "Amazon pointed to artificial intelligence traction in the cloud during the fourth quarter. Acceleration of cloud growth should continue, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1706824464",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
+      "publishedDateTime": "2024-02-01T21:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-this-baby-with-a-head-camera-helped-teach-an-ai-how-kids-learn-language.md",
+      "title": "This baby with a head camera helped teach an AI how kids learn language",
+      "excerpt": "A neural network trained on the experiences of a single young child managed to learn one of the core components of language: how to match words to the objects they represent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/Vong-adi1374-image-4.jpg?w=466",
+          "width": 466,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/",
+      "publishedDateTime": "2024-02-01T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-broker-complaint-alert-introduces-ai-driven-scam-analysis-service.md",
       "title": "Broker Complaint Alert Introduces AI-Driven Scam Analysis Service",
       "excerpt": "Today, Broker Complaint Alert (BCA) takes a monumental step in combatting this menace by announcing the launch of its AI-Driven Scam Analysis Service, a revolutionary tool designed to offer investors a robust shield against the sophistication of online scams.",
@@ -1133,110 +1227,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
-      "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
-      "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
-      "publishedDateTime": "2024-02-01T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-how-artificial-intelligence-is-shaping-public-transit.md",
-      "title": "How Artificial Intelligence Is Shaping Public Transit",
-      "excerpt": "Keeping up with evolving customer expectations is key to effectively providing services that people want and need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba7d3032ea0fb104d193c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/",
-      "publishedDateTime": "2024-02-01T11:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

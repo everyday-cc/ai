@@ -32,7 +32,7 @@ related:
   - title: "AI2, The Allen Institute for AI, Today Releases the OLMo: A State-of-the-Art, Truly Open-Source LLM and Framework"
     excerpt: "By making OLMo and its training data fully available to the public, AI2 has taken a big step towards collaboratively building the best open language model in the world. In the coming months, AI2 will continue to iterate on OLMo and will bring different model sizes, modalities, datasets, and capabilities into the OLMo family."
     publishedDateTime: 2024-02-01T16:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai2-allen-institute-ai-today-releases-olmo-state-/2024/02/01/9956000.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9956000.htm"
     type: article
     provider:
       name: TMCnet

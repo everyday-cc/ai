@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 934
         isCached: true
+  - title: "A global race to regulate AI has put the booming industry on the defensive"
+    excerpt: "The U.S., China, and Europe have very different ideas about the role that artificial intelligence should play in business and society."
+    publishedDateTime: 2024-02-01T18:30:00Z
+    webUrl: "https://www.aol.com/finance/global-race-regulate-ai-put-193000595.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/abVuYiKsIgSJ2r9Sr5PqgQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/dc8d3db5a038907c23c18afeefe1582c"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "W9YaFVdxN4gKGrCNj5VHneKDgpqAGNWAtfJLqKDPGZ5Kxtb8AJBLwT2r/lQaJrRRk+VU3ZCT9wtx4QmLK7N9LtuszG3VcbjIiXSkefTQ+OJ7ofm4AlkePyslS3gOWCkPBBoqMAaMEMoO2pzDWSdfcPEo7nkYx89DNKI8p5ZdqOfqP7MHtcpqG30SIzhOME70aEQPaadCxeLdLLeAqw4m+Z4ZRmt6WAz+82ca1ihUNjIlZj4pZPV1ZzXSvUKFF2ksiwFe126tTRwK4a/HxgTbbIuQ2UTp5GOVfzKvibidmMCKSt6opFKtiQLMWT5pA5ZQ3ohmqISiDv42uKdUE2RqCtIlRWYQZ9zpVK9A/oovYYY=;k+aSYtzsY++IONqyqds1CA=="
 ---

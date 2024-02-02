@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
+    publishedDateTime: 2024-01-28T08:29:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "One of Google DeepMind’s lead developer quits to launch AI startup"
     excerpt: "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai."
     publishedDateTime: 2024-02-01T02:00:00Z
@@ -57,31 +73,20 @@ related:
         width: 578
         height: 435
         isCached: true
-  - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
-    excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
-    publishedDateTime: 2024-02-01T00:23:00Z
-    webUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/"
-    ampWebUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 66
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
-        width: 567
-        height: 536
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
         isCached: true
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
-    publishedDateTime: 2024-01-28T08:00:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
 
 secured: "qVJD+LjsYhq5TJ10KBaJP8R8HSZUGLodEfPoWjtsmpa06QwSeyFcDxHlLmD6QLh9WP6w+/5NNdCfUnzFPmnU6QA2Q5cBjmcMMERa474SfFDL8tl4oOJOKsjQfKr5ILB+zQnIlbFSC26BNrIkPk3rEOlz5H3bzmaNiXVrhVAgxpLpGFNpxPmBiHw9AjYB+NtHVGBGlZWlkTzNQFtIzgSImKBTVxid44DA8Jr0pRejutpWsW4nQyRa0JMIa0zXnV18RfTNNSs44X5SkQLTEzrALL+4pSYqMhyNKmAMPMxWBhHiAqBpYYwaf4m/VZAGVwDai/3Y3LLcVOwT96933xSIf8r0zuDPQxB6cj2N4PxmHLI48BnUG30BqavyYnQL09sOo5+olyVdroLcjeqf5Q0GCgiRTdVcKcgKQWmCOG/uPCQrU+l88BfW5I+aB6oNpdNt5Ni13FJxcWijC7EadCipC7h0pvgJ/JeIgwDVpQBN19ZAkyfs7cOAIbg4gdwe8K0D+CANdezOMgFEPhwgg/IBZA==;jSVa+Pui72SFeeiDP8cdOQ=="
 ---

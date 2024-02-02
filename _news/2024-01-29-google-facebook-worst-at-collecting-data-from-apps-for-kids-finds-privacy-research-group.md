@@ -56,6 +56,15 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 4
+  - title: "Facebook owner Meta to pay investors for first time after profits triple"
+    excerpt: "Meta, which owns Facebook, Instagram and WhatsApp, will issue its first dividend, paying investors 50 cents a share."
+    publishedDateTime: 2024-02-01T22:30:00Z
+    webUrl: "https://www.seattletimes.com/business/facebook-owner-meta-to-pay-investors-for-first-time-after-profits-triple/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 3
 
 secured: "i4s7ps5aKyXwAkEuZuaCleS651NMX60yxuHY0BUY+tDNqlybgOFtqzFOBIP+Dj9kfJyIHlZOOiSnQdADNJms54ioLpDe3a3TQodDXcB8SvztbApSaO7rtZ3S0X8FKgX9cT6l8J1cTK4GV7kh7hWQgwIKo43b6/sgnCvEl0uJMRUC0+rZaorbkOIc4rl+4Zd7GLqN0cXzjVuldOxgGPh9pP7vQt+kNnceKYhGMc5WqiXgyvt+LgxaPDtzIF0IFl/jZGJqqvSP5iKh2T/5ZPufhn1+J7OOe+kU66thGqoAgTdVrhu9g7jd5C2gD14b/P4U0WrgqVqeOFrBEKDMQysCq+RYga2kvVVwP/XkySHIwQQPV2wx+Uyv/FoNm605J3cWIvHTt0oDeE743JH7AzclIjrfIusYSlHVepJzEaB8Sar/oikEa2fcztlfxRMqjDrkDNqnryHRqGOHFNtCbPBjqA60ry9XDFMa3t83XMZDIMRQjnnAwFoKzH17mahR4I2IgV6VtljspexPOtdWLjmafw==;Eaarh9BHx4HBk4YoIUndKA=="
 ---

@@ -830,19 +830,19 @@
     {
       "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
       "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
-      "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
+      "excerpt": "In all three cases, the authorities had the wrong people. In all three, it was face recognition technology that told them they were right. Law enforcement officers in many U.S. states are not ...",
       "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
-      "originalUrl": "https://tulsaworld.com/news/nation-world/crime-courts/article_ac92a20f-03d9-5fc0-b02a-007e0e8c1400.html",
+      "webUrl": "https://theconversation.com/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-217226",
+      "originalUrl": "https://theconversation.com/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-217226",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/4/ab/4abddc93-c436-58bb-9eaf-c96eef058a99/65b285e5108c0.image.jpg?crop=1440%2C756%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.theconversation.com/files/569962/original/file-20240117-29-ri412u.jpg?ixlib=rb-1.1.0&rect=0%2C276%2C5272%2C2636&q=45&auto=format&w=1356&h=668&fit=crop",
+          "width": 1356,
+          "height": 668,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -855,8 +855,8 @@
       "publishedDateTime": "2024-01-19T13:42:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
+        "name": "The Conversation",
+        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

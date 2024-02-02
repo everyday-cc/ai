@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Indiatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
+    publishedDateTime: 2024-01-28T08:29:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz--PxxmEBPwiQDrfyc5LvmQelSj--30mYK2oUUa4tztQwZq6EkcxUC6k83a_Q7Yzs9r5tzZq"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 104
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "India well-positioned to help shape future of AI: Google DeepMind's Jeff Dean"
     excerpt: "India has tremendous technical talent; there's a long tradition of computer science students in India doing amazing things, says Dean"
     publishedDateTime: 2024-02-01T12:04:00Z
@@ -43,31 +59,20 @@ related:
         width: 578
         height: 435
         isCached: true
-  - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
-    excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
-    publishedDateTime: 2024-02-01T00:23:00Z
-    webUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/"
-    ampWebUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 66
+      name: The Information
+      domain: theinformation.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
-        width: 567
-        height: 536
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
         isCached: true
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
-    publishedDateTime: 2024-01-28T08:00:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9b56oNVdtxHadnqaUvAiFv2aqS5c00RYP5aI1fp2UsvqprSuzSVoZSa7_W0QJT4dWjtJm2"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
   - title: "Google DeepMind WARM: Can Make AI More Reliable"
     excerpt: "Researchers at DeepMind published details of a new AI training model called WARM that improves efficiency, reliability, and quality"
     publishedDateTime: 2024-01-31T00:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.unionleader.com/news/politics/voters/fake-biden-calls-
 webUrl: "https://www.unionleader.com/news/politics/voters/fake-biden-calls-traced-to-ai-startup/article_2509e5d0-bedf-11ee-895c-13df9b32807f.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "N.H. Primary Biden Deepfake Robocall Traced to AI Startup"
-    excerpt: "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account."
-    publishedDateTime: 2024-01-27T23:49:00Z
-    webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "The Biden Deep Fake Underscores the Risk Artificial Intelligence Poses in an Election Year"
-    excerpt: "AI literacy will be integral to preserving a fair and free election--and every business has their role to play."
-    publishedDateTime: 2024-02-01T22:04:00Z
-    webUrl: "https://www.inc.com/melissa-angell/the-biden-deep-fake-underscores-risk-artificial-intelligence-poses-in-an-election-year.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 27
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/joe-biden-ai-deepfake-inc-1953489723_537010_u5drml.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "AhvBofRwh8fdrW7v4Z0ceYmUrG8y7+694kdxf0u8z/tJ1VulvlrgjUUxgAtYrbNPVLgmWy1qe7S9kVLLX4+MIRQsnJCRwRpU3Mbse0c5zEC3yDzXLKhbWRhyjMdyZmF6iSkFObzsXs55wt/4Nn36MOZKgyLZiADMLkJJzLAyQLyzyitOx2/dtxhHMPni89yRM5l6jHlubwdQJxr3Z++qL5jEpSDsCyYKRIGKQ6tYpPTkXTXTrgoHmWSUcZXSuSIy5omcr/MnZmD9LKC64LKzVtaEtfLNet4qc/6LdTpE6JOUYCS9/cSBa7HbV41Ouhvwtqe7LQLZ9IYnZ7Hk43HwxKkPtD7StIU35xQjB02UaUc=;HdThNl0K2l3CrfdGKnEY8Q=="
 ---

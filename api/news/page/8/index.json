@@ -2,6 +2,152 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-26-eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films.md",
+      "title": "Eleven Labs Secures $80 Million For Voice Cloning, AI Photo App Artisse Bags $6.7 Million, AI Art Films",
+      "excerpt": "In this photo illustration, the Eleven Labs logo is displayed on a smartphone ... [+] screen. (Photo Illustration by Rafael Henrique/SOPA Images/LightRocket v",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b31a394eaeffd3d60f20e7/0x0.jpg?format=jpg&crop=1417,797,x0,y209,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/01/25/eleven-labs-secures-80-million-for-voice-cloning-ai-photo-app-artisse-bags-67-million-ai-art-films/amp/",
+      "publishedDateTime": "2024-01-26T02:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident.md",
+      "title": "GM’s self-driving car division is under investigation by DOJ and SEC after pedestrian dragging incident",
+      "excerpt": "Cruise, General Motors’ self-driving vehicle unit, disclosed today that it is the subject of two federal investigations regarding its actions after a severe accident involving a Cruise “robotaxi.” In just the latest setback in the auto industry’s attempt to perfect driverless cars,",
+      "sourceUrl": null,
+      "webUrl": "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/",
+      "originalUrl": "https://ktvz.com/money/cnn-business-consumer/2024/01/25/gms-self-driving-car-division-is-under-investigation-by-doj-and-sec-after-pedestrian-dragging-incident/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktvz.b-cdn.net/2024/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHJ0dHJ0Z2gwMDAwM2I2aGVwNmIyNjFz-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NscnRudXlhdTAwMHMyNnAxZmdsbjhzdHo-scaled.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVZ",
+        "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-opinion-intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead.md",
+      "title": "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead",
+      "excerpt": "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-474373/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "publishedDateTime": "2024-01-26T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-the-benefits-of-medical-speech-to-text.md",
       "title": "The Benefits of Medical Speech-to-Text",
       "excerpt": "What is medical speech-to-text? Medical speech-to-text, also known as medical speech recognition (MSR), is a technology that allows you to dictate your medical notes instead of typing them.",
@@ -1049,162 +1195,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
-      "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
-      "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
-      "originalUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14807e631844a3005ca8d/0x0.jpg?format=jpg&crop=1230,922,x144,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1201,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
-      "publishedDateTime": "2024-01-25T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-how-to-use-cognitive-automation-to-optimize-operational-workflows.md",
-      "title": "How To Use Cognitive Automation To Optimize Operational Workflows",
-      "excerpt": "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 883,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
-      "publishedDateTime": "2024-01-25T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
-      "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
-      "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
-      "publishedDateTime": "2024-01-25T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

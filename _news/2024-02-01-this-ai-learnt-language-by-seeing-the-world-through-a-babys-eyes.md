@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/d41586-024-00288-1"
 webUrl: "https://www.nature.com/articles/d41586-024-00288-1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,44 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "This baby with a head camera helped teach an AI how kids learn language"
+    excerpt: "A neural network trained on the experiences of a single young child managed to learn one of the core components of language: how to match words to the objects they represent."
+    publishedDateTime: 2024-02-01T19:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/01/Vong-adi1374-image-4.jpg?w=466"
+        width: 466
+        height: 621
+        isCached: true
+  - title: "Want to Learn AI? AI will teach you"
+    excerpt: "Companies are having to get their workforces up to speed on artificial intelligence, and fast. And it’s looking like AI itself may be teaching the class."
+    publishedDateTime: 2024-01-31T00:22:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f"
+    ampWebUrl: "https://www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/technology/want-to-learn-ai-ai-will-teach-you/news-story/63cbfa989376fa8488e882e28cdd0d7f?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+  - title: "A Camera-Wearing Baby Taught an AI to Learn Words"
+    excerpt: "Most machine-learning models rely on mountains of data to replicate human text, but new research suggests the recipe for learning language might be simpler"
+    publishedDateTime: 2024-02-01T19:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/a-camera-wearing-baby-taught-an-ai-to-learn-words/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 19
 
 secured: "f5Ltj2jlatjDmyTQkR+3ye954+uuEjPRw169UEBNEHcH/5MwBXUVojpqXWxPo3QKdwz3S5/S1TMp5cN2icHAu2WavhJrRIn0aEwj/hiMsicvNMn4w5pLNRLz+oXTn0S86tIxqFB9ix462uGca6CM1kmC200tWUQiW5+w9Nrn5BZdd/IEK8dDe0XOpHyW6RgHjPySxhPLqYf3rgk26lDTZyDskkuM4PCVkII7k1Zmvvri6o7Ngp3ZkMBfIvf6l+ZSdWeQ4DrDAj6vYWZYX+EQ0c7fdDyMEXF/leT7Bkeyo/g1eNOxTGNJv/GWR7bqctP2bGH+lOW+d68o+Qze5MYntHTGPywYc+ZDCSJ/SYwZ85s=;js+D3vYWP6v4Cpk/2Noa8g=="
 ---

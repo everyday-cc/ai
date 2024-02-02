@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-01T17:00:00Z
 originalUrl: "https://www.aol.com/finance/help-feed-world-better-farmers-150000141.html"
 webUrl: "https://www.aol.com/finance/help-feed-world-better-farmers-150000141.html"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Meta AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/FyG3bZXDIzJo7RiUPGSuWQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_fortune_385/9418430d04dcbd87bbebe5a6ca556589"

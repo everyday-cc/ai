@@ -246,6 +246,20 @@ related:
         width: 2802
         height: 1562
         isCached: true
+  - title: "‘Microsoft is back.’ How AI put the five-decade-old tech giant on top again."
+    excerpt: "This past week, Microsoft reported its fifth consecutive quarter of record revenue, booking $62 billion in sales, and just last week its market capitalization – the total value of all of its shares put together – surpassed $3 trillion, making it the most valuable company in the world."
+    publishedDateTime: 2024-02-01T23:45:00Z
+    webUrl: "https://www.spokesman.com/stories/2024/jan/31/microsoft-is-back-how-ai-put-the-five-decade-old-t/"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 51
+    images:
+      - url: "https://thumb.spokesman.com/uoac1_3XNzo-UyaYpuPwpwz21Jk=/1200x630/smart/media.spokesman.com/photos/2023/11/15/654d3c64877c8.hires.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
     excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
     publishedDateTime: 2024-01-29T11:00:00Z

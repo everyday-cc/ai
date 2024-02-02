@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
+      "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
+      "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/create-an-ai-center-of-excellence-to-kickstart-and-sustain-success/amp/",
+      "publishedDateTime": "2024-02-01T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-how-artificial-intelligence-is-shaping-public-transit.md",
+      "title": "How Artificial Intelligence Is Shaping Public Transit",
+      "excerpt": "Keeping up with evolving customer expectations is key to effectively providing services that people want and need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba7d3032ea0fb104d193c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/01/how-artificial-intelligence-is-shaping-public-transit/amp/",
+      "publishedDateTime": "2024-02-01T11:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-how-indian-farmers-are-using-ai-to-increase-crop-yield.md",
       "title": "How Indian Farmers Are Using AI To Increase Crop Yield",
       "excerpt": "Saagu Baagu shows AI's growing role in agriculture, helping developing-world farmers achieve sustainable and profitable practices.",
@@ -61,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/02/01/carpl-picks-up-6-million-for-its-one-stop-shop-for-healthcare-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -290,49 +394,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-one-of-google-deepminds-lead-developer-quits-to-launch-ai-startup.md",
-      "title": "One of Google DeepMind’s lead developer quits to launch AI startup",
-      "excerpt": "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "publishedDateTime": "2024-02-01T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -761,7 +822,7 @@
       "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -968,7 +1029,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1189,58 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
-      "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
-      "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65578df7f889a02ef53ce298/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 861,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/",
-      "publishedDateTime": "2024-01-31T10:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "FTC hosts tech summit on artificial intelligence; CFPB weighs in"
-    excerpt: "On January 25, the FTC hosted a virtual tech summit focused on artificial intelligence (AI). The summit featured speakers from the FTC––including all three commissioners––software engineers, lawyers, technologists, entrepreneurs, journalists ..."
-    publishedDateTime: 2024-01-29T15:11:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artificial-4803308/"
+  - title: "VW Opens AI Lab To Create Next-Gen Technologies"
+    excerpt: "Soon after Volkswagen announced that the Mk8.5 Golf has an infotainment system with support for the ChatGPT AI system, the carmaker opened a dedicated artificial intelligence lab that will serve as a “globally networked competence center and incubator” for next-gen technologies."
+    publishedDateTime: 2024-02-01T12:35:00Z
+    webUrl: "https://www.carscoops.com/2024/02/vw-opens-ai-lab-to-create-next-gen-technologies/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
     images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.carscoops.com/wp-content/uploads/2024/01/VW-AI-2.jpg"
+        width: 2250
+        height: 1265
         isCached: true
-  - title: "CFTC Requests Comment on the Use of Artificial Intelligence in CFTC-Regulated Markets"
-    excerpt: "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/cftc-requests-comment-use-artificial-intelligence-cftc-regulated-markets"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 10
 
 secured: "JGi2C0+E0t6YbMe0tWwaNpyCROo/2qMdByiGKkWenyKXLF4+DWZd3kkyvlsTTfmSUVfxi7YKJ4XbTAOmcphxpb4GF4GUWbFS+EgOnLh3pBbqUS+7GSPKFVSPGJ63i7aTylnn1PvXEkdXilL00LYpgXrWXhxb+vKvT3662jTNfiTF8VMIfEqiawQvr+FLfKYIyPQBrHBsXVrtcabm83+n4TtjBEfiXJeO/52soQSFsFDMRCozrHGUb7MolLETfQtmAi28k50vKL4t5qP0Y7ujKdo6TF9lHTvuw35ndorbyd9NaGS9vDY2Csmi6wiv8/DyfkieNxrlZzDPiwC+yPPu0wF2b35upfA3W8859ahny0k=;KO+oC9SQtx64HeajiHqF5g=="
 ---

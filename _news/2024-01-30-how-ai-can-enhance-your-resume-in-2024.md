@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 87
 published: true
 
 provider:

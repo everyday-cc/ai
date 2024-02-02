@@ -142,20 +142,6 @@ related:
         width: 1536
         height: 864
         isCached: true
-  - title: "New ChatGPT feature GPT Mentions and Brave browser integrates Mixtral 8x7B AI assistant"
-    excerpt: "It facilitates seamless translation between different languages, catering to a global user base. This feature is vital in an interconnected world, enabling users to access and understand content in multiple languages. Brave Leo’s AI-driven capabilities ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/gpt-mentions-brave-browser/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 48
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/New-ChatGPT-feature-GPT-Mentions.jpg"
-        width: 1280
-        height: 786
-        isCached: true
   - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
     excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
     publishedDateTime: 2024-02-01T18:29:00Z
@@ -175,6 +161,6 @@ related:
       domain: geeky-gadgets.com
     quality: 21
 
-secured: "zQeqB+EYkbWVDb3RK+bwcGlO3Sc9F68LL3g4wt2DBUYMFFO0EqYGOCtB81qzJMobjQ7qoUFlZV+JACV+Oni1mlme/pQno39JjA38PDH3ZjnNHfQFzuezIyFif2MOCZTLBhSaog3PvpTu+uZSthhx4mqXLG+nic1A0QvNSTpmfmVwif5JrU+DTXnsieIRYgIoZOgrpF90el+d2Eo96Gn5M5iPyf6E44mrDS4+BEj06T4eH+4UvG6WWgTe5GT0Ei598MS3SdrEXP7Pb0xYqpGWSjjy7QH2j7CUrfo5BVtHvDXLfjPmuyvim94e6IsuIx61jXd25xItfmyZ4GCqUxx+Z/Ykfde/wplkrFbDxNJ1mM4=;N6KO8x4g8w20qPptjwwssQ=="
+secured: "hiv61MuarUHk4MlCB1OV0frAh3Gw39GSUPzVW/XnDsMXsBSMavrIeRpB8I7nC8grEBRpwjh8+4ToiThw5A03Tgllft84o3JNUUdbEMUuDBZsQ6Z2NMBrV+7xddmjQ4equscgIjpkbWiUfawXAAFjpeYPCnS+vpGU4x9sEaFBmjf/uLmsvNm9OVWivWR8oX+/2LnctwvlH0yFfifMZLSf/YKPkHvNE06egoXEZb1v3jTVojiHT3kRuB0zdJxK81Xa+COnncBry9OXIbskI0SSyLwtkNQ3KyVk5+cUYp57t5CPe7z4g+WvjPc0kLZp5neHWUuIZi2As1GqQRUtn8OZadgGGO/L4EuT6BEZVjfCATskYI5DXlGyDCvHKFU/YcuqyNqmyWNboqadrlJRtfc9Rkmmcr5p79DWJ01KEw1inscxDHxu9kdKD6vwl3TsCQGJxOZjEvV1duYcgFcJCyPP0fK8XXIEQbGFuHtoxUxx6S9k8WOsCvbjuuBB75EFuIupFJpmOnIYaXfdUxFARLioDg==;bLjPhSmNGADALxYoOZZU6A=="
 ---
 

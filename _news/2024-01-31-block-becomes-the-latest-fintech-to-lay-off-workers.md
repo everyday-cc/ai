@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-t
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/"
 type: article
 quality: 74
-heat: 254
+heat: 255
 published: true
 
 provider:

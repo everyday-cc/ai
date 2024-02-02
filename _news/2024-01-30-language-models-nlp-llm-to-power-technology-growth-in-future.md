@@ -20,17 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "AI companies face growing competition, slower technology gains"
-    excerpt: "But the performance gains in large language models ... based tech company rolled out a suite of AI products this month, including a productivity tool for document summarization, conversational search and translation. Many other Canadian companies are ..."
-    publishedDateTime: 2024-01-28T00:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-ai-companies-face-growing-competition-slower-technology-gains/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 19
-
 secured: "E7HgMSS0oEHOS120bSpSE6Qm4+3gaa9CvI6tiWjUFmfmWkuGf1PHXv7DtL+KasAlcedTfyOkrt7xBNsLGVDygTr+p8rZfTkGeeB2oDgUmGr9g5azP+JlQbd2VXDr1Qp24xdH+UosHl5RTTRZRJVGH/xB6n+O9/6it0hBJI/iJCGfmVCuk9nGH6k7xbC6FuLHOq8zESbphJX0JZaFO9I3Mc5R7DFtVlzEkRx22AFK35hsT86P0JHv45r2ELPkrLHDkP7zotJfxkRiHyWO1N4ixSIkcW8CH13/u12p03l9GcSaqOK4/iVMA5J+wqd6l9eBJXp7H7IaPqyqhpckcgYwRm1rEYIFz44pAymjkUauA3iEHtm8gz0mRK2kZvfKRL7yk+gVvgrmyX1TMTElBCMTDb0Y86O2p5+pxFV8rDdKeiqhY4KHHxEacFzkGyLT2LI1TtK6WONCkFolCe3faRzFDel6wi7Ja2nREOw/pI1SRJ8DlJS0lh1YIl/xIN924rw1uz7Wn8qDPr15KMcORuNOog==;JKNdLI9U79xTYU8lz22T3w=="
 ---
 

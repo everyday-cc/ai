@@ -24,35 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "N.H. Primary Biden Deepfake Robocall Traced to AI Startup"
-    excerpt: "The call encouraged Democratic voters to stay away from the polls during the New Hampshire primaries. ElevenLabs traced the deepfake to a specific user and suspended their account."
-    publishedDateTime: 2024-01-27T23:49:00Z
-    webUrl: "https://www.pcmag.com/news/ai-powered-deepfake-biden-robocall-traced-back-to-elevenlabs"
+  - title: "President Biden hails US progress since signing AI executive order three months ago"
+    excerpt: "The White House has published a list of actions taken by federal departments and agencies, citing significant progress. President Biden has also established a ‘National AI Talent Surge’."
+    publishedDateTime: 2024-02-01T16:06:00Z
+    webUrl: "https://diginomica.com/president-biden-hails-us-progress-signing-ai-executive-order-three-months-ago"
+    ampWebUrl: "https://diginomica.com/president-biden-hails-us-progress-signing-ai-executive-order-three-months-ago?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/president-biden-hails-us-progress-signing-ai-executive-order-three-months-ago?amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Diginomica
+      domain: diginomica.com
+    quality: 53
     images:
-      - url: "https://i.pcmag.com/imagery/articles/00azFFDVcIwk9P3nu400C3R-1.fit_lim.size_1200x630.v1706398449.jpg"
-        width: 945
-        height: 630
-        isCached: true
-  - title: "Fake 'Biden' calls traced to AI startup"
-    excerpt: "CONCORD — Fake robocalls that appropriated the voice of President Joe Biden to encourage New Hampshire voters to stay away from the polls have been traced to ElevenLabs, a successful startup company in the field of artificial intelligence. Officials at ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.unionleader.com/news/politics/voters/fake-biden-calls-traced-to-ai-startup/article_2509e5d0-bedf-11ee-895c-13df9b32807f.html"
-    type: article
-    provider:
-      name: New Hampshire Union Leader
-      domain: unionleader.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/unionleader.com/content/tncms/assets/v3/editorial/3/c1/3c1c504a-bee0-11ee-ac7d-63171bcd371a/65b07cdfa9dd8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/Screenshot%202021-01-21%20at%2000.24.33.png"
+        width: 968
+        height: 684
         isCached: true
 
-secured: "E03TyZH2J3c9ulrW7TuTUFQeaCa8dzxBYhKCPBMWtUQ09h4kAXB+ThtlQVLzt0fhvMFfCuz1MczUB2XSNYSUQ86YfScRTgzCWnfdtKeqARqUtVm9w7nvQ11HyV1stRHuno3oy+VEgs4R42PUbaYUegN0P6BDAgZq61jWzwE0r1Nq0Yb6oy5eX6fVeA0QPA8TtaD4Zmh/V9qnwWAkFv1R0C+hKYXOl+S/m0gXQOQSUqGbIgF1fBLa2nyEw35d8dNhHA/0ap0cRTR9PoIZYXH6WBvTBloaAgwqbgl4p5BWhBQ3Wail/gqS5z6hForFkKlMFLpSZOTBfyPzxhDLPwKf8aniPa57jQgdXC3yDvfbCLw=;MFb7v2qklF1qi4soONL1vA=="
+secured: "W92mdrBSatfrrRAk7qN4etry/7nx3ljGCtOunml28f0Tt7PpEN9+d/RuSAaJ10lGup8flM5fq2CA/eMf0UM5q/zqXimlFhaV1RY4lhlVp9CZ3j43GMe711EotwIBs2aGIIwfH269BphXUUXfSghgb/+zHKx9/Kvc6iYLCLDN3bAyymA0aFC9lQEcpP0mLH8gImQq2CK+aMi/qX6Jq8ZD7SrJtYEw6F/qkssCOFLCw8kr7ZKyuiI1PVXtfCvwD/Rcsy489CaiX2SCv45PQpWFH6qNwlWSygQMcUZUb4AVYIiEt74ilXbgEZXciTKCvDQcFsHg5pjMqQgDTPfXzh9g6GqtMAgKuobFV7Sb8zz8tCbwviTcurqOlzhdGj+dme341CK2ZUxi12xFpjOfMYCP7cqmq6Xa3WbECBYtHVZpl9NESslqZSh8o7jHRxhA29i8mPa5kxI2sxf5gJAT2H306UQ0c2ooNlpfYjtTYGQTZlTefGhmJKvMbYVBL0Jv4LHLpE0S2+W1ekCJEWIg5WC5Yg==;PVdMURG/kt1kc4uZubZEpA=="
 ---
 
