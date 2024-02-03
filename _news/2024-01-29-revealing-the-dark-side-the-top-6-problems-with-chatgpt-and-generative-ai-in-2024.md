@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
 type: article
 quality: 98
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Class at Do Space in Omaha offers guide to ChatGPT, artificial intelligence"
-    excerpt: "SINCE MOVED SO FAR, YOU MAY HAVE HEARD ABOUT CHADRON, GPT, AND ARTIFICIAL INTELLIGENCE, BUT HOW IT WORKS OR HOW YOU CAN USE IT STILL WIDELY UNKNOWN. WE’LL DO SPACE IN OMAHA OFFERS A CLASS TO ..."
-    publishedDateTime: 2024-01-29T02:29:00Z
-    webUrl: "https://www.ketv.com/article/omaha-do-space-class-artificial-intelligence-chatgpt-guide/46569487"
-    type: article
-    provider:
-      name: KETV Omaha
-      domain: ketv.com
-    quality: 54
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/7ac8224c-5cdf-4789-b37d-902b33b78d13/c383e0a4-22f1-4c8e-894d-60c395d782c9.jpg?crop=0.737xw:0.736xh;0.184xw,0.0290xh&resize=1200:*"
-        width: 943
-        height: 530
         isCached: true
   - title: "Google Bard finally lets you create AI-generated images, like ChatGPT and Bing"
     excerpt: "Google has announced a new update for Bard that finally lets users create AI-generated images with a text prompt."

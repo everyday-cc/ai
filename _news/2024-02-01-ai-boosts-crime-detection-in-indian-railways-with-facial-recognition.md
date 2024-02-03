@@ -66,20 +66,6 @@ related:
       name: Skift
       domain: skift.com
     quality: 54
-  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
-    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
-    publishedDateTime: 2024-01-29T02:00:00Z
-    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 37
-    images:
-      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tamil Llama Uncovering New Grounds in Indian Languages"
     excerpt: "Tamil Llama, a pioneering language model that is specifically designed to understand and interact in Tamil, demonstrating significant advancements in computational linguistics, particularly for Indian languages."
     publishedDateTime: 2024-02-01T10:59:00Z

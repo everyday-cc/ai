@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data"
+    excerpt: "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy."
+    publishedDateTime: 2024-02-03T02:26:00Z
+    webUrl: "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Mark Zuckerberg says Meta will ‘keep things lean,' going big in AI with a lid on hiring"
     excerpt: "Meta CEO Mark Zuckerberg has no plans for his company to ramp up hiring, but says he’s spending heavily on computing infrastructure and the metaverse."
     publishedDateTime: 2024-02-02T02:22:00Z

@@ -24,6 +24,17 @@ images:
     height: 678
     isCached: true
 
+related:
+  - title: "Robots to help with human habitation in space"
+    excerpt: "The all-SEAS team, which included Wood, Teeple, former undergraduate and postdoctoral fellow at SEAS Daniel Bruder, and graduate student Moritz Graule, designed a soft arm with two individually controlled ... equipment with robots in mind?"
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1033160"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+
 secured: "eQdHfwQQNGgP0RQRqFr80vr0r6Xa1hYX4wDRuAq28l0r5RyAh9qHEFBSEWNnsj5ADS7vIzn0IWGpf/50UgEl3QrdQBUhyE9XlNA/zep2lJmpG3ozmHGRvc/Lhkw1WnZ+xWKvwH7qdI0SqoxC37huwESWnJST+PC7JLjXUMhRxhh/vuFGZ2v1WlMZnUTrFMe77szzlXcix8DfB5gUGkrB3J9/VdP3inUW+3cveL6uFyw65cBNOlxZHRhDraMTP8HdBzNONxwucFxMS4UqD3fbCTp8AUDgnv7DvH/Efc6ua99X8SrNLO1d9LRxAS0XuDWGX5MiUVb4Zh1HpE0maf2GsoXiYGNthf2cXIyNGkIMvmZOAQX5yfENZZ8pymIj2ucvgKLr0hiTyoZqCvCZk5NwgNzAAFtkl05K/LH3QMRczgDGxcQdpOL4uDtoie9EakPT+oQVsR++i7K3S1wFkbSjc1PoT1Vow5w92YhA4UnLsrGl2CVJ/La0+CUaRwfoYkdMSOI8pkGOO1VT7I4+tRKOKQ==;2W9PogEM72txH0x/uqmuPQ=="
 ---
 

@@ -2,6 +2,90 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-01-manageplusyour-journey-before-with-and-beyond-rise-with-sap.md",
+      "title": "ManagePlus—your journey before, with and beyond RISE with SAP",
+      "excerpt": "Considering an onboard into RISE with SAP? Explore a few scenarios and learn more about RISE with SAP's offerings.\nThe post ManagePlus—your journey before, with and beyond RISE with SAP appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/manageplus-your-journey-before-with-and-beyond-rise-with-sap/",
+      "originalUrl": "https://www.ibm.com/blog/manageplus-your-journey-before-with-and-beyond-rise-with-sap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond.md",
+      "title": "Top concerns industry leaders have about cyberattacks in 2024 and beyond",
+      "excerpt": "Read about the concerns that industry leaders have for the future and three approaches organizations can take to build up their defenses.\nThe post Top concerns industry leaders have about cyberattacks in 2024 and beyond appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "originalUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-memory-demand-for-ai-boosts-chip-tester-business-advantest.md",
       "title": "Memory demand for AI boosts chip tester business: Advantest",
       "excerpt": "Japan's Advantest said it sees sales of memory testers reaching 244 billion yen ($1.65 billion) in the financial year ending March, an increase of 5 billion yen from its October outlook but down a quarter on the same period a year earlier.",
@@ -209,7 +293,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1149,110 +1233,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains.md",
-      "title": "In Iowa, Legislators Consider Singing Requirements And Unlicensed Chaplains",
-      "excerpt": "Some Iowa legislators want to offer public school students both chaplains and a daily dose of the Star Spangled Banner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "originalUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba69e487156c00d253f211/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "publishedDateTime": "2024-01-31T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-highlights-of-tesla-ceo-elon-musks-court-ruling-mars-frankenstein-a-self-driving-car-pun.md",
-      "title": "Highlights of Tesla CEO Elon Musk's court ruling: Mars, Frankenstein, a self-driving car pun",
-      "excerpt": "A Delaware judge voided the $56 billion pay package Tesla gave Elon Musk, CEO of the electric automaker, after finding the company failed to show it was fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335105-1700154424109-gettyimages-1760546933-UK_MUSK.jpeg?v=1706667973",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "publishedDateTime": "2024-01-31T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-s-ascendanc
 webUrl: "https://markets.businessinsider.com/news/stocks/amazon-s-ascendancy-beck-s-buy-rating-on-aws-growth-and-genai-prospects-1033024758"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership"
+    excerpt: "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ..."
+    publishedDateTime: 2024-02-02T06:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Buy Rating Affirmed for Alphabet on Strong Q4 Results and AI Leadership"
     excerpt: "Truist Financial analyst Youssef Squali has maintained their bullish stance on GOOGL stock, giving a Buy rating today. Geoff Meacham has given"
     publishedDateTime: 2024-01-31T09:57:00Z

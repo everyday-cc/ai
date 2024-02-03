@@ -80,20 +80,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Ola Founder’s Krutrim Becomes First $1 Billion Indian AI Startup"
-    excerpt: "Krutrim, the AI startup founded by serial entrepreneur Bhavish Aggarwal, has gained unicorn status after securing $50 million in funding from investors including Matrix Partners India."
-    publishedDateTime: 2024-01-29T02:00:00Z
-    webUrl: "https://www.ndtvprofit.com/business/ola-founder-s-krutrim-becomes-first-1-billion-indian-ai-startup"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 37
-    images:
-      - url: "https://media.assettype.com/bloombergquint%2F2024-01%2F9541de05-2fc1-4995-9dea-86444606cbb1%2F_1x_1.jpg?rect=0%2C0%2C2000%2C1050&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "bGNlS2kSId1cb5xNzv8kIHfra31Rjnyuo8NHftPeVJCdJ3IIaN0pvv6nPRhx1A5VLX2yJTFlG2/Mfeujw/qpZbTVOyo56ijvlToSvN1l/R91emlVMijPs+D8q6u+uoGspFmXw6X5kQOPuMwlxNj8uL5rOebqvKM0Tim5d86781kVVrrgOD36KErM0W0pFqx7j1XGg3Aw6zMth6V+q9fiElvN19k61sYRXxpEdK7+ICpcURlGs9tM3xkisQ0yp+5r4gY6r7vvsw5/oh/z4tF+p4lrw2f3jNZXWTbTu3RI1HKuNT1uO0ieGpTfbAznQw+jdBvBoD8tj5lhKYiYkebJ0cZHttY9QZ5XB93wm5ybc/IFD24X4t/ILJCnlEybaCnz/LGhCPFhTjJcHGu5OfxmuR2r1p/qvOU7A/YO6Uk/I8QOz0G8/v1rVvcSlZW2pTk4z7d+cs5b+Ng26IDdVUefuzMTKK0oQUP1UXLgjKYNssqT5crbLLBPNrXD77bxyKgxJxAkUo79ZJij/RdKQcP2cQ==;H0+qQ5+AC+R0J4swrzAGkw=="
 ---

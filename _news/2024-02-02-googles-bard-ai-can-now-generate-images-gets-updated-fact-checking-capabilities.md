@@ -27,59 +27,155 @@ images:
     isCached: true
 
 related:
-  - title: "Google Update Reveals AI Will Read All Your Private Messages"
-    excerpt: "Google has just unveiled a game-changing AI upgrade for Android. But it has a darker side. Google’s AI will read and analyze your private messages, going back forever. So what does this mean for you, how do you maintain privacy, and when does it begin."
-    publishedDateTime: 2024-01-29T02:26:00Z
-    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/"
-    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
+  - title: "Google launches an AI-powered image generator"
+    excerpt: "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/"
+    ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google Bard's latest update turns your words into AI images"
-    excerpt: "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities."
-    publishedDateTime: 2024-02-01T15:01:00Z
-    webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
+  - title: "Yelp launches revamped feed with AI-powered business summaries"
+    excerpt: "Additionally, Yelp now uses AI to show a summary of a business when you open its ... and more interactive review topic categories to help users get started with a review. The platform will start showing the badges next to a user’s review in the next ..."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/"
+    ampWebUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://techcrunch.com/wp-content/uploads/2024/01/New-iOS-Home-Feed-Experience.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "AI will soon be your personal tour guide on Google Maps"
-    excerpt: "From sushi hotspots to cheap oil changes, Google Maps' new AI feature has all the insights on the best places to go"
-    publishedDateTime: 2024-02-02T02:50:00Z
-    webUrl: "https://www.androidpolice.com/google-maps-will-use-ai-to-help-you-discover-new-places/"
+  - title: "Google’s Bard AI Adds Image Generation with Gemini Pro & Expands Language Support"
+    excerpt: "Google has recently improved its Bard AI by adding Gemini Pro and a new image generation feature. These updates aim to make Bard more useful in different languages and regions, providing users with better tools."
+    publishedDateTime: 2024-02-02T11:29:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/02/bard-ai-now-supports-gemini-pro/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Bard-Image-Generation.gif"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Google Bard Gets Big Upgrade; Can Generate AI Images, Supports More Languages"
+    excerpt: "Apart from adding image generation capabilities, Google has also expanded Bard to more than 230 countries and territories. Additionally, it now supports more than 40 languages including Arabic, Bengali, Tamil, and Urdu. Previously, it was available in 170 countries and only supported English."
+    publishedDateTime: 2024-02-02T12:48:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_bard_image_generator_1706877744448.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Google's Bard Now Features AI Image Generation"
+    excerpt: "(RTTNews) - Alphabet Inc.'s (GOOGL), Google has recently added an AI text-to-image generation feature named ImageFX in its Bard chatbot. ImageFX is available on Google's AI Test Kitchen, an experimental platform that allows users to interact with Google's projects while they're still under development."
+    publishedDateTime: 2024-02-02T21:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-s-bard-now-features-ai-image-generation-1033026514"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google Bard updated with image generation, support for Indian languages"
+    excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
+    publishedDateTime: 2024-02-02T10:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/j2ys2i/article67803977.ece/alternates/FREE_1200/IMG_Google_2_1_1FBO6532.jpg"
+        width: 1200
+        height: 875
+        isCached: true
+  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
+    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
+    publishedDateTime: 2024-01-30T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
+    excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
+    publishedDateTime: 2024-02-02T07:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Google powers up Bard with Gemini Pro and releases new AI tools"
+    excerpt: "Google’s new standalone ImageFX tool, also powered by Imagen 2, was added to the company’s AI Test Kitchen, a place where the company allows public access to experimental AI tools. Google also updated MusicFX, a text-to-music AI model that allows users to make songs."
+    publishedDateTime: 2024-02-01T18:24:00Z
+    webUrl: "https://siliconangle.com/2024/02/01/google-powers-bard-gemini-pro-releases-new-ai-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Bard_Generated_Image-Gemini-Twins.png"
+        width: 1536
+        height: 970
+        isCached: true
+  - title: "How to Use Google Bard’s Free AI Image Generator From Anywhere"
+    excerpt: "Google Bard has a new AI image generator that's easy to use for anyone in the US. Even if you're not, we can suggest a tested workaround."
+    publishedDateTime: 2024-02-02T16:22:00Z
+    webUrl: "https://tech.co/news/use-google-bard-ai-image-generator"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/02105942/AdobeStock_602890609_Editorial_Use_Only-1-e1706889628126.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
+    excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
+    publishedDateTime: 2024-02-01T22:24:00Z
+    webUrl: "https://www.androidpolice.com/google-ai-generated-profile-picture-creepy-as-youd-expect/"
     type: article
     provider:
       name: Android Police
       domain: androidpolice.com
-    quality: 37
+    quality: 31
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-maps-2024-2-ap-hero-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Google Bard in Messages app may access your private conversations"
-    excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
-    publishedDateTime: 2024-01-29T13:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-messages-integrates-bard-ai-privacy-concerns-raised/articleshow/107236045.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "0uVsAgAEvEb+fJVCJ59JXcaV2fjxVOlgFWGcLnnpFuGHDmUJV1N8qLR4x+fz9B8cVUFXnPAcpj1sb0L4XVa61XLNByDCc07y77gDPg0KVlBIkv82cJEpZ59hvssWzYKUjNZC51FB3ho9ewzU22uVOfrYiGO2caAb0xrSiTg3dSpAEmHINQLcc9kKcjyItBt0lJuQjNPIH9ElwRVLmon8NhGZ4vczPoWxtmjBVMH9t0X0E8JFwWAlqBJrpbO+qF/BkiO0iuNLHkGaTFX1EtXiDPfw8wERS+98ZVSfDahtMY1KDlFULWomEwUQtE/pN8392E3aPUFqc0hcHYC+X/B1mMvIjHxq24Pg6KnK8xwtA2Q=;j7z9Ph4fq5mVliTiQ7UliQ=="
 ---

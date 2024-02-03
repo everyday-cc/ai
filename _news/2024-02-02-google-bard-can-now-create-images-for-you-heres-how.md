@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/news/general/google-bard-can-now-create-images-
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/google-bard-can-now-create-images-for-you-heres-how.html/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,93 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Google Bard's latest update turns your words into AI images"
+    excerpt: "The latest update to Bard also brings Google’s Gemini Pro AI model, previously available only in English, to over 40 languages and more than 230 countries and territories, marking a significant milestone in Bard’s accessibility worldwide. Google says Gemini Pro enhances Bard’s understanding, reasoning, summarizing, and coding abilities."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 69
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/03/Stock-photo-of-Google-Bard-website-on-phone-7.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Image maker, language support and more: Three features coming to Google Bard AI chatbot"
+    excerpt: "Google is adding three features to its Bard AI chatbot, including AI image generation and support for more languages on Gemini Pro as well as double-c."
+    publishedDateTime: 2024-02-02T08:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/articleshow/107351424.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107351417,width-1280,height-720,resizemode-4/107351417.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Google Opens Up Its Bard AI Tool to Teenagers Around the World"
+    excerpt: "Spread the loveIn a groundbreaking move that is set to change the landscape of educational technology, Google has announced it is opening up access to its innovative artificial intelligence tool, Bard,"
+    publishedDateTime: 2024-01-31T04:28:00Z
+    webUrl: "https://www.thetechedvocate.org/google-opens-up-its-bard-ai-tool-to-teenagers-around-the-world/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/01/Google-Opens-Up-Its-Bard-AI-Tool-to-Teenagers-Around-the-World.jpg"
+        width: 2560
+        height: 915
+        isCached: true
+  - title: "Google’s Bard AI to Get Premium Subscription"
+    excerpt: "Google plans to introduce a subscription model for its Bard Advanced AI chatbot In its Q4 earnings call, Google revealed that the advanced version — dubbed Bard Advanced —﻿ will be powered by the upcoming Gemini Ultra language model which promises more complex and improved responses."
+    publishedDateTime: 2024-02-01T08:12:00Z
+    webUrl: "https://says.com/my/tech/google-bard-premium-subscription"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 19
+  - title: "You'll Need to Pay to Use Google's Best AI"
+    excerpt: "It doesn't cost anything to sign up for ChatGPT or to try out Google's AI bot, Bard, meaning anyone can experience the artificial intelligence hype for themselves. Now, Google is jumping on the bandwagon. During its Q4 earnings call, the company confirmed ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/what-is-google-bard-advanced"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 19
+  - title: "Meta’s Latest Update To Code Llama Transforms The Leading AI Programming Tool Into Its Largest And Best Performing Model Yet"
+    excerpt: "Meta's Code Llama 70B tool surpasses ChatGPT-3.5 with 53% accuracy, promising advanced programming assistance."
+    publishedDateTime: 2024-01-30T10:01:00Z
+    webUrl: "https://www.digitalinformationworld.com/2024/01/metas-latest-update-to-code-llama.html"
+    type: article
+    provider:
+      name: Digital information world
+      domain: digitalinformationworld.com
+    quality: 12
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjjzKfHh2GfJHAPaSL-hPmIm8pE-oDlFJw4ghS_6aMlkyXBvqkhriPtCRKwXn8HrkRNfVKHVAMKomA_STBEpXCBB-R1FXMUFVSa03u3TqTtUmuApFWyPo5iMVbyOLaCMe4nniCsWuoqOMEmn632hQjGtxWrZhDzpJShf8AUjBn_e1wYzpjQZE3gLwT0rC/w1600/met-o8.jpg"
+        width: 1024
+        height: 804
+        isCached: true
+  - title: "Google Bard in Messages app may access your private conversations"
+    excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
+    publishedDateTime: 2024-01-29T13:07:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-messages-integrates-bard-ai-privacy-concerns-raised/articleshow/107236045.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "UvSCjD4xM3oKbvDbj7qrDAImcwYF8WBqDUdDv0FasHp9X8D+nFCZe7vzW77mVj2QeAapMGj2N9tmR/pyplRNf6Z/Wa8yu9AGaowyuUS2IXNwhm8c1HTfLAhk7wtwvpq4oXKAOI9uVXC6bWWBMc6Qtl7R3J9YJPHaUe0W+N9fNva6bYtWNWAmceS16C1gSK8mUlO24xwq7NogGR/EZ/QRasdRovTI6VSNWbuNK7AB5QBrF1KvTK5/1+S0KyMQKMUCugWAeFpgDjyhmAjbeb9PJ5aLzz1X2IkGGq4GvIqRJSKgrm4Nnt7AzFZ4LxNaYshWQZiuoYYI+b13wtZY31D5SxZaWCKgrSiWA07XzpZTvqQ=;ndRX3G8Af4nnUo7IRCdipw=="
 ---

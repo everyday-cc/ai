@@ -9,7 +9,7 @@ ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bar
 cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Image maker, language support and more: Three features coming to Google Bard AI chatbot"
-    excerpt: "Google is adding three features to its Bard AI chatbot, including AI image generation and support for more languages on Gemini Pro as well as double-c."
-    publishedDateTime: 2024-02-02T08:25:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/articleshow/107351424.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107351417,width-1280,height-720,resizemode-4/107351417.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google Bard's Gemini Pro now understands 9 Indian languages: All you need to know"
     excerpt: "Google's Bard with Gemini Pro extends its reach globally, supporting multiple languages, and introduces a free image generation feature in English."
     publishedDateTime: 2024-02-02T11:18:00Z

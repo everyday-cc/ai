@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/china/china-and-hong-kong-sign-arrangement
 webUrl: "https://www.asiaone.com/china/china-and-hong-kong-sign-arrangement-reciprocal-recognition-civil-commercial-cases"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China, HK Sign Arrangement on Reciprocal Recognition of Civil, Commercial Cases"
-    excerpt: "China, HK Sign Arrangement on Reciprocal Recognition of Civil ... city a high degree of autonomy including the right to free speech and protest. Western critics say Beijing has reneged on those ..."
-    publishedDateTime: 2024-01-29T02:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2024-01-29/china-hk-sign-arrangement-on-reciprocal-recognition-of-civil-commercial-cases"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
   - title: "HK, China ink deal on recognition of civil, commercial cases"
     excerpt: "HONG KONG: China’s Supreme Court and Hong Kong’s department of justice said today that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
     publishedDateTime: 2024-01-29T07:30:00Z

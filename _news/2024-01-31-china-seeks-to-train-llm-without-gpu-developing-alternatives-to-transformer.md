@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Siemens and AWS Join Forces to Democratize Generative AI in Software Development"
+    excerpt: "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications."
+    publishedDateTime: 2024-01-29T19:27:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws-democratize-generative-ai-software? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 49
+    images:
+      - url: "https://www.automation.com/getmedia/619bfd18-e231-4303-9092-9bdf36a2bbee/Siemens-news-Jan-29-2024-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
     excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
     publishedDateTime: 2024-01-31T14:54:00Z

@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership"
+    excerpt: "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ..."
+    publishedDateTime: 2024-02-02T06:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Amazon’s Ascendancy: Beck’s Buy Rating on AWS Growth and GenAI Prospects"
     excerpt: "Raymond James analyst Josh Beck has maintained their bullish stance on AMZN stock, giving a Buy rating today. Josh Beck’s Buy rating for"
     publishedDateTime: 2024-02-02T09:47:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-01T08:36:00Z
 originalUrl: "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144"
 webUrl: "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144"
 type: article
-quality: 44
-heat: 44
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AI
   - Microsoft AI
 
-secured: "Uvq7HphHzeXCItU4SyHdVsLDz1nxpC6UL4HZuRlVjoJzek9DcBMq7NOkaARZqdfLGQXP1teomlOah8lVj4+YUTekf1yblOlG+JbxkYNm3FDb7u/YQeOgmuRvzoS3d+pAyS4PBGMwTmLN31mX9SX6pXk2pydVCiWh7+A5NV1Re844XCy90ITyzJNp+dDxPhVngl5ksoM8Bf+v5ykt1kTNNqJM/PWJ4Y8dc/rGJqEz5XMR35vAG60njy7KrICycNO7srGJrBep+cBkqV1RfvLP0Wr7vZiddOkf1OesuNeYTotxC7Sh9BozaRlT1EakTI/3ZrWglgMLTeOXiF8WRv2rww74p8PcT/1GQ8KA/itCDaw=;SiRzLpYAkpRW2Gyi09dRvA=="
+images:
+  - url: "https://d.ibtimes.co.uk/en/full/1722763/humanoid-robot.jpg"
+    width: 2500
+    height: 1667
+    isCached: true
+
+secured: "dpjpDLC4ovSxXBO1MJmmuKYDtMtVyBukRrpaTWYBwMmOHdz0mUGk7iJZ/TmrCUHE9GY2zqDcrwq6CS+YQz/3mpk/draUpI1vWMA64Ovum9wIx/k/TNZZMR9RSuNjO6wdFcJWE+CvxwSyFswZHqP+F0cKHqs0JF+wiS6cyVxjyT/uXmxqUGwpDFtf0jtA78AdPXYWYKpQuJPBZ7gCcGr1UWkDx2/RUZ6W6SZIg9R9c0aWGCny1SfklDgiCjBNRRmeFy3CrzNO6fwjv9VY8LWDWGVFkq4Kw7I0qBCKLiF1S/zP6gK6AmPbZWmYW1SfYCEYgwyrP8FpDGlXPkvHDBCXp4weTnCNHK5ChefdHI8nZeA=;/plX568hYy3tcVfCj/5iug=="
 ---
 

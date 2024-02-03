@@ -246,6 +246,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-28-why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career.md",
+      "title": "Why Attending a Financial Technology Bootcamp Can Skyrocket Your Career",
+      "excerpt": "A financial technology bootcamp provides participants with cutting-edge training on important concepts such as blockchain technology, data analytics, artificial intelligence (AI), machine learning (ML ... lines between banking services and technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
+      "originalUrl": "https://techbullion.com/why-attending-a-financial-technology-bootcamp-can-skyrocket-your-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2024/01/financial-technology-bootcamp.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-27T21:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-a-tidal-wave-of-financial-empowerment-is-coming.md",
       "title": "A Tidal Wave Of Financial Empowerment Is Coming",
       "excerpt": "The recent wave of consumer advocacy tools is an enormous improvement, but it’s about to be weaponized by generative AI in ways that will transform the market.",
@@ -1333,50 +1376,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions.md",
-      "title": "How AI and machine learning solutions drive value for financial institutions",
-      "excerpt": "In an era where technology is reshaping industries, BMO is making waves in the financial sector through its robust artificial intelligence (AI) initiatives and machine learning technologies. A recent interview with Eric Morrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "originalUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/09/GettyImages-994786384-1.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "publishedDateTime": "2024-01-08T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

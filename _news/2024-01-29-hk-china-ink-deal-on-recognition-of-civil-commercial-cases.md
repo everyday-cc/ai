@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "China, HK Sign Arrangement on Reciprocal Recognition of Civil, Commercial Cases"
-    excerpt: "China, HK Sign Arrangement on Reciprocal Recognition of Civil ... city a high degree of autonomy including the right to free speech and protest. Western critics say Beijing has reneged on those ..."
-    publishedDateTime: 2024-01-29T02:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2024-01-29/china-hk-sign-arrangement-on-reciprocal-recognition-of-civil-commercial-cases"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 30
   - title: "China and Hong Kong sign arrangement on reciprocal recognition of civil, commercial cases"
     excerpt: "HONG KONG — China's Supreme Court and Hong Kong's Department of Justice said on Monday (Jan 29) that they signed an arrangement on the reciprocal recognition and enforcement of judgements in civil and commercial cases effective immediately in both places."
     publishedDateTime: 2024-01-29T08:07:00Z

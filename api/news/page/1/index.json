@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
+      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
+      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T02:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-openai-launches-chatgpt-app-for-apple-vision-pro.md",
       "title": "OpenAI launches ChatGPT app for Apple Vision Pro",
       "excerpt": "OpenAI launches ChatGPT, a multimodal AI app that lets users chat with text, images, and voice on the Apple Vision Pro, the augmented reality headset powered by visionOS.",
@@ -302,7 +354,7 @@
       "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -586,7 +638,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -993,22 +1045,22 @@
       ]
     },
     {
-      "path": "_news/2024-02-02-amazons-ascendancy-becks-buy-rating-on-aws-growth-and-genai-prospects.md",
-      "title": "Amazon’s Ascendancy: Beck’s Buy Rating on AWS Growth and GenAI Prospects",
-      "excerpt": "Raymond James analyst Josh Beck has maintained their bullish stance on AMZN stock, giving a Buy rating today. Josh Beck’s Buy rating for",
+      "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
+      "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
+      "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-s-ascendancy-beck-s-buy-rating-on-aws-growth-and-genai-prospects-1033024758",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-s-ascendancy-beck-s-buy-rating-on-aws-growth-and-genai-prospects-1033024758",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T09:47:00Z",
+      "publishedDateTime": "2024-02-02T06:36:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1032,7 +1084,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1180,59 +1233,6 @@
         "Microsoft AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-dynatrace-extends-unified-observability-to-generative-ai-apps.md",
-      "title": "Dynatrace Extends Unified Observability To Generative AI Apps",
-      "excerpt": "We need to make sure we look at AI functions to look at their provenance, observe their state and status, watch their behavior and scrutinize the validity of the decisions they take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bad7f1cb6fca11c8f10f6a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1355,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/",
-      "publishedDateTime": "2024-02-01T21:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/1033044"
 webUrl: "https://www.eurekalert.org/news-releases/1033044"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Promising heart drugs ID'd by cutting-edge combo of machine learning, human learning"
+    excerpt: "Scientists have developed a new approach to machine learning -- a form of artificial intelligence -- to identify drugs that help minimize harmful scarring after a heart attack or other injuries."
+    publishedDateTime: 2024-02-03T02:14:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240201121723.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
   - title: "Machine learning tool unveils promising drugs to minimise harmful scarring post heart attack"
     excerpt: "Potential drugs could significantly reduce harmful scarring following a heart attack or other injuries using machine learning"
     publishedDateTime: 2024-02-02T09:06:00Z

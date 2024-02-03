@@ -7,8 +7,8 @@ originalUrl: "https://www.androidauthority.com/google-bard-update-image-generati
 webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Android Authority
@@ -29,51 +29,83 @@ images:
     isCached: true
 
 related:
-  - title: "Google Update Reveals AI Will Read All Your Private Messages"
-    excerpt: "Google has just unveiled a game-changing AI upgrade for Android. But it has a darker side. Google’s AI will read and analyze your private messages, going back forever. So what does this mean for you, how do you maintain privacy, and when does it begin."
-    publishedDateTime: 2024-01-29T02:26:00Z
-    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/"
-    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/"
+  - title: "Image maker, language support and more: Three features coming to Google Bard AI chatbot"
+    excerpt: "Google is adding three features to its Bard AI chatbot, including AI image generation and support for more languages on Gemini Pro as well as double-c."
+    publishedDateTime: 2024-02-02T08:25:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/articleshow/107351424.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/image-maker-language-support-and-more-three-features-coming-to-google-bard-ai-chatbot/amp_articleshow/107351424.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 51
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://static.toiimg.com/thumb/msid-107351417,width-1280,height-720,resizemode-4/107351417.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Google’s Bard AI can now generate images, gets updated fact-checking capabilities"
-    excerpt: "The most eye-catching new feature is undoubtedly image generation. Users can now describe an image to Bard in natural language, and it will conjure up a custom visual. This leverages Google ’s updated Imagen 2 model to produce high-quality, photorealistic images on demand."
-    publishedDateTime: 2024-02-02T07:51:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
+  - title: "Google Bard can now create images for you: Here’s how"
+    excerpt: "Google has announced that its AI chatbot Bard can now generate images for you: Learn how to generate images using the Bard chatbot."
+    publishedDateTime: 2024-02-02T04:27:00Z
+    webUrl: "https://www.digit.in/news/general/google-bard-can-now-create-images-for-you-heres-how.html"
+    ampWebUrl: "https://www.digit.in/news/general/google-bard-can-now-create-images-for-you-heres-how.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/google-bard-can-now-create-images-for-you-heres-how.html/amp/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 54
+      name: Digit
+      domain: digit.in
+    quality: 44
     images:
-      - url: "https://images.indianexpress.com/2024/02/Hero_10_1.width-1200.format-webp.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.digit.in/Google-Bard-2-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "AI will soon be your personal tour guide on Google Maps"
-    excerpt: "From sushi hotspots to cheap oil changes, Google Maps' new AI feature has all the insights on the best places to go"
-    publishedDateTime: 2024-02-02T02:50:00Z
-    webUrl: "https://www.androidpolice.com/google-maps-will-use-ai-to-help-you-discover-new-places/"
+  - title: "Google Opens Up Its Bard AI Tool to Teenagers Around the World"
+    excerpt: "Spread the loveIn a groundbreaking move that is set to change the landscape of educational technology, Google has announced it is opening up access to its innovative artificial intelligence tool, Bard,"
+    publishedDateTime: 2024-01-31T04:28:00Z
+    webUrl: "https://www.thetechedvocate.org/google-opens-up-its-bard-ai-tool-to-teenagers-around-the-world/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 37
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/google-maps-2024-2-ap-hero-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/01/Google-Opens-Up-Its-Bard-AI-Tool-to-Teenagers-Around-the-World.jpg"
+        width: 2560
+        height: 915
+        isCached: true
+  - title: "Google’s Bard AI to Get Premium Subscription"
+    excerpt: "Google plans to introduce a subscription model for its Bard Advanced AI chatbot In its Q4 earnings call, Google revealed that the advanced version — dubbed Bard Advanced —﻿ will be powered by the upcoming Gemini Ultra language model which promises more complex and improved responses."
+    publishedDateTime: 2024-02-01T08:12:00Z
+    webUrl: "https://says.com/my/tech/google-bard-premium-subscription"
+    type: article
+    provider:
+      name: Latest on SAYS
+      domain: says.com
+    quality: 19
+  - title: "You'll Need to Pay to Use Google's Best AI"
+    excerpt: "It doesn't cost anything to sign up for ChatGPT or to try out Google's AI bot, Bard, meaning anyone can experience the artificial intelligence hype for themselves. Now, Google is jumping on the bandwagon. During its Q4 earnings call, the company confirmed ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://lifehacker.com/tech/what-is-google-bard-advanced"
+    type: article
+    provider:
+      name: Lifehacker
+      domain: lifehacker.com
+    quality: 19
+  - title: "Meta’s Latest Update To Code Llama Transforms The Leading AI Programming Tool Into Its Largest And Best Performing Model Yet"
+    excerpt: "Meta's Code Llama 70B tool surpasses ChatGPT-3.5 with 53% accuracy, promising advanced programming assistance."
+    publishedDateTime: 2024-01-30T10:01:00Z
+    webUrl: "https://www.digitalinformationworld.com/2024/01/metas-latest-update-to-code-llama.html"
+    type: article
+    provider:
+      name: Digital information world
+      domain: digitalinformationworld.com
+    quality: 12
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjjzKfHh2GfJHAPaSL-hPmIm8pE-oDlFJw4ghS_6aMlkyXBvqkhriPtCRKwXn8HrkRNfVKHVAMKomA_STBEpXCBB-R1FXMUFVSa03u3TqTtUmuApFWyPo5iMVbyOLaCMe4nniCsWuoqOMEmn632hQjGtxWrZhDzpJShf8AUjBn_e1wYzpjQZE3gLwT0rC/w1600/met-o8.jpg"
+        width: 1024
+        height: 804
         isCached: true
   - title: "Google Bard in Messages app may access your private conversations"
     excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."

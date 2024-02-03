@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/mark-zuck
 cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/mark-zuckerberg-says-meta-will-keep-things-lean-going-big-in-ai-with-a-lid-on-hiring/3764542/?amp=1"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data"
+    excerpt: "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy."
+    publishedDateTime: 2024-02-03T02:26:00Z
+    webUrl: "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Mark Zuckerberg Says Meta Is ‘Playing to Win’ in AI"
     excerpt: "Meta Platforms CEO Mark Zuckerberg is signaling larger investments in the company's AI infrastructure. On a call with investors and analysts, Zuckerberg said he expects training and operating AI models will be “even more compute intensive” going forward,"
     publishedDateTime: 2024-02-01T22:09:00Z

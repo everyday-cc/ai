@@ -2,22 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-02-amazons-ascendancy-becks-buy-rating-on-aws-growth-and-genai-prospects.md",
-      "title": "Amazon’s Ascendancy: Beck’s Buy Rating on AWS Growth and GenAI Prospects",
-      "excerpt": "Raymond James analyst Josh Beck has maintained their bullish stance on AMZN stock, giving a Buy rating today. Josh Beck’s Buy rating for",
+      "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
+      "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
+      "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amazon-s-ascendancy-beck-s-buy-rating-on-aws-growth-and-genai-prospects-1033024758",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amazon-s-ascendancy-beck-s-buy-rating-on-aws-growth-and-genai-prospects-1033024758",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T09:47:00Z",
+      "publishedDateTime": "2024-02-02T06:36:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -41,7 +41,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
