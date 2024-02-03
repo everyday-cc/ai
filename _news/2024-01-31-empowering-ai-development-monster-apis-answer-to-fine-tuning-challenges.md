@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Four Ways To Empower Businesses Through AI"
-    excerpt: "How can businesses make the best use of AI, empowering their business prospects while mitigating ethical and technical risks like AI bias and hallucinations?"
-    publishedDateTime: 2024-01-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/four-ways-to-empower-businesses-through-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Human interaction, not AI, key to mastering foreign languages"
     excerpt: "Artificial intelligence (AI) is playing an increasingly important role in the teaching and learning of foreign languages, helping teachers tailor materials for individual students, and the latter improve their linguistic skills."
     publishedDateTime: 2024-01-30T08:38:00Z

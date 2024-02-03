@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-r
 webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -23,50 +23,15 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
-    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
-    publishedDateTime: 2024-01-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
+  - title: "7 Questions College Leaders Should Ask About AI"
+    excerpt: "Presidents and others should be developing strategies to ensure their institutions are positioned to respond to the opportunities and risks, writes David Weil."
+    publishedDateTime: 2024-02-01T08:08:00Z
+    webUrl: "https://www.insidehighered.com/opinion/career-advice/advancing-administrator/2024/02/01/key-questions-top-higher-ed-leaders-should"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1050
-        height: 900
-        isCached: true
-  - title: "Trusted, transparent AI is fundamental to next-generation decision making"
-    excerpt: "Transparent, explainable AI is more than a story of customer confidence. It’s about having trust in strategic decisions your business makes based on your AI’s analytics. Trustworthy AI is quickly becoming one of the hottest business debates on the planet."
-    publishedDateTime: 2024-02-01T04:43:00Z
-    webUrl: "https://itwire.com/guest-articles/guest-opinion/trusted,-transparent-ai-is-fundamental-to-next-generation-decision-making.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 38
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/107319a4967fc4ebfc0e9e6a355f01c6_M.jpg"
-        width: 375
-        height: 231
-        isCached: true
-  - title: "Artificial intelligence regulation a major theme this legislative session"
-    excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation-a-major-theme-this-legislative-session"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 36
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/1431b27/2147483647/strip/true/crop/2000x1050+0+275/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F25%2Fbb71713941e7bb4959907c8ae495%2F42271822770-09cee734c0-k.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 17
 
 secured: "XVC8iGYcjO6kXIPooLi2sbfXWTmFi7Y+0KC3wCQjRnmPM4yG2GmOYLyGrKliqv4uwaUoxnuYSaYJAlXY0GOEiQ+D1zOdjX4Yx3fE0+zYSKG6qU+WmyvSeLirF1hmlDqiFmHqhkyG9QJFVfnssKUddP+pN1CuEgvW+3TWcTuH4ESvAldyAKqQTd3oqlKYSuFg78CulI+XGxSOWaguSUNiXaUJOjrIaO9CR0H4Z32V72zrGyEUKscso8eK0L4LjI+rbrhmUor+o8zjWaJlycLEKuQqDopQjzd7f22eZLRqksHNMHEh3xf6nDyrNpQy8dSIUhAtRvvVkc0gB4B4FrDDT7VxdBQe6hqZ5CWf/rT6RPMxogf1J1/wS0rU+MGZ1Sjtl2Rb48EojkXNHUfvnLyja7xOx8mIGhHSuACsESdoJwGaXjOuDFSbNhaux/S21XqOQeiMcrKY42UUCgDuBQ1uCKLVvyBMcemvgmM38kzrCOHugPp1DnZK5e42EmhivRfrKsQ2Ac0ODFL6oRuX/5rWXg==;F3j9YzviqST9E9Xlz1L3/g=="
 ---

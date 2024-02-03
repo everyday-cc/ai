@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-fundin
 cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up"
-    excerpt: "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies"
-    publishedDateTime: 2024-02-01T21:41:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 66
-    images:
-      - url: "https://media.nbclosangeles.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Meta plans new in-house AI chip 'Artemis' to break away from Nvidia"
     excerpt: "Meta, the world's largest social media network, has been investing heavily in boosting its computing power to support its ambitious AI vision."

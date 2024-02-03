@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-imag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Bard_Generated_Image-Gemini-Twins.png"
         width: 1536
         height: 970
+        isCached: true
+  - title: "ASEAN launches guide on responsible AI governance"
+    excerpt: "The Association of Southeast Asian Nations on Friday launched a guide on the governance of artificial intelligence and ethics, se"
+    publishedDateTime: 2024-02-03T04:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20240203/p2g/00m/0in/018000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2024/02/03/20240203p2g00m0in017000p/0c10.jpg?1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How to Use Google Bard’s Free AI Image Generator From Anywhere"
     excerpt: "Google Bard has a new AI image generator that's easy to use for anyone in the US. Even if you're not, we can suggest a tested workaround."

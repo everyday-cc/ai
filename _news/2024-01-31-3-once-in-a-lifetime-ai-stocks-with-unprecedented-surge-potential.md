@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
   - title: "This AI Chip Stock Has a Near-Monopoly"
     excerpt: "The need for high-performance memory chips — a bottleneck in realizing full AI potential, according to Wennick — also adds urgency for chipmakers to book EUV lithography systems, especially since it normally takes the company between 12 to 18 months to ..."
     publishedDateTime: 2024-01-30T22:58:00Z

@@ -34,9 +34,9 @@ related:
   - title: "Facial recognition for cows"
     excerpt: "A horse is a horse of course of course,” goes the old Mr. Ed TV theme song, and while a cow is a cow, it’s important for ranchers and farmers to be able to tell them apart. For"
     publishedDateTime: 2024-02-02T23:10:00Z
-    webUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
-    ampWebUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+    webUrl: "https://wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/"
+    ampWebUrl: "https://wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/amp/"
     type: article
     provider:
       name: WGN Radio

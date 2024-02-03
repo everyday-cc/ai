@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2787911-ai-unveiled-
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2787911-ai-unveiled-separating-fact-from-fiction-in-the-age-of-intelligent-machines?amp"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 731
     isCached: true
+
+related:
+  - title: "The Future Unveiled: SaiKrishna Chinthapatla's Analysis of AI's Impact on AWS"
+    excerpt: "AI capabilities continue to evolve, AWS stands poised to play a pivotal role in shaping the future of cloud computing, offering a dynamic and intelligent platform that fuels innovation across industries."
+    publishedDateTime: 2024-02-03T12:21:00Z
+    webUrl: "https://www.ibtimes.sg/future-unveiled-saikrishna-chinthapatlas-analysis-ais-impact-aws-73332"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.sg
+    quality: 51
+    images:
+      - url: "https://data.ibtimes.sg/en/full/72707/saikrishna-chinthapatla.jpg"
+        width: 548
+        height: 732
+        isCached: true
 
 secured: "4u0Rx+yFS0ZNJ4xLw26wplMBuPj1L5E5GewJiOR0hDGR/FM1/kphy3scLeQx4Wvf0znEcIGLRSmut6l3u7l7+rVFBhg9JZYkI2fhPink1csVwMefX+agSQjGRp/BP6pEkLbcC88NpZDpb/sNxRXsCWqfzWCYDecnzpjsp21uiPa8wc3bgTaXvANUf2+5Iu2tqrrUAUMQjAU6I6u+8liyfSyqt4w9rl9eOqyXtpBKTjvUTAYMU4t5Y63obxpnR6dmIRcdUUsw+nOiLjir7+EMjI9VTdL5H4Az8NtS/OVfOsNZVIjP/bMeG92sbsZ+QIhW8Pk8sr2iLpKIXkSPc5YoRYiJfrJPEuKRBma9B/gq8X2t0xGefo3v+5TJJxzI0mMDGcGidU9wNQP9fbA9zU3MwfdAfmNh7iJ7JXaffBQPcGSJ/1g0bAd16kNHynZ3ISiVU+PANXCszW8u+mbHPAqHXw6Bil/ieIdgHZyfIGzR0SfItR+e63Z6VZgByV5ijEJ5RGj1XZqAgb0zYYAo2Rg4vg==;eGGNDfeXjnyCFaH4mD3tWg=="
 ---

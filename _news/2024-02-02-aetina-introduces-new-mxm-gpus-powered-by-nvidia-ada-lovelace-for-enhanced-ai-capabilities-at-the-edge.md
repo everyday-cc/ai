@@ -7,7 +7,7 @@ originalUrl: "https://www.koreaherald.com/view.php?ud=20240202000569"
 webUrl: "https://www.koreaherald.com/view.php?ud=20240202000569"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA rumored to switch to Intel for advanced packaging for next-gen AI GPUs, away from TSMC"
-    excerpt: "NVIDIA has reportedly moved to Intel for advanced packaging of its next-gen AI GPUs to stop shortages, the company is bottlenecked by TSMC's CoWoS tech."
-    publishedDateTime: 2024-01-31T02:46:00Z
-    webUrl: "https://www.tweaktown.com/news/95923/nvidia-rumored-to-switch-intel-for-advanced-packaging-next-gen-ai-gpus-away-from-tsmc/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 43
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95923_07_nvidia-rumored-to-switch-intel-for-advanced-packaging-next-gen-ai-gpus-away-from-tsmc_full.png"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "Aetina Introduces New MXM Gpus Powered By NVIDIA Ada Lovelace For Enhanced AI Capabilities At The Edge"
     excerpt: "Aetina, a leading global Edge AI solution provider, announces the release of its new embedded MXM GPU series utilizing the NVIDIA A"
     publishedDateTime: 2024-02-02T20:00:00Z

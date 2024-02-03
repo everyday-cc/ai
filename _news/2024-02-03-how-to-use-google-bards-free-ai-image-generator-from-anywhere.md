@@ -176,6 +176,20 @@ related:
         width: 1536
         height: 970
         isCached: true
+  - title: "ASEAN launches guide on responsible AI governance"
+    excerpt: "The Association of Southeast Asian Nations on Friday launched a guide on the governance of artificial intelligence and ethics, se"
+    publishedDateTime: 2024-02-03T04:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20240203/p2g/00m/0in/018000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2024/02/03/20240203p2g00m0in017000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
     excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
     publishedDateTime: 2024-02-01T22:24:00Z

@@ -64,7 +64,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Driverless cars covered 5x more test miles in California in 2023"
+    excerpt: "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed."
+    publishedDateTime: 2024-02-03T11:36:00Z
+    webUrl: "https://www.channelnewsasia.com/business/driverless-cars-covered-5x-more-test-miles-california-2023-4096636"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ABQGfuur--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-02t233656z_1_lynxmpek110sn_rtroptp_3_gm-selfdriving-cruise.jpg?itok=kmzb8JlC"
+        width: 1200
+        height: 676
+        isCached: true
 
-secured: "bZUr/U1VxkvM/T4rXe7pwN5DppAGPzctmqROZXeHnTUrOqPc7kaGQjOsadEG1uayATJ5zrmeBu7osK4B43dYOZc1OhqkGIhm+iJTNxHzGIWA5vDLzqHMcHCY6lfkbcWfWQE/Tw/UF88QPu2Lkjewm3/w+V2F9R+BB12FzcH3M6CPSq0TLuz8xZbDDRLl23i/DZwn0B9ggdpXYwKaBz52hQItbgeE5O1JBv6brbueBp3u3GZuTu8WSRVEMqUZq+W1sb36S4CKeg3QS3OH63iiXCvCLM0Qltzvm2wfRZ1M/S2BmBXRbmYPzm4W+RxPHofhYdZ2/oKNtWwGBQJn5AFsnhWSOQbOzDTFMOkcDSwaQpw=;loE0mHMnPxo2KEw4jSrEWQ=="
+secured: "w1/IKRA/N1EaV8jtoMoF4DeFvKt2APfAsZh1b9EjOs+g7KuHtDqTPlujdrW/sz/U9cEeRYz4kBLGHN6pffnL1u1OVJKfslHWidmKqA+muXA1pbf+tQQjhzd5qo6s1jWUMTJ9uhROoUs17sWXKAeWGznQMsq2v1qyHp0uxlyccIma6fNoB+Sn1YFkb5IP+YPfwsYLL7WCZvvYMlhexwAvfQe2hsmPizggOaI73tCcaLoDWTN6TtqspkFZos0LKEOsiipeyN7xhkOxnnhwAYbTD1Vs5e4dYpCkiC7eafZiPCm3/gH9ywcozW+XblcpX8UjirK1VO47YcxegAHZq4sF+AOl99qqXzU9aiMsE2/QR4cVTE6CEottCjHQ+8049045CxPBiAdiJI8hjbRc0jG08R+tCVR3M7uSniqYOd1GimqJbymJ2yVruc6zKTUk3zpRWhPmr2ASS7GA1bjE5pYJSv8eIjPo/pWcRhMsI/gqSV+h8+BF7KfqG0yPGzcwgU/BF7ff7/jjNofiJpVyFgmKfA==;qTAqSsQHcu1Yhz7StIJVKg=="
 ---
 

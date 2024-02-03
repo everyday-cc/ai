@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-01-ibm-doubles-down-on-its-ai-cloud.md",
+      "title": "IBM Doubles Down On Its AI Cloud",
+      "excerpt": "IBM has doubled capacity in its Vela Cloud, part of the IBM Cloud offering, to enable its clients to refine more and larger models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aea124b07c8335b8db3c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 807,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
+      "publishedDateTime": "2024-01-31T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-metronomes-usage-based-billing-software-finds-hit-in-ai-as-the-startup-raises-43m-in-fresh-capital.md",
+      "title": "Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital",
+      "excerpt": "Metronome, a startup which helps software companies offer usage-based billing, has raised $43 million in a Series B funding round led by NEA.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
+      "originalUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
+      "publishedDateTime": "2024-01-31T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2.md",
       "title": "Train and host a computer vision model for tampering detection on Amazon SageMaker: Part 2",
       "excerpt": "In the first part of this three-part series, we presented a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. In this post, we present an approach to develop a deep learning-based",
@@ -219,7 +324,7 @@
       "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -566,7 +671,7 @@
       "originalUrl": "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1125,101 +1230,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-codeium-nabs-65m-for-developer-ai-toolkit.md",
-      "title": "Codeium nabs $65M for developer AI toolkit",
-      "excerpt": "The goal is to go beyond writing and running code and address tasks in every stage of the software development lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
-      "originalUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_vintage_advertisement_illustration_of_coding_assessme_d81046ca-d3be-4a9d-906f-21e81e9f057e-transformed-e1706634498787.png?fit=750%2C600&#038;strip=all",
-          "width": 750,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T01:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-amd-earnings-ai-gpu-revenue-is-on-the-rise.md",
-      "title": "AMD Earnings: AI GPU Revenue Is On the Rise",
-      "excerpt": "We foresee the firm beating this new target, and we model $4 billion in DC GPU revenue in 2024. But we suspect this new estimate is still short of the expectations of at least some investors, perhaps leading to the 6% selloff in shares after hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
-      "originalUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/oGwDOZVkYS5-ew8-uCS4jggt8Z0=/1201x676/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/4EQFKYGMOVDYNASNDOOG6E4K4I.jpg",
-          "width": 1201,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

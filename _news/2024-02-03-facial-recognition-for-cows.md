@@ -3,10 +3,10 @@ category: news
 title: "Facial recognition for cows"
 excerpt: "A horse is a horse of course of course,” goes the old Mr. Ed TV theme song, and while a cow is a cow, it’s important for ranchers and farmers to be able to tell them apart. For"
 publishedDateTime: 2024-02-02T23:10:00Z
-originalUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
-webUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
-ampWebUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+originalUrl: "https://wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/"
+webUrl: "https://wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/"
+ampWebUrl: "https://wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/amp/"
+cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/the-business-of-food-with-steve-alexander/facial-recognition-for-cows/amp/"
 type: article
 quality: 59
 heat: -1
@@ -44,6 +44,6 @@ related:
         height: 900
         isCached: true
 
-secured: "5t9IXI7SGwI/NPDnEdYxc5e5guPiKc+SwQgOOInxJlaydNNs2dxcozPGt4YG9xxlWFjoYvGI3ST36XXLurb10FbNsZvEOWi0SJh4bgC+fEEhAmosYqNqavJXKe8jxqFbYqM2jaFqUZwU1VudY4bnBxSLVBgaekKz1HNyMoVJVsXG8kl3zuNYtGsl1nFi83jlOiVktzfukcXdLLeRWywqnBBSBJCG1ykFq9IMDdK1lEYYtyN7kzsWgKgOAiX8gJuxMrJSeP7Iof0FegAU55ISNHCpewKYdvwM5DFuYL33D+UwnwpLepLtarv+3AHPCYFRrln3A72Eg7095ZlICXeTerVImHs3y2NJFj0Lkzn0BAc=;h1VKCCQ2oCJm5WdjTLvbkQ=="
+secured: "4adJOSJiam05hRvJ6uultZ8wIYIDvJJKh6MKhxCIuA3C5X9KMtkgEWACJ7DpOEd1/n4S7lC+/kReeRmxRv+cwjouHwGrZG1dSTibabitI0H6c6HEOo9o7HNUhsqQ0KkcQoEMcd/zBHPNpL4Yc+PYawREx864+tgeHhdjXz2lvF9U3k/zxr6g0U0Da7GQNSub9U+RFL4b19u1KIhDQ/z3PufZna4ROQ5uxiRSVPCJxQN152SoCjW3FrogitLg0uOcQvdo6Lfa9AcK5ZLKFiNZP+qbEaZCaVApAD6E1XXPQbLsCm7xYaGPpVQc5ZEnwv7NvD2/ub8TCplqrGlWBrtNtE5Z63S7T27HbWXHsPdkXKQ=;BBbSFqgQL7pEac+mFXLjzQ=="
 ---
 

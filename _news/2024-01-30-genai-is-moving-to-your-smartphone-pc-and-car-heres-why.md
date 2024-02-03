@@ -8,9 +8,9 @@ webUrl: "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-s
 ampWebUrl: "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Computerworld
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2024/01/shutterstock_2298851863-100957012-large.jpg?auto=webp&quality=85,70"

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
+      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
+      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
       "title": "Azure AI Studio: A nearly complete toolbox for AI development",
       "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
@@ -92,10 +136,10 @@
     {
       "path": "_news/2024-01-22-is-ai-ready-to-be-your-therapist.md",
       "title": "Is AI Ready to Be Your Therapist?",
-      "excerpt": "This month, Microsoft announced the upcoming addition of its Copilot ... health professionals are trained in multiple modalities of psychotherapy, including cognitive behavioral therapy, supportive psychotherapy, psychodynamic psychotherapy, and others.",
+      "excerpt": "The use of AI in healthcare continues to grow. A 2023 survey showed that more than 1 in 10 clinicians already use chatbots such as ChatGPT as part of their routine workflow, and n",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -112,9 +156,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
-      "publishedDateTime": "2024-01-21T23:33:00Z",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
+      "publishedDateTime": "2024-01-21T23:24:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",
@@ -1323,49 +1367,6 @@
         "name": "AFP",
         "domain": "afp.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-the-10-most-in-demand-tech-skills-in-2024-with-skill-tests.md",
-      "title": "The 10 most in-demand tech skills in 2024 (with skill tests)",
-      "excerpt": "Here is a list of the top tech skills to have on your resume this year, as well as a list of skill tests you can use to gauge your current proficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T03:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

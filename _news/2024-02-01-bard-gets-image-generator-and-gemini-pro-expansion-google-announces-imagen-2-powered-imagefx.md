@@ -41,6 +41,20 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "Google launches new standalone AI image generator called ImageFX and promises ‘highest quality images yet’"
+    excerpt: "Google has launched a new AI image generator called ImageFX that will be available through Labs and is built on top of the Imagen 2 model powering AI image creation in Bard."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-launches-new-standalone-ai-image-generator-called-imagefx-and-promises-highest-quality-images-yet"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/D5LG7Qw87Q9XbmMBVboXpb-1200-80.png"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "Q0zed/at4FQJtx53AE9q7X+jt6ZFl+q9y78h8IdOzNBHSCCLHLVcOEx7C2Wqd2GOud3vjlgcwjtxd4S9+Pms/wtp78z6bGEaXlnmRcMppZxXJRQoLVKcJeDxBu2vYqzMAWQX4eYIMer8hxPi2SmB9Zq7YhTE9ZP7sKOI29DrUci6bpE07nQ/fi3tmbJ6zBLgbktRDurzyFE+uQ09b4Ya/CU7QWmu/yo5ZYhepWbsprElXObFWiFiZ50SZMWQC7AxyBTn16lRZdNxkmkjYdUcpBe4sK+Be33qk7ZC1bHF7y8k7FOoUPgwgdCDLgnKc19jZTvY59YxFStJGFqhP0H99/CBHZHE0TViNoNI/PzhQwFufeD/DmTn67kdMz4GD4PeizL+mBqGyePS3Pki3Zj9EcG5oQjff8NGfouLuEuEDDlCgJoK9uAUqxzIEk8vxvzkv6l2rLor/iL2/GCrBuH/oJkBloUwC4hUAluzo/UGmU45Ff9SPhcNn6a6WNs6UdGb2lfjdzp5AqtwEBg9pnKggA==;rRJFR9knzWzb4Wi1dbEILA=="
 ---

@@ -66,15 +66,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 11
-  - title: "Freshworks Inc: Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
-    excerpt: "This SCA aims to provide AWS customers with new ways to purchase and use Freshworks' solutions, including industry-specific, artificial intelligence (AI)-powered business applications to be hosted on AWS. The collaboration brings together the benefits of ..."
-    publishedDateTime: 2024-01-29T12:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61255907-freshworks-inc-freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "4PXR7QiDyNK8Y5u8CbfWOXXyZ+t8PWnI/Ibaw61mWWkrSyD0BteFzqNs9Zd/ANM5PpQQrZW14W9q0CYwkXOP5JFopYZMNwF028gh6eZIGbAmd3tJuiCXCSHbDsyxfT7t5+PYw4x66crRzhrfccX9Sqo3qdqxP8VIUyXJeqxwojjvv/+lj8wmPibL4z0EAbbFA4mYxIvpGfm2HUcK2n1XdCv0wk7swuUWHn1M41xwGXuL9RBNq18iKVzLDY3APZQ4it4W19kAUFHXdoQwD4ZpGagHomVuLqHb8xOxEVQQ252c36+e4LR69O7xS84xZsG2PTHzFNxO6I6ZoE8T3fXGwwAuWn0Ed+BmWJ2QN4ZrVMI=;GV39lB/7jzJ5ifQoup69Vg=="
 ---

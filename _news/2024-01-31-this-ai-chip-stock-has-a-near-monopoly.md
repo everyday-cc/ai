@@ -42,7 +42,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
   - title: "3 Once-in-a-Lifetime AI Stocks With Unprecedented Surge Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips History will show that 2023 was the year that AI stocks truly took off. Many"
     publishedDateTime: 2024-01-31T10:00:00Z

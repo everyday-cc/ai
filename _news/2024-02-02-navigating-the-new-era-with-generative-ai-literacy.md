@@ -126,20 +126,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
   - title: "Generative AI Will Not Replace Your Employees"
     excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
     publishedDateTime: 2024-01-29T16:14:00Z

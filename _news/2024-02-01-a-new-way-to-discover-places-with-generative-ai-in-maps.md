@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -116,20 +116,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "How generative AI is transforming the future of work"
-    excerpt: "In this regard, generative AI has made more impact than most – with OpenAI’s ChatGPT quickly becoming the fastest-growing consumer application in history, reaching 100 million users just two months after launch."
-    publishedDateTime: 2024-01-29T11:20:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/article/1859101/generative-ai-transforming-future-work"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 39
-    images:
-      - url: "https://www.peoplemanagement.co.uk/img/CIPD_logo.png"
-        width: 1181
-        height: 405
-        isCached: true
   - title: "Navigating the New Era with Generative AI Literacy"
     excerpt: "Data literacy has been a strong focus among data-savvy organizations. However, with the advent of advanced generative AI tools, this focus is quickly changing. Learn the components you should be focused on in the new era of generative AI literacy."
     publishedDateTime: 2024-02-02T11:13:00Z

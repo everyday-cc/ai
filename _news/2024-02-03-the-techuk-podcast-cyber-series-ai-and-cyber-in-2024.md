@@ -24,17 +24,6 @@ images:
     height: 398
     isCached: true
 
-related:
-  - title: "Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats"
-    excerpt: "From spam filters to spear phishing, AI is both defender and weapon. Learn how Cylance AI is staying ahead of the game,"
-    publishedDateTime: 2024-01-29T11:11:00Z
-    webUrl: "https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"
-    type: article
-    provider:
-      name: The Hacker News
-      domain: thehackernews.com
-    quality: 29
-
 secured: "d6ggwwoP2hDx4mqiGwaxkW7IFVw+b1kaR5C4mxK+6B/hpSHHPIeIgRc9taKole4d7JKIoJuMljDaSmlTwCMmAIWB0B8JOiZ4ZHhfXeIwqiwh/Zjv2LTXNfdeqzwf+ZN0ZgVACRo6M4hBrhGAySrxrupX4aRfvpKoTr7eSwbPtiERHVGtsbYhoKKV4fuKIz8s6T1WVHMPsCv74+3A626VmKyVsa2dQLf3MJXVhYCJMmcREvV9i9WZonN3zkCUbBTgOQJuLrRkj2rL81y8Qhy3TGFDdmtqKMdPSpoVBgPkZwpzY3Ueb2XXaPR8byq6Ya9yYX77+03fNkb1K15VaSYWibTbLq1qE87Zrt7LPE0HZ+I=;7HerTpnBoKGgqr3wZNJXrQ=="
 ---
 

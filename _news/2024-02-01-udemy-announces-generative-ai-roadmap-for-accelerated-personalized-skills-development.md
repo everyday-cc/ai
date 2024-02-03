@@ -65,15 +65,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 34
-  - title: "Freshworks Inc: Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
-    excerpt: "This SCA aims to provide AWS customers with new ways to purchase and use Freshworks' solutions, including industry-specific, artificial intelligence (AI)-powered business applications to be hosted on AWS. The collaboration brings together the benefits of ..."
-    publishedDateTime: 2024-01-29T12:35:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61255907-freshworks-inc-freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "i3dzGk9E7f7ebn4yVuixSDX2MWEqKFOUlNspl6jyHcioL6vqunNvLIfxaAfyCsG8Cl5Csqc539ruePumpe+p5rKHBK39YJ8B7P5BYruSA2xAUOehMFXIurQdImK5sQWEs2Y514U+aQoH7jB7M2ZglUmsG/NNuCG0HUN8LQnAMTez9nMOaDuoCd/+Ei5q7FoylAmagQZHJrIre7wqnb2BbF5PNkGiVB27DQczkHj0MiPj/uQQOrzArkjSR0rwKtMfF5eLij5ZqIjfFONqN3GDTiHKOMQhzS05EY3Ovyvl4JtamDG/MFxStbU05vxE5W3HMBr/gdxVT0Tmtatn7AP29G1iN0of31xS0DvlRZiub1M=;5IPEvhzzHI6mZXf5o9IocQ=="
 ---

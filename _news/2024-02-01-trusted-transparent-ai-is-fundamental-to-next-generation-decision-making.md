@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/guest-articles/guest-opinion/trusted,-transpare
 webUrl: "https://itwire.com/guest-articles/guest-opinion/trusted,-transparent-ai-is-fundamental-to-next-generation-decision-making.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 375
     height: 231
     isCached: true
-
-related:
-  - title: "Rise Of AI Calls For Enhanced Emphasis On Ethical Considerations, Transparency, Regulations"
-    excerpt: "Companies should be taking the lead in making sure that any AI products they develop are drawn from datasets fairly and transparently."
-    publishedDateTime: 2024-01-29T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/rise-of-ai-calls-for-enhanced-emphasis-on-ethical-considerations-transparency-regulations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6577815873723446e30ff273/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1050
-        height: 900
-        isCached: true
-  - title: "This Startup Is Ready For The Year Of The Robot And AI Companions"
-    excerpt: "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ..."
-    publishedDateTime: 2024-01-29T13:59:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Artificial intelligence regulation a major theme this legislative session"
-    excerpt: "Several Florida lawmakers are attempting to bring malicious uses of artificial intelligence to heel. Several proposed bills this legislative session would enact preliminary regulation on A.I., including requiring transparency in A.I. use in political ads ..."
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://www.wlrn.org/2024-01-29/artificial-intelligence-regulation-a-major-theme-this-legislative-session"
-    type: article
-    provider:
-      name: WLRN
-      domain: wlrn.org
-    quality: 36
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/1431b27/2147483647/strip/true/crop/2000x1050+0+275/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F25%2Fbb71713941e7bb4959907c8ae495%2F42271822770-09cee734c0-k.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7WqCZNn8IEBto/W94lOihXhtK4k1GyUtz7pGb6svwvxlLpkfuaJPmrUP+sc7vxjgFq8rtnsGaviZ2rrg7r2Clgopl9cSE5TjbsMGtOQzNFgfNrIBRIrIySyV2h9JlajyuoxrkUPHHgPPvc8AursXlZya/0A6SQizDTaECp7tClEQWL/o+cnLFH8tK9gtZSLQjddatySosWka+AXU//os16WEomSX5OqexJ7HQ8J+iYBm0hIaaOkkr3zNPw1hbHYGSGeQsFt/aLmoXsozzpwH3mZ8JX4xfR57FZp2MsTHiTKhDg/AwgR7F4+4UduMbjoAlXmkz1VqPMIaTiHo5rC9wm4X0puIji0qoXiRRh/aecsejPTedKeKQsjbwkSoJlyzXmvSwwB8MxnrDw5cupFZRMBg6zWrlDOMLMhfN7XnesN+TRlitrl04vdxGGKOgR7Jk9wvbi6wpQz0wB9zjY7jZ/i8y72rDiy3p7aRcBoFbFwHVauYb4cx7GBH+9jW6Ym4ZoBDlVR6oRIutTenATq8SA==;HEb0TDKYrRthNT2gtSf8wQ=="
 ---

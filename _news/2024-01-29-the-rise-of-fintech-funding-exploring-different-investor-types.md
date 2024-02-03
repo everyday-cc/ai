@@ -133,15 +133,6 @@ related:
         width: 1200
         height: 732
         isCached: true
-  - title: "The Chief Financial Officer's Role In The Fintech Evolution"
-    excerpt: "In an age where fintech's potential is boundless, its global reach is expanding, and its influence permeates every business sector, the role of the CFO is more crucial and dynamic than ever. As the CFO and treasurer at my company,"
-    publishedDateTime: 2024-01-29T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/29/the-chief-financial-officers-role-in-the-fintech-evolution/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
     excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
     publishedDateTime: 2024-01-30T06:47:00Z

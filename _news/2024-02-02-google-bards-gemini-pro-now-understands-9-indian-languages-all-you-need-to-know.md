@@ -52,6 +52,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 45
+  - title: "Talk To Your Tech: Google Bard Gets A Gemini Boost"
+    excerpt: "The machines are learning to talk, and they're doing it fast. While we humans have self-anointed ourselves as toppers in the language school, the machines have taken to the realm like fish to water. Powered by artificial intelligence,"
+    publishedDateTime: 2024-02-03T11:06:00Z
+    webUrl: "https://www.oneindia.com/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 44
+    images:
+      - url: "https://www.oneindia.com/img/2024/02/zzzzzzzzaa-1706958198.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google's Gemini Pro In Bard Now Available In Nine Indian Languages"
     excerpt: "Google, which brought Gemini Pro into its AI chatbot Bard in English last December, has now made it available in more than 23"
     publishedDateTime: 2024-02-02T11:00:00Z
@@ -75,20 +91,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "Google Gemini Pro moves to second place in chatbot performance table"
-    excerpt: "Google's Bard has made a significant leap in the world of chatbots, climbing to the second position on the Chatbot Arena leaderboard. This notable rise"
-    publishedDateTime: 2024-01-29T11:38:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-gemini-pro-benchmarks/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FEKodjqr5FCY%2F0.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Google Bard gets Gemini Pro update globally, image-generating capability"
     excerpt: "In late 2023, Google introduced Gemini Pro AI update to the Bard chatbot, but was limited to select regions and supported just one language English. Now, the search engine giant expanded the availability of Gemini Pro-based Bard globally and also now support several international languages including Indian dialects."
     publishedDateTime: 2024-02-02T11:49:00Z

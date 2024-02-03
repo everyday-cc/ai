@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up"
-    excerpt: "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies"
-    publishedDateTime: 2024-02-01T21:41:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/"
-    ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
-    cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 66
-    images:
-      - url: "https://media.nbclosangeles.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
     excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
     publishedDateTime: 2024-01-30T03:43:00Z

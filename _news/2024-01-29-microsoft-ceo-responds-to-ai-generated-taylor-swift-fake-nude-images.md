@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 354
+heat: 334
 published: true
 
 provider:
@@ -176,24 +176,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 66
-  - title: "Microsoft set for AI-powered revenue surge as stock pulls ahead"
-    excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth ..."
-    publishedDateTime: 2024-01-29T11:10:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-set-ai-powered-revenue-surge-stock-pulls-ahead-2024-01-29/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "PREVIEW-Microsoft set for AI-powered revenue surge as stock pulls ahead"
-    excerpt: "\"We expect AI contribution to Azure growth to increase, with our checks pointing to strong demand for Azure AI services,\" said Jefferies analyst Brent Thill in a research note. \"It's worth highlighting that we expect the situation at OpenAI will have a ..."
-    publishedDateTime: 2024-01-29T11:09:00Z
-    webUrl: "https://www.nasdaq.com/articles/preview-microsoft-set-for-ai-powered-revenue-surge-as-stock-pulls-ahead"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Microsoft Omits the AI Progress Report Investors Wanted"
     excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
     publishedDateTime: 2024-01-31T10:00:00Z

@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-31-codeium-nabs-65m-for-developer-ai-toolkit.md",
+      "title": "Codeium nabs $65M for developer AI toolkit",
+      "excerpt": "The goal is to go beyond writing and running code and address tasks in every stage of the software development lifecycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
+      "originalUrl": "https://venturebeat.com/programming-development/codeium-nabs-65m-for-developer-ai-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/11/nuneybits_vintage_advertisement_illustration_of_coding_assessme_d81046ca-d3be-4a9d-906f-21e81e9f057e-transformed-e1706634498787.png?fit=750%2C600&#038;strip=all",
+          "width": 750,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T01:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-amd-earnings-ai-gpu-revenue-is-on-the-rise.md",
+      "title": "AMD Earnings: AI GPU Revenue Is On the Rise",
+      "excerpt": "We foresee the firm beating this new target, and we model $4 billion in DC GPU revenue in 2024. But we suspect this new estimate is still short of the expectations of at least some investors, perhaps leading to the 6% selloff in shares after hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
+      "originalUrl": "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/oGwDOZVkYS5-ew8-uCS4jggt8Z0=/1201x676/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/4EQFKYGMOVDYNASNDOOG6E4K4I.jpg",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-ai-machine-learning-to-keep-old-structures-strong.md",
       "title": "AI, machine learning to keep old structures strong",
       "excerpt": "Old buildings can now be made safe and collapse-proof using machine learning and artificial intelligence-aided mechanisms. Philadelphia-based Drexel University",
@@ -158,7 +253,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1011,7 +1106,7 @@
       "originalUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1089,21 +1184,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-30-semron-raises-79m-for-ai-chips-with-3d-packaging.md",
-      "title": "Semron raises $7.9M for AI chips with 3D packaging",
-      "excerpt": "Semron has raised $7.9 million (7.3 million euros) for AI chips with 3D packaging for mobile devices. Dresden, Germany-based Semron said its goal is to set a new standard for AI chips in mobile devices, addressing the evolving needs of the industry.",
+      "path": "_news/2024-01-30-genai-is-moving-to-your-smartphone-pc-and-car-heres-why.md",
+      "title": "GenAI is moving to your smartphone, PC and car — here’s why",
+      "excerpt": "Generative AI tools, apps and services that use the processing power on edge devices can access data locally, return faster results, and they're more secure.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/",
-      "originalUrl": "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/",
+      "webUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html",
+      "originalUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/semron-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
+          "url": "https://images.idgesg.net/images/article/2024/01/shutterstock_2298851863-100957012-large.jpg?auto=webp&quality=85,70",
+          "width": 1199,
+          "height": 657,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1111,23 +1206,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html",
       "publishedDateTime": "2024-01-30T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1139,109 +1225,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-illuminating-traditions-ai-lights-up-chinese-new-year-celebrations.md",
-      "title": "Illuminating Traditions: AI Lights Up Chinese New Year Celebrations",
-      "excerpt": "As AI entwines itself with these age-old Chinese New Year celebrations, it brings a fresh perspective and an energizing spirit to the festivities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b77f96461666cd1334ed1e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/01/30/illuminating-traditions-ai-lights-up-chinese-new-year-celebrations/amp/",
-      "publishedDateTime": "2024-01-30T06:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model.md",
-      "title": "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model",
-      "excerpt": "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/",
-      "publishedDateTime": "2024-01-30T04:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

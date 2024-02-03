@@ -240,6 +240,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Data Governance: Preparing for the Copilots"
+    excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
+    publishedDateTime: 2024-01-31T20:47:00Z
+    webUrl: "https://virtualizationreview.com/Articles/2024/01/31/data-governance-and-copilots.aspx"
+    type: article
+    provider:
+      name: Virtualization Review
+      domain: virtualizationreview.com
+    quality: 39
+    images:
+      - url: "https://virtualizationreview.com/Articles/2024/01/31/~/media/ECG/virtualizationreview/Images/2024/01/SharePoint_sharing_settings_s.ashx"
+        width: 267
+        height: 300
+        isCached: true
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "SAN FRANCISCO (AP) — Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology ... Analysts polled by FactSet Research expected Microsoft ..."
     publishedDateTime: 2024-01-30T00:00:00Z
@@ -298,15 +312,6 @@ related:
     provider:
       name: The Tech Report
       domain: techreport.com
-    quality: 19
-  - title: "Microsoft Data Governance: Preparing for the Copilots"
-    excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
-    publishedDateTime: 2024-01-31T20:47:00Z
-    webUrl: "https://virtualizationreview.com/Articles/2024/01/31/data-governance-and-copilots.aspx"
-    type: article
-    provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
     quality: 19
 
 secured: "CaKAALlgs3rMakXkSQYz5QCOWEBO99wTHFFN2215de2ofMdfrQ8GLlhKnu5LfJAC/ZClfCwYEl27nsBqXE3O5TzM0KjFyoZ3jtoALtXiSpcQVsMRggm/4pe75J3puIvlOsNqw73xrGVRoTVlAE4FFrn6dA9w5EgCAepcqSHoJ/Xb3DK30AMpl0B+gI4cnTy+Mqh55sxB958rKPlTLFQM+u3BBoSTpiEG1rGupgNnuiGuwe1zu/WnEoqAhV7EBZIlbLoRTUQXmQVDJ2FYh3hPTsqsQFNGtQiFcR2+WVHzz+NCPm8i9G5EVWIy8S4F7Omndx7ZlfGZcVZyWNwFoOmilEV/Fj/7Q/ciqihbyxmfR/8=;5fp40cUTquvE5SMUnDa6VQ=="

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Warning: Google Will Start Mass Deleting Nest Hub Features Today"
-    excerpt: "Google says that it is focussing its development resources on the most commonly used features and deleting less popular skills. Unofficially, it is also making way for Assistant’s likely replacement: Bard. The full cull list can be seen here, but it ..."
-    publishedDateTime: 2024-01-29T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/"
-    ampWebUrl: "https://www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/29/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/"
+  - title: "How Transfer learning improves and diversifies machine learning models"
+    excerpt: "For example, consider a neural network trained for general object recognition. It can identify cars, trees, animals, and other objects. If we want to adapt this network for a more specific task, like recognizing different types of birds, we can freeze the ..."
+    publishedDateTime: 2024-02-02T00:00:00Z
+    webUrl: "https://www.androidpolice.com/transfer-learning-ml-guide/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Android Police
+      domain: androidpolice.com
+    quality: 41
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/facial-recognition-collage-concept_23-2150038886.jpg"
+        width: 1480
+        height: 833
         isCached: true
 
 secured: "dMdUki5xAlnUF6fjpjDEyPQYKwW9TANnRCtztWwgEHHGuG8BBdm6ByrgAidBzjBv8ZhmirH6+h9Zi93suOH7T/h4FgcQEOlkG24skumKswN4wXNvTynfJ/A8fcFuZLhTRxUq/VzbTUOKSqHWf7vkH4ZCY+oAQNlw+BO19UiBGDTxcWQU0sUAXhj4KKk39gYn3GDi7iof7aQQtqpYpr7QJDjImX4rkDWY1rSClBhC3TQ1Kv5DbyKKLLN4QXACinmlU6o3weuXKXH+lYgSkpjtO9BpdSAUQnkLHOlH9s4uY46b5B9YpN55f1g55Ujj/gFK9oMP0L3BKLxRIf54btjrta7HvOlEJPNkeZoTcNlUMZI=;uxZXZHmJcElh1/t9kX5LYg=="

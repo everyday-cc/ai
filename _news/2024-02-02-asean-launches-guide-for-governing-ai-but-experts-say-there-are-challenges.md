@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "An AI opportunity agenda for ASEAN"
-    excerpt: "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential."
-    publishedDateTime: 2024-01-29T11:56:00Z
-    webUrl: "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/"
-    ampWebUrl: "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/"
+  - title: "Revolutionizing Governance: AI-Driven Citizen Engagement"
+    excerpt: "Government-citizen engagement has come a long way over the past decade, with governments increasingly adopting AI-powered analytics, automated processes and chatbots to engage with citizens and gain insights into their concerns."
+    publishedDateTime: 2024-02-02T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2024-01-29_at_11.12.38.width-1300.png"
-        width: 978
-        height: 673
-        isCached: true
-  - title: "ASEAN launches guide on responsible AI governance"
-    excerpt: "The Association of Southeast Asian Nations on Friday launched a guide on the governance of artificial intelligence and ethics, se"
-    publishedDateTime: 2024-02-03T04:00:00Z
-    webUrl: "https://mainichi.jp/english/articles/20240203/p2g/00m/0in/018000c"
-    type: article
-    provider:
-      name: 毎日新聞
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2024/02/03/20240203p2g00m0in017000p/0c10.jpg?1"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
 
 secured: "qZAPm7sbblEDaDg5PHPo9/UNR6cS9cN5SVoZHxGUN0rSLqYrhwQ7i4ud01NdZ/dE+nwR+vBPQKnswAQRzHCs4gwg+e9ioq+GgsFlBB/ZlDs/8eTegx03MqMoy/V3SkdoFJxpYtZjUltAvSy/rg75fBeo9ZWk6Du/TCTAPNRPfRat3sbKER9SmfEXa2gSd9RQr4ZrZ/56DUadSjR3HYBaCEgKQhVafgpDtK16cB4hWyOrZ0lyWXleTb7GYWhwVth0I/NOLXj+y9GTJzSSOuB7ZAeRoPPdHyTl88rbdkI3mZXo6nTBPkML5P2lMoKDbK0GetAi6uz6ZOWAgahWmN/u70+i0ogpypqNoK07RKq6S93yUBatDP2WNCU5roa4VKV3jhsjhNsaTXqB1IBsX0v/wdrs+dBk87xAEjjYWVieMmJsNxMdj3AfeKOhapnTjTXjq4mtrwGAt5CDth7xt0rs+w1FM02qwzQOej9uD4bzVFY9uCdxXtJ+G6h90l8syU24qtkO7/dkq3TXwevKYKgEtg==;l0FjZkXydiAJEhdREjfKEA=="

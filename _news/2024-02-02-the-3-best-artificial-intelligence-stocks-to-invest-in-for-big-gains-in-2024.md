@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-02T13:45:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024-1033025055"
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024-1033025055"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 related:
   - title: "The 7 Most Promising Blue-Chip Stocks According to Grok AI"

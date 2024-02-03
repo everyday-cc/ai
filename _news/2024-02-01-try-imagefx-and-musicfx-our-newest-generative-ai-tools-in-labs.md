@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-labs-imagefx-textfx-generat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-labs-imagefx-textfx-generative-ai/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google launches new standalone AI image generator called ImageFX and promises ‘highest quality images yet’"
+    excerpt: "Google has launched a new AI image generator called ImageFX that will be available through Labs and is built on top of the Imagen 2 model powering AI image creation in Bard."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-launches-new-standalone-ai-image-generator-called-imagefx-and-promises-highest-quality-images-yet"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 21
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/D5LG7Qw87Q9XbmMBVboXpb-1200-80.png"
+        width: 1200
+        height: 677
+        isCached: true
   - title: "Bard gets image generator and Gemini Pro expansion, Google announces Imagen 2-powered ImageFX"
     excerpt: "The year in Bard updates is starting today with Gemini Pro now available in “all supported languages and places.” Google is also adding an image generator to Bard and announcing “ImageFX.” On the safety front, SynthID is used to “embed digitally ..."
     publishedDateTime: 2024-02-01T15:01:00Z
