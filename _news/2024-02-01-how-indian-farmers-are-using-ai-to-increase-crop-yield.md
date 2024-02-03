@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "6 Job Openings for Responsible AI and Ethics in India"
-    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
-    publishedDateTime: 2024-01-29T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
     excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."

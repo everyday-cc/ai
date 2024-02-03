@@ -142,20 +142,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Budget 2024: Navigating the future of India's fintech sector"
-    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
-    publishedDateTime: 2024-01-29T08:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 24
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
     excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
     publishedDateTime: 2024-01-30T06:47:00Z

@@ -142,20 +142,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Budget 2024: Navigating the future of India's fintech sector"
-    excerpt: "From the upcoming interim budget, the fintech sector expects the creation of an environment that nurtures continuous progress in the ever-evolving financial landscape"
-    publishedDateTime: 2024-01-29T08:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/economy-policy/budget-2024-navigating-the-future-of-indias-fintech-sector/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 24
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2024/01/shutterstock_2330903733_BG.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The Rise of Fintech Funding: Exploring Different Investor Types"
     excerpt: "Are you curious about the rapid growth of fintech funding and the diverse range of investors who are fueling this phenomenon? From venture capitalists to angel investors, banks to corporations, there’s an exciting influx of funds pouring into the financial technology sector."
     publishedDateTime: 2024-01-29T15:20:00Z

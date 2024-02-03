@@ -310,20 +310,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Microsoft CEO Satya Nadella Reportedly Gearing Up For India Visit With Focus On AI Opportunities"
-    excerpt: "Founders of notable Indian AI startups, such as Lightspeed and Peak XV-supported Sarvam, Bhavish Aggarwal's AI startup Krutrim, and various early-stage AI startups, are reportedly preparing to meet Nadella in Mumbai and Bangalore. In October 2023 ..."
-    publishedDateTime: 2024-01-29T07:10:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36819835/microsoft-ceo-satya-nadella-reportedly-gearing-up-for-india-visit-with-focus-on-ai-opportunities"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/01/29/microsoft-ceo-satya-nadella.jpeg?width=1200&height=800&fit=crop"
-        width: 1016
-        height: 677
-        isCached: true
   - title: "Cloud strength and AI excitement boost Microsoft revenue"
     excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
     publishedDateTime: 2024-01-30T13:46:00Z

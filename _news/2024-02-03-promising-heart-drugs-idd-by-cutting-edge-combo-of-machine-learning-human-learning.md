@@ -37,20 +37,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Machine learning tool unveils promising drugs to minimise harmful scarring post heart attack"
-    excerpt: "Potential drugs could significantly reduce harmful scarring following a heart attack or other injuries using machine learning"
-    publishedDateTime: 2024-02-02T09:06:00Z
-    webUrl: "https://www.openaccessgovernment.org/machine-learning-tool-unveils-promising-drugs-to-minimise-harmful-scarring-post-heart-attack/173141/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 28
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2024/02/iStock-1029744690-scaled.jpg"
-        width: 2000
-        height: 1111
-        isCached: true
 
 secured: "AxIEPO4moI2LUfDaQEqrUoLx0OaDNSA8TPiUIyUz0OIlrsSYIxB3IbrWRgwbnOgVdZI54GjmTl0dbsrc3BtohhssUkOy8E6o89tINZMIaORGe7f07rJe1S03Tw1a5hAw+78daAUXO6yZ+gq5G0w3oS+VH2VaTHnnUYK+coSEgSYj3AhXvYlUzcpSR5/vWNE/TCf14wYIgRU4hUmPPt5/ee6iCECSf3HnOX/V+fnAdBWVF0zLxZkAzWn1I8x72Du8ti0f/Wqc7uy/j6Ifn9OawJlcC+cOnq36i++WEQW0CYBxKOc4fgKxQRSv+uUHVekLj9kx2p0ga3/woSrZHKLgbdKd5IhcNY/zRRYCCoQ/kR4=;Ek0RYT6gTFOJlOQJrrm59g=="
 ---

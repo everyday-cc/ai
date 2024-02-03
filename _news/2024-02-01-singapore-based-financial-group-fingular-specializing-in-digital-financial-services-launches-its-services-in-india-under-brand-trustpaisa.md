@@ -26,6 +26,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "AND Global Launches Intelligent Document Processing Software to Power Efficiency in the Financial Sector"
+    excerpt: "The new solution, mindox, is designed to transform document processing within the financial sector offering insights to enhance efficiency and security in day-to-day operations Leading Singapore-based fintech company AND Global has today announced the launch of its new intelligent document processing (IDP) software mindox,"
+    publishedDateTime: 2024-02-02T17:23:00Z
+    webUrl: "https://businessmondays.co.uk/and-global-launches-intelligent-document-processing-software-to-power-efficiency-in-the-financial-sector/"
+    type: article
+    provider:
+      name: businessmondays
+      domain: businessmondays.co.uk
+    quality: 7
+    images:
+      - url: "https://media.businessmondays.co.uk/wp-content/uploads/2024/02/Mindox-AND-Global1-scaled.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+
 secured: "rIVQJociidn1K6VODsDW+Sgx53tFnoIu/1j36HBGSTSKOIipq6hJZMr+7AjqFLGCx5P2gPYWtQ1QCC7rc/qp6bwZa+lj349J6CKm0dv+fqTVfvWR6fvHA7lJBmcA5UZDIiTeVRrFCs5A9P0B9lS5IPpq/iymXD79pZqZ/feffrryWRbyp8OtK9F4eMErYbBUMIKrNWN+C40ix9nxsdy26q59sXbI30KPUB6tQ+69v6bytEUJyJsXFeIMu7+iaWYg9iF6TZgJfS9RERd0VcfadtprRCEpLyLxxbsCsBmJen/Lp5WP8iitkZZv7JGaJ6Gbmq8RVX1Kq5aA4/cXS3G+pr1122TLLGC2XaR3cLtxlAQ=;u0IlepvLN0NcCrmryPNp8A=="
 ---
 

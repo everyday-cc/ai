@@ -43,6 +43,15 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
+    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
+    publishedDateTime: 2024-02-01T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
   - title: "Google's Gemini Pro In Bard Now Available In Nine Indian Languages"
     excerpt: "Google, which brought Gemini Pro into its AI chatbot Bard in English last December, has now made it available in more than 23"
     publishedDateTime: 2024-02-02T11:00:00Z

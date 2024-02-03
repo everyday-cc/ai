@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips The rapid emergence of artificial intelligence has confounded both skeptics"
+    publishedDateTime: 2024-02-02T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024-1033025055"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
   - title: "This AI Chip Stock Has a Near-Monopoly"
     excerpt: "The need for high-performance memory chips — a bottleneck in realizing full AI potential, according to Wennick — also adds urgency for chipmakers to book EUV lithography systems, especially since it normally takes the company between 12 to 18 months to ..."
     publishedDateTime: 2024-01-30T22:58:00Z

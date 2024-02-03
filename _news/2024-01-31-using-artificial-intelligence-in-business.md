@@ -44,20 +44,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "6 Job Openings for Responsible AI and Ethics in India"
-    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
-    publishedDateTime: 2024-01-29T08:55:00Z
-    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
     excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
     publishedDateTime: 2024-01-30T02:59:00Z

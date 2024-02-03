@@ -56,6 +56,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Google Bard Can Now Generate AI Images for Free"
+    excerpt: "Google has introduced generative AI capabilities to its Maps platform recently, while also unveiling notable enhancements for Bard. One significant update"
+    publishedDateTime: 2024-02-03T06:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/"
+    ampWebUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2024/02/Google-Bard-AI-scaled-e1706939990964.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
     excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
     publishedDateTime: 2024-02-01T03:28:00Z

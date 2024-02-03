@@ -41,6 +41,22 @@ related:
         width: 1022
         height: 511
         isCached: true
+  - title: "Google Bard Can Now Generate AI Images for Free"
+    excerpt: "Google has introduced generative AI capabilities to its Maps platform recently, while also unveiling notable enhancements for Bard. One significant update"
+    publishedDateTime: 2024-02-03T06:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/"
+    ampWebUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2024/02/Google-Bard-AI-scaled-e1706939990964.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
     excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
     publishedDateTime: 2024-01-30T22:55:00Z

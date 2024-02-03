@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/designing-generative
 webUrl: "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Gemini-Bard-600x315-cropped.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Google Bard Can Now Generate AI Images for Free"
+    excerpt: "Google has introduced generative AI capabilities to its Maps platform recently, while also unveiling notable enhancements for Bard. One significant update"
+    publishedDateTime: 2024-02-03T06:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/"
+    ampWebUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2024/02/Google-Bard-AI-scaled-e1706939990964.jpg"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
     excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."

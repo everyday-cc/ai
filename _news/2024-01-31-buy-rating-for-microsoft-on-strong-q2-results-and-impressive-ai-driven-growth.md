@@ -105,22 +105,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 69
-  - title: "Microsoft adds 2 new Indian languages to Translator"
-    excerpt: "Microsoft announced the addition of two new Indian languages - Chhattisgarhi and Manipuri in Microsoft Translator."
-    publishedDateTime: 2024-01-29T09:00:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/microsoft-adds-2-new-indian-languages-to-translator-854619"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 61
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2024/01/28/1418589-microsoft.jpg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Humanoid Robot Startup Reportedly In Talks For Mega Funding Round Led By Microsoft, OpenAI"
     excerpt: "AI startup Figure AI Inc. is in advanced talks to secure up to $500 million in funding led by Microsoft Corporation and OpenAI for developing humanoid robots capable of performing hazardous tasks."
     publishedDateTime: 2024-01-31T05:00:00Z

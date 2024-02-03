@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning to battle COVID-19 bacterial co-infection"
+    excerpt: "University of Queensland researchers have used machine learning to help predict the risk of secondary bacterial infections in hospitalised COVID-19 patients."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1033221"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
   - title: "Researchers use machine learning to predict Covid-19 bacterial co-infection in patients"
     excerpt: "The researchers from the University of Queensland, Australia, have used machine learning (ML) to help predict the risk of secondary bacterial infections in hospitalised Covid-19 patients."
     publishedDateTime: 2024-02-02T13:09:00Z
