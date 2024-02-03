@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 66
-  - title: "AI-powered Robot reads braille at double the human speed, 315 words a min"
-    excerpt: "Human fingertips are highly sensitive and help us make sense of the world around us. Replicating this in robots has been challenging so far."
-    publishedDateTime: 2024-01-29T16:25:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-powered-braille-robot-reads-twice-faster"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 53
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/29/image/jpeg/Jh0LSUDwnN8s575xYLGge80nmg9VgTpRSfpXHXB0.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "w7xFvpmwss45lsG7E1vpHf21W4iEBc8evPL5fQMYFqej79BAARZFcjE6aa1+KB9fFjHsO/dIbUDpBUrmpueYU38HbC08Zce2LHhygRVSJo7kQnPuMDBgTPjArY5YDQ9m2RFo67PEz9Wiq5ltYOHieGaAD7oOG4U+An+Kf2Qsgla+EYNtCZej7FU+Nd7ZipPqKce3vz41hRao2mnenyLv4x2B9QZOVWa8zS9ycKN18ISbUVcG+PvZAIof5+ygzhD1IZWi7nQKyETmVzdJNpTLZlMV3FPZ9NFbr9pv1u38jQ5++trs/ML6EoMjife1KhXgW6gtOr5lDQoFfgumBrOaB0oU8L8pHpXsGcjwn1qh1DHjkXkhWlLN+W5kBlkKJCvTuwDCbNPiNVN60xuS/eupmgFaYf6q0CiAZDmlb6Odguh5upiCoQW4uau6Kb/FDC6ALL5/EJ/+O7mtNInkgDgoNpzc42xNWJM76Pai96AbAM8xXeRRya1HuLeJWckd5K455CLe1C1gVP0XycBZgPoztg==;r95BitEEW3/As3BXuPhXQg=="
 ---

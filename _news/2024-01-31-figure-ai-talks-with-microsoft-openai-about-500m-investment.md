@@ -72,6 +72,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z
@@ -141,15 +155,6 @@ related:
       name: University of Arkansas
       domain: uark.edu
     quality: 30
-  - title: "OpenAI is getting into the hardware business in the AI arms race"
-    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
-    publishedDateTime: 2024-01-29T14:21:00Z
-    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 21
 
 secured: "dMsWXOUxqy4M93k4o8LVxgqqKvbTmuic796IjD4PJP7lL9jZ6uYUH4FrTt3HqVcorAWStwGXP1dKu+bmP0D7h5GkPWwXcLzcaOQUlF5u7flsXO8Lioc92JNtuQdZEc4nYDUXSC7N7x+xtSgTMO8nF1PaHZLFjp87re+AkDXlFjOlY9LFq3hI0AR6swxHwlYHA63qI5sCYi2Ztm3l1JTJPJaR90NuCiU6X9aTslrskLKQ0ffjhXo11KkdkO2u6MO1t0lHmZgAMMBGV6tgLbyWQfnKXgKOOLIb9LpKop/hxRbOX61k6PluDc3yZmjcY71spLRht3ZgJ/pmspKQc391aYKXi2pIqnnq4bTz+79JXBnlEc2UXGNmBEVj0unkO7Htn1Kb4Z9tIRwMNhuTdyfJws6+wHPpPclpp/3wCLlqpiA25oyqhZaztpFptP4+BqrT+xN3CUYKHmGpkgNe+4Esd7nObS/ksQ/XjmZeAedG/RSEuvPIRKA8lDQGo4LFeX4hCyz3TnZQP9w/yPPPJb6q3Q==;psIxdd/fzURaZP2gclF08A=="
 ---

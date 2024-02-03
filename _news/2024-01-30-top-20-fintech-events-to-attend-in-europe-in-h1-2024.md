@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 732
         isCached: true
-  - title: "The Rise of Fintech Funding: Exploring Different Investor Types"
-    excerpt: "Are you curious about the rapid growth of fintech funding and the diverse range of investors who are fueling this phenomenon? From venture capitalists to angel investors, banks to corporations, there’s an exciting influx of funds pouring into the financial technology sector."
-    publishedDateTime: 2024-01-29T15:20:00Z
-    webUrl: "https://techbullion.com/the-rise-of-fintech-funding-exploring-different-investor-types/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 24
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/FinTech-Investor.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Reasons to be fintech cheerful"
     excerpt: "I wrote about failure and began thinking I need to find reasons to be cheerful. The easiest way to find cheer is to think about success. I’ve always come to fintech with a wide net: watching as emerging technologies and business models influence incumbent bank projects and culture,"
     publishedDateTime: 2024-01-31T09:11:00Z
@@ -212,6 +198,15 @@ related:
       name: Crain's Detroit
       domain: crainsdetroit.com
     quality: 19
+  - title: "Rocket Companies Appoints AI and Fintech Expert Alex Rampell to Board of Directors"
+    excerpt: "DETROIT, Feb. 1, 2024 /PRNewswire/ -- Rocket Companies (NYSE: RKT), the Detroit -based fintech platform company including mortgage, real estate and other financial services businesses, today announced that Alex Rampell has been appointed as an independent director to the Company's Board of Directors."
+    publishedDateTime: 2024-02-01T14:30:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/02/01/rocket-companies-appoints-ai-and-fintech-expert-alex-rampell-to-board-of"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 13
   - title: "How can fintech companies improve their customer experience?"
     excerpt: "In this era of digital transformation, Fintech companies are not just adapting; they're evolving to prioritize and enhance their customer experiences, creating bonds that stand the test of time. Let's explore some strategies that can infuse a human touch  into Fintech, making it more than just a service but an experience."
     publishedDateTime: 2024-01-31T10:01:00Z

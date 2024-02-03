@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Vital's Scientific Publication on Sepsis Paves Way for Predictive Analytics Tools"
-    excerpt: "Sepsis is a life-threatening condition that must be treated promptly and is often difficult to detect, even by experienced physicians, in its earliest stages. The peer-reviewed paper, \" Sepsis Prediction at Emergency Department Triage Using Natural Language Processing: Retrospective Cohort Study ,"
-    publishedDateTime: 2024-01-29T14:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/29/9953436.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ZlmotQe0if9oqEOO3Kt4jE0aA4xvQoZHZha4KZIfBzbaev6JdCBaWPdietAJc5+JSFi1wVjgk+LmNJfw13tDKvzSDPuWG2Ti4biQvExpcmSMTHSwW50LfTf3Z1+ii2L5LkND6tj+FubzTKP0T/5oZOB2JbysaqverpnLGwy3j9WODf2OITnRH4/1afxCKZALct45akkISrITS2TtSU2OOP+gmmbsTYNXenHqD4tVRWl7CfTrBkzQ5IxttII1RQRXBp9y4qk0dFzgkdJrHWaA6i74YhVp67lATKZVOKalNUwsyWi4lhSngcAd+izUqd+mti2ZbyFJ+P+aZkS2KlFP9ulSusQfUhlxrpGfPDRu8KyuUsOLBEvwPOLPk9S6i304H4+gEeg5VNGZJXJiYPSoA34pl98WVdUnqOmhynT+07i//AFBsvIvRFm+AP5huJ0QX2xjKDCfO4vFQCNXq8Pk1wKc0EjLUXEPQkz15BzsRyuomQEKgHBIjuuG13y5GGNNahTZyAX/h1SVQX4IngkggA==;Y9t5/sFhlWrQ4EhQkiTKsg=="
 ---

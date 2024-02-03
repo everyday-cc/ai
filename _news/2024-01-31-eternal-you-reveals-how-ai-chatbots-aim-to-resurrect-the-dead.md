@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/article/eternal-you-review"
 webUrl: "https://mashable.com/article/eternal-you-review"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Chatbots Can Now Go On First Dates for You"
-    excerpt: "An artificial intelligence (AI) chatbot can now interview you and then go on first dates for you, mirroring your interests and even mimicking your conversation style. Source: Photo by ThisIsEngineering from Pexels \"My AI chatbot had a really good time with your AI chatbot."
-    publishedDateTime: 2024-01-29T14:52:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/a-funny-bone-to-pick/202401/ai-chatbots-can-now-go-on-first-dates-for-you?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/pexels-thisisengineering-3861969_0.jpg?itok=9fke_752"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "AI Chatbots Are Here to Stay: Learn How They Can Work for You"
     excerpt: "Spread the loveIn the ever-evolving world of technology, artificial intelligence (AI) is a game-changer, especially in the realm of customer service and user interaction. AI chatbots are a pivotal innovation in this domain,"
     publishedDateTime: 2024-02-01T09:22:00Z

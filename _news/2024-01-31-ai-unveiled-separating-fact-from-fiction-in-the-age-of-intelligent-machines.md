@@ -35,7 +35,7 @@ related:
     provider:
       name: International Business Times
       domain: ibtimes.sg
-    quality: 51
+    quality: 53
     images:
       - url: "https://data.ibtimes.sg/en/full/72707/saikrishna-chinthapatla.jpg"
         width: 548

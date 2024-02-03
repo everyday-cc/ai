@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Bulls Just Got a Great Piece of News From ASML"
+    excerpt: "Detailed price information for Asml Holdings NY Reg ADR (ASML-Q) from The Globe and Mail including charting and trades."
+    publishedDateTime: 2024-02-03T14:22:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/ASML/pressreleases/23822014/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 30
 
 secured: "XtLl6BGFbyz6ECY8Fj+z7bVuABWKzEm3QD49M3voa2kvIRkzuKvPYGfHFz42vkpTI+iN+9ya0w2TFw7j4lCmgnP62FzpckEukvUNjYsgp23Hbnbazhzp+pZvdIuMmoKpR82H8I3l89qecSURZBgnDdQUMdVFR2X5+x2oCCj1GIw1nk1t1WYeRwPFZb1Z03niK+eqTMLflDK56fl31ly4oZKGd0QcDNOmMP3KH/PrIx8ptPZIusbBX5vKqa2wCXsZWdt6M3/Wq7fEHxKO9iYDZx9YtviPq9I5vXGAbrFaXdDoClsF0hU7nL1kiN2VWksjMSAjkboxcZSlQED2sziOnVWBtiw6dXwJoNe4QLzRPCY=;wpZn5tpz054Ow3RJhDyH+w=="
 ---

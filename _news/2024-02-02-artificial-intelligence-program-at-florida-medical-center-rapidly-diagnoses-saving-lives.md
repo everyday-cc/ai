@@ -3,28 +3,20 @@ category: news
 title: "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives"
 excerpt: "The evolution of artificial intelligence is changing the way we do things around the world, including in medicine."
 publishedDateTime: 2024-02-01T17:58:00Z
-originalUrl: "https://komonews.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
-webUrl: "https://komonews.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
-ampWebUrl: "https://komonews.com/amp/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
-cdnAmpWebUrl: "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
+originalUrl: "https://katu.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
+webUrl: "https://katu.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
 type: article
-quality: 50
-heat: 60
+quality: 10
+heat: -1
 published: false
 
 provider:
-  name: komonews
-  domain: komonews.com
+  name: katu
+  domain: katu.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://komonews.com/resources/media/7f7fab0d-8108-44f8-a094-7c8e0f282f6c-medium16x9_MoviesTV1_31_20247_06_07PM.png"
-    width: 648
-    height: 365
-    isCached: true
 
 related:
   - title: "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives"
@@ -37,6 +29,6 @@ related:
       domain: nbcmontana.com
     quality: 10
 
-secured: "/t9EjoPq+5mYoqgj+8sxhrjAfR532L/p8oxv2jhNKzEKgkv121Lg0sYItwyFFneBieHr9qgokeCco95eTOrFFuJNDM4hghz6JB8hiWKHcBNwA5qJlOgJgbC3yWsOD1iYl/tEYBW5Btclp6b95sEHQHGc2V13guhbj1BcNhqoAHrn2VnxpXd+xtyUs9sJvl/TqxmBS9XWh4rlzN+jAzYlUPzFyeiVu7J5omrr2YM7NDEA7rS0W3oiqzty6Cz02LosTCDlHnjfWFz6nj63u7KPxXD+e52g0nSHl2E4z9cI1aLt9XhgslIfqcovlhC8qitAhG0YcqoWW/Q7AsJeYc/Q+VZXAtmKGoq8UzROhLCk7tE=;cYm/S9WiADx5Hq0OSNFpBw=="
+secured: "bv8Wj38KLOhVZ18QGpplqCLHjBt+4cfK4gObkn4xg5yR9FCpE/joE3Iojxh+6kopCn3D7q0C8I8BHUBfahH9URNVpTjvwJbbNZUMLy1Neo3pdiSp2dwMxpUzXsuefA68olvYeNRtjS3xEySJ1JxYWH33rdh1wy+9HSikUMMqoNNmYlV3el84PeDcweuxXuwv1SLA4TuthNScOioC0JwYEWWK53vt/5Q4Le7RJ4uNFPHPgKLm3U5sT5DwFNUDsv9dBclHRolhCyCVC+2DsiAhgSHUdYTRXAOcKaPLOM9xUHgdpM1JL+j39VykjN5beUHc5Sagb4uIJ3XlMr6RgN8S8WHs4eYhugxFpsp0m8X5H1k=;199lLjj77aBkucb+y2vnIQ=="
 ---
 

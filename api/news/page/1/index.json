@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-03-2-ai-stocks-im-going-all-in-on-in-2024.md",
+      "title": "2 AI Stocks I'm Going \"All In\" On In 2024",
+      "excerpt": "Data from Grand View Research shows that the AI market is projected to expand at a compound annual ... Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/03/2-ai-stocks-im-going-all-in-on-in-2024/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/03/2-ai-stocks-im-going-all-in-on-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/762976/ai-possibilities.jpg",
+          "width": 4000,
+          "height": 2670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T03:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
       "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
       "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
@@ -130,58 +182,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-billionaire-investor-david-tepper-has-58-of-his-portfolio-invested-in-these-7-artificial-intelligence-ai-stocks.md",
-      "title": "Billionaire Investor David Tepper Has 58% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks",
-      "excerpt": "and AMD is fighting for market share in the AI chip space, as well. Meta and Microsoft announced in December that they plan to use AMD's newest AI chips, signaling that there's a big opportunity for alternatives to Nvidia. Are Tepper's top AI stocks good ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/763227/ai-icons-hand.jpg",
-          "width": 2188,
-          "height": 1369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -449,7 +449,7 @@
       "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -489,6 +489,58 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
+      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
+      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T16:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -827,7 +879,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -931,7 +983,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1034,7 +1086,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1179,58 +1231,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-defense-contractor-scale-ai-quietly-scrapped-deal-with-chinese-owned-tiktok-over-security-concerns.md",
-      "title": "Defense Contractor Scale AI Quietly Scrapped Deal With Chinese-Owned TikTok Over Security Concerns",
-      "excerpt": "The deal was one of several challenges for the federal business of the $7.3 billion startup, whose CEO Alexandr Wang has become an advocate of national security amid the threat of China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidjeans/2024/02/02/scale-ai-tiktok-bytedance-security-concerns/",
-      "originalUrl": "https://www.forbes.com/sites/davidjeans/2024/02/02/scale-ai-tiktok-bytedance-security-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b28ceec064a6510ab3f88a/0x0.jpg?format=jpg&crop=3321,1867,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI’s path in 2024: Another year of growth instead of monetization"
-    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
-    publishedDateTime: 2024-01-29T16:44:00Z
-    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "AI In 2024: Beware Hallucinations, Pinpoint The Problem And Never Replace The Human Connection"
     excerpt: "While we’ve seen conversations of AI \"replacing\" humans, we already know that to get AI to do its job, humans still need to be the subject matter experts."
     publishedDateTime: 2024-01-31T12:45:00Z

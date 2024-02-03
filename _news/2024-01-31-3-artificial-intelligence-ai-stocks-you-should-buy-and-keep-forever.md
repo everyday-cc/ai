@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pres
 webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/23729622/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 720
     height: 466
     isCached: true
-
-related:
-  - title: "3 Stocks That Could Be Surprise Artificial Intelligence (AI) Winners in 2024"
-    excerpt: "2023 kicked off an arms race in artificial intelligence (AI). Big tech companies spent heavily on software development and specific chips from companies like Nvidia to train their AI models. As a result, investors saw a few select chipmakers emerge as big ..."
-    publishedDateTime: 2024-01-29T14:40:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/BIDU-Q/pressreleases/23667927/3-stocks-that-could-be-surprise-artificial-intelligence-ai-winners-in-2024/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
 
 secured: "giBCBF712jJ0nIvfi8Krd+tM7EN6Nsc2HlxIVaPZMb+mByKmEErVqbKNh6M3h0eY2C5Mc3W4Ju3GuH6zmwLvMdMbSkpmajoWjmwhSZkx0Op4cb4UiNBQNQ1XS0B705mgPlW5OAMIHJmUBo3dc59SwDjxH0E2bZzX0GefCGSqXw1jxJKPD2Bvc8CmA9rEl3KUKtUukCTuCIwE3efE88eizLsu/lUBYwNr45okjUw3esj/OomwyfJH2dRtLrRAGBN2dKhPv3uluUEiVlm5apquWhrilHPa3OSWNQXSxHm1iaWqGiB+MBLatt/PWuuyJRqJObleHJhrcxa1lQ6GY7KlfVyxAEKV4rtrqkx70ZxCC/8=;RGeTtvYm4q+HDpD2xO+egA=="
 ---

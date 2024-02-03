@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neurali
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
 type: article
 quality: 76
-heat: 126
+heat: 129
 published: true
 
 provider:

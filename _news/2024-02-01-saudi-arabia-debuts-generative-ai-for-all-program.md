@@ -101,6 +101,20 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-31T02:31:00Z
+    webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Six Principles for Redefining Retail with Responsible AI"
     excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
     publishedDateTime: 2024-01-30T12:00:00Z

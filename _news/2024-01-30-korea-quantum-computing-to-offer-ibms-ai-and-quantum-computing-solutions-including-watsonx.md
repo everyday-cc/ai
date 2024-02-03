@@ -40,6 +40,15 @@ related:
         width: 2560
         height: 1280
         isCached: true
+  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
+    excerpt: "IBM watsonx is bringing generative AI to the music industry."
+    publishedDateTime: 2024-01-30T18:48:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea"
     excerpt: "\"KQC is providing versatile computing infrastructure in Korea through our collaboration with IBM. Our robust hardware computing resources and core software in quantum and AI are poised not only to meet the growing demand for high performance computing ..."
     publishedDateTime: 2024-01-30T00:00:00Z

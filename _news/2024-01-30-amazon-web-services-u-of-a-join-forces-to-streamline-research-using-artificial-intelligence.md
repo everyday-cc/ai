@@ -39,15 +39,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
-    excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
-    publishedDateTime: 2024-01-29T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-1033005842"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "PTP Aims To Acquire Channel Companies To Drive AWS And AI Growth"
     excerpt: "AWS partner PTP is acquiring channel companies in 2024 to drive Amazon Bedrock, generative AI, GenAI and life sciences customer sales."
     publishedDateTime: 2024-01-31T16:55:00Z

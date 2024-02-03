@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-03T12:21:00Z
 originalUrl: "https://www.ibtimes.sg/future-unveiled-saikrishna-chinthapatlas-analysis-ais-impact-aws-73332"
 webUrl: "https://www.ibtimes.sg/future-unveiled-saikrishna-chinthapatlas-analysis-ais-impact-aws-73332"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://data.ibtimes.sg/en/full/72707/saikrishna-chinthapatla.jpg"
@@ -42,6 +43,6 @@ related:
         height: 731
         isCached: true
 
-secured: "gQYuLAiyC1t+9xsaIeXU9Iy36u6MmuDeXCG3wFjR53fpJOBnuFlnhEHFEUDwrRkwVCegVbaLk612YpBgAf+DdvWxnZjhzQPmlwWXVsSblksydGA+iywVIkhWRb6FZOUZgvrNBrqyoTfYxedOCtKNItJe+anCVTLLIaDFArWEpBO60kzAQVKRwY7FlwQhV8RDctbG2ULIyRwwMP+ZPbc+jA3LOvrc0DtuHWaT4te6MV6kOGQwwqpLRH36liwBHcRxHSapdqS4mXV+beUY5TjtQWDqGmfLmkA/51gSFHZEXWUUzHKB1PJAGqnOZw/vH7koPvDVoNMC5yzPvRSRhJNiEpKKLhItgD0rd5C/9KTPKsg=;9Auiwf1aPAZu7y3HzsFaEA=="
+secured: "kFOCrByvqjtKtaZKkfYmHgOe3dPJCRFOM+Ff5Gu2gP+PshHa/DkTrRajU1ozSSR9aIhhlMBJaCQ16WXj7coGrlQq0R3pMgRfjc2uqAl3ymxPWuZdtomIlnkYZbtjx7TNYe8mj6sgD0jNHnjq8BD+1q8N2ZgWFbuMF4zIDPUwMMLpt7B6HWQorzxhM/6z6dS3W6uSsRRdsG9xChqV9NZnVFn93HvmOg8GEDt+UNIBh0AInWr8wCImgo0EXLPPfVfgFEO+YYPu/PuMQFkE9jRjkRDWRHKw6Zt50mrKJvxLXkbaZa+S2A7lY9x6wWLa0kGk3RwvfTBiCTCN9RWbVQGl4gSZagQylhG2xLy4f/0sSNttY9IQfRZg4zT7UGR2i5AU49aeesjm+dACRVWQ82gL16udlYUSaVGYeimusOOdh1yYjMyuUKPcalf8whj+Nw7n0Nfs16C+NrmTySj7ldRSm1d3jyfP+MlMZGALHSN0G5PrG2G/GM/M299mwew/xvLm+iMS6MAafRtoyZhOyA+REg==;4xCX2w6+MRRn66dW0yMK5Q=="
 ---
 

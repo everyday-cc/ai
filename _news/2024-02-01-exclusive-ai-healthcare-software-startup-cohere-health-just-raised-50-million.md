@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-
 webUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
         width: 1066
         height: 533
         isCached: true
-  - title: "Exclusive: Essential AI chooses Google's Cloud"
-    excerpt: "Essential AI — an enterprise startup founded by two notable former Googlers — has chosen Google Cloud to power its AI services. Why it matters: Google, Microsoft and Amazon are trying to convince startups to run their companies in their respective cloud environments versus homegrown generative AI efforts."
-    publishedDateTime: 2024-01-29T14:30:00Z
-    webUrl: "https://www.axios.com/2024/01/29/google-cloud-essential-ai"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
   - title: "Exclusive: Incognia raises $31M to battle Gen AI fraud"
     excerpt: "Incognia, a startup using precise location mapping to detect fraud, raised $31 million in Series B funding led by Bessemer Venture Partners. Why it matters: Incognia plans to combat all kinds of fraud, including that stemming from Generative AI — the new bogeyman of the space."
     publishedDateTime: 2024-01-31T13:00:00Z

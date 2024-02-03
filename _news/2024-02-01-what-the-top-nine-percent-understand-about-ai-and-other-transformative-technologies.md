@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Artificial Intelligence and the Law"
-    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
-    publishedDateTime: 2024-01-29T14:30:00Z
-    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
-        width: 429
-        height: 648
-        isCached: true
   - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
     excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
     publishedDateTime: 2024-01-30T15:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bar
 cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
 type: article
 quality: 59
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://www.oneindia.com/img/2024/02/zzzzzzzzaa-1706958198.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google Assistant With Bard Puts an AI Chatbot in Your iPhone or Android"
+    excerpt: "Spread the loveIn the ever-evolving landscape of artificial intelligence, Google has once again redefined the boundaries by integrating Bard, an advanced AI chatbot, with its widely popular Google Assistant."
+    publishedDateTime: 2024-01-31T08:33:00Z
+    webUrl: "https://www.thetechedvocate.org/google-assistant-with-bard-puts-an-ai-chatbot-in-your-iphone-or-android/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2018/05/pexels-photo-267885-660x400.jpeg"
+        width: 660
+        height: 400
         isCached: true
   - title: "Google Bard's Gemini Pro now understands 9 Indian languages: All you need to know"
     excerpt: "Google's Bard with Gemini Pro extends its reach globally, supporting multiple languages, and introduces a free image generation feature in English."

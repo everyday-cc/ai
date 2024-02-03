@@ -63,20 +63,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "AI’s path in 2024: Another year of growth instead of monetization"
-    excerpt: "Direct monetization of AI services will remain out of reach for most companies, Gil Luria, managing director at D.A. Davidson, told Yahoo Finance. While businesses are ramping up their AI usage, software makers will likely include AI features as a perk of their existing offerings or as a way to prompt upgrades instead of a paid standalone product."
-    publishedDateTime: 2024-01-29T16:44:00Z
-    webUrl: "https://www.aol.com/finance/ai-path-2024-another-growth-144428929.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/OX7fNQ5rJf5Ukm4csLuZHg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDY-/https://media.zenfs.com/en/aol_yahoo_finance_433/75f6c6a64b54e671f0045d2abf10d3e3"
-        width: 1200
-        height: 806
-        isCached: true
   - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
     excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
     publishedDateTime: 2024-01-29T20:24:00Z

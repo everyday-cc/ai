@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

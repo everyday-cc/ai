@@ -26,309 +26,135 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft CEO responds to AI-generated Taylor Swift fake nude images"
-    excerpt: "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week."
-    publishedDateTime: 2024-01-29T13:14:00Z
-    webUrl: "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
+  - title: "OpenAI is working on AI education and safety initiative with Common Sense media"
+    excerpt: "OpenAI is partnering with Common Sense Media nonprofit on an initiative to create AI guidelines and education materials for teens and families."
+    publishedDateTime: 2024-01-29T19:52:00Z
+    webUrl: "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 104
+    quality: 100
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571"
-        width: 4523
-        height: 3047
+      - url: "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949"
+        width: 3500
+        height: 2279
         isCached: true
-  - title: "Microsoft's big bet on AI seems to be paying off"
-    excerpt: "\"By infusing AI across every layer of our tech stack ... There have also been reports of Microsoft and OpenAI looking into investing in a humanoid robot startup."
-    publishedDateTime: 2024-01-31T18:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI push sees Microsoft cloud revenues hit new high"
-    excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
-    publishedDateTime: 2024-01-31T12:28:00Z
-    webUrl: "https://www.techradar.com/pro/ai-push-sees-microsoft-cloud-revenues-hit-new-high"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/1e26f696ffbc15486daabd6ce566b3ee-1200-80.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
-    excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
-    publishedDateTime: 2024-01-29T17:42:00Z
-    webUrl: "https://venturebeat.com/business/microsoft-adds-new-restrictions-to-designer-ai-used-to-make-taylor-swift-deepfakes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-11.56.24-A-colorful-vector-art-minimalistic-line-art-style-image-showing-a-construction-crew-building-barriers-around-a-giant-messy-desk.-The-desk-is-filled-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
-  - title: "Microsoft set for AI-powered revenue surge"
-    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
-    publishedDateTime: 2024-01-30T10:38:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Generative AI boosts cloud revenue for Microsoft, Google"
-    excerpt: "While the rise of generative AI has bolstered Microsoft’s revenue from its Azure and SaaS offerings, it also helped Google grow cloud revenue to the point it’s now 10% of Alphabet’s revenue."
-    publishedDateTime: 2024-01-31T14:14:00Z
-    webUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/spot_it_leadership_2021_intro_one_glowing_arrow_leads_a_pack_of_other_arrows_forward_leadership_momentum_progress_growth_by_gremlin_gettyimages-1050942106_2400x1600_homepage_hero-100870924-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft, Google ride AI wave as revenues surge"
-    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
-    publishedDateTime: 2024-01-31T09:40:00Z
-    webUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
-    ampWebUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+  - title: "Humanoid robot startup Figure AI in funding talks with Microsoft, OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanlike robots, is in talks to raise as much as $500 million in a funding round led by Microsoft Corp. and OpenAI, according to a person with knowledge of the matter."
+    publishedDateTime: 2024-01-31T12:32:00Z
+    webUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
     type: article
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 74
+    quality: 90
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2024/microsoft-ceo-satya-na.jpg"
-        width: 1280
-        height: 852
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/humanlike-robot.jpg"
+        width: 2880
+        height: 2106
         isCached: true
-  - title: "Microsoft revenue surges as AI bet delivers"
-    excerpt: "Sales leaped to $62 billion for the October to December period, up 18 percent year-on-year and above the $61.1 billion projected by analysts"
-    publishedDateTime: 2024-01-31T05:10:00Z
-    webUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781"
-    ampWebUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
+  - title: "Microsoft and OpenAI Fuel Robotics Surge with $500M Figure AI Investment"
+    excerpt: "Microsoft and OpenAI, backed by Redmonds tech giant, spearheaded a funding round that generated more than $500 million for Figure AI, a robotics business. Microsoft, OpenAI Reportedly Lead $500M Fundraising Round"
+    publishedDateTime: 2024-01-31T14:34:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-and-OpenAI-Fuel-Robotics-Surge-with-500M-Figure-AI-Investment-1670588"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 85
     images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/pixabay.jpg"
-        width: 750
-        height: 393
+      - url: "https://f1.econotimes.com/2024/01/71ssczxu6w_th_1024x0.jpg"
+        width: 1024
+        height: 640
         isCached: true
-  - title: "Microsoft results show benefits of AI on Azure"
-    excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."
-    publishedDateTime: 2024-01-31T07:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366568432/Microsoft-results-show-benefits-of-AI-on-Azure"
+  - title: "Implications of Generative AI on U.S. National Security National Conference"
+    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
+    publishedDateTime: 2024-01-29T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-300124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
-  - title: "Microsoft joins forces with VB Lab for 3 stops on the AI Impact Tour"
-    excerpt: "VentureBeat's next stop on the AI Impact Tour, sponsored by Microsoft, will take place February 29 in New York City."
-    publishedDateTime: 2024-01-30T21:50:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-joins-forces-with-vb-lab-for-3-stops-on-the-ai-impact-tour/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 66
-  - title: "Microsoft Omits the AI Progress Report Investors Wanted"
-    excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
-    publishedDateTime: 2024-01-31T10:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-01-31/microsoft-omits-the-ai-progress-report-investors-wanted"
+  - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
+    excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
+    publishedDateTime: 2024-01-29T23:12:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Google Bard vs Microsoft Copilot, who creates better images? Here are the results"
-    excerpt: "We have compared the images generated by both Google Bard and Microsoft Copilot using the same prompts to determine which one creates better pictures."
-    publishedDateTime: 2024-02-02T06:56:00Z
-    webUrl: "https://www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html"
-    ampWebUrl: "https://www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html/amp/"
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Figure AI Talks With Microsoft & OpenAI About $500M Investment"
+    excerpt: "Figure AI, startup developing humanoid robots, is talking to Microsoft and OpenAI to raise $500 million in new funding at a valuation of over $2 billion. Figure AI just made a deal with BMW to put the humanoid robots into the car factory for pilot tests ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/figure-ai-talks-with-microsoft-openai-about-500m-investment.html"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
+      name: NextBigFuture
+      domain: nextbigfuture.com
     quality: 56
     images:
-      - url: "https://static.digit.in/Google-Bard-vs-Microsoft-Copilot-3.jpg"
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2020/08/brianheadshot.jpg"
+        width: 910
+        height: 1084
+        isCached: true
+  - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
+    excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
+    publishedDateTime: 2024-02-01T10:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/perplexity-vs-bard-vs-chatgpt-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
         width: 1280
-        height: 720
+        height: 711
         isCached: true
-  - title: "Microsoft Tweaks AI Tool After Explicit Taylor Swift Fakes"
-    excerpt: "Microsoft beefed up protections for victims of nonconsensual explicit images generated by its text-to-image tool Designer, after AI -generated naked photos of Taylor Swift went viral last week. 404 Media first reported that people on 4chan and a specific Telegram channel were using Designer to create nonconsensual NSFW images of celebrities and sharing them."
-    publishedDateTime: 2024-01-29T23:47:00Z
-    webUrl: "https://www.thedailybeast.com/microsoft-tweaks-ai-tool-after-explicit-taylor-swift-fakes"
+  - title: "Clients, Common Sense Drive Big Law Gen AI Policies"
+    excerpt: "Most law firms aren’t feeding client data into generative AI tools, but a handful have begun testing the technology on closed systems with client permission."
+    publishedDateTime: 2024-02-01T21:45:00Z
+    webUrl: "https://www.law.com/2024/01/31/clients-common-sense-drive-big-law-gen-ai-policies/"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 54
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3094,w_5500,x_0,y_179/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706561340/2023-10-12T051000Z_469077390_RC2OQ3AVK62L_RTRMADP_3_FILM-CONCERT-TAYLOR-SWIFT-PREMIERE_kvidrd"
-        width: 1480
-        height: 833
+      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/06/Robotic-Assistance-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
-  - title: "AI advances lift Microsoft revenues to $62bn"
-    excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"
-    publishedDateTime: 2024-01-30T22:04:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-advances-lift-microsoft-revenues-to-62bn-ls0l67czk"
+  - title: "Impacts of Artificial Intelligence on Education"
+    excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
+    publishedDateTime: 2024-01-31T23:30:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/24089118.impacts-artificial-intelligence-education/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F351b03b7-d52c-459e-b009-37ac83b2803f.jpg?crop=5000%2C2813%2C0%2C260&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft beats Q2 estimates with help from AI features"
-    excerpt: "Investors are watching Microsoft's Azure and Office revenues closely to see what sales flow from the money the company plans to pour into data centers to deliver generative AI."
-    publishedDateTime: 2024-01-30T21:34:00Z
-    webUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/"
-    ampWebUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 54
-  - title: "Microsoft Dishes on AI Revenue; Google CEO Says ‘Agents’ Are Coming"
-    excerpt: "Microsoft investors tuned into the company’s earnings call with bated breath Tuesday night, looking to see how much its new AI products were boosting sales. Microsoft didn’t deliver an unequivocal blowout—revenue in the December quarter grew moderately faster,"
-    publishedDateTime: 2024-01-31T15:00:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-dishes-on-ai-revenue-google-ceo-says-agents-are-coming"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 54
-    images:
-      - url: "https://tii.imgix.net/production/articles/12200/bb0bf2ed-b74d-4d2f-8188-89e5c74eff42-LesFYQ.png?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft smashes profit forecasts thanks to AI"
-    excerpt: "Worth more than Apple now  Software King of the World Microsoft has wowed investors with its latest results, showing a massive surge in profits thanks to getting its foot in the AI door early. Microsoft reported adjusted earnings per share of $2."
-    publishedDateTime: 2024-01-31T11:11:00Z
-    webUrl: "https://www.fudzilla.com/news/58362-microsoft-smashes-profit-forecasts-thanks-to-ai"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/8225a7d4b17d48ea511e848d1b49acde_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
-    excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
-    publishedDateTime: 2024-01-30T00:35:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/microsoft-x-respond-taylor-swift-ai-misue-increased-content-moderation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/6966830273_1817c106c2_c.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
-    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
-    publishedDateTime: 2024-01-31T08:00:00Z
-    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
-        width: 1280
-        height: 750
-        isCached: true
-  - title: "Cloud strength and AI excitement boost Microsoft revenue"
-    excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
-    publishedDateTime: 2024-01-30T13:46:00Z
-    webUrl: "https://www.ft.com/content/a062df1d-aaf5-4604-8f97-4444170482f2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
+      name: This is Local London
+      domain: thisislocallondon.co.uk
     quality: 34
-  - title: "Microsoft revenue surges to US$62bil as AI bet delivers"
-    excerpt: "Net profit also beat expectations at US$21.9 billion, instead of the US$20.71 projected by analysts. Crucially, revenue for Microsoft’s Azure cloud services jumped by 30% in the period, driven by the bigger computing needs that come with the adoption of AI. Overall, Microsoft’s cloud services sales were up by 24%, the company said."
-    publishedDateTime: 2024-01-31T03:46:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/01/31/microsoft-revenue-surges-to-us62bil-as-ai-bet-delivers/"
+  - title: "Libraries Provide Guidance on Using Artificial Intelligence in Higher Education"
+    excerpt: "The University Libraries, in coordination with the office of Academic Initiatives and Integrity, have created a research guide titled"
+    publishedDateTime: 2024-02-01T06:46:00Z
+    webUrl: "https://news.uark.edu/articles/69364/libraries-provide-guidance-on-using-artificial-intelligence-in-higher-education"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
-  - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
-    excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
-    publishedDateTime: 2024-01-31T11:14:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-reveal-c-suite-121458398.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-  - title: "Microsoft CEO Satya Nadella likely to visit India in February, expected to meet AI start-ups: Report"
-    excerpt: "as well as Bhavish Aggarwal's AI startup Krutrim, among others, in Mumbai and Bangalore. These interactions are poised to explore new opportunities and reinforce Microsoft's commitment to leveraging technology for expanding possibilities in India."
-    publishedDateTime: 2024-01-29T14:09:00Z
-    webUrl: "https://www.businesstoday.in/tech-today/news/story/microsoft-ceo-satya-nadella-likely-to-visit-india-in-february-expected-to-meet-ai-start-ups-report-415278-2024-01-29"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 19
+      name: University of Arkansas
+      domain: uark.edu
+    quality: 30
 
 secured: "N6NZOCUB/LQCJ+fBmV9FxrikT+0WNPe4k45Ud+uCAC0SY5U4nWZySwl9n/ndfP2TSMA2SD5fLAWOeeKW5qDgR56uTJkvUxUo4xhWPBFmbK7HhVzgP+vkTsyvDvBI+A9NDqa9jhrAJBKkjvllIZs5TtuE9wC2qBChStVtqBRF93S1pdl1asUsjQ8pNzGIE+KU92uIViK3QInSa3tfj3HZu9NHKeqzwrGmPPYV/L1issMMP/iu08z3WkD3g36ia0XQXKoCE+Yt6T8xESQ10qT+9bOv9eVcR+cYFQ1xdVwQhmn7Z+wRuZRkwsOgtCyix3n0+NN3qXao5WWHGqsHlLWx6Y25WYJygJpdyWWMqG9WOmL5CMgHLyzw7CErjIxdGDaPU/B3RoCSYPg8TMvSUN61EuC0TFAn/M14hVebeVrAObQVxpTwLSc+8ItoZIUNleyl8q37Nl0Ub9v56z4GePoUm3TVKcswm3OPyW3j7zFpxrktbztEVnbUQtk85NCv/IE0pTNjsAisZkRUZf3ztxjqnQ==;uPkEqvVncIkcVimF9Q5j0w=="
 ---

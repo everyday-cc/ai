@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity"
+    excerpt: "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia"
+    publishedDateTime: 2024-02-01T18:56:00Z
+    webUrl: "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 79
   - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
     excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
     publishedDateTime: 2024-01-30T07:54:00Z
@@ -35,57 +44,22 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei"
-    excerpt: "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points"
-    publishedDateTime: 2024-02-02T16:51:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/"
+  - title: "AMD, like Intel, hopes to sell a ton of AI Chips, but expects revenue to take a hit, reveals earnings call"
+    excerpt: "Major chip makers like AMD and Intel expect to sell a ton of computer processors and more of AI chips. However, they also expect their revenue to take a hit this year as they mount a challenge to NVID"
+    publishedDateTime: 2024-01-31T04:42:00Z
+    webUrl: "https://www.firstpost.com/tech/amd-like-intel-hopes-to-sell-a-ton-of-ai-chips-but-expects-revenue-to-take-a-hit-reveals-earnings-call-13672622.html"
+    ampWebUrl: "https://www.firstpost.com/tech/amd-like-intel-hopes-to-sell-a-ton-of-ai-chips-but-expects-revenue-to-take-a-hit-reveals-earnings-call-13672622.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/amd-like-intel-hopes-to-sell-a-ton-of-ai-chips-but-expects-revenue-to-take-a-hit-reveals-earnings-call-13672622.html/amp"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 69
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Meta plans new in-house AI chip 'Artemis' to break away from Nvidia"
-    excerpt: "Meta, the world's largest social media network, has been investing heavily in boosting its computing power to support its ambitious AI vision."
-    publishedDateTime: 2024-02-02T02:55:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-plans-new-in-house-ai-chip-artemis-to-break-away-from-nvidia"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: Firstpost
+      domain: firstpost.com
     quality: 56
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/02/image/jpeg/3BYqG1Ho4scPJvxuv4RJ0uCyZIpI9DYqaKhfo0oY.jpg"
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/01/AMD-like-Intel-hopes-to-sell-a-ton-of-AI-Chips-but-expects-revenue-to-take-a-hit-reveals-earnings-call.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
-    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
-    publishedDateTime: 2024-01-30T03:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia stock hits record high as tech earnings reinforce AI bullishness"
-    excerpt: "Nvidia traded as high as $666 per share on Friday, with the stock buoyed by optimism over AI expressed in mega-cap earnings this week."
-    publishedDateTime: 2024-02-02T20:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-record-high-artificial-intelligence-tech-earnings-nvda-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
     excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
     publishedDateTime: 2024-01-30T10:54:00Z
@@ -114,20 +88,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Could AMD break Nvidia’s chokehold on chips?"
-    excerpt: "On January 30th, in its quarterly earnings call, AMD announced that it expected to sell $3.5bn-worth of MI300s this year. It also reported strong revenues of $23bn in 2023, four times what they had been in 2014,"
-    publishedDateTime: 2024-01-31T19:27:00Z
-    webUrl: "https://www.economist.com/business/2024/01/31/could-amd-break-nvidias-chokehold-on-chips"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 39
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_WBP502.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta unveils Artemis chip to boost AI, cut Nvidia ties - Report"
     excerpt: "Meta confirmed plans to deploy a new custom semiconductor chip, dubbed \"Artemis,\" in its data centers to enhance AI capabilities, reducing dependency on Nvidia. Meta, the Facebook and Instagram parent company, is preparing to deploy a new version of a ..."
     publishedDateTime: 2024-02-02T00:00:00Z
@@ -136,15 +96,6 @@ related:
     provider:
       name: CoinTelegraph
       domain: cointelegraph.com
-    quality: 34
-  - title: "Nvidia Readies H20 Chinese AI Chip to Compete With Huawei"
-    excerpt: "Previous reports claim that Nvidia aims to begin full production of the H20 in the second quarter of this year. Nvidia may also be working on additional China-specific AI chips, but there's no information on the alleged L20 and L2 accelerators."
-    publishedDateTime: 2024-02-02T14:00:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-readies-h20-chinese-ai-chip-to-compete-with-huawei"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
     quality: 34
   - title: "Singtel to Offer NVIDIA’s Full-stack AI Platform to Enterprises across Southeast Asia"
     excerpt: "Singtel has joined the NVIDIA Partner Network Cloud Programme and will bring NVIDIA’s full-stack AI platform to enterprises across the region. Singtel’s NVIDIA-powered AI Cloud will be hosted by Singtel’s Nxera regional data centre business, which will be developing a new generation of sustainable, hyper-connected AI-ready data centres."
@@ -169,15 +120,6 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 27
-  - title: "Meta Boosts Its Spending Plans for 2024. It May Be Good News for Nvidia."
-    excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
-    publishedDateTime: 2024-02-01T21:36:00Z
-    webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 3
 
 secured: "sR1zFWLu6dxOFAN1Q2+fPwZxiyfZIFXzDySlPTgIZPIj4lXcNFCyJLD98SMSGXEqiEfcu2cjgp9J3xlv4v6kIpY1WJ2lEjE44fLNfGUEL2eI6eMtTDIAl4YymZc24MBLR4Fvj+ZjoYzzkiWrViu64tFxjhvylilbzOewSNOZWxkskDPaXSRtXM+wSGPaHVjkAXgppzLH+B/VmrHJV1ZmbNnCSuqpCwtltosGUUWWwyhM/0JceDQxDm3t2XsLUOThuUV3RW4LPcv2mxhxto5StFn0RnhRtjbDGVE+ahlpEG7m4+CfwtH6vSL2iNaphWNxCcbsxWbO80YVjfnNiejV4+rD9mYOCSKCaenDNFUl+4T8G/WC+cTncrpMyEhtdBA5Nk8YLsUC10aCKIHZ5chkQ63bhvFhAcEzdu2FLm8ZySQTfEdC+Ilo3JSHZ4s9E+iyRpmut5+PIXRIcNlZrfgGrFVdWN44D4TZ9lHIofvar164dgdiixKKDSyWubogKwyy1XJ1wmPoRO3JYgKnMT0PeQ==;P6ETeB6SaIsNMNjQkGqhkg=="
 ---

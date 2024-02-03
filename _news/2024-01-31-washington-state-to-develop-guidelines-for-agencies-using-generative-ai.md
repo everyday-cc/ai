@@ -25,61 +25,114 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity"
-    excerpt: "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-29T15:50:31Z
-    webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
+  - title: "Designing generative AI workloads for resilience"
+    excerpt: "Resilience plays a pivotal role in the development of any workload, and generative AI workloads are no different. There are unique considerations when engineering generative AI workloads through a resilience lens. Understanding and prioritizing resilience is crucial for generative AI workloads to meet"
+    publishedDateTime: 2024-02-01T18:17:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 114
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "An Introduction To The Privacy And Legal Concerns Of Generative AI"
-    excerpt: "However, as this technological marvel gains momentum, it brings along a wave of multifaceted concerns, especially in the domains of education, ethics, privacy and legality. Generative AI, encapsulated in models like Bard, ChatGPT and DALL-E, embodies an ..."
-    publishedDateTime: 2024-01-29T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: AWS
+      domain: aws.amazon.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 833
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/generative-ai-workloads-resilience.jpg"
+        width: 1022
+        height: 511
         isCached: true
-  - title: "IBM says generative AI can help automate business actions"
-    excerpt: "A new program called SNAP uses large language models to predict the next most probable development in a process such as a loan application or an HR situation."
-    publishedDateTime: 2024-02-02T00:29:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-says-generative-ai-can-help-automate-business-actions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
+  - title: "Bard Now Lets You Generate AI Images for Free"
+    excerpt: "Bard, Google’s AI chat bot, is now more than just a chat bot. You can now use Bard to generate images, powered by Google’s updated Imagen 2 model. This model, as explained by Google, balances quality and speed,"
+    publishedDateTime: 2024-02-01T18:55:00Z
+    webUrl: "https://www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/"
+    ampWebUrl: "https://www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/amp/"
+    cdnAmpWebUrl: "https://www-droid--life-com.cdn.ampproject.org/c/s/www.droid-life.com/2024/02/01/bard-now-lets-you-generate-ai-images-for-free/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Droid Life
+      domain: droid-life.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/28158bf83549a355b0939671ef07da0b159e2605/2024/02/01/d44a65be-7fb3-44c6-a742-fc3d4b400ae0/gettyimages-1766154620.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.droid-life.com/wp-content/uploads/2024/02/Gemini-Bard-600x315-cropped.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
-    excerpt: "IBM watsonx is bringing generative AI to the music industry."
-    publishedDateTime: 2024-01-30T18:48:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+  - title: "Google Bard Can Now Generate AI Images for Free"
+    excerpt: "Google has introduced generative AI capabilities to its Maps platform recently, while also unveiling notable enhancements for Bard. One significant update"
+    publishedDateTime: 2024-02-03T06:12:00Z
+    webUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/"
+    ampWebUrl: "https://propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2024/02/03/google-bard-can-now-generate-ai-images-for-free/amp/?fbclid=IwAR0S0xmTrQPUVMuEySzgDrGyHSvxwdzFke-TF1jN0dLuewM_r9mqMKGVa-A"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 59
+    images:
+      - url: "https://propakistani.pk/wp-content/uploads/2024/02/Google-Bard-AI-scaled-e1706939990964.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative artificial intelligence"
+    excerpt: "The executive order was signed by the Democratic Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI as well as its risks."
+    publishedDateTime: 2024-01-30T22:55:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/washington-state-to-develop-guidelines-for-agencies-using-generative-artificial-intelligence"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 46
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Generative AI-Powered Calling App AI Phone Releases Voice-to-Voice Live Translation, Shattering Language Barriers on Calls"
+    excerpt: "AI Phone's Live Translation feature is now available to translate both text transcript and speech during live phone call conversations,"
+    publishedDateTime: 2024-02-01T03:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/generative-ai-powered-calling-app-ai-phone-releases-voice-to-voice-live-translation-shattering-language-barriers-on-calls-1033017458"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 58
+    quality: 43
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/r6ZmsB0rZ2N74pbNR5Ge0wK5nL53/1706722887397-0.png"
+        width: 800
+        height: 451
+        isCached: true
+  - title: "Saudi Arabia Debuts 'Generative AI for All' Program"
+    excerpt: "Saudi Minister of Communications and Information Technology Abdullah Al-Swaha announced that the initiative will be supervised by the International Center for Artificial Intelligence Research and Ethics (ICAIRE) — which was launched in November 2023 ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb75b8da3b0dd6228/65bb9c01e4b697040a40b713/saudi_keyboard_sleepyfellow_Alamy.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Six Principles for Redefining Retail with Responsible AI"
+    excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/six-principles-for-redefining-retail-with-responsible-ai"
+    type: article
+    provider:
+      name: Retail TouchPoints
+      domain: retailtouchpoints.com
+    quality: 19
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "An executive order was signed by Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI in government operations as well as its risks."
+    publishedDateTime: 2024-02-01T13:00:00Z
+    webUrl: "https://www.knkx.org/government/2024-02-01/washington-state-to-develop-guidelines-for-agencies-using-generative-ai"
+    type: article
+    provider:
+      name: KNKX
+      domain: knkx.org
+    quality: 19
 
 secured: "qn+YesE0I4r/lyIc8Im/HsBr47yV3DkCP2nBUUh5E7cgsS2CjWDA3gIIQAEHy6iZUspuZeO3ak5v2aryE3jY0EIBmKRmIVYAPPYKZmmPKKxBHXZ7CZ+0DkAfhFvok+nz7taoQo6SEnMtBZN4sU6xm59dEaolB4BoOhFy9cxaY45fS8BbkmCTeDHZmrAj6ANA+iZ4AaNJkZd3TToyDOFBVo8EUcqUB1Er8Gsjgq/0z1/BwjvrcLQKj+u7p0/pNM6+QkBRx8Pz6k8vbO5mCRoK3YJdwtjX4IL2auREHGEhtgM0rVgZmUUql0ay9vbMMgGonV7BfXba5fdGes2vG00PsBoJ8uOxPDpczZBR7Q3t9HXBdWLgluJE33FmbB3gzLcgdzVmtt2Y2wHqvKAWIT09Je1PgRqddmsde8OjkIzL+fHWeWEyf8RHPpqdaauZTRnT+gMJJLSFsdpWIj7XK7ZRUwgn3VzAQVnUc+5YSZXtdcuonc/YFNtrqjXK3Tfa7jsXl0NljSVhCsVwhV9E9tV4Kw==;O9oXjFvrb3gW2auPEvxABw=="
 ---

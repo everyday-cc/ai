@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft's big bet on AI seems to be paying off"
+    excerpt: "\"By infusing AI across every layer of our tech stack ... There have also been reports of Microsoft and OpenAI looking into investing in a humanoid robot startup."
+    publishedDateTime: 2024-01-31T18:08:00Z
+    webUrl: "https://www.zdnet.com/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft issues light guidance even as Azure growth drives earnings beat"
     excerpt: "Microsoft shares moved as much as 2% lower in extended trading Tuesday after the software maker issued fiscal second-quarter results that outdid analysts’ estimates and a light quarterly revenue outlook. Here’s how the company performed, compared with consensus among analysts polled by LSEG, formerly known as Refinitiv:"
     publishedDateTime: 2024-01-30T23:09:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107324589-1698424883333-gettyimages-1702402106-GOOGLE_DOJ_ANTITRUST.jpeg?v=1706552089"
         width: 3727
         height: 2485
+        isCached: true
+  - title: "AI push sees Microsoft cloud revenues hit new high"
+    excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
+    publishedDateTime: 2024-01-31T12:28:00Z
+    webUrl: "https://www.techradar.com/pro/ai-push-sees-microsoft-cloud-revenues-hit-new-high"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/1e26f696ffbc15486daabd6ce566b3ee-1200-80.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Nous Achieves Microsoft AI and Machine Learning (AI/ML) Advanced Specialization"
     excerpt: "Nous Infosystems, a leading global IT solutions provider delivering innovative technology services and solutions, announced that it"
@@ -78,6 +108,54 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
+  - title: "Microsoft set for AI-powered revenue surge"
+    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
+    publishedDateTime: 2024-01-30T10:38:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Generative AI boosts cloud revenue for Microsoft, Google"
+    excerpt: "While the rise of generative AI has bolstered Microsoft’s revenue from its Azure and SaaS offerings, it also helped Google grow cloud revenue to the point it’s now 10% of Alphabet’s revenue."
+    publishedDateTime: 2024-01-31T14:14:00Z
+    webUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/12/spot_it_leadership_2021_intro_one_glowing_arrow_leads_a_pack_of_other_arrows_forward_leadership_momentum_progress_growth_by_gremlin_gettyimages-1050942106_2400x1600_homepage_hero-100870924-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Microsoft, Google ride AI wave as revenues surge"
+    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
+    publishedDateTime: 2024-01-31T09:40:00Z
+    webUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/microsoft-ceo-satya-na.jpg"
+        width: 1280
+        height: 852
+        isCached: true
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology"
     publishedDateTime: 2024-01-30T21:42:00Z
@@ -94,6 +172,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Microsoft revenue surges as AI bet delivers"
+    excerpt: "Sales leaped to $62 billion for the October to December period, up 18 percent year-on-year and above the $61.1 billion projected by analysts"
+    publishedDateTime: 2024-01-31T05:10:00Z
+    webUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781"
+    ampWebUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/pixabay.jpg"
+        width: 750
+        height: 393
+        isCached: true
   - title: "AI robot startup Figure in talks for funding round led by Microsoft, OpenAI"
     excerpt: "US-based startup Figure AI, specialising in humanoid robots, is reportedly in discussion with Microsoft and OpenAI to lead a funding round to secure $500 million. According to a Bloomberg report, Microsoft is expected to invest approximately $95 million, with OpenAI contributing around $5 million."
     publishedDateTime: 2024-01-31T09:28:00Z
@@ -105,6 +199,38 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 69
+  - title: "Microsoft results show benefits of AI on Azure"
+    excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."
+    publishedDateTime: 2024-01-31T07:00:00Z
+    webUrl: "https://www.computerweekly.com/news/366568432/Microsoft-results-show-benefits-of-AI-on-Azure"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 69
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-300124-cover-500px.jpg"
+        width: 500
+        height: 354
+        isCached: true
+  - title: "Microsoft joins forces with VB Lab for 3 stops on the AI Impact Tour"
+    excerpt: "VentureBeat's next stop on the AI Impact Tour, sponsored by Microsoft, will take place February 29 in New York City."
+    publishedDateTime: 2024-01-30T21:50:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-joins-forces-with-vb-lab-for-3-stops-on-the-ai-impact-tour/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 66
+  - title: "Microsoft Omits the AI Progress Report Investors Wanted"
+    excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
+    publishedDateTime: 2024-01-31T10:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-01-31/microsoft-omits-the-ai-progress-report-investors-wanted"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Humanoid Robot Startup Reportedly In Talks For Mega Funding Round Led By Microsoft, OpenAI"
     excerpt: "AI startup Figure AI Inc. is in advanced talks to secure up to $500 million in funding led by Microsoft Corporation and OpenAI for developing humanoid robots capable of performing hazardous tasks."
     publishedDateTime: 2024-01-31T05:00:00Z
@@ -162,6 +288,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "Microsoft Tweaks AI Tool After Explicit Taylor Swift Fakes"
+    excerpt: "Microsoft beefed up protections for victims of nonconsensual explicit images generated by its text-to-image tool Designer, after AI -generated naked photos of Taylor Swift went viral last week. 404 Media first reported that people on 4chan and a specific Telegram channel were using Designer to create nonconsensual NSFW images of celebrities and sharing them."
+    publishedDateTime: 2024-01-29T23:47:00Z
+    webUrl: "https://www.thedailybeast.com/microsoft-tweaks-ai-tool-after-explicit-taylor-swift-fakes"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 54
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3094,w_5500,x_0,y_179/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706561340/2023-10-12T051000Z_469077390_RC2OQ3AVK62L_RTRMADP_3_FILM-CONCERT-TAYLOR-SWIFT-PREMIERE_kvidrd"
+        width: 1480
+        height: 833
+        isCached: true
+  - title: "AI advances lift Microsoft revenues to $62bn"
+    excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"
+    publishedDateTime: 2024-01-30T22:04:00Z
+    webUrl: "https://www.thetimes.co.uk/article/ai-advances-lift-microsoft-revenues-to-62bn-ls0l67czk"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F351b03b7-d52c-459e-b009-37ac83b2803f.jpg?crop=5000%2C2813%2C0%2C260&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Insight Enterprises inks new multi-year Microsoft Azure deal"
     excerpt: "The company has received 65 Microsoft partner of the year awards in the last decade, including 11 worldwide awards for AI, Azure migration, IoT and mobile app development, among others. One of the first partners to publish offers for Microsoft 365 Copilot ..."
     publishedDateTime: 2024-01-31T00:03:00Z
@@ -189,6 +343,20 @@ related:
       - url: "https://media.zenfs.com/en/aol_bbc_articles_618/11a199d7b8ebd90a0341baf5d4de221e"
         width: 976
         height: 549
+        isCached: true
+  - title: "Microsoft smashes profit forecasts thanks to AI"
+    excerpt: "Worth more than Apple now  Software King of the World Microsoft has wowed investors with its latest results, showing a massive surge in profits thanks to getting its foot in the AI door early. Microsoft reported adjusted earnings per share of $2."
+    publishedDateTime: 2024-01-31T11:11:00Z
+    webUrl: "https://www.fudzilla.com/news/58362-microsoft-smashes-profit-forecasts-thanks-to-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/8225a7d4b17d48ea511e848d1b49acde_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Microsoft Surpasses Expectations, Fueled by Azure’s Accelerated Growth"
     excerpt: "Microsoft's Q2 earnings hit $2.93/share, beating $2.78 estimates with Azure's 30% revenue surge, showcasing its cloud sector dominance."
@@ -243,6 +411,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
+    excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
+    publishedDateTime: 2024-01-30T00:35:00Z
+    webUrl: "https://siliconangle.com/2024/01/29/microsoft-x-respond-taylor-swift-ai-misue-increased-content-moderation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/6966830273_1817c106c2_c.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Microsoft Data Governance: Preparing for the Copilots"
     excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
     publishedDateTime: 2024-01-31T20:47:00Z
@@ -256,6 +438,20 @@ related:
       - url: "https://virtualizationreview.com/Articles/2024/01/31/~/media/ECG/virtualizationreview/Images/2024/01/SharePoint_sharing_settings_s.ashx"
         width: 267
         height: 300
+        isCached: true
+  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
+    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
+    publishedDateTime: 2024-01-31T08:00:00Z
+    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
+        width: 1280
+        height: 750
         isCached: true
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "SAN FRANCISCO (AP) — Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology ... Analysts polled by FactSet Research expected Microsoft ..."
@@ -275,6 +471,24 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 36
+  - title: "Cloud strength and AI excitement boost Microsoft revenue"
+    excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
+    publishedDateTime: 2024-01-30T13:46:00Z
+    webUrl: "https://www.ft.com/content/a062df1d-aaf5-4604-8f97-4444170482f2"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+  - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
+    excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
+    publishedDateTime: 2024-01-31T11:14:00Z
+    webUrl: "https://www.aol.com/finance/microsoft-earnings-reveal-c-suite-121458398.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 34
   - title: "Charted: How Microsoft's AI lead is showing up"
     excerpt: "The big picture: Any first-mover advantage may shrink over time, but for now, investors clearly see Microsoft as leading the generative AI race. The company's market cap stands at nearly $3.1 trillion — while Apple's has fallen to $2.9 trillion. The size of Alphabet, Amazon and Meta are all currently below $2 trillion."
     publishedDateTime: 2024-02-02T22:41:00Z

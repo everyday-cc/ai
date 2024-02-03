@@ -47,15 +47,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
-    excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
-    publishedDateTime: 2024-01-29T15:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-1033005842"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "Udemy Announces Generative AI Roadmap For Accelerated, Personalized Skills Development"
     excerpt: "Udemy (Nasdaq: UDMY), a leading online skills marketplace and learning platform, today announced a series of generative AI (gen AI)-enabled offerings designed to support personalized learning and enhanced skills development."
     publishedDateTime: 2024-02-01T14:35:00Z

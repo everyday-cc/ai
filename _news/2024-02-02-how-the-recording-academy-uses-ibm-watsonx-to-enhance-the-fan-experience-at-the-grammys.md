@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/watson-discovery-grammys/"
 webUrl: "https://www.ibm.com/blog/watson-discovery-grammys/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "How generative AI from IBM watsonx is supercharging the GRAMMYs digital experience"
+    excerpt: "IBM watsonx is bringing generative AI to the music industry."
+    publishedDateTime: 2024-01-30T18:48:00Z
+    webUrl: "https://www.businessinsider.com/sc/how-ibm-watsonx-is-supercharging-the-grammys-digital-experience"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 58
   - title: "Korea Quantum Computing to Offer IBM's AI and Quantum Computing Solutions, Including watsonx"
     excerpt: "Korea Quantum Computing (KQC) has engaged IBM to offer IBM's most advanced AI software and infrastructure, as well as quantum computing services"
     publishedDateTime: 2024-01-30T02:31:00Z

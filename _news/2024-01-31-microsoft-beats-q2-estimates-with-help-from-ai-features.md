@@ -21,51 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft CEO responds to AI-generated Taylor Swift fake nude images"
-    excerpt: "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week."
-    publishedDateTime: 2024-01-29T13:14:00Z
-    webUrl: "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
+  - title: "Microsoft, Alphabet and AMD tout AI progress, but investors want tangible results"
+    excerpt: "Shares of the tech giants slipped in late trading Tuesday after they delivered 2023 results and forecasts for the current quarter, as Wall Street seeks more clarity on AI’s impact on financial performance."
+    publishedDateTime: 2024-01-31T04:28:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 104
+      name: scmp.com
+      domain: scmp.com
+    quality: 99
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571"
-        width: 4523
-        height: 3047
-        isCached: true
-  - title: "Microsoft's big bet on AI seems to be paying off"
-    excerpt: "\"By infusing AI across every layer of our tech stack ... There have also been reports of Microsoft and OpenAI looking into investing in a humanoid robot startup."
-    publishedDateTime: 2024-01-31T18:08:00Z
-    webUrl: "https://www.zdnet.com/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-big-bet-on-ai-seems-to-be-paying-off/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/e13627a237c6a281cc2ea5fe0e7795d4fbec9b59/2023/08/30/a32be0fd-11eb-49e4-bdb6-5652372167da/dsc00260.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/31/b4da3d72-ff1e-45ad-8719-f1a297ad3e5d_d0f49c3d.jpg?itok=RjL0COcV&v=1706674682"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "AI push sees Microsoft cloud revenues hit new high"
-    excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
-    publishedDateTime: 2024-01-31T12:28:00Z
-    webUrl: "https://www.techradar.com/pro/ai-push-sees-microsoft-cloud-revenues-hit-new-high"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 84
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/1e26f696ffbc15486daabd6ce566b3ee-1200-80.jpg"
-        width: 900
-        height: 506
+        height: 630
         isCached: true
   - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
     excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
@@ -81,116 +51,45 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Microsoft set for AI-powered revenue surge"
-    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
-    publishedDateTime: 2024-01-30T10:38:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
+  - title: "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch"
+    excerpt: "A look at the expectations from analysts for Microsoft's Q2 earnings report and key items for investors to watch."
+    publishedDateTime: 2024-01-29T22:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330"
     type: article
     provider:
-      name: brandequity.economictimes.indiatimes
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Microsoft-Shutterstock_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy"
+    excerpt: "Reuters reports “Artemis” will complement the hundreds of thousands of Nvidia H100 chips Meta bought. Similar to the MTIA chip Meta announced last year, Artemis is also focused on inference — the actual decision-making part of AI — and not training AI models, but it’s already a little late to the game."
+    publishedDateTime: 2024-02-01T20:20:00Z
+    webUrl: "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 75
+  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
+    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
+    publishedDateTime: 2024-02-01T14:43:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+    type: article
+    provider:
+      name: Indiatimes
       domain: indiatimes.com
-    quality: 74
+    quality: 62
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "Generative AI boosts cloud revenue for Microsoft, Google"
-    excerpt: "While the rise of generative AI has bolstered Microsoft’s revenue from its Azure and SaaS offerings, it also helped Google grow cloud revenue to the point it’s now 10% of Alphabet’s revenue."
-    publishedDateTime: 2024-01-31T14:14:00Z
-    webUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712661/generative-ai-boosts-cloud-revenue-for-microsoft-google.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/spot_it_leadership_2021_intro_one_glowing_arrow_leads_a_pack_of_other_arrows_forward_leadership_momentum_progress_growth_by_gremlin_gettyimages-1050942106_2400x1600_homepage_hero-100870924-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Microsoft, Google ride AI wave as revenues surge"
-    excerpt: "Microsoft and Google delivered solid corporate earnings on Tuesday as the tech giants said demand for artificial intelligence services stoked revenue."
-    publishedDateTime: 2024-01-31T09:40:00Z
-    webUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.html"
-    ampWebUrl: "https://techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-microsoft-google-ai-revenues-surge.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2024/microsoft-ceo-satya-na.jpg"
+      - url: "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg"
         width: 1280
-        height: 852
+        height: 720
         isCached: true
-  - title: "Microsoft revenue surges as AI bet delivers"
-    excerpt: "Sales leaped to $62 billion for the October to December period, up 18 percent year-on-year and above the $61.1 billion projected by analysts"
-    publishedDateTime: 2024-01-31T05:10:00Z
-    webUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781"
-    ampWebUrl: "https://www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/business/news/microsoft-revenue-surges-ai-bet-delivers-3532781?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2023/12/27/pixabay.jpg"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
-    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
-    publishedDateTime: 2024-01-31T05:58:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
-        width: 1600
-        height: 800
-        isCached: true
-  - title: "Microsoft results show benefits of AI on Azure"
-    excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."
-    publishedDateTime: 2024-01-31T07:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366568432/Microsoft-results-show-benefits-of-AI-on-Azure"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 69
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-300124-cover-500px.jpg"
-        width: 500
-        height: 354
-        isCached: true
-  - title: "Microsoft joins forces with VB Lab for 3 stops on the AI Impact Tour"
-    excerpt: "VentureBeat's next stop on the AI Impact Tour, sponsored by Microsoft, will take place February 29 in New York City."
-    publishedDateTime: 2024-01-30T21:50:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-joins-forces-with-vb-lab-for-3-stops-on-the-ai-impact-tour/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-  - title: "Microsoft Omits the AI Progress Report Investors Wanted"
-    excerpt: "Shareholders are looking for any reassurance that progress on artificial intelligence is on track as costs mount to deploy the technology."
-    publishedDateTime: 2024-01-31T10:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-01-31/microsoft-omits-the-ai-progress-report-investors-wanted"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "Google Bard vs Microsoft Copilot, who creates better images? Here are the results"
     excerpt: "We have compared the images generated by both Google Bard and Microsoft Copilot using the same prompts to determine which one creates better pictures."
     publishedDateTime: 2024-02-02T06:56:00Z
@@ -207,34 +106,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Tweaks AI Tool After Explicit Taylor Swift Fakes"
-    excerpt: "Microsoft beefed up protections for victims of nonconsensual explicit images generated by its text-to-image tool Designer, after AI -generated naked photos of Taylor Swift went viral last week. 404 Media first reported that people on 4chan and a specific Telegram channel were using Designer to create nonconsensual NSFW images of celebrities and sharing them."
-    publishedDateTime: 2024-01-29T23:47:00Z
-    webUrl: "https://www.thedailybeast.com/microsoft-tweaks-ai-tool-after-explicit-taylor-swift-fakes"
+  - title: "Microsoft’s Strong Financials and AI Growth Prompt Buy Rating and Increased Price Target"
+    excerpt: "Wolfe Research analyst Alex Zukin reiterated a Buy rating on Microsoft (MSFT – Research Report) yesterday and set a price target of"
+    publishedDateTime: 2024-01-31T10:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-strong-financials-and-ai-growth-prompt-buy-rating-and-increased-price-target-1033014845"
     type: article
     provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 54
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3094,w_5500,x_0,y_179/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1706561340/2023-10-12T051000Z_469077390_RC2OQ3AVK62L_RTRMADP_3_FILM-CONCERT-TAYLOR-SWIFT-PREMIERE_kvidrd"
-        width: 1480
-        height: 833
-        isCached: true
-  - title: "AI advances lift Microsoft revenues to $62bn"
-    excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"
-    publishedDateTime: 2024-01-30T22:04:00Z
-    webUrl: "https://www.thetimes.co.uk/article/ai-advances-lift-microsoft-revenues-to-62bn-ls0l67czk"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 54
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F351b03b7-d52c-459e-b009-37ac83b2803f.jpg?crop=5000%2C2813%2C0%2C260&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "Microsoft Dishes on AI Revenue; Google CEO Says ‘Agents’ Are Coming"
     excerpt: "Microsoft investors tuned into the company’s earnings call with bated breath Tuesday night, looking to see how much its new AI products were boosting sales. Microsoft didn’t deliver an unequivocal blowout—revenue in the December quarter grew moderately faster,"
     publishedDateTime: 2024-01-31T15:00:00Z
@@ -249,57 +129,63 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft smashes profit forecasts thanks to AI"
-    excerpt: "Worth more than Apple now  Software King of the World Microsoft has wowed investors with its latest results, showing a massive surge in profits thanks to getting its foot in the AI door early. Microsoft reported adjusted earnings per share of $2."
-    publishedDateTime: 2024-01-31T11:11:00Z
-    webUrl: "https://www.fudzilla.com/news/58362-microsoft-smashes-profit-forecasts-thanks-to-ai"
+  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
+    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
+    publishedDateTime: 2024-01-30T01:40:00Z
+    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
+      name: Winona Daily News
+      domain: winonadailynews.com
+    quality: 45
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/8225a7d4b17d48ea511e848d1b49acde_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Microsoft and X respond to Taylor Swift AI misuse with increased content moderation"
-    excerpt: "Microsoft Corp. and X Corp. today responded to the widespread sharing of artificial intelligence-generated explicit images of the singer Taylor Swift by making moves to stop the generation and sharing of such images."
-    publishedDateTime: 2024-01-30T00:35:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/microsoft-x-respond-taylor-swift-ai-misue-increased-content-moderation/"
+  - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
+    publishedDateTime: 2024-01-31T17:20:00Z
+    webUrl: "https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/6966830273_1817c106c2_c.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
-    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
-    publishedDateTime: 2024-01-31T08:00:00Z
-    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+    quality: 43
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
-        width: 1280
-        height: 750
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Cloud strength and AI excitement boost Microsoft revenue"
-    excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
-    publishedDateTime: 2024-01-30T13:46:00Z
-    webUrl: "https://www.ft.com/content/a062df1d-aaf5-4604-8f97-4444170482f2"
+  - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
+    excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
+    publishedDateTime: 2024-01-31T02:13:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 36
+  - title: "Microsoft's full set of Office apps will be available on Apple's Vision Pro — including the company's new AI assistant, Copilot"
+    excerpt: "The tech giant said programs including Microsoft Word, Excel, and PowerPoint would be available on Apple's new headset on its launch day."
+    publishedDateTime: 2024-02-01T15:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-office-apps-apple-vision-pro-copilot-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Microsoft revenue surges to US$62bil as AI bet delivers"
     excerpt: "Net profit also beat expectations at US$21.9 billion, instead of the US$20.71 projected by analysts. Crucially, revenue for Microsoft’s Azure cloud services jumped by 30% in the period, driven by the bigger computing needs that come with the adoption of AI. Overall, Microsoft’s cloud services sales were up by 24%, the company said."
     publishedDateTime: 2024-01-31T03:46:00Z
@@ -309,24 +195,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
-    excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
-    publishedDateTime: 2024-01-31T11:14:00Z
-    webUrl: "https://www.aol.com/finance/microsoft-earnings-reveal-c-suite-121458398.html"
+  - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
+    excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
+    publishedDateTime: 2024-01-30T12:39:00Z
+    webUrl: "https://realmoney.thestreet.com/markets/microsoft-amd-and-ai-s-big-night-an-unexpected-boost-no-growth-europe-16143042"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-  - title: "Microsoft CEO Satya Nadella likely to visit India in February, expected to meet AI start-ups: Report"
-    excerpt: "as well as Bhavish Aggarwal's AI startup Krutrim, among others, in Mumbai and Bangalore. These interactions are poised to explore new opportunities and reinforce Microsoft's commitment to leveraging technology for expanding possibilities in India."
-    publishedDateTime: 2024-01-29T14:09:00Z
-    webUrl: "https://www.businesstoday.in/tech-today/news/story/microsoft-ceo-satya-nadella-likely-to-visit-india-in-february-expected-to-meet-ai-start-ups-report-415278-2024-01-29"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 19
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 33
 
 secured: "hz2m4t+gYktEJhfE/Q/XPs7e/h6/DF8BaIz94AEBbQpshD634k0d9a1RglwdbyDs4ZB7VYyP6nZGtARlkALK1tv4Ppr7/bSmvPB5X5Kdf4/JgnsZU21x1tujgqRSiytxzHe4S5zLSXkEsCzv0+9daN++SVTLxRSYS0cddSqG5dMyUxYW4ixoHzcUBnm97YdZq2DOGDaeT+SL9x1tOjSu118xIH03+wkLPaIImhiwtZ2dYecplUPbRigsP6Z7PKWdztrzicUKCNF509FAf0y1HWNwysbSeN/AVG4qErYVnm+0jt+/MIsM38ha2v4jgx66B7Z8sq+hyLXDHK77p5RkQoinlve7hdVro2vv2Szb6oE=;lw0vG6ToRr3BzOML+2LuQA=="
 ---

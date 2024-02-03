@@ -52,20 +52,6 @@ related:
         width: 2250
         height: 1265
         isCached: true
-  - title: "FTC hosts tech summit on artificial intelligence; CFPB weighs in"
-    excerpt: "On January 25, the FTC hosted a virtual tech summit focused on artificial intelligence (AI). The summit featured speakers from the FTC––including all three commissioners––software engineers, lawyers, technologists, entrepreneurs, journalists ..."
-    publishedDateTime: 2024-01-29T15:11:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/ftc-hosts-tech-summit-on-artificial-4803308/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13091_35.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "p/VcqqcQxXOfyIzDJ/tg3VOrggaogimOaruCBuRCR6GrnW0lsYauWVqED4HvgVP2dsqwJIXq1QvRp4VbCxcJyPwo0l76FgthvrAWdzosHwszDBIti7KjHrgGZPfJrhg3ha4+tr6gK/gfppqq3TzA28pygHR5w/jJjrYJx90HbP2YZjUXMRgLicMcyK4qURfYeFPWFRZ+8Ot/PTDA2A8jAIaIenMCtuGG7dB070uRDRSefWU8bNydGwe0S3B8scqEbgerw8o1zifHQnLsLweZReUNIdQTNwVvrb4X3xVbCTnKXIBHxEgdYU08kncIBLZSdTJ1+LU36vqq/EFQxbrw7TF21++BeaddyS2dC8F5Auk=;0if1YACIhOoIr9tYepfaMw=="
 ---

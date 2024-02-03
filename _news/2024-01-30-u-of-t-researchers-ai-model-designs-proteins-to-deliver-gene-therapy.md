@@ -65,20 +65,6 @@ related:
         width: 944
         height: 629
         isCached: true
-  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
-    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
-    publishedDateTime: 2024-01-29T13:22:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "9TooPHaVA0etkThTLvrYSW07NF9FQKXT44Sxa2g7JXSNwC0ub3akSZ80nkfL+SHsbriuErrXKgQtWKdP6LlBimglLucLUAEdpiiqd26FS5IrtFoLLfxS5NfqkggHsW8ophJspLN5UOTvzL7bjkrYifGEPTY8AMkDS4g8SmyU24/L4/ADUTfWOvgVCtbrJ3skH8InJSpLCgaBKuYYY0SQNSR0tiw4Li1/xx5mG7FoeSDc3t66L2G+ljL8vjyYD1V2u90Rho9Vmb+XUKL5D7usdcY8d/j2yvKNcyqKXslNXrTj30HAgm0FbDrL3Ua0fgbt++4yRZEMNQoneC0qFGEb6FO3oLQHSV5OFAXFFNceHlg=;Xk/x2fyXwqcs7vrEk1A0+w=="
 ---

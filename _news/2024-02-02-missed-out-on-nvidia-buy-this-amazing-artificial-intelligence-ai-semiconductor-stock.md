@@ -32,6 +32,15 @@ related:
         width: 1131
         height: 565
         isCached: true
+  - title: "Nvidia stock hits record high as tech earnings reinforce AI bullishness"
+    excerpt: "Nvidia traded as high as $666 per share on Friday, with the stock buoyed by optimism over AI expressed in mega-cap earnings this week."
+    publishedDateTime: 2024-02-02T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-record-high-artificial-intelligence-tech-earnings-nvda-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "iqEWV/lXPJB4UEsX8DQ8TJnUJ+H3rk4lyIJU/HRo2lkXOW7fnaWks634WTk3U78rbrl12TBe1Yo7GuMXJJ7wNkWsBTaa7dYGizc62U0EOZGaStRGhTTkSscYcIxbMsba9vyK6Vffk4CrAGxQ1+ZNykzKa4CQ8+i7DvO2SV9utDASeOTKn+L76PbFAzgfHoc1QUQ8hxr9TCzJY67ffSKc+W65cwI8PIpsN5IwSi7w6YnNBCNmiz1hqGYC0n4gKeJzl7kANB3RKYYhX7BhmW6O1QJI0FG2YR/4Ebh2mi2gpM0r8rjCnrRkd77hlqrhju0wPJUUjhEBHk9py2Eui7BtZJT4x40UQdy2CW2wk2Ce1gA=;Bp1vbd+qo6K8CN4ljIFNLA=="
 ---

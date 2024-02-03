@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-dr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

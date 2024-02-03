@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202402/02/65bcaab8a3104efc330243fa.jpeg"
         width: 944
         height: 629
-        isCached: true
-  - title: "VAST Data and Genesis Cloud Partner to Deliver AI-Optimized Cloud Infrastructure"
-    excerpt: "VAST Data has announced a strategic partnership with Genesis Cloud, a leading Infrastructure-as-a-Service (IaaS) provider"
-    publishedDateTime: 2024-01-29T13:22:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-genesis-cloud-partner-to-deliver-ai-optimized-cloud-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "U of T researchers' AI model designs proteins to deliver gene therapy"
     excerpt: "Researchers at the University of Toronto used an artificial intelligence framework to redesign a crucial protein involved in the delivery of gene therapy. The study, published in Nature Machine Intelligence, describes new work optimizing proteins to ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Buy Rating Affirmed for Meta Platforms Amidst Strong Q4 Performance and Promising AI-Driven Growth Prospects"
+    excerpt: "Colin Sebastian, an analyst from Robert W. Baird, maintained the Buy rating on Meta Platforms (META – Research Report). The associated"
+    publishedDateTime: 2024-02-02T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amidst-strong-q4-performance-and-promising-ai-driven-growth-prospects-1033024864"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "lBWpxDdaooQC7KQvRFRZgUtgioVi55bALO66o6jVbL67LG+45B7Lmx00cRummh7kJC07nbYz2FoAtUx6VKU7MkZ4Pxrs/vZRsAyKhRYQp9472zcuD9sgwND6ykWHJLVyJbSmF8wT9hkyZoM3qgh4AHkgXA/luiHO8ezlA7DskE6gYdiPrZjnPRbxetciNuJ4KUSW2UgywBjIDesD1SCain1A9qm/OqiT4Yb+R8sCrkZ9hQKE/xAaNY3GJevSodpQtS8ouqNOjOisVjwtlo51v4hUq4e2oPPGnBLp3bSxYlaNec5m6+g1wcpkYzglKd78RY6eRhNmRrc32OursUy4v3Z1us58Z9Wv5vH4/NL5bo4=;maYZnLAgFQRqWBfRWdj9uQ=="
 ---

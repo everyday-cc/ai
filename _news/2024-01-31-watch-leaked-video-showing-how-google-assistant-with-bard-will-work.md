@@ -91,20 +91,6 @@ related:
         width: 360
         height: 202
         isCached: true
-  - title: "Google Assistant with Bard details just leaked — including release info and new features"
-    excerpt: "Google is hoping to breathe new life into Assistant by integrating its large language model chatbot Bard. Fresh leaks suggest this could launch as soon as March, bringing generative AI capabilities and improved reasoning to the voice assistant."
-    publishedDateTime: 2024-01-29T16:59:00Z
-    webUrl: "https://www.tomsguide.com/ai/google-assistant-with-bard-details-just-leaked-including-release-info-and-new-features"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg"
-        width: 1116
-        height: 628
-        isCached: true
 
 secured: "rbb6sujSDD6/kTs1p/xUmAU8JlYkVHcEqw36i7wE0tDX701AFou9bkXk0EZ24P9B35JvhnzIG9U45oPPHz1TAoOre4Jy7lg5/rGrcHWXppMAB1YtOTEUnZipkpzY+kD06SkXScvSy9chIL7nc9sTlsfD6yDs0ZG0jRJ2tGk+nq726w5FPQU99uR7vF4Yua5SOzpWk1itRy3FfttIU9ow9wvinr3lcLPziXTbS/Vg19u7mwvqEPf/NfsHpvwAtmd4aQnnfPgW+6YdB0loWMMFbEOTISpiqj3MtvyqXeZrXpFEjcPI4hA9OsRNoszRLqiw5x3FQZkreH9YqgJjmlnO0D9udr/rpYeZlblyU+lAjRI=;tJzW1h1+KDwKjBA81dxyjQ=="
 ---

@@ -115,7 +115,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -212,6 +212,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-nvidia-turning-to-intel-foundry-services-to-expand-gpu-and-ai-chip-capacity.md",
+      "title": "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity",
+      "excerpt": "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T18:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-create-an-ai-center-of-excellence-to-kickstart-and-sustain-success.md",
       "title": "Create An AI Center Of Excellence To Kickstart And Sustain Success",
       "excerpt": "A center of excellence, or COE, can coordinate and drive adoption of sustainable AI benefits for the entire organization.",
@@ -272,7 +316,7 @@
       "originalUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1445,49 +1489,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-the-vaticans-top-expert-on-ai-ethics-is-a-friar-from-a-medieval-franciscan-order.md",
-      "title": "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order",
-      "excerpt": "As artificial intelligence's impact on society receives more scrutiny, a Franciscan friar who preaches a message of ethics in technology has gained some powerful listeners ROME -- Friar Paolo ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/wirestory_7a49d562633937efa0e826fb1fa08cc1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
-      "publishedDateTime": "2024-01-18T05:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

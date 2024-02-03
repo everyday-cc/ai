@@ -45,6 +45,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "How Will Artificial Intelligence Affect the Economy?"
+    excerpt: "A recent IMF report estimated that half of the jobs impacted will be affected negatively, while the other half may see increases in productivity."
+    publishedDateTime: 2024-02-03T14:42:00Z
+    webUrl: "https://www.thestreet.com/economonitor/news/how-will-artificial-intelligence-affect-the-economy"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 21
 
 secured: "k/9irBF0sM1cp1iGGbyuHx5bV17Z5zmbOY5wKFFXSb1/htzpkNAYR10WW/NTfAZKZd9iVXgA6C5jWTtjzEGPWwA3wKXYvoUXG9byKdx8EsJk5JXm4heD5I5w5TWDdnp+kqLAN8vGSFxAcpBCGJ2MCfTk79qF9Gpg0E6wjkrGiocf0fqpszs3/PpmhfFg/eDUdTrx/Ozg9vVrylB+7BRvniJANcw0yBSvhZE5Tz7f5fyE4oamXVb6qJbmObjK7WFaGOFZkumLh4SSHxJqebDrepepqen8B0sP0tdLcbgZV+n8LOeES8irbHpEEL3ZZAzQNMgeW8I2+3Mmjvi8/ONkOcyMFtWiI2qGLe5uIAd1z/0=;r8IpdQH+hwDrP+QD5GYmDw=="
 ---

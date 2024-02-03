@@ -25,40 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "This new iPhone app fuses AI with web search, saving you time and energy"
-    excerpt: "With the AI summaries, you can scan the basic facts about your topic ... Arc Search kicks in other tools to help with your searches. You can easily start a new search by tapping the Search icon at the bottom. From there, a keyboard automatically pops ..."
-    publishedDateTime: 2024-01-29T16:00:00Z
-    webUrl: "https://www.zdnet.com/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-iphone-app-fuses-ai-with-web-search-saving-you-time-and-energy/"
+  - title: "AI chatbot Google Bard with Gemini Pro now available in SA"
+    excerpt: "Google Bard with Gemini has now equalled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard"
+    publishedDateTime: 2024-02-01T17:25:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/"
+    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
+    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/b6885bc6bcd0abe4c5c8a3b58435763354bf7f61/2024/01/29/a62a9d4d-c58b-4e7d-a565-da26eb4b6bc4/gettyimages-1401267940.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
+    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
+    publishedDateTime: 2024-02-01T18:29:00Z
+    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 45
+  - title: "Talk To Your Tech: Google Bard Gets A Gemini Boost"
+    excerpt: "The machines are learning to talk, and they're doing it fast. While we humans have self-anointed ourselves as toppers in the language school, the machines have taken to the realm like fish to water. Powered by artificial intelligence,"
+    publishedDateTime: 2024-02-03T11:06:00Z
+    webUrl: "https://www.oneindia.com/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/technology/talk-to-your-tech-google-bard-gets-a-gemini-boost-3742503.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 44
+    images:
+      - url: "https://www.oneindia.com/img/2024/02/zzzzzzzzaa-1706958198.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple iOS 18 expected to be a big software update, iPhone could be getting AI features"
-    excerpt: "Bloomberg's Mark Gurman reports that iOS 18, expected to launch in 2024, could be Apple's most significant OS update ever. It could mark the Cupertino giant's"
-    publishedDateTime: 2024-01-29T22:28:00Z
-    webUrl: "https://www.techspot.com/news/101686-apple-ios-18-expected-big-software-update-iphone.html"
+  - title: "Google Bard's Gemini Pro now understands 9 Indian languages: All you need to know"
+    excerpt: "Google's Bard with Gemini Pro extends its reach globally, supporting multiple languages, and introduces a free image generation feature in English."
+    publishedDateTime: 2024-02-02T11:18:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-bard-s-gemini-pro-now-understands-9-indian-languages-all-you-need-to-know-2024-02-02-914973"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-bard-s-gemini-pro-now-understands-9-indian-languages-all-you-need-to-know-2024-02-02-914973"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-bard-s-gemini-pro-now-understands-9-indian-languages-all-you-need-to-know-2024-02-02-914973"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 41
-  - title: "Apple’s most exciting AI iPhone features reportedly won’t be available until 2025"
-    excerpt: "The first steps into Apple's generative AI will be with iOS 18 and the iPhone 16, but the real features will only come in 2025."
-    publishedDateTime: 2024-02-02T14:26:00Z
-    webUrl: "https://bgr.com/tech/apples-most-exciting-ai-iphone-features-reportedly-wont-be-available-until-2025/"
+      name: India TV
+      domain: indiatvnews.com
+    quality: 39
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/google-gemini-pro-in-bard-in-9-indian-languages-1706870446.jpg"
+        width: 360
+        height: 202
+        isCached: true
+  - title: "Google's Gemini Pro In Bard Now Available In Nine Indian Languages"
+    excerpt: "Google, which brought Gemini Pro into its AI chatbot Bard in English last December, has now made it available in more than 23"
+    publishedDateTime: 2024-02-02T11:00:00Z
+    webUrl: "https://menafn.com/1107801454/Googles-Gemini-Pro-In-Bard-Now-Available-In-Nine-Indian-Languages"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 14
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
+        width: 355
+        height: 250
+        isCached: true
+  - title: "Google’s Bard chatbot gets the Gemini Pro update globally"
+    excerpt: "Google announced today that its Bard chatbot is now powered by the Gemini Pro model globally with support for over 40 languages."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/01/googles-bard-chatbot-gets-the-gemini-pro-update-globally/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
+  - title: "Google Bard gets Gemini Pro update globally, image-generating capability"
+    excerpt: "In late 2023, Google introduced Gemini Pro AI update to the Bard chatbot, but was limited to select regions and supported just one language English. Now, the search engine giant expanded the availability of Gemini Pro-based Bard globally and also now support several international languages including Indian dialects."
+    publishedDateTime: 2024-02-02T11:49:00Z
+    webUrl: "https://www.deccanherald.com/technology/google-bard-gets-gemini-pro-update-globally-image-generating-capability-2877103"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 23
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2024-02%2F846be372-ecea-4576-86f3-ec829639fb0b%2FGemini_Pro_in_Bard_AI_bot.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google's Bard Advance chatbot gets upgrade with subscription plans - What we know so far"
+    excerpt: "Google's parent company, Alphabet, is making its advanced chatbot, Bard Advance, more powerful and sophisticated by introducing subscription plans."
+    publishedDateTime: 2024-02-01T08:27:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-s-bard-advance-chatbot-gets-upgrade-with-subscription-plans-2024-02-01-914771"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 0
+  - title: "Google’s Gemini-Powered Bard Says Goodbye to PaLM2 as More Languages Are Added"
+    excerpt: "Newest version of Google’s Bard now works in more than 40 languages, and is available in 230+ countries and territories."
+    publishedDateTime: 2024-02-02T09:09:00Z
+    webUrl: "https://slator.com/googles-gemini-powered-bard-says-goodbye-palm2-as-more-languages-added/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 0
 
 secured: "AxzC1oThSPMv99ho4BzPg2fVYKoD+xj62jeaSEEqMcjhF6iOazrKcM9H5bZKdxc8T3opx2dJ/fzHpWmdvjiTKndGcgFQAFcMT5MdfiJoYtd2kJvMl0IVHP/3Eyxe/++UpNc2wAaDgtLZq3hN6TGFuKtkTN4BdMQr+U8W97ixjvkCVSbLsOd0+FWUGN9stXwCyOSern3I1A1ZN+CyHc6MLJfek3yWqitTw8jjzDxMsgNg4wiXEzqb8W4YC0CbXflDdMoHlPwNrSVAkDkxSboViGDLs4tyULsf0ag6woxoaoLyfNbiCkYtx/yLKUy11jKZ6rSQFObKGw0uJJS8CxLqlIoI6vwBcd/lpfHb1a9OrS0=;Hw//2uwzT6Sx9RQ6vECpsw=="
 ---

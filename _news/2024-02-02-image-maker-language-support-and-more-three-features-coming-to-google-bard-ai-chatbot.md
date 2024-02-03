@@ -94,15 +94,6 @@ related:
         width: 1024
         height: 804
         isCached: true
-  - title: "Google Bard in Messages app may access your private conversations"
-    excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
-    publishedDateTime: 2024-01-29T13:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-messages-integrates-bard-ai-privacy-concerns-raised/articleshow/107236045.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "OW7JAf1NfBGskuR4qlgqVdx4OZycxPQmmvZnCcjpAL77e+0ziAZK9XD9vpFJglFeFJscGxbGnjECzxJGnKkYtwmunLN029ycfEmhrKIYSjB6SLL8WvTzaQTyLCD3RmagSDL/DRcDYJ1qzZUtufDxtWdHlX0GFWMgYsyZswJlrH1EeSMMKwehnBZ+yvIhRr/4hh4vOHxHtp273XSzg3jWWqFqvN0OVoLFbx52YWLoP+XE6OnpJaKZZ1+inxUkmGJaxbND8deHQM0tIAaLOVRd5rc+CrSTT4s7RlERbD4JsWuxCXhT7n9z+lCT8/+mnTVMEw/mxZSd791KJXJqGKhmN92rFIcJcLsDao0FjZtSjnk=;YVfMby5e0xE+HmHrbVTu/A=="
 ---

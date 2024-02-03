@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "Samsung responds to criticism of the Galaxy S24's AI photo-editing features"
+    excerpt: "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the"
+    publishedDateTime: 2024-02-03T16:34:00Z
+    webUrl: "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-03-image-6.jpg"
+        width: 1650
+        height: 1167
+        isCached: true
   - title: "Samsung's Galaxy AI to Reach 100 Million Galaxy Mobile Devices This Year"
     excerpt: "Samsung's Galaxy AI and its features will reportedly remain free for users until 2025. The South Korean brand may consider introducing more powerful AI features in the future for paid Galaxy AI subscribers."
     publishedDateTime: 2024-01-30T10:16:00Z

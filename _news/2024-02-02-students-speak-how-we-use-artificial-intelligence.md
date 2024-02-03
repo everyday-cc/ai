@@ -9,8 +9,8 @@ ampWebUrl: "https://edtechmagazine.com/higher/article/2024/02/students-speak-how
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/higher/article/2024/02/students-speak-how-we-use-artificial-intelligence?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: EdTech
@@ -36,15 +36,6 @@ related:
       name: Time
       domain: time.com
     quality: 47
-  - title: "Teachers wary of possible AI use by some students"
-    excerpt: "Amid teachers' concerns over the use of AI in schoolwork, the DepEd and several universities believed that the use of the technology was unavoidable and are creating guidelines on its use."
-    publishedDateTime: 2024-01-29T13:35:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/895768/teachers-wary-of-possible-ai-use-by-some-students/story/"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 19
 
 secured: "kQdjy+kLWjPyWy3qYR1BTA3m2+NR4g0DDzlVafh5kKwbk1DO6OBExd/pmU1q9nT2euFXhfiwuoye6lT5GOyhExLqz2fw81RG/nQ1mm0L1cWwGRyMGgg/Obk28p8canpCDJsgtAX9Fs0ZmhsDkQqQ4WK7iRovJ7mrQw5tU7J2MyVfmYs4Byk3KDQSHUtUeedo0Is2F3/bV26WD9LB7xoc2fW+PMqL2nwrY98uDURJ0EevA5nz7iNsgJN6MbjNQ6ok7mdrQV9K3KXtxJWXWazdDnGqDQ0Mcf+jkDwOcSPvXnpZDTGKKcoO5502ZGIEMfmDetDSXTGM5CVpgC96QSjOWKLY6M1cIfuciPHMHSaLfnk=;YsehFCFj0DJDUN7TjSTUIg=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/super-micro-comput
 webUrl: "https://markets.businessinsider.com/news/stocks/super-micro-computer-stock-outperforms-nvidia-artificial-intelligence-ai-stocks-2024-1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -28,6 +28,15 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia stock hits record high as tech earnings reinforce AI bullishness"
+    excerpt: "Nvidia traded as high as $666 per share on Friday, with the stock buoyed by optimism over AI expressed in mega-cap earnings this week."
+    publishedDateTime: 2024-02-02T20:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stock-price-record-high-artificial-intelligence-tech-earnings-nvda-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Missed Out on Nvidia? Buy This Amazing Artificial Intelligence (AI) Semiconductor Stock"
     excerpt: "If you missed Nvidia's huge run-up and still want to get exposure to semiconductors and AI, Qualcomm might be the next best thing. *Stock prices used were from the trading day of Feb. 1, 2024. The video was published on Feb."
     publishedDateTime: 2024-02-02T14:29:00Z

@@ -58,6 +58,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z
@@ -141,15 +155,6 @@ related:
       name: University of Arkansas
       domain: uark.edu
     quality: 30
-  - title: "OpenAI is getting into the hardware business in the AI arms race"
-    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
-    publishedDateTime: 2024-01-29T14:21:00Z
-    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 21
 
 secured: "5XXfIppwi/3mhK7alU33Uu90++JEWzSljZm9OruLcUVy+YzC9F65vqiJsrtjnYL64Ke+FWPg5irKtZZgJUH42Z2CLFodEenpHQkgiqnGS/fQV2q8oH4XIv8urZ+5m43pmppEmWyrMkjSCHTfb0IlA9a+ucfdUjcYijMYKM7dunO2/vtXCVcetocRPMD7nrqJBKkNtknm7jgNW/Kp0FbOt6YNLhiqOol9c/UCSJhtmGflvxo1ZJl8foCWArc6fYencc+GrfYyGOJb7hcqJHeX/wEoe7SOxpCNPBoXiItbDKQLb7OkBR0pcAeB57sDloeqtic5yVJByEiKZlXBpFjZUKYUoAv7CoBo+yyqBJyoMkc=;xU1eerXAO7PCMG+NIzwIww=="
 ---

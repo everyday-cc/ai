@@ -74,6 +74,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z
@@ -143,15 +157,6 @@ related:
       name: University of Arkansas
       domain: uark.edu
     quality: 30
-  - title: "OpenAI is getting into the hardware business in the AI arms race"
-    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
-    publishedDateTime: 2024-01-29T14:21:00Z
-    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 21
 
 secured: "vf84bimBOv2AStrxCzb3O5tNtt7d7694nFuraJiXX9qLYaLr0HpeLaSkjWf7zuTPdMqc5gOIDUiHxJjEHG23qZvGYnzBx+6UsuZTtW517HBX1YTSYuZevFhWlsVGGQsbxOcG6ghoFgxCJxFTH4pkisQotvKUCqDc9W+UWImoKwCWkbL5ajibZBZudsft6nQaDI4bFaaZn7Nq0NfVzk8h7FnYn4aFKYp2i4GvLW/COY+ok4oMBpB0HZe1nzZA0lV2sb3Vvpin7NC8ULjjJ+jEnjNlwo7tJCwygrgEnSY33krtes5cKYEsoonK0eB+wrMpIeHbE8z819gcIID77rWE7k/jpsRVNQq+xi+EIme2qgyitUOWTY/+c9SaxlbbctJyFEkRNRAFjfKtCdFni/LJAnc0UHPP7juusr9P3EpDib8iNMJ5QwD9PeMPWS3+ZqyUUcWKCkEkpbCTvU3EGUyOr+6eWzo/q1WOa1/F9gx4DS+phMjuJl8iOjoY/VwNzPaCnzoVe50p5HVIYb+pQTXOjA==;5XGE9M+hIlKMDj/UGfk6eA=="
 ---

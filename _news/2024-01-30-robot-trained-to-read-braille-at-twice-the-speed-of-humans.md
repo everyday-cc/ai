@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
         width: 1200
         height: 955
-        isCached: true
-  - title: "AI-powered Robot reads braille at double the human speed, 315 words a min"
-    excerpt: "Human fingertips are highly sensitive and help us make sense of the world around us. Replicating this in robots has been challenging so far."
-    publishedDateTime: 2024-01-29T16:25:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-powered-braille-robot-reads-twice-faster"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 53
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/01/29/image/jpeg/Jh0LSUDwnN8s575xYLGge80nmg9VgTpRSfpXHXB0.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "J7WQcpglGTaoM9Ve+8FvV/mGP/8q1vgjsqLzj/BHrOSu2tMs+374qIZX+SmK55lHqCzgnFNgBJhbpY9iBbE0O0xQ069Uh7a3oWuhiLmJOpYhbTKBLzTX8hWFUk6DUiNJZz8tuIUtBOcL7f8THRoF8bD6POb6GqysRx75wbNvdrSOJobt6nTeY6r2Wt1oLWsw7PH+1sJQ5WVN0L1QBxX4z7REejAwnj5R57bX4J4+3r6/8SfD1kbmfOZhQszBtf1qejM+a5MiT7ZqyltU9hhm/MJ+gcti5ffT6X44tF9idhEtWmg2PYUdGtBt9enopfcRhSCQj0XP3vMhNy5GrkjfUTr56FAj+FAeTkxKnRF+qmY=;Xd3PEIHAheL7VdSVm1OYHw=="

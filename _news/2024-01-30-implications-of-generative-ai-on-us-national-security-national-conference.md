@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
     excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
     publishedDateTime: 2024-01-29T23:12:00Z
@@ -145,15 +159,6 @@ related:
       name: University of Arkansas
       domain: uark.edu
     quality: 30
-  - title: "OpenAI is getting into the hardware business in the AI arms race"
-    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
-    publishedDateTime: 2024-01-29T14:21:00Z
-    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 21
 
 secured: "hA1CJeODlIcIzcNK6j+Ue1u42xZJW2We/zEXIj3BBq3gYMAUpWW5yZZ0D0hWHSn7V5/R+Oo/5PcgsCjvcZfrSCd/VtQ8gNOH9wCo9gcGFR63Zfr1BcUJn4+Cdue6+8oKlLF5UfhVz26c+cNws6ks7/5+5HUT0E1zMrm8uhKf6iNZI1i1wC+ZPyI9UsFG1SintgZ6TJVQc7nglwUqe39j0UNNIUVIwQAGZNDpoT1NUjiM/awtsZCGLhm9qswXRzbUVLDyByF0m+7GLGqcq1raX4/KVkjW57tSYWS/io6HoMb9dkKZfb3iDcFBVai9lOLVhCYcnWw1EDa3qDGctPQF2oNb1NEanN3s7LGwIfNqz7w=;iiYG0ECSd0EZ22t954eI3Q=="
 ---

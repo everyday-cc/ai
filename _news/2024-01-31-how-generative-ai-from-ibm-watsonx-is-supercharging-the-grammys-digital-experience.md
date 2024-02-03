@@ -23,65 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity"
-    excerpt: "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-29T15:50:31Z
-    webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
+  - title: "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®"
+    excerpt: "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once"
+    publishedDateTime: 2024-02-02T17:00:11Z
+    webUrl: "https://www.ibm.com/blog/watson-discovery-grammys/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 114
+    quality: 108
     images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg"
-        width: 2400
-        height: 1260
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg"
+        width: 2560
+        height: 1280
         isCached: true
-  - title: "An Introduction To The Privacy And Legal Concerns Of Generative AI"
-    excerpt: "However, as this technological marvel gains momentum, it brings along a wave of multifaceted concerns, especially in the domains of education, ethics, privacy and legality. Generative AI, encapsulated in models like Bard, ChatGPT and DALL-E, embodies an ..."
-    publishedDateTime: 2024-01-29T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/29/an-introduction-to-the-privacy-and-legal-concerns-of-generative-ai/amp/"
+  - title: "Korea Quantum Computing to Offer IBM's AI and Quantum Computing Solutions, Including watsonx"
+    excerpt: "Korea Quantum Computing (KQC) has engaged IBM to offer IBM's most advanced AI software and infrastructure, as well as quantum computing services"
+    publishedDateTime: 2024-01-30T02:31:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quantum-computing-to-offer-ibms-ai-and-quantum-computing-solutions-including-watsonx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Deep
+      domain: thefastmode.com
+    quality: 45
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 833
+      - url: "https://www.thefastmode.com/media/k2/items/src/e6bac6a5a03525377b12e819dfb58fb3.jpg?t=20240130_022718"
+        width: 752
+        height: 408
         isCached: true
-  - title: "IBM says generative AI can help automate business actions"
-    excerpt: "A new program called SNAP uses large language models to predict the next most probable development in a process such as a loan application or an HR situation."
-    publishedDateTime: 2024-02-02T00:29:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-says-generative-ai-can-help-automate-business-actions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-says-generative-ai-can-help-automate-business-actions/"
+  - title: "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea"
+    excerpt: "\"KQC is providing versatile computing infrastructure in Korea through our collaboration with IBM. Our robust hardware computing resources and core software in quantum and AI are poised not only to meet the growing demand for high performance computing ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/korea-quantum-computing-and-ibm-collaborate-bring-ibm-watsonx-and-quantum-computing-korea"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Asia One
+      domain: asiaone.com
+    quality: 27
     images:
-      - url: "https://www.zdnet.com/a/img/resize/28158bf83549a355b0939671ef07da0b159e2605/2024/02/01/d44a65be-7fb3-44c6-a742-fc3d4b400ae0/gettyimages-1766154620.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Washington state to develop guidelines for agencies using generative AI"
-    excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
-    publishedDateTime: 2024-01-31T02:31:00Z
-    webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
-        width: 700
-        height: 467
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/IBM_Quantum_System_Two.jpg?h=ef2d6e95&itok=0gS4ucv5"
+        width: 600
+        height: 316
         isCached: true
 
 secured: "q1FMv97idwuHgokaz6ZC0vQWNG4Ny/Uuxs4uyuaX/q3UDvMnszlrZ76/gjMWNMogZKqAtHvI3xRZXB3a9QiifQ0FtFu3YoiUPznvd2ueksJfdY8nisw7UXAGtFombAyu9LL4Y5iSX69+OdJsi7VaDgdOrjV40S1qm63ET26xdPIeLVopnYGBPUlIddpxfPYoR8SC77posEhlTpMSYtTyLRW1ubJBp2dCAlvF136m3CAqSc3urLeXrwyE4cZ7TCHdWtPfWsDXquXdYBY5pJZZVWHfHC3KBlCu5isGJIvG45YhpgDifXyJ8wOCkm8vg8SWru78SHd2tWCkDhCiOFUeBzHENxvZ0WgS/EFjX9CtRkc=;kvRXQBaruK5lE9b5dZmD5g=="

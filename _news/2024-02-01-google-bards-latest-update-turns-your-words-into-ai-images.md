@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-bard-update-image-generati
 webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 1024
         height: 804
         isCached: true
-  - title: "Google Bard in Messages app may access your private conversations"
-    excerpt: "Google Messages is reportedly getting Bard integration, providing generative AI capabilities. However, concerns are raised regarding privacy as Bard will analyze private messages and message history."
-    publishedDateTime: 2024-01-29T13:07:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-messages-integrates-bard-ai-privacy-concerns-raised/articleshow/107236045.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "R/QXbLJrMAsif/xSuTGeswekF/SZ4Np9wWuRDuO9cN3d0WmwldUdtrREnL6REqn3o0rlCJF/OjIUPCgXBQlSIf1QRFrBRzIJa/ewrxB9L4sU4vD044RcBeRSHo6gGFbAT2SfN0V03AhqCqf3+CZ1Ln1DUgJN1uBSDId1Coap5MKSv6ipQq8vhhjWPdIF6UfQaVzj4UJCBVWyZZyv5qFSLlvV2la3btVVqwbwRQHqa8fxf02OsB5aSMwMMw6Lyc7IrXi1LaAFpQZmP75qMmBbk8+3xA4kd3aANuM4AhzYDyz0jGVZIjKlQTM91VGosZJM2aTV3YigzdI8N5w/6Vsc4RxWZfJlyr7JekIQCsOnAhxf6Wn6mmFnoMKxzOd/qWc/x/cpNW5cfHJ1eTNpwML1+ErLxdv0jgXBQSYtMaaL+SI+wIkTNdlkow3lw5wvPPirovwApHaECImCNyeQo66WF0mnUtmEHqkTu76ktgc+12ez2lIWfFHoKZHcrupPxFOI0HlXR8we8ueKQUPWI/j4yQ==;wEOsofz3go3yK1/i/0+N7w=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 831
         isCached: true
+  - title: "Samsung responds to criticism of the Galaxy S24's AI photo-editing features"
+    excerpt: "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the"
+    publishedDateTime: 2024-02-03T16:34:00Z
+    webUrl: "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 67
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-03-image-6.jpg"
+        width: 1650
+        height: 1167
+        isCached: true
   - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
     excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
     publishedDateTime: 2024-01-30T19:33:00Z

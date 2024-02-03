@@ -87,6 +87,20 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Washington state to develop guidelines for agencies using generative AI"
+    excerpt: "Washington state's governor has called for the state to develop best practices on how agencies use generative artificial intelligence as it continues to incorporate the technology into government operations."
+    publishedDateTime: 2024-01-31T02:31:00Z
+    webUrl: "https://www.ksat.com/tech/2024/01/30/washington-state-to-develop-guidelines-for-agencies-using-generative-ai/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/VQZTXML6ANCWPFVSIIFQ2GXN7E.jpg?_a=ATAPphC0"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Saudi Arabia Debuts 'Generative AI for All' Program"
     excerpt: "Saudi Minister of Communications and Information Technology Abdullah Al-Swaha announced that the initiative will be supervised by the International Center for Artificial Intelligence Research and Ethics (ICAIRE) — which was launched in November 2023 ..."
     publishedDateTime: 2024-02-01T00:00:00Z

@@ -23,6 +23,17 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "7 Questions College Leaders Should Ask About AI"
+    excerpt: "Presidents and others should be developing strategies to ensure their institutions are positioned to respond to the opportunities and risks, writes David Weil."
+    publishedDateTime: 2024-02-01T08:08:00Z
+    webUrl: "https://www.insidehighered.com/opinion/career-advice/advancing-administrator/2024/02/01/key-questions-top-higher-ed-leaders-should"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 17
+
 secured: "DQxLiTkatxDjfN6mjm47HkgJWkzo1vRVJnLEd5FGsCuJTEks35Yhblcg6gSe+0zle6YfheugRObAAHdjybpHlsvfbbBnYc+Yg3QFfMZnwPyXbGCNbdxX4l2q2j6LOtT492Q5iq83ZSoEjOXYZtV8ShYZSq1lM7EHgNuR7UbNuylf4+twvw9OkbEkn+ornJplDEq+YvXvAlTgpHOku2qR+q91x+B6tV+u7DdgTghx4TnmC//HiZeaSDdvjPgMYFUQFv7YMJ6iTl1q35kU2fyp4GF1PzXekd6+kRz40ewignhUSz102m/GyNOkge+K9DW6adoId8AG8E5q2koUlT9lRzghw2AjXZNJzw7V1L5ApDQ=;4QO2nUED+Va10DlDWrvfzQ=="
 ---
 

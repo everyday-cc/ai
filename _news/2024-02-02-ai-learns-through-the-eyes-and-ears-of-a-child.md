@@ -46,6 +46,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "How Will Artificial Intelligence Affect the Economy?"
+    excerpt: "A recent IMF report estimated that half of the jobs impacted will be affected negatively, while the other half may see increases in productivity."
+    publishedDateTime: 2024-02-03T14:42:00Z
+    webUrl: "https://www.thestreet.com/economonitor/news/how-will-artificial-intelligence-affect-the-economy"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 21
 
 secured: "cXaGI1CHlCq29A666Py1KIDDFpRxehWGGb9UUYwwYsQJ4850/m0nvG8dBTRsN9tJr473l9Ura2gHp2s0mU1scsUxA5GiziSCnKLbdQ0IVlGhInLsOn34MMhkQM0BYlvzSZOq3MIh2TmwrBvH3DOobmk13PFvKW9CSkTHjQ/MQlBM8yjGDJUNhdy9sMOmZ7uKf4WjVHmG1bMCALqpdF/jIFnpczDvk6UslwboyD1sPGZ6z/l8FOXt950szd63VZXoEeP2O6s+mlmVBiA3wMk2U5/Xd49D6ZfrXgxWfR7VS3Q6AND7NRaP5QYqMXOrbzMVRurN8liKZP3Cgm2Foo39aK4uAvb3PaRLe/mBzbSan5E=;mvrVH7AuF1csTTdlw/CC7w=="
 ---

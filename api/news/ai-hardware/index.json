@@ -107,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-03-billionaire-investor-david-tepper-has-58-of-his-portfolio-invested-in-these-7-artificial-intelligence-ai-stocks.md",
-      "title": "Billionaire Investor David Tepper Has 58% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks",
-      "excerpt": "and AMD is fighting for market share in the AI chip space, as well. Meta and Microsoft announced in December that they plan to use AMD's newest AI chips, signaling that there's a big opportunity for alternatives to Nvidia. Are Tepper's top AI stocks good ...",
+      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
+      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
+      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
+      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/763227/ai-icons-hand.jpg",
-          "width": 2188,
-          "height": 1369,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -131,14 +131,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "publishedDateTime": "2024-02-02T16:51:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -209,6 +209,50 @@
         "AI Hardware",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-nvidia-turning-to-intel-foundry-services-to-expand-gpu-and-ai-chip-capacity.md",
+      "title": "Nvidia turning to Intel Foundry Services to expand GPU and AI chip capacity",
+      "excerpt": "Nvidia could choose Intel Foundry Services as a new partner for GPU manufacturing in the next few months. According to rumors from unnamed industry sources, Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101725-nvidia-turning-intel-foundry-services-expand-gpu-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T18:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -358,7 +402,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -411,7 +455,7 @@
       "originalUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -655,49 +699,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-30-ai-chip-startup-rebellions-snags-funding-to-challenge-nvidia.md",
-      "title": "AI Chip startup Rebellions snags funding to challenge Nvidia",
-      "excerpt": "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950",
-      "originalUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp",
-      "publishedDateTime": "2024-01-30T07:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2024-01-30-genai-is-moving-to-your-smartphone-pc-and-car-heres-why.md",
       "title": "GenAI is moving to your smartphone, PC and car — here’s why",
       "excerpt": "Generative AI tools, apps and services that use the processing power on edge devices can access data locally, return faster results, and they're more secure.",
@@ -803,7 +804,7 @@
       "originalUrl": "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {

@@ -72,6 +72,20 @@ related:
         width: 1024
         height: 640
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Implications of Generative AI on U.S. National Security National Conference"
     excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
     publishedDateTime: 2024-01-29T23:00:00Z
@@ -141,15 +155,6 @@ related:
       name: University of Arkansas
       domain: uark.edu
     quality: 30
-  - title: "OpenAI is getting into the hardware business in the AI arms race"
-    excerpt: "Mark Zuckerberg, Sundar Pichai and Sam Altman are all racing to stockpile GPUs and control the compute power driving the AI"
-    publishedDateTime: 2024-01-29T14:21:00Z
-    webUrl: "https://www.bizcommunity.com/article/openai-is-getting-into-the-hardware-business-in-the-ai-arms-race-345858a"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 21
 
 secured: "kFf1ED6drVzJjBPZqwc/Cco96nj0T+g+I1USvQOSKdYJHu/JveT1wWawmB7qb9aJ/f+pWeMkZLidOgoRIHN0wNreUNAdsQfvZhonaQOeEiUcw2j+6vhkyIenKtgKp9ltOPIwD4H03RJ/nRYZa/929qVsaMHSBoq3gpilFCBaOV+N2tXs7UH7P4KIUEAog6g2iHfyUGy858SOn/L25Pb4z9zaskNTxbKh7r3xCDxphWLiO7nJHmrRDH3QDNAQyybfo0SA8DX2eqwJue0cCnsXwny35NlVJ3s6tOxbWsJJxFH+UzXESFTlj5gN+QhrpuSpXygMTGzHJxDBvOExeYrUTeSh1dzgZ7Ztnw1mku/A1BQ=;Yg8sS0bcTw77124EQTZlsg=="
 ---

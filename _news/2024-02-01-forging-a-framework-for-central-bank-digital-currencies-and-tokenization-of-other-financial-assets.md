@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digi
 webUrl: "https://www.ibm.com/blog/forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - IBM AI
   - AI in Finance
-
-related:
-  - title: "Digital transformation examples"
-    excerpt: "Explore four real-world digital transformation examples and the technology solutions that made them possible. \nThe post Digital transformation examples appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-01-29T17:00:00Z
-    webUrl: "https://www.ibm.com/blog/digital-transformation-examples/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
 
 secured: "X7qWgteeuTNz0JTm+Xrt8y1Q3T/2qCfKlqgA05GrZbW4xqxUxh1QoWp2sMke2ia7kMI2v14fMmvNXbGuh6wogGuOcxJQPvPYmnGMHW3Qb4FcUdiDkApQ2qiKi9SFk9wB63+zrGEEjhwTgcEjij5ly2WFhuzWRtByct5hBVts8bMVggjHl1OmyVaNQ0hj1HlJltESHygOEL9MvEXSjHdvAW6Bj9KvahAdOQllm3bh86nkZhK+fB1UVnWxEOJKMIzgxcmpAn0RLhH29a3aZv1eXmjxjjTdmrYrz2EfglJ03LAbAy8LsQn2RaENDYY+6v0IWViOeDaiQf1sDK+XKMQCekhPHaiVM8rNmrwCXAldhQM=;yLWLEteHfI1sATX2iRajZw=="
 ---

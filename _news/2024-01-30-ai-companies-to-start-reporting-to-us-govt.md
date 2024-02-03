@@ -40,20 +40,6 @@ related:
         width: 5921
         height: 3947
         isCached: true
-  - title: "AI companies to start safety test reports under Defense Production Act"
-    excerpt: "(Josep Lago/AFP via Getty Images) The Biden administration will start implementing a requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to ..."
-    publishedDateTime: 2024-01-29T14:46:00Z
-    webUrl: "https://www.c4isrnet.com/it-networks/2024/01/29/ai-companies-to-start-safety-test-reports-under-defense-production-act/"
-    type: article
-    provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
-    images:
-      - url: "https://www.c4isrnet.com/resizer/C3gopGxEqzlCgzJUEic37kFQV4g=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CNMDMYHQ2RBKBC2U4OONO6KLWQ.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "AI companies will report their safety tests to the government"
     excerpt: "(AP Photo/Jacquelyn Martin, File) WASHINGTON (AP) -- The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI ..."
     publishedDateTime: 2024-01-30T10:20:00Z

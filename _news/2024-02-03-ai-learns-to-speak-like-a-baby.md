@@ -38,15 +38,6 @@ related:
         width: 1440
         height: 500
         isCached: true
-  - title: "Teachers wary of possible AI use by some students"
-    excerpt: "Amid teachers' concerns over the use of AI in schoolwork, the DepEd and several universities believed that the use of the technology was unavoidable and are creating guidelines on its use."
-    publishedDateTime: 2024-01-29T13:35:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/895768/teachers-wary-of-possible-ai-use-by-some-students/story/"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 19
 
 secured: "NRMEjsZgcEs9dJYZ9+99QB0r9lKXCXgIOrM8xKGXwlalfvssYqbVywlK38drtWs9THu/CUijPvMDQdGiQ9pOgke7hvcmBuY1Ci5JN2ZCyfOlOwIrH+VwrzxOnZXQSE0gFbmjxGp+kcPZ3yyMixwBOGME1jrbphZFfEOlec6WkKGA6IFXuF/gHiWjUNbmWQZeBWGI8djYc16MmIHfRpLURqt0/OmeucjpGT8qNKPvaEUSUI8iSuYYKy2Tl5cPp1rzuMkcTsKEEjeN2YM3c7+J8zqTwB2HHpTCKL5GhRo+JITDeIWr1MpsBhteCpXQGX/5uVWpIinggSsIaeJbHE/HSWltNg7Fb30q9g3LlF9Ey1o=;iXlFVXPtg7Dm3lGbfryE4A=="
 ---

@@ -47,20 +47,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Artificial Intelligence and the Law"
-    excerpt: "Baltic Journal of Law & Politics, Vol. 15, Issue. 1, p. 31. Artificial intelligence (AI) is becoming more increasingly prevalent in our daily social and professional lives. Although AI systems and robots bring many benefits, they present several challenges ..."
-    publishedDateTime: 2024-01-29T14:30:00Z
-    webUrl: "https://www.cambridge.org/core/books/artificial-intelligence-and-the-law/D7DF8D83C7A00A2A8D4904FC4B3B2899"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 39
-    images:
-      - url: "https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781839701047/resource/name/9781839701047i.jpg"
-        width: 429
-        height: 648
-        isCached: true
   - title: "Embrace AI and use it wisely to transform"
     excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
     publishedDateTime: 2024-01-30T18:56:00Z

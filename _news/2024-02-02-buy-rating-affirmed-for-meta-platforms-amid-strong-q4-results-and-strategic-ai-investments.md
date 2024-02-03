@@ -80,6 +80,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 33
+  - title: "Buy Rating Affirmed for Meta Platforms Amidst Strong Q4 Performance and Promising AI-Driven Growth Prospects"
+    excerpt: "Colin Sebastian, an analyst from Robert W. Baird, maintained the Buy rating on Meta Platforms (META – Research Report). The associated"
+    publishedDateTime: 2024-02-02T09:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amidst-strong-q4-performance-and-promising-ai-driven-growth-prospects-1033024864"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
 
 secured: "pEOCB01N4/U12Kof0W+oGStCC0OAHFyv+u55UoXDM3Hr6CnWkq6/HSLjp0/EHNU1EbOf4Y207qbTBLktijnDV5WA8JgghtrHymdJ6NED4hkgzE7JWl59W3LUSWpHmHNg0xF27f7yVzrQVWEN3/39B98KFR+O7h5tGfEnCipX+DxJEWQ8A0XSw9mm6RxW6f6ZcmwenSCzZe3Ai8+4vL0cfCiwmW/AApvDSXJk8P6ruRUcQlFrl6Gr02WlpCFWyVjPTsZVs/QlN6Lhp0tDX1IPS6bpRHDwEWR2y2N7mmfjm1P7Kd1McTUkU3aN71f+dD7f7pM4xUSdWJv75Iqpn/DqCQFY8gEyCGYEvlmv7/M+fkQ=;zfjYKNlxLWYSnf/hbvUwAw=="
 ---
