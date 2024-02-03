@@ -64,20 +64,6 @@ related:
       name: Armenpress
       domain: armenpress.am
     quality: 65
-  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
-    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
-    publishedDateTime: 2024-01-29T21:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 54
-    images:
-      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
-        width: 1200
-        height: 955
-        isCached: true
   - title: "Cutting-edge projects driving robotics, according to Bill Gates"
     excerpt: "The billionaire and co-founder of Microsoft is most enthusiastic about building machines that mimic the function of the human body."
     publishedDateTime: 2024-01-31T02:00:00Z

@@ -85,15 +85,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "A Bull Market Is Here: 3 Artificial Intelligence Stocks to Buy When the Tides Change"
     excerpt: "Artificial intelligence (AI) has been a hot theme since last year, so circle these three stocks as potential buys when the next market downturn hits. They've already enjoyed monster gains -- a dip would offer an opportune chance to buy before they head higher over the long term."
     publishedDateTime: 2024-01-31T12:53:00Z

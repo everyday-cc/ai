@@ -69,20 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
-  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
-    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
-    publishedDateTime: 2024-01-29T20:24:00Z
-    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 26
-    images:
-      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "AI Predictions for 2024: Moving forward with precise systems that combine power, security, intelligence, and ease of use."
     excerpt: "Hard truth? More and more attacks will utilize AI. Artificial intelligence (AI) has been table stakes in cybersecurity for several years now, but the broad adoption of Large Language Models (LLMs) made 2023 an especially exciting year. In fact, LLMs have ..."
     publishedDateTime: 2024-01-31T00:00:00Z

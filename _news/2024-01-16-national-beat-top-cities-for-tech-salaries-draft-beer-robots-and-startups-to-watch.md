@@ -3,8 +3,8 @@ category: news
 title: "National Beat: Top cities for tech salaries, draft beer robots, and Startups to watch"
 excerpt: "Where software engineers make the most money, draft beer robots, and more startups to watch in the latest National Beat"
 publishedDateTime: 2024-01-16T15:00:00Z
-originalUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html"
-webUrl: "https://www.bizjournals.com/twincities/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html"
+originalUrl: "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html"
+webUrl: "https://www.bizjournals.com/albany/inno/stories/news/2024/01/16/national-beat-top-cities-for-techies.html"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "1uh6OTqN6pOtxqHJkKAd2JzEorvs1+C0fDnSE5uArM3YC6266iOejoO3LarMnI9zRTlVQ87qHycSnKSWVdg/h3r8PwSZ4W3y5rnK9VSYbm/E1Yq0Vukn5LqE9jD77dKGKrV/xAHoWEsdDjcgQpgXhzbWtgvLWHkBECwyN+2BfqOvgSFmsQgcpWb/uy4XFIg+X1Q5+R/Fwrn7aLhDcAiu0FJWE1CvQ6kwGVZkjzIBVIUDtaBEqW2zBXURsAiPCaNWwvZCsu/a63knnXRwad5815fwe/0pvu08A7rahlObuKcLtEsN2m8iO4j/p13ecKWLQhNzb8Mo5lUyPtSxo6qv+OCRvspFvY8/JPDNXaP236xW+jU6MQoLN31ARUc/bvZDDzsXwA6WXzQwGObe3NmJdCOzO0+FRh6yr8OlnIcERbw2gCRRhYYreyPMAXEQyBD3evX+/sOjnFtAgUJY9umF4pTdWDC82RVntq0k/hGmiquRBULeg5XjXybalLLT5tVGUtigdzXUqJLKseuSHpPoSw==;edO7VxzqaRzMs7SjwIU35w=="
+secured: "gQK8QJDiSSeyLC+5yMuLKrHft1x0XG0iS4xyqlRuY7K2B+XxRz7ZiJ5jHS8AGoQGJsYDqEe8RhxTOoKXGwt+v2Xhs4+QGHocqFphYXqxPIvM15RWe8mRAhF8T8ayIYM8Rz5NSiuZkYzs3PUQc4+4IaiO5eKW6g8a8x4euyAp3bOeX0lYE41ZDQ3aWdHgnuj2Ftdpv8KUYvok6sVF6AkZUP9Ml59svyt7Q3Jtavo+yhrcaUpBRnhQnEwQhapWgYjH3UJjgCo/XQ1vy6CH+SLZKmQprvprwuOt1EubbJGCS0j74TzUGYdZxz7yRB5rSagur1Utb/Q2HdlXxElGK/eQQmBEo1YVsk0Tju07dfjSV9ziLsl2wnpXFfWbTOTC3HxQ/gDcMfsFf15G55hhhy0HpITqTSMY4cWKD2dg+8Xxuh2l2P+y3fUPdY9Y9PgwrXnHkbEhNJyoycFFiDUxCma2GTiyDsa8hyD7x9TcmSNw0Qmvt+gz8JV7sZO7cCwJoLzRk7HQ5lAhRMqxNIbdanC7Lw==;rS0rrBROUIdsxFXTbEzNKw=="
 ---
 

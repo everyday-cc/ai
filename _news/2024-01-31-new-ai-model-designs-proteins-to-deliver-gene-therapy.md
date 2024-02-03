@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 944
         height: 629
         isCached: true
-  - title: "U of T researchers' AI model designs proteins to deliver gene therapy"
-    excerpt: "Researchers at the University of Toronto used an artificial intelligence framework to redesign a crucial protein involved in the delivery of gene therapy. The study, published in Nature Machine Intelligence, describes new work optimizing proteins to ..."
-    publishedDateTime: 2024-01-29T20:13:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-researchers-ai-model-designs-proteins-deliver-gene-therapy"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 34
 
 secured: "HJKsnLJoAIx97n4bM3f5NBO3jQHaI2jJYAoo6p8ESOws/HqpCnDjBH29Ek2KMsqvHs34xceCfb90wHTKOvkvfRKrIi58jj+aKap37r/f5lwQZDmUW0erBmMDXUon1wK7LSRw+v9FKRPk6oxm//u5+kKg6rTNRNA2Jy66LooJAuA7La9dX/Y9FD6aR+XTlujY8V63zQMGoID59Jn2aUIoFnWWeG8aSt7pDE7sQNRqA2+Bzk9tpAVAO7oimsXockRU6lZrGRieOSkTfPOrK+fbwbNeCajNFMIDLqLR8Ubzjdr5ydyOXLceRbhRyAA/uH0a4PnyULxIGFZo5ScEE7wTHLbZfosZ1oUzDNuQuqz3ixh9QSZEtRweMkQAAm5lfUMbEhjK4OiwqSRlSGyOIK/gA4MFTvAMQwIAsDhhCy9D7NV4ZpfuyNMe9mjKPnzobL62ZwWYgB7w0CEmbRttNH8tECqZ5nKPe6YQQCIVLhCCXGPnFNMVtW+c8OdCK46xe+oOku/4TpJ+lUMvOu1lNCjkJA==;AuEfzWPzwcnELOFCAfCpoQ=="
 ---

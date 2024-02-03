@@ -66,6 +66,15 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "Impacts of Artificial Intelligence on Education"
+    excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
+    publishedDateTime: 2024-01-31T23:30:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/24089118.impacts-artificial-intelligence-education/"
+    type: article
+    provider:
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 34
   - title: "The Growing Role of AI in Automotive Assembly"
     excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
     publishedDateTime: 2024-01-30T14:00:00Z

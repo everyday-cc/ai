@@ -194,6 +194,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "See Google’s AI-Powered Robot at Work in a Kitchen"
+    excerpt: "Spread the loveGoogle has once again pushed the boundaries of artificial intelligence and robotics by introducing their latest AI-powered robot, which is designed to operate in kitchen environments. This cutting-edge robot,"
+    publishedDateTime: 2024-02-03T20:16:00Z
+    webUrl: "https://www.thetechedvocate.org/see-googles-ai-powered-robot-at-work-in-a-kitchen/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 34
   - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
     excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
     publishedDateTime: 2024-02-01T22:24:00Z

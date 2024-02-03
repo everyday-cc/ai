@@ -39,20 +39,17 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "'A masterpiece quarter': Microsoft's earnings show it's on the cusp of a years-long, trillion-dollar AI opportunity, Wedbush says"
-    excerpt: "\"This was another masterpiece quarter and guidance from Nadella that will send a major ripple impact across the tech world,\" Dan Ives wrote."
-    publishedDateTime: 2024-01-31T16:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-revenue-ai-opportunity-copilot-cloud-wedbush-dan-ives-2024-1"
+  - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
+    excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
+    publishedDateTime: 2024-01-31T02:13:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/65ba4e6f7a3d271488761559?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 36
 
 secured: "4+IuFcqZ6kYDOlyscCIK9i9nkUwJf03CK0xm8395hX+Od/XH43yk97JOHG2H+sVVK9ukvh5140A+Hvu1Nci2gfn4IEOVw12S7TYbdYgKOO7l5Qz9IwtwUfhb1v9uCWSNHsYImKuwcLX6mFFHpJLBUBFQeO7zOjUnmVyEfIXcoDwLruyGafy6R068X+6LP4CMPRR1oaWDstOszGnipX+2nHbHfGilNYynMjSbUnbfEE0U9Xap73fAvoEIVYGiJ1KgwlsJcZSby4bpaAvkOM7o8BWdcg4Blj2lM4ooGyeSsUbvHD1KAYnYoOhjMNJEHUhP649bUsogPPMc8obcYV7wHQNAspIDr+LKFzXHbLKEipQ=;XosuEvZj2d+2gJHt0+vM3g=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Buy Rating Affirmed for Meta Platforms Amid Strong Q4 Results and Strategic AI Investments"
-excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report ... Additionally, the company’s strategic investments in AI technology are enhancing its ad systems and product line, contributing ..."
-publishedDateTime: 2024-02-02T03:58:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868"
-webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868"
+excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report). The associated"
+publishedDateTime: 2024-02-02T09:58:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868?op=1"
+webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868?op=1"
 type: article
 quality: 39
 heat: -1
@@ -90,6 +90,6 @@ related:
       domain: businessinsider.com
     quality: 30
 
-secured: "pEOCB01N4/U12Kof0W+oGStCC0OAHFyv+u55UoXDM3Hr6CnWkq6/HSLjp0/EHNU1EbOf4Y207qbTBLktijnDV5WA8JgghtrHymdJ6NED4hkgzE7JWl59W3LUSWpHmHNg0xF27f7yVzrQVWEN3/39B98KFR+O7h5tGfEnCipX+DxJEWQ8A0XSw9mm6RxW6f6ZcmwenSCzZe3Ai8+4vL0cfCiwmW/AApvDSXJk8P6ruRUcQlFrl6Gr02WlpCFWyVjPTsZVs/QlN6Lhp0tDX1IPS6bpRHDwEWR2y2N7mmfjm1P7Kd1McTUkU3aN71f+dD7f7pM4xUSdWJv75Iqpn/DqCQFY8gEyCGYEvlmv7/M+fkQ=;zfjYKNlxLWYSnf/hbvUwAw=="
+secured: "Hm+ddZ+krzxixt32b754POuhnTtf+3H2962+2SXqJF665SycuDMf2DVt62amIc0KHTbotd1ZYS9IaHeXkP+AOJ07F5MLCuYO2dILzUmBJYr7s18wShlmGMaEjXXu3WlCI15VJ0g497TZ3ox9AxgvdaUv/g7cY6jXrKsl1UIniQIhScSZOaGdgO27/DU5u5S6HCcY4gd9pXQeZCeVBDBiQ8QwfxnOTB0wMRdkdCHF9KhIu1h3/rhln9NKeJMvNwGoyqOJSeR8RMxw4ppDY9rowFhtKYO6DTQGD/BnVg4nltDP1cW7ap8VJjG28jTk10erQqVipgm6131hCHukQrPfzCxK6yrxZC91GdQ5525YZIM=;fB3hY9AaNELS4ZZQhR/JCQ=="
 ---
 

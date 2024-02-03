@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neurali
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
 type: article
 quality: 76
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://sm.mashable.com/mashable_in/seo/default/00-aa-orange-art-cover_dsv8.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Neuralink chip implanted into human brain for the 1st time, Elon Musk says"
     excerpt: "Neuralink implanted its first brain chip in a human subject, and Musk posted on X that the person is \"doing well\" after surgery."

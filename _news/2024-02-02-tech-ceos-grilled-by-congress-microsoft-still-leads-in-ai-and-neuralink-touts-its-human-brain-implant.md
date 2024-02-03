@@ -26,172 +26,82 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Alphabet and AMD tout AI progress, but investors want tangible results"
-    excerpt: "Shares of the tech giants slipped in late trading Tuesday after they delivered 2023 results and forecasts for the current quarter, as Wall Street seeks more clarity on AI’s impact on financial performance."
-    publishedDateTime: 2024-01-31T04:28:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+  - title: "Elon Musk says Neuralink has implanted its first brain chip in human"
+    excerpt: "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder"
+    publishedDateTime: 2024-01-31T01:30:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 99
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/31/b4da3d72-ff1e-45ad-8719-f1a297ad3e5d_d0f49c3d.jpg?itok=RjL0COcV&v=1706674682"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch"
-    excerpt: "A look at the expectations from analysts for Microsoft's Q2 earnings report and key items for investors to watch."
-    publishedDateTime: 2024-01-29T22:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-q2-earnings-preview-artificial-intelligence-gaming-more-key-items-to-watch-1033007330"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 76
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Microsoft-Shutterstock_0.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://i.guim.co.uk/img/media/134671988bdcfa034f14722647af46810b4b6251/0_107_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=1a104797821783b786bff088d587f939"
+        width: 620
+        height: 372
         isCached: true
-  - title: "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy"
-    excerpt: "Reuters reports “Artemis” will complement the hundreds of thousands of Nvidia H100 chips Meta bought. Similar to the MTIA chip Meta announced last year, Artemis is also focused on inference — the actual decision-making part of AI — and not training AI models, but it’s already a little late to the game."
-    publishedDateTime: 2024-02-01T20:20:00Z
-    webUrl: "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia"
+  - title: "Elon, Inc: Elon Implants a Brain Chip"
+    excerpt: "Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world"
+    publishedDateTime: 2024-01-30T22:15:00Z
+    webUrl: "https://www.bloomberg.com/news/audio/2024-01-30/elon-inc-elon-implants-a-brain-chip-podcast"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 75
-  - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
-    excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
-    publishedDateTime: 2024-02-01T14:43:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/articleshow/107332510.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-confirms-bard-advanced-will-be-googles-answer-to-microsofts-copilot-pro/amp_articleshow/107332510.cms"
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
+  - title: "Neuralink brain chip implanted into human for the 1st time, Elon Musk says"
+    excerpt: "Neuralink implanted its first brain chip in a human subject, and Musk posted on X that the person is \"doing well\" after surgery."
+    publishedDateTime: 2024-01-30T19:14:00Z
+    webUrl: "https://www.livescience.com/health/neuroscience/neuralink-brain-chip-implanted-into-human-for-the-1st-time-elon-musk-says"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 62
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107332476,width-1280,height-720,resizemode-4/107332476.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google Bard vs Microsoft Copilot, who creates better images? Here are the results"
-    excerpt: "We have compared the images generated by both Google Bard and Microsoft Copilot using the same prompts to determine which one creates better pictures."
-    publishedDateTime: 2024-02-02T06:56:00Z
-    webUrl: "https://www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html"
-    ampWebUrl: "https://www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/google-bard-vs-microsoft-copilot-who-creates-better-images-here-are-the-results.html/amp/"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 56
-    images:
-      - url: "https://static.digit.in/Google-Bard-vs-Microsoft-Copilot-3.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft’s Strong Financials and AI Growth Prompt Buy Rating and Increased Price Target"
-    excerpt: "Wolfe Research analyst Alex Zukin reiterated a Buy rating on Microsoft (MSFT – Research Report) yesterday and set a price target of"
-    publishedDateTime: 2024-01-31T10:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-strong-financials-and-ai-growth-prompt-buy-rating-and-increased-price-target-1033014845"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-  - title: "Microsoft beats Q2 estimates with help from AI features"
-    excerpt: "Investors are watching Microsoft's Azure and Office revenues closely to see what sales flow from the money the company plans to pour into data centers to deliver generative AI."
-    publishedDateTime: 2024-01-30T21:34:00Z
-    webUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/"
-    ampWebUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 54
-  - title: "Microsoft Dishes on AI Revenue; Google CEO Says ‘Agents’ Are Coming"
-    excerpt: "Microsoft investors tuned into the company’s earnings call with bated breath Tuesday night, looking to see how much its new AI products were boosting sales. Microsoft didn’t deliver an unequivocal blowout—revenue in the December quarter grew moderately faster,"
-    publishedDateTime: 2024-01-31T15:00:00Z
-    webUrl: "https://www.theinformation.com/articles/microsoft-dishes-on-ai-revenue-google-ceo-says-agents-are-coming"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
+      name: Live Science
+      domain: livescience.com
     quality: 54
     images:
-      - url: "https://tii.imgix.net/production/articles/12200/bb0bf2ed-b74d-4d2f-8188-89e5c74eff42-LesFYQ.png?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://cdn.mos.cms.futurecdn.net/BCxYb5W9YKePmefGDXbQXM-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
-    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
-    publishedDateTime: 2024-01-30T01:40:00Z
-    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
+  - title: "Mind control: All you need to know about Elon Musk’s Neuralink implanting brain chip"
+    excerpt: "Blurring the line between humans and machines, Neuralink’s technological advancement can allow people with disabilities to control smartphones and other devices using their brains."
+    publishedDateTime: 2024-01-30T12:03:00Z
+    webUrl: "https://yourstory.com/2024/01/mind-control-all-you-need-to-know-about-elon-musks-neuralink-brain-chip"
     type: article
     provider:
-      name: Winona Daily News
-      domain: winonadailynews.com
-    quality: 45
+      name: Your Story
+      domain: yourstory.com
+    quality: 49
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://images.yourstory.com/cs/wordpress/2017/03/Untitled-design-45-1.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
         isCached: true
-  - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
-    excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
-    publishedDateTime: 2024-01-31T17:20:00Z
-    webUrl: "https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/"
+  - title: "Musk Claims First Neuralink Human Implant Successful; Unveils ‘Telepathy’ That Allows Device Control By Thoughts"
+    excerpt: "The first human received an implant from @Neuralink yesterday and is recovering well. Initial results show promising neuron spike detection."
+    publishedDateTime: 2024-01-30T05:23:00Z
+    webUrl: "https://in.mashable.com/tech/68524/musk-claims-first-neuralink-human-implant-successful-unveils-telepathy-that-allows-device-control-by"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 43
-  - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
-    excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
-    publishedDateTime: 2024-01-31T02:13:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
+      name: in.mashable
+      domain: mashable.com
+    quality: 48
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/default/00-aa-orange-art-cover_dsv8.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Neuralink chip implanted into human brain for the 1st time, Elon Musk says"
+    excerpt: "Neuralink implanted its first brain chip in a human subject, and Musk posted on X that the person is \"doing well\" after surgery."
+    publishedDateTime: 2024-01-30T19:14:00Z
+    webUrl: "https://www.livescience.com/health/neuroscience/neuralink-brain-chip-implanted-into-human-for-the-1st-time-elon-musk-says"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 36
-  - title: "Microsoft's full set of Office apps will be available on Apple's Vision Pro — including the company's new AI assistant, Copilot"
-    excerpt: "The tech giant said programs including Microsoft Word, Excel, and PowerPoint would be available on Apple's new headset on its launch day."
-    publishedDateTime: 2024-02-01T15:12:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-office-apps-apple-vision-pro-copilot-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "Microsoft revenue surges to US$62bil as AI bet delivers"
-    excerpt: "Net profit also beat expectations at US$21.9 billion, instead of the US$20.71 projected by analysts. Crucially, revenue for Microsoft’s Azure cloud services jumped by 30% in the period, driven by the bigger computing needs that come with the adoption of AI. Overall, Microsoft’s cloud services sales were up by 24%, the company said."
-    publishedDateTime: 2024-01-31T03:46:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/01/31/microsoft-revenue-surges-to-us62bil-as-ai-bet-delivers/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Live Science
+      domain: livescience.com
     quality: 34
-  - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
-    excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
-    publishedDateTime: 2024-01-30T12:39:00Z
-    webUrl: "https://realmoney.thestreet.com/markets/microsoft-amd-and-ai-s-big-night-an-unexpected-boost-no-growth-europe-16143042"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 33
 
 secured: "5yxIM9TL48f8fwUah/kA3j9ErbiTyD7CCXYojHOk2/T4edLg3LmGJ6m0ev5a7HXxK16RZB8YlAe9VsIb/KBwqYOSDEqmp8OVYt8wPAbh0We/AM302Rz1nVW4Q5akjysiRMR7X78Ptjv1BzphrGo0AmQ73zklgNi4mxsdq+bbPgl+PLksoGYeVg/DF4bgKCIp8gX124d7/JmSbAUB0p8GTqiFUHlNNjTk7EBiPSdtGn+GwfCuyCw7PLW+K3PwG39fkARQjn4vVpNu94Fxj/BtpSulFkJJ8wtJ5s3vXrYnDFgCOvbs0yWK783RgDh+2FEaZ+LragK2Bzomo8Pt7EAc6V+mGgzGWaXR6DQceRArAeU=;J/XnbmMdzL4hAPPEetVr6g=="
 ---

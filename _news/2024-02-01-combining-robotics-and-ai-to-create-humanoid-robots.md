@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 webUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Armenpress
       domain: armenpress.am
     quality: 65
-  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
-    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
-    publishedDateTime: 2024-01-29T21:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 54
-    images:
-      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
-        width: 1200
-        height: 955
-        isCached: true
   - title: "Humanoid Robot X Discussion"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
     publishedDateTime: 2024-01-31T00:00:00Z

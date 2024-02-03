@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450.a
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-coventry-warwickshire-68155450.amp"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Meta to develop, use its in-house data centre AI-chips this year, AI tools to cost over $30 billion annually"
+    excerpt: "Meta will develop its own custom AI chip and deploy them at their local data centres to power their AI tools. All of this, including the development and deployment of these new AI tolls could cost as"
+    publishedDateTime: 2024-02-02T11:20:00Z
+    webUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html"
+    ampWebUrl: "https://www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/meta-to-develop-use-its-in-house-data-centre-ai-chips-this-year-ai-tools-to-cost-over-30-billion-annually-13683142.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 40
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2024/02/Meta-to-start-developing-using-its-in-house-AI-chips-this-year-AI-to-cost-over-30-billion-annually.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "neFwFJY3/OwZHr3C3DEt2efp1juVVtBWZ32BwoJos8P0/9hN6l4ryPLy0gXi+McZkS2A/Ek2xxKtJAEy4xSrbUBYVNnAd1fR3p/86Os04wVu4Uk6rswEdQuvAbYoTDahqa5YzxL906dT0A+SeRRa0UBBmE5Vmus5a6gmPMebJCyCdDltxSYE3omkgux9dLE1u9uIm9bO3n7LZa2SDd5pRObPVOVGHPldiAZ3wmrgiEdU+gZBynf0WypmCxb1HmGYreTHUUKrOi2dxFwnUYIhN4MO92hI9u6Oi01pX2T2OW0zWH2skgSxbGOsfrXUSLaVE4E6hJPJJLM/kKBqTVo3lpihN5pDO2H/Hhd1voHUd/E=;wlJZy0m2tgvNGxTk9Ylcfg=="
 ---

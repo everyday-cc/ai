@@ -87,6 +87,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
+    excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
+    publishedDateTime: 2024-02-02T11:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/tech-ceos-grilled-by-congress-microsoft-still-leads-in-ai-and-neuralink-touts-its-human-brain-implant/"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 40
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2024/02/GettyImages-1975242998-e1706798856786.jpg?fit=5571%2C3138&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+c2CspW9HolM/P4vJcrKSUW0mWWWSBteeQTmgJNUlMyNkB+7BvmdnoKNszJOrrAYGIp4srTratp0JsO0421xn/tS23El3oZ/ti3e+k4xKP/9ryIpYP3Mu1OMfY/x2jG/L3lAn71ptSDJ+O9YVSr/fKF4cSMaQlMP9ruOtxmmMlgKEIJtLUzoAPqsVrFq7TAychLpBUCCYzHi/f/fF0+jW99HDT8ZPwEVllvS0qnTH43SlRdY1uN7utwRQmJvxrGczEFnD5j4U56U0bNIwGDlNOjM0jEIDYPGTHs95nS/5/EOgeEqkzkFXQsZBP30MdwT/YG1YL3uiLtmSx5HTNGbld8VvJGh0Enuj0QJK0K9A9c=;JYrnzOW6UYo6gZUXPlRetA=="
 ---

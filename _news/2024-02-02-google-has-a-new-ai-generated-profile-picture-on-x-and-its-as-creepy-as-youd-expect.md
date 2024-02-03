@@ -204,6 +204,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "See Google’s AI-Powered Robot at Work in a Kitchen"
+    excerpt: "Spread the loveGoogle has once again pushed the boundaries of artificial intelligence and robotics by introducing their latest AI-powered robot, which is designed to operate in kitchen environments. This cutting-edge robot,"
+    publishedDateTime: 2024-02-03T20:16:00Z
+    webUrl: "https://www.thetechedvocate.org/see-googles-ai-powered-robot-at-work-in-a-kitchen/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 34
 
 secured: "G3ZpYeSgdjN0XG1iZsAzMHZEKwNQYqjgLTLLmFSn4znpo5F11En85W1ZDE3hUuLJjHTYJPcapVH+Mjcd4yapJUcPeJm4+zQXAmZOtbaXE7ceHvN3J2RDDHZEbIarBJBlEKybhC5f9YkHWeR5PP8UnP121C9HdRC00nFsdfH7oo9wa6IjiTpuBWdI7iZU1NhPFmvIV6QZn3wBkfWFCgoB24bia+gstEh56VvDpEUhyCbUFt2OEsHpFx+ihwZRILfPuEGCdPOeWVXoa6eJbyDao9GZRbfc2oY/gH2WlaxzoMM1mNCjZP0BAmUHsbviJy5ynbhQPO3emEcu0hGBH8b6ObeQ4cHDOeMz3AMn6vmRU3Mn8C+Ncp0mlIPahgMQtifzTMyJEaW3DKMUb17ye9j8AaMF9YDPg5kpOOeXlTEOAJkRbgbUJXHz7VrhVqTwmT9AHo7xY/3yP4Qch3znKARBUqlaZs3gAh/W2jrxKhhnY1mS8rZV9cAFi84JtjWmnv3sNC083p6fSPFjetYiQNMrRA==;CIdwniQtEZNyFhbRFahX4w=="
 ---

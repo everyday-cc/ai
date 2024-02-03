@@ -72,15 +72,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Stay away from US stocks, expect the AI bubble to burst, and brace for a recession, elite investor Jeremy Grantham says"
     excerpt: "Bubble expert Jeremy Grantham said US stocks are hugely overvalued, AI buzz is overblown, a recession lies ahead, and foreign wars are worrying."
     publishedDateTime: 2024-02-03T10:32:00Z

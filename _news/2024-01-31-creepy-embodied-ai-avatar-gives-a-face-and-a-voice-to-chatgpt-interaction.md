@@ -7,7 +7,7 @@ originalUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-
 webUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1362558433_536956_idayhy.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
+    excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
+    publishedDateTime: 2024-02-01T10:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/perplexity-vs-bard-vs-chatgpt-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
+        width: 1280
+        height: 711
         isCached: true
 
 secured: "5RCEy7Vn3GJd73qEi7Hz18lUSKD6Fkt59dKCqdr9qj9sgiyVE2OszDXh3IG8LaRlRrxMJgL7rpYrEnBB62wHq37E+aikQNzodcK64ZZ26ii6ier4Rqf3X81xPCaJZ25A0cMajvhSVZKZIJpX3JYM8q9bRud+7F30187vSS4Zyt0K37AiKEkFVghlEO8fGaEe47Rp75jkYhXvlaxfo9HBr5+r6A1w1btubREhbGZmg3+fggzS9GvP8XgVpBSL0srxXBtbc2sZsXn30eBLd7OJJGz/QDP1OROER0gUf/a76IDKATgPkGbJ9D9Zk4xBZ/6N7nt9d8W6AcXhbyrfkssWQmSCDa7SFTZl/BTRSOOhv3c=;46sEFyG3+RlTaiQ/zcrSfA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 35
-  - title: "Preparing Your Organization for AI in 2024: 10 Essential Elements of an Enterprise-Wide Strategy"
-    excerpt: "Make risk, governance, and safety a priority Most likely, it is not necessary to start from scratch. AI governance can typically build from your existing governance and risk policies, and a robust AI and data governance program can pave the way for rapid ..."
-    publishedDateTime: 2024-01-29T20:24:00Z
-    webUrl: "https://medcitynews.com/2024/01/artificial-intelligence-ai-enterprise-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 26
-    images:
-      - url: "https://medcitynews.com/uploads/2018/01/GettyImages-851956402.jpg"
-        width: 724
-        height: 483
-        isCached: true
   - title: "Google I/O 2024: possible date, Android 15, Pixel 8a, Pixel Fold 2, AI and more"
     excerpt: "Meanwhile, we could learn more about the new and improved Google Assistant with Bard integration, which is reportedly coming in March but could launch at Google I/O instead. And Google has also announced that it will be rolling out a premium version of ..."
     publishedDateTime: 2024-02-01T00:00:00Z

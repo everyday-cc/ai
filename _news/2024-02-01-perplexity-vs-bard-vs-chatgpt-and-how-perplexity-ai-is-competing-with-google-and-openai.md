@@ -26,149 +26,104 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI is working on AI education and safety initiative with Common Sense media"
-    excerpt: "OpenAI is partnering with Common Sense Media nonprofit on an initiative to create AI guidelines and education materials for teens and families."
-    publishedDateTime: 2024-01-29T19:52:00Z
-    webUrl: "https://www.cnbc.com/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/openai-is-working-on-ai-education-safety-initiative-with-common-sense.html"
+  - title: "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction"
+    excerpt: "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice."
+    publishedDateTime: 2024-01-31T15:00:00Z
+    webUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 100
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107361037-17055870662024-01-18t102403z_838136397_rc2ak5a86bbx_rtrmadp_0_davos-meeting.jpeg?v=1705594949"
-        width: 3500
-        height: 2279
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Humanoid robot startup Figure AI in funding talks with Microsoft, OpenAI"
-    excerpt: "Figure AI Inc., a startup developing humanlike robots, is in talks to raise as much as $500 million in a funding round led by Microsoft Corp. and OpenAI, according to a person with knowledge of the matter."
-    publishedDateTime: 2024-01-31T12:32:00Z
-    webUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.html"
-    ampWebUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+  - title: "Is Siri an AI? Will Apple embrace ChatGPT and modern AI?"
+    excerpt: "Apple released Siri over 10 years ago, but has it fallen behind new AI chatbots like Bard and ChatGPT? Yes, but here's how Apple may catch up."
+    publishedDateTime: 2024-02-01T08:40:00Z
+    webUrl: "https://www.androidauthority.com/is-siri-ai-3409932/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 90
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/humanlike-robot.jpg"
-        width: 2880
-        height: 2106
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Siri-telling-a-joke-on-iOS-17-Standby-Mode-scaled.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Microsoft and OpenAI Fuel Robotics Surge with $500M Figure AI Investment"
-    excerpt: "Microsoft and OpenAI, backed by Redmonds tech giant, spearheaded a funding round that generated more than $500 million for Figure AI, a robotics business. Microsoft, OpenAI Reportedly Lead $500M Fundraising Round"
-    publishedDateTime: 2024-01-31T14:34:00Z
-    webUrl: "https://www.econotimes.com/Microsoft-and-OpenAI-Fuel-Robotics-Surge-with-500M-Figure-AI-Investment-1670588"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 85
-    images:
-      - url: "https://f1.econotimes.com/2024/01/71ssczxu6w_th_1024x0.jpg"
-        width: 1024
-        height: 640
-        isCached: true
-  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
-    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
-    publishedDateTime: 2024-01-31T05:58:00Z
-    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
-        width: 1600
-        height: 800
-        isCached: true
-  - title: "Implications of Generative AI on U.S. National Security National Conference"
-    excerpt: "Washington, D. C., Jan. 29, 2024 (GLOBE NEWSWIRE) -- The explosive growth of generative artificial intelligence (AI) has significant implications for U.S. national security, yet the conversation around this topic has been fragmented."
-    publishedDateTime: 2024-01-29T23:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/implications-of-generative-ai-on-u-s-national-security-national-conference-1033007292"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-  - title: "OpenAI and Common Sense Media partner to protect teens from AI harms and misuse"
-    excerpt: "On Monday, OpenAI announced a partnership with the nonprofit Common Sense Media to create AI guidelines and educational materials targeted at parents, educators, and teens. It includes the curation of family-friendly GPTs in OpenAI's GPT store. The collaboration aims to address concerns about the impacts of AI on children and teenagers."
-    publishedDateTime: 2024-01-29T23:12:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/openai-and-common-sense-media-partner-to-protect-teens-from-ai-harms-and-misuse/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 63
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/ai_kid-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs"
-    excerpt: "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI."
-    publishedDateTime: 2024-02-03T05:51:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
+  - title: "OpenAI launches ChatGPT app for Apple Vision Pro"
+    excerpt: "OpenAI launches ChatGPT, a multimodal AI app that lets users chat with text, images, and voice on the Apple Vision Pro, the augmented reality headset powered by visionOS."
+    publishedDateTime: 2024-02-02T23:20:00Z
+    webUrl: "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 86
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all"
-        width: 855
-        height: 775
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_someone_wearing_an_augmented_reality__7fb3b876-414e-4175-ab9e-4b1dd5fe2f4a-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
-  - title: "Figure AI Talks With Microsoft & OpenAI About $500M Investment"
-    excerpt: "Figure AI, startup developing humanoid robots, is talking to Microsoft and OpenAI to raise $500 million in new funding at a valuation of over $2 billion. Figure AI just made a deal with BMW to put the humanoid robots into the car factory for pilot tests ..."
-    publishedDateTime: 2024-01-31T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/01/figure-ai-talks-with-microsoft-openai-about-500m-investment.html"
+  - title: "ChatGPT’s new @-mentions bring multiple personalities into your AI convo"
+    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
+    publishedDateTime: 2024-01-31T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 56
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 83
     images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2020/08/brianheadshot.jpg"
-        width: 910
-        height: 1084
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Clients, Common Sense Drive Big Law Gen AI Policies"
-    excerpt: "Most law firms aren’t feeding client data into generative AI tools, but a handful have begun testing the technology on closed systems with client permission."
-    publishedDateTime: 2024-02-01T21:45:00Z
-    webUrl: "https://www.law.com/2024/01/31/clients-common-sense-drive-big-law-gen-ai-policies/"
+  - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
+    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
+    publishedDateTime: 2024-01-31T22:34:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 41
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 80
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/405/2023/06/Robotic-Assistance-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Impacts of Artificial Intelligence on Education"
-    excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
-    publishedDateTime: 2024-01-31T23:30:00Z
-    webUrl: "https://www.thisislocallondon.co.uk/news/24089118.impacts-artificial-intelligence-education/"
+  - title: "AI Game-Changers: ChatGPT vs. Llama"
+    excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
+    publishedDateTime: 2024-01-31T18:26:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2024/01/31/458569-ai-game-changers-chatgpt-vs-llama.htm"
     type: article
     provider:
-      name: This is Local London
-      domain: thisislocallondon.co.uk
-    quality: 34
-  - title: "Libraries Provide Guidance on Using Artificial Intelligence in Higher Education"
-    excerpt: "The University Libraries, in coordination with the office of Academic Initiatives and Integrity, have created a research guide titled"
-    publishedDateTime: 2024-02-01T06:46:00Z
-    webUrl: "https://news.uark.edu/articles/69364/libraries-provide-guidance-on-using-artificial-intelligence-in-higher-education"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 58
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5577802624-ChatGPT.jpg"
+        width: 870
+        height: 580
+        isCached: true
+  - title: "ChatGPT Now Allows Users to Bring Multiple AIs Into Conversations"
+    excerpt: "Artificial intelligence company OpenAI rolled out a new feature for ChatGPT this week that allows ChatGPT Plus users to add multiple GPT chatbots into existing conversations. This means that it's now possible to have your custom chatbots talk to each other. The feature could help users boost creativity and make better decisions."
+    publishedDateTime: 2024-01-31T21:34:00Z
+    webUrl: "https://www.inc.com/ben-sherry/chatgpt-now-allows-users-to-bring-multiple-ais-into-conversationshow-to-turn-chatgpts-new-feature-to-boost-creativity-at-work.html"
     type: article
     provider:
-      name: University of Arkansas
-      domain: uark.edu
-    quality: 30
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1362558433_536956_idayhy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "KPrfEzxHHMIkqs17wbIzzDkcXtwZLj8VpJNBxJhmEM5aMIa57XG49nh2Pdcuu914k7gfcr+H7qZdtkr0te+u5ze94OJYaxlLPoWcUFIB/Uzhkrj4izV+j9ojJqOWMo7pX5VsP5dfiYCr5D/xZXAbLfbDr70FHxYlz9PSsogjC7eABv/fwdDcftWuc9qZtbViPG6tx5RvXUnsAx7YgcDF1EQQ0wo8gvPuYVZxfZtoRookpU3Mv9ztvyQn1oAtbDirLb7zqUb7DwFfbOE+3ldzWEQ36WNRjquU092N5Giw1nr6vG2XtF2IPPMagn7HPJxE3sDun/21YmL/i8OzIodpFceG/v6ucRBp9xIs3TrEtBg=;B1zYsbtGa+z4++z1vbbeLw=="
 ---

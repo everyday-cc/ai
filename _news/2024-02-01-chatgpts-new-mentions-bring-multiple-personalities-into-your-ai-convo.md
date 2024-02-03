@@ -113,6 +113,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
+    excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
+    publishedDateTime: 2024-02-01T10:45:00Z
+    webUrl: "https://www.geeky-gadgets.com/perplexity-vs-bard-vs-chatgpt-2/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 47
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Perplexity-vs-Bard-vs-ChatGPT.jpg"
+        width: 1280
+        height: 711
+        isCached: true
 
 secured: "O9M4J+6Apj97BylGdUS1HXXyOE27Fjj9Al9Nb8rcpTno0t/kxv3SBhNQQLPTQfAUOt6/hv8KQRqzE9Ysxh/2ju9xHs3DonnTMwI4247PlOUwolzcBpdQ6jnghzYZYllYdVtmKSfMWiRef9/eOVfi2dYT4FLiJS+EaZN4tF7Cblw5Jc6FBB4NZbGMPFr4oHKHBfr41Aco7IYMfjbVssooCLVSSzzkv0l65/J6TjiNj24zmohbxemupNzJBsRz1eUmUiv9XopeVzwwCqTpif91LxoNVUSBw39S+pjzk0gNq38ZPQIMqPJpGKcSD0316TR6ilL+7K8EOc96Ox3a8hD+GL6ub7SKswoWka/caSca2mCjZ8bi3O8KlRWSvfoQB6GftVxzZBrXvMYzN9r9g2DfcMQoZ+fFNKvX2hN1ICoD20NBgUJckVt931h39pNAgQ5Xtt6XSisLgAuBldwPQsea4HlpwaXeSOef8ABuKnT3vS5KCEOTC5Qw363K2BSiSrWDZqJ6UI0nIsG4AwbHYLbsIw==;HKBj4u+hOu+ZYP9MEnPALg=="
 ---

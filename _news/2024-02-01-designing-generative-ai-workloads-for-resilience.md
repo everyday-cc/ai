@@ -71,7 +71,7 @@ related:
     provider:
       name: PBS
       domain: pbs.org
-    quality: 46
+    quality: 48
     images:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2023/01/washington-state-olympia-capitol-2020-04-12T000000Z_586943729_RC2O2G97NC1X_RTRMADP_3_HEALTH-CORONAVIRUS-USA-PRISONS-1024x683.jpg"
         width: 1024

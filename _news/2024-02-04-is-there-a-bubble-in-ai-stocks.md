@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bub
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "AI’s Dark Horses: 3 Underestimated Stocks in the AI Revolution"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Almost invariably, whenever someone brings up AI stock opportunities, Nvidia"
-    publishedDateTime: 2024-01-29T21:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ais-dark-horses-3-underestimated-stocks-in-the-ai-revolution-1033007211"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Stay away from US stocks, expect the AI bubble to burst, and brace for a recession, elite investor Jeremy Grantham says"
     excerpt: "Bubble expert Jeremy Grantham said US stocks are hugely overvalued, AI buzz is overblown, a recession lies ahead, and foreign wars are worrying."
     publishedDateTime: 2024-02-03T10:32:00Z
@@ -110,6 +101,6 @@ related:
         height: 868
         isCached: true
 
-secured: "2I68Uyc4lLF7L5v54n6B5bjZ8X5AykOXZ8Otlq8ldDTzE9DdWJ2jWEqy2wGjm+DnUOe7jKw7/7zXtx1PttsG3Yz3pM8jT/xasy8FqezehXH95G3IOlpvRT4AQxnMFBfSdGC/uAjR5W/gddXbMSm98y/fw/WuatC7HFdgkaqIrNIMBwQqj6Cx34bCwcBpVxdbNktHIDID3JTReYi1xtGGnz6OKTT61WsUPDNbUQIW9DUN0oZzPdENqjhO2CmSEFvCERQYXfPpYEEdbmQds+5wf8qCxbqg/+QWNvsEC8RzTg1aIbgjBBYyAOAy/bF0CpWZVVM+1TI8n2rDTbGuU9ZAWTe9HyffUTxHW30lLtSvhO0=;MxZ9c0lF3V2g1N0rcVIDzQ=="
+secured: "yGlT4a+ZNwsNJ/xRdNsfngofPMfcqgIyiuEFZouyqlmbjM3ws9DL3bl2pH3TT2yZGOnDWqCjGdZ6QvgsvmMyeuMTNr+RCRz6WtS0AVX29LFUZNeM9cXJMDs5ZoOcW3T/6cJcjcDv0Nz9jIW7pUg4Yl4j3N7IKFvn7Gx/yn8rjQPj/L8cA8STfr/BIS6EzV+Wj+7FYUuUAsaED3LNBa5uWTZ85wUpDFOkZaLnTwd6VOCXG/pCq9DBhXfL8yWcqHlK9j29/FCYS9KxQUUm4BvjDZOmWnWQwrwYWek4TF6N9MotPbSOKhCwXCcjf/iEpuigG5eYkrov0PAUV7GwVDICQY9bz+mFIUiw39Cn06Jj2Fk=;/+sW0aEQbTrU88DPKPYlyQ=="
 ---
 

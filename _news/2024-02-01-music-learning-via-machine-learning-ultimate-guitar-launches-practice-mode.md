@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Transfer learning improves and diversifies machine learning models"
-    excerpt: "For example, consider a neural network trained for general object recognition. It can identify cars, trees, animals, and other objects. If we want to adapt this network for a more specific task, like recognizing different types of birds, we can freeze the ..."
-    publishedDateTime: 2024-02-02T00:00:00Z
-    webUrl: "https://www.androidpolice.com/transfer-learning-ml-guide/"
+  - title: "Deep Learning for Natural Language Processing"
+    excerpt: "Although this strategy completely ignores the order in which words occur in a sentence, it has been repeatedly shown to be a good solution for many practical natural language processing applications that are driven by text classification. Nevertheless ..."
+    publishedDateTime: 2024-02-01T01:14:00Z
+    webUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/recurrent-neural-networks/06F9A80E29BDC6DEF9565A050447B0D8"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 41
+      name: Cambridge University Press
+      domain: cambridge.org
+    quality: 56
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/facial-recognition-collage-concept_23-2150038886.jpg"
-        width: 1480
-        height: 833
+      - url: "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg"
+        width: 600
+        height: 600
         isCached: true
 
 secured: "dMdUki5xAlnUF6fjpjDEyPQYKwW9TANnRCtztWwgEHHGuG8BBdm6ByrgAidBzjBv8ZhmirH6+h9Zi93suOH7T/h4FgcQEOlkG24skumKswN4wXNvTynfJ/A8fcFuZLhTRxUq/VzbTUOKSqHWf7vkH4ZCY+oAQNlw+BO19UiBGDTxcWQU0sUAXhj4KKk39gYn3GDi7iof7aQQtqpYpr7QJDjImX4rkDWY1rSClBhC3TQ1Kv5DbyKKLLN4QXACinmlU6o3weuXKXH+lYgSkpjtO9BpdSAUQnkLHOlH9s4uY46b5B9YpN55f1g55Ujj/gFK9oMP0L3BKLxRIf54btjrta7HvOlEJPNkeZoTcNlUMZI=;uxZXZHmJcElh1/t9kX5LYg=="

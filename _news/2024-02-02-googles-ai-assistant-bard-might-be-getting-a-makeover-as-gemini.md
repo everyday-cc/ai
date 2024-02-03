@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-mi
 webUrl: "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Bard.jpg"
         width: 1280
         height: 721
-        isCached: true
-  - title: "Google might be considering another name for Assistant with Bard: Gemini"
-    excerpt: "We previously spotted how Google might be rebranding \"Assistant with Bard\" to just \"Bard\" and now it's apparently called"
-    publishedDateTime: 2024-01-29T22:42:00Z
-    webUrl: "https://9to5google.com/2024/01/29/assistant-bard-gemini-name/"
-    type: article
-    provider:
-      name: 9to5google
-      domain: 9to5google.com
-    quality: 23
-    images:
-      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/google-assistant-with-bard-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "R.I.P Bard: Google could rename it to Gemini"
     excerpt: "There were some strings of code found indicating that Google may want to rename Bard into Gemini. Yet to be confirmed."

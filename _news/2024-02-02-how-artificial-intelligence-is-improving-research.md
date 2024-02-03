@@ -9,8 +9,8 @@ ampWebUrl: "https://punchng.com/how-artificial-intelligence-is-improving-researc
 cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-improving-research/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Punch Newspapers
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Big Tech Earnings Show This AI Boom Is the Real Deal"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This past week, Wall Street’s Big Tech firms all reported earnings. And"
+    publishedDateTime: 2024-02-03T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/big-tech-earnings-show-this-ai-boom-is-the-real-deal-1033026772"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Dayton region health care systems are dipping further into AI"
     excerpt: "Over the last few years, artificial intelligence (AI) has taken the world by storm, providing new ways to complete tasks and analyze data. However, the technology is now finding more stable footing in the health care sector as a method to improve patient ..."
     publishedDateTime: 2024-02-02T00:00:00Z

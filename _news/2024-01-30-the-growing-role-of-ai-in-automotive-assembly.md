@@ -73,6 +73,15 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "Impacts of Artificial Intelligence on Education"
+    excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
+    publishedDateTime: 2024-01-31T23:30:00Z
+    webUrl: "https://www.thisislocallondon.co.uk/news/24089118.impacts-artificial-intelligence-education/"
+    type: article
+    provider:
+      name: This is Local London
+      domain: thisislocallondon.co.uk
+    quality: 34
 
 secured: "oYR0iA42C1oTZ2C5yRC5By9mbLKrL9doLa/GJWnPYAR9+7qRl54S8tYSE1y1xuI2o3xFq98m5Z24I3u90EEKtxB/MsoXSxjYaU03d3huUbhH5lv3I9LWWxC5w8+EpWbyGt6UlBf5xRIL0UQ19ttEchfqCsYO1F5apd+lig2ctnRYsSnsRs4Q79Uj9PxRyOvI9YcW4rATcAoaG/AJmVEpj3O5p+773mULn6DF5B6WAN5gLwHrTF6MItbrcjvpKR5w3pq7BOY+6+eS6H+EgiWknr6ig9VMvEptENidCRA93vadgwSwQcT0kCTV42vuT1uO4AiOgfNMdkPjZa/jjFntzTGcfqmEFcP3hCyBrA4Ycb32QWm3Mkg5DXGjoxx7cZYMd7/9X2cubiNnbJnlz5GoilAtTK1afJoz+0x7DpVto+NKC+LzDH451Yr5M4AMIT5szFWJN3j28+oB2z0zzYiINTZzramZ4JrBcdZL8kuRbwXWLHq+xM7Sxu6+j+wNo0elWlPLMx6uBCPNUH4fXF39Ew==;+T1Z+pcmXXHwGJiNWlkyHw=="
 ---

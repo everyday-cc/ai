@@ -54,9 +54,9 @@ related:
         height: 520
         isCached: true
   - title: "Buy Rating Affirmed for Meta Platforms Amid Strong Q4 Results and Strategic AI Investments"
-    excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report ... Additionally, the company’s strategic investments in AI technology are enhancing its ad systems and product line, contributing ..."
-    publishedDateTime: 2024-02-02T03:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868"
+    excerpt: "Maria Ripps, an analyst from Canaccord Genuity, maintained the Buy rating on Meta Platforms (META – Research Report). The associated"
+    publishedDateTime: 2024-02-02T09:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-meta-platforms-amid-strong-q4-results-and-strategic-ai-investments-1033024868?op=1"
     type: article
     provider:
       name: Business Insider

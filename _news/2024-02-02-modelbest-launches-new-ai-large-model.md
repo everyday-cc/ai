@@ -57,15 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "U of T researchers' AI model designs proteins to deliver gene therapy"
-    excerpt: "Researchers at the University of Toronto used an artificial intelligence framework to redesign a crucial protein involved in the delivery of gene therapy. The study, published in Nature Machine Intelligence, describes new work optimizing proteins to ..."
-    publishedDateTime: 2024-01-29T20:13:00Z
-    webUrl: "https://www.utoronto.ca/news/u-t-researchers-ai-model-designs-proteins-deliver-gene-therapy"
-    type: article
-    provider:
-      name: University of Toronto
-      domain: utoronto.ca
-    quality: 34
 
 secured: "SsbVMox3CcyC3lK9uLyPXxchBkcUPLLS3hwrq3PVvjAiMFEkzjdfOn71/xW3Au+661ZGw0zdRGd6JgbcoenmLYzZy+89nQGdsIoEpxvjpU2418iF1I/A4TD/xjAQOfkN9hC34ESkUTm02EhDmWf5VjarOhWhKg3pSsDE9kpUIP2EylVNjoM1ahxlXx6jNP2iZe9cpqGuczUpbAJvCuSGoz4Ae0xd02R78h4FvbYDDKtFgFZhh0yS38PAhueSgusWnLmk6xwG1K8EBBXrPbsgtKRaqGhE93pxqqlIffd5LeW1IuOImrWHAGeYWjNBJu2cwJQ17y1hcXIgzj4BMlWZdFblDwu1C+V1r7IfRHJZnKMBJrBU5NtKSTBCfpeFcK0aJSww7KwO5yUczkJIONhPwQkyq3JmWmodhjkz1sRfkH8hZOtTfePlsWKhtZYGqMRm53Xk3U8twz0r+6kezzzfX9omGkIJmmoyU+7sIuNd8fDag4rAro0sigubksWmwf6UQ6Qvr3Z7AZ8Wi25PRcLhvw==;lVJlBAOGJ08IjpUEhBG1dA=="
 ---

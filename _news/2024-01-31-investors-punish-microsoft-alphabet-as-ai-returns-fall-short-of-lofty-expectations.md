@@ -24,21 +24,21 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Get this Microsoft tech certification training bundle for just $70"
-    excerpt: "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ..."
-    publishedDateTime: 2024-01-29T19:28:00Z
-    webUrl: "https://www.zdnet.com/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/home-and-office/get-this-microsoft-tech-certification-training-bundle-for-just-70/"
+  - title: "Microsoft earnings: What to expect from Azure, Office and AI"
+    excerpt: "AI is an engine for Microsoft’s MSFT, -0.28% Azure cloud-computing business, and analysts expect that business to have grown at a 27% rate on a constant-currency basis during the latest quarter."
+    publishedDateTime: 2024-01-30T17:25:00Z
+    webUrl: "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 119
     images:
-      - url: "https://www.zdnet.com/a/img/resize/df5b14b9cd2f8cf22d8e1d6c9ef6321492a07146/2023/12/15/85893fe1-b2e5-4319-a1b2-16aa30ef10c1/microsoft-stack-social-bundle.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://images.mktw.net/im-872097/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Microsoft's big bet on AI seems to be paying off"
     excerpt: "\"By infusing AI across every layer of our tech stack ... There have also been reports of Microsoft and OpenAI looking into investing in a humanoid robot startup."
@@ -72,6 +72,52 @@ related:
         width: 3727
         height: 2485
         isCached: true
+  - title: "Microsoft, Alphabet and AMD tout AI progress, but investors want tangible results"
+    excerpt: "Shares of the tech giants slipped in late trading Tuesday after they delivered 2023 results and forecasts for the current quarter, as Wall Street seeks more clarity on AI’s impact on financial performance."
+    publishedDateTime: 2024-01-31T04:28:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 99
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/31/b4da3d72-ff1e-45ad-8719-f1a297ad3e5d_d0f49c3d.jpg?itok=RjL0COcV&v=1706674682"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Humanoid robot startup Figure AI in funding talks with Microsoft, OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanlike robots, is in talks to raise as much as $500 million in a funding round led by Microsoft Corp. and OpenAI, according to a person with knowledge of the matter."
+    publishedDateTime: 2024-01-31T12:32:00Z
+    webUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.html"
+    ampWebUrl: "https://techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-01-humanoid-robot-startup-figure-ai.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 90
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/humanlike-robot.jpg"
+        width: 2880
+        height: 2106
+        isCached: true
+  - title: "Microsoft and OpenAI Fuel Robotics Surge with $500M Figure AI Investment"
+    excerpt: "Microsoft and OpenAI, backed by Redmonds tech giant, spearheaded a funding round that generated more than $500 million for Figure AI, a robotics business. Microsoft, OpenAI Reportedly Lead $500M Fundraising Round"
+    publishedDateTime: 2024-01-31T14:34:00Z
+    webUrl: "https://www.econotimes.com/Microsoft-and-OpenAI-Fuel-Robotics-Surge-with-500M-Figure-AI-Investment-1670588"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 85
+    images:
+      - url: "https://f1.econotimes.com/2024/01/71ssczxu6w_th_1024x0.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "AI push sees Microsoft cloud revenues hit new high"
     excerpt: "Microsoft Cloud revenue has grown by around $6.6 billion since the company confirmed that it would invest an undisclosed multibillion-dollar amount into OpenAI, the company that created ChatGPT and the one that lays the foundation for many of the generative AI solutions now available through Microsoft."
     publishedDateTime: 2024-01-31T12:28:00Z
@@ -100,6 +146,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Microsoft: A Strong Buy on Azure’s AI Growth and Robust Financials"
+    excerpt: "Macquarie analyst Frederick Havemeyer has maintained their bullish stance on MSFT stock, giving a Buy rating today. Frederick Havemeyer"
+    publishedDateTime: 2024-01-31T10:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-a-strong-buy-on-azure-s-ai-growth-and-robust-financials-1033014836"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
   - title: "Buy Rating Affirmed for Microsoft on Strong Azure Growth and AI Expansion"
     excerpt: "BMO Capital analyst Keith Bachman has maintained their bullish stance on MSFT stock, giving a Buy rating today. Keith Bachman has given his"
     publishedDateTime: 2024-01-31T10:08:00Z
@@ -109,6 +164,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 78
+  - title: "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy"
+    excerpt: "Reuters reports “Artemis” will complement the hundreds of thousands of Nvidia H100 chips Meta bought. Similar to the MTIA chip Meta announced last year, Artemis is also focused on inference — the actual decision-making part of AI — and not training AI models, but it’s already a little late to the game."
+    publishedDateTime: 2024-02-01T20:20:00Z
+    webUrl: "https://www.theverge.com/2024/2/1/24058186/ai-chips-meta-microsoft-google-nvidia"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 75
   - title: "Microsoft set for AI-powered revenue surge"
     excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
     publishedDateTime: 2024-01-30T10:38:00Z
@@ -189,6 +253,20 @@ related:
         width: 750
         height: 393
         isCached: true
+  - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
+    excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
+    publishedDateTime: 2024-01-31T05:58:00Z
+    webUrl: "https://analyticsindiamag.com/microsoft-openai-in-talks-to-fund-figure-ais-humanoid-robots/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2022/09/ceo-robot.png"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "AI robot startup Figure in talks for funding round led by Microsoft, OpenAI"
     excerpt: "US-based startup Figure AI, specialising in humanoid robots, is reportedly in discussion with Microsoft and OpenAI to lead a funding round to secure $500 million. According to a Bloomberg report, Microsoft is expected to invest approximately $95 million, with OpenAI contributing around $5 million."
     publishedDateTime: 2024-01-31T09:28:00Z
@@ -241,20 +319,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
-  - title: "Humanoid Robot Startup Reportedly In Talks For Mega Funding Round Led By Microsoft, OpenAI"
-    excerpt: "AI startup Figure AI Inc. is in advanced talks to secure up to $500 million in funding led by Microsoft Corporation and OpenAI for developing humanoid robots capable of performing hazardous tasks."
-    publishedDateTime: 2024-01-31T05:00:00Z
-    webUrl: "https://www.benzinga.com/news/24/01/36860130/humanoid-robot-startup-reportedly-in-talks-for-mega-funding-round-led-by-microsoft-openai"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/AI-robot.jpeg?width=1200&height=800&fit=crop"
-        width: 845
-        height: 563
-        isCached: true
   - title: "AI Companies Lose $190 Billion in Market Cap After Alphabet and Microsoft Report"
     excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who had sent their stocks soaring."
     publishedDateTime: 2024-01-31T00:15:00Z
@@ -289,6 +353,43 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
+  - title: "Figure AI Talks With Microsoft & OpenAI About $500M Investment"
+    excerpt: "Figure AI, startup developing humanoid robots, is talking to Microsoft and OpenAI to raise $500 million in new funding at a valuation of over $2 billion. Figure AI just made a deal with BMW to put the humanoid robots into the car factory for pilot tests ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/figure-ai-talks-with-microsoft-openai-about-500m-investment.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 56
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2020/08/brianheadshot.jpg"
+        width: 910
+        height: 1084
+        isCached: true
+  - title: "Microsoft’s Strong Financials and AI Growth Prompt Buy Rating and Increased Price Target"
+    excerpt: "Wolfe Research analyst Alex Zukin reiterated a Buy rating on Microsoft (MSFT – Research Report) yesterday and set a price target of"
+    publishedDateTime: 2024-01-31T10:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-s-strong-financials-and-ai-growth-prompt-buy-rating-and-increased-price-target-1033014845"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+  - title: "'A masterpiece quarter': Microsoft's earnings show it's on the cusp of a years-long, trillion-dollar AI opportunity, Wedbush says"
+    excerpt: "\"This was another masterpiece quarter and guidance from Nadella that will send a major ripple impact across the tech world,\" Dan Ives wrote."
+    publishedDateTime: 2024-01-31T16:07:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-revenue-ai-opportunity-copilot-cloud-wedbush-dan-ives-2024-1"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
+    images:
+      - url: "https://i.insider.com/65ba4e6f7a3d271488761559?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Tweaks AI Tool After Explicit Taylor Swift Fakes"
     excerpt: "Microsoft beefed up protections for victims of nonconsensual explicit images generated by its text-to-image tool Designer, after AI -generated naked photos of Taylor Swift went viral last week. 404 Media first reported that people on 4chan and a specific Telegram channel were using Designer to create nonconsensual NSFW images of celebrities and sharing them."
     publishedDateTime: 2024-01-29T23:47:00Z
@@ -317,6 +418,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AMD Earnings: AI GPU Revenue Is On the Rise"
+    excerpt: "We foresee the firm beating this new target, and we model $4 billion in DC GPU revenue in 2024. But we suspect this new estimate is still short of the expectations of at least some investors, perhaps leading to the 6% selloff in shares after hours."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.morningstar.com/stocks/amd-earnings-ai-gpu-revenue-is-rise"
+    type: article
+    provider:
+      name: Morningstar
+      domain: morningstar.com
+    quality: 54
+    images:
+      - url: "https://morningstar-morningstar-prod.web.arc-cdn.net/resizer/oGwDOZVkYS5-ew8-uCS4jggt8Z0=/1201x676/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/morningstar/4EQFKYGMOVDYNASNDOOG6E4K4I.jpg"
+        width: 1201
+        height: 629
+        isCached: true
   - title: "Insight Enterprises inks new multi-year Microsoft Azure deal"
     excerpt: "The company has received 65 Microsoft partner of the year awards in the last decade, including 11 worldwide awards for AI, Azure migration, IoT and mobile app development, among others. One of the first partners to publish offers for Microsoft 365 Copilot ..."
     publishedDateTime: 2024-01-31T00:03:00Z
@@ -331,6 +446,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Microsoft beats Q2 estimates with help from AI features"
+    excerpt: "Investors are watching Microsoft's Azure and Office revenues closely to see what sales flow from the money the company plans to pour into data centers to deliver generative AI."
+    publishedDateTime: 2024-01-30T21:34:00Z
+    webUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/"
+    ampWebUrl: "https://globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/10261165/microsoft-revenue-stock-ai-features/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 54
   - title: "Microsoft says AI is getting deployed 'at scale'"
     excerpt: "Microsoft sales accelerated in the final months of 2023, lifted by demand for its artificial intelligence tools. The company said revenue in September to December rose 18% year-on-year to more than $60bn."
     publishedDateTime: 2024-01-30T21:56:00Z
@@ -426,34 +552,38 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Microsoft Data Governance: Preparing for the Copilots"
-    excerpt: "Paul details what you need to do to prepare your business for different Copilots, because if you don't have good data governance, you'll likely have some 'interesting times' ahead if you roll out the AI broadly."
-    publishedDateTime: 2024-01-31T20:47:00Z
-    webUrl: "https://virtualizationreview.com/Articles/2024/01/31/data-governance-and-copilots.aspx"
+  - title: "Kash Rangan Reaffirms Buy Rating on Microsoft, Citing Strong Q2 Performance and Azure Growth Prospects"
+    excerpt: "In a report released today, Kash Rangan from Goldman Sachs reiterated a Buy rating on Microsoft (MSFT – Research Report), with a price"
+    publishedDateTime: 2024-01-30T22:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kash-rangan-reaffirms-buy-rating-on-microsoft-citing-strong-q2-performance-and-azure-growth-prospects-1033012069"
     type: article
     provider:
-      name: Virtualization Review
-      domain: virtualizationreview.com
-    quality: 39
-    images:
-      - url: "https://virtualizationreview.com/Articles/2024/01/31/~/media/ECG/virtualizationreview/Images/2024/01/SharePoint_sharing_settings_s.ashx"
-        width: 267
-        height: 300
-        isCached: true
-  - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
-    excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."
-    publishedDateTime: 2024-01-31T08:00:00Z
-    webUrl: "https://telanganatoday.com/implementing-ai-at-scale-embedding-ai-across-our-tech-stack-satya-nadella"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
+    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
+    publishedDateTime: 2024-01-30T01:40:00Z
+    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: Winona Daily News
+      domain: winonadailynews.com
+    quality: 45
     images:
-      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/01/Implementing-AI-at-scale-embedding-AI-across-our-tech-stack-Satya-Nadella.jpg"
-        width: 1280
-        height: 750
+      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
+    publishedDateTime: 2024-01-31T17:20:00Z
+    webUrl: "https://siliconangle.com/2024/01/31/report-humanoid-robot-startup-figure-ai-seeks-500m-raise-led-microsoft-openai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 43
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "SAN FRANCISCO (AP) — Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology ... Analysts polled by FactSet Research expected Microsoft ..."
     publishedDateTime: 2024-01-30T00:00:00Z
@@ -472,6 +602,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 36
+  - title: "Microsoft's full set of Office apps will be available on Apple's Vision Pro — including the company's new AI assistant, Copilot"
+    excerpt: "The tech giant said programs including Microsoft Word, Excel, and PowerPoint would be available on Apple's new headset on its launch day."
+    publishedDateTime: 2024-02-01T15:12:00Z
+    webUrl: "https://www.businessinsider.com/microsoft-office-apps-apple-vision-pro-copilot-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
   - title: "Cloud strength and AI excitement boost Microsoft revenue"
     excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
     publishedDateTime: 2024-01-30T13:46:00Z
@@ -480,6 +619,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 34
+  - title: "Microsoft revenue surges to US$62bil as AI bet delivers"
+    excerpt: "Net profit also beat expectations at US$21.9 billion, instead of the US$20.71 projected by analysts. Crucially, revenue for Microsoft’s Azure cloud services jumped by 30% in the period, driven by the bigger computing needs that come with the adoption of AI. Overall, Microsoft’s cloud services sales were up by 24%, the company said."
+    publishedDateTime: 2024-01-31T03:46:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2024/01/31/microsoft-revenue-surges-to-us62bil-as-ai-bet-delivers/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 34
   - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
     excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
@@ -499,19 +647,37 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Inside a collaboration between Microsoft and the Pacific Northwest National Laboratory"
-    excerpt: "The Pacific Northwest National Laboratory (PNNL) in Richland, Washington, has turned to Microsoft for high-performance computing requirements. In what it calls a multi-year collaboration, the lab and the software giant will apply artificial intelligence to speed up research in clean energy."
-    publishedDateTime: 2024-01-29T20:17:00Z
-    webUrl: "https://federalnewsnetwork.com/technology-main/2024/01/inside-a-collaboration-between-microsoft-and-the-pacific-northwest-national-laboratory/"
+  - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
+    excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
+    publishedDateTime: 2024-01-30T12:39:00Z
+    webUrl: "https://realmoney.thestreet.com/markets/microsoft-amd-and-ai-s-big-night-an-unexpected-boost-no-growth-europe-16143042"
     type: article
     provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 31
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 33
+  - title: "Google earnings: 100 Million Google One subscribers, Google Cloud profits"
+    excerpt: "Alphabet's earnings call was yesterday, and as usual, the company took in a lot of money ($86.31 billion) thanks mostly to ad click-through rates being at a certain level. More interesting, though, are the product numbers tucked away in the report."
+    publishedDateTime: 2024-01-31T19:53:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/01/google-earnings-100-million-google-one-subscribers-google-cloud-profits/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 33
+  - title: "STELLA AUTOMOTIVE AI COLLABORATES WITH MICROSOFT TO ADVANCE AUTOMOTIVE RETAIL WITH GENERATIVE AI-POWERED TECHNOLOGY"
+    excerpt: "STELLA AI's fully integrated, AI-powered conversational assistant facilitates advanced voice interactions, thereby reshaping the customer experience and dealership operations. The collaboration enables automotive OEMs and their customers to create a holistic user experience through seamless integrations using conversational AI."
+    publishedDateTime: 2024-02-01T15:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955980.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
     images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2023/07/Artificial-Intelligence-e1691600019351.jpg"
-        width: 1089
-        height: 725
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Unlike Alphabet That Seems Locked In The AI Battle, Microsoft Shined With Its Quarterly Results"
     excerpt: "Google-parent Alphabet Inc (NASDAQ: GOOG)(NASDAQ: GOOGL) and Microsoft Corporation (NASDAQ: MSFT) reported their quarterly results."

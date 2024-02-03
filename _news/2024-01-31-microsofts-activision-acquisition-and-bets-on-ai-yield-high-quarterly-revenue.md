@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "'A masterpiece quarter': Microsoft's earnings show it's on the cusp of a years-long, trillion-dollar AI opportunity, Wedbush says"
-    excerpt: "\"This was another masterpiece quarter and guidance from Nadella that will send a major ripple impact across the tech world,\" Dan Ives wrote."
-    publishedDateTime: 2024-01-31T16:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-earnings-revenue-ai-opportunity-copilot-cloud-wedbush-dan-ives-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 55
-    images:
-      - url: "https://i.insider.com/65ba4e6f7a3d271488761559?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Rail Vision Reveals its Next Generation AI Computer for Railway Safety and Accident Prevention"
     excerpt: "The new development offers high performance and real time AI deep learning inferencingRa’anana, Israel, Jan. 30, 2024 (GLOBE NEWSWIRE) -- Rail"
     publishedDateTime: 2024-01-30T15:05:00Z
@@ -54,6 +40,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Microsoft beats market estimates with AI-driven quarterly profits, faces investor concerns on rising costs"
+    excerpt: "AI-related companies lost $190 billion in stock market value late on Tuesday after Microsoft, Alphabet and Advanced Micro Devices delivered quarterly results that failed to impress investors who have sent their stocks soaring."
+    publishedDateTime: 2024-01-31T02:13:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-beats-market-estimates-with-ai-driven-quarterly-profits-faces-investor-concerns-on-rising-costs/article67795258.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 36
 
 secured: "npuTELoM9kJz6Ck3l1vGpSwPYSEVDMdctUTQRwBBcc2KNybJvH3mDrLvjKmCqp4s7GpcDaHtsNzB5cTFQmIa4KACqpnHZ7KRuVKrnH0BnoKPp94bPv1AZiz32dJcy/g921fCVP6HSNMMslBUVRknCx9fNoletEB97hgUS9A5WZN72QDPtJHYlIwsdjyhRo+0IlkXyoDbH6IhL1UZ7J/X3Ty1Kp92SpuOdnnkn/9aAlvJ5I96ZcKJxGHkrnp81nhX5Bfyr3NcKlXBFPdMxjgf8Enf4E/7kM1qYtkUwCIIZn/lvBeFKBYZhVzf3kmVxc0TjMJJVxfKia8k861hsaBM1i2wyaJ19I3FqJOVMmQAwmY=;ManHAUkdnJeO0k+wFpPdJA=="
 ---

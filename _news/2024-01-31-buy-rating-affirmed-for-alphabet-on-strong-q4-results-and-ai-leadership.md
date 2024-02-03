@@ -23,10 +23,10 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft: A Strong Buy on Azure’s AI Growth and Robust Financials"
-    excerpt: "Macquarie analyst Frederick Havemeyer has maintained their bullish stance on MSFT stock, giving a Buy rating today. Frederick Havemeyer"
-    publishedDateTime: 2024-01-31T10:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-a-strong-buy-on-azure-s-ai-growth-and-robust-financials-1033014836"
+  - title: "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership"
+    excerpt: "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ..."
+    publishedDateTime: 2024-02-02T06:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803"
     type: article
     provider:
       name: Business Insider
@@ -41,15 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Kash Rangan Reaffirms Buy Rating on Microsoft, Citing Strong Q2 Performance and Azure Growth Prospects"
-    excerpt: "In a report released today, Kash Rangan from Goldman Sachs reiterated a Buy rating on Microsoft (MSFT – Research Report), with a price"
-    publishedDateTime: 2024-01-30T22:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kash-rangan-reaffirms-buy-rating-on-microsoft-citing-strong-q2-performance-and-azure-growth-prospects-1033012069"
+  - title: "Buy Rating for Amazon Backed by Strong Q4 Performance and AWS Growth Potential"
+    excerpt: "Colin Sebastian, an analyst from Robert W. Baird, maintained the Buy rating on Amazon (AMZN – Research Report). The associated price"
+    publishedDateTime: 2024-02-02T09:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-for-amazon-backed-by-strong-q4-performance-and-aws-growth-potential-1033024763"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 48
+    quality: 45
 
 secured: "piKijcpAbDdnBBCnBZIhE6MhLkYEAi6W+0omQB1njloRZuBfaHJbIjH6chGSdnt9HYOoYpwmMgwAALSbTQFWELZKn4qyyhElg3AmqfslixLHK1HrVT1zIGnMf1cxaMV/gc9J1rY3NCrGwxahR25+129/rzTEcFOxsVuTh7Ml7hfQntw6OpkHoLBYKHPBatL+DVceSAMUvM0o8wcTXW33gfMJG1sso424ZVK58n2oMNJ2cAjJeu6D0YBknBPQF7yc9GYKbqHZKlsXJ21d07HfxgQVXUGypIYQViZirKhjLCFezyQ0tUE5KrOwdcACxSrYHzpqVNXWV5YTlRZPoQTE/y5eaRAUJyfXBVjhf6jwCEI=;AT3T+X/XCW0d1M95zkbD/Q=="
 ---
