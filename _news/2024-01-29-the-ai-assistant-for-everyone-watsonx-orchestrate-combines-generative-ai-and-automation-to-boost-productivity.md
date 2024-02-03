@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orc
 webUrl: "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/"
 type: article
 quality: 114
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/643018c2560409b5b76ba1b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 833
-        isCached: true
-  - title: "10 Mind-Blowing Generative AI Stats Everyone Should Know About"
-    excerpt: "Discover the staggering impact of generative AI, from 75% of professionals expecting significant industry changes to 70% of Gen Z trusting AI for decision-making."
-    publishedDateTime: 2024-01-29T06:11:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/29/10-mind-blowing-generative-ai-stats-everyone-should-know-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b74f6f409f6c7459d4254b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1512
-        height: 900
         isCached: true
   - title: "IBM says generative AI can help automate business actions"
     excerpt: "A new program called SNAP uses large language models to predict the next most probable development in a process such as a loan application or an HR situation."

@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Generative AI Will Not Replace Your Employees"
-excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
-publishedDateTime: 2024-01-29T16:14:00Z
-originalUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
-webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
+title: "Starting Small: How To Successfully Experiment With Generative AI"
+excerpt: "Enterprises getting started with generative AI often suffer analysis paralysis before they can even begin using the technology."
+publishedDateTime: 2024-02-02T14:00:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
 type: article
-quality: 37
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Inc
-  domain: inc.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
-    width: 1024
-    height: 576
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65bbdb1e9f804c8e36494cf6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1125
+    height: 900
     isCached: true
 
 related:
@@ -68,22 +74,6 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b93b16980861665a65b341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
-        height: 900
-        isCached: true
-  - title: "Starting Small: How To Successfully Experiment With Generative AI"
-    excerpt: "Enterprises getting started with generative AI often suffer analysis paralysis before they can even begin using the technology."
-    publishedDateTime: 2024-02-02T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65bbdb1e9f804c8e36494cf6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1125
         height: 900
         isCached: true
   - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
@@ -153,6 +143,20 @@ related:
         width: 976
         height: 400
         isCached: true
+  - title: "Generative AI Will Not Replace Your Employees"
+    excerpt: "Recent studies suggest generative AI is yielding the highest payoff for companies by supplementing the efforts of workers--rather than replacing them. For example, MIT researchers found that decision-makers will weigh the cost of installing the technology and changing work processes against the benefits of replacing the worker."
+    publishedDateTime: 2024-01-29T16:14:00Z
+    webUrl: "https://www.inc.com/peter-cohan/generative-ai-will-not-replace-your-employees.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1724245041_536784_igrrfk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Use of generative artificial intelligence at UNIGE"
     excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
     publishedDateTime: 2024-01-30T12:44:00Z
@@ -219,6 +223,6 @@ related:
         height: 466
         isCached: true
 
-secured: "bYXbrzD09UmooaWXsqLmrXW6ILfrZDItSzrVYPUB8psTP3An9whGW6zY4InafXvuOCbtxbWFcBR1YXvgA1dGjYKbCK4PocgKeLRKzfZIQHLPUj/ddzKddJ5diBuICC4PVbuYq0Uvk+49dCdMtt4aQeUgnuGcwKKYKqh0+Js5hmyUquE1+AGuZjnUhvxnNQRATUhSvmAbsGQmOBrWF8QX+yYQMR+xUPqrRCHI2A97Kj09m6FQ6dofceI9kK7vRWPawl5fVOUpZovhkDiHHHUT0lwx9bMhYyYR05ANYi+8QcQ7lGZosAYWbw0k7oUa5RO7q5UHDqV5m0P7d9Hb+rnSdnf0JYc1/lmcQ5AyHlja+0zs+asXdnd8bdUY1zcgr+34Cbjqt+FEvu0iXswZr7W44rYYSEt8ZjOpCEE82C3QEKKpiblNokK5FJwXYJfpvPjanXSBMtsWYw+YR3xDfAbXkFG6WGvSJeI/whvtGg+BncmugW9mzk6ik2Yylsvs2tJ6Z1H4yj8lqrmJrB2UFKUpJQ==;tI7VvTIG8IAFl1HnKkW0pA=="
+secured: "kEvyVFEYH2HSYs1UK3D5hyPu4rzeESbJ0+7xESNKbgjberr5KTkwu0o596Do2n+OLuqwqxEz4XuzoKpaORHJmqjQqZleB8IzPfSVX4H+895uH1Ilk00V7vijFsen1VMWD+R30ndJjeo4hwvM+fOy7X1cUaG77zIrhtA2J7VOMQ8iiz4062ZtVGI/j8K/SUjSTxQNFWzIPdKVvAvx96FHbqsAJ4y73VKfBELRjrPl1De8aA9YC21Xihj4pRA8uAmuL04RFaY/yfR/whb1MNWVsfPhxNAnn0uPmKES6BXCHVSnwOHUhhCCh0JNzKv8WXWZB8NEJeufri/WKnNgtvncCgWYfziWaBMsIo1x9ObyCcA=;oIssCEAUY3fhJ6tj59oEdw=="
 ---
 

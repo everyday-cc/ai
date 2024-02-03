@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Using artificial intelligence in business"
+    excerpt: "(MASS APPEAL) – AI, or artificial intelligence, is everywhere and growing rapidly. But, as Jessica Curtis found out, it’s not just a tool for big corporations. It’s a powerful tool for small to medium sized businesses as long as they use it in a safe ..."
+    publishedDateTime: 2024-01-30T19:17:00Z
+    webUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/"
+    ampWebUrl: "https://www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    cdnAmpWebUrl: "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/using-artificial-intelligence-in-business/amp/"
+    type: article
+    provider:
+      name: WWLP-22News
+      domain: wwlp.com
+    quality: 61
+    images:
+      - url: "https://www.wwlp.com/wp-content/uploads/sites/26/2024/01/a-i.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
     excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
     publishedDateTime: 2024-01-30T02:59:00Z

@@ -28,35 +28,74 @@ images:
     isCached: true
 
 related:
-  - title: "AI breakthrough hope in missing man case"
-    excerpt: "A woman whose brother has been missing for 28 years says new artificial intelligence (AI) software has renewed her hope of finding him. Marcus Rigby, from Cumbria, went missing after moving to the West Country in April 1995."
-    publishedDateTime: 2024-01-29T06:09:00Z
-    webUrl: "https://www.bbc.com/news/articles/cq578jyexzno"
-    ampWebUrl: "https://www.bbc.com/news/articles/cq578jyexzno.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/articles/cq578jyexzno.amp"
+  - title: "How Indian Farmers Are Using AI To Increase Crop Yield"
+    excerpt: "Saagu Baagu shows AI's growing role in agriculture, helping developing-world farmers achieve sustainable and profitable practices."
+    publishedDateTime: 2024-02-01T10:41:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/2f9d/live/f1517f50-bc36-11ee-a4be-4d2d0c44a9c0.jpg"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bb73f8a637e4b346f8873d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 666
         isCached: true
-  - title: "H2O.ai Announces Breakthrough in Reducing Cost of Inferencing with Snowflake Integration"
-    excerpt: "H2O.ai, the open source leader in Generative AI and machine learning, today announced a significant breakthrough in reducing the cost of inferencing through its integration with the Snowflake Data Cloud. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20240129636509/en/"
-    publishedDateTime: 2024-01-31T18:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/31/9955246.htm"
+  - title: "6 Job Openings for Responsible AI and Ethics in India"
+    excerpt: "AI companies across India are making sure that they build AI systems while focusing on ethics and responsibility."
+    publishedDateTime: 2024-01-29T08:55:00Z
+    webUrl: "https://analyticsindiamag.com/6-job-openings-in-india-for-responsible-ai-and-ethics/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/6-Job-Openings-in-India-for-Responsible-AI-and-Ethics-.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
+    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
+    publishedDateTime: 2024-01-30T02:59:00Z
+    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
+    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
+    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
+    type: article
+    provider:
+      name: Skift
+      domain: skift.com
+    quality: 54
+  - title: "AI Boosts Crime Detection in Indian Railways with Facial Recognition"
+    excerpt: "AI Boosts Crime Detection in Indian Railways with Facial Recognition - Indian Railways has embarked on an innovative initiative to elevate passenger safety, with the"
+    publishedDateTime: 2024-01-31T17:42:00Z
+    webUrl: "https://www.siliconindia.com/news/general/ai-boosts-crime-detection-in-indian-railways-with-facial-recognition-nid-227645-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/k7Hfitcw.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "Tamil Llama Uncovering New Grounds in Indian Languages"
+    excerpt: "Tamil Llama, a pioneering language model that is specifically designed to understand and interact in Tamil, demonstrating significant advancements in computational linguistics, particularly for Indian languages."
+    publishedDateTime: 2024-02-01T10:59:00Z
+    webUrl: "https://analyticsindiamag.com/tamil-llama-uncovering-new-grounds-in-indian-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/image-3-1300x975.png"
+        width: 1300
+        height: 975
         isCached: true
 
 secured: "1fDBEqnEXJ1IoNzxh/FdWsL5mg6LlQu19FsPZJ4Q/j8OFzFFhzSrxrmY3fjpq6vpzXlf78wED7IfaXEBtKRDgCxqsAkwxR81N+CQXVcGpjl/6UItcinEibMHwTW1Ga/sWyNBf/bqBz1t6ARhZtnGeZR8R9EuExKaIbJ161+SVCsxrk+sG89VbF/sAtwB4Xj2qHUbFZTX+La5QKHBYNEMHF++NGBte0oxTxk0vc0UqsoMFHc+QuHZ0ftQgUjdemlnWNjI7yE2zgzYrDjUi3Ye+JNEaTRUfHcpq/n1csWQ+jPtd82KaHiv8iw+dpVpv0E4EQQNr9qzAdJwlTXOWgwYoz/B4/xuOhzHlwpUQexRT78=;GiR4IbnRpFz0js5NulsWRQ=="

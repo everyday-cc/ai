@@ -71,6 +71,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Starting Small: How To Successfully Experiment With Generative AI"
+    excerpt: "Enterprises getting started with generative AI often suffer analysis paralysis before they can even begin using the technology."
+    publishedDateTime: 2024-02-02T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bbdb1e9f804c8e36494cf6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1125
+        height: 900
+        isCached: true
   - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"
     excerpt: "This post was co-written with Ricardo Perdigao, Solution Architecture Manager at Mendix, a Siemens business. Mendix, a Siemens business, offers the low-code platform with the vision and execution designed for today’s complex software development challenges. Since 2005, we’ve helped thousands of organizations"
     publishedDateTime: 2024-01-31T17:25:59Z

@@ -150,22 +150,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
-    excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."
-    publishedDateTime: 2024-01-29T05:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-10-Mar-2023-10-52-AM-8936.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft results show benefits of AI on Azure"
     excerpt: "Nadella said research from Microsoft, as well as external studies, have shown businesses are able to achieve as much as a 70% improvement in productivity using generative AI (GenAI) for specific work tasks. “ Early Copilot for Microsoft 365 users were 29% faster in a series of tasks like searching, writing and summarising,” he revealed."
     publishedDateTime: 2024-01-31T07:00:00Z

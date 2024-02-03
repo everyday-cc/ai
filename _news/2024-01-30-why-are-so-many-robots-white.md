@@ -41,20 +41,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Why Are So Many Robots White?"
-    excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
-    publishedDateTime: 2024-01-29T05:47:00Z
-    webUrl: "https://za.investing.com/news/why-are-so-many-robots-white-2991784"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
 
 secured: "ePSJYlbFnsFB10lQiS3c63KUPH3Wha/KLHJlAQWenXQOM+u9FxnXxyDnXjBYAXP5vfbhtEcXxvvACzBkMHheNQEfTp5A28fJ0xeq3e+5aktA8+GihJAG0YYva6C66W7CXgKAC18/VTNvrpBirYzfaKKyCPHeAmLCzJQb1SVqR+qpny7GcMglpBCpSeTzKCXFN6iWiS2s4rHa0clSvUhO7qxdUHcUqSIDwuH7Ai7uL/mzXvnXNCXLsUEc9eJbkUpQ7ik7kFOfjmhQNlBsKxjwK0AGrar7a5fsx2I0TtPvKmvmkq4U94KHrG83AMsKK63nO518Iyu1gbq/fUfIQhcl7OlufKREnj7qLaJuxLnviCzTZH3FXuT5H+k6tR3JScg2BtoP+O9RE9jDvLLSPETlP107lYkhGou5gUuPHcfig6rIfJbNo8Tw7ih/Kjw4q9eBRAG9tL/bEty2vYz2fucEjyGgIQu+Vhu6dnX8btsvFuAW3QsXqMPuuWaO+vgpSR0PPEimYRUS19eEBFJ85iUdhA==;g1rGEGjIS2vW+/N/wz3iZw=="
 ---

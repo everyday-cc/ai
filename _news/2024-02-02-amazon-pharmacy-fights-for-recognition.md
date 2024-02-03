@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "UK House of Lords Calls For Legislation on Facial Recognition Tech"
+    excerpt: "The UK parliament’s upper chamber has said it is “deeply concerned” about unaccountable police use of live facial recognition (LFR) tech and called on the government to legislate. Baroness Hamwee, chair of the House of Lords Justice and Home Affairs ..."
+    publishedDateTime: 2024-01-30T00:00:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/lords-call-legislation-facial/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
 
 secured: "rcLz7T6h5cMRwmzUKHPimsUaoszRRvzkskGUKnU+sHJFukDwLuSOo7z0tgZTuoTSppgSAC+UD5JdiRWTiiCETPTZh7TaaS6EShjwf5PFIrEbOpTlFYzn+Q3Ehk26ptzbkx6tYSh0ikOw3NP3FCMP3+6JVRV76fuqDFRUJ/hasUMOb+SrkcG0VrRLxI7gyh8k7SUxLq5RH5epYRNC4n8grzPB+MykgHRDuaHVkinvM5q26xqdfwUq+skfPmmI7CLyfmy8f79AqV+8sLbKuZH+3knyQ+1/AEd31PXl74duMF6EHEbMZNdWgODt98Ij0ZqUmcZQe8S7fPGK94Rj8cETh44EAtsIWbYFb/UyT4k/1x8=;t7JE0FBLp6eEwKaeAZASLA=="
 ---

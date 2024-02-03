@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b93b16980861665a65b341/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
+        height: 900
+        isCached: true
+  - title: "Starting Small: How To Successfully Experiment With Generative AI"
+    excerpt: "Enterprises getting started with generative AI often suffer analysis paralysis before they can even begin using the technology."
+    publishedDateTime: 2024-02-02T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/starting-small-how-to-successfully-experiment-with-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bbdb1e9f804c8e36494cf6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1125
         height: 900
         isCached: true
   - title: "How Mendix is transforming customer experiences with generative AI and Amazon Bedrock"

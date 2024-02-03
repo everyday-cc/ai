@@ -139,22 +139,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Microsoft CEO Satya Nadella to visit India in February, may meet AI start-ups"
-    excerpt: "During his visit, he met some of the key customers, start-ups, developers, not-for-profit organisations, and students. Sources told Moneycontrol that founders of some of India’s prominent AI start-ups including Lightspeed and Peak XV-backed Sarvam ..."
-    publishedDateTime: 2024-01-29T05:51:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/microsoft-ceo-satya-nadella-to-visit-india-in-february-may-meet-ai-start-ups-12142671.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/03/Collage-Maker-10-Mar-2023-10-52-AM-8936.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft, OpenAI in Talks to Fund Figure AI’s Humanoid Robots"
     excerpt: "Microsoft and OpenAI discuss investing up to $500 million in Figure AI Inc. The deal could value Figure AI at $1.9 billion."
     publishedDateTime: 2024-01-31T05:58:00Z

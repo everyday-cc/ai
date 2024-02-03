@@ -78,6 +78,6 @@ related:
       domain: assemblymag.com
     quality: 21
 
-secured: "Ezx9amVwcpva/Innoxkg2qcfZRPL2IMgamQfhNP6UOGeiaUeixJKnZUE5aygQvjzhr1IQbZkTsG+RF7W9+fb0F3QMbNiWYuxgSbChfmklehgVFvnkYGeanDRX2CO6QwaEdd/apgwgm9Zxgnd75FFxIIZg3c74dmfIXIK00R+TIWj+9WjXsbQv9qjdJffJ3bN3s8YvfHE67y6+u06APa0c3CX3pXRUvcKsTBApvA+Amq+1KrernXI7uGiqYuLXYSEYivkh4HoWpdoe1GXxKbM9WAMv+TFIIqAzNsafHbWji7uFQVfmA9DsdejhNl3HFmmEmxJ8OKJTn4EJascj3UhBbgO0nGvF+Ot6zo0Xd0hEn8=;efqBra7qN0vjW/MHx2G7Xw=="
+secured: "URSZnBSj8AIbdTVdNSpqWj967W+D846C9QvkXRaR5PH3IjAlA2dfirNf/caSPY2sU9syNZA9MaGXwCTiGexSvyD+zfL34ob2p+X7cOVCskvEePKOe25Y5p1+rJ4rG6hBu1S3F94oJSB/+L5hrYr+3Z1pM9IO0ye0a6QAgezhz75yS6EcA3h0LdgUxgBPKfLBsoloR3NDcSj5UZTEmH5pUkdQimipf0fQmq6LWrTwpXVCN1P7NkUxOieT+/dLkLhb+7Iw5xB58TLt4FDa59hjJK15l/KuL6abcJNz4q8+bbNfQ0y9R29LKotv5JMhbk/ZTSFrPMzaB4q1El56v0lKt7EGoh4Is4w5nmkdx5mATzE=;7+Yth2ZWki/p1BOJzgd/7w=="
 ---
 

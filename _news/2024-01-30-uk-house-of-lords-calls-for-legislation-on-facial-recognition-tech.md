@@ -19,51 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Southampton trials facial recognition cameras in pubs and clubs"
-    excerpt: "Facial recognition cameras are being trialled to help stop those banned from pubs and clubs gaining access. The scheme, which is taking place in Southampton, is running for three months across six venues."
-    publishedDateTime: 2024-01-29T06:18:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-hampshire-68071705"
-    ampWebUrl: "https://www.bbc.com/news/uk-england-hampshire-68071705.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-hampshire-68071705.amp"
+  - title: "Amazon Pharmacy Fights For Recognition"
+    excerpt: "It sounds terrific. Amazon uses licensed pharmacists who check every order before it goes to a customer. Importantly, the service is accredited by both the NABP Digital Pharmacy and URAC Mail Service Pharmacy until January 1, 2027."
+    publishedDateTime: 2024-02-02T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/122D5/production/_132435447_onlinevidimage2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Facial recognition cameras trialled in Southampton nightclubs"
-    excerpt: "Live facial recognition cameras are being trialled to help stop banned individuals entering pubs and clubs. The scheme is running for three months across six venues in Southampton, Hampshire. It has been brought in after businesses found previous offenders were still getting into night-time venues due to fake IDs or human error."
-    publishedDateTime: 2024-01-29T06:27:00Z
-    webUrl: "https://www.bbc.com/news/uk-england-hampshire-68104580"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ADA5/production/_132435444_p0h78pp4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Facial recognition for cows"
-    excerpt: "A horse is a horse of course of course,” goes the old Mr. Ed TV theme song, and while a cow is a cow, it’s important for ranchers and farmers to be able to tell them apart. For"
-    publishedDateTime: 2024-02-02T23:10:00Z
-    webUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
-    ampWebUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 59
-    images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/406-BOVINE-APP.jpg?w=1280"
-        width: 1280
-        height: 896
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bc0c6761f7d8f74b3eb8dd/0x0.jpg?format=jpg&crop=1613,907,x0,y247,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "oQMFFzEk2+TQbqHpKImauFgTNtFj7BdOGBtL2wYjX8mK7JMeMVXVnjL66kSWnOKXf8enKrNd8oGKPMvyg3x8/juSf/Y4W1cjFYoiayNnW1ZVj8r4pSiAI/ogWl1svjwoinj16yV0OF/4QYPwVCrmIWxbK4wOPnEPlNxLLBcu5IKGkRorri3UAgxm4PxbN+44MYsT1sB5itHJHt/DHjmSzeK1oHs0XTtEAzmEW/5+0DrDXXgjSsac2BhEDS9vIycXwvNVvavTdhpuqkvRaK+ktsEpjSz8HXJw7F18zMJRf11TKnPcHA4Pii3aNJWis5QVAZAzYkAlwwc+tQotJIAEpGnr4qwQtUmlB2XgVFHJoEo=;p8vnTMe4pbdP3oRjiqnxzw=="

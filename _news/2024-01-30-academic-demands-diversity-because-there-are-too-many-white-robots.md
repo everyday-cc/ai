@@ -9,8 +9,8 @@ ampWebUrl: "https://torontosun.com/news/weird/academic-demands-diversity-because
 cdnAmpWebUrl: "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/weird/academic-demands-diversity-because-there-are-too-many-white-robots/wcm/70d5a22f-4dc7-44b7-8e60-ed020ca91a75/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Toronto Sun
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why Are So Many Robots White?"
-    excerpt: "The robots are already being used to help people on the autism spectrum, children with special needs and stroke patients who need physical rehabilitation. But these robots do not look like people or interact with people in ways that reflect even basic aspects of society’s diversity."
-    publishedDateTime: 2024-01-29T05:47:00Z
-    webUrl: "https://za.investing.com/news/why-are-so-many-robots-white-2991784"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 39
-    images:
-      - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
-        width: 251
-        height: 282
-        isCached: true
   - title: "Why are so many robots white?"
     excerpt: "Problems of racial and gender bias in artificial intelligence algorithms and the data used to train large language models like ChatGPT have drawn the attention of researchers and generated headlines."
     publishedDateTime: 2024-01-30T04:00:00Z
