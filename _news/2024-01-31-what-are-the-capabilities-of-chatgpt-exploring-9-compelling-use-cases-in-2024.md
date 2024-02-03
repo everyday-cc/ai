@@ -28,124 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024"
-    excerpt: "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now."
-    publishedDateTime: 2024-01-29T03:30:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
+  - title: "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond"
+    excerpt: "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being."
+    publishedDateTime: 2024-02-02T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 98
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1416
         height: 900
         isCached: true
-  - title: "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction"
-    excerpt: "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice."
-    publishedDateTime: 2024-01-31T15:00:00Z
-    webUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction"
+  - title: "Artificial Intelligence: The New Eyes Of Surveillance"
+    excerpt: "While artificial intelligence systems continue to be hyped in 2024, the risks posed to data privacy can no longer be ignored."
+    publishedDateTime: 2024-02-02T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/artificial-intelligence-the-new-eyes-of-surveillance/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
+  - title: "The Future of AI: A 2030 Odyssey - Humans, Machines, and the Gray Areas in Between"
+    excerpt: "Embark on a journey into the potential future of 2030, where specialized AI takes center stage, revolutionizing everything from morning routines to medical diagnoses. Explore the delicate balance between human and machine collaboration,"
+    publishedDateTime: 2024-01-31T07:08:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2772839-the-future-of-ai-a-2030-odyssey---humans-machines-and-the-gray-areas-in-between"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2772839-the-future-of-ai-a-2030-odyssey---humans-machines-and-the-gray-areas-in-between?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2772839-the-future-of-ai-a-2030-odyssey---humans-machines-and-the-gray-areas-in-between?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 53
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/11_01_2024_16_20_45_2516472.png?width=1280"
         width: 1280
-        height: 720
+        height: 849
         isCached: true
-  - title: "Is Siri an AI? Will Apple embrace ChatGPT and modern AI?"
-    excerpt: "Apple released Siri over 10 years ago, but has it fallen behind new AI chatbots like Bard and ChatGPT? Yes, but here's how Apple may catch up."
-    publishedDateTime: 2024-02-01T08:40:00Z
-    webUrl: "https://www.androidauthority.com/is-siri-ai-3409932/"
+  - title: "Emerging trends in artificial intelligence that will shape 2024 and beyond"
+    excerpt: "At the commencement of a new year, as organisations worldwide embark on a journey of innovation and transformation, it’s important for business leaders to reflect on the previous year and anticipate the trends that will shape their corporate environment."
+    publishedDateTime: 2024-01-31T00:43:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-opinion/emerging-trends-in-artificial-intelligence-that-will-shape-2024-and-beyond.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 86
+      name: ITWire
+      domain: itwire.com
+    quality: 35
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Siri-telling-a-joke-on-iOS-17-Standby-Mode-scaled.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://itwire.com/media/k2/items/cache/fc0948bf63ee21e15078f70a0a5eeeef_M.jpg"
+        width: 375
+        height: 250
         isCached: true
-  - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
-    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
-    publishedDateTime: 2024-01-31T22:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "AI Game-Changers: ChatGPT vs. Llama"
-    excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
-    publishedDateTime: 2024-01-31T18:26:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2024/01/31/458569-ai-game-changers-chatgpt-vs-llama.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 58
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5577802624-ChatGPT.jpg"
-        width: 870
-        height: 580
-        isCached: true
-  - title: "Google Bard finally lets you create AI-generated images, like ChatGPT and Bing"
-    excerpt: "Google has announced a new update for Bard that finally lets users create AI-generated images with a text prompt."
-    publishedDateTime: 2024-02-01T17:03:00Z
-    webUrl: "https://bgr.com/tech/google-bard-finally-lets-you-create-ai-generated-images-like-chatgpt-and-bing/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 52
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
-        width: 1536
-        height: 864
-        isCached: true
-  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
-    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
-    publishedDateTime: 2024-02-01T18:29:00Z
-    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
-    excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
-    publishedDateTime: 2024-02-01T15:01:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-dall-e-now-google-bard-can-generate-images"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tVFLtdy3rkXtwzXdyXGSai-1200-80.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
-    excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/code-llama-beats-chatgpt-at-coding/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 21
 
 secured: "L1eXj9lI1Vz7budud0sIyH9VX7qTWoY8yqKXgCRExjltY4zoXywqBz8m5P+3ZJNL4DS5e7yz7U6FrtAa21XP14H+pSbNSjsIL7SZXjcAEy39saC9SA+9L5ZuFBctVgGQ3XI/tg4VWqav58p37VwkcyUKhTyD5AwYghkCQ3fm2MXN6WiyayVQTD/GoMgbBqaC8avkphc9iXbt3+wWzh8ot/usw60+anjNNM1XpOjcsDHJxJeGt5pWQR4ZAAtK8OTQkWldYiI0IS7whoRi+o4oTEjCJ4rVbD3vBHewjc0DFouMDsS8lWM8ZOhVUjNzbnZrsssIVXsv9HSjLXNR+Ppd5IoigoOgEqDPTD/BzQrQY5s=;i7JyslC3MlM4e27s6NZpyg=="
 ---

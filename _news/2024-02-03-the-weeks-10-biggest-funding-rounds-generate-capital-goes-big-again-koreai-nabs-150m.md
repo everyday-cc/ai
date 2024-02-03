@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-02T16:29:00Z
 originalUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
 webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"

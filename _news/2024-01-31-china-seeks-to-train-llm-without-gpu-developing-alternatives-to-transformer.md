@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-roc
 webUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-rockai.html"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 336
     height: 224
     isCached: true
-
-related:
-  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
-    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
-    publishedDateTime: 2024-01-31T07:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Siemens and AWS Join Forces to Democratize Generative AI in Software Development"
-    excerpt: "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications."
-    publishedDateTime: 2024-01-29T19:27:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws-democratize-generative-ai-software? Control News & Articles"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 49
-    images:
-      - url: "https://www.automation.com/getmedia/619bfd18-e231-4303-9092-9bdf36a2bbee/Siemens-news-Jan-29-2024-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
-    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
-    publishedDateTime: 2024-01-31T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 17
 
 secured: "QCbRe6rW5+nrfRgGdhKfxspcGb7UwDzzYOxXFA+jn4z3gLkVWMeJmZ4LZ/Q7HfkPp+/W4zey0Z0G5YAt8dkoK0+GmtjZeYSPtRD/2RGIvEFthEnidlqulZ0rx5t/pzBOaCbxHxtee7i3rXhDPj3IZSQdmUZtzID+b4nNqqGrsoDL8o8d+KzlaxZwBH9omifJbMfs81xQ9APXZ5eegDlk1UdVwzyHv6EMF9ZYomRB6RXQbd2v/f3556db9nRl+GKFw37TWU7JmxfVMO5Vf6Y2sdGdkt4IcostTAagDqOo0gqs+Qnyyq3NbcgDUOFppTTX8HABwJsnK/edpuonjsqfWtvxmqh8v6WXjVhUFAZRL+0=;Pw/Rhc3ieFPZsxq/+KieFw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-01T19:46:00Z
 originalUrl: "https://news.crunchbase.com/ai/accounting-startup-investors-datasnipper/"
 webUrl: "https://news.crunchbase.com/ai/accounting-startup-investors-datasnipper/"
 type: article
-quality: 17
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+    width: 900
+    height: 506
+    isCached: true
 
 related:
   - title: "Tech execs are telling investors they have to spend money to make money on AI"
@@ -49,6 +56,6 @@ related:
         height: 600
         isCached: true
 
-secured: "GOOnWoT5szE2Jr9knMNTA46DOyeWYTfhi/H7wX3K4HMDGjgPPnjnT8ihbnSCqiMgyYYveJbitMgMuTXK5M8FARlCcxxp8q3Gv4/XjvJsM+Ffs61//IFnd2Lj1TqMTuvXvfNc1LxkTmo1zsqIO6St9STR/DNBH0CgMeGlzMHJk+lwe+e8JKtC83SU/4s75a2G12z0lkoMpWsYjDQpSeGUbW4X1tdzJ9b7g3CrNSsIE4Am4ab0HdD0LeRkhe0aNdrVxmb7iLofPSbMN6/QDKCfYNHWfv+/pHE875OAx8g5/keDWpImHVgrzRTufx3+3d4Mxs0FPf1mauWdLSCT+EZ0GN7EzauguhtWik54w1J2QslZSJOGQge8KHO+ZBJUsYWZpG5Jwo0qmfYQrKNEG8O/+IrUwUj5QznhObA89RycGliCO7i1PBol15BDO1dsuk4GT+TuPx1l/Ltv9db7q3MnEISml0Bpp8y/ZHeNpuIbXq4DLcZUTSn32YQWa/MmQ+0BUA4DU0CWARSZSedsjMel0g==;9jVrUKcX6rmGMv6H+gpljQ=="
+secured: "YVbPNxjzU70rzxRUhdC9BKsBE5FN6Aws68F27QVY2FCrNQAu/cFZdf8965G8ZjRYwpBU6wZCEmiZytKi081YmTj4nHql+9WDo1m1+b2Gu7Vo++r0YdAhUsn29VHGp7rH+aOt83tZx/xh7I2mDXmTW/lJuMba9/wdhsq2nSzF2OhY0JjeW1JBJT2PpavUrVaTov/LKNYrTRXXyaPLexoZj80F3vtG53q4Nvc9Z32ODURy1jjbsrr5NlQ2P65GkUS3fv0Lx2RyZGKM/lOFYpJ76/xWlKXI0jSAiuTyF8XaSuFicEcC8OfcSR3OCKb4MnP+ymZ1mZaKSnnVDI0rx12KGuWWvKscslh6RC6GkKwtjGk=;/GvdgeG0fCyIbhnAMiJPVw=="
 ---
 

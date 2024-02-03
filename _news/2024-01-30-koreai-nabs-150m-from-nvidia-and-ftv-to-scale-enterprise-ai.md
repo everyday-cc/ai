@@ -100,7 +100,7 @@ related:
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
         width: 900

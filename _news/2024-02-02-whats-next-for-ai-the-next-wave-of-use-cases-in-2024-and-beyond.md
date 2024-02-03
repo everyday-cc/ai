@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/"
 type: article
 quality: 89
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6374e010b4a17bf67ee85854/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
+    excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
+    publishedDateTime: 2024-01-31T12:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/articleshow/107296536.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The Future of AI: A 2030 Odyssey - Humans, Machines, and the Gray Areas in Between"
     excerpt: "Embark on a journey into the potential future of 2030, where specialized AI takes center stage, revolutionizing everything from morning routines to medical diagnoses. Explore the delicate balance between human and machine collaboration,"

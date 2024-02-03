@@ -46,6 +46,22 @@ related:
         width: 1416
         height: 900
         isCached: true
+  - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
+    excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
+    publishedDateTime: 2024-01-31T12:42:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/articleshow/107296536.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The Future of AI: A 2030 Odyssey - Humans, Machines, and the Gray Areas in Between"
     excerpt: "Embark on a journey into the potential future of 2030, where specialized AI takes center stage, revolutionizing everything from morning routines to medical diagnoses. Explore the delicate balance between human and machine collaboration,"
     publishedDateTime: 2024-01-31T07:08:00Z

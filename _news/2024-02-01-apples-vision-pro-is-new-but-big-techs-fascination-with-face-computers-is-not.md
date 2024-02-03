@@ -43,6 +43,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Create images with Adobe Firefly AI for Apple Vision Pro"
+    excerpt: "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app."
+    publishedDateTime: 2024-02-02T15:57:00Z
+    webUrl: "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro"
+    ampWebUrl: "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 59
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "10 reasons not to buy an Apple Vision Pro"
     excerpt: "I'm not buying Apple Vision Pro yet, and I don't think you should either. Here are ten reasons not to buy Apple's spatial computer."
     publishedDateTime: 2024-01-30T21:57:00Z

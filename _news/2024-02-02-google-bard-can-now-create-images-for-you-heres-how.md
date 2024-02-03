@@ -80,15 +80,6 @@ related:
       name: Latest on SAYS
       domain: says.com
     quality: 19
-  - title: "You'll Need to Pay to Use Google's Best AI"
-    excerpt: "It doesn't cost anything to sign up for ChatGPT or to try out Google's AI bot, Bard, meaning anyone can experience the artificial intelligence hype for themselves. Now, Google is jumping on the bandwagon. During its Q4 earnings call, the company confirmed ..."
-    publishedDateTime: 2024-02-01T00:00:00Z
-    webUrl: "https://lifehacker.com/tech/what-is-google-bard-advanced"
-    type: article
-    provider:
-      name: Lifehacker
-      domain: lifehacker.com
-    quality: 19
   - title: "Meta’s Latest Update To Code Llama Transforms The Leading AI Programming Tool Into Its Largest And Best Performing Model Yet"
     excerpt: "Meta's Code Llama 70B tool surpasses ChatGPT-3.5 with 53% accuracy, promising advanced programming assistance."
     publishedDateTime: 2024-01-30T10:01:00Z

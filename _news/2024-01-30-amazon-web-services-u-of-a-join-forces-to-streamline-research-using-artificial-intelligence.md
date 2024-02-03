@@ -7,7 +7,7 @@ originalUrl: "https://edmonton.ctvnews.ca/amazon-web-services-u-of-a-join-forces
 webUrl: "https://edmonton.ctvnews.ca/amazon-web-services-u-of-a-join-forces-to-streamline-research-using-artificial-intelligence-1.6747460"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Siemens and AWS Join Forces to Democratize Generative AI in Software Development"
+    excerpt: "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications."
+    publishedDateTime: 2024-01-29T19:27:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws-democratize-generative-ai-software? Control News & Articles"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 49
+    images:
+      - url: "https://www.automation.com/getmedia/619bfd18-e231-4303-9092-9bdf36a2bbee/Siemens-news-Jan-29-2024-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
     excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
     publishedDateTime: 2024-01-29T15:02:00Z
@@ -34,6 +48,33 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "PTP Aims To Acquire Channel Companies To Drive AWS And AI Growth"
+    excerpt: "AWS partner PTP is acquiring channel companies in 2024 to drive Amazon Bedrock, generative AI, GenAI and life sciences customer sales."
+    publishedDateTime: 2024-01-31T16:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/ptp-to-acquire-channel-companies-to-drive-aws-and-ai-growth"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "Udemy Announces Generative AI Roadmap For Accelerated, Personalized Skills Development"
+    excerpt: "Udemy (Nasdaq: UDMY), a leading online skills marketplace and learning platform, today announced a series of generative AI (gen AI)-enabled offerings designed to support personalized learning and enhanced skills development."
+    publishedDateTime: 2024-02-01T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955677.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
+  - title: "Freshworks Inc: Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
+    excerpt: "This SCA aims to provide AWS customers with new ways to purchase and use Freshworks' solutions, including industry-specific, artificial intelligence (AI)-powered business applications to be hosted on AWS. The collaboration brings together the benefits of ..."
+    publishedDateTime: 2024-01-29T12:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61255907-freshworks-inc-freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "mERE8Pts42QhRvvMobZ4ZszKgtYFoZbWzAbTWSM6XnEhKF/zTwalvtXBQ8OAVH6AQDuTQGsm1novxLS6JFVRoVJUuNmGgdRtnV86sf5pft4gxLsL8V+9EgBVxLX3rZ8q2iZDgeFkX19GHMxdLJDYOolq8uk3zm+Szp3Af3rAAasF5uOq3YjqN3uosxCPHIlBGdhI+RWkE+0IpbxZVZx7R7h0YY7siiBvzg2ai+A2BYxuZgMR6zlkQ0LSDL33O7o7CwmtV80Mf4j3JF4Lg6tDHNoKfZ2Mxh77CZ1qMz3y+jOJXcN5xBiObXP6NsA0hwHBEFSkjZZ3EJwT+//fykBSLM+oY+Li8MjpNKTc+omOk2/1OVqWnRiARK3rKEL4va2EaYjT3R41L1ZCy7hcJUkq39kDxD/SL6je9b2VUOQVEPTgRdWxX3uMxtAN5692ayJsQ8PluHQ4HkpVdp2Ntmya0kSVuQ6pO2IE+4wDH3yzSSd304WJoW5X47yELr3Lgqm5l10MX67RRHFmV3k1J2WQCQ==;8TVrQygPqxyn7b2/BJmIXg=="
 ---

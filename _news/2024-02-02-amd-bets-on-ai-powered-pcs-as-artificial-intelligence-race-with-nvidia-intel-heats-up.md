@@ -2,25 +2,26 @@
 category: news
 title: "AMD bets on AI-powered PCs as artificial intelligence race with Nvidia, Intel heats up"
 excerpt: "U.S. chip giant Advanced Micro Devices is betting on AI PCs as competition with rivals Nvidia and Intel intensifies"
-publishedDateTime: 2024-02-02T05:41:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/5098383/?amp=1"
+publishedDateTime: 2024-02-01T21:41:00Z
+originalUrl: "https://www.nbclosangeles.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/"
+webUrl: "https://www.nbclosangeles.com/news/national-international/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/"
+ampWebUrl: "https://www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
+cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/business/money-report/amd-bets-on-ai-powered-pcs-as-artificial-intelligence-race-with-nvidia-intel-heats-up/3328785/?amp=1"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbclosangeles.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -204,6 +205,6 @@ related:
       domain: barrons.com
     quality: 3
 
-secured: "E+8um8C8LoVXCZ1Lx6AGUb1GK0e13oTBuBbcHgh6Z1SdC9DB6rFOaiRPRX1e3b23AMEh21fGq3qslQDoAxRlebi/HUq3FAVeOLYM5Die1bchqivuKHgyvX+25O4R2ZqfYylB556OidvOcuuqWE3HuqODUtABhH5hpV4+7dhGXVY/EWiZwaF6DyY4KYzR8AZYjobZL2b82vJGQs2WTYkYZv3kZulwaHMJh7FS/b59FiXu4QesuWSFGYVxo4oHNOb9i5Z2OjP71/gAdiVbrMrS4LKJkfOv1j7KyWhBdOdEJ35XhB4JPWK1xQisFMbZoAo5xurRc4G+pKL7h4KC2Mu4nZRbx0KdycFfnXTPL2NsGf0=;XNTPckxJeTRVp9aDvxOy7g=="
+secured: "yZizQqJr4qDxg44YAeg8h/RrvLoY3lEk6jZXGJfIaMj2xgtQXQ3jiYiaHyAm1te2nxDdvSHJU/7rCZYGr+RrQ/XPrCmg8L92t3p2lYkQu7YsqQTSQ8ybsqOjXnPOLUcCpBIOJC8AG0h1bhWgadNBpVQCV0mIN/llMiPqoMng1ca5vxc1agpw90cCLxgnvVmERcmhucNhMiN7nACQ7bDazGPzT9QGizRK3MONRtvWZEZ7dYXadSp2h9BcfOGe59li/iD7Km/EZuPJIWfWfIlHixUQ9URb55tf20S6wnJs60Li1FbD5wur3cN/xslkW1EKud0ky0Vn7ijso0RMKC9AzJh665nVLvtrPR6uFIzfbEA=;wDed0RfacohEsb6ou+oLmw=="
 ---
 

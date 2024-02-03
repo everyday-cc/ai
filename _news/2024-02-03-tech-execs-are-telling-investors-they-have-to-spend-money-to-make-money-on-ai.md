@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Will Be Doing More Accounting If Startup Investors Have Their Way"
+    excerpt: "Investors have pumped billions into startups developing software to automate bookkeeping, auditing, compliance and tax filing. Now, increasingly, they’re turning AI to the task."
+    publishedDateTime: 2024-02-01T19:46:00Z
+    webUrl: "https://news.crunchbase.com/ai/accounting-startup-investors-datasnipper/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Best Execution and Investments in FinTech Shape the Market"
     excerpt: "While generative AI has not yet had a material impact on IT spending, investment in AI more broadly is supporting overall IT spending growth, according to the report. “Tech spending is the only thing that continues to go up, even in times when market ..."
     publishedDateTime: 2024-02-02T00:00:00Z
@@ -45,15 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "AI Will Be Doing More Accounting If Startup Investors Have Their Way"
-    excerpt: "Investors have pumped billions into startups developing software to automate bookkeeping, auditing, compliance and tax filing. Now, increasingly, they’re turning AI to the task."
-    publishedDateTime: 2024-02-01T19:46:00Z
-    webUrl: "https://news.crunchbase.com/ai/accounting-startup-investors-datasnipper/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 17
 
 secured: "StTXgEJV0N5XyfncxyTRwbIvsJfn48r0iXZ3JKUYEwfigHf6wTzxT2uXTr5om76kTNYzeeB2idMtkXce407L3E0wI1U4jmc+aBF0jTvnG4TcoNB15j5ifn2O5IXZtK+0wmp66d6muJmum6BsA5V9fG7ZK3DbZ1/DqV0gUc2UQ7+Mqx7JL8TPVA9v1l3V5fJ7FH+tfSDQVOGm+uIriisJ5pdrpLCCMwgeEEvRKnV+DjxNmXIjXd9lm+9Iz2hXKSdrjp7mgcrYhmtApRhsjiC4zzfHWQA7RgU7D665pIiNSvgtnGB399Bs+bfql9dXA63wrhSfYc7vWZjppRe0g4b5Qffzv6neTL2qWkuqOxVL97VTnDOXBteK4JHrrwHWhTTixuYU+VipYYkAcDro3FsedLvyebL0+//V60KHogs7gV+rcAIWF0fPUd4dqElrhwmVQ/g6dskwmUfHGiaB+AvYde/CbJEsUrz2QQR8EzrQ6el2IjwWMgu7vb+TEMKAi0vlcrqwvHpCJn9v2AisXkrvgg==;g0jDV9HlO8D+/9F2BagsSA=="
 ---

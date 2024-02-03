@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Apple, Amazon, and Facebook-Parent Meta Report Earnings"
-excerpt: "Meta is raising the upper end of its capital-expenditures budget range for the year Late Thursday, the company said it expects its full-year 2024 capex will be in the range of $30 billion to $37 billion."
-publishedDateTime: 2024-02-02T14:35:00Z
-originalUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo?siteid=yhoof2"
-webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-boosts-its-spending-plans-for-2024-it-may-be-good-news-for-nvidia--dRwAbF7R9LGAWzaOYvVo?siteid=yhoof2"
+excerpt: "Shares of Meta Platforms headed for record levels on Friday following the social-media company's earnings report as Wall Street analysts rushed to raise their target prices on the Facebook parent, convinced by a positive advertising outlook,"
+publishedDateTime: 2024-02-02T10:17:00Z
+originalUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-stock-heads-for-a-record-high-wall-street-applauds-earnings--C6vc9iyGFhOEqNMUQEuz?siteid=yhoof2"
+webUrl: "https://www.barrons.com/livecoverage/apple-amazon-meta-facebook-earnings-stock-price-today/card/meta-stock-heads-for-a-record-high-wall-street-applauds-earnings--C6vc9iyGFhOEqNMUQEuz?siteid=yhoof2"
 type: article
 quality: 4
 heat: -1
@@ -63,6 +63,6 @@ related:
       domain: seattletimes.com
     quality: 3
 
-secured: "9NtrDeNbqQ6SVP3Bm5ZGSV9StwaeGcTjr6m8RzFgvkOMQP9eBfrdQVSNPNXpEaYr8rIowHHJwVkWBY/t2lfpPUYMH6fLBzO8J/hazj34A/L0GLzv8gsB9qI2rkgV5IU22RVZ9IJGAk/3xlvvPT+eLtxyRuox/PM0zULvBnAhI+Wy1NT9NuGBVNwM6uYxEWu0EpncD1qMvv7Z3ZIlBA4xST64DGWHZl2YumPugLC8JtkvBYPMznYPzX0yJ/kLRZTuU9FcxooNTWv7u/V9bBYw1DNJ7CrjA6h488eG59ZzBQdDglAj4LX8cjHktUne0CLZzzQyLkNAqEugrLy7hN4FiFzJgv4PRpVxjz1FkTgzjHU=;OGrESAQJNncYHrBu2nucXw=="
+secured: "07t53/EQglx2+zVOOZ2ipnKx+Q8SpPn+dXA7Nd5UkY9tJV1ACoFwtsz8ZEYV8pA/PZjW5UUn3yd/jjxqpXFAgbnqzyUvj/iU8T9+dGPaVuLHF4HJ5qYoq1On5Z3q5/PJJl1U5j6/lWYdf8xnKGOIjtdl+Kus7SHVIi69k45RkBegKJ9MFqCOGHsZcfJ+kvaY/EhxePf8dJdPvzl6mTnU61TLVwHQt4V8pZ0k+A2FOm4EMi65ZDqsXjmLjStIVpmRnUc4Ni5bgndOB7V4EuplLtMhBVJkPYxbaefmemqW/BS7dbSIOdP/DHuhEoidAbbD+CWVRRKxnOkHAriTKzb5KAy2vKu3gQ/Fe1JsVbCWwLQ=;GhZ2iyih+YXvZcFQybriTA=="
 ---
 

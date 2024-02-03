@@ -19,29 +19,61 @@ topics:
   - AI
 
 related:
-  - title: "Cevo signs strategic collaboration agreement with AWS"
-    excerpt: "Melbourne-headquartered CRN Fast50 company Cevo has signed a three-year strategic collaboration agreement with Amazon Web Services (AWS). Cevo said the \"multi-million dollar\" agreement will allow the firm to leverage AWS modernisation,"
-    publishedDateTime: 2024-01-31T22:31:00Z
-    webUrl: "https://www.crn.com.au/news/cevo-signs-strategic-collaboration-agreement-with-aws-604648"
+  - title: "Siemens and AWS Join Forces to Democratize Generative AI in Software Development"
+    excerpt: "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications."
+    publishedDateTime: 2024-01-29T19:27:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws-democratize-generative-ai-software? Control News & Articles"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
+      name: Automation
+      domain: automation.com
+    quality: 49
     images:
-      - url: "https://i.nextmedia.com.au/News/CRN-handshake-deal-agreement-iStock_000038374680_Medium.jpg"
-        width: 460
-        height: 285
+      - url: "https://www.automation.com/getmedia/619bfd18-e231-4303-9092-9bdf36a2bbee/Siemens-news-Jan-29-2024-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
-  - title: "Cevo inks three-year, multi-million dollar SCA with AWS"
-    excerpt: "AWS Advanced consulting partner Cevo has inked a strategic three-year, multi-million dollar collaboration agreement (SCA) with AWS. Part of the deal will see Cevo strengthen its core practice areas of modernisation,"
-    publishedDateTime: 2024-01-31T13:52:00Z
-    webUrl: "https://www.arnnet.com.au/article/1303013/cevo-inks-three-year-multi-million-dollar-sca-with-aws.html"
+  - title: "Amazon Web Services, U of A join forces to streamline research using artificial intelligence"
+    excerpt: "The University of Alberta has forged a partnership with Amazon Web Services to launch an artificial intelligence discovery place."
+    publishedDateTime: 2024-01-30T00:37:00Z
+    webUrl: "https://edmonton.ctvnews.ca/amazon-web-services-u-of-a-join-forces-to-streamline-research-using-artificial-intelligence-1.6747460"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 19
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 43
+    images:
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/1/29/amazon--u-of-a-team-up-on-ai-project-1-6747461-1706574575649.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
+    excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
+    publishedDateTime: 2024-01-29T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-1033005842"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+  - title: "PTP Aims To Acquire Channel Companies To Drive AWS And AI Growth"
+    excerpt: "AWS partner PTP is acquiring channel companies in 2024 to drive Amazon Bedrock, generative AI, GenAI and life sciences customer sales."
+    publishedDateTime: 2024-01-31T16:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/ptp-to-acquire-channel-companies-to-drive-aws-and-ai-growth"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "Udemy Announces Generative AI Roadmap For Accelerated, Personalized Skills Development"
+    excerpt: "Udemy (Nasdaq: UDMY), a leading online skills marketplace and learning platform, today announced a series of generative AI (gen AI)-enabled offerings designed to support personalized learning and enhanced skills development."
+    publishedDateTime: 2024-02-01T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955677.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 11
 
 secured: "HlJuSRFENADERZ/wvZkBHVr0ugK6lzzYocxBX4NoYgCOTh3FSWwaQHt33aDlV3IYNIxV6Ur+067fYFpR3hAW2A/FyIyBXGwbayXxL9ExTfDfDipmdlEwIpqXPsC41cu2+sBZ8lbkU3efL+uk3+NlYK3ogTuFjYLzeaR9JAkq4DzkMeDVVbea3AYD4VOMa5p3rfRDJ2hF/4axKvAq8NK8lhPqw3wwhIGPZZQnrvcNn2WmQLlOm0rjAV5V2bNBek43tcQKuepiSklrXDPeqqc9LuNknVoRgd3TWM2lBg2PdOpsuBHgpqgCfwJk5uQZBNk/81YauidAj8NBx6WkRCa+ipwCwoIV+W+TJpVS1emeuuc=;iUefZCpBa7owsrcNy3I1XA=="
 ---

@@ -101,6 +101,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google Bard finally lets you create AI-generated images, like ChatGPT and Bing"
+    excerpt: "Google has announced a new update for Bard that finally lets users create AI-generated images with a text prompt."
+    publishedDateTime: 2024-02-01T17:03:00Z
+    webUrl: "https://bgr.com/tech/google-bard-finally-lets-you-create-ai-generated-images-like-chatgpt-and-bing/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 52
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/bard-image-generation.jpg?quality=82&strip=all"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "Google Bard updated with image generation, support for Indian languages"
     excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
     publishedDateTime: 2024-02-02T10:28:00Z

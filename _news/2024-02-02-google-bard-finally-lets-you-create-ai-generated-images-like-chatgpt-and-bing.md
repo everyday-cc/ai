@@ -26,126 +26,171 @@ images:
     isCached: true
 
 related:
-  - title: "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024"
-    excerpt: "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now."
-    publishedDateTime: 2024-01-29T03:30:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/"
+  - title: "Google launches an AI-powered image generator"
+    excerpt: "Google has launched a new image generation tool, ImageFX, powered by its recently released Imagen 2 GenAI model."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/"
+    ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 900
-        height: 900
+      - url: "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1337404394.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction"
-    excerpt: "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice."
-    publishedDateTime: 2024-01-31T15:00:00Z
-    webUrl: "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction"
+  - title: "Yelp launches revamped feed with AI-powered business summaries"
+    excerpt: "Additionally, Yelp now uses AI to show a summary of a business when you open its ... and more interactive review topic categories to help users get started with a review. The platform will start showing the badges next to a user’s review in the next ..."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/"
+    ampWebUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 87
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2024/01/New-iOS-Home-Feed-Experience.jpeg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Is Siri an AI? Will Apple embrace ChatGPT and modern AI?"
-    excerpt: "Apple released Siri over 10 years ago, but has it fallen behind new AI chatbots like Bard and ChatGPT? Yes, but here's how Apple may catch up."
-    publishedDateTime: 2024-02-01T08:40:00Z
-    webUrl: "https://www.androidauthority.com/is-siri-ai-3409932/"
+  - title: "Google’s Bard AI Adds Image Generation with Gemini Pro & Expands Language Support"
+    excerpt: "Google has recently improved its Bard AI by adding Gemini Pro and a new image generation feature. These updates aim to make Bard more useful in different languages and regions, providing users with better tools."
+    publishedDateTime: 2024-02-02T11:29:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/02/bard-ai-now-supports-gemini-pro/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 86
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 64
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/08/Siri-telling-a-joke-on-iOS-17-Standby-Mode-scaled.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/Bard-Image-Generation.gif"
+        width: 600
+        height: 600
         isCached: true
-  - title: "ChatGPT’s latest feature brings different AI “personalities” into a single chat"
-    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
-    publishedDateTime: 2024-01-31T22:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+  - title: "Google Bard Gets Big Upgrade; Can Generate AI Images, Supports More Languages"
+    excerpt: "Apart from adding image generation capabilities, Google has also expanded Bard to more than 230 countries and territories. Additionally, it now supports more than 40 languages including Arabic, Bengali, Tamil, and Urdu. Previously, it was available in 170 countries and only supported English."
+    publishedDateTime: 2024-02-02T12:48:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-bard-ai-image-generator-supports-over-40-languages-new-update-4981039/amp"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "AI Game-Changers: ChatGPT vs. Llama"
-    excerpt: "Artificial intelligence enjoyed a breakout year in 2023 as improvements to machine learning and natural language processing made AI much more practical to use, driving widespread adoption of generative AI chatbots like ChatGPT."
-    publishedDateTime: 2024-01-31T18:26:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2024/01/31/458569-ai-game-changers-chatgpt-vs-llama.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: gadgets360
+      domain: gadgets360.com
     quality: 58
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-jan/5577802624-ChatGPT.jpg"
-        width: 870
-        height: 580
-        isCached: true
-  - title: "What are the capabilities of ChatGPT? Exploring 9 compelling use cases in 2024"
-    excerpt: "ChatGPT employs machine learning and natural language processing techniques to examine text from various sources such as books and articles. By leve"
-    publishedDateTime: 2024-01-31T12:42:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/articleshow/107296536.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/what-are-the-capabilities-of-chatgpt-exploring-9-compelling-use-cases-in-2024/amp_articleshow/107296536.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107296560,width-1280,height-720,resizemode-4/107296560.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
-    excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
-    publishedDateTime: 2024-02-01T18:29:00Z
-    webUrl: "https://venturebeat.com/ai/google-bard-gets-image-generation-and-a-more-capable-gemini-pro-to-take-on-chatgpt/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 45
-  - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
-    excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
-    publishedDateTime: 2024-02-01T15:01:00Z
-    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-dall-e-now-google-bard-can-generate-images"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/tVFLtdy3rkXtwzXdyXGSai-1200-80.png"
+      - url: "https://i.gadgets360cdn.com/large/google_bard_image_generator_1706877744448.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Code Llama 70B beats ChatGPT-4 at coding and programming"
-    excerpt: "Developers, coders and those of you learning to program might be interested to know that the latest Code Llama 70B large language model released by Meta and specifically designed to help you improve your coding. Has apparently beaten OpenAI’s ChatGPT ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/code-llama-beats-chatgpt-at-coding/"
+  - title: "Google’s Bard AI can now generate images, gets updated fact-checking capabilities"
+    excerpt: "The most eye-catching new feature is undoubtedly image generation. Users can now describe an image to Bard in natural language, and it will conjure up a custom visual. This leverages Google ’s updated Imagen 2 model to produce high-quality, photorealistic images on demand."
+    publishedDateTime: 2024-02-02T07:51:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/google-bard-ai-image-generation-upgrade-9140466/lite/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 21
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 54
+    images:
+      - url: "https://images.indianexpress.com/2024/02/Hero_10_1.width-1200.format-webp.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google's Bard Now Features AI Image Generation"
+    excerpt: "(RTTNews) - Alphabet Inc.'s (GOOGL), Google has recently added an AI text-to-image generation feature named ImageFX in its Bard chatbot. ImageFX is available on Google's AI Test Kitchen, an experimental platform that allows users to interact with Google's projects while they're still under development."
+    publishedDateTime: 2024-02-02T21:21:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-s-bard-now-features-ai-image-generation-1033026514"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Google Bard updated with image generation, support for Indian languages"
+    excerpt: "Google’s Bard chatbot is finally adding the image generation feature it announced in a blog post released on Thursday. Bard, which is now powered by the Gemini Pro large language model, was always supposed to have image generation. Users can now prompt ..."
+    publishedDateTime: 2024-02-02T10:28:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/google-bard-updated-with-image-generation-support-for-indian-languages/article67804008.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/j2ys2i/article67803977.ece/alternates/FREE_1200/IMG_Google_2_1_1FBO6532.jpg"
+        width: 1200
+        height: 875
+        isCached: true
+  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
+    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
+    publishedDateTime: 2024-01-30T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+  - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
+    excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
+    publishedDateTime: 2024-02-02T07:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/google-adds-image-generator-and-more-to-ai-chatbot-bard-know-details-124020200509_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Google powers up Bard with Gemini Pro and releases new AI tools"
+    excerpt: "Google’s new standalone ImageFX tool, also powered by Imagen 2, was added to the company’s AI Test Kitchen, a place where the company allows public access to experimental AI tools. Google also updated MusicFX, a text-to-music AI model that allows users to make songs."
+    publishedDateTime: 2024-02-01T18:24:00Z
+    webUrl: "https://siliconangle.com/2024/02/01/google-powers-bard-gemini-pro-releases-new-ai-tools/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Bard_Generated_Image-Gemini-Twins.png"
+        width: 1536
+        height: 970
+        isCached: true
+  - title: "How to Use Google Bard’s Free AI Image Generator From Anywhere"
+    excerpt: "Google Bard has a new AI image generator that's easy to use for anyone in the US. Even if you're not, we can suggest a tested workaround."
+    publishedDateTime: 2024-02-02T16:22:00Z
+    webUrl: "https://tech.co/news/use-google-bard-ai-image-generator"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/02105942/AdobeStock_602890609_Editorial_Use_Only-1-e1706889628126.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
+  - title: "Google has a new AI-generated profile picture on X, and it's as creepy as you'd expect"
+    excerpt: "Bard helps with logical reasoning, general facts, math problems, and has recently upgraded its backend to Google Gemini. In celebration of these milestones, Google changed its profile picture to an AI-generated image, resembling a surrealist painting, which could be a reference to its rival DALL-E."
+    publishedDateTime: 2024-02-01T22:24:00Z
+    webUrl: "https://www.androidpolice.com/google-ai-generated-profile-picture-creepy-as-youd-expect/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 31
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-bard-hero-variation.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "fJym0mMJ5W8T1dbCyKwplcEtV859B5JUf0q6ik7d3nON8JEbXRN16wnv/0Zk9Xl0WkfouWSSPvI5iWYGk0RqPBs0ONkrNSMvowoXNt+swBqY+AwRwFlrEbWiPZBeVR010ZPCTZTh8j2MOTTZiZw0T3F7I8bUOLsTTFT0PQc3YmOHfRgiD+EbjqhLcaO3d6BrKd48zJIQQT+cfOztqekR+xwGRxYBRAOpVySCAZN8HACH7ABmvH9oANOZTefYdcIYT0Ic/FSPYAxd8F3YR+Pk6NwbWh0b7jHedSTiUCzBYjq4aEvGdI7u4Z/SDYQuIjTPLkwX9F5pS+9QCZcWr8ffll56HIywTy9UPRScVj2bYhRmm1m/SCuUIsR8JYo0kL0eiortPOXsmbhhbpRPwz0qdMI92FdamLXOoWTu1HNnX6BkFx3ddsVYdZeIgcRnWO7n37fK7rrWcOo/60S8CFRXXYG5Vua+kebpY0FHYkoXw2EtN6f77yFuo83uQpwlxsqgoHITW4WpEYeLJKEszFBmwA==;KeGcujRfOi4Z9V6RkJHMgg=="
 ---

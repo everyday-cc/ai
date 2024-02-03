@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Meta may save billions from its second-gen custom AI chips"
+    excerpt: "Meta Platforms plans to deploy a new iteration of its custom chip in data centres to enhance AI capabilities and reduce expenses. The chip aims to integrate generative AI products across Facebook, Instagram, WhatsApp, and Ray-Ban smart glasses. Meta ..."
+    publishedDateTime: 2024-02-03T03:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-meta-may-save-billions-from-its-second-gen-custom-ai-chips/articleshow/107371740.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-meta-may-save-billions-from-its-second-gen-custom-ai-chips/amp_articleshow/107371740.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-meta-may-save-billions-from-its-second-gen-custom-ai-chips/amp_articleshow/107371740.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107371739,width-1280,height-720,resizemode-4/107371739.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meta Platforms to deploy in-house custom chips this year to power AI drive - memo"
     excerpt: "Meta CEO Mark Zuckerberg last month said the company planned to have by the end of the year roughly 350,000 flagship \"H100\" processors from Nvidia, which produces the most sought-after GPUs used for AI. Combined with other suppliers, Meta would accumulate the equivalent compute capacity of 600,000 H100s in total, he said."
     publishedDateTime: 2024-02-02T02:00:00Z

@@ -43,6 +43,20 @@ related:
         width: 978
         height: 673
         isCached: true
+  - title: "ASEAN launches guide on responsible AI governance"
+    excerpt: "The Association of Southeast Asian Nations on Friday launched a guide on the governance of artificial intelligence and ethics, se"
+    publishedDateTime: 2024-02-03T04:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20240203/p2g/00m/0in/018000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2024/02/03/20240203p2g00m0in017000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qZAPm7sbblEDaDg5PHPo9/UNR6cS9cN5SVoZHxGUN0rSLqYrhwQ7i4ud01NdZ/dE+nwR+vBPQKnswAQRzHCs4gwg+e9ioq+GgsFlBB/ZlDs/8eTegx03MqMoy/V3SkdoFJxpYtZjUltAvSy/rg75fBeo9ZWk6Du/TCTAPNRPfRat3sbKER9SmfEXa2gSd9RQr4ZrZ/56DUadSjR3HYBaCEgKQhVafgpDtK16cB4hWyOrZ0lyWXleTb7GYWhwVth0I/NOLXj+y9GTJzSSOuB7ZAeRoPPdHyTl88rbdkI3mZXo6nTBPkML5P2lMoKDbK0GetAi6uz6ZOWAgahWmN/u70+i0ogpypqNoK07RKq6S93yUBatDP2WNCU5roa4VKV3jhsjhNsaTXqB1IBsX0v/wdrs+dBk87xAEjjYWVieMmJsNxMdj3AfeKOhapnTjTXjq4mtrwGAt5CDth7xt0rs+w1FM02qwzQOej9uD4bzVFY9uCdxXtJ+G6h90l8syU24qtkO7/dkq3TXwevKYKgEtg==;l0FjZkXydiAJEhdREjfKEA=="
 ---

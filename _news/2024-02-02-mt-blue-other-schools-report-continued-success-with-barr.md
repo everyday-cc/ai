@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-01T23:00:00Z
 originalUrl: "https://www.sunjournal.com/2024/02/01/mt-blue-other-schools-report-continued-success-with-barr/"
 webUrl: "https://www.sunjournal.com/2024/02/01/mt-blue-other-schools-report-continued-success-with-barr/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "6J1D3KbYrkchG2eJWvMK2Y0G8BIXXhL3QwpL2BGIQj1O/0kWwXR09+qRd4mJpG8X/dNSfBBusMe94qympna5gdzMaVrPrEP8eHQyLAOZGU216icOoIKkZUn5NGNseNCOb9I7Uo+VlgXmecl2kM+q9JPClhZS2VekJ+sN+v3pHxN7vUWrN4bVBxVyqj6gA4bF+0YSU7v4uBOPyBProFs7DP95zGZ8uB6x9SumXISzGF+UxKPrfqyv4CDE7aFMEHAq0AAv3Ip/k2PU0J3iMjzb7dT360Mk3HjHLh8jcrnvd1mM+WaRY7naLeCSvx+gn6qqjY8UccjsurjTXW2aYVRr59oW1mnlqIElSDDno4EG4hw=;d/X6Zy3kobUtxGghf4MegA=="
+images:
+  - url: "https://www.sunjournal.com/wp-content/uploads/sites/11/2024/02/417248028_1539281026858474_7719954674456105937_n-1706790556.jpg?w=1024"
+    width: 1024
+    height: 768
+    isCached: true
+
+secured: "kbL/ph73RTKCnzMRAAQAqxEMeHJpKnbFioTjXFcidDfceasFMn4v0TivyTEjNH2X++Y6jHUPn7IvYZzBFDIyKG+IpAsZ9gQ6W0u5LCjD0q8RHDXS0jCINhNJT8aObqYdMdheu7ktfrFEbzVgzMM0sIQyn0DKayoj/YSliqos68rHtT26c8bPxO5k/9Wk3slhAnaFBPN9CiEd68qz7lDG+aNvXhCiOwtf6c7lgJmYwdKF/izJ5Srzey3FpQ0g56I4QpWeefVZLlMz+quDsQsLsk0qjpgwgD4CxyoahqmQnfeV4hAAZae+0TOHojmnN6iXhW7M0lBfdVuE0iwANPiwe174q8gsncwUD7MxN9KN7os=;+rheZgHnZ6e79uL2QJNgAw=="
 ---
 

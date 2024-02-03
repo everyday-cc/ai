@@ -59,6 +59,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Forget ChatGPT and DALL-E — now Google Bard can generate images"
+    excerpt: "If you don’t want to use Bard for some reason or prefer standalone tools, then Google is also releasing ImageFX, an experimental standalone image generator built on the Imagen 2 model through its Labs service. Imagen 2 will also power Duet AI in Workspace."
+    publishedDateTime: 2024-02-01T15:01:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-and-dall-e-now-google-bard-can-generate-images"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/tVFLtdy3rkXtwzXdyXGSai-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google introduces text-to-image generator, Imagen 2 to Bard with Gemini Pro expansion"
     excerpt: "Google Bard to support text-to-image generator, Imagen 2. Know how it will work along with Gemini Pro expansion."
     publishedDateTime: 2024-02-02T06:31:00Z

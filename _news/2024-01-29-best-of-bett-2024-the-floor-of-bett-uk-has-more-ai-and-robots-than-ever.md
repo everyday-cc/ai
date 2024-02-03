@@ -57,20 +57,6 @@ related:
         width: 1256
         height: 900
         isCached: true
-  - title: "After Davos 2024: From AI hype to reality"
-    excerpt: "Post Davos, we stand at a crossroads where stewardship and innovation can steer us to a future where AI technology amplifies human potential."
-    publishedDateTime: 2024-01-29T03:15:00Z
-    webUrl: "https://venturebeat.com/ai/after-davos-2024-from-ai-hype-to-reality/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/humanoid_robot_pondering_the_meaning_of_life_da-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Predictions For 2024: Things To Know About AI And Workplaces"
     excerpt: "If I could add a prediction for peace here, I would be eager to do so, but because I can’t, I will instead share that peace is my most fervent wish for us all this year."
     publishedDateTime: 2024-02-01T14:15:00Z

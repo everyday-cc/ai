@@ -27,100 +27,80 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI launches ChatGPT app for Apple Vision Pro"
-    excerpt: "OpenAI launches ChatGPT, a multimodal AI app that lets users chat with text, images, and voice on the Apple Vision Pro, the augmented reality headset powered by visionOS."
-    publishedDateTime: 2024-02-02T23:20:00Z
-    webUrl: "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/"
+  - title: "Apple's Vision Pro's Path To Success"
+    excerpt: "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future."
+    publishedDateTime: 2024-01-30T14:56:00Z
+    webUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/"
+    ampWebUrl: "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_someone_wearing_an_augmented_reality__7fb3b876-414e-4175-ab9e-4b1dd5fe2f4a-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8081c3e8172e6bfb9d845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "ChatGPT’s new @-mentions bring multiple personalities into your AI convo"
-    excerpt: "OpenAI introduced GPTs in November as a way to create custom personalities or roles for ChatGPT to play. For example, users can build their own GPTs to focus on certain topics or certain skills. Paid ChatGPT subscribers can also freely download a host of GPTs developed by other ChatGPT users through the GPT Store."
-    publishedDateTime: 2024-01-31T22:34:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/01/chatgpts-latest-feature-brings-different-ai-personalities-into-a-single-chat/"
+  - title: "Apple’s Vision Pro is new, but big tech’s fascination with face computers is not"
+    excerpt: "Apple's Vision Pro could get more people introduced to the world of VR - some very familiar ideas but implemented in such a way that gives a realistic view of what is there and what’s about to come."
+    publishedDateTime: 2024-02-01T04:34:00Z
+    webUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/"
+    ampWebUrl: "https://indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/apples-vision-pro-is-new-but-big-techs-fascination-with-face-computers-is-not-9138034/lite/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 83
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 39
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/01/at_juggler_2-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://images.indianexpress.com/2024/02/Apple.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard"
-    excerpt: "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread"
-    publishedDateTime: 2024-01-29T07:34:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms"
+  - title: "10 reasons not to buy an Apple Vision Pro"
+    excerpt: "I'm not buying Apple Vision Pro yet, and I don't think you should either. Here are ten reasons not to buy Apple's spatial computer."
+    publishedDateTime: 2024-01-30T21:57:00Z
+    webUrl: "https://bgr.com/tech/10-reasons-not-to-buy-an-apple-vision-pro/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 76
+      name: BGR
+      domain: bgr.com
+    quality: 24
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg"
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-wwdc-2023-ios-17-reality-282.jpg?quality=82&strip=all"
+        width: 1600
+        height: 885
+        isCached: true
+  - title: "Why Tim Cook Is Going All In on the Apple Vision Pro"
+    excerpt: "Inside Apple Park, the tech giant’s CEO talks about the genesis of a “mind-blowing” new device that could change the way we live and work."
+    publishedDateTime: 2024-02-01T11:00:00Z
+    webUrl: "https://www.vanityfair.com/news/tim-cook-apple-vision-pro"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 24
+    images:
+      - url: "https://media.vanityfair.com/photos/65bac158ddd1100ab8b9630f/16:9/w_1280,c_limit/042024_Apple_opener.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT"
-    excerpt: "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters."
-    publishedDateTime: 2024-01-29T10:18:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt"
+  - title: "13 best visionOS apps to download when you get your Apple Vision Pro"
+    excerpt: "Here are the 13 best apps available for Apple Vision Pro at launch, whether you want to play a game, boost your productivity, or relax."
+    publishedDateTime: 2024-02-02T01:02:00Z
+    webUrl: "https://bgr.com/tech/best-apple-vision-pro-apps/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
-  - title: "Summarization and ChatGPT: a look at Silverman v. OpenAI"
-    excerpt: "Larrea, Daniel M. Barabander and Lucille Dai-He of Cravath discuss questions raised in the case of Silverman v. OpenAi, Inc. over summarization with ChatGPT."
-    publishedDateTime: 2024-02-02T16:35:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/summarization-chatgpt-look-silverman-v-openai-2024-02-02/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "OpenAI in talks to invest in robotics startup Figure — could we see ChatGPT powering robots soon?"
-    excerpt: "During a recent episode of Bill Gates’ podcast, OpenAI CEO Sam Altman revealed that the company is already and would continue to invest in robotics companies."
-    publishedDateTime: 2024-01-31T13:02:00Z
-    webUrl: "https://www.tomsguide.com/ai/openai-in-talks-to-invest-in-robotics-startup-figure-could-we-see-chatgpt-powering-robots-soon"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 55
-  - title: "A tutor shares 3 rules for writing college application essays, including how to use ChatGPT the right way"
-    excerpt: "A Stanford grad who runs a tutoring business shared his rules for students writing their college application essays — and how they should use ChatGPT."
-    publishedDateTime: 2024-01-29T12:13:00Z
-    webUrl: "https://www.businessinsider.com/how-to-write-college-application-essays-chatgpt-tutor-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
+      name: BGR
+      domain: bgr.com
+    quality: 24
     images:
-      - url: "https://i.insider.com/65b3d08bf4b446f3be9d3de3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://bgr.com/wp-content/uploads/2024/02/apple-vision-pro-best-apps-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
-  - title: "ChatGPT violated European privacy laws, Italy tells chatbot maker OpenAI"
-    excerpt: "Italian regulators say they informed OpenAI that its ChatGPT artificial intelligence chatbot has violated European Union’s stringent data privacy rules."
-    publishedDateTime: 2024-01-30T13:45:00Z
-    webUrl: "https://www.seattletimes.com/business/chatgpt-violated-european-privacy-laws-italy-tells-chatbot-maker-openai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 33
 
 secured: "vF3Nfggs+hi51Asr4Eua2glCnTmhSfwoBxfMqYRg7G2FXD2CK+NAGIsEra2FBS86lklmCTHPjDbV8isRqW49ktVfeb+aRg0Z7H5MgmV/cxRYALhiMX36ZDSwmK+Ztr1NoIUTV1LpZcvcR0s4snNYdIuGYVN/2GNJ3IxoGuvpkpYoVw1I7B4n9BxcDLwaarpcuKSHIg0sLciLyaY8uJhA5TqaVgvJNh1/AvbkTgF6mNtZnr85lAtcJ2KBsVFdJK9ZzaK7bH99xZjJin//bt30lPgacJB3McLAx9R8ahAV9F9nBS3ZYWx+Hu7xOU7YVrk7wzASe6/b5w9h1pXnt/NErcal5nOoqJ5mPJ+ujv6HTt4=;by41dqrEP0FxVHVYyehNZA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-a
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://media.nbcphiladelphia.com/2024/02/107367446-1706750789333-gettyimages-1441688102-dscf6739.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ASEAN launches guide on responsible AI governance"
+    excerpt: "The Association of Southeast Asian Nations on Friday launched a guide on the governance of artificial intelligence and ethics, se"
+    publishedDateTime: 2024-02-03T04:00:00Z
+    webUrl: "https://mainichi.jp/english/articles/20240203/p2g/00m/0in/018000c"
+    type: article
+    provider:
+      name: 毎日新聞
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2024/02/03/20240203p2g00m0in017000p/0c10.jpg?1"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "nkVpiwgYMtEU/+eXdE/g4yMrJH6K48TyhXr0nURWqPzVJdXXznKM+Kjwb8AHtXLgJ3J+ToVkWNIdpty71M7JAd7O/QrLmyDKL75Jg5TOz9nMq+HEwIjrO7It7AbZ3VyYsuy3TpCMT7vFQioBxb30huqG0Kr/Iz9h4U9h8OxqHn811Kp4boiQwFIaD/xQpUtHfRUSbSH+Fu14/wAga4VFyanYed6d8jbn6UFpxrlJ/XnJmRgZMoTyPrf2Ok79KJsCjNkKJSUYchTxB+PcjTdJPKOXzlWYif8Y4fBDNTiGRexEIbJoSbH2q+FhlvjwLgV0S71rZ6lamXtAqAMLV0HBjYpQQr5pLS1bTY4OtmaaheY=;jZA+Q50lYlQ6pKYiBip+CQ=="

@@ -49,7 +49,12 @@ related:
     provider:
       name: news.crunchbase
       domain: crunchbase.com
-    quality: 17
+    quality: 39
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/AI-1.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "AsxfSZURpOzycEc6NK8zZxww7PE6gKiRYE0jWFbsW40JcP2BSW7MRZdmzsSZd7Iobr2D1Lzq/8DVhOrsLxeBXBI2IpH5Lc8G5AGkgByHeC+CSQ883LJr7DvYYX1aeg8+9jkqBgOh0ZYBhfNRNL/P4mPFSWLTLQvX17agohCu/7upXGek5HIfSO7Kp0aFZU2M1ctXLKcALpQcd5qJflsJcW2LVaMgnHEbG8XKAJeKOW+AsGbsELwbaQ+TsB++O5y/RLpE43nl7ZILsuAFM3Zmo8YPJcdNv5mAwD6C7sa8Nwp4oWLieGTcXctygjO3lZxgb1igZC9loOZ6EeYuMDuzAG4YCXASaBLUCh7aRalmlGJk7jcx7zI8/9/qV2Gb7ui02NCQ5Nd37ePZ73ILXg5cbNpRyY+5ZdGHVfc3qjTCKGIqHYgcrBIF/DX5sLdmG/hi8wSSGueNGtu6eL78AvGRwZBEuF+8l1l/j2/6/VUec4zPlH5weVEHzutncYVRTa/mwEouszERtw/EzFTH4jCpTw==;fYwX9X8VF2NZw/0a3Adf3A=="
 ---

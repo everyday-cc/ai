@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws
 webUrl: "https://www.automation.com/en-us/articles/january-2024/siemens-aws-democratize-generative-ai-software? Control News & Articles"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,45 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Empowering AI Development: Monster API's Answer to Fine-Tuning Challenges"
-    excerpt: "Monster API opens the door to powerful Generative AI models, catering to various use cases like code generation, conversation completion, text-to-image generation, and speech-to-text transcription. The REST API design facilitates the swift integration of these capabilities into diverse applications, meeting the evolving needs of developers."
-    publishedDateTime: 2024-01-31T07:17:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2785333-empowering-ai-development-monster-apis-answer-to-fine-tuning-challenges?amp"
+  - title: "Amazon Web Services, U of A join forces to streamline research using artificial intelligence"
+    excerpt: "The University of Alberta has forged a partnership with Amazon Web Services to launch an artificial intelligence discovery place."
+    publishedDateTime: 2024-01-30T00:37:00Z
+    webUrl: "https://edmonton.ctvnews.ca/amazon-web-services-u-of-a-join-forces-to-streamline-research-using-artificial-intelligence-1.6747460"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 58
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 43
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_01_2024_16_33_41_9409286.png?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2024/1/29/amazon--u-of-a-team-up-on-ai-project-1-6747461-1706574575649.png"
+        width: 640
+        height: 360
         isCached: true
-  - title: "China seeks to train LLM without GPU, developing alternatives to Transformer"
-    excerpt: "With the emergence of AI smartphones and AI PCs triggering a wave of terminal AI applications in 2024, Chinese companies, mindful of the high demands on computational power, memory, and energy consumption posed by large language models (LLMs),"
-    publishedDateTime: 2024-01-31T08:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20240131PD214/china-llm-gpu-ai-rockai.html"
+  - title: "Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
+    excerpt: "Freshworks Inc. (NASDAQ: FRSH) announced today that it has signed a multi-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to develop and expand Freshworks’ capabilities on AWS."
+    publishedDateTime: 2024-01-29T15:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-1033005842"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240131pd214_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "LG CNS Launches 'AI Center' to Pioneer Initiatives in Enterprise AI"
-    excerpt: "SEOUL, South Korea, Jan. 31, 2024 /PRNewswire/ -- LG CNS, a leading DX (Digital Transformation) company, has established its 'AI Center' specialized in enterprise AI through the consolidation of its AI technology research, business development and operation organizations."
-    publishedDateTime: 2024-01-31T14:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-lg-cns-launches-ai-center-pioneer-initiatives-enterprise-/2024/01/31/9954860.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
+  - title: "PTP Aims To Acquire Channel Companies To Drive AWS And AI Growth"
+    excerpt: "AWS partner PTP is acquiring channel companies in 2024 to drive Amazon Bedrock, generative AI, GenAI and life sciences customer sales."
+    publishedDateTime: 2024-01-31T16:55:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/ptp-to-acquire-channel-companies-to-drive-aws-and-ai-growth"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 34
+  - title: "Udemy Announces Generative AI Roadmap For Accelerated, Personalized Skills Development"
+    excerpt: "Udemy (Nasdaq: UDMY), a leading online skills marketplace and learning platform, today announced a series of generative AI (gen AI)-enabled offerings designed to support personalized learning and enhanced skills development."
+    publishedDateTime: 2024-02-01T14:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/01/9955677.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 17
+    quality: 11
+  - title: "Freshworks Inc: Freshworks Announces Strategic Collaboration Agreement with AWS to Increase the Reach of its AI-boosted Software-as-a-Service"
+    excerpt: "This SCA aims to provide AWS customers with new ways to purchase and use Freshworks' solutions, including industry-specific, artificial intelligence (AI)-powered business applications to be hosted on AWS. The collaboration brings together the benefits of ..."
+    publishedDateTime: 2024-01-29T12:35:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-01/61255907-freshworks-inc-freshworks-announces-strategic-collaboration-agreement-with-aws-to-increase-the-reach-of-its-ai-boosted-software-as-a-service-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "4PXR7QiDyNK8Y5u8CbfWOXXyZ+t8PWnI/Ibaw61mWWkrSyD0BteFzqNs9Zd/ANM5PpQQrZW14W9q0CYwkXOP5JFopYZMNwF028gh6eZIGbAmd3tJuiCXCSHbDsyxfT7t5+PYw4x66crRzhrfccX9Sqo3qdqxP8VIUyXJeqxwojjvv/+lj8wmPibL4z0EAbbFA4mYxIvpGfm2HUcK2n1XdCv0wk7swuUWHn1M41xwGXuL9RBNq18iKVzLDY3APZQ4it4W19kAUFHXdoQwD4ZpGagHomVuLqHb8xOxEVQQ252c36+e4LR69O7xS84xZsG2PTHzFNxO6I6ZoE8T3fXGwwAuWn0Ed+BmWJ2QN4ZrVMI=;GV39lB/7jzJ5ifQoup69Vg=="
 ---

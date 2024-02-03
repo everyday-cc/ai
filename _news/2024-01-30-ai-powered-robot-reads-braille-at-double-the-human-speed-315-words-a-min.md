@@ -34,48 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 66
-  - title: "Robot trained to read braille at twice the speed of humans (IMAGE)"
-    excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers. Disclaimer: AAAS and EurekAlert! are not responsible for the accuracy of news releases ..."
-    publishedDateTime: 2024-01-29T05:01:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/1013207"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e0364dda-1617-4216-8aa3-55a31a28b380/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Robot trained to read braille at twice the speed of humans (VIDEO)"
-    excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to read braille at speeds roughly double that of most human readers. (Note: this video is at 2x speed) Disclaimer: AAAS and EurekAlert! are not responsible for ..."
-    publishedDateTime: 2024-01-29T05:01:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/1013206"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e0364dda-1617-4216-8aa3-55a31a28b380/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Robot trained to read braille at twice the speed of humans"
-    excerpt: "Researchers have developed a robotic sensor that incorporates artificial intelligence techniques to ... slide over lines of braille text. The robot was able to read the braille at 315 words ..."
-    publishedDateTime: 2024-01-29T05:02:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1032552"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/e0364dda-1617-4216-8aa3-55a31a28b380/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 300
-        isCached: true
   - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
     excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
     publishedDateTime: 2024-01-29T21:51:00Z
