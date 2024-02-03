@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Lords question legality of police facial recognition"
-    excerpt: "UK police are expanding their use of live facial recognition (LFR) technology without proper scrutiny or accountability, despite lacking a clear legal basis for their deployments, according to a Lords committee. Writing to the Home Secretary on 27 January ..."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
 
 secured: "elxdabJbVcNXIqEWKBCg1BAK8r74bft+d50qiNzaI4dW7OdnPGS25oRo2nzhc6P9hPc+iNKtcF7DxGMt6LJnC86lEPBfv5OW9hj9pJPp8gpIGw0CZh7Q0L32vKHvi6hhxtgvFnnTivmIoRK64u5kFR/Jd3+JHkROVXJTph1orm6hr02UFgWa/BHzyf2vVqkAd/LBCEgHvzZ1955SCP7R5LgeU4lPyle8MyLGHklYrKYQo6AlBS5zceV3cb5L/poPY7DtXYMkLNo+zBRF7DUNjADyByZqM9GsCx5ZVOuoWY+pQAgnEOMeWOmBKqhd1ZJP8+X6T5SWwN92wwqTCtSsuiGZ9MLgjiK5AdqHFZWHEeY=;/u5OyHMuBDUPrjkklY6ZuQ=="
 ---

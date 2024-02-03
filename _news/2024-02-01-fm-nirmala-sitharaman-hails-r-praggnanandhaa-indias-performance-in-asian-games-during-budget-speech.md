@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
-    excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
-    publishedDateTime: 2024-01-29T09:33:00Z
-    webUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851"
-    ampWebUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 32
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2024/01/29/278097-jxiqfjwrrnmldhbcd32rzwuzbq.jpg?itok=szBUvuba"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Nirmala Sitharaman’s exclusive interview: What the FM said on growth, fintech, and 2024 elections"
     excerpt: "Seven per cent growth is possible, said Finance Minister Nirmala Sitharaman as she spoke about India’s economy in an exclusive interview with Network18 managing director Rahul Joshi. Ahead of the general elections,"
     publishedDateTime: 2024-02-02T13:39:00Z

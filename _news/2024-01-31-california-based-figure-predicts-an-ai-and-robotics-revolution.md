@@ -7,7 +7,7 @@ originalUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-a
 webUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Driverless cars covered 5 times more test miles in California in 2023"
+    excerpt: "Completely driverless vehicles travelled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
+    publishedDateTime: 2024-02-03T08:58:00Z
+    webUrl: "https://www.channelnewsasia.com/business/driverless-cars-california-test-more-miles-4096636"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--1BTQAw6E--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,h_676,w_1200/v1/one-cms/core/2024-02-02t233656z_1_lynxmpek110sn_rtroptp_3_gm-selfdriving-cruise.jpg?itok=kmzb8JlC"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "YTwY7ThokXiRrmlSsT1zKgTpMjL4cpWWNEYEyDvRq4S4FjEeXyYfk3ZKIQrJL3Zw38OLe1odX5oL41OmyBJnttCd6sh7GJdsmEUxQlLtCQEnQ1GiKvZ+iZNGGmX72SE3nhRddAF9bsq8IxoNqaV8Ypy5F0QPIDeP7ID9PlE9tvKMXMmlg68WCPRVzOt26/FaI9/SarDB/XVffNOoeU+IrE6NiwTPPwDziCBfLdSWot8FULLaIN0QuxaMkOnECmlqXH3bo141Bqj7vbBoSjJC+XWT2xpEQWFSjodyBbfYOQOdUl2ucIIRalwUtzpgbgihVml4mI1Z4/HWwnhzMW1klTvF6smCIraKAwKsjuBBxV6y54KMr0eThqoFfvkPYm9OA7icRj/tBsCSnnFzKZmyV91M1LN5QLI0OhZHD6yNeAU4gKdquKQIw9ag8vRK+doqVgaxgIvC0w5kt0wdHNqVEPc6fyGUubwmhBQsdfp4hqXnfGhuva52SmI+rY21RmuOuEEgr4oQlcsBt97hIJlA6A==;QoZXzS5YZ+yH0tXk2jJJXg=="

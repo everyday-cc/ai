@@ -63,20 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Next level of artificial intelligence is difficult for banks"
-    excerpt: "Many banks and financial companies have long since mastered data analysis and machine learning. However, the use of generative artificial intelligence to create new content has not yet left the experimentation room, as regulators and the financial sector ..."
-    publishedDateTime: 2024-01-29T10:07:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/next-level-of-artificial-intelligence-is-difficult-for-banks"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-2-5.jpeg"
-        width: 1920
-        height: 1267
-        isCached: true
 
 secured: "vx9pag38Eh1Qoz6/XRCHqFAVt4w5TVvf0szQ1yMfngZPzMO+KqLCBLtn7C7pI5h8mrObJitJz7NgoLqr7sJCmUa/3RtRRyytt2n8YIyxpWVTcHqrYhMr7+gsPLuRUng/dNYFHCrXodgDjkS1S9JvDfsY1YSxZT6uhtMCmpSZmhaZ8D/GCWNiGA4S6W4/9kbYkbrAaMJprYiHQLx1Z3poHXpnMlwHyhS89sO4I6Mf0B62GM6c6Pz5a85K4jlAR8YuirFqenfzNdTf5gghMaFQy1VYf+jaddusM4mTjTNEYofYalqef7Tj07/CMColp7VnA7DOJknWnXvVGicdYlRRjAAUJS334I4GGxtDjaVUqNQ=;qth+MZRA8WtykUjk4Iw1jA=="
 ---

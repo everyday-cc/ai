@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-tim
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/peter-diamandis-ai_536903_dp0hsy.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Next level of artificial intelligence is difficult for banks"
-    excerpt: "Many banks and financial companies have long since mastered data analysis and machine learning. However, the use of generative artificial intelligence to create new content has not yet left the experimentation room, as regulators and the financial sector ..."
-    publishedDateTime: 2024-01-29T10:07:00Z
-    webUrl: "https://www.boersen-zeitung.de/english/next-level-of-artificial-intelligence-is-difficult-for-banks"
-    type: article
-    provider:
-      name: boersen-zeitung.de
-      domain: boersen-zeitung.de
-    quality: 37
-    images:
-      - url: "https://c02.purpledshub.com/uploads/sites/43/files/sites/35/2024/01/Bild-2-5.jpeg"
-        width: 1920
-        height: 1267
         isCached: true
 
 secured: "fGjrBURuuYtC3CO9tv744cukjXQ26ke5qejL5MlnoDYNzxyzDMRrl+p93HEOz9kzrAN/YrTeG1GcnNyeJ3C+5cpPgTXe4DvtpVHlyk9gw/KQUso8bikf8uHkCaK2H2wLWFncpsNDTSRhmu5kIecW6ccNL4IJaP2MuGo8vE86AFTC0h3lgiHEP3Y5hQNIcp72s3nXWqbZvNS5bPA6k/gb7B4aRu9ypDyyCT6yZAjcZYpoAfOHsTWE6bjQvVt4k59Sy36emZyJsqSzHrwGDHYdwjC78QD3v+HNMZAcYoyvKUsVLBtE4F88Go17DisDtkrAalKIq+Va6SEgooHjF4rfJ0YAHVZY0DCHcB1I5PmZeco=;0rtm/z/fOAcmmR9hc7GtGA=="

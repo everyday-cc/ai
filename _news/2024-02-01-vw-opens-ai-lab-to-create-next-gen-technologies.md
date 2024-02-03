@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "When It Comes To Generative AI, The FTC Has Big Tech In Its Crosshairs"
-    excerpt: "Which is why “centralized, shared resources for improving the safety and quality of AI models” is on Frankle’s wish list. Anyone could pull a data set off the shelf, whether they’re a fledgling startup’s founder looking to fine-tune a model ..."
-    publishedDateTime: 2024-01-29T10:50:00Z
-    webUrl: "https://www.adexchanger.com/ai/when-it-comes-to-generative-ai-the-ftc-has-big-tech-in-its-crosshairs/"
-    type: article
-    provider:
-      name: adexchanger
-      domain: adexchanger.com
-    quality: 37
-    images:
-      - url: "https://www.adexchanger.com/wp-content/uploads/2023/09/adx-social.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "FTC Hosts Tech Summit on Artificial Intelligence"
     excerpt: "On Thursday, January 25, the Federal Trade Commission’s (FTC) Office of Technology hosted the FTC Tech Summit to discuss key developments in artificial intelligence (AI). The FTC brought together thought leaders from across the AI landscape to consider ..."
     publishedDateTime: 2024-02-02T00:00:00Z

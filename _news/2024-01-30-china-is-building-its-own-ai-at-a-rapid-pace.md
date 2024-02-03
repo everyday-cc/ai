@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "China approves over 40 AI models for public use in six months"
-    excerpt: "The country has also seen the rise of a startup, which is offering a program that certifies an AI model based on what kind of data it is trained on."
-    publishedDateTime: 2024-01-29T10:36:00Z
-    webUrl: "https://www.computerworld.com/article/3712545/china-approves-over-40-ai-models-for-public-use-in-six-months.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712545/china-approves-over-40-ai-models-for-public-use-in-six-months.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712545/china-approves-over-40-ai-models-for-public-use-in-six-months.amp.html"
+  - title: "Art made by artificial intelligence is developing a style of its own"
+    excerpt: "Mr Eldagsen, however, turned down the prize and revealed that his image had been created not by a camera but by artificial intelligence (AI). The German artist said he had “applied as a cheeky monkey\","
+    publishedDateTime: 2024-02-03T10:30:00Z
+    webUrl: "https://www.livemint.com/ai/art-made-by-artificial-intelligence-is-developing-a-style-of-its-own-11706955170181.html"
+    ampWebUrl: "https://www.livemint.com/ai/art-made-by-artificial-intelligence-is-developing-a-style-of-its-own/amp-11706955170181.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/art-made-by-artificial-intelligence-is-developing-a-style-of-its-own/amp-11706955170181.html"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Mint
+      domain: livemint.com
     quality: 57
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/07/12/19/laptop_with_binary_code_and_the_flag_of_china_by_smederevac_gettyimages-1137730846_2400x1600-100858220-large-100943306-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://www.livemint.com/lm-img/img/2024/02/03/1600x900/Econ_1706955499951_1706955508958.png"
+        width: 1600
+        height: 899
         isCached: true
 
 secured: "4JkpfCGj8tVbkbazyLrckVk648tfpIaoisjJx5qoNi+uMlELtVjoCIazudZ+tbZvKrY4nEnnveRkx5BpJkO0YmtwEEYLbNNaETzjWOhVWCo80h06HbJDXd0i/b9kFw2qfoguO3KkL3KdbmNIajXCrRKl2mGYiQtiey5HaMFAbKiIhz3fTn5R2zw3JQN3aovCsyHLZyWBClqC65jhrZAsDxzuRzFtXx2x3a33mQBtgGuWrJf/mBnrzQQ0v0CUxhUYXF3dQveCnkvYkmohkC1Tny+jlNZPXr2+lhhY38EABvxl8vjJliZbpxuylEgkfUtNN/Qes1eKqfbJEpFN+OoA5Ew8Otdostv9QJT8EmFlbekWlUfluHPDC/GYuJyTTEvFL2o3WMQryyFgpREdDIOMfvIngWAowM24P4/rNn0ikVcFsEEUM/PBblXE/dq8wKi2Dzl5ubOIaWtbGLCVSOrKZ5ZVjGAnWit09ziZNbYVxuQ/WenB60F+G735HhqgE1ys3gHhTwCoMR7ur9QjMKKCXA==;XjByYX+OijO2jQdpqAJypg=="

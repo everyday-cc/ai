@@ -144,15 +144,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
-    excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.nytimes.com/2024/01/29/technology/ai-chips-nvidia-amazon-google-microsoft-meta.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
   - title: "Nvidia Readies H20 Chinese AI Chip to Compete With Huawei"
     excerpt: "Previous reports claim that Nvidia aims to begin full production of the H20 in the second quarter of this year. Nvidia may also be working on additional China-specific AI chips, but there's no information on the alleged L20 and L2 accelerators."
     publishedDateTime: 2024-02-02T14:00:00Z

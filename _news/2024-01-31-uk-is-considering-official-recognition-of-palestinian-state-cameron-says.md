@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lords question legality of police facial recognition"
-    excerpt: "UK police are expanding their use of live facial recognition (LFR) technology without proper scrutiny or accountability, despite lacking a clear legal basis for their deployments, according to a Lords committee. Writing to the Home Secretary on 27 January ..."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.computerweekly.com/news/366567956/Lords-question-legality-of-police-facial-recognition"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/facial-recognition-tracking-greenbutterfly-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "David Cameron did not clear Palestinian statehood speech with No 10"
     excerpt: "Foreign Office sources insist the Foreign Secretary's remarks did not differ from an article which had been cleared by Downing Street"
     publishedDateTime: 2024-01-31T08:03:00Z

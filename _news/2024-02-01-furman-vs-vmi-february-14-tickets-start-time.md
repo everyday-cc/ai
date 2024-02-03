@@ -32,20 +32,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UTSA vs. UAB February 11 Women's Basketball Tickets & Start Time"
-    excerpt: "UTSA Roadrunners vs. UAB Blazers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-29T10:23:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/02/11/utsa-vs-uab-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
-    images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/UOLGBBLS6FJYBNIJ6SKKGKJJ3I.jpg?auth=82ea03bf06188cd5f4aa92fb19789bfa75c7f12c50d966dd36b072433f975e97&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Texas Tech vs. Kansas February 12 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Monday's Big 12 slate includes the Texas Tech ... Incarnate Word February 12 Tickets & Start Time Incarnate Word vs. Lamar February 12 Tickets & Start Time UTEP vs. New Mexico State February 10 Tickets & Start Time"
     publishedDateTime: 2024-01-30T11:16:00Z
@@ -57,20 +43,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/32QKXD5GFJIY5P4K3YPBK2WKNU.jpg?auth=24f1346ec87403f39a5b307de8e9253ae1bcd38588e3e85cc97aa474ce4247db&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas A&M vs. Kentucky February 11 Women's Basketball Tickets & Start Time"
-    excerpt: "Texas A&M Aggies vs. Kentucky Wildcats women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-01-29T10:23:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/02/11/texas-a-m-vs-kentucky-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 20
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/WN7WPFTLLVPZNOYSEHQJUEARSA.jpg?auth=b930f24d03e571da0362207e6a2238ae85caa36138115127d49140eb1ea56b73&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

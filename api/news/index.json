@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-03-billionaire-investor-david-tepper-has-58-of-his-portfolio-invested-in-these-7-artificial-intelligence-ai-stocks.md",
+      "title": "Billionaire Investor David Tepper Has 58% of His Portfolio Invested in These 7 Artificial Intelligence (AI) Stocks",
+      "excerpt": "and AMD is fighting for market share in the AI chip space, as well. Meta and Microsoft announced in December that they plan to use AMD's newest AI chips, signaling that there's a big opportunity for alternatives to Nvidia. Are Tepper's top AI stocks good ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/03/billionaire-david-tepper-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/763227/ai-icons-hand.jpg",
+          "width": 2188,
+          "height": 1369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
       "title": "IBM Databand: Self-learning for anomaly detection",
       "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
@@ -384,6 +436,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-summarization-and-chatgpt-a-look-at-silverman-v-openai.md",
+      "title": "Summarization and ChatGPT: a look at Silverman v. OpenAI",
+      "excerpt": "Larrea, Daniel M. Barabander and Lucille Dai-He of Cravath discuss questions raised in the case of Silverman v. OpenAi, Inc. over summarization with ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/summarization-chatgpt-look-silverman-v-openai-2024-02-02/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/summarization-chatgpt-look-silverman-v-openai-2024-02-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T16:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1127,100 +1222,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-portsmouth-ai-used-to-help-preserve-hms-victory.md",
-      "title": "Portsmouth: AI used to help preserve HMS Victory",
-      "excerpt": "Artificial Intelligence (AI) is being used to help preserve part of Vice-Admiral Lord Nelson's flagship HMS Victory. Based in Portsmouth's Historic Dockyard, the warship is undergoing a 10-year conservation scheme. University of Southampton students have applied AI technology to thousands of images taken of the 259-year-old ship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-hampshire-68153422",
-      "originalUrl": "https://www.bbc.com/news/uk-england-hampshire-68153422",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4921/production/_132512781_screenshot-189.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-hampshire-68153422.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-hampshire-68153422.amp",
-      "publishedDateTime": "2024-02-02T06:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning.md",
-      "title": "Hariom Tatsat’s Journey Of Financial Innovation Through AI And Machine Learning",
-      "excerpt": "Explore Hariom Tatsat’s groundbreaking journey in financial innovation leveraging AI and machine learning. Discover how his pioneering strategies are reshaping the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/business-spotlight/hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning",
-      "originalUrl": "https://www.outlookindia.com/business-spotlight/hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.assettype.com/outlookindia/2024-02/03f24096-2fa6-4feb-9620-399acd81f6f3/thumbnail_image__1_.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "http://www.outlookindia.com/amp/story/business-spotlight/hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/www.outlookindia.com/amp/story/business-spotlight/hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning",
-      "publishedDateTime": "2024-02-02T04:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

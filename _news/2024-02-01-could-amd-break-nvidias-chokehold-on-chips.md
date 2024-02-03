@@ -136,15 +136,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Nvidia’s Big Tech Rivals Put Their Own A.I. Chips on the Table"
-    excerpt: "Chafing at their dependence, Amazon, Google, Meta and Microsoft are racing to cut into Nvidia’s dominant share of the market."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.nytimes.com/2024/01/29/technology/ai-chips-nvidia-amazon-google-microsoft-meta.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 34
   - title: "Meta unveils Artemis chip to boost AI, cut Nvidia ties - Report"
     excerpt: "Meta confirmed plans to deploy a new custom semiconductor chip, dubbed \"Artemis,\" in its data centers to enhance AI capabilities, reducing dependency on Nvidia. Meta, the Facebook and Instagram parent company, is preparing to deploy a new version of a ..."
     publishedDateTime: 2024-02-02T00:00:00Z

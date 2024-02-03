@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/31/artificial-intelligence-in-2024-what-it-has-in-store-for-us/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b96e2d249a6cb12e70e237/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1256
         height: 900
-        isCached: true
-  - title: "Best Of BETT 2024: The Floor of BETT UK Has More AI and Robots Than Ever"
-    excerpt: "Lu Interactive offers an interactive learning display wall quite unlike any other on display here at BETT 2024. This features a projector, speakers and lights, but creates an interactive wall on any flat surface -- rather than floor-based interactions as have been traditionally the offering."
-    publishedDateTime: 2024-01-29T10:00:00Z
-    webUrl: "https://www.techlearning.com/news/best-of-bett-2024-the-floor-of-bett-uk-has-more-ai-and-robots-than-ever"
-    type: article
-    provider:
-      name: techlearning
-      domain: techlearning.com
-    quality: 53
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/JLXPLZsgoDC649ukCXooKb-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Predictions For 2024: Things To Know About AI And Workplaces"
     excerpt: "If I could add a prediction for peace here, I would be eager to do so, but because I can’t, I will instead share that peace is my most fervent wish for us all this year."

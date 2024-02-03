@@ -57,22 +57,6 @@ related:
         width: 1440
         height: 740
         isCached: true
-  - title: "Samsung Galaxy S24 is start of mobile AI era: Samsung's TM Roh"
-    excerpt: "TM Roh, President & Head of MX Business, unveils Samsung’s newest Galaxy S24 smartphones offering AI functions at the Galaxy Unpacked event in San Jose, California, U.S. January 17, 2024. REUTERS/Loren Elliott New Delhi: The Samsung Galaxy S24 series is ..."
-    publishedDateTime: 2024-01-29T10:37:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh/107230595"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107230595,imgsize-66992,width-1200,height=765,overlay-ettelecom/devices/samsung-galaxy-s24-is-start-of-mobile-ai-era-samsungs-tm-roh.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Samsung is optimistic about AI-driven smartphones, despite losing sales crown"
     excerpt: "The company told investors that it anticipates the smartphone market to rebound in 2024, particularly with the rollout of new products, such as AI-powered smartphones ... According to market research firm IDC, the iPhone maker held 20.1% of global market ..."
     publishedDateTime: 2024-01-31T06:01:00Z

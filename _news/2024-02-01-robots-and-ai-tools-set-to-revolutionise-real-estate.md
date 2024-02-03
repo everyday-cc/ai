@@ -50,6 +50,20 @@ related:
       name: Armenpress
       domain: armenpress.am
     quality: 65
+  - title: "Driverless cars covered 5 times more test miles in California in 2023"
+    excerpt: "Completely driverless vehicles travelled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
+    publishedDateTime: 2024-02-03T08:58:00Z
+    webUrl: "https://www.channelnewsasia.com/business/driverless-cars-california-test-more-miles-4096636"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--1BTQAw6E--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,h_676,w_1200/v1/one-cms/core/2024-02-02t233656z_1_lynxmpek110sn_rtroptp_3_gm-selfdriving-cruise.jpg?itok=kmzb8JlC"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "eZNR21DyO45OFf6VHdPk39o1ohYJPCGg8Ire2eqdHTYtebvsU/zcRLoFdq1TjQP/vwDMR1X59ZAnKQ11XIDq69i/FFNV2aBLv2h5gKJBbJ/4+Nv17/LREcEVDMPpwh4no9PNMefo52nrg/of+LjC8mCc2yHyrx/plFThtjejGSwkB5wbYYVuUPBlG4xcAswuaX2NMvHd+d1WZXIWXZChl+UlGABGsZUZ26N3ILONBC5kK+Qpn0u/1vwNkGQrixrJ/QCufprABsZ6CU37ttFY9N6hAl9YlDVFJja1tIQ1fh1s985KRR41hBmduBjNQkip0DxgpO5Xc5L9lJry4TamN/0BjjNv/fZIR3cNc5IwT94=;aF+ZiDAl8KMPMhWTg1UbOg=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Budget 2024: Here's what experts expect from fintech industry interim budget niramal sitharaman"
-    excerpt: "The fintech industry expects announcements related to digital payments and startup funding, among others, that will propel development in the industry."
-    publishedDateTime: 2024-01-29T09:33:00Z
-    webUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851"
-    ampWebUrl: "https://www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/union-budget/news-budget-2024-heres-what-experts-expect-from-fintech-industry-interim-budget-niramal-sitharaman-273851/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 32
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2024/01/29/278097-jxiqfjwrrnmldhbcd32rzwuzbq.jpg?itok=szBUvuba"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "oUof930g3fuCaHa/iQQzC9OSWgfzk6C6MeCgYhZBEQe4wvqyBZUP7SFBY4vFnbbtVLWWXbXFMVDQCRaZIaUqlhZi/ptk2KRpj/aMj/TErO6FR/iik6EABIbLqu4PsrDnhlUjP/kQ20qcyw/eGR+kXo2G9mV5ZqZsLKL2ENeO6bUWfTGg4sRc4Lq+tARW3bNnuSMXaAwKWJVvzj7AyJ/a09tuhLpWQ+iCqowiHGoi11Hb6Cb1JqdvuOHt3ecTseXCpukF4mBbdJ4FAer7L3q8OMMx71VBTt3s1wppfHJ4h+kwT1cd9xap9kl9i4+vcLbz6wSzVo45XxiQQL8uJp0O9o/Gly5OswT9qOj8bymQQj8=;bASUUKFRIgqK6uT1VVQIFg=="
 ---

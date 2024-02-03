@@ -248,20 +248,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Analysts To Focus On Tech Giant's Expansive AI Ambitions Following Q2 Earnings"
-    excerpt: "The $3 trillion tech giant Microsoft is set to report its second-quarter earnings on Jan. 30, after market hours. Analysts are expecting an uptick in Azure growth, continued advancements in AI and Copilot products and gross margin expansion. Loading.."
-    publishedDateTime: 2024-01-29T11:00:00Z
-    webUrl: "https://www.benzinga.com/news/earnings/24/01/36827397/microsoft-analysts-to-focus-on-tech-giants-expansive-ai-ambitions-following-q2-earnings"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/microsoft-shutter_1.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
   - title: "Microsoft profit soars 33% on AI, cloud-computing investments"
     excerpt: "SAN FRANCISCO (AP) — Microsoft Corp. said Tuesday that net profit for the October-December quarter soared 33%, powered by its significant investments in artificial intelligence technology ... Analysts polled by FactSet Research expected Microsoft ..."
     publishedDateTime: 2024-01-30T00:00:00Z
