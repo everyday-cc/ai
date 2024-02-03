@@ -7,8 +7,8 @@ originalUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 webUrl: "https://www.geeky-gadgets.com/ai-humanoid-robots/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 131
+published: true
 
 provider:
   name: Geeky Gadgets
@@ -26,29 +26,77 @@ images:
     isCached: true
 
 related:
-  - title: "Nala Robotics incorporates generative AI into restaurant robot recipes"
-    excerpt: "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste."
-    publishedDateTime: 2024-01-29T18:52:00Z
-    webUrl: "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/"
+  - title: "California-based Figure Predicts an AI and Robotics Revolution"
+    excerpt: "California-based Figure developed the FIGURE 01 humanoid robot to address drastic labor shortages and reduce the number of workers in unsafe jobs."
+    publishedDateTime: 2024-01-31T11:13:00Z
+    webUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 99
+      name: realtybiznews
+      domain: realtybiznews.com
+    quality: 69
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg"
-        width: 770
-        height: 497
+      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Yelp will use AI to generate restaurant descriptions"
-    excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
-    publishedDateTime: 2024-01-30T14:07:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/yelp-will-use-ai-generate-restaurant-descriptions"
+  - title: "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics"
+    excerpt: "Embodied, Inc., founded by American Paolo Pirjanyan, is a leading company in the field of robotics and artificial intelligence. Embodied's advanced robotic companions aim to enhance people's quality of life."
+    publishedDateTime: 2024-01-31T10:01:00Z
+    webUrl: "https://armenpress.am/eng/news/1129253.html"
+    ampWebUrl: "https://armenpress.am/eng/amp/1129253"
+    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253"
     type: article
     provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 17
+      name: Armenpress
+      domain: armenpress.am
+    quality: 65
+  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
+    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
+    publishedDateTime: 2024-01-29T21:51:00Z
+    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
+    images:
+      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
+        width: 1200
+        height: 955
+        isCached: true
+  - title: "Humanoid Robot X Discussion"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/01/humanoid-robot-x-discussion.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 39
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-31-at-9.20.41-PM.jpg"
+        width: 1222
+        height: 430
+        isCached: true
+  - title: "Cutting-edge projects driving robotics, according to Bill Gates"
+    excerpt: "The billionaire and co-founder of Microsoft is most enthusiastic about building machines that mimic the function of the human body."
+    publishedDateTime: 2024-01-31T02:00:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2024/01/31/cutting-edge-projects-driving-robotics-according-to-bill-gates/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
+  - title: "Role For ICs Expands In Humanoid Robots"
+    excerpt: "While currently used in other domains, these new methods eventually will make their way into robotic applications.” Humans generally have ethical concerns. Humanoids, on the other hand, are AI machines. Once they are hacked, they may be controlled by ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://semiengineering.com/role-for-ics-expands-in-humanoid-robots/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 19
 
 secured: "rgiF1coRSRJXKrbbvG3AYOj5H1Wc/S/065158GbzEB2EJdf+bHyG5/X2hZeTnbmLOlC18K4r6F8pNBeaqRwbUDfv6kf54vlWB9fRTDcJVWBjRE5eBtH2UgHbt45T0Qi7/FWpXB0b0kQykqvQrx4Ga1zuzzVXESfFnVXtCIu39S4YbaEJCEYJPhwgU4ryOvTWZBw9Wkj0mj3rXne90aOAo9ClhG6/QEV1DhR6MHHC0bOV3sMF+3sGhkNkYtOhRjbKvk/qixgTEusb5qcL+228tE3FSuRUselVyAHBAEJDKcxpB3qTvxStFfRSpVTuhzk6S32es+BANQrYheadUaDz6SGq3IgyuRwCPxG514C4jL92BTjKBRGNW+sQYfdmMsfnE5W8Ojs1rzCWP0qXQvG8Rx2wM+U1O2mv0H/smULgdC0smZbYDIZ7SMWpqVHAhanCs2bW9bb0PUQCAW0qShLO9FR3hi5mG68TBl6ZdJsbCoJVCmm0SiwxDidql6eqKqTDRPNxxpxN73EnTIy8grU0vQ==;zYZzzw4NFLK9S0vm9mwQZQ=="
 ---

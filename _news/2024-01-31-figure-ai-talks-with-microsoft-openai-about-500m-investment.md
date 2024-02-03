@@ -109,6 +109,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs"
+    excerpt: "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI."
+    publishedDateTime: 2024-02-03T05:51:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all"
+        width: 855
+        height: 775
+        isCached: true
   - title: "Perplexity vs Bard vs ChatGPT – and how Perplexity AI is competing with Google and OpenAI"
     excerpt: "This guide compares Perplexity vs Bard vs ChatGPT focusing on Perplexity AI and how it is competing with other AI models from Google & OpenAI"
     publishedDateTime: 2024-02-01T10:45:00Z

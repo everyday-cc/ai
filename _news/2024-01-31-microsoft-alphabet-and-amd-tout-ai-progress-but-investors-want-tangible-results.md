@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3250383/microsoft-alphabet-and-amd-tout-ai-progress-investors-want-tangible-results"
 type: article
 quality: 99
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
-    excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
-    publishedDateTime: 2024-01-29T17:42:00Z
-    webUrl: "https://venturebeat.com/business/microsoft-adds-new-restrictions-to-designer-ai-used-to-make-taylor-swift-deepfakes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-11.56.24-A-colorful-vector-art-minimalistic-line-art-style-image-showing-a-construction-crew-building-barriers-around-a-giant-messy-desk.-The-desk-is-filled-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "Microsoft Q2 Earnings Preview: Artificial Intelligence, Gaming, More Key Items To Watch"
     excerpt: "A look at the expectations from analysts for Microsoft's Q2 earnings report and key items for investors to watch."
     publishedDateTime: 2024-01-29T22:59:00Z

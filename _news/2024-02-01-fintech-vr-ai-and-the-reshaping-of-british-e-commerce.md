@@ -75,20 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The rise of digital banking: Fintech trends in 2024"
-    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
-    publishedDateTime: 2024-01-29T18:34:00Z
-    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Twitter co-founder’s fintech company is laying off a “large number” of employees"
     excerpt: "Block, a fintech corporation headed by Twitter co-founder Jack Dorsey that has several subsidiaries including Square, Cash App, and Afterpay, is laying off employees in “large numbers”."
     publishedDateTime: 2024-01-31T03:40:00Z

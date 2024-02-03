@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AMD’s chief gaming architect chats about AI’s impact on chips and software | Frank Azor"
+    excerpt: "Mass scale is the key. It’s been done in pockets, of course. It’s the same with AI compute. It’s the third chip, if you will. You have the primary CPU, the brain, and you have the graphics. Now all these emerging use cases are coming. It’s as if ..."
+    publishedDateTime: 2024-02-03T08:45:00Z
+    webUrl: "https://venturebeat.com/games/amds-chief-gaming-architect-chats-about-ais-impact-on-chips-and-software-frank-azor/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/amd-ces-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 668
+        isCached: true
   - title: "AMD shares rise as AI chips show strong growth"
     excerpt: "hile that market is currently dominated by Nvidia, AMD has said that its new AI chips introduced last year will challenge Nvidia's H100 GPUs for some applications, and investors are looking for significant growth in the company's data center segment over ..."
     publishedDateTime: 2024-01-30T00:00:00Z

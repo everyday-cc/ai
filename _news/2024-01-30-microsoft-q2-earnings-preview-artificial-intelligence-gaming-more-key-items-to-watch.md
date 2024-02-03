@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft adds new restrictions to Designer AI used to make Taylor Swift deepfakes"
-    excerpt: "Microsoft has updated its free, online Designer AI image generator to prevent users from creating more images resembling"
-    publishedDateTime: 2024-01-29T17:42:00Z
-    webUrl: "https://venturebeat.com/business/microsoft-adds-new-restrictions-to-designer-ai-used-to-make-taylor-swift-deepfakes/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/DALL·E-2024-01-29-11.56.24-A-colorful-vector-art-minimalistic-line-art-style-image-showing-a-construction-crew-building-barriers-around-a-giant-messy-desk.-The-desk-is-filled-.png?w=1200&strip=all"
-        width: 1199
-        height: 685
-        isCached: true
   - title: "Chip race: Microsoft, Meta, Google, and Nvidia battle it out for AI chip supremacy"
     excerpt: "Reuters reports “Artemis” will complement the hundreds of thousands of Nvidia H100 chips Meta bought. Similar to the MTIA chip Meta announced last year, Artemis is also focused on inference — the actual decision-making part of AI — and not training AI models, but it’s already a little late to the game."
     publishedDateTime: 2024-02-01T20:20:00Z

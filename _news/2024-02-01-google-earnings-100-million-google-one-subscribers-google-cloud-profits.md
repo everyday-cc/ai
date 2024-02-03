@@ -60,15 +60,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
-  - title: "Amazon (AMZN) to Post Q4 Earnings: What's in the Offing?"
-    excerpt: "Amazon AMZN is scheduled to report fourth-quarter 2023 results on Feb 1. For the fourth quarter, the company expects net sales between $160 billion and $167 billion, which represents 7-12% year-over-year growth."
-    publishedDateTime: 2024-01-29T18:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-to-post-q4-earnings:-whats-in-the-offing"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "4b8E1b3xVgZpNbX71Cl+kuAxkP1AuMjYAxqhd92DVB/IHLgQmFGg95xoGb2ZumI9RGwLLzTrB1FvszvXwrlHBxyKWawmgtU71XsmQdVrL4midMR6xkbKICpuuwsXQ3aeWy4sJH1QAw8hrY34cJjVm7oEVSnkpdXSkwh+E36dEnGWOYpF5K5lhta0e3AwNztRLYmDwIRy+56K++ZZvU+zUsE2ikKbYync9gL4suBCM2nuR77YDcQ79eUpVtpFsM4RS2ICe5uazaCkWPDtzuqLdXX1uLJt6HAzLfFMhZCIqCZYD4gJxh4V73QMiMjbT4sqHWh/pHKDgyNIY4ntNMuCLe15vbZunOVwUy+02A8pNQ0=;w5yT0FxTCH9dN71KUftGdg=="
 ---

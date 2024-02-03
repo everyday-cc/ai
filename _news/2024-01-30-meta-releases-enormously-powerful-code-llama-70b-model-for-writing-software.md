@@ -101,20 +101,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta Releases Code Llama 70B"
-    excerpt: "Meta has released Code Llama 70 B. The new iteration, available for download at https://bit.ly/48QeOs7, maintains an open license, aligning with its predecessors—Llama 2 and prior Code Llama models—aimed at supporting research and commercial innovation."
-    publishedDateTime: 2024-01-29T17:31:00Z
-    webUrl: "https://analyticsindiamag.com/meta-releases-code-llama-70b/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 24
-    images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2023/08/meta-llama-code.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Meta releases more powerful Code Llama 70B model for writing software"
     excerpt: "Meta Platforms Inc. today announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
     publishedDateTime: 2024-01-30T01:27:00Z

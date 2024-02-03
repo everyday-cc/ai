@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
-excerpt: "Lots of big rounds this week, with none bigger than the whopping $1.5 billion raised by sustainability and infrastructure investment firm Generate Capital. On top of that, there were another five rounds of $100 million or more."
-publishedDateTime: 2024-02-02T16:29:00Z
-originalUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
-webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
+excerpt: "Want to keep track of the largest startup funding deals in 2024 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U."
+publishedDateTime: 2024-02-02T16:43:00Z
+originalUrl: "https://news.crunchbase.com/news/biggest-funding-rounds-generate-capital-kore-ai/"
+webUrl: "https://news.crunchbase.com/news/biggest-funding-rounds-generate-capital-kore-ai/"
 type: article
 quality: 30
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: crunchbase.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 images:
   - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
@@ -113,6 +113,6 @@ related:
       domain: business-standard.com
     quality: 17
 
-secured: "l4T++ppBKs6qxgi3pUM2ZMbovo3mciZ8fIBUDlF3ujUVLm7faOTKZ8/H4yvuylIAsSM+Z65x8tj2AxmUzXS5aiaiP2nIWBATqFvELaO5WUmT/gBTxhfZNdLYofLQrFkatqI66ytkI1WNSAV5axHfiP0NXjXZHDyajNfIJZX15EM5J6bKqIPfSeL0QaOfz7KWQgxxazAa/fDgDaJAMIrFlgGNSIJVideX9ozS1jGNXB4LnjDhhTdjRtQ+3uiFVsf4y3wff6mEfA7lneJ5HUfilg32wCmwelolqvqxbOwdOb1mCeuc5nqeXR1nVARuJxPL+KlFrVAoT03jLZaUASGff1hotY8tCi+kMncRUZEePos=;5OwMNn8cyhPAlBcgeb+BYA=="
+secured: "+W3QVSU64Ojh3e/tsPuzqhIo5fNsFkhayDYOY+fBWQ0kkLBaPR6OBsMmuWB86Mtdw95Q3CNZsPQyNedDi+zT1pjiTj3l9V8Ew6s4zs7/vauHGr/sHGCwIUMooD+e6u1ThGHfUODn8vlBurI7jz2VERX2TQ9UdpuyKaD7JGyyOapcdLocHtyFAA18gWdKMKRDv40dIDlbqKkA3FzQlESf012LcNRljaq1sMNET14v13nnZKwzipFM2lthVQl1cuJJBL8+zxkHQAcPrU7Xli1QEfnoK2JprHA+qTp0mkHPOLSL81JVg/B9FJM/9x6lCgIFq+Ad13Y3VCHzFcRRcaD8wzUTbPmepxMX071u8YBzNV0=;wHDNWSU+JJ3twfy3itZNFw=="
 ---
 

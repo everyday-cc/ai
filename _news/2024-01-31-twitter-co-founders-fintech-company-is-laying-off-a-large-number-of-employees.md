@@ -91,20 +91,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The rise of digital banking: Fintech trends in 2024"
-    excerpt: "4.AI driven Personalization Artificial Intelligence (AI) will continue to reshape the fintech landscape, particularly in customer experience. Advanced AI algorithms will enable banks to offer hyper-personalized services, from tailored financial advice to ..."
-    publishedDateTime: 2024-01-29T18:34:00Z
-    webUrl: "https://www.dailypioneer.com/2024/columnists/the-rise-of-digital-banking--fintech-trends-in-2024.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2024/story/images/big/the-rise-of-digital-banking--fintech-trends-in-2024-2024-01-30.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Rocket adds AI and fintech expert to newly created board of director position"
     excerpt: "Rocket Companies’ appointment of Alex Rampell to the newly created board of director position affirms its push as a fintech platform."
     publishedDateTime: 2024-02-01T15:19:00Z

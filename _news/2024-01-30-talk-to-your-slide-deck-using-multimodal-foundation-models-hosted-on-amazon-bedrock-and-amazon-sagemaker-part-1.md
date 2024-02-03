@@ -57,20 +57,6 @@ related:
         width: 1023
         height: 509
         isCached: true
-  - title: "Benchmark and optimize endpoint deployment in Amazon SageMaker JumpStart "
-    excerpt: "When deploying a large language model (LLM), machine learning (ML) practitioners typically care about two measurements for model serving performance: latency, defined by the time it takes to generate a single token, and throughput, defined by the number of tokens generated per second. Although a single"
-    publishedDateTime: 2024-01-29T18:34:21Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/benchmark-and-optimize-endpoint-deployment-in-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/19/ML-15932-image002-1-1260x504.jpg"
-        width: 1260
-        height: 504
-        isCached: true
   - title: "Monitor embedding drift for LLMs deployed from Amazon SageMaker JumpStart"
     excerpt: "One of the most useful application patterns for generative AI workloads is Retrieval Augmented Generation (RAG). In the RAG pattern, we find pieces of reference content related to an input prompt by performing similarity searches on embeddings. Embeddings capture the information content in bodies of"
     publishedDateTime: 2024-02-02T17:46:45Z

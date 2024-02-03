@@ -109,6 +109,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs"
+    excerpt: "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI."
+    publishedDateTime: 2024-02-03T05:51:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all"
+        width: 855
+        height: 775
+        isCached: true
   - title: "Figure AI Talks With Microsoft & OpenAI About $500M Investment"
     excerpt: "Figure AI, startup developing humanoid robots, is talking to Microsoft and OpenAI to raise $500 million in new funding at a valuation of over $2 billion. Figure AI just made a deal with BMW to put the humanoid robots into the car factory for pilot tests ..."
     publishedDateTime: 2024-01-31T00:00:00Z

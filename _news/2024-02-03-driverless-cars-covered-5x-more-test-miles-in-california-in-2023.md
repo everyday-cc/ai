@@ -25,45 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "California-based Figure Predicts an AI and Robotics Revolution"
-    excerpt: "California-based Figure developed the FIGURE 01 humanoid robot to address drastic labor shortages and reduce the number of workers in unsafe jobs."
-    publishedDateTime: 2024-01-31T11:13:00Z
-    webUrl: "https://realtybiznews.com/california-based-figure-predicts-an-ai-and-robotics-revolution/98780985/"
-    type: article
-    provider:
-      name: realtybiznews
-      domain: realtybiznews.com
-    quality: 69
-    images:
-      - url: "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics"
-    excerpt: "Embodied, Inc., founded by American Paolo Pirjanyan, is a leading company in the field of robotics and artificial intelligence. Embodied's advanced robotic companions aim to enhance people's quality of life."
-    publishedDateTime: 2024-01-31T10:01:00Z
-    webUrl: "https://armenpress.am/eng/news/1129253.html"
-    ampWebUrl: "https://armenpress.am/eng/amp/1129253"
-    cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253"
-    type: article
-    provider:
-      name: Armenpress
-      domain: armenpress.am
-    quality: 65
-  - title: "Robots And AI Tools Set To Revolutionise Real Estate"
-    excerpt: "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence"
-    publishedDateTime: 2024-02-01T04:47:00Z
-    webUrl: "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Driverless cars covered 5 times more test miles in California in 2023"
     excerpt: "Completely driverless vehicles travelled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
     publishedDateTime: 2024-02-03T08:58:00Z
@@ -78,6 +39,24 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Apple tested its self-driving car tech more than ever last year."
+    excerpt: "The company logged over 450,000 miles of autonomous driving in California from December 2022 to November 2023, according to reporting from the state’s DMV. As Wired notes, that’s nothing compared to the millions of miles of testing notched by other companies."
+    publishedDateTime: 2024-02-03T14:46:00Z
+    webUrl: "https://www.theverge.com/2024/2/3/24060376/apple-tested-its-self-driving-car-tech-more-than-ever-last-year"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 34
+  - title: "China challenges the west for driverless car supremacy"
+    excerpt: "The progress made by Chinese companies and regulators in Beijing poses a new challenge to the west, which is already lagging behind China in the development of electric vehicles, according to analysts, and now sees the country gaining ground with its driverless efforts."
+    publishedDateTime: 2024-01-31T02:24:00Z
+    webUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "Ydr6fL7gJ/1hlGY3TbpeK2Rr0DmYMkTrqsq3NMahVGbn/cVMCrRL9tPFWf+FESgw9RYyfS879zKY/vkG1KXMbk2T5RJtEJesawuWaLsCg+Rzar6xhgSkCCVWG2nQoj0ZQP5F+4QR+TCXfpynwPe6RcP8sD9XFZ05xr7ggvbewKiP19CKq2GXXjPA3F6/oos2+pS/ayre9pPAc3GZ2trny70x57PHvXpRpwzHSI1PPqTAO4TeIxik3XMrgMdJ9JQjVWuLvruv5Fjn9OhEkMLXAWSOOeNFOEB94HQhh8VmZrHEBX9sr+TnaNc88CGD4vH9mjHuFiNBdSddlvUJmTN/zqy1Y59L5frmGvlrgSr+Ck2HcGja+lKIfPnmrRmFR1QBf3O73qWTTd6YkTAnzAe6WO/vxtvHa7Fq9dZ60lOvpcr7qb+zdHJLoiRfLP7u8ZC9l1i78hYWnxBnkuqBit1vY7IvyuEUZxKYdn9qGaa2yPDQPaRuGq13KzqBUJdxCYqXFValMO0LO8DhCeAzjGsAYw==;m6YbHgrnNfp3rLJjlQ0kOA=="
 ---

@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
-    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
-    publishedDateTime: 2024-01-30T06:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
+  - title: "AI companies will report their safety tests to the government"
+    excerpt: "(AP Photo/Jacquelyn Martin, File) WASHINGTON (AP) -- The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI ..."
+    publishedDateTime: 2024-01-30T10:20:00Z
+    webUrl: "https://www.newstribune.com/news/2024/jan/30/ai-companies-will-report-their-safety-tests-to/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: News Tribune
+      domain: newstribune.com
+    quality: 37
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/206381872_206381872-1f141c021b494c2dac5d9f3d6df65f2d_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 400
+        isCached: true
   - title: "A global race to regulate AI has put the booming industry on the defensive"
     excerpt: "The U.S., China, and Europe have very different ideas about the role that artificial intelligence should play in business and society."
     publishedDateTime: 2024-02-01T18:30:00Z

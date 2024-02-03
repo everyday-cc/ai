@@ -50,15 +50,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Amazon (AMZN) to Post Q4 Earnings: What's in the Offing?"
-    excerpt: "Amazon AMZN is scheduled to report fourth-quarter 2023 results on Feb 1. For the fourth quarter, the company expects net sales between $160 billion and $167 billion, which represents 7-12% year-over-year growth."
-    publishedDateTime: 2024-01-29T18:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-to-post-q4-earnings:-whats-in-the-offing"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
   - title: "Google earnings: 100 Million Google One subscribers, Google Cloud profits"
     excerpt: "Alphabet's earnings call was yesterday, and as usual, the company took in a lot of money ($86.31 billion) thanks mostly to ad click-through rates being at a certain level. More interesting, though, are the product numbers tucked away in the report."
     publishedDateTime: 2024-01-31T19:53:00Z

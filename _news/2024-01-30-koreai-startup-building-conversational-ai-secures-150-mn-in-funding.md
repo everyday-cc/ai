@@ -97,9 +97,9 @@ related:
         height: 673
         isCached: true
   - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
-    excerpt: "Lots of big rounds this week, with none bigger than the whopping $1.5 billion raised by sustainability and infrastructure investment firm Generate Capital. On top of that, there were another five rounds of $100 million or more."
-    publishedDateTime: 2024-02-02T16:29:00Z
-    webUrl: "https://news.crunchbase.com/venture/biggest-funding-rounds-generate-capital-kore-ai/"
+    excerpt: "Want to keep track of the largest startup funding deals in 2024 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U."
+    publishedDateTime: 2024-02-02T16:43:00Z
+    webUrl: "https://news.crunchbase.com/news/biggest-funding-rounds-generate-capital-kore-ai/"
     type: article
     provider:
       name: news.crunchbase

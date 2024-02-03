@@ -7,8 +7,8 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/01/240129122413.htm"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Science Daily
@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
   - Computer Vision
-
-related:
-  - title: "AI-Powered Robot Reads Braille Twice as Fast as Humans"
-    excerpt: "Researchers developed a robotic sensor using artificial intelligence to read braille at a remarkable 315 words per minute with 87% accuracy, surpassing the average human reading speed."
-    publishedDateTime: 2024-01-29T21:51:00Z
-    webUrl: "https://neurosciencenews.com/ai-robot-braille-25541/"
-    type: article
-    provider:
-      name: Neuroscience News
-      domain: neurosciencenews.com
-    quality: 54
-    images:
-      - url: "https://neurosciencenews.com/files/2024/01/braile-robot-neurosicnece.jpeg"
-        width: 1200
-        height: 955
-        isCached: true
 
 secured: "J7WQcpglGTaoM9Ve+8FvV/mGP/8q1vgjsqLzj/BHrOSu2tMs+374qIZX+SmK55lHqCzgnFNgBJhbpY9iBbE0O0xQ069Uh7a3oWuhiLmJOpYhbTKBLzTX8hWFUk6DUiNJZz8tuIUtBOcL7f8THRoF8bD6POb6GqysRx75wbNvdrSOJobt6nTeY6r2Wt1oLWsw7PH+1sJQ5WVN0L1QBxX4z7REejAwnj5R57bX4J4+3r6/8SfD1kbmfOZhQszBtf1qejM+a5MiT7ZqyltU9hhm/MJ+gcti5ffT6X44tF9idhEtWmg2PYUdGtBt9enopfcRhSCQj0XP3vMhNy5GrkjfUTr56FAj+FAeTkxKnRF+qmY=;Xd3PEIHAheL7VdSVm1OYHw=="
 ---

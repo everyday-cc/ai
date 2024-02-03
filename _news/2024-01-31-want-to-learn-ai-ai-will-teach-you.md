@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Yelp will use AI to generate restaurant descriptions"
+    excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
+    publishedDateTime: 2024-01-30T14:07:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/yelp-will-use-ai-generate-restaurant-descriptions"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 17
 
 secured: "EyVO6HYoiEYuQRsRV0BiWC9IfRHNGcpbTgGm4FN1zL7venP4sfOZ2bNQH2GLePkXh7o2WGRRKydlj1zopNcN9RZq7fCsH3s0q4lm4UowJ+PNU+st04yE7+X2UyHi1wr7soI2mFYWe4zKmorz0vKWTFPOlKXzxoB7MePLguN5njgVTeKFbnrfLeD6C3vXF8jG4aXBREI1ugNzFD83LnaTsoipgCQbj84QZxsp2ybpN8FinZLHKA2zXoKX3QWiA5j9ABvZfD4LHhsQk1Oj+1AmjlyzxplMMV4yGRrN3uqPga3b9+omhrTAnRdzZzgbskgaSgf17uRJkfKuPz45s0BMd4rpTUQY3qUyaxVI4qyuhfU=;QXxOo8MV5NAJqectypDliw=="
 ---
