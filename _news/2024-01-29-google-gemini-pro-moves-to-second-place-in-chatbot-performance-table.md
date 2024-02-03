@@ -96,20 +96,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
-    excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-google-bard-with-gemini-just-matched-it-with-a-huge-upgrade"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Bard gets Gemini Pro update globally, image-generating capability"
     excerpt: "In late 2023, Google introduced Gemini Pro AI update to the Bard chatbot, but was limited to select regions and supported just one language English. Now, the search engine giant expanded the availability of Gemini Pro-based Bard globally and also now support several international languages including Indian dialects."
     publishedDateTime: 2024-02-02T11:49:00Z

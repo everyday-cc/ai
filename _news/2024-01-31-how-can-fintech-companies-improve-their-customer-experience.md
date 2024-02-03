@@ -220,6 +220,20 @@ related:
         width: 355
         height: 250
         isCached: true
+  - title: "Biggest consumer fintech trends to watch in 2024"
+    excerpt: "Many banks have already signed up for FedNow, but some of the largest players have yet to do so. But as more banks adopt the service, more consumers will be able to both access their money faster and get payments in on time, potentially curtailing costly fees."
+    publishedDateTime: 2024-02-02T20:51:00Z
+    webUrl: "https://www.aol.com/finance/biggest-consumer-fintech-trends-watch-215110584.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/oZ0QREDmGc9rp1RdNHl3vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/046bd276e2a42db13e4cc0b5aabba032"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Rocket taps Silicon Valley AI and fintech expert for new board spot"
     excerpt: "Rocket Companies Inc. has gone to Silicon Valley for its latest board appointment. Nick Manes is a reporter covering residential real estate and local mortgage companies for Crain’s Detroit Business. He previously covered finance and tech startups. He joined Crain’s in 2020 after six years as a reporter at MiBiz."
     publishedDateTime: 2024-02-01T16:04:00Z

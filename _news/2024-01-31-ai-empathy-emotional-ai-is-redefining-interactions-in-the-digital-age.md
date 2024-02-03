@@ -47,15 +47,6 @@ related:
         width: 855
         height: 570
         isCached: true
-  - title: "Four steps for integrating generative AI in learning and teaching"
-    excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.timeshighereducation.com/campus/four-steps-integrating-generative-ai-learning-and-teaching"
-    type: article
-    provider:
-      name: Times Higher Education
-      domain: timeshighereducation.com
-    quality: 19
 
 secured: "JLH3GJylFBeARwbo/LeFih9ekEl+0KIR5loX0bCA+chcR+KFeqM1GmB+cnZAvi0vkpdUDOwbtKBbwy2Y6Bex5TdiVPA5aY2QgNKBFrloSjflyQ7IMgQYoJOw0U1WhS43Jhg/EWgxUSjp+TpSLChHjZ/bmM/z5CpwbJzZv82vEvLG2rQF1y3F4YafVGtMBA4Jlg8OCWJpbTLtyMmOasAvIkKsb13imeJvRr5cF17GeL0flsBQhqTspgFmUIXkgJJqiJ/Ge+wwM7k3WrSnONkBZ659uJP4xYiJOHnP0xWk2iaE9Y1sEyS69c5l4b7E0HEmgso1NP4h5N/2UnW7tyedVyiQHLiDQuEsdLTpCD95WfbsyJfFV4uKphD9Df9uLBZrUpxJ4koADRf+Q0IHPqLO3utD1GbeXKbbgft35ECBCfTsYQ1kyxIUY7WZOU72FWXtmLLKJtQ/0Q1+JoDLgU77rqnrbIw+YDwn+r3Jc9dMvV1LcRDTj0f6cx/M/EpNCvyJCXiGOuu4MuFgo8m9RRFfnQ==;tPUfl37bTQSiX5Bnyf2R5A=="
 ---

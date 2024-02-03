@@ -89,20 +89,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Cohere: The multinational, AI-for-enterprise company explained"
-    excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.androidpolice.com/cohere-guide/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/cohere-logo-ap-2024.png"
-        width: 837
-        height: 472
-        isCached: true
   - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
     excerpt: "Lots of big rounds this week, with none bigger than the whopping $1.5 billion raised by sustainability and infrastructure investment firm Generate Capital. On top of that, there were another five rounds of $100 million or more."
     publishedDateTime: 2024-02-02T16:29:00Z

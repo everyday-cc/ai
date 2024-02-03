@@ -65,22 +65,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 75
-  - title: "Microsoft: AI Tools Will Help Manage Time, Boost Cognitive Work"
-    excerpt: "Microsoft has demonstrated how leveraging Artificial ... that will enable them save ample time for creative and fulfilling cognitive work. Microsoft demonstrated the power of AI during the first ..."
-    publishedDateTime: 2024-01-28T23:32:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/01/29/microsoft-ai-tools-will-help-manage-time-boost-cognitive-work?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 74
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/microsoft.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Google CEO Sundar Pichai confirms Bard Advanced will be Google’s answer to Microsoft’s Copilot Pro"
     excerpt: "Microsoft announced Copilot Pro, a subscription-based tier of its AI-powered tool for power users and content creators, offering advanced help. Google"
     publishedDateTime: 2024-02-01T14:43:00Z

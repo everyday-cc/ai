@@ -220,6 +220,20 @@ related:
         width: 355
         height: 250
         isCached: true
+  - title: "Biggest consumer fintech trends to watch in 2024"
+    excerpt: "Many banks have already signed up for FedNow, but some of the largest players have yet to do so. But as more banks adopt the service, more consumers will be able to both access their money faster and get payments in on time, potentially curtailing costly fees."
+    publishedDateTime: 2024-02-02T20:51:00Z
+    webUrl: "https://www.aol.com/finance/biggest-consumer-fintech-trends-watch-215110584.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/oZ0QREDmGc9rp1RdNHl3vg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/046bd276e2a42db13e4cc0b5aabba032"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How can fintech companies improve their customer experience?"
     excerpt: "In this era of digital transformation, Fintech companies are not just adapting; they're evolving to prioritize and enhance their customer experiences, creating bonds that stand the test of time. Let's explore some strategies that can infuse a human touch  into Fintech, making it more than just a service but an experience."
     publishedDateTime: 2024-01-31T10:01:00Z

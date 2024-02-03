@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6589627/ai-safety-tests-reporting/"
 webUrl: "https://time.com/6589627/ai-safety-tests-reporting/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 28
-  - title: "AI companies will need to start reporting safety tests to the government"
-    excerpt: "The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday to review ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://thedailyrecord.com/2024/01/29/ai-companies-will-need-to-start-reporting-safety-tests-to-the-government/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 16
 
 secured: "c+rIAM+qpYBlRwMP4jykQh6VuiHDksTWpMUvSHFsT6lPVP3kmRtEU6lpGrcJEDysuO7uqEs7WrsAnSFtRVUXf3iZNX6pfjIUWY98qjUTwiX7gwaTOwF/rjWxpmYUWTZ88N8M8NeWxQo0493tBU43Y60gSaHoVDTqO/gHXsK5Hy7KfRxNaTw/652C4502GZ/zXjIcbeo2KLzNEdH9eO9MTIXmjs8S2xE1JzoTYCU3eL29I8kcMVjfzW7xa7ObEbKuuChX4hpShaMObgZeeBwjkMTH6Ykkc9d5zOVwAlR/CSzFGXUyI1RDP0AsXz9GAr7ZIOFv/VH6/4Kae9b6rjcUUYow631CoEjtTl9IlIqxIb1iJ7g9uvqevHhPT5br6oydCsI6y+qKIy6qGAZZy/L/uU6DmG2z0sg7KjUjeHLJvPAYv6hsMXFVkh+o6E0On7lm88JeO3yY3xCyrB3gYOWf0WtL6uB354Mty/n4pmOWvD034DxC9yC5i2/qJx7l1x1Vg0F7jyYYVn3YDvG36pf8Bw==;NK0/lYoky+x16F71A7iPpA=="
 ---

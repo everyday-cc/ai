@@ -96,20 +96,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 34
-  - title: "ChatGPT finally has competition — Google Bard with Gemini just matched it with a huge upgrade"
-    excerpt: "Google Bard with Gemini just equaled ChatGPT’s performance on a popular chatbot arena, coming second on the leaderboard just behind GPT-4-Turbo, OpenAI’s most advanced model. Powered by a newly updated version of the new Gemini Pro artificial ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.tomsguide.com/ai/chatgpt-finally-has-competition-google-bard-with-gemini-just-matched-it-with-a-huge-upgrade"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/5izKezBiWMfNnrFVFC7uYM-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google Gemini Pro moves to second place in chatbot performance table"
     excerpt: "Google's Bard has made a significant leap in the world of chatbots, climbing to the second position on the Chatbot Arena leaderboard. This notable rise"
     publishedDateTime: 2024-01-29T11:38:00Z

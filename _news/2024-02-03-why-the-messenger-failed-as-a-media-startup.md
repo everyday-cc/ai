@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messeng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-03-openai-launches-chatgpt-app-for-apple-vision-pro.md",
+      "title": "OpenAI launches ChatGPT app for Apple Vision Pro",
+      "excerpt": "OpenAI launches ChatGPT, a multimodal AI app that lets users chat with text, images, and voice on the Apple Vision Pro, the augmented reality headset powered by visionOS.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/",
+      "originalUrl": "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_someone_wearing_an_augmented_reality__7fb3b876-414e-4175-ab9e-4b1dd5fe2f4a-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T23:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-beyond-boundaries-the-promise-of-conversational-ai-in-healthcare.md",
       "title": "Beyond Boundaries: The Promise Of Conversational AI In Healthcare",
       "excerpt": "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ...",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -63,7 +116,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -169,7 +222,7 @@
       "originalUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1026,8 +1079,8 @@
       "title": "Opinion: Harvard president failed to defend free speech",
       "excerpt": "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”",
       "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
-      "originalUrl": "https://www.stamfordadvocate.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
+      "webUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
+      "originalUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1037,11 +1090,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T12:35:00Z",
+      "publishedDateTime": "2024-01-22T11:35:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1365,58 +1418,6 @@
         "name": "Ealing Times",
         "domain": "ealingtimes.co.uk",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-when-states-try-to-take-away-americans-freedom-of-thought.md",
-      "title": "When States Try to Take Away Americans’ Freedom of Thought",
-      "excerpt": "He refused to do so, calling the requirement “McCarthyist” and an affront to his free-speech rights ... demonstrate “an ongoing awareness and recognition of racial, social and cultural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/01/20/opinion/20statespeech/20statespeech-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

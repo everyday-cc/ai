@@ -77,15 +77,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 28
-  - title: "AI companies will need to start reporting safety tests to the government"
-    excerpt: "The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday to review ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://thedailyrecord.com/2024/01/29/ai-companies-will-need-to-start-reporting-safety-tests-to-the-government/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 16
 
 secured: "zAi5Hr3hvOjTyxO8HBbkpxf7Opp+V8rVpYr5HVgbzUmkIXArunURtXzYis+7vY1hpwi17yHgkPx9I6aqZLxmGqkz8eeCV9JAn/mPD81bRyw5PsJmW0HNyt5x1RE6usQYIhuyKU9FevsuxMsPx9yzSEB+IphiIjYppccMpuSfdayP4mZADQepYn43hSqIpcvezVA6aftSoIIgJopW+LiV2WM0bSU/Gdt1ZqOZD5iQWco41iEYuuYoERv0t4+EWAzQPkeUbKavt7tH2sHj6/hIVy8LIf4Z6CkzauFKmn7jBjduC+VzlQo9BBhAg2u9dFkxVrcir3yJumGBJGgZuXVfOOePVHASOkpQ29/j/gODK1w=;xB1uGxyIKU+Qeux9Sj/UQA=="
 ---

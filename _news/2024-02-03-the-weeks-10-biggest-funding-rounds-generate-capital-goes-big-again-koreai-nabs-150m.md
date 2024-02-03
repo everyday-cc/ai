@@ -102,20 +102,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Cohere: The multinational, AI-for-enterprise company explained"
-    excerpt: "Read More. Cohere brings advanced AI solutions to big businesses. It uses bleeding-edge natural language processing to understand user input and generate human-like responses, even on computers like Chromebooks. The software platform scales to encompass ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.androidpolice.com/cohere-guide/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 39
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/01/cohere-logo-ap-2024.png"
-        width: 837
-        height: 472
-        isCached: true
   - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
     excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
     publishedDateTime: 2024-01-30T14:39:00Z

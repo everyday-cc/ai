@@ -41,20 +41,6 @@ related:
         width: 1466
         height: 900
         isCached: true
-  - title: "AI in healthcare – risks and rewards"
-    excerpt: "on the ethics and governance of using AI in healthcare settings. Given that the technology could have profound implications for how some of the biggest health challenges of our age are dealt with, the WHO’s recommendations are highly timely. The ..."
-    publishedDateTime: 2024-01-28T23:39:00Z
-    webUrl: "https://www.brecorder.com/news/40286158"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 56
-    images:
-      - url: "https://i.brecorder.com/large/2024/01/65b6e34cd5dc2.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
     excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
     publishedDateTime: 2024-01-30T16:08:00Z

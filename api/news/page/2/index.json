@@ -165,7 +165,7 @@
       "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -240,57 +240,6 @@
         "name": "MIT Technology Review",
         "domain": "technologyreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-broker-complaint-alert-introduces-ai-driven-scam-analysis-service.md",
-      "title": "Broker Complaint Alert Introduces AI-Driven Scam Analysis Service",
-      "excerpt": "Today, Broker Complaint Alert (BCA) takes a monumental step in combatting this menace by announcing the launch of its AI-Driven Scam Analysis Service, a revolutionary tool designed to offer investors a robust shield against the sophistication of online scams.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/broker-complaint-alert-introduces-ai-driven-scam-analysis-service-1033022125",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/broker-complaint-alert-introduces-ai-driven-scam-analysis-service-1033022125",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.blockchainwire.io/uploads/NcryptbitTechnologies/editor_image/d0e51e62-d16f-43d3-a85d-35b0a60b06e5.png",
-          "width": 1219,
-          "height": 830,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -559,7 +508,7 @@
       "originalUrl": "https://www.citizen.co.za/lifestyle/technology/ai-chatbot-google-bard-gemini-pro-sa/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -912,7 +861,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1207,6 +1156,48 @@
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond.md",
+      "title": "Top concerns industry leaders have about cyberattacks in 2024 and beyond",
+      "excerpt": "Read about the concerns that industry leaders have for the future and three approaches organizations can take to build up their defenses.\nThe post Top concerns industry leaders have about cyberattacks in 2024 and beyond appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "originalUrl": "https://www.ibm.com/blog/top-concerns-industry-leaders-have-about-cyberattacks-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "",

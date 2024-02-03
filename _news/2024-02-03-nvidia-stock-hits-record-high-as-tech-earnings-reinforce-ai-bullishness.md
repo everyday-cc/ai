@@ -111,20 +111,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "Nvidia: Don't Chase AI Too Far"
-    excerpt: "One of the biggest questions with Nvidia and the soaring AI GPU chip demand is whether the massive surge in spending levels is sustainable. The chip company is on the verge of reporting a year where demand surged over 100% and estimates for future years ..."
-    publishedDateTime: 2024-01-29T00:59:00Z
-    webUrl: "https://seekingalpha.com/article/4665602-nvidia-dont-chase-ai-too-far"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1412721464/image_1412721464.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Nvidia GTC to bring together renowned AI industry leaders"
     excerpt: "Jensen Huang, Nvidia's founder and CEO, will make a keynote address at the forthcoming GPU Technology Conference (GTC) in mid-March 2024. Given its high level of sponsorship, the annual conference is expected to attract well-known AI leaders, according..."
     publishedDateTime: 2024-01-31T00:00:00Z

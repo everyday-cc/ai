@@ -9,7 +9,7 @@ ampWebUrl: "https://katu.com/amp/news/nation-world/artificial-intelligence-progr
 cdnAmpWebUrl: "https://katu-com.cdn.ampproject.org/c/s/katu.com/amp/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Florida’s New Advisory Ethics Opinion on Generative AI Hits the Mark"
-    excerpt: "Image: Kaylee Walstad, EDRM with AI. As a former Florida trial lawyer and judge who appreciates emerging technology, I admit that I had more than a little concern when The Florida Bar announced it was working on a new ethics opinion on generative AI."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/florida-s-new-advisory-ethics-opinion-6543014/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 54
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives"
     excerpt: "Delray Medical Center in Florida is using an artificial intelligence program called Viz Vascular. The tool, which can be accessed through a phone, is helping save lives. Tennant Healthcare National Medical Director of Vascular Surgery and Endovascular ..."
     publishedDateTime: 2024-02-01T00:00:00Z

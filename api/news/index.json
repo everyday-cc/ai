@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-03-openai-launches-chatgpt-app-for-apple-vision-pro.md",
+      "title": "OpenAI launches ChatGPT app for Apple Vision Pro",
+      "excerpt": "OpenAI launches ChatGPT, a multimodal AI app that lets users chat with text, images, and voice on the Apple Vision Pro, the augmented reality headset powered by visionOS.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/",
+      "originalUrl": "https://venturebeat.com/ai/openai-launches-chatgpt-app-for-apple-vision-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_someone_wearing_an_augmented_reality__7fb3b876-414e-4175-ab9e-4b1dd5fe2f4a-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T23:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
       "title": "IBM Databand: Self-learning for anomaly detection",
       "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
@@ -249,7 +302,7 @@
       "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -533,7 +586,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -637,7 +690,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -983,58 +1036,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-02-nvidia-chief-sees-rise-of-sovereign-ai-infrastructure-across-nations-driving-demand-for-companys-advanced-chips.md",
-      "title": "Nvidia chief sees rise of ‘sovereign AI’ infrastructure across nations, driving demand for company’s advanced chips",
-      "excerpt": "Such a national approach to the artificial intelligence boom stands to drive an expansion of data centres that would need Nvidia’s know-how and hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250726/nvidia-chief-sees-rise-sovereign-ai-infrastructure-across-nations-driving-demand-companys-advanced",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250726/nvidia-chief-sees-rise-sovereign-ai-infrastructure-across-nations-driving-demand-companys-advanced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/5cec8d3c-6901-4ad4-8d70-fd08901e7e69_3322aa00.jpg?itok=MIP_KK5n&v=1706860366",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-02-portsmouth-ai-used-to-help-preserve-hms-victory.md",
       "title": "Portsmouth: AI used to help preserve HMS Victory",
       "excerpt": "Artificial Intelligence (AI) is being used to help preserve part of Vice-Admiral Lord Nelson's flagship HMS Victory. Based in Portsmouth's Historic Dockyard, the warship is undergoing a 10-year conservation scheme. University of Southampton students have applied AI technology to thousands of images taken of the 259-year-old ship.",
@@ -1137,7 +1138,7 @@
       "originalUrl": "https://www.zdnet.com/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 127,
       "tags": null,
       "images": [
         {

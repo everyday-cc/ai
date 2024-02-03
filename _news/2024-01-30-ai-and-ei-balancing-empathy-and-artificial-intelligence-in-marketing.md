@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1600
         height: 571
         isCached: true
-  - title: "Four steps for integrating generative AI in learning and teaching"
-    excerpt: "this four-step checklist will help university teachers support the ethical and informed use of artificial intelligence tools in the classroom Generative AI is a powerful tool that can be used to facilitate deep learning. The key challenge for universities ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.timeshighereducation.com/campus/four-steps-integrating-generative-ai-learning-and-teaching"
-    type: article
-    provider:
-      name: Times Higher Education
-      domain: timeshighereducation.com
-    quality: 19
 
 secured: "+J7JarueHmrB6nmR+waU/+4dXEAe8wCNuw1HuS3rzBnmLsjTu3pr45noeHDQCRIMpZhWntq5tbf9lm2I1Z+QlLPhO9C3ilUD/BOPDMA5FveWjyhENQSkgmOHXgepjZN4B6fT4PGSNqnrQbApP94wXRETqpUWPqZn9WrJBnnRyz7N0vWpP0f9Tt6caiS3/24DWSoawIkRMGH+H5GJnXDQmuuzI4hxlDbK4apYYTCiWF9buT9/rpUMMGQbKamA7B/ZFC9MCH4MYTlGCIohq5502YVLuyjCzbDkAbkS0EoIoiHXADnMZT5euvnsRe/yW39lRIQvF9xCWe3Ixyz6sCMcqGPAQb+E9WjoLKLNsgVyBL0=;DvqloOfl0s+0hNKVhXoNRA=="
 ---

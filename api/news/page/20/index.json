@@ -2,49 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2024-01-18-7-must-have-home-robots-in-2024.md",
-      "title": "7 Must-Have Home Robots in 2024",
-      "excerpt": "Samsung has once again announced Ballie, an AI robot that will follow you around, acting as a home assistant. It can connect to all the IoT devices at home and even guard and feed your pets. The robot can answer questions, text you, and do everything that Alexa can.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "originalUrl": "https://analyticsindiamag.com/7-must-have-home-robots-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://8f430952.rocketcdn.me/wp-content/uploads/2024/01/k-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-18-gpu-security-flaw-exposes-ai-data-of-millions-of-iphones-macbooks.md",
       "title": "GPU security flaw exposes AI data of millions of iPhones, MacBooks",
       "excerpt": "Nvidia, Arm, and Intel u are not affected. A report of a GPU security flaw appeared online, reported by Trail of Bits. According to the",
@@ -1055,6 +1012,40 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about.md",
+      "title": "Fowl language: AI is learning to analyze chicken communications to help us understand what all the clucking’s about",
+      "excerpt": "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.winnipegfreepress.com/uncategorized/2024/01/17/fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about",
+      "originalUrl": "https://www.winnipegfreepress.com/uncategorized/2024/01/17/fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winnipeg Free Press",
+        "domain": "winnipegfreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

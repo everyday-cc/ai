@@ -77,15 +77,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "AI companies will need to start reporting safety tests to the government"
-    excerpt: "The Biden administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday to review ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://thedailyrecord.com/2024/01/29/ai-companies-will-need-to-start-reporting-safety-tests-to-the-government/"
-    type: article
-    provider:
-      name: The Daily Record (Maryland)
-      domain: thedailyrecord.com
-    quality: 16
 
 secured: "h1HRJq9ZlHysToWt1l6/NWw5Ky4rBXO/RTJOXtJQ6YI5zgEbxMzLkqz0SIBpMThOGwsDNAAS1PwKFHrxuzaWw/keHtIm7SI2c3om4AoUZfrgmd8Hrh5a/4Qlw2KP+Cpeje/w0aKmqUkYYvj4P50tokgH4duIRPG5zKDKxKBUUFkVPXoWQfYvIk0BSDMVCdgiDjQgPoNW81oJLVdSWigrjEcy2f7L9MDnydiLhYQsw6IrBrLTRfu3G31kWRl8dLRPZQlUuECmlQmO66lBr12I1T6ZqT16mQ/RGcGc/igEf5TVIRoCDpm15aGHhlDpFeBNFqmi6oziZXQ4BrEClt6k6qX7aeqUOwm7vN65Tdm9+y4a0ZPuSqUSliwbkedO1bCWPREJmIdJor7m/IB5817B538jc8mSEQL8K4QWRGiGthmh2j+1CINXjJdxGLcR78ZdQ1wvYJ1dU2sThwdmr/XjGerB1yXkGROiXjzbSuskztIuup/XPb+f2N177kY40YXFUTFvjmRpIhlxb2wpBZcZqQ==;KG2KHqdfD4PKoo1AHuMLhg=="
 ---

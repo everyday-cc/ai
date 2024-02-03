@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-gen
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html"
 type: article
 quality: 104
-heat: 384
+heat: 374
 published: true
 
 provider:
@@ -329,20 +329,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/01/29/microsoft-ceo-satya-nadella.jpeg?width=1200&height=800&fit=crop"
         width: 1016
         height: 677
-        isCached: true
-  - title: "Deepfaked nudes of Taylor Swift show we need AI regulation now: experts"
-    excerpt: "Mohit Rajhans, Think Start media and tech consultant, told CTV News Channel on Sunday that “we’ve turned into the wild west online,” when it comes to generating and spreading AI content. \"The train has left the station, artificial general ..."
-    publishedDateTime: 2024-01-28T23:34:00Z
-    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/deepfaked-nudes-of-taylor-swift-show-we-need-ai-regulation-now-experts-1.6745906?clipId=104069"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 37
-    images:
-      - url: "https://www.ctvnews.ca/polopoly_fs/1.6745918.1706483708!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Implementing AI at scale, embedding AI across our tech stack: Satya Nadella"
     excerpt: "Over 230,000 organizations have embraced AI capabilities in Power Platform, witnessing an impressive 80% increase quarter over quarter."

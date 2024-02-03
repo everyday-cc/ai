@@ -40,34 +40,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Samsung Galaxy S24's AI can summarize and translate any web page — here’s how it works"
-    excerpt: "Using Browsing assist on the Samsung Galaxy S24 can be a big time saver if you want to quickly understand an article, or translate it into a different language. Just don't be annoyed that you can only use it in Samsung's own browser. Even if you prefer ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-browsing-assist-on-samsung-galaxy-s24"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 46
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xqrpsmD89RAHzjKcG7SLxi-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Samsung Galaxy S24 Ultra: All about AI"
-    excerpt: "On top of that, the AI can translate any text (and voice), currently supporting 13 languages, including English, Mandarin, and Spanish. For some languages, it includes multiple locales – United States and the United Kingdom for English, for example."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2024/01/29/samsung-galaxy-s24-ultra-all-about-ai"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/01/28/2514788.jpg"
-        width: 1240
-        height: 825
-        isCached: true
   - title: "Samsung Galaxy S24: First Features You Should Try"
     excerpt: "The Samsung Galaxy S24 is a particularly feature-packed release from the South Korean tech giant, and—yes—most of them surround all the newfangled (and, for the moment, free) Galaxy AI. Sure, there’s the Ultra’s titanium, but you’re interested in just what the new phone is capable of compared to previous generations."
     publishedDateTime: 2024-01-31T19:56:00Z

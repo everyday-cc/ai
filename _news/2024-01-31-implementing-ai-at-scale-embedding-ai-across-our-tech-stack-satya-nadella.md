@@ -340,20 +340,6 @@ related:
         width: 1016
         height: 677
         isCached: true
-  - title: "Deepfaked nudes of Taylor Swift show we need AI regulation now: experts"
-    excerpt: "Mohit Rajhans, Think Start media and tech consultant, told CTV News Channel on Sunday that “we’ve turned into the wild west online,” when it comes to generating and spreading AI content. \"The train has left the station, artificial general ..."
-    publishedDateTime: 2024-01-28T23:34:00Z
-    webUrl: "https://www.ctvnews.ca/mobile/sci-tech/deepfaked-nudes-of-taylor-swift-show-we-need-ai-regulation-now-experts-1.6745906?clipId=104069"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 37
-    images:
-      - url: "https://www.ctvnews.ca/polopoly_fs/1.6745918.1706483708!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Cloud strength and AI excitement boost Microsoft revenue"
     excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
     publishedDateTime: 2024-01-30T13:46:00Z

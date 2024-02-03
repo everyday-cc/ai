@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-imag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
 type: article
 quality: 89
-heat: 191
+heat: 189
 published: true
 
 provider:

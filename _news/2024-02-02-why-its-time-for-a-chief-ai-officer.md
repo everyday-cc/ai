@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-tim
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 132
 published: true
 
 provider:

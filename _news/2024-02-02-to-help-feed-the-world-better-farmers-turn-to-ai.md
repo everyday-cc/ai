@@ -65,15 +65,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "The implications of AI for telecoms"
-    excerpt: "As the AI-wave continues, the IMF also argues that its effects could exacerbate existing inequalities in our society, thus calling into question the ethics of AI, which as a topic continues to be widely discussed and reshaped. There is a lot still on the ..."
-    publishedDateTime: 2024-01-29T00:00:00Z
-    webUrl: "https://www.telecoms.com/ai/the-implications-of-ai-for-telecoms"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 21
   - title: "The Growing Role of AI in Automotive Assembly"
     excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
     publishedDateTime: 2024-01-30T14:00:00Z

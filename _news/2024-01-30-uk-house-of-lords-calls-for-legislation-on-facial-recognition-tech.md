@@ -49,6 +49,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Facial recognition for cows"
+    excerpt: "A horse is a horse of course of course,” goes the old Mr. Ed TV theme song, and while a cow is a cow, it’s important for ranchers and farmers to be able to tell them apart. For"
+    publishedDateTime: 2024-02-02T23:10:00Z
+    webUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
+    ampWebUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 59
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/406-BOVINE-APP.jpg?w=1280"
+        width: 1280
+        height: 896
+        isCached: true
 
 secured: "oQMFFzEk2+TQbqHpKImauFgTNtFj7BdOGBtL2wYjX8mK7JMeMVXVnjL66kSWnOKXf8enKrNd8oGKPMvyg3x8/juSf/Y4W1cjFYoiayNnW1ZVj8r4pSiAI/ogWl1svjwoinj16yV0OF/4QYPwVCrmIWxbK4wOPnEPlNxLLBcu5IKGkRorri3UAgxm4PxbN+44MYsT1sB5itHJHt/DHjmSzeK1oHs0XTtEAzmEW/5+0DrDXXgjSsac2BhEDS9vIycXwvNVvavTdhpuqkvRaK+ktsEpjSz8HXJw7F18zMJRf11TKnPcHA4Pii3aNJWis5QVAZAzYkAlwwc+tQotJIAEpGnr4qwQtUmlB2XgVFHJoEo=;p8vnTMe4pbdP3oRjiqnxzw=="
 ---

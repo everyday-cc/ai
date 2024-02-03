@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/uk-england-hampshire-68071705.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-hampshire-68071705.amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/ADA5/production/_132435444_p0h78pp4.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Facial recognition for cows"
+    excerpt: "A horse is a horse of course of course,” goes the old Mr. Ed TV theme song, and while a cow is a cow, it’s important for ranchers and farmers to be able to tell them apart. For"
+    publishedDateTime: 2024-02-02T23:10:00Z
+    webUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/"
+    ampWebUrl: "https://wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/wgn-radio/facial-recognition-for-cows/amp/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 59
+    images:
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/406-BOVINE-APP.jpg?w=1280"
+        width: 1280
+        height: 896
         isCached: true
   - title: "UK House of Lords Calls For Legislation on Facial Recognition Tech"
     excerpt: "The UK parliament’s upper chamber has said it is “deeply concerned” about unaccountable police use of live facial recognition (LFR) tech and called on the government to legislate. Baroness Hamwee, chair of the House of Lords Justice and Home Affairs ..."
