@@ -27,20 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Outgoing U.K. Surveillance Chief Cites Concerns With Facial Recognition Plan"
-    excerpt: "The U.K.'s outgoing biometrics and surveillance commissioner and others highlight ethical and technical shortcomings in the government's plan to use the technology."
-    publishedDateTime: 2024-01-30T09:58:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2024/01/30/outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan/amp/"
+  - title: "Amazon Pharmacy Fights For Recognition"
+    excerpt: "It sounds terrific. Amazon uses licensed pharmacists who check every order before it goes to a customer. Importantly, the service is accredited by both the NABP Digital Pharmacy and URAC Mail Service Pharmacy until January 1, 2027."
+    publishedDateTime: 2024-02-02T11:44:00Z
+    webUrl: "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 86
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8d625f468ff70643efe8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1325
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65bc0c6761f7d8f74b3eb8dd/0x0.jpg?format=jpg&crop=1613,907,x0,y247,safe&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
         isCached: true
 

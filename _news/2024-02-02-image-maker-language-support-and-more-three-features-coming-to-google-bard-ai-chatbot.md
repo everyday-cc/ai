@@ -80,20 +80,6 @@ related:
       name: Latest on SAYS
       domain: says.com
     quality: 19
-  - title: "Meta’s Latest Update To Code Llama Transforms The Leading AI Programming Tool Into Its Largest And Best Performing Model Yet"
-    excerpt: "Meta's Code Llama 70B tool surpasses ChatGPT-3.5 with 53% accuracy, promising advanced programming assistance."
-    publishedDateTime: 2024-01-30T10:01:00Z
-    webUrl: "https://www.digitalinformationworld.com/2024/01/metas-latest-update-to-code-llama.html"
-    type: article
-    provider:
-      name: Digital information world
-      domain: digitalinformationworld.com
-    quality: 12
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjjzKfHh2GfJHAPaSL-hPmIm8pE-oDlFJw4ghS_6aMlkyXBvqkhriPtCRKwXn8HrkRNfVKHVAMKomA_STBEpXCBB-R1FXMUFVSa03u3TqTtUmuApFWyPo5iMVbyOLaCMe4nniCsWuoqOMEmn632hQjGtxWrZhDzpJShf8AUjBn_e1wYzpjQZE3gLwT0rC/w1600/met-o8.jpg"
-        width: 1024
-        height: 804
-        isCached: true
 
 secured: "OW7JAf1NfBGskuR4qlgqVdx4OZycxPQmmvZnCcjpAL77e+0ziAZK9XD9vpFJglFeFJscGxbGnjECzxJGnKkYtwmunLN029ycfEmhrKIYSjB6SLL8WvTzaQTyLCD3RmagSDL/DRcDYJ1qzZUtufDxtWdHlX0GFWMgYsyZswJlrH1EeSMMKwehnBZ+yvIhRr/4hh4vOHxHtp273XSzg3jWWqFqvN0OVoLFbx52YWLoP+XE6OnpJaKZZ1+inxUkmGJaxbND8deHQM0tIAaLOVRd5rc+CrSTT4s7RlERbD4JsWuxCXhT7n9z+lCT8/+mnTVMEw/mxZSd791KJXJqGKhmN92rFIcJcLsDao0FjZtSjnk=;YVfMby5e0xE+HmHrbVTu/A=="
 ---

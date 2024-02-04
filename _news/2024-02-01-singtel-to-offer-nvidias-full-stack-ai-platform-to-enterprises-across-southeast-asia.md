@@ -50,20 +50,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMD Is Taking on Nvidia in AI Chips. Here's the Market Share It's Expected to Take."
-    excerpt: "Advanced Micro Devices is positioning itself as the main alternative supplier to Nvidia for artificial-intelligence chips for data centers. The question is, what market share is it realistic for AMD to take?"
-    publishedDateTime: 2024-01-30T10:54:00Z
-    webUrl: "https://www.barrons.com/livecoverage/microsoft-alphabet-google-amd-earnings-stock-price-today/card/amd-is-taking-on-nvidia-in-ai-chips-here-s-the-market-share-it-s-expected-to-take--1jFpSMKQy9lVrF89wvGH"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 48
-    images:
-      - url: "https://images.barrons.com/im-30232407?width=780&height=520"
-        width: 780
-        height: 520
-        isCached: true
   - title: "Nvidia GTC to bring together renowned AI industry leaders"
     excerpt: "Jensen Huang, Nvidia's founder and CEO, will make a keynote address at the forthcoming GPU Technology Conference (GTC) in mid-March 2024. Given its high level of sponsorship, the annual conference is expected to attract well-known AI leaders, according..."
     publishedDateTime: 2024-01-31T00:00:00Z

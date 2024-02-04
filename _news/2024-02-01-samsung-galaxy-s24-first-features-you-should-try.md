@@ -37,22 +37,6 @@ related:
         width: 1650
         height: 1167
         isCached: true
-  - title: "Samsung's Galaxy AI to Reach 100 Million Galaxy Mobile Devices This Year"
-    excerpt: "Samsung's Galaxy AI and its features will reportedly remain free for users until 2025. The South Korean brand may consider introducing more powerful AI features in the future for paid Galaxy AI subscribers."
-    publishedDateTime: 2024-01-30T10:16:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 58
-    images:
-      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24_ultra_1705558454678.jpg"
-        width: 1440
-        height: 740
-        isCached: true
   - title: "Samsung is optimistic about AI-driven smartphones, despite losing sales crown"
     excerpt: "The company told investors that it anticipates the smartphone market to rebound in 2024, particularly with the rollout of new products, such as AI-powered smartphones ... According to market research firm IDC, the iPhone maker held 20.1% of global market ..."
     publishedDateTime: 2024-01-31T06:01:00Z
@@ -90,6 +74,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
+  - title: "Samsung Galaxy AI has supercharged the Notes app on Galaxy S24 — how to use the AI features"
+    excerpt: "Galaxy AI has its fingerprints all over the Samsung Galaxy S24 series, and the Notes app is no exception. If your notes are looking a little chaotic, full of typos and unformatted ramblings, Galaxy AI is able to help you straighten things out."
+    publishedDateTime: 2024-02-04T10:00:00Z
+    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-galaxy-ai-features-in-notes-on-samsung-galaxy"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HmQgCDtoj78bAEo9wZJWyJ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "oYGMUV2kTurinr6NvzteGOrGqt5ObPVAQjx5p849XKuxkKntLR4DfeFRbUHMY7klUMg3LIy8Cma058JbbD45A35kj5BTDF21DJoVdj2Mw60Nws8tz2o+wBgGv7t0M5lgjSw2w7JPB/E6h7+8SfG+CVYUtBqkHYaqPsE3u0cyo4yZt/Wmz/1eL62rMjy8NElr7Fi9axLnxmV+KY3D1WyhQvxLzvzg4EZZm9RySK7rVqHvwUypVk3Texdbyzy3CKoik5OzNX3gCANqlYThYteG1CWqgTDpmUgh8EZ4y8eNtmW5dkZHD2E4GsS86Rzjm0MN1d0R39rX4SHk8Qmadmy9q4P7lZwqCegqIr+jN64kgwT+uTwM8Z/Mo39b4PZ+xvuUQik9+l6JhNj3b6zpYp358pE9NRP1YnWPvIwN5FqVHt+Z3GUOUDSXslx6hn5ROoXcMSWpVXDQBEguiNdpy1lYJ7eORogifsIDgwGEAwMuh97icNXGj7dAtXMJwjKHY6i5R7CqsNtbr2rbUzJlIqBQnA==;LZq+7fVNgYSDoVuZi+Vhtg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-bard-update-image-generati
 webUrl: "https://www.androidauthority.com/google-bard-update-image-generation-3409958/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       name: Latest on SAYS
       domain: says.com
     quality: 19
-  - title: "Meta’s Latest Update To Code Llama Transforms The Leading AI Programming Tool Into Its Largest And Best Performing Model Yet"
-    excerpt: "Meta's Code Llama 70B tool surpasses ChatGPT-3.5 with 53% accuracy, promising advanced programming assistance."
-    publishedDateTime: 2024-01-30T10:01:00Z
-    webUrl: "https://www.digitalinformationworld.com/2024/01/metas-latest-update-to-code-llama.html"
-    type: article
-    provider:
-      name: Digital information world
-      domain: digitalinformationworld.com
-    quality: 12
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjjzKfHh2GfJHAPaSL-hPmIm8pE-oDlFJw4ghS_6aMlkyXBvqkhriPtCRKwXn8HrkRNfVKHVAMKomA_STBEpXCBB-R1FXMUFVSa03u3TqTtUmuApFWyPo5iMVbyOLaCMe4nniCsWuoqOMEmn632hQjGtxWrZhDzpJShf8AUjBn_e1wYzpjQZE3gLwT0rC/w1600/met-o8.jpg"
-        width: 1024
-        height: 804
-        isCached: true
 
 secured: "R/QXbLJrMAsif/xSuTGeswekF/SZ4Np9wWuRDuO9cN3d0WmwldUdtrREnL6REqn3o0rlCJF/OjIUPCgXBQlSIf1QRFrBRzIJa/ewrxB9L4sU4vD044RcBeRSHo6gGFbAT2SfN0V03AhqCqf3+CZ1Ln1DUgJN1uBSDId1Coap5MKSv6ipQq8vhhjWPdIF6UfQaVzj4UJCBVWyZZyv5qFSLlvV2la3btVVqwbwRQHqa8fxf02OsB5aSMwMMw6Lyc7IrXi1LaAFpQZmP75qMmBbk8+3xA4kd3aANuM4AhzYDyz0jGVZIjKlQTM91VGosZJM2aTV3YigzdI8N5w/6Vsc4RxWZfJlyr7JekIQCsOnAhxf6Wn6mmFnoMKxzOd/qWc/x/cpNW5cfHJ1eTNpwML1+ErLxdv0jgXBQSYtMaaL+SI+wIkTNdlkow3lw5wvPPirovwApHaECImCNyeQo66WF0mnUtmEHqkTu76ktgc+12ez2lIWfFHoKZHcrupPxFOI0HlXR8we8ueKQUPWI/j4yQ==;wEOsofz3go3yK1/i/0+N7w=="
 ---

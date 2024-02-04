@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Utilizing Active Microparticles for Artificial Intelligence"
-excerpt: "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with electricity but with so-called active colloidal particles."
-publishedDateTime: 2024-01-30T09:29:00Z
-originalUrl: "https://www.technologynetworks.com/applied-sciences/news/utilizing-active-microparticles-for-artificial-intelligence-383249"
-webUrl: "https://www.technologynetworks.com/applied-sciences/news/utilizing-active-microparticles-for-artificial-intelligence-383249"
+excerpt: "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so-called active ..."
+publishedDateTime: 2024-01-30T00:00:00Z
+originalUrl: "https://www.technologynetworks.com/neuroscience/news/utilizing-active-microparticles-for-artificial-intelligence-383249"
+webUrl: "https://www.technologynetworks.com/neuroscience/news/utilizing-active-microparticles-for-artificial-intelligence-383249"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: technologynetworks
@@ -24,6 +21,6 @@ images:
     height: 360
     isCached: true
 
-secured: "A1qLOKs7+RGle3jmZAdOGtMprDWFOQ9Ix5HY6eTYUnxI6BymT9+Q3rg0fYCa9wkfkKo6DCm5oQyJBBZsyCbwLonB/aE95WFZ6Q5Xy0ypj6dWPzxkOZOi7zt4wPxpa+cl6swhto9ezSHpKJVbfVZCg3RWE9TGPyc9CujcXd748zaIb6+6Kg5YQaZwHQHzYlTEiaEoSRGdMqZH3KVArh5s8X11+lM8MfKcEqWg0hGkM+wn1u1ed/Rf2nuN+7U+6+en8SEKO2eKQRi9bVkoMY3hw3jHaDxgt0rNuBlvZ+hcwxUcrQxOA2mbm4Q6T+6TpXXwwB/vGwlgFfggJW7QB3o1cZSMJ2CFZjJMMDB9G/BOJr99QN33np1dNExcvv93MQdPiTIXK41vXjrhnO5HZEWmi2xzaRzCxK4MCD7/yAcW7RGgbGMaPPOW/slaNklOF0vqHkELj0/NrmFolntEwGLap0z4vn9NjbXipNBMuM6DUMmrCWTD6JT6AEjhAeks50fY+Ycy1dNe3fTfmG52cUOH0Q==;u4G2j2bGTW1ZiM1Ktmh8+g=="
+secured: "THHGwbBnDbtIMvDQ+FAGdzMqBXlMaYYoxSNk1Me/iFeuAU0pBA8bmpLJSHM3Y4S+w9s+HaiGm/4LssGfNI7FCoTn6u0vCbNInnkaNqMWz0NX8z9y+kD7TLnxfHSd5FXw3xZEUfuFvEBGN/DivyV1IsSbzNdcHD6edrIUjjVRLqW/Vj86VB69zcfKOWdKTj+/pQvOAw3DswT2WWMn1qcQNE5zAL+c9IxZhRBqPMmgzvPKKQLwUu14JXWbTWF8jXW5+s5CPXnXOjWBZu9N1L9PZxOn6hgn59YyqJFNlneV8eFjJPRYal/GiiK8tUccBBdNmHJk1sJwukt8zHTcB8y0VYYHpPeaLGoanfq9ThZOjmw=;hfwD9elVCIe0OB8uXklwww=="
 ---
 

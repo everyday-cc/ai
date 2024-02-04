@@ -43,22 +43,6 @@ related:
         width: 855
         height: 775
         isCached: true
-  - title: "Meta releases new open-source AI coding assistant Code Llama 70B"
-    excerpt: "Meta has released its latest version of Code Llama called the Code Llama 70-B which it has called its best and most powerful coding assistant."
-    publishedDateTime: 2024-01-30T10:16:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/8pwml7/article67792337.ece/alternates/FREE_1200/2024-01-29T182506Z_91499539_RC2WH3ADVC2D_RTRMADP_3_TECH-RESULTS-ADVERTISING.JPG"
-        width: 1200
-        height: 768
-        isCached: true
 
 secured: "ux3cNYvruyXUrYmsfx+o6yUO/MBJP9UN7RtcgRfY1hW9+9MIZQl5ghHaWhcEQieyWrz6k9s97HE0P9hPz6YhE4feOaTqOQQDO4XqVdwHsiW85LuGJO499ecWxqS8BungnWsWtZcRwPZr95t/qnXAlfvm5UEc1Wpl/0ZKxB4XQwjEtwNDmRLiwkeP2RL318Mp2jHQC4q4aeWL9KKKu8fFXCW7l++4rwksRxG0Ycuy8y5uqazNFErPqDFLmEmXCkr9XrHnmm0EgkqJp7xG1sJ3oltw8e2ubWqop8/4la8k9fXKiHng8qaRAiHkO5xz55BM8ml2U06QHCiZtdRZtDfMKvYPEADWeC9rHBu2DHgvxrs=;thX6daPasMGM5TonQu+7PQ=="
 ---

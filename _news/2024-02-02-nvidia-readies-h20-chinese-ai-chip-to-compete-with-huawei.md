@@ -47,6 +47,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia’s tailored-for-China H20 AI chip now available for pre-orders, set for competition with Huawei: report"
+    excerpt: "Nvidia has begun taking pre-orders from distributors for its H20 AI chips, priced almost on par with Huawei’s Ascend 910B."
+    publishedDateTime: 2024-02-04T09:44:00Z
+    webUrl: "https://technode.com/2024/02/04/nvidias-tailored-for-china-h20-ai-chip-now-available-for-pre-orders-set-for-competition-with-huawei-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 35
+    images:
+      - url: "https://technode.com/wp-content/uploads/2024/02/nvidia.png"
+        width: 1089
+        height: 683
+        isCached: true
   - title: "Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market"
     excerpt: "A summary of the report from Wells Fargo Equity Research was posted on X by a Microsoft employee, and it contains some interesting insights into the data center GPU market. Chief among those is that Nvidia is projected to earn between $37 billion and $45."
     publishedDateTime: 2024-02-01T17:32:00Z

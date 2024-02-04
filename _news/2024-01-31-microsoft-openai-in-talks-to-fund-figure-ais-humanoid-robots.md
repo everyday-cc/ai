@@ -175,22 +175,6 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 75
-  - title: "Microsoft set for AI-powered revenue surge"
-    excerpt: "Microsoft is expected to report a 15.8% jump in quarterly revenue, its best growth in nearly two years, as rising adoption of its products infused with generative AI fuels demand for its cloud services."
-    publishedDateTime: 2024-01-30T10:38:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/microsoft-set-for-ai-powered-revenue-surge/107261368"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107261368,imgsize-6776,width-1200,height=765,overlay-etbrandequity/digital/microsoft-set-for-ai-powered-revenue-surge.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Generative AI boosts cloud revenue for Microsoft, Google"
     excerpt: "While the rise of generative AI has bolstered Microsoft’s revenue from its Azure and SaaS offerings, it also helped Google grow cloud revenue to the point it’s now 10% of Alphabet’s revenue."
     publishedDateTime: 2024-01-31T14:14:00Z
@@ -297,6 +281,15 @@ related:
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
+    quality: 64
+  - title: "Microsoft touts AI strength, but shares dip as market digests costs"
+    excerpt: "Investor buzz over AI helped Microsoft's shares rise by 57% in 2023. But this has also increased Microsoft's costs, and investors are watching growth in its Azure and Office business closely to ..."
+    publishedDateTime: 2024-01-30T23:59:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-01-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 64
   - title: "Buy Rating for Microsoft on Strong Q2 Results and Impressive AI-Driven Growth"
     excerpt: "Microsoft’s Azure cloud service, including its AI services, experienced a significant year-over-year growth, outstripping the guidance and market expectations. The contribution from AI services, in particular, doubled and now represents a substantial and ..."
@@ -493,20 +486,6 @@ related:
       name: FXEmpire.com
       domain: fxempire.com
     quality: 54
-  - title: "Microsoft touts AI strength, but shares dip as market digests costs"
-    excerpt: "Microsoft beat market estimates for quarterly profit and revenue on Tuesday (Jan 30), as new artificial intelligence features helped attract customers to its Azure cloud service as it built out its own AI services."
-    publishedDateTime: 2024-01-31T09:02:00Z
-    webUrl: "https://www.channelnewsasia.com/business/microsoft-ai-strength-shares-dip-market-costs-4086751"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Sqmu8y3r--/c_crop,h_450,w_800,x_0,y_0/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-01-30t210430z_2_lynxmpek0t0oq_rtroptp_3_microsoft-layoffs-headquarters.jpg?itok=fUTa4xCY"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft again blows away earnings estimates as AI’s contribution grows"
     excerpt: "Growth of 30% in the Azure cloud business was a big reason for the quarter’s success, beating analysts’ estimates of 27% growth. Microsoft attributed 6% of that expansion to demand related to its Azure AI and other AI services. That was twice the AI contribution of the previous quarter."
     publishedDateTime: 2024-01-31T00:55:00Z

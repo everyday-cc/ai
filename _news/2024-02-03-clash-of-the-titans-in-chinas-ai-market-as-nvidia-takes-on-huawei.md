@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawe
 webUrl: "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/02/image/jpeg/3BYqG1Ho4scPJvxuv4RJ0uCyZIpI9DYqaKhfo0oY.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Nvidia’s tailored-for-China H20 AI chip now available for pre-orders, set for competition with Huawei: report"
+    excerpt: "Nvidia has begun taking pre-orders from distributors for its H20 AI chips, priced almost on par with Huawei’s Ascend 910B."
+    publishedDateTime: 2024-02-04T09:44:00Z
+    webUrl: "https://technode.com/2024/02/04/nvidias-tailored-for-china-h20-ai-chip-now-available-for-pre-orders-set-for-competition-with-huawei-report/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 35
+    images:
+      - url: "https://technode.com/wp-content/uploads/2024/02/nvidia.png"
+        width: 1089
+        height: 683
         isCached: true
   - title: "Nvidia Readies H20 Chinese AI Chip to Compete With Huawei"
     excerpt: "Previous reports claim that Nvidia aims to begin full production of the H20 in the second quarter of this year. Nvidia may also be working on additional China-specific AI chips, but there's no information on the alleged L20 and L2 accelerators."

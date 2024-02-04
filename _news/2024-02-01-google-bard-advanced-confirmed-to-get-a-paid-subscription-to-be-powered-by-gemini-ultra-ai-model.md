@@ -41,6 +41,36 @@ related:
         width: 1971
         height: 1108
         isCached: true
+  - title: "Google Bard could soon become Gemini, and appear inside more apps"
+    excerpt: "The AI chatbot Google Bard is one of the fastest evolving apps in the Google collection at the moment – and it looks as though its branding is about to evolve too, with Google set to rename it as Gemini."
+    publishedDateTime: 2024-02-04T10:30:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/google-bard-could-soon-become-gemini-and-appear-inside-more-apps"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/caBse9FshggzUAGoJ6u5wX-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why is Google Bard changing to Gemini? Here is the reason"
+    excerpt: "Gemini Advanced is a paid plan available in over 150 countries and territories. The Gemini app is coming soon, starting with English."
+    publishedDateTime: 2024-02-04T10:34:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/why-is-google-bard-changing-to-gemini-here-is-the-reason-2024-02-04-915201"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/why-is-google-bard-changing-to-gemini-here-is-the-reason-2024-02-04-915201"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/why-is-google-bard-changing-to-gemini-here-is-the-reason-2024-02-04-915201"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 44
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/gemini-1707042309.jpg"
+        width: 360
+        height: 202
+        isCached: true
   - title: "Conversational AI Brings Google Gemini to Google Ads"
     excerpt: "See how AI is transforming digital advertising with Google's new conversational experience, streamlining complex campaigns effortlessly."
     publishedDateTime: 2024-01-31T11:31:00Z
