@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/industry-veteran-dennis-martin-jo
 webUrl: "https://www.asiaone.com/business/industry-veteran-dennis-martin-joins-fintech-start-advanceai-lead-credit-reporting"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 316
     isCached: true
-
-related:
-  - title: "Dennis Martin Joins ADVANCE.AI as Credit Reporting CEO"
-    excerpt: "ADVANCE.AI has announced the appointment of Dennis Martin as the CEO of its credit reporting business in Singapore."
-    publishedDateTime: 2024-01-30T03:32:00Z
-    webUrl: "https://fintechnews.sg/84330/ai/dennis-martin-joins-advance-ai-as-credit-reporting-ceo/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 39
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/01/Dennis-Martin-Joins-ADVANCE.AI-as-Credit-Reporting-CEO.jpg"
-        width: 1024
-        height: 567
-        isCached: true
 
 secured: "XrN1l9X7MFRDzfiLXQHicy2XJc35wjCfM8+AghshxaJbo3ZASz9nhBLGiak7brmTrbjGZj0AtCQpfAKN8OEE//EQK3p1ItI/REjzjJkF4aixarfq+uxpy/guJeRJGp+D9z/X/rwE8FbDzJ+pSTBOJBtZDOOPb/pzKuzCCNv4911hDA+JfPTrbTkFy9ByBONFiZIV710+usJTM85cr1KUA12QMZdV2uwKBB7Trze0WHDTDcTpc4IHuz/qtrAa+smLuajQLrhVwsb0Ng0l2ahgeqPehBmWCOIPcayaAsieFfJ2gwgge2DQf5Ea4y47B2dlknivvncZZRO0FUw+lqyLfQwNLzud3ewlvxscmGVS6oTRvAW45BSqxV/ueOX6URmjL+XIQP7TozoRFRmHPQLA1LIu8QQwwrOMOHq0xtBczs+KRRFd/JV9gTTJZ3KkkQtJEWAr/kG9MIKOwlBkEluHKOOschzKvqLvv4pK2RYiQlNIxEYIAyH8YywBM3vTtNV7gUs4AL+5BIZDnlkNGSHLXA==;nOyT/bSaEI6yWmSwR4uRjg=="
 ---

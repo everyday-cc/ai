@@ -25,91 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Debuts Code Llama 70B: A Powerful Code Generation AI Model"
-    excerpt: "With Code Llama 70B, enterprises have a choice to host a capable code generation model in their private environment. This gives them control and confidence in protecting their intellectual property."
-    publishedDateTime: 2024-01-30T04:04:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b88090390e91395111f5d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 560
-        isCached: true
-  - title: "Meta releases ‘Code Llama 70B’, an open-source behemoth to rival private AI development"
-    excerpt: "Code Llama 70B is a new and improved version of Meta AI’s code generation model that can write code in various programming languages from natural language prompts or existing code snippets."
-    publishedDateTime: 2024-01-30T03:46:00Z
-    webUrl: "https://venturebeat.com/ai/meta-releases-code-llama-70b-an-open-source-behemoth-to-rival-private-ai-development/"
+  - title: "Mistral CEO confirms ‘leak’ of new open source AI model nearing GPT-4 performance"
+    excerpt: "An anonymous user on 4chan posted a link to the miqu-1-70b files on 4chan. The open source model approaches GPT-4 performance."
+    publishedDateTime: 2024-02-01T01:43:00Z
+    webUrl: "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 61
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Code_llama_be1422ea-d027-46ed-9491-c3b76df94971-transformed.webp?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_overhead_view_of_the_eiffel_tower_rising_from_a_landsca_d374695a-bca7-4db7-abcd-d30ef5fd0e04.png?w=1200&strip=all"
         width: 1200
         height: 672
         isCached: true
-  - title: "Meta releases new open-source AI coding assistant Code Llama 70B"
-    excerpt: "Meta has released its latest version of Code Llama called the Code Llama 70-B which it has called its best and most powerful coding assistant."
-    publishedDateTime: 2024-01-30T10:16:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
+  - title: "Why open-source generative AI models are still a step behind GPT-4"
+    excerpt: "Researchers found Llama 2 fared not much better than random guessing in a medical test, while GPT-4 almost got a passing grade."
+    publishedDateTime: 2024-02-02T06:05:00Z
+    webUrl: "https://www.zdnet.com/article/this-is-why-open-source-generative-ai-models-are-a-step-behind-gpt-4/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/8pwml7/article67792337.ece/alternates/FREE_1200/2024-01-29T182506Z_91499539_RC2WH3ADVC2D_RTRMADP_3_TECH-RESULTS-ADVERTISING.JPG"
-        width: 1200
-        height: 768
-        isCached: true
-  - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
-    excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
-    publishedDateTime: 2024-01-30T04:22:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/meta-code-llama-70b-generative-ai-model-launch-download-9133992/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 34
-    images:
-      - url: "https://images.indianexpress.com/2024/01/meta-code-llama.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Meta releases Code Llama 70B, the company’s largest coding model"
-    excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
-    publishedDateTime: 2024-01-30T22:13:00Z
-    webUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-generative-ai/706065/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 24
-    images:
-      - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
-        width: 770
-        height: 435
-        isCached: true
-  - title: "Meta Unveils “Code Llama 70B” an Open-Source Coding Tool"
-    excerpt: "The availability of Code Llama 70B on three versions of the code generator is what sets it apart from its predecessors. It continues to cater to both research and commercial uses while remaining free. The model’s training on a massive 1TB of code and code-related data contributes to its prowess."
-    publishedDateTime: 2024-02-01T04:31:00Z
-    webUrl: "https://www.dqindia.com/meta-unveils-code-llama-70b-an-open-source-coding-tool/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 4
+      name: ZDNet
+      domain: zdnet.com
+    quality: 49
 
 secured: "BfrOiKRirmDfrWaj35iJ9SObl/LkRd1vrcdbqINDg4CPGrMgNSP3bHZ4AaGncqKT+b8XDMm595gLujz6x0yqZuKLUWEESjkEZJ5VxnUmgxbm2Z4PmxyYe3SFN0y/azBB1myQRy9MZdCFOggLiAUnqHQbNBdb1BX6/oySfICgoawp2B2ghdYsSINuF3kXFBseJz/KlIp3n8yUlirsaoI6Z0SPZR5jw7cJKVbXrODtX3m44+iIOUJpRqZYWg8krnq4paKce81Lum2unD+vuKL918SwlD8Qwvvygy4JrLg06NGuU5Z/qGpGcqvo4In82Ucz6iuM77N/rRuUXlbFPxFLOdPwmddppTecsxP4T4ZTbVI55OyBrzc8/vF8VPL/sjHcR3LU1+4DAzu9SMoVFlUiophaj5EQgMnCrv64s7FiMqNE5gVDTQGfc1TGEV8IQUCFzzf+AaHVcsiFekCHMxKUCYkoYy/TA8keZ0EnvAa1ResBLAwc5+9fCO3sTSSOCNueYxjAQJfAcXJEUMQMEjPUlw==;x7B5doI8EL8CnnCMGxQMrA=="
 ---

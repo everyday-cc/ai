@@ -47,20 +47,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia’s Big Tech rivals put their own AI chips on the table"
-    excerpt: "The boom in generative AI over the past year exposed just how dependent big tech companies had become on Nvidia. They cannot build chatbots and other AI systems without a special kind of chip that Nvidia has mastered over the past several years."
-    publishedDateTime: 2024-01-30T03:43:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/nvidias-big-tech-rivals-put-their-own-ai-chips-on-the-table/articleshow/107247391.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://img.etimg.com/thumb/msid-107247443,width-1200,height-630,imgsize-61408,overlay-ettech/photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Analysts Estimate Nvidia Owns 98% of the Data Center GPU Market"
     excerpt: "A summary of the report from Wells Fargo Equity Research was posted on X by a Microsoft employee, and it contains some interesting insights into the data center GPU market. Chief among those is that Nvidia is projected to earn between $37 billion and $45."
     publishedDateTime: 2024-02-01T17:32:00Z

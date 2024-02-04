@@ -44,20 +44,6 @@ related:
         width: 1348
         height: 900
         isCached: true
-  - title: "AI, sustainability and enterprise tech marketing take center stage at CES 2024"
-    excerpt: "At CES 2024, we witnessed a wide range of innovative applications in AI, sustainability and enterprise tech marketing. What was considered a new innovation just four years ago at CES 2020 is now more advanced and mainstream. We are seeing an increase in the promotion of AI in its various forms."
-    publishedDateTime: 2024-01-30T03:30:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/ai-sustainability-enterprise-tech-marketing-take-center-stage-ces-2024/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 50
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/AI-Sustain-AdobeStock_581983652.jpeg"
-        width: 5000
-        height: 3333
-        isCached: true
 
 secured: "4u4x8kIVCvYtEZvyZo87bc5wjrKjjMH5nYk5LRGRuoIXDKQ/ONqOIiZ7bg/qxBiYpGAsqXFkkahRlDNJid55MHtOPyvw0mYJvmevYRjL4fSt6IfReOUBmGh5XMpCA/efBkBzh4j87dC+Hso7b8lJCLVZKMl5qV65w+UOGc5/3WWGE7XZCyigk82Jcg8Y8NEu9ue1zHaXUrTeyhNE20NQ5bX0yR0g2zLAbH/TrfaD6HnnjMqxUYdutFJzQF2QNvJBEjToIMWY8YqrRGggW4SnLySi3AiwDRt3zQa2dw8JrXxhNfd+W/oRcFMZkbONLMlckcQZOhzlOQ+5qb586OTTk4GcAldzaQIfRHp2O/BXew4=;RRv3/J8VN93xYH1FaX8LLA=="
 ---

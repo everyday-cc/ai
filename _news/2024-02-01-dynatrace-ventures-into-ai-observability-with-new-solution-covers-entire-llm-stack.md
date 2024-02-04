@@ -39,20 +39,6 @@ related:
         width: 1355
         height: 900
         isCached: true
-  - title: "Network Security in 2024: Artificial Intelligence, Observability, Simplicity, and Beyond"
-    excerpt: "Looking back on this past year, the network and security space has experienced a series of major advancements, as well as brand new challenges. The"
-    publishedDateTime: 2024-01-30T04:21:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/34768-network-security-in-2024-artificial-intelligence-observability-simplicity-and-beyond"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 45
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/1d4b41e77fbc585f9b26a114ef5a1dcc.jpg?t=20240130_040639"
-        width: 1124
-        height: 549
-        isCached: true
   - title: "Dynatrace Launches AI Observability for Large Language Models and Generative AI"
     excerpt: "It also supports the major platforms for building, training, and delivering AI models, including Microsoft Azure OpenAI Service, Amazon SageMaker, and Google AI Platform. Dynatrace AI Observability leverages the platform’s Davis AI and other core ..."
     publishedDateTime: 2024-02-02T00:00:00Z

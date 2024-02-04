@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-as
 webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meta releases new open-source AI coding assistant Code Llama 70B"
+    excerpt: "Meta has released its latest version of Code Llama called the Code Llama 70-B which it has called its best and most powerful coding assistant."
+    publishedDateTime: 2024-01-30T10:16:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/meta-releases-new-open-source-ai-coding-assistant-code-llama-70b/article67792356.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/8pwml7/article67792337.ece/alternates/FREE_1200/2024-01-29T182506Z_91499539_RC2WH3ADVC2D_RTRMADP_3_TECH-RESULTS-ADVERTISING.JPG"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Salary data revealed: Here's how much 16 top US and European AI startups like OpenAI, Anthropic, and Hugging Face are paying staffers"
     excerpt: "Industry leaders such as CoreWeave and Databricks are shelling out base salaries of over $200,000."
     publishedDateTime: 2024-02-01T11:00:00Z

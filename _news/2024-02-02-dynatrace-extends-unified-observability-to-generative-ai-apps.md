@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-e
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/01/dynatrace-extends-unified-observability-to-generative-ai-apps/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Network Security in 2024: Artificial Intelligence, Observability, Simplicity, and Beyond"
-    excerpt: "Looking back on this past year, the network and security space has experienced a series of major advancements, as well as brand new challenges. The"
-    publishedDateTime: 2024-01-30T04:21:00Z
-    webUrl: "https://www.thefastmode.com/expert-opinion/34768-network-security-in-2024-artificial-intelligence-observability-simplicity-and-beyond"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 45
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/1d4b41e77fbc585f9b26a114ef5a1dcc.jpg?t=20240130_040639"
-        width: 1124
-        height: 549
-        isCached: true
   - title: "Dynatrace ventures into AI observability with new solution, covers entire LLM stack"
     excerpt: "Dynatrace AI Observability monitors the entire AI stack behind applications, right from the infrastructure layer and foundational models to semantic caches, vector databases and orchestration frameworks."
     publishedDateTime: 2024-02-01T03:02:00Z
