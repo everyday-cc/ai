@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla will spend billions of dollars on NVIDIA AI GPUs this year, will also buy AMD AI GPUs"
-    excerpt: "NVIDIA already commands an estimated 90% of the AI GPU market, but Tesla has said that it will be not only using NVIDIA's various AI GPUs but also AMD AI GPUs but didn't specify which of AMD's AI GPUs it would be purchasing. Tesla boss Elon Musk did state ..."
-    publishedDateTime: 2024-01-30T14:08:00Z
-    webUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 61
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95840_91_tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd_full.png"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "Mnia+QGFuZ9JSAUVnyWUFri8U+NXR0Oig5ddH8qK5y5ixB7y3sWNDVp9m5j+U+MvZj7MMHhdzATqk7QoU9cOgh1kQBiamaHb6I5zSFylKxZMBrn3Q7HIrdQO08HuXcBA0yXN3GYaaqIEjmGYs7dHtiMrTNcfflJi9+3P+0IyEEc6DocBwQgJ9C3ZbfJTXJqVAfAGw544/vqxIpnWF03SgLEhuHQkp4s706qthbF+pkMqeXEl31TL+omcgFjr7DTF4rIrIxlVHyA1KN6gUTHS8IGOV2FrrC45AQcwbnU5DJGS3ptFuS/64Ma3ZTWmhLVYqfnOczTwGz70R8SytqR2JJ3r0SuPNBgqP6K1tp9CWeFeI7aCn3Hc9xUISTIlRqu9Zv6clr1YRaRzmQIpVb/KRUyQkaBdHBMLgke93HikrvKSRtAza8QtSXFUN0mLOGvN1RHe7KBgf26GsJlK+ubcZCoeX+aom1Y06VVnwHxPuKfOb6gyrmYiKizI2OY/UtZSY+2sQUVBZyNSI35RPH9KYg==;PBfzg732UoL+x7+m9sDthw=="
 ---

@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Apple Plans To Buy AI Startup To Strengthen Its Vision Pro: Report"
-excerpt: "Apple is planning to acquire a German AI startup -- Brighter AI, specialising in anonymising face and licence plate data,"
-publishedDateTime: 2024-02-04T12:46:00Z
-originalUrl: "https://menafn.com/1107807552/Apple-Plans-To-Buy-AI-Startup-To-Strengthen-Its-Vision-Pro-Report"
-webUrl: "https://menafn.com/1107807552/Apple-Plans-To-Buy-AI-Startup-To-Strengthen-Its-Vision-Pro-Report"
+title: "Apple plans to buy AI startup to strengthen its Vision Pro: Report"
+excerpt: "Instead, Brighter AI can alter images so that subjects are no longer identifiable. It accomplishes this while maintaining natural appearances. Meanwhile, Apple officially launched Vision Pro in the US on February 2. It starts at $3,500. The tech giant has announced more than 600 apps and games designed for the Apple Vision Pro headset."
+publishedDateTime: 2024-02-04T14:01:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/apple-plans-to-buy-ai-startup-to-strengthen-its-vision-pro-report-856405"
+webUrl: "https://www.thehansindia.com/technology/tech-news/apple-plans-to-buy-ai-startup-to-strengthen-its-vision-pro-report-856405"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?984991"
-    width: 333
-    height: 250
-    isCached: true
 
 related:
   - title: "Apple is reportedly preparing to buy an AI startup to anonymize private data in images"
@@ -41,6 +35,6 @@ related:
         height: 526
         isCached: true
 
-secured: "ttd/w1irNhpzHbd9HW9mtNJneV07SH1z4OLd4l09zp/AOHUd3UB1E5a/FjHeudvrJUTHXShJ7CdJz7KdBLQiIuWWtEjantSRFQRJZqXSEHKK0eaZ37i7wYvxCZC1vzfzCKLGCdtKHo22CG09QHb/e5zpjU7WsYeu0rDW+fvSAYQE6Qh7/dr/ZNZxmaBowEJDf8N6Hu6K2cCEwuQ8ko9dKIU5HrNKH4ujFBfMJWQQVzaOzioJyU5jxCPpExiq5qko/lscZ8nO+P0Y8j8b+HBqwxDNt8azK0ZsFTocl23cV4PLTkMLfC4U4BRePOddKrw4LPf+BrIb6w8uxqazcxsDW28IOwvS2z7lTwYm1NR8HbM=;iz4wvERxZz0JBXqbIssNwg=="
+secured: "qRlKqTIDan5CZTExStaMgkhlJQSrUGSmGf4G+z13UMIlCGmM8vEXUutVrXL9cG7gi7BO5eYvt/dcjkEcmJe+CbgWEAw/o4Vtm0b9HXJQrYMTNFcmXaRPgrlYeisFyj2oa6n/6GZNNJV5HF/R0RRy4G4DRNO7j3BLRNslxMTlZFqRjcZKa9JE5UdOTn79GPZ2yPKTNBgcjY3Uzxwk4wzxDgumKXuk4W/KZVLbs/E6UOCdJ3I0D2tWQFHxoyVG5+d5cmkwnn+1l4ZiwzVUqZnRnwMVzv0nDSdj2tE6CeYAoTjpqZh7udXmbQX3EVRSK9A4/Z87cbk+Vzm2e7yaxoufT3ZTRKVAkKu0153Zr+yp790dJNVksFhd5D954QRj8ltksU6kRWNwCzrqoekO6FlOjF7FutIzQohiMF9lQ7XivGur9Vbw0vTzYvFJKttaSTnwby38oHzCBt60f1azPOJfRCNLLYz8fmTQFBu3IDHjrLI2/Xwo1vp6+PPqFG9+DJycKm4QMzfY2/NX7DeLdIONgA==;2cWLxPDfOsCmDs01yNdFEg=="
 ---
 

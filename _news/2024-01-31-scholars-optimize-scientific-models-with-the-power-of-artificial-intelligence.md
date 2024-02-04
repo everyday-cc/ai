@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Elevate Azure expertise with new AI and optimization video episodes"
-    excerpt: "Organizations of all sizes are embracing cloud computing to enhance their operations, optimize resource utilization, and gain a competitive edge. However, navigating the complexities of cloud adoption and ensuring optimal performance can be a daunting task. This is where the Azure Enablement Show steps"
-    publishedDateTime: 2024-01-30T17:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
+  - title: "How to Use AI to Amplify the Potential of Your Team"
+    excerpt: "Implementing AI should start with small, focused projects to assess its impact, with ongoing evaluations to adapt use as the technology matures, coupled with ethical considerations like data privacy and bias. Opinions expressed by Entrepreneur contributors ..."
+    publishedDateTime: 2024-02-01T00:00:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/how-to-use-ai-to-amplify-the-potential-of-your-team/468667"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_Blog_240125_V01.png"
-        width: 1260
-        height: 708
-        isCached: true
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 47
 
 secured: "pgZEmgiIvZA1oSVd0By5RMOD9wMKymVnJ7lo352oGnQQgX+pzOT8XXzWmEWBYwao8meSiIKFvKl7cHux+Iz6ijzcGEsHrj30dW4UezOEXU7YlaO04o9i4DD5gLRpr1Xf7VH3hNS2vk6gul8pm2/0CTmOo3agK0UteBTcp9lmEwMRQa+4vDHaGQJdjLa84diVlUbl306Re1C98byU1+7eXL9jLB8Xj8Yao4oJcgbMO6ZZoAlsYHwDnyIBvpku+Uwd9KtxsWdKiFW9GzqikhNBDpmkorSyON1Ls9g0xOhpcZcr1BPjrUA351tnuM0yhAuH1PbR8d8DAaI/mmbVOKr89Higd/wQL74P9pAIDre9XGLi8i3OZreEg+AZOCPof+nqjvbrploZ2luq4UYy2bTGqSL8I6OR66UjF6TxdGr1IDpg/9jNw0sUzONNmrjPaFku+S9dbXVrJ+A3RGjqIxZkoY0EUeTmXtlcvpTjLqx7RdOEaAXb3sV7t7EiuVcHjX0/iUVDi2Jz2OmlGqR+TFPqDA==;SiYknP6XJLALt05goA0fGw=="
 ---

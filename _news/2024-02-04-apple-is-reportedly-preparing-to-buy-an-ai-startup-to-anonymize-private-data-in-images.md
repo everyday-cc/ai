@@ -26,20 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Plans To Buy AI Startup To Strengthen Its Vision Pro: Report"
-    excerpt: "Apple is planning to acquire a German AI startup -- Brighter AI, specialising in anonymising face and licence plate data,"
-    publishedDateTime: 2024-02-04T12:46:00Z
-    webUrl: "https://menafn.com/1107807552/Apple-Plans-To-Buy-AI-Startup-To-Strengthen-Its-Vision-Pro-Report"
+  - title: "Apple plans to buy AI startup to strengthen its Vision Pro: Report"
+    excerpt: "Instead, Brighter AI can alter images so that subjects are no longer identifiable. It accomplishes this while maintaining natural appearances. Meanwhile, Apple officially launched Vision Pro in the US on February 2. It starts at $3,500. The tech giant has announced more than 600 apps and games designed for the Apple Vision Pro headset."
+    publishedDateTime: 2024-02-04T14:01:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/apple-plans-to-buy-ai-startup-to-strengthen-its-vision-pro-report-856405"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?984991"
-        width: 333
-        height: 250
-        isCached: true
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
 secured: "jqxCjpjOLG7ibDWxyhAfpfxeSkjmF59hGS8sxGbs7aBb8g/2mYUHLwnuss9av2LQhHtJPNjkm49pAHeHNHl5Q5/cjMn8pP3NC8J8N0VMWhGyQvFaLzz18RfF622hZD+M2RGPfGl+YsvKE1BYGA0YKQ7EIVcm6ftJrknKMoqJomLc/A/1qH2PZSgSlOOunTwkZPzVlmhfx19+f18Kv+4Nnf9NInni1ggQmWCovXYUCyzKZteFr8izMgkoNoXnNVxSyAkVu2GL491XyJy/SSGwxVI2bD3hYtPxHY/mYsi6QDUog7EYHO6zfcXnVk+O+q+OkLR3dACEtnPIeN4l41rM9xXz2qGIuMEG0gUFMOYrSYM=;NMMF2duyQ3Hd7akhtvoQbw=="
 ---

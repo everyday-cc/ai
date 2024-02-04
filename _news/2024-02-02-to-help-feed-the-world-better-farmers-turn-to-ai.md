@@ -51,20 +51,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Impacts of Artificial Intelligence on Education"
     excerpt: "In the realm of education, the advent of Artificial Intelligence (AI) has brought about significant changes, both promising and concerning. As technology becomes increasingly integrated into classrooms, it is essential to scrutinise the pros and cons of AI in different aspects of education."
     publishedDateTime: 2024-01-31T23:30:00Z
@@ -74,15 +60,6 @@ related:
       name: This is Local London
       domain: thisislocallondon.co.uk
     quality: 34
-  - title: "The Growing Role of AI in Automotive Assembly"
-    excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/98295-the-growing-role-of-ai-in-automotive-assembly"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 21
 
 secured: "pKTPUo85pYHSWlXtDY7OyIFBUusHxuxyuBFNRitPKwGvWijI10iNqPD9RNZSBjjXhFDTJmPpUvo4QTr///ICnBSPqWLZaiYMBYZP/viNroup7lLKdxTzz5JIpU60rtDRWGGuzCO5Dp8Lp2nklV3FbbwYNuRh1lonazB0Kesma5f5p1EWqt09NrN22P4Q1nE/qRWy4mSmJ1ZYvmvh9w7BhjXSjPwfL6BzNDM7E2nVY5jTdlX1GAF7E6b8WFiVdyOuVse9JyiQqJSzIdy6d/OtnaVYJI/8tkN9w8QpPcOAkwZqQJM6R5Eiu+BKvb9n8PKrWsJRR488dF1E79Rb1bhRGI55FFz0z2cRUK9771lxX3wJk7ZM7X+Jli0kwLu9CM4JX6jRONVsOPgvZNUjEFCt3eTNdEowMXJlOOXtgLQ2joUvoTX/yvwy8HxrgdCHgNMDW7VGUYtfMw7ptXExTXP/FO3RmbnuKpzkpfbDZXq2PZyk6kiKciTpX3eX5P/Tz7DomTHxyVY8wjgllfONnM9MIQ==;S9kbOR8GfgXWfHmJIpmPPQ=="
 ---

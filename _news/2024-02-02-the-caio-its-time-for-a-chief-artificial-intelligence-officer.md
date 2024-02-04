@@ -52,20 +52,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Peter Diamandis on Why You Might Need to Hire a Chief AI Officer"
-    excerpt: "The futurist and founder of the XPrize Foundation explains how innovations including artificial intelligence and humanoid robots could shape your business."
-    publishedDateTime: 2024-01-30T14:55:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/peter-diamandis-on-why-you-might-need-to-hire-a-chief-ai-officer.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/peter-diamandis-ai_536903_dp0hsy.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "lwom1/PNGksivQQ9kLkpPIocHycijFIf5MqlId3gc1dJZHddEEgjNx71P9oTirWlAGQSf90altsuhfCVKG0efB3XmjDZW6GgpuZcqNVM7cNOhjaXLjeb1Eju6/PelGobo88FwpADQ+KXFKHWP0FOeeztAwUmxukiaDKKMoTzWDC7GH2r1uF0GWUgk52Nb0hE096mXiy0mEBLqpdnRVR/x3Hv4N5yt4KuridWPbsaaKr/vGuYgzCwdIjOIFfsGQxSMr2gtIEApnFxsTvINu8VNFnTL5aB+YfrI7RIQ2Nm7w9Jsc5QKzkaP1Q1J747+w2p3uJJmL22d0ZBDNdDmFFIF4kBrVHGYTgyZnC/QWC/N4Y=;cZt+kfNWjawoH7iN4jmKQw=="
 ---

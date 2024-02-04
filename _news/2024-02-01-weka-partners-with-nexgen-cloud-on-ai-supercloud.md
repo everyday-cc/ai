@@ -71,6 +71,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "WEKA and NexGen Cloud Announce Partnership to Boost Enterprise AI with Advanced GPU Cloud Infrastructure"
+    excerpt: "Rise of the GPU Cloud The explosion of generative AI in the past year is driving extremely high demand for the powerful graphics processing units (GPUs) needed to fuel AI model training and inference. Obtaining the necessary GPUs these performance ..."
+    publishedDateTime: 2024-01-31T00:00:00Z
+    webUrl: "https://www.datanami.com/this-just-in/weka-and-nexgen-cloud-announce-partnership-to-boost-enterprise-ai-with-advanced-gpu-cloud-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 17
 
 secured: "RDi1g61+slCvLmducullNS/QDKrZ3Ap1tW1TfavF05L492d1mtpTHnaqnIlNF1NOfVfiUEW4NJAhyS1t/a22DkmwkubVPo/cz8tMODx8Tyr7YYgeuP0ohaLzkddgdE4AHoLT3LYdR2emqnPEfO3pqU4Zrlj3WZmNFz1ObKaccCrRrcIfC75c7A6qHdbO8koxi4igmlRpJyKtkuzMGq/mEvkonVIYABMjC8Ym6m7Z0UoODq05CELo807nyuJh16ln77LfKf9/c8nemgAxh/KDoYK0GyKR/pv02vLNmt6/hpzPD3u8L3ci62X7wRZQYwtgRP6h6moeDdPfpdMT3cx6HsYhicjhR33ThfiwV4C+4xROOn3ALsLw06YEMTLUrksWrPYYvdvvSnLKP+Bp5+ZIb20SVX0F4tHGQ25njwpBgPF0rE2WJ8qTrIpxvyty059XW8zU9RPVsiOIsMGLmAyNMfj9yW+WTCF2sbBvuH972WI5FEYy9ZeAXL1/3pt22pn6+e7mE5savyU9TzBLs51diA==;Ru4CBal3kpVvIlSctEx30w=="
 ---

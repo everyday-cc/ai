@@ -33,15 +33,6 @@ related:
         width: 911
         height: 448
         isCached: true
-  - title: "Exclusive: Databricks is acquiring AI startup Einblick as CEO Ali Ghodsi embraces ‘asymmetric’ strategy"
-    excerpt: "You may not know much about Databricks, but you're going to hear about the AI analytics unicorn a whole lot more this year. The company is being closely watched as one of the year’s top IPO prospects."
-    publishedDateTime: 2024-01-30T14:36:00Z
-    webUrl: "https://www.aol.com/finance/exclusive-databricks-acquiring-ai-startup-123707243.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 1
 
 secured: "hh8ffcDlM39rYqaur9XdfNwSJzJLID6/WqfGtYd4DLoEHDeWm1GmIv03SKw7uMRl46FcAIXMoIBTwMekVmZhaB32d9f0f/JyHklhOLmR5tkDG6qUUIS3diuxG7+k/TbTlyD+k9GLZ4zNt6zQ+hBi503YsyWw2wXNhd/qs90tcyYsRWhJ2gjWgvgzXKSiPfwqwBUrCAZplgXcnwHkxjTT0V0XrgqwPctGfXiAumU9R3o48NtMgogYDkLnHJ+oTWBfOkHAipcnuR/g488tvcV/gNoQeMvpf4QKC0K5M8Alc2xckdddAC5M9fwb7xXKWwj2RnHuJNWPNuLIwN/4I2nd2fZ5CoaKyd1MFgUdOa/Ursk=;w5oMqZ3Pn+lrHgok7uGj5w=="
 ---

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "1 AI Stock to Buy Now and Hold Indefinitely"
-excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
-publishedDateTime: 2024-02-03T20:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
-webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
+excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
+publishedDateTime: 2024-02-04T14:28:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRIT/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRIT/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
 type: article
-quality: 49
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - Microsoft AI
@@ -96,6 +96,6 @@ related:
         height: 868
         isCached: true
 
-secured: "L/Cvjmpn6A1WJdDp6x9zQpzktH8Q6Mk5jWjgknvK+sDd6cIFRZ9PkyzVYmWEdamGwaWLoBarOWzlsoxiAYOGsK/sYOvw8soI8/Krq/0syqocrkIwCB5rzuf4084/BGaY7nWh1Ztt5UlqJzXuAcAr4t0iGdgLTP+1uBwexBR0H4B2AlQmfuV14AEKMbY5gJrJVG5UlZzMB6T8aCS2BvnlixmZoCXT5MHJZ5ALD2rDqZuAPpsxuYu6wGQwBGGqFjf6i6G8CNcgpbcfKQlx9K28lCtg49Lkxs2hXj0nMOCxfZxAAgPlCAPV82h7mocEXgUe9/2sRug8I0HKFdSw0zkaTGR5xHDczq1NajcULi3QhXk=;pnRHktOYkUc/rtjiuCWZCg=="
+secured: "XRrUIlGW4mAcgwFL4hZlTm8BpvdKj5vg8kF9WGZK7UpKBNWGu5837159Lo8UOWSMcdjbkp5QVfWAp2v+oVefxyx+jkHXnJNAujG/45ww/4L5OBTDI3+MGledrCAk+eObYb+K8aB0VRIS5Sz4DM0iXsk+s4UvBcilX3I6XnnwBG/urM0K3G42WnFtoizLxuMLq6rgFm53qwq5llYfwS/vzTBXTxrqNVwOZjqjPWMT4boG3mdphmG3iMfcTmGJ8azDMqoV4wExnAURiCZW+XRD3prMrJ7++QJPk9N0l+55l5JslpoJslegz6Bt/fKc/SvnvQOp7uJAwGngnAFb5TZqcZh7/v0C/sSZT+NwCKSxfgU=;w1gfwpEXm38b5JAB1FZZyQ=="
 ---
 

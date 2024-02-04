@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-str
 webUrl: "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/"
 type: article
 quality: 62
-heat: 84
+heat: 85
 published: true
 
 provider:

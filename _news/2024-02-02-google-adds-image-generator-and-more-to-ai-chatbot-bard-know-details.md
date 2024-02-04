@@ -122,15 +122,6 @@ related:
         width: 1200
         height: 875
         isCached: true
-  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
-    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
-    publishedDateTime: 2024-01-30T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Google powers up Bard with Gemini Pro and releases new AI tools"
     excerpt: "Google’s new standalone ImageFX tool, also powered by Imagen 2, was added to the company’s AI Test Kitchen, a place where the company allows public access to experimental AI tools. Google also updated MusicFX, a text-to-music AI model that allows users to make songs."
     publishedDateTime: 2024-02-01T18:24:00Z
@@ -196,6 +187,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Dubai's QX Lab AI launches hybrid genAI platform Ask QX for Indians"
+    excerpt: "and 70% neural network architecture, offering scalability, reduced computational power, and platform security. \"The platform is strategically designed to democratise access to AI for the Indian populace, seamlessly integrating artificial intelligence into ..."
+    publishedDateTime: 2024-02-04T00:00:00Z
+    webUrl: "https://yourstory.com/ys-gulf/qx-lab-ai-ask-qx-a-hybrid-genai-platform-indian-languages"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 19
   - title: "Scholar Creates AI-Powered Simulated Child"
     excerpt: "A renowned Chinese scholar has unveiled what he's calling the world's first AI child — and she might bring the technology into a new age."
     publishedDateTime: 2024-02-04T05:55:00Z

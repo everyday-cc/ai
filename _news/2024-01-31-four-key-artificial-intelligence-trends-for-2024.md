@@ -49,6 +49,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "‘Art’ificial Intelligence: AI Can Create Religious Images in Seconds. But Is It Really Sacred Art?"
+    excerpt: "Carr, a classically trained realist painter and illustrator whose award-winning art has gained international recognition, pointed out that the ... A machine and computer algorithm can create an object but it will never be art, as that requires the use ..."
+    publishedDateTime: 2024-02-04T00:00:00Z
+    webUrl: "https://www.ncregister.com/features/art-ificial-intelligence"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 5
 
 secured: "Zmmwu1A+IlqxVVVK3/mylTiMogSC+2LO8AxCH76+3bwdwMJp/v3dDaGHAzhtvWsNOLJ2cRMmqh5Efp5w1tYUtBStTRYP71U3V9LZfPX6xx8z1I3yQ2e9S9cEMiLaJqG2yxvYWZlQMSahdtDtU4KNjzkvFK5+X3/n8muPMU+KJU8fCMZ+s24Vgq18gCtJViry/t1lmBX64p+fjV5sdIvbCm72xghLtLQVE+m5HC8XKyzJIwvnxMYgYrJNimeR2BMW2cmnViGcRup0ypj/emuCJWWHvyVSTZb6XxnxBUS8Uz/aGm44QjfkL2ERwqA7PXY8y7Y4hA4Ozb7M26695O/n3AHUwoJ0FYZPiaae6NRsc1aJ2P4wxlQJ/2Bs4ULpiOlsfDtt2VE+VqMcQDKmGJp4U+spDEIUCx+gEcFGZpfAvXGBpiRUwOR78FJ6r9p+88aB8MNDyeONnyb8IIHKVb09NbeLTNiKtn8OZYnY6FvoUCZKoJcVUEmPyUF5AH8k94+pzRsK/dbdP1hYtgwZ83OhLg==;FANQnKkmZGyBrWsQ/j+o8Q=="
 ---

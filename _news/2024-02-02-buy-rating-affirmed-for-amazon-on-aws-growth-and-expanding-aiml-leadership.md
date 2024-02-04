@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirme
 webUrl: "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803"
 type: article
 quality: 79
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Why AWS Alone Can't Be Amazon's Forward Growth Driver"
+    excerpt: "Amazon's Q4 earnings uptick was largely led by AWS income efficiency. However, AWS growth is drying up. Amazon's \"International\" segment has been a near-constant income and profitability drag while North America's e-commerce is going green again. Like most ..."
+    publishedDateTime: 2024-02-04T14:26:00Z
+    webUrl: "https://seekingalpha.com/article/4667394-aws-alone-cant-be-amazon-forward-growth-driver"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://media.gettyimages.com/id/1808364407/photo/las-vegas-nevada-attendees-walk-through-an-expo-hall-at-aws-re-invent-2023-a-conference.jpg?b=1&s=594x594&w=0&k=20&c=RP4lI_qQSIz0_XtlXtIrEpiPmRUOCcFhf5SAmrczZ_c="
+        width: 594
+        height: 395
+        isCached: true
 
 secured: "2CspNArjVgNnudJ7DJ/9egmIlk6WgwFlyq+e6pKvZkI4VWd632wCSyqM6y9Bkm76gMsaLjwgK4EgX0buv22AlkYwLlWhlA7Kj959WgpseO2ABKl7mL0gf6RyQO5pG847gfFeg3H7Jxb6XArcfxypfvz+ewnUICPBIMOLsutGkMKGnMbLw9u1PljEyPdtRV31uhrg7GT2OSNRsuI6z7pm3hixjjz2c7AYZ1c+9Nd6NMWqUOg1bAaf8l5laYfBR3aZUuoksLgR7CmVcu7n8k6Avkd8wD662wFFvPr6hREXoMPZ6fAodph4RwV4+PNLM4rbOmajDOwDc4Ushhye9nLf08eZPqwGDqTxS5NN5lmi2WE=;yrW6Sh+W9kFMIyPQYfDmNA=="
 ---

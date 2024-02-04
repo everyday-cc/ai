@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assist
 webUrl: "https://www.wired.com/story/fast-forward-tested-next-gen-ai-assistant/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
-  - title: "Yelp will use AI to generate restaurant descriptions"
-    excerpt: "The short summaries are one of several new AI-powered features on the review site that are designed to make it easier for consumers to find"
-    publishedDateTime: 2024-01-30T14:07:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/yelp-will-use-ai-generate-restaurant-descriptions"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 17
 
 secured: "hmXSR55EI/xXy4C00U1v02b6t6XaTw9t3LZZjCWrPeIn4Yr90lYQHp68zIYzYAW9y18yNWJGwDAGCDK81CgOVrVNRWJ+99REYt0ZFqg8ucx7nhZPlYICBij6i/INbNQkGcSa/tgVJos9q4fXQ3ftOIKlmmwcAgETwawFRtXqpS0gDfZVfRqBl+TsMLv4R8WteBCPhl5T1k9sY6BJVwmTVXSLg1kdmeEJPfTjRh3fZ2JZm6X7gN0bAatQIyWyyvXOj2ap6nSgdD8xtY6FOU/7DY1s+eH2NEDWWjggvcLE14A5cuOgN0IN1vdT2TrqbXA4NRVDvqywYwrMmsTA4dd6OL42ui4LdZta1TDHnuA60NyICncHT2Fn98CBoYoYsjB0UOj2dhOizlIcDR1c6ATxl0b8wac/ykaVbA9SHaEobYg1rKx1L3XUwOpJqsf3jCYh0f7gUBJLnJxFniKHZUGm3PemMEvo2xNEBVExzoYcX7fB6Y+ftvlzEJpl0+q03yiTMF9HFWASBP1rmzhup0TgKw==;p7DKrALBrt19aXwrrSmLgw=="
 ---

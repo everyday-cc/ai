@@ -214,15 +214,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
-  - title: "Startup Digest: PB Fintech turns profitable in Q3, iRobot to lay off 350 employees, and more"
-    excerpt: "Consumer robot maker iRobot announced layoffs of nearly 350 employees, approximately 31% of its workforce, after the $1.7 billion Amazon-iRobot deal was mutually terminated over regulatory hurdles. Founder and CEO Colin Angle is also expected to step down."
-    publishedDateTime: 2024-01-30T14:08:00Z
-    webUrl: "https://www.cnbctv18.com/startup/startup-digest-pb-fintech-irobot-amazon-elon-musk-neuralink-nvidia-18927391.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 0
 
 secured: "lD/2kebjOXdY4yr7yeTQ856IpQXxU1dL+cfxIePiWRm6VlhQiLELtk8EZFbftCZ17KAR4kQlIFUnlFvyzFYtfNYpuEC/sjp0Ltc8s1PE+QcZ62konhNWy/L2kHmToKC18QfRXlochSXf4fLgK0YU/ObPTo2dk2oYThh/ffgxDMRNclOyg4Aw4NhepfOrDfGWJ3M6iM345vNuV+t3I5RDjRO7Vm/Jh1mSPROEuZI1HKnS+4Qnb8wgiD/5jD/SUpI/LBI4W4QYWMYJ7ibynhehiqZUkegifYDzffZTOHwZmxhefEI4VQokQNmu4e0ps6iewU5hXRRTa41Vs4ehSlTPBNMBUhRdBFsLO06h3jTSnHzKxII9VmF0MvTaNOq4Ji0CtXZ9mHEvrGWUFPbDcwCiE1V7u4GLBzsQRDPhw7kHfiB/bifkilQnvZ7tqVgn/HPlFzwifFSYeMkK5JhCjxfxFy1cU5/ZqUTdef5dyfFq7PUjHh2Gn2Js9weEGpdm8MAWc1inReJkN/dt2fbnx60GrA==;Yu12U1gAn/0PwUkE5YM86g=="
 ---

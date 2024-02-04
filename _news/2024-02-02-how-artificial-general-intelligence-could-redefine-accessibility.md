@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "‘Art’ificial Intelligence: AI Can Create Religious Images in Seconds. But Is It Really Sacred Art?"
+    excerpt: "Carr, a classically trained realist painter and illustrator whose award-winning art has gained international recognition, pointed out that the ... A machine and computer algorithm can create an object but it will never be art, as that requires the use ..."
+    publishedDateTime: 2024-02-04T00:00:00Z
+    webUrl: "https://www.ncregister.com/features/art-ificial-intelligence"
+    type: article
+    provider:
+      name: National Catholic Register
+      domain: ncregister.com
+    quality: 5
   - title: "Four Key Artificial-Intelligence Trends for 2024"
     excerpt: "AI development and deployment, with no corner of the world unaffected. Four main trends will be of particular consequence in the coming months: the transformative power of generative AI, the diversity of multimodal AI,"
     publishedDateTime: 2024-01-31T09:15:00Z

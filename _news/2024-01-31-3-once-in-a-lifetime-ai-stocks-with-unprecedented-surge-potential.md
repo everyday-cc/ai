@@ -62,15 +62,6 @@ related:
         width: 879
         height: 649
         isCached: true
-  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
-    excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
-    publishedDateTime: 2024-02-03T20:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "Stay away from US stocks, expect the AI bubble to burst, and brace for a recession, elite investor Jeremy Grantham says"
     excerpt: "Bubble expert Jeremy Grantham said US stocks are hugely overvalued, AI buzz is overblown, a recession lies ahead, and foreign wars are worrying."
     publishedDateTime: 2024-02-03T10:32:00Z
@@ -99,6 +90,15 @@ related:
         width: 709
         height: 868
         isCached: true
+  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
+    excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
+    publishedDateTime: 2024-02-04T14:28:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRIT/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "hp+0aeDZto+5Qxwz7g1tv6FddmsdkE0uScHzHWsmNv7rmczexxH1DZZEXs2j0pHrvE64sDmj/MiNc3XcykgzIxNS5qblpLMesaZsVC65KL9p51xCiZq1P2OjhZdkidpnvb2frXrcxWtCx1E0LMkYKqcY/OJBhd8WXRDO6y2LNfQ/WxyBQrwYkOyFfSbVZ7j9oNKdjhcipBOQ8g61acxERZtLsu6CH89ptMdYvpF3xnUro9W9W+mV9DaZHf8RnVrtn6Hzcb4iQ1Nns/rIo507oYvD23zob+hz6xabXkU/AZGIDJHIImLt7HSQOtS1aSo23oJrWezIKz0cZ+3zIOnHoPjGQeYthNdmuOP1ZFgJQmgLjNhi56O7lFHqh+EhrgWlh5VD7mn8R5wmI3+O9oyLlcsvVYjoQqzoxfo2+4kdjxb2kaUCkg5Oqgaxv5JEvjTJYnXApR/gXmjxb/ttdidBRVckB+sdBcNoUVPyTUjG//274H013e+nHyygrHYmeAHkTeKaNvDmLHIH/OL2rKf87Q==;cXAjAbPZmjKLYuvX4v7bbw=="
 ---

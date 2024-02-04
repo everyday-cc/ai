@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
-    excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/apple-vision-pro-review-a-mind-blowing-look-at-an-unfinished-future/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
   - title: "Vision Pro Reviews: Surprising Battery Life, 'Weird' Personas, and More"
     excerpt: "The first full-length reviews of the Apple Vision Pro were published today, revealing some new details about the headset before it launches in"
     publishedDateTime: 2024-01-31T02:23:00Z

@@ -46,20 +46,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
-    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
-    publishedDateTime: 2024-01-30T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Starting Small: How To Successfully Experiment With Generative AI"
     excerpt: "Enterprises getting started with generative AI often suffer analysis paralysis before they can even begin using the technology."
     publishedDateTime: 2024-02-02T14:00:00Z
@@ -152,20 +138,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
-  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
-    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
-    publishedDateTime: 2024-01-30T16:43:00Z
-    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "8AL2SzWUQkufpPeSu1Bs3kDizfOGbYMvu7A6YT0nouszPTCigCV2gfRwNJD/1NNF4J5i7rWrC5QLArlD9mqiu5UMkvFU+TtOTkCyyHr1Xq6mLqEPOIFljYzowQ3k8Lhd5E2MReXZt1p765G28dNKAfLov+tpMrWLpvd0ed0k9t1MgbL5wl48fMFxGFWjGiB9lYQwDKChAOqsb039D7UbW6CwyaxRJYLyhzc/xEHOVE5mIdETG7crADeU/uS3UG7Hliiy54xzdjmxcK0MSEPRUvQlWrzxTdEnLWvbN7xR6h1l8ymCBk2ft2w6upt6ATdGyUG/yTvfgNtllHON8ZUPiXs4LARzL8fTKAtUWrKAbvE=;HgFa0LwyZVeWn9YBUmUDVw=="
 ---

@@ -41,15 +41,6 @@ related:
         width: 1466
         height: 900
         isCached: true
-  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
-    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
-    publishedDateTime: 2024-01-30T16:08:00Z
-    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 29
 
 secured: "J7fSHXns88hy9acrI79hx7xodgO4thl+5wFdksDPy/CgnjgnOEAGub9HVGdAV8vZFQo768ZlmPaQwjgFH1ukUQPW3LpxLbowa0Tijr8a17NWBhCRCspfvSm7yZAT1sXoXr5UAT5Qd/xLIouB2ypg8pBbAYuxTO8rv1rUJb7DZHskJgeVoqF/igltElyojZjmDNtdO3Yi7z6eah1+wkNZSHhzTbL8qfi06tGynt+MDHrPyiC+e/8+EG3KuSyX71jcviEb8BTiM/tZG1iYb6iYGUQL5Psb7BvDi49ohY3zj/rC7XmFZSPFQTJElRiHmq0wJ72kEn4O7lsz8W70xRdq/DVSjVJSI7AI8obyL2js/VytVhO8pSmoT5gKDBOgYe6flJCCXfjJVcCZhcfEK13gFYvZVbdFQ+q3IPG21l+mENd64BXIiPbRPH19PeRubhUd0vE8OQKE8dZ9znq9AIj+CFu9Mb9E+JD8tCoC3c6vRpVNU0u79G2nSutA+bK0xRz/teqRqiXKDKeGSTeWQE81BQ==;WXFQST56+ispIrG4OS9F5A=="
 ---

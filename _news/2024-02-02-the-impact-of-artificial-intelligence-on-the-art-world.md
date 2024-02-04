@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-im
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/"
 type: article
 quality: 89
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "To help feed the world better, farmers turn to AI"
     excerpt: "Agtech is considered one of the more benevolent applications of AI, given that it helps feed people and can shrink agriculture’s vast environmental footprint."
     publishedDateTime: 2024-02-01T17:00:00Z
@@ -77,15 +63,6 @@ related:
       name: This is Local London
       domain: thisislocallondon.co.uk
     quality: 34
-  - title: "The Growing Role of AI in Automotive Assembly"
-    excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/98295-the-growing-role-of-ai-in-automotive-assembly"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 21
 
 secured: "URSZnBSj8AIbdTVdNSpqWj967W+D846C9QvkXRaR5PH3IjAlA2dfirNf/caSPY2sU9syNZA9MaGXwCTiGexSvyD+zfL34ob2p+X7cOVCskvEePKOe25Y5p1+rJ4rG6hBu1S3F94oJSB/+L5hrYr+3Z1pM9IO0ye0a6QAgezhz75yS6EcA3h0LdgUxgBPKfLBsoloR3NDcSj5UZTEmH5pUkdQimipf0fQmq6LWrTwpXVCN1P7NkUxOieT+/dLkLhb+7Iw5xB58TLt4FDa59hjJK15l/KuL6abcJNz4q8+bbNfQ0y9R29LKotv5JMhbk/ZTSFrPMzaB4q1El56v0lKt7EGoh4Is4w5nmkdx5mATzE=;7+Yth2ZWki/p1BOJzgd/7w=="
 ---

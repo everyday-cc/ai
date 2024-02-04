@@ -38,20 +38,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "To help feed the world better, farmers turn to AI"
     excerpt: "Agtech is considered one of the more benevolent applications of AI, given that it helps feed people and can shrink agriculture’s vast environmental footprint."
     publishedDateTime: 2024-02-01T17:00:00Z
@@ -75,15 +61,6 @@ related:
       name: This is Local London
       domain: thisislocallondon.co.uk
     quality: 34
-  - title: "The Growing Role of AI in Automotive Assembly"
-    excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/98295-the-growing-role-of-ai-in-automotive-assembly"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 21
 
 secured: "LsupQmzPpjyj4fshC30veCmnB7M+8cwmVBuwGv7kVR+wp/fR3QRIV6YhVPasecGzHMv69n2eUJbkrTRYc0lWFDVaoJU4e8jlFuCblETje7J63MjJJTozE6mCOKQdIlkdzPs1W4CGVO9cAW9M50s5iYaBzrh04tXdCUizGoWS+wdBgPE/PtHQcMcclo+qnxXZ6Kz+VQ1rrKjdO/yYQdywTaoL+mK7bUob8sMsoTWDisAodn+IyJmGO3cKi7nixHIPJpwSTQgj5V24SX6kIlvt4UPMQHz0O9pX0YVtnsk2ZcJCz3o5LEIViVvnVoaJVkYFJb3dChXfGGdH6yuzrKgzC27bDwMP3BYSQzFRKyQo3SKb067ZENWqAGmN19MmOPwKjDWJ04Z9YGSYYyZobJYSQpqBFheEn9jou4cTlDcH+1kCogLWqh55n+X1dZN1RIUndoogL2a2ZkC4z/aZg7wO/syzHVisP1HRiJdx3gNaPHLryVcttdCBxnId2Wi2c3kGonPJJwtNobxgKPaK3H2qHQ==;38zQ8p6DO52WlTwqRsNVZA=="
 ---

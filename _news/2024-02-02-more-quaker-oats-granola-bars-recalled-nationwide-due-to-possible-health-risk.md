@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Recall alert: Quaker Oats expands recall to include granola bar due to possible salmonella risk"
+    excerpt: "Quaker Chewy Dipps Llama Rama bars were discontinued in Sept. 2023 with the “Best Before” dates listed as Feb. 10 or 11, 2024."
+    publishedDateTime: 2024-02-04T14:23:00Z
+    webUrl: "https://www.wftv.com/news/trending/recall-alert-quaker-oats-expands-recall-include-granola-bar-due-possible-salmonella-risk/674MKLQBZZFGRAE6TUUSCTFXJE/"
+    ampWebUrl: "https://www.wftv.com/news/trending/recall-alert-quaker-oats-expands-recall-include-granola-bar-due-possible-salmonella-risk/674MKLQBZZFGRAE6TUUSCTFXJE/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/trending/recall-alert-quaker-oats-expands-recall-include-granola-bar-due-possible-salmonella-risk/674MKLQBZZFGRAE6TUUSCTFXJE/?outputType=amp"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 32
+    images:
+      - url: "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/5-HG7izHIwurr57m6OED0192KGE=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/AWQBVQUMYNC4BNQN7AC7QJUFZE.png"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "mvdCxhK+cnmeZXNJD6Sh1NPa/vcVUlqiDyiEl+1UWqS8FUZmzIMsLrjpmS2ZNdOrCha0YfM5Oa0dOTseBN9xWCKBi9epszP9PJ8PCT/h8ZOyvXeDZkY6ng8JMk9TeG4Xhjk0/POg3Cv9C6z6oYagu8bqhjLye8Jj/kCi2qwoJQySYWcfjzylxFeo37hs5YBaIsp7fjHI0PF9Nfa3QnQSweg3NTXnGfI8uS3FrgyYVP/INvIbkAx6IzVsxKhQCQwa3iBIUDQTiipB1OGtRELGLLeaJnPjHVulcvOFVodPZQ3f0pOxaUot3U9ABbu8FR1Iu0XCPELXqZztR6ExaxIpdu52o54dXBFUk3BJnsUQ6rU=;Zf0Q/r/27WTmca2tx4RUxQ=="
 ---

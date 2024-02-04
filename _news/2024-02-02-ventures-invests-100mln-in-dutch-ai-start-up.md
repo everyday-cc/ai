@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/world/uk-and-europe/ventures-invests-100mln
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/uk-and-europe/ventures-invests-100mln-in-dutch-ai-start-up-r758inhe?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 800
     height: 533
     isCached: true
-
-related:
-  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
-    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
-    publishedDateTime: 2024-01-30T14:39:00Z
-    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 17
 
 secured: "3vgFy5zO+5LOWoPvcYMZ1kwQ2ZJEU2UxfXRA+w0+gwsWMXrhBo4kaQQxpWuYw734ENbT4ksmCiK8YcQQwcEHOaEGitUBRQKHiwsSSjvKl6LuRv9KNOuDLizEBPYVIEFgvSuNHvPbd0X2rRD3h9ApIE5g4H+qY4maeK8xyjVzU8sqxmsE+DxIRDctylAlK8mWxZyYdDkrZrwW7CuUz0aBu5yYTsrWWlKStfhXAhjemNAR2t4TVOBV7LOs0o3BjaXfWpACCEQtDzm+WcDryYXKtM99328msAyf5ZRDg5Y6WcpC3JOYgZL2mTLN4gN8jfLqB4nQi6cpe/GReSdBLRFLYzG1Kb0pppeHWkvL8NYA3Zo=;U5HYtQFAcsIz0cTu5T2Flg=="
 ---

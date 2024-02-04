@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-sligh
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

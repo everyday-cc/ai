@@ -43,20 +43,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "Achieve generative AI operational excellence with the LLMOps maturity model"
-    excerpt: "In our LLMOps blog series, we’ve explored various dimensions of Large Language Models (LLMs) and their responsible use in AI operations. Elevating our discussion, we now introduce the LLMOps maturity model, a vital compass for business leaders.\nThe post Achieve generative AI operational excellence with"
-    publishedDateTime: 2024-01-30T16:00:00Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/achieve-generative-ai-operational-excellence-with-the-llmops-maturity-model/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 87
-    images:
-      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN25_SEO-image.png"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Three Tips To Help Your Business Start Winning With Generative AI"
     excerpt: "As the generative AI revolution continues, it’s natural for business leaders to view it with curiosity and maybe even a little trepidation."
     publishedDateTime: 2024-01-31T11:45:00Z
@@ -149,20 +135,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 34
-  - title: "Mistrust over data use to blame for Generative Artificial Intelligence bans, new study finds"
-    excerpt: "GenAI is already being applied to research in science, industrial applications, security, and healthcare. Chief Justice John Roberts is turning his focus to the promise and shortcomings of artificial intelligence in the federal courts. The Emmy Award ..."
-    publishedDateTime: 2024-01-30T16:43:00Z
-    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 28
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/ICGV4Z3VBRFMZNE5BF2IRASCCA.jpg?_a=ATAPphC0"
-        width: 700
-        height: 466
-        isCached: true
 
 secured: "bOSsQXbN0W3aapJdb84OLDtmEvYo0DoIKIet4y7NBRceiegMoLuVtPmrE18QHSBURgZMJYn71PEmjE/wkdqGvnjMhyT31n3BQpJN+7En1PkXjcohtMTgJ3dzdoaThXYUEWxMN46VAKvzAc+cuXlYe8IqQ1mv5dyHzvvmyxyU0sfML6nkTZtf6v6+9Yjo+IKgS3nEWgEYDpV4cVsx0XtAKFUbx5LQyt7/5Ct+PTRfxNEPt+eH9Qg7zXNWIKHjjJ2YV9WL2fH/7GJIpCrHmksrCe+rZWtIPR9Xh+F2eS2OY73HyNs/P8ivO16TreQEPO4zZuuRqVKxKHG16T01uDCpZ0MuhZ5GTCBZZByS+0vRmXA=;qEz3iEKzKe6L00Uq6Ly28A=="
 ---

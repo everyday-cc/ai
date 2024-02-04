@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Ethiopia: FAO Recognition Mirrors the Reality On the Ground"
-    excerpt: "Following his visionary leadership to end poverty, commitment to well ensure food security and nutrition and determination to come up with innovative solutions in wheat self-sufficiency in the context of fast-changing and challenging circumstances,"
-    publishedDateTime: 2024-01-30T13:28:00Z
-    webUrl: "https://allafrica.com/stories/202401300403.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 4
 
 secured: "bSIxGmzOkdULjs5v+mK6K6A91dB2rNs/avKsqaYk9HgOh4QQONCoK9lx4RgbkhllArImQxepflFTUyhVj59WL5riZWIW6bsjl5a8ZUShEjxYr3eWTPjzDk6+SO9RWCyjL3mt+1ym3PNTMAXCenOoq+KDV5QI8pphA29dteoeenB5RW2lUdgt+EOnHGINBSYb8FhkTuu01ioY0u7GdZlT0ItV/leT6EVVHkzmBe03NaPqlSTtMyyMcInTTwvLKeC3tPZ7D1H+LXahaMWA1rk+yVPXI0LyBUXbwjvra9FaLnaDZ9vefDmf0fln/JFqyz6onva3doY7EzScWTHeDjFyVa0mu0XU88QgVdS7o/cBfw4rnV+M+tfgvPvyuQcIWDk+hyBS6BivGEp63ITZMumhOieYej1F+AKLYppUcVmGdlKuGgNU2KDXZvQCdHSUr4AE9EWhhj0jxFhAurKZlxeKT3H5DHwjXLtdV15zyDPCypk0/2qvkEPLUHklxCVAD/WCU437JloGy3QNj1/KakDg9A==;XIsZxXf2h//HGzE8mw1dTQ=="
 ---

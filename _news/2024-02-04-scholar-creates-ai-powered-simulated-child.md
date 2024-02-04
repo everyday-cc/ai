@@ -120,15 +120,6 @@ related:
         width: 1200
         height: 875
         isCached: true
-  - title: "ibex Launches Wave iX: The Next Evolution in AI-Powered Digital-First Customer Experience"
-    excerpt: "WASHINGTON, Jan. 30, 2024 (GLOBE NEWSWIRE) -- ibex (NASDAQ: IBEX), a leading global provider of business process outsourcing (BPO) and customer"
-    publishedDateTime: 2024-01-30T15:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibex-launches-wave-ix-the-next-evolution-in-ai-powered-digital-first-customer-experience-1033010263"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 40
   - title: "Google adds Image generator and more to AI-chatbot Bard: Know details"
     excerpt: "Google is also adding experimental generative AI features for Google Maps in the US, global roll-out expected in the coming months"
     publishedDateTime: 2024-02-02T07:15:00Z
@@ -205,6 +196,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Dubai's QX Lab AI launches hybrid genAI platform Ask QX for Indians"
+    excerpt: "and 70% neural network architecture, offering scalability, reduced computational power, and platform security. \"The platform is strategically designed to democratise access to AI for the Indian populace, seamlessly integrating artificial intelligence into ..."
+    publishedDateTime: 2024-02-04T00:00:00Z
+    webUrl: "https://yourstory.com/ys-gulf/qx-lab-ai-ask-qx-a-hybrid-genai-platform-indian-languages"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 19
 
 secured: "lGP2AnpYAdPpsyYoQ6vTOKV9ozyxYbwvuIJu93Chb711T2fLu5nymu9inak00S06TeOH6G1Lu03sB456eAGAKc03Re00VCGTvx1UqBuXm2KZ4UOb6IWuqIES9swtujpKKbn4oWdwqKDe4pu3JW1EYv8q8Y34Nires9JJJMnR+EuYJ/iv13nPSXrCuZAg5YxxPDVUMKU/T9QNEJn93IIt985HGG2HGQvtwZ1hOTjqgvpeWywbIw31FUdPDNX/B6AbhBwFbzyUnApOF6PCH2LnacPdMA9mguFe9fEhpm3kgY6tXhPyF0mMM3QFmgW8Cwo7bDmHaGLJ7Nr+L86V2g7dCDeCk541Oiwlxh8sVPyRcJnXQ/unJ6I25sEH25UgZfzcP73wZK+3g35fJWc9jA6WXNnteUdJg1q1Kxm9IfYi3zAksh/uXgMQ6uJwSnY83HIhgl8YiLAH6Fkh7XMZFANtyK5XFIR2eD9M8G3ZyE6R+gQGWsDAx+M0Q9xLt+H9uSvgymJS/eH76hd920r1b0qwNQ==;LQlR1SoJNJSgrRXgBVYWJA=="
 ---

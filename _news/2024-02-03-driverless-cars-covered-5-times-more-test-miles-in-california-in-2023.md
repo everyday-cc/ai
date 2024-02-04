@@ -57,6 +57,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 19
+  - title: "Driverless cars covered nearly 5.3 million km in California in 2023"
+    excerpt: "SAN FRANCISCO - Completely driverless vehicles travelled nearly 5.3 million kilometres in California last year, over five times the previous year’s total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Feb 2 showed."
+    publishedDateTime: 2024-02-04T08:50:00Z
+    webUrl: "https://www.straitstimes.com/world/united-states/driverless-cars-covered-5x-more-test-miles-in-california-in-2023"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 19
 
 secured: "w1/IKRA/N1EaV8jtoMoF4DeFvKt2APfAsZh1b9EjOs+g7KuHtDqTPlujdrW/sz/U9cEeRYz4kBLGHN6pffnL1u1OVJKfslHWidmKqA+muXA1pbf+tQQjhzd5qo6s1jWUMTJ9uhROoUs17sWXKAeWGznQMsq2v1qyHp0uxlyccIma6fNoB+Sn1YFkb5IP+YPfwsYLL7WCZvvYMlhexwAvfQe2hsmPizggOaI73tCcaLoDWTN6TtqspkFZos0LKEOsiipeyN7xhkOxnnhwAYbTD1Vs5e4dYpCkiC7eafZiPCm3/gH9ywcozW+XblcpX8UjirK1VO47YcxegAHZq4sF+AOl99qqXzU9aiMsE2/QR4cVTE6CEottCjHQ+8049045CxPBiAdiJI8hjbRc0jG08R+tCVR3M7uSniqYOd1GimqJbymJ2yVruc6zKTUk3zpRWhPmr2ASS7GA1bjE5pYJSv8eIjPo/pWcRhMsI/gqSV+h8+BF7KfqG0yPGzcwgU/BF7ff7/jjNofiJpVyFgmKfA==;qTAqSsQHcu1Yhz7StIJVKg=="
 ---

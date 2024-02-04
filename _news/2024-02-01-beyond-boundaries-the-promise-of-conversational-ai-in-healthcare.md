@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-bound
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1600
         height: 934
         isCached: true
-  - title: "Beyond Virtual Consultations: The Rise of AI-Driven Virtual Healthcare Assistants"
-    excerpt: "AI-driven healthcare virtual healthcare assistants have evolved from simpler technology that enabled virtual health consultations. Before 2010, the concept of connecting digitally with healthcare professionals began to gain traction and the first video-conferencing systems connecting patients with healthcare professionals emerged."
-    publishedDateTime: 2024-01-30T16:08:00Z
-    webUrl: "https://www.news-medical.net/health/Beyond-Virtual-Consultations-The-Rise-of-AI-Driven-Virtual-Healthcare-Assistants.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 29
 
 secured: "Kf3YPgu4kURuMRnfQR4v0KbuXaSumtYVJoE/fO1AEleeXN7DnDef3PSaSkOCoeWIJwAHudDYeQLkb8NKZKtNAx/JeudDxHikViiu5qQ1GjRsq6hasdqdiHLa/8KFNnUU7WlladcQ/7Jk3WUXFIp7gO7suqoP6DATugJd8cpVERz/DEA6sYLHasPdhqxUQIP5ctIqDy2nWPjjdagWpvn8m4zwIL5hnNruJKHKSXzE27JXGXILxMG+2CPCfWS66pJ2tF+gwcGFvVSWIG7HDUZUAzTpzrkt9Nug+Otw0ZXMjPJNGwD1nt+n1oIsyvAY922w+rivWA68KD3liVM+V/WL2vVyIER/KH5cKgw92uBpMcI=;rxg+yytewZgWUWHvZpOlWA=="
 ---

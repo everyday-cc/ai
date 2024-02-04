@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101748-enormous-price-difference-dev
 webUrl: "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://media.nbclosangeles.com/2024/02/107367490-1706766431716-gettyimages-1561361010-AMD_Investing_400_Million_in_India_dab944.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla will spend billions of dollars on NVIDIA AI GPUs this year, will also buy AMD AI GPUs"
-    excerpt: "NVIDIA already commands an estimated 90% of the AI GPU market, but Tesla has said that it will be not only using NVIDIA's various AI GPUs but also AMD AI GPUs but didn't specify which of AMD's AI GPUs it would be purchasing. Tesla boss Elon Musk did state ..."
-    publishedDateTime: 2024-01-30T14:08:00Z
-    webUrl: "https://www.tweaktown.com/news/95840/tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 61
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95840_91_tesla-will-spend-billions-of-dollars-on-nvidia-ai-gpus-this-year-also-buy-amd_full.png"
-        width: 1500
-        height: 857
         isCached: true
   - title: "NVIDIA rumored to switch to Intel for advanced packaging for next-gen AI GPUs, away from TSMC"
     excerpt: "NVIDIA has reportedly moved to Intel for advanced packaging of its next-gen AI GPUs to stop shortages, the company is bottlenecked by TSMC's CoWoS tech."

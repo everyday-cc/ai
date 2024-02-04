@@ -44,20 +44,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Unveiling the Impact of Google’s Artificial Intelligence on Everyday Life"
-    excerpt: "From the moment we wake up to the second our heads hit the pillow, Google’s Artificial Intelligence (AI) is woven seamlessly into every aspect of our lives. Whether it’s completing a search query in record time or suggesting personalized recommendations that leave us wondering how it knows us so well,"
-    publishedDateTime: 2024-01-30T16:53:00Z
-    webUrl: "https://techbullion.com/unveiling-the-impact-of-googles-artificial-intelligence-on-everyday-life/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 42
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/01/Googles-Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "To help feed the world better, farmers turn to AI"
     excerpt: "Agtech is considered one of the more benevolent applications of AI, given that it helps feed people and can shrink agriculture’s vast environmental footprint."
     publishedDateTime: 2024-02-01T17:00:00Z
@@ -72,15 +58,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "The Growing Role of AI in Automotive Assembly"
-    excerpt: "Artificial intelligence (AI) is the hottest trend to hit automotive assembly lines since lean manufacturing in the 1990s. Automakers and suppliers around the world are scrambling to adopt AI technology to boost efficiency, improve quality and reduce errors in their factories."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.assemblymag.com/articles/98295-the-growing-role-of-ai-in-automotive-assembly"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 21
 
 secured: "8achcC961nToDYdjsQ318BlLmAeGHSvQSHXVKfyJPI9m0CNkC9rTH0SF8RFFs3iSaeuuRTypOWWBC8kTcwp/iq7HVKk3ljlu8xm5JWyKk37Uw8xxwVcGBJDlBN/LCNYwjsxXON8NEhX5kvnv9y4sdRiJViF81sOnlfw4VJVxk36lr/DuiLXVQGPCioDX1UkTpTvcychE0zsSjD5FMFv0N1+MmIF5f4BM5ouEwPrP8TSwZ04bkq76RGspDCoQhybNmkYCf4//GSVDdfDiJ4XMl7Itkyg7+6Ft4/9EDM/m3Qz12TQIxZ0SfATlxxLwCJ4Rvuj0H42++5N+qfC3+H64z80jUsiEJyDF8/Hq7HGbDtM=;U4fxe02iz5mVNY9Ra3Bt4g=="
 ---

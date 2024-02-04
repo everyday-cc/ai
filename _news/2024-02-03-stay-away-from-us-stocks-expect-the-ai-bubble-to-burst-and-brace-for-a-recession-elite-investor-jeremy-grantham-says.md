@@ -76,15 +76,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
-    excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
-    publishedDateTime: 2024-02-03T20:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "A Bull Market Is Here: 3 Artificial Intelligence Stocks to Buy When the Tides Change"
     excerpt: "Artificial intelligence (AI) has been a hot theme since last year, so circle these three stocks as potential buys when the next market downturn hits. They've already enjoyed monster gains -- a dip would offer an opportune chance to buy before they head higher over the long term."
     publishedDateTime: 2024-01-31T12:53:00Z
@@ -99,6 +90,15 @@ related:
         width: 709
         height: 868
         isCached: true
+  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
+    excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
+    publishedDateTime: 2024-02-04T14:28:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/SRIT/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
 
 secured: "YR33FalBOo+bySbJvEJtQDh8osNhEGGyNgcZYLB7+jtpV9UVaSai7GCYbCdY4mRSntSG+ZtOrSl8MrXvieKl9xf94xf13NbMhAfd+lhvO8kQMWMe0BSg7Z3odYlN7+VcgTLzpwle4Ocgn2zTSDYqW4zvSCvqQG9bxqrLQF++pb6654umWLYqLEgzKkkEYgXa8Y8IruMPwiwlo9/zqZ2icAP4tvnfwssvCENl9ZM1ssdBqOaR5jTcJB+lLyervmY+uU7JX6VeMAvYKeoSPS3JZYVBzbGKB1eK5e1osPKucbM9rcXckbiwRhKwou15NHawMMwtiu4NSqofglxlil4+D+4gj63j/QVBxvLyEFLCYykta9YpyBDAgaaYEdU6uFrItLah5R63wKffHZX04UJNif+q8rhzne/MIFggMQRHSfk3qTkE1VGXlUKOQAkPwKmmoYnol+532vh4toSgqC42C8PNPgACzRIqtfssyCojQadI+c68ZAqbJ1k9LUsgo/TAJDUWQMdkZVluv9XCtib7Hw==;oLaOW/dHvM8OcWCLxNL2OA=="
 ---

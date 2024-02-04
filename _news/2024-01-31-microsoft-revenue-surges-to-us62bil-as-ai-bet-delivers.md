@@ -521,6 +521,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Humanoid robot startup Figure AI in funding talks with Microsoft, OpenAI"
+    excerpt: "Figure AI Inc., a startup developing humanlike robots, is in talks to raise as much as $500 million in a funding round led by Microsoft Corp. and OpenAI, according to a person with knowledge of the matter. The startup is seeking additional investors for ..."
+    publishedDateTime: 2024-02-04T06:05:00Z
+    webUrl: "https://www.columbian.com/news/2024/feb/04/humanoid-robot-startup-figure-ai-in-funding-talks-with-microsoft-openai/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 50
   - title: "Kash Rangan Reaffirms Buy Rating on Microsoft, Citing Strong Q2 Performance and Azure Growth Prospects"
     excerpt: "In a report released today, Kash Rangan from Goldman Sachs reiterated a Buy rating on Microsoft (MSFT – Research Report), with a price"
     publishedDateTime: 2024-01-30T22:25:00Z
@@ -557,15 +566,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
-  - title: "Cloud strength and AI excitement boost Microsoft revenue"
-    excerpt: "Last quarter, Microsoft said that AI had boosted Azure cloud platform revenues by about 3 percentage points, and that Azure revenue growth would benefit from an “increasing contribution from AI”. Analysts have been watching closely to see how many ..."
-    publishedDateTime: 2024-01-30T13:46:00Z
-    webUrl: "https://www.ft.com/content/a062df1d-aaf5-4604-8f97-4444170482f2"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
   - title: "Microsoft’s earnings reveal how the C-suite is adapting to AI"
     excerpt: "AI advancement, with Microsoft leading the way, according to Wedbush Securities' veteran analyst Dan Ives. “We believe Microsoft will be the most important earnings report and conference call (Apple being no."
     publishedDateTime: 2024-01-31T11:14:00Z

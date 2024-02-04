@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
+  - title: "Why AWS Alone Can't Be Amazon's Forward Growth Driver"
+    excerpt: "Amazon's Q4 earnings uptick was largely led by AWS income efficiency. However, AWS growth is drying up. Amazon's \"International\" segment has been a near-constant income and profitability drag while North America's e-commerce is going green again. Like most ..."
+    publishedDateTime: 2024-02-04T14:26:00Z
+    webUrl: "https://seekingalpha.com/article/4667394-aws-alone-cant-be-amazon-forward-growth-driver"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://media.gettyimages.com/id/1808364407/photo/las-vegas-nevada-attendees-walk-through-an-expo-hall-at-aws-re-invent-2023-a-conference.jpg?b=1&s=594x594&w=0&k=20&c=RP4lI_qQSIz0_XtlXtIrEpiPmRUOCcFhf5SAmrczZ_c="
+        width: 594
+        height: 395
+        isCached: true
 
 secured: "piKijcpAbDdnBBCnBZIhE6MhLkYEAi6W+0omQB1njloRZuBfaHJbIjH6chGSdnt9HYOoYpwmMgwAALSbTQFWELZKn4qyyhElg3AmqfslixLHK1HrVT1zIGnMf1cxaMV/gc9J1rY3NCrGwxahR25+129/rzTEcFOxsVuTh7Ml7hfQntw6OpkHoLBYKHPBatL+DVceSAMUvM0o8wcTXW33gfMJG1sso424ZVK58n2oMNJ2cAjJeu6D0YBknBPQF7yc9GYKbqHZKlsXJ21d07HfxgQVXUGypIYQViZirKhjLCFezyQ0tUE5KrOwdcACxSrYHzpqVNXWV5YTlRZPoQTE/y5eaRAUJyfXBVjhf6jwCEI=;AT3T+X/XCW0d1M95zkbD/Q=="
 ---

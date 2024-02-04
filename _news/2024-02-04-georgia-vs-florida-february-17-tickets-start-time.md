@@ -75,6 +75,33 @@ related:
       name: WMBF News
       domain: wmbfnews.com
     quality: 2
+  - title: "Mercer vs. Samford February 17 Tickets & Start Time"
+    excerpt: "Saturday's SoCon slate includes the Mercer Bears (10-13, 3-7 SoCon) against the Samford Bulldogs (20-3, 9-1 SoCon) at 2:00 PM ET on ESPN+. If you're looking to catch this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-04T14:18:00Z
+    webUrl: "https://www.wtvm.com/sports/betting/2024/02/17/mercer-vs-samford-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WTVM
+      domain: wtvm.com
+    quality: 2
+  - title: "Michigan vs. Michigan State February 17 Tickets & Start Time"
+    excerpt: "Michigan Wolverines vs. Michigan State Spartans game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-04T14:20:00Z
+    webUrl: "https://www.wilx.com/sports/betting/2024/02/17/michigan-vs-michigan-state-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 2
+  - title: "Presbyterian vs. Longwood February 17 Tickets & Start Time"
+    excerpt: "The Longwood Lancers (14-10, 2-7 Big South) meet a fellow Big South team, the Presbyterian Blue Hose (10-14, 2-7 Big South), on Saturday, February 17, 2024 at Templeton Physical Education Center. The game will start at 2:00 PM ET and is available via ESPN+."
+    publishedDateTime: 2024-02-04T14:13:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/17/presbyterian-vs-longwood-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 2
 
 secured: "ywVRCmfvx2NVTSbkI+maouZxicSOWNHL8C/5Kdgfe4pDb97Sri/Zes6woqv+vjLf/J9i7IYO1HeX5typLSvtJiNEe6vBiTyIcUl5R4252Y+e1ly+Ry/B2qUcqnU2CqsR59mSpQ7cWsh/KPv1HFriatxhLFWms8ZdH4UhJwo68XOO9mdqkFp5VnRUiPQ5tCy+gB/B574RFKKt4uQ/tlaGfT0bs6RLZWTfhifBymKYC+3LyeprFvCabD76dgqpuLoZBaROlV5GAD2ZtparFKl0kh6PoJ2zCd+ZZQpz76JNTIHiZoQ+AZFpWJFXssW/fNeGpng2V9XwENKAR+1eEAdLRPtn51/sOHM+g4kCBgSXXs0=;xaht2DB50/c0qJjRxzqa1g=="
 ---

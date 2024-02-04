@@ -38,15 +38,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Mistrust to blame for organization’s AI bans, new study finds"
-    excerpt: "MIAMI – Security issues and data privacy are the main reasons one in four organizations are banning the use of Generative Artificial Intelligence, or GenAI, according to Cisco’s new study."
-    publishedDateTime: 2024-01-30T16:43:00Z
-    webUrl: "https://www.local10.com/news/local/2024/01/30/mistrust-over-genai-prompts-bans-new-cisco-study-finds/"
-    type: article
-    provider:
-      name: WPLG
-      domain: local10.com
-    quality: 19
 
 secured: "JdD36cl34CcRpMwsj11+ghCdkcfdgwADexvcPdHW2evAmhEGZpNQeXCpBuXNvzDb59t/MY7sjC/fnOF7PC78aVrXmm6iSydRzTuiHznTm8ex38GqVUjDeqJD0ypIQwDKIjN2GM6lBlfnC7Eml/IlbtlqwkFvrCIiA5ty3kmMU1keTbuzOH0v/gGnKx4Pkzucn8ghwcfiTieN1cPm4dyExV4exKi809whykMxT7coFduhXTkwhS8slIiKPgNe+h7OIqjcioHJhG591UajDe4IGIIy5xW6GKXC9xSZnCw3gx41cxuVXkA05tVmSFqEYUlSsJKUinsiPFaiJrBLgBn0o8aTsGnTRLARjWG4PGo9IjM=;Ffee1Yu491zeKfa1S9d5jQ=="
 ---

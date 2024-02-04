@@ -87,15 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Apple Vision Pro Review: A Mind-Blowing Look at an Unfinished Future"
-    excerpt: "Virtual displays will block out real things, but Apple has included a clever trick for person recognition that makes anyone in eye ... When I get too close to an object, the virtual things in front of me go transparent and the headset warns me to move ..."
-    publishedDateTime: 2024-01-30T14:00:00Z
-    webUrl: "https://www.cnet.com/tech/computing/apple-vision-pro-review-a-mind-blowing-look-at-an-unfinished-future/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
 
 secured: "/ik37C/yF8eZC646hiGM7P46tztM+hXE8j63Q+Fa/azLfglWInSF0V0qi9Nz9Hriq1Q+MZNzhX9jOHuZDwiq9zQpxnmqWDA2tW2kJ+sYKEGvE7WfqMknIi1CEm76qrjckdhooC/j3gVsaNgqL5RvLpJWAPnLabYjmP6YcDDP6B1MuTwQo70Y2weYrIxeDOY5WHWI+7DxCwIXSQNQP6Fq4Pb7dhCOYgg3OkzK8lKudPo8ESagSvExK8x/lTO3GkkSKWh/zLtEXAmhQsOt7BSVICUEFQaMSFYqqgFQWClK/CXCXxnvGJgwoQ6hnRnKSv0fOUe5otVLoi55i44p8pMPlwL5k3tAG9FwEGOY2E0RYm3tQczChGMIOrPv2Vbkf1aqxf5tzzQYQS/xyJiULQAyB9BX9yMDxOFm68W6sd7W6U9RFag//rADzAsiL2i6MtzDJTJ8Mbf14Npp8WTytDyXzN3wjyEi7g89oNepCxTHFt64+6fkpE4lYqaz+IZDF/0jdK9GBeZTr3XhgbJuhVEE5Q==;C1L//zwB2hbjxaufmblV6Q=="
 ---

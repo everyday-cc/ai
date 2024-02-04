@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-as
 webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

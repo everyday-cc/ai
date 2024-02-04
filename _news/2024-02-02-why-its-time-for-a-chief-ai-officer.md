@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-tim
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1706636180388.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Peter Diamandis on Why You Might Need to Hire a Chief AI Officer"
-    excerpt: "The futurist and founder of the XPrize Foundation explains how innovations including artificial intelligence and humanoid robots could shape your business."
-    publishedDateTime: 2024-01-30T14:55:00Z
-    webUrl: "https://www.inc.com/chloe-aiello/peter-diamandis-on-why-you-might-need-to-hire-a-chief-ai-officer.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/peter-diamandis-ai_536903_dp0hsy.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "fGjrBURuuYtC3CO9tv744cukjXQ26ke5qejL5MlnoDYNzxyzDMRrl+p93HEOz9kzrAN/YrTeG1GcnNyeJ3C+5cpPgTXe4DvtpVHlyk9gw/KQUso8bikf8uHkCaK2H2wLWFncpsNDTSRhmu5kIecW6ccNL4IJaP2MuGo8vE86AFTC0h3lgiHEP3Y5hQNIcp72s3nXWqbZvNS5bPA6k/gb7B4aRu9ypDyyCT6yZAjcZYpoAfOHsTWE6bjQvVt4k59Sy36emZyJsqSzHrwGDHYdwjC78QD3v+HNMZAcYoyvKUsVLBtE4F88Go17DisDtkrAalKIq+Va6SEgooHjF4rfJ0YAHVZY0DCHcB1I5PmZeco=;0rtm/z/fOAcmmR9hc7GtGA=="

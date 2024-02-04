@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The rapid advancement of AI is digitally transforming businesses. Here's what that means for business leaders."
-    excerpt: "The complexity can be overwhelming and the urgency to move quickly only adds to that pressure. Leaders should start with the basics and understand what AI is and what it means for their business. Because AI adoption encompasses so many technologies ..."
-    publishedDateTime: 2024-01-30T15:42:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-business-leaders-can-harness-the-potential-of-ai"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "Embrace AI and use it wisely to transform"
     excerpt: "From deepfakes of celebrities to the tumultuous career path of ChatGPT pioneer Sam Altman, artificial intelligence (AI ... minister Nitin Gadkari rightly pointed out that AI-engineered ‘driverless’ cars may be welcome in labour-shortage economies ..."
     publishedDateTime: 2024-01-30T18:56:00Z
