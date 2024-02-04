@@ -213,6 +213,15 @@ related:
       name: thetechedvocate.org
       domain: thetechedvocate.org
     quality: 34
+  - title: "Scholar Creates AI-Powered Simulated Child"
+    excerpt: "A renowned Chinese scholar has unveiled what he's calling the world's first AI child — and she might bring the technology into a new age."
+    publishedDateTime: 2024-02-04T05:55:00Z
+    webUrl: "https://futurism.com/the-byte/ai-child-agi"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "G3ZpYeSgdjN0XG1iZsAzMHZEKwNQYqjgLTLLmFSn4znpo5F11En85W1ZDE3hUuLJjHTYJPcapVH+Mjcd4yapJUcPeJm4+zQXAmZOtbaXE7ceHvN3J2RDDHZEbIarBJBlEKybhC5f9YkHWeR5PP8UnP121C9HdRC00nFsdfH7oo9wa6IjiTpuBWdI7iZU1NhPFmvIV6QZn3wBkfWFCgoB24bia+gstEh56VvDpEUhyCbUFt2OEsHpFx+ihwZRILfPuEGCdPOeWVXoa6eJbyDao9GZRbfc2oY/gH2WlaxzoMM1mNCjZP0BAmUHsbviJy5ynbhQPO3emEcu0hGBH8b6ObeQ4cHDOeMz3AMn6vmRU3Mn8C+Ncp0mlIPahgMQtifzTMyJEaW3DKMUb17ye9j8AaMF9YDPg5kpOOeXlTEOAJkRbgbUJXHz7VrhVqTwmT9AHo7xY/3yP4Qch3znKARBUqlaZs3gAh/W2jrxKhhnY1mS8rZV9cAFi84JtjWmnv3sNC083p6fSPFjetYiQNMrRA==;CIdwniQtEZNyFhbRFahX4w=="
 ---

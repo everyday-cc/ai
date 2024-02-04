@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Meta Unveils Open-Source Code Llama 70B to Challenge GitHub Copilot"
-    excerpt: "Meta Unveils Open-Source Code Llama 70B to Challenge GitHub Copilot - The highly advanced Code Llama , Metas latest large language model, is now accessible for researchers"
-    publishedDateTime: 2024-01-30T05:06:00Z
-    webUrl: "https://news.siliconindia.com/technology/meta-unveils-opensource-code-llama-70b-to-challenge-github-copilot-nid-227616-cid-2.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Bev32d7z.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Meta releases Code Llama 70B, the company’s largest coding model"
     excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
     publishedDateTime: 2024-01-30T22:13:00Z

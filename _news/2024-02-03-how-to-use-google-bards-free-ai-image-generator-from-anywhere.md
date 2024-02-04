@@ -213,6 +213,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Scholar Creates AI-Powered Simulated Child"
+    excerpt: "A renowned Chinese scholar has unveiled what he's calling the world's first AI child — and she might bring the technology into a new age."
+    publishedDateTime: 2024-02-04T05:55:00Z
+    webUrl: "https://futurism.com/the-byte/ai-child-agi"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "08Ch4NFiwSsoGbjJRtkAJ6uCJmc8C3PrhIGrRCgU3PCyICdz2RImxLzQ92NXcBC2vll3+mNxnJaZQIfx9KtSwsjlb6nUB7/6f5FnQlb3Copa+Mj8ikweOAkMd2pAxNPcEZmGmH2gwks9/eZ52T/E7xXYZ8rwg/kUnrS3hXpM0U+/SKZeNA04AJlpMMmuHPlIJ+3NYHrwrdXBtEG33atT29kZf7iPtqVZMndQL9zzzII386Ex1vgL35vVKxTtvDUo+O/jmhRVwuOSUXizVbSsJaau5Gnt1/uyZb+pvJ6bf5fJtADr6u6Qg9DtidLeqdV6qRNKghYFuPgf1Z4g66eyAd4oZEqPGnvnI5xLCdi4D1A=;IAir/VmoaUZoN5PngFrV3w=="
 ---

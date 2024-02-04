@@ -105,6 +105,15 @@ related:
         width: 1280
         height: 721
         isCached: true
+  - title: "Google ‘changing’ Bard name to Gemini in big AI push"
+    excerpt: "Android app developer Dylan Roussel has apparently leaked a company change-log that says “Bard is now Gemini” which is the new model to compete with OpenAI’s GPT-4."
+    publishedDateTime: 2024-02-04T05:32:00Z
+    webUrl: "https://telanganatoday.com/google-changing-bard-name-to-gemini-in-big-ai-push"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 19
   - title: "Google is preparing to fully rename Bard to Gemini"
     excerpt: "In a somewhat surprising move, it seems that Google is ditching the “Bard” branding altogether across the web app"
     publishedDateTime: 2024-02-01T18:55:00Z

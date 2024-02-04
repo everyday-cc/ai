@@ -7,7 +7,7 @@ originalUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-gene
 webUrl: "https://www.ciodive.com/news/meta-code-llama-70b-coding-model-generative-ai/706065/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Unveils Open-Source Code Llama 70B to Challenge GitHub Copilot"
-    excerpt: "Meta Unveils Open-Source Code Llama 70B to Challenge GitHub Copilot - The highly advanced Code Llama , Metas latest large language model, is now accessible for researchers"
-    publishedDateTime: 2024-01-30T05:06:00Z
-    webUrl: "https://news.siliconindia.com/technology/meta-unveils-opensource-code-llama-70b-to-challenge-github-copilot-nid-227616-cid-2.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 24
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/Bev32d7z.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Meta Unveils “Code Llama 70B” an Open-Source Coding Tool"
     excerpt: "The availability of Code Llama 70B on three versions of the code generator is what sets it apart from its predecessors. It continues to cater to both research and commercial uses while remaining free. The model’s training on a massive 1TB of code and code-related data contributes to its prowess."
     publishedDateTime: 2024-02-01T04:31:00Z

@@ -73,20 +73,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Musk Claims First Neuralink Human Implant Successful; Unveils ‘Telepathy’ That Allows Device Control By Thoughts"
-    excerpt: "The first human received an implant from @Neuralink yesterday and is recovering well. Initial results show promising neuron spike detection."
-    publishedDateTime: 2024-01-30T05:23:00Z
-    webUrl: "https://in.mashable.com/tech/68524/musk-claims-first-neuralink-human-implant-successful-unveils-telepathy-that-allows-device-control-by"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 48
-    images:
-      - url: "https://sm.mashable.com/mashable_in/seo/default/00-aa-orange-art-cover_dsv8.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
     excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
     publishedDateTime: 2024-02-02T11:08:00Z

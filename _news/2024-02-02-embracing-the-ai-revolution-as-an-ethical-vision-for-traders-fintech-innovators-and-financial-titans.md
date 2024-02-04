@@ -106,20 +106,6 @@ related:
         width: 1200
         height: 732
         isCached: true
-  - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
-    excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
-    publishedDateTime: 2024-01-30T06:47:00Z
-    webUrl: "https://fintechnews.ch/events/top-20-fintech-events-to-attend-in-europe-in-h1-2024/69113/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2024/01/Top-20-Fintech-Events-to-Attend-in-Europe-in-H1-2024.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Reasons to be fintech cheerful"
     excerpt: "I wrote about failure and began thinking I need to find reasons to be cheerful. The easiest way to find cheer is to think about success. I’ve always come to fintech with a wide net: watching as emerging technologies and business models influence incumbent bank projects and culture,"
     publishedDateTime: 2024-01-31T09:11:00Z

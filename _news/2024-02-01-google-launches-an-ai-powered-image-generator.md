@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-imag
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/amp/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -217,6 +217,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Scholar Creates AI-Powered Simulated Child"
+    excerpt: "A renowned Chinese scholar has unveiled what he's calling the world's first AI child — and she might bring the technology into a new age."
+    publishedDateTime: 2024-02-04T05:55:00Z
+    webUrl: "https://futurism.com/the-byte/ai-child-agi"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "mY2Q+9nTTBPNLYFY2YoJDLT9yF2YfhQP+BIuByaFV8RhH/A6ofBv+ANV1Umo/XJbp9cWnRftgS4lF//Ob9/G1HCmMfo5C0TdsgjKfz5sJAMzM84gNEdSIkGXiGd/HSyPFBJrTQhnzVN5OOnOylZS1hFOPz7loTvs8q7wCzSgThLNlqYYmi15Wvo7Sa/FWBoNhizw2ExzxvcQJgc/7Ylw/HrK2mPq2TquslYf2huQKFpQGa9COWkTfKycozcLkxh0ZwOaTSvH0DOpGDDLjpdfvkNFJThMfpl+qFbrDYy2a3P3eh2LRk2y0Z+964g9Eck+T2HTqwHaz88GMXcGn9EZAt+TrILzoL3Z0b904CQZgYI=;zvrSq64DICUAqSvmgMT8ng=="
 ---

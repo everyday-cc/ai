@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-convers
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1576
         height: 900
-        isCached: true
-  - title: "Assessing and quantifying AI risk: A challenge for enterprises"
-    excerpt: "Risks associated with artificial intelligence have grown with the use of GenAI and companies must first understand their risk to create the best protection plan."
-    publishedDateTime: 2024-01-30T08:00:00Z
-    webUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html"
-    ampWebUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 63
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2024/01/shutterstock_333013640.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 575
         isCached: true
   - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
     excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"

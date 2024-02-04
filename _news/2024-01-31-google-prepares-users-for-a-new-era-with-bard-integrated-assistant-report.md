@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google Assistant with Bard coming soon to these Pixel devices: What you need to know"
-    excerpt: "Google is set to introduce an upgraded digital assistant called Assistant with Bard, offering smarter features, with leaks indicating its appearance in the Pixel Tips app and potential release in March 2024 for selected devices,"
-    publishedDateTime: 2024-01-30T08:11:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-assistant-with-bard-coming-soon-to-these-pixel-devices-check-details-2024-01-30-914373"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 37
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/01/google-assistant-with-bard-rolling-out-soon-1706601848.jpg"
-        width: 360
-        height: 202
-        isCached: true
 
 secured: "T+/d0WrN7RxbQryUL7e3lJLaA3ThtJODy4RY9blYot0klgv4o9YiVVLe1xLjH3vqLkTsD8yH6xHgWO+XgoXi6uhIswNHYrwk2t6MnWWQHyw9mq7HQDfdz7KJsM6z4OqMSLWdw0SYCCvlsRVWP19FDUsAD5FXq2gLK2KT12MRWmDMN8pRsQbxBDrwDul9KmA2Y2mgT+eaKwlBTrYjtgSqja4YtSE+/3BNZBW7XH/Uymxbb0YFTfWNfBMRuLYf9EOCWB8Hc3qoWjKova6q1KmbDkIQR7Vv2Yo9a4HDtquarPro8K+kHmJSX8ikzmmvdEJA9bEGeTQKpQTTn7swyWQfKbC+C/UcCU4FTrndos9VNObPiYxoeO7/YpyCqsgkNc+zs/hr9K8DlAJ1trqIHEP44UMSeiNsS34j01ajTpJ0gGVz1MG7bdyhGYUv8BFIIt4KF1g0EbMvmh/Y88brH4CHd1HjDWiSe6+TzcgS/N098lK2XMqwS0bCnN+YtYh0oyhJ+k4dvjHtGUPjainnUVrMPA==;0RIvR0qfvrIqrmrwSpFqIg=="
 ---

@@ -62,15 +62,6 @@ related:
         width: 879
         height: 649
         isCached: true
-  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
-    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
-    publishedDateTime: 2024-01-30T06:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "1 AI Stock to Buy Now and Hold Indefinitely"
     excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
     publishedDateTime: 2024-02-03T20:36:00Z

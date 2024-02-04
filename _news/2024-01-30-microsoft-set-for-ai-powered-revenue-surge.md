@@ -386,6 +386,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Generative AI Showdown: Google's Bard, OpenAI's ChatGPT, Microsoft's Bing Chat, and Claude AI Face Off"
+    excerpt: "The generative AI landscape has evolved considerably over the years, with all of the major platforms out there incorporating new things into the mix. ChatGPT, the product of OpenAI, has been upgraded to include a wide range of plug ins that might end up making it somewhat more effective than might have been the case otherwise."
+    publishedDateTime: 2024-02-04T08:32:00Z
+    webUrl: "https://www.digitalinformationworld.com/2024/02/generative-ai-showdown-googles-bard.html"
+    type: article
+    provider:
+      name: Digital information world
+      domain: digitalinformationworld.com
+    quality: 55
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9ifY0HC05GuvEAj4YbxiRNoG3aZFH5ujSO1K5WZTcHSh3nY2dnVVruAYK8z_ZpDV5b4wxJbQD6JnVqI9BoxmkeHM6k-hYOr-FKU0Z9sGL4hSm8ggtLFk5Chi6_orCaw4XlJnSPTXG-4_zNZ_45Orp0wUjGM2AwFWQ0HfOqZUE0VmK2TwFgq0RA8MJak2s/w1600/Total-scores-by-category.png"
+        width: 1265
+        height: 790
+        isCached: true
   - title: "AI advances lift Microsoft revenues to $62bn"
     excerpt: "Microsoft beat forecasts for its second-quarter revenue, as artificial intelligence features attracted customers to its Cloud and Windows services"
     publishedDateTime: 2024-01-30T22:04:00Z

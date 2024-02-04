@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neurali
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant"
 type: article
 quality: 76
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -68,20 +68,6 @@ related:
       - url: "https://images.yourstory.com/cs/wordpress/2017/03/Untitled-design-45-1.jpg?fm=png&auto=format"
         width: 800
         height: 400
-        isCached: true
-  - title: "Musk Claims First Neuralink Human Implant Successful; Unveils ‘Telepathy’ That Allows Device Control By Thoughts"
-    excerpt: "The first human received an implant from @Neuralink yesterday and is recovering well. Initial results show promising neuron spike detection."
-    publishedDateTime: 2024-01-30T05:23:00Z
-    webUrl: "https://in.mashable.com/tech/68524/musk-claims-first-neuralink-human-implant-successful-unveils-telepathy-that-allows-device-control-by"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 48
-    images:
-      - url: "https://sm.mashable.com/mashable_in/seo/default/00-aa-orange-art-cover_dsv8.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
     excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."

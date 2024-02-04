@@ -257,29 +257,20 @@
     {
       "path": "_news/2024-01-22-is-ai-ready-to-be-your-therapist.md",
       "title": "Is AI Ready to Be Your Therapist?",
-      "excerpt": "The use of AI in healthcare continues to grow. A 2023 survey showed that more than 1 in 10 clinicians already use chatbots such as ChatGPT as part of their routine workflow, and n",
+      "excerpt": "This month, Microsoft announced the upcoming addition of its Copilot ... health professionals are trained in multiple modalities of psychotherapy, including cognitive behavioral therapy, supportive psychotherapy, psychodynamic psychotherapy, and others.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "webUrl": "https://www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/health-examined/202401/is-ai-ready-to-be-your-therapist",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/shutterstock_1613076505.jpg?itok=8uM_Peb1",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/health-examined/202401/is-ai-ready-to-be-your-therapist?amp",
-      "publishedDateTime": "2024-01-21T23:24:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-21T23:33:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Psychology Today",

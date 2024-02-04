@@ -119,20 +119,6 @@ related:
         width: 1200
         height: 732
         isCached: true
-  - title: "Top 20 Fintech Events to Attend in Europe in H1 2024"
-    excerpt: "In the fast-paced world of fintech, key events are being organized across Europe to offer industry stakeholders with the opportunity to witness, engage, and stay abreast of the latest trends. Today we look at the top ten fintech events taking place in Europe in the first half of 2024,"
-    publishedDateTime: 2024-01-30T06:47:00Z
-    webUrl: "https://fintechnews.ch/events/top-20-fintech-events-to-attend-in-europe-in-h1-2024/69113/"
-    type: article
-    provider:
-      name: fintechnews
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://fintechnews.ch/wp-content/uploads/2024/01/Top-20-Fintech-Events-to-Attend-in-Europe-in-H1-2024.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "FIS launches Fintech Hangout Series"
     excerpt: "Accelerator graduates have a track record of success with four members - Lama AI, Forage, Sardine and Array - just named to the GGCV U.S 2024 Fintech Innovation 50. Applications for the FIS Fintech Accelerator Program 2024, its ninth cohort, will open in ..."
     publishedDateTime: 2024-01-31T20:49:00Z

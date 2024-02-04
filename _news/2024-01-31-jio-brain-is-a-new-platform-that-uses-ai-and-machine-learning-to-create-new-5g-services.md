@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ji
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI model trained to learn through child's eyes and ears in a new research"
+    excerpt: "In a new research, an AI model was trained to learn words and concepts through the eyes and ears of a single child, using headcam video recordings from when the child was six mont"
+    publishedDateTime: 2024-02-03T18:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/03/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1706942957041.JPG"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Jio releases ‘Jio Brain’ AI platform"
     excerpt: "Jio Platforms, the parent company of Reliance Jio, India’s largest mobile operator, has announced the launch of its new artificial intelligence platform named ‘Jio Brain’."
     publishedDateTime: 2024-02-02T16:43:00Z

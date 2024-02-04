@@ -23,43 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "Driverless cars covered 5 times more test miles in California in 2023"
-    excerpt: "Completely driverless vehicles travelled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
-    publishedDateTime: 2024-02-03T08:58:00Z
-    webUrl: "https://www.channelnewsasia.com/business/driverless-cars-california-test-more-miles-4096636"
+  - title: "Apple's effort in testing self-driving car technology paced up: Details"
+    excerpt: "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report."
+    publishedDateTime: 2024-02-04T07:53:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: India TV
+      domain: indiatvnews.com
+    quality: 59
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--1BTQAw6E--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,h_676,w_1200/v1/one-cms/core/2024-02-02t233656z_1_lynxmpek110sn_rtroptp_3_gm-selfdriving-cruise.jpg?itok=kmzb8JlC"
-        width: 1200
-        height: 676
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/apple-1707032344.jpg"
+        width: 360
+        height: 202
         isCached: true
-  - title: "Driverless cars covered 5x more test miles in California in 2023"
-    excerpt: "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed."
-    publishedDateTime: 2024-02-03T11:36:00Z
-    webUrl: "https://www.channelnewsasia.com/business/driverless-cars-covered-5x-more-test-miles-california-2023-4096636"
+  - title: "Apple intensifies testing for ‘secret’ self-driving car"
+    excerpt: "Wired reports that according to data submitted to the California Department of Motor Vehicles (DMV) by Apple, the company conducted more extensive testing of its autonomous car last year than ever before."
+    publishedDateTime: 2024-02-04T05:31:00Z
+    webUrl: "https://telanganatoday.com/apple-intensifies-testing-for-secret-self-driving-car"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ABQGfuur--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-02t233656z_1_lynxmpek110sn_rtroptp_3_gm-selfdriving-cruise.jpg?itok=kmzb8JlC"
-        width: 1200
-        height: 676
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2024/02/Apple-ramps-up-its-‘secret-self-driving-car-testing-Report.jpg"
+        width: 1280
+        height: 750
         isCached: true
-  - title: "China challenges the west for driverless car supremacy"
-    excerpt: "The progress made by Chinese companies and regulators in Beijing poses a new challenge to the west, which is already lagging behind China in the development of electric vehicles, according to analysts, and now sees the country gaining ground with its driverless efforts."
-    publishedDateTime: 2024-01-31T02:24:00Z
-    webUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb"
+  - title: "Apple ramps up its ‘secret’ self-driving car testing: report"
+    excerpt: "Apple has ramped up its self-driving car testing and has logged over 450,000 miles of autonomous driving in the US from December 2022 to November 2023."
+    publishedDateTime: 2024-02-04T05:04:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/apple-ramps-up-its-secret-self-driving-car-testing-report/articleshow/107396711.cms?from=mdr"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 4
 
 secured: "989azzMRe/SgmDQ7+vUxFVL1ObKUpEqX6EEeg0imnxdpJVhLMn3bIUlwA/YJKawNcXFMYQ86Eqz/xliRH4LEKuQiaK5kOiXPVA1vNHhch41OM+Nx8sECWMvbCbQfy0vmC18gzt4CGag6gurbssHghTSm15K91r+HmTNiXk+DNS6OYkA1U22wqe3nUS/XNemqPbY/czBPrF1HULsBFpjhytnIHon8WSqsPl+k2DKJI/OfqxrV8zDzdSje5yWrvITPfGvMkfcPtBPwSCkTo9rgLJYMd1cNwl65IhnjeQnbDo1bC1vs8EyyLEKMLEb4uckxAMoeO7A1sCjuIDnAGabAyCpU+lAfLte+cKNhrV/0o9A=;4QZah5K69J7ePjL/ckPE2w=="
 ---

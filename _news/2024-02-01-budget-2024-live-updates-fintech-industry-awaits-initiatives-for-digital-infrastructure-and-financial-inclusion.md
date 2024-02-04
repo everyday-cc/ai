@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/economy/budget-2024-expectations-live-updat
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/economy/budget-2024-expectations-live-updates-nirmala-sitharaman-itr-income-tax-slabs-defence-healthcare-auto-hra-liveblog-18921341.htm/amp"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,22 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Budget 2024: Fintech sector wants government to improve KYC and anti-fraud systems"
-    excerpt: "Fintech sector expects the interim budget to help boost the lending space and introduce initiatives that can help support further innovation."
-    publishedDateTime: 2024-01-30T05:13:00Z
-    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/articleshow/107249791.cms"
-    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/amp_articleshow/107249791.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/budget-2024-fintech-sector-wants-government-to-improve-kyc-and-anti-fraud-systems/amp_articleshow/107249791.cms"
+  - title: "Tech Budget 2024 Live Updates: Govt will launch new scheme for strengthening deep tech technologies, says FM"
+    excerpt: "Tech Budget 2024 Live: New scheme for deep tech for defense purposes A new scheme will be launched for strengthening deep tech technologies for defense purposes and export under the Aatmanirbhar Bharat infrastructure, the Finance Minister announced."
+    publishedDateTime: 2024-02-01T18:23:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/tech-budget-2024-live-updates-from-ai-to-mobiles-fm-nirmala-sitharaman-announcements-awaited-countdown-on-71706751496674.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/tech-budget-2024-live-updates-from-ai-to-mobiles-fm-nirmala-sitharaman-announcements-awaited-countdown-on-71706751496674.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/tech-budget-2024-live-updates-from-ai-to-mobiles-fm-nirmala-sitharaman-announcements-awaited-countdown-on-71706751496674.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 25
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35180,msid-107249760/budget.jpg"
-        width: 600
-        height: 450
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/01/1600x900/fm_1706765915376_1706765921442.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "FinTech Scotland opens innovation challenge"
+    excerpt: "FinTech Scotland, working with professional services supporter Deloitte, and with Tesco Bank, Morgan Stanley and abrdn, launched a first-of-its-kind innovation challenge. The industry-led call to action will encourage financial institutions and innovators from across the Fintech community and beyond to learn collaboratively and facilitate industry forums to collectively share best"
+    publishedDateTime: 2024-02-01T08:20:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99513/fintech-scotland-opens-innovation-challenge"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "tB31f9eH3f2hTAoq66+EHq0zzVIlhWstpAbpVXiBE7F6RKywlGF+Dzvr7Z0DO6FojLWA8+wNmGT6OdIw8t1RXpBedUFZNJKnz9AOJf+3gcSarEE80aax1QoJFmuqR89fljlZ+EoQmO0/2RjY0zF88hY0JAZt8HtJPumGuKmBBJxKzf/Hc+HJsCGysBEe1TTLsiM/w6Up4VZpCeuC9vk2aG3dB8N60nQWI2uWcrJw/LRpEbuK7Pv4QGJCL51Ram3fG97ELhco9MkvIFLZof21Ls23vwmtp0t4ag0/zVaBYxHVcQSzuBoCntDIGsAFRt9TCjjfYlnOreorz3mm1ZNwyTXwQG/rXCsN1xj0WEOxHmY=;+ZeQ1Qjf10fjN+g/mapslw=="
 ---

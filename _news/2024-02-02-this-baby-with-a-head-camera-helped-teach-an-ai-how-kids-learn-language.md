@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/01/1087527/baby-ai-language
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/01/1087527/baby-ai-language-camera/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
     provider:
       name: Scientific American
       domain: scientificamerican.com
+    quality: 19
+  - title: "How a baby with a headcam taught AI to learn words"
+    excerpt: "An AI model identified objects 62% of the time after being trained on video and audio captured by a camera strapped to a toddler’s head."
+    publishedDateTime: 2024-02-02T18:09:00Z
+    webUrl: "https://www.popsci.com/technology/baby-headcam-ai-learn/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
     quality: 19
 
 secured: "lzSfhVE/ccY7Hvl9lobj0PahztYKZj/12cYBy71YSrsv6jR3AIl5Cf9eCYPExyVrpQV/e9VHF74GiPlWhYLEM2Ctmx3R1txO4xDqOtBpSq6L92P0iKiO/T8v+xglEuc1KroG1nfjSK8D80TRscfe/K6sLOwbjuvZsVeWMq+DcVt2mNRkXS8P7dggROdF7t9o4r7XeC1IWc6+wlPmXuukJFKg4vHL2QrzsZvY18Rrlm9gINPRmWvKWVkixUUAShQ70QkVX+9AbG0wyXAwGI5S71J5Yl95jyULptpBjTO0Wt/oj5mQV1cfK5jyqbV3yTOzrjcSj+97eHF8OrukBZb8idClJygv+733qHuAFaxnvHA0h4pGu8dnIdJmDGQLqEIsT/O7plxBIOfqA5YxIiYoeJOq7FrqRa3CYQWKB2i9MI3KcMGJzkA2v3AoNEZqRq1oVrNWRC29NwdrbDLq4aHomrq1xVnmNLLWd+epqbJFufmkbeJTNM3eDXzW7khu5MWvrOL3rH3cw9IluHX8BgWr2g==;Ko0udJ9o7gYxQp0+QDbxKQ=="

@@ -41,20 +41,15 @@ related:
         width: 1349
         height: 900
         isCached: true
-  - title: "How AI Is Being Used to Make Humans More Intelligent"
-    excerpt: "Thanks to the buzz it generated in 2023, AI is on everyone's mind. But not everyone understands it. Here are some tips to help."
-    publishedDateTime: 2024-01-30T08:13:00Z
-    webUrl: "https://www.inc.com/shama-hyder/how-ai-is-being-used-to-make-humans-more-intelligent.html"
+  - title: "AI is Changing How We Think About Music"
+    excerpt: "AI is rapidly revolutionizing art—and it’s got far-reaching implications for both working musicians and listeners."
+    publishedDateTime: 2024-02-02T20:02:00Z
+    webUrl: "https://www.pastemagazine.com/music/artificial-intelligence/ai-is-changing-how-we-think-about-music"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1533019598_536787_hhnokb.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Paste
+      domain: pastemagazine.com
+    quality: 19
 
 secured: "1+Al9ntOG6mFKGdkG/v+FWdYkf8HI0tTrw4mW4H86diFU+z4KazCgTQttQ0u3akLpnMJSHlay4tg8DAcWSvfek730HkwCT28/dZ6HTH8Tu5W+y6D0u2RYxMjjVDK67RhLzGpLk3RyzHVdps4AgsLPLw6MpdQrPoZQxmTyPvGR3ILntNeCYQSuZgFTcQdlyzfdGv6SQxI148+qU4bQn/MUWbYb7oP32V1TNmGpuNn2Jr1vP+XW8wQzRY5r+jzTuAuuA85o2+tB2e9lSYDuzMzw5G5rXo6CUKO+GSCgddYmSdmjcbT50YtCjZnSaHtBJifUxFGtFHpCcfSDdOpNYO4l6E69VbuEgPYziZwlmOjgz0=;VaHgvFYhr0Y5w1xv0gXNWw=="
 ---

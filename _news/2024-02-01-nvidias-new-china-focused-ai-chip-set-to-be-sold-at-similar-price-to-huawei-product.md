@@ -28,22 +28,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 79
-  - title: "AI Chip startup Rebellions snags funding to challenge Nvidia"
-    excerpt: "Rebellions Inc. secured $124 million from investors including KT Corp. to accelerate the development of a next-generation AI chip, underscoring growing interest in the hardware that drives artificial intelligence."
-    publishedDateTime: 2024-01-30T07:54:00Z
-    webUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950"
-    ampWebUrl: "https://www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/ai-chip-startup-rebellions-snags-funding-challenge-nvidia-783950?amp"
-    type: article
-    provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 74
-    images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2024/01/30/-1x-1.png"
-        width: 600
-        height: 314
-        isCached: true
   - title: "AMD, like Intel, hopes to sell a ton of AI Chips, but expects revenue to take a hit, reveals earnings call"
     excerpt: "Major chip makers like AMD and Intel expect to sell a ton of computer processors and more of AI chips. However, they also expect their revenue to take a hit this year as they mount a challenge to NVID"
     publishedDateTime: 2024-01-31T04:42:00Z

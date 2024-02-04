@@ -49,6 +49,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "How a baby with a headcam taught AI to learn words"
+    excerpt: "An AI model identified objects 62% of the time after being trained on video and audio captured by a camera strapped to a toddler’s head."
+    publishedDateTime: 2024-02-02T18:09:00Z
+    webUrl: "https://www.popsci.com/technology/baby-headcam-ai-learn/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "/zxZUkyyQ/uUTApiWRzeK12gAU4XkLir1ptcLBIqC6U0HI1lXeeX7hBDzqhyOgQUj0TRi9fQZQ3lkaM6WMcfuQtfIpgTG1o+zMzrJ6qPClgnjk27MZbil2hR7mzEd6Cz1kOTsBeQHBm/qQOOFIuc1YQOtW/Ah7ryvJo0Rx20BuqKZbSPRuJTzVccwprChnIuQmp/xOBu+SiWx3hillRbH13S+/WFPI69rJbm476EFAiiTz9q7SfxwZmPA1k4sBaTE0DCC5AtjUjTn6CX+FteCqD2dMJscfi499DARcbOnkmuLsomPzoszTQfkZJcVrVldZ8LesD5J9pOtm9PYPNannGXLPO/5xYnjUpkVk/+gZ2QwNVb3jRFCyueaDax1tl+FXkEJUkyCM3DL/KHJvqg4tDifcMq65RlooDn4FkWUQFEeLSR9hC4BdjG4WWowmOmv47DBOKQTQ5e66RZEZPRubJZxftuxfe0dtFTLX8PJxBmx2LiKS8fVlc0npGqqnAx7HUMA5m2jCiqa8SoX4P87g==;j3FIRDn6qLN1lLLBO46xIA=="
 ---

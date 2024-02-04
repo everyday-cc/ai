@@ -43,19 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Human interaction, not AI, key to mastering foreign languages"
-    excerpt: "Artificial intelligence (AI) is playing an increasingly important role in the teaching and learning of foreign languages, helping teachers tailor materials for individual students, and the latter improve their linguistic skills."
-    publishedDateTime: 2024-01-30T08:38:00Z
-    webUrl: "https://spectator.sme.sk/c/23275257/human-interaction-not-ai-key-to-mastering-foreign-languages.html"
+  - title: "AI in business central: Transforming business operations"
+    excerpt: "Microsoft Dynamics 365 Business Central, Microsoft’s comprehensive business management solution, has evolved with cutting-edge AI capabilities, changing how businesses operate. In this article, we’ll delve into the powerful AI features integrated into Business Central,"
+    publishedDateTime: 2024-02-04T04:47:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-business-central-transforming-business-operations-3383705/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-in-business-central-transforming-business-operations-3383705/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-in-business-central-transforming-business-operations-3383705/lite/"
     type: article
     provider:
-      name: SME
-      domain: spectator.sme.sk
-    quality: 39
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://m.smedata.sk/api-media/media/image/spectator/8/86/8678828/8678828_1200x.jpg?rev=5"
+      - url: "https://www.financialexpress.com/wp-content/uploads/2023/10/Data-1.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "Bringing Agility into AI to Drive Business Success"
     excerpt: "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS"

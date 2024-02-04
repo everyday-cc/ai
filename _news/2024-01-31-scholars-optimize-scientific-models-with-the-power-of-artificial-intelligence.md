@@ -40,20 +40,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "Application of Gen AI in Banks and \"Fintech\""
-    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
-    publishedDateTime: 2024-01-30T05:28:00Z
-    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
-    type: article
-    provider:
-      name: Kompas
-      domain: kompas.id
-    quality: 54
-    images:
-      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "pgZEmgiIvZA1oSVd0By5RMOD9wMKymVnJ7lo352oGnQQgX+pzOT8XXzWmEWBYwao8meSiIKFvKl7cHux+Iz6ijzcGEsHrj30dW4UezOEXU7YlaO04o9i4DD5gLRpr1Xf7VH3hNS2vk6gul8pm2/0CTmOo3agK0UteBTcp9lmEwMRQa+4vDHaGQJdjLa84diVlUbl306Re1C98byU1+7eXL9jLB8Xj8Yao4oJcgbMO6ZZoAlsYHwDnyIBvpku+Uwd9KtxsWdKiFW9GzqikhNBDpmkorSyON1Ls9g0xOhpcZcr1BPjrUA351tnuM0yhAuH1PbR8d8DAaI/mmbVOKr89Higd/wQL74P9pAIDre9XGLi8i3OZreEg+AZOCPof+nqjvbrploZ2luq4UYy2bTGqSL8I6OR66UjF6TxdGr1IDpg/9jNw0sUzONNmrjPaFku+S9dbXVrJ+A3RGjqIxZkoY0EUeTmXtlcvpTjLqx7RdOEaAXb3sV7t7EiuVcHjX0/iUVDi2Jz2OmlGqR+TFPqDA==;SiYknP6XJLALt05goA0fGw=="
 ---

@@ -50,6 +50,15 @@ related:
       name: Scientific American
       domain: scientificamerican.com
     quality: 19
+  - title: "How a baby with a headcam taught AI to learn words"
+    excerpt: "An AI model identified objects 62% of the time after being trained on video and audio captured by a camera strapped to a toddler’s head."
+    publishedDateTime: 2024-02-02T18:09:00Z
+    webUrl: "https://www.popsci.com/technology/baby-headcam-ai-learn/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 19
 
 secured: "f5Ltj2jlatjDmyTQkR+3ye954+uuEjPRw169UEBNEHcH/5MwBXUVojpqXWxPo3QKdwz3S5/S1TMp5cN2icHAu2WavhJrRIn0aEwj/hiMsicvNMn4w5pLNRLz+oXTn0S86tIxqFB9ix462uGca6CM1kmC200tWUQiW5+w9Nrn5BZdd/IEK8dDe0XOpHyW6RgHjPySxhPLqYf3rgk26lDTZyDskkuM4PCVkII7k1Zmvvri6o7Ngp3ZkMBfIvf6l+ZSdWeQ4DrDAj6vYWZYX+EQ0c7fdDyMEXF/leT7Bkeyo/g1eNOxTGNJv/GWR7bqctP2bGH+lOW+d68o+Qze5MYntHTGPywYc+ZDCSJ/SYwZ85s=;js+D3vYWP6v4Cpk/2Noa8g=="
 ---

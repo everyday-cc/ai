@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Apple tested its self-driving car tech more than ever last year."
-    excerpt: "The company logged over 450,000 miles of autonomous driving in California from December 2022 to November 2023, according to reporting from the state’s DMV. As Wired notes, that’s nothing compared to the millions of miles of testing notched by other companies."
-    publishedDateTime: 2024-02-03T14:46:00Z
-    webUrl: "https://www.theverge.com/2024/2/3/24060376/apple-tested-its-self-driving-car-tech-more-than-ever-last-year"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 34
   - title: "China challenges the west for driverless car supremacy"
     excerpt: "The progress made by Chinese companies and regulators in Beijing poses a new challenge to the west, which is already lagging behind China in the development of electric vehicles, according to analysts, and now sees the country gaining ground with its driverless efforts."
     publishedDateTime: 2024-01-31T02:24:00Z
@@ -56,6 +47,15 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
+    quality: 19
+  - title: "Driverless cars covered 5 times more test miles in California in 2023"
+    excerpt: "COMPLETELY driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year’s total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
+    publishedDateTime: 2024-02-04T03:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/driverless-cars-covered-5-times-more-test-miles-california-2023"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
     quality: 19
 
 secured: "Ydr6fL7gJ/1hlGY3TbpeK2Rr0DmYMkTrqsq3NMahVGbn/cVMCrRL9tPFWf+FESgw9RYyfS879zKY/vkG1KXMbk2T5RJtEJesawuWaLsCg+Rzar6xhgSkCCVWG2nQoj0ZQP5F+4QR+TCXfpynwPe6RcP8sD9XFZ05xr7ggvbewKiP19CKq2GXXjPA3F6/oos2+pS/ayre9pPAc3GZ2trny70x57PHvXpRpwzHSI1PPqTAO4TeIxik3XMrgMdJ9JQjVWuLvruv5Fjn9OhEkMLXAWSOOeNFOEB94HQhh8VmZrHEBX9sr+TnaNc88CGD4vH9mjHuFiNBdSddlvUJmTN/zqy1Y59L5frmGvlrgSr+Ck2HcGja+lKIfPnmrRmFR1QBf3O73qWTTd6YkTAnzAe6WO/vxtvHa7Fq9dZ60lOvpcr7qb+zdHJLoiRfLP7u8ZC9l1i78hYWnxBnkuqBit1vY7IvyuEUZxKYdn9qGaa2yPDQPaRuGq13KzqBUJdxCYqXFValMO0LO8DhCeAzjGsAYw==;m6YbHgrnNfp3rLJjlQ0kOA=="

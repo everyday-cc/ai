@@ -47,16 +47,16 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Apple tested its self-driving car tech more than ever last year."
-    excerpt: "The company logged over 450,000 miles of autonomous driving in California from December 2022 to November 2023, according to reporting from the state’s DMV. As Wired notes, that’s nothing compared to the millions of miles of testing notched by other companies."
-    publishedDateTime: 2024-02-03T14:46:00Z
-    webUrl: "https://www.theverge.com/2024/2/3/24060376/apple-tested-its-self-driving-car-tech-more-than-ever-last-year"
+  - title: "Driverless cars covered 5 times more test miles in California in 2023"
+    excerpt: "COMPLETELY driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year’s total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday (Feb 2) showed."
+    publishedDateTime: 2024-02-04T03:00:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/driverless-cars-covered-5-times-more-test-miles-california-2023"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 34
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 19
 
-secured: "n+Cz3mey0furnzL0MJgJpGbEPgcTg6J9EbKwGTsoL0+EQSH+POXsEb/3PhUGOV5X0aeWeXUu/1Da8gHYZI7vGAWc8uXqbGylNrnBhzNN9d7d58RoXR9fFHCxA7mtNms36jhWlrtjg4QU37vXhfEhBmlz2XrUZjY6AsMV2BZ1+Z+Rd2YPWMBn+jGppQdlikJ8CfwtBwkYN9fUz6TaVi48xnYRQBdRy8x2Nf2tQ0toyqDpBK855nRNrWoX2XEN6mQ8IThl3vARXKrv5Hh6GSmEnschqNhNhmbuay0nnT6TuOwdusK/DL/fEd+5K0u8PDRhdkRv4Wvu8SoDgAhyqatnyKSat4b4b3N52h3GpAk+gCE=;zKAh2PWrgxp2HALJAqvFDA=="
+secured: "41IhjeiHqvVYB1fXPAuxgtf492rTJYVoCOemBozWFvKkQoLGLu1n1ef/MY4oZvYDG7wXB0IOo/L1ZhEKrcC6wEX+hsV9lWZONYBfG3P4AH7wJu86BGkpIDZ3aE7UBTz2fl4I/4n1mVoitrsC4lpkGDEzgtIfsc0YwI93iCP65mhSEZWSNg4yVgAmhlhqog63hPylNgcywbMMN4d3W3a4TlSqQ2cukRbTOuKm/SqC1nPIVDrS+YGH2s2aAjhethD8Qca0Xhi1jY5bqpOcJh/uEnsikEhxxZIqtBaSXr28Gmli4k4suaJZw8A93kwls3npZD8f3oXaVmU9mouhG/sIXEgY8WZcmp8wH3NM4UglC5Y=;8jHXYGp8F/pJF8e4kroYUg=="
 ---
 

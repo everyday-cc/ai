@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-wit
 webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Application of Gen AI in Banks and \"Fintech\""
-    excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
-    publishedDateTime: 2024-01-30T05:28:00Z
-    webUrl: "https://www.kompas.id/baca/english/2024/01/30/en-penerapan-gen-ai-di-bank-dan-fintech"
-    type: article
-    provider:
-      name: Kompas
-      domain: kompas.id
-    quality: 54
-    images:
-      - url: "https://cdn-assetd.kompas.id/6H82W_e1gWUy_8wImMKgVUlFXfQ=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F01%2F30%2Fa403ceb0-ba05-4bf2-93ce-d0068dfe2bab_jpg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Scholars Optimize Scientific Models with the Power of Artificial Intelligence"
     excerpt: "The workshop focused AI research toward optimization of complex systems. Presentations of climatological and electromagnetic simulations showed these techniques resulted in more efficient and accurate computer modeling. The workshop also progressed AI research itself since AI models typically are not well-suited for optimization tasks."
     publishedDateTime: 2024-01-31T11:59:00Z

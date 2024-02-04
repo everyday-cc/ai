@@ -73,22 +73,6 @@ related:
         width: 1576
         height: 900
         isCached: true
-  - title: "Assessing and quantifying AI risk: A challenge for enterprises"
-    excerpt: "Risks associated with artificial intelligence have grown with the use of GenAI and companies must first understand their risk to create the best protection plan."
-    publishedDateTime: 2024-01-30T08:00:00Z
-    webUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html"
-    ampWebUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 63
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2024/01/shutterstock_333013640.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
     excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
     publishedDateTime: 2024-01-30T19:33:00Z

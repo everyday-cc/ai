@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI model trained to learn through child's eyes and ears in a new research"
+    excerpt: "In a new research, an AI model was trained to learn words and concepts through the eyes and ears of a single child, using headcam video recordings from when the child was six mont"
+    publishedDateTime: 2024-02-03T18:22:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/ai-model-trained-to-learn-through-childs-eyes-and-ears-in-a-new-research-71706934602494.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 58
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/03/1600x900/HEALTH-AI-WHITE-HOUSE-0_1703814543854_1706942957041.JPG"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "eYys8jqK+/0Gf4UwXqUzAy0z70qLeHDlZvUCGg7Hsm4jNaif9MU3uEe5kNj10RAaPsn/cNd0HJJkklYQYnbxZHQAJajtfznfCiXHc2ymCMJkprnzT7B1u62SqqA5Qo3KWjkkkU3bQC82C6STTYwpW0AElCxZJwCRiwRGCySyBh2IqPave/HYrIZtN8uJtDMGfo5c/yFbfWQ21MV1liZFJe+KHgcLmjzGrCr5wvieHzwsXvxFt7km4rf8WLGdNRALMMWVxgJMHmwuEjSRFsxTSGAgdoKYAVe+/YddJDr80BTAoeaYBpEsGFB3+CROW4LTQT+uj9wKRcVhdSc8/s6Hq7WTvi7GgD+zzmf4YGP9sT0=;Nbnq/tqTejaknJ1KfhkgEQ=="
 ---
