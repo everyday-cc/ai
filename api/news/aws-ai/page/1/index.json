@@ -107,7 +107,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/designing-generative-ai-workloads-for-resilience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1084,6 +1084,40 @@
       ]
     },
     {
+      "path": "_news/2024-01-16-1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more.md",
+      "title": "1 Artificial Intelligence (AI) Stock That Has Created Millionaires and Will Continue to Make More",
+      "excerpt": "Amazon uses AI throughout its e-commerce business to identify trends, manage inventory, and for product recommendations. The company has an extensive distribution network, with eight regional warehouses and multiple lines and delivery methods. It uses AI to determine the fastest and cheapest way to get out orders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23361613/1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/23361613/1-artificial-intelligence-ai-stock-that-has-created-millionaires-and-will-continue-to-make-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T11:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
       "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
       "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
@@ -1363,40 +1397,6 @@
       "provider": {
         "name": "Big News Network.com",
         "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-siemens-and-aws-partner-to-democratize-generative-ai-in-software-development.md",
-      "title": "Siemens and AWS Partner to Democratize Generative AI in Software Development",
-      "excerpt": "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/siemens-and-aws-partner-to-democratize-generative-ai-in-software-development/",
-      "originalUrl": "https://www.datanami.com/this-just-in/siemens-and-aws-partner-to-democratize-generative-ai-in-software-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T13:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null

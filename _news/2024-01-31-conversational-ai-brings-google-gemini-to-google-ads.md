@@ -85,6 +85,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Bard is dead, long live Gemini: Google’s new name for its AI chat?"
+    excerpt: "But Google has been secretly working on a bigger change for Bard. As we revealed earlier this week, Google plans to rebrand Bard as Gemini, aligning it with the AI model that runs it. Thanks to a leaked changelog spotted by Android developer Dylan Roussel, we know that the change is coming as soon as next week."
+    publishedDateTime: 2024-02-04T12:19:00Z
+    webUrl: "https://interestingengineering.com/culture/bard-is-dead-long-live-gemini-googles-new-name-for-its-ai-chat"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/04/image/jpeg/YuDorRJBldPValOW1FOiEd3qLo0guQyTUd3hNIXN.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google may rebrand 'Assistant with Bard' as Gemini"
     excerpt: "Last October, Google set the ball rolling to integrate the company's advanced Artificial Intelligence chatbot Bard with Google Assistant feature on Android phones. It was initially made available to select registered users to seek feedback and weedout any ..."
     publishedDateTime: 2024-01-31T00:00:00Z
@@ -126,6 +140,20 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Bard.jpg"
         width: 1280
         height: 721
+        isCached: true
+  - title: "Google Assistant needs personality, and 'Gemini' is the solution"
+    excerpt: "In the last couple of months, Google seems to have renewed its love for Assistant, with a promise to bring advanced functionality down the line. But what’s particularly interesting is that the awfully named Google Assistant with Bard could be renamed Gemini, which could potentially be the biggest thing that has happened to Assistant in years."
+    publishedDateTime: 2024-02-04T12:30:00Z
+    webUrl: "https://www.androidpolice.com/gemini-much-better-name-than-google-assistant/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
+        width: 2100
+        height: 1400
         isCached: true
   - title: "Google ‘changing’ Bard name to Gemini in big AI push"
     excerpt: "Android app developer Dylan Roussel has apparently leaked a company change-log that says “Bard is now Gemini” which is the new model to compete with OpenAI’s GPT-4."

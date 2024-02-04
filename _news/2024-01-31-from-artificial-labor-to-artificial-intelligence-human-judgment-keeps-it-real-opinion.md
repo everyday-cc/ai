@@ -1,7 +1,7 @@
 ---
 category: news
 title: "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion"
-excerpt: "Artificial intelligence is the latest in social and economic shiny objects. Many are wondering about the trajectory of their professional lives. We’re all wise to do so. Such threats are not new."
+excerpt: "Artificial intelligence is the latest in social and ... They join unions that make demands for medical care and retirement. Then came robotics. Advanced computer technology allows machines to ..."
 publishedDateTime: 2024-01-31T11:07:00Z
 originalUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
 webUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
@@ -15,9 +15,9 @@ provider:
   domain: knoxnews.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
-secured: "EYfYVvsC7JwBGCPnZ9RTzmiIa0y1XSnpfUuJqqfXdMQJ/2PoKc/DnHpbjN/LxCa+lNBWf3vT6QQum6uGOG++ndRWrvXEHMqV54of1YfML3JKadDhOmaTd3WPvrpG7rp0MOkWkRblHdwKOfENaIpbw6jHaa8Q588SpZYPAUSWx6fJCwMmp0aykzY3YYU/mGBjESS43qJa0Edc8JJfk85PD9s2VFzrJp7KkJMDAsqs7v1Yw5+5YmaEIoUHJ67B+YhPhJLAN3N/uIVAIXdbWFVtH7FJfxBOXa21F1EmAWLD45XcaRk1BgH3mMF4IKKQg5jbzQN1tC/HFx5roqhnk9NrVa4Dxv6O3fpiHWaFJ8KB7oY=;yKUnpHvLHoBTMzwzGYO0Ww=="
+secured: "Mg8VSKAl2XKWeVsnqx7u3oN/xZsWMTqqCajXzswTSsCsHYLSbISMI5WzKnViSlTlV16/2lHMH1j1ifCbRq3XVbF3v3eeMvNC/E37NdIFChr5ganeKpmsgO9jhpFnaVtFhuwdNh2vIbYkI19JBxUmPUELU8FV6gVAsQd1Q7hO4W/la6jgRex+f8kVujF95g7LPONAuXDGeCvGxQJYmW3eHLhUkLeVpmKwLngWPKaGEnIyoNKsi05BsFKgeGhfdr48mxTrGL0DnFknvxmSHv6duy/TvdZ/Zn1HDPNC9DwjQwRutj4/ih6hRouzY0DipAqudWI1aUBZRogrYG8uBE936XfFu2l+nl8t706x3IPuVnY=;h3Ou7MeKNNuQfunxJ8GZ1w=="
 ---
 

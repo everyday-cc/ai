@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Six Principles for Redefining Retail with Responsible AI"
-    excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/six-principles-for-redefining-retail-with-responsible-ai"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 19
 
 secured: "PX2gkZ30/iIB6c8rnICiU7maaPUgaLstLpr/VBLZJlEDdhnDF3PeaiTegXYVuAMlMdN2+xQW4Sg8Mm1xH07zC4Q9MHbb2ADIlUZCRa6UzyM6fASJpAmXDud/xnYf6wFazQyjCoqhEAeChhKth98jlNSfnC4NxKKq/pg8RSmvUiWQaqLaCd6dhDAMR+NstXuISExHXF7BfpU+5Qy3OANXKVOwyGJfbDFqD2dORn3eIzbtaZARHW1wbdBaW8kfoqT1eMAYAuUaBHWEqjxdyRXVH4Cbla5JKjkmix4atWmebMiUeDTOvh33HMz8MErcisMm/9QDxC9zINMddUD5CeN7ELyPGEIxDQ/GDTqW4A2tqMNM3kDblg+A/yNE6TQhgCWKNdLZh+jDnx+YDg7dOZYmGw0QLV+yeOh8fKcYaTkgs8nSUV5Cx4VdRMFcT6OQuz+Q7ytRvntea+9h5UWBlv2zRAC0Y6PUi9unNUOG8TWPggsYiO0fRhV+uhNNJJOvd1ikaCFD2XRSln6gRN+1adgwNw==;fl5lsXuQf5h6OqoXr7KO7A=="
 ---

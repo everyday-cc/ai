@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/google-maps-generative-ai-local-gu
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/google-maps-generative-ai-local-guides/amp/"
 type: article
 quality: 109
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -129,20 +129,6 @@ related:
       - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI20.jpg"
         width: 976
         height: 400
-        isCached: true
-  - title: "Use of generative artificial intelligence at UNIGE"
-    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
-    publishedDateTime: 2024-01-30T12:44:00Z
-    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
-    type: article
-    provider:
-      name: unige.ch
-      domain: unige.ch
-    quality: 37
-    images:
-      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
-        width: 1200
-        height: 620
         isCached: true
   - title: "Generative AI startup taps 3 health system execs"
     excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."

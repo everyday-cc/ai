@@ -9,7 +9,7 @@ ampWebUrl: "https://local12.com/amp/health/health-updates/artificial-intelligenc
 cdnAmpWebUrl: "https://local12-com.cdn.ampproject.org/c/s/local12.com/amp/health/health-updates/artificial-intelligence-quickly-leading-advances-cancer-detection-world-cancer-day-save-lives-ai-early-detection-research-cancer-care-human-side-santrina-fletcher-dermalounge-breast-elizabeth-cancer-center-dough-flora-polygenic-risk-score-oncology"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 648
     height: 365
     isCached: true
-
-related:
-  - title: "Machine Learning, ‘Liquid Biopsy’ to Bolster Early Cancer Detection"
-    excerpt: "Researchers leveraging a machine learning-based “fragmentomics” approach may be able to detect cancer sooner using smaller blood samples than traditional methods."
-    publishedDateTime: 2024-01-30T13:00:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-liquid-biopsy-to-bolster-early-cancer-detection"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "3HSSRKzvEl71fIjEuyH0/0WHuxr27ij2SxiCt+VJ2BdVA1y0lPhWwQhfr+1gZZq6sk8mwlL/8efoBbPsfivKOLOi7nMPSrz9gy3K5fZ7SNAOsDhrfgOfjgLqFspKg47xYT7A+N0nsgbucsUxebwkQ30Xuw+jGIFofGxsE1inkKPy63wGnLY1hCc1tdskszxQkkhxIDllE7xPHyJ2cCF5VC5G5C5k8uyoQlImaFwO8ZIg9gZ0yjDlsXONFRJ7IfmvR/I3snm7Q+6GhrL2XzSdGGVga6HQCkTXBAnGszNLDxfUVvf9TXm9tyn1NASBOUd2K+8Oez1XozOMk681botpsPrq7xbJlsc4bF/QV2nVoIo=;LqxVTqXn5+nUSeGxPK9YFA=="
 ---

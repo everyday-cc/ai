@@ -73,6 +73,20 @@ related:
         width: 567
         height: 536
         isCached: true
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
+        isCached: true
 
 secured: "qVJD+LjsYhq5TJ10KBaJP8R8HSZUGLodEfPoWjtsmpa06QwSeyFcDxHlLmD6QLh9WP6w+/5NNdCfUnzFPmnU6QA2Q5cBjmcMMERa474SfFDL8tl4oOJOKsjQfKr5ILB+zQnIlbFSC26BNrIkPk3rEOlz5H3bzmaNiXVrhVAgxpLpGFNpxPmBiHw9AjYB+NtHVGBGlZWlkTzNQFtIzgSImKBTVxid44DA8Jr0pRejutpWsW4nQyRa0JMIa0zXnV18RfTNNSs44X5SkQLTEzrALL+4pSYqMhyNKmAMPMxWBhHiAqBpYYwaf4m/VZAGVwDai/3Y3LLcVOwT96933xSIf8r0zuDPQxB6cj2N4PxmHLI48BnUG30BqavyYnQL09sOo5+olyVdroLcjeqf5Q0GCgiRTdVcKcgKQWmCOG/uPCQrU+l88BfW5I+aB6oNpdNt5Ni13FJxcWijC7EadCipC7h0pvgJ/JeIgwDVpQBN19ZAkyfs7cOAIbg4gdwe8K0D+CANdezOMgFEPhwgg/IBZA==;jSVa+Pui72SFeeiDP8cdOQ=="
 ---

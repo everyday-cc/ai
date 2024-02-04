@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
         width: 567
         height: 536
+        isCached: true
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Google DeepMind WARM: Can Make AI More Reliable"
     excerpt: "Researchers at DeepMind published details of a new AI training model called WARM that improves efficiency, reliability, and quality"

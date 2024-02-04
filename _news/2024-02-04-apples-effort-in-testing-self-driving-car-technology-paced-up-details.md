@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple ramps up its 'secret' self-driving car testing: Report"
+    excerpt: "Apple has ramped up its self-driving car testing and has logged over 450,000 miles of autonomous driving in the US from December 2022 to November 2023."
+    publishedDateTime: 2024-02-04T11:04:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107402092,imgsize-58552,width-1200,height=765,overlay-etauto/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Apple tested its self-driving car tech more than ever last year."
     excerpt: "The company logged over 450,000 miles of autonomous driving in California from December 2022 to November 2023, according to reporting from the state’s DMV. As Wired notes, that’s nothing compared to the millions of miles of testing notched by other companies."
     publishedDateTime: 2024-02-03T14:46:00Z
@@ -50,15 +66,6 @@ related:
         width: 1280
         height: 750
         isCached: true
-  - title: "Apple ramps up its ‘secret’ self-driving car testing: report"
-    excerpt: "Apple has ramped up its self-driving car testing and has logged over 450,000 miles of autonomous driving in the US from December 2022 to November 2023."
-    publishedDateTime: 2024-02-04T05:04:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/apple-ramps-up-its-secret-self-driving-car-testing-report/articleshow/107396711.cms?from=mdr"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 4
 
 secured: "i67Ebma1po0LInispnxrE7IEAwgITLlE3iCK8zgsNAgGEbDs9WqJkaz8eJdgWu/iZSJwIyWvIOw9dx4PdIJk5rTZGBsR60Sqmd3JWLpZqEtc2ete+iwBj45HlTg++Id9WIjHeB2pPrEWMtoMMaVtJzg1KsCBGp19IYjeW7BEcATVLNv0VdP55S8GQz86XHQW2aCjBgQHsay5jvhWOTxnCWxL73UgKY/Oof8LnIaUvnAcqVtcRNiiWhDn6z2SRCea2Gi4T7ow7cEcTjr+FJhl7Tw+OYBgrp0pe8MLBo95E6ONRa22cehlFu9cA2gGZdbzSSmB1r2XXrAWr3ca/p6X+AKBtQGfAEBsCVG6ZtM9vJfo72zFfagNYTSAjbvFHdSMSNthXK9ySh59E6YFng1osLsjsK9z0iL2os6QFrNP3yncgT64FlHXWb8T49I/U9n/dH5/GchnaK4fcPcVWWjanbojq25dW0Q8L+C+ipgEgJIN7zdU7PG0AVN/We8G5iKKLWvgoJBCcAgKrQ1lzQTYCg==;6h+xfeDxJDgc0/+pF3jdcw=="
 ---

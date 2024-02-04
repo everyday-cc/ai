@@ -126,20 +126,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Use of generative artificial intelligence at UNIGE"
-    excerpt: "The arrival of generative artificial intelligence (AI) tools has been effective and democratized since late autumn 2022, with the availability of chatGPT to the general public."
-    publishedDateTime: 2024-01-30T12:44:00Z
-    webUrl: "https://www.unige.ch/en/university/politique-generale/use-generative-artificial-intelligence-unige/"
-    type: article
-    provider:
-      name: unige.ch
-      domain: unige.ch
-    quality: 37
-    images:
-      - url: "https://www.unige.ch/files/2016/8838/8661/Usage-IA-UNIGE.jpg"
-        width: 1200
-        height: 620
-        isCached: true
   - title: "Generative AI startup taps 3 health system execs"
     excerpt: "Discover how a healthcare generative AI startup is revolutionizing the industry with the help of three experienced health system executives as advisors."
     publishedDateTime: 2024-01-30T18:14:00Z

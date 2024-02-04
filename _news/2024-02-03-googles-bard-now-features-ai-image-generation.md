@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Yelp launches revamped feed with AI-powered business summaries"
-    excerpt: "Additionally, Yelp now uses AI to show a summary of a business when you open its ... and more interactive review topic categories to help users get started with a review. The platform will start showing the badges next to a user’s review in the next ..."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/"
-    ampWebUrl: "https://techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/yelp-launches-revamped-feed-with-ai-powered-business-summaries/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/01/New-iOS-Home-Feed-Experience.jpeg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google’s Bard AI Adds Image Generation with Gemini Pro & Expands Language Support"
     excerpt: "Google has recently improved its Bard AI by adding Gemini Pro and a new image generation feature. These updates aim to make Bard more useful in different languages and regions, providing users with better tools."
     publishedDateTime: 2024-02-02T11:29:00Z

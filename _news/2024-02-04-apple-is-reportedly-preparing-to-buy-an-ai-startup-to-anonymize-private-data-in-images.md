@@ -25,6 +25,22 @@ images:
     height: 526
     isCached: true
 
+related:
+  - title: "Apple Plans To Buy AI Startup To Strengthen Its Vision Pro: Report"
+    excerpt: "Apple is planning to acquire a German AI startup -- Brighter AI, specialising in anonymising face and licence plate data,"
+    publishedDateTime: 2024-02-04T12:46:00Z
+    webUrl: "https://menafn.com/1107807552/Apple-Plans-To-Buy-AI-Startup-To-Strengthen-Its-Vision-Pro-Report"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?984991"
+        width: 333
+        height: 250
+        isCached: true
+
 secured: "jqxCjpjOLG7ibDWxyhAfpfxeSkjmF59hGS8sxGbs7aBb8g/2mYUHLwnuss9av2LQhHtJPNjkm49pAHeHNHl5Q5/cjMn8pP3NC8J8N0VMWhGyQvFaLzz18RfF622hZD+M2RGPfGl+YsvKE1BYGA0YKQ7EIVcm6ftJrknKMoqJomLc/A/1qH2PZSgSlOOunTwkZPzVlmhfx19+f18Kv+4Nnf9NInni1ggQmWCovXYUCyzKZteFr8izMgkoNoXnNVxSyAkVu2GL491XyJy/SSGwxVI2bD3hYtPxHY/mYsi6QDUog7EYHO6zfcXnVk+O+q+OkLR3dACEtnPIeN4l41rM9xXz2qGIuMEG0gUFMOYrSYM=;NMMF2duyQ3Hd7akhtvoQbw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-exp
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56"
 type: article
 quality: 119
-heat: 619
+heat: 609
 published: true
 
 provider:
@@ -589,15 +589,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 34
-  - title: "Microsoft, AMD and AI's Big Night, An Unexpected Boost, No-Growth Europe"
-    excerpt: "U.S. debt and equity markets caught an unexpected boost Monday from better-than-expected news on the fiscal front of all places. Treasuries found support, as the yield for the U.S. 10-Year Note dropped sharply for the session to roughly 4.08% (-8bps ..."
-    publishedDateTime: 2024-01-30T12:39:00Z
-    webUrl: "https://realmoney.thestreet.com/markets/microsoft-amd-and-ai-s-big-night-an-unexpected-boost-no-growth-europe-16143042"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 33
   - title: "Google earnings: 100 Million Google One subscribers, Google Cloud profits"
     excerpt: "Alphabet's earnings call was yesterday, and as usual, the company took in a lot of money ($86.31 billion) thanks mostly to ad click-through rates being at a certain level. More interesting, though, are the product numbers tucked away in the report."
     publishedDateTime: 2024-01-31T19:53:00Z

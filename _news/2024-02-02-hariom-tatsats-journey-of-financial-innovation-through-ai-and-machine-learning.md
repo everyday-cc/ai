@@ -9,7 +9,7 @@ ampWebUrl: "http://www.outlookindia.com/amp/story/business-spotlight/hariom-tats
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/www.outlookindia.com/amp/story/business-spotlight/hariom-tatsats-journey-of-financial-innovation-through-ai-and-machine-learning"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Reimagining Innovation in the Age of AI"
-    excerpt: "It seems that almost every presentation of innovation and transformation brings up the exponential curve where the trajectory of innovation is traditionally charted along a steadily rising curve. However,"
-    publishedDateTime: 2024-01-31T17:39:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/reimagining-innovation-in-the-age-of-ai?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-01/AIDevine.jpg?itok=Ft0krctt"
-        width: 320
-        height: 244
-        isCached: true
 
 secured: "JHs+B21WkUWJijF7omN0bDvV4v6hO2ONl9ZV/3kMU3aT4dtkUaO9UNgVTJEUkmDRnTINvHMRRLhHSxEEsQ8h+cbOJYfJpKc1WA0Fl+/6985kJrab+ln0nVTVj35xKEfEVmceWpflYe9SoE2kA24DRsjLrIMEEt1P8t919obCjBKwUmTguVPXHV7flV1Rt26Gw70m9YjDLYo2hWkb+pmA1lZ2oIXeJsUjaJezc1E5bxCflcMDo/7FMzIf7ZqnKKSJIwY3uK6OZZfOIQgLsuJg8vhqLBjfII3okRyC6ZS3KPT5Vp6ozU+z2Vke1EDOjPOkIv/MeLp4Rg5oXphyFMh5DJkCmWqnWOhfsa9XW+BoYRc=;kdbQqCUqpHxOtzULGtZg9g=="
 ---

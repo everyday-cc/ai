@@ -25,100 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Kore.ai, a startup building conversational AI for enterprises, raises $150M"
-    excerpt: "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ..."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
-    ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
+  - title: "One of Google DeepMind’s lead developer quits to launch AI startup"
+    excerpt: "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai."
+    publishedDateTime: 2024-02-01T02:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1335295270.jpg?resize=1200,675"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kore.ai Nabs $150M From NVIDIA And FTV To Scale Enterprise AI"
-    excerpt: "With Generative AI (GAI) at the peak of the Gartner Hype Cycle, we found ourselves in the too much talk and not enough impact phase—until now."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
+  - title: "India well-positioned to help shape future of AI: Google DeepMind's Jeff Dean"
+    excerpt: "India has tremendous technical talent; there's a long tradition of computer science students in India doing amazing things, says Dean"
+    publishedDateTime: 2024-02-01T12:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/india-well-positioned-to-help-shape-future-of-ai-google-deepminds-jeff-dean-12174781.html/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b7f70208a5487d77735151/0x0.jpg?format=jpg&crop=2867,1611,x0,y148,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 899
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/Research-@-Bangalore-578x435.jpg"
+        width: 578
+        height: 435
         isCached: true
-  - title: "Three Questions Every Enterprise AI Startup Should Ask"
-    excerpt: "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that."
-    publishedDateTime: 2024-01-30T16:58:00Z
-    webUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/"
-    ampWebUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+  - title: "Neural Networks on the Brink of Universal Prediction with DeepMind’s Cutting-Edge Approach"
+    excerpt: "Meta-learning stands out as a potent strategy to facilitate the rapid acquisition of new skills by AI systems, even with limited data. This methodology fosters the exploration of representations and learning approaches that can extend to unfamiliar tasks."
+    publishedDateTime: 2024-02-01T00:23:00Z
+    webUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/"
+    ampWebUrl: "https://syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/01/31/neural-networks-on-the-brink-of-universal-prediction-with-deepminds-cutting-edge-approach/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 66
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1576
-        height: 900
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/01/image-43.png?resize=567%2C536&ssl=1"
+        width: 567
+        height: 536
         isCached: true
-  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:33:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+  - title: "Google DeepMind WARM: Can Make AI More Reliable"
+    excerpt: "Researchers at DeepMind published details of a new AI training model called WARM that improves efficiency, reliability, and quality"
+    publishedDateTime: 2024-01-31T00:20:00Z
+    webUrl: "https://www.searchenginejournal.com/google-deepmind-warm-can-make-ai-more-reliable/506824/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
     quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
-        width: 900
-        height: 500
+      - url: "https://www.searchenginejournal.com/wp-content/uploads/2024/01/deepmind-warm-65b9908839b29-sej.jpg"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-  - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
-    excerpt: "Want to keep track of the largest startup funding deals in 2024 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U."
-    publishedDateTime: 2024-02-02T16:43:00Z
-    webUrl: "https://news.crunchbase.com/news/biggest-funding-rounds-generate-capital-kore-ai/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 30
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
-    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
-    publishedDateTime: 2024-01-30T14:39:00Z
-    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 17
 
 secured: "xpOLr335biFIPZ/o7h23Uh/lhrK2HkIPxi9jXvm+gJQ129qH7AEaMJdU+5YHWV7N0Hz4YfqDsQqpNnumavc4InTFpgIeTlq+AxtP1v5jrtJHuUst71TcNJyDYukIhPoBsSekTj2Z+3a3AWN6EM/c4cG9vbMI3JFGYy/yWr4Xgnn1RTN0jZx6gMc8Pp4aTxzDjTvHIc0CMix26IBP9kf4IC/0zG7pXRV/zXL2O1vke9UjeagEuKRF4wvODXr6aVC/CgIKC7+Cc4OI7tEaICkWf30fZDVyQoLYTi6ISfo0xtbGAqGzuXe3AIdeyK0I2+g+whz4/YSmETIIgixzB7KNRKKmNPZAJPBYmOiB2ZDXMUKTczuqCZxG9MyYGvH+e0i86FfVpVQkFiu+JXBqM9C0yPgp2n4kSgBjoWnN1IkUgx5Eg7m0zUOqAZO7liyjvR7yiUvFn3mpN5Kt7YBxhTYyw8TumdPqmQ6zGZVV9pD2TqLfQaM3fgjz+t0Sfb6HfBPcIm9JvZafHf3Bx+Ghhc520g==;lu53CuoBM6GjM8+np6oV6w=="
 ---

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Apple ramps up its ‘secret’ self-driving car testing: report"
+title: "Apple ramps up its 'secret' self-driving car testing: Report"
 excerpt: "Apple has ramped up its self-driving car testing and has logged over 450,000 miles of autonomous driving in the US from December 2022 to November 2023."
-publishedDateTime: 2024-02-04T05:04:00Z
-originalUrl: "https://economictimes.indiatimes.com/tech/technology/apple-ramps-up-its-secret-self-driving-car-testing-report/articleshow/107396711.cms?from=mdr"
-webUrl: "https://economictimes.indiatimes.com/tech/technology/apple-ramps-up-its-secret-self-driving-car-testing-report/articleshow/107396711.cms?from=mdr"
+publishedDateTime: 2024-02-04T11:04:00Z
+originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
+cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report/107402092"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Indiatimes
+  name: ET Auto
   domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-107402092,imgsize-58552,width-1200,height=765,overlay-etauto/auto-technology/apple-ramps-up-its-secret-self-driving-car-testing-report.jpg"
+    width: 1200
+    height: 765
+    isCached: true
 
 related:
   - title: "Apple's effort in testing self-driving car technology paced up: Details"
@@ -59,6 +67,6 @@ related:
         height: 750
         isCached: true
 
-secured: "E72eGO2btnXrEdSHszcH/4z+zaeB0jrhbEJQh8Q8DOrOPZr40ZNKZNQDH/JiN/FDl+efsWhK1EP4hD2RytjSreU/ztqOHsbHZnH3+cuODrbHMhQOozzES/HSly9EXBrfyfgym7MMvlE7T8g2vwnK+rSFfuVkkSfBCpH6rdVtrSQLjAf1njLRb3ngIUeOT/Cf29zrCc2mjULrfXnxRHsKGjk6Nnz6xcUDIZj9gYT4DLF9ytdbGYqT6+Zxy3iKwcLHDu+Qum7kh92EGk/QMlj7Qk9ZC05sR9/MGcgNHDzAJVaIJEFT84nUPrblB7HTVb6LOCkD4uNjbaZnMPTqyYCXLyIufTKgPC5rEtXwm8iRm37NMELksb32PxDsXOcHnYqpYjqd38TpNrcUi1jrMlG+SofKNdnIP4LkjoU19Wj05NR1fDfS5Vaw/1wzhRUGWt3jZ1FRhOP6ehuh2fvXzzn4KWB6fx/hfuw1gA7WWBViTPY0LM70dXHoS0taUBXjvW8LMvmCDjtqdUvGgLyUxVXFkQ==;YsbZhvbZFRS20l7Jm6mLeQ=="
+secured: "is7MsO93FHkykkUj/8KnhHHoAO2LogwEuloYiu2fH+iVm/+EKlP8xI2siebS+gUBZDsGXIWVPbwmcGxye3hsoRQwFkjFk09ckRteQxx3X0aNGM3zDZkvY/mMEVzv02AumUFc7dn9UHps69VBxlx7Ho5ZDV2quWnOKWqzwzIGqySzo7KRqSVtdPXuEZLfgiWXTEdLGBVtD529jhJHcOkGm6xsCFvc+6HupFn2gFv7sAQy74LsqwnN0z4hBYDNuLvMARrTzFDP+W17cWHTs6P4rhdPRzzlrjJmecP0ToX4yo5vv2Ay+IBx2z/vcmijzX0ZKNn5MX8WCVj6q9PJqSJDPf4iF2qHsT7buEENYzkEzqg=;QjL2+EOPGKBgzNb94GMmpQ=="
 ---
 

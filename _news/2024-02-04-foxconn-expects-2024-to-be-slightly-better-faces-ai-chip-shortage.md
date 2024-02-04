@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-sligh
 cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 573
     isCached: true
 
-secured: "Tdwq+C3lHotruYRdczw19fbH34b6DDeesM0MVV6A3Ld1npjitjo4ddSeIo07OuKOzA7fjRgyfo6V0KQCh6nEWzWZD8S4NjblARZFsMdlyNEBpW5f8Pjxeih/0ocqbPb2SO0wOZ1AGpLjuXLmDhIousCxNT2ShqLDpk4KxY6vQcWMITTBiSxMyqN3a4yuI/potorM6ymn+8XR6To6rIxYiUNjsTUkRWlUP80ChlXd8kV+KJikYV5Q4InV1w+djfaGVwe3p4G/b9WaqW1U7HKsT/5J/6QUcvplBN1Lvy1Kj2ZjzcxHAe1Gk+CDs3H34rA344qyKR1oRa9QXtHwK4sBOU+oKZtT9FrVvPmf+OPu3G8=;M5y+3kRbGE/HRdS8dsAAZA=="
+related:
+  - title: "Foxconn anticipates slight improvement in 2024, issues warning about AI chip shortage"
+    excerpt: "Apple has recently forecasted a drop in iPhone sales and targeted overall revenue of USD 6 billion below Wall Street expectations as its China business took a hit."
+    publishedDateTime: 2024-02-04T11:14:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/foxconn-forecasts-slight-improvement-in-2024-but-raises-concerns-over-ai-chip-shortage-2024-02-04-915207"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/foxconn-forecasts-slight-improvement-in-2024-but-raises-concerns-over-ai-chip-shortage-2024-02-04-915207"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/foxconn-forecasts-slight-improvement-in-2024-but-raises-concerns-over-ai-chip-shortage-2024-02-04-915207"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 67
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/foxconn-rep1-1676908687-1707044631.jpg"
+        width: 360
+        height: 202
+        isCached: true
+
+secured: "0CdEtkGeAwZURW6R7Tu5Xp60CPde81G17hQkOGTQLciJCc24qL7v2szI9M5Di0xcpdG9i/Foka+5J/RbCAHRpOY4Ue2Q5R+rB6ZiPjysdMdFO3GFfDS98DF4d9RwscEboAfhL+1DlpqX5jIbMAOjhol2H/jYykDAKL9taAmiq6JHatObAXv/b+EbRmnNahz0VDoMeEE2nfWEOi6KwmzF/0zgawuwkLFLZDlobSo7w6q86gYlfFU3kvV+1cIAwuKO51pJvleZ9oW1dTxNxJKIm5cicCAY0CpJxvLeZSTYqzVvLuV6e2nr6LJAWTbHt88rZHm87csIcBfhO4Y5ttakqUbNFv2yN7sAeK0vThkiWHN+c7JBdp6x9Ilz9N9PGXH1OuxO101Nx/sw2kUO6mt0JwrIFtkvZ7yY3blEBYQsAvti8JPP5CprK7LwOUhzsguIaopStY9HnQEXZiCgT+2P0q/GJ3Z8muxZ6D/s+ZMOQFOMcFgjP/27UWEHzzOZ+fg+9hA2ylFeDsRF4SJKNgVrLQ==;fnXQnnzx3CQ8Q6o8x83igA=="
 ---
 

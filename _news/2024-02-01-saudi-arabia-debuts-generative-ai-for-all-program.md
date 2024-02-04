@@ -115,15 +115,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Six Principles for Redefining Retail with Responsible AI"
-    excerpt: "For retailers, integrating Gen AI is about navigating a path that harmonizes cutting-edge technology with ethical stewardship."
-    publishedDateTime: 2024-01-30T12:00:00Z
-    webUrl: "https://www.retailtouchpoints.com/features/executive-viewpoints/six-principles-for-redefining-retail-with-responsible-ai"
-    type: article
-    provider:
-      name: Retail TouchPoints
-      domain: retailtouchpoints.com
-    quality: 19
   - title: "Washington state to develop guidelines for agencies using generative AI"
     excerpt: "An executive order was signed by Gov. Jay Inslee on Tuesday and highlights the huge potential for generative AI in government operations as well as its risks."
     publishedDateTime: 2024-02-01T13:00:00Z

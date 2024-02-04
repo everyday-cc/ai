@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-04T08:45:00Z
 originalUrl: "https://www.inc.com/jason-aten/tim-cooks-3-word-answer-about-apples-plans-for-ai-was-incredibly-revealing.html"
 webUrl: "https://www.inc.com/jason-aten/tim-cooks-3-word-answer-about-apples-plans-for-ai-was-incredibly-revealing.html"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1980126495_xb2xrl.jpg"
@@ -41,6 +42,6 @@ related:
         height: 720
         isCached: true
 
-secured: "AFd5DjKW50VSeYJmEiec0AFvU2MQHTAwn4QNWIzbKttmPQv0XTy/bMPnSwzxYRjuGzqDaNzMBVaEIpUOBoS0+wJEO2Wkkt5A6QCXc3zQlprP3L8FXcaAEhJ4s4drIthb5tN8jcOH2LOSbLhaUrAb1QIYqOq10K5Yemv/VlrCkGEtq2P6896TgwVdKyIkyHieFpWMarlbfbWzizQigzQZbuxbq+QTCW1ewvcE2r7KMJ4ZSW4RD2K6P9I3NdJ/B11bILzL5MT8nVnckAkKSCCXrqN9ALartcMD2jmm5w164Q0lTqmSNdCdQFjJJxxfnQxAg2s0+azJN/TSZtDpVK3lLNnZMZDLjTi7inBjEFTkAJ0=;nIRHK+hBDd7se689yLL94w=="
+secured: "VNQf+HdktXg/6XwUe4sovGerEnpmsbqLqbvGTPTImptj1AcvQ/ZOsnj1kEQtPysWAPBeuqCj6+4uDKibwSYRlaKds1kL+ff3KKR5PYk40JTrdrVCZtP4MCGTTa4UAKRT/aw7HP7gQ9tEpla/7Nh5Xu8fzi37z+CIMdSjw+NgUandvsQOvrahl3lyWj0cEeEO4L3FQc9SQpauoiaVlTHqWcBbgJ1lQGAOuZwBxr1FCJRtt4nD1H01BLaiMmOhQyfSaZ5PKJCZYuFmrh6m/Dh6AxPn71EuoW4UrybiAeMiETUomIB4mzsgez1PCcn6ArTvEpsNLqYZ17BWgzNjYOXHg8GxqrqYwK4OA1McXs7mucGoNiCo3wYOg7Z7e4qELoTSJtvv9JFFr0Ssvd4ru1j/noyGyp3eIkpcifYrJ9xoZx22x/u2+iKWo8+7V7zH4iO6XI0wLH4WbLpD7d/4jBtLZrepFQ1PsrRUTHWokkZ4FJvUmobOFrlk9I0KoHShX3Jev43J+CyojEHUlDxdqPfnxQ==;EaCe89LbD4Y8gEVX65IAcg=="
 ---
 

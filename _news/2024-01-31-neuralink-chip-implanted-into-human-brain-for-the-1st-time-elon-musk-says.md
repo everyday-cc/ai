@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mind control: All you need to know about Elon Musk’s Neuralink implanting brain chip"
-    excerpt: "Blurring the line between humans and machines, Neuralink’s technological advancement can allow people with disabilities to control smartphones and other devices using their brains."
-    publishedDateTime: 2024-01-30T12:03:00Z
-    webUrl: "https://yourstory.com/2024/01/mind-control-all-you-need-to-know-about-elon-musks-neuralink-brain-chip"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 49
-    images:
-      - url: "https://images.yourstory.com/cs/wordpress/2017/03/Untitled-design-45-1.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Tech CEOs grilled by Congress, Microsoft still leads in AI, and Neuralink touts its human brain implant"
     excerpt: "Anita Ramaswamy of Reuters Breakingviews joins Marketplace's Lily Jamali to discuss the biggest tech stories of the week."
     publishedDateTime: 2024-02-02T11:08:00Z
