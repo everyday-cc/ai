@@ -19,51 +19,83 @@ topics:
   - AI
 
 related:
-  - title: "Rebellions lands $124M to develop its new AI Rebel chip with Samsung"
-    excerpt: "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais"
-    publishedDateTime: 2024-01-29T23:53:00Z
-    webUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/"
-    ampWebUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
+  - title: "Kore.ai, a startup building conversational AI for enterprises, raises $150M"
+    excerpt: "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ..."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/"
+    ampWebUrl: "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1335295270.jpg?resize=1200,675"
         width: 1200
-        height: 831
+        height: 675
         isCached: true
-  - title: "Samsung responds to criticism of the Galaxy S24's AI photo-editing features"
-    excerpt: "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the"
-    publishedDateTime: 2024-02-03T16:34:00Z
-    webUrl: "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html"
+  - title: "Kore.ai Nabs $150M From NVIDIA And FTV To Scale Enterprise AI"
+    excerpt: "With Generative AI (GAI) at the peak of the Gartner Hype Cycle, we found ourselves in the too much talk and not enough impact phase—until now."
+    publishedDateTime: 2024-01-30T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deandebiase/2024/01/30/koreai-nabs-150m-from-nvidia-and-ftv-to-scale-enterprise-ai/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-03-image-6.jpg"
-        width: 1650
-        height: 1167
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b7f70208a5487d77735151/0x0.jpg?format=jpg&crop=2867,1611,x0,y148,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Samsung's Galaxy AI to Reach 100 Million Galaxy Mobile Devices This Year"
-    excerpt: "Samsung's Galaxy AI and its features will reportedly remain free for users until 2025. The South Korean brand may consider introducing more powerful AI features in the future for paid Galaxy AI subscribers."
-    publishedDateTime: 2024-01-30T10:16:00Z
-    webUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526"
-    ampWebUrl: "https://www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/samsung-galaxy-ai-100-million-devices-2024-tm-roh-announcement-4959526/amp"
+  - title: "Three Questions Every Enterprise AI Startup Should Ask"
+    excerpt: "The potential of enterprise AI has added a welcome dimension to these conversations. In earlier times, many software founders feared seeking funding “too early.” They assumed that, absent a beta product or early revenue, they weren't ready to seek an alliance with seasoned venture investors. The AI gold rush has changed that."
+    publishedDateTime: 2024-01-30T16:58:00Z
+    webUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/"
+    ampWebUrl: "https://www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2024/01/30/three-questions-every-enterprise-ai-startup-should-ask/amp/"
     type: article
     provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.gadgets360cdn.com/large/samsung_galaxy_s24_ultra_1705558454678.jpg"
-        width: 1440
-        height: 740
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b8169c2fb9d98ae6d881b5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1576
+        height: 900
+        isCached: true
+  - title: "Assessing and quantifying AI risk: A challenge for enterprises"
+    excerpt: "Risks associated with artificial intelligence have grown with the use of GenAI and companies must first understand their risk to create the best protection plan."
+    publishedDateTime: 2024-01-30T08:00:00Z
+    webUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html"
+    ampWebUrl: "https://www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
+    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1298267/assessing-and-quantifying-ai-risk-a-challenge-for-enterprises.html/amp/"
+    type: article
+    provider:
+      name: CSOonline
+      domain: csoonline.com
+    quality: 63
+    images:
+      - url: "https://www.csoonline.com/wp-content/uploads/2024/01/shutterstock_333013640.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Google DeepMind Veteran Departs to Launch AI Agent Startup"
+    excerpt: "As OpenAI and Google develop artificial intelligence to power conversational AI chatbots like ChatGPT, a slew of startups is trying to stake out a lead in the nascent field of AI agents, which use similar technology to perform complex tasks such as booking flights or researching business"
+    publishedDateTime: 2024-01-30T21:13:00Z
+    webUrl: "https://www.theinformation.com/articles/google-deepmind-veteran-departs-to-launch-ai-agent-startup"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 54
+    images:
+      - url: "https://tii.imgix.net/production/articles/12195/08356f40-99aa-4d5f-bfdf-d0a4534e035e.png?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
     excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
@@ -79,57 +111,29 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Samsung is optimistic about AI-driven smartphones, despite losing sales crown"
-    excerpt: "The company told investors that it anticipates the smartphone market to rebound in 2024, particularly with the rollout of new products, such as AI-powered smartphones ... According to market research firm IDC, the iPhone maker held 20.1% of global market ..."
-    publishedDateTime: 2024-01-31T06:01:00Z
-    webUrl: "https://localnews8.com/money/cnn-business-consumer/2024/01/30/samsung-is-optimistic-about-ai-driven-smartphones-despite-losing-sales-crown/"
+  - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
+    excerpt: "Want to keep track of the largest startup funding deals in 2024 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U."
+    publishedDateTime: 2024-02-02T16:43:00Z
+    webUrl: "https://news.crunchbase.com/news/biggest-funding-rounds-generate-capital-kore-ai/"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 53
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 30
     images:
-      - url: "https://localnews8.b-cdn.net/2024/01/qsNeacaJ-slot3-375x225.jpg"
-        width: 375
-        height: 225
+      - url: "https://news.crunchbase.com/wp-content/uploads/Top_10_.jpeg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "Samsung’s New AI Robot Vacuum With Mop Finds Stains and Steam Cleans Them"
-    excerpt: "Spread the loveSamsung Electronics has once again revolutionized the smart home industry by unveiling its latest innovation—a state-of-the-art AI robot vacuum that does more than just sweep the floors."
-    publishedDateTime: 2024-02-01T08:25:00Z
-    webUrl: "https://www.thetechedvocate.org/samsungs-new-ai-robot-vacuum-with-mop-finds-stains-and-steam-cleans-them/"
+  - title: "Kore.ai, startup building conversational AI, secures $150 mn in funding"
+    excerpt: "Kore.ai, a conversational artificial intelligence (AI) company, said on Tuesday it had raised $150 million in funding for business growth and innovation. The strategic growth investment was led by FTV Capital,"
+    publishedDateTime: 2024-01-30T14:39:00Z
+    webUrl: "https://www.business-standard.com/companies/news/kore-ai-a-startup-building-conversational-ai-secures-150-million-124013000843_1.html"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 53
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2019/05/photo-1531837763904-5d3cb2632ea3-660x400.jpg"
-        width: 660
-        height: 400
-        isCached: true
-  - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
-    excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."
-    publishedDateTime: 2024-01-30T02:01:00Z
-    webUrl: "https://www.tweaktown.com/news/95881/rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 45
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95881_47_rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung_full.png"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
-    excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"
-    publishedDateTime: 2024-01-31T10:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/new-samsung-galaxy-s24-series-now-available-in-canada-promising-a-new-beginning-with-galaxy-ai-1033014083"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
+      name: Business Standard
+      domain: business-standard.com
+    quality: 17
 
 secured: "j9ieEN3zkizKnXFK7C15YijFK0IY6ua1lAxQXcz0++eA/l5A8pkes97V7HdoHZNlpHKUX4tEYBfLnFTecqayOgKCgL3cYHg6JBgmLfKXh1OPQpsuY1pewTVGd89efViPqIRpRSAz4QHAu5uOZxcT9UJJ7VuKzEgcYfS2QjNlkbTjbjONdyw8Hr9g/CoPJZDqjWX7HPJsDMsGjpmj5R7DTc3JLRu6WMjNokF38hgUymq75NeumyEFeKrQL1prpNSy+gAcoD19Sh0o3PRvXF3mvCKbk/qiiCM3IZXzGtn/eXklUFG0AasJWb+oR39oEfkWLQw2Ak7QeQSaaPgapUlMIWRAUKcbZUowqEj++VkkJlEwotPMBxlL8eK8SHsZegOPuVSWCoqaXKEnX/pXRWuD+v3vuEbaZh3ek7hSk5aKpgpDih+GwCcUyLrLbnHzGs17Is6V54qmv/hYkjUQaNA3DhvA+IzOgrykSIkm4CfDq21JkghIlDueVKcC/uHH8PUeJy1eYy6MqcAB3byOEthUUA==;pLyXZvdfLBzh13i4jOnI8g=="
 ---

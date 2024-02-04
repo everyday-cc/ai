@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Salary data revealed: Here's how much 16 top US and European AI startups like OpenAI, Anthropic, and Hugging Face are paying staffers"
-    excerpt: "Industry leaders such as CoreWeave and Databricks are shelling out base salaries of over $200,000."
-    publishedDateTime: 2024-02-01T11:00:00Z
-    webUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/659d60016979d73718219b94?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology"
     excerpt: "“Leveraging cutting-edge AI technology is a testament to HYCU's commitment to technological innovation and leadership in the data protection industry,” said Philippe Nicolas, Principal, Coldago Research ... us on LinkedIn, Facebook, Instagram ..."
     publishedDateTime: 2024-01-30T08:30:00Z

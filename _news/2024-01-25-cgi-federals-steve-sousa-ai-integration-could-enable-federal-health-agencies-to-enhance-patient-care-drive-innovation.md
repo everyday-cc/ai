@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.govconwire.com/wp-content/uploads/2024/01/daf58c4a-7d07-4d56-bf43-b93604dfbd7e.png"

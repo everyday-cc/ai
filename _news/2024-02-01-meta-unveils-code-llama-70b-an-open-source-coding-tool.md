@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Run CodeLlama 70B locally for free for AI coding assistance and more"
-    excerpt: "Code Llama is a family of state-of-the-art, open-access versions of Llama 2 specialized on code tasks. Code Llama has been released with the same permissive community license as Llama 2 and is available for commercial use and is available in 7B ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-install-codellama-locally/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/how-toinstall-CodeLlamaon-your-local-PC-for-free.jpg"
-        width: 1280
-        height: 813
-        isCached: true
   - title: "Meta releases powerful ‘Code Llama 70B’, an open-source coding tool to rival GitHub Copilot"
     excerpt: "Code Llama is built on top of Llama and is capable of generating code. According to the company, the model has scored 67.8 on HumanEval, a generative AI benchmark, while the GPT-4 Turbo, a much bigger model, has scored 81.7. Meta also claims that Code Llama is tuned for code generation, and the best part is that it is an open-source model."
     publishedDateTime: 2024-01-30T04:22:00Z

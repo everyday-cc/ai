@@ -7,7 +7,7 @@ originalUrl: "https://www.pluralsight.com/resources/blog/data/ai-this-month-janu
 webUrl: "https://www.pluralsight.com/resources/blog/data/ai-this-month-january-2024"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Healthcare cut 4,182 jobs in January"
+    excerpt: "There were 4,182 healthcare/product industry layoffs in January, up 421% from the 802 cuts announced in December, according to a Feb. 1 report by executive coaching firm Challenger, Gray & Christmas."
+    publishedDateTime: 2024-02-01T23:12:00Z
+    webUrl: "https://www.beckersasc.com/asc-news/healthcare-cut-4-182-jobs-in-january.html"
+    type: article
+    provider:
+      name: Becker's ASC
+      domain: beckersasc.com
+    quality: 39
+    images:
+      - url: "https://www.beckersasc.com/templates/beckers/assets/images/asc-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "ZZsgqTed1obq5HhXikNK8PwML4xucrQBB1D8CKaWECPK92BXs4qJMHHqYbkPv4G3egZ/rmjZVZ3cUz83h8Fx+b5yF9qhqdc42Bq7hWmkyma4ntsi6hidYiJwH7Yyybl4eDX9HMFUPsyi6geFMZ2fMYBDuTIwBSzRWOCXcvTuEDAdicZRhxjvhCKUoqVk12BBq1AJre5Sjd2z2OpocDXZNlNnSl9p7nXjpGpa4SRagzK9Xzz+9esohDZWwg/WHljg5QnH24x5pufh9KIWrtUvdu9a3TM7gEn+JuiSMEmzkcgveOS7aoTMaZTkbglSoEGpuwN4n72qFFtgJcFMfLvbJXkCOg+XnvPqD9UEj+h9SHI=;qmdIjLPmz/kCf7oW2xZTcw=="
 ---

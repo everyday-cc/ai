@@ -89,6 +89,29 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
+    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
+    publishedDateTime: 2024-01-30T19:33:00Z
+    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
+    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
+    publishedDateTime: 2024-01-30T19:12:00Z
+    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "The Week’s 10 Biggest Funding Rounds: Generate Capital Goes Big Again, Kore.ai Nabs $150M"
     excerpt: "Want to keep track of the largest startup funding deals in 2024 with our curated list of $100 million-plus venture deals to U.S.-based companies? Check out The Crunchbase Megadeals Board. This is a weekly feature that runs down the week’s top 10 announced funding rounds in the U."
     publishedDateTime: 2024-02-02T16:43:00Z

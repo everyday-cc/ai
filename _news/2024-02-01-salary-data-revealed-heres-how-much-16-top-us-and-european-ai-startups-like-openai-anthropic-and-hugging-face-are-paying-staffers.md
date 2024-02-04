@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-compan
 webUrl: "https://www.businessinsider.com/ai-salary-data-how-much-top-companies-pay-2024-1"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -29,24 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "HYCU, Inc. Leverages Anthropic to Revolutionize Data Protection Through Generative AI Technology"
-    excerpt: "“Leveraging cutting-edge AI technology is a testament to HYCU's commitment to technological innovation and leadership in the data protection industry,” said Philippe Nicolas, Principal, Coldago Research ... us on LinkedIn, Facebook, Instagram ..."
-    publishedDateTime: 2024-01-30T08:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hycu-inc-leverages-anthropic-to-revolutionize-data-protection-through-generative-ai-technology-1033009921"
+  - title: "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs"
+    excerpt: "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI."
+    publishedDateTime: 2024-02-03T05:51:00Z
+    webUrl: "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-  - title: "Anthropic says AI should be made \"boring\""
-    excerpt: "The industry and government should figure out how to make AI \"boring,\" Clark said, by figuring out uniform regulatory and testing regimes standard in other industries."
-    publishedDateTime: 2024-01-30T18:37:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/01/30/anthropic-interview-ai-boring"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all"
+        width: 855
+        height: 775
+        isCached: true
 
 secured: "ux3cNYvruyXUrYmsfx+o6yUO/MBJP9UN7RtcgRfY1hW9+9MIZQl5ghHaWhcEQieyWrz6k9s97HE0P9hPz6YhE4feOaTqOQQDO4XqVdwHsiW85LuGJO499ecWxqS8BungnWsWtZcRwPZr95t/qnXAlfvm5UEc1Wpl/0ZKxB4XQwjEtwNDmRLiwkeP2RL318Mp2jHQC4q4aeWL9KKKu8fFXCW7l++4rwksRxG0Ycuy8y5uqazNFErPqDFLmEmXCkr9XrHnmm0EgkqJp7xG1sJ3oltw8e2ubWqop8/4la8k9fXKiHng8qaRAiHkO5xz55BM8ml2U06QHCiZtdRZtDfMKvYPEADWeC9rHBu2DHgvxrs=;thX6daPasMGM5TonQu+7PQ=="
 ---

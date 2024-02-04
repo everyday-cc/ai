@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-wit
 webUrl: "https://azure.microsoft.com/en-us/blog/elevate-azure-expertise-with-new-ai-and-optimization-video-episodes/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
-        width: 640
-        height: 390
-        isCached: true
   - title: "Application of Gen AI in Banks and \"Fintech\""
     excerpt: "By utilizing the ability to generate something new, Gen AI enables innovation and disruption in the fintech and banking sectors that cannot be done with traditional AI. On the other hand, regulation of AI usage needs to be a concern for regulators to avoid violating customer ethics and privacy."
     publishedDateTime: 2024-01-30T05:28:00Z

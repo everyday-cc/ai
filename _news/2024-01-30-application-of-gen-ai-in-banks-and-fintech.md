@@ -39,22 +39,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "Conversational marketing - combining the power of AI with humans"
-    excerpt: "Routing rules specify what to do when a visitor selects a certain option in your bot or asks a question. Start with AI, offering relevant content based on where the website visitor is on the site. The visitor could also select from a set of common ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans"
-    ampWebUrl: "https://diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/conversational-marketing-combining-power-ai-humans?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 74
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-01/connection-3308188_640.jpg"
-        width: 640
-        height: 390
-        isCached: true
   - title: "Scholars Optimize Scientific Models with the Power of Artificial Intelligence"
     excerpt: "The workshop focused AI research toward optimization of complex systems. Presentations of climatological and electromagnetic simulations showed these techniques resulted in more efficient and accurate computer modeling. The workshop also progressed AI research itself since AI models typically are not well-suited for optimization tasks."
     publishedDateTime: 2024-01-31T11:59:00Z

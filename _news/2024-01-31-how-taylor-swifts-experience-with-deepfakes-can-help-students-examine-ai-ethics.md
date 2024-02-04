@@ -7,7 +7,7 @@ originalUrl: "https://www.edweek.org/technology/how-taylor-swifts-experience-wit
 webUrl: "https://www.edweek.org/technology/how-taylor-swifts-experience-with-deepfakes-can-help-students-examine-ai-ethics/2024/01"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Taylor Swift and No AI Fraud Act: How Congress plans to fight back against AI deepfakes"
-    excerpt: "How lawmakers hope to create a federal, baseline protection against AI abuse and uphold Americans' First Amendment rights online."
-    publishedDateTime: 2024-01-29T23:47:00Z
-    webUrl: "https://abcnews.go.com/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
-    ampWebUrl: "https://abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/taylor-swift-ai-fraud-act-congress-plans-fight/story?id=106765709"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 49
-    images:
-      - url: "https://s.abcnews.com/images/GMA/taylor-swift-gty-bb-231003_1696355293910_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Hollywood Agency Partners With AI Tech Company to Protect Actors From Deepfakes"
-    excerpt: "As AI begins to impact acting, the ad business and online content creation, an effort gets underway to protect actors' IP, led by William Morris Endeavor."
-    publishedDateTime: 2024-01-31T16:04:00Z
-    webUrl: "https://www.inc.com/kit-eaton/hollywood-agency-partners-with-ai-tech-company-to-protect-actors-from-deepfakes.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/wme-deepfake-ai-inc-1744769333_536950_n4yawk.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Taylor Swift deepfakes: a legal case from the singer could help other victims of AI pornography"
     excerpt: "In between her record-shattering Eras tour and cheering on her NFL-star boyfriend Travis Kelce, Taylor Swift may be gearing up for a history-making legal battle over AI pornography. Swift is reportedly preparing to take action against distributors of “deepfake” images of her."
     publishedDateTime: 2024-01-31T16:26:00Z

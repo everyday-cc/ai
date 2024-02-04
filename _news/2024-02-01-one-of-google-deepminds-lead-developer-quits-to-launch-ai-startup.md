@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lea
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 567
         height: 536
         isCached: true
-  - title: "DeepMind uses AI to tackle neglected deadly diseases"
-    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with ..."
-    publishedDateTime: 2024-01-29T23:58:00Z
-    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_noImKuTLNbqa11DxHCuzzo5P5Tk3r6rf8yrlZzxwi-SzGORDzq4Cz23Ex6T2OHoN3e6Ni"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 64
   - title: "Google DeepMind WARM: Can Make AI More Reliable"
     excerpt: "Researchers at DeepMind published details of a new AI training model called WARM that improves efficiency, reliability, and quality"
     publishedDateTime: 2024-01-31T00:20:00Z

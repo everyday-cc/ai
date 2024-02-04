@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Google's Gemini Pro In Bard Now Available In Nine Indian Languages"
-excerpt: "Google, which brought Gemini Pro into its AI chatbot Bard in English last December, has now made it available in more than 23"
-publishedDateTime: 2024-02-02T11:00:00Z
-originalUrl: "https://menafn.com/1107801454/Googles-Gemini-Pro-In-Bard-Now-Available-In-Nine-Indian-Languages"
-webUrl: "https://menafn.com/1107801454/Googles-Gemini-Pro-In-Bard-Now-Available-In-Nine-Indian-Languages"
+title: "Google Is Rebranding Bard To Gemini"
+excerpt: "Google is planning some big changes to its Bard AI tool including a change to its name. According to a leaked document posted on Twitter/X Saturday by Android app developer Dylan Roussel, Google has plans to change the name of Bard to Gemini."
+publishedDateTime: 2024-02-03T23:30:00Z
+originalUrl: "https://au.pcmag.com/ai/103694/google-is-rebranding-bard-to-gemini"
+webUrl: "https://au.pcmag.com/ai/103694/google-is-rebranding-bard-to-gemini"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
-    width: 355
-    height: 250
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-rebranding-bard-to-gemini_gcwp.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -40,20 +44,6 @@ related:
       - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Google-Gemini-Bard.jpg"
         width: 1500
         height: 1000
-        isCached: true
-  - title: "Google Is Rebranding Bard To Gemini"
-    excerpt: "Google is planning some big changes to its Bard AI tool including a change to its name. According to a leaked document posted on Twitter/X Saturday by Android app developer Dylan Roussel, Google has plans to change the name of Bard to Gemini."
-    publishedDateTime: 2024-02-03T23:30:00Z
-    webUrl: "https://au.pcmag.com/ai/103694/google-is-rebranding-bard-to-gemini"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-rebranding-bard-to-gemini_gcwp.1200.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
     excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
@@ -110,6 +100,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Google's Gemini Pro In Bard Now Available In Nine Indian Languages"
+    excerpt: "Google, which brought Gemini Pro into its AI chatbot Bard in English last December, has now made it available in more than 23"
+    publishedDateTime: 2024-02-02T11:00:00Z
+    webUrl: "https://menafn.com/1107801454/Googles-Gemini-Pro-In-Bard-Now-Available-In-Nine-Indian-Languages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?637335"
+        width: 355
+        height: 250
+        isCached: true
   - title: "Google’s Bard chatbot gets the Gemini Pro update globally"
     excerpt: "Google announced today that its Bard chatbot is now powered by the Gemini Pro model globally with support for over 40 languages."
     publishedDateTime: 2024-02-01T15:01:00Z
@@ -152,6 +156,6 @@ related:
       domain: slator.com
     quality: 0
 
-secured: "IxT0LResyYE/ME9KHlRb4zjZeafck8KSmBU2tcH+OYLPXlMeIETT3bd44jZzILdgI7ckXl5MQJJinRmF1RSBFCZJDAyPfaNPt3t0b7a6ykwo6Z6ORidaZ1upXdIw6fb1oZYb8skrzvTVM1Gjy8dhNabCbn3K+hybos47HEd+wE85FfzR+fun4Q1G3mTBuDOwNVCLEpBOBKc+UWSvtuaomGu5gmbFwsMn7Ksh+0w2aiHpTCPXe1vxr4n8HdkYSRrtye2ALa2gVCNKUOd+sQEYhwL3ODrS/1OGk3ftMSVvxQtxOr6kZjKgV7SiqcPCnA6hnkXlz8J2DnPd5g7KRgGC+PbjstmSfC236886xSRtm4U=;4hn+iaBQc7weZhWPs4GuaA=="
+secured: "iKf1XNDa/JvT5BmUHz2KWzyKYETrr0U8uQeSYQQXZ44NVktX2/TTWopL6UfLz0F+opdk/1pkQPH1YsQ35QjrcIrd4nOKI27E5v9PM2ZPFRg2H1cywwQK+Ud+qzYJdI+Q9GzuORIca9AjD0kbygT+2B505CvWS1C83RazA57FcsZ3+CsLq99gYtR2eLD1Y4tbg64abeBvoO9OKDKX/TQWbODXGP7s2oCP37JYZzFss1p3z9/1r35nHGvL1mTAxzV5f057cZhuyUD8GhwgkSI0dD1+wgyx1l13OVX/vJBaskcZYRj1Jof3Ddx4CNYSLWgW8No58hKifeF4Pmg+mdoLd3zKeCXavWo+1+n1v11Ar0U=;Bf84EByT5JYo4zOI1AkqSQ=="
 ---
 

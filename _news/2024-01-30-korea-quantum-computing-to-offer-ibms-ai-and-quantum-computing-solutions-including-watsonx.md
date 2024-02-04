@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 58
-  - title: "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea"
-    excerpt: "\"KQC is providing versatile computing infrastructure in Korea through our collaboration with IBM. Our robust hardware computing resources and core software in quantum and AI are poised not only to meet the growing demand for high performance computing ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.asiaone.com/business/korea-quantum-computing-and-ibm-collaborate-bring-ibm-watsonx-and-quantum-computing-korea"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 27
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/IBM_Quantum_System_Two.jpg?h=ef2d6e95&itok=0gS4ucv5"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "RAA/nTbNnBUsiBMlIWUeMGQjIIjD5OqH8RNb8b7ENVkHXU+h3Ki2ruYBrqBztrvF556C+l8dxWyDZP5IXVbEUJTF0PCX2jQzenYgoGzrU0818NrKlp/BOjjdFxZANVbyt0qbxavjuru8FQMhZ6NJr3+k+wVT3JzIYYKSRvgeb4Aau49gH3Il2t6wlh6ZjORty0aqUUmGkWB5tOF8FGNHdOFsg7wOs9OqoPs/IL+oYMfGDQKVkoZCCd8CaKFqcE9PxtiV5FnvdSuiKDXDEp8iPPZ4l3ahi9TzamnfscQksGyYueskH5KyVBlIBH0aXvKzUksPpk7yO396AzJr5Hirg9vc1yhym5iIHEbFNZiM0r5iZsf6Z6e63UgjXcLXuW9JkNa+4T85iyqTIQJCN9cgEZbRU6wd4BGTQigr/xUMimh4HR04jVNrjBj4huj+QRQmdGlvGF+syz5H+NHTOcAw3zx5M95DB3aMblWSDsOeytbDdGWxgnL0eU7oxeYUIsSLg0CEfTO216pIUA42u5lxqA==;U4oTqvhOXp8y4kYp477RTw=="
 ---

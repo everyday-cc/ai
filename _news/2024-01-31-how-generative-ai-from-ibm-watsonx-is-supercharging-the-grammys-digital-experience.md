@@ -51,20 +51,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea"
-    excerpt: "\"KQC is providing versatile computing infrastructure in Korea through our collaboration with IBM. Our robust hardware computing resources and core software in quantum and AI are poised not only to meet the growing demand for high performance computing ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.asiaone.com/business/korea-quantum-computing-and-ibm-collaborate-bring-ibm-watsonx-and-quantum-computing-korea"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 27
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/IBM_Quantum_System_Two.jpg?h=ef2d6e95&itok=0gS4ucv5"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "q1FMv97idwuHgokaz6ZC0vQWNG4Ny/Uuxs4uyuaX/q3UDvMnszlrZ76/gjMWNMogZKqAtHvI3xRZXB3a9QiifQ0FtFu3YoiUPznvd2ueksJfdY8nisw7UXAGtFombAyu9LL4Y5iSX69+OdJsi7VaDgdOrjV40S1qm63ET26xdPIeLVopnYGBPUlIddpxfPYoR8SC77posEhlTpMSYtTyLRW1ubJBp2dCAlvF136m3CAqSc3urLeXrwyE4cZ7TCHdWtPfWsDXquXdYBY5pJZZVWHfHC3KBlCu5isGJIvG45YhpgDifXyJ8wOCkm8vg8SWru78SHd2tWCkDhCiOFUeBzHENxvZ0WgS/EFjX9CtRkc=;kvRXQBaruK5lE9b5dZmD5g=="
 ---

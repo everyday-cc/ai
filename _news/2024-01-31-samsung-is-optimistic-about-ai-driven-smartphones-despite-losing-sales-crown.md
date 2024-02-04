@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rebellions lands $124M to develop its new AI Rebel chip with Samsung"
-    excerpt: "Rebellions, a South Korean fabless AI chip startup, said today it has closed $124 million (165 billion KRW) in a Series B round of funding to develop its South Korean AI chip maker Rebellions has rais"
-    publishedDateTime: 2024-01-29T23:53:00Z
-    webUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/"
-    ampWebUrl: "https://techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/29/rebellions-lands-124m-for-ai-chip-rebel-in-collab-with-samsung/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
-        width: 1200
-        height: 831
-        isCached: true
   - title: "Samsung responds to criticism of the Galaxy S24's AI photo-editing features"
     excerpt: "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the"
     publishedDateTime: 2024-02-03T16:34:00Z
@@ -72,20 +56,6 @@ related:
         width: 1440
         height: 740
         isCached: true
-  - title: "Korean AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:33:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/korean-ai-chip-startup-rebellions-raises-124m-650m-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/chip-1.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Samsung’s New AI Robot Vacuum With Mop Finds Stains and Steam Cleans Them"
     excerpt: "Spread the loveSamsung Electronics has once again revolutionized the smart home industry by unveiling its latest innovation—a state-of-the-art AI robot vacuum that does more than just sweep the floors."
     publishedDateTime: 2024-02-01T08:25:00Z
@@ -100,20 +70,6 @@ related:
         width: 660
         height: 400
         isCached: true
-  - title: "Rebellions is a South Korean fabless AI chip startup, building Rebel AI chip with Samsung"
-    excerpt: "Rebellions is a South Korean fabless AI chip startup, which just closed on $124 million in Series B round funding, for its third AI chip called Rebel."
-    publishedDateTime: 2024-01-30T02:01:00Z
-    webUrl: "https://www.tweaktown.com/news/95881/rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 45
-    images:
-      - url: "https://static.tweaktown.com/news/9/5/95881_47_rebellions-is-south-korean-fabless-ai-chip-startup-building-rebel-with-samsung_full.png"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "New Samsung Galaxy S24 Series now available in Canada, promising a new beginning with Galaxy AI"
     excerpt: "Samsung Electronics Canada today announced that the new Samsung Galaxy S24 Series, including the Samsung Galaxy S24 Ultra, Samsung Galaxy S24+ and Samsung Galaxy S24 are now available for purchase at Samsung Experience Stores,"
     publishedDateTime: 2024-01-31T10:58:00Z
@@ -123,14 +79,14 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 37
-  - title: "AI chip startup Rebellions raises $124M at $650M+ valuation"
-    excerpt: "Rebellions, which is now valued at $658 million, sells two processors called Ion and Atom. Both are optimized to run AI applications. However, they’re based on different manufacturing technologies and target two separate sets of use cases."
-    publishedDateTime: 2024-01-30T19:12:00Z
-    webUrl: "https://siliconangle.com/2024/01/30/ai-chip-startup-rebellions-raises-124m-650m-valuation/"
+  - title: "Samsung Galaxy S24: First Features You Should Try"
+    excerpt: "The Samsung Galaxy S24 is a particularly feature-packed release from the South Korean tech giant, and—yes—most of them surround all the newfangled (and, for the moment, free) Galaxy AI. Sure, there’s the Ultra’s titanium, but you’re interested in just what the new phone is capable of compared to previous generations."
+    publishedDateTime: 2024-01-31T19:56:00Z
+    webUrl: "https://gizmodo.com/samsung-galaxy-s24-features-you-should-try-android-ai-1851213139"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 34
 
 secured: "uDQqGqWVzd0F9MlTX4kBVu75xiUtDfpSnnbhV/eEwI+talDPE5qgy18Kx0USeaQ5wHdcTC7bPHB8BW5T+sbu4Oh+rOcGV9S76a70HXnHCSdng6R1ay8Gpb8/k2OWgjMgsx3ihv4YTyKSBi2dnuHaUFssu80vG8M0nqj/azoZSfUW0guSI+14Nw9UQZ+/2ScN03l0Hm2l0H4EoH/tf6q4vbdG08vXuljypPxTO5M+XN4Jrndbu7hdeBDvWu3rv9zQYPBug7k+vvx27gg7JYtxkLvm+ejtRN9bLehhfwc+bnR1GcSCrxzY//F93K/CwTgVBbZsdPMB/7B+zO5pVWHsUO0umjMN3m6mnq7pg+YX7Nc=;aeAs3doEiHtc6CiFGoZdEw=="

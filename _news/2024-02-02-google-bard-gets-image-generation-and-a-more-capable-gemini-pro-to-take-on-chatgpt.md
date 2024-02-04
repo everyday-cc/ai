@@ -40,6 +40,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Google Is Rebranding Bard To Gemini"
+    excerpt: "Google is planning some big changes to its Bard AI tool including a change to its name. According to a leaked document posted on Twitter/X Saturday by Android app developer Dylan Roussel, Google has plans to change the name of Bard to Gemini."
+    publishedDateTime: 2024-02-03T23:30:00Z
+    webUrl: "https://au.pcmag.com/ai/103694/google-is-rebranding-bard-to-gemini"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-rebranding-bard-to-gemini_gcwp.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Talk To Your Tech: Google Bard Gets A Gemini Boost"
     excerpt: "The machines are learning to talk, and they're doing it fast. While we humans have self-anointed ourselves as toppers in the language school, the machines have taken to the realm like fish to water. Powered by artificial intelligence,"
     publishedDateTime: 2024-02-03T11:06:00Z

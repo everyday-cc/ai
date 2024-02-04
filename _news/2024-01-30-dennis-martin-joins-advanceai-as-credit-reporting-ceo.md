@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Industry veteran Dennis Martin joins fintech start-up ADVANCE.AI to lead credit reporting business"
-    excerpt: "SINGAPORE, Jan. 31, 2024 /PRNewswire/ -- ADVANCE.AI, Southeast Asia's leading provider of digital identity verification, compliance and risk management solutions, has appointed industry veteran, Dennis Martin, as CEO of its credit reporting business."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/01/30/9954665.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 25
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Industry veteran Dennis Martin joins fintech start-up ADVANCE.AI to lead credit reporting business"
     excerpt: "ADVANCE.AI, Southeast Asia's leading provider of digital identity verification, compliance and risk management solutions, has appointed industry veteran, Dennis Martin, as CEO of its credit reporting business."
     publishedDateTime: 2024-01-31T04:18:00Z
     webUrl: "https://www.asiaone.com/business/industry-veteran-dennis-martin-joins-fintech-start-advanceai-lead-credit-reporting"

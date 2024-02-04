@@ -1,27 +1,28 @@
 ---
 category: news
-title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
-excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
-publishedDateTime: 2024-01-30T06:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
-webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
+title: "1 AI Stock to Buy Now and Hold Indefinitely"
+excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
+publishedDateTime: 2024-02-04T00:33:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
 type: article
-quality: 51
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
-  - Meta AI
+  - Microsoft AI
   - AI
-  - AI Hardware
+
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/cb67ac95440294723a685a08b0910231/axtkgaga6wstew6v.png"
+    width: 1702
+    height: 1142
+    isCached: true
 
 related:
   - title: "Is There A Bubble In AI Stocks?"
@@ -63,6 +64,15 @@ related:
         width: 879
         height: 649
         isCached: true
+  - title: "3 Disruptive AI Stocks That Could Dominate the Market by 2027"
+    excerpt: "In the AI space, three prominent companies stand poised to reshape ... Yiannis Zourmpanos is the founder of Yiazou Capital Research, a stock-market research platform designed to elevate the due diligence process through in-depth business analysis."
+    publishedDateTime: 2024-01-30T06:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-disruptive-ai-stocks-that-could-dominate-the-market-by-2027-1033009611"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "3 Once-in-a-Lifetime AI Stocks With Unprecedented Surge Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips History will show that 2023 was the year that AI stocks truly took off. Many"
     publishedDateTime: 2024-01-31T10:00:00Z
@@ -86,20 +96,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
-    excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
-    publishedDateTime: 2024-02-04T00:33:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/cb67ac95440294723a685a08b0910231/axtkgaga6wstew6v.png"
-        width: 1702
-        height: 1142
-        isCached: true
   - title: "A Bull Market Is Here: 3 Artificial Intelligence Stocks to Buy When the Tides Change"
     excerpt: "Artificial intelligence (AI) has been a hot theme since last year, so circle these three stocks as potential buys when the next market downturn hits. They've already enjoyed monster gains -- a dip would offer an opportune chance to buy before they head higher over the long term."
     publishedDateTime: 2024-01-31T12:53:00Z
@@ -115,6 +111,6 @@ related:
         height: 868
         isCached: true
 
-secured: "W9YaFVdxN4gKGrCNj5VHneKDgpqAGNWAtfJLqKDPGZ5Kxtb8AJBLwT2r/lQaJrRRk+VU3ZCT9wtx4QmLK7N9LtuszG3VcbjIiXSkefTQ+OJ7ofm4AlkePyslS3gOWCkPBBoqMAaMEMoO2pzDWSdfcPEo7nkYx89DNKI8p5ZdqOfqP7MHtcpqG30SIzhOME70aEQPaadCxeLdLLeAqw4m+Z4ZRmt6WAz+82ca1ihUNjIlZj4pZPV1ZzXSvUKFF2ksiwFe126tTRwK4a/HxgTbbIuQ2UTp5GOVfzKvibidmMCKSt6opFKtiQLMWT5pA5ZQ3ohmqISiDv42uKdUE2RqCtIlRWYQZ9zpVK9A/oovYYY=;k+aSYtzsY++IONqyqds1CA=="
+secured: "tT7F0T0LjP95uBHw3KmhhFQKT3kpUdhnVDSoWQN1Zuj9QY5OJAlI0Fw4NkhBjCvOeW3DEy5iEhvk4xBCZXDqAApAkImaYZKkzymdwN96qGwJ4FrLwsm0IG9M524S8GTO5a01oSQTjPgZAdwGjLKAeoV7SljfKg3nhi7rMsdqs5G0AegmQqZimeZpjStcyh1JGOM/Z1f+UiaQe1ok4X+6dw3grEZoFEJN6WejelhsF19Lm/uXdSqVh0u8YdOhJ5YfjShTJe1ZbMKLALE8fEaQWvFyL6RN08H33A39kfMC+mJl8siVvvoFpNZezhOCbM6u+CMTrnOBeKla8nuu5/vchibl5b0y4NaY8xGicKzM0eg=;WyDO0iGEhilUPimqov90Ag=="
 ---
 

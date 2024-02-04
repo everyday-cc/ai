@@ -7,7 +7,7 @@ originalUrl: "https://www.beckersasc.com/asc-news/healthcare-cut-4-182-jobs-in-j
 webUrl: "https://www.beckersasc.com/asc-news/healthcare-cut-4-182-jobs-in-january.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Washington Healthcare Update - January 2024 #3"
-    excerpt: "Telemental Health Care Access Act Reintroduced On Jan. 24 ... ONC Final Rule Establishes Transparency Requirements for Artificial Intelligence and Predictive Algorithms On Dec. 13, the Department of Health and Human Services Office of the National ..."
-    publishedDateTime: 2024-01-30T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/washington-healthcare-update-january-5495854/"
+  - title: "January News Roundup: What’s new in the world of AI?"
+    excerpt: "OpenAI’s new GPT store and business-ready ChatGPT plans, NCSC predicts rise in AI-powered cybercrime, AIs making the web more accessible, and more."
+    publishedDateTime: 2024-02-01T04:47:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/data/ai-this-month-january-2024"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15934_0210.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 19
 
 secured: "DYp7vhDVqeGHHLuBXVjH3xhgx7sWFWuKahVmZnxBdJdngRi0hKFwx/lehgBox2Wa7i2vz/EYfvYSK6+JM3tByIqPHJuYDIvcQzysNu7OWvzn13etXTIdMaf1KZgjdvtDRdZ+3Oj2XN8uMAjnH0OXMDKKawkLZQXdYZqcgA/qvSP0vxu7jwKlLZcuovW1l3/Iz7LM//CAaEU6QkjcvFJDjd9VBep/KyzcvBe46kd9syshBHm0TS9VTZJLXzhykERy75uzaywuzx9IABpnjZxA2JnsYR1trEwUCTAPiEt+gXk0WdMJNrj7mKDIPttfE7xad0fLdfhWPofrtqzsrGtBdP0iOe8c2wyxd2puSKKzTIc=;7BTjvhBt+EBkL3SM41UJrA=="
 ---

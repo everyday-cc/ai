@@ -39,6 +39,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Google Is Rebranding Bard To Gemini"
+    excerpt: "Google is planning some big changes to its Bard AI tool including a change to its name. According to a leaked document posted on Twitter/X Saturday by Android app developer Dylan Roussel, Google has plans to change the name of Bard to Gemini."
+    publishedDateTime: 2024-02-03T23:30:00Z
+    webUrl: "https://au.pcmag.com/ai/103694/google-is-rebranding-bard-to-gemini"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/g/google-is-/google-is-rebranding-bard-to-gemini_gcwp.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Bard gets image generation and a more capable Gemini Pro to take on ChatGPT"
     excerpt: "We tested image generation on Bard and found that it produces outputs in about 30-40 seconds with good consistency. In some cases, however, it failed to generate the image altogether – even when it did not involve any famed individual,"
     publishedDateTime: 2024-02-01T18:29:00Z
