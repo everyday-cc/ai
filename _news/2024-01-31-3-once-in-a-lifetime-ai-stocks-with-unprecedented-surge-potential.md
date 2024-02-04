@@ -71,6 +71,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
+    excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
+    publishedDateTime: 2024-02-03T20:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Stay away from US stocks, expect the AI bubble to burst, and brace for a recession, elite investor Jeremy Grantham says"
     excerpt: "Bubble expert Jeremy Grantham said US stocks are hugely overvalued, AI buzz is overblown, a recession lies ahead, and foreign wars are worrying."
     publishedDateTime: 2024-02-03T10:32:00Z
@@ -84,20 +93,6 @@ related:
       - url: "https://i.insider.com/61eaa3802b43ff00185df654?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
-    excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
-    publishedDateTime: 2024-02-04T00:33:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/cb67ac95440294723a685a08b0910231/axtkgaga6wstew6v.png"
-        width: 1702
-        height: 1142
         isCached: true
   - title: "A Bull Market Is Here: 3 Artificial Intelligence Stocks to Buy When the Tides Change"
     excerpt: "Artificial intelligence (AI) has been a hot theme since last year, so circle these three stocks as potential buys when the next market downturn hits. They've already enjoyed monster gains -- a dip would offer an opportune chance to buy before they head higher over the long term."

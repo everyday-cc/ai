@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ars reader reports ChatGPT is sending him conversations from unrelated AI users"
-    excerpt: "ChatGPT is leaking private conversations that include login credentials and other personal details of unrelated users, screenshots submitted by an Ars reader on Monday indicated."
-    publishedDateTime: 2024-01-30T01:43:00Z
-    webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "q2vQtlESRW779B5DYc76nSKQj73BzW2D0VhdwiZYGlOmx1mm8hdwVoKIbGeSfXDOEP8dY0kZ8sGZ5bjcDoKaYwIXA4bTawERfMWg9DHaq9zXIfFG6rxhLNPZqeWl3a7qB9lw9xtfZ/pBz8NSN6NMWEWaJOEoECRtDcOYLPYU+KwGvy57hiaOPro+yzDLtwfTAHdqrdrYiAsiatH02oywea3LET/cpDoXKZ8icID08b/r0Yz/Pu+XC93qYT9InrmbJLkh76BFD2+E8iKlbVwUoXwxK/RXI7u6Pp2eCCwYkPXqDXsH4Q5Nsav8+tQkJ5GgJsB3rbzS+qesQwW23Bge1RKTHzJBuo3cxVy1x9rSmW4=;bkGH6GOnEjwwsCXIcLMobw=="
 ---

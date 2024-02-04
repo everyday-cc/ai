@@ -81,6 +81,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
+    excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
+    publishedDateTime: 2024-02-03T20:36:00Z
+    webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Stay away from US stocks, expect the AI bubble to burst, and brace for a recession, elite investor Jeremy Grantham says"
     excerpt: "Bubble expert Jeremy Grantham said US stocks are hugely overvalued, AI buzz is overblown, a recession lies ahead, and foreign wars are worrying."
     publishedDateTime: 2024-02-03T10:32:00Z
@@ -94,20 +103,6 @@ related:
       - url: "https://i.insider.com/61eaa3802b43ff00185df654?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "1 AI Stock to Buy Now and Hold Indefinitely"
-    excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
-    publishedDateTime: 2024-02-04T00:33:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/cb67ac95440294723a685a08b0910231/axtkgaga6wstew6v.png"
-        width: 1702
-        height: 1142
         isCached: true
 
 secured: "+/9NQZd/vMkvhSsfStpPUeu1l+vA6GbNCgTjLPl0J2sggQnoE9L9yhlnT0FseQ8lnO6Vxx6IdrHnVZgz6eTYN1M0c8hPW9F66D4h7Wv4l22jzXYkaI9v4XxrTijp6Ozg6yihKJfzq8/amFiPAgobpDByzqByXhyXKj8z3I30BAhIaVlHW3mSDQMbPhqWa0fl3D106cGyg/QZ2xy+JLRclCILydDxujMfEflYtUg+00iobm91SWV1UdphQGQjmKHW6oGPhOlienMhbk5an24IHyYYruiSzpPN6GVSl2xADsM4o7IG+y57HG/3ThBUOOhwb2J8qwJ9XF0DgoDNVUMi/a73xw1SJeK6M4TOxQVOXDo=;1EwaJWe7/JQra0DCBeFIVQ=="

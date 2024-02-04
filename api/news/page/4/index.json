@@ -208,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -658,6 +658,58 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-googles-first-africa-cloud-region-now-operational.md",
+      "title": "Google’s first Africa cloud region now operational",
+      "excerpt": "The cloud region is expected to contribute over $2.1B to South Africa’s GDP, and support the creation of more than 40,000 jobs by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/",
+      "originalUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/amp/",
+      "publishedDateTime": "2024-01-31T16:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1203,48 +1255,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-eternal-you-reveals-how-ai-chatbots-aim-to-resurrect-the-dead.md",
-      "title": "'Eternal You' reveals how AI chatbots aim to resurrect the dead",
-      "excerpt": "Chatbots can scan the dead's social media profiles and texts, and then simulate the departed's way of speaking to create new messages. The documentary Eternal You probes into this intriguing use of AI,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/eternal-you-review",
-      "originalUrl": "https://mashable.com/article/eternal-you-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/07ET7WkarUwAIIdJLgASzRF/hero-image.fill.size_1200x675.v1706637281.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

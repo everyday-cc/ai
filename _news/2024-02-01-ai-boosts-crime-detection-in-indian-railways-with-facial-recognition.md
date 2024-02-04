@@ -57,17 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
-    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
-    publishedDateTime: 2024-01-30T02:59:00Z
-    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
-    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 54
   - title: "Tamil Llama Uncovering New Grounds in Indian Languages"
     excerpt: "Tamil Llama, a pioneering language model that is specifically designed to understand and interact in Tamil, demonstrating significant advancements in computational linguistics, particularly for Indian languages."
     publishedDateTime: 2024-02-01T10:59:00Z

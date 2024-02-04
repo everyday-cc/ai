@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Choice Hotels Successfully Migrates All Data Centers to AWS"
-    excerpt: "Choice Hotels International is the first hotel company to migrate its entire system infrastructure to the cloud, now fully on Amazon Web Services (AWS)."
-    publishedDateTime: 2024-01-30T02:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34759-choice-hotels-successfully-migrates-all-data-centers-to-aws"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/472567d63949117d68f339ed6393815c.jpg?t=20240130_020218"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Choice Hotels fully migrates to the cloud with AWS"
     excerpt: "Choice Hotels International has closed its last data center and completed its full migration to the cloud. Announced on January 29, the hotel chain is now using Amazon Web Services' (AWS) cloud for all its operations."
     publishedDateTime: 2024-01-30T17:35:00Z

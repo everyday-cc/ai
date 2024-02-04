@@ -43,22 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google's Assistant with Bard may arrive for these Pixel devices in March"
-    excerpt: "Discover the enhanced features of Google's Assistant with Bard, an AI-powered digital assistant. Get the latest release details for this exciting update coming to select Pixel devices in March."
-    publishedDateTime: 2024-01-30T01:45:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/articleshow/107240827.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107240825,width-1280,height-720,resizemode-4/107240825.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google prepares users for a new era with Bard-integrated Assistant: Report"
     excerpt: "Google Assistant is reportedly gearing up for a transformation with the integration of AI chatbot, Bard. The rollout is anticipated in March and will utilize Google's Gemini family of Large Language Models to enhance the virtual assistant's features."
     publishedDateTime: 2024-01-31T06:26:00Z

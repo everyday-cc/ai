@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/choice-hotels-fully-mig
 webUrl: "https://www.datacenterdynamics.com/en/news/choice-hotels-fully-migrates-to-the-cloud-with-aws/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Choice Hotels Successfully Migrates All Data Centers to AWS"
-    excerpt: "Choice Hotels International is the first hotel company to migrate its entire system infrastructure to the cloud, now fully on Amazon Web Services (AWS)."
-    publishedDateTime: 2024-01-30T02:09:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34759-choice-hotels-successfully-migrates-all-data-centers-to-aws"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/472567d63949117d68f339ed6393815c.jpg?t=20240130_020218"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Choice Hotels Makes History by Moving Entire Infrastructure to AWS Cloud"
     excerpt: "Now fully on Amazon Web Services (AWS), the move to the cloud enables Choice to respond ... tools more efficiently and more completely layer in the power of Artificial Intelligence (AI) and other cloud technologies to help hotel owners drive profitability ..."
     publishedDateTime: 2024-02-01T08:46:00Z

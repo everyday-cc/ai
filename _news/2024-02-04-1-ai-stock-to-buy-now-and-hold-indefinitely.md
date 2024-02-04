@@ -1,28 +1,22 @@
 ---
 category: news
 title: "1 AI Stock to Buy Now and Hold Indefinitely"
-excerpt: "CEO Satya Nadella highlighted in the Q2 earnings call that Azure AI now has 53,000 customers. Microsoft has now integrated AI into all of its products, including Windows, Office 365, and others, which has enhanced each segment's performance. While the ..."
-publishedDateTime: 2024-02-04T00:33:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NQZ22/pressreleases/23824169/1-ai-stock-to-buy-now-and-hold-indefinitely/"
+excerpt: "Given its AI-driven cloud strength, Microsoft is likely to reach its high target price of $600 by the end of the year. Valued at $3 trillion, MSFT shares are up 9.3% year-to-date, outperforming the tech-heavy Nasdaq Composite’s ($NASX) gain of 5.8%."
+publishedDateTime: 2024-02-03T20:36:00Z
+originalUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
+webUrl: "https://www.nasdaq.com/articles/1-ai-stock-to-buy-now-and-hold-indefinitely"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/cb67ac95440294723a685a08b0910231/axtkgaga6wstew6v.png"
-    width: 1702
-    height: 1142
-    isCached: true
 
 related:
   - title: "Is There A Bubble In AI Stocks?"
@@ -111,6 +105,6 @@ related:
         height: 868
         isCached: true
 
-secured: "tT7F0T0LjP95uBHw3KmhhFQKT3kpUdhnVDSoWQN1Zuj9QY5OJAlI0Fw4NkhBjCvOeW3DEy5iEhvk4xBCZXDqAApAkImaYZKkzymdwN96qGwJ4FrLwsm0IG9M524S8GTO5a01oSQTjPgZAdwGjLKAeoV7SljfKg3nhi7rMsdqs5G0AegmQqZimeZpjStcyh1JGOM/Z1f+UiaQe1ok4X+6dw3grEZoFEJN6WejelhsF19Lm/uXdSqVh0u8YdOhJ5YfjShTJe1ZbMKLALE8fEaQWvFyL6RN08H33A39kfMC+mJl8siVvvoFpNZezhOCbM6u+CMTrnOBeKla8nuu5/vchibl5b0y4NaY8xGicKzM0eg=;WyDO0iGEhilUPimqov90Ag=="
+secured: "L/Cvjmpn6A1WJdDp6x9zQpzktH8Q6Mk5jWjgknvK+sDd6cIFRZ9PkyzVYmWEdamGwaWLoBarOWzlsoxiAYOGsK/sYOvw8soI8/Krq/0syqocrkIwCB5rzuf4084/BGaY7nWh1Ztt5UlqJzXuAcAr4t0iGdgLTP+1uBwexBR0H4B2AlQmfuV14AEKMbY5gJrJVG5UlZzMB6T8aCS2BvnlixmZoCXT5MHJZ5ALD2rDqZuAPpsxuYu6wGQwBGGqFjf6i6G8CNcgpbcfKQlx9K28lCtg49Lkxs2hXj0nMOCxfZxAAgPlCAPV82h7mocEXgUe9/2sRug8I0HKFdSw0zkaTGR5xHDczq1NajcULi3QhXk=;pnRHktOYkUc/rtjiuCWZCg=="
 ---
 

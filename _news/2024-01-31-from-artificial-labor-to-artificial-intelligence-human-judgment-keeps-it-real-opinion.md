@@ -1,22 +1,23 @@
 ---
 category: news
 title: "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion"
-excerpt: "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace."
-publishedDateTime: 2024-01-31T10:07:00Z
-originalUrl: "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
-webUrl: "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
+excerpt: "Artificial intelligence is the latest in social and ... They join unions that make demands for medical care and retirement. Then came robotics. Advanced computer technology allows machines to ..."
+publishedDateTime: 2024-01-31T11:07:00Z
+originalUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
+webUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
 type: article
-quality: 8
-heat: 8
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Knoxville News Sentinel
+  domain: knoxnews.com
 
 topics:
+  - AI in Robotics
   - AI
 
-secured: "vtWMoKE/+JN1smt7pF1Y1EnbNGerni3n+6OL4ltPrCuv/W/dgb7sIungqmJO7iaaxmYZ4ZQFlDHd4hqSjBL+bXRqOFmDAYtCZHQHTfWpbgFJvSMmh2mR+pyaP+Eijp5CplXqa/pqEavjPZGSDFL47aFS8XHQw9sH8WP8uoIr9xu4ZYhFiwdfKh1hI1k/8iHmpi+tWb9cTkCUspcqaRrcoEQwzS1fBUh4sPRcrQbuLG8JFMFOxSJTdFyuDCL4iRRium1Ij2SVwPnirnlBBZMNtbYjK2xvi5m6FwBK2tbC9RJISccp1CY80t81IY8Tbkah6myFQcFuxB4r44Ar512uRVcihH+s3FApTsX8RW8RCC2U6ouN1GoBx/+GaquVOdjesTdENP5YyoqXBCIdR43LOyNK4w/ex+9D/6sKrYRFYHA1Pjemvdhj5aXL7u++6LvUtCJeOrsHlsqdkLUJuL1NJ8YBlhrug3/XPlujQrecagYtSki5GY0FocoyChabSwRHOZCis7oy1eAwCtJSFHT+Aw==;3sK1FD0aUZRzHFuzDN+4EQ=="
+secured: "tVTz+5ePMzYA1sIRCizyo2f27Nev7aJAWN/Lt6+gxHH1my+cruyg2IWC5Emw7RxMlZNvaukOohOua+YCvzeiT4OXiLf728XM7qOSSM+DaiI4D1jMC9RgvQtXrMyG5WStSzkwwincWZaYYqV/3bOfxiugbumhT9E1DwixylF8Rdqt7mEaJW0TMfHXmBb1UQba91U2Uk3h8GbY1Z5Qo2XrgFwU0kZfw2cBI/5rROzgadOIK4BHcZOmffT7Sd/4G91OD4g01xxXCBn8oWTbkGLDg9IhISMwNomZltXS3l2AbT1DgausNwzPg1hpLDiIcGJqkU8pwr2+Y5RrREfWX6zGo6QyTSXuh1iZJ7CScCRDjBg=;ikffHiQFBpxKfFqxE/90dw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-chatgpt-rendered-the-u-s-s-education-report-card-irrelevant/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ars reader reports ChatGPT is sending him conversations from unrelated AI users"
-    excerpt: "ChatGPT is leaking private conversations that include login credentials and other personal details of unrelated users, screenshots submitted by an Ars reader on Monday indicated."
-    publishedDateTime: 2024-01-30T01:43:00Z
-    webUrl: "https://arstechnica.com/security/2024/01/ars-reader-reports-chatgpt-is-sending-him-conversations-from-unrelated-ai-users/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 80
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/01/chatgpt-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Google Gemini vs. ChatGPT: Is Gemini Better Than ChatGPT?"
     excerpt: "Learn about the differences and capabilities of Google Gemini and ChatGPT to determine which one is better with this comprehensive comparison."
     publishedDateTime: 2024-02-01T18:01:00Z

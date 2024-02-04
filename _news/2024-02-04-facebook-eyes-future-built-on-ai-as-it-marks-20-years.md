@@ -1,44 +1,30 @@
 ---
 category: news
-title: "As Facebook turns 20, politics is out; impersonal video feeds are in"
-excerpt: "Facebook and its imitators have done more than make money. Social media have become the main way that people experience the internet—and a substantial part of how they experience life. Last year nearly half of mobile screen-time worldwide was spent on social apps (and more than a quarter of waking hours were spent on phones),"
-publishedDateTime: 2024-02-01T10:19:00Z
-originalUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
-webUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
+title: "Facebook eyes future built on AI as it marks 20 years"
+excerpt: "Facebook remains one of the most influential pieces of technology in the world, an expert says, despite recent scandals and other issues it faces as it marks its 20th anniversary."
+publishedDateTime: 2024-02-04T01:46:00Z
+originalUrl: "https://www.hardenexpress.com.au/story/8508929/facebook-eyes-future-built-on-ai-as-it-marks-20-years/"
+webUrl: "https://www.hardenexpress.com.au/story/8508929/facebook-eyes-future-built-on-ai-as-it-marks-20-years/"
 type: article
-quality: 24
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: The Economist
-  domain: economist.com
+  name: Harden Murrumburrah Express
+  domain: hardenexpress.com.au
 
 topics:
   - Meta AI
   - AI
 
 images:
-  - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_FBD001.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.hardenexpress.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f9307eb6-ed7b-4be9-afc1-0257a6a028e0.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+    width: 800
+    height: 420
     isCached: true
 
 related:
-  - title: "Facebook eyes future built on AI as it marks 20 years"
-    excerpt: "Facebook remains one of the most influential pieces of technology in the world, an expert says, despite recent scandals and other issues it faces as it marks its 20th anniversary."
-    publishedDateTime: 2024-02-04T01:46:00Z
-    webUrl: "https://www.hardenexpress.com.au/story/8508929/facebook-eyes-future-built-on-ai-as-it-marks-20-years/"
-    type: article
-    provider:
-      name: Harden Murrumburrah Express
-      domain: hardenexpress.com.au
-    quality: 39
-    images:
-      - url: "https://www.hardenexpress.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f9307eb6-ed7b-4be9-afc1-0257a6a028e0.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Facebook-Parent Meta Declares First-Ever Dividend"
     excerpt: "Meta Platforms announced its first-ever dividend of $0.5 per share and beat expectations for fourth-quarter revenue on Thursday, sending its shares up 8% in extended trading. It also authorized an additional $50 billion in share buybacks."
     publishedDateTime: 2024-02-01T21:07:00Z
@@ -48,6 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "As Facebook turns 20, politics is out; impersonal video feeds are in"
+    excerpt: "Facebook and its imitators have done more than make money. Social media have become the main way that people experience the internet—and a substantial part of how they experience life. Last year nearly half of mobile screen-time worldwide was spent on social apps (and more than a quarter of waking hours were spent on phones),"
+    publishedDateTime: 2024-02-01T10:19:00Z
+    webUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 24
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_FBD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook turns 20: but who is left to celebrate?"
     excerpt: "Facebook celebrates its twentieth birthday this weekend. But with younger audiences favouring newer platforms, does anyone use it anymore?"
     publishedDateTime: 2024-02-01T11:00:00Z
@@ -90,6 +90,6 @@ related:
       domain: seattletimes.com
     quality: 3
 
-secured: "4X+NXIRdFGLeti5p032CRJwpGA4kF12z/ehT1xEezLO1LWGXjdxgQwb1VELDD6QnSJL4GL5mZbHIvvfI3Koo9u53MbqcLK/D9sxbPbM1o/INuYrIOoLli2KvTLyrzp5BpREgJGGuP92wlw+QX+6cVR9jSl5dXtW3YnKggoD0jr41CAC8rrrKj3/6d90bSb7VpmU7Ue39hcZxBFl5vTrlDqjUQol+kSt/yHql243sNwTy6I5E2j0Hzk0KCrdDq2FEA9pMBqYaaXge+yjRBTRTsfPlxENKNyXQ0knYPdZdr0dPMrhr0EzUWm/mvybfWdx78rZJOwQCiYh8A/27hHwSVHvxfWbOPieMrVBbrx4OG/A=;y8BGi2/fSpjl1sTO6U0UTw=="
+secured: "S+H20/9TdgpRYIsNh7TV7vvJBoJLX5xYL8jMsJf1qHV5zY/lVwabJRpYCQrudnTU+lBTa3fQSd0Y9ovtDrZlD5xmZYJyaloXDAgc6cHH/YxEWhvB/fxHVqkuwK6+qBAYGdfSVidBQj/xOi6o0C1vSOQB+og2tC5RYxw0lX+1A71UW83eSHp19NCg88AvuBxWB7ZGHflxwUOwq0XcaiQubCKKdS8Cm9bgc4umE0tISdd4FIBqdJzV214iDRg5E+/2bqKVAS2w9L5Qc7KfZuJYUeJQC4mho7B268lSoFiWBEVyUExlyWY/Jugv6KwWxkcdGYuS8c0UiimpXmG+B36YDa14d7X6t/GuCIzpK5a2Lt8=;LpwV5kBIwxw5aOQQzcns2g=="
 ---
 

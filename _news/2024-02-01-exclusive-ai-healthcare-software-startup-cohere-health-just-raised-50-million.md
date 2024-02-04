@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-
 webUrl: "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1"
 type: article
 quality: 62
-heat: 83
+heat: 82
 published: true
 
 provider:

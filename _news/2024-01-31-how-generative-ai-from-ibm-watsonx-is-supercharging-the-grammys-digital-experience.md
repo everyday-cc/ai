@@ -37,20 +37,6 @@ related:
         width: 2560
         height: 1280
         isCached: true
-  - title: "Korea Quantum Computing to Offer IBM's AI and Quantum Computing Solutions, Including watsonx"
-    excerpt: "Korea Quantum Computing (KQC) has engaged IBM to offer IBM's most advanced AI software and infrastructure, as well as quantum computing services"
-    publishedDateTime: 2024-01-30T02:31:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34761-korea-quantum-computing-to-offer-ibms-ai-and-quantum-computing-solutions-including-watsonx"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 45
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e6bac6a5a03525377b12e819dfb58fb3.jpg?t=20240130_022718"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "q1FMv97idwuHgokaz6ZC0vQWNG4Ny/Uuxs4uyuaX/q3UDvMnszlrZ76/gjMWNMogZKqAtHvI3xRZXB3a9QiifQ0FtFu3YoiUPznvd2ueksJfdY8nisw7UXAGtFombAyu9LL4Y5iSX69+OdJsi7VaDgdOrjV40S1qm63ET26xdPIeLVopnYGBPUlIddpxfPYoR8SC77posEhlTpMSYtTyLRW1ubJBp2dCAlvF136m3CAqSc3urLeXrwyE4cZ7TCHdWtPfWsDXquXdYBY5pJZZVWHfHC3KBlCu5isGJIvG45YhpgDifXyJ8wOCkm8vg8SWru78SHd2tWCkDhCiOFUeBzHENxvZ0WgS/EFjX9CtRkc=;kvRXQBaruK5lE9b5dZmD5g=="
 ---

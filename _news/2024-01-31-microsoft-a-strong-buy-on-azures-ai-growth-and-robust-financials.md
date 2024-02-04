@@ -532,20 +532,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Microsoft, Google, even MasterCard making new tools to help small businesses capitalize on AI"
-    excerpt: "Small business owners are using A.I. tools like OpenAI's ChatGPT, Google's Bard and others to check grammar in emails, punch up marketing copy and research business plans. What's more, bigger companies are developing tools specifically to help small ..."
-    publishedDateTime: 2024-01-30T01:40:00Z
-    webUrl: "https://winonadailynews.com/news/nation-world/small-business-ai-microsoft-copilot-chatgpt/article_32d60e20-ad4a-5332-8624-7f955b3757d3.html"
-    type: article
-    provider:
-      name: Winona Daily News
-      domain: winonadailynews.com
-    quality: 45
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/winonadailynews.com/content/tncms/assets/v3/editorial/3/2d/32d60e20-ad4a-5332-8624-7f955b3757d3/65b284dca963e.preview.jpg?crop=1478%2C776%2C0%2C27&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Report: Humanoid robot startup Figure AI seeks $500M raise led by Microsoft and OpenAI"
     excerpt: "Figure AI Inc., a startup developing humanoid robots, is reportedly in talks to raise $500 million in new funding led by Microsoft Corp. and OpenAI, according to a report from Bloomberg."
     publishedDateTime: 2024-01-31T17:20:00Z

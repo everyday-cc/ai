@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farm
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial Recognition Check-In Coming Soon at More Indian Airports"
-    excerpt: "The civil aviation ministry is looking to integrate DigiYatra, the digital initiative for airport check-ins, for international travel."
-    publishedDateTime: 2024-01-30T02:59:00Z
-    webUrl: "https://skift.com/2024/01/29/__trashed-9/"
-    ampWebUrl: "https://skift.com/2024/01/29/__trashed-9/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/01/29/__trashed-9/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 54
   - title: "AI Boosts Crime Detection in Indian Railways with Facial Recognition"
     excerpt: "AI Boosts Crime Detection in Indian Railways with Facial Recognition - Indian Railways has embarked on an innovative initiative to elevate passenger safety, with the"
     publishedDateTime: 2024-01-31T17:42:00Z

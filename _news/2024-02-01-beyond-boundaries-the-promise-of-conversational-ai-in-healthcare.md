@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-bound
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/"
 type: article
 quality: 106
-heat: 127
+heat: 126
 published: true
 
 provider:

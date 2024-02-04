@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Facebook owner Meta's shares soar 14% after profits triple in 'year of efficiency'"
-    excerpt: "The user base of Meta's apps, which include Facebook, Instagram, Messenger and WhatsApp, also grew. Monthly active users reached 3.98 billion at the end of the year, up 6% from 2022. Facebook, now known as Meta, has reported a 3% increase in monthly active users, reaching 3.07 billion by the end of December."
-    publishedDateTime: 2024-02-02T12:10:00Z
-    webUrl: "https://www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331"
-    ampWebUrl: "https://www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/facebook-owner-metas-shares-soar-32030331.amp"
+  - title: "Facebook eyes future built on AI as it marks 20 years"
+    excerpt: "Facebook remains one of the most influential pieces of technology in the world, an expert says, despite recent scandals and other issues it faces as it marks its 20th anniversary."
+    publishedDateTime: 2024-02-04T01:46:00Z
+    webUrl: "https://www.hardenexpress.com.au/story/8508929/facebook-eyes-future-built-on-ai-as-it-marks-20-years/"
     type: article
     provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 38
+      name: Harden Murrumburrah Express
+      domain: hardenexpress.com.au
+    quality: 39
     images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32030446.ece/ALTERNATES/s1200/0_1195178B000003E8.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.hardenexpress.com.au/images/transform/v1/crop/frm/silverstone-feed-data/f9307eb6-ed7b-4be9-afc1-0257a6a028e0.jpg/r0_90_800_510_w1200_h630_fmax.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "Facebook-Parent Meta Declares First-Ever Dividend"
     excerpt: "Meta Platforms announced its first-ever dividend of $0.5 per share and beat expectations for fourth-quarter revenue on Thursday, sending its shares up 8% in extended trading. It also authorized an additional $50 billion in share buybacks."
@@ -44,6 +42,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "As Facebook turns 20, politics is out; impersonal video feeds are in"
+    excerpt: "Facebook and its imitators have done more than make money. Social media have become the main way that people experience the internet—and a substantial part of how they experience life. Last year nearly half of mobile screen-time worldwide was spent on social apps (and more than a quarter of waking hours were spent on phones),"
+    publishedDateTime: 2024-02-01T10:19:00Z
+    webUrl: "https://www.economist.com/briefing/2024/02/01/as-facebook-turns-20-politics-is-out-impersonal-video-feeds-are-in"
+    type: article
+    provider:
+      name: The Economist
+      domain: economist.com
+    quality: 24
+    images:
+      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20240203_FBD001.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook turns 20: but who is left to celebrate?"
+    excerpt: "Facebook celebrates its twentieth birthday this weekend. But with younger audiences favouring newer platforms, does anyone use it anymore?"
+    publishedDateTime: 2024-02-01T11:00:00Z
+    webUrl: "https://startups.co.uk/news/facebook-turns-twenty/"
+    type: article
+    provider:
+      name: Startups
+      domain: startups.co.uk
+    quality: 24
+    images:
+      - url: "https://images.startups.co.uk/wp-content/uploads/2024/02/Facebook-uninstall-1.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Apple, Amazon, and Facebook-Parent Meta Report Earnings"
     excerpt: "Earnings reports from the rest of Big Tech are nearly here. Amazon.com, Apple, and Facebook-parent Meta Platforms provide updates after the market close today."
     publishedDateTime: 2024-02-01T08:01:00Z

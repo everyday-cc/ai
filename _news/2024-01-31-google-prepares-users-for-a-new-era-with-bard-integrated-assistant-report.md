@@ -59,22 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google's Assistant with Bard may arrive for these Pixel devices in March"
-    excerpt: "Discover the enhanced features of Google's Assistant with Bard, an AI-powered digital assistant. Get the latest release details for this exciting update coming to select Pixel devices in March."
-    publishedDateTime: 2024-01-30T01:45:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/articleshow/107240827.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/googles-assistant-with-bard-features-and-release-details/amp_articleshow/107240827.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107240825,width-1280,height-720,resizemode-4/107240825.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google Assistant with Bard coming soon to these Pixel devices: What you need to know"
     excerpt: "Google is set to introduce an upgraded digital assistant called Assistant with Bard, offering smarter features, with leaks indicating its appearance in the Pixel Tips app and potential release in March 2024 for selected devices,"
     publishedDateTime: 2024-01-30T08:11:00Z

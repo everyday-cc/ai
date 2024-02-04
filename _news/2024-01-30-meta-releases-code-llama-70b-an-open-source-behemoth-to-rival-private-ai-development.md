@@ -77,20 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Meta releases more powerful Code Llama 70B model for writing software"
-    excerpt: "Meta Platforms Inc. today announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
-    publishedDateTime: 2024-01-30T01:27:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/meta-releases-more-powerful-code-llama-70b-model-writing-software/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
-        width: 2400
-        height: 1260
-        isCached: true
   - title: "Meta releases Code Llama 70B, the company’s largest coding model"
     excerpt: "After initially releasing the coding-specific LLM family in August, the company unveiled three versions of its newest offering."
     publishedDateTime: 2024-01-30T22:13:00Z
@@ -104,20 +90,6 @@ related:
       - url: "https://www.ciodive.com/imgproxy/bt9IOpXz1nEXH9RTMdRXPKtq4yWFm6B1mzC1yBmTYPw/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTEzNDk4MDQzMTNfR2Y0RkxVYy5qcGc.jpg"
         width: 770
         height: 435
-        isCached: true
-  - title: "Meta releases enormously powerful Code Llama 70B model for writing software"
-    excerpt: "Meta Platforms Inc. has announced a new and enhanced version of its code-generating artificial intelligence model, Code Llama, which comes with increased processing power, greater accuracy and support for specific programming languages, such as Python, C++, Java and PHP."
-    publishedDateTime: 2024-01-30T01:23:00Z
-    webUrl: "https://siliconangle.com/2024/01/29/meta-releases-enormously-powerful-code-llama-70b-model-writing-software/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 22
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/GFBmtatb0AADYhy.jpeg"
-        width: 2400
-        height: 1260
         isCached: true
   - title: "Meta Releases Code Generation Model Code Llama 70B, Nearing GPT-3.5 Performance"
     excerpt: "Code Llama 70B is Meta's new code generation AI model. Thanks to its 70 billion parameters, it is \"the largest and best-performing model in the Code Llama family\", Meta says."

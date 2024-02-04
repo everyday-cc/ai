@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-30-ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing.md",
+      "title": "AI And EI: Balancing Empathy And Artificial Intelligence In Marketing",
+      "excerpt": "2. Ensure that you have a seasoned team that knows how to be judicious and scrutinize when and how much to use your AI tools and when to balance that with human intelligence, forethought and empathy. Integrating AI effectively can and should be a means to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 855,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
+      "publishedDateTime": "2024-01-30T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-koreai-a-startup-building-conversational-ai-for-enterprises-raises-150m.md",
       "title": "Kore.ai, a startup building conversational AI for enterprises, raises $150M",
       "excerpt": "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ...",
@@ -357,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/01/30/meta-debuts-code-llama-70b-a-powerful-code-generation-ai-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1185,58 +1237,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity.md",
-      "title": "The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity",
-      "excerpt": "Bringing conversational AI virtual assistants and business automation capabilities to simplify workflows and increase efficiency.\nThe post The AI Assistant for everyone: watsonx Orchestrate combines generative AI and automation to boost productivity appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
-      "originalUrl": "https://www.ibm.com/blog/the-ai-assistant-for-everyone-watsonx-orchestrate-combines-generative-ai-and-automation-to-boost-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/2021_07_15_wfh_youngproflatshare_9645.blog-lead-space-40x21-2.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T15:50:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

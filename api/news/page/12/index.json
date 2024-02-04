@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-01-25-will-ai-take-our-jobs.md",
+      "title": "Will AI Take Our Jobs?",
+      "excerpt": "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 852,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "publishedDateTime": "2024-01-24T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
       "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
       "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
@@ -1150,40 +1201,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.md",
-      "title": "How did facial recognition technology send the wrong man to jail where he was brutally attacked?",
-      "excerpt": "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/did-facial-recognition-technology-send-002801018.html",
-      "originalUrl": "https://www.aol.com/news/did-facial-recognition-technology-send-002801018.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T07:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
