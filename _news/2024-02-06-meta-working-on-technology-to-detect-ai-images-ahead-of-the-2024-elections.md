@@ -89,10 +89,10 @@ related:
         isCached: true
   - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
     excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-    publishedDateTime: 2024-02-06T15:00:00Z
-    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    publishedDateTime: 2024-02-06T13:19:00Z
+    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
     type: article
     provider:
       name: Sky
@@ -132,6 +132,6 @@ related:
         height: 876
         isCached: true
 
-secured: "xmzdSNAJbvCWY+6geqJNXuiOnV97fgw/NNkV5fIs+zfeEWVpi9OOK5Q04zkwVtwx9vAA/fNwUgSEsZeigxkeeHkRD9oOTZfRwzE8K5y9cjUbj/TuUMw6xB2J4+++3tOUheEtkVcLv+L47eXNPLmCquKe/CmZhIJqbKUUwrKFmqDgLSDY2kWHq0A4EPH11nwTJe1yD9gfqvkxjsb47VHjpwBzv/HBvgkAK5ezRkbxtK1MXBmRrO/ElzDjiLoxwFQxDyhbIh+Ep89SVhhOEPHZZk2bDN/KNolGX5bXNg3e6MFkDLMx2Vyn3WCaVV56AX4e7Tud54bKS8LXchWuK4ozRUDR5OumTJ+31DX/7VHugRg=;x77PhfO78we1/OjV2q1gTw=="
+secured: "XvI0mfdBRRJoRc6BUiPeuts1E6kJPYHzEvwobK3V9MbAyid9EEt+RM3M0df+YJtTRfv0u92WnPNTaiImGTGhDbE74NvqAoQyMgOqUM73FSDEl83Cz5xZQ111ZPU1umHmayxoRH/XBl/wpikfv7rvsnHGDE7RiBXgN5SEBY6ZTT1hzppPAaVQ1eC78Q7pvRwD9OONB656sPPlRuLegyJDc6gvSIq3gcv7fCpnlumMRyfi9mpaanjB8DLVNKh0YOG6/u5r18sSpFtFtFK0E1zTs+FBwlqeKcl3/L/f8O+UBuLwzZ+BDQZtrH8IJ9TUqcK/zcABX2/OwSbHh2NbGcE9PMA+mC+TgrjLG4SLHRs2lkXtgwIsVXABKQHWa+jdgjwGTaLaSU9RtMcOB/DBe+M7Wvi+Kmsce5ZsnEurHqItBLn+6g/TCpoR+sacyqqqhF4ftAqhCB1881VZcHr4EwhjU21CjDBhmZXjntW4uWhoIUi+tIDLOMtpGq42ipVRVQ8WY+Uz0JgMfJFSl1ePpATYTA==;M1SSgYOT21Ct/ZBjY2dyQA=="
 ---
 

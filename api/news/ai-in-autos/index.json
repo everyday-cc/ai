@@ -6,8 +6,8 @@
       "title": "Tesla Was Once About Climate Change, Driverless Cars, AI. Now What?",
       "excerpt": "Elon Musk’s changing personal priorities raise questions about where the automaker is heading.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
-      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
+      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
+      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -579,6 +579,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Artificial intelligence is the latest in social and economic shiny objects. Many are wondering about the trajectory of their professional lives. We’re all wise to do so. Such threats are not new.",
+      "sourceUrl": null,
+      "webUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T11:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Knoxville News Sentinel",
+        "domain": "knoxnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1261,40 +1295,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-china-is-regulating-robotaxis.md",
-      "title": "How China is regulating robotaxis",
-      "excerpt": "Robotaxis are only accessible in a few Chinese cities so far, but national regulations have started to rein them in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
-      "originalUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

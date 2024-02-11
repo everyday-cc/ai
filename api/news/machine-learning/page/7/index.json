@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-11-27-the-10-most-in-demand-skills-in-2024.md",
+      "title": "The 10 Most In-Demand Skills In 2024",
+      "excerpt": "Discover the top 10 skills that will dominate the job market in 2024, and learn why these skills are not just essential for future success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6564411aae52b0d21bf9dacd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/11/27/the-10-most-in-demand-skills-in-2024/amp/",
+      "publishedDateTime": "2023-11-27T06:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-24-accelerating-aiml-development-at-bmw-group-with-amazon-sagemaker-studio.md",
+      "title": "Accelerating AI/ML development at BMW Group with Amazon SageMaker Studio",
+      "excerpt": "This post is co-written with Marc Neumann, Amor Steinberg and Marinus Krommenhoek from BMW Group. The BMW Group – headquartered in Munich, Germany – is driven by 149,000 employees worldwide and manufactures in over 30 production and assembly facilities across 15 countries. Today, the BMW Group is the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-ai-ml-development-at-bmw-group-with-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/09/blog_v1.png",
+          "width": 971,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-24T17:49:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-fluency-and-amazon-to-work-on-ai-and-machine-learning.md",
+      "title": "Fluency and Amazon to work on AI and machine learning",
+      "excerpt": "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "originalUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "publishedDateTime": "2023-11-23T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-22-your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023.md",
       "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
       "excerpt": "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent.",

@@ -26,73 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's AI engine powering H&R Block's tax filing assistance product"
-    excerpt: "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ..."
-    publishedDateTime: 2024-02-06T17:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product"
-    ampWebUrl: "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp"
+  - title: "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system"
+    excerpt: "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ..."
+    publishedDateTime: 2024-02-07T00:00:00Z
+    webUrl: "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 73
+      name: TechRadar
+      domain: techradar.com
+    quality: 83
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
-    excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
-    publishedDateTime: 2024-02-08T04:45:00Z
-    webUrl: "https://menafn.com/1107826864/Sarvam-AI-Partners-Microsoft-To-Bring-Its-Voice-Based-AI-Tools-To-Azure"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/08/I_3c3feimage_story.png"
-        width: 300
-        height: 206
-        isCached: true
-  - title: "Sarvm AI Collaborates with Microsoft to Bring Indian Languages to Azure"
-    excerpt: "Generative AI startup Sarvam AI has announced that it is working with Microsoft to make its Indic voice large language model (LLM) available on Azure."
-    publishedDateTime: 2024-02-08T09:46:00Z
-    webUrl: "https://www.indianweb2.com/2024/02/sarvam-ai-collaborates-with-microsoft.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 69
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEaNmL1lFhwdH3VEH_6BFh3MB__SZhlTPhycCT7_BpA6TAkGazBqGIl1kIb6oeVTsIvwPKn4bP6RPzv2h6VOIsXXyQDGj2GlgsnxFORE4VqujCJa1Aod_dIndnkzac16J-cSKKRQx6DHFaTfgGgCvsOYN2N0yGIrziJ80dPAySetNYKpo7RpXqpZdBb4w/s16000/20240208_151323_0000.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "ABB and Microsoft partner to advance industrial generative AI"
-    excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
-    publishedDateTime: 2024-02-08T21:17:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33036690/abb-and-microsoft-partner-to-advance-industrial-generative-ai"
-    type: article
-    provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
-    images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2024/02/65c505a8e7cea5001e81d3d2-abb_and_microsoft_partner_to_advance_industrial_ge.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Azure lays foundation for India-focused voice-based generative AI apps"
-    excerpt: "Microsoft collaborates with Sarvam AI to bring Indic voice large language model (LLM) to Azure AI, aiming to foster AI-driven growth and innovation in India."
-    publishedDateTime: 2024-02-08T10:48:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-azure-india-generative-ai-apps"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 44
 
 secured: "FNHsZhyhWRphIvaNPO7dh1KwaoFfaC2mSXXCfwBVKaioJVgqdGK2Rc9ENLjU9i6iMai4zt3+mEMirSZ9vz8qDfRX3/MO91w564hKCc8GHq/tHfawJ0PI13y8AjPb2U35UqfjQJVz6p4ExmPdud+BbLQ5FZg1KSq/LS4pJ4TjnIz7tZ5zbtxoDx5xyWCFSqqyR9gyPJEarq81vhMjIoGk+LhKyQYMhUlYeNI2MCD8cuCFhxN3gGpa8AT6yZDA1I0hc9rjdqM3LiLzvaZizhsPIgrRBC8iYxVZ9L9viLfceiJm/iOXgGyuX9mQlBwtNb5GSWoMxI/AqYVJdLabmSurxqHsfWP3huZBYXxJ0QZ+iZlns/WO8JqSuCKtPWkZI3hKgQ1ZmvwoN3vXb1pp1t/kr9Y9KLE+CtL9owss8qmOH40voauVJeOZkWH8ucoC6dizPBhM4pE+EgaxuXBS6FlvNklCuFPmhjmkfww1OMUY5MCHuID4GUU5bdED+EYt6o9JWIc1MiqaOxNtydjB0PAByQ==;vhUXjHwpFmoNJ3u76ra0sA=="
 ---

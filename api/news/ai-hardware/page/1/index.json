@@ -63,7 +63,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -107,6 +107,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
+      "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
+      "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg",
+          "width": 1280,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
       "title": "Startups pursue GPU alternatives for AI",
       "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
@@ -137,58 +181,6 @@
         "name": "Network World",
         "domain": "networkworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-ai-pcs-will-make-up-nearly-60-of-total-pc-shipments-by-2027.md",
-      "title": "AI PCs will make up nearly 60% of total PC shipments by 2027",
-      "excerpt": "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
-      "originalUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-23.jpg",
-          "width": 4608,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

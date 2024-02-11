@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly
 webUrl: "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC"
+    excerpt: "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy"
+    publishedDateTime: 2024-02-09T13:51:00Z
+    webUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg"
+        width: 1280
+        height: 764
+        isCached: true
   - title: "60% of all PCs shipped to be AI computers by 2027"
     excerpt: "Artificial intelligence (AI) computers — PCs with specific system-on-chip (SoC) capabilities designed to run generative AI tasks locally — are growing so quickly that by 2027, these PCs will represent nearly 60% of all computers shipped globally, according to new research from International Data Corp (IDC)."
     publishedDateTime: 2024-02-08T13:49:00Z

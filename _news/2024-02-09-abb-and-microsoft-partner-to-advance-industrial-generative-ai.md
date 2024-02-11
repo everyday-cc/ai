@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Brings AI-Based Face Recognition to Entra ID in Preview"
-    excerpt: "The Verified ID service for Microsoft Entra ID is getting a new Azure AI-powered feature called Face Check that's available now in preview."
-    publishedDateTime: 2024-02-06T21:52:00Z
-    webUrl: "https://www.thurrott.com/cloud/microsoft-365/297446/microsoft-brings-ai-based-face-recognition-to-entra-id-in-preview"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/entra-id-verified-id-face-check.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
     excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
     publishedDateTime: 2024-02-08T04:45:00Z

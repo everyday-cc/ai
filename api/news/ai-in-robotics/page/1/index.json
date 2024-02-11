@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
+      "title": "OpenAI and 1X Robotics autonomous robots will change the world",
+      "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "originalUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg",
+          "width": 1280,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
       "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
       "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
@@ -53,7 +97,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -93,7 +137,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning"
       ]
     },
     {
@@ -491,8 +536,8 @@
       "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
       "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
       "sourceUrl": null,
-      "webUrl": "https://armenpress.am/eng/news/1129253/",
-      "originalUrl": "https://armenpress.am/eng/news/1129253/",
+      "webUrl": "https://armenpress.am/eng/news/1129253.html",
+      "originalUrl": "https://armenpress.am/eng/news/1129253.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -550,40 +595,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
-      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
-      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T10:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -89,6 +89,60 @@
       ]
     },
     {
+      "path": "_news/2024-02-07-the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system.md",
+      "title": "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system",
+      "excerpt": "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
+      "originalUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-microsofts-ai-engine-powering-hr-blocks-tax-filing-assistance-product.md",
       "title": "Microsoft's AI engine powering H&R Block's tax filing assistance product",
       "excerpt": "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ...",
@@ -97,7 +151,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1401,58 +1455,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-microsoft-azures-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts.md",
-      "title": "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts",
-      "excerpt": "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

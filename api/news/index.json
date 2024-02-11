@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-11-facial-recognition-technology-could-be-used-in-hong-kong-to-fight-crime-maintain-national-security-police-chief-raymond-siu-says.md",
+      "title": "Facial recognition technology could be used in Hong Kong to fight crime, maintain national security, police chief Raymond Siu says",
+      "excerpt": "Hong Kong authorities have not ruled out the use of facial recognition technology to fight crime and maintain national security, but the city’s police chief promised that guidelines will be drawn up for the use of personal information gathered by a new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
+      "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/11/facced09-a0d6-40e4-b90c-0d2fbb2aab69_249c8482.jpg?itok=21Wyz9XQ&v=1707641010",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
+      "publishedDateTime": "2024-02-11T08:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-suffolk-expert-says-ai-will-replace-human-coders-in-ten-years.md",
       "title": "Suffolk expert says AI will replace human coders in ten years",
       "excerpt": "Mr Applegate works with young people across Suffolk to engage in technology-based activities A Suffolk computer expert is predicting that artificial intelligence (AI) will replace human coders in 10 years time.",
@@ -103,6 +156,50 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
+      "title": "OpenAI and 1X Robotics autonomous robots will change the world",
+      "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "originalUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg",
+          "width": 1280,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -265,8 +362,8 @@
       "title": "Tesla Was Once About Climate Change, Driverless Cars, AI. Now What?",
       "excerpt": "Elon Musk’s changing personal priorities raise questions about where the automaker is heading.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
-      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
+      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
+      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
@@ -299,8 +396,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -406,7 +503,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -499,6 +596,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
+      "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
+      "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg",
+          "width": 1280,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -743,58 +884,6 @@
         "Microsoft AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-ai-pcs-will-make-up-nearly-60-of-total-pc-shipments-by-2027.md",
-      "title": "AI PCs will make up nearly 60% of total PC shipments by 2027",
-      "excerpt": "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
-      "originalUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-23.jpg",
-          "width": 4608,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1138,83 +1227,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside.md",
-      "title": "NVIDIA H100 GPU cloud contract signed with AI company, poolside",
-      "excerpt": "Iris Energy has executed a cloud service agreement with poolside for 248 NVIDIA H100 GPUs. The contract is for an initial 3-month term, with an extension option for an additional 3 months at the customer’s election.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure.md",
-      "title": "Lightspeed-Backed Sarvam AI Partners With Microsoft To Build Solutions On Azure",
-      "excerpt": "Sarvam AI, a startup in the generative gen AI space, has partnered with Microsoft to build solutions on the tech giant’s cloud services",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/",
-      "originalUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/",
-      "publishedDateTime": "2024-02-08T11:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

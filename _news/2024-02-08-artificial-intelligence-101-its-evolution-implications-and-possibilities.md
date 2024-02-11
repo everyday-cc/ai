@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65c47465b26f4765dcb63181/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

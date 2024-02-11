@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-
 webUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-13.52.42-An-imaginative-landscape-featuring-rare-earth-minerals-and-water-symbolizing-the-manufacturing-of-AI-chips-in-a-16_9-aspect-ratio.-The-scene-include.webp?w=1200&strip=all"
         width: 1200
         height: 685
+        isCached: true
+  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
+    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
+    publishedDateTime: 2024-02-11T07:43:00Z
+    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
+        width: 1280
+        height: 853
         isCached: true
   - title: "OpenAI reportedly seeking trillions for AI chip development"
     excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."

@@ -79,10 +79,10 @@ related:
         isCached: true
   - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
     excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-    publishedDateTime: 2024-02-06T15:00:00Z
-    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    publishedDateTime: 2024-02-06T13:19:00Z
+    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
     type: article
     provider:
       name: Sky

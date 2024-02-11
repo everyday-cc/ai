@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC"
+    excerpt: "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy"
+    publishedDateTime: 2024-02-09T13:51:00Z
+    webUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 69
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg"
+        width: 1280
+        height: 764
+        isCached: true
   - title: "AI PCs will make up nearly 60% of total PC shipments by 2027"
     excerpt: "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple"
     publishedDateTime: 2024-02-08T20:42:00Z

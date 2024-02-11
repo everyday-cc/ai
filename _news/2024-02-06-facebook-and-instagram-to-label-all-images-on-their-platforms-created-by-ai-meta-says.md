@@ -2,11 +2,11 @@
 category: news
 title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
 excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-publishedDateTime: 2024-02-06T15:00:00Z
-originalUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+publishedDateTime: 2024-02-06T13:19:00Z
+originalUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
 type: article
 quality: 51
 heat: -1
@@ -132,6 +132,6 @@ related:
         height: 876
         isCached: true
 
-secured: "C8cJ7zSVffFVm+K9BGvl/ikE6poE+Ij3it2qMLRi2fQDvz0KAE7sL7aotz5AhWOVz9mS8J6rK2bOLVB1vtWWW29g2Jx6br/X8T2wGiFrcdawEpB0hibCMwmwkN9jHrzngNFMdUoD7aUxU7tTU8tEvnbD1InBSD+U+rJVe0iEciPswvfGQCN/uneNF+7Z8zv9IonrR1ewE2ztgmjMfsPpFmby2QyRL9L8IW/ZoR/gzGGmb9ljdFtDI4KW4ol/BKcsR5Ao3W81Yl7paqhgiSdfTWeXpFOGsV+rFi3+abQzJX5/Ti0A+NN6BBj8wurUvepc5xv8ObZuIaTUiXkkbmtUYf5a9XX/ufpfy7kBlAZFpjw=;XUCiVzAtCmx4Kn5Jug351w=="
+secured: "RgqTo68MPgKObSDGLvEwoZFAlmlkUUzsG493o97iejkLR28ADQ5mB0pzlCErINxkz72nKz3AATQ2v6uchrTtP8KRK4AaoHQujiBf8aoB7GlpOS64NphauHBPkh8FjFLI3SQjn8gm9X468ge8ircCKCMOKXlH0EjkaG2DNuNekIElyYECmX89rUyqAsUJywIW6TLDDf9/YbDwki1B4r0seQssKJyANyzUCgDMLCv+cgd9sZ1iFMsbxEpvAYptGrcMqf1d5n5vjfbDOEkbrbXDzVj0NFMxX27Nc7IK21HQ21Vpjfy4aQmpGhyj23Hr2+chcjucWI25dvK9mVV9NLrT1EaE5teGKlNRltkvFxUDQNg=;0DtUu+9gT6pouS5BK2Norw=="
 ---
 

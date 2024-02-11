@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
+    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
+    publishedDateTime: 2024-02-11T07:43:00Z
+    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "OpenAI reportedly seeking trillions for AI chip development"
     excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
     publishedDateTime: 2024-02-09T09:27:00Z
