@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

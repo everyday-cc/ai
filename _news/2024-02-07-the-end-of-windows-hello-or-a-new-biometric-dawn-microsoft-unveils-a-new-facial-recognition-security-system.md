@@ -7,7 +7,7 @@ originalUrl: "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-bi
 webUrl: "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 970
     height: 545
     isCached: true
-
-related:
-  - title: "Microsoft Brings AI-Based Face Recognition to Entra ID in Preview"
-    excerpt: "The Verified ID service for Microsoft Entra ID is getting a new Azure AI-powered feature called Face Check that's available now in preview."
-    publishedDateTime: 2024-02-06T21:52:00Z
-    webUrl: "https://www.thurrott.com/cloud/microsoft-365/297446/microsoft-brings-ai-based-face-recognition-to-entra-id-in-preview"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/entra-id-verified-id-face-check.jpg"
-        width: 1066
-        height: 600
-        isCached: true
 
 secured: "bzcwnMYGuSVbAiCKl4rZzoaa65/jcYdnMXywIe3L20pGkjYigmCzcGx9BfnDtnRr8P+wmM1Sa53RGLWghYfwPabt3gOGj9qfpKYddJGBm2qk+eFyNl8EzwnAzIFHVkHinCQvceVLWA89FxISj00dm/U3KdDeEKQa/AFQZdf6f4/Sgc2zvkfcA4ehnByliHZUAID94kZpIEH4O/jThbhj3/YwEoT2T+3UW7rZG9KPDRZJLT18S5aJlSG0rmgRtpJ9HtsL4W3iGqQ4rRf+37kbATXPbav4i9UtxGaQh0tSJheDf1tdOLVPXR76JW5n+qiCUf4OCzCZWR76P8s4pDeITka5x7zTlWTtiPQlMBazIyA=;lVVDETaMLDC5p5ZPjOaCsw=="
 ---

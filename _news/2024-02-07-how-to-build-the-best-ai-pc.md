@@ -7,8 +7,8 @@ originalUrl: "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html"
 webUrl: "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: PC World
@@ -27,6 +27,17 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
+    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
+    publishedDateTime: 2024-02-11T20:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "E3f5NDlGNsOfDdB2e7xRihWclGUuFxd90Uti6aW2lfwSLIfvPbqci/cMiuPrFAhJX62P6mRerx7y7Vy6/tVpQj69SbKMSzcG80oFlMzVbOUtSUvGtyULZfvywSblRjhg4QBSp8vbS4FpIdZenij2UsHcfEDRP1PjDPSY8UQGXngICf3R9t0arQHYBTUZSC3ypQNpG98b83oP7DYzJR3x1Pl1ifyUHYLApkBwS7PVKTyP+qvgQTnWLpQzmR1aU9LyKmHBChJHCuM5yv4VixCAcGqR2WbfTWnmdRcRC4lVFexWfzbGkeiwdk55wAvKGXk6dsIOAvMGpSAieTqH6gVOCZJ0PIgaQoB56qmzh5+vUeg=;jmXJxHmWdZOAo42G/FHC0w=="
 ---

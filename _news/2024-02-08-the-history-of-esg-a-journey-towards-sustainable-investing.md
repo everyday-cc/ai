@@ -40,6 +40,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Artificial intelligence as potent tool to combat climate change"
+    excerpt: "Artificial intelligence (AI) is already making inroads worldwide in health, education and industry, but how can this cutting-edge technology help the world combat and mitigate the effects of climate change?"
+    publishedDateTime: 2024-02-11T19:35:00Z
+    webUrl: "https://manilastandard.net/spotlight/314415767/artificial-intelligence-as-potent-tool-to-combat-climate-change.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 17
 
 secured: "0AjgppySON1ilYIVCWopdvynpaHumgbNlCXOzs4oklseLPSubqwUUvLSJyqMxssLfClSMsW90HA1m/ppn1TTzxuAkfb86h600KewUzQq6OPoFEvF2h8vWDy0UrnPoIhV8EO76vJBjnQ53EZ7ZXO0G53HJSZKCCNXxv73jBMlhHwAeGIQhdlTkkO7UtVsG3OJBMjerH25VHYPTtUhcdShXUz7OmVYL5Scz4U1BRJPfrxIo3uzCkrK5WlHrGIU3tiM1qt8YJnSAPvtNxak97GacqbAr3/wXYBav8HnMfWAn89ZtUXojMjzh2l89KH03l34zE/Rz5QkRMsn77Xsb4bYQNAWvfpRfvApQn0kLwlc6E4=;714t9J06ev5CjXsAU2HTAg=="
 ---

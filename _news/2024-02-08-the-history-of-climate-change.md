@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/climate-change-history/"
 webUrl: "https://www.ibm.com/blog/climate-change-history/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Artificial intelligence as potent tool to combat climate change"
+    excerpt: "Artificial intelligence (AI) is already making inroads worldwide in health, education and industry, but how can this cutting-edge technology help the world combat and mitigate the effects of climate change?"
+    publishedDateTime: 2024-02-11T19:35:00Z
+    webUrl: "https://manilastandard.net/spotlight/314415767/artificial-intelligence-as-potent-tool-to-combat-climate-change.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 17
 
 secured: "5LYhUvaO2yKfrXDTf0AJrkaPLVaQR0D+g49aoYHze+3V/LwJYoVG2m9JwYVkAkEzqNF6OuHxAaYEt8g7aApGjkTYKWPX2rRuJ4wzoURgm+cU/dNX/4SL+jZ9vWCCx89qxmXeiLCmOBVLBRc+2+wVJ4JtGdJofFmD1l6pyH8tOQ+0rq3N4+Kjo3yiFBurla+3hhBKBd4MtOpsBl9fqcC9DAHRCHqQlkmw1rlbOfnr/gREcEGts2lSatZwpL2UAhNKEiJ02EsFqAacCumJhbR7j2GkUUNzYWPh4kCmXMo7shTlvg/xsbjbw8+ixmcYi5F8cvqKhz4ZTrEE2aRmo70pp69lq3tsj/4ifPHE3Fs4Mqk=;+q7knoDYa6cnhAClN6RlvA=="
 ---

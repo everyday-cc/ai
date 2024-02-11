@@ -140,6 +140,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
+    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
+    publishedDateTime: 2024-02-11T22:25:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
   - title: "Google’s AI Bard And Duet Become Gemini; $20 Per Month For Gemini Ultra"
     excerpt: "Google AI Bard is now Gemini as the LLM and GenAI product goes into iOS, Android, Google Cloud and Google Workspace, Google CEO says."
     publishedDateTime: 2024-02-08T20:28:00Z

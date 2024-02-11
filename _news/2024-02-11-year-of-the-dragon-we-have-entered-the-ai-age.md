@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-
 webUrl: "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:
