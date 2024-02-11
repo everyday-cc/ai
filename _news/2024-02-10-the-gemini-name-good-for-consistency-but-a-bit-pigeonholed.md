@@ -41,6 +41,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google Rebrands Its AI Chatbot as Gemini to Take On ChatGPT"
+    excerpt: "Google is bringing its ChatGPT-style chatbot Bard and some other key AI features under the banner Gemini. A new, more powerful version of the chatbot, Gemini Advanced, is subscription-only."
+    publishedDateTime: 2024-02-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-rebrands-ai-chatbot-gemini/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65c42a966a3f2e01ffd4317e/191:100/w_1280,c_limit/business_google_chatbot_gemini_rebrand.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Google Has Renamed Bard After Gemini, The AI Model That Powers It"
     excerpt: "The tech giant also announced a slew of Gemini services, including Gemini Advanced, the company’s most powerful AI product, available via its Google One subscription bundle."
     publishedDateTime: 2024-02-08T13:00:00Z
@@ -63,7 +77,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 37
+    quality: 41
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/Shutterstock_AI.jpg"
         width: 1280
@@ -126,6 +140,6 @@ related:
         height: 576
         isCached: true
 
-secured: "4SWbGvrhcxkBPfgXXrFT2QcRnzpMXG/GOos9PhapZRBu/5CAsGaE9vL4QCUyDl+P5+P0fpaDl8QQw6Hn/G33EWDcmvd56brx839aEqQm5/eqJ5J0kuvAnnvBKC2Zk285bqtR5FsLWf2jOoHTZg6dc5YSlCgQsy3D8N0NEhm4hgd+sU+51FfnaHofeoovQP10yAyQMHsquiTvcLnvRNw3cCOJeh+xZVE9Ue0v1or4b1SBRyZzlGSEeaLC0+e0a22ZzIVkDf89YcM/QLiBAT7b3DoCnK7NzZsRdriHR55lYX9uET4LdO/PdpVhOmJ0dev8eXzGPmqd1sH5kU3IShYJM927+SoHv1WyzC5vrx8pTqQ=;4KWk08OjXftjDf7nb/Bu/A=="
+secured: "A0dagFLNELya5zdvkJADljFsXEjXOgahfO4tkcZ6HvTd9Jk3e/lAZ7018lxybK7k26d+vJZWe7NvR+QU1GiqV3gI4LQPXS5xF9JmGWuOKzcOiR5pUagDv9cAAm3htBUoaRwO3sGi/EVn81jew8xRP/606CcTuDLHHG9Pp3fg1fGoa6b+nsXbIFYide/H2jqiNh5OYWHT0/WR9wps9N5mgM2h9wbT3/195wMsOy1wvEtAkAD6Xox7n4u/UeNEvX64bbx7f5etJpFkZjFCTvtGrRY7W+k90PnqbGdAGFCXFh4t2vxzBEx/2J+eUmsD64hcEDUiLFewfW3whD31UwrMKcMOMFphT3813nCVb9CcdWNxDdkm0jfg4VRZ5IG6jVWatIEcoM9FtjraUs25V3rI5/Gh3eehE97oyIFm1qVM7Q288OM3nXB3V4gIvlK8C/+YEUeT4doaSXzmoG0Zj1M7WZQVsfJaMjEIsU8pWwDRoHjmi0QyIf/X6WV2ffZIbKD/aWYa7r21h1Lq4R8YYWba6Q==;1PBu/TstcRdddtMOm4X6dA=="
 ---
 

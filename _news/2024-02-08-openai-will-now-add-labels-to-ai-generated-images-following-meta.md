@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "Instagram, Threads, and Facebook will start labeling AI-generated content"
+    excerpt: "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI."
+    publishedDateTime: 2024-02-06T17:04:00Z
+    webUrl: "https://www.androidauthority.com/p-3411262/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 66
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Labeling AI-Generated Images on Facebook, Instagram and Threads"
     excerpt: "In the coming months, we will label images that users post to Facebook, Instagram and Threads when we can detect industry standard indicators that they are AI-generated. We’ve labeled photorealistic images created using Meta AI since it launched so that people know they are “Imagined with AI”."
     publishedDateTime: 2024-02-06T13:01:00Z
@@ -75,10 +89,10 @@ related:
         isCached: true
   - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
     excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-    publishedDateTime: 2024-02-06T13:19:00Z
-    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+    publishedDateTime: 2024-02-06T15:00:00Z
+    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
     type: article
     provider:
       name: Sky
@@ -118,6 +132,6 @@ related:
         height: 876
         isCached: true
 
-secured: "wWg0jvtznyyaCVTyL2G5t37k3taMjF7TQrT/Xj7/hwliBF+sLW9cuIhzcwtvhxgTvYOMOXKqrHHUdtodFpcEqcXUJYpAoaweqFO9HbXtZsgJDyV+0xhd1Nj0vpEs0y1AZWRNfy1JHdJEqVDo9NLbIKDOaW68+/MNXENGRYlsoWMkdhTCgeyRtJkac5BLymwza1CCG3lkExqteOgJ6c0DR4GbGYY9DbHI8+0sPho5ql51ok/fhM4h/kfjseAX9wHNCzj1hX19qJgdvSPsCE+vzqGhJHMm/5JXpOMPkZRrmJvPzcIxUc0dvc2TeZezQZ4fJIYdxRH2Kh7PSNum5YUx1tQyz+tngTqHhm1xlbr2m4c=;IPDQxu0fIAVx8ze7/7055w=="
+secured: "EmH+d8dBGlKdWlzeVR8ooqaah0IEGdvmxsGEy0QmR5pCoRMcFSAj55TwIQ7cBdy5R761LfBhKvEgUtLk8lQg1pFv32CSx7J5pXgUUmiy5pXGusXzid3tYTO5Kam/N0GLkI1gEm1oXHNxv9fmLNA8JLyK/7nBJviE3Xp8WFGSYFfC10yK/8QfRctmMyG/7183VXauLiZtrrbZFBul8TjJfDapX88BpL5O6xaD4rT0ix/ZBecA8CcPzdl21Iy3lBHabI5IJFCNutbUdkEAJHiBlfbO2G/LYXTQoxEGH3fnCFFAI67sP/KembtEkftn20N3NqYYGvOvioamPLukIiSrkZP9qjHaf+MkjRbV8R9ZP13nBkavGdXc7t8wlFFip9ihtXzA5fCTgPuTj/+Z3i8Y/+dvBdjHYRKKcQ9D6AnPfkWfREzZSWzh5Qcq95N6rSWJpjCUdqwNIEdiUBnHkYS4PesM7wgw91enqooqPPzpSK5H236/59Z3hBYfM1ROHI487phI+/mUtEnfcUMZZdZ3QQ==;WpxJfVLbk6cCqeJlkYn2LQ=="
 ---
 

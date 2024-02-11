@@ -1,28 +1,28 @@
 ---
 category: news
-title: "ARTIFICIAL INTELLIGENCE TAKES CENTRE STAGE AT WORLD GOVERNMENT SUMMIT 2024"
-excerpt: "DUBAI, Feb 11 (Bernama) -- Artificial Intelligence (AI) emerges as the focal point of discussion at this year’s World Government Summit (WGS) set to convene in Dubai from Feb 12-14."
-publishedDateTime: 2024-02-11T03:23:00Z
-originalUrl: "https://www.bernama.com/en/world/news.php?id=2269551"
-webUrl: "https://www.bernama.com/en/world/news.php?id=2269551"
+title: "Artificial intelligence takes centre stage at World Government Summit 2024"
+excerpt: "Artificial Intelligence (AI) emerges as the focal point of discussion at this year’s World Government Summit (WGS) set to convene in Dubai from Feb 12-14."
+publishedDateTime: 2024-02-11T05:12:00Z
+originalUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/02/11/artificial-intelligence-takes-centre-stage-at-world-government-summit-2024"
+webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/02/11/artificial-intelligence-takes-centre-stage-at-world-government-summit-2024"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: bernama
-  domain: bernama.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
 
 images:
-  - url: "https://www.bernama.com/storage/photos/ca1f7eb3bc4fe813cc35d82faca584cd65c83aa7d1f31"
-    width: 1110
-    height: 694
+  - url: "https://apicms.thestar.com.my/uploads/images/2024/02/11/2538633.jpg"
+    width: 1240
+    height: 841
     isCached: true
 
-secured: "n+M1RflT2H3WktQb6u98ri9GT/BuxfPMtRHfRnCWiy2pKN3FbjBuUEL1z8AJVAXBkiZSCCx1cRC9E2t8VZl6fhEPgMbIbepnxBDjLBYRvPJibCx5QubOk4UlF9A3WkQwybP+mSTQqNRxaCB1BRfDNBJ56jaSiV+7U1dPplBK4FCs8Vq5l6QIIXf8+RlsQC+LqE9NFyR4UkvglIARntH3IS1SoXljoMhbIF7J9XIvjCttl3v+IYCWEDM8g+Cxm/iWbS3AnPi9smTszaVO8UQHN4e+l6R+9xNvH4nSuonXUWBDui6OtDHT9T+5gzXKojnUxBIXDTNMSkDskJ/0gUFuc59rlW6ihDMUwyuMdTYkfW4=;/SAS6zD/04uXcBO447Hfcg=="
+secured: "5MMb5UbxV6cCNatvWWc4Q1UP0WhYHR5l/cuZyFvyGe/8cPGfPRmHbpvfSgsa7cTHo9Sw7FW54iKDzbvemg+l28IopCLrC6L8CPCAdv2bLpuq/PyBa8A0E3XJl00Haes2fi/F0Ng3ykP86+5IcE957flxa1gfuC3r0tJN4RisRinMbMdoBpzTYwwqpg4WHs3AIVPbcBRWykRMYpSKr7E06MidCSFb91I6r0GIcDaPoU6paSZBEhwDtpNNEJZhggqM96/otqT0PLcpg9ofb8U77LILz4WYxyvhXrAcaMW+t21TGWGYYPh/KarX7LQN7NVNZAyam4txeevqdWdWTe+Ck15iVT31MneqgzOvJkjm1t4=;7+ZiDs+5+xYBzdTEiR4DsA=="
 ---
 

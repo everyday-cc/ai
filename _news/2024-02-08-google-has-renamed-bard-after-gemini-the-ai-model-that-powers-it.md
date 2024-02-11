@@ -45,6 +45,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google Rebrands Its AI Chatbot as Gemini to Take On ChatGPT"
+    excerpt: "Google is bringing its ChatGPT-style chatbot Bard and some other key AI features under the banner Gemini. A new, more powerful version of the chatbot, Gemini Advanced, is subscription-only."
+    publishedDateTime: 2024-02-08T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-rebrands-ai-chatbot-gemini/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65c42a966a3f2e01ffd4317e/191:100/w_1280,c_limit/business_google_chatbot_gemini_rebrand.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The Next Chapter of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI has become the primary driver of the stock market surge in 2023, despite worries and anxieties on Capitol Hill about the technology’s unregulated status. The fear that it will turn us into prey for Terminator-style robots has faded,"
     publishedDateTime: 2024-02-09T19:46:00Z
@@ -53,7 +67,7 @@ related:
     provider:
       name: The National Interest
       domain: nationalinterest.org
-    quality: 37
+    quality: 41
     images:
       - url: "https://nationalinterest.org/sites/default/files/main_images/Shutterstock_AI.jpg"
         width: 1280

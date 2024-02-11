@@ -41,6 +41,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
+    excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
+    publishedDateTime: 2024-02-11T06:24:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/790822-Sam-Altman-claims-ChatGPT-is-generating-100-billions-words-daily"
+    ampWebUrl: "https://dunyanews.tv/amp/english/790822.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790822.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 76
+    images:
+      - url: "https://img.dunyanews.tv/news/2024/February/02-11-24/news_big_images/790822_96736365.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Sam Altman wants up to $7 trillion for AI chips. The natural resources required would be ‘mind boggling’"
     excerpt: "Yesterday the Wall Street Journal reported that OpenAI CEO Sam Altman wants to raise up to $7 trillion for a “wildly-ambitious” tech project to boost the world’s chip capacity, funded by investors including the U.A.E. — which in turn will vastly ..."
     publishedDateTime: 2024-02-09T11:21:00Z
@@ -65,6 +81,6 @@ related:
       domain: cointelegraph.com
     quality: 34
 
-secured: "Ps+lW/pRi7MR8Z76dqeNrAC1TVNBIcfb+Nu5M8VpfVEJ0J7idZKddXPUAetoME1M4OiFlTg2eZ+ErmiXsj2NYUVrxQuy+N150sjGm14giLthzXxFHRujp/V0R2cxePZJeOPGChIwUDI4Wxcltcezddv/VMspKkL50oiANNzEFXR/g6u+C0Vpf32VXqA8hftEw3uf62rQ4YsyjjT6Fwou8SzsKRjnfeHcoQ0eXWul/pxt22TULYI3jZyjceUWyupEPGSqG/CoXwiE+zPuCL/EStiApO9qoed9m+GrLDT6fNbpzlXFqN/SB6iJG3zmCh7/FaLFRjYbreFtzAcqcwpqZwZsmFKut9zFvaoqA0Zy1Nk=;p3M7CqKzx57xKOxBP3Cd3w=="
+secured: "bDbOA1wfPHqr4doJiaWcl0mg2Hsb5Ie3fcdghxuw3J7Ce9FuOq39KQXssRdmzWSPNzVHGBYDjb5hmQBw2dOJHOjm33RPrJ1SmH34BO6sazbKYUWmWGcMQP7rjrTGqUk8oV4Uw2vJm7l7r/VA7AzuSv/h0C62UBkMhkwDjDnCieY+TY8tQ1bMWmeDdU+Vcq//byJi5oThtA3/bsqqIcWml1K0u3MqJGu5Xgsj5mF8E5Ju7o0da5nIhlL1d538fh2tuWB+vtCIOfPiyFVKEMMUJxp21hsTZdfhQTQI9X49sYTzyqlBnC3X3oX/uwqLSKopgYUW9ItdvzQLfk2nkH6ylYceMYaQqDEWFvS0qyq2erupsSdqnzZBpat22wN5kZb86d/0a7bSrmCsp7zk3pTTLQyfr68dqR3A2KlZ0XDCo4pfi5jgtyaLEiyOJINGom+1u5hZ3IDv0veKsO06g1ase78UiEbqlMiGRsdbn1gMRcs6VgPMMZiJh2MlRmU4tAWjK8SfI+2GlmBwMDE2X4rbxQ==;egbA4ZKt+COoh1yESg8wWA=="
 ---
 

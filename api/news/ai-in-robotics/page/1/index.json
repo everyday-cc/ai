@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
+      "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
+      "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c47465b26f4765dcb63181/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/",
+      "publishedDateTime": "2024-02-08T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
       "title": "Best Robot Mops of 2024",
       "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
@@ -498,6 +550,40 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1247,101 +1333,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-aniai-is-bringing-a-burger-cooking-robot-to-restaurants-with-12m.md",
-      "title": "Aniai is bringing a burger-cooking robot to restaurants with $12M",
-      "excerpt": "Aniai, a startup that has built a burger-grilling robot, Alpha Grill, said today it has raised $12 million, bringing its total raise to $15 million. The Aniai raises $12 million in funding for its bur",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/",
-      "originalUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-29-at-12.51.22-PM.png?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/amp/",
-      "publishedDateTime": "2024-01-23T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-agritech-startup-raises-39m-for-autonomous-farming-platform.md",
-      "title": "AgriTech Startup Raises $39M For Autonomous Farming Platform",
-      "excerpt": "An agritech startup has raised $39 million for its autonomous tractor and farming solution, which reduces the cost of crop production",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
-      "originalUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nocamels.com/wp-content/uploads/2021/10/tractor1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

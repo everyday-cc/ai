@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
       "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
       "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -49,7 +93,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -184,19 +229,70 @@
       ]
     },
     {
+      "path": "_news/2024-02-07-confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m.md",
+      "title": "Confirmed: Entrust is buying AI-based ID verification startup Onfido, sources say for more than $400M",
+      "excerpt": "Onfido, an early mover in the world of identity verification using computer vision, machine learning and other AI tools, is getting acquired, TechCrunch",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "publishedDateTime": "2024-02-07T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
       "title": "Bell, Mila to embark on joint deep learning AI initiative",
-      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell’s systems and data.",
+      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
       "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203",
-      "originalUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203",
+      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
+      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
           "width": 788,
           "height": 443,
           "title": null,
@@ -206,13 +302,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1",
-      "publishedDateTime": "2024-02-06T21:42:00Z",
+      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "publishedDateTime": "2024-02-07T00:32:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -477,7 +573,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -603,6 +699,40 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-funding-for-ai-in-fintech-in-singapore-grow-77-h-o-h-to-us33113-mil-amid-soft-year-for-investments-in-2023.md",
+      "title": "Funding for AI in fintech in Singapore grow 77% h-o-h to US$331.13 mil; amid 'soft' year for investments in 2023",
+      "excerpt": "Singapore accounted for 21% of all fintech deals in the region, making it the “leader” in the APAC region, says KPMG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "originalUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
+      "publishedDateTime": "2024-02-06T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edge Singapore",
+        "domain": "theedgesingapore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -983,144 +1113,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
-      "title": "Global Forum on the Ethics of AI 2024",
-      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation.md",
-      "title": "Roblox breaks language barriers with AI-based real-time chat translation",
-      "excerpt": "Roblox is breaking language barriers today as it launches AI-powered real-time chat translation in 16 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
-      "originalUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/English-__-German-Translation-Render.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-miley-cyrus-thanks-family-in-full-grammys-speech-but-not-dad-billy-ray.md",
-      "title": "Miley Cyrus Thanks Family in Full Grammys Speech — But Not Dad Billy Ray",
-      "excerpt": "JC Olivera/WireImage; Gabe Ginsberg/Getty Images Miley Cyrus was in total “shock” after her 2024 Grammys wins, but her choice to leave dad Billy Ray Cyrus from her acceptance speech appears to be intentional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
-      "originalUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_us_weekly_474/bfdb85a8d603758901bdb198e996eba1",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

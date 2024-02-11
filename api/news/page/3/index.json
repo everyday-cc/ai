@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
+      "title": "Global Forum on the Ethics of AI 2024",
+      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation.md",
+      "title": "Roblox breaks language barriers with AI-based real-time chat translation",
+      "excerpt": "Roblox is breaking language barriers today as it launches AI-powered real-time chat translation in 16 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "originalUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/English-__-German-Translation-Render.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-miley-cyrus-thanks-family-in-full-grammys-speech-but-not-dad-billy-ray.md",
+      "title": "Miley Cyrus Thanks Family in Full Grammys Speech — But Not Dad Billy Ray",
+      "excerpt": "JC Olivera/WireImage; Gabe Ginsberg/Getty Images Miley Cyrus was in total “shock” after her 2024 Grammys wins, but her choice to leave dad Billy Ray Cyrus from her acceptance speech appears to be intentional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
+      "originalUrl": "https://www.aol.com/entertainment/miley-cyrus-thanks-family-full-214110046.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_us_weekly_474/bfdb85a8d603758901bdb198e996eba1",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "For years, IBM has been developing ways to adapt its AI supercomputer Watson to revolutionize health care, finance, law and academia. IBM’s portfolio of Watson AI solutions includes applications ...",
@@ -760,6 +898,41 @@
       ]
     },
     {
+      "path": "_news/2024-02-05-microsoft-in-deal-with-semafor-to-create-news-stories-with-aid-of-ai-chatbot.md",
+      "title": "Microsoft in deal with Semafor to create news stories with aid of AI chatbot",
+      "excerpt": "Semafor co-founder Ben Smith emphasised that Signals will be written entirely by journalists, with artificial intelligence providing a research tool to inform posts. Microsoft on Monday was also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/b521a662-a272-49a1-b76e-3deea4754b76",
+      "originalUrl": "https://www.ft.com/content/b521a662-a272-49a1-b76e-3deea4754b76",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T02:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila.md",
       "title": "Bell to Deploy Deep Learning AI on Systems and Data in 18-Month Partnership With Mila",
       "excerpt": "Mila and Bell are pleased to announce an 18-month collaborative project to apply deep learning neural network algorithms to Bell's systems and data",
@@ -937,196 +1110,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
-      "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
-      "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2024/02/foxconn-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
-      "publishedDateTime": "2024-02-04T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-apples-effort-in-testing-self-driving-car-technology-paced-up-details.md",
-      "title": "Apple's effort in testing self-driving car technology paced up: Details",
-      "excerpt": "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/apple-1707032344.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "publishedDateTime": "2024-02-04T07:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
-      "title": "Is There A Bubble In AI Stocks?",
-      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "publishedDateTime": "2024-02-03T18:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-samsung-responds-to-criticism-of-the-galaxy-s24s-ai-photo-editing-features.md",
-      "title": "Samsung responds to criticism of the Galaxy S24's AI photo-editing features",
-      "excerpt": "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html",
-      "originalUrl": "https://www.techspot.com/news/101751-samsung-responds-criticism-galaxy-s24-ai-photo-editing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-03-image-6.jpg",
-          "width": 1650,
-          "height": 1167,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T16:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

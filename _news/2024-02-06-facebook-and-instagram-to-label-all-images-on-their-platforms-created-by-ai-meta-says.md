@@ -2,11 +2,11 @@
 category: news
 title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
 excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-publishedDateTime: 2024-02-06T13:19:00Z
-originalUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
+publishedDateTime: 2024-02-06T15:00:00Z
+originalUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
 type: article
 quality: 51
 heat: -1
@@ -42,6 +42,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789"
         width: 1200
         height: 789
+        isCached: true
+  - title: "Instagram, Threads, and Facebook will start labeling AI-generated content"
+    excerpt: "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI."
+    publishedDateTime: 2024-02-06T17:04:00Z
+    webUrl: "https://www.androidauthority.com/p-3411262/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 66
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Labeling AI-Generated Images on Facebook, Instagram and Threads"
     excerpt: "In the coming months, we will label images that users post to Facebook, Instagram and Threads when we can detect industry standard indicators that they are AI-generated. We’ve labeled photorealistic images created using Meta AI since it launched so that people know they are “Imagined with AI”."
@@ -118,6 +132,6 @@ related:
         height: 876
         isCached: true
 
-secured: "wWYioWL2Q8KwGFEMcoFL6I2f+YWoqjia44gdML8JdEfHrVMsCTNlbq4sWPJjGHsuDIbuENNqYidH12/7gC1ox4rIdeQr1FfX6nO1MTJLm8X1MsQU1EZDa2M5WW4VnrfYm+wNagqZNSCk39WqKOYEqDz3jA0RWjk2XIQNyv1j7IODs6zoto6lccqEJYhvI7YUc7ZuHkgcEUDQkNtCZlg9otykyYq7yNB/z3yfX5OeoxNnTqny5zrcDjPRnAjIrMGDd7+UeVWolfAG3y5GehJ/3/yn1PIl+1EniPmVDRTFrnf6KXQby7hJiHAEJH41+gjG7pmcNTyKCA1AwO/bsxodiQVbhIKevk8TwHhrIMVNw+E=;zUsW7d74UJKqDZpdQ7pcHw=="
+secured: "C8cJ7zSVffFVm+K9BGvl/ikE6poE+Ij3it2qMLRi2fQDvz0KAE7sL7aotz5AhWOVz9mS8J6rK2bOLVB1vtWWW29g2Jx6br/X8T2wGiFrcdawEpB0hibCMwmwkN9jHrzngNFMdUoD7aUxU7tTU8tEvnbD1InBSD+U+rJVe0iEciPswvfGQCN/uneNF+7Z8zv9IonrR1ewE2ztgmjMfsPpFmby2QyRL9L8IW/ZoR/gzGGmb9ljdFtDI4KW4ol/BKcsR5Ao3W81Yl7paqhgiSdfTWeXpFOGsV+rFi3+abQzJX5/Ti0A+NN6BBj8wurUvepc5xv8ObZuIaTUiXkkbmtUYf5a9XX/ufpfy7kBlAZFpjw=;XUCiVzAtCmx4Kn5Jug351w=="
 ---
 
