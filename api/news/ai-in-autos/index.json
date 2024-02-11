@@ -2,6 +2,274 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-10-tesla-was-once-about-climate-change-driverless-cars-ai-now-what.md",
+      "title": "Tesla Was Once About Climate Change, Driverless Cars, AI. Now What?",
+      "excerpt": "Elon Musk’s changing personal priorities raise questions about where the automaker is heading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
+      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f?mod=hp_lead_pos5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
+      "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
+      "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "originalUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-a-tale-of-two-companies-can-boeing-cruise-rebuild-customer-confidence.md",
+      "title": "A tale of two companies: Can Boeing, Cruise rebuild customer confidence?",
+      "excerpt": "It may also make it harder for other tech companies to push innovations – from artificial intelligence to gene therapies to ... On Oct. 2, 2023, a driverless taxi owned by Cruise was moving through an intersection in San Francisco when another driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
+      "originalUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Science Monitor",
+        "domain": "csmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-93-have-concerns-about-self-driving-cars-according-to-new-forbes-legal-survey.md",
+      "title": "93% Have Concerns About Self-Driving Cars According to New Forbes Legal Survey",
+      "excerpt": "Vehicles equipped with auto-drive are on the roads today in increasing numbers. While some believe autonomous vehicles will reduce the risk of an auto accident, many others have concerns. To better understand attitudes toward self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2024/02/960x0.jpg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
+      "title": "EU states give green light to artificial intelligence law",
+      "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "publishedDateTime": "2024-02-05T13:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-04-apples-effort-in-testing-self-driving-car-technology-paced-up-details.md",
       "title": "Apple's effort in testing self-driving car technology paced up: Details",
       "excerpt": "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report.",
@@ -186,6 +454,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-01-news-tagged-with-artificial-intelligence.md",
+      "title": "News tagged with artificial intelligence",
+      "excerpt": "An international research team led by the Hong Kong University of Science and Technology (HKUST) has achieved a significant breakthrough by developing an artificial intelligence (AI) model that ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/tags/artificial+intelligence/",
+      "originalUrl": "https://phys.org/tags/artificial+intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-aptiv-pulls-support-from-motional-robotaxi-joint-venture.md",
       "title": "Aptiv Pulls Support From Motional Robotaxi Joint Venture",
       "excerpt": "As such, support in the auto industry has waned, and the projects inside most companies were downgraded to focus on driver assist tools, or at the very most a freeway-only driving system ... California (including Apple, Baidu Apollo, Auurora, AutoX ...",
@@ -290,6 +592,83 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Artificial intelligence is the latest in social and economic shiny objects. Many are wondering about the trajectory of their professional lives. We’re all wise to do so. Such threats are not new.",
+      "sourceUrl": null,
+      "webUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T11:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Knoxville News Sentinel",
+        "domain": "knoxnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-using-artificial-intelligence-better-pollution-predictions-are-in-the-air.md",
+      "title": "Using artificial intelligence, better pollution predictions are in the air",
+      "excerpt": "To better understand where smoke pollutants will travel and when, researchers at APL and the National Oceanic and Atmospheric Administration (NOAA) are leveraging artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-artificial-intelligence-pollution-air.html",
+      "originalUrl": "https://phys.org/news/2024-01-artificial-intelligence-pollution-air.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/wildfire.jpg",
+          "width": 2880,
+          "height": 1639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-01-artificial-intelligence-pollution-air.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-artificial-intelligence-pollution-air.amp",
+      "publishedDateTime": "2024-01-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-alphabet-shares-slide-on-disappointing-google-ad-revenue.md",
       "title": "Alphabet shares slide on disappointing Google ad revenue",
       "excerpt": "Alphabet said that, due to the workforce reductions last year, the company recorded severance and related charges of $2.1 billion for 2023. Additionally, Google exited some of its offices, resulting in charges of $1.2 billion for the quarter and $1.8 billion for the year.",
@@ -329,6 +708,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
+      "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
+      "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "originalUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kare11.com/assets/KARE/images/31c8ab27-2bf5-472d-a218-33a5964005dc/31c8ab27-2bf5-472d-a218-33a5964005dc_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
+      "publishedDateTime": "2024-01-30T14:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KARE 11",
+        "domain": "kare11.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -493,6 +915,49 @@
       "provider": {
         "name": "KTVZ",
         "domain": "ktvz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-baidu-poised-for-upside-as-ai-monetization-begins.md",
+      "title": "Baidu: Poised For Upside As AI Monetization Begins",
+      "excerpt": "Baidu continues to build on its lead in China’s AI race. Having checked the user growth box post-Ernie Bot launch, all eyes are now on monetization. Few of the positives seem to be in the price ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
+      "originalUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482803973/image_482803973.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -830,480 +1295,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-china-is-regulating-robotaxis.md",
-      "title": "How China is regulating robotaxis",
-      "excerpt": "Robotaxis are only accessible in a few Chinese cities so far, but national regulations have started to rein them in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
-      "originalUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-apples-not-so-self-driving-car-is-delayed-again-report.md",
-      "title": "Apple’s Not-So-Self-Driving Car Is Delayed Again: Report",
-      "excerpt": "Now, the project has been delayed yet again. In 2022, the company felt that it would release a car by 2026 that came equipped with advanced self-driving features. Two years later, that timeline looks to have been overly ambitious, according to sources with ...",
-      "sourceUrl": null,
-      "webUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
-      "originalUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
-          "width": 681,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
-      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robb Report",
-        "domain": "robbreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
-      "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
-      "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
-      "originalUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
-      "publishedDateTime": "2024-01-24T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-teslas-own-former-ai-engineer-trolls-the-company-full-self-wiping.md",
-      "title": "Tesla’s own former AI engineer trolls the company: ‘full self-wiping’",
-      "excerpt": "Tesla’s own former head of AI infrastructure, Tim Zaman, is impressed with the latest FSD v12 Full Self-Driving software, but he trolls the company’s AI effort. Up until last year, Tim Zaman was the head of AI infrastructure and platform at Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
-      "originalUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Tesla-Model-3-Rain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T21:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
-      "title": "3 ways you can help your student navigate artificial intelligence",
-      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
-      "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
-      "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
-      "originalUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
-      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
-      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
-      "title": "Remote-control rental cars: Not as driverless as they look",
-      "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
-      "originalUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/efef334/2147483647/strip/true/crop/2162x1135+0+152/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd2%2F82%2Fd42259e04e569d651c76a719e0e9%2F10-vay-car-modern-1.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does.md",
-      "title": "History Suggests the Nasdaq Will Surge in 2024: My Top 7 Artificial Intelligence (AI) Growth Stocks to Buy Before It Does",
-      "excerpt": "Detailed price information for Compass Inc Cl A (COMP-N) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/5a2f12308459f594ac354dba874464fc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761668%252fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg%26amp%3Bw%3D700",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-gasgoo-daily-venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-v-online-in-guangzhou.md",
-      "title": "Gasgoo Daily: Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "excerpt": "Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "originalUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-baidu-idg-geely-co-introduce-ai-conversational-assistant-in-galaxy-l6-model.md",
-      "title": "Baidu IDG, Geely co-introduce AI conversational assistant in Galaxy L6 Model",
-      "excerpt": "Beijing (Gasgoo)- Recently, the collaborative efforts of Baidu's Intelligent Driving Group (IDG) and Geely Auto have come to fruition with the successful mass production of an AI conversational product embedded in the automaker’s Galaxy L6 model.",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "originalUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

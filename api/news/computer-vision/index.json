@@ -2,6 +2,216 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-11-year-of-the-dragon-we-have-entered-the-ai-age.md",
+      "title": "Year of the dragon: We have entered the AI age",
+      "excerpt": "Like the Year of the Dragon roaring in today, 2024 will mark the year where AI is applied in real, tangible ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "originalUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/A_roaring_dragon_from_the_Chinese_calendar_vibr1-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T04:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
+      "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
+      "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c4ee7864919a2388225d25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
+      "publishedDateTime": "2024-02-09T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-computer-vision-in-industrial-settings-how-to-implement-it-successfully.md",
+      "title": "Computer Vision In Industrial Settings: How To Implement It Successfully",
+      "excerpt": "Ensuring compliance with various requirements during the assembly of products, particularly complex ones such as heavy machinery components, poses a significant challenge. The incorporation of computer vision through cameras or sensors empowers companies to identify the slightest deviations from established standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd4608c66d4066cb5807aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1232,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
+      "publishedDateTime": "2024-02-05T12:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-aisee-wearable-tells-blind-users-what-theyre-holding-in-their-hand.md",
+      "title": "AiSee wearable tells blind users what they're holding in their hand",
+      "excerpt": "The scientists are now working on making the technology more affordable and ergonomic, plus they hope to boost the processing speed and improve the object recognition algorithms. \"At present ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
+      "originalUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eea6137/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F47%2F3a%2Fce765bcb47b2bd2cb9430ad429be%2Fhoto201.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-apple-vision-pro-review-spatial-computings-promise-is-fulfilled.md",
       "title": "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled",
       "excerpt": "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making.",
@@ -106,6 +316,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-uk-police-facial-recognition-explained-what-you-need-to-know.md",
+      "title": "UK police facial recognition explained: What you need to know",
+      "excerpt": "In this essential guide, Computer Weekly looks at the use of facial recognition technology by UK police forces, including the points of contention around its deployment so far and where it’s heading next.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/UK-police-facial-recognition-what-you-need-to-know",
+      "originalUrl": "https://www.computerweekly.com/feature/UK-police-facial-recognition-what-you-need-to-know",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-i-just-tried-apple-vision-pro-heres-what-i-think-of-this-3500-headset-so-far.md",
       "title": "I just tried Apple Vision Pro — here’s what I think of this $3,500 headset so far",
       "excerpt": "The Apple Vision Pro offers some truly impressive entertainment and multitasking capabilities, but will it be worth $3,500? Here’s what we think after going hands-on.",
@@ -145,6 +398,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports.md",
+      "title": "TSA sparks privacy concerns amid plans to install facial recognition systems at 400 US airports",
+      "excerpt": "The Transportation Security Administration (TSA) sparked privacy concerns after unveiling plans to roll out controversial facial recognition tech in over 400 US airports soon. “TSA is in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
+      "originalUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/transportation-security-administrations-new-75760627.jpg?quality=75&strip=all&w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/01/lifestyle/tsa-sparks-privacy-concerns-amid-plans-to-install-facial-recognition-systems-at-400-us-airports/amp/",
+      "publishedDateTime": "2024-02-01T17:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -512,6 +808,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
+      "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
+      "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
+      "originalUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg",
+          "width": 526,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aclu.org",
+        "domain": "aclu.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1120,317 +1459,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-apple-vision-pro-sold-out-at-least-for-pre-order.md",
-      "title": "Apple Vision Pro Sold Out, At Least For Pre-Order",
-      "excerpt": "Trying to score a pre-order for a $3,500 face computer? Good luck: Apple appears to be out of stock of Apple Vision Pro headsets, at least for the moment, in every city and state. Every geographic region I’ve tried around the United States has the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
-      "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
-      "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-3-ways-generative-ai-is-making-our-world-a-better-place.md",
-      "title": "3 Ways Generative AI Is Making Our World A Better Place",
-      "excerpt": "Discover three inspiring examples of how generative AI is positively transforming our world: from preserving the Icelandic language to making literature more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a776ba6a110b06b3ce04b6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/17/3-ways-generative-ai-is-making-our-world-a-better-place/amp/",
-      "publishedDateTime": "2024-01-17T05:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-meta-ceo-mark-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.md",
-      "title": "Meta CEO Mark Zuckerberg to be deposed in Texas facial recognition case",
-      "excerpt": "Meta CEO Mark Zuckerberg must take part in a deposition as part of an ongoing lawsuit in Texas involving the company's facial recognition technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300099-16946163562023-09-13t142711z_29451630_rc2m73a2hmaj_rtrmadp_0_usa-ai-congress.jpeg?v=1698177669",
-          "width": 3500,
-          "height": 2239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/meta-ceo-zuckerberg-to-be-deposed-in-texas-facial-recognition-case.html",
-      "publishedDateTime": "2024-01-16T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-practical-guides-to-budget-ai-and-computer-vision-solutions-part-1.md",
-      "title": "Practical Guides to Budget AI and Computer Vision Solutions | Part 1",
-      "excerpt": "In response to widespread interest, OpenCV.ai has launched a series of articles to guide entrepreneurs and enterprises, in exploring Computer Vision solutions. These articles are designed to aid in making informed decisions, with a focus on optimizing development and operational costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-practical-guides-budget-ai-computer-vision-solutions-part-/2024/01/16/9947089.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T17:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-8-vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer.md",
-      "title": "8 Vision Pro accessories to get the most out of Apple’s spatial computer",
-      "excerpt": "BGR lists some of the accessories you might need to enjoy Apple Vision Pro when this spatial computer finally launches for US customers.",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
-      "originalUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all",
-          "width": 1599,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T18:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-the-best-new-gadgets-and-tech-from-ces-2024.md",
-      "title": "The best new gadgets and tech from CES 2024",
-      "excerpt": "From translucent TVs to indoor smokers, the Consumer Electronics Show never disappoints when it comes to cool new gear.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "originalUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2024/01/12/best-of-ces-header.jpg?auto=webp",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

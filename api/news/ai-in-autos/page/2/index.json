@@ -2,6 +2,480 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-24-how-china-is-regulating-robotaxis.md",
+      "title": "How China is regulating robotaxis",
+      "excerpt": "Robotaxis are only accessible in a few Chinese cities so far, but national regulations have started to rein them in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
+      "originalUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-apples-not-so-self-driving-car-is-delayed-again-report.md",
+      "title": "Apple’s Not-So-Self-Driving Car Is Delayed Again: Report",
+      "excerpt": "Now, the project has been delayed yet again. In 2022, the company felt that it would release a car by 2026 that came equipped with advanced self-driving features. Two years later, that timeline looks to have been overly ambitious, according to sources with ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
+      "originalUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-delays-ev-downgrades-autonomous-capabilities-report-1235486261/amp/",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-byd-senior-exec-taunts-musk-that-tesla-will-lose-market-share-and-face-challenges-in-its-ai-self-driving-system.md",
+      "title": "BYD senior exec taunts Musk that Tesla will lose market share and face challenges in its AI self-driving system",
+      "excerpt": "A senior executive at BYD Co. has stoked the Chinese automaker’s rivalry with Tesla Inc., warning Elon Musk that he’ll face challenges in intelligent driving systems. Jonathan Raa—NurPhoto via Getty Images A senior executive at BYD Co. has stoked the ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "originalUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/01/GettyImages-1943416624-e1706092463380.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/asia/2024/01/24/byd-senior-exec-taunts-musk-tesla-lose-market-share-face-challenges-ai-self-driving-system/amp/",
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-teslas-own-former-ai-engineer-trolls-the-company-full-self-wiping.md",
+      "title": "Tesla’s own former AI engineer trolls the company: ‘full self-wiping’",
+      "excerpt": "Tesla’s own former head of AI infrastructure, Tim Zaman, is impressed with the latest FSD v12 Full Self-Driving software, but he trolls the company’s AI effort. Up until last year, Tim Zaman was the head of AI infrastructure and platform at Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
+      "originalUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Tesla-Model-3-Rain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
+      "title": "3 ways you can help your student navigate artificial intelligence",
+      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T07:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
+      "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
+      "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
+      "originalUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
+      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
+      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
+      "title": "Remote-control rental cars: Not as driverless as they look",
+      "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "originalUrl": "https://newatlas.com/automotive/teledriving-remote-rental-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/efef334/2147483647/strip/true/crop/2162x1135+0+152/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fd2%2F82%2Fd42259e04e569d651c76a719e0e9%2F10-vay-car-modern-1.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does.md",
+      "title": "History Suggests the Nasdaq Will Surge in 2024: My Top 7 Artificial Intelligence (AI) Growth Stocks to Buy Before It Does",
+      "excerpt": "Detailed price information for Compass Inc Cl A (COMP-N) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/5a2f12308459f594ac354dba874464fc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761668%252fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg%26amp%3Bw%3D700",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-gasgoo-daily-venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-v-online-in-guangzhou.md",
+      "title": "Gasgoo Daily: Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
+      "excerpt": "Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
+      "sourceUrl": null,
+      "webUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
+      "originalUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T12:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metal",
+        "domain": "metal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-baidu-idg-geely-co-introduce-ai-conversational-assistant-in-galaxy-l6-model.md",
+      "title": "Baidu IDG, Geely co-introduce AI conversational assistant in Galaxy L6 Model",
+      "excerpt": "Beijing (Gasgoo)- Recently, the collaborative efforts of Baidu's Intelligent Driving Group (IDG) and Geely Auto have come to fruition with the successful mass production of an AI conversational product embedded in the automaker’s Galaxy L6 model.",
+      "sourceUrl": null,
+      "webUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
+      "originalUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T12:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metal",
+        "domain": "metal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-18-john-deere-puts-ag-tech-center-stage-at-ces-24.md",
       "title": "John Deere Puts Ag Tech Center Stage at CES 24",
       "excerpt": "John Deere has maintained a notable presence at CES since 2019. This year it dubbed its massive CES exhibit “Dirt to Shirt,” presenting a full technology-enabled cotton production cycle. The main highlight was a fully autonomous 8R tractor that attendees controlled themselves with an iPhone. All from 1,300 miles away, over exhibit hall Wi-Fi.",
@@ -791,454 +1265,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur.md",
-      "title": "State-of-the-art AI-supported Telemedicine Mobile Clinic launched for remote hilly areas in Udhampur",
-      "excerpt": "Science and Technology Jitendra Singh on Sunday launched state-of-the-art, Artificial Intelligence (AI) supported T",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
-      "originalUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1705252485.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-self-driving-labs-how-ai-could-accelerate-scientific-discovery.md",
-      "title": "Self-driving labs: How AI could accelerate scientific discovery",
-      "excerpt": "Using self-driving autonomous labs, the Acceleration Consortium is making larger strides toward integrating the subdisciplines of materials science, AI, robotics, and computer modelling to test new materials in a time-efficient, cost-friendly way.",
-      "sourceUrl": null,
-      "webUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "originalUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-s3.thevarsity.ca/2024/01/SCIENCE-Autonomous-_Labs-BRENNAN-KARUNARATNETHEVARSITY-lab_devices-web.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T03:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Varsity",
-        "domain": "thevarsity.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
-      "title": "Improving 3D Object Detection in Self-Driving Cars",
-      "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "originalUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "publishedDateTime": "2024-01-13T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
-      "title": "New laws to curb danger of high-risk artificial intelligence",
-      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "publishedDateTime": "2024-01-13T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
-      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
-      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-ai-development-fostered-a-digital-sweatshop-and-why-it-matters-for-the-technologys-future.md",
-      "title": "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future",
-      "excerpt": "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "originalUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/10/09d417bd-299d-43b5-af62-a33cf7c65165_93653a69.jpg?itok=FaD5dQWz&v=1704863823",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "publishedDateTime": "2024-01-13T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-cruise-casts-shadow-on-self-driving-tech-at-ces-2024.md",
-      "title": "Cruise casts shadow on self-driving tech at CES 2024",
-      "excerpt": "LAS VEGAS — Self-driving vehicles and advances in automated-driving technology have been a CES staple since Audi drove an A7 autonomously from San Francisco to Las Vegas nine years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "originalUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-ces-2024-everything-revealed-so-far-from-nvidia-and-sony-to-the-weirdest-reveals-and-helpful-ai.md",
-      "title": "CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI",
-      "excerpt": "CES 2024 has begun in Las Vegas, and we're keeping track of the biggest reveals from press day as a wave of AI and hardware news is revealed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1246002029.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "publishedDateTime": "2024-01-12T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-tusimples-self-driving-trucks-up-for-auction-following-us-exit.md",
-      "title": "TuSimple’s self-driving trucks up for auction following US exit",
-      "excerpt": "Ten of TuSimple’s autonomous big rigs are set to be auctioned off later this month, just a few weeks after the self-driving trucking startup that went public in 2021 announced it was exiting the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/tusimple-auction-self-driving-big-rigs-trucks-exit/amp/",
-      "publishedDateTime": "2024-01-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
-      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
-      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-the-top-3-stocks-shaping-the-future-of-autonomous-driving.md",
-      "title": "The Top 3 Stocks Shaping the Future of Autonomous Driving",
-      "excerpt": "This marked an important step towards a fully driverless service, reinforcing the company ... and continuing investments in artificial intelligence and other growth projects. This makes it one of those autonomous driving stocks to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "originalUrl": "https://www.nasdaq.com/articles/the-top-3-stocks-shaping-the-future-of-autonomous-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

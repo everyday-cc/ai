@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-08-who-publishes-guidance-for-ethics-and-governance-of-ai-for-healthcare-sector.md",
+      "title": "WHO Publishes Guidance for Ethics and Governance of AI for Healthcare Sector",
+      "excerpt": "We collaborate with the world's leading lawyers to deliver news tailored for you. Sign Up to receive our free e-Newsbulletins Some states have laws and ethical rules regarding solicitation and advertisement practices by attorneys and/or other professionals ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "originalUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/healthcare%20insurance%20technology%20telemedicine%20medical%20chart%20doctor%20digital%20health.jpg?h=c0041bcf&itok=Oaxm9xAo",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/who-publishes-guidance-ethics-and-governance-ai-healthcare-sector?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-the-vr-doctor-is-in-cedars-sinai-adds-ai-powered-therapy-app-to-apple-vision-pro-headset.md",
+      "title": "The VR doctor is in: Cedars-Sinai adds AI-powered therapy app to Apple Vision Pro headset",
+      "excerpt": "An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care. | An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/vr-doctor-cedars-sinai-adds-ai-powered-therapy-app-apple-vision-pro-headset",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/vr-doctor-cedars-sinai-adds-ai-powered-therapy-app-apple-vision-pro-headset",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud5/media/image/cedars-xaia.png?VersionId=jR0pYbaTGXubspINs1ODGmBEBo0_F6dX",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "The AI in Healthcare market is projected to grow from USD 20.9 billion in 2024 and is estimated to reach USD 148.4 billion by 2029; it is expected to grow",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Artificial Intelligence (AI) In Healthcare Market Worth $148.4 Billion By 2029 - Exclusive Report By Marketsandmarketstm",
+      "excerpt": "(MENAFN- PR Newswire) CHICAGO, Feb. 5, 2024 /PRNewswire/ -- The AI in Healthcare market is projected to grow from USD 20.9 billion in 2024 and is estimated to reach USD 148.4 billion by 2029 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
+      "originalUrl": "https://menafn.com/1107811446/Artificial-Intelligence-AI-In-Healthcare-Market-Worth-1484-Billion-By-2029-Exclusive-Report-By-Marketsandmarketstm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T10:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
       "title": "The Impact Of Artificial Intelligence On The Art World",
       "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
@@ -135,6 +299,49 @@
       "provider": {
         "name": "The Punch Newspapers",
         "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
+      "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
+      "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "originalUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2024/02/xaia-meditating-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -284,6 +491,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives.md",
+      "title": "Artificial intelligence program at Florida medical center rapidly diagnoses, saving lives",
+      "excerpt": "(WPEC) — The evolution of artificial intelligence is changing the way ... Medical Director of Vascular Surgery and Endovascular Therapy Dr. Joseph Ricotta works at DMC. He said the AI program ...",
+      "sourceUrl": null,
+      "webUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
+      "originalUrl": "https://wsbt.com/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wsbt.com/resources/media/7f7fab0d-8108-44f8-a094-7c8e0f282f6c-medium16x9_MoviesTV1_31_20247_06_07PM.png",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wsbt.com/amp/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
+      "cdnAmpWebUrl": "https://wsbt-com.cdn.ampproject.org/c/s/wsbt.com/amp/news/nation-world/artificial-intelligence-program-at-florida-medical-center-rapidly-diagnoses-saving-lives-viz-vascular-delray-medical-center-medical-field-tech-advancements-ai-program-abnormalities-detecting-conditions",
+      "publishedDateTime": "2024-02-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wsbt",
+        "domain": "wsbt.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1126,282 +1376,6 @@
         "name": "MedCity News",
         "domain": "medcitynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-is-truth-a-casualty-of-artificial-intelligence.md",
-      "title": "Is Truth a Casualty of Artificial Intelligence?",
-      "excerpt": "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
-      "publishedDateTime": "2024-01-18T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-dean-phillips-vows-to-be-first-ai-president-in-campaign-speech-on-his-artificial-intelligence-platform.md",
-      "title": "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform",
-      "excerpt": "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
-      "originalUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec303fa-b8ef-42a6-9e5a-220a06665e9f/b38f73cc-bbc3-4780-879b-ac593b1f3374/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "publishedDateTime": "2024-01-18T19:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-who-weighs-up-ai-risks-and-benefits-for-health-care.md",
-      "title": "WHO weighs up AI risks and benefits for health care",
-      "excerpt": "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "publishedDateTime": "2024-01-18T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-the-role-of-ai-in-healthcare.md",
-      "title": "The Role Of AI In Healthcare",
-      "excerpt": "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
-      "publishedDateTime": "2024-01-18T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-conversion-therapy-ban-raises-justified-fears.md",
-      "title": "Conversion therapy ban raises justified fears",
-      "excerpt": "We are entitled to know then just what has occurred in the life of the nation that’s compelled the Scottish Government to make these",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
-      "originalUrl": "https://www.heraldscotland.com/politics/viewpoint/24051189.conversion-therapy-ban-raises-justified-fears/?ref=fbshr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "heraldscotland",
-        "domain": "heraldscotland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures.md",
-      "title": "Here’s How The FTC Might Lower The Boom On Those Emerging Generative AI Mental Health Therapy Chatbots That Are Promising Miracle Cures",
-      "excerpt": "As generative AI mental health chatbots proliferate, one means of at least coping with their outsized claims rests at the feet of the Federal Trade Commission (FTC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a61506e8805fa8a361a8d8/0x0.jpg?format=jpg&crop=2674,1976,x1166,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1218,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
-      "publishedDateTime": "2024-01-16T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,344 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-11-year-of-the-dragon-we-have-entered-the-ai-age.md",
+      "title": "Year of the dragon: We have entered the AI age",
+      "excerpt": "Like the Year of the Dragon roaring in today, 2024 will mark the year where AI is applied in real, tangible ways.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "originalUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/A_roaring_dragon_from_the_Chinese_calendar_vibr1-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T04:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others.md",
+      "title": "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others",
+      "excerpt": "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sam_altman_jan_2024_5-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T18:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
+      "title": "Startups pursue GPU alternatives for AI",
+      "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
+      "publishedDateTime": "2024-02-09T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-ai-pcs-will-make-up-nearly-60-of-total-pc-shipments-by-2027.md",
+      "title": "AI PCs will make up nearly 60% of total PC shipments by 2027",
+      "excerpt": "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
+      "originalUrl": "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-23.jpg",
+          "width": 4608,
+          "height": 3456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
+      "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/VHB65XuS_x0VfXMZBAFX-2PmmZJ-ZabjP9TQSNQaR7TunfoW1OsGw2JDZQAYWcwGbiY6C2kEVuYJ9MJiEBxAOORYss-Ei8kmWqWE1hWYN0JbbUNLWnC3toUz4MkBHfqmf-Vu7o0e-mt8m0KdHLDhiQ",
+          "width": 1600,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside.md",
+      "title": "NVIDIA H100 GPU cloud contract signed with AI company, poolside",
+      "excerpt": "Iris Energy has executed a cloud service agreement with poolside for 248 NVIDIA H100 GPUs. The contract is for an initial 3-month term, with an extension option for an additional 3 months at the customer’s election.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
+      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
+      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T01:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
       "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
       "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
@@ -1122,352 +1460,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-heads-of-chip-giants-nvidia-tsmc-meet-in-taiwan-as-tight-chip-supply-threatens-to-hinder-ai-boom.md",
-      "title": "Heads of chip giants Nvidia, TSMC meet in Taiwan as tight chip supply threatens to hinder AI boom",
-      "excerpt": "Nvidia founder Jensen Huang met with TSMC founder Morris Chang and CEO C.C. Wei over dinner in Taipei to discuss chip supply.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/26/a2635928-5278-4dc8-8593-d3abe5d38ede_2622355f.jpg?itok=G3ionfAy&v=1706240895",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3249848/heads-chip-giants-nvidia-tsmc-meet-taiwan-tight-chip-supply-threatens-hinder-ai-boom",
-      "publishedDateTime": "2024-01-26T04:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-opinion-intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead.md",
-      "title": "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead",
-      "excerpt": "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-474373/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
-      "publishedDateTime": "2024-01-26T00:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
-      "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
-      "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "originalUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65043fb4956dba001ace2dcc?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-acquires-startups-talent-to-bring-gen-ai-to-iphones-2024-1?amp",
-      "publishedDateTime": "2024-01-25T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-samsung-plans-to-limit-galaxy-ai-to-2023-devices-and-newer-for-now.md",
-      "title": "Samsung plans to limit Galaxy AI to 2023 devices and newer, for now",
-      "excerpt": "Samsung says Galaxy AI will be restricted to devices released in 2023 and later, for now. It appears that hardware limitations are not the reason why the software won’t run on devices released before 2023. Samsung avoided answering why the Galaxy S23 FE will get Galaxy AI but not the Galaxy S22 series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/",
-      "originalUrl": "https://www.androidauthority.com/galaxy-ai-limited-to-current-and-last-gen-3407643/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Family-2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-voltron-claypot-deal-cooks-up-faster-ai-engine-power.md",
-      "title": "Voltron Claypot Deal Cooks Up Faster AI Engine Power",
-      "excerpt": "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b24cfb438acdd6bba57f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
-      "publishedDateTime": "2024-01-25T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
-      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
-      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
-      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
-      "publishedDateTime": "2024-01-25T09:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-sk-hynix-vows-to-solidify-leadership-in-high-growth-ai-chip-market.md",
-      "title": "SK hynix vows to solidify leadership in high-growth AI chip market",
-      "excerpt": "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/b2aa7af8ed11428fa34fb035dad20c46.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
-      "publishedDateTime": "2024-01-25T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
         "publishers": null,
         "authors": null
       },

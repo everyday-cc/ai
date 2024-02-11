@@ -2,6 +2,394 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
+      "title": "Bell, Mila to embark on joint deep learning AI initiative",
+      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell’s systems and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203",
+      "originalUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1",
+      "publishedDateTime": "2024-02-06T21:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
+      "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
+      "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
+      "originalUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-what-is-it-good-for-machine-learning-at-central-square-theatre-takes-a-look.md",
+      "title": "AI — What is it good for? 'Machine Learning' at Central Square Theatre takes a look",
+      "excerpt": "What of hope and faith? Questions like these shape Francisco Mendoza’s probing play “Machine Learning” (through Feb. 25 at Central Square Theater), where a son aims to help his father, who is battling cancer and a penchant for alcohol, with an app he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
+      "originalUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wordpress.wbur.org/wp-content/uploads/2024/02/Machine_Learning-Production-1-1000x667.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
+      "title": "Deep learning and neural networks have more to offer than their buzz suggests",
+      "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
+      "originalUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests-11707050607582.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/02/04/1600x900/3-0-95504387-iStock-1195187835-0_1679788575543_1707052117406.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests/amp-11707050607582.html",
+      "publishedDateTime": "2024-02-05T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-mit-researchers-use-neural-networks-to-design-more-durable-and-flexible-composite-materials.md",
+      "title": "MIT researchers use neural networks to design more durable and flexible composite materials",
+      "excerpt": "Researchers at the Massachusetts Institute of Technology’s Computer Science and Artificial Intelligence Laboratory have created a new, AI-powered system for designing more durable microstructured composite materials for use in vehicle manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
+      "originalUrl": "https://siliconangle.com/2024/02/05/mit-researchers-use-neural-networks-design-stronger-durable-flexible-composite-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/7437285_3630964.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
+      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
+      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T13:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-comprehensive-study-of-the-artificial-neural-network-market-2032-current-scenario-and-future-prospects.md",
+      "title": "Comprehensive Study Of The Artificial Neural Network Market 2032: Current Scenario And Future Prospects",
+      "excerpt": "Artificial Neural Network Market The growth of the artificial neural network market is fueled by a rise in data volume, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107809545/Comprehensive-Study-Of-The-Artificial-Neural-Network-Market-2032-Current-Scenario-And-Future-Prospects",
+      "originalUrl": "https://menafn.com/1107809545/Comprehensive-Study-Of-The-Artificial-Neural-Network-Market-2032-Current-Scenario-And-Future-Prospects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
+          "width": 445,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T09:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila.md",
+      "title": "Bell to Deploy Deep Learning AI on Systems and Data in 18-Month Partnership With Mila",
+      "excerpt": "Mila and Bell are pleased to announce an 18-month collaborative project to apply deep learning neural network algorithms to Bell's systems and data",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/15ff7f43bd0cc2d1cd56f576e4b3d532.jpg?t=20240205_014804",
+          "width": 753,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T01:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-how-ai-driven-data-mastery-empowering-business-operations.md",
       "title": "How AI-driven data mastery empowering business operations",
       "excerpt": "AI-infused data management systems empower companies to optimize vital business strategies by harnessing data comprehensively and leveraging cognitive insights. In the financial sector, this entails utilizing customer data, transaction records, and market trends to bolster sales and marketing campaigns.",
@@ -129,6 +517,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-deep-learning-for-natural-language-processing.md",
+      "title": "Deep Learning for Natural Language Processing",
+      "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
+      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T01:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -921,410 +1353,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-implement-artificial-neural-network-hardware-systems-by-stacking-them-like-neuron-synapse-neuron-structural-blocks.md",
-      "title": "Implement artificial neural network hardware systems by stacking them like \"neuron-synapse-neuron\" structural blocks",
-      "excerpt": "(a) Schematic diagram of a biological neural network and (b) circuit schematic of an artificial neural network implemented in hardware using an artificial neuromorphic device. (c) Experimental ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1031809",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1031809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5eced74f-b92d-4c3e-bcb6-9b92668e1979/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T05:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-artificial-neural-network-hardware-based-on-stacked-neuron-synapse-neuron-structural-blocks.md",
-      "title": "Artificial neural network hardware based on stacked neuron-synapse-neuron structural blocks",
-      "excerpt": "In order for large-scale artificial neural network hardware to become practical in the future, it is essential to integrate artificial neuron and synaptic devices, and it is necessary to reduce mass production costs and energy usage by fabricating devices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64469.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64469.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector.md",
-      "title": "AI, machine learning systems, drones show new-age face of Kerala's plantation sector",
-      "excerpt": "As many as 166 stalls by 120 entrepreneurs were open for the public at the expo organised by the Plantation Directorate of the State Industries Department.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/articleshow/107033614.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/articleshow/107033614.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-10288,msid-107033654/kerala-plantation-expo.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/amp_articleshow/107033614.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ai-machine-learning-systems-drones-show-new-age-face-of-keralas-plantation-sector/amp_articleshow/107033614.cms",
-      "publishedDateTime": "2024-01-21T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-artificial-neural-network-ordinals.md",
-      "title": "Artificial Neural Network (Ordinals)",
-      "excerpt": "UK Inflation Rate Rises to 4.0% Dashing Hopes for BoE Rate Cut DiscussionsWed, 17 Jan 2024 07:26:19 GMT USD/JPY Forecast – US Dollar Looks Ready to Pull BackFri, 19 Jan 2024 15:11:22 GMT S&P 500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "originalUrl": "https://www.fxempire.com/crypto/artificial-neural-network-ordinals/markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXEmpire.com",
-        "domain": "fxempire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "The Japanese Ophthalmological Society and the National Institute of Informatics have developed and public-released an AI model to estimate an individual's sex from fundus images, using data ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-plant-phenotyping-deep-learning-and-3d-point-cloud-technology-in-overcoming-reconstruction-challenges.md",
-      "title": "Plant phenotyping: Deep learning and 3D point cloud technology in overcoming reconstruction challenges",
-      "excerpt": "Recently, integrating deep learning with point cloud analysis and innovative techniques like Reinforcement Learning Agent Controlled GAN Network and multi-scale geometry-aware Transformer networks show promise in addressing these challenges by enhancing ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
-      "originalUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/revolutionizing-plant.jpg",
-          "width": 1280,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-top-10-best-python-libraries-for-machine-learning-in-2024.md",
-      "title": "Top 10 Best Python Libraries for Machine Learning in 2024",
-      "excerpt": "AutoML is an open-source library that automates the process of selecting the best machine learning algorithm and hyperparameters for a given dataset. It is designed to be easy to use and can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
-      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Machine-Learning-AI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-jfrog-aws-team-up-for-machine-learning-in-the-cloud.md",
-      "title": "JFrog, AWS team up for machine learning in the cloud",
-      "excerpt": "The JFrog Amazon SageMaker integration incorporates machine learning models into the software development lifecycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/08/14/17/istock-1373029024-100944667-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712133/jfrog-aws-team-up-for-machine-learning-in-the-cloud.amp.html",
-      "publishedDateTime": "2024-01-17T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-how-deep-tech-can-transform-surgery.md",
-      "title": "How Deep Tech Can Transform Surgery",
-      "excerpt": "Developing and implementing deep tech solutions, like surgical robotics, into the healthcare ecosystem can launch surgical care to new heights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/17/how-deep-tech-can-transform-surgery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-artificial-intelligence-and-machine-learning-news.md",
-      "title": "Artificial Intelligence and Machine Learning: News",
-      "excerpt": "Find Latest News, Videos and Pictures about Artificial Intelligence and Machine Learning. Explore latest updates, news, information from NewsBytes. All about Artificial Intelligence and Machine Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
-      "originalUrl": "https://www.newsbytesapp.com/news/science/artificial-intelligence-and-machine-learning/23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T09:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsbytesapp.com",
-        "domain": "newsbytesapp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

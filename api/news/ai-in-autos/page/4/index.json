@@ -2,6 +2,488 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-05-baidus-bet-on-ai-could-make-or-break-chinas-fallen-tech-group.md",
+      "title": "Baidu’s bet on AI could make or break China’s fallen tech group",
+      "excerpt": "Ma’s return also contributed to the exit of one of Baidu’s star hires, Lu Qi, an AI expert whom Li poached away from Microsoft in 2017 to run the company’s day-to-day operations as president and COO, according to two people familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/94ea3e9b-fc2e-4454-bc41-62b9b29ccd47",
+      "originalUrl": "https://www.ft.com/content/94ea3e9b-fc2e-4454-bc41-62b9b29ccd47",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-column-excited-about-ai-and-self-driving-cars-a-top-roboticist-is-here-to-burst-your-bubble.md",
+      "title": "Column: Excited about AI and self-driving cars? A top roboticist is here to burst your bubble",
+      "excerpt": "\"the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
+      "originalUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/95783ca652072cb3089c663f1aa51e38",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-04-tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m.md",
+      "title": "Tuam firm developing driverless car tech sees profits accelerate to €46.2m",
+      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
+      "originalUrl": "https://www.independent.ie/business/technology/tuam-firm-developing-driverless-car-tech-sees-profits-accelerate-to-462m/a356442349.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://focus.independent.ie/thumbor/I72utv8ZttUgDdxrqT2IVIsGjC8=/0x0:2362x1575/2362x1575/prod-mh-ireland/99db576d-c94a-484f-a880-c57ea5806f7d/a5a1be17-d2c5-454f-93c6-4e2aa96579a8/99db576d-c94a-484f-a880-c57ea5806f7d.jpg",
+          "width": 2362,
+          "height": 1575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T01:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent.ie",
+        "domain": "independent.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-profits-up-at-tuam-firm-developing-driverless-technology.md",
+      "title": "Profits up at Tuam firm developing driverless technology",
+      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
+      "originalUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/00042444-1600.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
+      "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
+      "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
+      "sourceUrl": null,
+      "webUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
+      "originalUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2023/12/iStock-1322056314.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Repairer Driven News",
+        "domain": "repairerdrivennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-the-7-best-artificial-intelligence-ai-stocks-to-buy-for-2024-and-beyond.md",
+      "title": "The 7 Best Artificial Intelligence (AI) Stocks to Buy for 2024 and Beyond",
+      "excerpt": "Top artificial intelligence (AI) stocks have delivered ... Alphabet has many avenues to win in AI. Through its Waymo subsidiary, Alphabet is also a leader in autonomous vehicle technologies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/03/best-artificial-intelligence-ai-stocks-buy-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759262/gettyimages-1473086836.jpg",
+          "width": 8000,
+          "height": 4570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T08:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-in-2024-teens-will-get-pregnant-in-driverless-cars.md",
+      "title": "In 2024, Teens Will Get Pregnant in Driverless Cars",
+      "excerpt": "Send your questions to roundtable@reason.com. Be sure to include your social media handle and the correct pronunciation of your name. Today's sponsor: Around New Year's, we get obsessed with how ...",
+      "sourceUrl": null,
+      "webUrl": "https://reason.com/podcast/2024/01/02/in-2024-teens-will-get-pregnant-in-driverless-cars/",
+      "originalUrl": "https://reason.com/podcast/2024/01/02/in-2024-teens-will-get-pregnant-in-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/01/2024.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-02T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reason",
+        "domain": "reason.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-02-is-using-ai-for-full-self-driving-a-good-idea-musk-says-yes-but-ai-watchdog-says-no.md",
+      "title": "Is using AI for full self-driving a good idea? Musk says yes, but AI watchdog says no",
+      "excerpt": "Self-driving vehicle developers say different approaches to AI are safer than human drivers, but critics are skeptical after accidents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/is-using-ai-full-self-driving-good-idea-musk-says-yes-ai-watchdog-says-no/",
+      "originalUrl": "https://www.therobotreport.com/is-using-ai-full-self-driving-good-idea-musk-says-yes-ai-watchdog-says-no/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/Tesla_FSD.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-02T14:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-01-baidu-scraps-36-billion-deal-for-joyys-china-live-streaming-unit.md",
+      "title": "Baidu scraps $3.6 billion deal for JOYY's China live-streaming unit",
+      "excerpt": "By Summer Zhen HONG KONG (Reuters) -Baidu has terminated its planned $3.6 billion acquisition of Nasdaq-listed JOYY Inc's live-streaming business in China, the company said on Monday in a filing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/baidu-terminates-3-6-billion-113255976.html",
+      "originalUrl": "https://www.aol.com/news/baidu-terminates-3-6-billion-113255976.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/ce222dfd44abb9d93b142cd8094943dd",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-01T12:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-30-mits-spark-lab-ponders-better-self-driving-systems-and-more.md",
+      "title": "MIT’s Spark Lab Ponders Better Self-Driving Systems And More",
+      "excerpt": "Over at the MIT Spark lab, Luca Carlone and others are trying to apply these solutions to get us closer to better AI responses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658f0641ffecfa318294d4b6/0x0.jpg?format=jpg&crop=957,539,x0,y23,safe&height=900&width=1600&fit=bounds",
+          "width": 1598,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/29/mits-spark-lab-ponders-better-self-driving-systems-and-more/amp/",
+      "publishedDateTime": "2023-12-29T16:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars.md",
+      "title": "Elon Musk says Tesla in race against time to wheel out fully self-driving cars",
+      "excerpt": "Tech billionaire Elon Musk disclosed that electric vehicle manufacturer Tesla is working on artificial general intelligence (AGI) for its Full Self-Driving (FSD) vehicles in a major step towards obtaining completely autonomous driving capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "originalUrl": "https://www.thenews.com.pk/latest/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thenews.com.pk/assets/uploads/updates/2023-12-29/l_1142856_044635_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "cdnAmpWebUrl": "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1142856-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars",
+      "publishedDateTime": "2023-12-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News International",
+        "domain": "thenews.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-byd-to-start-testing-l3-autonomous-driving-on-highways-in-china.md",
       "title": "BYD to start testing L3 autonomous driving on highways in China",
       "excerpt": "Competition is revving up in China, as BYD is the latest to be allowed to test its L3 self-driving systems on roadways.",
@@ -926,529 +1408,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-gm-self-driving-arm-cruise-is-laying-off-24-of-its-workforce.md",
-      "title": "GM self-driving arm Cruise is laying off 24% of its workforce",
-      "excerpt": "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "originalUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
-      "publishedDateTime": "2023-12-14T19:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs.md",
-      "title": "Cruise slashes 24% of self-driving car workforce in sweeping layoffs",
-      "excerpt": "Cruise, the embattled GM self-driving car subsidiary, is laying off 900 employees to slash costs and attempt to revamp the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "originalUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/14/cruise-slashes-24-of-self-driving-car-workforce-in-sweeping-layoffs/amp/",
-      "publishedDateTime": "2023-12-14T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
-      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
-      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-futuristic-driverless-pods-could-ferry-people-to-hospital-from-bolton-town-centre.md",
-      "title": "Futuristic driverless pods could ferry people to hospital from Bolton town centre",
-      "excerpt": "Driverless pods could take people from ... Dromos say they will use artificial intelligence to ‘predict traffic volumes and patterns and develops alternative routings for the vehicles to allow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
-      "originalUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article28291266.ece/ALTERNATES/s1200/0_dromos-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
-      "cdnAmpWebUrl": "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
-      "publishedDateTime": "2023-12-14T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manchester Evening News",
-        "domain": "manchestereveningnews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-heard-on-the-street-teslas-recall-highlights-the-limits-of-full-self-driving-tech.md",
-      "title": "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech",
-      "excerpt": "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
-      "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-899985/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-tesla-unveils-its-latest-humanoid-robot-optimus-gen-2-in-demo-video.md",
-      "title": "Tesla unveils its latest humanoid robot, Optimus Gen 2, in demo video",
-      "excerpt": "On Tuesday, Tesla released a demo video showing the latest version of its prototype humanoid robot, Optimus Gen 2. Over one year after Tesla's first public Optimus robot demonstration, which showcased shaky robots that waved and slumped over, things have apparently progressed quite a bit, assuming that the video accurately reflects the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
-      "originalUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/tesla_optimus_gen2_hero2-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs.md",
-      "title": "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs",
-      "excerpt": "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
-      "originalUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2023-12/28ue0i3g_tesla-optimus-robot_625x300_13_December_23.jpg",
-          "width": 1200,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs-4668028/amp/1",
-      "publishedDateTime": "2023-12-13T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-helping-vets-finding-tax-cheats-and-illegal-rhino-horns-how-ai-could-transform-government.md",
-      "title": "Helping vets. Finding tax cheats and illegal rhino horns. How AI could transform government",
-      "excerpt": "WASHINGTON − What if artificial intelligence could prepare the nation for disastrous weather events, root out fraud and tax cheats, speed up benefit determinations, enforce workplace safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2023/12/13/government-ai-use-growing/71670980007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T10:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
-      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
-      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
-      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/Screenshot-2023-12-12-at-9.45.06-PM.jpg?quality=82&strip=all&w=639",
-          "width": 639,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T03:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer.md",
-      "title": "Virginia sheriff says Tesla Autopilot was running before driving under tractor-trailer",
-      "excerpt": "Virginia authorities have determined that a Tesla was operating on its Autopilot system and was speeding in the moments leading to a crash with a crossing tractor-trailer last July that killed the Tesla driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "originalUrl": "https://www.autoblog.com/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2082x1171+414+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2023/12/12174123/Screenshot-2023-12-12-at-5.38.41-PM.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2023/12/12/virginia-sheriff-says-tesla-autopilot-was-running-before-driving-under-tractor-trailer/",
-      "publishedDateTime": "2023-12-12T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture.md",
-      "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
-      "excerpt": "Vodafone is transitioning from a telecommunications company (telco) to a technology company (TechCo) by 2025, with objectives of innovating faster, reducing costs, improving security, and simplifying operations. Thousands of engineers are being onboarded to contribute to this transition. By 2025, Vodafone",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/01/ML-13855-image005-857x630.png",
-          "width": 857,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T17:51:17Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

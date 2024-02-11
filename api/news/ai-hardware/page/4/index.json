@@ -2,6 +2,345 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
+      "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
+      "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-shoes-company-aims-accessorize-everything-artificial-intelligence.amp",
+      "publishedDateTime": "2023-12-18T17:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-amd-says-its-mi300x-ai-accelerator-is-faster-than-nvidias-h100.md",
+      "title": "AMD says its MI300X AI accelerator is faster than Nvidia's H100",
+      "excerpt": "AMD has finally launched its Instinct MI300X accelerators, a new generation of server GPUs designed to provide compelling performance levels for generative AI workloads and other",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
+      "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-18-image-4.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T12:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
+      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
+      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-neurophos-secures-72-million-in-funding-round-to-create-energy-efficient-metamaterial-based-optical-ai-chips-for-data-centers.md",
+      "title": "Neurophos Secures $7.2 Million in Funding Round to Create Energy-Efficient Metamaterial-Based Optical AI Chips for Data Centers",
+      "excerpt": "Neurophos, a spinout from Duke University and Metacept Inc., announced it has raised $7.2M in a seed round to productize a breakthrough in both metamaterials and optical AI inference chips. Neurophos' optical metasurfaces are designed for use in data centers and their approach is already shattering world records in computational energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Neurophos-Secures-72-Million-in-Funding-Round-to-Create-Energy-Efficient-Metamaterial-Based-Optical-AI-Chips-for-Data-Centers-161885.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-global-ai-conclave-talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar.md",
+      "title": "Global AI Conclave: Talent, not chips, key to India's AI future, says Rajeev Chandrasekhar",
+      "excerpt": "The government is working 24/7 to propel India's digital economy to trillion dollars in size by 2026, Rajeev Chandrasekhar said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/12/Rajeev-770x371.jpg",
+          "width": 770,
+          "height": 371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/talent-not-chips-key-to-indias-ai-future-says-rajeev-chandrasekhar-11913321.html/amp",
+      "publishedDateTime": "2023-12-16T09:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-intel-focusses-on-ai-at-big-event-and-for-good-reasons.md",
+      "title": "Intel Focusses On AI At Big Event, And For Good Reasons",
+      "excerpt": "Intel says the multi-chiplet Ultra is the “largest architectural change in 40 years.” In addition to 64 new cores (far fewer than AMD or many Arm designs) and the NPU, it includes integrated Wi-FI 6E, CPU frequencies up to 5.1 GHz in Turbo mode and a large 320MB cache.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657c88ad49554836f9e20ad5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 803,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/15/intel-focusses-on-ai-at-big-event-and-for-good-reasons/amp/",
+      "publishedDateTime": "2023-12-15T22:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-intel-unveils-new-ai-chips-to-rival-nvidias-dominance-in-ai-industry-intc-stock-up-1.md",
+      "title": "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%",
+      "excerpt": "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "originalUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "publishedDateTime": "2023-12-15T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
       "title": "Driven by AI, Micron sees robust chip demand",
       "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
@@ -1063,344 +1402,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-amd-disrupts-ai-accelerator-market-with-new-mi300-offerings.md",
-      "title": "AMD Disrupts AI Accelerator Market with New MI300 Offerings",
-      "excerpt": "AMD made a substantial leap forward with the release of its new MI300A & MI300A accelerators. The accelerators are the first significant threat to NVIDIA’s dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2023/12/10/amd-disrupts-ai-accelerator-market-with-new-mi300-offerings/amp/",
-      "publishedDateTime": "2023-12-11T02:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-amd-stock-all-eyes-on-the-new-ai-chip-heres-what-morgan-stanley-expects.md",
-      "title": "AMD Stock: All Eyes on the New AI Chip — Here’s What Morgan Stanley Expects",
-      "excerpt": "On Thursday, December 7, 2023, semiconductor chip powerhouse Advanced Micro Devices (NASDAQ:AMD) unveiled its newest line of chips designed",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-all-eyes-on-the-new-ai-chip-—-here-s-what-morgan-stanley-expects-1032887454",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/amd-stock-all-eyes-on-the-new-ai-chip-—-here-s-what-morgan-stanley-expects-1032887454",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2023/12/image-221-1024x520.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 1024,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T13:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge.md",
-      "title": "AMD Unveils AI Accelerators From Cloud To Client With MI300 Leading The Charge",
-      "excerpt": "The market will likely be eager for these new AI silicon engines and tools from AMD, and it's going to be a dogfight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657344159dd114776e33d37c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/12/08/amd-unveils-ai-accelerators-from-cloud-to-client-with-mi300-leading-the-charge/amp/",
-      "publishedDateTime": "2023-12-08T21:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116.md",
-      "title": "AMD Takes The Fight To Nvidia With Latest AI Chip Launch. Is The Stock A Buy At $116?",
-      "excerpt": "Tech giants, such as Meta and Microsoft, have expressed their intention to buy AMD’s newest AI chip, as they look for alternatives to Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657299f9c6898fd9524d546c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1161,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/08/amd-takes-the-fight-to-nvidia-with-latest-ai-chip-launch-is-the-stock-a-buy-at-116/amp/",
-      "publishedDateTime": "2023-12-08T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.md",
-      "title": "TSMC bets on AI chips for revival of growth in semiconductor demand",
-      "excerpt": "Executives at the chip manufacturer are still optimistic about the revenue potential of AI, as Nvidia and its partners say new GPUs have a lead time of up to 52 weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html",
-      "originalUrl": "https://www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/tsmc-wafer-image-100855531-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1252992/tsmc-bets-on-ai-chips-for-revival-of-growth-in-semiconductor-demand.html/amp/",
-      "publishedDateTime": "2023-12-08T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-ai-gold-rush-pits-china-vs-us-as-possible-microchip-shortage-looms-experts.md",
-      "title": "AI gold rush pits China vs US as possible microchip shortage looms: experts",
-      "excerpt": "The world could face another chip shortage as companies and nations seek to lead the way with artificial intelligence (AI) development, having seemingly made few changes after the impacts of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts",
-      "originalUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5aee3b4a-ceb8-4f74-88bc-439bde713df0/92af215b-9159-4986-bb51-a6db5729d090/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-gold-rush-pits-china-vs-us-possible-microchip-shortage-looms-experts.amp",
-      "publishedDateTime": "2023-12-08T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
-      "title": "Windows 12 and the coming AI chip war",
-      "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "originalUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/shutterstock_571888840-100941708-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "publishedDateTime": "2023-12-08T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

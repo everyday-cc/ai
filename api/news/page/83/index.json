@@ -2,21 +2,21 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2023-11-20-aws-technology-vp-what-cloud-does-next.md",
-      "title": "AWS Technology VP: What Cloud Does Next",
-      "excerpt": "Mai-Lan Tomsen Bukovec, vice president of technology at Amazon Web Services, Inc. (AWS) explains where cloud is now... and what comes next.",
+      "path": "_news/2023-11-23-14-ways-ai-can-help-business-and-industry-boost-sustainability.md",
+      "title": "14 Ways AI Can Help Business And Industry Boost Sustainability",
+      "excerpt": "Business leaders are starting to think about ways AI can help them with a critical consideration for organizations of all stripes: reducing their carbon footprint.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655abde6a11a58717db567ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 426,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e31014bea042307fae41e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/20/aws-technology-vp-what-cloud-does-next/amp/",
-      "publishedDateTime": "2023-11-20T10:13:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "publishedDateTime": "2023-11-22T17:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,24 +49,128 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-20-save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts.md",
-      "title": "Save up to 45% with Roborock Black Friday robot vacuum and mop discounts",
-      "excerpt": "Invest in a Roborock vacuum and mop to help with holiday cleaning by taking advantage of huge discounts for Black Friday.",
+      "path": "_news/2023-11-23-adobe-reportedly-acquires-text-to-video-ai-platform-rephrase.md",
+      "title": "Adobe reportedly acquires text-to-video AI platform Rephrase",
+      "excerpt": "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos.",
       "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
-      "originalUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts",
+      "webUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://photos5.appleinsider.com/gallery/57157-116216-1-xl.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-nvidia-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
+      "title": "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
+      "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 241,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e30a0e7631c1fb5997afd/0x0.jpg?format=jpg&crop=1200,675,x0,y10,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2023/11/22/nvidias-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand/amp/",
+      "publishedDateTime": "2023-11-22T16:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-best-robot-vacuum-black-friday-deals-2023-bestreviews.md",
+      "title": "Best robot vacuum Black Friday deals 2023 | BestReviews",
+      "excerpt": "Vacuuming is one of those chores that no one really enjoys, so handing off the work to a robot vacuum can make life easier. And Black Friday is the perfect time to invest in one — or upgrade your current model — because you can find deals on many top robot vacuums that won’t break the bank.",
+      "sourceUrl": null,
+      "webUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "originalUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktla.com/wp-content/uploads/sites/4/2023/11/turkey5_2023_landingpageheroes_robotvacuum_cybermonday_white-2.jpg?w=1280",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -76,13 +180,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/20/save-up-to-45-with-roborock-black-friday-robot-vacuum-and-mop-discounts/amp/",
-      "publishedDateTime": "2023-11-20T10:03:00Z",
+      "ampWebUrl": "https://ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "cdnAmpWebUrl": "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/reviews/br/apparel-br/holiday-br/best-black-friday-robot-vacuum-deals-2023/amp/",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
+        "name": "KTLA",
+        "domain": "ktla.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -97,21 +201,107 @@
       ]
     },
     {
-      "path": "_news/2023-11-20-pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai.md",
-      "title": "Pro Take: VCs Ignore Their Own Advice in Pursuit of Generative AI",
-      "excerpt": "Venture investors are diving into generative AI—and breaking some of their own rules in the process.",
+      "path": "_news/2023-11-23-hyundai-unveils-robot-operated-ev-plant-in-singapore.md",
+      "title": "Hyundai Unveils Robot-Operated EV Plant in Singapore",
+      "excerpt": "After beating General Motors and Ford in US electric vehicle (EV) sales in Q3, Hyundai Motor Group plans to keep its momentum going in the market.Hyundai officially launched its new",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
-      "originalUrl": "https://www.wsj.com/articles/pro-take-vcs-ignore-their-own-advice-in-pursuit-of-generative-ai-8fedcc09",
+      "webUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
+      "originalUrl": "https://www.benzinga.com/content/35921762/hyundai-unveils-robot-operated-ev-plant-in-singapore",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-882321/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35921762",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35921762",
+      "publishedDateTime": "2023-11-22T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-leadingage23-how-will-generative-ai-and-robotics-impact-senior-care.md",
+      "title": "LeadingAge23: How Will Generative AI and Robotics Impact Senior Care?",
+      "excerpt": "Leaders in the aging-services sector discussed the role of generative artificial intelligence and robotics today and for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "originalUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202311/AI-hero.jpg?itok=TMKoXvUz",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2023/11/leadingage23-how-will-generative-ai-and-robotics-impact-senior-care?amp",
+      "publishedDateTime": "2023-11-22T16:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
+      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
+      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,14 +311,58 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:01:00Z",
+      "publishedDateTime": "2023-11-22T16:41:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals.md",
+      "title": "Beyond Productivity: The AI Outlook For Tax, Legal And Risk Professionals",
+      "excerpt": "It’s been just one year since GenAI mania hijacked the news cycle and set in motion a tidal wave of rampant speculation about our work lives changing forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e255ba2159086d774f253/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lauraclaytonmcdonnell/2023/11/22/beyond-productivity-the-ai-outlook-for-tax-legal-and-risk-professionals/amp/",
+      "publishedDateTime": "2023-11-22T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -148,29 +382,80 @@
       ]
     },
     {
-      "path": "_news/2023-11-20-integrating-healthcare-apps-and-data-with-fhir-hl7.md",
-      "title": "Integrating healthcare apps and data with FHIR + HL7",
-      "excerpt": "HL7 has provided a standard set of patient attributes and clinical events to improve interoperability in healthcare.\nThe post Integrating healthcare apps and data with FHIR + HL7 appeared first on IBM Blog.\n",
+      "path": "_news/2023-11-22-lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms.md",
+      "title": "Lee Health launches E-Visits using artificial intelligence to avoid wait rooms",
+      "excerpt": "Lee Health is now using the power of AI to help treat you without having to wait in the waiting room. With just a click of a button and from the comfort of your own home, you can access E-Visits.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
-      "originalUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
+      "webUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "originalUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 78,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2023/11/tele_720.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:00:00Z",
+      "ampWebUrl": "https://nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/health/2023/11/22/lee-health-launches-e-visits-using-artificial-intelligence-to-avoid-wait-rooms/",
+      "publishedDateTime": "2023-11-22T15:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-a-psychologist-explains-what-mind-reading-ai-can-do-to-us.md",
+      "title": "A Psychologist Explains What ‘Mind-Reading’ AI Can Do To Us",
+      "excerpt": "We are now able to translate human ... a non-invasive “language decoder” that can read brainwaves and interpret what people are thinking in real-time, making it one of the most important developments in the field of human-AI interaction today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "originalUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655dc287b2a489c8f85430ab/0x0.jpg?format=jpg&crop=2646,1240,x366,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traversmark/2023/11/22/a-psychologist-explains-what-mind-reading-ai-can-do-to-us/amp/",
+      "publishedDateTime": "2023-11-22T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -186,26 +471,27 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI in Healthcare"
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2023-11-20-microsoft-hires-ex-openai-leaders-altman-and-brockman-to-lead-new-ai-group.md",
-      "title": "Microsoft hires ex-OpenAI leaders Altman and Brockman to lead new AI group",
-      "excerpt": "Altman has been the public face of OpenAI, the most valuable U.S. startup. It’s not only widely estimated to be leading the current AI race but has in less than a year also assumed the position of kingmaker for thousands of other startups that are ...",
+      "path": "_news/2023-11-22-baidus-strategic-approach-to-navigate-ai-development-amidst-us-export-restrictions.md",
+      "title": "Baidu’s Strategic Approach to Navigate AI Development amidst US Export Restrictions",
+      "excerpt": "This suggests a potential shift towards self-reliance in AI technology, a move that could modify the global AI landscape.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
-      "originalUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/",
+      "webUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
+      "originalUrl": "https://www.gizmochina.com/2023/11/22/baidu-us-ai-development-restriction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 522,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-Greg-Brockman-DSC00947.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/baidu.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -213,9 +499,192 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/20/openai-co-founders-sam-altman-and-greg-brockman-to-join-microsoft/amp/",
-      "publishedDateTime": "2023-11-20T08:01:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-build-well-architected-idp-solutions-with-a-custom-lens-part-2-security.md",
+      "title": "Build well-architected IDP solutions with a custom lens – Part 2: Security",
+      "excerpt": "Building a production-ready solution in AWS involves a series of trade-offs between resources, time, customer expectation, and business outcome. The AWS Well-Architected Framework helps you understand the benefits and risks of decisions you make while building workloads on AWS. By using the Framework,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-well-architected-idp-solutions-with-a-custom-lens-part-2-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:41:07Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium.md",
+      "title": "How Amazon Search M5 saved 30% for LLM training cost by using AWS Trainium",
+      "excerpt": "For decades, Amazon has pioneered and innovated machine learning (ML), bringing delightful experiences to its customers. From the earliest days, Amazon has used ML for various use cases such as book recommendations, search, and fraud detection. Similar to the rest of the industry, the advancements of",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-m5-saved-30-for-llm-training-cost-by-using-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T14:23:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked.md",
+      "title": "As Sales Triple, Why AI-Chip Maker Nvidia’s Stock May Have Peaked",
+      "excerpt": "Demand for Nvidia’s graphics processing units has been exceeding supply, thanks to the rise of generative artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2023/11/22/as-sales-triple-why-ai-chip-maker-nvidias-stock-may-have-peaked/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T13:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation.md",
+      "title": "Osium AI uses artificial intelligence to speed up materials innovation",
+      "excerpt": "While everybody is trying to figure out how artificial intelligence can be leveraged across various industries, French startup Osium AI has found an interesting use cases for AI — research and development in materials science. Founded by Sarah Najmark ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/",
+      "originalUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/3f7e0350-9331-4b3b-8bfe-e932c5b1325c.jpeg?resize=1200,819",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/osium-ai-uses-artificial-intelligence-to-speed-up-materials-innovation/amp/",
+      "publishedDateTime": "2023-11-22T12:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -239,248 +708,23 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2023-11-20-microsoft-at-its-annual-microsoft-ignite-conference-announced-maia-100-its-first-homegrown-artificial-intelligence-ai-chip.md",
-      "title": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
-      "excerpt": "Microsoft at its annual Microsoft Ignite conference announced Maia 100, its first homegrown artificial intelligence (AI) chip.",
+      "path": "_news/2023-11-22-ai-emotions-and-business-are-we-ready-for-a-new-communications-era.md",
+      "title": "AI, Emotions And Business: Are We Ready For A New Communications Era?",
+      "excerpt": "Together, AI and emotional intelligence are shaping a new era of business communications that will lead to more effective and emotionally charged interactions.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/",
-      "originalUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2023/11/microsoft-maia-chip-edited.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/life/technology-microsoft-takes-a-swing-at-nvidia-with-first-in-house-ai-silicon-chip-maia-100-all-you-need-to-know-3311671/lite/",
-      "publishedDateTime": "2023-11-20T06:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-get-hit-by-a-self-driving-car-for-science.md",
-      "title": "Get Hit By A Self-Driving Car For Science",
-      "excerpt": "It’s called How (Not) To Get Hit By A Self-Driving Car, and the game is simple: Cross a mocked-up crosswalk without being detected by a person-sensing camera. The idea being that if you can ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
-      "originalUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a5e047c0a5513abbed241cac2a2fdee4.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-lost-time-for-no-reason-how-driverless-taxis-are-stressing-cities.md",
-      "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
-      "excerpt": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees. By Yiwen Lu Reporting from San Francisco Around 2 a.m ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
-      "originalUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/DRIVERLESS-CITY-kjgm/DRIVERLESS-CITY-kjgm-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
-      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
-      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
-      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
-      "title": "The mind’s eye of a neural network system",
-      "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
-      "originalUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/11/gleich-neuralnetworkLO.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Purdue University",
-        "domain": "purdue.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
-      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
-      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
-      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/649b0beb43ebc67f995d4176/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
           "width": 1600,
           "height": 900,
           "title": null,
@@ -490,94 +734,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
-      "publishedDateTime": "2023-11-19T20:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-escaped-llama-safely-corralled-by-opp-after-wandering-onto-gta-highway.md",
-      "title": "Escaped llama safely corralled by OPP after wandering onto GTA highway",
-      "excerpt": "OPP and MTO were able to safely corral and remove a llama that had wandered into live lanes of traffic on Highway 400.",
-      "sourceUrl": null,
-      "webUrl": "https://toronto.citynews.ca/2023/11/19/llama-alpaca-highway-400-gta-king-road-opp/",
-      "originalUrl": "https://toronto.citynews.ca/2023/11/19/llama-alpaca-highway-400-gta-king-road-opp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2023/11/19/Untitled-design-8.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-19T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City News",
-        "domain": "citynews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
-      "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
-      "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-19T18:28:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/ai-emotions-and-business-are-we-ready-for-a-new-communications-era/amp/",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -601,10 +760,455 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI",
-        "AI Hardware"
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-generative-ai-adoption-speed-unprecedented-oreilly-survey-says.md",
+      "title": "Generative AI adoption speed unprecedented, O’Reilly survey says",
+      "excerpt": "Survey of enterprise users of generative AI finds rapid adoption but also hurdles, with difficulty finding business use cases, legal uncertainties, and high infrastructure costs top concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.html",
+      "originalUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/arrows-showing-upward-trend_growth_chart_graph-100747015-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711380/generative-ai-adoption-speed-unprecedented-oreilly-survey-says.amp.html",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-now-that-generative-ai-is-here-where-will-all-the-data-come-from.md",
+      "title": "Now That Generative AI Is Here, Where Will All The Data Come From?",
+      "excerpt": "In fact, they will rely on human feedback more than ever. No matter where it comes from (historical, publicly available, open source or synthetic), AI datasets will continue to be curated at both the macro and micro levels before being used to train a new model and on an ongoing basis once an application has been launched into the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62879c4bc9d8e1a64ac60506/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/now-that-generative-ai-is-here-where-will-all-the-data-come-from/amp/",
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-the-advantages-and-disadvantages-of-erp-systems.md",
+      "title": "The advantages and disadvantages of ERP systems",
+      "excerpt": "It’s important to understand how the advantages and disadvantages of enterprise resource planning (ERP) can affect an organization.\nThe post The advantages and disadvantages of ERP systems appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/enterprise-resource-planning-advantages-disadvantages/",
+      "originalUrl": "https://www.ibm.com/blog/enterprise-resource-planning-advantages-disadvantages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/pi-2591234.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-what-you-need-to-know-about-prompt-engineersand-why-you-might-want-one.md",
+      "title": "What You Need To Know About Prompt Engineers—And Why You Might Want One",
+      "excerpt": "Effectively harnessing these tools is something that requires a deep understanding of both the AI tool’s capabilities and how to communicate with it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61cb2397df4f158c91554661/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/what-you-need-to-know-about-prompt-engineers-and-why-you-might-want-one/amp/",
+      "publishedDateTime": "2023-11-22T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-how-vizai-uses-artificial-intelligence-to-treat-stroke-patients-faster.md",
+      "title": "How Viz.ai Uses Artificial Intelligence To Treat Stroke Patients Faster",
+      "excerpt": "At the time, artificial intelligence wasn’t as popular a process as it is ... in cases and increase the chance that the patient gets the best guideline-directed therapy.” That’s a bigger and potentially riskier bet. “Care coordination is an interme ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
+      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655befc25c58c309b24c36c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T11:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-sam-altman-returns-as-openai-ceo-after-days-of-infighting-at-ai-startup.md",
+      "title": "Sam Altman returns as OpenAI CEO after days of infighting at AI startup",
+      "excerpt": "The move should quell an all-out employee revolt at the startup behind ChatGPT. Altman will report to a new board that includes former White House adviser Larry Summers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 339,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230828-sam-altman-se-146p-e2b224.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna126214",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214",
+      "publishedDateTime": "2023-11-22T11:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence.md",
+      "title": "Independent Industry Self-Regulation: A Path Forward For Governing Artificial Intelligence?",
+      "excerpt": "Industry self-regulation through agreed-upon voluntary standards and guidelines should be part of the mix from the very start, especially when it comes to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655cccefaa7306673434cb37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
+      "publishedDateTime": "2023-11-22T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-using-ai-to-improve-your-luxury-brand.md",
+      "title": "Using AI To Improve Your Luxury Brand",
+      "excerpt": "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1103,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
+      "publishedDateTime": "2023-11-22T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-aws-to-offer-free-ai-training-courses-to-two-million-people-by-2025.md",
+      "title": "AWS to offer free AI training courses to two million people by 2025",
+      "excerpt": "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
+      "originalUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],
-  "nextPage": null
+  "nextPage": 84
 }

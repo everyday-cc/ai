@@ -2,6 +2,303 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2023-12-25-the-top-10-people-in-artificial-intelligence-hardware.md",
+      "title": "The top 10 people in artificial-intelligence hardware",
+      "excerpt": "As the graphics-processing unit shortage continues, companies and venture capitalists are rushing to buy these chips to run powerful AI models. Nvidia, the chip giant that's been riding the boom ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
+      "originalUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/652725406561dd877e784703?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-100-top-artificial-intelligence-hardware-2023-11?amp",
+      "publishedDateTime": "2023-12-25T13:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024.md",
+      "title": "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?",
+      "excerpt": "Palantir Technologies ( PLTR -1.02%) ranks as Wood's No. 3 best AI stock of 2023. Shares of the software maker appear to be headed to end the year up close to 170%. As was the case with Meta, this performance is the best that Palantir has delivered in its history.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg",
+          "width": 2122,
+          "height": 1412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-25T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-therapy-in-an-age-of-technological-abundance.md",
+      "title": "Therapy in an Age of Technological Abundance",
+      "excerpt": "but something between these suggests that unlimited therapy will be somewhat more complex in its deliverances. As I noted at the outset, this entire discussion presupposes a certain amount of optimism about technology, particularly artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2023-12/pexels-michelangelo-buonarroti-8728382.jpg?itok=2s9ik4YK",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/philosophy-and-therapy/202312/therapy-in-an-age-of-technological-abundance?amp",
+      "publishedDateTime": "2023-12-23T19:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-therapy-llamas-patrol-portland-airport-to-relieve-passenger-stress.md",
+      "title": "Therapy llamas patrol Portland airport to relieve passenger stress",
+      "excerpt": "“Oh my god, I so need a therapy llama,” she says with relief. “I am so happy right now.” Gregory said llamas are often misunderstood. Contrary to animals-behaving-badly videos, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/travel/2023/12/22/therapy-llamas-portland-airport/",
+      "originalUrl": "https://www.washingtonpost.com/travel/2023/12/22/therapy-llamas-portland-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AGCB34EJ6AOXRGQBGUC4NFPLSA.jpg&w=1440",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T22:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-health-care-climbs-amid-deal-activity-health-care-roundup.md",
+      "title": "Health Care Climbs Amid Deal Activity -- Health Care Roundup",
+      "excerpt": "The deal followed similar moves from AbbVie and Investors have shied away from the health-care sector in 2023 as a rebound in risk appetite has lured dollars towards the artificial-intelligence niches of the tech industry group and away from the safer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-climbs-amid-deal-activity-health-care-roundup-89a3277f",
+      "publishedDateTime": "2023-12-22T21:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-23-ai-is-helping-the-healthcare-industry-and-could-transform-the-way-patients-get-drugs-and-treatments.md",
+      "title": "AI is helping the healthcare industry and could transform the way patients get drugs and treatments",
+      "excerpt": "But advancements in artificial-intelligence technology are starting to show promise in medicine, potentially transforming how doctors, nurses, and other healthcare professionals conduct their day-to-day jobs and ultimately saving lives. In the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
+      "originalUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65849e48a79e5746976c78dc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-healthcare-doctors-drugs-treatments-patients-2023-12?amp",
+      "publishedDateTime": "2023-12-22T20:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-microsoft-launches-private-preview-of-azure-ai-health-bot-copilot-for-healthcare-companies.md",
       "title": "Microsoft launches private preview of Azure AI Health Bot Copilot for healthcare companies",
       "excerpt": "Today, Microsoft announced it is expanding its efforts to add AI features in healthcare with the private preview launch of Azure AI Health Bot Copilot features. In a blog post, Microsoft stated ...",
@@ -1130,266 +1427,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-how-the-eu-ai-act-regulates-artificial-intelligence-what-it-means-for-cybersecurity.md",
-      "title": "How the EU AI Act regulates artificial intelligence: What it means for cybersecurity",
-      "excerpt": "On December 8, 2023, after more than 36 hours of negotiations, European Union lawmakers agreed on the details of a new law to regulate artificial intelligence. The document, dubbed the AI Act, is one of the first attempts in the world to establish a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
-      "originalUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csoonline.com/wp-content/uploads/2023/12/hemicycle_of_louise_weiss_building_of_the_european_parliament_strasbourg-100624123-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals.md",
-      "title": "Artificial Intelligence Is Here To Stay: Considerations For PR Professionals",
-      "excerpt": "Machine learning, or artificial intelligence (AI), is a game changer ... But AI’s uses are much broader—think facial recognition in security systems, medical diagnosis in healthcare, self-driving automobiles and fraud detection in financial institutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6577122956c96696afc3528e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1135,
-          "height": 757,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2023/12/12/artificial-intelligence-is-here-to-stay-considerations-for-pr-professionals/amp/",
-      "publishedDateTime": "2023-12-12T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
-      "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
-      "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "publishedDateTime": "2023-12-11T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-north-america-artificial-intelligence-in-healthcare-market-to-hit-usd-1142-billion-by-2033-says-we-market-research.md",
-      "title": "North America Artificial Intelligence in Healthcare Market to hit USD 114.2 Billion by 2033, Says We Market Research",
-      "excerpt": "As per the most recent analysis conducted by We Market Research, the North America Artificial Intelligence in Healthcare Market is poised to achieve a valuation of $114.2 billion by the conclusion of 2033.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931143.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2267296/We_Market_Research_Logo.jpg",
-          "width": 400,
-          "height": 298,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T10:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-how-ai-therapy-is-filling-gaps-in-mental-health-care.md",
-      "title": "How AI therapy is filling gaps in mental health care",
-      "excerpt": "And for some users, they’ve been beneficial. 80 percent of people who used ChatGPT for mental health advice reported it was a good alternative for therapy, according to Business Wire. The majority of Americans don’t believe AI therapy will help more than it hurts, but that’s not stopping innovations in artificial intelligence and therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
-      "originalUrl": "https://www.boisestatepublicradio.org/2023-12-10/how-ai-therapy-is-filling-gaps-in-mental-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T03:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boise State Public Radio",
-        "domain": "boisestatepublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.md",
-      "title": "Combining artificial intelligence and spectral imaging accurately identifies skin cancer",
-      "excerpt": "In a groundbreaking doctoral study, artificial intelligence (AI) has proven its ability to accurately distinguish malignant skin lesions from benign ones using hyperspectral imaging (HSI). Prior to AI analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html",
-      "originalUrl": "https://www.helsinkitimes.fi/themes/themes/science-and-technology/24569-combining-artificial-intelligence-and-spectral-imaging-accurately-identifies-skin-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-09T10:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Helsinki Times",
-        "domain": "helsinkitimes.fi",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

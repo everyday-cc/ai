@@ -2,6 +2,301 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-10-ai-is-getting-boring-and-thats-pretty-exciting.md",
+      "title": "AI Is Getting Boring, And That’s Pretty Exciting",
+      "excerpt": "Ironically, AI will hit its full stride only when it disappears into the software and tasks that run our businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c65aa027388edae3f3cdef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
+      "publishedDateTime": "2024-02-09T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-there-are-no-limits-when-generative-ai-is-accessible-to-all.md",
+      "title": "There Are No Limits When Generative AI Is Accessible To All",
+      "excerpt": "These instances are just the tip of the iceberg, showcasing how AI’s integration into common services is subtly yet significantly transforming our digital experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c543c15254373c34936c6f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
+      "publishedDateTime": "2024-02-09T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-finally-now-with-10m-adds-ai-for-better-insight-into-small-business-accounting.md",
+      "title": "Finally, now with $10M, adds AI for better insight into small business accounting",
+      "excerpt": "Finally, a fintech startup helping businesses automate ... “The trick for us is really leveraging AI to give more insights and start highlighting what some of these data points mean ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/finally-expense-management-cards.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
+      "publishedDateTime": "2024-02-06T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-singapore-ai-fintech-investment-surges-in-h2-despite-global-funding-winter-kpmg.md",
+      "title": "Singapore AI fintech investment surges in H2 despite global funding winter: KPMG",
+      "excerpt": "FUNDING for artificial intelligence (AI) technologies in Singapore’s fintech sector surged 77 per cent in the second half of 2023, despite a global decline in fintech investments amid economic uncertainties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstimes.com.sg/startups-tech/startups/singapore-ai-fintech-investment-surges-h2-despite-global-funding-winter-kpmg",
+      "originalUrl": "https://www.businesstimes.com.sg/startups-tech/startups/singapore-ai-fintech-investment-surges-h2-despite-global-funding-winter-kpmg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/06/kpmg13_6.jpg",
+          "width": 880,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T04:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Times",
+        "domain": "businesstimes.com.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-here-are-4-fintech-sectors-that-are-primed-to-soar-in-2024-and-2-that-are-likely-to-see-more-pain.md",
+      "title": "Here are 4 fintech sectors that are primed to soar in 2024, and 2 that are likely to see more pain",
+      "excerpt": "VCs outline where they're still excited about fintech, including Wall Street AI and payroll, and the areas that they'll likely be avoiding in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fintech-investors-investment-areas-ai-payroll-infrastructure-2024-1",
+      "originalUrl": "https://www.businessinsider.com/fintech-investors-investment-areas-ai-payroll-infrastructure-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ba938cac2de4f17ee64dd8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T13:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets.md",
       "title": "Forging a framework for central bank digital currencies and tokenization of other financial assets",
       "excerpt": "A high performing framework for CBDCs that combines privacy, regulation compliance and advanced resilience.\nThe post Forging a framework for central bank digital currencies and tokenization of other financial assets appeared first on IBM Blog.\n",
@@ -175,6 +470,58 @@
       "ampWebUrl": "https://techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/block-becomes-the-latest-fintech-to-lay-off-workers/amp/",
       "publishedDateTime": "2024-01-30T21:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-fintech-ramp-acquires-another-ai-powered-startup.md",
+      "title": "Fintech Ramp acquires another AI-powered startup",
+      "excerpt": "Spend management startup Ramp has acquired AI-powered startup Venue as it expands its procurement offering. Venue was founded in 2022 by TK Kong, Young Kim, and Kevin Chan, and its aim was to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
+      "originalUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/hands-signing-check.png?resize=1200,638",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/fintech-ramp-acquires-another-ai-powered-startup/amp/",
+      "publishedDateTime": "2024-01-30T20:27:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -1056,309 +1403,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
-      "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
-      "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
-      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-York-Stock-Exchange-1939-trade.jpg",
-          "width": 800,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T21:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
-      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
-      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "publishedDateTime": "2024-01-14T21:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-how-fintech-has-gone-mainstream.md",
-      "title": "How fintech has gone mainstream",
-      "excerpt": "Last year, financial technology (fintech) finally went mainstream. Here are some examples that underline my case.",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
-      "originalUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Ux3UMRW2YPerefgGhzJhwT-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams.md",
-      "title": "Rigetti Computing Awarded Innovate UK Grant to Develop Quantum Machine Learning Techniques for Financial Data Streams",
-      "excerpt": "Rigetti will be joined by Amazon Web Services (AWS), Imperial College London, and Standard Chartered to develop quantum machine learning techniques designed to enable financial institutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
-      "originalUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
-      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T03:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-ai-hardware-fintech-woes-and-venture-capitals-shedding-phase.md",
-      "title": "AI hardware, fintech woes and venture capital’s shedding phase",
-      "excerpt": "This is our newly revamped Wednesday episode, and we’re going to be digging deep into critical startup and venture capital news. This week, PhotoRoom is raising more money, Treasure Financial is cutting staff,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
-      "originalUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
-          "width": 680,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
-      "publishedDateTime": "2024-01-10T16:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience.md",
-      "title": "Quasar Markets Launches Feb. 2 with a Pioneering FinTech Platform That Redefines the AI User Experience",
-      "excerpt": "Tampa, Florida, United States - January 8, 2024 — Quasar Markets, a cutting-edge fintech company powered by AI-driven financial market research, is set to launch on February 2. The company aims to redefine the world of finance by changing the way ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

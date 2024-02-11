@@ -2,21 +2,177 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2024-01-08-uk-ipos-new-direction-on-ai-neural-networks.md",
-      "title": "UK IPO’s New Direction On AI Neural Networks.",
-      "excerpt": "UK IPO’s New Direction On AI Neural Networks. Legal News and Analysis - United Kingdom - Intellectual Property, Telecommunications, Media & Technology -",
+      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
+      "title": "California considers artificial intelligence to improve traffic",
+      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
       "sourceUrl": null,
-      "webUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
-      "originalUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
+      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://conventuslaw.com/wp-content/uploads/2022/04/CH-asset-UnitedKingdomv2_l2r_main.jpg",
+          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
           "width": 1140,
-          "height": 500,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
+      "publishedDateTime": "2024-01-11T06:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News 8",
+        "domain": "cbs8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
+      "title": "Toyota combines voice, gesture recognition in new operating system",
+      "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "originalUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T04:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
+      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T03:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
+      "title": "Robot revolution: Uncovering the real value of security robots",
+      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T01:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-botricia-presents-dhruvitkumar-talatis-ai-a-new-god-we-trust-exploring-technology-and-spirituality.md",
+      "title": "Botricia Presents Dhruvitkumar Talati's 'AI - A New GOD We Trust': Exploring Technology and Spirituality.",
+      "excerpt": "Notably, he has architected end-to-end AI solutions on AWS, integrating services like Amazon SageMaker, Lambda, EC2, and S3 to meet diverse business requirements. Woven with a tapestry of philosophy, science, and human psychology, the book prompts readers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
+      "originalUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.kisspr.com/system/media_files/images/000/049/985/original_jpeg/image_%281%29.jpg",
+          "width": 875,
+          "height": 1400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +182,165 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T10:08:00Z",
+      "publishedDateTime": "2024-01-11T01:20:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Conventus Law",
-        "domain": "conventuslaw.com",
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
+      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm.md",
+      "title": "AI kitchen gadgets and robots take Las Vegas tech fair by storm",
+      "excerpt": "But as the 2024 Consumer Electronics Show (CES) in Las Vegas gets underway, optimism is running high amid hopes that artificial intelligence (AI ... powered appliances like air-fryers and grills to a robot barista, the food tech at CES 2024 is ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "originalUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/20/520a912d-dfde-5a3b-8fd4-35768ddd4ce2/65a01f2c7be37.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-artificial-intelligence-the-latest-architecture-and-news.md",
+      "title": "Artificial Intelligence: The Latest Architecture and News",
+      "excerpt": "It was the awe-inspiring works of Renaissance masters that propelled me onto a transformative trajectory, guiding me toward harnessing the immense potential of artificial intelligence and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArchDaily",
+        "domain": "archdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
+      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
+      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AZOM",
+        "domain": "azom.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -45,21 +355,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-08-how-do-we-make-money-with-generative-ai.md",
-      "title": "How do we make money with generative AI?",
-      "excerpt": "Succeeding with generative AI requires the expertise to design new use cases and the ability to develop and operationalize genAI models. These are major challenges.",
+      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
+      "title": "Neural implant can read deep neural activity from the brain surface",
+      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.html",
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
+      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2020/08/united_states_currency_money_usa_dollar_sign_consisting_of_abstract_digits_numbers_money_finance_budget_revenue_expense_earnings_income_salary_salaries_growth_by_istock_onespirit_gettyimages-674952306_2400x1600-100854959-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,23 +377,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711981/how-do-we-make-money-with-generative-ai.amp.html",
-      "publishedDateTime": "2024-01-08T10:03:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -97,125 +398,20 @@
       ]
     },
     {
-      "path": "_news/2024-01-08-volkswagen-is-adding-chatgpt-to-its-infotainment-system.md",
-      "title": "Volkswagen is adding ChatGPT to its infotainment system",
-      "excerpt": "Working with the voice recognition company Cerence, VW is adding ChatGPT to its infotainment system. We first experienced Cerence's excellent in-car voice recognition at CES in 2016—back then ...",
+      "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
+      "title": "Top 10 Best Machine Learning Software in 2024",
+      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
-      "originalUrl": "https://arstechnica.com/cars/2024/01/volkswagen-is-adding-chatgpt-to-its-infotainment-system/",
+      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
+      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GTI_Cockpit_Display-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-heres-what-google-assistant-with-bard-will-look-like-on-android.md",
-      "title": "Here's what Google Assistant with Bard will look like on Android",
-      "excerpt": "Google Assistant with Bard is coming soon, and leaked screenshots showcase the various UI and features of the AI assistant in action.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "originalUrl": "https://www.androidauthority.com/google-assistant-with-bard-android-ui-3400661/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T06:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment.md",
-      "title": "Revolutionizing Healthcare: The Impact of Artificial Intelligence on Medical Diagnosis and Treatment",
-      "excerpt": "Introduction: In recent years, the intersection of healthcare and artificial intelligence (AI) has given rise to groundbreaking innovations that are reshaping the landscape of medical diagnosis and treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "originalUrl": "https://techbullion.com/revolutionizing-healthcare-the-impact-of-artificial-intelligence-on-medical-diagnosis-and-treatment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2024/01/Revolutionizing-Healthcare-The-Impact-of-Artificial-Intelligence-on-Medical-Diagnosis-and-Treatment.jpg",
-          "width": 650,
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Machine-Learning-Software.jpg",
+          "width": 800,
           "height": 450,
           "title": null,
           "attribution": null,
@@ -226,11 +422,270 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T04:00:00Z",
+      "publishedDateTime": "2024-01-11T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-top-10-best-python-libraries-for-natural-language-processing-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2024",
+      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/10-Best-Python-Libraries-for-Natural-Language-Processing.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
+      "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
+      "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T20:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-openai-unveils-app-store-for-custom-chatbots.md",
+      "title": "OpenAI Unveils App Store for Custom Chatbots",
+      "excerpt": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/01/10/business/10gpt-store/10gpt-store-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T19:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-sams-club-is-testing-out-ai-computer-vision-tech-to-speed-up-exit-process-at-stores.md",
+      "title": "Sam’s Club is testing out AI, computer vision tech to speed up exit process at stores",
+      "excerpt": "Pilots are currently underway at 10 Sam’s Club locations and involves a combination of computer vision and digital technology which captures images of carts and verifies payment for all the items in the shopper’s possession.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
+      "originalUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/CES-Sams-Exit-Tech-Lead-100.jpg",
+          "width": 1001,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supermarket News",
+        "domain": "supermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-ai-hardware-fintech-woes-and-venture-capitals-shedding-phase.md",
+      "title": "AI hardware, fintech woes and venture capital’s shedding phase",
+      "excerpt": "This is our newly revamped Wednesday episode, and we’re going to be digging deep into critical startup and venture capital news. This week, PhotoRoom is raising more money, Treasure Financial is cutting staff,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
+      "originalUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/10/ai-hardware-fintech-woes-and-venture-capitals-shedding-phase/",
+      "publishedDateTime": "2024-01-10T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-skeptical-about-ai-in-healthcare-heres-how-some-doctors-and-hospitals-are-using-it.md",
+      "title": "Skeptical about AI in healthcare? Here's how some doctors and hospitals are using it",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and ...",
+      "sourceUrl": null,
+      "webUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "originalUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -245,21 +700,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-08-ibm-taps-taiwan-to-develop-traditional-chinese-llms.md",
-      "title": "IBM taps Taiwan to develop Traditional Chinese LLM's",
-      "excerpt": "Once a leader in artificial intelligence (AI), IBM has recently adopted a collaborative strategy amid the surge in generative AI.",
+      "path": "_news/2024-01-10-should-retailers-use-facial-recognition-at-all.md",
+      "title": "Should retailers use facial recognition at all?",
+      "excerpt": "The FTC accused Rite Aid of misusing facial recognition technology - without informing customers or employees - which resulted in false positives. Learn more about their misuse here.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
-      "originalUrl": "https://www.digitimes.com/news/a20240108PD210/ibm-taiwan-llm-generative-ai-watsonx.html",
+      "webUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
+      "originalUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img.digitimes.com/newsshow/20240108pd210_files/2_b.jpg",
-          "width": 640,
-          "height": 426,
+          "url": "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/e5ad716f04bea2080efa6aad02fea87c-scaled.jpg",
+          "width": 2560,
+          "height": 1512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -269,11 +724,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T03:03:00Z",
+      "publishedDateTime": "2024-01-10T15:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -283,26 +738,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-08-a-computer-vision-and-machine-learning-system-that-monitors-and-controls-workup-processes.md",
-      "title": "A computer vision and machine learning system that monitors and controls workup processes",
-      "excerpt": "More information: Rama El-khawaldeh et al, Keeping an \"eye\" on the experiment: computer vision for real-time monitoring and control, Chemical Science (2023). DOI: 10.1039/D3SC05491H Journal ...",
+      "path": "_news/2024-01-10-how-video-game-tech-ai-and-computer-vision-help-decode-animal-pain-and-behavior.md",
+      "title": "How video game tech, AI, and computer vision help decode animal pain and behavior",
+      "excerpt": "Top neuroscience labs are adapting new and unexpected tools to gain a deeper understanding of how mice, and ultimately humans, react to different drug treatments.",
       "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
-      "originalUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
+      "webUrl": "https://www.popsci.com/science/computer-vision-mice-pain-behavior/",
+      "originalUrl": "https://www.popsci.com/science/computer-vision-mice-pain-behavior/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/a-computer-vision-and.jpg",
-          "width": 1280,
-          "height": 820,
+          "url": "https://www.popsci.com/uploads/2024/01/10/Mouse_VisionOPENER.gif?auto=webp",
+          "width": 2000,
+          "height": 1125,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,13 +765,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-vision-machine-workup.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-vision-machine-workup.amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "Popular Science",
+        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -328,23 +783,23 @@
       "topics": [
         "Computer Vision",
         "AI",
-        "Machine Learning"
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2024-01-08-ces-2024-lgs-new-smart-home-hub-is-a-cute-little-robot.md",
-      "title": "CES 2024: LG's New Smart Home Hub Is a Cute Little Robot",
-      "excerpt": "Really, the bot shares many core functions with existing smart home hubs, including integrations to control other smart home devices. Additionally, the robot uses face and user recognition ...",
+      "path": "_news/2024-01-10-how-to-build-the-foundation-for-a-profitable-ai-startup.md",
+      "title": "How to build the foundation for a profitable AI startup",
+      "excerpt": "Building a profitable AI business poses unique challenges beyond those faced when launching a typical tech startup. Systemic issues like the high cost of renting GPUs, a widening talent gap, towering salaries, and expensive API and hosting requirements can ...",
       "sourceUrl": null,
-      "webUrl": "https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot",
-      "originalUrl": "https://lifehacker.com/tech/ces-lg-new-ai-smart-home-robot",
+      "webUrl": "https://techcrunch.com/2024/01/10/how-to-build-the-foundation-for-a-profitable-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2024/01/10/how-to-build-the-foundation-for-a-profitable-ai-startup/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://lifehacker.com/imagery/articles/01HKN4FJS7BBMXJ23V3VHNNWW5/hero-image.fill.size_1200x675.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2016/02/shutterstock_181640888.png?resize=1200,675",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -356,11 +811,53 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "publishedDateTime": "2024-01-10T14:35:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Lifehacker",
-        "domain": "lifehacker.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-siemens-and-aws-partner-to-democratize-generative-ai-in-software-development.md",
+      "title": "Siemens and AWS Partner to Democratize Generative AI in Software Development",
+      "excerpt": "Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/siemens-and-aws-partner-to-democratize-generative-ai-in-software-development/",
+      "originalUrl": "https://www.datanami.com/this-just-in/siemens-and-aws-partner-to-democratize-generative-ai-in-software-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T13:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -370,26 +867,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-08-driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad.md",
-      "title": "Driverless navigation to charge spots – thanks to Bosch and VW subsidiary Cariad",
-      "excerpt": "Bosch and Volkswagen subsidiary Cariad are testing driverless parking and charging based on automated valet parking. Automated parking service now includes automated charging of electric vehicles. Aim is to create additional benefit for automotive ...",
+      "path": "_news/2024-01-10-duolingo-cuts-workers-as-it-relies-more-on-ai.md",
+      "title": "Duolingo cuts workers as it relies more on AI",
+      "excerpt": "Language-learning app Duolingo has been steadily firing contract writers and translators, replacing them with artificial intelligence, in one of the most high-profile instances yet of a company ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad/article_727874af-0bba-542a-8819-2c5d63cfc002.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad/article_727874af-0bba-542a-8819-2c5d63cfc002.html",
+      "webUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2024/01/10/duolingo-ai-layoffs/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HWMSG5VKJ7GQNMVQUE7A6VV6NM.JPG&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -399,11 +896,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "publishedDateTime": "2024-01-10T12:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -413,40 +910,31 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-08-google-assistant-with-bard-google-bard-advanced-paid-subscription-screenshots-leaked.md",
-      "title": "Google Assistant With Bard, Google Bard Advanced Paid Subscription Screenshots Leaked",
-      "excerpt": "Furthermore, leaked screenshots also reveal how Google Assistant with Bard will look like on Android phones. When we recently got intimated via a leak that ChatGPT might be planning to introduce ...",
+      "path": "_news/2024-01-10-mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity.md",
+      "title": "Mastering Google Bard Prompts and Techniques for AI-Powered Productivity",
+      "excerpt": "Google Bard, a groundbreaking advancement in artificial intelligence, marks the beginning of a revolutionary phase in AI-driven creative and productive",
       "sourceUrl": null,
-      "webUrl": "https://www.themobileindian.com/news/google-assistant-with-bard-google-bard-advanced-paid-subscription-screenshots-leaked",
-      "originalUrl": "https://www.themobileindian.com/news/google-assistant-with-bard-google-bard-advanced-paid-subscription-screenshots-leaked",
+      "webUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
+      "originalUrl": "https://www.geeky-gadgets.com/mastering-google-bard-prompts-and-techniques-for-ai-powered-productivity/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.themobileindian.com/wp-content/uploads/2023/10/Assistant-with-bard.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "publishedDateTime": "2024-01-10T10:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobile",
-        "domain": "themobileindian.com",
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -461,409 +949,12 @@
       ]
     },
     {
-      "path": "_news/2024-01-08-haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces-pioneering-the-era-of-desktop-automation-in-robotic-technology.md",
-      "title": "HAPLY ROBOTICS DEBUTS REVOLUTIONARY HAPTIC CONTROL TECHNOLOGY \"HARP\" AT CES - PIONEERING THE ERA OF \"DESKTOP AUTOMATION \" IN ROBOTIC TECHNOLOGY",
-      "excerpt": "\"Our latest development, HARP, combined with our unique approach to robotic control, represents a major leap forward in haptic technology. These innovations reflect our ongoing commitment to ...",
+      "path": "_news/2024-01-10-raz-memory-cell-phone-allows-people-with-impaired-speech-to-speak-and-be-understood-using-their-own-voice.md",
+      "title": "RAZ Memory Cell Phone Allows People with Impaired Speech to Speak and be Understood Using their Own Voice",
+      "excerpt": "CABIN JOHN, Md.--(BUSINESS WIRE)--RAZ Mobility (www.razmobility.com), is integrating speech recognition technology for non-standard speech into its RAZ Memory Cell Phone. For the first time ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-journal.com/haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces---pioneering-the-era/article_7aee3a18-a350-5332-a26f-8f53bac1c710.html",
-      "originalUrl": "https://www.news-journal.com/haply-robotics-debuts-revolutionary-haptic-control-technology-harp-at-ces---pioneering-the-era/article_7aee3a18-a350-5332-a26f-8f53bac1c710.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/d8/ad829ac1-54a2-5009-bdd0-f1a9442dfd38/659c0e1eeb26d.image.jpg?crop=1953%2C1025%2C0%2C17&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longview News-Journal",
-        "domain": "news-journal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-healthcare-technology-trends-to-watch-in-2024.md",
-      "title": "Healthcare technology trends to watch in 2024",
-      "excerpt": "Still, interest in emerging technologies is high this year — particularly as artificial intelligence ... lead analyst in healthcare IT at market intelligence company CB Insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
-      "originalUrl": "https://www.healthcaredive.com/news/healthcare-technology-artificial-intelligence-digital-health-cybersecurity-outlook-2024/702980/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcaredive.com/imgproxy/bQD7_QlXjW6ZBkcFCnwPVD4drx1E9e1Twq5FJqrAVPM/g:ce/rs:fill:770:435:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0MjE2MjY0MzcuanBn.jpg",
-          "width": 770,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Dive",
-        "domain": "healthcaredive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-ibm-marks-2024-as-the-year-of-balancing-technology-and-trust.md",
-      "title": "IBM marks 2024 as the year of balancing technology and trust",
-      "excerpt": "Generative AI introduces new risks including hallucinations, safeguarding PII data, eliminating profanities and so on. IBM first launched its Watson platform in 2010 but market acceptance of the technology at that point was slow. Last year IBM recast its ...",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust",
-      "originalUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-11/business-g153bb587e_640.png",
-          "width": 640,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ibm-marks-2024-year-balancing-technology-and-trust?amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-oxfordshire-based-firm-oxa-designs-the-ai-behind-self-driving-cars.md",
-      "title": "Oxfordshire based firm Oxa designs the AI behind self-driving cars",
-      "excerpt": "The latest in automated driving technology has been on display ... It designs the software, the artificial intelligence (AI), which it claims could be fitted to any vehicle. Mr Newman said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/oxfordshire-based-firm-oxa-designs-062143491.html",
-      "originalUrl": "https://www.aol.com/oxfordshire-based-firm-oxa-designs-062143491.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/2ac9bcc405062d103af2cfae2787aca3",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-portable-light-technique-pinpoints-brain-activity-for-object-recognition.md",
-      "title": "Portable light technique pinpoints brain activity for object recognition",
-      "excerpt": "To understand the experiments, it helps to know the functions of the LOC and FFA. The LOC plays a crucial role in object recognition; its neurons are involved in processing information about the shapes and forms of objects. On the other hand, the FFA is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20240108/Portable-light-technique-pinpoints-brain-activity-for-object-recognition.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20240108/Portable-light-technique-pinpoints-brain-activity-for-object-recognition.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Magnetic_Resonance_Imaging-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-siemens-and-aws-join-forces-to-democratize-generative-ai-in-software-development.md",
-      "title": "Siemens and AWS join forces to democratize generative AI in software development",
-      "excerpt": "Access to Amazon Bedrock's advanced generative AI technologies will help customers accelerate digitalization and tackle skilled labor shortages LAS VEGAS, Jan. 8, 2024 /PRNewswire/ -- Siemens and Amazon Web Services (AWS) are strengthening their partnership and making it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942471.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942471.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2313037/Siemens_AWS_partnership.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
-      "title": "Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
-      "excerpt": "Together with customers and partners including Sony, Red Bull Racing, Unlimited Tomorrow, and Blendhub, Siemens highlights how technology is transforming the everyday; Siemens par",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2312969/Siemens_CES_2024_Sony_01.jpg",
-          "width": 400,
-          "height": 234,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-study-redevelops-framework-for-teaching-artificial-intelligence-and-robotics.md",
-      "title": "Study redevelops framework for teaching artificial intelligence and robotics",
-      "excerpt": "More information: Jiahong Su (苏嘉红) et al, Artificial Intelligence and Robotics for Young Children: Redeveloping the Five Big Ideas Framework, ECNU Review of Education (2023). DOI: 10.1177 ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "originalUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-redevelops-frame.jpg",
-          "width": 2880,
-          "height": 1488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-volkswagen-adds-chatgpt-voice-recognition-to-some-models.md",
-      "title": "Volkswagen adds ChatGPT voice recognition to some models",
-      "excerpt": "At CES 2024, Volkswagen announced that it will integrate ChatGPT into the voice-recognition systems of some future vehicles, something the automaker claims will provide greater functionality than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
-      "originalUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/group_horizontal.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-waymos-robotaxis-head-for-the-highway.md",
-      "title": "Waymo’s robotaxis head for the highway",
-      "excerpt": "After several years of testing its autonomous vehicles on city streets without a human engineer behind the wheel, Waymo will send its fully driverless cars onto freeways for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
+      "webUrl": "https://www.businesswire.com/news/home/20240110198584/en/RAZ-Memory-Cell-Phone-Allows-People-with-Impaired-Speech-to-Speak-and-be-Understood-Using-their-Own-Voice",
+      "originalUrl": "https://www.businesswire.com/news/home/20240110198584/en/RAZ-Memory-Cell-Phone-Allows-People-with-Impaired-Speech-to-Speak-and-be-Understood-Using-their-Own-Voice",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -873,158 +964,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "publishedDateTime": "2024-01-10T10:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-5-books-to-help-you-understand-artificial-intelligence.md",
-      "title": "5 books to help you understand Artificial Intelligence",
-      "excerpt": "According to Russell, the starting points of this downwards economic pressure can already be seen in products like self-driving cars and AI personal assistants. Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
-      "originalUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/AI-Books-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
-      "publishedDateTime": "2024-01-07T22:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity.md",
-      "title": "The Year Of Hallucinating Artificial Intelligence And Arrogant Human Ingenuity",
-      "excerpt": "The “godfathers” of the current dominant version of AI expressed in 2023 alarm, awe, and humility about what they helped create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad27da9403a382e07d87f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "publishedDateTime": "2024-01-07T16:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-07-speech-accessibility-project-expands-to-include-als-patients-in-us-and-puerto-rico.md",
-      "title": "Speech Accessibility Project expands to include ALS patients in U.S. and Puerto Rico",
-      "excerpt": "The Speech Accessibility Project has expanded its recruitment and is inviting U.S. and Puerto Rican adults living with amyotrophic lateral sclerosis to participate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20240105/Speech-Accessibility-Project-expands-to-include-ALS-patients-in-US-and-Puerto-Rico.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20240105/Speech-Accessibility-Project-expands-to-include-ALS-patients-in-US-and-Puerto-Rico.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-07T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1039,21 +983,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-07-ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect.md",
-      "title": "CES 2024 will see AI in everything from robots to laptops — here's what to expect",
-      "excerpt": "Artificial intelligence fever will be everywhere at CES this year with the technology appearing in everything from smart home products to laptops and robots. The past twelve months have seen an ...",
+      "path": "_news/2024-01-10-microsoft-debates-what-to-do-with-ai-lab-in-china.md",
+      "title": "Microsoft Debates What to Do With A.I. Lab in China",
+      "excerpt": "Amid U.S.-China tensions, the company has faced questions over whether operating an advanced research lab in Beijing is politically tenable.",
       "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
-      "originalUrl": "https://www.tomsguide.com/features/ces-2024-will-see-ai-in-everything-from-robots-to-laptops-heres-what-to-expect",
+      "webUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
+      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/microsoft-china-ai-lab.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/2LtvxawLodfs2okBJ2V8nb-1200-80.png",
-          "width": 1200,
-          "height": 675,
+          "url": "https://static01.nyt.com/images/2024/01/04/multimedia/00microsoft-china-top-fmkz/00microsoft-china-top-fmkz-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1063,57 +1007,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-07T00:00:00Z",
+      "publishedDateTime": "2024-01-10T10:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-2-artificial-intelligence-ai-stocks-down-58-and-69-to-buy-in-2024-and-hold-for-the-long-haul.md",
-      "title": "2 Artificial Intelligence (AI) Stocks Down 58% and 69% to Buy in 2024 and Hold for the Long Haul",
-      "excerpt": "With the artificial intelligence (AI) revolution just starting to unfold and expectations that the Federal Reserve might cut interest rates this year, investors who back the right beaten-down ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/06/2-artificial-intelligence-ai-stocks-down-58-and-69/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759259/a-person-looking-at-charts-on-a-computer.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-06T07:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1129,8 +1030,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

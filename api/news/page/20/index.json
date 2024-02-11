@@ -2,21 +2,21 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2024-01-19-how-can-ai-support-value-based-care.md",
-      "title": "How Can AI Support Value-Based Care?",
-      "excerpt": "Artificial Intelligence has the potential ... 28 providers and payers made commitments for responsible use of AI in healthcare. These organizations include CVS Health, Mass General Brigham ...",
+      "path": "_news/2024-01-22-its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024.md",
+      "title": "It’s 2021 for AI while the rest of the startup market is stuck in 2024",
+      "excerpt": "Listen here or wherever you get your podcasts. Hello, and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. This is our Monday show, in which we take a look back at the ...",
       "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
-      "originalUrl": "https://medcitynews.com/2024/01/artificial-intelligence-value-based-care/",
+      "webUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://medcitynews.com/uploads/2021/12/GettyImages-1300745916.jpg",
-          "width": 788,
-          "height": 443,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,118 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:27:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/its-2021-for-ai-while-the-rest-of-the-startup-market-is-stuck-in-2024/amp/",
+      "publishedDateTime": "2024-01-22T15:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
-      "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
-      "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "originalUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-news-tagged-with-deep-learning.md",
-      "title": "News tagged with deep learning",
-      "excerpt": "The Japanese Ophthalmological Society and the National Institute of Informatics have developed and public-released an AI model to estimate an individual's sex from fundus images, using data ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-the-generative-ai-future-will-not-be-free.md",
-      "title": "The generative AI future will not be free",
-      "excerpt": "I asked Oren Etzioni, an AI expert and a veteran of the online Search business. He shared a few thoughts: The broad services (Search, Facebook, WhatsApp) are still free/ad-supported (if the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
-      "originalUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -151,78 +49,25 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-19-zucks-gpu-flex-will-cost-meta-as-much-as-18-billion-by-the-end-of-2024.md",
-      "title": "Zuck's GPU flex will cost Meta as much as $18 billion by the end of 2024",
-      "excerpt": "A single Nvidia H100 GPU is estimated to cost about $30,000 although ... Zuckerberg noted in Thursday's video that Meta's AI and metaverse projects are coming closer together given his expectation ...",
+      "path": "_news/2024-01-22-robotic-priests-ai-cults-and-a-bible-by-chatgpt-why-people-around-the-world-are-worshipping-robots-and-artificial-intelligence.md",
+      "title": "Robotic priests, AI cults and a 'Bible' by ChatGPT: Why people around the world are worshipping robots and artificial intelligence",
+      "excerpt": "Robot priest Mindar is six feet four inches ... dedicated to building a new God with 'Christian morals' using artificial intelligence. Other quasi-religious movements which 'worship' AI include ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1",
-      "originalUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-12974317/robotic-priests-ai-cult-chatgpt-bible.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/65098988bf943d00195b6348?width=1200&format=jpeg",
+          "url": "https://i.dailymail.co.uk/1s/2024/01/22/15/80133115-0-image-a-1_1705936006585.jpg",
           "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1?amp",
-      "publishedDateTime": "2024-01-19T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry.md",
-      "title": "DeepMind AI rivals the world’s smartest high schoolers at geometry",
-      "excerpt": "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/",
-      "originalUrl": "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1760047727-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -232,21 +77,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T23:55:00Z",
+      "publishedDateTime": "2024-01-22T15:07:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -255,26 +91,27 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
-      "path": "_news/2024-01-19-zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai.md",
-      "title": "Zuckerberg says Meta is working on open source “general intelligence” for AI",
-      "excerpt": "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course).",
+      "path": "_news/2024-01-22-palworld-accused-of-being-an-ai-product-with-no-evidence-so-far.md",
+      "title": "‘Palworld’ Accused Of Being ‘An AI Product,’ With No Evidence So Far",
+      "excerpt": "Palworld has been accused of using GenAI based on past Pocket Pair behavior, but is there any hard evidence that's the case at this point?",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
+      "webUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
+      "originalUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/zuckerberg_front_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae763a4a628c4f4b6663a0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1224,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -282,60 +119,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T23:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-microsofts-copilot-revolutionizes-ai-investing.md",
-      "title": "Microsoft's Copilot Revolutionizes AI Investing",
-      "excerpt": "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1338,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T22:32:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2024/01/22/palworld-accused-of-using-genai-with-no-evidence-so-far/amp/",
+      "publishedDateTime": "2024-01-22T13:11:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -358,69 +144,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-19-is-truth-a-casualty-of-artificial-intelligence.md",
-      "title": "Is Truth a Casualty of Artificial Intelligence?",
-      "excerpt": "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ...",
+      "path": "_news/2024-01-22-the-dynamic-forces-behind-data-center-re-transformation.md",
+      "title": "The dynamic forces behind data center re-transformation ",
+      "excerpt": "Advancements in hardware and software, as well as increased focus on sustainability, are driving rapid transformation of data centers.\nThe post The dynamic forces behind data center re-transformation  appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence",
+      "webUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
+      "originalUrl": "https://www.ibm.com/blog/the-dynamic-forces-behind-data-center-re-transformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 112,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/ai-generated-7816775_1280.jpg?itok=sIRyxhCS",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202401/is-truth-a-casualty-of-artificial-intelligence?amp",
-      "publishedDateTime": "2024-01-18T22:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-imf-ai-will-impact-60-of-jobs-and-worsen-inequality.md",
-      "title": "IMF: AI will impact 60% of jobs and worsen inequality",
-      "excerpt": "Just as with past technology advancements, AI will also lead to income and economic disparity, job displacement and inequality, IMF says.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
-      "originalUrl": "https://venturebeat.com/ai/imf-ai-will-impact-60-of-jobs-and-worsen-inequality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_golden_age_sci-fi_book_art_profile_view_a_robot_leans_o_a5aa4b6f-7f83-4a44-b093-cc325ee94fcf.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/pi-2275202.jpg",
+          "width": 1800,
+          "height": 1198,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -430,14 +172,256 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T21:00:00Z",
+      "publishedDateTime": "2024-01-22T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "IBM",
+        "domain": "ibm.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-voice-search-seo-practices-optimizing-for-the-future-of-search.md",
+      "title": "Voice Search SEO Practices: Optimizing For The Future Of Search",
+      "excerpt": "I believe that adapting strategies to optimize content for voice search should be one of the highest priorities for small-business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aac9452af0e05000b41374/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
+      "publishedDateTime": "2024-01-22T12:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-openai-plans-to-set-up-chip-factories-worth-100-billion-report.md",
+      "title": "OpenAI plans to set up chip factories worth $100 billion: Report",
+      "excerpt": "The ChatGPT-maker has reportedly been in talks with several manufacturers and venture capital firms to set up factories for making AI chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
+      "originalUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/01/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1296545/openai-plans-to-set-up-chip-factories-worth-100-billion-report.html/amp/",
+      "publishedDateTime": "2024-01-22T12:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
+      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
+      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-cops-used-dna-to-predict-a-suspects-faceand-tried-to-run-facial-recognition-on-it.md",
+      "title": "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It",
+      "excerpt": "Leaked records reveal what appears to be the first known instance of a police department attempting to use facial recognition on a face generated from crime-scene DNA. It likely won’t be the last.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
+      "originalUrl": "https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65a983aeccf1dfc50354872a/191:100/w_1280,c_limit/security_police_DNA_facial_recognition.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-yes-ai-will-take-your-jobbut-not-your-career.md",
+      "title": "Yes, AI Will Take Your Job—But Not Your Career",
+      "excerpt": "The advent of AI is not just about displacing jobs but also about creating new career opportunities. Roles such as AI ethics officers or AI integration specialists are emerging at the forefront of this technological revolution. Preparing for these new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/yes-ai-will-take-your-job-but-not-your-career/amp/",
+      "publishedDateTime": "2024-01-22T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -458,15 +442,648 @@
       ]
     },
     {
-      "path": "_news/2024-01-19-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-as-expected.md",
-      "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs as expected",
-      "excerpt": "There’s been many attempts to extrapolate out and project how the AI technologies of today, like large language models, might impact people’s’ livelihoods — and whole economies — in the future.",
+      "path": "_news/2024-01-22-opinion-harvard-president-failed-to-defend-free-speech.md",
+      "title": "Opinion: Harvard president failed to defend free speech",
+      "excerpt": "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
-      "originalUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/",
+      "webUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
+      "originalUrl": "https://www.chron.com/opinion/article/opinion-harvard-president-failed-to-defend-free-18620909.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T11:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-opinion-the-big-ai-party-is-not-cancelled-just-postponed.md",
+      "title": "Opinion: The big AI party is not cancelled, just postponed",
+      "excerpt": "The first big tech event of the year has come and gone. We went into CES expecting to be completely inundated with \"AI\", all marketing guns",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
+      "originalUrl": "https://www.techspot.com/news/101592-opinion-big-ai-party-not-cancelled-postponed.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image.jpg",
+          "width": 3501,
+          "height": 2469,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T11:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-addressing-two-common-fintech-issues-with-ai-exploring-solutions.md",
+      "title": "Addressing Two Common Fintech Issues With AI: Exploring Solutions",
+      "excerpt": "The ability of AI algorithms to identify potential risks by analyzing historical financial data, transactional behavior and customer profiles is the reason that a significant number of fintech companies have already implemented the technology for fraud ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6446b86f7e2e09f059a821c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1502,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/22/addressing-two-common-fintech-issues-with-ai-exploring-solutions/amp/",
+      "publishedDateTime": "2024-01-22T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
+      "title": "Azure AI Studio: A nearly complete toolbox for AI development",
+      "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_175644863-100940898-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "publishedDateTime": "2024-01-22T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-despite-all-the-ai-hype-success-depends-on-just-one-thing.md",
+      "title": "Despite all the AI hype, success depends on just one thing",
+      "excerpt": "It's easy to be seduced by the power of artificial intelligence, but this data expert sees a single ingredient as the key to making the most of this emerging technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "originalUrl": "https://www.zdnet.com/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fd4c41aa99d512dee49242778c5e4136ef5a8a39/2024/01/22/4dfa338d-cf46-4b89-ae1e-1a2a8ab297b9/pedoverpassgettyimages-1757970102.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/despite-all-the-ai-hype-success-depends-on-just-one-thing/",
+      "publishedDateTime": "2024-01-22T09:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google.md",
+      "title": "DeepMind scientists consider founding AI startup, reportedly resign from Google",
+      "excerpt": "This won't be the first time that Google employees leave the company to form an AI startup. (Representational photo by Google DeepMind via Pexels) Two scientists from Google's DeepMind are reportedly courting investors for an AI startup headquartered in Paris.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/11/pexels-google-deepmind-18069694-1-324x435.jpg",
+          "width": 324,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/deepmind-scientists-consider-founding-ai-startup-reportedly-resign-from-google-12101761.html/amp",
+      "publishedDateTime": "2024-01-22T08:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-nvidia-ceo-jensen-huang-visits-china-for-celebration-with-employees-amid-ai-chip-restrictions.md",
+      "title": "Nvidia CEO Jensen Huang visits China for celebration with employees amid AI-chip restrictions",
+      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Why it matters: Amid increasing China-US tensions and more AI-chip sanctions being placed on the Asian nation, Nvidia CEO Jensen Huang has just visited the country for the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html",
+      "originalUrl": "https://www.techspot.com/news/101597-nvidia-ceo-jensen-huang-visits-china-celebration-employees.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-22-image-7.jpg",
+          "width": 1456,
+          "height": 971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-ais-massive-power-consumption-demands-innovative-energy-solutions.md",
+      "title": "AI's Massive Power Consumption Demands Innovative Energy Solutions",
+      "excerpt": "\"Fundamentally speaking, if you do want to save the planet with AI, you have to consider also the environmental footprint,\" Sasha Luccioni, researcher of ethics at the open-source machine learning platform Hugging Face, was quoted by The Guardian.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-01-22_czjv0drkow.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Energy-General/AIs-Massive-Power-Consumption-Demands-Innovative-Energy-Solutions.amp.html",
+      "publishedDateTime": "2024-01-22T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-how-genai-influences-your-agile-knowledge-management-transformation.md",
+      "title": "How GenAI Influences Your Agile Knowledge Management Transformation",
+      "excerpt": "Advancements in natural language processing (NLP) and deep learning will make AI-driven operations even more intuitive and human-like. The future of operations requires a seamless integration between AI and humans to create and deliver exceptional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae71f796befe48a727f531/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 691,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2024/01/22/how-genai-influences-your-agile-knowledge-management-transformation/amp/",
+      "publishedDateTime": "2024-01-22T07:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-the-conversation.md",
+      "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features- The Conversation",
+      "excerpt": "Face recognition software is only the most recent manifestation of global systems of tracking and sorting. Precursors are rooted in the now-debunked belief that bodily features offer a unique index to character and identity. This pseudoscience was formalized in the late 18th century under the rubric of the ancient practice of physiognomy.",
+      "sourceUrl": null,
+      "webUrl": "https://prescottenews.com/index.php/2024/01/22/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-the-conversation/",
+      "originalUrl": "https://prescottenews.com/index.php/2024/01/22/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features-the-conversation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/569962/original/file-20240117-29-ri412u.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C5272%2C3598&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T07:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prescott eNews",
+        "domain": "prescottenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-implement-artificial-neural-network-hardware-systems-by-stacking-them-like-neuron-synapse-neuron-structural-blocks.md",
+      "title": "Implement artificial neural network hardware systems by stacking them like \"neuron-synapse-neuron\" structural blocks",
+      "excerpt": "(a) Schematic diagram of a biological neural network and (b) circuit schematic of an artificial neural network implemented in hardware using an artificial neuromorphic device. (c) Experimental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1031809",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1031809",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5eced74f-b92d-4c3e-bcb6-9b92668e1979/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T05:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-artificial-neural-network-hardware-based-on-stacked-neuron-synapse-neuron-structural-blocks.md",
+      "title": "Artificial neural network hardware based on stacked neuron-synapse-neuron structural blocks",
+      "excerpt": "In order for large-scale artificial neural network hardware to become practical in the future, it is essential to integrate artificial neuron and synaptic devices, and it is necessary to reduce mass production costs and energy usage by fabricating devices ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64469.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64469.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.md",
+      "title": "Gmail Voice Compose will use AI and your voice to draft emails",
+      "excerpt": "Long gone are the days of wonky voice recognition and misbehaving mobile assistants. AI-powered voice recognition works wonders, naturally; as this was one of the first proposed uses of Large Lang ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html",
+      "originalUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/05/Gmail-logo-AH.png",
+          "width": 1734,
+          "height": 1040,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2024/01/gmail-voice-compose-will-use-ai-and-your-voice-to-draft-emails.html/amp",
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-investors-to-look-for-ai-powered-gains-during-big-tech-earnings-season.md",
+      "title": "Investors to look for AI-powered gains during Big Tech earnings season",
+      "excerpt": "Revenues at Microsoft’s subscription AI software, Copilot, and cloud computing service Azure — both poised to grow from the group’s integration with OpenAI technology — will be closely watched as an early barometer for cashing in on AI in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/87149ee5-aba5-4b2b-b8a5-3918ee681a0b",
+      "originalUrl": "https://www.ft.com/content/87149ee5-aba5-4b2b-b8a5-3918ee681a0b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected.md",
+      "title": "New MIT CSAIL study suggests that AI won’t steal as many jobs expected",
+      "excerpt": "One wonders whether the researchers might’ve felt pressure to reach certain conclusions by the study’s backer, the MIT-IBM Watson AI Lab. The MIT-IBM Watson AI Lab was created with a $240 million, 10-year gift from IBM, a company with a vested interest ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/?tpcc=TCdailynewsletter",
+      "originalUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/?tpcc=TCdailynewsletter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -482,7 +1099,7 @@
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/22/new-mit-csail-study-suggests-that-ai-wont-steal-as-many-jobs-expected/amp/",
-      "publishedDateTime": "2024-01-18T20:03:00Z",
+      "publishedDateTime": "2024-01-22T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -510,569 +1127,26 @@
       ]
     },
     {
-      "path": "_news/2024-01-19-dean-phillips-vows-to-be-first-ai-president-in-campaign-speech-on-his-artificial-intelligence-platform.md",
-      "title": "Dean Phillips vows to be 'first AI president' in campaign speech on his artificial intelligence platform",
-      "excerpt": "Democratic presidential candidate Rep. Dean Phillips rolled out his platform for artificial intelligence (AI) development during a campaign speech in New Hampshire.",
+      "path": "_news/2024-01-22-progressive-pay-flexibility-and-innovation-drive-future-of-financial-services-industry.md",
+      "title": "Progressive pay, flexibility and innovation drive future of financial services industry",
+      "excerpt": "Technological innovations, such as blockchain, artificial intelligence (AI), and machine learning, are reshaping traditional financial services, enabling more precise investment strategies and improving customer experiences by tailoring services to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
-      "originalUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform",
+      "webUrl": "https://www.bizjournals.com/newyork/news/2024/01/22/new-york-working-world-financial-services.html",
+      "originalUrl": "https://www.bizjournals.com/newyork/news/2024/01/22/new-york-working-world-financial-services.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ec303fa-b8ef-42a6-9e5a-220a06665e9f/b38f73cc-bbc3-4780-879b-ac593b1f3374/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dean-phillips-vows-first-ai-president-campaign-speech-his-artificial-intelligence-platform.amp",
-      "publishedDateTime": "2024-01-18T19:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-mark-zuckerberg-indicates-meta-is-spending-billions-of-dollars-on-nvidia-ai-chips.md",
-      "title": "Mark Zuckerberg indicates Meta is spending billions of dollars on Nvidia AI chips",
-      "excerpt": "Meta appears poised to spend billions of dollars by the end of this year on Nvidia's popular computer chips that are widely used for AI projects",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107307714-1695846630469-gettyimages-1693640169-AFP_33WW2FR.jpeg?v=1705603729",
-          "width": 2237,
-          "height": 1376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/18/mark-zuckerberg-indicates-meta-is-spending-billions-on-nvidia-ai-chips.html",
-      "publishedDateTime": "2024-01-18T19:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
-      "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
-      "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a974ad913d58e48af2a75f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/01/18/if-not-ai-then-what-exploring-investor-interests-in-2024/amp/",
-      "publishedDateTime": "2024-01-18T18:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit.md",
-      "title": "Robotics council director highlights AI’s transformative potential at Global Artificial Intelligence Summit",
-      "excerpt": "In a dynamic showcase of the pivotal role played by artificial intelligence (AI) in technological innovation, Rajkumar Sharma, Director of the All India Council for Robotics and Automation (AICRA), emphasised the profound impact of AI on different sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
-      "originalUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2024/01/ANI-20240118174315.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/robotics-council-director-highlights-ais-transformative-potential-at-global-artificial-intelligence-summit/1929888/?amp",
-      "publishedDateTime": "2024-01-18T18:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-microsoft-makes-its-ai-powered-reading-tutor-free.md",
-      "title": "Microsoft makes its AI-powered reading tutor free",
-      "excerpt": "Recently, Reading Coach received a spruce-up in the form of a “choose your own story” feature, powered by Microsoft’s Azure OpenAI Service, that lets learners tap AI to generate their own narrative adventure. Akin to the AI-generated story tool on ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
-      "originalUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/18/microsoft-makes-its-ai-powered-reading-tutor-free/amp/",
-      "publishedDateTime": "2024-01-18T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
-      "title": "Nokia to invest nearly $400m in European chips, AI",
-      "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
-      "originalUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png",
-          "width": 1620,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
-      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
-      "publishedDateTime": "2024-01-18T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
-      "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
-      "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "originalUrl": "https://www.wired.com/story/fast-forward-chatgpt-hunger-energy-gpu-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65a86ce189bb604eb48ee053/191:100/w_1280,c_limit/Normal-Computing-SPU-Chip-Fast-Forward-Business-PCB_hr.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-who-weighs-up-ai-risks-and-benefits-for-health-care.md",
-      "title": "WHO weighs up AI risks and benefits for health care",
-      "excerpt": "Generative artificial intelligence could transform health care through things like drug development and quicker diagnoses, but the World Health Organization warned Thursday of the potential pitfalls in rushing to embrace AI.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/healthcare-assistant-r.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-01-ai-benefits-health.amp",
-      "publishedDateTime": "2024-01-18T16:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management.md",
-      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management",
-      "excerpt": "We’re honored to announce that Microsoft has been named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management*. We believe that this recognition validates our end-to-end approach for developing and deploying enterprise-grade, cloud-native apps that run on Azure, in datacenters, or at",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN15_Blog_240115_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers.md",
-      "title": "Unlocking the power of chatbots: Key benefits for businesses and customers",
-      "excerpt": "Discover how well-designed chatbots can encourage your customers to take action and boost your bottom line.\nThe post Unlocking the power of chatbots: Key benefits for businesses and customers appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/",
-      "originalUrl": "https://www.ibm.com/blog/unlocking-the-power-of-chatbots-key-benefits-for-businesses-and-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T15:30:29Z",
+      "publishedDateTime": "2024-01-22T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-challenging-norms-and-finding-your-north-star-with-ai-in-2024.md",
-      "title": "Challenging norms and finding your North Star with AI in 2024",
-      "excerpt": "After a year of AI dominating headlines, many businesses are moving into the next stage of finding the right AI solutions for them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
-      "originalUrl": "https://www.businessinsider.com/sc/how-to-choose-the-right-ai-solution-for-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/659bd2a56979d737182128a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T15:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-farm-ng-raises-series-a-funding-to-scale-amiga-robot-and-ai-for-small-to-midsize-farms.md",
-      "title": "farm-ng raises Series A funding to scale Amiga robot and AI for small to midsize farms",
-      "excerpt": "Since the first industrial revolution two centuries ago, workers have moved into cities, even as population growth has challenged farmers to be increasingly productive. Today, farm-ng said it has completed its Series A funding round, raising more than $10 million to further develop the Amiga robot for agriculture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
-      "originalUrl": "https://www.therobotreport.com/farm-ng-raises-10m-series-a-scale-amiga-robot-ai-small-midsize-farms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/farm_ng_amiga.jpeg",
-          "width": 770,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T14:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1082,93 +1156,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence.md",
-      "title": "Meta CEO Mark Zuckerberg pledges to build out artificial general intelligence",
-      "excerpt": "The company also plans to grow and bring its two major AI research groups – called FAIR ... has soured considerably since the days that Facebook became Meta, and so it is no surprise that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence/21243202/",
-      "originalUrl": "https://www.wral.com/story/meta-ceo-mark-zuckerberg-pledges-to-build-out-artificial-general-intelligence/21243202/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/presentation/v3/images/content/social/open_graph/wralnews_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/21243202/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21243202/",
-      "publishedDateTime": "2024-01-18T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-bmw-will-put-humanoid-robots-from-figure-in-us-manufacturing-facility.md",
-      "title": "BMW will put humanoid robots from Figure in U.S. manufacturing facility",
-      "excerpt": "Car makers have been experimenting with humanoid robots to perform repetitive and dangerous work in assembly lines for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
-      "originalUrl": "https://www.autoblog.com/2024/01/18/bmw-humanoid-robot-figure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.aolcdn.com/images/dims3/GLOB/crop/2916x1640+222+0/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2024/01/18082637/Screenshot-2024-01-18-at-8.25.58-AM.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2024/01/18/bmw-humanoid-robot-figure/",
-      "publishedDateTime": "2024-01-18T13:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "AI in Finance",
         "AI"
       ]
     }

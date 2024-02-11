@@ -2,26 +2,35 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2024-01-15-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "path": "_news/2024-01-18-the-vaticans-top-expert-on-ai-ethics-is-a-friar-from-a-medieval-franciscan-order.md",
+      "title": "The Vatican's top expert on AI ethics is a friar from a medieval Franciscan order",
+      "excerpt": "As artificial intelligence's impact on society receives more scrutiny, a Franciscan friar who preaches a message of ethics in technology has gained some powerful listeners ROME -- Friar Paolo ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "originalUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
+      "webUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/International/wirestory_7a49d562633937efa0e826fb1fa08cc1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
-      "publishedDateTime": "2024-01-15T14:39:00Z",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/franciscan-friar-popes-ear-ai-hurt-humanity-106471697",
+      "publishedDateTime": "2024-01-18T05:33:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,78 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
-      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
-      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
+      "path": "_news/2024-01-18-digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access.md",
+      "title": "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access",
+      "excerpt": "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/siri-apple",
-      "originalUrl": "https://www.businessinsider.com/siri-apple",
+      "webUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
+      "originalUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_digital_ocean_c230cf44-8417-42fd-ae3c-73ec14de19d0-transformed.webp?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
-      "publishedDateTime": "2024-01-15T13:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
-      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
-      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
-          "width": 1200,
-          "height": 675,
+          "height": 672,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,103 +69,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T12:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-what-growing-ai-datasets-mean-for-data-engineering-and-management.md",
-      "title": "What growing AI datasets mean for data engineering and management",
-      "excerpt": "Ever-larger datasets for AI training pose big challenges for data engineers, and risks for the models themselves. It’s time to shift our focus to curating and managing smaller datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
-      "originalUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
-      "publishedDateTime": "2024-01-15T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
-      "title": "After AI’s summer: What’s next for artificial intelligence?",
-      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
-      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T03:05:00Z",
+      "publishedDateTime": "2024-01-18T05:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -231,27 +92,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2024-01-15-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
-      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
-      "excerpt": "Business Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers ...",
+      "path": "_news/2024-01-18-google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian.md",
+      "title": "Google DeepMind’s AI system solves geometry problems like a math Olympian",
+      "excerpt": "Google DeepMind researchers have created an AI system called AlphaGeometry that can solve complex high school geometry problems as well as the average International Mathematical Olympiad gold medalist.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "webUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
+      "originalUrl": "https://venturebeat.com/ai/google-deepminds-ai-system-solves-geometry-problems-like-a-math-olympian/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 280,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_geometric_shapes_math_competition_33d7db75-2612-4028-8673-02dc7d32c1ad-transformed.webp?w=1200&strip=all",
           "width": 1200,
-          "height": 600,
+          "height": 672,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -259,16 +119,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
-      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T04:21:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -284,231 +144,25 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
+        "Google AI",
         "AI",
-        "Microsoft AI"
+        "Math for AI"
       ]
     },
     {
-      "path": "_news/2024-01-15-healthcare-in-the-age-of-ai-how-will-artificial-intelligence-impact-future-decision-making.md",
-      "title": "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?",
-      "excerpt": "Artificial intelligence (AI ... step towards generating human-like text from simple prompts. In the healthcare sector, AI’s advancement has begun to impact prescribing, particularly in ...",
+      "path": "_news/2024-01-18-generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle.md",
+      "title": "Generative AI Getting Blended Into Smart Mirrors Might Reveal More Naked Truths Than People Can Handle",
+      "excerpt": "The latest in smart mirrors encompasses the addition of generative AI. You will be able to have a magical talking mirror. But this might not be as grand as assumed.",
       "sourceUrl": null,
-      "webUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
-      "originalUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://pharmaphorum.com/sites/default/files/2024-01/How-will-artificial-intelligence-impact-future-decision-making-1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pharmaphorum",
-        "domain": "pharmaphorum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
-      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
-      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
-      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
-      "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
-      "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
-      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-York-Stock-Exchange-1939-trade.jpg",
-          "width": 800,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T21:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
-      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
-      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
-      "publishedDateTime": "2024-01-14T21:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur.md",
-      "title": "State-of-the-art AI-supported Telemedicine Mobile Clinic launched for remote hilly areas in Udhampur",
-      "excerpt": "Science and Technology Jitendra Singh on Sunday launched state-of-the-art, Artificial Intelligence (AI) supported T",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
-      "originalUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1705252485.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-15-why-on-demand-video-learning-is-limited-and-what-to-pursue-instead.md",
-      "title": "Why On-Demand Video Learning Is Limited And What To Pursue Instead",
-      "excerpt": "Asynchronous learning is flexible, yet it comes with challenges. Learners need access to experts and ways to apply learning. Blended learning is the key.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
-      "originalUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659d4b234ce76555695ca156/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a89ff7bbe6a0f6c19b549b/0x0.jpg?format=jpg&crop=1598,1065,x38,y0,safe&height=900&width=1600&fit=bounds",
           "width": 1350,
           "height": 900,
           "title": null,
@@ -518,9 +172,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
-      "publishedDateTime": "2024-01-14T16:45:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/17/generative-ai-getting-blended-into-smart-mirrors-might-reveal-more-naked-truths-than-people-can-handle/amp/",
+      "publishedDateTime": "2024-01-18T04:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -535,101 +189,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3.md",
-      "title": "My Top 10 Revolutionary Discoveries At CES 2024: AI, Robotics, Web3",
-      "excerpt": "This year's CES, a melting pot of over 130,000 technology enthusiasts and innovators, showcased over 3,500 exhibits that spanned the spectrum of human ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a2251d942c9448505f31f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 992,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
-      "publishedDateTime": "2024-01-14T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-self-driving-labs-how-ai-could-accelerate-scientific-discovery.md",
-      "title": "Self-driving labs: How AI could accelerate scientific discovery",
-      "excerpt": "Using self-driving autonomous labs, the Acceleration Consortium is making larger strides toward integrating the subdisciplines of materials science, AI, robotics, and computer modelling to test new materials in a time-efficient, cost-friendly way.",
-      "sourceUrl": null,
-      "webUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "originalUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-s3.thevarsity.ca/2024/01/SCIENCE-Autonomous-_Labs-BRENNAN-KARUNARATNETHEVARSITY-lab_devices-web.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T03:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Varsity",
-        "domain": "thevarsity.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -643,21 +202,55 @@
       ]
     },
     {
-      "path": "_news/2024-01-14-how-fintech-has-gone-mainstream.md",
-      "title": "How fintech has gone mainstream",
-      "excerpt": "Last year, financial technology (fintech) finally went mainstream. Here are some examples that underline my case.",
+      "path": "_news/2024-01-18-2031-ldquoslam-robots-market-sizerdquo-characteristics-and-specifications.md",
+      "title": "2031 &Ldquo;SLAM Robots Market Size&Rdquo; | Characteristics And Specifications",
+      "excerpt": "This is because most of the currently demanded services were originally offered with the cost of human labor in mind ... multiple robots at the same time. Thanks to modern communication technologies, the robotsâ performance can be controlled remotely.",
       "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
-      "originalUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
+      "webUrl": "https://menafn.com/1107735966/2031-LdquoSLAM-Robots-Market-SizeRdquo-Characteristics-And-Specifications",
+      "originalUrl": "https://menafn.com/1107735966/2031-LdquoSLAM-Robots-Market-SizeRdquo-Characteristics-And-Specifications",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-8-best-ai-data-analytics-software-tools-of-2024.md",
+      "title": "8 Best AI Data Analytics Software & Tools of 2024",
+      "excerpt": "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/Ux3UMRW2YPerefgGhzJhwT-1200-80.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png",
+          "width": 1400,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -667,11 +260,56 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:08:00Z",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-artificial-intelligence-ai-in-fintech-market-2024-global-share-analysis-strategic-stakeholder-insights.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market 2024 Global Share Analysis: Strategic Stakeholder Insights",
+      "excerpt": "The Global Artificial Intelligence (AI) in Fintech market is poised for significant growth between 2023 and 2031, with a positive outlook for 2023 and beyond. As key players in the industry adopt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -686,12 +324,12 @@
       ]
     },
     {
-      "path": "_news/2024-01-14-ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity.md",
-      "title": "AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.",
-      "excerpt": "the IMF has developed an AI Preparedness Index that measures readiness in areas such as digital infrastructure, human-capital and labor-market policies, innovation and economic integration, and regulation and ethics. The human-capital and labor-market ...",
+      "path": "_news/2024-01-18-artificial-intelligence-ai-market-insights-and-forecast-to-2031-alphabet-nvidia-blue-frog-robotics-131-pages-report.md",
+      "title": "Artificial Intelligence (AI) Market Insights and Forecast to 2031 | Alphabet, Nvidia, Blue Frog Robotics | 131 Pages Report",
+      "excerpt": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. North America, especially The United ...",
       "sourceUrl": null,
-      "webUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
-      "originalUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
+      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-market-insights-1916868554.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -701,11 +339,140 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Monetary Fund",
-        "domain": "imf.org",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-best-python-libraries-for-natural-language-processing-in-2024.md",
+      "title": "Best Python Libraries for Natural Language Processing in 2024",
+      "excerpt": "Python is a popular programming language in the field of Natural Language Processing (NLP). It offers various libraries that make it easier to process human language and perform complex tasks such ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Natural-Language-Processing-.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-plant-phenotyping-deep-learning-and-3d-point-cloud-technology-in-overcoming-reconstruction-challenges.md",
+      "title": "Plant phenotyping: Deep learning and 3D point cloud technology in overcoming reconstruction challenges",
+      "excerpt": "Recently, integrating deep learning with point cloud analysis and innovative techniques like Reinforcement Learning Agent Controlled GAN Network and multi-scale geometry-aware Transformer networks show promise in addressing these challenges by enhancing ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "originalUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/revolutionizing-plant.jpg",
+          "width": 1280,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-phenotyping-deep-3d-cloud-technology.amp",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-pope-francis-ai-ethics-expert-is-a-franciscan-friar.md",
+      "title": "Pope Francis' AI ethics expert is a Franciscan friar",
+      "excerpt": "Friar Paolo Benanti wears the plain brown robes of his medieval Franciscan order as he pursues one of the most pressing issues of contemporary times: how to govern artificial intelligence so that it enriches, not exploits, lives. The friar's the go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/news/nation-world/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_fe7330e5-71e0-571b-b7e9-2d29d421dc5e.html",
+      "originalUrl": "https://omaha.com/news/nation-world/pope-francis-ai-ethics-expert-is-a-franciscan-friar/video_fe7330e5-71e0-571b-b7e9-2d29d421dc5e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/e7/fe7330e5-71e0-571b-b7e9-2d29d421dc5e/65adbfe1ba6e4.preview.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -720,73 +487,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-14-best-robot-vacuum-deals-save-on-roomba-shark-and-others.md",
-      "title": "Best robot vacuum deals: save on Roomba, Shark, and others",
-      "excerpt": "It also has AI-controlled AIVI 3D 2.0 obstacle ... the Roomba is made with the smart home in mind. The iRobot Roomba 694 is one of the most popular Roomba robot vacuums. It features a minimal ...",
+      "path": "_news/2024-01-18-top-10-best-python-libraries-for-machine-learning-in-2024.md",
+      "title": "Top 10 Best Python Libraries for Machine Learning in 2024",
+      "excerpt": "AutoML is an open-source library that automates the process of selecting the best machine learning algorithm and hyperparameters for a given dataset. It is designed to be easy to use and can be ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "webUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
+      "originalUrl": "https://www.benzinga.com/guides/software/best-python-libraries-for-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/iRobot-Roomba-694-Wi-Fi-Connected-Robot-Vacuum.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
-      "publishedDateTime": "2024-01-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer.md",
-      "title": "If you want to run AI training and inference on almost any GPU, then this startup may be the answer",
-      "excerpt": "In September 2023, the firm launched its Superlcoud for AI platform – which lets businesses tap into a GPU network remotely to run AI workloads, while others can also contribute GPUs from their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer",
-      "originalUrl": "https://www.techradar.com/pro/if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.benzinga.com/guides/wp-content/uploads/2024/01/Best-Python-Libraries-for-Machine-Learning-AI.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -796,14 +511,100 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "publishedDateTime": "2024-01-18T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-google-planning-to-add-ai-image-generator-directly-to-bard.md",
+      "title": "Google planning to add AI image generator directly to Bard",
+      "excerpt": "Following the Search Generative Experience (SGE) and Slides, Google Bard is set to get its own image generator. As shared by Dylan Roussel on X/Twitter, an unreleased Google Bard changelog — dated for January 18 — reveals how you can “Create images ...",
+      "sourceUrl": null,
+      "webUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
+      "originalUrl": "https://9to5google.com/2024/01/17/google-bard-image-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/google-bard-icon-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T22:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
+      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
+      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
+          "width": 2500,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -824,21 +625,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
-      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
-      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
+      "path": "_news/2024-01-17-fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium.md",
+      "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
+      "excerpt": "Today, we’re excited to announce the availability of Llama 2 inference and fine-tuning support on AWS Trainium and AWS Inferentia instances in Amazon SageMaker JumpStart. Using AWS Trainium and Inferentia based instances, through SageMaker, can help users lower fine-tuning costs by up to 50%, and lower",
       "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/17/fine-tune-deploye-llama-2.jpg",
+          "width": 1022,
+          "height": 511,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -848,12 +649,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "publishedDateTime": "2024-01-17T19:46:02Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -862,32 +672,92 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI",
-        "Microsoft AI"
+        "AWS AI"
       ]
     },
     {
-      "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
-      "title": "Improving 3D Object Detection in Self-Driving Cars",
-      "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
+      "path": "_news/2024-01-17-use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities.md",
+      "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
+      "excerpt": "Geospatial data is data about specific locations on the earth’s surface. It can represent a geographical area as a whole or it can represent an event associated with a geographical area. Analysis of geospatial data is sought after in a few industries. It involves understanding where the data exists from",
       "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
-      "originalUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 93,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/ml-15318-image004-1138x630.png",
+          "width": 1138,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26502/improving-3d-object-detection-self-driving-cars/amp",
-      "publishedDateTime": "2024-01-13T19:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:38:49Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
+      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
+      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -897,31 +767,40 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
-      "title": "New laws to curb danger of high-risk artificial intelligence",
-      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
+      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
+      "title": "UTAS opts for ISESCO research chair in AI ethics",
+      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
       "sourceUrl": null,
-      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
-      "publishedDateTime": "2024-01-13T17:30:00Z",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
+      "publishedDateTime": "2024-01-17T18:05:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sydney Morning Herald",
-        "domain": "smh.com.au",
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
         "images": null,
         "publishers": null,
         "authors": null
@@ -931,17 +810,173 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off-the-wire-podcast.md",
-      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming | Hot off the Wire podcast",
-      "excerpt": "Get a recap of recent business, health and general interest stories through this special edition of our Hot off the Wire daily news podcast.",
+      "path": "_news/2024-01-17-circle-or-highlight-or-scribble-to-search.md",
+      "title": "Circle (or highlight or scribble) to Search",
+      "excerpt": "Circle to Search is a new way to search what’s on your screen without switching apps, available on select premium Android smartphones.",
       "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
-      "originalUrl": "https://omaha.com/news/nation-world/concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming-hot-off/article_0e7a18ac-72d3-51d3-96e9-c41a3c11548c.html",
+      "webUrl": "https://blog.google/products/search/google-circle-to-search-android/",
+      "originalUrl": "https://blog.google/products/search/google-circle-to-search-android/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CircleToSearch.width-1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-circle-to-search-android/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-circle-to-search-android/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-new-ways-to-search-in-2024.md",
+      "title": "New ways to search in 2024",
+      "excerpt": "We’re launching Circle to Search and an AI-powered multisearch experience to help you search even more naturally.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/google-search-ai-january-2024-update/",
+      "originalUrl": "https://blog.google/products/search/google-search-ai-january-2024-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SGE_Jan2024_Circle-to-Search_1.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/search/google-search-ai-january-2024-update/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/google-search-ai-january-2024-update/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-the-power-of-google-ai-comes-to-the-new-samsung-galaxy-s24-series.md",
+      "title": "The power of Google AI comes to the new Samsung Galaxy S24 series",
+      "excerpt": "Check out the ways Google and Samsung are collaborating to bring the latest Google AI innovations to Samsung’s flagship smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
+      "originalUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/21424_ANC_Unpacked_blog_post_header_OP13x.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/android/google-ai-samsung-galaxy-s24/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about.md",
+      "title": "Fowl language: AI is learning to analyze chicken communications to help us understand what all the clucking’s about",
+      "excerpt": "This article was originally published on The Conversation, an independent and nonprofit source of news, analysis and commentary from academic experts. Disclosure information is available on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.winnipegfreepress.com/uncategorized/2024/01/17/fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about",
+      "originalUrl": "https://www.winnipegfreepress.com/uncategorized/2024/01/17/fowl-language-ai-is-learning-to-analyze-chicken-communications-to-help-us-understand-what-all-the-cluckings-about",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -951,12 +986,64 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:30:00Z",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Winnipeg Free Press",
+        "domain": "winnipegfreepress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-government-cant-set-prices-for-services-it-doesnt-comprehend.md",
+      "title": "Government Can’t Set Prices For Services It Doesn’t Comprehend",
+      "excerpt": "The odd comparison from above comes to mind as healthcare types go to the federal government in search of price equality in the face of hospital consolidation. A recent piece in RealClearHealth by Lee Gross noted with glee that “members of both houses of Congress on both sides of the aisle are working to stop the existing incentives for hospital consolidation and monopoly pricing in healthcare and increase transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
+      "originalUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8059f9749cdf277b22cb5/0x0.jpg?format=jpg&crop=3620,2036,x0,y185,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johntamny/2024/01/17/government-cant-set-prices-for-services-it-doesnt-comprehend/amp/",
+      "publishedDateTime": "2024-01-17T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -970,21 +1057,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-13-the-best-new-gadgets-and-tech-from-ces-2024.md",
-      "title": "The best new gadgets and tech from CES 2024",
-      "excerpt": "From translucent TVs to indoor smokers, the Consumer Electronics Show never disappoints when it comes to cool new gear.",
+      "path": "_news/2024-01-17-alphageometry-an-olympiad-level-ai-system-for-geometry.md",
+      "title": "AlphaGeometry: An Olympiad-level AI system for geometry",
+      "excerpt": "AlphaGeometry: An Olympiad-level AI system for geometry",
       "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
-      "originalUrl": "https://www.popsci.com/gear/best-gadgets-tech-ces-2024/",
+      "webUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
+      "originalUrl": "https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://www.popsci.com/uploads/2024/01/12/best-of-ces-header.jpg?auto=webp",
-          "width": 1600,
-          "height": 900,
+          "url": "https://lh3.googleusercontent.com/tVTh_ZCW5Qozy4vOCpMH06B7Ac_eF7fmEULMMTwDellOh6hnOMUtf28toD68N527IHQTlBWfBCHcZykYPMdrS48yvuEcJKMJG8rU3YRM3u5Ojn3JXnc=w1200-h630-n-nu",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -994,12 +1081,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T14:00:00Z",
+      "publishedDateTime": "2024-01-17T16:04:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1008,86 +1104,60 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
-      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
-      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
-      "title": "Check It Out: Read up on artificial intelligence",
-      "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "originalUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/uploads/2016/04/930101_johnston_063-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
-        "AI in Healthcare"
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-deepminds-latest-ai-can-solve-geometry-problems.md",
+      "title": "DeepMind’s latest AI can solve geometry problems",
+      "excerpt": "DeepMind, the Google AI R&D lab, believes that the key to more capable AI systems might lie in uncovering new ways to solve challenging geometry problems. To that end, DeepMind today unveiled AlphaGeometry — a system that the lab claims can solve as many ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
+      "originalUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/17/deepminds-latest-ai-can-solve-geometry-problems/amp/",
+      "publishedDateTime": "2024-01-17T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

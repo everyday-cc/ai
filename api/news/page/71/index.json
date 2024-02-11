@@ -2,21 +2,21 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2023-11-30-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
-      "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
-      "excerpt": "Myriad issues led California to revoke Cruise's self-driving permits, with the company subsequently suspending all operations for the foreseeable future.",
+      "path": "_news/2023-12-02-meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages.md",
+      "title": "Meta AI unveils ‘Seamless’ translator for real-time communication across languages",
+      "excerpt": "Meta AI researchers have developed a new artificial intelligence model called 'Seamless' that enables more natural, real-time translation across languages while preserving vocal style and emotion.",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
-      "originalUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
+      "webUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "originalUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/ny/api/res/1.2/owzwGbw6bAC6EyHmmIYqng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_car_and_driver_636/9e8018fd858cb43b25d87aa03fde7161",
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_two_people_with_speech_bubbles_c_b2457dfd-af1e-4d7f-b81d-70bef4a9307f.webp?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T22:45:00Z",
+      "publishedDateTime": "2023-12-02T04:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,26 +49,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-30-airport-facial-recognition-faces-senate-ban-over-privacy-concern.md",
-      "title": "Airport Facial Recognition Faces Senate Ban Over Privacy Concern",
-      "excerpt": "Biometric screening at airports would be prohibited under bipartisan legislation two senators are proposing, citing privacy concerns.",
+      "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
+      "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
+      "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/privacy-and-data-security/airport-facial-recognition-faces-senate-ban-over-privacy-concern",
-      "originalUrl": "https://news.bloomberglaw.com/privacy-and-data-security/airport-facial-recognition-faces-senate-ban-over-privacy-concern",
+      "webUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "originalUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/02f3d53/2147483647/crop/7888x3040%2B27%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg",
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/01/GettyImages-183628592.jpg",
           "width": 1920,
-          "height": 740,
+          "height": 1024,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -69,11 +78,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T22:02:00Z",
+      "publishedDateTime": "2023-12-02T00:32:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,35 +97,26 @@
       ]
     },
     {
-      "path": "_news/2023-11-30-setting-guardrails-for-ai-research.md",
-      "title": "Setting guardrails for AI research",
-      "excerpt": "A Yamhill County Sheriff’s Office deputy has been charged with 12 misdemeanor counts related to exposing his genitals and performing sexual acts in public, according to court documents. The ...",
+      "path": "_news/2023-12-02-unpacking-fresh-signals-from-aws-on-storage-processing-and-llm-strategy.md",
+      "title": "Unpacking fresh signals from AWS on storage, processing and LLM strategy",
+      "excerpt": "The key unveiling on storage is the new Amazon S3 Express One Zone storage class. It’s been designed to deliver up to 10x better performance than the standard class, all while handling requests in the hundreds of thousands per second and maintaining single-digit millisecond latency, according to Thurai.",
       "sourceUrl": null,
-      "webUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
-      "originalUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
+      "webUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F12-19-2023%2Ft_c737743c93c5445bbe6679331d91ffbe_name_YT_THUMBNAIL___2023_12_19T071706_059.jpg?auth=2aa769262d83acf8aff8a78385c0f46c48eeb0b03e7cea02235995d11b000c52&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
-      "publishedDateTime": "2023-11-29T21:48:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T22:21:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 12 Oregon",
-        "domain": "kptv.com",
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -126,26 +126,26 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-30-keras-30-deep-learning-api-backs-tensorflow-pytorch-jax.md",
-      "title": "Keras 3.0 deep learning API backs TensorFlow, PyTorch, Jax",
-      "excerpt": "Full rewrite of the deep neural network API supports Keras workflows on top of the three leading machine learning frameworks.",
+      "path": "_news/2023-12-02-heres-what-aws-revealed-about-its-generative-ai-strategy-at-reinvent-2023.md",
+      "title": "Here's what AWS revealed about its generative AI strategy at re:Invent 2023",
+      "excerpt": "AWS CEO Adam Selipsky and other top executives at the company’s annual re:Invent conference revealed updates and new products aimed at challenging offerings from Microsoft, Oracle, Google, and IBM.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
-      "originalUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.html",
+      "webUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
+      "originalUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/09/12/05/shutterstock_1178406460-100945794-large.jpg?auto=webp&quality=85,70",
+          "url": "https://images.idgesg.net/images/article/2023/12/aws-selipsky-100948817-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 750,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -153,9 +153,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711374/keras-3-0-deep-learning-api-backs-tensorflow-pytorch-jax.amp.html",
-      "publishedDateTime": "2023-11-29T21:37:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711384/heres-what-aws-revealed-about-its-generative-ai-strategy-at-re-invent-2023.amp.html",
+      "publishedDateTime": "2023-12-01T22:14:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -178,693 +178,27 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "Meta AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-artificial-intelligence-needs-open-source-models-to-reach-its-potential.md",
-      "title": "Artificial Intelligence Needs Open-Source Models to Reach Its Potential",
-      "excerpt": "Centuries of human progress might never have happened. It’s an imperfect analogy, but it offers a useful way to frame the current debate around artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-needs-open-source-models-to-reach-its-potential-e1f47d3f",
-      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-needs-open-source-models-to-reach-its-potential-e1f47d3f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-892398/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-amazon-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence.md",
-      "title": "Amazon launches Q, a business chatbot powered by generative artificial intelligence",
-      "excerpt": "The tech giant said Tuesday it will launch Q — a business chatbot powered by generative artificial intelligence ... the company hosts for its AWS cloud computing service, represents Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "originalUrl": "https://komonews.com/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://komonews.com/resources/media/4def6a03-0509-4b78-8c35-fdb99b80460d-large16x9_AP23202786388880.jpg",
-          "width": 986,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "cdnAmpWebUrl": "https://komonews-com.cdn.ampproject.org/c/s/komonews.com/amp/news/business/amazon-tech-giant-launches-q-a-business-chatbot-powered-by-generative-artificial-intelligence-ai-chatgpt-openai-technology-seattle-new-york-jeff-bezos-las-vegas-aws",
-      "publishedDateTime": "2023-11-29T21:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "komonews",
-        "domain": "komonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-11-30-gm-to-cut-spending-on-cruise-self-driving-unit.md",
-      "title": "G.M. to Cut Spending on Cruise Self-Driving Unit",
-      "excerpt": "General Motors will “substantially lower spending” on autonomous vehicle efforts in 2024 after accidents with its self-driving taxis in San Francisco.",
+      "path": "_news/2023-12-02-artificial-intelligence-in-health-care.md",
+      "title": "Artificial Intelligence in Health Care",
+      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "originalUrl": "https://www.nytimes.com/2023/11/29/technology/cruise-general-motors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/11/30/multimedia/29bizsky-gm-cruise-print/29gm-cruise-hcjk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-accelerating-gene-therapy-production.md",
-      "title": "Accelerating Gene Therapy Production",
-      "excerpt": "A key challenge for gene therapy is to minimize the dosage while concurrently devising more targeted delivery vectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
-      "originalUrl": "https://www.genengnews.com/topics/bioprocessing/accelerating-the-production-of-gene-therapies-with-ai-and-teamwork/",
+      "webUrl": "https://www.c-span.org/video/?532100-1/artificial-intelligence-health-care",
+      "originalUrl": "https://www.c-span.org/video/?532100-1/artificial-intelligence-health-care",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": null,
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.md",
-      "title": "AWS CEO bats for responsible AI, says need to unlock GenAI's full potential while mitigating risks",
-      "excerpt": "He affirmed that AWS is ready to help businesses reinvent ... training and generative artificial intelligence (AI) applications. The top honcho of Amazon's cloud computing unit said Generative ...",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks/105590184",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks/105590184",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-105590184,imgsize-78510,width-1200,height=765,overlay-etcio/artificial-intelligence/aws-ceo-bats-for-responsible-ai-says-need-to-unlock-genais-full-potential-while-mitigating-risks.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T20:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-google-deepminds-new-ai-tool-helped-create-more-than-700-new-materials.md",
-      "title": "Google DeepMind’s new AI tool helped create more than 700 new materials",
-      "excerpt": "Using AI models to come up with new materials is not a novel idea. The Materials Project, a program led by Kristin Persson at Berkeley Lab, has used similar techniques to discover and improve the stability of 48,000 materials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/",
-      "originalUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2023/11/A-Lab-Lawrence-Berkeley-National-Laboratory-Credit_-Marilyn-Sargent_Berkeley-Lab_1.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/amp/",
-      "publishedDateTime": "2023-11-29T19:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-how-does-wnij-use-artificial-intelligence-in-the-newsroom.md",
-      "title": "How does WNIJ use artificial intelligence in the newsroom?",
-      "excerpt": "No, robots do not write our stories at WNIJ. We don't use fake bylines either. But we do use some applications in our newsroom that help our reporters work more efficiently while making sure our stories are discoverable on the web.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "originalUrl": "https://www.northernpublicradio.org/wnij-news/2023-11-29/how-does-wnij-use-artificial-intelligence-in-the-newsroom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/b52be6e/2147483647/strip/true/crop/1280x672+0+91/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F24%2F56c628bc467fab254d29f87a9a7e%2Fnote-3047435-1280.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T19:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northern Public Radio",
-        "domain": "northernpublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-googles-deepmind-finds-22m-crystal-structures-in-materials-science-win.md",
-      "title": "Google’s DeepMind finds 2.2M crystal structures in materials science win",
-      "excerpt": "Google DeepMind researchers have discovered 2.2 million crystal structures that open potential progress in fields from renewable energy to advanced computation, and show the power of artificial intelligence to discover novel materials.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
-      "originalUrl": "https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/?view=mobile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/deepmindlist-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T18:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program.md",
-      "title": "M-DCPS students can apply for new Artificial Intelligence Magnet Program",
-      "excerpt": "Artificial intelligence (AI), a cutting-edge programming technology, has arrived at Miami-Dade County Public Schools (M-DCPS). “I enjoy learning about the new codes, new concepts in AI and how computers can help people,",
-      "sourceUrl": null,
-      "webUrl": "https://communitynewspapers.com/kendallgazette/m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program/",
-      "originalUrl": "https://communitynewspapers.com/kendallgazette/m-dcps-students-can-apply-for-new-artificial-intelligence-magnet-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://communitynewspapers.com/wp-content/uploads/2023/11/M-DCPS-is-teaching-AI-featured-min.jpg",
-          "width": 777,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T18:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami's Community Newspapers",
-        "domain": "communitynewspapers.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-announces-five-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
-      "title": "AWS Announces Five New Amazon SageMaker Capabilities for Scaling with Models",
-      "excerpt": "Amazon SageMaker Canvas helps customers build ML models and generate predictions without writing a single line of code. Today's announcement expands on SageMaker Canvas' existing, ready-to-use capabilities that help customers use models to power a range of use cases, in a no-code environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-five-new-amazon-sagemaker-capabilities-scaling-/2023/11/29/9925383.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T17:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-researchers-look-to-the-human-eye-to-boost-computer-vision-efficiency.md",
-      "title": "Researchers look to the human eye to boost computer vision efficiency",
-      "excerpt": "Conventional silicon architecture has taken computer vision a long way, but Purdue University researchers are developing an alternative path—taking a cue from nature—that they say is the foundation of an artificial retina.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
-      "originalUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/researchers-look-to-th.jpg",
-          "width": 1815,
-          "height": 1581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-11-human-eye-boost-vision-efficiency.amp",
-      "publishedDateTime": "2023-11-29T17:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms.md",
-      "title": "Amazon SageMaker HyperPod makes it easier to train and fine-tune LLMs",
-      "excerpt": "At its re:Invent conference today, Amazon’s AWS cloud arm announced the launch of SageMaker HyperPod, a new purpose-built service for training and fine-tuning large language models (LLMs).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/",
-      "originalUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/Screenshot-2023-11-29-at-9.20.43-AM.png?resize=1200,671",
-          "width": 1200,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/29/amazon-sagemaker-hyperpod-makes-it-easier-to-train-and-fine-tune-llms/amp/",
-      "publishedDateTime": "2023-11-29T17:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-aws-reinvent-2023-the-10-biggest-new-product-launches.md",
-      "title": "AWS re:Invent 2023: The 10 Biggest New Product Launches",
-      "excerpt": "“Generative AI is the next step in artificial intelligence,” said AWS CEO Adam Selipsky during his keynote this week at AWS re:Invent 2023. “And it’s going to reinvent every application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/aws-re-invent-2023-the-10-biggest-new-product-launches",
-      "originalUrl": "https://www.crn.com/news/cloud/aws-re-invent-2023-the-10-biggest-new-product-launches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T16:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-google-deepmind-adds-nearly-400000-new-compounds-to-open-access-database.md",
-      "title": "Google DeepMind adds nearly 400,000 new compounds to open-access database",
-      "excerpt": "New technology often calls for new materials—and with supercomputers and simulations, researchers don't have to wade through inefficient guesswork to invent them from scratch.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
-      "originalUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/google-deepmind-adds-n.jpg",
-          "width": 1280,
-          "height": 813,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-11-google-deepmind-compounds-open-access-database.amp",
-      "publishedDateTime": "2023-11-29T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-google-deepminds-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them.md",
-      "title": "Google DeepMind's AI Dreamed Up 380,000 New Materials. The Next Challenge Is Making Them",
-      "excerpt": "Google DeepMind researchers say they’ve expanded the number of known stable materials tenfold. Some could be useful for everything from batteries to superconductors—if they make it out of the lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
-      "originalUrl": "https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65668a6df0f200d31c380ec9/191:100/w_1280,c_limit/Google-Deepmind-Materials-Research-Business-XBD-202304-064-009.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-health-care-policy-stakeholders-testify-on-the-use-of-artificial-intelligence-in-health-care.md",
-      "title": "Health Care Policy Stakeholders Testify on the Use of Artificial Intelligence in Health Care",
-      "excerpt": "Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce Subcommittee on Health. They examined… read more Health care executives testified on artificial intelligence (AI) before the House Energy and Commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "originalUrl": "https://www.c-span.org/video/?532100-1/health-care-policy-stakeholders-testify-artificial-intelligence-health-care",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T15:30:00Z",
+      "publishedDateTime": "2023-12-01T21:50:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "c-span",
@@ -879,25 +213,26 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2023-11-29-google-bard-lead-debunks-natural-fear-of-ais-development-computers-do-things-with-you.md",
-      "title": "Google Bard lead debunks ‘natural fear’ of AI's development: 'Computers do things with you’",
-      "excerpt": "Jack Krawczyk discusses how Google Bard helps users connect and communicate — and what the future holds for the platform. The emergence of artificial intelligence has sparked a fear of the ...",
+      "path": "_news/2023-12-02-aws-reinvent-2023-how-ai-is-impacting-the-state-of-cloud-security.md",
+      "title": "AWS re:Invent 2023: How AI Is Impacting the State of Cloud Security",
+      "excerpt": "The cybersecurity landscape is currently shifting in response to the implementation of artificial intelligence in cloud security.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "originalUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
+      "webUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security",
+      "originalUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b44ce7d5-cfbe-4b86-bdc0-5bd5d6ded0a0/b5cacac1-0706-41cb-bf48-d1d5f0bfb8b5/1280x720/match/image.jpg?pubId=854081161001",
-          "width": 1280,
-          "height": 720,
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202312/Steve%20Schmidt%20session_0.jpg?itok=gCbG5yZE",
+          "width": 1440,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -905,13 +240,220 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/lifestyle/google-bard-lead-debunks-natural-fear-ai-development-computers.amp",
-      "publishedDateTime": "2023-11-29T15:02:00Z",
+      "ampWebUrl": "https://biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2023/12/aws-reinvent-2023-how-ai-impacting-state-cloud-security?amp",
+      "publishedDateTime": "2023-12-01T21:22:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning.md",
+      "title": "Vaishnavi Visweswaraiah: Pioneering the Future of Machine Learning",
+      "excerpt": "Vaishnavi's breakthrough moment came when she collaborated with a team of researchers to develop a machine-learning model, aiming to gain a closer understanding of nomophobia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/special/contributor-content/2023/12/01/vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning/71771436007/",
+      "originalUrl": "https://www.usatoday.com/story/special/contributor-content/2023/12/01/vaishnavi-visweswaraiah-pioneering-the-future-of-machine-learning/71771436007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-nearterm-realworld-humanoid-robots-and-super-ai.md",
+      "title": "Nearterm Realworld Humanoid Robots and Super AI",
+      "excerpt": "Like mass produced Futurama Bender but performing the factory work tasks instead of being a lazy drinking robot. If Elon is correct and we have Artificial Super Intelligence in three years. This would be very much like the Star Trek Data Android for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2023/12/nearterm-realworld-humanoid-robots-and-super-ai.html",
+      "originalUrl": "https://www.nextbigfuture.com/2023/12/nearterm-realworld-humanoid-robots-and-super-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/12/Screen-Shot-2023-12-01-at-4.29.13-PM.jpg",
+          "width": 1776,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-push-to-ban-facial-recognition-at-kci-other-airports.md",
+      "title": "Push to ban facial recognition at KCI, other airports",
+      "excerpt": "KANSAS CITY, Mo. (KCTV) - A group of U.S. Senators sounds the alarm over the use of facial recognition technology at KCI Airport and other airports across the country. U.S. Senator Roger Marshall, R-Kan. is one of six senators to introduce the Traveler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "originalUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kctv-prod.cdn.arcpublishing.com/resizer/v2/GEP3E3XD2BD73IHY6EYMFTHBU4.png?auth=df39686e7650b2c8e529de572d983e698b66628bca4d560e10c94653113db700&width=800&height=450&smart=true",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kctv5-com.cdn.ampproject.org/c/s/www.kctv5.com/2023/12/01/push-ban-facial-recognition-kci-other-airports/?outputType=amp",
+      "publishedDateTime": "2023-12-01T19:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-what-are-artificial-neural-networks.md",
+      "title": "What are artificial neural networks?",
+      "excerpt": "Artificial neural networks are inspired by the early models of sensory processing by the brain. An artificial neural network can be created by simulating a network of model neurons in a computer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/nbt1386",
+      "originalUrl": "https://www.nature.com/articles/nbt1386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fnbt1386/MediaObjects/41587_2008_Article_BFnbt1386_Fig1_HTML.gif",
+          "width": 685,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T19:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans.md",
+      "title": "This DeepMind AI Rapidly Learns New Skills Just by Watching Humans",
+      "excerpt": "Most algorithms learn to mimic humans from hundreds or thousands of examples. But a new AI from Google DeepMind picks up new skills from humans on the fly.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
+      "originalUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/12/two-colorful-parrots-cocking-their-heads.jpeg",
+          "width": 1408,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/01/this-deepmind-ai-rapidly-learns-new-skills-just-by-watching-humans/?amp=1",
+      "publishedDateTime": "2023-12-01T19:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -926,55 +468,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-29-fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics.md",
-      "title": "Fintech leading in AI adoption, need new AI legislation: Moody’s Analytics",
-      "excerpt": "As per the study, 18 per cent of fintech respondents are currently actively using AI, double than the 9 per cent respondents across all surveyed sectors",
+      "path": "_news/2023-12-02-unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations.md",
+      "title": "Unveiling AWS’ AI frontier: A deep dive into the three-layer stack and other innovations",
+      "excerpt": "Artificial intelligence is running at such a speed that companies not keeping pace are immediately left behind. Compared to other players, such as OpenAI Inc. and Microsoft Corp., there’s been a long-held notion that Amazon Web Services Inc. is behind the AI innovation curve.",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-leading-in-ai-adoption-need-new-ai-legislation-moodys-analytics/article67587744.ece/amp/",
-      "publishedDateTime": "2023-11-29T14:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aerodyne-taps-aws-to-power-drone-platform.md",
-      "title": "Aerodyne taps AWS to power drone platform",
-      "excerpt": "“These are drones that have AI [artificial intelligence] at the edge that can ... to be escalated,” Muhamed said on the sidelines of AWS re:Invent 2023 in Las Vegas this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366561319/Aerodyne-taps-AWS-to-power-drone-platform",
-      "originalUrl": "https://www.computerweekly.com/news/366561319/Aerodyne-taps-AWS-to-power-drone-platform",
+      "webUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/01/unveiling-aws-ai-frontier-a-deep-dive-into-the-three-layer-stack-and-other-innovations-supercloud5/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-121223-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/11/Bratin-clean.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -984,11 +492,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T13:30:00Z",
+      "publishedDateTime": "2023-12-01T17:55:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1003,21 +511,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-29-helios-enhances-its-suite-of-customized-investment-models-with-machine-learning.md",
-      "title": "Helios Enhances its Suite of Customized Investment Models with Machine Learning",
-      "excerpt": "New feature aggregates and analyzes data in real-time to bolster the firm's quantitative investment methodologies while optimizing client outcomes Helios, pioneer of the Insourced Chief Investment Off",
+      "path": "_news/2023-12-02-when-deep-learning-meets-active-learning-in-the-era-of-foundation-models.md",
+      "title": "When deep learning meets active learning in the era of foundation models",
+      "excerpt": "A Chinese research team wrote a review article on deep active learning, an increasingly popular method of combining active learning with deep learning for sample selection in the training of neural networks for artificial intelligence tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/b36001022/helios-enhances-its-suite-of-customized-investment-models-with-machine-learning",
+      "webUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
+      "originalUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/when-deep-learning-mee.jpg",
+          "width": 1280,
+          "height": 863,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1025,13 +533,314 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36001022",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36001022",
-      "publishedDateTime": "2023-11-29T13:08:00Z",
+      "ampWebUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-deep-era-foundation.amp",
+      "publishedDateTime": "2023-12-01T16:53:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale.md",
+      "title": "Roomba robot vacuum deals start at $159 in this big Cyber Week sale",
+      "excerpt": "Prices start at just $159 for the Roomba 694 robot vacuum cleaner. This model isn’t the most ... First, the Roomba Combo j7+ with AI and integrated mopping is $300 off right now. Or, you can get the $550 Roomba Combo i5+ for $349, matching the lowest ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
+      "originalUrl": "https://bgr.com/deals/roomba-robot-vacuum-deals-start-at-159-in-this-big-cyber-week-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2023/08/Roomba-Robot-Vacuums.jpg?quality=82&strip=all",
+          "width": 3560,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-what-its-like-to-have-face-blindness.md",
+      "title": "What it’s like to have face blindness",
+      "excerpt": "From Face Blindness to Super Recognition,” a new book by Sharrona Pearl, a professor of medical ethics and history at Drexel University. In her ambitious effort to help “craft a cultural ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/books/2023/12/01/do-i-know-you-face-blindness-super-recognition-sharrona-pearl-review/",
+      "originalUrl": "https://www.washingtonpost.com/books/2023/12/01/do-i-know-you-face-blindness-super-recognition-sharrona-pearl-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZIMFYBW32RES7OGH2A5HRHW2HM_size-normalized.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel.md",
+      "title": "‘AI safety is imperative:’ Triangle thought leaders talk artificial intelligence with Senate panel",
+      "excerpt": "The seventh and final planned session of the Senate's AI Forum included two representatives from the Triangle: Howso's Mike Capps, and Duke Computer Science Professor, Cynthia Rudin. Check out what they discussed.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "originalUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/11/WRAL-Featured-Image-Template-71.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
+      "publishedDateTime": "2023-12-01T16:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions.md",
+      "title": "How Microsoft and Nuance empower radiologists with AI-powered solutions",
+      "excerpt": "Microsoft and Nuance are committed to creating outcomes-focused AI solutions that streamline radiology workflows. Learn more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/12/GettyImages-1320844652-1.jpg",
+          "width": 942,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-svvsd-to-host-day-of-ai-event.md",
+      "title": "SVVSD to host ‘Day of AI’ event",
+      "excerpt": "As part of Computer Science Education Week, the Innovation Center of St. Vrain Valley Schools will host a ‘Day of AI’ on Dec. 2 from 2-5 p.m. Computer Science Education Week is “an annual call to action to inspire K-12 students to learn computer science,",
+      "sourceUrl": null,
+      "webUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
+      "originalUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/longmontleader/images/stock-photos/pexels-tara-winstead-8386440.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longmont Leader",
+        "domain": "longmontleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
+      "title": "Lenovo’s AI-Powered Sign Language Translation Solution Empowers Signers in Brazil",
+      "excerpt": "A camera captured the precise movements of Gabriel’s hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost instantly, creating seamless and personal connection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "originalUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://back.3blmedia.com/sites/default/files/inline-images/gabriel-libras_lenovo_103023.png",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1047,21 +856,21 @@
       ]
     },
     {
-      "path": "_news/2023-11-29-vision-transformers-market-worth-12-billion-by-2028-growing-at-a-cagr-of-342-report-by-marketsandmarkets.md",
-      "title": "Vision Transformers Market Worth $1.2 billion by 2028, Growing At a CAGR of 34.2% Report by MarketsandMarkets™",
-      "excerpt": "The global Vision Transformers Market size is projected to grow from USD 0.2 billion in 2023 to USD 1.2 billion by 2028 at a growth rate of 34.2% during the forecast period,",
+      "path": "_news/2023-12-01-natural-language-processing-mena.md",
+      "title": "Natural Language Processing - MENA",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1069,13 +878,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36000465",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36000465",
-      "publishedDateTime": "2023-11-29T13:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:28:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Statista",
+        "domain": "statista.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1085,9 +894,163 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
+      "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
+      "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
+      "title": "Q&A: How artificial intelligence could transform health care",
+      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
+          "width": 1280,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
+      "publishedDateTime": "2023-12-01T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI",
-        "Machine Learning"
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field.md",
+      "title": "Seattle is an artificial intelligence hub in a rapidly changing field",
+      "excerpt": "AI continues to grow in power and use across the economy. You're probably using it now, whether you know it or not. Jon Talton considers if we're letting AI unleash a Terminator future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
+      "originalUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-deepmind-exec-ai-assesses-climate-issues-falls-short-of-full-solution.md",
+      "title": "DeepMind exec: AI assesses climate issues, falls short of full solution",
+      "excerpt": "Google DeepMind’s Climate Action Lead, Sims Witherspoon, highlights AI’s potential to address climate challenges. She suggests a three-step framework: Understand, Optimize, Accelerate.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
+      "originalUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

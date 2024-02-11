@@ -2,6 +2,469 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-19-the-oil-for-a-successful-ai-machine-organized-trusted-data.md",
+      "title": "The Oil For A Successful AI Machine: Organized, Trusted Data",
+      "excerpt": "There's a fundamental truth that underpins AI and ML’s effectiveness: you need organized, high-quality data to train them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629e70857c112c2759b62128/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/12/19/the-oil-for-a-successful-ai-machine-organized-trusted-data/amp/",
+      "publishedDateTime": "2023-12-19T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts.md",
+      "title": "Artificial intelligence can find your location in photos, worrying privacy experts",
+      "excerpt": "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
+      "originalUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFDD",
+        "domain": "wfdd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-neural-networks-forecast-fresh-produce-demand.md",
+      "title": "Neural Networks Forecast Fresh Produce Demand",
+      "excerpt": "AI models must cover all these cases in order to reliably predict demand on a daily basis. Experience has shown that for this purpose, artificial neural networks are well-suited to forecasting at both product group and item level. They can interpret and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/blogs/1-think-tank/post/38639-neural-networks-forecast-fresh-produce-demand",
+      "originalUrl": "https://www.supplychainbrain.com/blogs/1-think-tank/post/38639-neural-networks-forecast-fresh-produce-demand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2023/12/15/FRUITS-AND-VEGETABLES-PRODUCE-iStock--YelenaYemchuk--1409236261.jpg?height=635&t=1702877174&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-17-googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt.md",
+      "title": "Google's Gemini: Is the new artificial intelligence model really better than ChatGPT?",
+      "excerpt": "Google Deepmind has recently announced Gemini, its new AI model to compete with OpenAI's ChatGPT. While both models are examples of “generative AI”, which learn to find patterns of input training information to generate new data (pictures, words or other media), ChatGPT is a large language model (LLM) which focuses on producing text.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
+      "originalUrl": "https://tech.hindustantimes.com/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2023/12/17/1600x900/Google_Gemini_1701885704849_1702774698630.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/googles-gemini-is-the-new-artificial-intelligence-model-really-better-than-chatgpt-71702736181690.html",
+      "publishedDateTime": "2023-12-17T01:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
+      "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
+      "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
+      "publishedDateTime": "2023-12-15T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas.md",
+      "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
+      "excerpt": "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg",
+          "width": 1006,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T17:51:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-googles-tensorflow-revolutionizing-machine-learning-and-ai-development.md",
+      "title": "Google’s TensorFlow: Revolutionizing Machine Learning and AI Development",
+      "excerpt": "Introduction: In the ever-evolving landscape of artificial intelligence, Google’s TensorFlow stands as a beacon of innovation, revolutionizing the way we approach machine learning and AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
+      "originalUrl": "https://techbullion.com/googles-tensorflow-revolutionizing-machine-learning-and-ai-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Googles-TensorFlow-Revolutionizing-Machine-Learning-and-AI-Development.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence.md",
+      "title": "Tomra improving efficiency in packinghouses with artificial intelligence",
+      "excerpt": "TOMRA Food has been utilizing artificial intelligence since 2019 to make sorting and grading solutions more accurate than traditional techniques. The deployment of AI-powered technology in the food production industry will continue to accelerate into the future. Some of the areas it will impact are below:",
+      "sourceUrl": null,
+      "webUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
+      "originalUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fresh Fruit Portal",
+        "domain": "freshfruitportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
+      "title": "How Machine Learning is Boosting Businesses",
+      "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1702641228-Hithere.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
+      "title": "Machine Learning, Deep Learning, And The Credit Market",
+      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "publishedDateTime": "2023-12-14T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
       "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
       "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
@@ -857,431 +1320,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
-      "title": "Is Machine Learning Random? And Why Should You Care?",
-      "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6570cd8f70a0ecad420089d5/0x0.jpg?format=jpg&crop=1601,900,x0,y183,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "publishedDateTime": "2023-12-06T19:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-chatgpt-and-how-neural-networks-learned-to-talk-a-30-year-journey.md",
-      "title": "ChatGPT and how Neural Networks learned to talk a 30 year journey",
-      "excerpt": "Learn about the advances in technology over the last 30 years that have culminated into neural networks being able to talk. ChatGPT AI models",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
-      "originalUrl": "https://www.geeky-gadgets.com/how-neural-networks-learned-to-talk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/ChatGPT-and-how-Neural-Networks-learned-to-talk.jpg",
-          "width": 1280,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T11:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup.md",
-      "title": "Red Hat cofounder Bob Young invests in new ‘liquid neural network’ AI startup",
-      "excerpt": "RESEARCH TRIANGLE PARK – Red Hat cofounder and Triangle tech legend Bob Young is making a new investment play, this time in artificial intelligence ... is based on what’s called a liquid neural network. Here’s how MIT describes the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "originalUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2019/04/BobYoung_5_HR-e1555938946676.jpg",
-          "width": 2922,
-          "height": 1643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/06/red-hat-cofounder-bob-young-invests-in-new-liquid-neural-network-ai-startup/?amp=1",
-      "publishedDateTime": "2023-12-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-dhs-seeks-information-for-cisa-analytics-and-machine-learning-project.md",
-      "title": "DHS seeks information for CISA analytics and machine learning project",
-      "excerpt": "The agency’s Office of Mission and Capability Support aims to better understand the “capabilities of businesses that could supply access to” the three commercial cloud providers that support the CAP-M project.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
-      "originalUrl": "https://fedscoop.com/dhs-cisa-machine-learning-analytics-rfi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/03/dhs-rsa-2019.jpg?w=600",
-          "width": 600,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T22:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ai-technique-designed-to-advance-understanding-of-neural-circuits.md",
-      "title": "AI Technique Designed to Advance Understanding of Neural Circuits",
-      "excerpt": "The new method is able to identify neurons whether they are represented in images as individual points or as 3D volumes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
-      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-technique-designed-to-advance-understanding-of-neural-circuits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T21:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-advancements-in-machine-learning.md",
-      "title": "Advancements in Machine Learning",
-      "excerpt": "Machine learning is not just a technological advancement; it is a catalyst for positive change, pushing the boundaries of what is possible and",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/advancements-in-machine-learning-nid-10991.html",
-      "originalUrl": "https://www.cioapplications.com/news/advancements-in-machine-learning-nid-10991.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/gny2sb450.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T18:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision.md",
-      "title": "Revolutionising industries with AI: Sumedh Datar's journey in deep learning and computer vision",
-      "excerpt": "Artificial Intelligence techniques, such as deep learning, have garnered significant attention in 2023, especially with the emergence of platforms like Cha..",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "originalUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=c9b4f094-01fe-5308-856e-fb8aeec53a51&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.75125&width=1200&height=675&x=1.0E-5&y=0.17362.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/revolutionising-industries-with-ai-sumedh-datars-journey-in-deep-learning-and-computer-vision?amp=1",
-      "publishedDateTime": "2023-12-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer.md",
-      "title": "Deep Learning Model Flags Non-Smokers at Increased Risk for Lung Cancer",
-      "excerpt": "A new model has shown that among non-smokers, there is a 2.1 times greater risk of developing lung cancer for those in high-risk groups compared to their peers.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-salus-advances-web3-security-with-deep-learning-in-new-research.md",
-      "title": "Salus Advances Web3 Security with Deep Learning in New Research",
-      "excerpt": "Blockchain firm Salus has advanced its Web3 security potential after conducting deep learning research published by 'Scientific Reports'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "originalUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/salus-web3-security-deep-learning.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/salus-web3-security-deep-learning/amp/",
-      "publishedDateTime": "2023-12-05T11:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "coinspeaker",
-        "domain": "coinspeaker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-deep-learning-models-can-improve-low-field-mri-images-for-better-clinical-diagnoses.md",
-      "title": "Deep learning models can improve low-field MRI images for better clinical diagnoses",
-      "excerpt": "While low-field MRI scans have several logistical advantages, 64mT scans can also present discrepancies affecting the clinical diagnosis. For example, diagnosing certain conditions such as hydrocephalus critically depends on the precise estimation of brain morphometric measurements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20231205/Deep-learning-models-can-improve-low-field-MRI-images-for-better-clinical-diagnoses.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20231205/Deep-learning-models-can-improve-low-field-MRI-images-for-better-clinical-diagnoses.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766238_1701775796849117.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T11:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

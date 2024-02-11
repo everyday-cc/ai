@@ -2,100 +2,12 @@
   "page": 33,
   "value": [
     {
-      "path": "_news/2024-01-06-meet-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.md",
-      "title": "Meet the humanoid robot that learns from natural language and mimics human emotions",
-      "excerpt": "Tokyo Researchers have used GPT-4, a large language model, to control the movements and behaviors of Alter3, a humanoid robot.",
+      "path": "_news/2024-01-10-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions.md",
+      "title": "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions",
+      "excerpt": "Reply, a leading network of highly specialised companies active in the fields of digital transformation and innovation, announced the launch of Accelerator 365, a new product that delivers innovative applications for intranets and digital workplaces.",
       "sourceUrl": null,
-      "webUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
-      "originalUrl": "https://cyberguy.com/future-tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyberguy.com/wp-content/uploads/2024/01/Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CyberGuy",
-        "domain": "cyberguy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival.md",
-      "title": "New Google Bard leak reveals a ton of new features headed for Google's ChatGPT rival",
-      "excerpt": "Google has some big plans for its Google Bard AI assistant, but while the company is staying tight-lipped on an official launch date for now, a new leak may have blown the lid on a few of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
-      "originalUrl": "https://www.tomsguide.com/news/new-google-bard-leak-reveals-a-ton-of-new-features-headed-for-googles-chatgpt-rival",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UwRPt67EGYTn2rJV4e2m3m-1200-80.jpg",
-          "width": 1116,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-schwarzenegger-for-president-arnold-should-run-and-not-just-because-hed-beat-trump.md",
-      "title": "Schwarzenegger for president? Arnold should run – and not just because he'd beat Trump.",
-      "excerpt": "You also may not realize that, in real life, the door just opened for you to be pulled back into the FUBAR (“F’ed Up Beyond All Recognition”) of our national ... this makes clear that you can run. Who could object without looking like a hypocrite?",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
-      "originalUrl": "https://www.palmbeachpost.com/story/opinion/2024/01/06/arnold-schwarzenegger-run-president-2024/72121096007/",
+      "webUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
+      "originalUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -105,11 +17,45 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T23:59:00Z",
+      "publishedDateTime": "2024-01-10T09:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
+        "name": "AFP",
+        "domain": "afp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-sensormatic-solutions-maximizes-shopper-experiences-through-store-guest-behaviors-powered-by-computer-vision-analytics-at-nrf-2024.md",
+      "title": "Sensormatic Solutions Maximizes Shopper Experiences Through Store Guest Behaviors Powered by Computer Vision Analytics at NRF 2024",
+      "excerpt": "As part of Sensormatic Solutions computer vision capabilities, Store Guest Behaviors is an artificial intelligence (AI) solution that leverages an adaptive learning model to help retailers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -124,35 +70,26 @@
       ]
     },
     {
-      "path": "_news/2024-01-06-6-features-that-could-come-to-google-bard-in-2024.md",
-      "title": "6 Features That Could Come To Google Bard in 2024",
-      "excerpt": "After a slow start, Google Bard is catching up to its AI competitors such as OpenAI’s Chat GPT and 2024 will see the addition of a host of new features to the search giant’s AI product, although it’s not certain which of these features will make it out of development.",
+      "path": "_news/2024-01-10-deepmind-spin-off-aims-to-halve-drug-discovery-times-following-big-pharma-deals.md",
+      "title": "DeepMind spin-off aims to halve drug discovery times following Big Pharma deals",
+      "excerpt": "Chief of Google’s AI unit and Isomorphic Labs spells out targets following $3bn Eli Lilly-Novartis partnerships",
       "sourceUrl": null,
-      "webUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
-      "originalUrl": "https://www.talkandroid.com/383588-google-bard-new-feature/",
+      "webUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
+      "originalUrl": "https://www.ft.com/content/a08e4ad9-5277-4860-9df2-d5df2ad1e57d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.talkandroid.com/wp-content/uploads/2024/01/Google-Bard.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T22:43:00Z",
+      "publishedDateTime": "2024-01-10T06:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "talkandroid.com",
-        "domain": "talkandroid.com",
+        "name": "The Financial Times",
+        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -167,21 +104,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-06-google-is-reportedly-working-on-an-advanced-version-of-its-bard-chatbot.md",
-      "title": "Google Is Reportedly Working on an Advanced Version of Its Bard Chatbot",
-      "excerpt": "Google is seemingly working on developing a more advanced version of its Bard chatbot. Launched in May 2023, Google’s conversational AI bot was designed to be a competitor to ChatGPT but fell flat with many users compared to OpenAI ’s model.",
+      "path": "_news/2024-01-10-beatbot-to-make-waves-at-ces-2024-by-unveiling-worlds-first-all-in-one-intelligent-pool-cleaning-robot.md",
+      "title": "Beatbot To Make Waves At CES 2024 By Unveiling World's First All-In-One Intelligent Pool Cleaning Robot",
+      "excerpt": "With significant advances in efficiency, performance and power, Beatbot AquaSense Pro is truly, The One Pool Robot to Rule Them All.",
       "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
-      "originalUrl": "https://hypebeast.com/2024/1/google-bard-advanced-ai-chatbot-development",
+      "webUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
+      "originalUrl": "https://menafn.com/1107701150/Beatbot-To-Make-Waves-At-CES-2024-By-Unveiling-Worlds-First-All-In-One-Intelligent-Pool-Cleaning-Robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F01%2Fgoogle-bard-ai-chatbot-advanced-development-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-          "width": 1080,
-          "height": 540,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?319528",
+          "width": 258,
+          "height": 249,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -191,11 +128,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T22:39:00Z",
+      "publishedDateTime": "2024-01-10T05:03:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -205,26 +142,69 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-06-report-google-developing-new-version-of-bard-based-on-its-flagship-gemini-ultra-llm.md",
-      "title": "Report: Google developing new version of Bard based on its flagship Gemini Ultra LLM",
-      "excerpt": "Google LLC is believed to be building a new version of its Bard chatbot that runs on Gemini Ultra, the most advanced large language model the company has created to date.",
+      "path": "_news/2024-01-10-the-10-most-in-demand-tech-skills-in-2024-with-skill-tests.md",
+      "title": "The 10 most in-demand tech skills in 2024 (with skill tests)",
+      "excerpt": "Here is a list of the top tech skills to have on your resume this year, as well as a list of skill tests you can use to gauge your current proficiency.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
-      "originalUrl": "https://siliconangle.com/2024/01/05/report-google-developing-new-version-bard-based-flagship-gemini-ultra-llm/",
+      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
+      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/top-tech-skills-2024-with-tests",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T03:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-mine-spotting-drones-and-tracked-robots-the-armys-efforts-to-breach-minefields-with-tech.md",
+      "title": "Mine-spotting drones and tracked robots: The Army’s efforts to breach minefields with tech",
+      "excerpt": "Instead, they may reach for a remote control to choose from a menu of drones and tracked robots to sweep away the problem.  Among the several units experimenting with new tech is the 18th Airborne at Fort Liberty,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
+      "originalUrl": "https://www.defenseone.com/technology/2024/01/mine-spotting-drones-and-tracked-robots-armys-efforts-breach-minefields-tech/393228/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/google-bard-extensions.png",
-          "width": 1082,
-          "height": 722,
+          "url": "https://cdn.defenseone.com/media/img/cd/2024/01/09/Screen_Shot_2024_01_09_at_4.19.22_PM/open-graph.png",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -234,11 +214,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T21:15:00Z",
+      "publishedDateTime": "2024-01-10T02:26:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "Defense One",
+        "domain": "defenseone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -248,26 +228,26 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-06-artificial-intelligence-stirs-privacy-challenges-for-schools.md",
-      "title": "Artificial intelligence stirs privacy challenges for schools",
-      "excerpt": "A commercial boom around using artificial intelligence in the classroom is creating a slew of privacy and safety hazards well before Washington grapples with the fast-moving technology.",
+      "path": "_news/2024-01-10-superai-asias-premier-artificial-intelligence-conference-debuts-in-singapore.md",
+      "title": "SuperAI, Asia's Premier Artificial Intelligence Conference, Debuts in Singapore",
+      "excerpt": "Edward Snowden, Benedict Evans and Balaji Srinivasan amongst others to take the stage at SuperAI from 5-6 June 2024 SINGAPORE, Jan. 10, 2024 /PRNewswire/ --SuperAI, Asia's premier artificial intelligence (AI) conference,",
       "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
-      "originalUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
+      "webUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
+      "originalUrl": "https://www.malaysiasun.com/news/274090199/superai-asia-premier-artificial-intelligence-conference-debuts-in-singapore",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.politico.com/b5/a8/4192f6464d27b43e6e417d527f42/back-to-school-student-mental-health-96428.jpg",
-          "width": 4426,
-          "height": 2951,
+          "url": "https://cdn.bignewsnetwork.com/cus1705653033793.jpg",
+          "width": 630,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -277,11 +257,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T21:09:00Z",
+      "publishedDateTime": "2024-01-10T02:17:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -296,21 +276,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-06-police-secretly-conducting-facial-recognition-searches-of-passport-database.md",
-      "title": "Police secretly conducting facial recognition searches of passport database",
-      "excerpt": "Chris Philp, the policing minister, raised the prospect last year of officers accessing the database of passport holders so they could use facial recognition ... Mr Philp’s speech on the plans ...",
+      "path": "_news/2024-01-10-microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai.md",
+      "title": "Microsoft and PNNL team up to build better batteries using AI",
+      "excerpt": "Microsoft has announced a partnership with PNNL to use AI and quantum computing to accelerate battery and materials research for energy storage solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2024/01/05/police-facial-recognition-searches-passport-database-mps/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2024/01/05/police-facial-recognition-searches-passport-database-mps/",
+      "webUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
+      "originalUrl": "https://venturebeat.com/ai/microsoft-and-pnnl-team-up-to-build-better-batteries-using-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2024/01/05/TELEMMGLPICT000361651281_17044794559900_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/AI-and-HPC-computing-speeding-up-scientific-discovery-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -320,101 +300,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T21:00:00Z",
+      "publishedDateTime": "2024-01-10T01:38:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-how-ai-emerges-as-revolutionary-force.md",
-      "title": "How AI emerges as revolutionary force?",
-      "excerpt": "Artificial Intelligence (AI) has emerged as a revolutionary force, significantly shaping various facets of our daily existence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
-      "originalUrl": "https://www.samaa.tv/208737476-how-ai-emerges-as-revolutionary-force",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.samaa.tv/images/ai-file.jpg",
-          "width": 850,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T18:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Samaa",
-        "domain": "samaa.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-fintech-kaspikz-is-set-to-be-first-kazakh-company-to-list-in-the-us.md",
-      "title": "Fintech Kaspi.kz is set to be first Kazakh company to list in the U.S.",
-      "excerpt": "Fintech Kaspi.kz is poised to become the first ... hits record intraday low and another record-low close The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia PayPal’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "originalUrl": "https://www.marketwatch.com/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-77047086/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/fintech-kaspi-kz-is-set-to-be-first-kazakh-company-to-list-in-the-u-s-6d76fbba",
-      "publishedDateTime": "2024-01-05T17:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -430,26 +323,26 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
+      "path": "_news/2024-01-10-ai-starts-to-show-promise-as-tool-to-sift-mountain-of-sustainability-research.md",
+      "title": "AI starts to show promise as tool to sift mountain of sustainability research",
+      "excerpt": "AI starts to show promise as tool to sift mountain of sustainability research on facebook (opens in a new window) AI starts to show promise as tool to sift mountain of sustainability research on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "webUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
+      "originalUrl": "https://www.ft.com/content/30be6feb-e038-4804-a7ba-5d0e288bac65",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F75aac64f-29af-40b1-a3a9-d0c1ffe8c05c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -459,11 +352,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:33:00Z",
+      "publishedDateTime": "2024-01-10T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "The Financial Times",
+        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -473,105 +366,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-06-ibm-a-hidden-ai-play-but-upside-is-capped-jefferies.md",
-      "title": "IBM a 'hidden AI play' but upside is capped - Jefferies",
-      "excerpt": "Despite the positives, Jefferies notes that the company is growing revenue below its software peers while operating at lower margins. \"While the stock can grind higher, we think upside is capped in the absence of a meaningful acceleration in software,\" analysts wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "originalUrl": "https://za.investing.com/news/ibm-a-hidden-ai-play-but-upside-is-capped--jefferies-432SI-2971678",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png",
-          "width": 251,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T16:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
+        "Meta AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
+      "path": "_news/2024-01-10-how-aws-responded-to-the-generative-ai-wave-of-2023-and-what-it-pros-should-expect-in-2024.md",
+      "title": "How AWS Responded to the Generative AI Wave of 2023 (and What IT Pros Should Expect in 2024)",
+      "excerpt": "When 2023 began, Rada Stanic, chief technologist for AWS in Australia and New Zealand, imagined the year would be dominated by helping customers build more modern data platforms in the cloud, with a bit of artificial intelligence and machine learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free.md",
-      "title": "Have 10 hours? IBM will train you in AI fundamentals - for free",
-      "excerpt": "The credential takes about ten hours to complete, across six courses. Because I have had a long interest in AI ethics (I did a thesis on AI ethics way back in the day), I took the AI ethics class.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/",
-      "originalUrl": "https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/",
+      "webUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-cloud-ai-2024-trends-australia/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/f514179479e5b9ecd3c75c36aed9eb6d2428b633/2024/01/05/8e45231d-1ba3-4a09-9748-b4280d1ce875/gettyimages-1900667629.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://assets.techrepublic.com/uploads/2024/01/AdobeStock_458675015_Editorial_Use_Only.jpeg",
+          "width": 1400,
+          "height": 933,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -579,16 +393,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/",
-      "publishedDateTime": "2024-01-05T14:28:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -604,17 +418,146 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-05-three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai.md",
-      "title": "Three Stocks: Ringing Up a Great December, Another Day, Another Recall, and Analyst Trash Talks Old School AI",
-      "excerpt": "Rides High on December Sales Surge, Analysts Upgrade with Bullish 2024 Forecasts. Tesla (TSLA) Faces Recall Woes, Treading in Technical Danger Zone. International Business Machines (IBM) Takes Heat as Analysts Downgrade to 'Sell' Despite AI Legacy.",
+      "path": "_news/2024-01-10-machine-learning-statistics-facts.md",
+      "title": "Machine learning - statistics & facts",
+      "excerpt": "Of the forms of AI used, machine learning is the simplest. Other AI subsects include deep learning, neural networks, and natural language processing. Machine learning uses datasets to categorize ...",
       "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
-      "originalUrl": "https://moneymorning.com/2024/01/05/three-stocks-ringing-up-a-great-december-another-day-another-recall-and-analyst-trash-talks-old-school-ai/",
+      "webUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "originalUrl": "https://www.statista.com/topics/9583/machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-microsoft-azure-statistics-facts.md",
+      "title": "Microsoft Azure - statistics & facts",
+      "excerpt": "Microsoft Azure's key solutions include data management, media services, machine learning and artificial intelligence (AI), developer tools, and internet of things (IoT) applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
+      "originalUrl": "https://www.statista.com/topics/8031/microsoft-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/statista.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
+      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
+      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
+      "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
+      "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
+      "sourceUrl": null,
+      "webUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
+      "originalUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -624,11 +567,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T13:47:00Z",
+      "publishedDateTime": "2024-01-10T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
+        "name": "RPI News",
+        "domain": "rpi.edu",
         "images": null,
         "publishers": null,
         "authors": null
@@ -643,21 +586,55 @@
       ]
     },
     {
-      "path": "_news/2024-01-05-google-deepmind-has-new-rules-to-make-sure-ai-robots-behave-when-tidying-your-home.md",
-      "title": "Google DeepMind has new rules to make sure AI robots behave when tidying your home",
-      "excerpt": "The tech giant has introduced a set of new advancements that seek to make robots powered by AI a lot safer to deploy at home.",
+      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
+      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
+      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
-      "originalUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1",
+      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
+      "title": "AWS Announces Inaugural Education Accelerator Recipients",
+      "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
+      "originalUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/6597efa0ec62ab5daf80f036?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d492891/2147483647/strip/true/crop/5120x2489+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F46%2F22%2F58ae34074806a39b762607ab65ab%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzk1MTczODc0L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2MzkwOTA5NDEsICJtIjogMX0sICJQT1o1bVMwL1IvcWxmNHhRQ2gvVE44VDB2VGsiXQ%3D%3D%2Fshutterstock_1795173874.jpg",
+          "width": 1440,
+          "height": 700,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -665,9 +642,207 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-rules-ai-robots-safer-in-your-home-2024-1?amp",
-      "publishedDateTime": "2024-01-05T13:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-executives-meet-your-new-intern-artificial-intelligence.md",
+      "title": "Executives, Meet Your New Intern: Artificial Intelligence",
+      "excerpt": "Organizational shifts prompted by AI are already happening. It’s only a matter of time before it leads to job cuts.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "originalUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-companies-use-artificial-intelligence-to-cater-to-animal-lovers-at-ces-tech-show.md",
+      "title": "Companies use artificial intelligence to cater to animal lovers at CES tech show",
+      "excerpt": "From cat flaps and dog companion robots, companies are using artificial intelligence to cater to animal lovers at the CES tech show in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "originalUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dims.apnews.com/dims4/default/45fef77/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F04%2Fad634d426ee428ddbd2c4a7b3b3e%2Fus-nv-ces-pets-artificial-intelligence-20240109cr-1920x1080.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
+      "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
+      "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
+      "originalUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2024/01/09/Belle_18cef70ac4b_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees.md",
+      "title": "Houston Community College first in Texas to offer artificial intelligence, robotics degrees",
+      "excerpt": "Houston Community College became the first community college system in Texas to offer both associates and bachelor's degrees in the artificial intelligence and robotics field in late 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "originalUrl": "https://communityimpact.com/houston/bay-area/education/2024/01/09/houston-community-college-first-in-texas-to-offer-artificial-intelligence-robotics-degrees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://communityimpact.com/uploads/images/2024/01/09/290066.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Community Impact Newspaper",
+        "domain": "communityimpact.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-q1s-rising-stars-3-ai-stocks-for-your-must-watch-list.md",
+      "title": "Q1’s Rising Stars: 3 AI Stocks for Your Must-Watch List",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Even though it still sounds like science fiction, artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/q1s-rising-stars-3-ai-stocks-for-your-must-watch-list-1032954898",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T19:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -690,69 +865,26 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-05-google-bard-advanced-tipped-to-arrive-as-paid-subscription-might-be-linked-to-google-one.md",
-      "title": "Google Bard Advanced Tipped to Arrive as Paid Subscription, Might Be Linked to Google One",
-      "excerpt": "Bard Advanced is scheduled to arrive in early 2024 and is expected to be powered by Google's advanced Gemini Ultra AI model.",
+      "path": "_news/2024-01-10-machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health.md",
+      "title": "Machine Learning Predicts Sight Loss: A Breakthrough in Eye Health",
+      "excerpt": "Researchers from Tokyo Medical and Dental University (TMDU) develop models based on machine learning that predict long-term visual acuity in patients with high myopia, one of the top three causes of irreversible blindness in many regions of the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
-      "originalUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
+      "webUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
+      "originalUrl": "https://scitechdaily.com/machine-learning-predicts-sight-loss-a-breakthrough-in-eye-health/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.gadgets360cdn.com/large/google_bard_unsplash_mojahid-mottakin_1689225787604.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
-      "publishedDateTime": "2024-01-05T12:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-neurons-and-networks-how-ai-networks-are-like-neurodiverse-brains.md",
-      "title": "Neurons and networks: How AI networks are like neurodiverse brains",
-      "excerpt": "Neural networks mimic the structure of a human brain. But as Connective3’s Tom Lanaway argues, not all human brains are ‘structured’ the same. So what happens when AI meets neurodiversity?",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
-      "originalUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/666306/milad-fakurian-58z17lnvs4u-unsplash_1.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format",
-          "width": 1280,
-          "height": 973,
+          "url": "https://scitechdaily.com/images/AI-Vision-Eye-Examination-Art-Concept.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -762,11 +894,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T10:53:00Z",
+      "publishedDateTime": "2024-01-09T19:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -781,21 +913,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-05-2024-digital-transformation-financial-services-trends.md",
-      "title": "2024: Digital Transformation & Financial Services Trends",
-      "excerpt": "FinTech Magazine gets the outlooks from industry experts on the future of financial services and what form digital transformation will take as we enter 2024, featuring leaders from Intellias and Confluent. Below, Peter Pugh-Jones discusses the importance of back-office efficiencies for financial institutions in 2024.",
+      "path": "_news/2024-01-10-ai-acquisitions-whos-leading-the-charge-and-why.md",
+      "title": "AI Acquisitions: Who’s Leading the Charge and Why?",
+      "excerpt": "\"Explore the dynamic world of AI acquisitions by major tech players. Dive into strategies, challenges, and impacts",
       "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/articles/2024-digital-transformation-financial-services-trends",
-      "originalUrl": "https://fintechmagazine.com/articles/2024-digital-transformation-financial-services-trends",
+      "webUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
+      "originalUrl": "https://www.unite.ai/ai-acquisitions-whos-leading-the-charge-and-why/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.bizclikmedia.net/1200/9e39b22126c5b9bf459ddb058c4a66c9:411780fe9ee295cf61516b111fb037c6/gettyimages-1860678599.jpg.jpg",
-          "width": 1200,
-          "height": 629,
+          "url": "https://www.unite.ai/wp-content/uploads/2024/01/f33fdc97-fe42-4ce9-9c21-bb8e9133d59b-900x628-1-900x600.jpg",
+          "width": 900,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -805,11 +937,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T09:00:00Z",
+      "publishedDateTime": "2024-01-09T18:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
+        "name": "unite",
+        "domain": "unite.ai",
         "images": null,
         "publishers": null,
         "authors": null
@@ -819,17 +951,17 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-05-baidus-bet-on-ai-could-make-or-break-chinas-fallen-tech-group.md",
-      "title": "Baidu’s bet on AI could make or break China’s fallen tech group",
-      "excerpt": "Ma’s return also contributed to the exit of one of Baidu’s star hires, Lu Qi, an AI expert whom Li poached away from Microsoft in 2017 to run the company’s day-to-day operations as president and COO, according to two people familiar with the matter.",
+      "path": "_news/2024-01-10-discoveries-in-weeks-not-years-how-ai-and-high-performance-computing-are-speeding-up-scientific-discovery.md",
+      "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
+      "excerpt": "A combination of advanced AI with next-generation cloud computing is turbocharging the pace of discovery to speeds unimaginable just a few years ago.",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/94ea3e9b-fc2e-4454-bc41-62b9b29ccd47",
-      "originalUrl": "https://www.ft.com/content/94ea3e9b-fc2e-4454-bc41-62b9b29ccd47",
+      "webUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+      "originalUrl": "https://news.microsoft.com/source/features/sustainability/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -839,12 +971,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T05:01:00Z",
+      "publishedDateTime": "2024-01-09T17:46:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -853,155 +994,26 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-05-very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux.md",
-      "title": "Very few jobs will be completely replaced by AI: IBM HR chief Nickle LaMoreaux",
-      "excerpt": "In an exclusive interview with Moneycontrol, Nickle LaMoreaux, IBM’s Chief Human Resources Officer, said AI will only automate certain tasks and not replace employees at Big Blue, helping them focus on work that lets them move up the value chain.",
+      "path": "_news/2024-01-10-microsoft-puts-azure-quantum-elements-to-work.md",
+      "title": "Microsoft puts Azure Quantum Elements to work",
+      "excerpt": "Azure Quantum Elements, which launched last summer, combines AI and traditional high-performance computing (HPC) techniques into what is essentially a workbench for scientific computing ...",
       "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html",
+      "webUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "originalUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/Nickle-LaMoreaux.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/very-few-jobs-will-be-completely-replaced-by-ai-ibm-hr-chief-nickle-lamoreaux-12002231.html/amp",
-      "publishedDateTime": "2024-01-05T04:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-google-bard-advanced-found-in-the-wild.md",
-      "title": "Google 'Bard Advanced' Found In The Wild",
-      "excerpt": "Google seems to be testing a \"Bard Advanced\" upgraded version made available through a paid subscription to cloud storage platform Google One. The discovery was made by a couple of developers and shared on X.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/392422/google-bard-advanced-found-in-the-wild.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/07/image_NgKCmyV.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-column-excited-about-ai-and-self-driving-cars-a-top-roboticist-is-here-to-burst-your-bubble.md",
-      "title": "Column: Excited about AI and self-driving cars? A top roboticist is here to burst your bubble",
-      "excerpt": "\"the hubris about the coming of self driving cars was at a similar level to the hubris in 2023 about ChatGPT being a step towards AGI (Artificial General Intelligence) being just around the corner.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "originalUrl": "https://www.aol.com/news/column-excited-ai-self-driving-110016853.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_la_times_articles_830/95783ca652072cb3089c663f1aa51e38",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves.md",
-      "title": "NKU professors, students are building a robotic hand controlled by brain waves",
-      "excerpt": "Inside a lab at Northern Kentucky University, students and professors from are working on a project to help arm amputees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
-      "originalUrl": "https://www.wcpo.com/news/local-news/finding-solutions/nku-professors-students-are-building-a-robotic-hand-controlled-by-brain-waves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/d231ca4/2147483647/strip/true/crop/632x332+0+22/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F53%2F84%2Fc6a0c9944857afec23ff9b29c007%2Fscreen-shot-2024-01-01-at-10-13-55-pm.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
           "width": 1200,
-          "height": 630,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1009,14 +1021,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T01:55:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "publishedDateTime": "2024-01-09T16:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "WCPO Cincinnati",
-        "domain": "wcpo.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1025,50 +1046,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
-      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
-      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
-          "width": 298,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
+        "Microsoft AI",
         "AI"
       ]
     }

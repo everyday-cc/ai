@@ -2,6 +2,423 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
+      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
+      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
+      "sourceUrl": null,
+      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WatersTechnology",
+        "domain": "waterstechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
+      "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
+      "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T14:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-artificial-intelligence-who-are-the-leaders-in-self-driving-neural-networks-for-the-automotive-industry.md",
+      "title": "Artificial intelligence: who are the leaders in self-driving neural networks for the automotive industry?",
+      "excerpt": "The automotive industry continues to be a hotbed of patent innovation. Self-driving neural networks have become more accurate and reliable due to advances in computing power, data availability, artificial intelligence (AI) research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/data-insights/innovators-ai-self-driving-neural-networks-automotive/",
+      "originalUrl": "https://www.just-auto.com/data-insights/innovators-ai-self-driving-neural-networks-automotive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_self-driving-neural-networks.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T10:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university.md",
+      "title": "Momentum sponsors machine learning in finance research chair with Stellenbosch University",
+      "excerpt": "Investment management company Momentum Investments has established the Momentum Investments Research Chair for research into machine learning (ML) in finance in conjunction with Stellenbosch University.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineeringnews.co.za/article/momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university-2023-12-01",
+      "originalUrl": "https://www.engineeringnews.co.za/article/momentum-sponsors-machine-learning-in-finance-research-chair-with-stellenbosch-university-2023-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.creamermedia.com/assets/articles/images/resized/0001104095_resized_momentuminvestmentsresearchhiveresearchstrategistprofessorevangilbert11231022.jpg",
+          "width": 1022,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T09:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering News",
+        "domain": "engineeringnews.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-20-best-neural-network-software-for-2024.md",
+      "title": "20 Best Neural Network Software for 2024",
+      "excerpt": "Learn More. Neural network software enables the implementation, deployment and training of artificial neural networks. These networks are designed to mimic the behavior of the human brain and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/best-neural-network-software/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/best-neural-network-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-ai-machine-learning-changing-how-first-responders-handle-911-emergencies.md",
+      "title": "AI, machine learning changing how first responders handle 911 emergencies",
+      "excerpt": "An upcoming part will look at journalism. Nothing kills more people in the U.S. than heart disease, and researchers within the UPMC health enterprise are using machine learning to advance the breadth and efficiency of electrocardiogram (ECG) readings to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.com/news/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_dd623132-8fc8-11ee-bf1e-333baeee219c.html",
+      "originalUrl": "https://www.thedailystar.com/news/ai-machine-learning-changing-how-first-responders-handle-911-emergencies/article_dd623132-8fc8-11ee-bf1e-333baeee219c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/thedailystar.com/content/tncms/assets/v3/editorial/9/72/972b22d8-8fcc-11ee-a5e0-7fc3cf154d0a/65690730b401f.image.jpg?resize=400%2C391",
+          "width": 400,
+          "height": 391,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-deep-learning-model-shows-promise-for-adhd-diagnosis-in-teens.md",
+      "title": "Deep-Learning Model Shows Promise for ADHD Diagnosis in Teens",
+      "excerpt": "The FA values from 1,371 patients were used as input for training the deep-learning AI model, which was then tested on 333 patients, including 193 with ADHD and 140 without. ADHD diagnoses were determined by the Brief Problem Monitor assessment, a rating tool used for monitoring a child's functioning and their responses to interventions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/meetingcoverage/rsna/107606",
+      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/rsna/107606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T23:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-helios-integrates-machine-learning-into-its-investment-models.md",
+      "title": "Helios Integrates Machine Learning Into Its Investment Models",
+      "excerpt": "While the technology will be used to identify patterns in large data sets, it will not be used to automatically initiate any trading on its own.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wealthmanagement.com/technology/helios-integrates-machine-learning-its-investment-models",
+      "originalUrl": "https://www.wealthmanagement.com/technology/helios-integrates-machine-learning-its-investment-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/helios-ceo-chris-shuba.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WealthManagement.com",
+        "domain": "wealthmanagement.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-altair-launches-altair-rapidminer-2023-platform-to-deliver-next-gen-gen-ai-capabilities.md",
+      "title": "Altair® Launches Altair RapidMiner® 2023 Platform To Deliver Next-Gen Gen AI Capabilities",
+      "excerpt": "Altair (Nasdaq: ALTR), a global leader in computational science and artificial intelligence (AI) announced that Altair® RapidMiner®, its data analytics and AI platform, is becoming more integrated, more powerful,",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2023/11/29/altairr-launches-altair-rapidminerr-2023-platform-to-deliver-next-gen-gen-ai-capabilities/",
+      "originalUrl": "https://insidebigdata.com/2023/11/29/altairr-launches-altair-rapidminerr-2023-platform-to-deliver-next-gen-gen-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2023/08/Generative_AI_shutterstock_2273007347_special.jpg",
+          "width": 1100,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-01-when-artificial-intelligence-mimics-the-human-brain.md",
+      "title": "When Artificial Intelligence Mimics the Human Brain",
+      "excerpt": "A recent publication in Nature Machine Intelligence really got me thinking. In this study, researchers created an artificial system that not only simulates but also behaves like our brain. This evolving reality of neural networks, a realm where artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2023-11/techbrain.png.jpg?itok=8MpEj2Ou",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202311/when-artificial-intelligence-mimics-the-human-brain?amp",
+      "publishedDateTime": "2023-11-30T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-when-artificial-intelligence-mimics-the-human-brain.md",
       "title": "When Artificial Intelligence Mimics the Human Brain",
       "excerpt": "Stepping aside from the complexity of the science, one thing is clear: The line between artificial and natural intelligence is blurring. This research opens doors to new possibilities, from developing more advanced AI systems to unlocking mysteries of the human brain.",
@@ -901,309 +1318,7 @@
         "AWS AI",
         "Machine Learning"
       ]
-    },
-    {
-      "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
-      "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
-      "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "originalUrl": "https://www.automation.com/en-us/articles/november-2023/ai-robotics-machine-learning-food-traceability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/682bf491-966a-43d0-af15-f52f9bba87fc/TM-robotics-feature-Nov-22-2023-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase.md",
-      "title": "Deep Learning Model Detects a Previously Unknown Quasicrystalline Phase",
-      "excerpt": "Therefore, we came up with the idea of using deep learning to identify new phases,\" explains Dr. Yamada. For developing the said model, the researchers first created a \"binary classifier\" using 80 types of convolutional neural networks. They next trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "originalUrl": "https://www.technologynetworks.com/applied-sciences/news/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/381294/deep-learning-model-detects-a-previously-unknown-quasicrystalline-phase-381294-640x360.jpg?cb=20231122",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-who-said-what-using-machine-learning-to-correctly-attribute-quotes.md",
-      "title": "Who said what: using machine learning to correctly attribute quotes",
-      "excerpt": "Today’s blog does not come to you from any developer in product and engineering but from our talented colleagues in data and insight. Here, the Guardian’s data scientists share how they have teamed up with PhD students from University College London to train a machine learning model to accurately attribute quotes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
-      "originalUrl": "https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0eacbae957f479928c88ce133ce6ad29ba596e5a/1356_0_4163_2500/master/4163.jpg?width=620&quality=85&auto=format&fit=max&s=b1a67e0f0bb4a35315f5281d02370ca5",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes",
-      "publishedDateTime": "2023-11-21T10:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fueling-ml-expansion.md",
-      "title": "Global Machine Learning Analysis Report 2023-2028 - AI Integration Powers Precise Predictions, Fueling ML Expansion",
-      "excerpt": "The \"Machine Learning Market - Global Industry Size, Share, Trends, Opportunity, and Forecast. 2018-2028 Segmented By Component (Services & Solutions), By Enterprises Size",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35885463/global-machine-learning-analysis-report-2023-2028-ai-integration-powers-precise-predictions-fuelin",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35885463",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35885463",
-      "publishedDateTime": "2023-11-20T22:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-ai-systems-given-physical-constraints-develop-features-of-complex-brains.md",
-      "title": "AI Systems, Given Physical Constraints, Develop Features of Complex Brains",
-      "excerpt": "Study using seRNNs could point to development of more efficient AI systems, particularly in situations where there are likely to be physical constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-systems-given-physical-constraints-develop-features-of-complex-brains/",
-      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/ai-systems-given-physical-constraints-develop-features-of-complex-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-21-how-apple-is-already-using-machine-learning-and-ai-in-ios.md",
-      "title": "How Apple is already using machine learning and AI in iOS",
-      "excerpt": "Machine learning has become Apple's catch-all for its AI initiatives. Apple uses artificial intelligence and machine learning in iOS and macOS in several noticeable ways. It has been several years ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios",
-      "originalUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/56062-113816-Apple-Siri-xl.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/09/02/how-apple-is-already-using-machine-learning-and-ai-in-ios/amp/",
-      "publishedDateTime": "2023-11-20T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
-      "title": "The mind’s eye of a neural network system",
-      "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
-      "originalUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/11/gleich-neuralnetworkLO.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Purdue University",
-        "domain": "purdue.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

@@ -2,6 +2,223 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-05-daniel-dennett-calls-for-ethics-in-ai-development.md",
+      "title": "Daniel Dennett calls for ethics in AI development",
+      "excerpt": "It’s emerging, it’s everywhere. It’s going to be even more everywhere, … and it’s scary and inspiring at the same time,” Jad Oubala, president and founder of the Tufts Artificial Intelligence Society,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
+      "originalUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://snworksceo.imgix.net/ttd/27ffa86e-ed04-4cc1-9df9-f3e7ae8e5231.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T15:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tufts Daily",
+        "domain": "tuftsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-ai-ethics-is-there-a-necessity-for-the-us-to-field-lethal-autonomous-weapon-systems-laws.md",
+      "title": "AI ethics - is there a necessity for the US to field Lethal Autonomous Weapon Systems (LAWS)?",
+      "excerpt": "The primary ethical argument in favor of Lethal Autonomous Weapon Systems (LAWS) been results-oriented: their potential precision and reliability might enable better respect for international law and human ethical values, resulting in fewer adverse humanitarian consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "originalUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2023-03/ethics-gb40633784_640.jpg",
+          "width": 640,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ethics-there-necessity-us-field-lethal-autonomous-weapon-systems-laws?amp",
+      "publishedDateTime": "2023-12-04T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare.md",
+      "title": "Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare.",
+      "excerpt": "In 2020, the U.S. Department of Defense officially disclosed a set of ethical principles to guide the use of Artificial Intelligence (AI) technologies on future battlefields. Despite stark differences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "originalUrl": "https://www.physiciansweekly.com/adopting-and-expanding-ethical-principles-for-generative-artificial-intelligence-from-military-to-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2023/08/allergy-allergist-skin-text-allergen-patient-doctor-office.jpg",
+          "width": 2384,
+          "height": 1257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-google-bard-director-talks-usage-ethics-and-competitive-advantage.md",
+      "title": "Google Bard Director Talks Usage, Ethics, And Competitive Advantage",
+      "excerpt": "In an exclusive interview, the Director of Product Management for Google Bard discusses usage, ethical challenges, and synergy with Search. Google created Bard primarily to assist with creative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
+      "originalUrl": "https://www.searchenginejournal.com/google-bard-director-talks-usage-ethics-and-competitive-advantage/502965/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-bard-director-interview-656e427053e80-sej.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Searchenginejournal.com",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-montreal-research-hub-spearheads-global-ai-ethics-debate.md",
+      "title": "Montreal Research Hub Spearheads Global AI Ethics Debate",
+      "excerpt": "Rapid developments in artificial intelligence -- and recent turmoil at industry powerhouse OpenAI -- have brought fresh attention to a key hub of ethics research related to the technology in Montreal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "originalUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5124571594622971684184341015126633855344---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-the-biggest-banks-are-fighting-over-ai-talent-here-are-the-roles-finance-firms-are-looking-to-hire-for-and-what-skills-you-need-to-get-them.md",
       "title": "The biggest banks are fighting over AI talent. Here are the roles finance firms are looking to hire for, and what skills you need to get them.",
       "excerpt": "Techies who know data, cloud, AI regulations and ethics, and are business savvy are in high demand. Recruiters, hiring managers, and execs outline how Wall Street's tech skills and roles are changing.",

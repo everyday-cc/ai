@@ -2,22 +2,31 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-02-01-wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service.md",
-      "title": "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service",
-      "excerpt": "WekaIO partners with NexGen Cloud, the leading UK-based sustainable IAAS provider, to establish a high-performance foundation for NexGen Cloud's upcoming AI Supercloud.",
+      "path": "_news/2024-02-03-how-to-get-an-11-monthly-dividend-from-ais-explosive-growth.md",
+      "title": "How To Get An 11% Monthly Dividend From AI’s Explosive Growth",
+      "excerpt": "AI stocks’ rise in 2023 isn’t overdone and we’ve still got a nice buy window here: the S&P 500 remains below its all-time high despite the surge in the tech sector.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/01/wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service/",
+      "webUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/",
+      "originalUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 89,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba682422bd3bbe3464547d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T06:23:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelfoster/2024/02/03/how-to-get-an-11-monthly-dividend-from-ais-explosive-growth/amp/",
+      "publishedDateTime": "2024-02-03T14:46:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -25,6 +34,142 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-10-surgical-robotics-companies-to-follow-in-2024.md",
+      "title": "10 surgical robotics companies to follow in 2024",
+      "excerpt": "Here is a list of 10 surgical robotics companies that continue to attract attention from our editors and audience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "originalUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai.md",
+      "title": "To benefit all, diverse voices must take part in leading the growth and regulation of AI",
+      "excerpt": "As AI’s presence in our lives increases, so does the number of diverse founders leveraging it to develop positive, socially impactful services and products.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1198225660.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/03/to-benefit-all-diverse-voices-must-take-part-in-leading-the-growth-and-regulation-of-ai/amp/",
+      "publishedDateTime": "2024-02-03T13:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-nvidia-h100-ai-gpus-might-cost-3-to-6-times-as-much-as-amds-mi300s.md",
+      "title": "Nvidia H100 AI GPUs might cost 3 to 6 times as much as AMD's MI300s",
+      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: The two GPU rivals may argue over who has the more powerful AI acceleration graphics card, but there's no doubt about which hardware is more expensive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
+      "originalUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-12-image-4.jpg",
+          "width": 3558,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T07:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,163 +186,26 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-robots-and-ai-tools-set-to-revolutionise-real-estate.md",
-      "title": "Robots And AI Tools Set To Revolutionise Real Estate",
-      "excerpt": "TRIPLER, the world's leading PropTech company, is going to revolutionise the real estate landscape by introducing robots and Artificial Intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "originalUrl": "https://menafn.com/1107794781/Robots-And-AI-Tools-Set-To-Revolutionise-Real-Estate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2024-01/31/KT_bd395image_story.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-mastercard-jumps-into-generative-ai-race-with-model-it-says-can-boost-fraud-detection-by-up-to-300.md",
-      "title": "Mastercard jumps into generative AI race with model it says can boost fraud detection by up to 300%",
-      "excerpt": "Payments giant Mastercard has built its own proprietary generative AI model to help its bank network detect and root out fraudulent transactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335423-1700186666155-gettyimages-647053464-_jcg2290.jpeg?v=1706735841",
-          "width": 3315,
-          "height": 2207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html",
-      "publishedDateTime": "2024-02-01T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales.md",
-      "title": "Tesla upgrades Model Y self-driving hardware to lift China sales",
-      "excerpt": "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "originalUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2022/05/tesla.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/auto/tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales-18942971.htm/amp",
-      "publishedDateTime": "2024-02-01T03:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
-        "AI in Sales"
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2024-02-01-artificial-intelligence-ai-i-yai-yai-where-do-i-do-start.md",
-      "title": "Artificial Intelligence: AI, I Yai Yai – Where Do I Do Start?",
-      "excerpt": "Do not worry, you are not the only one not fully understanding the depth and scope of \"AI\" or what it does for that matter.",
+      "path": "_news/2024-02-03-hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts.md",
+      "title": "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs",
+      "excerpt": "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
-      "originalUrl": "https://www.forbes.com/sites/philkafarakis/2024/01/31/artificial-intelligence-ai-i-yaiyai--where-do-i-do-start/",
+      "webUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb11d2d3622599e4139bbf/0x0.jpg?format=jpg&crop=750,422,x0,y13,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all",
+          "width": 855,
+          "height": 775,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -207,101 +215,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T02:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-one-of-google-deepminds-lead-developer-quits-to-launch-ai-startup.md",
-      "title": "One of Google DeepMind’s lead developer quits to launch AI startup",
-      "excerpt": "One of Google DeepMind’s lead developers, Ioannis Antonoglou, has quit the company to launch his own AI startup. This comes as several other lead developers have also left DeepMind recently. The departure of employees to start their own AI startups is seen as a healthy trend by Alphabet and Google CEO Sundar Pichai.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/articleshow/107303112.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107303118,width-1280,height-720,resizemode-4/107303118.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-deepmind-lead-developer-quits-to-launch-ai-startup/amp_articleshow/107303112.cms",
-      "publishedDateTime": "2024-02-01T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance.md",
-      "title": "Mistral CEO confirms ‘leak’ of new open source AI model nearing GPT-4 performance",
-      "excerpt": "An anonymous user on 4chan posted a link to the miqu-1-70b files on 4chan. The open source model approaches GPT-4 performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/",
-      "originalUrl": "https://venturebeat.com/ai/mistral-ceo-confirms-leak-of-new-open-source-ai-model-nearing-gpt-4-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cfr0z3n_overhead_view_of_the_eiffel_tower_rising_from_a_landsca_d374695a-bca7-4db7-abcd-d30ef5fd0e04.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T01:43:00Z",
+      "publishedDateTime": "2024-02-03T05:51:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -324,26 +238,68 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-02-01-getting-started-with-amazon-titan-text-embeddings.md",
-      "title": "Getting started with Amazon Titan Text Embeddings",
-      "excerpt": "Embeddings play a key role in natural language processing (NLP) and machine learning (ML). Text embedding refers to the process of transforming text into numerical representations that reside in a high-dimensional vector space. This technique is achieved through the use of ML algorithms that enable the",
+      "path": "_news/2024-02-03-how-ai-driven-data-mastery-empowering-business-operations.md",
+      "title": "How AI-driven data mastery empowering business operations",
+      "excerpt": "AI-infused data management systems empower companies to optimize vital business strategies by harnessing data comprehensively and leveraging cognitive insights. In the financial sector, this entails utilizing customer data, transaction records, and market trends to bolster sales and marketing campaigns.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-titan-text-embeddings/",
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ml-15931-image001.png",
-          "width": 721,
-          "height": 348,
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T170055.986.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "publishedDateTime": "2024-02-03T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
+      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
+      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -353,14 +309,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T01:06:31Z",
+      "publishedDateTime": "2024-02-03T02:26:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -376,25 +332,161 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
-      "path": "_news/2024-02-01-beyond-boundaries-the-promise-of-conversational-ai-in-healthcare.md",
-      "title": "Beyond Boundaries: The Promise Of Conversational AI In Healthcare",
-      "excerpt": "Ai, Artificial Intelligence technology concept ... Imagine Tony Stark’s Jarvis! In healthcare, the applications of conversational AI are vast and diverse. From appointment booking, locating the closest in-network healthcare provider and understanding ...",
+      "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
+      "title": "IBM Databand: Self-learning for anomaly detection",
+      "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/",
+      "webUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T19:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-tech-execs-are-telling-investors-they-have-to-spend-money-to-make-money-on-ai.md",
+      "title": "Tech execs are telling investors they have to spend money to make money on AI",
+      "excerpt": "On this week's earnings calls, tech executives highlighted the need in AI to build infrastructure and the opportunities to make money with agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb12365b2d37f74a168e4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1466,
+          "url": "https://image.cnbcfm.com/api/v1/image/107300076-1694615430004-gettyimages-1662694510-AFP_33V72TK.jpeg?v=1706903237",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "publishedDateTime": "2024-02-02T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-examples-of-sustainability-how-new-efforts-are-shaping-the-environmental-future.md",
+      "title": "Examples of sustainability: How new efforts are shaping the environmental future",
+      "excerpt": "With new tools and technologies in hand, organizations can find new ways to use it to reach their own goals—and a more sustainable future.\nThe post Examples of sustainability: How new efforts are shaping the environmental future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T18:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-google-is-giving-a-sudden-ai-boost-to-maps-users-with-new-upgrade.md",
+      "title": "Google Is Giving A Sudden AI Boost To Maps Users With New Upgrade",
+      "excerpt": "Google is working on a new AI-powered discovery tool that makes it easier to find places, the company announced today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/",
+      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd27a0d1c4e00083706819/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1408,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -403,9 +495,542 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shashankagarwal/2024/01/31/beyond-boundaries-the-promise-of-conversational-ai-in-healthcare/amp/",
-      "publishedDateTime": "2024-01-31T23:12:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/02/02/new-google-maps-ai-update-local-guide-search-bard/amp/",
+      "publishedDateTime": "2024-02-02T18:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-apple-vision-pro-review-spatial-computings-promise-is-fulfilled.md",
+      "title": "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled",
+      "excerpt": "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
+      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds",
+          "width": 684,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
+      "publishedDateTime": "2024-02-02T17:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
+      "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
+      "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "originalUrl": "https://www.ibm.com/blog/watson-discovery-grammys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/01/GRAMMYs-red-carpet-scaled.jpg",
+          "width": 2560,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T17:00:11Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
+      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
+      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T16:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-why-the-messenger-failed-as-a-media-startup.md",
+      "title": "Why The Messenger Failed As A Media Startup",
+      "excerpt": "“Running a media startup is very different from running a tech startup ... Social media has disrupted traditional models, while Web3, decentralization, and AI will further challenge content focused businesses into the future.” Amanda Terry, Founding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
+      "originalUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd160f37b2dae6c112972a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dariashunina/2024/02/02/why-the-messenger-failed-as-a-media-startup/amp/",
+      "publishedDateTime": "2024-02-02T16:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-internal-memo.md",
+      "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo",
+      "excerpt": "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T16:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-create-images-with-adobe-firefly-ai-for-apple-vision-pro.md",
+      "title": "Create images with Adobe Firefly AI for Apple Vision Pro",
+      "excerpt": "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
+      "originalUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/58429-119036-000-lead-Firefly-xl.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/02/02/create-images-with-adobe-firefly-ai-for-apple-vision-pro/amp/",
+      "publishedDateTime": "2024-02-02T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-amp-robotics-rebrand-highlights-expanded-portfolio.md",
+      "title": "AMP Robotics rebrand highlights expanded portfolio",
+      "excerpt": "AMP was founded nearly a decade ago, with the goal of proving AI, machine learning, and robotics can transform recycling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/amp-robotics-rebrand-highlights-expanded-portfolio/",
+      "originalUrl": "https://www.therobotreport.com/amp-robotics-rebrand-highlights-expanded-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/AMP-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T15:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-roboxchange-examines-real-world-operational-challenges-and-new-brains-for-robots.md",
+      "title": "RoboXchange examines real-world operational challenges and new brains for robots",
+      "excerpt": "At the first MassRobotics RoboXchange, Locus Robotics shared tips on warehouse challenges, and Opteran showed a new navigational approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
+      "originalUrl": "https://www.therobotreport.com/roboxchange-examines-real-world-operational-challenges-new-brains-for-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/IMG_0053.jpg",
+          "width": 770,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
+      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
+      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
+      "publishedDateTime": "2024-02-02T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
+      "title": "4 questions to consider when you’re selecting an external DNS provider",
+      "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
+      "originalUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
+      "title": "The Impact Of Artificial Intelligence On The Art World",
+      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
+      "publishedDateTime": "2024-02-02T12:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -429,26 +1054,25 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
-      "path": "_news/2024-02-01-the-economy-and-ethics-of-ai-training-data.md",
-      "title": "The economy and ethics of AI training data",
-      "excerpt": "Tech firms argue artificial intelligence chatbots have a right to freely-available internet content, just like humans.",
+      "path": "_news/2024-02-02-whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond.md",
+      "title": "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond",
+      "excerpt": "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
-      "originalUrl": "https://www.marketplace.org/2024/01/31/the-economy-and-ethics-of-ai-training-data/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://www.marketplace.org/wp-content/uploads/2024/01/GettyImages-1383963898.jpg?fit=2880%2C1620&w=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1416,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -456,13 +1080,116 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T22:12:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
+      "publishedDateTime": "2024-02-02T12:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-ai-is-driving-the-future-of-seo-how-to-adapt.md",
+      "title": "AI Is Driving The Future Of SEO: How To Adapt",
+      "excerpt": "SEO will remain one of the most effective strategies in digital marketing, and AI is here to help make it even more impactful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/amp/",
+      "publishedDateTime": "2024-02-02T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
+      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
+      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
+      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
+      "publishedDateTime": "2024-02-02T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -472,791 +1199,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-the-apple-vision-pro-is-a-marvel-but-who-will-buy-it.md",
-      "title": "The Apple Vision Pro Is a Marvel. But Who Will Buy It?",
-      "excerpt": "Parents, movie buffs and office workers might all succumb to the novelty of Apple’s new “spatial computing” device.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/31/technology/roose-apple-vision-pro.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/31/technology/roose-apple-vision-pro.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/01/30/multimedia/00ROOSE-hqkc/00ROOSE-hqkc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T22:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-cops-bogged-down-by-flood-of-fake-ai-child-sex-images-report-says.md",
-      "title": "Cops bogged down by flood of fake AI child sex images, report says",
-      "excerpt": "The troubling case seems to illustrate how AI-generated child sex images can be linked to real criminal activity while also showing how police investigations could be bogged down by attempts to distinguish photos of real victims from AI images that could depict real or fake children.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/01/surge-of-fake-ai-child-sex-images-thwarts-investigations-into-real-child-abuse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-964741476-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T22:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-aptiv-pulls-support-from-motional-robotaxi-joint-venture.md",
-      "title": "Aptiv Pulls Support From Motional Robotaxi Joint Venture",
-      "excerpt": "As such, support in the auto industry has waned, and the projects inside most companies were downgraded to focus on driver assist tools, or at the very most a freeway-only driving system ... California (including Apple, Baidu Apollo, Auurora, AutoX ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bae550a3e7964d63dd7466/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/",
-      "publishedDateTime": "2024-01-31T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies.md",
-      "title": "What The Top Nine Percent Understand About AI And Other Transformative Technologies",
-      "excerpt": "A new report from Accenture exploring a predicted major uptick in business leaders using generative AI as the catalyst for strategic reinvention in the next 12-24",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63842abe661ca5e9043cf512/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/01/31/what-the-top-nine-percent-understand-about-ai-and-other-transformative-technologies/amp/",
-      "publishedDateTime": "2024-01-31T18:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-ibm-doubles-down-on-its-ai-cloud.md",
-      "title": "IBM Doubles Down On Its AI Cloud",
-      "excerpt": "IBM has doubled capacity in its Vela Cloud, part of the IBM Cloud offering, to enable its clients to refine more and larger models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aea124b07c8335b8db3c49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/01/31/ibm-doubles-down-on-its-ai-cloud/amp/",
-      "publishedDateTime": "2024-01-31T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-metronomes-usage-based-billing-software-finds-hit-in-ai-as-the-startup-raises-43m-in-fresh-capital.md",
-      "title": "Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital",
-      "excerpt": "Metronome, a startup which helps software companies offer usage-based billing, has raised $43 million in a Series B funding round led by NEA.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
-      "originalUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
-      "publishedDateTime": "2024-01-31T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2.md",
-      "title": "Train and host a computer vision model for tampering detection on Amazon SageMaker: Part 2",
-      "excerpt": "In the first part of this three-part series, we presented a solution that demonstrates how you can automate detecting document tampering and fraud at scale using AWS AI and machine learning (ML) services for a mortgage underwriting use case. In this post, we present an approach to develop a deep learning-based",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-and-host-a-computer-vision-model-for-tampering-detection-on-amazon-sagemaker-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/train-and-host-vision-model.jpg",
-          "width": 1023,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T17:07:13Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-5-ways-to-use-circle-to-search.md",
-      "title": "5 ways to use Circle to Search",
-      "excerpt": "Circle to Search is now available on select premium Android smartphones — here are some helpful ways to use it.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "originalUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ways-to-Circle-to-Search_2.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/how-to-use-circle-to-search-google/amp/",
-      "publishedDateTime": "2024-01-31T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-googles-first-africa-cloud-region-now-operational.md",
-      "title": "Google’s first Africa cloud region now operational",
-      "excerpt": "The cloud region is expected to contribute over $2.1B to South Africa’s GDP, and support the creation of more than 40,000 jobs by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/",
-      "originalUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/googles-first-africa-cloud-region-now-operational/amp/",
-      "publishedDateTime": "2024-01-31T16:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push.md",
-      "title": "Meta Platforms is primed for a big quarter with ads, AI push",
-      "excerpt": "In raising his price target to $435 from $390, Seaport Research Partners analyst Aaron Kessler is looking at robust ad growth and outlook, an updated outlook on 2024 operating expenses, the impact of regulation on content for teens, and how AI initiatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "originalUrl": "https://www.marketwatch.com/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-89343189/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/meta-platforms-is-primed-for-a-big-quarter-with-ads-ai-push-87ec3540",
-      "publishedDateTime": "2024-01-31T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains.md",
-      "title": "In Iowa, Legislators Consider Singing Requirements And Unlicensed Chaplains",
-      "excerpt": "Some Iowa legislators want to offer public school students both chaplains and a daily dose of the Star Spangled Banner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "originalUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ba69e487156c00d253f211/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petergreene/2024/01/31/in-iowa-legislators-consider-singing-requirements-and-unlicensed-chaplains/amp/",
-      "publishedDateTime": "2024-01-31T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-highlights-of-tesla-ceo-elon-musks-court-ruling-mars-frankenstein-a-self-driving-car-pun.md",
-      "title": "Highlights of Tesla CEO Elon Musk's court ruling: Mars, Frankenstein, a self-driving car pun",
-      "excerpt": "A Delaware judge voided the $56 billion pay package Tesla gave Elon Musk, CEO of the electric automaker, after finding the company failed to show it was fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335105-1700154424109-gettyimages-1760546933-UK_MUSK.jpeg?v=1706667973",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "publishedDateTime": "2024-01-31T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-warwick-scientists-develop-ai-tool-to-aid-cancer-treatment-decisions.md",
-      "title": "Warwick scientists develop AI tool to aid cancer treatment decisions",
-      "excerpt": "The tool has been developed by Histofy, a spin-out company from The University of Warwick A new artificial intelligence (AI) tool has been developed to help boost cancer diagnosis and treatment. Scientists at Histofy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=FC9564EA-C04A-11EE-AD3E-B4B2D0B4AF07&at_link_origin=bbchealth&at_link_type=web_link&at_m",
-      "originalUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450?at_bbc_team=editorial&at_campaign_type=owned&at_format=link&at_link_id=FC9564EA-C04A-11EE-AD3E-B4B2D0B4AF07&at_link_origin=bbchealth&at_link_type=web_link&at_m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12C15/production/_132512867_histofy_024.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-coventry-warwickshire-68155450.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-coventry-warwickshire-68155450.amp",
-      "publishedDateTime": "2024-01-31T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-creepy-embodied-ai-avatar-gives-a-face-and-a-voice-to-chatgpt-interaction.md",
-      "title": "Creepy embodied AI avatar gives a face and a voice to ChatGPT interaction",
-      "excerpt": "WEHEAD is a head-shaped artificial intelligence device that connects to ChatGPT and mimics a person and displays a face, expressions and a voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
-      "originalUrl": "https://www.foxnews.com/tech/creepy-embodied-ai-avatar-gives-face-voice-to-chatgpt-interaction",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6-Ready-for-an-AI-device-that-gives-a-face-and-a-voice-to-your-cha.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
-      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
-      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "publishedDateTime": "2024-01-31T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

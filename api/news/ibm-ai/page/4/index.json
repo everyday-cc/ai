@@ -2,6 +2,289 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-19-exclusive-jaxon-ai-teams-up-with-ibm-watsonx-in-battle-against-ai-hallucination.md",
+      "title": "Exclusive: Jaxon AI teams up with IBM watsonx in battle against AI hallucination",
+      "excerpt": "Jaxon AI's Domain-Specific AI Language (DSAIL) technology is designed to prevent hallucinations and inaccuracies with IBM watsonx models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "originalUrl": "https://venturebeat.com/ai/exclusive-jaxon-ai-teams-up-with-ibm-watson-in-battle-against-ai-hallucination/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/igor-omilaev-FHgWFzDDAOs-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-what-is-rum-data-and-why-does-it-matter.md",
+      "title": "What Is Rum data and why does it matter?",
+      "excerpt": "Looking to optimize the performance of your applications and services? Learn why effectively collecting and using RUM data is critical. \nThe post What Is Rum data and why does it matter? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-rum-data-and-why-does-it-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/What-Is-Rum-data-and-why-does-it-matter.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T18:24:24Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead.md",
+      "title": "5 things to know: Driving innovation with AI and hybrid cloud in the year ahead",
+      "excerpt": "The rise of generative AI, evolving regulations and data sovereignty laws, and ongoing security challenges should be top of mind.\nThe post 5 things to know: Driving innovation with AI and hybrid cloud in the year ahead appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "originalUrl": "https://www.ibm.com/blog/5-things-to-know-driving-innovation-with-ai-and-hybrid-cloud-in-the-year-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T17:13:44Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions.md",
+      "title": "IBM makes $2B+ deal to add more AI, cloud computing solutions",
+      "excerpt": "IBM is investing more than $2 billion in cash to bolster its artificial intelligence and cloud computing lineup by acquiring an integration platform as a service suite from Germany-based Software AG.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "originalUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/18/ibm-makes-2b-deal-to-add-more-ai-cloud-computing-solutions/?amp=1",
+      "publishedDateTime": "2023-12-18T15:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-16-google-shapes-gemini-ai-tools-for-developers.md",
+      "title": "Google Shapes Gemini AI Tools For Developers",
+      "excerpt": "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
+      "publishedDateTime": "2023-12-16T09:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-customer-service-trends-winning-organizations-need-to-follow.md",
+      "title": "Customer service trends winning organizations need to follow",
+      "excerpt": "Prioritizing these seven customer service trends can help ensure an organization is prepared to meet changing customer expectations.\nThe post Customer service trends winning organizations need to follow appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "originalUrl": "https://www.ibm.com/blog/customer-service-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T20:55:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-five-open-source-ai-tools-to-know.md",
       "title": "Five open-source AI tools to know",
       "excerpt": "While open-source AI offers enticing possibilities, its free accessibility poses risks that organizations must navigate carefully.\nThe post Five open-source AI tools to know appeared first on IBM Blog.\n",
@@ -1036,256 +1319,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-qubit-by-qubit-the-quantum-computers-of-tomorrow-are-coming-into-being.md",
-      "title": "Qubit by qubit, the quantum computers of tomorrow are coming into being",
-      "excerpt": "A couple of weeks ago, I navigated the holiday traffic from New York to the town of Yorktown Heights in suburban Westchester County, the location of IBM’s Thomas J. Watson Research Center ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
-      "originalUrl": "https://www.vox.com/future-perfect/2023/12/6/23990752/quantum-computers-ibm-google-honeywell-china-supercomputer-artificial-intelligence?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/6JbN24KRfG63q58FcwUNvn9WR9Y=/0x232:2048x1304/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25137951/53364318126_7899724546_k.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners.md",
-      "title": "IBM announces global Call for Code artificial intelligence hackathon winners",
-      "excerpt": "The David Clark Cause, IBM, the United Nations Human Rights Office of the Commissioner and the Linux Foundation announced the winners of the 2023 Call for Code hackathon on Dec. 6.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
-      "originalUrl": "https://cointelegraph.com/news/ibm-announces-global-call-for-code-artificial-intelligence-hackathon-winners",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-2023-call-for-code-global-challenge-winners-tackle-agriculture-farming-and-food-waste-issues-with-ibm-technology.md",
-      "title": "2023 Call For Code Global Challenge Winners Tackle Agriculture, Farming And Food Waste Issues With IBM Technology",
-      "excerpt": "Call for Code Winning teams from Hexaware Technologies, Persistent, and The University of Sydney develop AI-powered solutions to help ove",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107546781/2023-Call-For-Code-Global-Challenge-Winners-Tackle-Agriculture-Farming-And-Food-Waste-Issues-With-IBM-Technology",
-      "originalUrl": "https://menafn.com/1107546781/2023-Call-For-Code-Global-Challenge-Winners-Tackle-Agriculture-Farming-And-Food-Waste-Issues-With-IBM-Technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?233914",
-          "width": 421,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T08:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-meta-and-ibm-launch-ai-alliance.md",
-      "title": "Meta and IBM Launch AI Alliance",
-      "excerpt": "While IBM’s own history in AI has been marred by the failure of its Watson system, Gil said its new Watsonx system is an entirely new platform. Like IBM, Meta has developed its own AI models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance-11701767465453.html",
-      "originalUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance-11701767465453.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/05/1600x900/im-895513_1701767469971_1701767518491.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/meta-and-ibm-launch-ai-alliance/amp-11701767465453.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/meta-and-ibm-launch-ai-alliance/amp-11701767465453.html",
-      "publishedDateTime": "2023-12-05T20:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-to-be-a-key-driver-in-chinas-industrial-upgradingibm-greater-china-chairman.md",
-      "title": "AI to be a Key Driver in China's Industrial Upgrading：IBM Greater China Chairman",
-      "excerpt": "BEIJING, December 5 (TMTPOST) -- Chen Xudong, the Chairman and the General Manager of IBM Greater China, said on Saturday that generative artificial intelligence (AI) has resulted in technological transformation and a big impact on various industries during a keynote speech delivered at the T-EDGE Conference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sohu.com/a/741601722_116132",
-      "originalUrl": "https://www.sohu.com/a/741601722_116132",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T09:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "搜狐",
-        "domain": "sohu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "Q&A: How artificial intelligence could transform health care",
-      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
-          "width": 1280,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "publishedDateTime": "2023-12-01T13:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

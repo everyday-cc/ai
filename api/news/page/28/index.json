@@ -2,21 +2,21 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2024-01-11-this-openai-backed-startup-builds-humanoid-robots-it-just-raised-100-million-with-this-13-slide-pitch-deck.md",
-      "title": "This OpenAI-backed startup builds humanoid robots. It just raised $100 million with this 13-slide pitch deck.",
-      "excerpt": "Norwegian startup 1X, which has raised funds from EQT Ventures, wants to tackle labor shortages with robots.",
+      "path": "_news/2024-01-16-how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions.md",
+      "title": "How One Struggling Chip Company Benefited From Middle Eastern Investors’ AI Ambitions",
+      "excerpt": "Led by Shahal Khan, who spearheaded the 2018 acquisition of Manhattan’s Plaza Hotel, the group was investing billions in AI ventures with an eye towards transforming the Gulf states into a preeminent tech hub. Blaize’s chips — which could provide ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
-      "originalUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
+      "webUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
+      "originalUrl": "https://www.forbes.com/sites/davidjeans/2024/01/16/how-one-struggling-chip-company-benefited-from-middle-eastern-investors-ai-ambitions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/659fe638dcdb354a9856a3d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659db0dc0cd385ee446d8dfb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:01:00Z",
+      "publishedDateTime": "2024-01-16T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,26 +49,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-11-united-imaging-intelligence-highlights-dedications-to-advancing-intelligent-healthcare-at-rsna-conference-2023.md",
-      "title": "United Imaging Intelligence Highlights Dedications to Advancing Intelligent Healthcare at RSNA Conference 2023",
-      "excerpt": "The Radiological Society of North America (RSNA) has concluded its annual meeting in Chicago, IL, serving as a platform for revolutionary advancements in the field of radiology. United Imaging Intelligence (UII),",
+      "path": "_news/2024-01-16-heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures.md",
+      "title": "Here’s How The FTC Might Lower The Boom On Those Emerging Generative AI Mental Health Therapy Chatbots That Are Promising Miracle Cures",
+      "excerpt": "As generative AI mental health chatbots proliferate, one means of at least coping with their outsized claims rests at the feet of the Federal Trade Commission (FTC).",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
-      "originalUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/image_5006315_6860386_0.jpg?h=252f27fa&itok=WXDb_m7W",
-          "width": 600,
-          "height": 316,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a61506e8805fa8a361a8d8/0x0.jpg?format=jpg&crop=2674,1976,x1166,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1218,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:00:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/16/heres-how-the-ftc-might-lower-the-boom-on-those-emerging-generative-ai-mental-health-therapy-chatbots-that-are-promising-miracle-cures/amp/",
+      "publishedDateTime": "2024-01-16T11:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -97,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-11-brainbox-ai-joins-the-aws-partner-network-to-bring-its-ai-driven-emissions-reduction-technology-to-aws-real-estate-retail-customers.md",
-      "title": "BrainBox AI Joins the AWS Partner Network to Bring its AI-driven Emissions Reduction Technology to AWS Real Estate & Retail Customers",
-      "excerpt": "\"With AWS at the core of our AI-driven solutions and technology infrastructure, BrainBox AI is honored to join the APN,\" said Jean-Simon Venne, Co-founder and Chief Technology Officer at BrainBox AI.",
+      "path": "_news/2024-01-16-amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand.md",
+      "title": "AMD shares jump 7% and head for highest close since 2021 on AI chip demand",
+      "excerpt": "AMD is one of two major producers of graphics processing units, which were created for advanced computer games and are now key to artificial intelligence",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/11/9944883.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/11/9944883.htm",
+      "webUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
+      "originalUrl": "https://www.nbcbayarea.com/news/national-international/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "url": "https://media.nbcbayarea.com/2024/01/107255926-1686678111756-gettyimages-1454302971-_8db0157_d7a2aa99-cd40-4c93-8ff3-89725b36c318.jpeg?quality=85&strip=all&resize=1200%2C675",
           "width": 1200,
-          "height": 627,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +128,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T13:25:00Z",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/amd-shares-jump-7-and-head-for-highest-close-since-2021-on-ai-chip-demand/3424231/?amp=1",
+      "publishedDateTime": "2024-01-16T11:13:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,32 +144,50 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
-      "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
-      "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
+      "path": "_news/2024-01-16-do-you-need-gpus-for-generative-ai-systems.md",
+      "title": "Do you need GPUs for generative AI systems?",
+      "excerpt": "There is so much interest in GPUs for generative AI deployment and for some good reasons. However, in some cases, they are overkill and too expensive.",
       "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
-      "originalUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
+      "webUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
+      "originalUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 114,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/09/artificial-intelligence-money-100945612-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T13:00:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712134/do-you-need-gpus-for-generative-ai-systems.amp.html",
+      "publishedDateTime": "2024-01-16T10:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -169,26 +196,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-11-casper-labs-announces-blockchain-based-ai-governance-tool-built-using-ibms-watsonx-platform.md",
-      "title": "Casper Labs announces blockchain-based AI governance tool built using IBM’s watsonx platform",
-      "excerpt": "Casper Labs, a flexible blockchain solutions company, today announced that it’s working with IBM Corp. to build an artificial intelligence governance tool that uses decentralized ledger technology to introduce version control, monitoring and access controls for AI models.",
+      "path": "_news/2024-01-16-at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking.md",
+      "title": "At CES 2024, tech companies are transforming the kitchen with AI and robots that do the cooking",
+      "excerpt": "Chef-like robots, AI-powered appliances and other high-tech kitchen gadgets are holding out the promise that humans don’t need to cook — or mix drinks — for themselves anymore.",
       "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
-      "originalUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
+      "webUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/",
+      "originalUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cybersecurity-hand-reach-binary.jpg",
-          "width": 1000,
-          "height": 666,
+          "url": "https://www.westhawaiitoday.com/wp-content/uploads/2024/01/web1_ces---kitchen-9.jpg",
+          "width": 760,
+          "height": 507,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -196,56 +223,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T12:01:00Z",
+      "ampWebUrl": "https://www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/amp/",
+      "cdnAmpWebUrl": "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2024/01/16/features/at-ces-2024-tech-companies-are-transforming-the-kitchen-with-ai-and-robots-that-do-the-cooking/amp/",
+      "publishedDateTime": "2024-01-16T10:06:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-match-made-in-heaven.md",
-      "title": "Crypto And Artificial Intelligence: Like Peanut Butter And Jelly? 3 Reasons These Technologies Are A Match Made In Heaven.",
-      "excerpt": "More experienced traders who are bullish on the AI space may choose to use a leveraged ETF like Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares UBOT UBOT is a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
-      "originalUrl": "https://www.benzinga.com/trading-ideas/24/01/36597829/crypto-and-artificial-intelligence-like-peanut-butter-and-jelly-3-reasons-these-technologies-are-a-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/11/screenshot_2024-01-11_at_10.25.17_pm.png?width=1200&height=800&fit=crop",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36597829",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36597829",
-      "publishedDateTime": "2024-01-11T11:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "West Hawaii Today",
+        "domain": "westhawaiitoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -260,21 +244,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-11-illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy.md",
-      "title": "Illini Insider | Speech Accessibility Project now includes ALS and cerebral palsy",
-      "excerpt": "From left, UI professors Mark Hasegawa-Johnson, Laura Mattie, Marie Moore Channell are working on expanding a database being used to train speech-recognition software to include people whose speech is affected by various conditions, including Parkinson's disease and Down syndrome.",
+      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
+      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
+      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
       "sourceUrl": null,
-      "webUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
-      "originalUrl": "https://www.news-gazette.com/news/local/university-illinois/illini-insider-speech-accessibility-project-now-includes-als-and-cerebral-palsy/article_71188290-94f5-5b71-9dc1-37d19a45084f.html",
+      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
+      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/news-gazette.com/content/tncms/assets/v3/editorial/8/30/830c4c8a-4b78-5903-a83f-459f095083da/659f36c62f0f8.image.jpg?crop=1400%2C735%2C0%2C32&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -284,11 +268,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T10:45:00Z",
+      "publishedDateTime": "2024-01-16T09:56:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The News-Gazette",
-        "domain": "news-gazette.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -298,26 +282,27 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2024-01-11-llama-pro-ai-progressive-llama-with-block-expansion-research-paper.md",
-      "title": "LLaMA Pro AI progressive LLaMA with block expansion research paper",
-      "excerpt": "Artificial intelligence (AI) is constantly evolving, and researchers are always on the lookout for ways to improve how these systems learn. A recent",
+      "path": "_news/2024-01-16-vodafone-signs-15-billion-microsoft-deal-for-ai-cloud-and-iot.md",
+      "title": "Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT",
+      "excerpt": "Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses.",
       "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/llama-pro/",
-      "originalUrl": "https://www.geeky-gadgets.com/llama-pro/",
+      "webUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 214,
       "tags": null,
       "images": [
         {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/LLaMA-Pro-AI-model.jpg",
-          "width": 1280,
-          "height": 786,
+          "url": "https://image.cnbcfm.com/api/v1/image/107359216-1705391940673-gettyimages-1782796345-BC_2023StudioAI_3456.jpeg?v=1705391964",
+          "width": 4973,
+          "height": 3309,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -325,14 +310,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T10:33:00Z",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/16/vodafone-signs-1point5-bln-microsoft-deal-for-ai-cloud-and-iot.html",
+      "publishedDateTime": "2024-01-16T08:11:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -341,26 +335,26 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
-      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
-      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
+      "path": "_news/2024-01-16-elon-musk-wants-more-voting-control-over-tesla-tsla-as-company-grows-ai-robotics-efforts.md",
+      "title": "Elon Musk wants more voting control over Tesla (TSLA) as company grows AI & robotics efforts",
+      "excerpt": "Elon himself chimed in to state that he’s currently uncomfortable with expanding Tesla’s AI and robotics business without more voting control. Elon Musk shared a thread of tweets in response ...",
       "sourceUrl": null,
-      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
-      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "webUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
+      "originalUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
+          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2024/01/16/elon-musk-gq_feature.jpg",
           "width": 1920,
-          "height": 1280,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -368,211 +362,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:44:00Z",
+      "ampWebUrl": "https://www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
+      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/138301/elon-musk-tesla-voting-power-ai?amphtml=1",
+      "publishedDateTime": "2024-01-16T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "morethandigital",
-        "domain": "morethandigital.info",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems.md",
-      "title": "Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems",
-      "excerpt": "Casper Labs’ solution is planned to be built on Casper, a tamper-resistant and highly serialized ledger, and leverage IBM watsonx.governance and watsonx.ai to monitor and measure highly ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/casper-labs-to-build-a-blockchain-powered-solution-with-ibm-consulting-to-help-improve-transparency-and-auditability-for-generative-ai-systems-1032960217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-california-considers-artificial-intelligence-to-improve-traffic.md",
-      "title": "California considers artificial intelligence to improve traffic",
-      "excerpt": "Caltrans exploring how artificial intelligence can help traffic jams and make roads safer. SAN DIEGO — The state is exploring how artificial intelligence can help California residents on the road. The goal is to help cut down on the time we spend in traffic, and also make the roads a safer place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "originalUrl": "https://www.cbs8.com/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cbs8.com/assets/KFMB/images/7e350477-415a-4941-bfb8-eb7664189441/7e350477-415a-4941-bfb8-eb7664189441_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "cdnAmpWebUrl": "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/tech/california-considers-artificial-intelligence-improve-traffic/509-a652475d-f9e7-49ab-b2c5-8c5cf57f1f21",
-      "publishedDateTime": "2024-01-11T06:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News 8",
-        "domain": "cbs8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-toyota-combines-voice-gesture-recognition-in-new-operating-system.md",
-      "title": "Toyota combines voice, gesture recognition in new operating system",
-      "excerpt": "Toyota will pair voice and gesture recognition with predictive artificial intelligence in its Arene operating system. The result will be the ability to point and ask a question and get an answer.",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
-      "originalUrl": "https://europe.autonews.com/automakers/toyota-uses-ai-improve-voice-gesture-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T04:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names.md",
-      "title": "If You Can Only Buy One Machine Learning Stock in January, It Better Be One of These 3 Names",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips United States equities may be on the rise again after a troublesome start to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/if-you-can-only-buy-one-machine-learning-stock-in-january-it-better-be-one-of-these-3-names-1032958797",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T03:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
-      "title": "Robot revolution: Uncovering the real value of security robots",
-      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
+        "name": "Shacknews",
+        "domain": "shacknews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -584,25 +380,25 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Security"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2024-01-11-botricia-presents-dhruvitkumar-talatis-ai-a-new-god-we-trust-exploring-technology-and-spirituality.md",
-      "title": "Botricia Presents Dhruvitkumar Talati's 'AI - A New GOD We Trust': Exploring Technology and Spirituality.",
-      "excerpt": "Notably, he has architected end-to-end AI solutions on AWS, integrating services like Amazon SageMaker, Lambda, EC2, and S3 to meet diverse business requirements. Woven with a tapestry of philosophy, science, and human psychology, the book prompts readers ...",
+      "path": "_news/2024-01-16-as-tesla-stock-tumbles-musk-threatens-25-voting-control-or-no-ai-robotics.md",
+      "title": "As Tesla Stock Tumbles, Musk Threatens 25% Voting Control Or No AI, Robotics",
+      "excerpt": "Musk wrote that he would be “uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control.” He claimed that would be enough to “be influential, but not so ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
+      "webUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
+      "originalUrl": "https://www.carscoops.com/2024/01/as-tesla-stock-takes-a-hit-elon-musk-seeks-more-control-over-the-company/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://news.kisspr.com/system/media_files/images/000/049/985/original_jpeg/image_%281%29.jpg",
-          "width": 875,
-          "height": 1400,
+          "url": "https://www.carscoops.com/wp-content/uploads/2024/01/ewrwerewrewrewrewrwerfsdcx-fdscdscx.jpg",
+          "width": 2410,
+          "height": 1356,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -612,88 +408,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:20:00Z",
+      "publishedDateTime": "2024-01-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
-      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm.md",
-      "title": "AI kitchen gadgets and robots take Las Vegas tech fair by storm",
-      "excerpt": "But as the 2024 Consumer Electronics Show (CES) in Las Vegas gets underway, optimism is running high amid hopes that artificial intelligence (AI ... powered appliances like air-fryers and grills to a robot barista, the food tech at CES 2024 is ...",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
-      "originalUrl": "https://omaha.com/news/nation-world/science/ai-kitchen-gadgets-and-robots-take-las-vegas-tech-fair-by-storm/video_520a912d-dfde-5a3b-8fd4-35768ddd4ce2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/20/520a912d-dfde-5a3b-8fd4-35768ddd4ce2/65a01f2c7be37.preview.png?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
+        "name": "Carscoops",
+        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -704,223 +423,17 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-artificial-intelligence-the-latest-architecture-and-news.md",
-      "title": "Artificial Intelligence: The Latest Architecture and News",
-      "excerpt": "It was the awe-inspiring works of Renaissance masters that propelled me onto a transformative trajectory, guiding me toward harnessing the immense potential of artificial intelligence and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "originalUrl": "https://www.archdaily.com/tag/artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ArchDaily",
-        "domain": "archdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-machine-learning-approaches-for-accelerated-materials-discovery.md",
-      "title": "Machine Learning Approaches for Accelerated Materials Discovery",
-      "excerpt": "Artificial Intelligence and its related tools, such as machine learning, deep learning, and neural networks, are revolutionizing every field of life. The domain of materials science and engineering is constantly evolving by employing these effective tools ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "originalUrl": "https://www.azom.com/article.aspx?ArticleID=23290",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_23290_17049820057452938.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AZOM",
-        "domain": "azom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-neural-implant-can-read-deep-neural-activity-from-the-brain-surface.md",
-      "title": "Neural implant can read deep neural activity from the brain surface",
-      "excerpt": "This correlation enabled the researchers to use surface electrical signals to train neural networks to predict calcium activity – not only for large populations of neurons, but also individual neurons – at various depths. “The neural network model is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64387.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news3/id64387_1.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-top-10-best-machine-learning-software-in-2024.md",
-      "title": "Top 10 Best Machine Learning Software in 2024",
-      "excerpt": "It offers a wide range of tools and services to help users build and deploy machine learning models quickly and easily. Azure Machine Learning is a cloud-based machine learning software that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "originalUrl": "https://www.straight.com/guides/software/best-machine-learning-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/Best-Machine-Learning-Software.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2024-01-11-top-10-best-python-libraries-for-natural-language-processing-in-2024.md",
-      "title": "Top 10 Best Python Libraries for Natural Language Processing in 2024",
-      "excerpt": "Python is a widely used programming language in the field of data science, and natural language processing (NLP) is no exception. NLP involves analyzing and understanding human language ...",
+      "path": "_news/2024-01-16-baidu-recoups-some-losses-as-analysts-see-selloff-overdone.md",
+      "title": "Baidu Recoups Some Losses as Analysts See Selloff Overdone",
+      "excerpt": "Baidu Inc. climbed as much as 4.3% on Tuesday, regaining some of its losses after analysts labeled excessive a selloff triggered by a report of links to Chinese military AI research. China’s ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "originalUrl": "https://www.straight.com/guides/software/best-python-libraries-for-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/10-Best-Python-Libraries-for-Natural-Language-Processing.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease.md",
-      "title": "Universal Deep Learning Models for the Early Prediction of Alzheimer’s Disease",
-      "excerpt": "Researchers from the University of Massachusetts Amherst have received a two-year NIH grant for $278,118 to develop new deep-learning models for the early prediction of Alzheimer’s using clinical data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
-      "originalUrl": "https://www.genengnews.com/topics/translational-medicine/universal-deep-learning-models-for-the-early-prediction-of-alzheimers-disease/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-01-16/baidu-recoups-some-losses-after-denying-report-on-pla-ai-links",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -930,57 +443,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T20:59:00Z",
+      "publishedDateTime": "2024-01-16T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-openai-unveils-app-store-for-custom-chatbots.md",
-      "title": "OpenAI Unveils App Store for Custom Chatbots",
-      "excerpt": "People who subscribe to OpenAI’s ChatGPT Plus service will be able to browse the new store for tailored chatbots that perform different tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/10/technology/openai-app-store-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/01/10/business/10gpt-store/10gpt-store-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T19:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1001,21 +471,100 @@
       ]
     },
     {
-      "path": "_news/2024-01-11-sams-club-is-testing-out-ai-computer-vision-tech-to-speed-up-exit-process-at-stores.md",
-      "title": "Sam’s Club is testing out AI, computer vision tech to speed up exit process at stores",
-      "excerpt": "Pilots are currently underway at 10 Sam’s Club locations and involves a combination of computer vision and digital technology which captures images of carts and verifies payment for all the items in the shopper’s possession.",
+      "path": "_news/2024-01-16-elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.md",
+      "title": "Elon Musk gives Tesla ultimatum: Another 12% of shares or no AI, robotics",
+      "excerpt": "Click to expand... And because of course he fucking is: \"Musk is attempting to recover control that has been lost from his stock sales to fund Twitter,\" CFRA Research analyst Garrett Nelson said. \"We view Musk's demands as posturing ahead of the Delaware ...",
       "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
-      "originalUrl": "https://www.supermarketnews.com/technology/sam-s-club-testing-out-ai-computer-vision-tech-speed-exit-process-stores",
+      "webUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
+      "originalUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-what-elon-musk-wants-if-hes-going-to-build-ai-and-robotics-systems-for-tesla.md",
+      "title": "What Elon Musk wants if he's going to build AI and robotics systems for Tesla",
+      "excerpt": "Tesla CEO Elon Musk indicated Monday that he wants a bigger voting share of the electric car behemoth if he's going to grow the company as a leader in artificial intelligence and ... understand that Tesla is not one startup, but a dozen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-8-vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer.md",
+      "title": "8 Vision Pro accessories to get the most out of Apple’s spatial computer",
+      "excerpt": "BGR lists some of the accessories you might need to enjoy Apple Vision Pro when this spatial computer finally launches for US customers.",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
+      "originalUrl": "https://bgr.com/tech/vision-pro-accessories-to-get-the-most-out-of-apples-spatial-computer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/CES-Sams-Exit-Tech-Lead-100.jpg",
-          "width": 1001,
-          "height": 561,
+          "url": "https://bgr.com/wp-content/uploads/2023/06/apple-vision-pro-official-4.jpg?quality=82&strip=all",
+          "width": 1599,
+          "height": 1066,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1025,11 +574,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T17:21:00Z",
+      "publishedDateTime": "2024-01-15T18:09:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,6 +589,543 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-16-will-artificial-intelligence-be-sociopathic.md",
+      "title": "Will Artificial Intelligence Be Sociopathic?",
+      "excerpt": "Evolution favored social bonding and cooperation within our species. Empathy and concern for the welfare of others was critical to our survival. There is no guarantee that AGI systems can be infused with a social conscience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-01/Screenshot%202024-01-15%20at%209.18.00%20AM.png.jpg?itok=N1nYORYv",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/rich-encounters/202401/will-artificial-intelligence-be-sociopathic?amp",
+      "publishedDateTime": "2024-01-15T17:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
+      "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
+      "excerpt": "Before getting his Ph.D. in math and artificial intelligence, Legg briefly studied finance in Switzerland. Since 2021, Mitchell has worked as a researcher and the chief ethics scientist at Hugging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
+      "originalUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-106798600,width-500,resizemode-4/The-top-12-people-in-artificial-intelligence-policy-ethics-and-research.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
+      "publishedDateTime": "2024-01-15T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
+      "originalUrl": "https://www.newsday.com/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
+      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/CES-2024-robots-vegas-strip-casino-jobs-b88978",
+      "publishedDateTime": "2024-01-15T14:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsday",
+        "domain": "newsday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
+      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
+      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/siri-apple",
+      "originalUrl": "https://www.businessinsider.com/siri-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
+      "publishedDateTime": "2024-01-15T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
+      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
+      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T12:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-what-growing-ai-datasets-mean-for-data-engineering-and-management.md",
+      "title": "What growing AI datasets mean for data engineering and management",
+      "excerpt": "Ever-larger datasets for AI training pose big challenges for data engineers, and risks for the models themselves. It’s time to shift our focus to curating and managing smaller datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
+      "originalUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
+      "publishedDateTime": "2024-01-15T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
+      "title": "After AI’s summer: What’s next for artificial intelligence?",
+      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T03:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
+      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
+      "excerpt": "Business Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-healthcare-in-the-age-of-ai-how-will-artificial-intelligence-impact-future-decision-making.md",
+      "title": "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?",
+      "excerpt": "Artificial intelligence (AI ... step towards generating human-like text from simple prompts. In the healthcare sector, AI’s advancement has begun to impact prescribing, particularly in ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "originalUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/2024-01/How-will-artificial-intelligence-impact-future-decision-making-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
+      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
+      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
+      "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
+      "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-York-Stock-Exchange-1939-trade.jpg",
+          "width": 800,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
+      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
+      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "publishedDateTime": "2024-01-14T21:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

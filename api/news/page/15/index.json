@@ -2,21 +2,21 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2024-01-23-hyundai-motor-in-artificial-intelligence-theme-innovation-strategy.md",
-      "title": "Hyundai Motor in artificial intelligence: theme innovation strategy",
-      "excerpt": "How many patents did Hyundai Motor submit related to artificial intelligence last quarter, and how many were granted? Discover the latest information here.",
+      "path": "_news/2024-01-25-samsung-galaxy-s24-ultra-review-a-pricey-way-to-join-the-ai-craze.md",
+      "title": "Samsung Galaxy S24 Ultra Review: A Pricey Way to Join the AI Craze",
+      "excerpt": "You can also translate any of these types of content into different languages. These features should sound familiar to anyone who has been following Google's AI developments over the past year. That's intentional: Samsung worked closely with Google on ...",
       "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
-      "originalUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
+      "webUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-review-smarter-faster-pricier/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png",
-          "width": 388,
-          "height": 544,
+          "url": "https://www.cnet.com/a/img/resize/cc46635c9507b24a40989d15d3a3dbdad54f175f/hub/2024/01/24/73947584-67eb-4e99-b66d-207b4c0e1eda/samsung-galaxy-s24-ultra-1887.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,57 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T10:34:00Z",
+      "publishedDateTime": "2024-01-25T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
-      "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
-      "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106875152-1619622957732-Avi_.jpg?v=1619623037",
-          "width": 4800,
-          "height": 3200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
-      "publishedDateTime": "2024-01-23T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -92,68 +49,26 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-23-is-facial-recognition-a-useful-public-safety-tool-or-something-sinister.md",
-      "title": "Is Facial Recognition a Useful Public Safety Tool or Something Sinister?",
-      "excerpt": "In August 2023, the Chinese government issued draft regulations that aim to limit the private use of facial recognition technologies; the rules impose no such restrictions on its use for \"national security\" concerns.",
+      "path": "_news/2024-01-25-the-importance-of-diversity-in-ai-isnt-opinion-its-math.md",
+      "title": "The importance of diversity in AI isn’t opinion, it’s math",
+      "excerpt": "All predictive models, including AI, are more accurate when they incorporate diverse human intelligence and experience.\nThe post The importance of diversity in AI isn&#8217;t opinion, it’s math appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
-      "originalUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
+      "webUrl": "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coes-for-model-risk/",
+      "originalUrl": "https://www.ibm.com/blog/why-we-need-diverse-multidisciplinary-coes-for-model-risk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://media.zenfs.com/en/aol_reason_com_448/751a000b23c47dfed65fe9d2063224c4",
-          "width": 1161,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
-      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
-      "publishedDateTime": "2024-01-23T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes.md",
-      "title": "When One Man Used Computer Vision To Reassemble Shredded Bank Notes",
-      "excerpt": "Clearly manual re-assembly is a challenging task. But now Chung Kong, a PhD student at Hong Kong University, has shown that computer vision can help reassemble shredded notes at least partially. Kong became intrigued after noticing that the Hong Kong ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
-      "originalUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/7i570QQ4vqddhILtr7pm8w/359aedccf5cd48c71d78e57e1a2a0254/paper-shredding-currency.jpg",
-          "width": 1000,
-          "height": 660,
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/Balancing-AI-Do-good-and-avoid-harm-630x330.jpg",
+          "width": 630,
+          "height": 330,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -163,12 +78,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T10:00:00Z",
+      "publishedDateTime": "2024-01-25T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -177,69 +101,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-why-does-ai-being-good-at-math-matter.md",
-      "title": "Why does AI being good at math matter?",
-      "excerpt": "AI systems that can solve complex math could allow us to build more powerful AI tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
-      "originalUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/240122_AImath.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
-      "publishedDateTime": "2024-01-23T09:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "IBM AI",
         "AI",
         "Math for AI"
       ]
     },
     {
-      "path": "_news/2024-01-23-singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai.md",
-      "title": "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI",
-      "excerpt": "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data.",
+      "path": "_news/2024-01-25-voltron-claypot-deal-cooks-up-faster-ai-engine-power.md",
+      "title": "Voltron Claypot Deal Cooks Up Faster AI Engine Power",
+      "excerpt": "As we know then, there’s a race on to provide AI processing power, so why is the data preparation challenge part of this equation so tough?",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b24cfb438acdd6bba57f54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -248,318 +129,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T08:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering.md",
-      "title": "AWS rival Wasabi acquires Curio AI to add intelligence to its unlimited cloud storage offering",
-      "excerpt": "Boston-based Wasabi Technologies, a data storage startup taking on the likes of AWS, GCP and other cloud vendors, today announced it has acquired machine learning platform Curio AI from GrayMeta ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses.md",
-      "title": "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses",
-      "excerpt": "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
-      "originalUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
-      "title": "3 ways you can help your student navigate artificial intelligence",
-      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
-      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
-      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
-          "width": 576,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization.md",
-      "title": "IGC Proposed Acquisition of a Deep Neural Network and AI Research Related Service and Application Research Organization",
-      "excerpt": "Promoting Transformation of Trading Technology R&D and Service HONG KONG SAR - Media OutReach Newswire - 23 January 2024 - (",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "originalUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "publishedDateTime": "2024-01-23T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-mobile-speech-recognition-software-market-set-to-surge-with-a-225-cagr-reaching-us-254-billion-by-2032.md",
-      "title": "Mobile Speech Recognition Software Market Set to Surge with a 22.5% CAGR, Reaching US$ 25.4 Billion by 2032",
-      "excerpt": "The mobile speech recognition software market is projected to develop at a CAGR of 22.5% from 2022 to 2032, reaching a value of US$ 3.3 billion in 2022 and US$ 25.4 billion by 2032. In enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/23/mobile-speech-recognition-software-market-set-to-surge-with-a-22-5-cagr-reaching-us-25-4-billion-by-2032/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/23/mobile-speech-recognition-software-market-set-to-surge-with-a-22-5-cagr-reaching-us-25-4-billion-by-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Mobile-Speech-Recognition-Software-Market.jpg",
-          "width": 1000,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-sam-altman-entering-the-chip-business.md",
-      "title": "Is Sam Altman Entering The Chip Business?",
-      "excerpt": "Sam Altman is reportedly in discussions with key investors, and TSMC, to launch a new chip venture to design and build semiconductors for accelerating AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65af2c370b3956c11331aae8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1318,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/01/22/is-sam-altman-entering-the-chip-business/amp/",
-      "publishedDateTime": "2024-01-23T03:03:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/01/25/voltron-claypot-deal-cooks-up-faster-ai-engine-power/amp/",
+      "publishedDateTime": "2024-01-25T12:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -587,20 +159,20 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-google-suddenly-reveals-huge-free-ai-upgrade-for-all-android-users.md",
-      "title": "Google Suddenly Reveals Huge Free AI Upgrade For All Android Users",
-      "excerpt": "Think through the path. Google has spent two-years pushing its Messages app as the default Android alternative to iMessage. This has included end-to-end encryption and RCS by default, and multiple feature releases. Now, with that done, here comes an AI upgrade that connects Messages users with Google, not just with one another.",
+      "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
+      "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
+      "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/",
+      "webUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
+      "originalUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aeed369be3a016e61b4a9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14807e631844a3005ca8d/0x0.jpg?format=jpg&crop=1230,922,x144,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1201,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -609,9 +181,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/22/huge-free-ai-upgrade-for-google-and-samsung-android-users-just-leaked/amp/",
-      "publishedDateTime": "2024-01-23T00:15:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kevinkruse/2024/01/25/lds-transformational-journey-from-order-taker-to-learning-advisor/amp/",
+      "publishedDateTime": "2024-01-25T12:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -634,28 +206,78 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-how-to-use-cognitive-automation-to-optimize-operational-workflows.md",
+      "title": "How To Use Cognitive Automation To Optimize Operational Workflows",
+      "excerpt": "We can shape cognitive automation into a force for good with responsible development. But we have to go into this with our eyes wide open.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b11dd27ce03c7243f88102/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 883,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/how-to-use-cognitive-automation-to-optimize-operational-workflows/amp/",
+      "publishedDateTime": "2024-01-25T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Natural Language Processing",
-        "Meta AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2024-01-23-gdpr-compliance-checklist.md",
-      "title": "GDPR compliance checklist",
-      "excerpt": "How can you ensure your organization is GDPR compliant? Follow the principles laid out in this GDPR compliance checklist.\nThe post GDPR compliance checklist appeared first on IBM Blog.\n",
+      "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
+      "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
+      "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/gdpr-compliance-checklist/",
-      "originalUrl": "https://www.ibm.com/blog/gdpr-compliance-checklist/",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/ma73916.blog-lead-space-2x1-1.png",
-          "width": 1080,
-          "height": 540,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -663,16 +285,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T00:00:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
+      "publishedDateTime": "2024-01-25T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -688,25 +310,26 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2024-01-23-afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region.md",
-      "title": "AFS and Kiya.ai announce dynamic partnership to revolutionise digital banking solutions in the region",
-      "excerpt": "Manama, Kingdom of Bahrain – Arab Financial Services (AFS), the Middle East and Africa region’s principal digital payment solutions provider and fintech enabler, and Kiya.ai the leading global fintech provider have announced a strategic partnership ...",
+      "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
+      "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
+      "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjlkNzE3NzItZGE4NC00/0/productsamitsharma-jpg.jpeg?f=3%3A2",
-          "width": 829,
-          "height": 553,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -714,102 +337,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/afs-and-kiyaai-announce-dynamic-partnership-to-revolutionise-digital-banking-solutions-in-the-region-w9rjzywu?amp=1",
-      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "publishedDateTime": "2024-01-25T11:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
-      "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
-      "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/23/screenshot-2024-01-23-at-102728-am_o0nq7eE.png",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is.md",
-      "title": "Human workers still have one crucial advantage over AI - but you might not be happy to hear what it is",
-      "excerpt": "According to a new study conducted by researchers are the Massachusetts Institute of Technology (MIT) (via SiliconAngle), increasing concern that AI could replace human workers imminently is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
-      "originalUrl": "https://www.techradar.com/pro/human-workers-still-have-one-crucial-advantage-over-ai-but-you-might-not-be-happy-to-hear-what-it-is",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ZCE7nTe3udASYn64aitQem-1200-80.jpg",
-          "width": 1024,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -825,32 +362,52 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2024-01-23-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy.md",
-      "title": "Inhibrx, Sanofi ratify $2.2B deal for AATD therapy",
-      "excerpt": "Inhibrx Inc. and Sanofi SA have agreed to a deal worth up to $2.2 billion, whereby the latter’s Aventis Inc. subsidiary will acquire INBRX-101, an optimized, recombinant alpha-1 antitrypsin (AAT) augmentation therapy undergoing a registrational trial for ...",
+      "path": "_news/2024-01-25-generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations.md",
+      "title": "Generative AI In Healthcare And Life Sciences: Positive Impacts And Ethical Considerations",
+      "excerpt": "Let's explore generative AI's potential to reshape healthcare and life sciences as well as the ethical considerations that must be understood.",
       "sourceUrl": null,
-      "webUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
-      "originalUrl": "https://www.bioworld.com/articles/704871-inhibrx-sanofi-ratify-22b-deal-for-aatd-therapy",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 171,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db0023bea32ba6199391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/generative-ai-in-healthcare-and-life-sciences-positive-impacts-and-ethical-considerations/amp/",
+      "publishedDateTime": "2024-01-25T10:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "BioWorld",
-        "domain": "bioworld.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -860,25 +417,26 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2024-01-23-peak-xv-backed-healthtech-startup-qureai-in-talks-for-fresh-funding.md",
-      "title": "Peak XV-backed healthtech startup Qure.ai in talks for fresh funding",
-      "excerpt": "Qure.ai Technologies Pvt. Ltd, a health-tech startup that uses artificial intelligence for medical imaging diagnostics, has hit the market to raise what could be its biggest institutional round of funding till date, two people aware of the development told ...",
+      "path": "_news/2024-01-25-building-ai-agents-with-semantic-kernel.md",
+      "title": "Building AI agents with Semantic Kernel",
+      "excerpt": "How can you be sure that it remains grounded, and avoids inaccuracies and errors? One option is to work with the Prompt Flow tool in Azure AI Studio to build a test framework that evaluates the accuracy of your planners and plugins. It’s able to use a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
-      "originalUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding",
+      "webUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.html",
+      "originalUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.vccircle.com/uploads/2024/01/Qure-CEO.jpg",
-          "width": 712,
-          "height": 415,
+          "url": "https://images.techhive.com/images/article/2015/12/thinkstockphotos-479260062-100632520-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -886,14 +444,247 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "cdnAmpWebUrl": "https://www-vccircle-com.cdn.ampproject.org/c/s/www.vccircle.com/peakxv-backed-healthtech-startup-qure-ai-in-talks-for-fresh-funding?amp=1",
-      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "ampWebUrl": "https://www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712423/building-ai-agents-with-semantic-kernel.amp.html",
+      "publishedDateTime": "2024-01-25T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "VCCircle",
-        "domain": "vccircle.com",
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-google-settles-17-billion-lawsuit-over-ai-chips-patent-infringement.md",
+      "title": "Google settles $1.7 billion lawsuit over AI chips patent infringement",
+      "excerpt": "Google has settled a $1.7 billion lawsuit over AI chips patent infringement filed by computer scientist Joseph Bates and his company Singular, the company said on Wednesday. The settlement, according to a Reuters report, was reached on the same day when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "originalUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/02/p1200739-100709409-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712462/google-settles-1-7-billion-lawsuit-over-ai-chips-patent-infringement.amp.html",
+      "publishedDateTime": "2024-01-25T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-sk-hynix-vows-to-solidify-leadership-in-high-growth-ai-chip-market.md",
+      "title": "SK hynix vows to solidify leadership in high-growth AI chip market",
+      "excerpt": "a memory chip for the AI market in line with the increasing demand in the AI industry, and DDR5. In the October-December period of 2023, SK hynix recorded an operating profit of 346 billion won ($260 million). This is the first time that the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2024/01/129_367621.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/thumbnailV2/b2aa7af8ed11428fa34fb035dad20c46.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=367621",
+      "publishedDateTime": "2024-01-25T07:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand.md",
+      "title": "Memory Chip Giant SK Hynix Returns To Profit On Strong AI Demand",
+      "excerpt": "The world's second-largest memory chip maker, South Korea's SK Hynix, said on Thursday it had returned to profit after four consecutive quarters of losses driven by demand for chips used in artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
+      "originalUrl": "https://www.barrons.com/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP9831328596374683969694032955726021614765---1.jpg",
+          "width": 768,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/memory-chip-giant-sk-hynix-returns-to-profit-on-strong-ai-demand-2c1bbfb3",
+      "publishedDateTime": "2024-01-25T06:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-amd-launches-radeon-rx-7600-xt-gpu-with-fluid-motion-frames-technology.md",
+      "title": "AMD launches Radeon RX 7600 XT GPU with Fluid Motion Frames Technology",
+      "excerpt": "AMD compares the performance of the Radeon RX 7600 XT GPU with the NVIDIA GeForce RTX 2060 and claims to offer 1.9x faster gaming and raytracing performance. The graphics card does support all the latest Radeon software technologies such as AMD Fluid Motion Frames (AFMF), which generates additional frames to make the game look smoother.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "originalUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/amd-radeon-rx-7600-xt.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/gaming/amd-radeon-rx-7600-xt-gpu-launch-price-specs-performance-9126916/lite/",
+      "publishedDateTime": "2024-01-25T06:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse.md",
+      "title": "Will Generative AI Help Us Solve The Climate Crisis (Or Will It Make It Worse)?",
+      "excerpt": "You might be surprised to learn that AI is already proving to be a powerful weapon in the fight against climate change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2091ee442f865f2c67c7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 897,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/01/25/will-generative-ai-help-us-solve-the-climate-crisis-or-will-it-make-it-worse/amp/",
+      "publishedDateTime": "2024-01-25T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -906,98 +697,12 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
-      "title": "Is there AI discussion fatigue in healthcare?",
-      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
+      "path": "_news/2024-01-25-artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033.md",
+      "title": "Artificial Intelligence in Telecommunication Market Demonstrates Robust Growth, Forecasted to Reach US$ 14,496 Million by 2033",
+      "excerpt": "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,",
       "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-mit-study-shows-ai-is-still-too-costly-to-replace-most-human-workers.md",
-      "title": "MIT study shows AI is still too costly to replace most human workers",
-      "excerpt": "According to the researchers, even if the cost of AI systems falls by 20% per year, it would still take decades for computer vision tasks to become more economically advantageous for most companies.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
-      "originalUrl": "https://siliconangle.com/2024/01/22/mit-study-shows-ai-still-costly-replace-human-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/robot-waiting-modern-office-job-interview-generative-ai_587448-2138.jpg",
-          "width": 900,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
-      "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
-      "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
-      "originalUrl": "https://siliconangle.com/2024/01/22/report-alphabets-x-lab-letting-go-dozens-employees-part-restructuring/",
+      "webUrl": "https://www.fmiblog.com/2024/01/25/artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033/",
+      "originalUrl": "https://www.fmiblog.com/2024/01/25/artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1007,11 +712,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:05:00Z",
+      "publishedDateTime": "2024-01-25T02:41:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1026,29 +731,63 @@
       ]
     },
     {
-      "path": "_news/2024-01-23-lawyers-use-of-ai-spurs-ethics-rule-changes.md",
-      "title": "Lawyers' use of AI spurs ethics rule changes",
-      "excerpt": "The Florida Bar on Friday provided lawyers with some clarity on how they can use artificial intelligence without running afoul of ethics rules, following a similar move by the California Bar in November.",
+      "path": "_news/2024-01-25-apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy.md",
+      "title": "Apple Car delayed until 2028, less ambitious design with downgrade to Level 2+ autonomy",
+      "excerpt": "Apple delays its electric vehicle until at least 2028: now a semi-autonomous driving car... will include the wheels and pedals, after Apple removed them.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
-      "originalUrl": "https://www.reuters.com/legal/transactional/lawyers-use-ai-spurs-ethics-rule-changes-2024-01-22/",
+      "webUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:21:00Z",
+      "publishedDateTime": "2024-01-25T02:01:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
+      "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
+      "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1064,26 +803,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-23-franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs.md",
-      "title": "Franz Unveils AllegroGraph Cloud – A Managed Service for Neuro-Symbolic AI Knowledge Graphs",
-      "excerpt": "There is an interesting contradiction in AI between rule-based systems and machine learning. While rule-based systems offer better interpretation and",
+      "path": "_news/2024-01-25-ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards.md",
+      "title": "IBM Unveils AI Stories with watsonx to Enhance the Digital Fan Experience for 66th Annual GRAMMY Awards®",
+      "excerpt": "ARMONK, N.Y., Jan. 25, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today introduced AI Stories with IBM watsonx, a generative AI solution co-created alongside the Recording Academy® to generate and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
-      "originalUrl": "https://www.datanami.com/2024/01/22/franz-unveils-allegrograph-cloud-a-managed-service-for-neuro-symbolic-ai-knowledge-graphs/",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240125ny20633/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240125ny20633/ibm-unveils-ai-stories-with-watsonx-to-enhance-the-digital-fan-experience-for-66th-annual-grammy-awards",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.datanami.com/wp-content/uploads/2022/03/neural_net_shutterstock_vs148.jpg",
-          "width": 800,
-          "height": 412,
+          "url": "https://mma.prnewswire.com/media/2326512/IBM_2024_Grammys_AIContentPackage_1.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1093,11 +832,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T20:18:00Z",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
+        "name": "Morningstar",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1107,8 +846,362 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-us-regulator-probes-ai-investments-by-tech-giants.md",
+      "title": "US regulator probes AI investments by tech giants",
+      "excerpt": "Amazon had already announced it aimed to soup up its Alexa voice assistant with generative AI, which the firm said would allow users to have smoother conversations with the device. Anthropic also agreed to use Amazon's chips to develop its next models and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
+      "originalUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gjsentinel.com/content/tncms/assets/v3/editorial/4/46/44627b7e-3cb2-50ee-a4ef-5a32de7481dd/65a62d0070e03.image.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
+      "cdnAmpWebUrl": "https://www-gjsentinel-com.cdn.ampproject.org/c/s/www.gjsentinel.com/news/national/us-regulator-probes-ai-investments-by-tech-giants/article_ecf49930-ed8c-5cf3-9bee-597ca8deb7c7.amp.html",
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grand Junction Daily Sentinel",
+        "domain": "gjsentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-health-care-down-slightly-after-mixed-earnings-health-care-roundup.md",
+      "title": "Health Care Down Slightly After Mixed Earnings -- Health Care Roundup",
+      "excerpt": "Health-care companies fell slightly amid mixed earnings ... Evaxion Biotech shares surged, almost doubling in value, after the vaccine developer said it was applying artificial-intelligence methods to exploration of cancer vaccines, pledging to produce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "originalUrl": "https://www.marketwatch.com/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/health-care-down-slightly-after-mixed-earnings-health-care-roundup-9065017e",
+      "publishedDateTime": "2024-01-24T22:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-self-driving-vehicle-company-aurora-cuts-3-of-its-workforce.md",
+      "title": "Self-driving vehicle company Aurora cuts 3% of its workforce",
+      "excerpt": "Aurora Innovation, the autonomous vehicle technology company aiming to launch a “driverless” self-driving trucks business by the end of 2024, laid off dozens of workers this month, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "originalUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "publishedDateTime": "2024-01-24T22:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.md",
+      "title": "SK Hynix swings to fourth-quarter profit on strong AI chip demand",
+      "excerpt": "The world's second-biggest memory chipmaker reported a 346 billion won ($259.77 million) operating profit for the October-December quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107094418-1658892335251-gettyimages-465379179-SKOREA_HYNIX_EARNS.jpeg?v=1706139305",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/25/sk-hynix-swings-to-fourth-quarter-profit-on-strong-ai-chip-demand.html",
+      "publishedDateTime": "2024-01-24T21:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-electricity-demand-for-data-centers-ai-crypto-could-double-by-2026.md",
+      "title": "Electricity Demand for Data Centers, AI, Crypto Could Double by 2026",
+      "excerpt": "Renewable energy sources are currently growing at a faster rate than electricity demand, but AI and its power needs show no sign of slowing down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/electricity-demand-for-data-centers-ai-crypto-could-double-by-2026",
+      "originalUrl": "https://www.pcmag.com/news/electricity-demand-for-data-centers-ai-crypto-could-double-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/05HEAalEa1BJzsVpKs4LQMQ-1.fit_lim.size_1200x630.v1706118585.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T21:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-will-ai-take-our-jobs.md",
+      "title": "Will AI Take Our Jobs?",
+      "excerpt": "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 852,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "publishedDateTime": "2024-01-24T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
+      "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
+      "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "publishedDateTime": "2024-01-24T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Deep Learning for Natural Language Processing"
-excerpt: "Although this strategy completely ignores the order in which words occur in a sentence, it has been repeatedly shown to be a good solution for many practical natural language processing applications that are driven by text classification. Nevertheless ..."
+excerpt: "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ..."
 publishedDateTime: 2024-02-01T01:14:00Z
-originalUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/recurrent-neural-networks/06F9A80E29BDC6DEF9565A050447B0D8"
-webUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/recurrent-neural-networks/06F9A80E29BDC6DEF9565A050447B0D8"
+originalUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA"
+webUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA"
 type: article
-quality: 56
-heat: 66
-published: false
 
 provider:
   name: Cambridge University Press
@@ -25,22 +22,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Music-Learning Via Machine-Learning: Ultimate Guitar Launches Practice Mode"
-    excerpt: "Ultimate Guitar launches Practice Mode: a new iOS app feature that supports guitar learners by listening to practice sessions and provi"
-    publishedDateTime: 2024-01-31T21:26:00Z
-    webUrl: "https://menafn.com/1107793674/Music-Learning-Via-Machine-Learning-Ultimate-Guitar-Launches-Practice-Mode"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?674635"
-        width: 430
-        height: 250
-        isCached: true
-
-secured: "NX/FI/XLXiYVpNcIz/Y896xyToM1L33RDRTc3YNVkwYVcOhuQ5FzFcipjjYNRFneE43k01KbA6Q2mrxgnGGf78gSktBfFb8RzQLd1zRa/rO+e1R8yilUYIs7wwWY0+FVLrA/Vgj7PdCwQUWW9V+vXh9VqkhacOc/YvdnqDse9uMLM2dPW2sP63HXGTPJRE7Gr1dxyW7AKbHpbysA+9jKu3WT3592J5nRtvszN3nENQB0Q2Kh7epWdlCuMf8VtFzFRbxnuJvzOJoj6hkD/CKm5klNSsAB2hFfUmBIgJRT00m16F+/nKcyKEgULxHQFlF1cNhd+8AcH1gXawFsUloQIlsZ5Vi3lCeMZ3EV8k3As/o=;TeW/C2HMBWI9AXnqquCYqg=="
+secured: "hJPaou6kGvy5Unpbu+f/JWeBmmTTCzn5rfYYHJ1qoplHcG5I1yZdzOqD7Uwf2oCtsk6OM/myKgkR6a5m3EzGE5WRcUGxcKJFMoJiz/LOG+JSkaOgysU8qxHaoIO5DxMxT3uZUMemiuHDyB/SxDR+VJvK2DnWD9tevxM8CkUpE8a/U2NpWRRldzD0pbPqkVBh9CCYF0vpi8DEQo9xtPFsauptdcJynyM6L4a6aSFaKklL9W0Uh6v4bA63UPb5lb9CmJZ8SlNfyoXy3v8QYk9rr28xOcJnyuLkV9J80G7Sks0TeINhS4K6d12EGsdfd/KGZqhwjkT2L0+I/31acZQy0OLsurNYWxzDYWRD63ZSPoE=;jRHLpbLj3VmcaGXRr4bwWA=="
 ---
 

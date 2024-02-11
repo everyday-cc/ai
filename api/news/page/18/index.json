@@ -2,191 +2,19 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup.md",
-      "title": "Google DeepMind scientists in talks to leave and form AI startup",
-      "excerpt": "A pair of scientists at Google DeepMind, the Alphabet Inc. artificial intelligence division, have been talking with investors about forming an AI startup in Paris, according to people familiar with the conversations.",
+      "path": "_news/2024-01-24-ai-startups-margin-profile-could-ding-their-long-term-worth.md",
+      "title": "AI startups’ margin profile could ding their long-term worth",
+      "excerpt": "The fact that Anthropic, a leading AI startup that has raised billions of dollars, reportedly had gross margins of 50% to 55% last December, underscores the costs of building and running modern AI models, and hints that AI-focused startups have a different ...",
       "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
+      "webUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "originalUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/tech/img/2024/01/20/1600x900/Google_DeepMind_1705723313498_1705723313715.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-71705688018393.html",
-      "publishedDateTime": "2024-01-20T15:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does.md",
-      "title": "History Suggests the Nasdaq Will Surge in 2024: My Top 7 Artificial Intelligence (AI) Growth Stocks to Buy Before It Does",
-      "excerpt": "Detailed price information for Compass Inc Cl A (COMP-N) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/COMP-N/pressreleases/23482304/history-suggests-the-nasdaq-will-surge-in-2024-my-top-7-artificial-intelligence-ai-growth-stocks-to-buy-before-it-does/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/5a2f12308459f594ac354dba874464fc/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f761668%252fa-robotic-hand-interacting-with-a-visual-ai-touchscreen-display.jpg%26amp%3Bw%3D700",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-david-lammys-speech-disrupted-by-pro-palestinian-protesters.md",
-      "title": "David Lammy’s speech disrupted by pro-Palestinian protesters",
-      "excerpt": "David Lammy’s speech calling for a ceasefire in Gaza was disrupted by pro-Palestinian protesters. Labour’s shadow foreign secretary was addressing the Fabian Society conference on Saturday when flag-waving demonstrators mounted the stage shouting: “When will you condemn the genocide?",
-      "sourceUrl": null,
-      "webUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
-      "originalUrl": "https://www.ealingtimes.co.uk/news/national/24063575.david-lammys-speech-disrupted-pro-palestinian-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ealingtimes.co.uk/resources/images/17666148/?type=og-image",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ealing Times",
-        "domain": "ealingtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-love-machina-review-provocative-but-unfocused-doc-tackles-romance-and-robotics.md",
-      "title": "‘Love Machina’ Review: Provocative but Unfocused Doc Tackles Romance and Robotics",
-      "excerpt": "One of the great pleasures of reviewing documentaries, though, is that every few months a new film will pull back the curtain on the latest advancement in artificial intelligence or consciousness-infused robotics. Fairly consistently, the answer is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "originalUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/LoveMachina-Still1-copy.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/movies/movie-reviews/love-machina-review-1235793754/amp/",
-      "publishedDateTime": "2024-01-20T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-deepmind-scientists-said-to-be-in-talks-to-leave-and-form-ai-startup.md",
-      "title": "Google DeepMind Scientists Said to Be in Talks to Leave and Form AI Startup",
-      "excerpt": "DeepMind scientists have held discussions with potential investors about a financing round that may exceed EUR 200 million (roughly Rs. 1,800 crore).",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
-      "originalUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/google_deutsche_bank_cloud_deal_reuters_1594109955741.jpg",
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/puzzle-ai-triptych-01.jpg?resize=1200,675",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -196,52 +24,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-deepmind-scientists-leave-ai-startup-alphabet-4899836/amp",
-      "publishedDateTime": "2024-01-20T14:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-this-week-in-ai-openai-finds-a-partner-in-higher-ed.md",
-      "title": "This Week in AI: OpenAI finds a partner in higher ed",
-      "excerpt": "OpenAI and crowdsourcing: In other OpenAI news, the startup is forming a new team, Collective Alignment, to implement ideas from the public about how to ensure its future AI models “align to the values of humanity.” At the same time, it’s changing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
-      "originalUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/openai-flower.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/20/this-week-in-ai-openai-finds-a-partner-in-higher-ed/amp/",
-      "publishedDateTime": "2024-01-20T14:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:16:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -264,26 +49,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2024-01-20-musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.md",
-      "title": "Musk denies report his AI company secures $500 million toward $1 billion funding goal",
-      "excerpt": "Elon Musk has said a report that his artificial intelligence (AI) company, xAI, has secured $500 million in commitments from investors toward a $1 billion goal is inaccurate. “This is simply not accurate,” he said in a reply to a user post about the Bloomberg article on social media platform X.",
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107271046-1689253889759-gettyimages-1529571780-arriens-elonmusk230713_npTNn.jpeg?v=1689375858",
-          "width": 7008,
-          "height": 4672,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -291,9 +75,750 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/20/musk-denies-report-his-ai-company-secures-500-million-toward-1-billion-funding-goal.html",
-      "publishedDateTime": "2024-01-20T13:46:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
+      "title": "Procurement transformation: Why excellence matters",
+      "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T16:27:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-delaware-lawmakers-seek-rules-for-artificial-intelligence.md",
+      "title": "Delaware lawmakers seek rules for artificial intelligence",
+      "excerpt": "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "originalUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thecentersquare.com/content/tncms/assets/v3/editorial/0/41/04126c30-ba11-11ee-8d3e-371c2e512477/65aff0f824b16.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "cdnAmpWebUrl": "https://www-thecentersquare-com.cdn.ampproject.org/c/s/www.thecentersquare.com/delaware/article_cd2c5f14-ba10-11ee-bef8-4798b797940e.amp.html",
+      "publishedDateTime": "2024-01-23T15:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Center Square",
+        "domain": "thecentersquare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-i-love-the-samsung-galaxy-s24-ultra-but-galaxy-ai-isnt-ready.md",
+      "title": "I love the Samsung Galaxy S24 Ultra, but Galaxy AI isn’t ready",
+      "excerpt": "The Samsung Galaxy S24 Ultra is an XL-sized Android phone that looks to differentiate with AI tricks that don’t always feel ready for prime time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/samsung-galaxy-s24-ultra-cnnu-005.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/samsung-galaxy-s24-ultra",
+      "publishedDateTime": "2024-01-23T15:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-ai-hardware-and-fintech-collide-at-ces-2024-in-vegas.md",
+      "title": "AI, Hardware And Fintech Collide At CES 2024 In Vegas",
+      "excerpt": "Typically, Fortune 500 companies inundate the CES show floor with iterative improvements on devices related to mobility and entertainment, like autonomous driving",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
+      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8ee8b32050e9dda482dd4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1362,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/01/23/ai-hardware-and-fintech-collide-at-ces-2024-in-vegas/amp/",
+      "publishedDateTime": "2024-01-23T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-alphabet-cuts-ties-with-australian-ai-firm-that-helped-train-bard-and-google-search.md",
+      "title": "Alphabet cuts ties with Australian AI firm that helped train Bard and Google Search",
+      "excerpt": "Alphabet has ended its contractual work with Appen, the artificial intelligence data firm that helped train Google's chatbot Bard and Google Search results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107326094-1698759254928-gettyimages-1754139783-776055941.jpeg?v=1706026742",
+          "width": 5246,
+          "height": 3497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/alphabet-ends-contract-with-appen-which-trained-bard-google-search.html",
+      "publishedDateTime": "2024-01-23T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-chrome-is-getting-3-new-generative-ai-features.md",
+      "title": "Chrome is getting 3 new generative AI features",
+      "excerpt": "Three experimental generative AI features are coming to Chrome on Macs and Windows PCs to make browsing easier and more personalized.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "originalUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Gen_AI_Tier_1_Blog_Header_1.width-1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/amp/",
+      "publishedDateTime": "2024-01-23T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-why-every-modern-leader-is-now-a-chief-ai-officer.md",
+      "title": "Why Every Modern Leader Is Now A Chief AI Officer",
+      "excerpt": "Responsibility for AI cannot be relegated to one person or department. Modern leaders must embrace AI as a core competency. All leaders should be 'Chief AI Officers'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65afd06fad5ec9e8dbbbc41c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/01/23/why-every-modern-leader-is-now-a-chief-ai-officer/amp/",
+      "publishedDateTime": "2024-01-23T14:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-agritech-startup-raises-39m-for-autonomous-farming-platform.md",
+      "title": "AgriTech Startup Raises $39M For Autonomous Farming Platform",
+      "excerpt": "An agritech startup has raised $39 million for its autonomous tractor and farming solution, which reduces the cost of crop production",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
+      "originalUrl": "https://nocamels.com/2024/01/agritech-startup-raises-39m-for-autonomous-farming-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nocamels.com/wp-content/uploads/2021/10/tractor1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
+      "title": "This Chinese Startup Is Winning the Open Source AI Race",
+      "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-financial-institutions-considering-which-type-of-ai-to-use.md",
+      "title": "Financial Institutions: Considering Which Type Of AI To Use",
+      "excerpt": "Financial institutions need to understand the key differences between these types of solutions to partner with the right providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae985ef0bc9604a2bf128b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1326,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/financial-institutions-considering-which-type-of-ai-to-use/amp/",
+      "publishedDateTime": "2024-01-23T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-opportunities-ahead-on-the-road-to-responsible-ai.md",
+      "title": "Opportunities Ahead On The Road To Responsible AI",
+      "excerpt": "Demand for expertise in budding fields, such as AI ethics and prompt engineering, will likely rise as the regulatory and legal groundwork to support responsible AI evolves. These important points reflect a vision for a future of innovation with net ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f038ad797a5ee00069255fd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/23/opportunities-ahead-on-the-road-to-responsible-ai/amp/",
+      "publishedDateTime": "2024-01-23T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-eve-the-robot-can-cook-clean-and-guard-your-home.md",
+      "title": "Eve the robot can cook, clean and guard your home",
+      "excerpt": "Kurt “CyberGuy\" Knutsson introduces you to EVE, a smart and versatile humanoid robot that uses a modified version of AI and Chat GPT-4 to handle a variety of tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "originalUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed7f3ed3-7b32-4095-b15c-1b79086a972d/cf9675d4-15da-4a5b-ae91-590bbce4449c/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/eve-the-robot-can-cook-clean-and-guard-your-home.amp",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-want-to-improve-rewire-your-brains-neural-pathways.md",
+      "title": "Want To Improve? Rewire Your Brain's Neural Pathways",
+      "excerpt": "Will your brain adjust just because it has the capability and capacity to do so? Not necessarily. You have to want to change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ae8254d725061c1c6886e2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2024/01/23/want-to-improve-rewire-your-brains-neural-pathways/amp/",
+      "publishedDateTime": "2024-01-23T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-hyundai-motor-in-artificial-intelligence-theme-innovation-strategy.md",
+      "title": "Hyundai Motor in artificial intelligence: theme innovation strategy",
+      "excerpt": "How many patents did Hyundai Motor submit related to artificial intelligence last quarter, and how many were granted? Discover the latest information here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
+      "originalUrl": "https://www.just-auto.com/data-insights/hyundai-motor-in-artificial-intelligence-theme-innovation-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2021/04/report-desktop.png",
+          "width": 388,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T10:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-softbank-leads-travelperks-104-million-fundraising-in-a-bet-that-ai-will-reshape-corporate-travel.md",
+      "title": "SoftBank leads TravelPerk's $104 million fundraising, in a bet that AI will reshape corporate travel",
+      "excerpt": "Barcelona-based corporate travel startup TravelPerk said Tuesday it raised $104 million in a new equity round led by SoftBank's Vision Fund 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106875152-1619622957732-Avi_.jpg?v=1619623037",
+          "width": 4800,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/23/softbank-leads-104-million-investment-in-travel-startup-travelperk.html",
+      "publishedDateTime": "2024-01-23T10:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "CNBC",
@@ -320,21 +845,21 @@
       ]
     },
     {
-      "path": "_news/2024-01-20-two-google-deepmind-scientists-may-leave-company-to-form-ai-startup.md",
-      "title": "Two Google DeepMind scientists may leave company to form AI startup",
-      "excerpt": "Two scientists affiliated with Google DeepMind are reportedly in talks to establish an AI startup in Paris. The proposed venture aims to develop a new AI model. Learn more about this significant development in the AI landscape.",
+      "path": "_news/2024-01-23-is-facial-recognition-a-useful-public-safety-tool-or-something-sinister.md",
+      "title": "Is Facial Recognition a Useful Public Safety Tool or Something Sinister?",
+      "excerpt": "In August 2023, the Chinese government issued draft regulations that aim to limit the private use of facial recognition technologies; the rules impose no such restrictions on its use for \"national security\" concerns.",
       "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/articleshow/107013476.cms",
+      "webUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
+      "originalUrl": "https://www.aol.com/news/facial-recognition-useful-public-safety-110028728.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://static.toiimg.com/thumb/msid-107013470,width-1280,height-720,resizemode-4/107013470.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://media.zenfs.com/en/aol_reason_com_448/751a000b23c47dfed65fe9d2063224c4",
+          "width": 1161,
+          "height": 653,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -342,13 +867,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/two-google-deepmind-scientists-may-leave-company-to-form-ai-startup/amp_articleshow/107013476.cms",
-      "publishedDateTime": "2024-01-20T12:07:00Z",
+      "ampWebUrl": "https://www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/facial-recognition-useful-public-safety-110028728.html",
+      "publishedDateTime": "2024-01-23T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -358,26 +883,26 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-20-2024-prediction-why-ibm-is-the-ai-stock-to-buy-and-hold-for-magnificent-growth.md",
-      "title": "2024 Prediction: Why IBM Is the AI Stock to Buy and Hold for Magnificent Growth",
-      "excerpt": "While market darlings have grabbed headlines with soaring valuations, IBM has quietly built a formidable AI arsenal, from the versatile Watson AI platform to the innovative Watsonx system tailored ...",
+      "path": "_news/2024-01-23-when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes.md",
+      "title": "When One Man Used Computer Vision To Reassemble Shredded Bank Notes",
+      "excerpt": "Clearly manual re-assembly is a challenging task. But now Chung Kong, a PhD student at Hong Kong University, has shown that computer vision can help reassemble shredded notes at least partially. Kong became intrigued after noticing that the Hong Kong ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/20/why-ibm-is-the-ai-stock-to-buy-for-2024/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/20/why-ibm-is-the-ai-stock-to-buy-for-2024/",
+      "webUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
+      "originalUrl": "https://www.discovermagazine.com/technology/when-one-man-used-computer-vision-to-reassemble-shredded-bank-notes",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/761702/human-and-robot-shaking-hands.jpg",
-          "width": 2246,
-          "height": 1334,
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/7i570QQ4vqddhILtr7pm8w/359aedccf5cd48c71d78e57e1a2a0254/paper-shredding-currency.jpg",
+          "width": 1000,
+          "height": 660,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -387,21 +912,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T11:41:00Z",
+      "publishedDateTime": "2024-01-23T10:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -410,25 +926,69 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
-      "path": "_news/2024-01-20-your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt.md",
-      "title": "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT",
-      "excerpt": "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI.",
+      "path": "_news/2024-01-23-why-does-ai-being-good-at-math-matter.md",
+      "title": "Why does AI being good at math matter?",
+      "excerpt": "AI systems that can solve complex math could allow us to build more powerful AI tools.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
+      "webUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
+      "originalUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/01/240122_AImath.jpg?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/01/23/1086944/why-does-ai-being-good-at-math-matter/amp/",
+      "publishedDateTime": "2024-01-23T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai.md",
+      "title": "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI",
+      "excerpt": "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -439,7 +999,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T10:30:00Z",
+      "publishedDateTime": "2024-01-23T08:39:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -462,259 +1022,16 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-artificial-intelligence-in-personalized-cancer-medicine-new-therapies-require-flexible-and-safe-approval-conditions.md",
-      "title": "Artificial intelligence in personalized cancer medicine: New therapies require flexible and safe approval conditions",
-      "excerpt": "Personalized therapies could improve the treatment of many diseases in the future. Cancer medicine in particular has made significant progress in recent years. Applications of artificial intelligence (AI) will allow to adapt personalised therapies in an even more targeted manner.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news827773",
-      "originalUrl": "https://idw-online.de/de/news827773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T09:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-20-msi-prestige-16-ai-evo-review-it-brings-the-heat.md",
-      "title": "MSI Prestige 16 AI Evo Review: It Brings The Heat",
-      "excerpt": "The review unit I was sent has 32GB of DDR5 memory and a 1TB SSD for storage. Configurations of the Prestige 16 AI Evo start at $1,399, including builds that feature a QHD+ display or NVIDIA GeForce RTX 4070 instead of the OLED display and Intel Arc GPU I ...",
+      "path": "_news/2024-01-23-aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering.md",
+      "title": "AWS rival Wasabi acquires Curio AI to add intelligence to its unlimited cloud storage offering",
+      "excerpt": "Boston-based Wasabi Technologies, a data storage startup taking on the likes of AWS, GCP and other cloud vendors, today announced it has acquired machine learning platform Curio AI from GrayMeta ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a6ede53b814e09e85f0897/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/article/msi-prestige-16-ai-evo-laptop-review/amp/",
-      "publishedDateTime": "2024-01-20T08:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change.md",
-      "title": "How AI-generated digital twins are speeding up the race to beat climate change",
-      "excerpt": "Climactic cofounder Raj Kapoor and Vibrant Planet VP Dr. Chelsey Walden-Schreiner discuss the intersectionality of AI and climate tech.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
-      "originalUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/Images/posterImage-ver1-1280x720.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/how-ai-generated-digital-twins-are-speeding-up-the-race-to-beat-climate-change/52a45e1f-7509-4b1e-b6d3-1a03bc019afe/amp",
-      "publishedDateTime": "2024-01-20T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-plans-to-bring-ai-image-generator-to-bard.md",
-      "title": "Google plans to bring AI image generator to Bard",
-      "excerpt": "New Delhi: Is reportedly planning to add its own image generator directly to its AI chatbot Bard. As shared by developer Dylan Roussel on X, an unpublished Google Bard changelog -showed how you can “Create images with Bard”, reports 9to5Google.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2024/01/11/1413752-google.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/google-plans-to-bring-ai-image-generator-to-bard-852595",
-      "publishedDateTime": "2024-01-20T04:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-deepmind-co-founder-ai-is-fundamentally-a-labor-replacing-tool.md",
-      "title": "DeepMind Co-Founder: AI Is Fundamentally a \"Labor Replacing Tool\"",
-      "excerpt": "Mustafa Suleyman recently said the quiet part out loud when he admitted that AI is designed to steal jobs from humans.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
-      "originalUrl": "https://gizmodo.com/deepmind-founder-ai-davos-mustafa-suleyman-openai-jobs-1851176340",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7f9f5c4175d40dbf8befd5716ec87baf.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-mark-zuckerberg-announces-new-open-source-agi-under-development.md",
-      "title": "Mark Zuckerberg announces new open source AGI under development",
-      "excerpt": "To achieve this, Meta, the parent company of Facebook, is investing heavily ... AGI represents a frontier in AI research, blending the power of machine learning with the adaptability of human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
-      "originalUrl": "https://www.geeky-gadgets.com/open-source-artificial-general-intelligence-agi/",
+      "webUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -724,12 +1041,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "publishedDateTime": "2024-01-23T07:19:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -738,26 +1064,26 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2024-01-20-when-states-try-to-take-away-americans-freedom-of-thought.md",
-      "title": "When States Try to Take Away Americans’ Freedom of Thought",
-      "excerpt": "He refused to do so, calling the requirement “McCarthyist” and an affront to his free-speech rights ... demonstrate “an ongoing awareness and recognition of racial, social and cultural ...",
+      "path": "_news/2024-01-23-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses.md",
+      "title": "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses",
+      "excerpt": "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/20/opinion/campus-free-speech.html",
+      "webUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
+      "originalUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2024/01/20/opinion/20statespeech/20statespeech-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -767,21 +1093,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T00:01:00Z",
+      "publishedDateTime": "2024-01-23T07:13:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -795,21 +1112,64 @@
       ]
     },
     {
-      "path": "_news/2024-01-20-patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association.md",
-      "title": "Patent Issued for Financial autopilot (USPTO 11861694): United Services Automobile Association",
-      "excerpt": "United Services Automobile Association has been issued patent number 11861694, according to news reporting originating out of Alexandria, Virginia, by NewsRx editors. The patent’ s inventors are Hendry,",
+      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
+      "title": "3 ways you can help your student navigate artificial intelligence",
+      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
       "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-financial-autopilot-uspto-11861694-united-services-automobile-association",
+      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T07:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
+      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
+      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
+      "sourceUrl": null,
+      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
+      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2022/02/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
+          "width": 576,
+          "height": 818,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -819,11 +1179,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T22:52:00Z",
+      "publishedDateTime": "2024-01-23T06:36:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
+        "name": "AlphaGalileo",
+        "domain": "alphagalileo.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -833,315 +1193,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
-      "title": "This AI robot was made to help seniors combat loneliness",
-      "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "originalUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news.md",
-      "title": "Google DeepMind scientists in talks to leave and form AI startup - Bloomberg News",
-      "excerpt": "Scientists Laurent Sifre and Karl Tuyls, who have already given notice to leave DeepMind, have held discussions with investors about a financing round that could raise over 200 million euros ($217 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
-      "originalUrl": "https://www.nasdaq.com/articles/google-deepmind-scientists-in-talks-to-leave-and-form-ai-startup-bloomberg-news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T19:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-how-to-build-a-successful-disaster-recovery-strategy.md",
-      "title": "How to build a successful disaster recovery strategy",
-      "excerpt": "A disaster recovery strategy lays out how your businesses will respond to a number of unplanned incidents.\nThe post How to build a successful disaster recovery strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/disaster-recovery-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/CR-G-265254-Hispanic-technician-examining.blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T18:07:18Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning.md",
-      "title": "Reduce inference time for BERT models using neural architecture search and SageMaker Automated Model Tuning",
-      "excerpt": "In this post, we demonstrate how to use neural architecture search (NAS) based structural pruning to compress a fine-tuned BERT model to improve model performance and reduce inference times. Pre-trained language models (PLMs) are undergoing rapid commercial and enterprise adoption in the areas of productivity",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-inference-time-for-bert-models-using-neural-architecture-search-and-sagemaker-automated-model-tuning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/11/9-Comparison-Plot-1-803x630.png",
-          "width": 803,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T18:06:10Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-microsoft-releases-free-ai-choose-your-own-adventure-reading-coach.md",
-      "title": "Microsoft Releases Free AI 'Choose Your Own Adventure' Reading Coach",
-      "excerpt": "Microsoft's latest AI is a Reading Coach that creates stories on the fly and helps students read them. The AI will listen to pronunciations and give feedback, among other things.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
-      "originalUrl": "https://www.pcmag.com/news/microsoft-releases-free-ai-choose-your-own-adventure-reading-coach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/06W5QjfmcYhWBRDFYlJUOuy-1.fit_lim.size_1200x630.v1705685391.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-exploring-the-hyper-competitive-future-of-customer-experience.md",
-      "title": "Exploring the hyper-competitive future of customer experience",
-      "excerpt": "The future of customer experience demands more data, more technology and more personalized efforts to retain customer loyalty.\nThe post Exploring the hyper-competitive future of customer experience appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "originalUrl": "https://www.ibm.com/blog/customer-experience-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:26:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-apple-vision-pro-sold-out-at-least-for-pre-order.md",
-      "title": "Apple Vision Pro Sold Out, At Least For Pre-Order",
-      "excerpt": "Trying to score a pre-order for a $3,500 face computer? Good luck: Apple appears to be out of stock of Apple Vision Pro headsets, at least for the moment, in every city and state. Every geographic region I’ve tried around the United States has the same ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2024/01/19/apple-vision-pro-sold-out-at-least-for-pre-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "Meta AI",
         "AI"
       ]
     }
