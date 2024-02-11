@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Comedian And A Generative AI Tool Walk Into A Bar"
+    excerpt: "At this year's 7x7 event pairing artists and technologists, comic Ana Fabrega teamed with Runway CEO Cristóbal Valenzuela to see what happens when AI and humor collide."
+    publishedDateTime: 2024-02-10T19:04:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2024/02/10/a-comedian-and-a-neural-network-walk-into-a-bar/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65c2d754532637ef98b2ee64/0x0.jpg?format=jpg&crop=1448,815,x0,y13,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Exploring Code Llama 70B: Meta’s Initiative to Make AI-Assisted Programming More Accessible"
     excerpt: "Discover how Meta's Code Llama 70B, the latest open-source foundational model, is revolutionizing AI-assisted programming, making sophisticated code generation more accessible. Explore its key features,"
     publishedDateTime: 2024-02-09T17:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/build-ai-apps/"
 webUrl: "https://www.geeky-gadgets.com/build-ai-apps/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Officials to gather for AI and civil rights talk"
-    excerpt: "A major civil rights coalition will bring together congressional, regulatory and industry leaders Tuesday in D.C. to brainstorm how to tackle AI regulation and civil rights."
-    publishedDateTime: 2024-02-08T20:32:00Z
-    webUrl: "https://www.axios.com/pro/tech-policy/2024/02/08/officials-to-gather-for-ai-and-civil-rights-talk"
+  - title: "6 AI Apps For Android That Are Actually Useful"
+    excerpt: "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities."
+    publishedDateTime: 2024-02-11T12:44:00Z
+    webUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 19
+      name: SlashGear
+      domain: slashgear.com
+    quality: 69
+    images:
+      - url: "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "/ODz4oi0iwWi9MTH0cMzolQ7V12D/D8DLygE5OfluRIrNzQPpkqklrHaczpMUoqInhrJ5zNkSAgbceuLkF571OJczAxiSCK821L29IB40jPDhgwXiVYheOj6VgcRSrnRV4GARrCBwbvA8IiyYFlc+plm/NFww2/pV5R1Hpi4yYEDtO7kQ2wq1NwAaB7iH5bAAB1ONHYYj5Lke9jc4tdLWCqCMyrGNTYxTZykg/x7KPUTh7P33BXXDUwGYE4e09y1Xjq//42B82RiFCNJCco/IssLmX7buSRega67l8DSZhZQE4auMxOH1zmWagfqxvW+ITTyHyunYakwiAg3N1awKeeBfrkwbuMPQP5+HAQulkg=;2jAam5sCRH5zFJRmO4CYug=="
 ---

@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Bell, Mila to embark on joint deep learning AI initiative"
-excerpt: "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell’s systems and data."
-publishedDateTime: 2024-02-06T21:42:00Z
-originalUrl: "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203"
-webUrl: "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203"
-ampWebUrl: "https://www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1"
-cdnAmpWebUrl: "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/127203?amp=1"
+excerpt: "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data."
+publishedDateTime: 2024-02-07T00:32:00Z
+originalUrl: "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224"
+webUrl: "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224"
+ampWebUrl: "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1"
+cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1"
 type: article
 quality: 74
 heat: 74
 published: true
 
 provider:
-  name: IT Business
-  domain: itbusiness.ca
+  name: IT World Canada
+  domain: itworldcanada.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://i.itbusiness.ca/wp-content/uploads/2024/02/GettyImages-1160013652.jpg"
+  - url: "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg"
     width: 788
     height: 443
     isCached: true
 
-secured: "27uP28RcZrMYRm/s0KWw1JpKFXTkpsEax8WaUtq2mmv9Linl2FkRWtr4R8ANNkd5QkWkFNGvGFYb57HD2x+pQiHsbgCJqnTPeY5caml14xfRoRo7TdJNDaExxvz2M9ocVkAqsoUl5otY4k81Rclh95htsYzfh9u0o+UqdWR4iaFBz5NjNbz3nEo4itwchxiEafqhR+KTqwCZ6cZ81l1RK5rECAzWEg5zDqzxhSts3qoJLeRKEcAtOrFgWpRSyF7Wj2Jc+MUbVjtc9rXQdStyE15guZ7TW/2UpgffnkjgXXmwRISLs9Uzzno32v6cszv+5QSabNn+4fNNsFnFDWQmLs2/9nnQLbOkRSRHghxODy4=;HErrryF79v2Amd32BpPMnw=="
+secured: "qttsQX24ntYXlqP2Xt/2RtpPJYYS3bMRczQ6s5kwGPmp08PTMJW6Unjj0vKTgF8jeMuY3E8U3rcrdEN64PyPv4jpwwU8g0RxQVJeFpkZiDNrm4TYf+Uk5gQdq9R0UzuB4NhA25/QxCJw4WtawX7ogOe8STgfIUDSutZ9Q/WW+XLR7HygeXcBKqhpyH8PM8t9xAUyVM0Qtpd0lDT2PDuJB8mFl/nhmFSbpDdsAs37psi94GBPyePJ5d8/Ah8xoLTODOc/RAlhsOmRlRZ+mpabINr9UiYhIasfv46L07Vy0Wl2RfCW1GunSKRFDKHDBYlem3OaTf/jOVy329qyAZ92yWs9pxz7uiXbJti7P59xLfo=;9E+8sa+sTLTUCJsnIky8jg=="
 ---
 

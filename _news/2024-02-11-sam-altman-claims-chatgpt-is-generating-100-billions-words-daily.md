@@ -28,73 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others"
-    excerpt: "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications."
-    publishedDateTime: 2024-02-09T18:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/"
+  - title: "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor"
+    excerpt: "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy."
+    publishedDateTime: 2024-02-11T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 81
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sam_altman_jan_2024_5-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Sam Altman wants to raise trillions of dollars for AI chip initiative"
-    excerpt: "After disrupting the AI industry by launching ChatGPT, OpenAI’s Chief Executive Officer, Sam Altman, is now looking to reimagine the global semiconductor industry."
-    publishedDateTime: 2024-02-09T08:13:00Z
-    webUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/11/sam_altman-100948715-large.jpg?auto=webp&quality=85,70"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65c87fa658002bd23078ce45/0x0.jpg?format=jpg&crop=2041,1531,x92,y0,safe&height=900&width=1600&fit=bounds"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
-  - title: "Sam Altman wants up to $7 trillion for AI chips. The natural resources required would be ‘mind boggling’"
-    excerpt: "Yesterday the Wall Street Journal reported that OpenAI CEO Sam Altman wants to raise up to $7 trillion for a “wildly-ambitious” tech project to boost the world’s chip capacity, funded by investors including the U.A.E. — which in turn will vastly ..."
-    publishedDateTime: 2024-02-09T11:21:00Z
-    webUrl: "https://venturebeat.com/ai/sam-altman-wants-up-to-7-trillion-for-ai-chips-the-natural-resources-required-would-be-mind-boggling/"
+  - title: "Even ChatGPT Says ChatGPT Is Racially Biased"
+    excerpt: "When asked, ChatGPT declared that its training material—the language we humans use every day—was to blame for potential bias in stories it generated"
+    publishedDateTime: 2024-02-07T13:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/even-chatgpt-says-chatgpt-is-racially-biased/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-13.52.42-An-imaginative-landscape-featuring-rare-earth-minerals-and-water-symbolizing-the-manufacturing-of-AI-chips-in-a-16_9-aspect-ratio.-The-scene-include.webp?w=1200&strip=all"
+      - url: "https://static.scientificamerican.com/sciam/cache/file/13BDED0B-EF1B-44F1-97CF1C152C4BA7AB_source.jpg?w=1200"
         width: 1200
-        height: 685
+        height: 1457
         isCached: true
-  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
-    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
-    publishedDateTime: 2024-02-11T07:43:00Z
-    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "OpenAI reportedly seeking trillions for AI chip development"
-    excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
-    publishedDateTime: 2024-02-09T09:27:00Z
-    webUrl: "https://cointelegraph.com/news/openai-seeking-trillions-ai-chip-development"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "cgT/aXhm8zHJEjdpJdeLz9oh4yW1WYx5mwwPhBm0OP/DqTYEDCKPWbogCzDVNvAAkaq0zQnOV1jPsKS9l9aS/baZPqIF07UmGZmH67nOAZAlrleaR5qz2+coLOaNvzfAeaoj+hwgJhzXRL5e1rXENE4GDcsLZD/EC/nEv8NA+DJQ+7bOq92LfH/z6/W78dIw7FnrF8uNd0wsqry1DWVX2BewaT0pI7hu2gVvOCTdUdTexAUjVyTLvee6vquxiFQseNNMjRmFVKz3X+p0mJRFtmiIDx0FLiZMjSIqGg1Th9nRo6JFe95tK3Zp/5zCn/63/m3NPjTJV6WvxV+D3A+zJgCfmnbC2WOGzfP7tnrlWZQ=;E1DSSjFO7dEpap5dnGLT9A=="
 ---

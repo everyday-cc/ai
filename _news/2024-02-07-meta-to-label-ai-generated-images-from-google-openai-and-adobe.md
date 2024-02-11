@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3712821/meta-to-label-ai-gener
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computerworld
@@ -27,65 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to expand labelling of AI-generated imagery in election packed year"
-    excerpt: "Meta is expanding the labelling of AI-generated imagery on its social media platforms, Facebook, Instagram and Threads ... “For example, Meta’s AI Research lab FAIR recently shared research on an invisible watermarking technology we’re developing ..."
-    publishedDateTime: 2024-02-06T13:01:00Z
-    webUrl: "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/"
-    ampWebUrl: "https://techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/meta-ai-generated-image-labelling/amp/"
+  - title: "Apple’s AI startup shopping spree outpaces Google and Meta"
+    excerpt: "Some of Apple’s notable AI startup purchases over the past few years include Voysis, WaveOne, Emotient, Laserlike and more. Voysis, acquired in 2020, specialised in voice assistants that can understand natural language. This technology likely helped advance Apple’s own Siri virtual assistant."
+    publishedDateTime: 2024-02-11T10:09:00Z
+    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/"
+    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 88
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1368412925.jpg?resize=1200,789"
-        width: 1200
-        height: 789
-        isCached: true
-  - title: "Instagram, Threads, and Facebook will start labeling AI-generated content"
-    excerpt: "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI."
-    publishedDateTime: 2024-02-06T17:04:00Z
-    webUrl: "https://www.androidauthority.com/p-3411262/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 66
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Labeling AI-Generated Images on Facebook, Instagram and Threads"
-    excerpt: "In the coming months, we will label images that users post to Facebook, Instagram and Threads when we can detect industry standard indicators that they are AI-generated. We’ve labeled photorealistic images created using Meta AI since it launched so that people know they are “Imagined with AI”."
-    publishedDateTime: 2024-02-06T13:01:00Z
-    webUrl: "https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/"
-    ampWebUrl: "https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/amp/"
-    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/amp/"
-    type: article
-    provider:
-      name: about.fb
-      domain: fb.com
-    quality: 59
-    images:
-      - url: "https://about.fb.com/wp-content/uploads/2024/02/Labeling-AI-Generated-Images_AI-Transparency_Header.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
-    excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-    publishedDateTime: 2024-02-06T13:19:00Z
-    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 51
-    images:
-      - url: "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536"
+      - url: "https://images.indianexpress.com/2024/02/apple-logo.jpg"
         width: 1600
         height: 900
         isCached: true
@@ -102,34 +56,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/08/olloweb-solutions-520914-unsplash.jpg"
         width: 4288
         height: 2848
-        isCached: true
-  - title: "Meta working on technology to detect AI images ahead of the 2024 elections"
-    excerpt: "Meta says that it is working on technology that can detect generative AI-manipulated images from other platforms ahead of the 2024 elections."
-    publishedDateTime: 2024-02-06T15:12:00Z
-    webUrl: "https://www.aol.com/finance/meta-working-technology-detect-ai-130015629.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 37
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/NnfeTKpDOTmh6ksAxgfMJA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/92c7c2850aa5d6d4512be371ac4dd31a"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
-    excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."
-    publishedDateTime: 2024-02-10T14:09:00Z
-    webUrl: "https://techreport.com/news/meta-to-start-labeling-ai-generated-images-on-facebook-instagram-and-other-platforms/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 31
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/Meta-AI-Image-labelling.jpg?_t=1707574259"
-        width: 1510
-        height: 876
         isCached: true
 
 secured: "hutHSP5lq3Kgr6scog4kfhKeZ83UpOaQoHrf4acwQ34847TPe1evRyZ62FsF3Kd9Vk0nY+nrWuD6FxI0PpHBJvUCfmiIQYG9Ip3VdBkBpfsT2uU0Wu6DMnohNVn4Wayw0gXOWwjRntegomh6QPHl9VU4QmcikNhr1vcCn1rCeT6CYu+gy81nKryEVzDCBVJ4gmj0EpWKS6BQjx2LcnknHAp0Vl9fjwxCce14NznDxj6p6CiTkkcvHxSUUhfLwpJou5dm/19wcSoZysy50Rl8rjAkXtQ0GBROgND/wGNaYHVgdIx6GGmRDD1410m9UG/r1zxSMLhtWCPgX47zbWdbGM4Qo5cNvh2iWKcVhHHce2yEzyfaIkRa3Cz0cQWLoX1PnHvljH6n4V5es8fAuCLhIBlDFCImYgREHA2Ew/m4iAF7Sod3a7vORu0OJUrlUxJY+1Ejplx2HqMYjYyyR0SNhylcPrWm/9PLs2b01D0Anv74qWyml+dRxb/GQwnPwq9FHgAE5HZXoa66Dck/eqoZVA==;UUv9cZYLMfoj73PXgT78bw=="

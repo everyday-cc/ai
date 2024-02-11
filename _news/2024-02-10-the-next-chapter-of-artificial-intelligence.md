@@ -70,6 +70,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Releases Gemini, an A.I.-Driven Chatbot and Voice Assistant"
+    excerpt: "As it races to compete with OpenAI’s ChatGPT, Google has retired its Bard chatbot and released a more powerful app."
+    publishedDateTime: 2024-02-08T13:00:00Z
+    webUrl: "https://www.nytimes.com/2024/02/08/technology/google-gemini-ai-app.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2024/02/08/multimedia/08bard-ultra-ztbh/08bard-ultra-ztbh-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Google renames Bard to Gemini, launches paid ‘Gemini Advanced’ with Ultra 1.0"
     excerpt: "Google is rolling out Gemini Ultra 1.0 today. To mark this occasion, Google Bard is being renamed to Gemini on the"
     publishedDateTime: 2024-02-08T13:00:00Z
@@ -126,6 +140,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google’s AI Bard And Duet Become Gemini; $20 Per Month For Gemini Ultra"
+    excerpt: "Google AI Bard is now Gemini as the LLM and GenAI product goes into iOS, Android, Google Cloud and Google Workspace, Google CEO says."
+    publishedDateTime: 2024-02-08T20:28:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-s-ai-bard-and-duet-become-gemini-20-per-month-for-gemini-ultra"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
   - title: "Google Just Killed Bard and Replaced It With Gemini. It's More Than Just a Name Change"
     excerpt: "Today, Google announced that it is renaming Bard, its AI chat experience, to Gemini. You can still visit bard.google.com, but the experience is now called Gemini. But it's more than just a name change. Google is also rolling out a new AI experience, and a new app on Android."
     publishedDateTime: 2024-02-08T13:21:00Z

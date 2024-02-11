@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-09T10:07:00Z
 originalUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-strengthening-digital-defenses/"
 webUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-strengthening-digital-defenses/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/02/Artificial-Intelligence-and-Cybersecurity-Strengthening-Digital-Defenses.jpg"

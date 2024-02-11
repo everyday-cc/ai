@@ -69,6 +69,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google Releases Gemini, an A.I.-Driven Chatbot and Voice Assistant"
+    excerpt: "As it races to compete with OpenAI’s ChatGPT, Google has retired its Bard chatbot and released a more powerful app."
+    publishedDateTime: 2024-02-08T13:00:00Z
+    webUrl: "https://www.nytimes.com/2024/02/08/technology/google-gemini-ai-app.html"
+    type: article
+    provider:
+      name: The New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/images/2024/02/08/multimedia/08bard-ultra-ztbh/08bard-ultra-ztbh-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "The Next Chapter of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI has become the primary driver of the stock market surge in 2023, despite worries and anxieties on Capitol Hill about the technology’s unregulated status. The fear that it will turn us into prey for Terminator-style robots has faded,"
     publishedDateTime: 2024-02-09T19:46:00Z
@@ -139,6 +153,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google’s AI Bard And Duet Become Gemini; $20 Per Month For Gemini Ultra"
+    excerpt: "Google AI Bard is now Gemini as the LLM and GenAI product goes into iOS, Android, Google Cloud and Google Workspace, Google CEO says."
+    publishedDateTime: 2024-02-08T20:28:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-s-ai-bard-and-duet-become-gemini-20-per-month-for-gemini-ultra"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
 
 secured: "595YV1+Q4k8r9OQBFAhKaOMnwcODV7mZLzi2/DzdSVeG8iznYgoR8ySloKcfz4p4u0aSwIKnDuWarGqxp9Iee7cBYO+m2hVxtU+aI1VLfBPrvEZQrmDckQMW29ZXqsFbhbIHmZusLU/p2kx9QQ+J1qd+Sn43BNvoyun1IleSqihOIC1fwaEKoGRRhK05EcaSLhXFLSQSVVYWJR2fX7XcnefOnsc8dMU73/0nNb0zbZlxXAsv5We22FuxW3Z4gC5ACPT+DLeu5Hntj2VxhW3sJ63z1hp3MCNWXJXNWG6yMK/A9OZcn5BOuXptqw35w5HnsWxCjA1FrnXv6eDrfCgNqGkKc5j0tgLfE0VH7O3QdDpkB4GESKZq/O1W7tmlZL9KgLigH7jnErCfrIBRzngEaRte3U3SGShga/TM34T/YvH6+yXP5N/Sn5EfCrkt5ORXPytyKvyYCJM98G0/XnzN9EiMh+wVMgYaXb5uuUcZ6mnTFGSLbylu8sjSCka6KNaswda8AYOCdtvGseNljMlT3A==;KAyb4EKwrPZ8l6PVU4XdCg=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "A Comedian And A Generative AI Tool Walk Into A Bar"
+    excerpt: "At this year's 7x7 event pairing artists and technologists, comic Ana Fabrega teamed with Runway CEO Cristóbal Valenzuela to see what happens when AI and humor collide."
+    publishedDateTime: 2024-02-10T19:04:00Z
+    webUrl: "https://www.forbes.com/sites/lesliekatz/2024/02/10/a-comedian-and-a-neural-network-walk-into-a-bar/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65c2d754532637ef98b2ee64/0x0.jpg?format=jpg&crop=1448,815,x0,y13,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
 
 secured: "xp6wC9zIza2UySlbrZJZy9IOA/FT73N0CdwcAuJIAVLZ6YLi87C99aLLc9whTFIgxYMZVAfI4X5PQiTSg6cR1hKSOBgslQI3AMCuHkfh8RzbKDTuj62zzOCxtfWvioZxcwAEFhv84M8GKMPnwSP9CTw9Y2/eY9geutbiGkRb/eYMy6NIjqWDiwhmOcFFh3BmBHHlc+O61oKDk7qTc8gCalC+LNmEADiqSfIpcDHyATz8VSlmBV+YjncieeiWMC1Yca65yuNSOdFSflaiArWSum8Q1sz7jrDop/tkOKS1oqQ2mC4CPdbuIu8nztQoi72vuQTTrfKGp6rEsep+RVNyg+8zsSO6pEppsdgOmQDlJ9OaKKnzY21+oCbmpTzelzUM+ruHaOxBFh0fDroEFEKZ/kHQ/bNV7wyXCw66VCtIDU2IDCid/EjIDHfyoRVq0DL8mbAXRDdaHGc8InPHaM0vSfcXp2BqcVIsaLWhkFHRAMvyWAjM5eR+Q0DmS3MTvn4BLQFETk7W71dNZ+xOz3HeYA==;C6hWbZ3iBh2WsNXtOTAUXg=="
 ---
