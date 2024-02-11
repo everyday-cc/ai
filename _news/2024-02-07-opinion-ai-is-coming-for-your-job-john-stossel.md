@@ -41,6 +41,20 @@ related:
         width: 867
         height: 650
         isCached: true
+  - title: "Is AI really coming for your job?"
+    excerpt: "The media warn, “Artificial intelligence will replace millions of jobs.” In San Francisco, Teamsters protest, demanding the government “protect” their jobs. In my new video, they chant, “Do not have these self-driving vehicles on San Francisco streets,"
+    publishedDateTime: 2024-02-08T06:52:00Z
+    webUrl: "https://www.minotdailynews.com/opinion/national-columnists/2024/02/is-ai-really-coming-for-your-job/"
+    type: article
+    provider:
+      name: Minot Daily News
+      domain: minotdailynews.com
+    quality: 39
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "PO6EQJ46UkefRfGkVzhwl/KuaGjjVBRrBrVjvM9agugtNw/Ss5WhqATNmQgFcEPhJzF5UqW2fL27W3ZEBI/0adeF5JWL0BX2kj4Z6unlLXszpdYzJmtiaf+xmshTkWt0xXo6kGw1uGOkHnnBkJqpmyDU174vMQyWtPNfrdLMOiiwQqEP1HjKpbtFuwhEvNCz/w/+f0xChDM7S8pTXUmsdXYmaihp1FZhxbHI4qSEU/CdnVBkLf9XE6WY6cKA/ca7HD3itDdCzg+86cfdRDFtU1dteJeQwwNpmRbbwDGrtxFaWwkWaoK6C6vd7YbHQT/nWc7T1Fm/inp18hWen/ptgfNLsDBF3AcCSu04PpZJhRfHf8BGLTcqx4tWPB3lBOGEsxLJPJrfobrLMNwNJSm69CRR6HqLzh76lOuzH0R9RvrctlQwuY5P4v6qffx/zQP9RWJS12+cmCf3uUOoinsXCjb9r02tBbExScXe5tKOYqCd6kCYQDgAbIt6HnYP9iRtKnFNPoKkpFLjQ3aLro8pVg==;P3KvZVbN4vAs4GAUKibazA=="
 ---

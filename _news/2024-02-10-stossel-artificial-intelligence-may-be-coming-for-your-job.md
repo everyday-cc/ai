@@ -9,8 +9,8 @@ ampWebUrl: "https://winnipegsun.com/opinion/columnists/stossel-artificial-intell
 cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: winnipegsun
@@ -40,6 +40,20 @@ related:
       - url: "https://prescottenews.com/wp-content/uploads/2021/09/John-Stossel-main.jpg"
         width: 523
         height: 523
+        isCached: true
+  - title: "Is AI really coming for your job?"
+    excerpt: "The media warn, “Artificial intelligence will replace millions of jobs.” In San Francisco, Teamsters protest, demanding the government “protect” their jobs. In my new video, they chant, “Do not have these self-driving vehicles on San Francisco streets,"
+    publishedDateTime: 2024-02-08T06:52:00Z
+    webUrl: "https://www.minotdailynews.com/opinion/national-columnists/2024/02/is-ai-really-coming-for-your-job/"
+    type: article
+    provider:
+      name: Minot Daily News
+      domain: minotdailynews.com
+    quality: 39
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "H6uxvcmv8qGKqJmbn5mASOaMy1nKlaB83jwEaTEVX5haOOzKRMDr4yuyx7SQXRbhDS8zG02m2O5nvubQxWKvzJHFgAitHqVK/hP1HL2wvjw+7G0NON/iqE4HSiH7ST9pL+csXZZdx+zBIw7wrZVUTOM9NO8bntS57RfoH/lQcsoENaxK94FHsCjBf0WETrSwU+96bWPA7Q+/dphbPWNLDVaGNbfTVjfHg5S0CaBI1/1jl3qSPn8payB4ME6hCj53rQ23Z2J3rZn9j5LeyEIIGp8aAChSjg/IUi1LjA9pLOBAcKaEiXktyCuOcO/2M4jdgpByHafixGT6vgEj4sDIHzERDdfP/4Eb/cHFfpgIO5PvVZmjTl4PRJqqBOyyi295m0mLlT5L13txJJSIcbKhPP9TI2JBmrBrvxDCKy01s9QGA63lE3srve9W2yZlkZn1Tq88fMs7/m9xt5g+T5TGXhrC28KAehG4Dht93419Ea9FGbWT1opvVAqs8t/ahrxIr37U5NnOkgTJSSlJrCRHBQ==;tn060N7e2F0V1JHacE9JNQ=="
