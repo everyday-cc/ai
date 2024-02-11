@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-genera
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
 type: article
-quality: 86
-heat: 106
+quality: 88
+heat: 108
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65c87fa658002bd23078ce45/0x0.jpg?format=jpg&crop=2041,1531,x92,y0,safe&height=900&width=1600&fit=bounds"
@@ -63,6 +64,6 @@ related:
         height: 1457
         isCached: true
 
-secured: "NQn6MDmm6rfgA6zi/ksWdU2C2VTi2Xm9udUf9l0KdjzzKOepvAAA7CEMZUbIyQbkc/GjIn4RuNlXsJ09pbjz7xPK3695Sq0LIjSRuWheI1aICYfLh6vI/ZQ1QPEcoO6DP+6YeyutAwiM5mOolfR/F7FLn4jgHTPhfoQ3D5xBqULutL636g336vI2RLQQHjSNkGdtRm4LWOWXN5YDhNGgDu5m3n8mT+Hn9IRC6GgOZBYzIqtz9Hjn3ykDPD2q0FLFn/p1zWyXY0Nlf3tDtZcUlaZwU2ZDq/IpjcCJn0N7dIJFnftkQc1EL/kkZWTiGoOFH985mevOi2c+SbGE/kN0BhQou2Jf/oZJ1O8/oo7Ffrs=;hJlQrzQW8Y6BWgK/rQORXQ=="
+secured: "i2hP2tV34mbGYb6DEZC24wav1jOecR66GmbKeryB8krAWhZoexUDGQ1ty5kdDtIKYK64sb8iA5ZjA0W6lz9QrPX+jZ5vHiHwelQFNMfLtX3JuxWfn1YxWeNsO7GL/rkcE1GIOlrWh/4aF5Q4VhA8fmeZDLoCT7SJR3K2kj4HOZ164/j5pb5nKlyLJxPSRa384NOQGDCf+IgPrgMQt6OvxX6HJT2DZmEx+B9L4UfXgtP2DhQSLaiIrBnoWvQxfR/VYGGxMFDekL89Cl+HeOjI0jr8bHdid2IDUImAudKL8avUPjoNrUfAa8KCd/ePUQzyQtR/Bo2iI78MqvmCXa2J//2B2LHnrRO1bi9JrvFB4vI=;IovkKG+Fx4/ASppkKp5S8g=="
 ---
 

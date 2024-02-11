@@ -23,6 +23,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "How AI is remodeling the fantasy home"
+    excerpt: "Each of these teensy homes had been rendered by artificial intelligence software and smoothed with an assist from more AI software. I had been fantasizing about a fantasy. The nature of these homes was,"
+    publishedDateTime: 2024-02-11T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/real-estate/how-ai-is-remodeling-the-fantasy-home/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
+
 secured: "D+f6B9SWdTJ9OBBM6ClPl4w3XhNRQuqTgagSQz965FcdEqmsbj8TA94wRc8Mv+ncK3OPItQz/uXYQL8LqZVKIBVBUmEfmgOfTUu9yU4XOvMBqzpPm23kY1/P1pyG+65oW9/UI/sPDio0BuaOmcqmx3uCpt5vkp38PyjvG0wtyUhTjsD0FW31D7pRKmAurbRy/DH/Dou03EppQ1rrV5Cqb8PdAxfYUaxKQHa4EHAOm4P8Qwne7FGku98/2SHfxDVMdmV4at6g/qqn11mEcYAebbB2NqvJSkHydQbFziF02fDqjVP6S308gylJBKPR6ivyzFxPo5IMq7v0beElP1URbNH0JQDeg294N+KkqNv5AXAzVuzNL7XROB0sFqjhAK/1YyhWNTWdeaVu6FzQRhP9adcCvRQlrGZwXNrfgWnzXlbc88f7tJxni9pceo1Du8TbuolEBXwl3UHtwlfjbwJFX1kjK2Gr30BxXhIctNZ++76WSIk2ryTBephYWLzD5f9VI/yqmaU10S0QO1oZ5/6sQA==;OGMtMcaUY/Nntfuczgo1jg=="
 ---
 

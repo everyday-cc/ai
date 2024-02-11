@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
-    excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
-    publishedDateTime: 2024-02-06T13:19:00Z
-    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 51
-    images:
-      - url: "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "me/BvdYzJktq9AZxvYIL0cDisOeSt4ymsiU+4qinLo9N9TblS8BTtN0FT5VFd1D0ByBrQmftg2wqM8jUkdf5AAbtJl0mHyo4X0xdhwyXUtMYDQwLHmw16irFsYrBhz+GorXXeGzB8mf13MG9JWdIznu3xKMnJwmEt0dpw+hH+Uli4qt1WVJLAB3tUB4iUAU4pzrPd7vyd3/2kR7/jrGv18OTLngQfD9NUshgJwkT4m6C3WA8O1lGqYvxy8+YtmRxyQ/q6Zv3l/18BaaF5X98oXBAt/8ijihaaRmUhVs+/4mXnt6lvYnFsyY0AjLviJnIez/dAhxC1eOlqJFR47lBOrsgCoLgC7T/DdmrkxDEiT5onV1NMomERSPghDoaWncom0W03jkBi5LzLjtQH+dCOiOa5lPLSYqJWlog3EOSJQ7bTqyRzmvUdYTL7EAA1yZ0UplQCf/FO7CIkY/KNIRm/4Us7RWBoZqf0gfdkwGyX0mIpZrxN+G1J6ew9z51SERTLDc5/+dsqDqOf/lM6QRGyg==;jNoMFTC2b15LGTO+fFaPVw=="
 ---

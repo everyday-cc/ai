@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -108,26 +109,35 @@
       ]
     },
     {
-      "path": "_news/2024-02-08-lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure.md",
-      "title": "Lightspeed-Backed Sarvam AI Partners With Microsoft To Build Solutions On Azure",
-      "excerpt": "Sarvam AI, a startup in the generative gen AI space, has partnered with Microsoft to build solutions on the tech giant’s cloud services",
+      "path": "_news/2024-02-08-sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure.md",
+      "title": "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure",
+      "excerpt": "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ...",
       "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/",
-      "originalUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/",
+      "webUrl": "https://menafn.com/1107826864/Sarvam-AI-Partners-Microsoft-To-Bring-Its-Voice-Based-AI-Tools-To-Azure",
+      "originalUrl": "https://menafn.com/1107826864/Sarvam-AI-Partners-Microsoft-To-Bring-Its-Voice-Based-AI-Tools-To-Azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 119,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2024-02/08/I_3c3feimage_story.png",
+          "width": 300,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/",
-      "publishedDateTime": "2024-02-08T11:37:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T04:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "inc42",
-        "domain": "inc42.com",
+        "name": "Mena FN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -399,6 +409,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-microsoft-ai-at-scale-drives-azure-revenue-growth.md",
+      "title": "Microsoft AI at scale drives Azure revenue growth",
+      "excerpt": "Microsoft reported a record quarter fueled by the Microsoft Azure cloud and the shift from talking about artificial intelligence (AI) to actually applying the technology at scale. Azure revenue grew 24% year-over-year to reach $33 billion in Q2 2024 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
+      "originalUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T15:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SDxCentral",
+        "domain": "sdxcentral.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1409,58 +1453,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024.md",
-      "title": "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024",
-      "excerpt": "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7190e5c497d8f4832c5fa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2024/01/28/revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024/amp/",
-      "publishedDateTime": "2024-01-29T03:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Microsoft AI"
       ]

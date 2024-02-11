@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
+    excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
+    publishedDateTime: 2024-02-11T15:32:00Z
+    webUrl: "https://techbullion.com/the-synergy-of-artificial-intelligence-and-cybersecurity-fortifying-digital-defenses/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 30
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
+        width: 650
+        height: 450
+        isCached: true
+
 secured: "n3GaGazz8a99M5/kxCSCcwTLLA/AAwBcepf08Y9KXgsOdmB3ioFZoYTprHn5WEbOOcuNaGSEfCMbePo+lbNeCniHRHOxY6mUGjjVzfvgtXiLb0AQ0mznEcRkdLW0Nzj1hHtaDC7Z7arMpjEyMh8hjuiTsa2q2fN3MYGA7F0JMBq20LvkcVEiM6rUPKt/697kg3yfe5oV+odSaDgniBwAvl6BdsMDdlDVLhPt7qmTZ9FRTj/7J7w4l2aDydO3Q5qBLXhnh+Vd5G53g06ZLbs4vMj/ZsECzNRrGNSdyAa/KL+nD9hmYyHycXTDoTkfGJu/QdttRP5KAZzaSUnSV4x3+RJh6l2bFQaZX6Gon5QA13dE9zh6An4Z0qfwMf6dIKjb+w6n4sLZbephaMii9ADivycgUeDJESvn4HxAAwzn0LpvF21xcPQw0KE416o/AE7woBQSxmb/GCfDtWNzFYINhl2MLyvGbbpG+Y/dVovvQAgCIGrFTzCJc8VCT6b14bc4paIXOCk7GkWZX+W+pZ5vaQ==;zybDMLTxmtHTucoMlorziQ=="
 ---
 

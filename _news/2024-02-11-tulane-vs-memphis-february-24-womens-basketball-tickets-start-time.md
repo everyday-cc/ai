@@ -52,6 +52,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Texas vs. Kansas February 24 Tickets & Start Time"
+    excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-11T16:24:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/24/texas-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/SB2Y3DNUKVK6JM2HV5N44NNY7U.jpg?auth=951e35972c029ad1363a269b140a94263041abd4e900b0965cd306d39a062dc5&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Radford vs. Longwood February 24 Women's Basketball Tickets & Start Time"
     excerpt: "Radford Highlanders vs. Longwood Lancers women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-11T10:20:00Z
@@ -108,6 +122,24 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Charlotte vs. Tulsa February 24 Tickets & Start Time"
+    excerpt: "The Charlotte 49ers (14-8, 8-2 AAC) face a fellow AAC squad, the Tulsa Golden Hurricane (12-10, 3-7 AAC), on Saturday, February 24, 2024 at Donald W. Reynolds Center. The game will tip off at 8:00 PM ET and you can watch via ESPNU."
+    publishedDateTime: 2024-02-11T14:26:00Z
+    webUrl: "https://www.wect.com/sports/betting/2024/02/24/charlotte-vs-tulsa-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WECT
+      domain: wect.com
+    quality: 2
+  - title: "Western Michigan vs. Buffalo February 24 Tickets & Start Time"
+    excerpt: "The Western Michigan Broncos (8-16, 5-6 MAC) play the Buffalo Bulls (3-20, 1-9 MAC) in a clash of MAC squads at 2:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-11T14:14:00Z
+    webUrl: "https://www.wilx.com/sports/betting/2024/02/24/western-michigan-vs-buffalo-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 2
 
 secured: "jmS1J0yLdG3vZM6spiBVjarg1MCWkkiol3CcYkrplal6EJ+iRqEmGDfM0hZQeAtro2f205XcqCPNFaDAsqukqbbFICGzu40GSwB8WyecsX8jhTX0TcE07p3cAdMIYPF+ML5xQUmRIFT8hs3KKK6schgqWM/hvURHAEg4hmnPJ9tdeBX7KvHwxWjMwjBncyIp0sHHK4L8xDguuXrjouHGj7E9lL62dNfQzbSHTfk7hS4d13UHFXz4EXNx1bSy3kaNKhOCwh+wugs63zl88KIwSIebgf84b7YTioi3FKnvwL7kdkQQ2jOvSAv6Qsjq+dfrpVVJ3L9c3/KBqi2JAwcPUfIvsDDSgnEXLTf7TOVE8po=;ClXQ+noP3wBXb18QD1ke5Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-10T19:04:00Z
 originalUrl: "https://www.forbes.com/sites/lesliekatz/2024/02/10/a-comedian-and-a-neural-network-walk-into-a-bar/"
 webUrl: "https://www.forbes.com/sites/lesliekatz/2024/02/10/a-comedian-and-a-neural-network-walk-into-a-bar/"
 type: article
-quality: 67
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65c2d754532637ef98b2ee64/0x0.jpg?format=jpg&crop=1448,815,x0,y13,safe&height=900&width=1600&fit=bounds"
@@ -59,6 +61,6 @@ related:
         height: 240
         isCached: true
 
-secured: "/JAEIYypKXZXLeC0cVyB6A8B9WohBfDzf4eAyNKdDnsH5AkJAg4HzNnfRCHc0NKYUkFKAMJv2099IozvonafaHg9DfVkpI8Qd1+hxYCX9nedTC8kA+ACyxPhugdDJEdknCvPBcjdOcuspjhFfEfDJre6kC7t60i46eDmGkDf4SJ7ppb2C7vThxnzNlSd16jn6JjSFkdif7A5eGX+jcZ2x8quSrkpjaC4YPtBOElnF3R27Z57MHgDcTZGM5858u6rQ27M0uvW/cXl2lH+rFyy5/vHdjJDDlBhdgCylHs/17W06h//Bbxyrhqz1gOYC267zB2kt6CgrQ7BDn057MNlPaByR0G07mdQnHbTJaeWiaU=;Ch6xCUbzLtu8bpymwntkWA=="
+secured: "CUPdRn6tHLF0dtB8fvReUukMyNms4ROyTHVqPGy8B68csXrfyWFdmRjVw4rGxIMNOnNdvhuVUKZYVfH2E7h91jwHm30x40Q9EO85D2P7JHcv+iXo55Gv9E77XE1HgIzEZya/vaqlx/ymhLD3Z2JfIOAfOlBL2tPca0WrlbVJFkRB+BQ7ZH4b4dOGYMWdUbbotjWDbdByCR2I3b+kGPv9RlD6YAoDulg/+UA2L/NrjKPtns8Um/MJMzkvC3upt9Tytt/d3+wtn3c0X4MPz+EGLVBBuhfoXKHFK80IwYxShu+LMSamMHCxazEi+N9iZYIPDbXt5WRvaoer+EeIg0XJMHP71Rid5VGGsIQ+DFjeaIvLHnTlbK1F2BvXcvgWLKXFU5N5nT/n46mYExDO7i+BCQbEE0ym6QE4w2bQKCKGG9d1mgqtucZAvnXxTZkf3GNulVjIk8b8Da4re+onDQem7W8nDWL0+zgws9emLgIc+9cyetn/7xUzyc16yyNH2PrEeVEB/CqzTRgSECLnD1tAdA==;GWwHF3xxNd6mCYkthoLJhg=="
 ---
 

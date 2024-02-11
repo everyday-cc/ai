@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's AI engine powering H&R Block's tax filing assistance product"
-    excerpt: "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ..."
-    publishedDateTime: 2024-02-06T17:00:00Z
-    webUrl: "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product"
-    ampWebUrl: "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
     excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
     publishedDateTime: 2024-02-08T04:45:00Z
@@ -55,6 +39,17 @@ related:
         width: 300
         height: 206
         isCached: true
+  - title: "Lightspeed-Backed Sarvam AI Partners With Microsoft To Build Solutions On Azure"
+    excerpt: "Sarvam AI, a startup in the generative gen AI space, has partnered with Microsoft to build solutions on the tech giant’s cloud services"
+    publishedDateTime: 2024-02-08T11:37:00Z
+    webUrl: "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/"
+    ampWebUrl: "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 65
   - title: "ABB and Microsoft partner to advance industrial generative AI"
     excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
     publishedDateTime: 2024-02-08T21:17:00Z
@@ -78,6 +73,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 44
+  - title: "Indian startup Sarvam AI collaborates with Microsoft to bring its Indic voice large language model (LLM) to Azure"
+    excerpt: "The collaboration aims to enable Sarvam AI to leverage Azure AI and Azure Infrastructure to build and deploy their voice LLM stack It also aims to enable developers to build generative AI apps at scale and empower enterprises to adopt generative AI ..."
+    publishedDateTime: 2024-02-08T00:00:00Z
+    webUrl: "https://news.microsoft.com/en-in/indian-startup-sarvam-ai-collaborates-with-microsoft-to-bring-its-indic-voice-large-language-model-llm-to-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 28
 
 secured: "GwQt6rknmQr1nXWbUDam4z/wuwnWo5l+NsYxo3XRA16uN57x4W0726stiRiozOwZ2JNsG2vx5xERLnXHUoaEFKh8FKPNQ6HcetxUCHwqSgD0A4eE4V4m/3NISNqa2sqfCuuzf8JqHGDrs+7V+eYJveIrsbkdG1b/u0O6ULJtU9bpqCcb3vwYI7QToUgobZPjnT01AZAUOqB3Sb0cUwEOjxSFEn2JOxukHHTRWrJHGvUfkdpQaGCfGvDubRry0f+NV4LgHnTzfuyYO6A7hri0EFXKYxa3vHOHFwlXBjJzRBWyVsxlI3tuvIWQXdpuKOw5ule9JXs9+Sv5tZ7ePxxzLoh8rMJy3Krjoop8jByxHeeSmOMfZU3h8W8ujrig62dgo6msJQnpBzCzN+KT6IRSt5G2kAkId4xLp3kPPn/yjGw2QBz483ITfKHQzMt1sfp+aser7fj90LZ7zLGA/2ggQ7aN0n//fVHYwqW09SmTKEntcVfAkl2g59KiP6lcZSOXRwizSKYstkL5oX/5XIAalQ==;CakZ6Sw6nDOiy5iCG3Bo5g=="
 ---
