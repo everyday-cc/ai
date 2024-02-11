@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
+      "title": "A baby llama has possibly been stolen from Maine farm",
+      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech.md",
+      "title": "Miley Cyrus Does Not Mention Dad Billy Ray Cyrus in 2024 GRAMMYs Acceptance Speech",
+      "excerpt": "You SAW me before this recognition. I never needed it because I HAVE YOU ... learning and absorbing and I think I can see my wheels turning and watching his voice and the way that he's using the instrument,\" she siad. \"I will say I feel vocally, my ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
+      "originalUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.whas11.com/assets/ETONLINE/images/8cf1f54b-858a-48fa-8328-5608c1d43e1e/8cf1f54b-858a-48fa-8328-5608c1d43e1e_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
+      "publishedDateTime": "2024-02-05T14:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-deep-learning-and-neural-networks-have-more-to-offer-than-their-buzz-suggests.md",
       "title": "Deep learning and neural networks have more to offer than their buzz suggests",
       "excerpt": "While Generative AI and its chatbots are powerful language-based technologies, it is still ‘good old AI’ that has been churning out astounding new products.",
@@ -432,6 +518,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-05T06:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-sea-lion-explained-southeast-asias-first-large-language-model.md",
+      "title": "Sea-Lion explained: Southeast Asia’s first large language model",
+      "excerpt": "The Sea-Lion large language model (LLM) was built to cater to the language and cultural diversity of Southeast Asia, which is currently underserved by existing models that mostly originate from the West.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
+      "originalUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T06:12:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Computer Weekly",
@@ -988,153 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-nvidia-h100-ai-gpus-might-cost-3-to-6-times-as-much-as-amds-mi300s.md",
-      "title": "Nvidia H100 AI GPUs might cost 3 to 6 times as much as AMD's MI300s",
-      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: The two GPU rivals may argue over who has the more powerful AI acceleration graphics card, but there's no doubt about which hardware is more expensive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
-      "originalUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-12-image-4.jpg",
-          "width": 3558,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts.md",
-      "title": "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs",
-      "excerpt": "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all",
-          "width": 855,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T05:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-how-ai-driven-data-mastery-empowering-business-operations.md",
-      "title": "How AI-driven data mastery empowering business operations",
-      "excerpt": "AI-infused data management systems empower companies to optimize vital business strategies by harnessing data comprehensively and leveraging cognitive insights. In the financial sector, this entails utilizing customer data, transaction records, and market trends to bolster sales and marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T170055.986.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
-      "publishedDateTime": "2024-02-03T03:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

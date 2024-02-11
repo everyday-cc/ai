@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
+      "title": "How AI and software can improve semiconductor chips | Accenture interview",
+      "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
+      "originalUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/accenture-Tech-Vision-2024-Infographic_v5-01.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
       "title": "6 AI Apps For Android That Are Actually Useful",
       "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1410,58 +1462,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required0-0.md",
-      "title": "One of Windows 11 AI features is now available to all users, no special hardware required0 0",
-      "excerpt": "You will soon be able to use one of the Surface-exclusive AI features on any supported Windows 11 computer. Microsoft revealed that Voice Clarity is coming to all Windows 11 PCs with x64 processors, not only ARM64 chips. Voice Clarity is a feature that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "originalUrl": "https://www.neowin.net/news/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2023/08/1691046087_windows_11_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/one-of-windows-11-ai-features-is-now-available-to-all-users-no-special-hardware-required/",
-      "publishedDateTime": "2024-01-27T08:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

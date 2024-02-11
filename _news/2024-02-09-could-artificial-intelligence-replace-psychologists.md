@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Could Artificial Intelligence Replace Psychologists?"
-excerpt: "I’ve heard colleagues say that AI will not replace human professionals but will augment what psychologists do. There is nothing to fear, they say. While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals on a large scale is closer than ever."
-publishedDateTime: 2024-02-08T20:28:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-webUrl: "https://www.psychologytoday.com/us/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
+excerpt: "Current and forthcoming developments in AI will alter the behavioral health landscape. Intelligent machines are replacing psychologists and other behavioral health professionals. We risk losing real human-to-human interaction and relationships built on trust."
+publishedDateTime: 2024-02-08T18:58:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
 type: article
 quality: 39
 heat: 39
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "7KsyFCxb1oEEHbCbclC1N7DXEY2aHhgiynIn5eKVX2u5+vkOaJdYfsOCR2Iz4Q+qXQYWWbVXN0xm6VZXhDMs75fX/14yJuCbQeqwT5ESM2AkH5Jvf/XZ6rB8k2H3sWFrlqlUlVmgTzC8W8871icZgqQl+PTRoiAZant6cd+emqFhJ0wsINDsUyKUaaQMqedh2BVrc4Nfp0sUGfT0de1YFWX0VTzscShLjy1A69jFoti9CYgxc4fo5b095SjYRmEl2WQl9jGpWV2cEqcefx6LV2nkurbIfYKTOC9ifvzzUN6DNOR3A9/2UL0yDs8jBg3l7o/5TpTNFj3euMExRF4qijRCO+THHerUizAAlTdGsbvyYVQgMQPdVeornr6AiyhDYggmZhf5KwwN3RlgKFMJsIeaOvMB66UENn+nbpoHDv4zcaEAiHq5c8XB0EuKO9w0DCWOeY5Qu3IJs9zhW/r7Oy0rEc2oP1IQQzZMKE7VRj+/3IW2hAcQkrbs1FbGwT9dIpnPUR9fTGA+Bnt5ugaurg==;f/u36xY9NPVmP3grVIq+4A=="
+secured: "JBgSbnYmxLUpQuzQ1H7O+NpOekK3kV4bAf7O2aiPXW+S/cHov01VEC4t/rmM0Ktt52T9kibh/qYp+b1q7lNHgmHtdzs7im7XpIcwZFowIovidepL90lAWQ+66U/e0TB0SC0gr9ObybmaKYwjoQ2stK7qQAgOaiH76hjU/kaVXklskaUPXjf0VIB2Fl5LJo7qOxslixMXnXkjCBBr32JLKuVltTJ3g3RaZQn+9fYOLyG8bzFfmjppRl6vCcZva12ZcShDUT6kX8fL/ITy9Rqn290nV8iYEGlRgHzW30OTExByIHB4S7W/jtHa3gylfcdQVZHWNJhkQVu14yf7vBSGf2vD90OVjLm041NdQDAs23Kc3tvxIYfxZqo/GHOaBWhjegN+bdNXb/FxmRl0yDgFapbCKXO6u7awo+bcV2OSh8gAgKILqJs/d4Y2Pxrkql6Wb2js3/xvEuBgl5c/2v5VLDx0lE4mBtPuKeysP8u6dBUUQwwh23gtzyj2+TZAg1DfX1UzfuiPvrso+5gW1/DTxw==;2xF+eHslCXyT+iTcJjtmyw=="
 ---
 

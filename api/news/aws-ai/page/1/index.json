@@ -236,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-05-sea-lion-explained-southeast-asias-first-large-language-model.md",
+      "title": "Sea-Lion explained: Southeast Asia’s first large language model",
+      "excerpt": "The Sea-Lion large language model (LLM) was built to cater to the language and cultural diversity of Southeast Asia, which is currently underserved by existing models that mostly originate from the West.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
+      "originalUrl": "https://www.computerweekly.com/feature/Sea-Lion-explained-Southeast-Asias-first-large-language-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T06:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
       "title": "Why Snowflake Stock Is Trading At New 52-Week High",
       "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
@@ -320,6 +363,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth.md",
+      "title": "AWS sees another record year for Amazon as AI push drives cloud growth",
+      "excerpt": "The division’s growth matched what analysts had expected, and is largely attributable to the increasing interest in artificial intelligence. Revenue driven by AWS was slightly under that of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "originalUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qc7sXoqRTmM6d94LT6WPhm-1200-80.jpg",
+          "width": 971,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1349,101 +1444,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-pinecones-vector-database-gets-a-new-serverless-architecture.md",
-      "title": "Pinecone’s vector database gets a new serverless architecture",
-      "excerpt": "For a long time, vector databases were a bit of a niche product, but since they are uniquely suited to provide context and long-term memory to large",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/",
-      "originalUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-91640841.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/16/pinecones-vector-database-gets-a-new-serverless-architecture/amp/",
-      "publishedDateTime": "2024-01-16T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-accelerating-sustainable-modernization-with-green-it-analyzer-on-aws.md",
-      "title": "Accelerating sustainable modernization with Green IT Analyzer on AWS",
-      "excerpt": "Businesses are increasingly embracing high-performance computing, artificial intelligence and machine learning.\nThe post Accelerating sustainable modernization with Green IT Analyzer on AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "originalUrl": "https://www.ibm.com/blog/accelerating-sustainable-modernization-with-green-it-analyzer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
+      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
+      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023.md",
       "title": "KPMG: Singapore AI Fintech Funding Up 77%, Defies Global Slump in H2 2023",
       "excerpt": "Despite the global downturn in fintech investments, Singapore's fintech sector had showed remarkable resilience.",
@@ -639,6 +682,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-06-top-7-cyber-threat-hunting-tools-for-2024.md",
+      "title": "Top 7 Cyber Threat Hunting Tools for 2024",
+      "excerpt": "Leveraging unsupervised machine learning models, Carbon Black Endpoint can detect anomalies ... latest news and tips on the following topics and more, XaaS, AWS, Microsoft Azure, DevOps, virtualization, the hybrid cloud, and cloud security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_715754594.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-miley-cyrus-thanks-family-in-full-grammys-speech-but-not-dad-billy-ray.md",
       "title": "Miley Cyrus Thanks Family in Full Grammys Speech — But Not Dad Billy Ray",
       "excerpt": "JC Olivera/WireImage; Gabe Ginsberg/Getty Images Miley Cyrus was in total “shock” after her 2024 Grammys wins, but her choice to leave dad Billy Ray Cyrus from her acceptance speech appears to be intentional.",
@@ -988,92 +1083,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
-      "title": "A baby llama has possibly been stolen from Maine farm",
-      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bangor Daily News",
-        "domain": "bangordailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech.md",
-      "title": "Miley Cyrus Does Not Mention Dad Billy Ray Cyrus in 2024 GRAMMYs Acceptance Speech",
-      "excerpt": "You SAW me before this recognition. I never needed it because I HAVE YOU ... learning and absorbing and I think I can see my wheels turning and watching his voice and the way that he's using the instrument,\" she siad. \"I will say I feel vocally, my ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "originalUrl": "https://www.whas11.com/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.whas11.com/assets/ETONLINE/images/8cf1f54b-858a-48fa-8328-5608c1d43e1e/8cf1f54b-858a-48fa-8328-5608c1d43e1e_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/entertainment/entertainment-tonight/miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech/603-0497fddd-d0ff-4531-8fd0-ed1d51329da8",
-      "publishedDateTime": "2024-02-05T14:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHAS11 News",
-        "domain": "whas11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3712821/meta-to-label-ai-gener
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/08/olloweb-solutions-520914-unsplash.jpg"
         width: 4288
         height: 2848
+        isCached: true
+  - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
+    excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."
+    publishedDateTime: 2024-02-10T14:09:00Z
+    webUrl: "https://techreport.com/news/meta-to-start-labeling-ai-generated-images-on-facebook-instagram-and-other-platforms/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 31
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/Meta-AI-Image-labelling.jpg?_t=1707574259"
+        width: 1510
+        height: 876
         isCached: true
 
 secured: "hutHSP5lq3Kgr6scog4kfhKeZ83UpOaQoHrf4acwQ34847TPe1evRyZ62FsF3Kd9Vk0nY+nrWuD6FxI0PpHBJvUCfmiIQYG9Ip3VdBkBpfsT2uU0Wu6DMnohNVn4Wayw0gXOWwjRntegomh6QPHl9VU4QmcikNhr1vcCn1rCeT6CYu+gy81nKryEVzDCBVJ4gmj0EpWKS6BQjx2LcnknHAp0Vl9fjwxCce14NznDxj6p6CiTkkcvHxSUUhfLwpJou5dm/19wcSoZysy50Rl8rjAkXtQ0GBROgND/wGNaYHVgdIx6GGmRDD1410m9UG/r1zxSMLhtWCPgX47zbWdbGM4Qo5cNvh2iWKcVhHHce2yEzyfaIkRa3Cz0cQWLoX1PnHvljH6n4V5es8fAuCLhIBlDFCImYgREHA2Ew/m4iAF7Sod3a7vORu0OJUrlUxJY+1Ejplx2HqMYjYyyR0SNhylcPrWm/9PLs2b01D0Anv74qWyml+dRxb/GQwnPwq9FHgAE5HZXoa66Dck/eqoZVA==;UUv9cZYLMfoj73PXgT78bw=="
