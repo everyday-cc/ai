@@ -28,6 +28,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "World's first desktop AI workstations with NVIDIA GPU and CPU Superchips start from $41,500 USD"
+    excerpt: "Not longer limited to data centers, severs, and cloud systems, you can now buy an off-the-shelf desktop workstation with NVIDIA's Grace Hopper Superchip."
+    publishedDateTime: 2024-02-12T05:29:00Z
+    webUrl: "https://www.tweaktown.com/news/96130/worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-41-500-usd/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 57
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96130_04_worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-40-000-usd_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
 
 secured: "00YowFApDEPa9W/CnSDWsmHNuzIhaQqqAaGvZmZsWxhshW7CZeolFesQtoPiRB5WVrDxoQTJ5WC2h79Hi8yuGIU3BdeuJCAY5AtKwdL5iBX102hvGAiQv5TQTdtiWzsDaVFwbcVAV2BUqU84w08HqxY1rI9utfLY0xyiQ1OZfTbaCupkEczaMrQvg72b0szuRz8gl1NoAmnKYqQBqU8CWSI8jG4dCZnET6Jxpf16rto3G4p6CCkmkySPhKBp41JFlBUza2H8uWwY0KmtAZVlfk/qqEXYUJdKKpQEoi7s3EyP+4184DbwhYeL99KibH04NyG+ehAhNGrJRLiunoFLj/VlxzCbOsmtAcPEzyTpiZA+UnwYq3s3Wbk5znMoCfgdQQj+DATMm+Uri4wK6OfvOOHjvAHEv4BV+DPXKkHnwL0bNzrGJ2PDdR9z2ZseexIV9zPQzlb6cfGigeNJt8cSQOrb2+TO2ir4oOXLi+4AzKx86g6W45UECq5KMEZH8daE/wWoeVNaABwdI03YvntUzw==;SgNhbW+LqHjyepqeHbxg4w=="
 ---

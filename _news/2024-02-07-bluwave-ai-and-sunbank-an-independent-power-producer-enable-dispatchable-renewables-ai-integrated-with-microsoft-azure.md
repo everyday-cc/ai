@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/bluwave-ai-and-sunbank-independen
 webUrl: "https://www.asiaone.com/business/bluwave-ai-and-sunbank-independent-power-producer-enable-dispatchable-renewables-ai"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 316
     isCached: true
+
+related:
+  - title: "ABB and Microsoft partner to advance industrial generative AI"
+    excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
+    publishedDateTime: 2024-02-08T21:17:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33036690/abb-and-microsoft-partner-to-advance-industrial-generative-ai"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2024/02/65c505a8e7cea5001e81d3d2-abb_and_microsoft_partner_to_advance_industrial_ge.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "V80eJd2DpuMvDRXBjz14c1/omeel+ZgwElYnYziQr9pMEQwI3ghx0hIo/uOTK+p/ytqDd6avL1T+ZM8wSr29GPUUFxVN7Iv+3XnK0hifxLPvAp/LkhXLvjHDeHLvyrn/bep7KBKqX5lq5iSK5s9iszeUzxMiK67NKqbFiaOyLBIpo+stY7eq/UeDBrVW2tPv0/vj8M2GIckYE6GGx5GFUYtEGJC1Q8l/D+J6xe7QExLgd2sBRys6tW1q+InYn3fakX6Byclq3iaJg5dJ8cj+6yE/4bru2JqvT62opKSBQ0USCsyg5NAEV047a0Zd3/7vzRcdQyWyZiZYe+++32f+6QMydoqBbyw7+jDH7UVS2JPFQjp+pLy/yuGOlkLZrqwk/WP5Qeh9xFb9JELQlp8ci7KjIF+2dYak1AHYY6GBlCCZT7mna08Z0QmvFeRwtDTQTf0IjP3eNHVVA6aAW+ID6iPQttY7qr1nQe98jT2KIMNdLqBCZbGnspHvuAia4+thTnC8uBqTGqtVOsb+oLQIxw==;rWGYfzM0gg6ardI9FQpE/A=="
 ---

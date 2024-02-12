@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ai-and-software-can-improve-semicon
 webUrl: "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/"
 type: article
 quality: 83
-heat: 84
+heat: 85
 published: true
 
 provider:

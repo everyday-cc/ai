@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
+    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
+    publishedDateTime: 2024-02-12T05:11:00Z
+    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 75
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
     excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
     publishedDateTime: 2024-02-08T04:45:00Z
@@ -63,19 +79,49 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "ABB and Microsoft partner to advance industrial generative AI"
-    excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
-    publishedDateTime: 2024-02-08T21:17:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33036690/abb-and-microsoft-partner-to-advance-industrial-generative-ai"
+  - title: "Microsoft to build new data centre in Centurion"
+    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
+    publishedDateTime: 2024-02-12T05:34:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
+    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
+    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
+    images:
+      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "New AI Patent Study Shows IBM Leads Google and Microsoft in GenAI Race"
+    excerpt: "The meteoric rise of artificial intelligence over the last year has sent tech companies scrambling to find new ways to develop and deploy AI technology in"
+    publishedDateTime: 2024-02-07T18:15:00Z
+    webUrl: "https://www.datanami.com/2024/02/07/new-ai-patent-study-shows-ibm-leads-google-and-microsoft-in-genai-race/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2018/08/patent_pending_shutterstock_EtiAmmos.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
+    excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
+    publishedDateTime: 2024-02-12T05:40:00Z
+    webUrl: "https://www.crn.com.au/news/cabots-partners-with-microsoft-and-insight-enterprises-on-ai-chatbot-605002"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
     quality: 54
     images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2024/02/65c505a8e7cea5001e81d3d2-abb_and_microsoft_partner_to_advance_industrial_ge.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg"
+        width: 690
+        height: 428
         isCached: true
   - title: "Microsoft Azure lays foundation for India-focused voice-based generative AI apps"
     excerpt: "Microsoft collaborates with Sarvam AI to bring Indic voice large language model (LLM) to Azure AI, aiming to foster AI-driven growth and innovation in India."

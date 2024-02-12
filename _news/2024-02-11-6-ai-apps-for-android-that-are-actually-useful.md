@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 webUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 type: article
 quality: 69
-heat: 96
+heat: 97
 published: true
 
 provider:

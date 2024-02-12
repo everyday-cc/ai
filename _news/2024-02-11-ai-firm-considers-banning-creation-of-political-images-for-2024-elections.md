@@ -2,9 +2,9 @@
 category: news
 title: "AI firm considers banning creation of political images for 2024 elections"
 excerpt: "Midjourney’s CEO David Holz says company close to ‘hammering’ images of Donald Trump, Joe Biden and others ‘for next 12 months’"
-publishedDateTime: 2024-02-10T16:55:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney?ref=mc.news"
-webUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney?ref=mc.news"
+publishedDateTime: 2024-02-10T19:13:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
+webUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "zNnamPmIPYv6UpzzNhQyLZdp+wsS8obvifj4m//ewK/MUOAUN5BCNq5MjXXDj4deUeYb9n+60f2c8rLj5ua9pZbiLPcMAI5+0e6tVzRpYws0vOcbnxqy/JMmUrqbTFVVSDQ+uMJ5aYu4G6CbE51XZNQK891EXl4etvSi5cClouG8e5FTdUOlA/PzfkDUyqJ4QRq0dfaoWl1Apfnc6Z3MSH2MwVBnsRZWV4LYgKeWJ8jtxhNrjUkOGhYyEuzoz5/txMoBwchgYvARfCM/vCLqsPAGfHmJZdEJ0xXFQUQJrTwfTDaTYbiuiV6JJat9N/wluy8QZQd8zEnXhNMZqmAjATpdVAVacqHa8JTnjlHDT30=;tRdcPkMyAqsxiP8VekDlyA=="
+secured: "/VymdkZbypCyT+dVMNQiw6ywcOW5T1dbMuXa+UQee5MlBhfuis4sRpK4lpkd6+TRQ2gXCesdrNKoVET+JhzG66yOzwRwDbDf2QIdKoDDPdxVD1ug/voUOfcmDIHgxha+slCqTt+Q7uEMEZ52GHUiGAjZ3y35h8jILSGaQoLyYXS3642Kr746OONTFDKVWGFKH3iIjngOZrfPWtykhCsHgNRPELo8y9nErT/17puGh9uxHw+2jfX08tq4lh/xHnmXgEr2KOgw/o+lBMk3tP2Bh8wNxIZIt19RSnuhEH3peLW9FT8OSjEdJFke14PCtf3JRDQtOChVJworuhZJIcrvAI9n2Vb6to2DypS82T8Px2k=;YVmhP6DbemnDTx4ON4fWTw=="
 ---
 

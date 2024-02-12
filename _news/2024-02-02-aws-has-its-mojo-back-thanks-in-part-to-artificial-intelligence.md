@@ -1,14 +1,11 @@
 ---
 category: news
 title: "AWS has its mojo back thanks in part to artificial intelligence"
-excerpt: "While AWS looks to have handled customers optimizing their cloud spending with aplomb, the resumption of workloads and a \"rapidly rising\" contribution from AI bode well for the rest of 2024, Goldman Sachs analyst Eric Sheridan said."
-publishedDateTime: 2024-02-02T12:48:00Z
-originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence"
-webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence"
+excerpt: "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat growth, due in part to rapidly rising benefits from artificial intelligence."
+publishedDateTime: 2024-02-02T13:48:00Z
+originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atechnology"
+webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atechnology"
 type: article
-quality: 34
-heat: 34
-published: false
 
 provider:
   name: Seeking Alpha
@@ -18,6 +15,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "iputJC4gGzyGdEBsL6gWAO4WtEmnTpgH790Q6cjg7mUug867IVRNtQmrOUKNvAQs9YIhc4jzXS1LHLSSLKA/gx0Hk8bc3MoeSUZzDXoqItFNih9pDinspKydjfNoWCFu6TncswNns/Lz9CNmzgnocN2s95ayBJ568Ws0gtJwkKBh0x+/SR8KWtFybn0KBoWVPYWaNcDxMDtsGfV+0hTIwOvVdhehvi3kEQi6vuOUrXLnACKiUCX342Nhk8Paj9sLkGKrKUbaAzo0v4sJwYN8oWywSc1fQ4lYA97N7Sc+kWv7DvGgVjg8HGvHCvY3JmDPtMCKg1w2Umz8IM7RmbBvcmMLWqdpedwTGZsg9+ALaIk=;I3ggH0qkqxTTgS3BjslIxQ=="
+images:
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1245247564/image_1245247564.jpg?io=getty-c-w750"
+    width: 750
+    height: 499
+    isCached: true
+
+secured: "7EMmhLa+IjqXfrj07YpNsCps6IeJCAn6TVBx4qqpdxfA5QZq/2Xfh/IgZuw3+it2eN0CiUOQKoj6WRHA3CgF7Poyf4rXsaBT4aOZZ8ntmBHW7Eqdm5heKXv1HfDxs/4T/tDL7ekI2qslMNR8XR2d4kq0IQv4FZFegiBs1f5Ae4e2Z0aqDOndSF6hayxJyV/VCBQ5o/mS6QPhG6+ArXFm/hIaoAOFB8Z1+GKykfe7/RJRvjBqXn24dGr4k+Ov3jBxtrjLSulKh4QP4L6fq8EvLWxYBrG5BKRHthWW/dUrjI6SL2fxIy7uiSj+Aom5xvAgguMafg4vMApu9Oq0qGGEw4bEbTCbPMEc2jgjdIZ70gA=;k9O55yaAwaxZLsmKAukQjw=="
 ---
 

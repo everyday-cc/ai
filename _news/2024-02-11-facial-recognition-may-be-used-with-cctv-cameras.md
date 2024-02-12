@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Hong Kong police head says city may use facial recognition to maintain national security, fight crime"
+    excerpt: "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu."
+    publishedDateTime: 2024-02-12T04:54:00Z
+    webUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 86
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2U1q2gGhLZlu9oS/O/m0quv05hjBJEt554tOfRKIgCsTvbtLsMmU52ebV3ysV5bTj8O/P6tjC1AS6uWIqLTwfOZS7V3jBDJ0It8Oc1BDJwBjd8M8WjsP4VRbQEc26JLiKCZ2HYkDBleohjremUaVBZgRl9r42/BP4w0cJVr57zjM5qVN9bB/ZbN92pfV1Dz8XAxtZAeMBaCMF1ywSdiLMFwcoad/Xx29TYa2nfBNJtKWWWvyDBQFL1WtuIQFwkZ327eEIwZzsy2UH2t9z71zrQsRBGi+b/eD2fDg5sbkaVyAL6KqYAdkgAsRoXIhGg+ZnX8m7jB837JBwj1MH7G7GQU32dTVhz2HTwhGBr9w7Bs=;hP7HbzXy+LZVPmOOwoEU9g=="
 ---

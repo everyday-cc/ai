@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/07/openai-will-now-add-labels-ai-
 webUrl: "https://siliconangle.com/2024/02/07/openai-will-now-add-labels-ai-generated-images-following-meta/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,68 +23,6 @@ images:
     width: 4288
     height: 2848
     isCached: true
-
-related:
-  - title: "Meta to label AI-generated images from Google, OpenAI and Adobe"
-    excerpt: "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said."
-    publishedDateTime: 2024-02-07T05:31:00Z
-    webUrl: "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/03/shutterstock_2259188619-100938589-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Apple’s AI startup shopping spree outpaces Google and Meta"
-    excerpt: "Some of Apple’s notable AI startup purchases over the past few years include Voysis, WaveOne, Emotient, Laserlike and more. Voysis, acquired in 2020, specialised in voice assistants that can understand natural language. This technology likely helped advance Apple’s own Siri virtual assistant."
-    publishedDateTime: 2024-02-11T10:09:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.indianexpress.com/2024/02/apple-logo.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Capgemini Partners An OpenAI Competitor Mistral AI Founded by Former Google Deepmind and Meta Researchers"
-    excerpt: "Capgemini Partners With Mistral AI to Spearhead the Adoption of New Frontier Generative AI Models. Capgemini and Mistral AI will focus on accelerating"
-    publishedDateTime: 2024-02-12T04:32:00Z
-    webUrl: "https://www.indianweb2.com/2024/02/capgemini-partners-openai-competitor.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 37
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsM6_Gj5-lKxyQ7_SngXNbCm23eV1ABD6Ia3E3jLVze9VKvkPvAZDWltgLlI_gzRbPwvhVkRhbZHQbIRcyy0rnC8VCpIVVyXNIvh9IqFFiXhQ8ulgxce4KL70fIPtAz0CgpYk_vTx1uxZzEfTd03cNMhb9mY-xXDKpwJN5LPFgH5PpJsXMtv3_vdkhuvQ/s16000/Capgemini_mistral-ai.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
-    excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."
-    publishedDateTime: 2024-02-10T14:09:00Z
-    webUrl: "https://techreport.com/news/meta-to-start-labeling-ai-generated-images-on-facebook-instagram-and-other-platforms/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 31
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/Meta-AI-Image-labelling.jpg?_t=1707574259"
-        width: 1510
-        height: 876
-        isCached: true
 
 secured: "EmH+d8dBGlKdWlzeVR8ooqaah0IEGdvmxsGEy0QmR5pCoRMcFSAj55TwIQ7cBdy5R761LfBhKvEgUtLk8lQg1pFv32CSx7J5pXgUUmiy5pXGusXzid3tYTO5Kam/N0GLkI1gEm1oXHNxv9fmLNA8JLyK/7nBJviE3Xp8WFGSYFfC10yK/8QfRctmMyG/7183VXauLiZtrrbZFBul8TjJfDapX88BpL5O6xaD4rT0ix/ZBecA8CcPzdl21Iy3lBHabI5IJFCNutbUdkEAJHiBlfbO2G/LYXTQoxEGH3fnCFFAI67sP/KembtEkftn20N3NqYYGvOvioamPLukIiSrkZP9qjHaf+MkjRbV8R9ZP13nBkavGdXc7t8wlFFip9ihtXzA5fCTgPuTj/+Z3i8Y/+dvBdjHYRKKcQ9D6AnPfkWfREzZSWzh5Qcq95N6rSWJpjCUdqwNIEdiUBnHkYS4PesM7wgw91enqooqPPzpSK5H236/59Z3hBYfM1ROHI487phI+/mUtEnfcUMZZdZ3QQ==;WpxJfVLbk6cCqeJlkYn2LQ=="
 ---

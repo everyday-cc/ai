@@ -24,33 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
-    excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-11T04:23:00Z
-    webUrl: "https://www.wifr.com/sports/betting/2024/02/24/depaul-vs-georgetown-buy-college-basketball-tickets/"
+  - title: "3 AI Stocks to Buy on the Dip: February 2024"
+    excerpt: "Marc Guberti is a finance freelance writer at InvestorPlace.com who hosts the Breakthrough Success Podcast. He has contributed to several publications, including the U.S. News & World Report, Benzinga, and Joy Wallet. The post 3 AI Stocks to Buy on the Dip: February 2024 appeared first on InvestorPlace."
+    publishedDateTime: 2024-02-10T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-on-the-dip%3A-february-2024"
     type: article
     provider:
-      name: WIFR
-      domain: wifr.com
-    quality: 22
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Best Amazon deals in February 2024: Today's best sales"
+    excerpt: "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. Remember ..."
+    publishedDateTime: 2024-02-08T18:33:00Z
+    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 41
     images:
-      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/7IMHMUCU6JJ33F6MZXGO6UYQWI.jpg?auth=255e7c57cb70c737d3f7fea012a96765f739ee5915e245ac61d9aec85fccfc51&width=1200&height=600&smart=true"
+      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Tulane vs. Memphis February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Tulane Green Wave vs. Memphis Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/02/24/tulane-vs-memphis-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 22
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/EKF2ERWPQBPPZPERNENJWTTLKU.jpg?auth=adad284a429a7013915456041ab414049cba1ddc46ee50df645644dba16a0dc3&width=800&height=450&smart=true"
-        width: 800
-        height: 450
+        height: 675
         isCached: true
   - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
     excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
@@ -63,20 +58,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Michigan vs. Purdue February 25 Tickets & Start Time"
-    excerpt: "The Purdue Boilermakers (22-2, 11-2 Big Ten) play a fellow Big Ten squad, the Michigan Wolverines (8-16, 3-10 Big Ten), on Sunday, February 25, 2024 at Crisler Center. The game will begin at 2:00 PM ET and is available via CBS."
-    publishedDateTime: 2024-02-12T02:19:00Z
-    webUrl: "https://www.wilx.com/sports/betting/2024/02/25/michigan-vs-purdue-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WILX-TV
-      domain: wilx.com
-    quality: 22
-    images:
-      - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/v2/TQA3NJ6EUZKWJHG723MW6CQLUM.jpg?auth=9383822d03f57e0bc88ee72f715406d7e08947f4a19a778a9f0806dccaa4e72f&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -94,76 +75,29 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Radford vs. Longwood February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Radford Highlanders vs. Longwood Lancers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:20:00Z
-    webUrl: "https://www.wdbj7.com/sports/betting/2024/02/24/radford-vs-longwood-buy-womens-college-basketball-tickets/"
+  - title: "UTEP vs. Sam Houston February 24 Tickets & Start Time"
+    excerpt: "Saturday's CUSA schedule includes the UTEP Miners (13-11, 4-5 CUSA) playing the Sam Houston Bearkats (13-11, 6-3 CUSA) at 9:00 PM ET on ESPN+. If you're looking to attend this gam"
+    publishedDateTime: 2024-02-11T16:25:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/24/utep-vs-sam-houston-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 21
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/IEME5MCMSRNG3JCZ6LIFS3GYLM.jpg?auth=8f10bb2c25b4a4d0df7f154fa65eb7134adbc4ea5a422e5df5b0dca9c8372876&width=1200&height=600&smart=true"
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/UONYLBEODZKBTMTNW6C3NSIVLU.jpg?auth=3a1a8af024d21510c9ec82e75a457b0682faa6a1e6f79aaac820f813651b27a6&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
-  - title: "Grambling vs. Southern February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Grambling Tigers vs. Southern Jaguars women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.wafb.com/sports/betting/2024/02/24/grambling-vs-southern-buy-womens-college-basketball-tickets/"
+  - title: "Charleston (SC) vs. Towson February 24 Tickets & Start Time"
+    excerpt: "Saturday's CAA slate includes the Towson Tigers (14-10, 7-4 CAA) against the Charleston (SC) Cougars (18-7, 9-3 CAA), at 12:00 PM ET on CBS Sports Network. If you're looking to go to this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-11T14:23:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/24/charleston-sc-vs-towson-buy-college-basketball-tickets/"
     type: article
     provider:
-      name: WAFB
-      domain: wafb.com
-    quality: 20
-    images:
-      - url: "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/v2/OX5OFIU3GRK3ZEKHPGW7JW7RV4.jpg?auth=ab902afaf7567328c0e80249bb96b9aae5764d45924fd7b82ef2084299d738e5&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Virginia vs. Louisville February 25 Women's Basketball Tickets & Start Time"
-    excerpt: "Virginia Cavaliers vs. Louisville Cardinals women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T22:19:00Z
-    webUrl: "https://www.wdbj7.com/sports/betting/2024/02/25/virginia-vs-louisville-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 20
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/MWHMFCCOCRMWXPSEHJE3IZWCYA.jpg?auth=aa3d760217493470dd348dcaf130868683d46c2d731c51c47ddaaa17fd04a53e&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Louisiana vs. Texas State February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Louisiana Ragin' Cajuns vs. Texas State Bobcats women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/02/24/louisiana-vs-texas-state-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 19
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/YURWQGBIX5IQZH6NF7QKWFWRNA.jpg?auth=1ddc4c4e788b719fc5c05b6fd86cc6cc9c19205e151658f681d200e00bc02028&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas State vs. Louisiana February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Texas State Bobcats vs. Louisiana Ragin' Cajuns women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/02/24/texas-state-vs-louisiana-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 19
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/JH4MQCPZWRJEZCJGCPFKM27IFQ.jpg?auth=24fef1ea65c2d90ee422658934872036107895b55f52e31aa6bce30bc976ec32&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 2
   - title: "Charlotte vs. Tulsa February 24 Tickets & Start Time"
     excerpt: "The Charlotte 49ers (14-8, 8-2 AAC) face a fellow AAC squad, the Tulsa Golden Hurricane (12-10, 3-7 AAC), on Saturday, February 24, 2024 at Donald W. Reynolds Center. The game will tip off at 8:00 PM ET and you can watch via ESPNU."
     publishedDateTime: 2024-02-11T14:26:00Z

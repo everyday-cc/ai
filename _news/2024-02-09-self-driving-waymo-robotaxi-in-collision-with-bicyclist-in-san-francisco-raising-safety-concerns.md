@@ -7,7 +7,7 @@ originalUrl: "https://hoodline.com/2024/02/self-driving-waymo-robotaxi-in-collis
 webUrl: "https://hoodline.com/2024/02/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Crowd sets Waymo self-driving car ablaze in San Francisco"
+    excerpt: "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet."
+    publishedDateTime: 2024-02-11T17:36:00Z
+    webUrl: "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980"
+        width: 2200
+        height: 1238
+        isCached: true
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
     publishedDateTime: 2024-02-11T22:04:00Z
@@ -34,15 +50,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
-  - title: "Self-Driving Car Collides With Cyclist, Rider Wasn’t ‘Fully Visible’"
-    excerpt: "When the cyclist became “fully visible” to the driverless car the “vehicle applied heavy braking but was not able to avoid the collision.” Waymo called the San Francisco Police Department to the scene. Upon arriving, SFPD found the vehicle and cyclist. The cyclist reported only \"non-life threatening injuries,\" according to a SFPD spokesperson."
-    publishedDateTime: 2024-02-09T05:34:00Z
-    webUrl: "https://www.mensjournal.com/pursuits/cycling/self-driving-car-collides-with-cyclist-rider-wasnt-fully-visible"
+  - title: "Waymo Self-Driving Car Torched by Mob in SF's Chinatown"
+    excerpt: "An autonomous Waymo vehicle was attacked and set on fire by a mob in San Francisco's Chinatown; no one was injured."
+    publishedDateTime: 2024-02-11T18:19:00Z
+    webUrl: "https://hoodline.com/2024/02/no-passengers-but-fury-ablaze-waymo-self-driving-car-torched-by-mob-in-sf-s-chinatown/"
     type: article
     provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 4
+      name: Hoodline
+      domain: hoodline.com
+    quality: 19
 
 secured: "ZMYeSPPjOtXqUoLRL0XAVot4+IkHzE0aNBG8tLSJ7ow13dJLYhg4tF5E6oFkHRsfpI3N972lDaiVGmofnTnY47+SBwxqtoqOVVO6RdYV+S4hMJti4g2sYs0iScg5FfE2PHf6SNstUky8Xrr9MQdJkdmyEXif6dO29hmPCSl1iTZD+2omCItWBMH3znNI789NJOd0U4FMiL4X3cxfYQ7NLDFY5uk6a3ZWOxOWISqz5A1IZrGirmmk1nv1w0Qjv/SKrlSB7qyTjHmLq+IaNw8hUhCoCzo389FC3Dcw9u0EacIL2iae6L4ZRvIKdx5Dh44rCSinrt7lBiQk5w4fzRr5IqoUEVRW7Jax5aj/L1AnN18QEuyP73zrZ7KbeWdhxObzpYAGe3E58RMYYEKS7sr1hYRFIWRXr/I7AGpEJStHhTET0kK7KoxWr2ehoa7oGy7oXHyUAnT0FIipL1A270mVIcw0VfNTgP2OYoqaSgfvK6jNtwYVhKWkx41uaqncAtXqbudsbT91OsUc/7Rf5Q5r9w==;6jBbktVBx2uESg+M5He1Xg=="
 ---
