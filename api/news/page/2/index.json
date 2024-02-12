@@ -104,7 +104,7 @@
       "originalUrl": "https://blog.google/products/gemini/bard-gemini-advanced-app/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -265,6 +265,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
+      "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2024-02-08T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -954,6 +1006,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-07-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
+      "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
+      "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
+      "originalUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
+      "publishedDateTime": "2024-02-06T17:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-instagram-threads-and-facebook-will-start-labeling-ai-generated-content.md",
       "title": "Instagram, Threads, and Facebook will start labeling AI-generated content",
       "excerpt": "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI.",
@@ -1087,101 +1182,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-makes-azure-openai-service-available-in-government-cloud-platform.md",
-      "title": "Microsoft makes Azure OpenAI service available in government cloud platform",
-      "excerpt": "The service is live on Azure Government Tuesday while the agency pursues FedRAMP authorization for high-impact data.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "originalUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2021/09/Microsoft-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-finally-now-with-10m-adds-ai-for-better-insight-into-small-business-accounting.md",
-      "title": "Finally, now with $10M, adds AI for better insight into small business accounting",
-      "excerpt": "Finally, a fintech startup helping businesses automate ... “The trick for us is really leveraging AI to give more insights and start highlighting what some of these data points mean ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/finally-expense-management-cards.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
-      "publishedDateTime": "2024-02-06T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

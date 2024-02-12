@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65c054aafd20296c49fc4a5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"

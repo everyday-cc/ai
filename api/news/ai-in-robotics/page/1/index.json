@@ -185,6 +185,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-05-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence.md",
+      "title": "The AI Revolution: Transforming Supply Chain and Logistics with Artificial Intelligence",
+      "excerpt": "As this vital technology continues to advance at an exponential rate, businesses that embrace AI in their supply chain operations will be well-positioned for long-term success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
+      "originalUrl": "https://www.supplychainbrain.com/articles/38972-the-ai-revolution-transforming-supply-chain-and-logistics-with-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2024/01/29/thumb/SCB_Q1_2024_COVER.jpg?crop=1&height=348&t=1707109367&width=271",
+          "width": 271,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
       "title": "Best Robot Mops of 2024",
       "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
@@ -579,8 +622,8 @@
       "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
       "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
       "sourceUrl": null,
-      "webUrl": "https://armenpress.am/eng/news/1129253.html",
-      "originalUrl": "https://armenpress.am/eng/news/1129253.html",
+      "webUrl": "https://armenpress.am/eng/news/1129253/",
+      "originalUrl": "https://armenpress.am/eng/news/1129253/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -638,6 +681,40 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1239,101 +1316,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
-      "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
-      "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024.md",
-      "title": "How Blockchain And AI Are Set To Transform Small Businesses In 2024",
-      "excerpt": "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b14fe78b7bfa33c952a2b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1354,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/24/how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024/amp/",
-      "publishedDateTime": "2024-01-24T17:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

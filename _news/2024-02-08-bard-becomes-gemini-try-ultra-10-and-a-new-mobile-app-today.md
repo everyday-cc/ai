@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/gemini/bard-gemini-advanced-app/"
 webUrl: "https://blog.google/products/gemini/bard-gemini-advanced-app/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Rebrands Bard to Gemini; Debuts Ultra 1.0 Model & Android App"
+    excerpt: "Google has finally rebranded Bard to Gemini and introduced Gemini Ultra for paid users. It has also released an Android app for Gemini."
+    publishedDateTime: 2024-02-08T06:45:00Z
+    webUrl: "https://beebom.com/google-rebrands-bard-gemini/"
+    ampWebUrl: "https://beebom.com/google-rebrands-bard-gemini/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-rebrands-bard-gemini/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 44
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/Google-Bard-is-now-Gemini.jpg"
+        width: 1250
+        height: 750
+        isCached: true
   - title: "Google’s AI chatbot Bard is now called Gemini: Here’s what it can do"
     excerpt: "Google’s most advanced large language AI model, Gemini, has officially launched on Android and iOS in the United States."
     publishedDateTime: 2024-02-09T05:41:00Z

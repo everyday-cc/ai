@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
+      "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
+      "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "originalUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cnbctv18.com/wp-content/uploads/2024/02/foxconn-1019x573.jpg",
+          "width": 1019,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
+      "publishedDateTime": "2024-02-04T10:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-apples-effort-in-testing-self-driving-car-technology-paced-up-details.md",
+      "title": "Apple's effort in testing self-driving car technology paced up: Details",
+      "excerpt": "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/apple-1707032344.jpg",
+          "width": 360,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
+      "publishedDateTime": "2024-02-04T07:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
+      "title": "Is There A Bubble In AI Stocks?",
+      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
+      "publishedDateTime": "2024-02-03T18:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-04-samsung-responds-to-criticism-of-the-galaxy-s24s-ai-photo-editing-features.md",
       "title": "Samsung responds to criticism of the Galaxy S24's AI photo-editing features",
       "excerpt": "At this year's first Unpacked event, Samsung showed off a series of AI-powered software capabilities it collectively calls Galaxy AI that it has integrated into the",
@@ -1037,152 +1175,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
-      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
-      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "publishedDateTime": "2024-02-02T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
-      "title": "4 questions to consider when you’re selecting an external DNS provider",
-      "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "originalUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
-      "title": "The Impact Of Artificial Intelligence On The Art World",
-      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "publishedDateTime": "2024-02-02T12:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

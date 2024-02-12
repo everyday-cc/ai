@@ -1,20 +1,20 @@
 ---
 category: news
 title: "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion"
-excerpt: "Artificial intelligence is the latest in social and economic shiny objects. Many are wondering about the trajectory of their professional lives. We’re all wise to do so. Such threats are not new."
-publishedDateTime: 2024-01-31T11:07:00Z
-originalUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
-webUrl: "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
+excerpt: "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace."
+publishedDateTime: 2024-01-31T10:07:00Z
+originalUrl: "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
+webUrl: "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/"
 type: article
 
 provider:
-  name: Knoxville News Sentinel
-  domain: knoxnews.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
-secured: "2AgYochWQPE7iliR9iobJqe1OV/kxwexLWyKFf6T8ADXuiIg5a2wsDCLT/JX9U61DpvPCMfExXA9Gm38atb3rsY8bHGx7/vaM3xFlj8aTYmecd6/dmxll8KCw4mk2nZMADSsMWa1Dx3MYFag+iJ83v4zHZKmzdtQ/GoEYgmt15MuXrBRhSsyFQu8g+nnLIDDQNVNX55Gy1BxZk/pUdLbBRs7eEY7xrP51JsxRy8CTIekq/D21/xNn5hW945lsahM7otXRCYmaXn4vfIdkXyH5wEk698DeDh23I1Sd0+Ye5t8tEWp6ndv4BE9e45z9FNwxEgR7OT1sKdJH4eb+bzk/BvYHNsQAstbFqDHHevT4zk=;8Q9IOy8tPza3VAhkW/Wkrg=="
+secured: "+SkZ32sU0aLAIMjF7IdW9FpOuOwkx0AEA/2pS2BdTnun7vBP8Y4AaMq7ZoPo4WbYlaQzL19L3rJDxqINuXIEjFmVktQYsAkoq1m3h2ftRwtzEHommQ5suR+stX//ZgZmTCwp5VNjHo1KQMEm5lHjucwL+P1m4j+BlNknmcdIl79Nunk50gQ4O1pB+1PuVOOLDi4U7u2YWShyJlx3Y3h1LjGhgsDQZd+llrkC1ayIax0Eo8TDs1965izGk40yrFVyVm4RlvMzjSCcSZzRyASoNv0CQ/fiPmWq/+RYaG07JbMLyj6jkXUhlVKfzn2ocWl5LKNLV4YyRLZu5oW9Xok0pqTZNGZ8WkzuvebJu39AZqgqkljeeGst+zpnqFVHd3eqcUOJIVv3kP1yOFwYKm+oVEyNeQ4y2vBZixz7/oLrxn2u1GwfzUP6w/LN7x0LGxUlpgzbuNMY9jPtnri6pkQurBSNbfn4V1QBZg1c6+9na+lftSq14oZRbhquskQm9IGKksg5x+rs9ng+3hk/ZkJZgQ==;XTnB5OTZxWrtwWNvVqPKMA=="
 ---
 
