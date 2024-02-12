@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/07/openai-will-now-add-labels-ai-
 webUrl: "https://siliconangle.com/2024/02/07/openai-will-now-add-labels-ai-generated-images-following-meta/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 4288
     height: 2848
     isCached: true
+
+related:
+  - title: "Telstra scales up AI adoption following GenAI pilots"
+    excerpt: "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more"
+    publishedDateTime: 2024-02-12T09:10:00Z
+    webUrl: "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/"
+    ampWebUrl: "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EmH+d8dBGlKdWlzeVR8ooqaah0IEGdvmxsGEy0QmR5pCoRMcFSAj55TwIQ7cBdy5R761LfBhKvEgUtLk8lQg1pFv32CSx7J5pXgUUmiy5pXGusXzid3tYTO5Kam/N0GLkI1gEm1oXHNxv9fmLNA8JLyK/7nBJviE3Xp8WFGSYFfC10yK/8QfRctmMyG/7183VXauLiZtrrbZFBul8TjJfDapX88BpL5O6xaD4rT0ix/ZBecA8CcPzdl21Iy3lBHabI5IJFCNutbUdkEAJHiBlfbO2G/LYXTQoxEGH3fnCFFAI67sP/KembtEkftn20N3NqYYGvOvioamPLukIiSrkZP9qjHaf+MkjRbV8R9ZP13nBkavGdXc7t8wlFFip9ihtXzA5fCTgPuTj/+Z3i8Y/+dvBdjHYRKKcQ9D6AnPfkWfREzZSWzh5Qcq95N6rSWJpjCUdqwNIEdiUBnHkYS4PesM7wgw91enqooqPPzpSK5H236/59Z3hBYfM1ROHI487phI+/mUtEnfcUMZZdZ3QQ==;WpxJfVLbk6cCqeJlkYn2LQ=="
 ---

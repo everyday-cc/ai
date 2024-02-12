@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/fa
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: scmp.com
@@ -35,14 +35,12 @@ related:
   - title: "Hong Kong police head says city may use facial recognition to maintain national security, fight crime"
     excerpt: "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu."
     publishedDateTime: 2024-02-12T04:54:00Z
-    webUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
-    ampWebUrl: "https://amp.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
+    webUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage"
     type: article
     provider:
       name: scmp.com
       domain: scmp.com
-    quality: 108
+    quality: 86
     images:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327"
         width: 1200

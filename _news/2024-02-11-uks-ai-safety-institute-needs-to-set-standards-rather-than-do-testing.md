@@ -2,9 +2,9 @@
 category: news
 title: "UK’s AI Safety Institute ‘needs to set standards rather than do testing’"
 excerpt: "Mark Warner, CEO of London-based Faculty AI, sees new body as an international standard setter"
-publishedDateTime: 2024-02-11T10:28:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
+publishedDateTime: 2024-02-11T11:34:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "dwlGjxu1oPo6oWUsEGn/MHX11ABVM4brgrtBzRYO8wsUB5SEfw45jDLdYHm06vvvsPT1pZt1COXpDYrpmLp1oxJRUq6kw7ovEdHlbejXc8XrWsccBIbd8OZB0k1g4QJFHx0/eMLKWhgxIi6+1ToyWMo0Kd8Si9LA86KGlikzPlbxBdOOYaKmsSzwVqFUPhX29qTRrdbjxmzrXZN/gDvlbZHRljRY/3rz0ktNye3L66pKxH1Us/ODIIQPAPmiXnl/nd1iW9xYt4OLDyzgV28JWSqJi3QwvgyaPve502yVByZwRESQBewjfgOZS7sQ3WWim5RiO70lz1IgoaWZXicUhM0xzhLYFiJYaXE5iNdkTO0=;9QFuvn+mcJzrG2GOTxqxtg=="
+secured: "grEvaqGzDQGwYus20w+BuHCD6rHBwmE7wRJQGwb6riyBjcaQnAW7UAnM4w7OUyUgo0Yz9fQlbtOxDwo5aEgNbxk1UjvNoR+9JCsOPaqbLD5so2iQ5RY26rPTms/8lDgAlkl6QAF1ZW49t8SqEE4jnjR+9PiyVv7SKFPaulldmfZnkvCWcvljwxVV74DmWJh3c6V1FLMJQTsKiqm2cMF/Yy+UX15eW596x5rc91D08J3kMMLs0bHTOQpRMBNh6DmbeJKpaLFTej965HVY4n1ffzq5MIcC7TtbhcJ9hP2A1hOG7KPTwqyZvFSRpuJLJYlQCRpgnpik+eYikU49ymW2ZHT36T2IhqwVCTxJjSUfio4=;KmxmUwhRNH20BTio0PS4fA=="
 ---
 

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Could Artificial Intelligence Replace Psychologists?"
-excerpt: "I’ve heard colleagues say that AI will not replace human professionals but will augment what psychologists do. There is nothing to fear, they say. While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals on a large scale is closer than ever."
-publishedDateTime: 2024-02-08T20:28:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-webUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
+excerpt: "Current and forthcoming developments in AI will alter the behavioral health landscape. Intelligent machines are replacing psychologists and other behavioral health professionals. We risk losing real human-to-human interaction and relationships built on trust."
+publishedDateTime: 2024-02-08T18:58:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
 type: article
 quality: 39
 heat: -1
@@ -33,6 +33,6 @@ related:
       domain: psychologytoday.com
     quality: 41
 
-secured: "u2dg2s+uZunirx1ZQpBhT5QETVGv8JPt5de18wy/RQD+x0ftK9LZKVJtJgkoGBTMHXDCQT9Bs7FsqoWETB9BC7AYxS588UJzwf0UqAunVp+oNfrL2sq4MLoxP7axN7tYWoC5/P1HYBxYsC8WKGkZS51x3uG0UOq89khWtH43q5Aj3sYrj2deg0xNv5pvFfXolrwBpuEreVjuomGNC+RknD1C63vwPT4fbL7izbtI+wxvZL4kV6tQd8ExQ2HMKu4gKSNzbr3HUkxWCtGD7aRasaLUzO+ixGers148mtptf62jG5rQDnMYSjpFOwn+we+QlCxL1uFhvC1F78/GzAL29msNgSTAsad+ku60PnXj0LSpP5MB/+5nGUOxRwYu2C40uYvSlTT+xbhGRIAbvibUT/h0ONUZjbZnhXb+eAM2ccLw1gL2jlZ3ZOSHzXa9bzEzu1hQkwddXzGmh2UyrO9rU74TTl06aIG+5Vup/qLpf4IpHlpmO6rQxw01TOufMy9jQuRFlFbh6cIEFmZm/qCQIg==;BKVzidDf6CAmll8dKaFaBQ=="
+secured: "t8vrt1ZRlHFY5eUWTHS0p1GPUxDxBtbzziUFmkQAIkGygHKhrY/dmi3ggE0sw+ksnK8KLVclt7ybOCFFfJPgty7h58jGQoJMO7r3ctG/Beb/IYuAAcAH3rDMHmPWAnjvyYwD7rqkC5qnFkbW6S6miCS/UuOxlj7FEVa2ouAoX8bFSHxP3otXpdrh1mR+IfXwKQ01TasC9kjybXvLsFfmq7Fwj4D+lnJlFy1OobPss+dLbxzEb1Vzczz2hHQw+SEdlKjSftti9Frra317Y99gkIo+FNK2mFzsnF3u1y7s/D7p1b3gt9XMwTJR1PL8oeHE8Z3i9BuYZ0puOZdTZ5mv0sOIca0rgHXdy8xjEhRQ6dPTmFdSKI9zftXyPRiSldFGEqhUlPZJgisAF52Sd5WeyxOr/F/uUl/kSFL+NanrqkNt6oTFmX4+Z9BqcvwrS5+1S2HujTho7SO9ifKVURvHTEK00ahdvx6n4ELLA23HezMWMuFuzWzPBdxtO9g3yb1C8wiwTYw8+Eb5tXlTZZv0Cg==;a+5p4wYfKOOxWNvv2IlEMw=="
 ---
 

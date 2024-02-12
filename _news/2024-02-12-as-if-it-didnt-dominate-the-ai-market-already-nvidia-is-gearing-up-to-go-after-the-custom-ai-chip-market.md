@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia's tailor mad chip gamble"
+    excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
+    publishedDateTime: 2024-02-12T10:35:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/85ae5c159005f0f36da0615500f600e0_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
     excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
     publishedDateTime: 2024-02-09T06:31:00Z
@@ -38,6 +52,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
+    excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
+    publishedDateTime: 2024-02-12T10:57:00Z
+    webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 33
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/2024-02-09T184144Z_1_LYNXMPEK180O5_RTROPTP_4_NVIDIA-CHIPS.JPG"
+        width: 1200
+        height: 749
         isCached: true
 
 secured: "whilKauoyTru/8iIQGtQb4xACIysatcOh1obC9IkytuF48DoK/sKF7dQOQIlOEw5Vx5p4mPug8GT2kGrdu8qkBScTsY7/Y5ZtWHiK+S6m299KY8GzPh/1ajHJwrshQAeomsGBYA7xexMl03ohBiOUgBIkLHDVCx2w03k22S7FSVpRobqVC4R7+HBQzzDjDYVpeuY193kO5q3/NsbmH9WJzlUptpbZv7KqddILA9PYxYJbp6ZNnai5MIXJyaOoMtFvBC4l8V0xSdvOrOswkr3kf00t49Bj+yTv+pFJFdap3VUNoaX9nIqwazpUZccxTmtRSFujtKUXHI2T9yZpTK/5iiHK4n2/ikrpNSimpCmPDw=;XjangRSmw13bWJGtgCpFvg=="

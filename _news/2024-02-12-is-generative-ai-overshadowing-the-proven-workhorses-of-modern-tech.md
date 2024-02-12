@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1000
     height: 666
     isCached: true
-
-related:
-  - title: "Exploring the Ethical Implications of Artificial Intelligence in Tech: A Deep Dive"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) has emerged as a groundbreaking force, reshaping industries and revolutionizing the way we live and work. However,"
-    publishedDateTime: 2024-02-07T09:37:00Z
-    webUrl: "https://techbullion.com/exploring-the-ethical-implications-of-artificial-intelligence-in-tech-a-deep-dive/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Exploring-the-Ethical-Implications-of-Artificial-Intelligence-in-Tech-A-Deep-Dive.jpg"
-        width: 650
-        height: 450
-        isCached: true
 
 secured: "Gz0rb2XH8CEziCH/UcpmBs0VpvyUC94wC8JHtZIcxOMUfWo+j8I9Wwi3XAojMyQDZrw2XV8rB9D1WA5ayXUxBxnH6rxC7jPt+bdILfzsoCeq/0lXom8nTztCrYBdHEsl54sAQjfknb5SxBnvOgXc/V5ou6c878TLrVwy+DEystLkZ8ejrMkQ22sUWFSBuRCT4EeYC8jKxcg+vWP8xjme1luvGmoX+93L4SQYoaM6isT4NLJ63dMTZd6vqRzXWGQS5b1pXU4d7MaN+llxGcyz7b+4QguDE3i92stOfqwfm6I9nuaV7eCnDqmAuijJIT54D2sHbvuvbxK19zx2p66Jx3OfJkFt/6lYMWrSuHOSgAI=;Ka2AlCiE6s4yEVknfbw71A=="
 ---
