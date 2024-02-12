@@ -3,12 +3,14 @@ category: news
 title: "Hong Kong police head says city may use facial recognition to maintain national security, fight crime"
 excerpt: "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu."
 publishedDateTime: 2024-02-12T04:54:00Z
-originalUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage"
-webUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage"
+originalUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
+webUrl: "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
+ampWebUrl: "https://amp.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime"
 type: article
-quality: 86
-heat: -1
-published: false
+quality: 108
+heat: 128
+published: true
 
 provider:
   name: scmp.com
@@ -19,8 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
   - AI in Security
 
 images:
@@ -61,6 +64,6 @@ related:
         height: 960
         isCached: true
 
-secured: "APD4OYxi/hIAjcJ0TjgCx2u+yXAuQJfSgfufrUQlMnYSKrQ/zsdmuuPtA7mAwTqCh1/WrN+Li0gwgkAr3ToElc7rE2/+f+QniLV9cXa7DBGfrmvqYcclGanKv+RsJsHKCUrrswSdVFjeAajZhyZ6dcOZVzHCmtHvBiIcJSLDxFyveioRna+bpurdTNeYrr5ht/9ii4y+GZuWjwWfa7F2yDvXJVB9kkmLEGf9SVqLjYHHQ9Txv9UK4J1ZDzJ2NMK8Z4CigW/bP1RLLE//mUgI1LNvZABj4vXZNtBO3Xd0T8diQQ+5lDNGPf5wLeJKxAbKXwvdpyHJesyRLvgEOX6hczGcp6nsdGzrEQd2QnrBoyc=;eGRjAtL1x4UyDBxeYOqXYw=="
+secured: "sEukOvXIAvjkKDxHOKZH0+eEbFtfFfCKcBoq+G07uaXhvlK+LYKRG4OH9t+FqEYRRv85GmvwmvPGmDSUhf5GnZtHfo2KQimMiVPGJ4Te125VkK+IafbkAyYbpdytSYva4dDH12Zw+Rd7l4o1vFEKFFTAA8U0+tv6ngPkgLdhqcCWvst6G0KN4QMqkfYhaG1uARwpu5Q+DloaHNqWK5H8ykbzUl2vi9aUU6VmLF56eAbNODXMM+4jcSPJbwmhrz45Grr4UqtXiok3OUdjQ5JPygUyO0b/P+SPFYEKyxRwQsierIuc0yax2ASCJex4SWSOCUaehronp2d/V00jbzdq3XanSsAQQZuqJGatP63MkVI=;cc1V82mq6VJ2oZsTJJa9iA=="
 ---
 

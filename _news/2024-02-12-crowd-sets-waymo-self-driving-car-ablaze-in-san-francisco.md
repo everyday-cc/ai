@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
+    excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
+    publishedDateTime: 2024-02-12T08:24:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow/107623393.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/amp_articleshow/107623393.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/amp_articleshow/107623393.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107623318,width-1280,height-720,resizemode-4/107623318.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Self-Driving Waymo Robotaxi in Collision with Bicyclist in San Francisco, Raising Safety Concerns"
     excerpt: "A Waymo self-driving car hit a bicyclist in San Francisco, raising safety questions regarding autonomous vehicles."
     publishedDateTime: 2024-02-08T19:22:00Z

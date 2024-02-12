@@ -2,9 +2,9 @@
 category: news
 title: "UK’s AI Safety Institute ‘needs to set standards rather than do testing’"
 excerpt: "Mark Warner, CEO of London-based Faculty AI, sees new body as an international standard setter"
-publishedDateTime: 2024-02-11T11:34:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
-webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+publishedDateTime: 2024-02-11T10:28:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
+webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "QVbkKXpYEU/HuQtUqCmWb4HRG7z+MQchDEFg0T9OlL+hMqqdrlfCv6qBmFwZhdSXRXl728M0//m0o+kuAEX9gRMtFSyEr4E+vWF73ohC8uE8ahDm55Dqyr1lGN664v/7TUY6lE7TQx5APzITAJTCMLamFlDbz57Shzcgs/r8xBWJbuGBs3GZCNBdTu5AIamGnwfdOOZo7l4yb1AIZ6SWfrSr5sFLr7NACDy4fBYeL8aKnhoCvuFSiv6CzKPPBXReJbum/pRVFgB4X4EDNfbO0inOpmh/ZkKSCGalMLEOfdAaXYmbGGQy6Vqp04srzPMqmRZd4WiNQPGhEM/twf3PJTuIsnCyBBzmBMcnAqL7mJBbQEhx2mJ272anOLeuesSMzw0KYQNgc84avqFBoGo5cYGr1n2QQnnjFltjhCP8PDPodnfoPcJnaX9f4aCzch8tXhmFcMm15GN0G44xwWBO+udMjYY7yfhKcdmHiFhUPNCUSP4TUiHxWKsLlbWVti8EhitCrnq4lviUUCSFo2Vp2A==;Bv0vd+V7tPlrLUR4GVPXhw=="
+secured: "dwlGjxu1oPo6oWUsEGn/MHX11ABVM4brgrtBzRYO8wsUB5SEfw45jDLdYHm06vvvsPT1pZt1COXpDYrpmLp1oxJRUq6kw7ovEdHlbejXc8XrWsccBIbd8OZB0k1g4QJFHx0/eMLKWhgxIi6+1ToyWMo0Kd8Si9LA86KGlikzPlbxBdOOYaKmsSzwVqFUPhX29qTRrdbjxmzrXZN/gDvlbZHRljRY/3rz0ktNye3L66pKxH1Us/ODIIQPAPmiXnl/nd1iW9xYt4OLDyzgV28JWSqJi3QwvgyaPve502yVByZwRESQBewjfgOZS7sQ3WWim5RiO70lz1IgoaWZXicUhM0xzhLYFiJYaXE5iNdkTO0=;9QFuvn+mcJzrG2GOTxqxtg=="
 ---
 

@@ -32,8 +32,8 @@ images:
 related:
   - title: "UK’s AI Safety Institute ‘needs to set standards rather than do testing’"
     excerpt: "Mark Warner, CEO of London-based Faculty AI, sees new body as an international standard setter"
-    publishedDateTime: 2024-02-11T11:34:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+    publishedDateTime: 2024-02-11T10:28:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
     ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
     type: article

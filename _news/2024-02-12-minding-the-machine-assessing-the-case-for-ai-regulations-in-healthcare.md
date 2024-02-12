@@ -7,7 +7,7 @@ originalUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-cas
 webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the Ethical Implications of Artificial Intelligence in Tech: A Deep Dive"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) has emerged as a groundbreaking force, reshaping industries and revolutionizing the way we live and work. However,"
-    publishedDateTime: 2024-02-07T09:37:00Z
-    webUrl: "https://techbullion.com/exploring-the-ethical-implications-of-artificial-intelligence-in-tech-a-deep-dive/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Exploring-the-Ethical-Implications-of-Artificial-Intelligence-in-Tech-A-Deep-Dive.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) has emerged as a major player in the realm of health care, promising to completely transform­ its delivery. With AI’s remarkable ability to analyze data, learn, solve problems, and make decisions, it has the potential to ..."
     publishedDateTime: 2024-02-08T23:59:00Z
@@ -69,6 +55,6 @@ related:
         height: 225
         isCached: true
 
-secured: "vjuojnOMgpuapi0r1N2iHucNB61nofP2PycXW8/YUdm0z1m7XObUev5Y5RhGJtSbPlLme28DNeZ81kILz9K9L99iui6VoaTfGw1J4UhCuoZt0+2nM3pHEeh3K60ss2ID7OUTrJpeatonAo0T2TcFg3dYAJ+vyShMgOFnhujGM/9GGZh9thg9bKQB60GbqPl/FRur+rLTxX9Wrnp4uAaJ3F24KCmXE3GR+zB67Ze5aZHiqE32dkuN64GbZAGzuiiE08s+bjhW4kF4dqLeCMDr21H9AYeV/Fb5Jewfg67gBlq3mw3ZOVZm2pcqIDeEfVinlsMfUqvaGZNbHCxKGecksT9r4xBmDXVAr69naHRI0P0=;P23ViI9i6Ene9JZINFPTDg=="
+secured: "ktUONhQJ4ULgKUsKW4ubfxuIhQjbmPHq2Kav+fFRrZw+D3wee/KE9O/ETSsZ6lKuPuE4BzDwfcziEd9Hm7pbturoUulv8nTdU0VpSjoqltSaKdg2vvWiKJI//GsG0ZQCzrdftBt16qdLaB5ucD+w5jqBpg1QkuBmzpnOQUStO0VvHE8MOrRwUdXACW3n7GG4ddFRvgSk1ff9WeLdjjUQVouTJfQdaAy6ckjQ4n7Es6r2LARsKKsFaufLcwYlHis0PyBFwBdviKTD61OsEezaKASNcxkXK2L8b7qpTlnAAStOze1dADlpADEm5rJQL/WOGH7nK5I+kyXmacP3v/OcFUPhlEx4kLUbdBIW110Ue8TDCZDwmc+AIEXRU6zXd99cjQE2g4ox7OS6fFWuwwaikiKWTjWH7FjJlAcrNHgi8ZioKEhHqPShyC4+W+6kjtMOxgA0zdhWTyCf61cjYsfW4d8MlMAY6YCwLHz4oHtkrZGUYg9CdkIczHkJbWyrDwcMJP07xcEHnp1JQYi30UJTgA==;9wd3BSrHrlmKMTfxiZLQsA=="
 ---
 

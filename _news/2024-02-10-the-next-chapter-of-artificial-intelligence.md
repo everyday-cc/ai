@@ -98,6 +98,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
+    excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
+    publishedDateTime: 2024-02-12T08:00:00Z
+    webUrl: "https://www.viva.co.id/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    ampWebUrl: "https://www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    cdnAmpWebUrl: "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    type: article
+    provider:
+      name: viva
+      domain: viva.co.id
+    quality: 44
+    images:
+      - url: "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/08/6572a07ba12f5-google-rilis-gemini-ai_665_374.jpg"
+        width: 665
+        height: 374
+        isCached: true
   - title: "Google renames Bard to Gemini, launches paid ‘Gemini Advanced’ with Ultra 1.0"
     excerpt: "Google is rolling out Gemini Ultra 1.0 today. To mark this occasion, Google Bard is being renamed to Gemini on the"
     publishedDateTime: 2024-02-08T13:00:00Z

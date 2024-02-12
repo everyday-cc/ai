@@ -39,20 +39,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Exploring the Ethical Implications of Artificial Intelligence in Tech: A Deep Dive"
-    excerpt: "Introduction: In the ever-evolving landscape of technology, Artificial Intelligence (AI) has emerged as a groundbreaking force, reshaping industries and revolutionizing the way we live and work. However,"
-    publishedDateTime: 2024-02-07T09:37:00Z
-    webUrl: "https://techbullion.com/exploring-the-ethical-implications-of-artificial-intelligence-in-tech-a-deep-dive/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 50
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Exploring-the-Ethical-Implications-of-Artificial-Intelligence-in-Tech-A-Deep-Dive.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care"
     excerpt: "Artificial Intelligence (AI) has emerged as a major player in the realm of health care, promising to completely transform­ its delivery. With AI’s remarkable ability to analyze data, learn, solve problems, and make decisions, it has the potential to ..."
     publishedDateTime: 2024-02-08T23:59:00Z
@@ -68,6 +54,6 @@ related:
         height: 900
         isCached: true
 
-secured: "7sROlOXykL3MLcnCGx7nkllKeriatoucpuVYU/I0ZwSEFVEexwEO69QTj8NzrLF2dvLW2boxfETTHQdaDBd/xbUOIMYRq2aEwedRucBuUpBw1m9+6uIvjRFzEHvw5GgitdF3fxqf6QkdC0ALb08XQ2wcwh+b2v0IJ9TP94w5nOBY3XUIw3j0UKFCstaVT+IpgZ3VXCFZ6VhhmHPbO4jwwLpMHrq79BhmjTagkZlSriekWBqi553leaDyqsJUgo98gIN5HTDohrGGZKQXsHK8Z2Q9KyNboIDKRHH4vaNjrN7ThKmymnaYIm1UTo3YP5yIv52CI0N5rFYALf0n8AoK8DQYAPd3gRz1M5HsVjFghDI=;IxHHmkDBkegL5mxAwgdfKA=="
+secured: "flo0ixCVASHUlJ09b9ikRB8cUMPvPwOVlEcAZkYVak1NZU5BabqSn4Bbqm5S7oeWqcEFSUCG64Gi8RleBq/46cDE0yhYW62UTywjuhBGG9Mzn4dxhc5Me9/APlSFs8TjIjVUDkEm/f7nNVyMMsCVW5ME8xzVA70EQzM8HQ3E02yv5AXVtvNyXG9eJrYyEVCnloPgaQa2nrcmQucd6qLSN3s7YHsDHYk3vpJ2m4+MPj1YmutA4HdUpBogVw0s/uHfVDgtkUW+b3QOXNwpwONY2twTIhMocrKCk2qL4hUS3zX5zR76+zLUs+jbZVb8UQOeH38sOpJgcxyxXsNkkp1/+8gGNYKD6HKUUrl3wI4xTVn4Mnvn0UGttT7SrExiK8TZtpKu2o7uK2KlqnZcbOSEpvQbozwSadXe96Ie6ovBHFNY8NhOru+CDHMUYJWlV34Gl3BevNMdxz875qzKEvlzvf1tgM9nzLowtsN8gL/uPMjCeG5N1Avxxftl846SReAQJWCbJEyWUPAkcoQyxczhuw==;J7/lWmFf3G8dYSQv0j/75Q=="
 ---
 

@@ -26,47 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
+  - title: "Is Generative AI Overshadowing The Proven Workhorses Of Modern Tech?"
+    excerpt: "The rise of generative AI has indeed shifted the technological focus, overshadowing some of the core technologies that have been instrumental in our digital progress."
+    publishedDateTime: 2024-02-12T07:30:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care"
-    excerpt: "Artificial Intelligence (AI) has emerged as a major player in the realm of health care, promising to completely transform­ its delivery. With AI’s remarkable ability to analyze data, learn, solve problems, and make decisions, it has the potential to ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/hhs-addresses-the-growing-influence-of-1261893/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 36
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Changing Dynamics Of The Global Artificial Intelligence in Machine Vision Market In The Coming Years"
-    excerpt: "Comprehensive Market Analysis: The report offers a comprehensive overview of the Artificial Intelligence in Machine Vision industry through a combination of qualitative and quantitative analysis. The report focuses on growth drivers, market trends, potential barriers, and stakeholders."
-    publishedDateTime: 2024-02-12T05:53:00Z
-    webUrl: "https://www.opprairie.com/news/changing-dynamics-of-the-global-artificial-intelligence-in-machine-vision-market-in-the-coming-years/38652/"
-    type: article
-    provider:
-      name: The Orland Park Prairie
-      domain: opprairie.com
-    quality: 24
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNrejkG-ZjGEdlOMh-meridFUzlLOuzl7anbHTfv-Sa-6rivgHQvzb54qZp1ldaalF8wXusugUfw4KROYvGo-7KkzYecnIJgt_vNXBwc2h8i_TCvLqrk8IBErovzda-YzmDfA_Umc83zZuzcFZ_NBDPf1EaUmUvhWSvsWQ2pNrwZnQ_cqU7d0A79jow/w400-h226/RV3.png"
-        width: 400
-        height: 225
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65c9c8af2a997a698a8ac4b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "H3jpRJb7IzKIJEBsO6DHbj3MqmseMQAG9PyEjdQCSVpxAaH9TbAvjIs9z2becpfBGTeDd3/i26stWJCAYFZyPSQA0NmWmMLGQviJeOHfdWjbO2SIQG8/E9YhTaPag5qvlMv0h/E02alOA+SETJESGpSN1iIMGx1E94HBAHcaRLKi8Jj6yeyd20XkBH9kj3Oy57k/1v+nckqD8tdPxBR9+50xO+dLnnucbzYx8HWh0LnvnkaaQTDdopu6tbPRpVbMv3rCiAIOzmaaRyupANXgsmPRcER46RXSw4VpPSU8rhWPFTgvxTIOcpEyjp6g3At7NuFKRNF83V9egwYZa9JlxLJA9AGTMFRlZP9NStem778rxHxrhy1UTN7Co8XTyeFaB0F1ButUUnvRp1lkwfbWOhxhyTzPVIo05vZcNWgnM04+NuHQb/E2NnUKNnSrS4yl4vicsUH9z4qIlT/OK0TDUwmcgHqE1mqRZUoigI7Vh3aHdfulZWojJoDZybOhPNU1R3zcAwsdi0suCAbk3F6sog==;iZDXX2MZv+vRU2M8AkjTKQ=="
