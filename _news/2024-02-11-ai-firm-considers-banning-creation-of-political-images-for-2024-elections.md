@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/10/ai-political-imag
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "BARREL ENERGY ANNOUNCES CREATION OF ARTIFICIAL INTELLIGENCE MINING CENTER"
+    excerpt: "Las Vegas, NV., Feb. 12, 2024 (GLOBE NEWSWIRE) -- Barrel Energy Inc., (OTC Markets: BRLL) (the “Company” or “BRLL”) is pleased to announce the creation of its AI Mining Center, Spectral AI Hyderabad, which represents an innovation in artificial intelligence (AI) directed spectral anomaly detection for exploration and environmental services."
+    publishedDateTime: 2024-02-12T15:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/barrel-energy-announces-creation-of-artificial-intelligence-mining-center-1033057718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
 
 secured: "pbv5+GjuhQ+dWcQ47J2pZjdDiyj0UjXa1PNCgstwtnrKG/pliamZfmqIKpNVgLWiXiOjo2LXM6E3kKm2UEtHGd8GW+EWxEAKHRuWf1BQb1zzt8xNA8EfKevgJZDfM5nSodUnpGFUMp4izg0JMaVmpQroiKraTvSS7ptsilICGq7KYFu+qO0+aqoxa/1/Y85/41OLc8UYvOWwy5RM3MTzC3GwDxM2RCDivbk7cIqxVTwn8ele82Angzc21UfpEI1Ua1IQj4Ow55uZlcmXOW065EsDQi+LdXcEvvyxF/DCtWayYSv9d8nmc65Kc6/ygAsCFV8/oZr0OZ1SYICUBVaQXi1NAgu/r0npM6p2r47ea3nhJnaUVe6E1HFyYYgfTYkjB0UEa/rDXkCf5x1D7sBMMSn1FYTIhcSubjWPuLscQ+Z9EK/Lhf7dpIe4fiSgCOMnGn6U3Q8fpZ/3tkuB3OzSwoEj9opL9nglphKdFcg58b3Xrb2mFrGjEnywO+CD1exn1H/NNiAp1I6Xw6+l/iNdiw==;D4qdTPKp1hcuYCna1LYZXA=="
 ---

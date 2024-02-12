@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
-      "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
-      "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
+      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
+      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
+      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "originalUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 93,
       "tags": null,
       "images": [
         {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png",
-          "width": 1200,
-          "height": 628,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1300,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,66 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "publishedDateTime": "2024-02-12T05:11:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "publishedDateTime": "2024-02-12T11:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead.md",
+      "title": "Microsoft's AI growth is helping cloud business chip away at Amazon's lead",
+      "excerpt": "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/",
+      "originalUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1",
+      "publishedDateTime": "2024-02-12T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +93,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -107,7 +161,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1420,49 +1474,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt.md",
-      "title": "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT",
-      "excerpt": "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

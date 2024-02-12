@@ -1,28 +1,26 @@
 ---
 category: news
 title: "SEALSQ Announces Groundbreaking Entry Into AI Chip Market With Advanced AIoT Strategy"
-excerpt: "The AIoT system functions as the central brain of the expansive SEALSQ ecosystem, which currently includes over 1.6 billion semiconductor-powered devices. This network acts as a nervous system for the IoT landscape, facilitating swift and secure interactions across a myriad of devices and platforms."
-publishedDateTime: 2024-02-12T06:17:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-sealsq-announces-groundbreaking-entry-into-ai-chip-market-/2024/02/12/9960556.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-sealsq-announces-groundbreaking-entry-into-ai-chip-market-/2024/02/12/9960556.htm"
+excerpt: "SEALSQ Corp (\"SEALSQ\" or \"Company\") (NASDAQ: LAES), a company that focuses on developing and selling Semiconductors, PKI and Post-Quantum technology hardware and software products, today announced its entry into the race to develop cutting-edge AI chips,"
+publishedDateTime: 2024-02-12T06:59:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sealsq-announces-groundbreaking-entry-into-ai-chip-market-with-advanced-aiot-strategy-1033055602"
+webUrl: "https://markets.businessinsider.com/news/stocks/sealsq-announces-groundbreaking-entry-into-ai-chip-market-with-advanced-aiot-strategy-1033055602"
 type: article
-quality: 47
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
 
 related:
   - title: "Latest Windows build boosts Copilot with advanced AI functions"
@@ -40,6 +38,6 @@ related:
         height: 1334
         isCached: true
 
-secured: "WHeJGn1Zxx9pL9pxkQ6os3yWLex6l5fgRKWyMnLC+kmLOIoyUdO1HwPjSiiaBGkrnYMHkoWEHLk13TWov8ku3F4u6arDbM+OoLtd1gf9hzkp15AHAGzSwn0ck9zU6CvWdKDAI4g3ceg2jiEgoa5RZLIyxIsmmymai5A8yVkN5vtYOiKYU9xEQKAgGKvCfBwbPjwNh1+TwjQR0OAyRF4Lx3bIBuACo4sMrUzuK8sxqUVfL1NwTPFZALdOH29kQlJ0iY2zAOx3AF1Np+gavKzU/jCWxAZ+qktfy3lvb7SP/nmqudbBhy041Ye2Zw7seZ+uxX6Qsr4UiqQwzpl3Ed9tfOHmR5YLS3ToFNo8CNRb5VM=;x+xL6U93VDHMzABY1aMq8g=="
+secured: "NXx+WaQ/ahHnozk5wC8jEaCsc05RGzxbO2DA3BcWh5yGFyuJ4GRwFyP0c6rCyGLGvKZCMN8ILVPoiavC8p5TXInciUtJy9VrGP/qjGsgce0FHz5D6wnGAMFH7NPHf/aCN1TIVY9OECYPGzskZU43gjF6Pln4BT5FINw+mXLdebrA3PemHgdL+oisu55FORzO8SpdlUOGWRQ6GyTf8Eh7jeZtHQgRpgrPnYVyyNiLRz9Eg/aNSnP5XSI8WVl2Jmq99WHp0peIzpeUAs0ZRptQWXfUYhIcurRNBFJvkwQHXGVGGKikfAg86R5Mm8IggEQH3OMYo6PEFnZ7RcIQW2OZ8twVh6RKlA1USbXqmwfYYJQ=;sL9cOtyMuyljIxA3go2A5w=="
 ---
 

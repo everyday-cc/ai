@@ -9,8 +9,8 @@ ampWebUrl: "https://winnipegsun.com/opinion/columnists/stossel-artificial-intell
 cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/37b67055-4950-456b-b4a9-b144ece758c0/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: winnipegsun
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI Is Coming for Your Job? – John Stossel"
-    excerpt: "Some people will lose jobs because of AI. But history suggests that most will find better jobs. More than 90% of America’s workers once worked on farms. Better farm equipment replaced most of those jobs. Today, only about 1% of Americans work on farms."
-    publishedDateTime: 2024-02-07T14:07:00Z
-    webUrl: "https://prescottenews.com/2024/02/07/opinion-ai-is-coming-for-your-job-john-stossel/"
-    type: article
-    provider:
-      name: Prescott eNews
-      domain: prescottenews.com
-    quality: 39
-    images:
-      - url: "https://prescottenews.com/wp-content/uploads/2021/09/John-Stossel-main.jpg"
-        width: 523
-        height: 523
-        isCached: true
   - title: "Is AI really coming for your job?"
     excerpt: "The media warn, “Artificial intelligence will replace millions of jobs.” In San Francisco, Teamsters protest, demanding the government “protect” their jobs. In my new video, they chant, “Do not have these self-driving vehicles on San Francisco streets,"
     publishedDateTime: 2024-02-08T06:52:00Z

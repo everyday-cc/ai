@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/o
 cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/opinion-will-gen-ai-spark-the-next-major-disruption-in-automotive-erd/107626478"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 765
     isCached: true
+
+related:
+  - title: "Opinion: Artificial Intelligence Impacts Airport Security Systems and Personnel"
+    excerpt: "The dramatic growth of Artificial Intelligence undoubtedly is changing world behavior, both technically and virtually."
+    publishedDateTime: 2024-02-12T14:26:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/opinion-artificial-intelligence-impacts-airport-security-systems-and-personnel/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 45
 
 secured: "m+X6Yr3JGDDNhTdWj9AhdiFfrUg9tzukSYlL/nCr/RpXisa4sH9wefnn3zAIYSjGuGV6eBf6ANrBe8LtyNgC3r3YjX3HOTEGMCP/daNh+zyKWEZBquNLqEbLaO7idxdYdmdxmURVuLCe4k/myi0Awq5vvUH98v3XCDIvKwaIVzLP+vm9E6OhbHMKzA5sDdhsrjBhapcPt3o/NABgVEIhySA5Dvgv8A674E0jcj+aHpqZOUJ5RG4y8gwwVs9vIKdtHaBMyQFVEOHCsl3oT5HDAJ/A7rdnbYDlLFkATwuVoTMtkYoeikuAyiz9S591HQV00SjRWEkMmXt2bdGne36jbcnI/xnm+wZLICIIe8a3OJc=;sMgTNiW25GkOaFghy47f+Q=="
 ---

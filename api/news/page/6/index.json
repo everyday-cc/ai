@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-03-hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts.md",
+      "title": "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs",
+      "excerpt": "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all",
+          "width": 855,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-how-ai-driven-data-mastery-empowering-business-operations.md",
+      "title": "How AI-driven data mastery empowering business operations",
+      "excerpt": "AI-infused data management systems empower companies to optimize vital business strategies by harnessing data comprehensively and leveraging cognitive insights. In the financial sector, this entails utilizing customer data, transaction records, and market trends to bolster sales and marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T170055.986.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "publishedDateTime": "2024-02-03T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
       "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
       "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
@@ -1089,110 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-revolutionizing-governance-ai-driven-citizen-engagement.md",
-      "title": "Revolutionizing Governance: AI-Driven Citizen Engagement",
-      "excerpt": "Government-citizen engagement has come a long way over the past decade, with governments increasingly adopting AI-powered analytics, automated processes and chatbots to engage with citizens and gain insights into their concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "publishedDateTime": "2024-02-02T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini.md",
-      "title": "Google’s AI Assistant, Bard, Might be Getting a Makeover as “Gemini”",
-      "excerpt": "Google may be considering to rename its AI Assistant Bard with the name Gemini as flags on the Bard's website suggests. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/google-bard.jpeg",
-          "width": 1971,
-          "height": 1108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T11:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

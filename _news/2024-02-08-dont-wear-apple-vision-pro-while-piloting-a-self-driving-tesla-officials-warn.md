@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro
 webUrl: "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
+    excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 56
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2024-02-12/l_1156988_084110_updates.jpg"
+        width: 700
+        height: 390
         isCached: true
 
 secured: "VpvQxyai4eeP9y4ZOcrdnjVTMrRbKp3sZOOo4Cm28awzTMMLZTz9AULNr7vpaQnKoC/vJJ2bbaIvmLpgWrg6ny2/8R2IlhnvRqnp+Vz+Fh6ruebf/XhlXeIJbNzJ/57qfUOMKalrj4SVuUeBO0t4Jbjmb4S1UWg2ucy2DOGnui8AppJx7oxxy0mSt9sSOjUarW1//EcnxFjK1is1aY6xTyvK7tGQli3gr6K1NP6d/fmAzi77+LH4dIiFplltFkERd3whpj/04o3jrdZ+cnRsNW02x5ukQJ2LUBh3PsWWwwLVxNWFXRafVpDuyzGvFn3vZxKrpdOaqSYfhuBDMd04WihiUtvAJCaJeCpUOyJyXZTYF71O1lsPfkA6DjR9GB7T9+405W+4xU3GFfRz82r6gGw7baqZdiSRwNZeYUm902h+rXItjvNTvsyMyLVcXQ3AeOJtRib5jFaAF1lF3aBpn7rphqfDSLGlNQ1zDG4TkC8VFOfw4UAeNrtA4Nd49SU0VzHeE/qR2Xt7P3F3RsnqMA==;VpiHROOOpv9HCqGYsV0zPg=="

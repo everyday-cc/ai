@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "2024 Cybersecurity Trends: AI And What's Next"
+    excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
+    publishedDateTime: 2024-02-12T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/2024-cybersecurity-trends-ai-and-whats-next/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial Intelligence and Cybersecurity: Strengthening Digital Defenses"
     excerpt: "Introduction: In the rapidly evolving landscape of the digital age, the intersection of artificial intelligence (AI) and cybersecurity has become increasingly crucial. As technology advances, so do the threats that organizations face in the digital realm."
     publishedDateTime: 2024-02-09T10:07:00Z

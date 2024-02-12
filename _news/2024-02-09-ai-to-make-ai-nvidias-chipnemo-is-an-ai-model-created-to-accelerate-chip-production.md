@@ -53,6 +53,15 @@ related:
         width: 536
         height: 301
         isCached: true
+  - title: "Nvidia to Go After Custom AI Chip Market"
+    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
+    publishedDateTime: 2024-02-09T14:44:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
   - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
     excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
     publishedDateTime: 2024-02-12T10:57:00Z
@@ -67,6 +76,15 @@ related:
         width: 1200
         height: 749
         isCached: true
+  - title: "Nvidia CEO says tech advances will keep AI cost in check"
+    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
+    publishedDateTime: 2024-02-12T12:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "uA9tmA7rrkSIdl21JwaJ5qt0VOOsCEs1TlWW/HGViE+h3yccH5pV+nuhazmXqbxw6M9Z/WvFBrF86lARga0TBNakrB8WNzGHbQnkwINh6gMST+256KolHsV0ecBOiH+/MTSr78we1h2pP2jopSfufEPWdDw5RaS/KHVvqNzXbDmhtsyNBHIggtMJxMVQxxMmeWmTz+WGXNyrMCqTbs0tqK+IgdheHCj/opOtoepbeP5R6ZTzxK8hU3PD+PFgnQ4y1H48c42s3sfw1PhLW7hRzjt/+V/XMeA6Q2IqvSYPvnz8/ZLn0v/sUlI7P/THpcXSskRFDjgwrO6Q+dZiuvoCK++5NE5CK274TcdUFLka6DiZrchiUHKokOWvvj66rhJrkV0TraoyLoVnG8lysYLFdu21rbubGP8dt+NF2hU/DFcDHLZKgHXNE497H10xHoK/2Ys6edOiMSSTlutMc98EmAaH5lpyk2ypSXBwgHDWvaVT+dXHkPQbsNHEw3S+TRotWsK56rIYl+eJy5SOhJybcg==;NXpowyntclCWH5DkdHpOBw=="
 ---

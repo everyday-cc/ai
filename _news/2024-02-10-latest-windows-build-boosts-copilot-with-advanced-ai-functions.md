@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "SEALSQ Announces Groundbreaking Entry Into AI Chip Market With Advanced AIoT Strategy"
-    excerpt: "The AIoT system functions as the central brain of the expansive SEALSQ ecosystem, which currently includes over 1.6 billion semiconductor-powered devices. This network acts as a nervous system for the IoT landscape, facilitating swift and secure interactions across a myriad of devices and platforms."
-    publishedDateTime: 2024-02-12T06:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-sealsq-announces-groundbreaking-entry-into-ai-chip-market-/2024/02/12/9960556.htm"
+    excerpt: "SEALSQ Corp (\"SEALSQ\" or \"Company\") (NASDAQ: LAES), a company that focuses on developing and selling Semiconductors, PKI and Post-Quantum technology hardware and software products, today announced its entry into the race to develop cutting-edge AI chips,"
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sealsq-announces-groundbreaking-entry-into-ai-chip-market-with-advanced-aiot-strategy-1033055602"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 47
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
 
 secured: "KaOSVJWXngooJRlqQoBtr1iCfanZVGLz3fiHnf7lS9przjiebO7tudLbyxysULr3dSxpfMVBWhkvNfKGgVlS20Blfm/+BmrJ4rOSOS9apwFrXu18Bu1QwLEkhNayQ66O+m/cyk4+BHCTJAVWOhQvU1ugcabrpy1id/SLmPM/R0D0eq+JXKB873AdBkuPDW+1XD4GyTJnGc2t8yQAdOcO4LgDXrOsOkKPFysJaIzpTHlm/2ugeSj1z6KibBCS+DqWTsvG1dbnLMto0Ko6vrmE2y3ZB/J3cseHbGb5Y4K+iC2ouzkialYzXU4fxCLGq2LjNkiXzLDdL8f31USLso4OC+4ySlkdvp9hRY5U2+5+Ed4=;oKSPtqo5GYEYTZOdK9QCiw=="
 ---

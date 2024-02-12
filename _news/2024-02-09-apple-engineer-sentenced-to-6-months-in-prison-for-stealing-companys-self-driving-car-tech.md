@@ -25,19 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Former Apple Engineer Sentenced for Stealing Self-Driving Car Secrets"
-    excerpt: "In a dramatic turn of events in 2022, Zhang confessed to the theft of trade secrets, leading to his current predicament"
-    publishedDateTime: 2024-02-09T15:28:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/09/apple-engineer-sentenced-self-driving/"
+  - title: "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign"
+    excerpt: "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software."
+    publishedDateTime: 2024-02-12T15:03:00Z
+    webUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/"
+    ampWebUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 54
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 65
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Apple-logo.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679"
+        width: 1024
+        height: 679
+        isCached: true
+  - title: "‘Boycott Tesla’ Super Bowl ads target self-driving technology"
+    excerpt: "(The Hill) – A pair of Super Bowl ads went after Tesla’s self-driving technology on Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a 2023 Super Bowl ad campaign, which featured ..."
+    publishedDateTime: 2024-02-11T20:59:00Z
+    webUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/"
+    ampWebUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+    type: article
+    provider:
+      name: ksn.com
+      domain: ksn.com
+    quality: 59
+    images:
+      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2024/02/657a5044890126.50541840-e1707735341246.jpeg?w=1280"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Safety Group Urges Tesla Boycott With Super Bowl Ads, Targeting Self-Driving Software's Safety Issues: 'Deny Them Your Money'"
+    excerpt: "The Dawn Project's ads call out Tesla's inaction following fatal crashes on roads where the company acknowledges its software isn't safe to engage."
+    publishedDateTime: 2024-02-12T05:10:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37062459/safety-group-urges-tesla-boycott-with-super-bowl-ads-targeting-self-driving-softwares-safety-issues"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37062459"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37062459"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Tesla-CEO-Elon-Musk_9.jpeg?width=1200&height=800&fit=crop"
+        width: 926
+        height: 617
         isCached: true
 
 secured: "ogN0nB1lGxwNB2ZgQg7SFRvXaqZo2mAMk2OWP//ajamp9+2yEWf7VtZpSLffmUb83ugAtBioNK3n4+c0dJeZ8XSsH3umTq1V7S8RctpSvddor6meWrIhMG8eLaWpEv3iSN8qFbd1LWfBaBQuC7MyX70SvUc2jkZUHqKcu01Dr/MugPFSxqvWjHzSJSQzzg9tHgMZbidlaxc9o/KMaK2KIBJlNJV7ziMK6jWhUTWwAfmfdUYgf1SZ69TDpRcX+BAZ0WevEIGkCYBKQTSuhV8AznWad3KUWiisdNQTxazg/MAAAbxCA5LbBKDTAJ+WlfMxFj4ZAwDh1bsBqrYm4uqNtr4mRwj3e/R0In4nlh+TGrs=;lWadMaohSU0UXu9I/ifUDw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI field trips and why we should stop setting self-driving cars on fire"
+    excerpt: "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into."
+    publishedDateTime: 2024-02-12T15:21:00Z
+    webUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/"
+    ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
+        width: 1200
+        height: 741
+        isCached: true
   - title: "Ten jobs artificial intelligence is coming for"
     excerpt: "With the advancement of artificial i (AI), these are ten of the first jobs that are most likely going to be taken over."
     publishedDateTime: 2024-02-08T15:47:00Z

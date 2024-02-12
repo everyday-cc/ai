@@ -2,65 +2,31 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-09-the-most-important-ai-trends-in-2024.md",
-      "title": "The most important AI trends in 2024",
-      "excerpt": "Adapting to emerging trends is essential to maximizing potential, minimizing risk and responsibly scaling generative AI adoption.\nThe post The most important AI trends in 2024 appeared first on IBM Blog.\n",
+      "path": "_news/2024-02-12-7-customer-experience-trends-in-2024.md",
+      "title": "7 customer experience trends in 2024",
+      "excerpt": "Explore seven customer experience trends that can help business leaders elevate their companies and improve their CX strategies in 2024.\nThe post 7 customer experience trends in 2024 appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
-      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
+      "webUrl": "https://www.ibm.com/blog/customer-experience-trends/",
+      "originalUrl": "https://www.ibm.com/blog/customer-experience-trends/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 122,
       "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1155295707.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
       ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-history-of-climate-change.md",
-      "title": "The history of climate change",
-      "excerpt": "The understanding and awareness of climate change mitigation that inspired urgency took some two centuries to develop.\nThe post The history of climate change appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/climate-change-history/",
-      "originalUrl": "https://www.ibm.com/blog/climate-change-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:00:00Z",
+      "publishedDateTime": "2024-02-12T16:48:29Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -87,12 +53,12 @@
       ]
     },
     {
-      "path": "_news/2024-02-08-creating-exceptional-employee-experiences.md",
-      "title": "Creating exceptional employee experiences",
-      "excerpt": "HR leaders think of the workforce in a holistic sense, including current employees, contractors, candidates and past employees.\nThe post Creating exceptional employee experiences appeared first on IBM Blog.\n",
+      "path": "_news/2024-02-12-non-disruptive-sap-erp-modernization-on-ibm-power.md",
+      "title": "Non-disruptive SAP ERP modernization on IBM Power",
+      "excerpt": "IBM® offers a choice of hybrid cloud options, and is the only IaaS provider offering SAP-certified instances on Power and Intel x86.\nThe post Non-disruptive SAP ERP modernization on IBM Power appeared first on IBM Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/creating-exceptional-employee-experiences/",
-      "originalUrl": "https://www.ibm.com/blog/creating-exceptional-employee-experiences/",
+      "webUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
+      "originalUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
       "featuredContent": null,
       "highlight": null,
       "heat": 82,
@@ -102,7 +68,49 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
+      "publishedDateTime": "2024-02-12T14:42:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-the-history-of-climate-change.md",
+      "title": "The history of climate change",
+      "excerpt": "The understanding and awareness of climate change mitigation that inspired urgency took some two centuries to develop.\nThe post The history of climate change appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "originalUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

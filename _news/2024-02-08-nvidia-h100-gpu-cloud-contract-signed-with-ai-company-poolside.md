@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cl
 webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,29 +23,34 @@ topics:
   - AI
 
 related:
-  - title: "World's first desktop AI workstations with NVIDIA GPU and CPU Superchips start from $41,500 USD"
-    excerpt: "Not longer limited to data centers, severs, and cloud systems, you can now buy an off-the-shelf desktop workstation with NVIDIA's Grace Hopper Superchip."
-    publishedDateTime: 2024-02-12T05:29:00Z
-    webUrl: "https://www.tweaktown.com/news/96130/worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-41-500-usd/index.html"
+  - title: "Nvidia launches Ada Generation GPU with 19.9B transistors"
+    excerpt: "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization."
+    publishedDateTime: 2024-02-12T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96130_04_worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-40-000-usd_full.jpg"
-        width: 1500
-        height: 843
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Nvidia to Go After Custom AI Chip Market"
-    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
-    publishedDateTime: 2024-02-09T14:44:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
+  - title: "RTX 2000 Ada GPU meets AI visualisation demands"
+    excerpt: "To meet the increased demand for generative AI in embedded and edge applications, Nvidia has released the RTX 2000 Ada Generation GPU. According to the"
+    publishedDateTime: 2024-02-12T16:11:00Z
+    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/rtx-2000-ada-gpu-meets-ai-visualisation-demands-2024-02/"
     type: article
     provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/12154645/Nvdia-RTX-2000-Ada-Generation-GPU-cropped-scaled.jpg"
+        width: 2560
+        height: 2143
+        isCached: true
 
 secured: "iOF4/BkyM8Dfvmcopb8vVBzAhHz8Nd2ALZKe0sZQo08bUMfLl5KWT/0tT9y2zudxWFTegaVDZQCL9ghXXI3wTOackwmsUBn9sx0qcrpxhH0lfi0Zb1EEBsIVbTeuE1p9LqlSsywUCi+nSKc3DcJn2UnHbu1V95ZAxwhiJCwFOesQwkYfeFaZad1U7zKBUb61MZc8CtkjRL2qgD5MEb0t8poA5hoe3nXHZMIRQUr5axqWW9SdFxIOgXf4H8ByKEEVInn6Ou+m8PFAvlbDHFB5spHr2viMkosTc+wOrcbFyiow8J17ITn+bTXxMOiP4cQ5OJSD5wAUS+iN7xaqv9DvfjnX+/Rv1uCZ/GVRSejbuP4=;UxcrQ0hgMp40EqDslX1BfQ=="
 ---

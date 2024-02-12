@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign"
+    excerpt: "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software."
+    publishedDateTime: 2024-02-12T15:03:00Z
+    webUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/"
+    ampWebUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 65
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679"
+        width: 1024
+        height: 679
+        isCached: true
   - title: "‘Boycott Tesla’ Super Bowl ads target self-driving technology"
     excerpt: "(The Hill) – A pair of Super Bowl ads went after Tesla’s self-driving technology on Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a 2023 Super Bowl ad campaign, which featured ..."
     publishedDateTime: 2024-02-11T20:59:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.ksn.com/wp-content/uploads/sites/13/2024/02/657a5044890126.50541840-e1707735341246.jpeg?w=1280"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Apple Engineer Sentenced to 6 Months in Prison for Stealing Company's Self-Driving Car Tech"
+    excerpt: "A former engineer at Apple will serve time in prison after pleading guilty to stealing trade secrets related to the company’s self-driving car technology, also known as Project Titan. Xiaolang Zhang was first charged by the FBI in 2018. He had been ..."
+    publishedDateTime: 2024-02-08T23:59:00Z
+    webUrl: "https://hypebeast.com/2024/2/apple-engineer-prison-sentence-self-driving-car-secrets"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 14
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fapple-self-driving-car-technology-engineer-trade-secrets-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+        width: 1080
+        height: 540
         isCached: true
 
 secured: "j1OxVR2VcqoUdiYzf/HLKe56hS0/G5UjZz7PB93CtdWvi9ElEFhW4XBI/U5qIaVcAghYY9cIoEAvzRQFzugWP4JpeTZpcz/Tr5+f8r5Nwf86vtrdSOOeDlLK17gc6cJCuDg5bcI4Tne+iaYRDz/fPigvDfgjg3sVnmuoLoqp6fAV4rp5J7qVn95BNJDfBx1qlJ/BPEvfxeSHPYMRBEMy0LcSvYgQz4CQmN7dKC/kJTm4yQZP+SO2Tv3GmSUSdaPyiF4ENDK9o3hA0p9vQawbD07VCfMKurUb3w6/Nble7uIoAPbMGKKFEocE7jJMRoxImRHUbdJFUd81UErhENG3oxsTmIgTwjed7qF7jyLNE+s=;Zqnuvlnu163fS3JnTD4/Sw=="

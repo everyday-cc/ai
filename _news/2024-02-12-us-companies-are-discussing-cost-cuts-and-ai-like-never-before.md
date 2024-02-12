@@ -1,22 +1,18 @@
 ---
 category: news
-title: "US Companies Are Discussing Cost Cuts and AI Like Never Before"
+title: "US companies are discussing cost cuts and AI like never before"
 excerpt: "US companies are discussing cost control on earnings calls at a record rate, amid a push to reallocate funds and invest in new technologies, according to an analysis by Morgan Stanley strategists."
-publishedDateTime: 2024-02-12T10:34:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2024-02-12/us-companies-are-discussing-cost-cuts-and-ai-like-never-before"
-webUrl: "https://www.bloomberg.com/news/articles/2024-02-12/us-companies-are-discussing-cost-cuts-and-ai-like-never-before"
+publishedDateTime: 2024-02-12T12:38:00Z
+originalUrl: "https://tech.hindustantimes.com/tech/news/us-companies-are-discussing-cost-cuts-and-ai-like-never-before-71707737790042.html"
+webUrl: "https://tech.hindustantimes.com/tech/news/us-companies-are-discussing-cost-cuts-and-ai-like-never-before-71707737790042.html"
 type: article
-quality: 49
-heat: 49
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Hindustan Times Tech
+  domain: hindustantimes.com
 
 topics:
   - Meta AI
@@ -38,6 +34,6 @@ related:
         height: 800
         isCached: true
 
-secured: "95tmEV2RSXcWtedeL4gen5KHQs3RwR7iQLvmbWoBnlWk/GnBy4sr0UYvJqk70wVpNV73ERHuP1O7D6X6Uu1GtOaw8KS9dSmnpJdp3aT+gqeWy+E/1PrMR79Y4njsGTMvs//8G/GTBR/f4RWHQ0nnwOIzjwRPjOEwWvAXJ55cD+4ShlBVm4JiegI6dTwbAL0Qrj/Wtx46Soha3Psexm8FfyZawih3Vw9L/zpl9debErA/sKhFlIXtd9xD79OZPKh6QMyqQ5omRtDBeP8sjbQk0CM2ivsy0cxil8BKNRejnu9fQKfDFTxf7oTttnAFeOYduY1SC4bYK+zNbTjyHzQlXieLcHvfZltKJKM6XIF06hM=;LLukgEw7l35vp3mIb4QW3w=="
+secured: "VSE3Ja+PLRWCuuqt+K7NRf8fgc8mqaeU0ZQjZbG7OjRO38yAETzp67ho5QndXM0iWD4/4q9L28qsxwIX83tVD6bJTRbbMkuwHmr5ijavsaI9bP9ahjWru9y3hV59LshiyAtzheRqPpaPpf/9CG8GJjeD/jRMycSqHMUrOc141G1FBshGJn3ad2I2UinjaLY0iuuOmX5V23R7TT9GLlfS4AjIwfkw4/pEsEYsbKzzBAoEme66Nubq9AAkYuuDIyTIAOrqJhzRv3e9IVcMjvlfdgGHIkc+l1iF1ndtvO68B/pqeXVnAOzVVdEIaH6HHENS32Fg/mlbtluGiitNnZHDMqS/LMqZMhzdlC1uEhaGc0aFdGjEhu/dEBWj5diDmMRZ5LMW/LpC4eYtZFe94hNDgBeE6IFEvdW/ETq51pVo/OAz9LmzlsyEziqrGz6suTgGkPcBHYeLlGRaAWvI6UqbYd7pR4icEPy6Ht++WTGJp1I6O2orfZdNVIMdEFgTqNIPCGx6V6BFqn/zwWP6uMYOIg==;1xCgN2t9H+Td8XCx2BzT4w=="
 ---
 

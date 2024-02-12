@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-accele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 1353
     height: 900
     isCached: true
+
+related:
+  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
+    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
 
 secured: "89AwjnnyDq8cZXpdebRz0OqKCK1nX2reBcTm54ujY2Px+sPXHgCuRdKy9zzNChlSxoBzgbKyElCggA3QLOdnITnc4rnnlDCDWgGn2gTYL1QpuA0cOdVJ9a6Ax0BEX9T96N47xYHTw3pzbmTne9MqbmffF1r9QUNRwP+Gqnz9wZf2I8+VtVKnI6sm/3Xz3lDQRbqync1Ptxj6rYrBVp+bF9ulC0eLSJGIsqHY5/pfpRZVU7/LS6vNtsgiYt0djMu8Jhc9HuCBbYzjbRw+wJ5WyCagU6gnlfbWIYLI4Mlj3DkqpbAV90Bt3Pk7010PfoyP50KzI0MOC+ESmjoM95nwKbcIFA4HZdvMmFrbTPM8Ffm2RzGS21Ve+QKKZGvVlQRTsf0A2BnJJIdan8Vf5Q458W9lKxNi8foh6S53GtLlTQ5zLPyeaJSXDQWw1riDlKqd6Qj/SmAEDv53KGZRQGt9FCrUmq4lhp1Ssde6cKGwfmebnNtz8JAs4w+019KjwMVEUSlZ2OPUU39RNT/W0dMxMQ==;YA1Dt7lOBJB9t0mG5yGtlg=="
 ---

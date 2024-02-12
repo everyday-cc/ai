@@ -46,6 +46,15 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "A brewing battle over AI"
+    excerpt: "OWNING THE AIRWAVES — The primary race for California’s Senate seat has been a blowout — at least on the airwaves. Democratic Rep. Adam Schiff, who also holds a comfortable lead in polls, has spent $20.4 million on advertising buys, according to data from Ad Impact."
+    publishedDateTime: 2024-02-12T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2024/02/12/a-brewing-battle-over-ai-00140895"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 19
 
 secured: "SWHOD+IdcoE5kI6g/B1Qoo3q2ZVScxalcOtCxVka2pPAIXPdXIyqMt71QdpqQ08c9mPRF4lUiZYR6zG/yLPV4BscTz+diJ/O5B/kuZGjWV0Bfdq063jM98mk/xciFO8Gxzo3rlQuwQOUJqTlhhmdONR2TBE6q1iBpFc0Hos34tegirkApxcMTxH3YwZbpkHn+DtQjDfowT+k5/xkpx91KMqTkMst3E2NXCSNgIBflLfoW6fKcwtJq5nSraZsTn4l3SZ5gJxA5xbLFmJYUy3fLVquidflvbzLpSI64q9FuVnvfdSfDg44OWtthVm9u9BB25UMhrp8sOGy7xusg0HpJZpqHbv2u2AiFdhP/EA0f70aS0csfj3FikCe10Sv6eKwNLFJ5Ralw2o7fYfCzBCJ3uq/o7CTYaw6ogQl7ET7E9bwp9qHlBUuMLLe17bnD0nErg9yRpHnQwF/w1aE+lJa02qgTVLC71+kR+eLFlEhsgxbfwktXFeZsRcRyjJnJrdtOsoB3Wek0GKLNuolDo1X6g==;aOXC6C2FCco/aMfhE7OIbQ=="
 ---

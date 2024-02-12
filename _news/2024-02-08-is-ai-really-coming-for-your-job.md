@@ -41,20 +41,6 @@ related:
         width: 867
         height: 650
         isCached: true
-  - title: "Opinion: AI Is Coming for Your Job? – John Stossel"
-    excerpt: "Some people will lose jobs because of AI. But history suggests that most will find better jobs. More than 90% of America’s workers once worked on farms. Better farm equipment replaced most of those jobs. Today, only about 1% of Americans work on farms."
-    publishedDateTime: 2024-02-07T14:07:00Z
-    webUrl: "https://prescottenews.com/2024/02/07/opinion-ai-is-coming-for-your-job-john-stossel/"
-    type: article
-    provider:
-      name: Prescott eNews
-      domain: prescottenews.com
-    quality: 39
-    images:
-      - url: "https://prescottenews.com/wp-content/uploads/2021/09/John-Stossel-main.jpg"
-        width: 523
-        height: 523
-        isCached: true
 
 secured: "jhodhWwHGz/zRUHz3648FAe3Yp1D+ILwtgUzd/ZoJr7Gw/HQpvUiB+zF71hBTPEDuO/VcWOk5aaZ1HWS80OFRZyeprst9Bo85mrCSB191HhiE8EOSrlsZhapgFUACpq+pKijo+4Cyy1i37GcbDpORUiRcywuKlVkMZUzFtw3O+IITaaOaW1sTexpwb1z+zhQGPZXoSeUPQRJWWCL30CMYSbIYMAKuO70y9P2s8FdaDSXU1urA08Dk0fV61c5vB+9b81+L5GxsblsuQ1+tNtgHA+orJk1b4IoOG5CvS+EGBWHxNWncOgEm4u9NlbLTbdH/KjJj9+5sTaK57kPNYrl3wnw0txs80I0g+5vJ7tzVfw=;qLGTDAQXg7UOQMsbv2hocg=="
 ---

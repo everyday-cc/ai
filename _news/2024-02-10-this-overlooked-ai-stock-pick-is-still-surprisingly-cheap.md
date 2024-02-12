@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
+    excerpt: "Real-time index price for S&P 500 Index (INX), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2024-02-09T15:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/INX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 19
   - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
     excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
     publishedDateTime: 2024-02-11T20:54:00Z

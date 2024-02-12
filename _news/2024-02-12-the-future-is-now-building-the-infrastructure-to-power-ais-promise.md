@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -30,6 +31,6 @@ images:
     height: 900
     isCached: true
 
-secured: "kluDQac08jJrd+/uGRMmjRLYI31dWV2t39E67KP9JGqI7gftyM1akmWBfl0I4J+Hrn5dAoO+C7XqMbiy9I94bJ74SNOJGB44Il/hVXkbYRyjJGP+IE87mgl0vNXaCQq1FJR/SDExSF8Hb8kzsmePCVl2GuXWdUhqgL68ro5H7HentDzCoCE0wB1WHfeWIZvXuP/k0cMS4Dp3Y9jcOvBT8tn64cRR33ZsifJnqGCW/7vZXmjj0bn7TFHvVYCPiciFjzDuw8a8AIPgAK+5p9f/bSRgmRXIyDQ37t5HscoDaTYprVnHQRNCUOxby8ViwIJLZwy8OY8ri+PNXoNzUJa9+ixQdJhOOppSLqivcZ0CSGk=;KEbUwoZubPNAW7JJRn5ZlA=="
+secured: "HRfjEOCuwpBEbzne1ZMZ31wO2nD05qno1CO+Sjh4F/o84R4YrzzoI2j4suPyFgOxbCLJT71R88EyPVb0p8duIBv4m3vnO/mpolwYeiochoGZA3orEePYCXJy80zJgLHFDyxnuiLMfSIlS6MJa8QRjtXoITkjMT/3C5llFkLp16HPRuNdS3lHDWJleQ8x6QxbCXXCGiFp2Va/ANBRgSmZI04uCFNZaP+mu6dxhvHnJVO7cZUk8X3MXleV4+KNaLf2ERkUX31kTh2aNFHmoVw7PW1QGG4gBipLsZyi68nxNR5h5NyOaOQufZhnDaRK3QLd+feXXF0YoIDwJq6ZsD7wcYHg2y0LDU2gnjFPvzBBkXXfvctIqDnOvqi42ibzn7wgIAjD3Bsu6/4NjQCjMIOuravSrutNcnlBGoJu/WnP8c3gv9TNlLs9to8tZHjbJbZ9Zm3Bxa/v6wn+/HYSU6Xa8xv8F+845xwhRU4yMk5JhYqWEaBJ/xqM3WUySPBepzWRX6hQ1rAQ8nKe4JNFcQd7ZA==;eEZ3XyFr3fu8C8a2KKIn+g=="
 ---
 

@@ -67,6 +67,24 @@ related:
         width: 536
         height: 301
         isCached: true
+  - title: "Nvidia to Go After Custom AI Chip Market"
+    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
+    publishedDateTime: 2024-02-09T14:44:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Nvidia CEO says tech advances will keep AI cost in check"
+    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
+    publishedDateTime: 2024-02-12T12:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "jHVcoJl9bzVQk+o1gUEI7LIAKv+eXsbZtAY0nnN1rck9IANHld5gFLWkOmGMd/eSlEgWmk1nxQC2jhb+VYBA5bttrR4Cp6+6bBTH4F9SNz9qT3eVMt3pCR3a+wcBXZn6HDsZCDeqdlHLzpbpjWoeGuqDGCfNaZrnI+h0MOduspk13UI5BLWqShgHzgrnYeQVdtj5QHcIjcAtEx7JL0KL3f94ujuihOV3dyEtTEgr4tX2BkNGVqgyLSNzOeNsdUuqIrYodnLlUebfyeGR9mLFRjN/UX2S6RnqhKqVzA1LY1Kk4Iy2iBvTgGAgiRkryGe3mXnBBH9bf2weEcSR9+nWxcrnLwHQEq70/V7zlRAV2RA=;YTnHQs931YyyomOrQmZFUw=="
 ---

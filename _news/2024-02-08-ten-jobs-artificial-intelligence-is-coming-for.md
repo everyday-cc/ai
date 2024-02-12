@@ -34,6 +34,22 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "AI field trips and why we should stop setting self-driving cars on fire"
+    excerpt: "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into."
+    publishedDateTime: 2024-02-12T15:21:00Z
+    webUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/"
+    ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
+        width: 1200
+        height: 741
+        isCached: true
 
 secured: "cz2BsaYbIzuPqSdDoyF3eD072oX7DUxpW+Cy/MIeFvDO2jDFM5mCXNlMCHKID4TbODunKwl7LfHoAaEgsPsyBWWLyvjK4BZD+wjTiKwL5CbELp9kwAO7ySByzfDnfVsb3dPAbpqs8wuUXuva25eOjRVGeOlWDNN8SFaghGIV+H4aXFUbY7DpeBI9wZZjG0hTg4Y6yilSDY8Ystdll4F/I24vR3W6gpe6QmLvydYzroBat2u8/nDzCt36l4kvamjCdAjcTLv/pMc8ml49tmIeB2goZ3w6OW1qL0is1qi4VyFd2cjgMzYc5/vRiMM+XP9g2sLxNa5s/NnMvN6JPp4D/sG7gdQrq5ScMReu1Zh+qZY=;msvi9yCOOMgybzb4hm0/5Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -47,7 +47,16 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "A brewing battle over AI"
+    excerpt: "OWNING THE AIRWAVES — The primary race for California’s Senate seat has been a blowout — at least on the airwaves. Democratic Rep. Adam Schiff, who also holds a comfortable lead in polls, has spent $20.4 million on advertising buys, according to data from Ad Impact."
+    publishedDateTime: 2024-02-12T13:00:00Z
+    webUrl: "https://www.politico.com/newsletters/california-playbook/2024/02/12/a-brewing-battle-over-ai-00140895"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 19
 
-secured: "Txr22bOlqpC+whGXfzxKf+X6Z0d+rWxvJ3+qtHgz67obQxFqsgaodIekdOrQ3jm4gtGwXK3BlBblEgI5Ih2M/shUU51V1dozdN7qNpozu3gUXypx0GEemEv36HvS2iz2A/ZBVc3LIYvYO4QeIMSGVbvVkLOSvm9L9KByHYIR801wJHFzSWfm3wAyr01QQ2GjQtTPvLUvgvM9jxAQhxmmXz/JTTzU3w3t/x96obo3mDSE5DObCs5z7l0VXmJi7O8nmYM1QGpn2ZGau3fLwgQPtbYpq5Jxt6ywDfcv2VSDbqHq8qia4k0f1ubyFcU3Q+gxPLFcHsZg80SB/fl1QzapXrGb936NIb5s6CGtzN5g9xw=;yBJjGKpO4/4slExiBOm/vg=="
+secured: "YU1avJBVTYKVBc/rYBMcbloGeHsCARne3IyDrlTY5imLroWsQS4ZCBKEBoaMbS7VxCtiVIzCq8itsiqWkylVp8OBGjYUdzwLqPIKJVpybx8lAQS9kd6xnmFrS25+HNYk6FJlc7Odx/DjjCN2vZFjvsn3znLRMySnhZaGuwOKV7F01D7kohSjMJIHDMZCiiRYY56Mk72qp8g5wvz4/b+xDEYFdUT/l2DypfoS1deJzQrlOBaxG51IYelI0W6WVw3fCQgObgzfO2N6XA2Jqj68FgUpX9w62kCOGgSGzHJDMKiSIlI4ls849XDuf0Le74sCSLEk4GZyz18BwC/B5p5x+JC2UqGcORl+vA54vbPCPj0aaSIqp7iWu0MuATRjgtpMEVoBMXbxhDq0+zWmVgZqUKzt9DBtA7ObOLqJDbMofYw9aEFaRCQd4aBlgSYexW2uh/bMS50lAC+RLDjIS9bUVP9Y4CJ0UTphxyzQzieEGQTIeBw9+WcKdjFG0biigIlQ+5MdmyJNp2I4HzbGi3R+sg==;WBsLXpvtxTsAuwjMQH0OSA=="
 ---
 

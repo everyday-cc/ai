@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "South Florida vs. SMU February 25 Tickets & Start Time"
+    excerpt: "The SMU Mustangs (17-7, 8-3 AAC) meet a fellow AAC team, the South Florida Bulls (17-5, 10-1 AAC), on Sunday, February 25, 2024 at Yuengling Center. The game will begin at 12:00 PM ET and you can watch via ESPNU."
+    publishedDateTime: 2024-02-12T14:19:00Z
+    webUrl: "https://www.mysuncoast.com/sports/betting/2024/02/25/south-florida-vs-smu-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WWSB
+      domain: mysuncoast.com
+    quality: 2
 
 secured: "DnD2fhUl08fZtTe4ghkmHJCtQjy/emvs1j79CoVy5rrs0kuQXswkoi2FB7R3DGGLocobskeLTcAIomPeikiz38ey0jQt7aX4cRieP7OisTRW0SpMB8gPGPEDrTJqG89uesPwJimgoa4YP0UbFwRwPjLlA9RVl+q1+SF/uZ4kXEXE8ObBIdwxleCGjYXheTrKVz/EyN6JVruNMy9VlIQoHpwVmlFOn5xet0AzlpXWE+nKlONfTHAQ6uP2TswLMj3mijfBNE26Oig0zYcJyK1cXkKMHONWMwB0vWcrvbaLD7gkRhc3OT/tdZngGeOkob31IF0KY8oSyfpRRg6/1gWTeVhEWREYlinubx4FdqQ+3C8=;5AQUa0j4EWtjv/1v1hrZ1g=="
 ---

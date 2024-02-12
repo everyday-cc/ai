@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-06-roblox-builds-in-house-llm-adds-real-time-ai-translation-to-metaverse.md",
+      "title": "Roblox builds in-house LLM, adds real-time AI translation to metaverse",
+      "excerpt": "According to a Feb. 5 statement by Roblox chief technology officer Dan Sturman, the new system required the firm to build its own in-house LLM to be able to translate text-based messages at a base latency of 100 milliseconds — making conversations feel instantaneous for users.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
+      "originalUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T01:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
+      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
+      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T01:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
       "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
       "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
@@ -826,8 +903,8 @@
       "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "AI plays a pivotal role across diverse healthcare applications ... and the potential for personalized treatment strategies. Artificial Intelligence in Manufacturing Market Size, Share & Industry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html?gclid=EAIaIQobChMI-p",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html?gclid=EAIaIQobChMI-p",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1042,92 +1119,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-at-the-university-of-bayreuth-use-artificial-intelligence-in-astrophysics.md",
-      "title": "Scientists at the University of Bayreuth use artificial intelligence in astrophysics",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of astrophysical hypotheses in seconds. The research objective ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news828161",
-      "originalUrl": "https://idw-online.de/de/news828161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
-      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -21,6 +21,36 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
+    excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
+    publishedDateTime: 2024-02-12T07:30:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/"
+    ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 89
+    images:
+      - url: "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Microsoft is bringing AI Super Resolution upscaling to Windows 11"
+    excerpt: "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial"
+    publishedDateTime: 2024-02-12T13:54:00Z
+    webUrl: "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
     excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
     publishedDateTime: 2024-02-12T05:11:00Z
@@ -36,6 +66,22 @@ related:
       - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
         width: 1200
         height: 628
+        isCached: true
+  - title: "How Microsoft's AI push is helping it close the gap on Amazon"
+    excerpt: "Discover how Microsoft's strategic focus on AI and cloud computing has enabled it to rapidly close the gap on Amazon. Learn about the growth of Microsoft Azure and its powerful AI solutions."
+    publishedDateTime: 2024-02-12T15:20:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/articleshow/107636221.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107636221,width-1280,height-720,resizemode-4/107636221.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
     excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
@@ -79,22 +125,26 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Microsoft to build new data centre in Centurion"
-    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
-    publishedDateTime: 2024-02-12T05:34:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
-    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
+  - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
+    excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
+    publishedDateTime: 2024-02-12T12:17:00Z
+    webUrl: "https://www.cnbc.com/2024/02/12/microsoft-ai-growth-helping-azure-cloud-chip-away-at-amazons-lead.html"
     type: article
     provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
+      name: CNBC
+      domain: cnbc.com
+    quality: 63
+  - title: "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to CloudCADI – One Stop Cloud FinOps Solution, directly from Azure Marketplace itself - while leveraging scalability, reliability, and agility of Azure in driving application development and shaping business strategies."
+    publishedDateTime: 2024-02-12T05:49:00Z
+    webUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..html"
+    ampWebUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 57
   - title: "New AI Patent Study Shows IBM Leads Google and Microsoft in GenAI Race"
     excerpt: "The meteoric rise of artificial intelligence over the last year has sent tech companies scrambling to find new ways to develop and deploy AI technology in"
     publishedDateTime: 2024-02-07T18:15:00Z
@@ -108,6 +158,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2018/08/patent_pending_shutterstock_EtiAmmos.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "ABB and Microsoft partner to advance industrial generative AI"
+    excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
+    publishedDateTime: 2024-02-08T21:17:00Z
+    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33036690/abb-and-microsoft-partner-to-advance-industrial-generative-ai"
+    type: article
+    provider:
+      name: Plant Services
+      domain: plantservices.com
+    quality: 54
+    images:
+      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2024/02/65c505a8e7cea5001e81d3d2-abb_and_microsoft_partner_to_advance_industrial_ge.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
     excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
@@ -132,15 +196,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 44
-  - title: "Indian startup Sarvam AI collaborates with Microsoft to bring its Indic voice large language model (LLM) to Azure"
-    excerpt: "The collaboration aims to enable Sarvam AI to leverage Azure AI and Azure Infrastructure to build and deploy their voice LLM stack It also aims to enable developers to build generative AI apps at scale and empower enterprises to adopt generative AI ..."
-    publishedDateTime: 2024-02-08T00:00:00Z
-    webUrl: "https://news.microsoft.com/en-in/indian-startup-sarvam-ai-collaborates-with-microsoft-to-bring-its-indic-voice-large-language-model-llm-to-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
 
 secured: "/3MXley7WzutpE/bkfkoWP67Hmm7SCVanvO+O/jFwVdtqKUXI21obFsFkWgTtj4hYccddsNDrfBhP8T3oGb+i68FEVIj7Nd3FR3xE5k+sBf2Y7fnw/TKNpaUspPNBm2/sugnQyBHsrCUihYHrcsPeDv+Qk7Rpflw+Hvhqmkh6LQi17n5N6ty17ZS6t5w6Z7pDttahtpKvtwX7IoymQz74jCUtMx95b4ujwFsATUiGSBMA6PTb+8HvwblE814NMcgHbjee/q2LonqE9LBPaFOZpPFC0nKdQusAj2da2WYbG0L7ZjlGIJPGi9dEAIq8NkqadT7wzgRnSj9a3TLOUX7VP4TGruCNndcDtKRcz+x67s=;/OArqkk5peKx7FeMnJBlmw=="
 ---

@@ -64,6 +64,20 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
+    excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
+    publishedDateTime: 2024-02-12T14:10:00Z
+    webUrl: "https://brobible.com/culture/article/mob-attacks-torches-self-driving-waymo-car-san-francisco/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 24
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2024/02/waymo-self-driving-car.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
     publishedDateTime: 2024-02-11T22:04:00Z
@@ -77,6 +91,15 @@ related:
     excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
     publishedDateTime: 2024-02-12T12:00:00Z
     webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+  - title: "Waymo self-driving car set ablaze by crowd in San Francisco"
+    excerpt: "The severity of the incident may demonstrate growing public hostility toward self-driving cars after a pedestrian-dragging accident last year involving an autonomous vehicle operated by General Motors' Cruise unit and a recent collision between a cyclist and a Waymo car in San Francisco."
+    publishedDateTime: 2024-02-12T10:04:00Z
+    webUrl: "https://europe.autonews.com/automakers/waymo-autonomous-car-set-ablaze-crowd-us"
     type: article
     provider:
       name: Automotive News
