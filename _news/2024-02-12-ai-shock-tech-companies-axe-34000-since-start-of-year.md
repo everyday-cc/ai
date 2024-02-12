@@ -23,6 +23,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Tech companies axe 34,000 jobs since start of year in pivot to AI"
+    excerpt: "Enterprise software company SAP, meanwhile, unveiled a “company-wide transformation” in January that will include the axing of around 8,000 jobs as the company increases its focus on AI."
+    publishedDateTime: 2024-02-12T12:27:00Z
+    webUrl: "https://www.irishtimes.com/business/2024/02/12/tech-companies-axe-34000-jobs-since-start-of-year-in-pivot-to-ai/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/resizer/rHb64MqvWqPTUeyrTesrBaxdSjQ=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/BYOGI7OSCZE6TKGX4V2GGTPDWU.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "Li3isEQdiQ5herY/UUqDoCdqByQ3xALHg2pfPV7GhDeqTmb1ESmdzEPuHOac43dEtdgetjJcLY7ruA8BU2bo57lWjcAKf1oimm8WnyXkmvj3uiMXIalaHeRxbW9LC6WihqiJaMajMSabiaOFamDJ2uv5l+k0IAVqLELDEXqpxOsI9gHyGVDUuz7sCzVUJqg5AzNKjW0PWULvCvsDcFw5p+MqVlp/lw4nhpNncnohog9XTIzcbgVKfuFESl33pvfbDpiod4cCeVY3mvQzZtLQZ1SwPekuuwRKZ5ME9XbJpUje/ot+snsnQVQMzVmE6Gi3QHPiocHh4kdfVrBZCrYbgyyaUmlhsPABMeXNTOnZyGM=;smoYqhKdDJKibHrq/HUzFA=="
 ---
 

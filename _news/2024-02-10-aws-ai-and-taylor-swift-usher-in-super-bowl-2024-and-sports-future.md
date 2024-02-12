@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-ta
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1352
     height: 900
     isCached: true
+
+related:
+  - title: "Taylor Swift, deep fakes, free speech and the push in Tennessee to regulate AI"
+    excerpt: "After a series of explicit AI-generated images of Taylor Swift went viral online, Tennessee lawmakers are proposing tougher restrictions on AI."
+    publishedDateTime: 2024-02-12T10:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2024/02/12/taylor-swift-first-amendment-push-ai-regulation-tennessee-united-states/72399975007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "BQcQdGy7CIYHfK+UuHJEz1CH8nwqjFaF0wy7b+f/iu7VDxIW43ecSm6PJZyCQDm58nx4nFvqoVr8GhIWkkvOWw+NgSDWCezEUz9f7FSV3rm76wUytkFxRtZIXEIpILuf/ALLE1vX/LPYruEON0SepjFYO95LOqf/YFpsiIdtRinSoA65OPV6R/aInOfuMH5bk3YbOjxuBv59sCzp8hNI8NhFr+wlkzU8roaTX2TbiMtqYrglj3dKl4fuvhummLk5zeJcNyDYd7x2gnJCGbky9GqJM/XopxHgoZ6/+IJuMxkgDkLgQknP3iQCG4MLVSHwJCw/5L0LENQHnoibm3Zajo98whDQc7zmwrOamN1MuMLfTdqpFhaaeeD+KTnq7R3X9qddPffU+IunmGVrK3UI4soZLLmGBlBDa16tqnb/ssMJSc4EPdvtsCCxGa+kXoMNQxNJ7u8DEJywZS7m5y1ZIF1udr22wkbG7WYXoKmHs90+JiqYF8fmlVujoKaAv1Q9yZsBEgCO0vROp0JRANkCjg==;xSZsBm2031z9Riaj5ETw0g=="
 ---

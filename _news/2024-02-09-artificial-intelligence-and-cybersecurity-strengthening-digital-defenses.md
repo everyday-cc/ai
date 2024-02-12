@@ -39,6 +39,20 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
+    excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
+    publishedDateTime: 2024-02-12T12:18:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-future-foundation-announces-10-global-trends-robots-265bn-cybersecurity-threat-next-generation-energy-and-the-end-of-disease"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 22
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2022/12/12/Museum-of-the-Future.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "n3GaGazz8a99M5/kxCSCcwTLLA/AAwBcepf08Y9KXgsOdmB3ioFZoYTprHn5WEbOOcuNaGSEfCMbePo+lbNeCniHRHOxY6mUGjjVzfvgtXiLb0AQ0mznEcRkdLW0Nzj1hHtaDC7Z7arMpjEyMh8hjuiTsa2q2fN3MYGA7F0JMBq20LvkcVEiM6rUPKt/697kg3yfe5oV+odSaDgniBwAvl6BdsMDdlDVLhPt7qmTZ9FRTj/7J7w4l2aDydO3Q5qBLXhnh+Vd5G53g06ZLbs4vMj/ZsECzNRrGNSdyAa/KL+nD9hmYyHycXTDoTkfGJu/QdttRP5KAZzaSUnSV4x3+RJh6l2bFQaZX6Gon5QA13dE9zh6An4Z0qfwMf6dIKjb+w6n4sLZbephaMii9ADivycgUeDJESvn4HxAAwzn0LpvF21xcPQw0KE416o/AE7woBQSxmb/GCfDtWNzFYINhl2MLyvGbbpG+Y/dVovvQAgCIGrFTzCJc8VCT6b14bc4paIXOCk7GkWZX+W+pZ5vaQ==;zybDMLTxmtHTucoMlorziQ=="
 ---

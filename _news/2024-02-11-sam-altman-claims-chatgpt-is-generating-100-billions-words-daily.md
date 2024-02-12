@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Even ChatGPT Says ChatGPT Is Racially Biased"
-    excerpt: "When asked, ChatGPT declared that its training material—the language we humans use every day—was to blame for potential bias in stories it generated"
-    publishedDateTime: 2024-02-07T13:00:00Z
-    webUrl: "https://www.scientificamerican.com/article/even-chatgpt-says-chatgpt-is-racially-biased/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/13BDED0B-EF1B-44F1-97CF1C152C4BA7AB_source.jpg?w=1200"
-        width: 1200
-        height: 1457
-        isCached: true
 
 secured: "cgT/aXhm8zHJEjdpJdeLz9oh4yW1WYx5mwwPhBm0OP/DqTYEDCKPWbogCzDVNvAAkaq0zQnOV1jPsKS9l9aS/baZPqIF07UmGZmH67nOAZAlrleaR5qz2+coLOaNvzfAeaoj+hwgJhzXRL5e1rXENE4GDcsLZD/EC/nEv8NA+DJQ+7bOq92LfH/z6/W78dIw7FnrF8uNd0wsqry1DWVX2BewaT0pI7hu2gVvOCTdUdTexAUjVyTLvee6vquxiFQseNNMjRmFVKz3X+p0mJRFtmiIDx0FLiZMjSIqGg1Th9nRo6JFe95tK3Zp/5zCn/63/m3NPjTJV6WvxV+D3A+zJgCfmnbC2WOGzfP7tnrlWZQ=;E1DSSjFO7dEpap5dnGLT9A=="
 ---

@@ -1,0 +1,96 @@
+---
+category: news
+title: "Crowd torches Waymo self-driving car in San Francisco"
+excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
+publishedDateTime: 2024-02-12T12:00:00Z
+originalUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
+webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Automotive News
+  domain: autonews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Crowd sets Waymo self-driving car ablaze in San Francisco"
+    excerpt: "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet."
+    publishedDateTime: 2024-02-11T17:36:00Z
+    webUrl: "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980"
+        width: 2200
+        height: 1238
+        isCached: true
+  - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
+    excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
+    publishedDateTime: 2024-02-12T12:13:00Z
+    webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 48
+  - title: "Self-Driving Waymo Robotaxi in Collision with Bicyclist in San Francisco, Raising Safety Concerns"
+    excerpt: "A Waymo self-driving car hit a bicyclist in San Francisco, raising safety questions regarding autonomous vehicles."
+    publishedDateTime: 2024-02-08T19:22:00Z
+    webUrl: "https://hoodline.com/2024/02/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 41
+    images:
+      - url: "https://img.hoodline.com/2024/2/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns-1.webp"
+        width: 1640
+        height: 924
+        isCached: true
+  - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
+    excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
+    publishedDateTime: 2024-02-12T08:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 25
+    images:
+      - url: "https://static.toiimg.com/photo/107623393.cms"
+        width: 2200
+        height: 1238
+        isCached: true
+  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
+    excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
+    publishedDateTime: 2024-02-11T22:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
+  - title: "Waymo Self-Driving Car Torched by Mob in SF's Chinatown"
+    excerpt: "An autonomous Waymo vehicle was attacked and set on fire by a mob in San Francisco's Chinatown; no one was injured."
+    publishedDateTime: 2024-02-11T18:19:00Z
+    webUrl: "https://hoodline.com/2024/02/no-passengers-but-fury-ablaze-waymo-self-driving-car-torched-by-mob-in-sf-s-chinatown/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 19
+
+secured: "E3lnacAvaEE+5PeRc0h7tdW36gEFDqS4LtSGjvLw5C5gM1afGRiO4S0busjc8UbnEc/1z7xuLLPH4i1bmcLKW/R1D4ZbxOcGnkQ0GUuLdW9V10KMZIdqeST1Zo3X1Eydgh8kOFudwBAE8cT9jINI/4CVNk4htsHtbJWddBIVAk8r2z+N2cWHzAO/h3869r9ntoqyE3ZTiCwkOWjwhVwwWJerMFoP9ssFCMWSh7wlmw1uwp7VXKCCKkDO0vl5GpgWcFEJi9PlwfUhXx+ms8JXI+MUlA2Pxr6LqbYdUqMTw6SZZwgMfy3LtodKKSk8uwUxgGxhB4czBdQozNnXKkwaRN3VzqyJYtsWDNf4kaeAlxg=;9jU3c1btG9gPqXA4uByEzg=="
+---
+

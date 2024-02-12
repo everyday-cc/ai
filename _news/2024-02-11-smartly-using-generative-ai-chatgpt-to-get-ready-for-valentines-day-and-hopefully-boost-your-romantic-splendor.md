@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-gen
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -48,20 +48,6 @@ related:
       - url: "https://img.dunyanews.tv/news/2024/February/02-11-24/news_big_images/790822_96736365.jpg"
         width: 752
         height: 423
-        isCached: true
-  - title: "Even ChatGPT Says ChatGPT Is Racially Biased"
-    excerpt: "When asked, ChatGPT declared that its training material—the language we humans use every day—was to blame for potential bias in stories it generated"
-    publishedDateTime: 2024-02-07T13:00:00Z
-    webUrl: "https://www.scientificamerican.com/article/even-chatgpt-says-chatgpt-is-racially-biased/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/13BDED0B-EF1B-44F1-97CF1C152C4BA7AB_source.jpg?w=1200"
-        width: 1200
-        height: 1457
         isCached: true
 
 secured: "i2hP2tV34mbGYb6DEZC24wav1jOecR66GmbKeryB8krAWhZoexUDGQ1ty5kdDtIKYK64sb8iA5ZjA0W6lz9QrPX+jZ5vHiHwelQFNMfLtX3JuxWfn1YxWeNsO7GL/rkcE1GIOlrWh/4aF5Q4VhA8fmeZDLoCT7SJR3K2kj4HOZ164/j5pb5nKlyLJxPSRa384NOQGDCf+IgPrgMQt6OvxX6HJT2DZmEx+B9L4UfXgtP2DhQSLaiIrBnoWvQxfR/VYGGxMFDekL89Cl+HeOjI0jr8bHdid2IDUImAudKL8avUPjoNrUfAa8KCd/ePUQzyQtR/Bo2iI78MqvmCXa2J//2B2LHnrRO1bi9JrvFB4vI=;IovkKG+Fx4/ASppkKp5S8g=="

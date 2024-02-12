@@ -35,20 +35,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
-    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
-    publishedDateTime: 2024-02-08T17:30:00Z
-    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
-        width: 445
-        height: 250
-        isCached: true
 
 secured: "FM0xK/2nS9NoEbdL0vYZ1rzjRYsuWGa7eUYdlOOftkYZATk1Fh+fFNTuDfCO4PUS+AmZjqTqDtW07ouBynad0hFekl00eeFlr++lFcKihiLNkww+LML29Dg2iJWNZUHVvEv0lRlQlt+SL9acofgQB2mqG+kGG73l9G7oNdC1Luokd3VIf0nLxUOWOqCpv/E9/uH/tOtJafpFEKr2qSZX47StTpCQW8G8ElgntcxCD6242SnSsBZIrkrLsGgEqKSNwp0JJ3F9k0mnFncb4DsCbjsFAziZWaDujfwVCEQ3EDUgE6j9JWld+L2I4d9/dwBycDxZYnlEqDC0dQbhZ8m8Qc3ReBBhzWWeKbrughKFPIU=;kgXgAwUCscYZvxF9aZLpTw=="
 ---

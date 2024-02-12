@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -807,40 +807,6 @@
       ]
     },
     {
-      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
-      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
-      "excerpt": "Artificial intelligence is the latest in social and economic shiny objects. Many are wondering about the trajectory of their professional lives. We’re all wise to do so. Such threats are not new.",
-      "sourceUrl": null,
-      "webUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "originalUrl": "https://www.knoxnews.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T11:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Knoxville News Sentinel",
-        "domain": "knoxnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-31-using-artificial-intelligence-better-pollution-predictions-are-in-the-air.md",
       "title": "Using artificial intelligence, better pollution predictions are in the air",
       "excerpt": "To better understand where smoke pollutants will travel and when, researchers at APL and the National Oceanic and Atmospheric Administration (NOAA) are leveraging artificial intelligence (AI ...",
@@ -1305,6 +1271,49 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-if-artificial-intelligence-is-going-to-get-involved-in-elections-colorado-lawmakers-want-voters-to-know.md",
+      "title": "If artificial intelligence is going to get involved in elections, Colorado lawmakers want voters to know",
+      "excerpt": "Colorado could be the next state to set guardrails on how artificial intelligence is used in political campaigns and election communications, as the world adapts to new technologies that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpr.org/2024/01/25/regulating-artificial-intelligence-within-colorado-elections/",
+      "originalUrl": "https://www.cpr.org/2024/01/25/regulating-artificial-intelligence-within-colorado-elections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-cpr.s3.amazonaws.com/uploads/2023/11/231107-HARVEY-PARK-REC-CENTER-ELECTIONS-VOTING-POLLING-KEVINJBEATY-04.jpg?resize=1200,600",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T15:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Colorado Public Radio",
+        "domain": "cpr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

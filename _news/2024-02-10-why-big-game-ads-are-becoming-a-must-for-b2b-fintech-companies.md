@@ -49,6 +49,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "How Mobile Technology can help the Fintech Industry"
+    excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
+    publishedDateTime: 2024-02-12T10:32:00Z
+    webUrl: "https://fintechmagazine.com/articles/how-mobile-technology-can-help-the-fintech-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/1f3a482e694da4999811920d1af26edb:3ad93245b94c71a11eb392f3b55c9ccd/3-image-for-ci-gsma-mwcb24-connected-industries-fintech-final-low.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/l+vUpcSAbid6VST08No/jeOOtNzWlzQJMoPhfMkLJXLUI86ifqNTO171gcQLOPGRoAQuofZIJjFl0t/7UYyaVj8lY9OcCctRF93ttt+eZLcSZZL19K9ih6Whm8nWGenPwyGtgztxbUKPCyJotHYQBdR4NsV+IKf2RMmAxNqdwanB97Ju8MeaibYcK242qjCDmpm2tQrdZFdm9wYMXW0OD//B7yLY46e+lBMBxvXNiPGn4og+43i4jN+bfrKg9GJGXTcak1SY2CE/IKfX45i4F5iVefaTzFzrBoN5faI0KHaFFEX04Vn4D+vFIvrFCVfkTXEb6y3FqslNY/bJJu1t3NNTY2DN3TS9Xb5v15MpN/AC2bUx47k3zqc2By7UIzfvVRZuZi5k6fIl3Xi5v0sylPOsRwKfWPzAzir5I//K8ROiDijnYMNnRXQt5fyXG3v612bm+GvUr+o7fhNthoVO08/1wd+qnh6bYBwZBerUfgb2WpUXbwdQjh3CgLSGTiI3W7yHvA5sgwXawNsUES7Qw==;aAga5HMLeUMsVJGgF86LFA=="
 ---

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
+      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
+      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1300,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "publishedDateTime": "2024-02-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
+      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
+      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
+      "publishedDateTime": "2024-02-12T04:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
       "title": "OpenAI and 1X Robotics autonomous robots will change the world",
       "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
@@ -622,8 +717,8 @@
       "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
       "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
       "sourceUrl": null,
-      "webUrl": "https://armenpress.am/eng/news/1129253/",
-      "originalUrl": "https://armenpress.am/eng/news/1129253/",
+      "webUrl": "https://armenpress.am/eng/news/1129253.html",
+      "originalUrl": "https://armenpress.am/eng/news/1129253.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -681,6 +776,40 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1177,137 +1306,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-here-are-2-of-the-best-robotics-stocks-to-buy-now.md",
-      "title": "Here Are 2 of the Best Robotics Stocks to Buy Now",
-      "excerpt": "Robotics, artificial intelligence (AI), and machine learning are constantly evolving. Furthermore, robotics has numerous applications, providing investors with exposure to a diverse range of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/here-are-2-of-the-best-robotics-stocks-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/here-are-2-of-the-best-robotics-stocks-to-buy-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T18:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
-      "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
-      "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
-      "publishedDateTime": "2024-01-25T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
-      "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
-      "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

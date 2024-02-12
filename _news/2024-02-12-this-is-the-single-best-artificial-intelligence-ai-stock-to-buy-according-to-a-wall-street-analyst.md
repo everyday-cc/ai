@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How to Build the Best AI PC"
-    excerpt: "look for at least a mid-tower or even a full tower and select RTX for AI performance. A GeForce RTX 4090 Ti GPU will perform up to 1.7x faster than a prior generation RTX 3090 GPU in AI applications, so it’s worth prioritizing the GPU upgrade over CPU ..."
-    publishedDateTime: 2024-02-07T11:10:00Z
-    webUrl: "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html"
+  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
+    excerpt: "And remember Watson? Well, it's still alive and well at IBM. There is the Watsonx.ai studio, which is a platform that provides businesses with large language models (LLMs) where they can actually build their own chatbots. Another product is Watsonx.data ..."
+    publishedDateTime: 2024-02-10T10:31:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
     type: article
     provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 69
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 39
     images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2024/02/Nvidia-CyberPower-AI-PC-1.png?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
+        width: 1875
+        height: 792
         isCached: true
 
 secured: "nmnLlhIQey1oajyEYIiHSTNEzbPho+TpZnkHpF/MFXXZyclcFq9wZbmXSZJKm79/ugwBEdS487eG2DrgZd9SMnyBRhkPueSzDpNrvm0cJ+jbXKt4LSWBxkE60C80488BvYFCmqUkR3YRUVurxV5VNRpRiTHJbCFAjKQSqqvjRWntBilDda1+jxaJAvyg8nz9kWs+v/3Gin27sNbaDG5RNPCmKXhnryMj+tgXzjnCXERkhKTEQ+M3hecnCKqc3HtKXrYnSFtXsitWxYXXcePREm7M8/5pI/jJTYEDnAd2wof0j3LKn++f7uVh8elg+FXQnL1ElW/h02E/904TbKtEE+H2kHPzq+0g+h0io7Eopppj/ndJRGZcIGEZbxdZddmA3mEcxz1/6RLp7bM/BkAfICyT6BKbBnwrR1nQpu/tYzfA1yjP7YMar/wpVFkK0WrP4ISFcSHLQnu+e8iiFUUvFH3gv/f29+JBk+bp4qM1iFl4gPx6uV1Bo1cnunwKFItncH8sH3dhWCX/vJqutnmvIA==;s6rGHO5cqfcUe54r99RiJg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/zain-launches-
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/zain-launches-bede-in-bahrain-an-innovative-fintech-app-offering-instant-islamic-personal-finance-solutions-rqowymrd?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Zawya
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
-    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
-    publishedDateTime: 2024-02-08T17:30:00Z
-    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
-        width: 445
-        height: 250
-        isCached: true
   - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
     excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
     publishedDateTime: 2024-02-11T04:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37062459"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37062459"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 926
     height: 617
     isCached: true
+
+related:
+  - title: "‘Boycott Tesla’ Super Bowl ads target self-driving technology"
+    excerpt: "(The Hill) – A pair of Super Bowl ads went after Tesla’s self-driving technology on Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a 2023 Super Bowl ad campaign, which featured ..."
+    publishedDateTime: 2024-02-11T20:59:00Z
+    webUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/"
+    ampWebUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+    type: article
+    provider:
+      name: ksn.com
+      domain: ksn.com
+    quality: 59
+    images:
+      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2024/02/657a5044890126.50541840-e1707735341246.jpeg?w=1280"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "j1OxVR2VcqoUdiYzf/HLKe56hS0/G5UjZz7PB93CtdWvi9ElEFhW4XBI/U5qIaVcAghYY9cIoEAvzRQFzugWP4JpeTZpcz/Tr5+f8r5Nwf86vtrdSOOeDlLK17gc6cJCuDg5bcI4Tne+iaYRDz/fPigvDfgjg3sVnmuoLoqp6fAV4rp5J7qVn95BNJDfBx1qlJ/BPEvfxeSHPYMRBEMy0LcSvYgQz4CQmN7dKC/kJTm4yQZP+SO2Tv3GmSUSdaPyiF4ENDK9o3hA0p9vQawbD07VCfMKurUb3w6/Nble7uIoAPbMGKKFEocE7jJMRoxImRHUbdJFUd81UErhENG3oxsTmIgTwjed7qF7jyLNE+s=;Zqnuvlnu163fS3JnTD4/Sw=="
 ---

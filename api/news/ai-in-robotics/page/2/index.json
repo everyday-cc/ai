@@ -2,6 +2,137 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-26-here-are-2-of-the-best-robotics-stocks-to-buy-now.md",
+      "title": "Here Are 2 of the Best Robotics Stocks to Buy Now",
+      "excerpt": "Robotics, artificial intelligence (AI), and machine learning are constantly evolving. Furthermore, robotics has numerous applications, providing investors with exposure to a diverse range of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/here-are-2-of-the-best-robotics-stocks-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/here-are-2-of-the-best-robotics-stocks-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy.md",
+      "title": "From Human Touch To Machine Learning: How Robotics Are Changing Massage Therapy",
+      "excerpt": "AI-based robots have the potential to deliver precise procedures, eliminate human errors and cut down the cost of a massage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b117ea1c46497f21155c9a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/25/from-human-touch-to-machine-learning-how-robotics-are-changing-massage-therapy/amp/",
+      "publishedDateTime": "2024-01-25T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-autonomous-synthesis-robot-uses-ai-to-speed-up-chemical-discovery.md",
+      "title": "Autonomous synthesis robot uses AI to speed up chemical discovery",
+      "excerpt": "Chemists have developed an autonomous chemical synthesis robot with an integrated AI-driven machine learning unit. Dubbed 'RoboChem', the benchtop device can outperform a human chemist in terms of speed and accuracy while also displaying a high level of ingenuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240125145938.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-how-blockchain-and-ai-are-set-to-transform-small-businesses-in-2024.md",
       "title": "How Blockchain And AI Are Set To Transform Small Businesses In 2024",
       "excerpt": "Blockchain and AI integrations in SMBs were evident in 2023, and their influence has continued to spread across enterprises globally in 2024 as well. With the global business blockchain adoption rate standing at 10%, it is likely that small businesses are on their way to catch up to large conglomerates.",
@@ -1212,135 +1343,6 @@
       "provider": {
         "name": "Steel News",
         "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "“This idea that technology, robotics and artificial intelligence is just running ... Meng Wang, co-founder of food tech startup Artly Coffee, one of the more than 4,000 exhibitors at CES this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
-      "originalUrl": "https://www.wfmz.com/news/ap/ap-business/robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers/article_a0bc7c76-5958-5eb4-abed-9e9432351b61.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/39/f39c544c-7b61-5cc8-b067-fcd779026475/65a19bc78d905.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-the-shark-ai-ultra-robot-vacuum-is-back-at-its-lowest-price-ever-at-amazon.md",
-      "title": "The Shark AI Ultra robot vacuum is back at its lowest price ever at Amazon",
-      "excerpt": "SEE ALSO: The best robot vacuums unveiled at CES 2024 go where Roombas still haven't You can control the Shark AI Ultra with voice commands or through the free SharkClean app. Instead of crashing ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "originalUrl": "https://mashable.com/article/jan-17-shark-ai-ultra-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/076Dm4IcnZ8SCcnGD2GH7pS/hero-image.fill.size_1200x675.v1705506828.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-asensus-places-first-senhance-surgical-robot-for-pediatrics-in-japan.md",
-      "title": "Asensus places first Senhance surgical robot for pediatrics in Japan",
-      "excerpt": "Asensus Surgical announced the fourth hospital in Japan to adopt its Senhance system dedicated to pediatric procedures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/asensus-places-first-pediatric-surgical-robot-japan/",
-      "originalUrl": "https://www.therobotreport.com/asensus-places-first-pediatric-surgical-robot-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/Asensus_Senhance.jpg",
-          "width": 770,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

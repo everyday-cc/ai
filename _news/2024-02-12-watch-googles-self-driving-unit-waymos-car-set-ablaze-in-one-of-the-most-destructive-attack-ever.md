@@ -2,13 +2,11 @@
 category: news
 title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
 excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
-publishedDateTime: 2024-02-12T08:24:00Z
-originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow/107623393.cms"
-webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow/107623393.cms"
-ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/amp_articleshow/107623393.cms"
-cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/amp_articleshow/107623393.cms"
+publishedDateTime: 2024-02-12T08:36:00Z
+originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
+webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
@@ -21,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-107623318,width-1280,height-720,resizemode-4/107623318.jpg"
-    width: 1280
-    height: 720
+  - url: "https://static.toiimg.com/photo/107623393.cms"
+    width: 2200
+    height: 1238
     isCached: true
 
 related:
@@ -43,6 +41,15 @@ related:
         width: 2200
         height: 1238
         isCached: true
+  - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
+    excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
+    publishedDateTime: 2024-02-12T12:13:00Z
+    webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 48
   - title: "Self-Driving Waymo Robotaxi in Collision with Bicyclist in San Francisco, Raising Safety Concerns"
     excerpt: "A Waymo self-driving car hit a bicyclist in San Francisco, raising safety questions regarding autonomous vehicles."
     publishedDateTime: 2024-02-08T19:22:00Z
@@ -66,6 +73,15 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Crowd torches Waymo self-driving car in San Francisco"
+    excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
+    publishedDateTime: 2024-02-12T12:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
   - title: "Waymo Self-Driving Car Torched by Mob in SF's Chinatown"
     excerpt: "An autonomous Waymo vehicle was attacked and set on fire by a mob in San Francisco's Chinatown; no one was injured."
     publishedDateTime: 2024-02-11T18:19:00Z
@@ -76,6 +92,6 @@ related:
       domain: hoodline.com
     quality: 19
 
-secured: "CTTGx3QH6P63zX5/R0/mhBWsPZL7GevGumIH3qgFZoG7HUZupvxibPZw9f4vdwwYsLSVyCUX1W074f9/YlOgpRWzXxOFndDENvWtNbNcLlCuk+NM1SdIe93LKF1ph3A34tGsdtb03pBxDU7Rt63bKItIE3101Hds/BsYHs31UR0jAMQ29JNlOkyKGBW9E1fkksENHQZYaccE7CqRP0wPAJZP9UT1PrupzZiWi9NTJyXRyALs1rCaaCHwVxUdKCcHQedxOc7wLLQKTpjqjgNEHMPzOJyseFzJ84irfE9swjinIxE+SUbVd7Zz0jMuWzrDpT9zInVoaBDvXc6Q+uGOwmRIUxY1KyCYZ7Iw97iSAvVT64gU5Rkg42/vkaR3zmpmZRLER213lrZlWnR83SbA5OStjeBip3F5MaXQ4iJICxVUS+INkHqNo4gc0UVQS6iEA69oG751qKNT217Epwhu0GA08fAMOyAqcBMGN6OnoqHxTIGkgF4N3a5F8wd++6y7I07Yovt+6TeGEno2R2e14w==;axuKUEZ2SF0/mOOpaRiOzw=="
+secured: "BN0m5b3NqQPgKmVNYufqZZWwjPlXxuhQcPRFgh0hNS230OD00eleV7iTBCbko3/zDswr1eSgSnGw0cl90Rxo70aVKYhJIiv+qck5Q3RYAV/WTCtR7T61UsokM+tL41tAz9BYQ/KJyhRd9zhC/vL0to2q8+IhsuDlnhMpqXwPIVX1WwdIoCSwH2e3JypBg9u8x/YHmER+gWYsel0jKKvTYM+gKzaIoRqQvnEPc0EjmgYF1R+PRYjOUsAe0RbI0XeuA2G5Ia+THPlwUxo0SxUmJJv8dpCyyW+S2mZzGI39X37G5lhUrIZ1ByOPDurs+ITdRj6QO/8i2CxgbzvrP9N1RPsWintpoaBiShB8+dzP5iI=;vWxURoo4R7O6o/ejqiX6rg=="
 ---
 

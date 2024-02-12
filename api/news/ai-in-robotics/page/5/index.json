@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-26-coinrobotai-launched-an-ai-based-crypto-trading-robot.md",
+      "title": "CoinRobot.AI launched an AI based crypto trading robot",
+      "excerpt": "CoinRobot is an artificial intelligence research project that aims to develop intelligent trading robots. The project launched its first",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/coinrobot-ai-launched-an-ai-based-crypto-trading-robot-1032925152",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-coinrobotai-launched-1703531705.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-25T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-25-robotics-company-using-ai-that-does-engineering-work-by-climbing-walls.md",
+      "title": "Robotics company using AI that does engineering work by climbing walls",
+      "excerpt": "Gecko Robotics, based out of Pittsburgh, said it is using AI to find problems before they happen at nuclear reactors, boilers, pipelines, tanks, and ships.",
+      "sourceUrl": null,
+      "webUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "originalUrl": "https://wjactv.com/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wjactv.com/resources/media/6868b2c1-ec44-41ae-b4f3-c1c522ee45f0-large16x9_thumb_58754.png",
+          "width": 986,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "cdnAmpWebUrl": "https://wjactv-com.cdn.ampproject.org/c/s/wjactv.com/amp/news/local/robotics-company-creates-ai-that-does-engineering-work-by-climbing-walls",
+      "publishedDateTime": "2023-12-24T19:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wjactv",
+        "domain": "wjactv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-24-meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly.md",
+      "title": "Meet ELLiQ, an AI-enabled chatty companion robot for the elderly",
+      "excerpt": "Leveraging advancements in Genrative AI, the robot enables more immersive and continuous conversations, deepening the user-device connection.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
+      "originalUrl": "https://interestingengineering.com/innovation/meet-elliq-an-ai-enabled-chatty-companion-robot-for-the-elderly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dnd2oi6izkvoi.cloudfront.net/2023/12/24/image/jpeg/89pjLt7gnIxx0nQu3WmdmL7JJteS9BvekQubbkDw.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-24T09:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-dont-be-a-robot-build-the-robot-three-tech-predictions-for-2024.md",
       "title": "Don't Be A Robot, Build The Robot: Three Tech Predictions For 2024",
       "excerpt": "In 2023, artificial intelligence and generative AI were pushed into the spotlight when OpenAI commoditized them. In a short time, products like ChatGPT and copilot tools, built on generative AI, progressed user productivity and minimized the time invested to perform basic tasks.",
@@ -1247,127 +1385,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-robotics-in-the-engineroom.md",
-      "title": "Robotics in the EngineRoom",
-      "excerpt": "When talk turns to autonomous ships, a first question always centers on how routine and emergency repair and maintenance will be conducted.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
-      "originalUrl": "https://www.marinelink.com/news/robotics-engineroom-510133",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinelink.com/images/maritime/w800h600pad/image-courtesy-fmd-146221.jpg",
-          "width": 800,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "cdnAmpWebUrl": "https://www-marinelink-com.cdn.ampproject.org/c/s/www.marinelink.com/amp/news/robotics-engineroom-510133",
-      "publishedDateTime": "2023-12-14T11:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marine Link",
-        "domain": "marinelink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-worlds-first-mind-reading-helmet-is-revealed-as-eerie-ai-tech-can-tell-what-youre-thinking-turn-it-into-written-text.md",
-      "title": "World’s first mind-reading helmet is revealed as eerie AI tech can tell what you’re thinking & turn it into written text",
-      "excerpt": "THE world’s first ever mind-reading helmet has finally been revealed but the creepy AI tech has left many worried as it can turn your thoughts into written text. Despite the eerie new device",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "originalUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2023/12/newspress-collage-crvvq3fuz-1702547748208.jpg?1702548474&strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/tech/11853445/worlds-first-mind-reading-helmet-revealed-ai-tech-sydney/amp/",
-      "publishedDateTime": "2023-12-14T09:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing.md",
-      "title": "Job-oriented crash courses soon on AI, robotics, digital marketing",
-      "excerpt": "Hyderabad: The higher education institutes (HEIs) will soon start short-tem skill courses for students who have cleared 10+2 or intermediate examinati.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/articleshow/105973138.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/hyderabad/job-oriented-crash-courses-soon-on-ai-robotics-digital-marketing/amp_articleshow/105973138.cms",
-      "publishedDateTime": "2023-12-14T02:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

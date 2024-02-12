@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
+      "title": "EU states give green light to artificial intelligence law",
+      "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "publishedDateTime": "2024-02-05T13:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-computer-vision-in-industrial-settings-how-to-implement-it-successfully.md",
+      "title": "Computer Vision In Industrial Settings: How To Implement It Successfully",
+      "excerpt": "Ensuring compliance with various requirements during the assembly of products, particularly complex ones such as heavy machinery components, poses a significant challenge. The incorporation of computer vision through cameras or sensors empowers companies to identify the slightest deviations from established standards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd4608c66d4066cb5807aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1232,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
+      "publishedDateTime": "2024-02-05T12:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-why-elon-musks-self-driving-of-teslas-board-and-its-decision-to-pay-him-56b-collided-with-the-law-and-what-happens-next.md",
+      "title": "Why Elon Musk’s ‘self-driving’ of Tesla’s board and its decision to pay him $56B collided with the law – and what happens next",
+      "excerpt": "(THE CONVERSATION) Delaware Chancery Court Judge Kathaleen St. Jude McCormick has blocked Elon Musk’s US$55.8 billion pay package, which Tesla’s board of directors approved in 2018 through a process she found to be “deeply flawed.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
+      "originalUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-how-ethics-regulations-and-guidelines-can-shape-responsible-ai.md",
       "title": "How Ethics, Regulations And Guidelines Can Shape Responsible AI",
       "excerpt": "Ethics plays a crucial role in guiding the development of artificial intelligence (AI), as does outlining fundamental principles such as fairness, transparency and accountability. However, principles alone may not be sufficient, and the challenge lies in bringing clarity to these ethical foundations.",
@@ -998,143 +1127,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
-      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
-      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating.md",
-      "title": "Microsoft Azure: The Hidden Insights Beneath The Surface, Reiterate Buy Rating",
-      "excerpt": "On the latest fiscal Q2 earnings call, CEO Satya Nadella offered new insights into how Azure is capitalizing on the AI opportunity. We simplify the jargon and complexities to help investors better ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
-      "originalUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920932608/image_1920932608.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T21:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
-      "title": "IBM Databand: Self-learning for anomaly detection",
-      "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T19:57:33Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

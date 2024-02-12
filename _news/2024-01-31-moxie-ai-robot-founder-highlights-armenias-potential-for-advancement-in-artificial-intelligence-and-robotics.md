@@ -3,8 +3,8 @@ category: news
 title: "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics"
 excerpt: "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ..."
 publishedDateTime: 2024-01-31T14:02:00Z
-originalUrl: "https://armenpress.am/eng/news/1129253/"
-webUrl: "https://armenpress.am/eng/news/1129253/"
+originalUrl: "https://armenpress.am/eng/news/1129253.html"
+webUrl: "https://armenpress.am/eng/news/1129253.html"
 ampWebUrl: "https://armenpress.am/eng/amp/1129253"
 cdnAmpWebUrl: "https://armenpress-am.cdn.ampproject.org/c/s/armenpress.am/eng/amp/1129253"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "6w2xshT4EV2XAmWacbgk5ViVBjFvk+doa7oOCwikmUTEsqTyksjmeTr26dqCZWNae/VBVURv/kJMcKx6Y2obez4V427NUXpiEW3uLIbLEwee+TDeCgXmptuza2TNIlfyYHB0npzBuyqbvAn0lcF5SpVklCNoPvo8qybPwVjMwEd3fjfxVRThnLiVoeunup4ZqrtULBppcSkS0UUhJ8GlHfcaI5sw6jdzeGkowAnfB/W0qCG+wYLnmaGOX52hl8fA2s8nk+3BXizk29p/JfpQxJ/lVKyZWBsNKyj4OQvSrVasKoZSlVbymM9p9WmpnWP1TkKTIYA7F0vMahV5QKeMw0JJJBO/r9ic+SuIedjwlDE=;udULHIu3mP2LamABw6hg8w=="
+secured: "QThuP/TLeP2rOLLi5LRl3O3D2hZ/k9PfoMBSsrBQUU+GougZkk/pHfD/SjeUi2pI9nTW2CvAvtDIoSg4EVOEP4PFBf83NcSg8dDv/2maWS9cUvohkR1Gp6/a53hSIFxSGSzQ3EgQmgugT3xo0QrzIO7m41JctTKQ0hLwy7YKojKElXzRshjGzHyOnhQbhElErAS+5rW6zmCup+gGsfZ/a9F+fGocM2u797E9m/E57ESi5JBue6OY7+nHYSDxmiCcwyuifMCT0gqredZy6Flj2FinHTvvUznxFZrHdlrreBcFkvm2Rr4osUfSySViTqZr8hMdu0rn6K+7vEeGXc+ZP3xgSDxP6lu8WTeUrCGAhDc=;kZDy0JtWnVES2RS90jiRKw=="
 ---
 

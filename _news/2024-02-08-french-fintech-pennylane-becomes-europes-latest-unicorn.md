@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-lates
 webUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "How Mobile Technology can help the Fintech Industry"
+    excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
+    publishedDateTime: 2024-02-12T10:32:00Z
+    webUrl: "https://fintechmagazine.com/articles/how-mobile-technology-can-help-the-fintech-industry"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/1f3a482e694da4999811920d1af26edb:3ad93245b94c71a11eb392f3b55c9ccd/3-image-for-ci-gsma-mwcb24-connected-industries-fintech-final-low.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why Big Game Ads Are Becoming a Must for B2B FinTech Companies"
     excerpt: "Papaya Global’s decision to enter the world of NFL advertising comes in the wake of other B2B FinTech brands that found great success through their own ads. One noteworthy example of this is Gong, an AI-powered revenue intelligence platform that ran regional ads in 2021 and 2022."

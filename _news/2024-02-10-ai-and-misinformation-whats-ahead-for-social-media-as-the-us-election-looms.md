@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2024/feb/10/social-media-ai-misi
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/10/social-media-ai-misinformation-election-2024"
 type: article
 quality: 53
-heat: 53
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "The Role Of Humans And AI In Social Media's Battle Against Misinformation"
+    excerpt: "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult."
+    publishedDateTime: 2024-02-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
 
 secured: "SWHOD+IdcoE5kI6g/B1Qoo3q2ZVScxalcOtCxVka2pPAIXPdXIyqMt71QdpqQ08c9mPRF4lUiZYR6zG/yLPV4BscTz+diJ/O5B/kuZGjWV0Bfdq063jM98mk/xciFO8Gxzo3rlQuwQOUJqTlhhmdONR2TBE6q1iBpFc0Hos34tegirkApxcMTxH3YwZbpkHn+DtQjDfowT+k5/xkpx91KMqTkMst3E2NXCSNgIBflLfoW6fKcwtJq5nSraZsTn4l3SZ5gJxA5xbLFmJYUy3fLVquidflvbzLpSI64q9FuVnvfdSfDg44OWtthVm9u9BB25UMhrp8sOGy7xusg0HpJZpqHbv2u2AiFdhP/EA0f70aS0csfj3FikCe10Sv6eKwNLFJ5Ralw2o7fYfCzBCJ3uq/o7CTYaw6ogQl7ET7E9bwp9qHlBUuMLLe17bnD0nErg9yRpHnQwF/w1aE+lJa02qgTVLC71+kR+eLFlEhsgxbfwktXFeZsRcRyjJnJrdtOsoB3Wek0GKLNuolDo1X6g==;aOXC6C2FCco/aMfhE7OIbQ=="
 ---

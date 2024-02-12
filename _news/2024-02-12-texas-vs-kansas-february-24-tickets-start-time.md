@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hawks vs. Magic February 25 Tickets & Start Time"
+    excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
+    publishedDateTime: 2024-02-12T12:18:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/25/hawks-vs-magic-buy-nba-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/4KQ7WQNKM5NTBASKVPWGZF3PNU.jpg?auth=6b1d3371243d88f35b432fce17004de20c2fccaee602bed071ebe00f76e652a7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "UTEP vs. Sam Houston February 24 Tickets & Start Time"
     excerpt: "Saturday's CUSA schedule includes the UTEP Miners (13-11, 4-5 CUSA) playing the Sam Houston Bearkats (13-11, 6-3 CUSA) at 9:00 PM ET on ESPN+. If you're looking to attend this gam"
     publishedDateTime: 2024-02-11T16:25:00Z

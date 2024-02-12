@@ -61,6 +61,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Hawks vs. Magic February 25 Tickets & Start Time"
+    excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
+    publishedDateTime: 2024-02-12T12:18:00Z
+    webUrl: "https://www.wsfa.com/sports/betting/2024/02/25/hawks-vs-magic-buy-nba-tickets/"
+    type: article
+    provider:
+      name: WSFA
+      domain: wsfa.com
+    quality: 22
+    images:
+      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/4KQ7WQNKM5NTBASKVPWGZF3PNU.jpg?auth=6b1d3371243d88f35b432fce17004de20c2fccaee602bed071ebe00f76e652a7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas February 24 Tickets & Start Time"
     excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-11T16:24:00Z

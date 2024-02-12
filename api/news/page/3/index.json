@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
+      "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
+      "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "originalUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-how-to-build-the-best-ai-pc.md",
+      "title": "How to Build the Best AI PC",
+      "excerpt": "look for at least a mid-tower or even a full tower and select RTX for AI performance. A GeForce RTX 4090 Ti GPU will perform up to 1.7x faster than a prior generation RTX 3090 GPU in AI applications, so it’s worth prioritizing the GPU upgrade over CPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
+      "originalUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2024/02/Nvidia-CyberPower-AI-PC-1.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T11:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m.md",
+      "title": "Confirmed: Entrust is buying AI-based ID verification startup Onfido, sources say for more than $400M",
+      "excerpt": "Onfido, an early mover in the world of identity verification using computer vision, machine learning and other AI tools, is getting acquired, TechCrunch",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "publishedDateTime": "2024-02-07T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
       "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
       "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
@@ -981,126 +1136,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
-      "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
-      "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "originalUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-a-tale-of-two-companies-can-boeing-cruise-rebuild-customer-confidence.md",
-      "title": "A tale of two companies: Can Boeing, Cruise rebuild customer confidence?",
-      "excerpt": "It may also make it harder for other tech companies to push innovations – from artificial intelligence to gene therapies to ... On Oct. 2, 2023, a driverless taxi owned by Cruise was moving through an intersection in San Francisco when another driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "originalUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Science Monitor",
-        "domain": "csmonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-in-2024-what-every-gc-needs-to-know.md",
-      "title": "AI in 2024: What Every GC Needs to Know",
-      "excerpt": "While AI and machine learning have been around for decades (think IBM’s Watson), it was the wide release of generative AI (Gen AI) tools like ChatGPT in 2022 that arguably kicked off the current era in AI. Broadly speaking, Gen AI tools create new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

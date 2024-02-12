@@ -32,7 +32,7 @@ related:
   - title: "SEALSQ Announces Groundbreaking Entry Into AI Chip Market With Advanced AIoT Strategy"
     excerpt: "The AIoT system functions as the central brain of the expansive SEALSQ ecosystem, which currently includes over 1.6 billion semiconductor-powered devices. This network acts as a nervous system for the IoT landscape, facilitating swift and secure interactions across a myriad of devices and platforms."
     publishedDateTime: 2024-02-12T06:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960556.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-sealsq-announces-groundbreaking-entry-into-ai-chip-market-/2024/02/12/9960556.htm"
     type: article
     provider:
       name: TMCnet

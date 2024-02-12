@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-06-gecko-robotics-latest-defense-tech-to-raise-big.md",
+      "title": "Gecko Robotics Latest Defense Tech To Raise Big",
+      "excerpt": "Gecko Robotics, which creates robots to assess the safety and condition of critical infrastructure, has raised an additional $100 million in a Series C extension.",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/ai/gecko-robotics-defense-tech-fundraise/",
+      "originalUrl": "https://news.crunchbase.com/ai/gecko-robotics-defense-tech-fundraise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/AI_robotics_Shadow.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-best-robot-vacuum-deals-you-can-get-before-christmas.md",
+      "title": "Best robot vacuum deals you can get before Christmas",
+      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart vacuum ... or device to better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum. \"I got this for my upstairs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
+      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/05/724c21c8-fc5e-43c1-a55a-86258bc526cf/thumbnail/1200x630/848eabad8d7da534f7e1531333ae652e/robot-vacuum-head.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-gecko-robotics-picks-up-100-million-investment-with-backing-from-thomas-tulls-5-billion-tech-fund.md",
+      "title": "Gecko Robotics picks up $100 million investment with backing from Thomas Tull's $5 billion tech fund",
+      "excerpt": "A local robotics startup has added a $100 million investment to its coffers thanks in part to the financial support from a $5 billion technology fund run by a Pittsburgh billionaire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcaseor-a-rocket-to-mars.md",
       "title": "AI Teaches Robots the Best Way to Pack a Car, a Suitcase—Or a Rocket to Mars",
       "excerpt": "Robots that can fit multiple items into a limited space could help pack a suitcase or a rocket to Mars",
@@ -1099,145 +1219,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
-      "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
-      "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
-      "originalUrl": "https://techbullion.com/ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/11/AI-Powered-Robotics-Exploring-the-Latest-Innovations-and-Applications-in-2024.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T11:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-best-robot-vacuum-cyber-monday-deals-roomba-shark-and-more.md",
-      "title": "Best robot vacuum Cyber Monday deals: Roomba, Shark, and more",
-      "excerpt": "With so many robot vacuum deals going on this Cyber Monday, we've picked out some of our favorite deals for every budget.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
-      "originalUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/09/Digital-Trends-Best-Cyber-Monday-Robot-Vacuum-Deals.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/robot-vacuum-cyber-monday-deals-2023/?amp",
-      "publishedDateTime": "2023-11-27T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
-      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
-      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "publishedDateTime": "2023-11-27T04:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
