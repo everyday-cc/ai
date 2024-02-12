@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-11T19:55:00Z
 originalUrl: "https://manilastandard.net/news/314415491/eight-tech-firms-vow-to-build-more-ethical-ai-with-un.html"
 webUrl: "https://manilastandard.net/news/314415491/eight-tech-firms-vow-to-build-more-ethical-ai-with-un.html"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "I17x9wIt3Zgo4lHWBbFTpt3mUbVGRAIGCVHoEx8Lr46pbZ3cbX8GVC0cglv8lSNjcnhWnoatuGaB81ay862ikVkS2B7AgEBnuD7ip5xNte3yrn2cFHTGc9WNiVqnqtbWQZQ1UBFRN3qX7e31dGZjrYhTvud8dgOTaiv8r/eB/F4BAtUBOoXwSDqpQ2MGrOaDZRZ7OirqD5Mzy6f15Tles5Sw29b7JacK0hz+NhDgxauI46di51ocX/yJZF/UgKAQOeOQOTbOOvctuFahmlBjtEBYmQp4de++nHR8k6yQ81snW0Sy0Uhm0U0zg+vSWqTbcjFIymi//ex999W5KUGIAhCqhW0YwZmE3juOJ8rAxQA=;Vcmu8CKcxjh5GdoKItjh8A=="
+images:
+  - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/02/E-unesco.jpeg"
+    width: 1800
+    height: 1200
+    isCached: true
+
+secured: "tqM5QgCM46bfwpDUEfMfLUhkvkoaq9oL/wnFzy2hQwer0Jrwmu7iA+UaMmxRin9vr5jGCW5IZFhZWPhPNf0iYHCuGqlhl1wMKwES9ruF5ZhCBIxabyQIW7p7VzEl8yiyCeC/QxHRotgsHDQ0rjENBCJ6y9H940Q6EzTsBQpQrL0gblLpMvtg6xntB/pRd3jxZKd4Hs6THtPjpfSWUDR0pONQBU74oiWFtbwtakszXn5AQ4wfi+w6jKHn5EAlvfK+M6ivaHGeDtxUB21BIETocnnNZNLe/BqTFKv7MzUOzc3No8tvu0B3QFsVdtLtQzD5dFPLVaTFfsAHPsJvOjBRoV1eGu86Vwq9CiU61eoPKb0=;ma60e5Bk4tI6cL50dF6Zkg=="
 ---
 

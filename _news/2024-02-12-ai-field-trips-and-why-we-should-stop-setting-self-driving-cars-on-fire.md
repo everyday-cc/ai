@@ -47,6 +47,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
+    excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."
+    publishedDateTime: 2024-02-12T16:55:00Z
+    webUrl: "https://www.thurrott.com/windows/297693/windows-11-is-reportedly-getting-an-ai-upscaling-feature-for-games"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
+        width: 1066
+        height: 600
+        isCached: true
   - title: "Ten jobs artificial intelligence is coming for"
     excerpt: "With the advancement of artificial i (AI), these are ten of the first jobs that are most likely going to be taken over."
     publishedDateTime: 2024-02-08T15:47:00Z

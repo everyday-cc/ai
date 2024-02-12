@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "How French Fintech Pennylane Reached Unicorn Status"
+    excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
+    publishedDateTime: 2024-02-12T16:29:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/french-fintech-pennylane-unicorn-status"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/236dcb444f9708c318a0ad650a0c1016:465deb789a1cef3d55b630eea63f0e35/arthur-waller.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Why Big Game Ads Are Becoming a Must for B2B FinTech Companies"
     excerpt: "Papaya Global’s decision to enter the world of NFL advertising comes in the wake of other B2B FinTech brands that found great success through their own ads. One noteworthy example of this is Gong, an AI-powered revenue intelligence platform that ran regional ads in 2021 and 2022."
     publishedDateTime: 2024-02-09T20:10:00Z

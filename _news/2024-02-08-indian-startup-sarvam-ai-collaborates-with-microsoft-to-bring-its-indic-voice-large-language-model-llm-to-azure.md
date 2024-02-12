@@ -22,19 +22,6 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Artificial Intelligence will not only solve challenges for India but also for the world: Satya Nadella"
-    excerpt: "During an interview with ET, Satya Nadella, Chairman and CEO of Microsoft Corporation, emphasized the role of artificial intelligence (AI) in solving India's structural challenges and driving productivity and societal benefits."
-    publishedDateTime: 2024-02-11T18:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/artificial-intelligence-will-not-only-solve-challenges-for-india-but-also-for-the-world-satya-nadella/articleshow/107606861.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/artificial-intelligence-will-not-only-solve-challenges-for-india-but-also-for-the-world-satya-nadella/amp_articleshow/107606861.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/artificial-intelligence-will-not-only-solve-challenges-for-india-but-also-for-the-world-satya-nadella/amp_articleshow/107606861.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 23
-
 secured: "6j9lDjlK278cNIWRfv25ZCx80oFUVf6JjC9hh9sP0KBwlswkv7o+B32XF67or9GBXfOFce5Y8fZPxHJaORR/VbQsr3QHq+RWekVhVTRU+5eBIu34rCpG3DjoF/vZaxy58B+dWGqFJZlBNjRdO6a3liY2KDgrkDHQLpMfXMHVDWNGAR24j++94UMobWwB27rhV4fZMf7LlYmuM38KKB0QPKs1cZ/BEzJV3blaBd70sa0QteqPPV4fK7FgbFpTkIqe5I3AsyjlkshjdHLpUDAqFrsXWSej8boiGDykPdFwEwZ3wLAkIGn08MDjcdgjawNIm8yreo8k4tdjXqzC26mzv/zUkHTAqitskq1SlX/8t+4=;bbwaNNVCrIrPw76XBdevow=="
 ---
 

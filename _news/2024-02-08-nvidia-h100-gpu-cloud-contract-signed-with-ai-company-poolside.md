@@ -51,6 +51,15 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
+    excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
+    publishedDateTime: 2024-02-12T18:03:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-launches-follow-up-gpu-to-rtx-a2000-for-workstations-edge-computers"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 14
 
 secured: "iOF4/BkyM8Dfvmcopb8vVBzAhHz8Nd2ALZKe0sZQo08bUMfLl5KWT/0tT9y2zudxWFTegaVDZQCL9ghXXI3wTOackwmsUBn9sx0qcrpxhH0lfi0Zb1EEBsIVbTeuE1p9LqlSsywUCi+nSKc3DcJn2UnHbu1V95ZAxwhiJCwFOesQwkYfeFaZad1U7zKBUb61MZc8CtkjRL2qgD5MEb0t8poA5hoe3nXHZMIRQUr5axqWW9SdFxIOgXf4H8ByKEEVInn6Ou+m8PFAvlbDHFB5spHr2viMkosTc+wOrcbFyiow8J17ITn+bTXxMOiP4cQ5OJSD5wAUS+iN7xaqv9DvfjnX+/Rv1uCZ/GVRSejbuP4=;UxcrQ0hgMp40EqDslX1BfQ=="
 ---

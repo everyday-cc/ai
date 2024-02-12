@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 741
         isCached: true
+  - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
+    excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."
+    publishedDateTime: 2024-02-12T16:55:00Z
+    webUrl: "https://www.thurrott.com/windows/297693/windows-11-is-reportedly-getting-an-ai-upscaling-feature-for-games"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
+        width: 1066
+        height: 600
+        isCached: true
 
 secured: "cz2BsaYbIzuPqSdDoyF3eD072oX7DUxpW+Cy/MIeFvDO2jDFM5mCXNlMCHKID4TbODunKwl7LfHoAaEgsPsyBWWLyvjK4BZD+wjTiKwL5CbELp9kwAO7ySByzfDnfVsb3dPAbpqs8wuUXuva25eOjRVGeOlWDNN8SFaghGIV+H4aXFUbY7DpeBI9wZZjG0hTg4Y6yilSDY8Ystdll4F/I24vR3W6gpe6QmLvydYzroBat2u8/nDzCt36l4kvamjCdAjcTLv/pMc8ml49tmIeB2goZ3w6OW1qL0is1qi4VyFd2cjgMzYc5/vRiMM+XP9g2sLxNa5s/NnMvN6JPp4D/sG7gdQrq5ScMReu1Zh+qZY=;msvi9yCOOMgybzb4hm0/5Q=="
 ---

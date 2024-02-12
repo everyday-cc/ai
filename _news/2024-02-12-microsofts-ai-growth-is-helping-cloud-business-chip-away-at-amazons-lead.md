@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-gro
 cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
 type: article
 quality: 89
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -147,20 +147,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 57
-  - title: "New AI Patent Study Shows IBM Leads Google and Microsoft in GenAI Race"
-    excerpt: "The meteoric rise of artificial intelligence over the last year has sent tech companies scrambling to find new ways to develop and deploy AI technology in"
-    publishedDateTime: 2024-02-07T18:15:00Z
-    webUrl: "https://www.datanami.com/2024/02/07/new-ai-patent-study-shows-ibm-leads-google-and-microsoft-in-genai-race/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2018/08/patent_pending_shutterstock_EtiAmmos.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "ABB and Microsoft partner to advance industrial generative AI"
     excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
     publishedDateTime: 2024-02-08T21:17:00Z
@@ -199,6 +185,6 @@ related:
       domain: cointelegraph.com
     quality: 44
 
-secured: "4fyKz0aZwyKJe/vo1yVjWXP2v3zQb8rwvc3mGWeFdrHN6VmTS3n6B68J+tHMAZq2dGKt3W2Dk6T7muuOscozg6IC7+FEKh5pX3L3wKLpKyM8uwPVVp/zK8uU8nDGHWDALFet9GHmn4WuMwBwc3wcPmlNk2kKPIKr125Lc3qyLAWJwHyX/oulBl/VQmQ9LounI59Rf204dhP9HShNNZAfv96xK5MDZ0RsGN2TsfpWMKHcR14RgVAql2gEJ5LexCmfwHsrJwVKVhU/+sqFXXI5zoeftSRBasg4NWB2RpGY2th+IFGev1aY3dFnVOvArpOVB6Nmg0TnKqtgyrGE2LCSYPwA4O8hJ/+usnKfJJBAyks=;t5b5cqaJWmJXOlLP8slzKQ=="
+secured: "PN7bLXAL9YrTckHSk8slOq6vA5ef9/lOYT0fz/hePI9ZEb5YqNJP4p0sC5+dx0xyuc5f3F96GMzQ08Rt1kTgaMt8eTPsVPs/vwo5YWzCYbDxiLH3SbxcI+HnSkLThfEkqgdNN6Xc7+tyZSE7O3UBXDDu5pSmAXmX9sMFsJ+3EkcDAOLA2nGGptX8LuEbDjg6HYBQlct9gHrcd5k3ca3BRBpe+1SjGqBzaren3xIzxz4aAFeOCoNFbntMz6Snd/WWmKVHVUX0Jsf5sQW2JBOFqjMxQlAUn/azAK/uuQyvLilhb35FaZBw5G4uvGPZkEAGNEYf0OqyNDjiWMy1yad/hNaouTTKlb3myfEkJYAQ8XNMa9YUXBQez4AKg/j7TBfLhMu8yw5QyUhTYgVcEUEdJbrphe0daQmvFGWusUtPqYhUtqDZT6yipOuTfgiOMCihWEtcbZxdZNe56Lk4fkLGroRqQ4VlUv+8kirDhRcX2uOI1+yrn7/JRU5I90fSRsdh+eIftOB70RXgczhLw7mMxQ==;DXCGSvgv8MLfTw0/y13MIA=="
 ---
 

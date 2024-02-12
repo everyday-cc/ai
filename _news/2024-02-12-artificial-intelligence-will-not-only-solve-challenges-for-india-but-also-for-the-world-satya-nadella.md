@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Indian startup Sarvam AI collaborates with Microsoft to bring its Indic voice large language model (LLM) to Azure"
-    excerpt: "The collaboration aims to enable Sarvam AI to leverage Azure AI and Azure Infrastructure to build and deploy their voice LLM stack It also aims to enable developers to build generative AI apps at scale and empower enterprises to adopt generative AI ..."
-    publishedDateTime: 2024-02-08T00:00:00Z
-    webUrl: "https://news.microsoft.com/en-in/indian-startup-sarvam-ai-collaborates-with-microsoft-to-bring-its-indic-voice-large-language-model-llm-to-azure/"
+  - title: "Microsoft CEO Nadella's AI Training Pledge Puts Focus on India's Tech Ascendance"
+    excerpt: "As part of a U.S. political tour in June last year, India's Prime Minister Narendra Modi met with a number of big tech leaders, including Microsoft Chairman and CEO Satya Nadella. Nadella's office later revealed the Indian delegation meetings included discussions of the \"power of technology,"
+    publishedDateTime: 2024-02-12T18:24:00Z
+    webUrl: "https://www.inc.com/kit-eaton/microsoft-ceo-nadellas-ai-training-pledge-puts-focus-on-indias-tech-ascendance.html"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 28
+      name: Inc
+      domain: inc.com
+    quality: 49
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/satya-nadella-microsoft-ai-inc-1930518311_537340_afs4ch.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "pc5mK5dExP0AqVGPqBOuxkqcF2aQLKmxNENGEX6li4yX5NvZNBdIoVcP6C4jl7hIZUr1NupQxvrCS9dMGrrZ1y8rFQ33tRZ6maVNYFBDt3Qpnty+1lXkHtAQqb3gF+9c8KX91ziH6kCq1iFXUY3hpfkX4iPsFIbf8NAOMrXWQCopm4WczogyDePyXxw5e20qxmNpJvBRadCguu6/uHxRrdWfBkYRaghzl9Bgy4YfrXFRLlR9JHGpGZh687SL1tMSgBeQkDlYO/k0sBkZcFWgYjY03sAssIY/EW+ZeD6rcQ+p/nM8dWxexvFuhPX0q26upI9/5+zXSCbLTL0kpWv/LIwAxUfMkOd9exBfSar/+gkIWG/TwI0BfNJXOf5EPbJAM4Vbe+bW98HNYJtuShovQ1YZuanBDwBxXEZwnS5B1gFpP8S7bz+WV2pPjvrIZBZDJbUCGb5m8n8DXi1hcuxoYx/hLHWuFgHOP+ynJD4EnlQVmABrHepv1nQZbP8JDGtC7aGsMI9vokEoNM2+ykV1gA==;tDBFRNitllgVqqTEplGkPA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101837-windows-copilot-updates-tease
 webUrl: "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
+  - title: "Avangrid Pilots Mobile Robot Dog to Advance Substation Inspections with Artificial Intelligence"
+    excerpt: "The project will deploy a mobile robot to complete visual and thermal inspections at two substations in Singer and East Shore owned by Avangrid’s Connecticut subsidiary,"
+    publishedDateTime: 2024-02-12T17:27:00Z
+    webUrl: "https://www.tdworld.com/substations/article/21282583/avangrid-pilots-mobile-robot-dog-to-advance-substation-inspections-with-artificial-intelligence"
+    type: article
+    provider:
+      name: T&D
+      domain: tdworld.com
+    quality: 42
+    images:
+      - url: "https://img.tdworld.com/files/base/ebm/tdworld/image/2024/02/65ca52e26be30a001e3cc3eb-screenshot_20240212_111805.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KaOSVJWXngooJRlqQoBtr1iCfanZVGLz3fiHnf7lS9przjiebO7tudLbyxysULr3dSxpfMVBWhkvNfKGgVlS20Blfm/+BmrJ4rOSOS9apwFrXu18Bu1QwLEkhNayQ66O+m/cyk4+BHCTJAVWOhQvU1ugcabrpy1id/SLmPM/R0D0eq+JXKB873AdBkuPDW+1XD4GyTJnGc2t8yQAdOcO4LgDXrOsOkKPFysJaIzpTHlm/2ugeSj1z6KibBCS+DqWTsvG1dbnLMto0Ko6vrmE2y3ZB/J3cseHbGb5Y4K+iC2ouzkialYzXU4fxCLGq2LjNkiXzLDdL8f31USLso4OC+4ySlkdvp9hRY5U2+5+Ed4=;oKSPtqo5GYEYTZOdK9QCiw=="
 ---

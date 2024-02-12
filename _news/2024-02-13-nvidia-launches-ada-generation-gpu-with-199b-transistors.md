@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with
 webUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
+    excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
+    publishedDateTime: 2024-02-12T18:03:00Z
+    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-launches-follow-up-gpu-to-rtx-a2000-for-workstations-edge-computers"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 14
 
 secured: "bskzkxcdcoik9doAu079bj8TR8lUJ+ZiCbjEU823ODv415DQHtmFc5Pb1+yDFardLKf9nP7J/n86SpaJP8X5PcrCE7nV0qndGCAPLZTRmXraeg4Sm6MJuaLDmbFCr+hUzmUxtGX4Gy1TJ46MOmzf8OyKTSusTY/z0AgKsgAjSS4ZnbzHZrja7Uq51M2A/SVlCtclTpU5B5WKvoBGiMdl4GxX9ZymrQpjXhEu1Dm+ZycTDIYJEYb9sUzWQ4q25DRqgU+ilp/BlXNsgHCsyQX7roA9JnwwUpZV9LEvxp9lrQMO2/7cqDCbJOgOkh5UyQ7c40Fl4hnOLV1aPioQqofx6Sk3tUny3gYDCc0mm+jalCI=;G6aoz6a2/OwbrWsk3QhJEA=="
 ---

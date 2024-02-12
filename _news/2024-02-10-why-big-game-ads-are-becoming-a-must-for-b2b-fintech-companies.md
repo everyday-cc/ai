@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How French Fintech Pennylane Reached Unicorn Status"
+    excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
+    publishedDateTime: 2024-02-12T16:29:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/french-fintech-pennylane-unicorn-status"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/236dcb444f9708c318a0ad650a0c1016:465deb789a1cef3d55b630eea63f0e35/arthur-waller.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/l+vUpcSAbid6VST08No/jeOOtNzWlzQJMoPhfMkLJXLUI86ifqNTO171gcQLOPGRoAQuofZIJjFl0t/7UYyaVj8lY9OcCctRF93ttt+eZLcSZZL19K9ih6Whm8nWGenPwyGtgztxbUKPCyJotHYQBdR4NsV+IKf2RMmAxNqdwanB97Ju8MeaibYcK242qjCDmpm2tQrdZFdm9wYMXW0OD//B7yLY46e+lBMBxvXNiPGn4og+43i4jN+bfrKg9GJGXTcak1SY2CE/IKfX45i4F5iVefaTzFzrBoN5faI0KHaFFEX04Vn4D+vFIvrFCVfkTXEb6y3FqslNY/bJJu1t3NNTY2DN3TS9Xb5v15MpN/AC2bUx47k3zqc2By7UIzfvVRZuZi5k6fIl3Xi5v0sylPOsRwKfWPzAzir5I//K8ROiDijnYMNnRXQt5fyXG3v612bm+GvUr+o7fhNthoVO08/1wd+qnh6bYBwZBerUfgb2WpUXbwdQjh3CgLSGTiI3W7yHvA5sgwXawNsUES7Qw==;aAga5HMLeUMsVJGgF86LFA=="
 ---

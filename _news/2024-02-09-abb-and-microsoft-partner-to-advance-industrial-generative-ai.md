@@ -160,20 +160,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 57
-  - title: "New AI Patent Study Shows IBM Leads Google and Microsoft in GenAI Race"
-    excerpt: "The meteoric rise of artificial intelligence over the last year has sent tech companies scrambling to find new ways to develop and deploy AI technology in"
-    publishedDateTime: 2024-02-07T18:15:00Z
-    webUrl: "https://www.datanami.com/2024/02/07/new-ai-patent-study-shows-ibm-leads-google-and-microsoft-in-genai-race/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2018/08/patent_pending_shutterstock_EtiAmmos.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
     excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
     publishedDateTime: 2024-02-12T05:40:00Z

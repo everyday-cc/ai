@@ -151,20 +151,6 @@ related:
       name: The Week
       domain: theweek.in
     quality: 57
-  - title: "New AI Patent Study Shows IBM Leads Google and Microsoft in GenAI Race"
-    excerpt: "The meteoric rise of artificial intelligence over the last year has sent tech companies scrambling to find new ways to develop and deploy AI technology in"
-    publishedDateTime: 2024-02-07T18:15:00Z
-    webUrl: "https://www.datanami.com/2024/02/07/new-ai-patent-study-shows-ibm-leads-google-and-microsoft-in-genai-race/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2018/08/patent_pending_shutterstock_EtiAmmos.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "ABB and Microsoft partner to advance industrial generative AI"
     excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
     publishedDateTime: 2024-02-08T21:17:00Z
@@ -203,6 +189,6 @@ related:
       domain: cointelegraph.com
     quality: 44
 
-secured: "7to/1UC2HETympIWG5vPTSlmr97N+oCnWgvjxOQ2o7gTcuLvd06z5KHkRojR9h6W0eLGmGdLSB5z47QTlnQbwNG1F4ditTY55H16l5r6/zJy4LlLIHZTD42JjEGNv/Z3wUkQ2bMZhAO7P7Oh5xUqj742o5i510Vxcf5PxBLTmDmOe4Q0/BhX3XeijgpX7XGFMKQsWhbDK1CiElwuE4yCcAmFMSAM1UHNsgpdLBee2b591i1rX9kCl82I4SZxtSyUEjKj/h2IaLkqPWh1rGwomx6D3z/fX6vATNeKwm5q3z2UZ3ED7S8ILSfGN9S00s7uGD17RRxo4m1dV/fXxOX3ztxIYOvi3d9/hM1acDBvQJM=;ZIhRtRbtcaMXC8gq6G7zHQ=="
+secured: "S9otN0OGveuU2/IvZeKXylx4udTGIBiPQXfDKTaaKjHf8m7QSU5VWfiP9u6I2jRGCXjq6iWAfsJSPNI51iKE6sc20FSl/mKlDtBPy99rNFsbjVj3I4muQbVNiOmmn/8yexMAWCyiKD+WTLgJ0CI6IldUuRJwSHr5lJVh1w3haeqRaTQZKIV6VkHBZreblOoZk1gIyqF+tC60ZSBsSIbRSC2FVYjU4WaJLh7Z0YXX0j4Usc3dle0/DfYf/nUuCIeb2NFQJN6X870odsxjaxnstlmbeDo6W1sZz2AEYyDyXnEGMhXRaLRpMqVuZPRYzjPC0zxlGLbHDNJgm6Xa+z7Cdx0qRGjjeSMPaqctRBLafD95JlAsOAWi40wiyMfSQrdg3SYFJEXAMHEMk5R/Bn6dY3GeD34qKvQNnJN8vQxzcHZaUAcH+oGbexMr6o8pYqa3tjuuaSofQsRcKjwfVsaSjsoJmRHvhORCFhecijvyv2by8pXQnHEnQb5Axj67/m8QJNcTw+w9X+tuPfZpkaQ0Tw==;QEqyO3sGF8GGctTAfDLO/A=="
 ---
 

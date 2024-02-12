@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
+    excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."
+    publishedDateTime: 2024-02-12T16:55:00Z
+    webUrl: "https://www.thurrott.com/windows/297693/windows-11-is-reportedly-getting-an-ai-upscaling-feature-for-games"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
+        width: 1066
+        height: 600
         isCached: true
   - title: "Ten jobs artificial intelligence is coming for"
     excerpt: "With the advancement of artificial i (AI), these are ten of the first jobs that are most likely going to be taken over."

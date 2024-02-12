@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-lates
 webUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 24
     images:
       - url: "https://assets.bizclikmedia.net/1200/1f3a482e694da4999811920d1af26edb:3ad93245b94c71a11eb392f3b55c9ccd/3-image-for-ci-gsma-mwcb24-connected-industries-fintech-final-low.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How French Fintech Pennylane Reached Unicorn Status"
+    excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
+    publishedDateTime: 2024-02-12T16:29:00Z
+    webUrl: "https://fintechmagazine.com/tech-ai/french-fintech-pennylane-unicorn-status"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1200/236dcb444f9708c318a0ad650a0c1016:465deb789a1cef3d55b630eea63f0e35/arthur-waller.jpg.jpg"
         width: 1200
         height: 630
         isCached: true
