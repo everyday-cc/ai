@@ -33,6 +33,15 @@ related:
         width: 1640
         height: 924
         isCached: true
+  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
+    excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
+    publishedDateTime: 2024-02-11T22:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "agLJc3u0mscHln689iT7703/I6Yp3hOXAhoaXtn8CyZ4gXXpRyNQtMYs754MUgcXLe/DDNhLacIsNUoNQQbyTmIqO8FSQ2dJVm38epBFCS3z0x9oePimxXPOYGi/Et9044vXR4Y1jX565EjcOkirGrsAzZoDgSiK7j1Vg88qLFdnsa6ut2w9WIwnhC3Ii/cwHl9jZiunftmkyZsn4HS1LoopEQoHY/WpYjiNUXz1zUGfDvufXSJyFxQMNBn3HTagjSYewVAv05CAPBqRLaphGp0NcewMAQdbYKNlFdMIPiWMt5qLubej0z4XObBsDNLjZ6dkHw7PQXTdz6l+IGzNiBbkh7M2PTaD/LQag6NZjFc=;KtFUjdeutbPNsTR8/FV09A=="
 ---

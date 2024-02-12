@@ -40,6 +40,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Demand that Artificial Intelligence Respect Copyright"
+    excerpt: "Building quality journalism in the midst of an unhealthy media business ecosystem is like planting rice in the desert."
+    publishedDateTime: 2024-02-12T01:30:00Z
+    webUrl: "https://www.kompas.id/baca/english/2024/02/11/en-menuntut-kecerdasan-buatan-menghargai-hak-cipta"
+    type: article
+    provider:
+      name: Kompas
+      domain: kompas.id
+    quality: 37
+    images:
+      - url: "https://cdn-assetd.kompas.id/wPdNz4-ilkTTudJ1bULkH8fJ3EE=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F02%2F11%2Fe1a24540-d9da-4a8d-ab75-2c2e8cbac0cc_jpg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "/ODz4oi0iwWi9MTH0cMzolQ7V12D/D8DLygE5OfluRIrNzQPpkqklrHaczpMUoqInhrJ5zNkSAgbceuLkF571OJczAxiSCK821L29IB40jPDhgwXiVYheOj6VgcRSrnRV4GARrCBwbvA8IiyYFlc+plm/NFww2/pV5R1Hpi4yYEDtO7kQ2wq1NwAaB7iH5bAAB1ONHYYj5Lke9jc4tdLWCqCMyrGNTYxTZykg/x7KPUTh7P33BXXDUwGYE4e09y1Xjq//42B82RiFCNJCco/IssLmX7buSRega67l8DSZhZQE4auMxOH1zmWagfqxvW+ITTyHyunYakwiAg3N1awKeeBfrkwbuMPQP5+HAQulkg=;2jAam5sCRH5zFJRmO4CYug=="
 ---

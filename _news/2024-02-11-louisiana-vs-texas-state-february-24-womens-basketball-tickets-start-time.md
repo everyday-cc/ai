@@ -66,6 +66,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Michigan vs. Purdue February 25 Tickets & Start Time"
+    excerpt: "The Purdue Boilermakers (22-2, 11-2 Big Ten) play a fellow Big Ten squad, the Michigan Wolverines (8-16, 3-10 Big Ten), on Sunday, February 25, 2024 at Crisler Center. The game will begin at 2:00 PM ET and is available via CBS."
+    publishedDateTime: 2024-02-12T02:19:00Z
+    webUrl: "https://www.wilx.com/sports/betting/2024/02/25/michigan-vs-purdue-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 22
+    images:
+      - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/v2/TQA3NJ6EUZKWJHG723MW6CQLUM.jpg?auth=9383822d03f57e0bc88ee72f715406d7e08947f4a19a778a9f0806dccaa4e72f&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas February 24 Tickets & Start Time"
     excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-11T16:24:00Z

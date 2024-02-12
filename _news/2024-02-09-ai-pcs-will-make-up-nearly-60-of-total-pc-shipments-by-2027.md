@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 764
         isCached: true
+  - title: "IDC Predicts NPU-Based AI Pcs to Make Up 60% of Global PC Shipments by 2027"
+    excerpt: "PCs with specific system-on-a-chip (SoC) to run generative AI tasks will grow from 50m units in 2024 to 167m in 2027"
+    publishedDateTime: 2024-02-12T02:47:00Z
+    webUrl: "https://www.thefastmode.com/market-trends/34941-idc-predicts-npu-based-ai-pcs-to-make-up-60-of-global-pc-shipments-by-2027"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/3b616bb58139b2e964445c8d6645ea7a.jpg?t=20240212_023215"
+        width: 752
+        height: 408
+        isCached: true
   - title: "60% of all PCs shipped to be AI computers by 2027"
     excerpt: "Artificial intelligence (AI) computers — PCs with specific system-on-chip (SoC) capabilities designed to run generative AI tasks locally — are growing so quickly that by 2027, these PCs will represent nearly 60% of all computers shipped globally, according to new research from International Data Corp (IDC)."
     publishedDateTime: 2024-02-08T13:49:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
+    excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
+    publishedDateTime: 2024-02-11T22:04:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
   - title: "Self-Driving Car Collides With Cyclist, Rider Wasn’t ‘Fully Visible’"
     excerpt: "When the cyclist became “fully visible” to the driverless car the “vehicle applied heavy braking but was not able to avoid the collision.” Waymo called the San Francisco Police Department to the scene. Upon arriving, SFPD found the vehicle and cyclist. The cyclist reported only \"non-life threatening injuries,\" according to a SFPD spokesperson."
     publishedDateTime: 2024-02-09T05:34:00Z
