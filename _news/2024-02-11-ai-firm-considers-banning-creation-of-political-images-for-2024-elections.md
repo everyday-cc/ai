@@ -2,9 +2,9 @@
 category: news
 title: "AI firm considers banning creation of political images for 2024 elections"
 excerpt: "Midjourney’s CEO David Holz says company close to ‘hammering’ images of Donald Trump, Joe Biden and others ‘for next 12 months’"
-publishedDateTime: 2024-02-10T19:13:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
-webUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
+publishedDateTime: 2024-02-10T16:55:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/10/ai-political-images-ban-trump-biden-midjourney"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "4JBlqcvVu14PBLjTnFzDDMkt8oEnaP6Omd0scBPNExEzJAbZW3AyfAB8czKBeLHkZZrrtVPiXVEzxUf0AlCQEcrjMpwpz+aGlcLq9k3lqI/wEr4n0iPiT5W4NAPehO2086We2S8Y8Thwx9JL0WLE4LSTwWwZhGsTNkKRjtI5eVP5ncpqrbEZcKv6dV3vNkwg5h5FdA2vTfDJvUt89fIm5B8sQ4TGL6xn4RwXmRtwq9J+Fr64UpJ4YJ1rysXp9Zggp1lPbETQwkBgyoRJMnwyNsukN9QICHOQhoTo23xWepPxaV7yqDEZn5qyZpw+5pYjbsjCqchf6V6UEYi+rJnp8plYpbfRDcv5TfkJF76yNRKWnnv3YDJOQygOvS7g2lD5f+fvJreqyV/U1GsyftBksnN5ZYo7Koa8mxAbvO0pJsOc9QPbe+L8QVAUGNaxJW+k1uxieg/Tm3RQgvfGaI+ArR2YS3i6w2/Yw8Jgzj/u3Ko5HlTpcqqghueEkBnyuRWF64iA3fdmPnxehqsVNz7eFw==;r4EeNuzXcFgXokV5B1/94g=="
+secured: "zNnamPmIPYv6UpzzNhQyLZdp+wsS8obvifj4m//ewK/MUOAUN5BCNq5MjXXDj4deUeYb9n+60f2c8rLj5ua9pZbiLPcMAI5+0e6tVzRpYws0vOcbnxqy/JMmUrqbTFVVSDQ+uMJ5aYu4G6CbE51XZNQK891EXl4etvSi5cClouG8e5FTdUOlA/PzfkDUyqJ4QRq0dfaoWl1Apfnc6Z3MSH2MwVBnsRZWV4LYgKeWJ8jtxhNrjUkOGhYyEuzoz5/txMoBwchgYvARfCM/vCLqsPAGfHmJZdEJ0xXFQUQJrTwfTDaTYbiuiV6JJat9N/wluy8QZQd8zEnXhNMZqmAjATpdVAVacqHa8JTnjlHDT30=;tRdcPkMyAqsxiP8VekDlyA=="
 ---
 

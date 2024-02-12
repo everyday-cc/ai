@@ -60,6 +60,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
+    excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-12T04:20:00Z
+    webUrl: "https://www.wbay.com/sports/betting/2024/02/25/green-bay-vs-youngstown-state-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WBAY
+      domain: wbay.com
+    quality: 22
+    images:
+      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Michigan vs. Purdue February 25 Tickets & Start Time"
     excerpt: "The Purdue Boilermakers (22-2, 11-2 Big Ten) play a fellow Big Ten squad, the Michigan Wolverines (8-16, 3-10 Big Ten), on Sunday, February 25, 2024 at Crisler Center. The game will begin at 2:00 PM ET and is available via CBS."
     publishedDateTime: 2024-02-12T02:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-update-sundar-pichai
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/"
 type: article
 quality: 94
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://media.wired.com/photos/65c42a966a3f2e01ffd4317e/191:100/w_1280,c_limit/business_google_chatbot_gemini_rebrand.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
+    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
+    publishedDateTime: 2024-02-12T03:25:00Z
+    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Google Has Renamed Bard After Gemini, The AI Model That Powers It"
     excerpt: "The tech giant also announced a slew of Gemini services, including Gemini Advanced, the company’s most powerful AI product, available via its Google One subscription bundle."

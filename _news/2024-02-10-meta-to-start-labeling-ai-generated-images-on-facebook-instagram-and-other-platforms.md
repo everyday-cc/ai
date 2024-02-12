@@ -71,6 +71,20 @@ related:
         width: 4288
         height: 2848
         isCached: true
+  - title: "Capgemini Partners An OpenAI Competitor Mistral AI Founded by Former Google Deepmind and Meta Researchers"
+    excerpt: "Capgemini Partners With Mistral AI to Spearhead the Adoption of New Frontier Generative AI Models. Capgemini and Mistral AI will focus on accelerating"
+    publishedDateTime: 2024-02-12T04:32:00Z
+    webUrl: "https://www.indianweb2.com/2024/02/capgemini-partners-openai-competitor.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 37
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsM6_Gj5-lKxyQ7_SngXNbCm23eV1ABD6Ia3E3jLVze9VKvkPvAZDWltgLlI_gzRbPwvhVkRhbZHQbIRcyy0rnC8VCpIVVyXNIvh9IqFFiXhQ8ulgxce4KL70fIPtAz0CgpYk_vTx1uxZzEfTd03cNMhb9mY-xXDKpwJN5LPFgH5PpJsXMtv3_vdkhuvQ/s16000/Capgemini_mistral-ai.png"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "me/BvdYzJktq9AZxvYIL0cDisOeSt4ymsiU+4qinLo9N9TblS8BTtN0FT5VFd1D0ByBrQmftg2wqM8jUkdf5AAbtJl0mHyo4X0xdhwyXUtMYDQwLHmw16irFsYrBhz+GorXXeGzB8mf13MG9JWdIznu3xKMnJwmEt0dpw+hH+Uli4qt1WVJLAB3tUB4iUAU4pzrPd7vyd3/2kR7/jrGv18OTLngQfD9NUshgJwkT4m6C3WA8O1lGqYvxy8+YtmRxyQ/q6Zv3l/18BaaF5X98oXBAt/8ijihaaRmUhVs+/4mXnt6lvYnFsyY0AjLviJnIez/dAhxC1eOlqJFR47lBOrsgCoLgC7T/DdmrkxDEiT5onV1NMomERSPghDoaWncom0W03jkBi5LzLjtQH+dCOiOa5lPLSYqJWlog3EOSJQ7bTqyRzmvUdYTL7EAA1yZ0UplQCf/FO7CIkY/KNIRm/4Us7RWBoZqf0gfdkwGyX0mIpZrxN+G1J6ew9z51SERTLDc5/+dsqDqOf/lM6QRGyg==;jNoMFTC2b15LGTO+fFaPVw=="
 ---

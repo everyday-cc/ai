@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-
 webUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
+    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
+    publishedDateTime: 2024-02-11T02:55:00Z
+    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
+        width: 1008
+        height: 672
         isCached: true
   - title: "OpenAI reportedly seeking trillions for AI chip development"
     excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."

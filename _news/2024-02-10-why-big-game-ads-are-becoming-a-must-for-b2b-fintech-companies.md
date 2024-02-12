@@ -33,6 +33,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "European Fintech Pennylane Reports Series C Funding Round"
+    excerpt: "Pennylane has reportedly raised €40M from Sequoia Capital and other investors, reflecting steady growth over the past two years."
+    publishedDateTime: 2024-02-12T02:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "/l+vUpcSAbid6VST08No/jeOOtNzWlzQJMoPhfMkLJXLUI86ifqNTO171gcQLOPGRoAQuofZIJjFl0t/7UYyaVj8lY9OcCctRF93ttt+eZLcSZZL19K9ih6Whm8nWGenPwyGtgztxbUKPCyJotHYQBdR4NsV+IKf2RMmAxNqdwanB97Ju8MeaibYcK242qjCDmpm2tQrdZFdm9wYMXW0OD//B7yLY46e+lBMBxvXNiPGn4og+43i4jN+bfrKg9GJGXTcak1SY2CE/IKfX45i4F5iVefaTzFzrBoN5faI0KHaFFEX04Vn4D+vFIvrFCVfkTXEb6y3FqslNY/bJJu1t3NNTY2DN3TS9Xb5v15MpN/AC2bUx47k3zqc2By7UIzfvVRZuZi5k6fIl3Xi5v0sylPOsRwKfWPzAzir5I//K8ROiDijnYMNnRXQt5fyXG3v612bm+GvUr+o7fhNthoVO08/1wd+qnh6bYBwZBerUfgb2WpUXbwdQjh3CgLSGTiI3W7yHvA5sgwXawNsUES7Qw==;aAga5HMLeUMsVJGgF86LFA=="
 ---

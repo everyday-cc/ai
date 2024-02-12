@@ -203,6 +203,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-11-how-to-strategize-ai-implementation-for-sustainable-business-growth.md",
+      "title": "How To Strategize AI Implementation For Sustainable Business Growth",
+      "excerpt": "Developing an artificial intelligence strategy that aligns with broader business goals and transcends mere technical considerations is crucial in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/",
+      "originalUrl": "https://www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c44aaa59632af5a469aec4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 675,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/amp/",
+      "publishedDateTime": "2024-02-11T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-facial-recognition-technology-could-be-used-in-hong-kong-to-fight-crime-maintain-national-security-police-chief-raymond-siu-says.md",
       "title": "Facial recognition technology could be used in Hong Kong to fight crime, maintain national security, police chief Raymond Siu says",
       "excerpt": "Hong Kong authorities have not ruled out the use of facial recognition technology to fight crime and maintain national security, but the city’s police chief promised that guidelines will be drawn up for the use of personal information gathered by a new ...",
@@ -747,7 +798,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1231,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
-      "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/VHB65XuS_x0VfXMZBAFX-2PmmZJ-ZabjP9TQSNQaR7TunfoW1OsGw2JDZQAYWcwGbiY6C2kEVuYJ9MJiEBxAOORYss-Ei8kmWqWE1hWYN0JbbUNLWnC3toUz4MkBHfqmf-Vu7o0e-mt8m0KdHLDhiQ",
-          "width": 1600,
-          "height": 846,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

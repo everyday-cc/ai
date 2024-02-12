@@ -66,6 +66,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
+    excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-12T04:20:00Z
+    webUrl: "https://www.wbay.com/sports/betting/2024/02/25/green-bay-vs-youngstown-state-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WBAY
+      domain: wbay.com
+    quality: 22
+    images:
+      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas February 24 Tickets & Start Time"
     excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-11T16:24:00Z

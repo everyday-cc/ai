@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-lates
 webUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Next Web
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "European Fintech Pennylane Reports Series C Funding Round"
+    excerpt: "Pennylane has reportedly raised €40M from Sequoia Capital and other investors, reflecting steady growth over the past two years."
+    publishedDateTime: 2024-02-12T02:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Why Big Game Ads Are Becoming a Must for B2B FinTech Companies"
     excerpt: "Papaya Global’s decision to enter the world of NFL advertising comes in the wake of other B2B FinTech brands that found great success through their own ads. One noteworthy example of this is Gong, an AI-powered revenue intelligence platform that ran regional ads in 2021 and 2022."
     publishedDateTime: 2024-02-09T20:10:00Z

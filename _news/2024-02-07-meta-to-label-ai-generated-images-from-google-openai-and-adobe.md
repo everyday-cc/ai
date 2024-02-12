@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3712821/meta-to-label-ai-gener
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/08/olloweb-solutions-520914-unsplash.jpg"
         width: 4288
         height: 2848
+        isCached: true
+  - title: "Capgemini Partners An OpenAI Competitor Mistral AI Founded by Former Google Deepmind and Meta Researchers"
+    excerpt: "Capgemini Partners With Mistral AI to Spearhead the Adoption of New Frontier Generative AI Models. Capgemini and Mistral AI will focus on accelerating"
+    publishedDateTime: 2024-02-12T04:32:00Z
+    webUrl: "https://www.indianweb2.com/2024/02/capgemini-partners-openai-competitor.html"
+    type: article
+    provider:
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 37
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsM6_Gj5-lKxyQ7_SngXNbCm23eV1ABD6Ia3E3jLVze9VKvkPvAZDWltgLlI_gzRbPwvhVkRhbZHQbIRcyy0rnC8VCpIVVyXNIvh9IqFFiXhQ8ulgxce4KL70fIPtAz0CgpYk_vTx1uxZzEfTd03cNMhb9mY-xXDKpwJN5LPFgH5PpJsXMtv3_vdkhuvQ/s16000/Capgemini_mistral-ai.png"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
     excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."

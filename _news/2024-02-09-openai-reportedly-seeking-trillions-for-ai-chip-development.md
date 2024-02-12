@@ -77,6 +77,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
+    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
+    publishedDateTime: 2024-02-11T02:55:00Z
+    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
+        width: 1008
+        height: 672
+        isCached: true
 
 secured: "U0hldDpDHA8FQb+jkPexHrjNbGMP/o38DF6gPF+uJIiZMiagpi6N9N3pR/Q2mLCxkb+PFwLiq/ICDe+qbnBDrJtcz8yoip6y51hq+Fe9/j56wCYZjGDRhiu5qm3z83vIk13nYq5kgT7NfpXGYV25k4cdMwuy2/VM/SLfpLNJ/JGwWeb/PwbAa/oSFMUbMXHxuksSDfBn9F1Qz+qyyFhR2KI4Q4GaGDWyGRx4sk/itg2xeG0BpgzKKy95cCpX2l8UFi3p9wtxevgn6swSu0LwOCBd5dmvVzIAgUCoL68IT4ugle25AGNjjlHKqUG8rTZAv6S1K76ItsYHTAaahAJgXCnGVLBd/Tlu5WyrjJcL9PnAqxl7h5gyZLCEExJfi6ZkBdHpodlvY99reor+blrPoxorGWUr1+29KpcyNrA62di464xxHHXCj/IpDxwwTf8xvXQrnMr9nj6wNYHis+UUantQPjKwS+CSpEYC5Kkb0z9yWLjbsWWKhk4md84h7qwQYtZDjwC1qA4OUrIZGbjwcA==;txH2mY63Ml1gIFzst0hlfw=="
 ---

@@ -2,11 +2,13 @@
 category: news
 title: "UK’s AI Safety Institute ‘needs to set standards rather than do testing’"
 excerpt: "Mark Warner, CEO of London-based Faculty AI, sees new body as an international standard setter"
-publishedDateTime: 2024-02-11T10:28:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
-webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing?ref=biztoc.com"
+publishedDateTime: 2024-02-11T11:34:00Z
+originalUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+webUrl: "https://www.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 type: article
-quality: 16
+quality: 56
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://i.guim.co.uk/img/media/10c8a9ed8e5db6fda5dcbc8a1c7dbadcbfc5b52d/170_32_6257_3758/master/6257.jpg?width=620&quality=85&auto=format&fit=max&s=a3a65d41147a6bce5d2cbb561206f10f"
+    width: 620
+    height: 372
+    isCached: true
 
 related:
   - title: "AI safeguards can easily be broken, UK Safety Institute finds"
@@ -39,6 +47,6 @@ related:
         height: 372
         isCached: true
 
-secured: "Iyh7B9hoMD+T2x5pR+rcwRpIjXNgk4bhLpQ0h+hxOHnfCITFPCW2BzV6kz0PvUHCpfPNjTotGHhXAgtoQyGRWo3wMCiKxTLTb2+PmQPhfZKulibh4XNZ0jCHIbSntacVD7cPUCMs0e4gXtH4VLDKPTYTvE0f/eyuasyE42Gm34H0LjLVi5lkNForNZPpBjX57gMvWVZQk3I+ELYcPwImOMZpkAoNx1kdGTCpDMcbBbxWcNtfKJZjUiQeZ5UeyvfY7oHiVJbAK2oYW4ub1Fr+l9RSdnEd5lt7dS/K0nX7w5cHLTOYFEFSYRGv3RQn6E7EB8lqxHPxzRp8FDBzzJyxov+SNBxrfvDOwvt+Y+evMtmNZRP/DbgYlqabVVRhJs320pYds0Zi3B0TriG/vI9gBHP5ypH62VUTfjiwCXI8BzuwRdeFSF3g7egR8rSDK9UkNB6CqSaN8yZ0PxhymH1Tep0qgsbEIeBkMcmsNYdqzh4Eub3sbv/9S0b1onN/5VKkJrnD6zIFYAgzG0+LVS8eMg==;kG9IdJHJE9cMA11EcZHgjQ=="
+secured: "rMfGpUjfxeX3D1yDn92O7Lpeg0wD5jXlr1kO8G22yKvOCMlPwwBgXU6mSSPBx0T5V7s1IYvrLto4RK43XP9okJRfExVAfb2ZcvlGXN0+Eq0qwetbnXg9RdWcVpKvQgN0f33PZ8CuxY4iS+U1bnvCmVan3cFKWzZdFAMxEvHe0OCU/ArfMjffNL2eXurYg8lrTJedmTxon8aZuI1iDeL7fsRKE4oD6mXKzjCvu3DFlPl0tuNA32DpwvpsFBkQhVnNj7R+dw5DYTkiShqomHKZ4X17uSn7eznYdeCR6V6iDstAINvcxdqrTBp/Er7MCXtKQm86LhtMsRqeFN0jsGxAECKYclRjXtA8xoYHGtfcTe4=;9m1khjJF3MzYv5TU0Br1dg=="
 ---
 
