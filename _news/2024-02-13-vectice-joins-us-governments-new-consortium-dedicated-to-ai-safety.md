@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Vectice Joins U.S. ??Government's New Consortium Dedicated to AI Safety"
-excerpt: "Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort, highlighting its commitment to responsible AI development."
-publishedDateTime: 2024-02-12T17:20:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960977.htm"
+title: "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety"
+excerpt: "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,"
+publishedDateTime: 2024-02-12T17:24:00Z
+originalUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/"
+webUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/"
 type: article
-quality: 39
-heat: 39
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
-    isCached: true
+  - AI Ethics
+  - Microsoft AI
 
 related:
   - title: "University of Oklahoma Joins National Artificial Intelligence Safety Consortium"
@@ -39,21 +39,7 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Leidos, Sourcegraph Form Generative AI Alliance to Back Government Software Development; Roy Stevens Quoted"
-    excerpt: "Under the exclusive alliance, Leidos said Thursday it will contribute its expertise in secure software delivery in support of federal government missions and advances in natural language processing and machine learning algorithms, among others. Sourcegraph ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.govconwire.com/2024/02/leidos-sourcegraph-form-generative-ai-alliance-to-back-government-software-development/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 21
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2024/02/unnamed-file-59.png"
-        width: 1200
-        height: 628
-        isCached: true
 
-secured: "2m/oUdsTFvzaecSgLWmo8/frGjXb8E1iPBpU9DvkeF+/it317M0I8Yw8ph0y/Mb8aifsUhVL0tXfpnG/D37ztvmhG9yMHS0fBGxI0viMHWtJoMw2kUV48DtZR8JJ1ACTOlYa823syqLTSRfNM7ayEBdIhaa9eBanFEAqb+YQrnN+XXoIuMa8gniZuB+Y+/ejys5UHWFesVmH9PY6NS41mz4mVAvxqVxqAzvVjtaiXyQVxiOf06xxPMhIo/SawXRBDfYV1X6gmtzmt3fGMzLkBy2/2EtwEUd6rAgVtvDu99AA+QncaH5HtFFrr6K5LcVfv4qwulAVc0lTuIJATxSL/BnlWF905dUlM0PIdNSSNWk=;NB7B+dpPac1Uan7TpTnWDA=="
+secured: "SApLGrDgHdmfw/QGbjdTI6oBk90LZnQJMy3Dx06FMuorb7L6FpVjMCS3KxTGt01GebLr9aH7wCyeE0LB3GU1kS5f6NW5/wlTQISP5GMc9P/kvr/xUYbru4XC5Hh5UMO+Ri0TtylKPjOQo8WA6HPkMv7A2pwmDGtF/Ft28sxFTDfWTU20XzEz4lrtQe8mELWC2m3+6QiSUVd55ZOpBFpH5iodM4BM604+DRqtnT+xFz2uetEdW1WkvqYscdKJ6RcpubGYiKtcxVDRfpC57YIMfbFOJHfQjgACN6gOj5/tJPdsVFAsDMPlRbezRO4Ef1+bZzgRrKLcyKM5n1Fn1GSXsu2GCw5se08RrS9BdtzUPjs=;5C1eh5K0p8j64TA2DBJIkw=="
 ---
 

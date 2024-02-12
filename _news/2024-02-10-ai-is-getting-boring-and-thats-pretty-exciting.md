@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
         width: 1200
         height: 741
+        isCached: true
+  - title: "Exploring the impact of artificial intelligence in marketing: The future of advertising"
+    excerpt: "In the fast-paced digital world, the combination of Artificial Intelligence (AI) and marketing promises to change how companies interact with their audiences. TribLIVE Local’s upcoming seminar “The Future of Advertising” aims to clarify this intersection,"
+    publishedDateTime: 2024-02-12T20:15:00Z
+    webUrl: "https://triblive.com/news/partner-news/exploring-the-impact-of-artificial-intelligence-in-marketing-the-future-of-advertising/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 46
+    images:
+      - url: "https://assets-varnish.triblive.com/2024/02/7045295_web1_part-aiseminr-021224.jpg"
+        width: 500
+        height: 500
         isCached: true
   - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
     excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."

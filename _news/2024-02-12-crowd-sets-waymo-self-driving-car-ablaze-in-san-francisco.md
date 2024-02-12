@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
     provider:
       name: Hoodline
       domain: hoodline.com
+    quality: 19
+  - title: "San Francisco crowd destroys Waymo self-driving car"
+    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
+    publishedDateTime: 2024-02-12T19:17:00Z
+    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
+    type: article
+    provider:
+      name: winnipegsun
+      domain: winnipegsun.com
     quality: 19
 
 secured: "z63/0TXkXyKsAY+CEr9+sZVuiHon7S6cA0Px5P0hOhg7niPGzb7cRnX1SORu/4BXZ6u1L7hTs00EPPkXDHrXJ1MwE0CFHAYyCCh2vXtVQzIeRqzdrHpxHIEGgrP1420OuN/g1zi93vv7TMCynWZFzj5rn8WxYcAD3wgYXAZSRHe1Prz2Z/R0YamtyMCUY+oqwlu9LkIrWoQlyYBM9HwxZ+vw9ekW3MTItQLcaChaSKAC8qH6lcNF0CcMqgAI4slBd6xB6+xyJkUqDgdD08teesP6D0NT8mAx7lvBqnzZY9bWUTRXmr9EKH0FV/exfBTCGQzDZhqkE5bdcmiYgsbxOCvCBb0Gr89O0KGZQwJZJDo=;hzxHO0adFjni7/XKxuY++w=="

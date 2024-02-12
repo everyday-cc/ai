@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/nation-world/business/google-artific
 webUrl: "https://www.stltoday.com/news/nation-world/business/google-artificial-intelligence-gemini-smartphones-microsoft/article_6e95c66f-312a-572f-b8f1-457ca1730da6.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Google Rebrands Bard to Gemini; Debuts Ultra 1.0 Model & Android App"
+    excerpt: "Google has finally rebranded Bard to Gemini and introduced Gemini Ultra for paid users. It has also released an Android app for Gemini."
+    publishedDateTime: 2024-02-08T06:45:00Z
+    webUrl: "https://beebom.com/google-rebrands-bard-gemini/"
+    ampWebUrl: "https://beebom.com/google-rebrands-bard-gemini/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-rebrands-bard-gemini/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 44
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/02/Google-Bard-is-now-Gemini.jpg"
+        width: 1250
+        height: 750
+        isCached: true
 
 secured: "MW2Hf08bVh4qugrOWVxTaYF6nzV2dTQavesHaryWms71qrtqqHqkHFNatKxCpJ6H48Q8ato/hfBuJKkd2QfVHganLqurM/dbWUUvhrYh/GNtP8H9Y7Gf82/oXukNWMg8oWlRXZmyRRsOnf2lFAbqELihCOmQOIRaK22U4pDP0i1EUDX0TFhIhlgu37hjT7xUjiHuwXoRnFEd3+GkYJVA9MlJhhsFR0zJSOVEuTPW4EFzbVhUhUytcadk3lzHX1uzV8Z6rI9xRSj0oMG8Bqor9IxIvAS4zJ22AV8/Y7HIVF/OGMsLyD0MtoyROf/TBTC6JV9j9beSi5i3ONcK9WA2D9drI3uleWumbRdqmhayGBE=;lXjzYoHGq1IAbaChsuh1jg=="
 ---

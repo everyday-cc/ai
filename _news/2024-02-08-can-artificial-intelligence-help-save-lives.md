@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/1034093"
 webUrl: "https://www.eurekalert.org/news-releases/1034093"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "AI - Tame This Tide, Or Surf The Waves?"
+    excerpt: "In the past year, the arrival of generative AI has propelled us into a future brimming with potential and fraught with uncertainty."
+    publishedDateTime: 2024-02-12T19:57:00Z
+    webUrl: "https://www.forbes.com/sites/soulaimagourani/2024/02/12/aitame-this-tide-or-surf-the-waves/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "etzlCStC8M9jXhxytRgQ1P/mpCwSt4GYY0vvK9RC7anmFGim/TLp058gD5qlGclczy2RtE3hm1tr7k+zYrOhZzjwgUu8BGKV0NM944qQekSl7BFDGdjMIGb392iHKsDlklTqw/oHqJKJUI0XPLsKzdzl78aTd27PogBIDn5lRFF2oHls+H/7WAeKdMkullPSCw5JkpoY87rvucdRiA1fPP1Nwq4IMpzRT605QyxOubnlAnGx0duz8RgnGsx4fSJ2j7O/LnIlSGxqnsEAc3eAH/gR0EibBkz3XNRkBgCro4+BVu5sJDPCRqNnmnj5j2+fLStQAT3w36R6nISOm12oyPmhknRx8F7ZArWrd8uMbjw=;GyMCuXYdXQGeoKbJukq6rQ=="
 ---

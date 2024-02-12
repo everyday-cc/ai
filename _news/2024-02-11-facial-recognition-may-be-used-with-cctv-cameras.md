@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain"
+    excerpt: "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes"
+    publishedDateTime: 2024-02-12T21:48:00Z
+    webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
 
 secured: "2U1q2gGhLZlu9oS/O/m0quv05hjBJEt554tOfRKIgCsTvbtLsMmU52ebV3ysV5bTj8O/P6tjC1AS6uWIqLTwfOZS7V3jBDJ0It8Oc1BDJwBjd8M8WjsP4VRbQEc26JLiKCZ2HYkDBleohjremUaVBZgRl9r42/BP4w0cJVr57zjM5qVN9bB/ZbN92pfV1Dz8XAxtZAeMBaCMF1ywSdiLMFwcoad/Xx29TYa2nfBNJtKWWWvyDBQFL1WtuIQFwkZ327eEIwZzsy2UH2t9z71zrQsRBGi+b/eD2fDg5sbkaVyAL6KqYAdkgAsRoXIhGg+ZnX8m7jB837JBwj1MH7G7GQU32dTVhz2HTwhGBr9w7Bs=;hP7HbzXy+LZVPmOOwoEU9g=="
 ---

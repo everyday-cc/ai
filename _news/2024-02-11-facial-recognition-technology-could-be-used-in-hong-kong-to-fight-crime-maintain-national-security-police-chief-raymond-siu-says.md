@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/fa
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain"
+    excerpt: "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes"
+    publishedDateTime: 2024-02-12T21:48:00Z
+    webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
   - title: "'Facial recognition may be used with CCTV cameras'"
     excerpt: "Police Commissioner Raymond Siu said on Sunday he wouldn't rule out the possibility of adopting facial recognition technology for surveillance"

@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Could Artificial Intelligence Replace Psychologists?"
-excerpt: "Current and forthcoming developments in AI will alter the behavioral health landscape. Intelligent machines are replacing psychologists and other behavioral health professionals. We risk losing real human-to-human interaction and relationships built on trust."
-publishedDateTime: 2024-02-08T18:58:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
+excerpt: "I’ve heard colleagues say that AI will not replace human professionals but will augment what psychologists do. There is nothing to fear, they say. While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals on a large scale is closer than ever."
+publishedDateTime: 2024-02-08T20:28:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+webUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
@@ -32,7 +30,16 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 41
+  - title: "Could Artificial Intelligence Replace Psychologists?"
+    excerpt: "While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals ... Research and Practice called “Artificial Intelligence in ..."
+    publishedDateTime: 2024-02-08T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
-secured: "tvQgnIH+3OvnZRKNwM9qTeXnfz4lcP04oLQ/a50aO2izBt2dmyAIt5nz4fMQEvjIhhgZ2G1lajCbPu/w4mZAx8GMuJjUXfFVstGeNQTJCe5KfMsRmTNsoYpo/JfM3qGKxE1wsYGCRpr9loqSecnKDi5RsDEKsJpS2UhaO3xnTIoB0n+RmLkZWl0WSYIomZS2q98oJce50QUJA51tFqMdsIGQ/hddClXCdDyBO2mHVLxrd1IDW19ZGzraW42Mxr1MSjZIKgjQR6GdUs3BNfNVNJCWA0fdOzzxiZUzSFLKEzA4sqKUVvN3ICzeRvWElfv+CrVjMVuRsZDPN1B6nf9EWuIBTVEnYVHiQz3J/2Lv9p0Gsley9EZmet4W5fxa4qmyNe5QK8Ei5dLtkXUwbVrfpxtA8qBJteaGOrdswPihyQhveOrCx1BTQL3jLuT/emHWI+842S+rodVez0qH2yhWGLUIuZXzhyCknPdTs1lLNcBTR6wA3fCU5QNGmM/dAXilgO6tR+j9LzCSvUDeqX1+vg==;FbAk7MS3qZKdQ+ep7rePlw=="
+secured: "jSHiVMei9M153Sz0xEotDB1uhrqdT83x3n/k6na/7J9c6572PIPAWoev7+cYVX5FYlxi+BhvPOk+Ba0dLzK4dZVZMBJkzOLzKh+c6pDHt2t0+dDbP6Uhw7M+N3NINgLZWRaXNoI7PxQJZeV9rYcChHIr/sxxVZ9qg3OugEuyVNEcoUq6HyLIsFt/Exaj1FI14S1XK84FfLIn+vNhZ45m4ioIFMP+xvXdMf5vS/dtPQg7FdJvWb0qYxpthd6WzSkgdu6QTbNQlnaLncdsEh92UdBrBOGOrY0ZKhHDja+AtkqjHdJIVVg490rkHsrwb8VtudkWMl4YSY2K/UJqnEUhTkmQUMy6vHB7sM/dGPT7jPBdYqAr89zjJT5phTgcvi4UhOdjRV7jxWgVtYSJ2h1q1If1IjOpKUWhyEYmDE9uTuSBi/Ur4fGrKdd5ZGuKuGJUhfImi+cCb7L4vTV87bqhN5iB/9exQCIFZa5bkQPXUVS+AOykUAxydThBT1qofVHINSqb22K7OLp/NRVjfDLf2Q==;wfrrgxhnSGdS3x/fKrIMeg=="
 ---
 

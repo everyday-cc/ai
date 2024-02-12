@@ -7,8 +7,8 @@ originalUrl: "https://blog.google/products/gemini/bard-gemini-advanced-app/"
 webUrl: "https://blog.google/products/gemini/bard-gemini-advanced-app/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Google
@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google Rebrands Bard to Gemini; Debuts Ultra 1.0 Model & Android App"
-    excerpt: "Google has finally rebranded Bard to Gemini and introduced Gemini Ultra for paid users. It has also released an Android app for Gemini."
-    publishedDateTime: 2024-02-08T06:45:00Z
-    webUrl: "https://beebom.com/google-rebrands-bard-gemini/"
-    ampWebUrl: "https://beebom.com/google-rebrands-bard-gemini/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-rebrands-bard-gemini/amp/"
+  - title: "Google Bard transitions to Gemini: What to know about the AI upgrade"
+    excerpt: "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app."
+    publishedDateTime: 2024-02-08T19:24:00Z
+    webUrl: "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade"
+    ampWebUrl: "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp"
     type: article
     provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 44
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://beebom.com/wp-content/uploads/2024/02/Google-Bard-is-now-Gemini.jpg"
-        width: 1250
-        height: 750
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Google is axing the 'Assistant with Bard' branding now that Gemini is here"
+    excerpt: "Google is axing the Assistant with Bard branding now that Bard is Gemini, and it’s available on Android. The company is still striving to build an AI that is conversational, multimodal, and helpful. Gemini will be the branding Google will stick to going forward."
+    publishedDateTime: 2024-02-09T04:46:00Z
+    webUrl: "https://www.androidauthority.com/google-gemini-replacing-assistant-with-bard-3412760/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 52
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google’s AI chatbot Bard is now called Gemini: Here’s what it can do"
     excerpt: "Google’s most advanced large language AI model, Gemini, has officially launched on Android and iOS in the United States."

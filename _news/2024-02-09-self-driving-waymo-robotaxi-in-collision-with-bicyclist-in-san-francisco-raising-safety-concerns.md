@@ -114,6 +114,15 @@ related:
       name: Hoodline
       domain: hoodline.com
     quality: 19
+  - title: "San Francisco crowd destroys Waymo self-driving car"
+    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
+    publishedDateTime: 2024-02-12T19:17:00Z
+    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
+    type: article
+    provider:
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 19
 
 secured: "ZMYeSPPjOtXqUoLRL0XAVot4+IkHzE0aNBG8tLSJ7ow13dJLYhg4tF5E6oFkHRsfpI3N972lDaiVGmofnTnY47+SBwxqtoqOVVO6RdYV+S4hMJti4g2sYs0iScg5FfE2PHf6SNstUky8Xrr9MQdJkdmyEXif6dO29hmPCSl1iTZD+2omCItWBMH3znNI789NJOd0U4FMiL4X3cxfYQ7NLDFY5uk6a3ZWOxOWISqz5A1IZrGirmmk1nv1w0Qjv/SKrlSB7qyTjHmLq+IaNw8hUhCoCzo389FC3Dcw9u0EacIL2iae6L4ZRvIKdx5Dh44rCSinrt7lBiQk5w4fzRr5IqoUEVRW7Jax5aj/L1AnN18QEuyP73zrZ7KbeWdhxObzpYAGe3E58RMYYEKS7sr1hYRFIWRXr/I7AGpEJStHhTET0kK7KoxWr2ehoa7oGy7oXHyUAnT0FIipL1A270mVIcw0VfNTgP2OYoqaSgfvK6jNtwYVhKWkx41uaqncAtXqbudsbT91OsUc/7Rf5Q5r9w==;6jBbktVBx2uESg+M5He1Xg=="
 ---

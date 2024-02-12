@@ -39,6 +39,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
+    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
+    publishedDateTime: 2024-02-12T17:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 25
   - title: "Changing Dynamics Of The Global Artificial Intelligence in Machine Vision Market In The Coming Years"
     excerpt: "Comprehensive Market Analysis: The report offers a comprehensive overview of the Artificial Intelligence in Machine Vision industry through a combination of qualitative and quantitative analysis. The report focuses on growth drivers, market trends, potential barriers, and stakeholders."
     publishedDateTime: 2024-02-12T05:53:00Z

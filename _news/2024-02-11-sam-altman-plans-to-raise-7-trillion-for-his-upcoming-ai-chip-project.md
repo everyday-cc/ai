@@ -106,6 +106,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
+    excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
+    publishedDateTime: 2024-02-12T22:11:00Z
+    webUrl: "https://www.inc.com/ben-sherry/nvidia-founder-jensen-huang-dismisses-7-trillion-ai-investment-figure-floated-by-openais-sam-altman.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/NVIDIA-Jensen-Huang-inc_537332_npjqju.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "OEkdhDvPF8r5NpeoioU8RGLl76oV/4ptXODYg6UCEjFr9wK2Lb3hRgFews7K60RO0hyM4qzwuc03bYt64wnYQTlsx8DlCdYuopp/NTUx0f07QTn/kO/MACm5Ay9WSnoghg2smQmufAqZbkEiHP+80mN954jI3kL/3YS38zuOY+uNfyPzX+wgK8G4R3SrwSlPTaF9/OoRbGIICEH2CVQ/pu91KcsZaevVX7d5KbQUQezjLsPDe2OY3mO2IBWajIu6PxfD6KlPigZBKMqTr5mNEGyh051VqjFO65WX/gLq1vAmS7frDSMgISz7agUXg7U5U9FBJbXOUSXlPbxBg5NCI5u8vpUEyKMsZuxU6/3F2Zw=;n4VFFdwQiogELBwkoTqqfw=="
 ---

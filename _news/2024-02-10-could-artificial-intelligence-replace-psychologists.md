@@ -23,17 +23,24 @@ topics:
 
 related:
   - title: "Could Artificial Intelligence Replace Psychologists?"
-    excerpt: "Current and forthcoming developments in AI will alter the behavioral health landscape. Intelligent machines are replacing psychologists and other behavioral health professionals. We risk losing real human-to-human interaction and relationships built on trust."
-    publishedDateTime: 2024-02-08T18:58:00Z
+    excerpt: "While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals ... Research and Practice called “Artificial Intelligence in ..."
+    publishedDateTime: 2024-02-08T00:00:00Z
     webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 39
+    quality: 19
+  - title: "Could Artificial Intelligence Replace Psychologists?"
+    excerpt: "I’ve heard colleagues say that AI will not replace human professionals but will augment what psychologists do. There is nothing to fear, they say. While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals on a large scale is closer than ever."
+    publishedDateTime: 2024-02-08T20:28:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
-secured: "vHvJVK6EbSVSPxZWgRgUH0riOtvHAzXT31jYqCWqcgb58XI5hHfeMvdffFKH35gSnyZXb/VgGal4eVCAUOYl7d0n86HEUHZRIpiBgWRS2pkp2GaToQNnzuaioAkhXFL+pG0GuoR367bZz3Dniyf7dgU4WIBcw6gwdogyqoUL6o7h3PdXKLwWOQDU1x/rTGj9K6l9ErT+BclMZiOedaz3F47FN1sLd2brUyt0N/uCAWNSdIZhwAPy/NQaQIQOGbtrqOWhFD7D7xTkkwOMYBJ+/+pPQXx8VH6+70vx4nk9jfCzxPRBOvdPnlXaLWES2dyRJsE7Hod2uGx3e8a8byhDObf4okK2dUUVgVZvntN+7i4=;nNq0vYzSGdoAs99v2VmcYg=="
+secured: "fxBstDf+lwKilNi4z6877e2PxRDGMThNhwSE6ZIlCKfo0dESkzWbEZfvX7mVzDN9jPFEAMQLksjOqstLgH14exTiA8cMTi+a5h0psmiVW+2DkMeKrV6h6ARoBX4op0aHt0WpVjavug8841nZSVIazlL7U6bm30aCp3mTolnqLhbmRbsI/FaospdWg588tS9sXsJtseqlGkINytcUifvmf/l+R0yWvSngkp0UTo3HdPxioh9jIBEAWFwDy3X47ane9J17GPxp9Nf7uJwn5hJP0Vs/THGfWrI4sVCrEByrX+cfsMWIzu5iG9NZfMjuSf2JJZC3m0KJsNMfYwnXGTY6iNlZniXe7abWSKK1r0z4dRTyVWzByvbvbc1QjO+14xicJtZBe13IuOrbIJ4ZNZKk/I1SKUkf3jBz0Nplt6O2UFB5PLJJx3L9xteJseokqC2acVUaC7rSioZyiF0f2qudVTQs4++mY349jZRk2c1rovAfkxatgVSNLaO6VridOT+pILLnd4JmwTRlAGebXohJvw==;cLWf6kXn5tB43lbRef4kOQ=="
 ---
 

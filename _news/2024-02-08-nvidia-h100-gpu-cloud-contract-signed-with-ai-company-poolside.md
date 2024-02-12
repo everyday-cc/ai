@@ -51,6 +51,15 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
+    excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
+    publishedDateTime: 2024-02-12T16:06:00Z
+    webUrl: "https://siliconangle.com/2024/02/12/nvidia-debuts-powerful-rtx-2000-ada-generation-gpu-ai-accelerated-design-workloads/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
   - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
     excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
     publishedDateTime: 2024-02-12T18:03:00Z

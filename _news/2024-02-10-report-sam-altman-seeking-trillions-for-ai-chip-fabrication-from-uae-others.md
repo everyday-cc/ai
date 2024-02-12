@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-
 webUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/"
 type: article
 quality: 81
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
+    excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
+    publishedDateTime: 2024-02-12T22:11:00Z
+    webUrl: "https://www.inc.com/ben-sherry/nvidia-founder-jensen-huang-dismisses-7-trillion-ai-investment-figure-floated-by-openais-sam-altman.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/NVIDIA-Jensen-Huang-inc_537332_npjqju.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "UVa6f+19GnPexxFOfFjYHVYeoKW16TcqLyUIYqt7RDeW8QShl6K5DiIUABYindrAqCf0Y7QfLAev4xIvW/TY6qYSi3mrjR7TYuvnSeUxuy3nEogEEURe3OkM1CgsviIHM0OLZUXSahCnEhJuiyPjN1XKfJZ2ryHRLFBQvpVndDyXAg7n9JBIlp3lPe8pWsH7WA8loJQ9DSLquNd9r3IQbgCGv/kv6XF4QRvxPOt8SajkNPd4Ak9ABzSqaCUiUPM1joBle/OV8Arlh5cUAlIhU/EdlTaV0PiHlILuPc1IUY7EzAPGn1AoFnDIv7TJoyzRpupy/tqKIEG8KwWo7+mAJIFqX/bgRJBiDYJjXH/J7Uk=;MW1H/BH6Y63zsZEafG4KIw=="
 ---

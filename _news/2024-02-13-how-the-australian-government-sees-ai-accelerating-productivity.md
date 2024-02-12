@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-government-ai-prod
 webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Austrian Dance Station Launches with AI"
+    excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
+    publishedDateTime: 2024-02-12T21:13:00Z
+    webUrl: "https://www.radioworld.com/global/austrian-dance-station-launches-with-ai"
+    type: article
+    provider:
+      name: Radio World
+      domain: radioworld.com
+    quality: 17
 
 secured: "u15+Ci9eUoLaPXq5ymLk6Ds0pMngOZOA9uZlJKsSQHM+E4ccwpA67yURqvUf595TiBHmWAJVGbg+GC4MDLzSSDyYeA19Ysn/6aHc3xZa3F8u4a/QHGbvl4jaSAUb2bCrNBeSUsQfyR39MwLXwfgUj3PTITgXXTjzqKJ/RAzU63YaJdzRbS2CROzleA5B8bJCB8PfrJCimwewVHE7ArA6AldS5+7TANkqBvkDGKdZlmvLmWEK9XIuDj+jSQTVzLXBCm6AfnKqh24GEXvqoR6fDfnF7hfd+pxrYjsbFvefEwTT+0fafgbmg6vJg/YRrrgtzWrOb+cMZJFT9MYjJ18H8WtJwwsFD43MhuBBEMntP5dcFn0oRHOPQIZNXBpVhW40qdyZ9KPGjjAQ66iCiRrjLfkHHrgfmFeobkD3zGwLGcslTrLC3bfJzKnpzLoYkxieyGn/u6MPIW5/pYlolhb5wssJwf4cYYWg+80Dt7YDeiwFyNFGfbA2YRWx5wY6IRCN6/UyCpoFQEyJRIv2QspaFA==;MniXDIRE0Nyv/fyZeQyWSw=="
 ---

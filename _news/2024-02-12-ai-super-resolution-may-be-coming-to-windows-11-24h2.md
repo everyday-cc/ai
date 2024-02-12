@@ -18,6 +18,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Windows Will Soon Have Its Own AI Super Resolution Upscaler For Gaming PCs"
+    excerpt: "Indeed, it seems that on supported hardware, Windows 11 24H2 will have an AI-powered \"Automatic super resolution\" feature that is specifically noted to \"make supported games play more smoothly with enhanced details."
+    publishedDateTime: 2024-02-12T18:50:00Z
+    webUrl: "https://hothardware.com/news/windows-ai-super-res"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
+
 secured: "bWQ+UgbZiMR9Qh+KvVSNDKuFjACWb1DHhHhIdsztofws/iZB+7To3exN4J05PxWd/7VEvhxosH8E0B6RWU0WGdLBGF74huahMIb17EVJksZ0idF0oDqYzxJQVhWux5GLcTbIUE92sHW4zBSGivFuqCBznlLtqaaXYMDRhhJLw194LSoe0sK+5CL974feSzCRmBzhdPeiCVKcti54mCh6o0vSH7lEXfMKFeCr32DJHow+xluJKT7KV05FPCefMNwDVzyseyc+aDYivo/ZALIIikWzEv3+8Bjk/GH0j6Inw4ZScG1hhr1Dj+OB13iFz9i4JfLmxmNw3J71UJBXQiwgVVaxIUTOxog7ePpb0QOYJV8=;WJdBgkQL8PPgZjrHmAcblQ=="
 ---
 

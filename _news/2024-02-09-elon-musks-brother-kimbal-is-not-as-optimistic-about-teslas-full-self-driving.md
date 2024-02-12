@@ -7,8 +7,8 @@ originalUrl: "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-opt
 webUrl: "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Electrek
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn"
-    excerpt: "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\""
-    publishedDateTime: 2024-02-07T19:34:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/"
+  - title: "What Tesla Optimus Bot Tells Us About the Future of Humanoid Robots"
+    excerpt: "The humankind is sleepwalking into a new industrial revolution, where humanoid robots will replace humans for almost every job imaginable"
+    publishedDateTime: 2024-02-10T22:48:00Z
+    webUrl: "https://www.autoevolution.com/news/what-tesla-optimus-bot-tells-us-about-the-future-of-humanoid-robots-229056.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 65
+      name: autoevolution
+      domain: autoevolution.com
+    quality: 56
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://s1.cdn.autoevolution.com/images/news/what-tesla-optimus-bot-tells-us-about-the-future-of-humanoid-robots-229056_1.jpeg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
     excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."

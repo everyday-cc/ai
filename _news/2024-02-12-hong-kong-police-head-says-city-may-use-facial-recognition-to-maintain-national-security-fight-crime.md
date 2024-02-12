@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain"
+    excerpt: "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes"
+    publishedDateTime: 2024-02-12T21:48:00Z
+    webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 50
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
+        isCached: true
   - title: "'Facial recognition may be used with CCTV cameras'"
     excerpt: "Police Commissioner Raymond Siu said on Sunday he wouldn't rule out the possibility of adopting facial recognition technology for surveillance"
     publishedDateTime: 2024-02-11T07:54:00Z
