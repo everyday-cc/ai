@@ -23,15 +23,6 @@ topics:
 
 related:
   - title: "Could Artificial Intelligence Replace Psychologists?"
-    excerpt: "While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals ... Research and Practice called “Artificial Intelligence in ..."
-    publishedDateTime: 2024-02-08T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
-  - title: "Could Artificial Intelligence Replace Psychologists?"
     excerpt: "I’ve heard colleagues say that AI will not replace human professionals but will augment what psychologists do. There is nothing to fear, they say. While I agree AI can and does augment what we do, the reality of supplanting psychologists and other healthcare professionals on a large scale is closer than ever."
     publishedDateTime: 2024-02-08T20:28:00Z
     webUrl: "https://www.psychologytoday.com/za/blog/artificial-intelligence-in-behavioral-and-mental-health-care/202402/could-artificial"

@@ -56,6 +56,20 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
+    excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
+    publishedDateTime: 2024-02-12T23:14:00Z
+    webUrl: "https://www.tweaktown.com/news/96134/nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96134_81_nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
     excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
     publishedDateTime: 2024-02-12T18:03:00Z

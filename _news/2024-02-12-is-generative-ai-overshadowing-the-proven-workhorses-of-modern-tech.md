@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

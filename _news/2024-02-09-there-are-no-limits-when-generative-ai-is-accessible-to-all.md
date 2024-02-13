@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 141
 published: true
 
 provider:

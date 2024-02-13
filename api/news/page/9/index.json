@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-01-ais-energy-appetite-meeting-the-demand-for-innovation.md",
+      "title": "AI's Energy Appetite: Meeting The Demand For Innovation",
+      "excerpt": "To fully realize AI’s enormous potential for economic growth, we need to see change in how we address growing power demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659c2d1488df177bd020a272/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1169,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/01/ais-energy-appetite-meeting-the-demand-for-innovation/amp/",
+      "publishedDateTime": "2024-02-01T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-exclusive-ai-healthcare-software-startup-cohere-health-just-raised-50-million.md",
+      "title": "Exclusive: AI healthcare software startup Cohere Health just raised $50 million",
+      "excerpt": "Cohere Health just raised $50 million in Series B funding. The AI startup automates prior authorizations for health insurance plans like Humana.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "originalUrl": "https://www.businessinsider.com/exclusive-ai-cohere-health-raises-50-million-series-b-extension-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-forging-a-framework-for-central-bank-digital-currencies-and-tokenization-of-other-financial-assets.md",
       "title": "Forging a framework for central bank digital currencies and tokenization of other financial assets",
       "excerpt": "A high performing framework for CBDCs that combines privacy, regulation compliance and advanced resilience.\nThe post Forging a framework for central bank digital currencies and tokenization of other financial assets appeared first on IBM Blog.\n",
@@ -519,6 +614,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-01-how-did-ford-get-artificial-intelligence-ai-so-right.md",
+      "title": "How Did Ford Get Artificial Intelligence (AI) So Right?",
+      "excerpt": "Regulators have suspended Cruise's driverless testing and deployment permits. Ford ending its investment in Argo AI cost the company $2.7 billion. GM's Cruise subsidiary plans to restart ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T06:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-wekas-sustainable-data-platform-for-nexgen-clouds-gpu-as-a-service.md",
       "title": "WEKA’s Sustainable Data Platform For NexGen Cloud’s GPU-As-A-Service",
       "excerpt": "WekaIO partners with NexGen Cloud, the leading UK-based sustainable IAAS provider, to establish a high-performance foundation for NexGen Cloud's upcoming AI Supercloud.",
@@ -1024,117 +1171,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-news-tagged-with-artificial-intelligence.md",
-      "title": "News tagged with artificial intelligence",
-      "excerpt": "An international research team led by the Hong Kong University of Science and Technology (HKUST) has achieved a significant breakthrough by developing an artificial intelligence (AI) model that ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/tags/artificial+intelligence/",
-      "originalUrl": "https://phys.org/tags/artificial+intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-rocket-companies-appoints-fintech-and-ai-expert-to-board-of-directors.md",
-      "title": "Rocket Companies Appoints Fintech And AI Expert To Board Of Directors",
-      "excerpt": "Rampell is described as a serial entrepreneur. Rocket Companies named AI and fintech expert, Alex Rampell, as its latest independent director on the Board of Directors. Rampell currently serves as a General Partner at Andreessen Horowitz, focusing his ...",
-      "sourceUrl": null,
-      "webUrl": "https://nationalmortgageprofessional.com/news/rocket-companies-appoints-fintech-and-ai-expert-board-directors",
-      "originalUrl": "https://nationalmortgageprofessional.com/news/rocket-companies-appoints-fintech-and-ai-expert-board-directors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationalmortgageprofessional.com",
-        "domain": "nationalmortgageprofessional.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place.md",
-      "title": "UAlberta, AWS partner to establish Artificial Intelligence Discovery Place",
-      "excerpt": "The University of Alberta is collaborating with Amazon Web Services (AWS) to establish an Artificial Intelligence Discovery Place at UAlberta’s downtown Enterprise Square campus. The goal of the initiative is to democratize access to artificial intelligence (AI) technology to boost innovations and advancements in technology and education throughout Alberta.",
-      "sourceUrl": null,
-      "webUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
-      "originalUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://academica.ca/wp-content/uploads/2023/09/loic-furhoff-qeIaMQP_xQE-unsplash-640x428.jpg",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Academica",
-        "domain": "academica.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

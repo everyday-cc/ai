@@ -221,6 +221,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-06-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "id=54679303 Browse in-depth TOC on \"Artificial Intelligence (AI) in Healthcare Market\" 250 - Tables 65 - Figures 280 - Pages Artificial Intelligence (AI) in Healthcare Market Report Scope ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-the-vr-doctor-is-in-cedars-sinai-adds-ai-powered-therapy-app-to-apple-vision-pro-headset.md",
       "title": "The VR doctor is in: Cedars-Sinai adds AI-powered therapy app to Apple Vision Pro headset",
       "excerpt": "An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care. | An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care.",
@@ -1337,58 +1371,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-22-how-to-use-artificial-intelligence-today-text-to-speech-technology.md",
-      "title": "How To Use Artificial Intelligence Today: Text-To-Speech Technology",
-      "excerpt": "Chat GPT is a powerful tool - don’t get me wrong, but it is not the whole of what AI is capable of at the moment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
-      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ad550e37fafb7b30393fc7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sunilrajaraman/2024/01/21/how-to-use-artificial-intelligence-today-text-to-speech-technology/amp/",
-      "publishedDateTime": "2024-01-21T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

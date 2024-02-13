@@ -111,6 +111,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Sarvam AI Collaborates With Microsoft To Bring Its Indic Voice LLM To Azure"
+    excerpt: "Sarvam AI will use Microsoft’s cutting-edge cloud and AI infrastructure – including Azure OpenAI Service and Azure Machine Learning – to train, host, and scale its LLMs quickly and efficiently."
+    publishedDateTime: 2024-02-08T12:25:00Z
+    webUrl: "https://startup.outlookindia.com/sector/saas/sarvam-ai-collaborates-with-microsoft-to-bring-its-indic-voice-llm-to-azure-news-10494"
+    type: article
+    provider:
+      name: startup.outlookindia
+      domain: outlookindia.com
+    quality: 67
+    images:
+      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1706605808.jpg?utm_source=fb"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Cloud and its Azure OpenAI Power Telstra's Generative AI Solutions"
     excerpt: "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more successful interactions with customers."
     publishedDateTime: 2024-02-12T02:08:00Z
@@ -182,6 +196,20 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 44
+  - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
+    excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
+    publishedDateTime: 2024-02-12T23:53:00Z
+    webUrl: "https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 42
+    images:
+      - url: "https://res.infoq.com/news/2024/02/copilot-studio-powerva-available/en/headerimage/generatedHeaderImage-1707698005856.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/3MXley7WzutpE/bkfkoWP67Hmm7SCVanvO+O/jFwVdtqKUXI21obFsFkWgTtj4hYccddsNDrfBhP8T3oGb+i68FEVIj7Nd3FR3xE5k+sBf2Y7fnw/TKNpaUspPNBm2/sugnQyBHsrCUihYHrcsPeDv+Qk7Rpflw+Hvhqmkh6LQi17n5N6ty17ZS6t5w6Z7pDttahtpKvtwX7IoymQz74jCUtMx95b4ujwFsATUiGSBMA6PTb+8HvwblE814NMcgHbjee/q2LonqE9LBPaFOZpPFC0nKdQusAj2da2WYbG0L7ZjlGIJPGi9dEAIq8NkqadT7wzgRnSj9a3TLOUX7VP4TGruCNndcDtKRcz+x67s=;/OArqkk5peKx7FeMnJBlmw=="
 ---

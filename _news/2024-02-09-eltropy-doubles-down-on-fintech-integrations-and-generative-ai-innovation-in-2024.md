@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI spurs space sector innovation"
-    excerpt: "An AWS Snowcone was delivered to ISS on an ... The pace of innovation in the space sector is picking up thanks in part to artificial intelligence and machine learning. Amazon Web Services ..."
-    publishedDateTime: 2024-02-08T00:00:00Z
-    webUrl: "https://spacenews.com/ai-spurs-pace-of-space-sector-innovation/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 39
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2024/02/rsz_aws-edge-mk02-in-orbit-dorbit-featured-image-1200x600-1.jpg"
-        width: 879
-        height: 440
-        isCached: true
 
 secured: "cTt2Ezq5msT6l9W9emrg3v6X+v7nYsZLQzWpIGkDoBLSHGfMRaormHDXkmg9n6qFexh4m+yJAMKtJ08NiFPMYFyVAaZaUa1Zx1JCi5brDXJNAGLF+ilF7vO9zMyA4R2HUH756QUT0xEigKbY4+j5197ov48QyjCuDy7JsTURJ1Iz24IGMtTf+K2JuKS09O1+p8WKsZuFmq/LdekaLFASk8JnxdW5NacIvM9FysW7706+fMMJ7SxbwSqeCXE4N8J7ZgJE9od18GcmEQCtNVRb/qm0b6Hme30YTXo9AOg1LomFSnuJw4usXE8WwdGCfwKeh6Kh6TIDfyrj3XsgyIa/crpGP4Btm57ow/FV6+0iCJ4=;46NvhVexrsbDXzna5jyrqg=="
 ---

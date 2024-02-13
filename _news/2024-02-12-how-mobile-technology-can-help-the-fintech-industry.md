@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Newcomers To The Fintech 50 2024"
+    excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
+    publishedDateTime: 2024-02-13T00:41:00Z
+    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/12/newcomers-to-the-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "How French Fintech Pennylane Reached Unicorn Status"
     excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
     publishedDateTime: 2024-02-12T16:29:00Z

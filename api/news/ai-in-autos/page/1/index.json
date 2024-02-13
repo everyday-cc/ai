@@ -634,6 +634,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-01-how-did-ford-get-artificial-intelligence-ai-so-right.md",
+      "title": "How Did Ford Get Artificial Intelligence (AI) So Right?",
+      "excerpt": "Regulators have suspended Cruise's driverless testing and deployment permits. Ford ending its investment in Argo AI cost the company $2.7 billion. GM's Cruise subsidiary plans to restart ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/01/how-did-ford-get-artificial-intelligence-ai-so-rig/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T06:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-tesla-upgrades-model-y-self-driving-hardware-to-lift-china-sales.md",
       "title": "Tesla upgrades Model Y self-driving hardware to lift China sales",
       "excerpt": "The Model Y will now carry Tesla’s HW 4.0 autonomous driving function hardware, such as upgraded cameras and on-board computer, at no added cost, Tesla said on its official WeChat account Thursday. The SUV,",
@@ -1288,41 +1340,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-top-50-ai-startups-to-blow-up-in-2024.md",
-      "title": "Top 50 AI Startups to Blow Up In 2024",
-      "excerpt": "Explore the 50 best AI startups that have the potential to add new capabilities to the ever-growing artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/top-ai-startups",
-      "originalUrl": "https://www.techopedia.com/top-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

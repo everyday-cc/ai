@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Newcomers To The Fintech 50 2024"
+    excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
+    publishedDateTime: 2024-02-13T00:41:00Z
+    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/12/newcomers-to-the-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
     publishedDateTime: 2024-02-12T10:32:00Z

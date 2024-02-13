@@ -7,7 +7,7 @@ originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU2
 webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "Real-time index price for S&P 500 Index (INX), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-    publishedDateTime: 2024-02-09T15:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/INX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+    excerpt: "Charting, Price Performance, News & Related Contracts."
+    publishedDateTime: 2024-02-09T15:19:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
     type: article
     provider:
       name: The Globe and Mail
       domain: theglobeandmail.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
+        width: 1875
+        height: 792
+        isCached: true
   - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
     excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
     publishedDateTime: 2024-02-11T20:54:00Z

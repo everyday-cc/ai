@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Can artificial intelligence help save lives?"
-    excerpt: "Artificial intelligence, or AI, is all the rage. And it’s not just because of ChatGPT, self-driving cars, or even the smartphone apps that allow doctors to track a patient’s blood pressure. Researchers say AI, which uses computers to perform tasks that ..."
-    publishedDateTime: 2024-02-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1034093"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-
 secured: "2yy9Ay/NqqjMjMsz4QH6o2sCUB8tr7h+CSXFzzwc8M/G4gHjQIf4I8IkOW0JZ57qRssY87zAa29iIznrf2fz+VhxKWqzP7FLrwdTZv2ew70+1Gk3xy5kn6+z42KFxmKk6yWtdR5XtdFctf4O9MtpOzsyblX40nKjX5ojgs3CtPdCjgi/Ff2+ptEk8NAY1UkvlIZT4LBEXAOUM0IP37OB19mdAuCtLolvdKheJb8K77pA96CzBWw5wm+pnAhwRuYTmQYpmcqf471ZMGHjxu9olVmz/FC/t8xJIAZr9ftFbWGXgJg59/xa0kZ0BWLaEMklmZIgLtlJfhJclXcYm8RrO34YEBSdDLaHLSDfD3FKtUNoLBIeRYc20OkX6UdZAk+AEZVSYs4Ou1c+sxvyC/dKfOjzUbg35DXq4F4UxDJigp8awcVTiaDPtGn1YXLc/8SQy7vWbnDYanQsaPa3VowEdj0Nx+KWCVkcxS+qaHKoLMIdL+K962BsrGSIqFdhmSwCAuOpuzzCj4oaHnhv8opcgg==;Krv4I/Jum5QuhG55xqsapQ=="
 ---
 

@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-06-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "id=54679303 Browse in-depth TOC on \"Artificial Intelligence (AI) in Healthcare Market\" 250 - Tables 65 - Figures 280 - Pages Artificial Intelligence (AI) in Healthcare Market Report Scope ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-the-vr-doctor-is-in-cedars-sinai-adds-ai-powered-therapy-app-to-apple-vision-pro-headset.md",
       "title": "The VR doctor is in: Cedars-Sinai adds AI-powered therapy app to Apple Vision Pro headset",
       "excerpt": "An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care. | An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care.",
@@ -1058,49 +1092,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage.md",
-      "title": "Foxconn expects 2024 to be slightly better, faces AI chip shortage",
-      "excerpt": "Foxconn, formally called Hon Hai Precision Industry Co Ltd, will report fourth quarter earnings next month when it will also update its outlook for this year. It releases January sales data on Monday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2024/02/foxconn-1019x573.jpg",
-          "width": 1019,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/foxconn-expects-2024-to-be-slightly-better-faces-ai-chip-shortage-18971041.htm/amp",
-      "publishedDateTime": "2024-02-04T10:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with
 webUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
+    excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
+    publishedDateTime: 2024-02-12T23:14:00Z
+    webUrl: "https://www.tweaktown.com/news/96134/nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96134_81_nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
     excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
     publishedDateTime: 2024-02-12T16:06:00Z
@@ -71,6 +85,6 @@ related:
       domain: crn.com
     quality: 14
 
-secured: "bskzkxcdcoik9doAu079bj8TR8lUJ+ZiCbjEU823ODv415DQHtmFc5Pb1+yDFardLKf9nP7J/n86SpaJP8X5PcrCE7nV0qndGCAPLZTRmXraeg4Sm6MJuaLDmbFCr+hUzmUxtGX4Gy1TJ46MOmzf8OyKTSusTY/z0AgKsgAjSS4ZnbzHZrja7Uq51M2A/SVlCtclTpU5B5WKvoBGiMdl4GxX9ZymrQpjXhEu1Dm+ZycTDIYJEYb9sUzWQ4q25DRqgU+ilp/BlXNsgHCsyQX7roA9JnwwUpZV9LEvxp9lrQMO2/7cqDCbJOgOkh5UyQ7c40Fl4hnOLV1aPioQqofx6Sk3tUny3gYDCc0mm+jalCI=;G6aoz6a2/OwbrWsk3QhJEA=="
+secured: "B2lCjqp+ZU0BZKLHf+05E5KqAlmx91ZzW/TUSW57dVsMChbTMMjo+qiVqpJwBi5pqm9I/0208WaA8CNFmYdysRbNVfnYgNWFxniBFVULY0eoNqQ1+UIuWFy/lzbgV/SwpEJuK1HwZYcvAsWpiCaKkrseGoU0oPcG1P+OnaRTB3tB0w3iu2RI8G9/TtQeQjVW8k0a9P/V1hqs0ESMw/qZNq6l3vtANJSc1S8rkDA6bdzN2ChvglJRUbNf8cNn3hCbtjV2gODICnuOGwRjKTqAljr6iJxc3AKwkbBGoMCCZCTAAx00XyNNPNsp6FqFgepdrjek+mGiHu9GWBPWmcSuoSZR+kY60IoLclh00Cv05yI=;bwLig1oOD8BFIIpBR00IEA=="
 ---
 
