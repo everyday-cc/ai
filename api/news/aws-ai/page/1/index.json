@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -203,6 +203,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
+      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
+      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-a-skin-tone-bias-lingers-from-the-early-days-of-photographic-technology.md",
       "title": "A skin-tone bias lingers from the early days of photographic technology",
       "excerpt": "Old orthochromatic photo films had a technical flaw traceable to a socio-cultural context that favoured lighter skin. Today, AI may help resolve a bias that has survived into the digital era of facial recognition.",
@@ -287,6 +330,49 @@
         "AWS AI",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-a-tale-of-three-cloud-builders-all-seeking-dominance.md",
+      "title": "A Tale Of Three Cloud Builders, All Seeking Dominance",
+      "excerpt": "AWS has to work hard every day to make its cloud cheaper ... and better models and cheaper compute engines become available for GenAI and other artificial intelligence workloads. In the quarter ended in December, which is Microsoft’s second quarter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/",
+      "originalUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2023/03/microsoft-ai-datacenter-racks.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/05/a-tale-of-three-cloud-builders-all-seeking-dominance/amp/",
+      "publishedDateTime": "2024-02-05T23:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -386,16 +472,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1245247564/image_1245247564.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -590,6 +667,59 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-amazon-cloud-unit-speeds-up-revenue-growth-as-clients-adopt-ai-services.md",
+      "title": "Amazon cloud unit speeds up revenue growth as clients adopt AI services",
+      "excerpt": "Amazon pointed to artificial intelligence traction in the cloud during the fourth quarter. Acceleration of cloud growth should continue, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/01/aws-q4-earnings-report-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1706824464",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/01/aws-q4-earnings-report-2023.html",
+      "publishedDateTime": "2024-02-01T21:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1285,147 +1415,6 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying-physical-features.md",
-      "title": "Face recognition technology follows a long analog history of surveillance and control based on identifying physical features",
-      "excerpt": "Face recognition technology follows earlier biometric surveillance techniques, including fingerprints, passport photos and iris scans. It’s the first that can be done without the subject’s knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "originalUrl": "https://www.stltoday.com/news/nation-world/crime-courts/face-recognition-technology-follows-a-long-analog-history-of-surveillance-and-control-based-on-identifying/article_ca215e11-9ce4-5a0f-b781-9a6941c72e22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T13:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "St. Louis Post-Dispatch",
-        "domain": "stltoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.md",
-      "title": "Amazon's AWS to invest $15 bln to expand cloud computing in Japan",
-      "excerpt": "Amazon Web Services said it plans to invest $15.24 billion in Japan by 2027 to expand cloud computing infrastructure that serves as a backbone for AI services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1705645859",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/19/amazons-aws-to-invest-15-bln-to-expand-cloud-computing-in-japan.html",
-      "publishedDateTime": "2024-01-19T06:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-8-best-ai-data-analytics-software-tools-of-2024.md",
-      "title": "8 Best AI Data Analytics Software & Tools of 2024",
-      "excerpt": "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
         "AWS AI"
       ]
     }

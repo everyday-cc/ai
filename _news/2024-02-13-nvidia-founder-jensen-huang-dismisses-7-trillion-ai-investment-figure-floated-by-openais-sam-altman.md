@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sam Altman and the $7T geopolitics of AI chips | The AI Beat"
+    excerpt: "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl."
+    publishedDateTime: 2024-02-13T01:44:00Z
+    webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others"
     excerpt: "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications."
     publishedDateTime: 2024-02-09T18:20:00Z
@@ -83,20 +97,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
-    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
-    publishedDateTime: 2024-02-11T02:55:00Z
-    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
-        width: 1008
-        height: 672
-        isCached: true
   - title: "Sam Altman Seeks $7 Trillion to Supercharge Chip Production"
     excerpt: "OpenAI Chief Sam Altman is reportedly seeking to raise trillions of dollars to address the massive global shortage in semiconductor chips. The ongoing"
     publishedDateTime: 2024-02-12T14:55:00Z
@@ -111,15 +111,6 @@ related:
         width: 1000
         height: 568
         isCached: true
-  - title: "OpenAI reportedly seeking trillions for AI chip development"
-    excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
-    publishedDateTime: 2024-02-09T09:27:00Z
-    webUrl: "https://cointelegraph.com/news/openai-seeking-trillions-ai-chip-development"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 34
 
 secured: "VJTzCQuy6ff1Zg4dk4dIW0/q4FD3iiNUO/2vheYoS5Y2MBst3ZU11UtwouiUCHU7XmcsPgmGaKntgw1cwdkVq6XKWCYlvQClYoZAPVsMWc2c9ciSX3if2oXK8uhw/ZWmQzzjtM1ET4Oi6WSZt1o5YMJbxyTiE6uGEivUTIz9X0XyQtfajkdtGqS9+qd5J2VbxZj9DUFXv/CoCY+odOyy/69UAlskUJZlgKrjI2lrN7SwB6ikF9yq/9Ri87PPkN107DnjnZolPfJq9hp24QrrCI/C0glUhy1V6SD5hENFv7hK11loxahFITmDQyS5ZnuQiUQ6u4y6580xPe//S2+wTKAOFW+ppMWT72WWPVrcEEKrGdMqyVKWdCvXtmal2Jkk9HU4mdjxqUkPWFuX+zICiM/tgkrx9TJCI4YxdtsRq4+WGH3GYjt7ySTKQSSuJMOk/88i0iwXZOKndxdBKPxAZm256yIaCk3Rrus0ExxoNF0++jchDzUFbq2dD81/V1LQAQ/A6Ocw/Mls5K1VxqLksA==;wBLOQkUUST44rTqXj81/1g=="
 ---

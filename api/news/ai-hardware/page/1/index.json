@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat.md",
+      "title": "Sam Altman and the $7T geopolitics of AI chips | The AI Beat",
+      "excerpt": "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T01:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-nvidia-launches-ada-generation-gpu-with-199b-transistors.md",
       "title": "Nvidia launches Ada Generation GPU with 19.9B transistors",
       "excerpt": "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization.",
@@ -255,21 +307,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-10-report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others.md",
-      "title": "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others",
-      "excerpt": "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications.",
+      "path": "_news/2024-02-11-report-nvidia-building-unit-to-design-custom-ai-chips-for-cloud-customers.md",
+      "title": "Report: Nvidia building unit to design custom AI chips for cloud customers",
+      "excerpt": "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
+      "webUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
+      "originalUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sam_altman_jan_2024_5-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg",
+          "width": 1008,
+          "height": 672,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -279,21 +331,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T18:20:00Z",
+      "publishedDateTime": "2024-02-11T02:55:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1419,49 +1462,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-the-7-most-promising-blue-chip-stocks-according-to-grok-ai.md",
-      "title": "The 7 Most Promising Blue-Chip Stocks According to Grok AI",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Grok, a chatbot made public to users in November last year, has been heralded",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-7-most-promising-blue-chip-stocks-according-to-grok-ai-1033006415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T15:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

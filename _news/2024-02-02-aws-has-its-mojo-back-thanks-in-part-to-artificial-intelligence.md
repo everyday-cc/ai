@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1245247564/image_1245247564.jpg?io=getty-c-w750"
-    width: 750
-    height: 499
-    isCached: true
-
-secured: "qcHTswByTdKUN8wXEz0RdLVFNaWnFl/d1cmlnmtKmL8dwyNiWGuTMqVyhYw1LI74uos6JbKwTiq7SobhbGL/2uG+s0VsYnvZnRwbpfjpQfNd6jaVYg0bw3amqoGT1Sq1IPlmYlAGoOH0jG/rJ2ZXtu9k7IUc2hQULAl1zIe6q3G5Jtce4u5kTMN2dDDGSrO1ZNfvj8i3JI7BbHut8ID5YBE6x+4a9Us0iRNAyNhsI52mwAfIBOnUQMkeJ+LuMZRC+okuOtJ9Xca34uDE9BxVhvfbfa1ix2A0Y9+yLvORzxfpJTdlXLcoal0A1NDdpr5CPYgQ/xRiZbPVoTmLz2LY5uFhfhkl3uN3aCsnZxo2rOI=;v1kGxWEh7mzbMy3Ay/yppQ=="
+secured: "0zEN+nf0V4BACAPOs102lkBWm/+dXXY9EpCwd8cYxdPDp+TPyGkFaLjYfZ7UD2FM1idDxunSNIomgwd7JuRbPcGQsDc2QYaMUxRmmtreb1u/foDOJ8pUCKKZmNMEso9msZ5D/KyEJ3907VoMjpN/qxmeFJOrX0SToThsXhlFjz1DfsqtXFQvFZNU9O+7JApRbMfdDLQUqckAOMuo1MyvuumObRyWiirfGzlQ1of32p6j2vrWIFRcTmb2kQBYjEBz82FMOUPJHzKqiBClYdY1W1AP0FSB7D5y3rEWE3PcRXEkyRuXTbaOlNegzG88zI460pdjUZK+UfMPvfZxkIyhMoXpr31eVV8UyjGPNO4oi/0=;KLocLQCLd4M7+29iCa1VkQ=="
 ---
 

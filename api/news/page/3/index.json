@@ -2,6 +2,207 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-09-there-are-no-limits-when-generative-ai-is-accessible-to-all.md",
+      "title": "There Are No Limits When Generative AI Is Accessible To All",
+      "excerpt": "These instances are just the tip of the iceberg, showcasing how AI’s integration into common services is subtly yet significantly transforming our digital experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c543c15254373c34936c6f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
+      "publishedDateTime": "2024-02-09T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
+      "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
+      "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c4ee7864919a2388225d25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
+      "publishedDateTime": "2024-02-09T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
+      "title": "Startups pursue GPU alternatives for AI",
+      "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
+      "publishedDateTime": "2024-02-09T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-ai-driving-acceleration-for-big-3-cloud-stocks.md",
+      "title": "AI Driving Acceleration For Big 3 Cloud Stocks",
+      "excerpt": "Alphabet’s Google Cloud, Microsoft’s Azure, and Amazon’s AWS shined as generative AI products drove an acceleration in cloud revenue growth in the Q4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c5077ec8cf125f217b25fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
+      "publishedDateTime": "2024-02-08T23:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
       "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
       "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
@@ -10,7 +211,7 @@
       "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -312,7 +513,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -404,58 +605,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-french-fintech-pennylane-becomes-europes-latest-unicorn.md",
-      "title": "French fintech Pennylane becomes Europe’s latest unicorn",
-      "excerpt": "The accounting software startup plans to double-down on growth and expand its AI services, including the release of its first chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn",
-      "originalUrl": "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2Funicorn-pennylane-french-startup.jpg&signature=b70fbe0e0f75c52a62a832889aaf8361",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -641,6 +790,49 @@
         "AI Ethics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-google-bard-is-now-google-gemini.md",
+      "title": "Google Bard is now Google Gemini",
+      "excerpt": "Say goodbye to Google Bard, and say hello to Google Gemini. On Thursday, Alphabet and Google CEO Sundar Pichai announced the company will be rebranding its AI model Bard as Gemini. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
+      "originalUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04299uXv4EIXIoGiOs2KOLz/hero-image.fill.size_1200x675.v1707401073.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1011,207 +1203,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
-      "title": "Bell, Mila to embark on joint deep learning AI initiative",
-      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "publishedDateTime": "2024-02-07T00:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system.md",
-      "title": "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system",
-      "excerpt": "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "originalUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time.md",
-      "title": "Roblox's new AI chat translator can help you understand 16 languages in real time",
-      "excerpt": "However, language barriers can often pose a barrier to making those connections, and Roblox's new AI chat translator seeks to tackle that. On Monday, Roblox released real-time AI chat translations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
-      "originalUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/837e9a56008ea0a05685512d2539cee0edf12658/2024/02/06/5320fc4d-26fb-42a8-87ea-1ab8e30c3499/screenshot-2024-02-06-at-10-47-15am.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
-      "publishedDateTime": "2024-02-06T21:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots.md",
-      "title": "DeepMind’s GenEM uses LLMs to generate expressive behaviors for robots",
-      "excerpt": "DeepMind's GenEM leverages AI to craft expressive, adaptable robot behaviors, offering a breakthrough in human-robot synergy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots/",
-      "originalUrl": "https://venturebeat.com/ai/deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_robot_waving_hello_to_a_busine_74f1a4ba-4c0f-4978-b79a-f82c0407ebfe-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

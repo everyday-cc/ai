@@ -2,6 +2,207 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
+      "title": "Bell, Mila to embark on joint deep learning AI initiative",
+      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
+      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "publishedDateTime": "2024-02-07T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system.md",
+      "title": "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system",
+      "excerpt": "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
+      "originalUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time.md",
+      "title": "Roblox's new AI chat translator can help you understand 16 languages in real time",
+      "excerpt": "However, language barriers can often pose a barrier to making those connections, and Roblox's new AI chat translator seeks to tackle that. On Monday, Roblox released real-time AI chat translations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "originalUrl": "https://www.zdnet.com/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/837e9a56008ea0a05685512d2539cee0edf12658/2024/02/06/5320fc4d-26fb-42a8-87ea-1ab8e30c3499/screenshot-2024-02-06-at-10-47-15am.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robloxs-new-ai-chat-translator-can-help-you-understand-16-languages-in-real-time/",
+      "publishedDateTime": "2024-02-06T21:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots.md",
+      "title": "DeepMind’s GenEM uses LLMs to generate expressive behaviors for robots",
+      "excerpt": "DeepMind's GenEM leverages AI to craft expressive, adaptable robot behaviors, offering a breakthrough in human-robot synergy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots/",
+      "originalUrl": "https://venturebeat.com/ai/deepminds-genem-uses-llms-to-generate-expressive-behaviors-for-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_painting_of_a_robot_waving_hello_to_a_busine_74f1a4ba-4c0f-4978-b79a-f82c0407ebfe-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
       "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
       "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
@@ -135,6 +336,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
+      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
+      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
+      "sourceUrl": null,
+      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
+          "width": 711,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seacoastcurrent",
+        "domain": "seacoastcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     },
@@ -325,6 +569,49 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
+      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
+      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -814,274 +1101,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-in-2024-what-every-gc-needs-to-know.md",
-      "title": "AI in 2024: What Every GC Needs to Know",
-      "excerpt": "While AI and machine learning have been around for decades (think IBM’s Watson), it was the wide release of generative AI (Gen AI) tools like ChatGPT in 2022 that arguably kicked off the current era in AI. Broadly speaking, Gen AI tools create new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/ai-in-2024-what-every-gc-needs-to-know-3580190/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15973_4423.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-vs-human-translators-who-will-win-the-translation-battle.md",
-      "title": "AI vs. Human Translators: Who Will Win the Translation Battle?",
-      "excerpt": "Interestingly, the introduction of Artificial Intelligence (AI) has fundamentally disturbed language translation, an essential communication tool in today's interconnected world. A significant concern that comes to mind with AI's quick growth is this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-gb/science-technology/ai-vs-human-translators-who-will-win-the-translation/467210",
-      "originalUrl": "https://www.entrepreneur.com/en-gb/science-technology/ai-vs-human-translators-who-will-win-the-translation/467210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1703003776-ai-vs-human-translators-g-1158763612.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-what-is-it-good-for-machine-learning-at-central-square-theatre-takes-a-look.md",
-      "title": "AI — What is it good for? 'Machine Learning' at Central Square Theatre takes a look",
-      "excerpt": "What of hope and faith? Questions like these shape Francisco Mendoza’s probing play “Machine Learning” (through Feb. 25 at Central Square Theater), where a son aims to help his father, who is battling cancer and a penchant for alcohol, with an app he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "originalUrl": "https://www.wbur.org/news/2024/02/06/machine-learning-central-square-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wordpress.wbur.org/wp-content/uploads/2024/02/Machine_Learning-Production-1-1000x667.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
-      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
-      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cjr.org",
-        "domain": "cjr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-could-artificial-intelligence-help-or-hurt-scientific-research-articles.md",
-      "title": "Could artificial intelligence help or hurt scientific research articles?",
-      "excerpt": "The Use of Artificial Intelligence in Writing Scientific Review Articles. Current Osteoporosis Reports , 2024; DOI: 10.1007/s11914-023-00852-0 Cite This Page :",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
-      "title": "Global Forum on the Ethics of AI 2024",
-      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNESCO",
-        "domain": "unesco.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

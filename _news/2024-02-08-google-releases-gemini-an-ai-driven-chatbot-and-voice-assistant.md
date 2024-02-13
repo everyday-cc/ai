@@ -87,6 +87,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Google CEO Sundar Pichai Explains The Reason Behind Renaming Bard To Gemini"
+    excerpt: "Pichai said that the company sees Gemini as the forefront of their AI technology. Google Gemini, Google Bard rebrand, Gemini AI, Gemini Ultra, Gemini Advanced, Sundar Pichai on Gemini, ChatGPT Plus, Microsoft Open AI,"
+    publishedDateTime: 2024-02-13T08:23:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 57
+    images:
+      - url: "https://static.tnn.in/thumb/msid-107655265,thumbsize-14062,width-1280,height-720,resizemode-75/107655265.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
     excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
     publishedDateTime: 2024-02-12T08:00:00Z

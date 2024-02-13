@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-12-how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact.md",
+      "title": "How Luxury Brands Are Leveraging Blockchain and AI For Business Impact",
+      "excerpt": "When it comes to blockchain, luxury brands from watches to jewelry and leather goods are doubling down on utility, leveraging the technology to bring real impact to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
+      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0011c01eac6af08cd5643/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1284,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
+      "publishedDateTime": "2024-02-12T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
+      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
+      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
+      "sourceUrl": null,
+      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
+          "width": 752,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
+      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
+      "publishedDateTime": "2024-02-12T04:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dunya News",
+        "domain": "dunyanews.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-apple-beats-google-and-meta-on-ai-shopping-spree.md",
+      "title": "Apple Beats Google and Meta On AI Shopping Spree",
+      "excerpt": "This figure puts Apple well ahead of other major tech giants in terms of AI startup acquisitions. Google acquired 21 AI startups in 2023, Facebook Meta purchased 18, while Microsoft trailed with 17 acquisitions according to the report. Apple has so far ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1707719699-IMG-1530.jpeg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
       "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
       "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
@@ -102,6 +248,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-maybe-well-finally-see-a-fintech-ipo-in-2024.md",
+      "title": "Maybe we’ll finally see a fintech IPO in 2024",
+      "excerpt": "This week, we're looking at Plaid's latest step towards an IPO, one BNPL company's financial results, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
+      "originalUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/iposign.jpg?resize=1200,894",
+          "width": 1200,
+          "height": 894,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/",
+      "publishedDateTime": "2024-02-11T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -417,6 +615,49 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-report-nvidia-building-unit-to-design-custom-ai-chips-for-cloud-customers.md",
+      "title": "Report: Nvidia building unit to design custom AI chips for cloud customers",
+      "excerpt": "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
+      "originalUrl": "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg",
+          "width": 1008,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T02:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -912,58 +1153,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-10-report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others.md",
-      "title": "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others",
-      "excerpt": "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sam_altman_jan_2024_5-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T18:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-10-ai-is-getting-boring-and-thats-pretty-exciting.md",
       "title": "AI Is Getting Boring, And That’s Pretty Exciting",
       "excerpt": "Ironically, AI will hit its full stride only when it disappears into the software and tasks that run our businesses.",
@@ -1057,207 +1246,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-there-are-no-limits-when-generative-ai-is-accessible-to-all.md",
-      "title": "There Are No Limits When Generative AI Is Accessible To All",
-      "excerpt": "These instances are just the tip of the iceberg, showcasing how AI’s integration into common services is subtly yet significantly transforming our digital experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c543c15254373c34936c6f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
-      "publishedDateTime": "2024-02-09T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
-      "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
-      "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c4ee7864919a2388225d25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "publishedDateTime": "2024-02-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
-      "title": "Startups pursue GPU alternatives for AI",
-      "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "originalUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "publishedDateTime": "2024-02-09T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-ai-driving-acceleration-for-big-3-cloud-stocks.md",
-      "title": "AI Driving Acceleration For Big 3 Cloud Stocks",
-      "excerpt": "Alphabet’s Google Cloud, Microsoft’s Azure, and Amazon’s AWS shined as generative AI products drove an acceleration in cloud revenue growth in the Q4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c5077ec8cf125f217b25fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/",
-      "publishedDateTime": "2024-02-08T23:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-13T06:31:00Z
 originalUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
 webUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 related:
   - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"

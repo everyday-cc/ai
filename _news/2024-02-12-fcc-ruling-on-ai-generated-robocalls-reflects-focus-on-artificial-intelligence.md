@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI reportedly seeking trillions for AI chip development"
+    excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
+    publishedDateTime: 2024-02-09T09:27:00Z
+    webUrl: "https://cointelegraph.com/news/openai-seeking-trillions-ai-chip-development"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
 secured: "+jkrf+EhXZFg4qaC6ogfC9BERZWWjl5i8/3WNOMKZIPEWPYc+BF8ry5N2fl20xuNKFrr1Fvy/k//qNrLyGTybzNbQSzgbv6wrZ+jNVJd38TSMnVwNtsdY4Cp8vFqBg/48iXV41InYsZTCV3uD8qaarYlBR8uXdS2dt8hXWJ/vgkDrgzht++GaLXiKig2xfxrVZ9hPfkT+u3OBJpNFtK0sJMxvxcAJsE8LUD4BHXW3J5JT+5ONN0SPAVzYZ/l0sve+ps2Cz/27AiWZv5Kt7r4lnH692lp4mAzvamAMbg3PESnotl5zyBJS9zFAZ0JXybEduWy1z3RDIHTQJZR6RfCeUNqY0wFMf4HKXVlTZNHbjo=;lQjcMAbGK/PKAFUt0E/M7w=="
 ---

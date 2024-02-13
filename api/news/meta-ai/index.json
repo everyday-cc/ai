@@ -237,6 +237,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
+      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
+      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
+      "sourceUrl": null,
+      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
+          "width": 711,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T14:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "seacoastcurrent",
+        "domain": "seacoastcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
       "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
       "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
@@ -555,6 +598,49 @@
         "AI Hardware",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-meta-released-a-specialized-version-of-llama-2-for-code-generation.md",
+      "title": "Meta Released a Specialized version of Llama 2 for Code Generation",
+      "excerpt": "Based on the open-source Llama 2, one of the largest LLMs in the world, with 175 billion parameters, Code Llama is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/meta-released-an-improved-version-of-its-open-source-code-llama-70b/",
+      "originalUrl": "https://iblnews.org/meta-released-an-improved-version-of-its-open-source-code-llama-70b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2024/01/llama2-696x407.jpg",
+          "width": 696,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1364,101 +1450,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-this-chinese-startup-is-winning-the-open-source-ai-race.md",
-      "title": "This Chinese Startup Is Winning the Open Source AI Race",
-      "excerpt": "Kai-Fu Lee, an AI expert and prominent investor who helped Google and Microsoft get established in China, says his new startup 01.AI will create the first “killer apps” of generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
-      "originalUrl": "https://www.wired.com/story/chinese-startup-01-ai-is-winning-the-open-source-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65aefe0a04ca18317cf93ec4/191:100/w_1280,c_limit/Kai-Fu-Lee-01.AI-Business-1244813365.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
-      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
-      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
-          "width": 576,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

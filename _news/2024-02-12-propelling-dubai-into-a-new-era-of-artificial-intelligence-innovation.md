@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
-    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
-    publishedDateTime: 2024-02-08T17:30:00Z
-    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
-        width: 445
-        height: 250
-        isCached: true
 
 secured: "YG0A3xXfY7hW+sXe0FVKOI69FyrQxRZDK7K11guxwEPZ0MMrBua7bn7VNM2npokouAlD/MhwjteSUjc5eCStHUD0D4Pr/ppEM9c4Y6uZHL7IJ843oOI8XTR45LHXsw7tSHF5h3wOPrOKBJUIAseuaiMV/N6ZjwySoJFUoF1LlVnb3nu4adkj1x/c4enR0pCq3geAPXg/eUF0DnaD1vjGUI2lRVorGMA83GmGYB0dWSKp7ExN7cKiBI9c1j3/LvknFhkTeLO+udjDGxaRZxzJvmUgz8YNHpEnXrIyVvMCgBiR3vyBkjG+Ci4rGtN1phpbeeaCNf68iXHdRRjuFgXAJn4afPj7OrE/cZ7Jd0yYOHI=;h4lpKdlHVZZ4fqdMvMFLEw=="
 ---

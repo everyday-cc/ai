@@ -45,6 +45,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-alphabet-stock-nasdaqgoogl-ai-innovation-warrants-a-higher-multiple.md",
+      "title": "Alphabet Stock (NASDAQ:GOOGL): AI Innovation Warrants a Higher Multiple",
+      "excerpt": "Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) stock has performed well but still hasn’t been the most magnificent of the so-called Magnificent",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2024/02/image-279.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 778,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T04:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign.md",
       "title": "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign",
       "excerpt": "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software.",
@@ -1286,49 +1338,6 @@
       "provider": {
         "name": "KTVZ",
         "domain": "ktvz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-baidu-poised-for-upside-as-ai-monetization-begins.md",
-      "title": "Baidu: Poised For Upside As AI Monetization Begins",
-      "excerpt": "Baidu continues to build on its lead in China’s AI race. Having checked the user growth box post-Ernie Bot launch, all eyes are now on monetization. Few of the positives seem to be in the price ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
-      "originalUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482803973/image_482803973.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null

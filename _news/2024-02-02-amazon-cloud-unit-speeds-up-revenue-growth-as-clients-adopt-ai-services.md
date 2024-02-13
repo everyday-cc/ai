@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/107260563-1687390716921-gettyimages-1247865087-CERAWEEK_2023.jpeg?v=1706824464"

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -96,6 +96,49 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-telstra-scales-up-ai-adoption-following-genai-pilots.md",
+      "title": "Telstra scales up AI adoption following GenAI pilots",
+      "excerpt": "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
+      "originalUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
+      "publishedDateTime": "2024-02-12T09:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -856,7 +899,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1406,58 +1450,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-koreai-a-startup-building-conversational-ai-for-enterprises-raises-150m.md",
-      "title": "Kore.ai, a startup building conversational AI for enterprises, raises $150M",
-      "excerpt": "Vendors like Google Cloud, Azure and AWS offer robust scaling solutions for conversational AI and GenAI apps, and Kore.ai isn’t the only platform to let customers deploy models in a range of local and cloud compute environments. But — whether on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
-      "originalUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1335295270.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/30/kore-ai-a-startup-building-conversational-ai-for-enterprises-raises-150m/amp/",
-      "publishedDateTime": "2024-01-30T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

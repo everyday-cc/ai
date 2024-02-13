@@ -23,35 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "French fintech Pennylane becomes Europe’s latest unicorn"
-    excerpt: "The accounting software startup plans to double-down on growth and expand its AI services, including the release of its first chatbot."
-    publishedDateTime: 2024-02-08T11:35:00Z
-    webUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn"
+  - title: "Maybe we’ll finally see a fintech IPO in 2024"
+    excerpt: "This week, we're looking at Plaid's latest step towards an IPO, one BNPL company's financial results, and more."
+    publishedDateTime: 2024-02-11T15:30:00Z
+    webUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/"
+    ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2Funicorn-pennylane-french-startup.jpg&signature=b70fbe0e0f75c52a62a832889aaf8361"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2018/05/iposign.jpg?resize=1200,894"
+        width: 1200
+        height: 894
         isCached: true
-  - title: "European Fintech Pennylane Reports Series C Funding Round"
-    excerpt: "Pennylane has reportedly raised €40M from Sequoia Capital and other investors, reflecting steady growth over the past two years."
-    publishedDateTime: 2024-02-12T02:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
+    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
+    publishedDateTime: 2024-02-08T17:30:00Z
+    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
-        width: 1024
-        height: 768
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
+        width: 445
+        height: 250
         isCached: true
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US-Based Fintech Formidium Opens New Office In India, To Hire 40-50"
+    excerpt: "US-based fintech company Formidium on Monday said that it has opened a new office in India and plans to hire over 40-50 empl"
+    publishedDateTime: 2024-02-12T07:43:00Z
+    webUrl: "https://menafn.com/1107839661/US-Based-Fintech-Formidium-Opens-New-Office-In-India-To-Hire-40-50"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40194"
+        width: 387
+        height: 250
+        isCached: true
   - title: "How French Fintech Pennylane Reached Unicorn Status"
     excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
     publishedDateTime: 2024-02-12T16:29:00Z
@@ -81,6 +95,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
+    excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
+    publishedDateTime: 2024-02-13T06:49:00Z
+    webUrl: "https://www.business-standard.com/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 21
+  - title: "SA fintech develops AI-powered fintech apps"
+    excerpt: "South African fintech consultancy firm Elenjical Solutions (ES) has developed three proof-of-concept AI apps focusing on using proprietary information for rapid information retrieval, code generation,"
+    publishedDateTime: 2024-02-12T07:10:00Z
+    webUrl: "https://it-online.co.za/2024/02/12/sa-fintech-develops-ai-powered-fintech-apps/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Why Big Game Ads Are Becoming a Must for B2B FinTech Companies"
     excerpt: "Papaya Global’s decision to enter the world of NFL advertising comes in the wake of other B2B FinTech brands that found great success through their own ads. One noteworthy example of this is Gong, an AI-powered revenue intelligence platform that ran regional ads in 2021 and 2022."
     publishedDateTime: 2024-02-09T20:10:00Z
@@ -90,6 +124,24 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 4
+  - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
+    excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
+    publishedDateTime: 2024-02-11T04:43:00Z
+    webUrl: "https://www.thehindubusinessline.com/multimedia/audio/what-are-the-emerging-technologies-driving-indias-fintech-boom/article67831878.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 3
+  - title: "B2B Fintech Firm Aspire Offers Small & Medium Businesses A Unified Suite Of Financial Services"
+    excerpt: "B2B fintech, Aspire has raised $79.15 M in internal funding after its $100 M Series C round. Co-founder & CEO, Andrea Baronchelli talks to Shruti Mishra about Aspire's solutions for SMEs, its focus on AI & cybersecurity and India plans."
+    publishedDateTime: 2024-02-12T20:39:00Z
+    webUrl: "https://www.cnbctv18.com/binge/bb-fintech-firm-aspire-o-A5h2cIiiFDw.htm"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 0
 
 secured: "m1RoeMCcxC9VghYqEuDI408F2DwpCesMDcaELBvQFUAKBmncv12978ZdJxQogVRWsvTiTR1GGUNjP/hDNfEYp6owByogx2cDc8pOe5IP03ISWWpKhbU98ByCfJfHSZS3DfSAHmS/vK/0IBjnxbDXBjNuY4SWcsl2JFaLnooTWSrAbrMaoU3kuBFMnoOEflI3xqsaHl7wu2aj9Xp0t7fD1OowkqL3x2IF+vCdYEaVMd5+AiXKbxHP5vKUx356VkT3PPIoQDtjhxiZdKSUYUUgK4kd8hBA8DP1FqrXYjp6Vog0IXnqBiHu+P82jTVH0QSOWyrp+JmUmod0Oj/SxRP6PLW2IOqOvAEhClV5fEH2+DZDlKmo7RmsLSfGosMpmuC5d9fdzXl9VZcIJHTF8mdiCQAhnzg0WReyLquw+U03hm5yaFTH2C0AT8k5BHyIkTwF9geaUT53TL08N/8aKuhCroE/D9g/M1mrpmwAQhRrhSzHi7MhuRXdu+o+uD/CnKrKzQXhb0+6cJUP7YOcBCvC5g==;opkuQEiRn6fT0z2yUOtRBQ=="
 ---

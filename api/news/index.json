@@ -45,6 +45,110 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-alphabet-stock-nasdaqgoogl-ai-innovation-warrants-a-higher-multiple.md",
+      "title": "Alphabet Stock (NASDAQ:GOOGL): AI Innovation Warrants a Higher Multiple",
+      "excerpt": "Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) stock has performed well but still hasn’t been the most magnificent of the so-called Magnificent",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tipranks.com/wp-content/uploads/2024/02/image-279.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+          "width": 778,
+          "height": 447,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T04:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat.md",
+      "title": "Sam Altman and the $7T geopolitics of AI chips | The AI Beat",
+      "excerpt": "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T01:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
       "title": "Thanks to AI, Azure is Closing the Gap with AWS",
       "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
@@ -53,7 +157,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -97,7 +201,7 @@
       "originalUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -381,7 +485,7 @@
       "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -536,7 +640,7 @@
       "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -723,7 +827,7 @@
       "originalUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -879,7 +983,7 @@
       "originalUrl": "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -960,6 +1064,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-telstra-scales-up-ai-adoption-following-genai-pilots.md",
+      "title": "Telstra scales up AI adoption following GenAI pilots",
+      "excerpt": "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
+      "originalUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
+      "publishedDateTime": "2024-02-12T09:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1057,152 +1204,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact.md",
-      "title": "How Luxury Brands Are Leveraging Blockchain and AI For Business Impact",
-      "excerpt": "When it comes to blockchain, luxury brands from watches to jewelry and leather goods are doubling down on utility, leveraging the technology to bring real impact to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
-      "originalUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b0011c01eac6af08cd5643/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1284,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniehirschmiller/2024/02/12/how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact/amp/",
-      "publishedDateTime": "2024-02-12T06:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
-      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
-      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
-      "publishedDateTime": "2024-02-12T04:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-apple-beats-google-and-meta-on-ai-shopping-spree.md",
-      "title": "Apple Beats Google and Meta On AI Shopping Spree",
-      "excerpt": "This figure puts Apple well ahead of other major tech giants in terms of AI startup acquisitions. Google acquired 21 AI startups in 2023, Facebook Meta purchased 18, while Microsoft trailed with 17 acquisitions according to the report. Apple has so far ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1707719699-IMG-1530.jpeg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

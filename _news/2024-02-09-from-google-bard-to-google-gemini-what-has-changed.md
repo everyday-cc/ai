@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
+    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
+    publishedDateTime: 2024-02-13T07:29:00Z
+    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
+    images:
+      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
+        width: 1792
+        height: 1024
+        isCached: true
   - title: "Google’s AI chatbot Bard is now called Gemini: Here’s what it can do"
     excerpt: "Google’s most advanced large language AI model, Gemini, has officially launched on Android and iOS in the United States."
     publishedDateTime: 2024-02-09T05:41:00Z

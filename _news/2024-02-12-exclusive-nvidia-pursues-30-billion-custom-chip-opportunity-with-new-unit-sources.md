@@ -7,7 +7,7 @@ originalUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pur
 webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,59 @@ images:
     width: 1200
     height: 749
     isCached: true
+
+related:
+  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
+    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
+    publishedDateTime: 2024-02-11T02:55:00Z
+    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
+        width: 1008
+        height: 672
+        isCached: true
+  - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
+    excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
+    publishedDateTime: 2024-02-09T06:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96106/ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 46
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
+    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
+    publishedDateTime: 2024-02-13T00:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "Nvidia (NVDA) reportedly to invest $30 billion into custom AI chip manufacturing"
+    excerpt: "Nvidia is already one of the most prolific chip makers and distributers in the world when it comes powering AI technology, but it may be preparing to invest substantial into the particular needs to AI tech firms and services with an upcoming investment."
+    publishedDateTime: 2024-02-12T12:09:00Z
+    webUrl: "https://www.shacknews.com/article/138696/nvidia-nvda-30-billion-usd-custom-ai-chips"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 29
 
 secured: "jHVcoJl9bzVQk+o1gUEI7LIAKv+eXsbZtAY0nnN1rck9IANHld5gFLWkOmGMd/eSlEgWmk1nxQC2jhb+VYBA5bttrR4Cp6+6bBTH4F9SNz9qT3eVMt3pCR3a+wcBXZn6HDsZCDeqdlHLzpbpjWoeGuqDGCfNaZrnI+h0MOduspk13UI5BLWqShgHzgrnYeQVdtj5QHcIjcAtEx7JL0KL3f94ujuihOV3dyEtTEgr4tX2BkNGVqgyLSNzOeNsdUuqIrYodnLlUebfyeGR9mLFRjN/UX2S6RnqhKqVzA1LY1Kk4Iy2iBvTgGAgiRkryGe3mXnBBH9bf2weEcSR9+nWxcrnLwHQEq70/V7zlRAV2RA=;YTnHQs931YyyomOrQmZFUw=="
 ---
