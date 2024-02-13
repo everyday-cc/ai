@@ -39,6 +39,22 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "3 killer apps for cloud-based generative AI"
+    excerpt: "Natural language generation, recommendation systems, and anomaly detection are good opportunities to create strong business value with genAI."
+    publishedDateTime: 2024-02-13T10:13:00Z
+    webUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.html"
+    ampWebUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/lightbulbs_innovation_leader_standout-winner-100746942-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "KDmqka6F13T2M/tB3eHgEDobdhlm7baOFk/CflIXNYe8Q/mtknCMAPDBacfOdeg/h/kCkf+wLBeVXbrcYFxsJQqxSFqh/mhNWg32eo1ahHJBrWDTQr/OUP343P9Qw8RtK1YSkLB2g8n2g8TEZ9YQ0hiBKjmjEq2xiXHVpP8Q4ixH6ygjEOtXJOcT9ITMuBipWB4yRHJDEHW75AbqLk76sK2V7L45RV42SKungZwMiqfMp5RCG9ETrsf7I2hy0FA5AhLivWYnCv4avASenAAjW6Rd/2PvfXnwS1jz8pyQdDocQbsku9i7c27dQM43DeoUWsmtkN1NbqmdrY4axOAApE9DQJoUpd7yTeF0gS5RGr4=;ZxpwF5B5dvEz6uHMQhQAbw=="
 ---

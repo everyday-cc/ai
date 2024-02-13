@@ -9,8 +9,8 @@ ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-
 cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Citizen
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI takes centre stage at BI Summit ‘24"
+    excerpt: "Artificial intelligence will dominate the discussions at the annual ITWeb Business Intelligence Summit 2024, to be held at The Forum in Bryanston on 12 March. The theme for the event is ‘embracing data,"
+    publishedDateTime: 2024-02-13T11:36:00Z
+    webUrl: "https://www.itweb.co.za/article/ai-takes-centre-stage-at-bi-summit-24/GxwQDq1DedBMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2024/02/brain-cell-phone-information-2024.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence takes centre stage at World Government Summit 2024"
     excerpt: "Artificial Intelligence (AI) emerges as the focal point of discussion at this year’s World Government Summit (WGS) set to convene in Dubai from Feb 12-14."
     publishedDateTime: 2024-02-11T05:12:00Z

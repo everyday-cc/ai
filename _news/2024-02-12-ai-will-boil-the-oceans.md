@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 91
 published: true
 
 provider:

@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
+    excerpt: "Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
+    publishedDateTime: 2024-02-13T10:55:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 36
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHOS2X2YYTD6U3FRX2JIFMYQQ.jpg&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "w2Uug8MkPAqW+/QKbwmp64P0/KnYNbrWveGtCoSxFcOp0q4r+Wc77rN6LY+U3RouMiMxnKK9f4Vi55qO/uNWsumxeERdekYyfa8dgVKf7mlkJhwQCgw3TKn/X6oSWYfmjQU0nsB0ubk6ZvSyrlyBQPxI6/uKBLisWnm57qs0s4IcDtl7mc9pjE8YWlcBdSS+kO1aNra0+8OH3mFVHiHfCyF04WW6RnGrZhvZxv+tiAQLKLqjj9MBNhrD2Lh9dQyEZhUM+oQLeZLd//ASw09+nDEHAFs/oXHSz+1qYqRPX7wlMzuRgAW/djaEUm7h9AthgclSM0DbNsUHacDuhIsUY3RcTsUTj/Sb9M6exTvvL5Q=;FKz9CyUjsvRDCiN6jka9Hw=="
 ---

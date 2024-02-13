@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/wearables/brilliant-labs-frame-smart-glasses/
 webUrl: "https://newatlas.com/wearables/brilliant-labs-frame-smart-glasses/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Computer Vision
   - AI
   - Natural Language Processing
+
+related:
+  - title: "Brilliant Labs Frame open source AI smart glasses from $350"
+    excerpt: "so you can start using them right away. And if you need glasses to see, don’t worry—you can add prescription lenses for an extra fee. The artificial intelligence in these glasses is nothing short of impressive. They use some of the most advanced AI ..."
+    publishedDateTime: 2024-02-13T09:14:00Z
+    webUrl: "https://www.geeky-gadgets.com/open-source-ai-smart-glasses/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "XxTT6R7Ki/8ZG5KhVm2Lj2Z+7WJifUkMbnrOBobIdsZX7GuCzeRsmR3r9Mr3+66DTSEMR9R9yA0r+iqIYdhwNlEvRkdDNMLEqdwicDUNsyfTw0mCrpt8389oErRQ5YGNtaem4jT554+toWFRik7244XtB/nZ+MyXWQ7WR+FlXitsZm0j60lOVJRSS1uztNSm0HfWQ8Bsb84AVvZouwQy+l0ueuKRs4QXPb4JpPPNFB5AY+MgP8NTXq6OmBOhxPrPk3itRtFQXBtp0g47DdyG8qtLurnfLwZNNZT01svFNxOJx0qpZid0Uj9rGaNy6iFOEp/IYra1OjoYEAW4b2eOKh424s5tvrw+9G9Fcnz3ijoVh5gINkwpbsPPx3u7ed5hNcLZ5R6g1zj46Xy3KrDwl+QR1ACbpXohuvnmTBTh38DoLg5jo8AC0F5gUodkw+G5QnL5BVB7IoGhVH2t2iEEca3kKhI4TkRlat2QTNWkTFUb9/msS0YhAc/7tv82HQJ4Sb5kkeuybGs/H5dA42sNyA==;wN5nTsRIeA1DuYmfv0BhVA=="
 ---

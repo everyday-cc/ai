@@ -136,6 +136,15 @@ related:
       name: Hoodline
       domain: hoodline.com
     quality: 19
+  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
+    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
+    publishedDateTime: 2024-02-13T10:24:00Z
+    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "kgSUj2lbVVlA+un8M227tWuDQPIqpcPqK9aCWvBgPgXt2rm60Uu7+Dm/zIEmzaiTskIQvaWpqDFAzNnfZdXdQPNiWpd58mLz2OeoaSncwdVzGl7mWPWyFWhFHSjOxJRtXXBNQjfAAnj0Xl96xeuLQboYOWbaP7AJcfLzoEH/dYZz0P/GOt6mikt+c7ODoil8bywluuZKAx/cdFy+2B4g1HtloqAScBxcbaFOb6Y3WZfFF2SmZs7Q0vFRH1onqDBXs6n+tdvfRG61Af8tdth+Qt9TU2ljcNXNAOrsTBdGjl6BieTFbqd3J2/yr9k5tGmrR9BAfR7kfsV+JjuGHOj+zC1otHBjZYxazYiQyVZncQb3Bqp/k0lcSjfRAJ/QATALuGm2daAv7dd1n98HUu3eyWgTd8lKR3LVvogyjd3n/ZafQecFNX34ybF93uGyTDWA003yCA3i9TtwKyYJmH+Pos3YU0lMUesPlwucz2AksP1pFukAAPJ6j+PoReqXkXgyuu9I80mSHL838Q4mQOFIWQ==;JwJzikFFU/36p3uP+q5kWw=="
 ---

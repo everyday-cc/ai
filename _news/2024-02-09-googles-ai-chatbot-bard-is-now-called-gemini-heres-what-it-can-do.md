@@ -35,19 +35,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today"
-    excerpt: "Bard is now known as Gemini, with a mobile app and an Advanced experience that gives you access to our most capable AI model, Ultra 1.0."
-    publishedDateTime: 2024-02-08T13:00:00Z
-    webUrl: "https://blog.google/products/gemini/bard-gemini-advanced-app/"
+  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
+    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
+    publishedDateTime: 2024-02-12T03:25:00Z
+    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 74
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bard_Gemini_SS.width-1300.png"
-        width: 1300
-        height: 731
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
   - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
     excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
@@ -65,6 +65,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google CEO Sundar Pichai Explains The Reason Behind Renaming Bard To Gemini"
+    excerpt: "Pichai said that the company sees Gemini as the forefront of their AI technology. Google Gemini, Google Bard rebrand, Gemini AI, Gemini Ultra, Gemini Advanced, Sundar Pichai on Gemini, ChatGPT Plus, Microsoft Open AI,"
+    publishedDateTime: 2024-02-13T08:23:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236"
+    ampWebUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 57
+    images:
+      - url: "https://static.tnn.in/thumb/msid-107655265,thumbsize-14062,width-1280,height-720,resizemode-75/107655265.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google is axing the 'Assistant with Bard' branding now that Gemini is here"
     excerpt: "Google is axing the Assistant with Bard branding now that Bard is Gemini, and it’s available on Android. The company is still striving to build an AI that is conversational, multimodal, and helpful. Gemini will be the branding Google will stick to going forward."
     publishedDateTime: 2024-02-09T04:46:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
+    excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
+    publishedDateTime: 2024-02-12T08:00:00Z
+    webUrl: "https://www.viva.co.id/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    ampWebUrl: "https://www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    cdnAmpWebUrl: "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    type: article
+    provider:
+      name: viva
+      domain: viva.co.id
+    quality: 44
+    images:
+      - url: "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/08/6572a07ba12f5-google-rilis-gemini-ai_665_374.jpg"
+        width: 665
+        height: 374
         isCached: true
   - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
     excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
@@ -107,6 +139,80 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google Bard is now called Gemini, Gemini Ultra 1.0 launched"
+    excerpt: "Google is rebranding its Bard AI to Gemini and it is also launching Gemini Ultran 1.0 and a new mobile app, along with the name change comes a paid"
+    publishedDateTime: 2024-02-09T07:20:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-bard-is-now-called-gemini-gemini-ultra-1-0-launched/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Google Renamed Bard to Gemini"
+    excerpt: "Google takes a major leap in AI, renaming Bard to Gemini, signaling a new era for its AI services and user access."
+    publishedDateTime: 2024-02-08T17:58:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/why-google-renamed-bard-to-gemini/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 24
+    images:
+      - url: "https://www.cmswire.com/-/media/66979b6d09c14a40aa82b52294808799.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
+    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
+    publishedDateTime: 2024-02-11T22:25:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
+  - title: "Google’s AI Bard And Duet Become Gemini; $20 Per Month For Gemini Ultra"
+    excerpt: "Google AI Bard is now Gemini as the LLM and GenAI product goes into iOS, Android, Google Cloud and Google Workspace, Google CEO says."
+    publishedDateTime: 2024-02-08T20:28:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-s-ai-bard-and-duet-become-gemini-20-per-month-for-gemini-ultra"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 19
+  - title: "Google Just Killed Bard and Replaced It With Gemini. It's More Than Just a Name Change"
+    excerpt: "Today, Google announced that it is renaming Bard, its AI chat experience, to Gemini. You can still visit bard.google.com, but the experience is now called Gemini. But it's more than just a name change. Google is also rolling out a new AI experience, and a new app on Android."
+    publishedDateTime: 2024-02-08T13:21:00Z
+    webUrl: "https://www.inc.com/jason-aten/google-just-killed-bard-replaced-it-with-gemini-its-more-than-just-a-name-change.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 16
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-gemini-inc-GettyImages-1835957780_537222_r8zoeg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "How to Learn a Language with Google Gemini"
+    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "20KuQ5UJNO19qyBxUyYzFU4Nj6M+q8r2oNEFNmgZFC2fFCAP1qIqehGKgZ6iwMTv6OCDAtmOMFIxGUdEshXuoN2pnSipks2eyo5nqjobBBaRFGmoDD27Ayx2NVjdc30cX28IbjLo5V4Hk/Moiq5dxoXWmndZ2LobePixRwM3QECbBZQAaXClpZERzizfvxYKEm8dh9awQ24njy4xojj6hk93SKKLbUIeLQVyH3YMZEz+9qoY6ptTraX+Vdsjos7CRHYst6BPo3Hi3P0dktkUUWp+0Gn70aJMyPPpIk1JTh96eWqrD8LlgjGmYv04ysK9qaqYzUDJ0xGFk7+/EeMTuIsF8UEML0A5KhBX2cWXvWdhoCyZ3YvEz/mJ2OCqtHMRyPJJopehE84n852VPal+Bdn3YK3VxVxVDvpLsjnqP4cCHjwrYHSGf/w+ZIKV9c2uWUyfFKAustX/2iHHF/Epfbi/aT+VY2Kk0WQDy0eJAmywxWEtgYgQTWbSUIEVKH/qazxO1nkXpQxgLwa8CMsoeg==;MswrjL8Zc+XuANGk96L2tQ=="
 ---

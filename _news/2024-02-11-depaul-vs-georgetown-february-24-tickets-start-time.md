@@ -122,6 +122,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mississippi Valley State vs. Prairie View A&M February 26 Women's Basketball Tickets & Start Time"
+    excerpt: "Mississippi Valley State Delta Devils vs. Prairie View A&M Panthers women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-13T10:21:00Z
+    webUrl: "https://www.wlox.com/sports/betting/2024/02/26/mississippi-valley-state-vs-prairie-view-a-m-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WLOX
+      domain: wlox.com
+    quality: 4
   - title: "South Florida vs. SMU February 25 Tickets & Start Time"
     excerpt: "The SMU Mustangs (17-7, 8-3 AAC) meet a fellow AAC team, the South Florida Bulls (17-5, 10-1 AAC), on Sunday, February 25, 2024 at Yuengling Center. The game will begin at 12:00 PM ET and you can watch via ESPNU."
     publishedDateTime: 2024-02-12T14:19:00Z

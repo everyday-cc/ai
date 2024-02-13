@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Newcomers To The Fintech 50 2024"
+    excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/newcomers-to-the-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa1c68c2bb76dd88fe0b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
     excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
     publishedDateTime: 2024-02-08T17:30:00Z
@@ -55,15 +69,6 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Newcomers To The Fintech 50 2024"
-    excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
-    publishedDateTime: 2024-02-13T00:41:00Z
-    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/12/newcomers-to-the-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
     publishedDateTime: 2024-02-12T10:32:00Z

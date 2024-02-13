@@ -86,6 +86,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
+    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
+    publishedDateTime: 2024-02-13T10:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
   - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
     excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
     publishedDateTime: 2024-02-12T13:00:00Z

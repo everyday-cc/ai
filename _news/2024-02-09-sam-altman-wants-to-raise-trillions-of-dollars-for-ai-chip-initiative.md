@@ -111,6 +111,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
+    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
+    publishedDateTime: 2024-02-13T09:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 11
 
 secured: "bDbOA1wfPHqr4doJiaWcl0mg2Hsb5Ie3fcdghxuw3J7Ce9FuOq39KQXssRdmzWSPNzVHGBYDjb5hmQBw2dOJHOjm33RPrJ1SmH34BO6sazbKYUWmWGcMQP7rjrTGqUk8oV4Uw2vJm7l7r/VA7AzuSv/h0C62UBkMhkwDjDnCieY+TY8tQ1bMWmeDdU+Vcq//byJi5oThtA3/bsqqIcWml1K0u3MqJGu5Xgsj5mF8E5Ju7o0da5nIhlL1d538fh2tuWB+vtCIOfPiyFVKEMMUJxp21hsTZdfhQTQI9X49sYTzyqlBnC3X3oX/uwqLSKopgYUW9ItdvzQLfk2nkH6ylYceMYaQqDEWFvS0qyq2erupsSdqnzZBpat22wN5kZb86d/0a7bSrmCsp7zk3pTTLQyfr68dqR3A2KlZ0XDCo4pfi5jgtyaLEiyOJINGom+1u5hZ3IDv0veKsO06g1ase78UiEbqlMiGRsdbn1gMRcs6VgPMMZiJh2MlRmU4tAWjK8SfI+2GlmBwMDE2X4rbxQ==;egbA4ZKt+COoh1yESg8wWA=="
 ---

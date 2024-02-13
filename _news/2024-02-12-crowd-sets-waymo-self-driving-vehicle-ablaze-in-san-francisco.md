@@ -136,6 +136,15 @@ related:
       name: winnipegsun
       domain: winnipegsun.com
     quality: 19
+  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
+    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
+    publishedDateTime: 2024-02-13T10:24:00Z
+    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "sgTl7QhgZwFG46s1FeQxezDNfpLc90JN++JYW/R0ZhKvnPFpgc/miKWAGf400bRsvGXgFJ3g3nu93yQlTblhY1+Cahaw8nfISzxHFjtZr/gPaKXSTmZJR1kkE0R08NDMZ9zNfEGabJy51NoaaMGGu/NHgW7cT5pxzUxqeSgnjJNghQsp0s4qRZCmTOj8z76y3YOOb1IrXpnbcnB+n1prX7y0NDnodiSg8F30pOhNz8KumcDmUnXlhYnWy07YKNKro0iopG4/g/GFaq2IKDH13P2wpkYPWHlrvCEbqs/DrDQmp21KeqL6YQAkUYxs8RBcT0VXjL+6fLJ9uslPJPrbBjm9UCymrJbM17zLcdxz0kI=;7VMB4kjSCRT8eQX0z9LPYQ=="
 ---

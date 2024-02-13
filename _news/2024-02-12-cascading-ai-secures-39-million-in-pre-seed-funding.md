@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
+    excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
+    publishedDateTime: 2024-02-13T11:41:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/ex-amazon-duos-ai-startup-raises-us125-million-series-funding"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/13/email-32490621920.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "Generative AI-Powered E-Discovery Startup Beagle Raises $3 Million in Seed Funding Round"
     excerpt: "Beagle, whose co-founders were previously machine learning managers at Snap Inc., looks to stand out in the market due what the company called its experienced technical team."
     publishedDateTime: 2024-02-08T20:32:00Z

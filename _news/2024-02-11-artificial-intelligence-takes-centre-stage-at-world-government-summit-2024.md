@@ -40,6 +40,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "AI takes centre stage at BI Summit ‘24"
+    excerpt: "Artificial intelligence will dominate the discussions at the annual ITWeb Business Intelligence Summit 2024, to be held at The Forum in Bryanston on 12 March. The theme for the event is ‘embracing data,"
+    publishedDateTime: 2024-02-13T11:36:00Z
+    webUrl: "https://www.itweb.co.za/article/ai-takes-centre-stage-at-bi-summit-24/GxwQDq1DedBMlPVo"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 39
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2024/02/brain-cell-phone-information-2024.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "5MMb5UbxV6cCNatvWWc4Q1UP0WhYHR5l/cuZyFvyGe/8cPGfPRmHbpvfSgsa7cTHo9Sw7FW54iKDzbvemg+l28IopCLrC6L8CPCAdv2bLpuq/PyBa8A0E3XJl00Haes2fi/F0Ng3ykP86+5IcE957flxa1gfuC3r0tJN4RisRinMbMdoBpzTYwwqpg4WHs3AIVPbcBRWykRMYpSKr7E06MidCSFb91I6r0GIcDaPoU6paSZBEhwDtpNNEJZhggqM96/otqT0PLcpg9ofb8U77LILz4WYxyvhXrAcaMW+t21TGWGYYPh/KarX7LQN7NVNZAyam4txeevqdWdWTe+Ck15iVT31MneqgzOvJkjm1t4=;7+ZiDs+5+xYBzdTEiR4DsA=="
 ---

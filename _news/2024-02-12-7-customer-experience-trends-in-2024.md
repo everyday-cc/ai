@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/customer-experience-trends/"
 webUrl: "https://www.ibm.com/blog/customer-experience-trends/"
 type: article
 quality: 102
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -28,24 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "The most important AI trends in 2024"
-    excerpt: "Adapting to emerging trends is essential to maximizing potential, minimizing risk and responsibly scaling generative AI adoption.\nThe post The most important AI trends in 2024 appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-09T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/artificial-intelligence-trends/"
+  - title: "Machine Learning Meets Customer Experience: How AI Is Reshaping CX"
+    excerpt: "Technological advancements are changing almost every aspect of our lives, including how businesses interact with customers."
+    publishedDateTime: 2024-02-13T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "Creating exceptional employee experiences"
-    excerpt: "HR leaders think of the workforce in a holistic sense, including current employees, contractors, candidates and past employees.\nThe post Creating exceptional employee experiences appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-08T13:00:00Z
-    webUrl: "https://www.ibm.com/blog/creating-exceptional-employee-experiences/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/655516d102d93493722f7f19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "AiTgLVDRyDgI3E68r4wfKMsNdYprY0r1rLuktT0A6RP4zg4hMeJ9trm0IfTkvJhnqydAUDDYv9g48X0NfcZTCKtFiMz+LbHN45Tn6jqBithwJAWd+g9gEF5YJRTwF4yz646X7cpA9gwbQHrc3xI8gH6Z4+g1SkR9xiL5M9IPgfkXAEuqwghLQSPMS2hi/pratGdeWl6LPXvyIx4NxdogbrZbBGUYP8GiPmWHhP6SC3/0rHnAVTEqZiO+Na4aA4lw6DjkuSTXPZ6KaReemGjI0Lu2D4zhHQdRGizu3ctjmtRsnuQkSs3CWRGRPUxZHbpVspeY7Ff8YOYYxrN5RrZPlZUVmchieA8hHqibbGU5Dy8=;McjaN9Vfqw8yvRZTcc2tpg=="
 ---

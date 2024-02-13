@@ -171,6 +171,24 @@ related:
       name: WILX-TV
       domain: wilx.com
     quality: 2
+  - title: "Bruins vs. Lightning February 13 Tickets & Start Time"
+    excerpt: "The Boston Bruins' David Pastrnak and the Tampa Bay Lightning's Nikita Kucherov will be two of the most exciting players to watch when these squads play on Tuesday at 7:00 PM ET, at TD Garden. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-13T09:01:00Z
+    webUrl: "https://www.westernmassnews.com/sports/betting/2024/02/13/bruins-vs-lightning-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: Western Mass News
+      domain: westernmassnews.com
+    quality: 2
+  - title: "Predators vs. Devils February 13 Tickets & Start Time"
+    excerpt: "The Nashville Predators' Ryan O'Reilly and the New Jersey Devils' Tyler Toffoli will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Bridgestone Arena. If you're looking to go to this game in person, head to Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-13T10:01:00Z
+    webUrl: "https://www.wkyt.com/sports/betting/2024/02/13/predators-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WKYT
+      domain: wkyt.com
+    quality: 2
 
 secured: "pP0CQeoYROti0loBO3KJKoQH+yjzWipluqZxdXjg1RSq9olu7ICAwOfsSNDCKjAnBwOVkXfe81agQ4lIoluSS/yBr64JlQdGzMXFBmru/z/l2er3kJow3UCx3GZx8QsvFovL4GCE4dAGaMP7aqvaS3OD3HoOQbKKVaSOubzTW1dP5dJy7+6o76ni59xW7+abD3lhCZu2v0DZkw07ALAACsVNZEn4UL64QbkMYurnYKvECEWsE3zhezY9jpKmVVUUIPHwGAoocdumFNcyhTZPD4p3DlemvIeHmbHylisqtQUd8tMNxg74jKwx7jPN5tqv7x83hBATDHT1jJlNA9OrPr5ChXqF8xaGVXurM+0DjJ1kSU36LmkHmN5+jtj2wmZTuZiBfHDtmaPLWQk9HQOeG57FXm2piN6MXvv/glij7N21VM4WqeEKD2mmxjjpYUwAvGIykt+M4WE1nAVDYHgimxwF//8aRgvIiwMRjRJCvd4Nzy7mTtiNsI8i3DNvAZTlq6QNTEF7QFnoD6r3UW+FPQ==;+/BgimEUXLzycYOXr1B8zw=="
 ---

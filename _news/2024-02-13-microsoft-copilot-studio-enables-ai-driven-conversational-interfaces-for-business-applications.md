@@ -87,34 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sarvm AI Collaborates with Microsoft to Bring Indian Languages to Azure"
-    excerpt: "Generative AI startup Sarvam AI has announced that it is working with Microsoft to make its Indic voice large language model (LLM) available on Azure."
-    publishedDateTime: 2024-02-08T09:46:00Z
-    webUrl: "https://www.indianweb2.com/2024/02/sarvam-ai-collaborates-with-microsoft.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 69
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEaNmL1lFhwdH3VEH_6BFh3MB__SZhlTPhycCT7_BpA6TAkGazBqGIl1kIb6oeVTsIvwPKn4bP6RPzv2h6VOIsXXyQDGj2GlgsnxFORE4VqujCJa1Aod_dIndnkzac16J-cSKKRQx6DHFaTfgGgCvsOYN2N0yGIrziJ80dPAySetNYKpo7RpXqpZdBb4w/s16000/20240208_151323_0000.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Sarvam AI Collaborates With Microsoft To Bring Its Indic Voice LLM To Azure"
-    excerpt: "Sarvam AI will use Microsoft’s cutting-edge cloud and AI infrastructure – including Azure OpenAI Service and Azure Machine Learning – to train, host, and scale its LLMs quickly and efficiently."
-    publishedDateTime: 2024-02-08T12:25:00Z
-    webUrl: "https://startup.outlookindia.com/sector/saas/sarvam-ai-collaborates-with-microsoft-to-bring-its-indic-voice-llm-to-azure-news-10494"
-    type: article
-    provider:
-      name: startup.outlookindia
-      domain: outlookindia.com
-    quality: 67
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1706605808.jpg?utm_source=fb"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Cloud and its Azure OpenAI Power Telstra's Generative AI Solutions"
     excerpt: "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more successful interactions with customers."
     publishedDateTime: 2024-02-12T02:08:00Z
@@ -129,17 +101,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Lightspeed-Backed Sarvam AI Partners With Microsoft To Build Solutions On Azure"
-    excerpt: "Sarvam AI, a startup in the generative gen AI space, has partnered with Microsoft to build solutions on the tech giant’s cloud services"
-    publishedDateTime: 2024-02-08T11:37:00Z
-    webUrl: "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/"
-    ampWebUrl: "https://inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/lightspeed-backed-sarvam-ai-partners-with-microsoft-to-build-solutions-on-azure/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 65
   - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
     excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
     publishedDateTime: 2024-02-12T12:17:00Z
@@ -188,15 +149,6 @@ related:
         width: 690
         height: 428
         isCached: true
-  - title: "Microsoft Azure lays foundation for India-focused voice-based generative AI apps"
-    excerpt: "Microsoft collaborates with Sarvam AI to bring Indic voice large language model (LLM) to Azure AI, aiming to foster AI-driven growth and innovation in India."
-    publishedDateTime: 2024-02-08T10:48:00Z
-    webUrl: "https://cointelegraph.com/news/microsoft-azure-india-generative-ai-apps"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 44
 
 secured: "FOUCRl5pE1LB6WX17rmM7XYJ3W3voabAfMy2Rz5dCEa1ZJz2bcfgMxJNd7gR/a1wwUhBSXqx7jmQgZ6VhA7OS3xP+DcyNYVYX/8jf/oea5lya2o96W+HWYY4f9xJn3lpXvrVfN+PIkhTBnu5BmyyGyGYYmL8um50K2H3AOEA0wHiAPcJDwSRpMzIQGiBvJom4iwtK0ykVgNmtqOdJJyOzNz/PTTVtMPl3MlNgkC5mZA8+mKrYjVpWj2KfZFQ6V1FE/sGfuGISUToHmE1BetfLDtc8/Qfuswm1jcURH0T86UsaicIvSdMJq7+PveShTIY8ukcOfjYn8NKR6cI9vwY8qpL5XzwIICWVedKTODZVmymkNckdDWXziQeu5rxcoGl6IIaw7CGYFM3awaRkp64lVGe1w7dmVaVEnnUOzvokxZ/GIqO4jgbpNgbIihjOn6ZAmu3JcUkEuukZS+r2myrvu+JUivmk349V9hRu/7fMe/TfsAFVutlhx9O2t5G+BoKgY60bppR8d0CZpV9qQqNWA==;n9yK6TnAoKjn6pdDpqw7KQ=="
 ---

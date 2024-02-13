@@ -2,11 +2,11 @@
 category: news
 title: "Newcomers To The Fintech 50 2024"
 excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
-publishedDateTime: 2024-02-13T00:41:00Z
-originalUrl: "https://www.forbes.com/sites/emilymason/2024/02/12/newcomers-to-the-fintech-50-2024/"
-webUrl: "https://www.forbes.com/sites/emilymason/2024/02/12/newcomers-to-the-fintech-50-2024/"
+publishedDateTime: 2024-02-13T11:15:00Z
+originalUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/newcomers-to-the-fintech-50-2024/"
+webUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/newcomers-to-the-fintech-50-2024/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65caa1c68c2bb76dd88fe0b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Maybe we’ll finally see a fintech IPO in 2024"
@@ -143,6 +149,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "m1RoeMCcxC9VghYqEuDI408F2DwpCesMDcaELBvQFUAKBmncv12978ZdJxQogVRWsvTiTR1GGUNjP/hDNfEYp6owByogx2cDc8pOe5IP03ISWWpKhbU98ByCfJfHSZS3DfSAHmS/vK/0IBjnxbDXBjNuY4SWcsl2JFaLnooTWSrAbrMaoU3kuBFMnoOEflI3xqsaHl7wu2aj9Xp0t7fD1OowkqL3x2IF+vCdYEaVMd5+AiXKbxHP5vKUx356VkT3PPIoQDtjhxiZdKSUYUUgK4kd8hBA8DP1FqrXYjp6Vog0IXnqBiHu+P82jTVH0QSOWyrp+JmUmod0Oj/SxRP6PLW2IOqOvAEhClV5fEH2+DZDlKmo7RmsLSfGosMpmuC5d9fdzXl9VZcIJHTF8mdiCQAhnzg0WReyLquw+U03hm5yaFTH2C0AT8k5BHyIkTwF9geaUT53TL08N/8aKuhCroE/D9g/M1mrpmwAQhRrhSzHi7MhuRXdu+o+uD/CnKrKzQXhb0+6cJUP7YOcBCvC5g==;opkuQEiRn6fT0z2yUOtRBQ=="
+secured: "mctKrExJ/22aTPxgHCmmzMFofkTyM0Z1nxVplbNEfKjIdpPgYtpEaMHSzo1F7TfYX1MFGUFBXX93ujSPN6M98MndvKMHBOyrgPwLJOvgNt4sf2D2G+34pikY8q9WLdthz8NofkDKijV8qnFJ1R9tgpxoiAnCtdPRdinC7pBFtphUxziwbi1j0oaNZJFER2DE77gT45Zlflbftt7muoDvVblB3Pw8BXOARclamFo0bZsbG0ETpLwj42RKKBJAL5FwadS346/It5/CkZacl/DvHrOFpaCn22KDIbCjsHdCKrBdgvw+pgjDr053KKymRTirxs59ie4aNMGoM+r1kx6UjjeXzEyIYgPfmiB7Z6jB5+Q=;t05972dPWEEE/QUD2XE8nA=="
 ---
 

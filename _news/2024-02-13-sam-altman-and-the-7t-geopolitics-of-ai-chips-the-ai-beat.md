@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai
 webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
 type: article
 quality: 84
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -115,7 +115,16 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
+    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
+    publishedDateTime: 2024-02-13T09:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 11
 
-secured: "3hQGbgJy6wYm4TACua5YBE1PRbjIsThOwZkFHEZps9V+RbqwROkVPoNhRe5/kR4W4Tn+TAcpVoqIWnCCV9uPv+HmCZ83BpPKJ71/2aLimR7SnDznySrJVIPSOqtEZUM74/8rdyRm3Bc4SLw4ZuEtvbZY7bpiHJULSagOSfWaoglFnL4LHGgl1m7dBrwFvvZx9H9CuM8AoL/ixc1LLXwssnpXbPwbJ4vg/yUax/JzhX7FTBz3Y2HCEBajmoG9kR9CK3Ns/YI0AeNovZlTA6tmORig7JagGAe5K/oqBdnISBRRKC1D5H/vuohhQvcUdiLwEjQRb/1m5wpZXRCAGAzmcUrMYfQ5qdxESrAwl4jQD+s=;IXJ+vr8uGmAWKy9r0Nfpkg=="
+secured: "IaJZuhOfh9OutvJBdwaRdp53/bRqTdoMCR0a1w3Qvi9kNGpIRhdqp2IKJlxkuRkG0VovGu7m+bEIgHSQNf6ZVXNm5xe1Qi2VzllRorSDU7WkqNMTMdLKnAICGoNAI+MCELZPxEnzkn+6srJnWwsplxL494ydXBwblCGzXUfB+YTdZraFM//RvhByOcGxKtVju7yWkT9z3oIPqkrOvjW+t9JMtmzXpk8dS4oOMhXl0+Yun3Qa2rVa0Pir2tRBdpBPBs/DOz/jyx9QNFI6jiOuyNb7MJOlrAwqGqKhPZIGEu6SxRkPCOWgUWxLNrOnp8PLk+XKB7PEEo3DLLaodm33KjpwkROZuaOewjbpb2RNbvQ=;LK6dZczVh974vxEOWyC92g=="
 ---
 

@@ -53,15 +53,6 @@ related:
         width: 696
         height: 496
         isCached: true
-  - title: "NVIDIA H100 GPU cloud contract signed with AI company, poolside"
-    excerpt: "Iris Energy has executed a cloud service agreement with poolside for 248 NVIDIA H100 GPUs. The contract is for an initial 3-month term, with an extension option for an additional 3 months at the customer’s election."
-    publishedDateTime: 2024-02-08T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
     publishedDateTime: 2024-02-12T23:14:00Z

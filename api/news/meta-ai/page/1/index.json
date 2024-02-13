@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -545,6 +545,49 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-biden-arrasa-en-las-primarias-de-carolina-del-sur-y-llama-perdedor-a-trump.md",
+      "title": "Biden Arrasa En Las Primarias De Carolina Del Sur Y Llama \"Perdedor\" A Trump",
+      "excerpt": "Añade citas de Biden, simpatizantes demócr... Already a Barron's subscriber? Sign In",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "originalUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP8281762384358363907959724513602719109110---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1398,58 +1441,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-fixing-ai-made-easy-ragaai-emerges-from-stealth-with-automated-testing-solution.md",
-      "title": "Fixing AI made easy: RagaAI emerges from stealth with automated testing solution",
-      "excerpt": "RagaAI carries out as many as 300 tests, covering all sorts of problems that can lead an AI model to fail, right from data and model issues to operational gaps.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fixing-ai-made-easy-ragaai-emerges-from-stealth-with-automated-testing-solution/",
-      "originalUrl": "https://venturebeat.com/ai/fixing-ai-made-easy-ragaai-emerges-from-stealth-with-automated-testing-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1313178434-e1680301581671.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

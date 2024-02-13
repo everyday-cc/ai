@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA H100 GPU cloud contract signed with AI company, poolside"
-    excerpt: "Iris Energy has executed a cloud service agreement with poolside for 248 NVIDIA H100 GPUs. The contract is for an initial 3-month term, with an extension option for an additional 3 months at the customer’s election."
-    publishedDateTime: 2024-02-08T12:03:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-h100-gpu-cloud-contract-signed-with-ai-company-poolside-1033045462"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "RTX 2000 Ada GPU meets AI visualisation demands"
     excerpt: "To meet the increased demand for generative AI in embedded and edge applications, Nvidia has released the RTX 2000 Ada Generation GPU. According to the"
     publishedDateTime: 2024-02-12T16:11:00Z

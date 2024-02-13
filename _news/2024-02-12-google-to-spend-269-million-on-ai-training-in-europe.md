@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/google-spend-26-million-ai-training-eur
 webUrl: "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe"
 type: article
 quality: 67
-heat: 78
+heat: 82
 published: true
 
 provider:

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-machine-learning-meets-customer-experience-how-ai-is-reshaping-cx.md",
+      "title": "Machine Learning Meets Customer Experience: How AI Is Reshaping CX",
+      "excerpt": "Technological advancements are changing almost every aspect of our lives, including how businesses interact with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655516d102d93493722f7f19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/",
+      "publishedDateTime": "2024-02-13T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-3-ways-machine-learning-is-changing-retail-for-the-better.md",
       "title": "3 Ways Machine Learning Is Changing Retail for the Better",
       "excerpt": "Customers want convenience; retailers want growth. Machine learning can help with both. Artificial intelligence has revealed its potential in retail, as anyone who has ever interacted with a digital sales assistant knows. In fact, the value of AI in retail ...",
@@ -1271,41 +1323,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-top-50-ai-startups-to-blow-up-in-2024.md",
-      "title": "Top 50 AI Startups to Blow Up In 2024",
-      "excerpt": "Explore the 50 best AI startups that have the potential to add new capabilities to the ever-growing artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/top-ai-startups",
-      "originalUrl": "https://www.techopedia.com/top-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ah
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
 type: article
 quality: 87
-heat: 147
+heat: 159
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
+  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
+    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
+    publishedDateTime: 2024-02-13T10:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
   - title: "Nvidia CEO says tech advances will keep AI cost in check"
     excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
     publishedDateTime: 2024-02-12T12:31:00Z
@@ -100,6 +109,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "TtfxNxTgKVOK0LjL5tFlRYNVfYbhbdKrA0ir9TPcbmNoW75Cx20vkfG70Rvuce8AMKpPg7lKT/BUrr9t4T1Y7SkYK0Elo4v8pfi72kXtgF5yrfvPUH/P1sCeQ10CLGhzYjrg4w+9NussmgYWgKhKMLLzR/xG4qU/UscLIyUCUUBlRAwsKh3iQ7vIBBZ2fnbGhKuwIJkTabGPToPaBdke8HH0gFBUUPKq7Ej4XufDnP5qcqfIXLv7ublCjx0twiSC3ensp9qtBW9q7sBwPAriBokR81CkhRLGz9sFWlWvUA/tGesZY4n8N9/gLLJB0WqT9v3HfpJCgUTPVJNngQNx8QwPQP0gSZISkJJ2sjP9kVU=;Z2KkrMCKXSAp4hagG0fCJA=="
+secured: "YU/5NQ+SBTcm4qCbwMBzDqpN1RgqI5kbQZZUSLofh0FXSvuRlmFGuRcz33/XegPJxqPhFjMgtJCwKSPqhjzjrc6+L2N9x/kpR08T251XWX4FqG4UI9kX5G8zebxjGPYLMtksW7ZxXno9A7s9JPEUkGa5qPjzrA57EYtZpaigKN2uWvDIj5CQ1c/wElmcPnhAiwd7gR2uU7uS/AetDdkId03eL/WMvT8y2A47w8/tDnfImsRwnibNWK/myR2FiC+H6YlwSL7pCe7hhGrOwa8WpAGgyi8dNPE7AoTWV2Xe+E7urlerNa4f+k4OX/FV6Mf+HLCg9lHcKtsUSJfuDxS+AEX0yf1bTUFP2q+uSAgCHa56NDU0hWpcopbdHwrOSICgYBl7VjR9GWG1A1KLEcEpH+YM8AJCUbhMN2SWZhpVv/2UlLIgzyq7VuwqXSiQbF4YhSso+TLl0UTRY5JP8QGW1uYfU1ovbCKCbIFLKXwrUTJYe/BWViBIl45qcXE1zX0xD/WDafEZmSP1TkHT+T4CCQ==;irDZ14PbXfx7UPivyeoVZw=="
 ---
 

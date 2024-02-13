@@ -77,6 +77,15 @@ related:
         width: 536
         height: 301
         isCached: true
+  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
+    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
+    publishedDateTime: 2024-02-13T10:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
   - title: "Nvidia CEO says tech advances will keep AI cost in check"
     excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
     publishedDateTime: 2024-02-12T12:31:00Z

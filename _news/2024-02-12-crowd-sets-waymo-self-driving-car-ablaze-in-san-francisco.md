@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
     provider:
       name: winnipegsun
       domain: winnipegsun.com
+    quality: 19
+  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
+    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
+    publishedDateTime: 2024-02-13T10:24:00Z
+    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
     quality: 19
 
 secured: "z63/0TXkXyKsAY+CEr9+sZVuiHon7S6cA0Px5P0hOhg7niPGzb7cRnX1SORu/4BXZ6u1L7hTs00EPPkXDHrXJ1MwE0CFHAYyCCh2vXtVQzIeRqzdrHpxHIEGgrP1420OuN/g1zi93vv7TMCynWZFzj5rn8WxYcAD3wgYXAZSRHe1Prz2Z/R0YamtyMCUY+oqwlu9LkIrWoQlyYBM9HwxZ+vw9ekW3MTItQLcaChaSKAC8qH6lcNF0CcMqgAI4slBd6xB6+xyJkUqDgdD08teesP6D0NT8mAx7lvBqnzZY9bWUTRXmr9EKH0FV/exfBTCGQzDZhqkE5bdcmiYgsbxOCvCBb0Gr89O0KGZQwJZJDo=;hzxHO0adFjni7/XKxuY++w=="
