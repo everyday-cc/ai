@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wthr.com/amp/article/news/politics/senate-committee-disc
 cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: WTHR
@@ -24,6 +24,24 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "Senate committee grapples with AI challenges in health care, focusing on bias, care denials"
+    excerpt: "Artificial intelligence could do more harm than good without careful oversight, according to the Senate Finance Committee, which met to address how to prevent algorithmic bias and unfair care denials by health plans."
+    publishedDateTime: 2024-02-13T13:30:00Z
+    webUrl: "https://www.benefitspro.com/2024/02/13/senate-committee-grapples-with-ai-challenges-in-health-care-focusing-on-bias-care-denials/"
+    ampWebUrl: "https://www.benefitspro.com/2024/02/13/senate-committee-grapples-with-ai-challenges-in-health-care-focusing-on-bias-care-denials/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2024/02/13/senate-committee-grapples-with-ai-challenges-in-health-care-focusing-on-bias-care-denials/?amp=1"
+    type: article
+    provider:
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 49
+    images:
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2024/02/elizabethwarrenWells-Fargo-Scandal-Article-202402130827.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "vXUxp56aKnU7t5ATA9Fg0HiDOsvKlQVwBul9165OiZ3CLrzAF/KCQRZ7nuDZViR03/SqLyPkpjKo8qOOMD8T//fXSBt26C21gdtNFbdiIEte8pcg2y+USmrLnI1LVxOxxzQmUBbQRBFLcziue0rqx3DPLLc6jBvr7xsLKE39XIBtwaqoF/60GIKdSbm1JNFnEa2cO6FBiQZaBmxj7hlUmN5ceNiix3Z2ej7b0GtJJwYOds21wGrMY3QCGAeXgFlHOM6AswXHfU+zPx1HWlTWzCheExw/RtV0a1QWJeZvbvK+FtiNfmj8uvHa7ySpiwGIerHZVYhQ9z0eahFipCcmThYCBdQEBdLwlYyhQbPERJmzEy+NdrP87iN4/3xMgnjzoCDMs/Cneyo+eRW4lkKm3bpoNtKT1WTGU625dT3NYXE/TZpCHvXKWjSWfr7Ds4/g0BjfW9wyfbuNtNItIjShVOMgZAmWehuvZWGNhn1rkNARAG+VzQlQBJEcFPpl6+9LvA47sh+x+kcJ74i+XdLcEQ==;DnbHkmVqbODIuX3mSL8AoQ=="
 ---

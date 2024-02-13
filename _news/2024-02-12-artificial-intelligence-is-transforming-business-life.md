@@ -57,6 +57,15 @@ related:
         width: 675
         height: 900
         isCached: true
+  - title: "Otter AI Knows What You Missed On Boring Business Calls"
+    excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2024/02/13/otter-ai-knows-what-you-missed-on-boring-business-calls/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Tax Preparers Start Using AI to Help You File Your Returns"
     excerpt: "Help Register Login Login Games Car rental AARP daily Crossword Puzzle Hotels with AARP discounts About 55 percent of people ages 50 to 64 and 59 percent of those 65 and older paid a tax preparer to file their most recent federal return,"
     publishedDateTime: 2024-02-08T18:58:00Z

@@ -199,20 +199,6 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 19
-  - title: "Google Just Killed Bard and Replaced It With Gemini. It's More Than Just a Name Change"
-    excerpt: "Today, Google announced that it is renaming Bard, its AI chat experience, to Gemini. You can still visit bard.google.com, but the experience is now called Gemini. But it's more than just a name change. Google is also rolling out a new AI experience, and a new app on Android."
-    publishedDateTime: 2024-02-08T13:21:00Z
-    webUrl: "https://www.inc.com/jason-aten/google-just-killed-bard-replaced-it-with-gemini-its-more-than-just-a-name-change.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-gemini-inc-GettyImages-1835957780_537222_r8zoeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "0gvKaPDI7VCL5PyBMO5+ATL2zX3jm2zT/dR4oCrmdQjR9zupO49M07p6J9KmjvB5pq513+LvnIgSY+so8EeIOIofNfZRniQxbW9Q9WgX3/fwEswjQ8Ajv8/o36goy/4xJDDQ4niGK+Be7wUkU+tSc6obIwAwQE2s6oAPXujQMbJM2Gux803EsVeGcKhhLi3GMYuC79fnZwTol19KzgLijLfCdx07oJqLgeuxcUjglrH/VNy4OOx5lT9RlvaaZkOfAVUvhbYSfBODrzbymnntn+0EMUz1rxabuHtw2APKKgXZnwPeregOvlkb9yqDfX+5kgtepCXfgSPl8a4dpH5MauiknNYOEDv8YFj3wl3nOcI=;vpLWt0yhau0q7s3m1pm8Uw=="
 ---

@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at WEST 2024 on February 13-15"
+    excerpt: "In February, OSS won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
+    publishedDateTime: 2024-02-13T13:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961436.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 25
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/f3391a05-85b7-4cab-8694-34a4dbf636a6/WEST.jpg"
+        width: 1104
+        height: 736
+        isCached: true
   - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
     excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-12T04:20:00Z

@@ -75,15 +75,6 @@ related:
         width: 1066
         height: 600
         isCached: true
-  - title: "Ten jobs artificial intelligence is coming for"
-    excerpt: "With the advancement of artificial i (AI), these are ten of the first jobs that are most likely going to be taken over."
-    publishedDateTime: 2024-02-08T15:47:00Z
-    webUrl: "https://techaeris.com/2024/02/08/ten-jobs-artificial-intelligence-is-coming-for/"
-    type: article
-    provider:
-      name: Techaeris
-      domain: techaeris.com
-    quality: 17
 
 secured: "v5EDrBLnuqbZa0sCmzRAZI5oV+BRWcsSkObsmtmR54vs1pIsWQV785sz4Purnw6Oj5PkzHOhtv2HI1eDM8HRJkfe8enS7+QpyxuY5LhmaMLbyezkCj/EWXbiru9F/aUtMLPhUaY9wAzMFrArSIjRYtq2R03a3q6WgAh/yPbqib/aWlXIP3iPgZO2Gx3pJRl8CupQGwIudNJ/mFyC3toQM60XMgYtr5YufkmxISB1M1Kn70bhxRH1CcvjbKY2CnfVxlMGgzafX7gaqOTAcq9Hx83kWjlSAFlkQpBRgOMF5ls16p51fOGBJWa1B0NU/vY0MSVU0wArl5uxmFb93V8byJX/Qkt90LFW3P4ReCLJjNA=;6bF5h3KKxcRwTtYP7hmopg=="
 ---

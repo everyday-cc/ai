@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026"
+    excerpt: "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival."
+    publishedDateTime: 2024-02-13T15:09:00Z
+    webUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/"
+    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 101
   - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
     excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
     publishedDateTime: 2024-02-12T07:30:00Z
@@ -36,20 +47,6 @@ related:
       - url: "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft is bringing AI Super Resolution upscaling to Windows 11"
-    excerpt: "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial"
-    publishedDateTime: 2024-02-12T13:54:00Z
-    webUrl: "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
     excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
@@ -106,48 +103,31 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 63
-  - title: "ABB and Microsoft partner to advance industrial generative AI"
-    excerpt: "At the intersection of data-driven and physics-based modeling, AI takes the stage by supporting prompt-based engineering."
-    publishedDateTime: 2024-02-08T21:17:00Z
-    webUrl: "https://www.plantservices.com/technology/artificial-intelligence/article/33036690/abb-and-microsoft-partner-to-advance-industrial-generative-ai"
+  - title: "Microsoft to build new data centre in Centurion"
+    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
+    publishedDateTime: 2024-02-12T05:34:00Z
+    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
+    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
+    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
     type: article
     provider:
-      name: Plant Services
-      domain: plantservices.com
-    quality: 54
+      name: The Citizen
+      domain: citizen.co.za
+    quality: 59
     images:
-      - url: "https://img.plantservices.com/files/base/ebm/plantservices/image/2024/02/65c505a8e7cea5001e81d3d2-abb_and_microsoft_partner_to_advance_industrial_ge.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
+        width: 1500
+        height: 1000
         isCached: true
-  - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
-    excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
-    publishedDateTime: 2024-02-12T05:40:00Z
-    webUrl: "https://www.crn.com.au/news/cabots-partners-with-microsoft-and-insight-enterprises-on-ai-chatbot-605002"
+  - title: "Nerdio Adds Partner Resources, AI To Its Microsoft Cloud Management Suite"
+    excerpt: "Nerdio, a vendor for Microsoft cloud technologies management software, has added artificial intelligence capabilities to its products and is investing in more partner resources after growing the base by 150 percent."
+    publishedDateTime: 2024-02-13T14:36:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/nerdio-brings-ai-to-its-microsoft-cloud-management-suite"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg"
-        width: 690
-        height: 428
-        isCached: true
-  - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
-    excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
-    publishedDateTime: 2024-02-12T23:53:00Z
-    webUrl: "https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 42
-    images:
-      - url: "https://res.infoq.com/news/2024/02/copilot-studio-powerva-available/en/headerimage/generatedHeaderImage-1707698005856.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: CRN
+      domain: crn.com
+    quality: 33
 
 secured: "IoZ0h+ScM2RlpTQr2d6OF4rq5d6mNEd/yJ4XFW5IUaBbw3oJ2GRv8jX3Nt+8u52HAjGCzKP86LQng9AwWxFjxiBzvr/2bqX11L9PU9Y78DAeWCypOQZ0EDfKlNT+zE36xvzJoYdPCjpUikq02Yr/xMFEwLuKbwe82UawveLO1DXjCUZ2Y6sDOdvUNgPEHvfW5tyrbl0TqJSQjR4rJ7veRXNWCRoSB6cGxkg5D5YsKDLl5/+Vk+3uHFUXEV1U3Kj8lR3vyozmBEbLFBhcig1O4DMMWkw94I2xmlpK1gPJIfMIWc6/BlZ/+ikegwbJCmkW1pDqWPCzZ/cbOTRNKshg4lQ2lI67PMg/DQEoMPEyTec=;6o7BhBfG0mB3x80zDMshlg=="
 ---

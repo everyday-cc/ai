@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Eight CEOs Making Their Debut On The Fintech 50"
+    excerpt: "Their companies do everything from taking some of the drudge work out of accounting to helping Americans maximize their credit card rewards. Seven are founders."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/eight-ceos-making-their-debut-on-the-fintech-50/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caddf750700ab9ac25fb49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Newcomers To The Fintech 50 2024"
     excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
     publishedDateTime: 2024-02-13T11:15:00Z
@@ -54,6 +68,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65caa1c68c2bb76dd88fe0b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1280
         height: 720
+        isCached: true
+  - title: "The Future Of Wall Street And Enterprise: Fintech 50 2024"
+    excerpt: "Nine startups are on this year’s Fintech 50 Wall Street and Enterprise category, including longtime regulars Addepar and Trumid and four fraud prevention firms."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/hanktucker/2024/02/13/the-future-of-wall-street-and-enterprise-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49fc9a66d41bfb129e98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
@@ -125,6 +153,24 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
+    quality: 4
+  - title: "Mass Fintech Hub Welcomes Four New Members"
+    excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
+    publishedDateTime: 2024-02-13T14:28:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61393216-mass-fintech-hub-welcomes-four-new-members-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+  - title: "Why free trials are so important for fintech product adoption?"
+    excerpt: "This is why the need for fintech companies to build trust from the outset is critical. One of the most susceptible sectors to user trust challenges is the Forex brokerage scene, where  scams and fraud are common."
+    publishedDateTime: 2024-02-13T13:59:00Z
+    webUrl: "https://www.finextra.com/blogposting/25683/why-free-trials-are-so-important-for-fintech-product-adoption"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 4
   - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
     excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."

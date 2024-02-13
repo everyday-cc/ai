@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scal
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TelecomTV
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FCC Ruling on AI-Generated Robocalls Reflects Focus on Artificial Intelligence"
-    excerpt: "The proliferation of artificial intelligence (AI) technologies is likely to have a profound impact on the telecommunications industry. Technology underlying the creation of deepfakes, which accurately mimic a person via digitally altered video, audio or ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/fcc-ruling-on-ai-generated-robocalls-4431532/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 48
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "OpenAI reportedly seeking trillions for AI chip development"
     excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
     publishedDateTime: 2024-02-09T09:27:00Z

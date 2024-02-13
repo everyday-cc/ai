@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft to build new data centre in Centurion"
-    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
-    publishedDateTime: 2024-02-12T05:34:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
-    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "AI takes centre stage at BI Summit ‘24"
     excerpt: "Artificial intelligence will dominate the discussions at the annual ITWeb Business Intelligence Summit 2024, to be held at The Forum in Bryanston on 12 March. The theme for the event is ‘embracing data,"
     publishedDateTime: 2024-02-13T11:36:00Z

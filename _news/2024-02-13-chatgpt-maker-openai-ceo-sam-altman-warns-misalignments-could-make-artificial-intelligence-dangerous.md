@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ce
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,22 +45,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
-    excerpt: "And I’m not that interested in the killer robots walking on the street direction of things ... OpenAI, a San Francisco-based artificial intelligence startup, is one of the leaders in the field. Microsoft has invested some $1 billion in OpenAI."
-    publishedDateTime: 2024-02-13T00:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+    publishedDateTime: 2024-02-12T16:31:00Z
+    webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+    ampWebUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
+      name: WGN Radio
+      domain: wgnradio.com
     quality: 64
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_9593a03830c0ef83fdef76c68bb87118_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/65cb85398fdd50.75559590.jpeg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
+  - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
+    excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
+    publishedDateTime: 2024-02-13T15:11:00Z
+    webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/"
+    ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
   - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
     excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
     publishedDateTime: 2024-02-13T09:54:00Z

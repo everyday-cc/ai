@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-accele
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 killer apps for cloud-based generative AI"
-    excerpt: "Natural language generation, recommendation systems, and anomaly detection are good opportunities to create strong business value with genAI."
-    publishedDateTime: 2024-02-13T10:13:00Z
-    webUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/lightbulbs_innovation_leader_standout-winner-100746942-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
     excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
     publishedDateTime: 2024-02-12T06:59:00Z

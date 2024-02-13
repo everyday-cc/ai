@@ -1,29 +1,29 @@
 ---
 category: news
-title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
-excerpt: "And I’m not that interested in the killer robots walking on the street direction of things ... OpenAI, a San Francisco-based artificial intelligence startup, is one of the leaders in the field. Microsoft has invested some $1 billion in OpenAI."
-publishedDateTime: 2024-02-13T00:44:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+publishedDateTime: 2024-02-12T16:31:00Z
+originalUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+ampWebUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
+cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: ABC News
-  domain: abcnews.go.com
+  name: WGN Radio
+  domain: wgnradio.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/International/wirestory_9593a03830c0ef83fdef76c68bb87118_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/65cb85398fdd50.75559590.jpeg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -59,6 +59,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
+    excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
+    publishedDateTime: 2024-02-13T15:11:00Z
+    webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/"
+    ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
   - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
     excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
     publishedDateTime: 2024-02-13T09:54:00Z
@@ -69,6 +80,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "F9AmVieUvP63yjaRwtaXPnGFPLaOH6W8pl8qPQ+jnOU7F0ZI/QWTWMsMQZELE5vMCq4ZgJ1LhXUQmaivid4aikUNuqHzbM6mKFAJgo8AewynJqXI1/7vTJ04TYKwmGF3AfpZF/bSwFxUS1iOFTdMxi1Dq7REYmFoGvTXtPa3ebdVYWZcvfPASkCjHxkeCFdALpte4wDuvDggwgwBA1inrLuquIEklJhpiNP9WoGGmaK7YTrWLVDukN/C0rq/6Cus1Pe58PA07fg/ylsDd3a+qjPBfJwUo8TiOtxWAwol8LUVWt+CEx+HXYq64icw5Ua8snjxUtA0yjbPUE6JqXFws+adPMINcMEq0PIh6M9HjaM=;4zfPuzAi4EAmPbAJuCMlZQ=="
+secured: "tskdgqknXCnGj/pcUFHEb0WH4E04e1H1Ogj+Gk8EpJms1RMavlr9PQFDna5QNh+Z9uk2LDteycrAUHP2VQHtL/Ucjm4KBGxegZeH04e1blcGWF0RJiUvcAKwZNidQ6vPA5cwf202Yx6yzbmEfpXNb3k2UJXh1JdwxkMS3qTzLdhs8CQrhZisgf/pVY33nlAnXvVygj+etpItXGXI0C4Qyk8sDMKu+wJgMQH5ryoeAf+b3pwfnsgF83FzXAATzoGGOuH7hjlQH5RwYa3aKBAsImdxqd4u1OsItGRR0PH7lEGDM8ntgygF2GGJe5Sae7zXNhZz6/IXXx8gPpyCGqfnv+YUG8LlNSKm0PcEjUO17mA=;Ym9Ig0UGeKTtRgxQTzZHVg=="
 ---
 

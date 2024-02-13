@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-
 webUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "The chief artificial intelligence officer: A blueprint for state and local government?"
+    excerpt: "Late last year the White House issued an Executive Order (EO) on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. On page 52 of the 66-page document, the EO called for each federal agency to establish a permanent chief artificial intelligence (AI) officer."
+    publishedDateTime: 2024-02-13T16:14:00Z
+    webUrl: "https://www.americancityandcounty.com/2024/02/13/the-chief-artificial-intelligence-officer-a-blueprint-for-state-and-local-government/"
+    type: article
+    provider:
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 9
 
 secured: "QQmNbzA/Vr2YTtUjorA7tGsp7PVJZV5m/Fv9EmbZWQfePgg2BEwMtdzkmxzyWDJlXZ3ciyhGh7YksvskaBui3G3Wvow4egtSwVu7CtIQr/WV7I8O3BaLCu+zSKwVP/11IxRPz9zT2jWVkc27lX08EwvSSUqLOyvRuZdbjB8Kf3RjZHqIwzhoVi6DWvRcmNjXyzQAOofN5Nh9H8kLXmD1Co/jU//6n+6owEnb6WHvYCwxs6izlNT0gT8v8Gt7ZLP5r6vn3f3uc6QltWyV7RP/E5gro3kcpQqp2q9tTPtbVbjTtPwpu48bZYVhaxxsoUBLhtBtVZTu5YIdQi2Y2uR4vnvIjUSjmLBa2bXFFl59c98+chbvENaq68/2ZVCvGSl48hGKHM/uM+p/3RwNkpGVqtwiyOXNOrDczZ3T0iCdFCwPpY3/zugtRMAnmxW/UonLCLnWhUu+sICzwEUc9xJfMZzsAdejpNXIFBksP/L6Ifm1X7zfRy6Hwm9QKksA8Xx4Fstv8Xg1RnerZoiIc+/vkQ==;0YU+uRtuhjSVizqt6Ftk3A=="
 ---

@@ -190,20 +190,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 19
-  - title: "Google Just Killed Bard and Replaced It With Gemini. It's More Than Just a Name Change"
-    excerpt: "Today, Google announced that it is renaming Bard, its AI chat experience, to Gemini. You can still visit bard.google.com, but the experience is now called Gemini. But it's more than just a name change. Google is also rolling out a new AI experience, and a new app on Android."
-    publishedDateTime: 2024-02-08T13:21:00Z
-    webUrl: "https://www.inc.com/jason-aten/google-just-killed-bard-replaced-it-with-gemini-its-more-than-just-a-name-change.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 16
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-gemini-inc-GettyImages-1835957780_537222_r8zoeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "How to Learn a Language with Google Gemini"
     excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
     publishedDateTime: 2024-02-11T23:59:00Z

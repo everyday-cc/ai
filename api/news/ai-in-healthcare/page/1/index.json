@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
+      "title": "Georgia bill aims to restrict AI in healthcare",
+      "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor.md",
       "title": "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor",
       "excerpt": "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy.",
@@ -1325,49 +1368,6 @@
       "provider": {
         "name": "BioWorld",
         "domain": "bioworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
-      "title": "Is there AI discussion fatigue in healthcare?",
-      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-22T23:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FCC Ruling on AI-Generated Robocalls Reflects Focus on Artificial Intelligence"
-    excerpt: "The proliferation of artificial intelligence (AI) technologies is likely to have a profound impact on the telecommunications industry. Technology underlying the creation of deepfakes, which accurately mimic a person via digitally altered video, audio or ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/fcc-ruling-on-ai-generated-robocalls-4431532/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 48
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "U0hldDpDHA8FQb+jkPexHrjNbGMP/o38DF6gPF+uJIiZMiagpi6N9N3pR/Q2mLCxkb+PFwLiq/ICDe+qbnBDrJtcz8yoip6y51hq+Fe9/j56wCYZjGDRhiu5qm3z83vIk13nYq5kgT7NfpXGYV25k4cdMwuy2/VM/SLfpLNJ/JGwWeb/PwbAa/oSFMUbMXHxuksSDfBn9F1Qz+qyyFhR2KI4Q4GaGDWyGRx4sk/itg2xeG0BpgzKKy95cCpX2l8UFi3p9wtxevgn6swSu0LwOCBd5dmvVzIAgUCoL68IT4ugle25AGNjjlHKqUG8rTZAv6S1K76ItsYHTAaahAJgXCnGVLBd/Tlu5WyrjJcL9PnAqxl7h5gyZLCEExJfi6ZkBdHpodlvY99reor+blrPoxorGWUr1+29KpcyNrA62di464xxHHXCj/IpDxwwTf8xvXQrnMr9nj6wNYHis+UUantQPjKwS+CSpEYC5Kkb0z9yWLjbsWWKhk4md84h7qwQYtZDjwC1qA4OUrIZGbjwcA==;txH2mY63Ml1gIFzst0hlfw=="
 ---

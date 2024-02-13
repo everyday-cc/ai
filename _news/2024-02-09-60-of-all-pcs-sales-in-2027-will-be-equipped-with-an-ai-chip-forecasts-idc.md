@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-f
 webUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "60% of all PCs shipped to be AI computers by 2027"
-    excerpt: "Artificial intelligence (AI) computers — PCs with specific system-on-chip (SoC) capabilities designed to run generative AI tasks locally — are growing so quickly that by 2027, these PCs will represent nearly 60% of all computers shipped globally, according to new research from International Data Corp (IDC)."
-    publishedDateTime: 2024-02-08T13:49:00Z
-    webUrl: "https://electronics360.globalspec.com/article/20704/60-of-all-pcs-shipped-to-be-ai-computers-by-2027"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 19
 
 secured: "NmukcxPG99NahCjWs7cJCMK8mqwj980m0K8yuCIzl458hy2ScCZEtnpUC9H4YzGkwJfFdngFjldHLftm6zmB5qcBTxDqwlvp/FAJ/w/V4kP3Te4J+1jq/PFFouTzc5CY1jJadLiundAvwAcL//NOaGh6XkNwSFbni8UidzUOp955tcVkHckq8/WF//v4ItXFiIBdY9WQmTGjIoUt8V8ZUVCWK9qRWkwmlJZ3cBzYFEouIViNGq+mkeHbZ/toRYHar83jgboT9/cEGV3RtW2dpCSSZQIQEPM7kdEntdpHOHGeQkb57+CGgVTo/p13w0Kt7toR/hNgdOWwOX+h21eTEFMXWIUIG16nU5Ux2f67Tko=;2BToNXlvYeBDu3QiJF1+Tw=="
 ---

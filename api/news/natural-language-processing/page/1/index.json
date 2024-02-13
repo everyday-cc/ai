@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-leveraging-ai-a-global-growth-roadmap-for-smes-in-2024.md",
+      "title": "Leveraging AI: A Global Growth Roadmap For SMEs In 2024",
+      "excerpt": "As we move into 2024, it is time for SMEs to get back to business fundamentals and focus on cashflow, more money coming in than going out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca81b41b3e14dd8bde218b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-samsung-galaxy-buds-get-ai-powered-live-translate-and-interpretation-in-new-update.md",
       "title": "Samsung Galaxy Buds get AI-powered Live Translate and Interpretation in new update",
       "excerpt": "Samsung‘s latest update for Galaxy Buds users in India is a game-changer. It adds the Galaxy AI features to the Galaxy Buds 2 Pro, Galaxy Buds 2, and Galaxy Buds FE, paired with the Galaxy S24 series smartphones.",
@@ -54,45 +106,27 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech.md",
-      "title": "Is Generative AI Overshadowing The Proven Workhorses Of Modern Tech?",
-      "excerpt": "The rise of generative AI has indeed shifted the technological focus, overshadowing some of the core technologies that have been instrumental in our digital progress.",
+      "path": "_news/2024-02-07-webpt-wins-2024-best-in-klas-recognition.md",
+      "title": "WebPT Wins 2024 Best in KLAS Recognition",
+      "excerpt": "\"This accolade from KLAS Research validates WebPT's commitment to excellence and innovation as we aim to advance Practice Experience Management in outpatient therapy,\" said Ashley",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c9c8af2a997a698a8ac4b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/",
-      "publishedDateTime": "2024-02-12T07:30:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T14:02:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1371,59 +1405,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
-      "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
-      "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "originalUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "publishedDateTime": "2024-01-24T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

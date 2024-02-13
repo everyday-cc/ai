@@ -115,6 +115,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Altman urges collaborative regulation of artificial intelligence"
+    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
+    publishedDateTime: 2024-02-13T13:50:00Z
+    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
     excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
     publishedDateTime: 2024-02-13T09:35:00Z

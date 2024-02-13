@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Tech Industry Sheds 34,250 Jobs as Companies Embrace AI Innovation"
+    excerpt: "The rapid growth of AI is reshaping the landscape of the tech industry, ushering in unprecedented levels of innovation and efficiency."
+    publishedDateTime: 2024-02-13T12:28:00Z
+    webUrl: "https://www.coinspeaker.com/tech-industry-34250-jobs-ai/"
+    type: article
+    provider:
+      name: coinspeaker
+      domain: coinspeaker.com
+    quality: 19
 
 secured: "YG0A3xXfY7hW+sXe0FVKOI69FyrQxRZDK7K11guxwEPZ0MMrBua7bn7VNM2npokouAlD/MhwjteSUjc5eCStHUD0D4Pr/ppEM9c4Y6uZHL7IJ843oOI8XTR45LHXsw7tSHF5h3wOPrOKBJUIAseuaiMV/N6ZjwySoJFUoF1LlVnb3nu4adkj1x/c4enR0pCq3geAPXg/eUF0DnaD1vjGUI2lRVorGMA83GmGYB0dWSKp7ExN7cKiBI9c1j3/LvknFhkTeLO+udjDGxaRZxzJvmUgz8YNHpEnXrIyVvMCgBiR3vyBkjG+Ci4rGtN1phpbeeaCNf68iXHdRRjuFgXAJn4afPj7OrE/cZ7Jd0yYOHI=;h4lpKdlHVZZ4fqdMvMFLEw=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 4000
         height: 2662
         isCached: true
+  - title: "Nvidia CEO calls for “Sovereign AI” as his firm overtakes Amazon in market value"
+    excerpt: "On Monday, Nvidia CEO Jensen Huang said that every country should control its own AI infrastructure so it can protect its culture, Reuters reports. He called this concept \"Sovereign AI,\" which an Nvidia blog post defined as each country owning \"the production of their own intelligence.\""
+    publishedDateTime: 2024-02-13T16:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/nvidia-ceo-calls-for-sovereign-ai-as-his-firm-overtakes-amazon-in-market-value/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
     excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
     publishedDateTime: 2024-02-09T13:10:00Z
@@ -94,6 +108,15 @@ related:
     provider:
       name: Hindustan Times Tech
       domain: hindustantimes.com
+    quality: 19
+  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
+    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
     quality: 19
   - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
     excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."

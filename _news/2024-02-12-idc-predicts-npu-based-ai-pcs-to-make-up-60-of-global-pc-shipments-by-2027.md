@@ -53,15 +53,6 @@ related:
         width: 4608
         height: 3456
         isCached: true
-  - title: "60% of all PCs shipped to be AI computers by 2027"
-    excerpt: "Artificial intelligence (AI) computers — PCs with specific system-on-chip (SoC) capabilities designed to run generative AI tasks locally — are growing so quickly that by 2027, these PCs will represent nearly 60% of all computers shipped globally, according to new research from International Data Corp (IDC)."
-    publishedDateTime: 2024-02-08T13:49:00Z
-    webUrl: "https://electronics360.globalspec.com/article/20704/60-of-all-pcs-shipped-to-be-ai-computers-by-2027"
-    type: article
-    provider:
-      name: electronics360.globalspec
-      domain: globalspec.com
-    quality: 19
 
 secured: "SA5WKzoidYseL8rtg/vcOVZMKiO+29gXvnGwHHzqbCKgEFjwu2sJWdGdNNJQm/Y+XhdLEiTWYo6yUJuULLoMZ3tImAY5NMwGj3DeGYaNldVv60RhHFu+bMSnFVDAVSvo8BK9/Ws4pOsdkOM9BdACU3uDpkigr/EDbvCDAZ4sddy53yDuFhg91o9EYg0mVAd86SYj2zbzH9BG9gat8I0yB/XkRq5lQ3jZYaow0utg8LJ/SSzgfT/m7W+FvAxqd96Xm/TUMUi1OYosP/HmCS88YCRApxJ2FcDaywIvQrhAkK6izOux0qlEGKDz1IGyk0oh0wftWO8R15vY+0SPIyhleMaQyC03b8AjS79ybOvREe4=;+sks2eCKFCr/x+lKzb2r4A=="
 ---

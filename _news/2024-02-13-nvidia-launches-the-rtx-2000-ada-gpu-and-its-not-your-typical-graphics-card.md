@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’"
+    excerpt: "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card."
+    publishedDateTime: 2024-02-13T15:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Nvidia launches Ada Generation GPU with 19.9B transistors"
     excerpt: "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization."
     publishedDateTime: 2024-02-12T16:00:00Z
@@ -43,19 +57,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "RTX 2000 Ada GPU meets AI visualisation demands"
-    excerpt: "To meet the increased demand for generative AI in embedded and edge applications, Nvidia has released the RTX 2000 Ada Generation GPU. According to the"
-    publishedDateTime: 2024-02-12T16:11:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/rtx-2000-ada-gpu-meets-ai-visualisation-demands-2024-02/"
+  - title: "Hands On With Nvidia's Chat With RTX: Leverage Your GeForce Card for Local AI"
+    excerpt: "Got the yen to fashion your own personalized chatbot? Chat With RTX is an easy-to-use generative AI tool for your PC, using the GPU you may already own."
+    publishedDateTime: 2024-02-13T14:22:00Z
+    webUrl: "https://www.pcmag.com/news/hands-on-with-nvidias-chat-with-rtx-leverage-your-geforce-card-for-local"
     type: article
     provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
     images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/12154645/Nvdia-RTX-2000-Ada-Generation-GPU-cropped-scaled.jpg"
-        width: 2560
-        height: 2143
+      - url: "https://i.pcmag.com/imagery/articles/01i8ZFXPENHode1ttcvLH0k-1.fit_lim.size_1200x630.v1707777510.png"
+        width: 726
+        height: 408
         isCached: true
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
@@ -80,15 +94,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
-  - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
-    excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
-    publishedDateTime: 2024-02-12T18:03:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-launches-follow-up-gpu-to-rtx-a2000-for-workstations-edge-computers"
+  - title: "A new way to let AI chatbots converse all day without crashing"
+    excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
+    publishedDateTime: 2024-02-13T14:44:00Z
+    webUrl: "https://techxplore.com/news/2024-02-ai-chatbots-converse-day.html"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 14
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "hwFP1CXaM25hhExWB6QLUW6jtjnjeLg6DfjOIWeh5lP6Ow8RMQao3Z53zV5rqn4y+k4ZjdI1VeilXYnaBXhNHNp14cACFsELv6xMAt46o0k00EijfgnEQ7fce56/AGuHvSJzbwiDZUSzoWdJXenzspTbA4T8+FcGhsFIjEXNa4CZqVTtVZcb3usV4uQkR2efbKWEhiCADrdaUyspFTKCGiZxpifXPYBXfqrRe2o98LImanzJSRput8xcVHy7w5JMCQwR3W8lb1QYqTUcou3fYaWsSoRoWlMnH09pDWgwxW+MYJ3CLJSlZLigYyCQD+XW3wLGaeY0jiWIlfHCvzsKse6MgzCEGGQ9NB3ERauF9YFz+CbvLcn+bbtWjeGsQC7kW1L0XmCeJp3Xa/cTzmLtS1bUH69PZSHiNhJvkgo7+C0QkHLCjxC4baAPqqEuRCjfHS//8ZrHgCKHlTja9Ume7HTvh89/irRIdOynbNadp8d0r3M03CATixi+ZygMkoQq9ODT3av0W7c810WZy2BmWw==;OQhkN+EQfPXfIOgItGEFEg=="
 ---

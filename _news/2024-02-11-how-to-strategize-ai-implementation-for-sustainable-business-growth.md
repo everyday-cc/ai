@@ -46,6 +46,15 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Otter AI Knows What You Missed On Boring Business Calls"
+    excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2024/02/13/otter-ai-knows-what-you-missed-on-boring-business-calls/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Artificial intelligence is transforming business life"
     excerpt: "Interactive AI, including chatbots and intelligent assistants such as Siri, Cortana and Google Assistant, is widely adopted and frequently used by 41% of professionals. Popular examples of functional AI tools that include data analysis, cloud security, and breach prevention tools include IBM Watson, Salesforce Einstein, and Azure Machine Learning."
     publishedDateTime: 2024-02-12T08:00:00Z

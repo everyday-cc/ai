@@ -45,6 +45,34 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Eight CEOs Making Their Debut On The Fintech 50"
+    excerpt: "Their companies do everything from taking some of the drudge work out of accounting to helping Americans maximize their credit card rewards. Seven are founders."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/eight-ceos-making-their-debut-on-the-fintech-50/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caddf750700ab9ac25fb49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "The Future Of Wall Street And Enterprise: Fintech 50 2024"
+    excerpt: "Nine startups are on this year’s Fintech 50 Wall Street and Enterprise category, including longtime regulars Addepar and Trumid and four fraud prevention firms."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/hanktucker/2024/02/13/the-future-of-wall-street-and-enterprise-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49fc9a66d41bfb129e98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
     excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
     publishedDateTime: 2024-02-08T17:30:00Z
@@ -130,6 +158,24 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 4
+  - title: "Mass Fintech Hub Welcomes Four New Members"
+    excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
+    publishedDateTime: 2024-02-13T14:28:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61393216-mass-fintech-hub-welcomes-four-new-members-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+  - title: "Why free trials are so important for fintech product adoption?"
+    excerpt: "This is why the need for fintech companies to build trust from the outset is critical. One of the most susceptible sectors to user trust challenges is the Forex brokerage scene, where  scams and fraud are common."
+    publishedDateTime: 2024-02-13T13:59:00Z
+    webUrl: "https://www.finextra.com/blogposting/25683/why-free-trials-are-so-important-for-fintech-product-adoption"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
     excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
     publishedDateTime: 2024-02-11T04:43:00Z
@@ -149,6 +195,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "mctKrExJ/22aTPxgHCmmzMFofkTyM0Z1nxVplbNEfKjIdpPgYtpEaMHSzo1F7TfYX1MFGUFBXX93ujSPN6M98MndvKMHBOyrgPwLJOvgNt4sf2D2G+34pikY8q9WLdthz8NofkDKijV8qnFJ1R9tgpxoiAnCtdPRdinC7pBFtphUxziwbi1j0oaNZJFER2DE77gT45Zlflbftt7muoDvVblB3Pw8BXOARclamFo0bZsbG0ETpLwj42RKKBJAL5FwadS346/It5/CkZacl/DvHrOFpaCn22KDIbCjsHdCKrBdgvw+pgjDr053KKymRTirxs59ie4aNMGoM+r1kx6UjjeXzEyIYgPfmiB7Z6jB5+Q=;t05972dPWEEE/QUD2XE8nA=="
+secured: "6804DKpXNszkH3tvOrnWHKuVNOf7i4iLR8FT2R3ImwlueUObWo1syfhiVmT/qGt++UWGMx6+Z7FPXtrIiJyOFFuTqX3Iwr9Y/XWjivwOg5bK9hvOKYS3C0fk84+pRqF9B5TIuJYLuaACXT27tzaeeNalY2uoC9MFXnC/Eb421eHhnDWQek08P+RVFiuAUn+Afmhzj4BSOE/IVUPJ0hI8l3RgglfKdqjsUt4jBjh8gQLSBahLCQyTNBq++0kwiW+q0MUk5zK3nhfHr5bCsGmzhfQM157D/cCJWrPEsqbcGoYsFfPxsZMT8aSvBgQxl7fWadjbMzJ/kGUssCaGkOWnw5Bbm54C+005vAYBtfWFUFputJJrxrCf9llQufuuJx+6V3QCgDiDYn9hcQqEdNDFrmHRv0oEI9rsPiCMEy9oqnRUa96uve88LrjInocOSNuSPHHhbYz+6qgxR28r43GqytA+iM6YVSdjJY3kThCEYJ5IsraFr9aHhms6ZQIz+vifG8mvJGdz6IA1/TRUtDiS2Q==;1cXinTE3TEEq1hMsiL4AdA=="
 ---
 

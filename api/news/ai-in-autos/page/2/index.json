@@ -347,6 +347,50 @@
       ]
     },
     {
+      "path": "_news/2024-01-25-elon-musk-says-he-wants-more-power-over-tesla-but-not-so-much-that-he-cant-be-fired-if-he-goes-bonkers.md",
+      "title": "Elon Musk says he wants more power over Tesla - but not so much that he can't be fired if he goes 'bonkers'",
+      "excerpt": "but not so much control that he can't be removed as CEO if he loses his mind. The world's richest man recently sparked uproar by threatening to build AI and robotics products outside of Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-stock-voting-rights-earnings-call-rates-china-2024-1",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-stock-voting-rights-earnings-call-rates-china-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-25T11:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-artificial-intelligence-in-telecommunication-market-demonstrates-robust-growth-forecasted-to-reach-us-14496-million-by-2033.md",
       "title": "Artificial Intelligence in Telecommunication Market Demonstrates Robust Growth, Forecasted to Reach US$ 14,496 Million by 2033",
       "excerpt": "The global artificial intelligence in telecommunications market is anticipated to be valued at US$ 918.6 million in 2022 and US$ 10,399.9 million by 2032, with a CAGR of 27.5% from 2022 to 2032. The acceptance of artificial intelligence in telecommunications is growing as telecom organisations use AI in various aspects of their operations,",
@@ -650,17 +694,17 @@
     {
       "path": "_news/2024-01-23-investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it.md",
       "title": "Investing in Artificial Intelligence (AI) Stocks Can Be Risky, but Here's a Spectacular Way to Do It",
-      "excerpt": "Detailed price information for GX Autonomous & Electric Vehicles ETF (DRIV-Q) from The Globe and Mail including charting and trades.",
+      "excerpt": "Artificial intelligence (AI) was the dominant stock ... t just an internet and cloud computing company -- it's also home to Waymo, an early mover in self-driving technology. Apple might seem ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DRIV-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DRIV-Q/pressreleases/23536493/investing-in-artificial-intelligence-ai-stocks-can-be-risky-but-heres-a-spectacular-way-to-do-it/",
+      "webUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
+      "originalUrl": "https://www.fool.com/investing/2024/01/23/investing-in-ai-stocks-risky-but-heres-way-do-it/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/a69fe218102c1d2c24b67985259c5a54/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f762051%252fa-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg%26amp%3Bw%3D700",
+          "url": "https://g.foolcdn.com/editorial/images/762051/a-pot-plant-carved-in-the-shape-of-an-upward-trending-arrow.jpg",
           "width": 4000,
           "height": 2666,
           "title": null,
@@ -672,12 +716,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T09:30:00Z",
+      "publishedDateTime": "2024-01-23T10:31:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1233,59 +1286,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-elon-musk-is-uncomfortable-growing-tesla-to-be-a-leader-in-ai-and-robotics-without-this-1-key-development-happening.md",
-      "title": "Elon Musk Is \"Uncomfortable Growing Tesla to Be a Leader in AI and Robotics\" Without This 1 Key Development Happening",
-      "excerpt": "Elon Musk wants to obtain roughly 25% voting control of Tesla. If he doesn't get his way, he stated that he wants to build more AI and robotics products \"outside of Tesla.\" Musk made his demand to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "originalUrl": "https://www.fool.com/investing/2024/01/17/elon-musk-is-uncomfortable-growing-tesla-to-be-a-l/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/761471/tesla-service-center-with-two-associates-at-desk-with-tesla-logo.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T05:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

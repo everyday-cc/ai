@@ -22,7 +22,7 @@ related:
   - title: "Machine Learning Tackles Issue of Large Data Variations in Metabolomics"
     excerpt: "The method reduces differences, often seen between data from different sample sets, that have long hindered progress in the field."
     publishedDateTime: 2024-02-13T09:36:00Z
-    webUrl: "https://www.technologynetworks.com/proteomics/news/machine-learning-tackles-issue-of-large-data-variations-in-metabolomics-383708"
+    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-tackles-issue-of-large-data-variations-in-metabolomics-383708"
     type: article
     provider:
       name: technologynetworks

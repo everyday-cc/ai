@@ -60,6 +60,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kansas State vs. West Virginia February 26 Tickets & Start Time"
+    excerpt: "Kansas State Wildcats vs. West Virginia Mountaineers game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-13T16:19:00Z
+    webUrl: "https://www.kwch.com/sports/betting/2024/02/26/kansas-state-vs-west-virginia-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWCH
+      domain: kwch.com
+    quality: 22
+    images:
+      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/OFB3WN3UQNPU7DJMZJVNNELI5A.jpg?auth=ef6b384a05e1be14f428c37c9029799a872f32c067067638c4e68a164b831f40&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Lamar vs. McNeese February 26 Tickets & Start Time"
+    excerpt: "The Lamar Cardinals (13-11, 7-4 Southland) face the McNeese Cowboys (22-3, 11-1 Southland) in a matchup of Southland squads at 8:00 PM ET on Monday. The game will be available on ESPN+. If you're looking to attend this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-13T16:19:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/02/26/lamar-vs-mcneese-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/ZQUBC7Z6JFJQXGIRRY6465ZWZA.jpg?auth=a37b10d86f292dc406d692002ad52c53a85d6d4b3233905f96ed6003edd1f745&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Radford vs. Longwood February 24 Women's Basketball Tickets & Start Time"
     excerpt: "Radford Highlanders vs. Longwood Lancers women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-11T10:20:00Z

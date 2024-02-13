@@ -2,6 +2,402 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
+      "title": "How the Australian Government Sees AI Accelerating Productivity",
+      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
+      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
+      "title": "AI Will Boil The Oceans",
+      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "publishedDateTime": "2024-02-12T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign.md",
+      "title": "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign",
+      "excerpt": "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
+      "originalUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679",
+          "width": 1024,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
+      "publishedDateTime": "2024-02-12T15:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-non-disruptive-sap-erp-modernization-on-ibm-power.md",
+      "title": "Non-disruptive SAP ERP modernization on IBM Power",
+      "excerpt": "IBM® offers a choice of hybrid cloud options, and is the only IaaS provider offering SAP-certified instances on Power and Intel x86.\nThe post Non-disruptive SAP ERP modernization on IBM Power appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
+      "originalUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T14:42:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-microsoft-is-bringing-ai-super-resolution-upscaling-to-windows-11.md",
+      "title": "Microsoft is bringing AI Super Resolution upscaling to Windows 11",
+      "excerpt": "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
+      "originalUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T13:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.md",
+      "title": "AI frenzy puts Nvidia briefly ahead of Amazon in market value",
+      "excerpt": "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781",
+          "width": 4000,
+          "height": 2662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "publishedDateTime": "2024-02-12T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-google-to-spend-269-million-on-ai-training-in-europe.md",
+      "title": "Google to Spend $26.9 Million on AI Training in Europe",
+      "excerpt": "Google's philanthropy arm is setting aside millions of dollars for European nonprofits to train workers how to use AI. But it's unclear whether AI training will help save jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
+      "originalUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01J8NpOIf2aZCkNB8ZhzBnJ-1.fit_lim.size_1200x630.v1707739993.png",
+          "width": 1123,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
+      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
+      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1300,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
+      "publishedDateTime": "2024-02-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
       "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
       "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
@@ -62,7 +458,7 @@
       "originalUrl": "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -147,145 +543,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-telstra-scales-up-ai-adoption-following-genai-pilots.md",
-      "title": "Telstra scales up AI adoption following GenAI pilots",
-      "excerpt": "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
-      "originalUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/telcos-and-ai-channel/telstra-scales-up-ai-adoption-following-genai-pilots-49616/amp/",
-      "publishedDateTime": "2024-02-12T09:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech.md",
-      "title": "Is Generative AI Overshadowing The Proven Workhorses Of Modern Tech?",
-      "excerpt": "The rise of generative AI has indeed shifted the technological focus, overshadowing some of the core technologies that have been instrumental in our digital progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c9c8af2a997a698a8ac4b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/",
-      "publishedDateTime": "2024-02-12T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead.md",
-      "title": "Microsoft's AI growth is helping cloud business chip away at Amazon's lead",
-      "excerpt": "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/",
-      "originalUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1",
-      "publishedDateTime": "2024-02-12T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC DFW",
-        "domain": "nbcdfw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-12-how-luxury-brands-are-leveraging-blockchain-and-ai-for-business-impact.md",
       "title": "How Luxury Brands Are Leveraging Blockchain and AI For Business Impact",
       "excerpt": "When it comes to blockchain, luxury brands from watches to jewelry and leather goods are doubling down on utility, leveraging the technology to bring real impact to",
@@ -335,49 +592,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-microsoft-to-build-new-data-centre-in-centurion.md",
-      "title": "Microsoft to build new data centre in Centurion",
-      "excerpt": "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/",
-      "originalUrl": "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/",
-      "cdnAmpWebUrl": "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/",
-      "publishedDateTime": "2024-02-12T05:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Citizen",
-        "domain": "citizen.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -483,7 +697,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -587,7 +801,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -745,7 +959,7 @@
       "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -849,7 +1063,7 @@
       "originalUrl": "https://venturebeat.com/ai/year-of-the-dragon-we-have-entered-the-ai-age/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1029,204 +1243,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-how-walmart-delta-chevron-and-starbucks-are-using-ai-to-monitor-employee-messages.md",
-      "title": "How Walmart, Delta, Chevron and Starbucks are using AI to monitor employee messages",
-      "excerpt": "Aware uses AI to analyze companies' employee messages across Slack, Microsoft Teams, Zoom and other communications services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107233563-1682968497653-gettyimages-969435802-ai7i8668.jpeg?v=1682968530",
-          "width": 6019,
-          "height": 4013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
-      "publishedDateTime": "2024-02-10T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-end-of-life-the-one-decision-ai-cannot-predict.md",
-      "title": "End-Of-Life: The One Decision AI Cannot Predict",
-      "excerpt": "An experienced weaver of health, technology, ethics and spirituality ... Predictive algorithms need data to base their prediction on, and in medicine, AI models are often trained on a large comprehensive dataset with relevant fields of information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be62c3f49f05c2d210397e/0x0.jpg?format=jpg&crop=1993,1120,x0,y755,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
-      "publishedDateTime": "2024-02-10T14:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future.md",
-      "title": "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future",
-      "excerpt": "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c6ee29df74c4afe8eaae79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/",
-      "publishedDateTime": "2024-02-10T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-tesla-was-once-about-climate-change-driverless-cars-ai-now-what.md",
-      "title": "Tesla Was Once About Climate Change, Driverless Cars, AI. Now What?",
-      "excerpt": "Elon Musk’s changing personal priorities raise questions about where the automaker is heading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
-      "originalUrl": "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

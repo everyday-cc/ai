@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -227,58 +227,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/",
       "publishedDateTime": "2024-02-09T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-there-are-no-limits-when-generative-ai-is-accessible-to-all.md",
-      "title": "There Are No Limits When Generative AI Is Accessible To All",
-      "excerpt": "These instances are just the tip of the iceberg, showcasing how AI’s integration into common services is subtly yet significantly transforming our digital experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c543c15254373c34936c6f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/09/there-are-no-limits-when-generative-ai-is-accessible-to-all/amp/",
-      "publishedDateTime": "2024-02-09T12:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1392,6 +1340,49 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-21-ai-contactless-technologies-will-affect-banking-palmpay-ceo.md",
+      "title": "AI, contactless technologies will affect banking – PalmPay CEO",
+      "excerpt": "Managing Director of PalmPay, Mr Chika Nwosu, speaks on the challenges facing the fintech industry, the importance of fostering financial inclusion",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
+      "originalUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2024/01/20215253/Mr-Chika-Nwosu.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/ai-contactless-technologies-will-affect-banking-palmpay-ceo/?amp",
+      "publishedDateTime": "2024-01-21T02:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
         "images": null,
         "publishers": null,
         "authors": null

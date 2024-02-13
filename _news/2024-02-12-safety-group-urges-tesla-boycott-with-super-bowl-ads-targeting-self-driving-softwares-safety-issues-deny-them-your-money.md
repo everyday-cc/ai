@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
+    excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.thenews.com.pk/latest/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    ampWebUrl: "https://www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
+    type: article
+    provider:
+      name: The News International
+      domain: thenews.com.pk
+    quality: 56
+    images:
+      - url: "https://www.thenews.com.pk/assets/uploads/updates/2024-02-12/l_1156988_084110_updates.jpg"
+        width: 700
+        height: 390
+        isCached: true
   - title: "Apple Engineer Sentenced to 6 Months in Prison for Stealing Company's Self-Driving Car Tech"
     excerpt: "A former engineer at Apple will serve time in prison after pleading guilty to stealing trade secrets related to the company’s self-driving car technology, also known as Project Titan. Xiaolang Zhang was first charged by the FBI in 2018. He had been ..."
     publishedDateTime: 2024-02-08T23:59:00Z

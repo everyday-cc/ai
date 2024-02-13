@@ -2,6 +2,335 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
+      "title": "Georgia bill aims to restrict AI in healthcare",
+      "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-a-new-gpu-and-now-a-new-ai-chatbot-nvidia-is-on-a-roll-launches-chat-with-rtx.md",
+      "title": "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’",
+      "excerpt": "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026.md",
+      "title": "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026",
+      "excerpt": "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
+      "publishedDateTime": "2024-02-13T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-pixel-is-now-the-official-mobile-phone-of-the-national-womens-soccer-league.md",
+      "title": "Pixel is now the Official Mobile Phone of the National Women’s Soccer League",
+      "excerpt": "Google Pixel and National Women’s Soccer League announce a multi-year partnership, with Pixel becoming the league’s official mobile phone.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
+      "originalUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NWSL_Pixel_Hero.width-1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
+      "publishedDateTime": "2024-02-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-generative-ai-use-cases-for-the-enterprise.md",
+      "title": "Generative AI use cases for the enterprise",
+      "excerpt": "In this post, we demystify generative AI to help businesses harness the value of gen AI through use-case-driven approaches.\nThe post Generative AI use cases for the enterprise appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-leveraging-ai-a-global-growth-roadmap-for-smes-in-2024.md",
+      "title": "Leveraging AI: A Global Growth Roadmap For SMEs In 2024",
+      "excerpt": "As we move into 2024, it is time for SMEs to get back to business fundamentals and focus on cashflow, more money coming in than going out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca81b41b3e14dd8bde218b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-rise-of-ai-enhanced-learning-education-for-the-digital-age.md",
+      "title": "The Rise Of AI-Enhanced Learning: Education For The Digital Age",
+      "excerpt": "AI significantly enhances students' educational experiences by offering unprecedented, personalized support and innovative features. Here’s how.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/the-rise-of-ai-enhanced-learning-education-for-the-digital-age/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/the-rise-of-ai-enhanced-learning-education-for-the-digital-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-4-strategic-sourcing-use-cases-to-strengthen-your-supply-chain.md",
       "title": "4 strategic sourcing use cases to strengthen your supply chain",
       "excerpt": "Strength and resilience across the entire value chain is no longer a nice-to-have—it’s a survival tactic for sourcing teams.\nThe post 4 strategic sourcing use cases to strengthen your supply chain appeared first on IBM Blog.\n",
@@ -207,7 +536,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -259,7 +588,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -451,7 +780,7 @@
       "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -536,6 +865,48 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-senate-committee-discusses-bill-that-deals-with-artificial-intelligence-in-campaign-commercials.md",
+      "title": "Senate committee discusses bill that deals with artificial intelligence in campaign commercials",
+      "excerpt": "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "originalUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WCNC/images/ff68ac18-3d57-4685-ba45-9c8184e839e0/ff68ac18-3d57-4685-ba45-9c8184e839e0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "publishedDateTime": "2024-02-12T21:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTHR",
+        "domain": "wthr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -820,401 +1191,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
-      "title": "How the Australian Government Sees AI Accelerating Productivity",
-      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-nvidia-launches-ada-generation-gpu-with-199b-transistors.md",
-      "title": "Nvidia launches Ada Generation GPU with 19.9B transistors",
-      "excerpt": "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
-      "title": "AI Will Boil The Oceans",
-      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "publishedDateTime": "2024-02-12T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign.md",
-      "title": "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign",
-      "excerpt": "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
-      "originalUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
-      "publishedDateTime": "2024-02-12T15:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-non-disruptive-sap-erp-modernization-on-ibm-power.md",
-      "title": "Non-disruptive SAP ERP modernization on IBM Power",
-      "excerpt": "IBM® offers a choice of hybrid cloud options, and is the only IaaS provider offering SAP-certified instances on Power and Intel x86.\nThe post Non-disruptive SAP ERP modernization on IBM Power appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
-      "originalUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T14:42:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.md",
-      "title": "AI frenzy puts Nvidia briefly ahead of Amazon in market value",
-      "excerpt": "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781",
-          "width": 4000,
-          "height": 2662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "publishedDateTime": "2024-02-12T13:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-google-to-spend-269-million-on-ai-training-in-europe.md",
-      "title": "Google to Spend $26.9 Million on AI Training in Europe",
-      "excerpt": "Google's philanthropy arm is setting aside millions of dollars for European nonprofits to train workers how to use AI. But it's unclear whether AI training will help save jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
-      "originalUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01J8NpOIf2aZCkNB8ZhzBnJ-1.fit_lim.size_1200x630.v1707739993.png",
-          "width": 1123,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
-      "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
-      "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1300,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
