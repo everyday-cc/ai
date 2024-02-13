@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
+    publishedDateTime: 2024-02-13T09:54:00Z
+    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "NUGaHIk/+wrxlkdeN42sNwEhzsGkyTM13Am3gG4l1hS5472J4Mx5ZxSv9nYbOtXiYAnQqdz5GRMeF+v6+xXPcz3jWxmJClmImBQU76piFa9Fe9ueuz7fMSCmO/1uaxE2Yo0DTtiU85MRHcIG3t3e52X908yP6OfamPnaYEogl+MRcp1em50ZJBVgGCngBSmprasycmqEWWuTapPUHOpft4mLUOrm8lcBpE1Y7yURzG2wd42KwGRnQwacdYTizVkfYUO6j4aPZV5WHMh76DDNEl3LJSBkCSStMaIfepgVbFLQ4InMWgBKET0ALfArzTmXKLtSSMF01WWSZg8t7VQ0ytSP0fyUWfXfSJGtbJzFKbymTcK6qYY7y6398dFlsc5r0Axp1lDhEVioplHAYdYdvrzNrUzufbnRJN9rO9PJN5mVxbs78Sm1JXzKx+NFM114LgsS2Hy0Za0zOl0p/y89fAGzmVMpvR87Wd2AePfUpSCkloGO2ByCNIrTCahGMLJJ3oXXtlqBJZFAxdQZ0/goWw==;oQVpM4iIFB+gQnvc+TRKaQ=="
 ---

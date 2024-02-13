@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tougher AI Policies Could Protect Taylor Swift—And Everyone Else—From Deepfakes"
-    excerpt: "Taylor Swift became the latest high-profile target of nonconsensual deepfake images. It’s time for regulations that ban this kind of abusive AI content, cyberadvocates say"
-    publishedDateTime: 2024-02-08T18:30:00Z
-    webUrl: "https://www.scientificamerican.com/article/tougher-ai-policies-could-protect-taylor-swift-and-everyone-else-from-deepfakes/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 33
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/5E299D64-DCB0-418E-9FD805130B44B229_source.jpg?w=1200"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "Don’t count on watermarking to prevent artificial intelligence deepfake election chaos"
     excerpt: "Tagging artificial intelligence-generated images with invisible markers may not be the airtight solution the federal government wants."
     publishedDateTime: 2024-02-12T08:00:00Z

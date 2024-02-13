@@ -69,20 +69,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Tax Preparers Start Using AI to Help You File Your Returns"
-    excerpt: "Help Register Login Login Games Car rental AARP daily Crossword Puzzle Hotels with AARP discounts About 55 percent of people ages 50 to 64 and 59 percent of those 65 and older paid a tax preparer to file their most recent federal return,"
-    publishedDateTime: 2024-02-08T18:58:00Z
-    webUrl: "https://www.aarp.org/money/taxes/info-2024/tax-return-ai.html"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 37
-    images:
-      - url: "https://cdn.aarp.net/content/dam/aarp/money/taxes/2024/02/1140-ai-doing-taxes-dollars.png"
-        width: 1140
-        height: 655
-        isCached: true
 
 secured: "bd2S+vgN5/K6t+rr6iROVCStJ0XExKMiWPc81U2zMh2XRDzFTBrD+FpF6mHbG7zJr3kMakFgP+S5u0DwszyW0b+edcg+uslToqokOa/eMWF1k0x5WE7jSZp4FBihAg3k+oBm/Z4BDE451kbuv4AdNsgIPK9gP39WNOehFdAB1y2a0ZfSfpkfDy8NdXScLyZJiFxfOR7B5AbtOViRpZbdW22erckp8rbBzdUJAywmxCm/MSA9RtjvDEvUw7iHdSn8z9W9HXZOvKYAdTKOxHE9OZySkN9im4YdWRIELwu5JaJTDR//Du4c3b6l8Y4GT4pvS/Ief6RsJ8zz65qBlzgKqyjue9Y7r6nLguGwjFnwXf9JMO8J+GRNQcnLmsi4FZEH3tteKwxoQaEMB5nFNUt2h9e31n26AanuoyNlCsl793K74i9UuWTXNlfrmG1+tBvSlkL31LpTuxLL7NvKWGZ6GvNo/zmjemlZfK6JHCK8i2/miswkn25O5HnrIFM14jmnbGHM+qTXXK72+EUHvi2PIA==;IwaWaLoI8LDkSIHbnnxx5A=="
 ---

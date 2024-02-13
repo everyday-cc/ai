@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.bthaber.com/wp-content/uploads/2024/02/denizcakirgilsezen.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "Tax Preparers Start Using AI to Help You File Your Returns"
-    excerpt: "Help Register Login Login Games Car rental AARP daily Crossword Puzzle Hotels with AARP discounts About 55 percent of people ages 50 to 64 and 59 percent of those 65 and older paid a tax preparer to file their most recent federal return,"
-    publishedDateTime: 2024-02-08T18:58:00Z
-    webUrl: "https://www.aarp.org/money/taxes/info-2024/tax-return-ai.html"
-    type: article
-    provider:
-      name: AARP
-      domain: aarp.org
-    quality: 37
-    images:
-      - url: "https://cdn.aarp.net/content/dam/aarp/money/taxes/2024/02/1140-ai-doing-taxes-dollars.png"
-        width: 1140
-        height: 655
         isCached: true
 
 secured: "Z3qadBynCSz2lFPj+g9jLLZH3Is7b/SEfyyCEbsy4za/sZy+780LziC6kjen3QfI/4Goas01MSh9aJlgLPdd5IWRzRxlMxOs8hpn9r4/tXRyCyJLz2JjUbXIvK7yA4BPB7rpza85xe0LFBqPOI0nceNjkF5J2KUCB1W1j9vRWVfEGOW/OrrhfUs6tGSBgQZXxGejsBB9qD8iotPELWFsVRXkH1Mv5QRha9F7SRXz3QJuM54baDMzrpjb+nK/q+hLJQeYmKHYKH+/oE+4lUiUx5hVCKSJS7Gdemz1/DMW5+QviFRD1g8VWPa8ZLYhXERSGXSViuuuG5miG+1gOp1VOjUXLF2yK2PMg7YKXJUjA2U=;6LBvRbxinXqlUZyD42CjLw=="

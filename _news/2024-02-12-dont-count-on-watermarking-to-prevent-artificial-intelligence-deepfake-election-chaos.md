@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tougher AI Policies Could Protect Taylor Swift—And Everyone Else—From Deepfakes"
-    excerpt: "Taylor Swift became the latest high-profile target of nonconsensual deepfake images. It’s time for regulations that ban this kind of abusive AI content, cyberadvocates say"
-    publishedDateTime: 2024-02-08T18:30:00Z
-    webUrl: "https://www.scientificamerican.com/article/tougher-ai-policies-could-protect-taylor-swift-and-everyone-else-from-deepfakes/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 33
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/5E299D64-DCB0-418E-9FD805130B44B229_source.jpg?w=1200"
-        width: 1200
-        height: 770
-        isCached: true
 
 secured: "PvF9P+DLqtqWmDrd51jlDk0c7mHQche0WzzHt5j+4Hn0S8SRsbFhXcLnZpjrCaSoprOURlncKNHPp8mA6yVwk4fgNWAr7ftDjeWc+CtnUgYk2DVjPGRmC+mUMZwRe3yAgcCtT/F277Sj3gaOdAgucD53FelqlHr16blkbiE5lsmBKXTW4MgU9VTgOiHbKJimBMueuk5xGF/gBIZWnakLbvPKPn7m7ln8KhcG1A9yhEPNB/zjsla1dBc7zWOYpMwSd7vqEieM12z4KK8O8/U7tD8wYyHV9Z8v03zASArUNkZ4iYSgDU0/Pp/6UnxQIxTa0Lfx0SFMsaqoW1vSch2kvI5ND6B/MD+Ku4aPCaiiQFQKHpIoLflgacfxLDefKZplrarkcdiY/UIKJvGCTHdkGvKTYULCz8VFn0zCHposjqRIsKH9t41RYkxx/SB0xHYFsJVoENlJ1Adnsl6m5XLjYh/x8iDVJCTkYAvVf4GoxfXspDbN70eocofm4YsxiUfod59LsWGHecZNfBQU+QybfQ==;fvlwVabfJheWdJ7AkfXsLA=="
 ---

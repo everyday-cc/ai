@@ -77,20 +77,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
-    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
-    publishedDateTime: 2024-02-08T17:30:00Z
-    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
-        width: 445
-        height: 250
-        isCached: true
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
     publishedDateTime: 2024-02-12T10:32:00Z
@@ -188,6 +174,15 @@ related:
     provider:
       name: Business Line
       domain: thehindubusinessline.com
+    quality: 3
+  - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
+    excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
+    publishedDateTime: 2024-02-13T18:27:00Z
+    webUrl: "https://www.finextra.com/blogposting/25680/use-next-gen-fintech-to-encrypt-your-digital-payments-instead-of-the-otp"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
     quality: 3
 
 secured: "QpJYWLX7WQSVyVLFTWaepRSrwMEMKQQHa9FUsMP4t04THLRMnsC7K0E6FR/UaYtPD05K05Tw9agZ0BlqsW5NzuuWVo8JlA44IEQwxTcs1TYB+jk+it4IWWMQy7QJCvKLlROO8lSUR0CaoyfE7n74p0KjKmlorUAHk3QSzBq8tHzcVIwjYiAIyqbejS/J2ZDA85LqebRZ4EUEgNoby08cB+f+H4DQJsQYqGEmmz9dhA2oTwMOIwzmo90Uhz4XQsYBc8c8V4gVlYUmRAwXWOthbPgz4eEAYMLzxuYDKALxK6DJM6thC8ts5GuuHyk+s27ELJtLgSBEbSHieUpjFRr+RRvOZdrogKks1qxn+iu/qnQ=;GFY9x4lSpgiiYwBacdCtcQ=="

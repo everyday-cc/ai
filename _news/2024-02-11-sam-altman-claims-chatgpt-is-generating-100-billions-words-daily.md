@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
+    excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
+    publishedDateTime: 2024-02-13T18:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
 
 secured: "cgT/aXhm8zHJEjdpJdeLz9oh4yW1WYx5mwwPhBm0OP/DqTYEDCKPWbogCzDVNvAAkaq0zQnOV1jPsKS9l9aS/baZPqIF07UmGZmH67nOAZAlrleaR5qz2+coLOaNvzfAeaoj+hwgJhzXRL5e1rXENE4GDcsLZD/EC/nEv8NA+DJQ+7bOq92LfH/z6/W78dIw7FnrF8uNd0wsqry1DWVX2BewaT0pI7hu2gVvOCTdUdTexAUjVyTLvee6vquxiFQseNNMjRmFVKz3X+p0mJRFtmiIDx0FLiZMjSIqGg1Th9nRo6JFe95tK3Zp/5zCn/63/m3NPjTJV6WvxV+D3A+zJgCfmnbC2WOGzfP7tnrlWZQ=;E1DSSjFO7dEpap5dnGLT9A=="
 ---

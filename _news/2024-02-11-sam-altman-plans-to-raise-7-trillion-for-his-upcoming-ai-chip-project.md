@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
+    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Sam Altman Seeks $7 Trillion to Supercharge Chip Production"
     excerpt: "OpenAI Chief Sam Altman is reportedly seeking to raise trillions of dollars to address the massive global shortage in semiconductor chips. The ongoing"
     publishedDateTime: 2024-02-12T14:55:00Z

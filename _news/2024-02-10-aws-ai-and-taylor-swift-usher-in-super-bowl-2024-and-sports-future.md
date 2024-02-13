@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-ta
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "John Oliver Reacts to ‘Upsetting’ AI Pics of Him and Taylor Swift"
+    excerpt: "Taylor Swift and Travis Kelce may be America’s reigning sweethearts, but the newly minted Super Bowl champion may have met his match in a most unlikely figure: John Oliver. Oliver was the lead guest on Stephen Colbert’s The Late Show on Monday night,"
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://www.thedailybeast.com/john-oliver-reacts-to-upsetting-ai-pics-of-him-and-taylor-swift"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_116/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1707842463/2843244_0107_kqfwlh"
+        width: 1480
+        height: 833
+        isCached: true
   - title: "Taylor Swift, deep fakes, free speech and the push in Tennessee to regulate AI"
     excerpt: "After a series of explicit AI-generated images of Taylor Swift went viral online, Tennessee lawmakers are proposing tougher restrictions on AI."
     publishedDateTime: 2024-02-12T10:03:00Z

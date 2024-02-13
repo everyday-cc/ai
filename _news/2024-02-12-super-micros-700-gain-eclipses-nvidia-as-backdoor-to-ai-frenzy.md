@@ -48,6 +48,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
+    excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
+    publishedDateTime: 2024-02-13T17:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-amd-broadcom-among-biggest-beneficiaries-of-ai-explosion-to-400b-market-analysts-1033062540"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Hands-In-Gloves-Hold-Chip-Testing-Microe_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
     excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
     publishedDateTime: 2024-02-09T13:10:00Z

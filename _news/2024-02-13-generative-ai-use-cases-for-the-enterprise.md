@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 webUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 type: article
 quality: 99
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Zylon launches to take away the pain of generative AI adoption for SMBs"
+    excerpt: "Zylon was co-founded in 2023 by Iván Martínez Toro and Daniel Gallego Vico, previously the co-creators of PrivateGPT, an open-source project."
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/L-xcfvsGJRKjYia9jok7tvtRMEfzTKtB_uvWYWdeZvBsLrEZsS0iodQq4WIZzF8_BmaN0yXqSfb2WfVBLzcy_y6jt72Y4Umv70HAKQIJr8SpfF9k1aCq7tw0RjIEuCoul961hb6czUBeq8iGxbUYwTU.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Otter.ai adds transcription archiving and recall across the enterprise"
     excerpt: "A transcription and notetaking service that can save, archive, and recall all meetings, including in-person meetings, phone conversations, and video calls, is a huge step forward in a marketplace dominated by large companies with AI tools that can transcribe one meeting at a time, with no way to connect them, Liang said."
     publishedDateTime: 2024-02-13T07:33:00Z
@@ -159,6 +173,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "What You Can Learn From These 2 Generative AI Startups"
+    excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
+    publishedDateTime: 2024-02-13T14:38:00Z
+    webUrl: "https://www.inc.com/peter-cohan/what-you-can-learn-from-these-two-generative-ai-startups.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1169108667_537270_rilaf0.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How generative AI is a game-changer for communications in today’s workplace"
     excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."
     publishedDateTime: 2024-02-12T17:21:00Z
@@ -183,6 +211,6 @@ related:
       domain: dbta.com
     quality: 0
 
-secured: "Yc6hIz1N57UypCIz9My2/XnFFY0HDovVofwINiiDhyfcSgB/tH/tkBmICjxXl7Y2DVJp+YEQ32qwb0gQ0GnBAaY+Q9Wp4akziNagA0tAZmpGxcY6vak47/UCEmYZJtX7cqK/ITFgz8cfTIU7tfGoPSOQVnqB9dv+lGCfvwJUbkrf31P0bQ96t+Ch1n16ckk+2SblVb/Pvo5YPBRSTNXRZbzWrIzq94yDsXecY4NxSNZZMByuMQ7g8+H4B8LmS3prKegj9GuBlFjUzuzhRcYC5fNeQJnVvN7vEjuDtINo1jEzQoI4i8253CfAjJgGrscR1cQ3gUn1wy7F5QIseJmmeBHoCwAXWkui5f+Cme2X9wk=;H9g+MuDISpxg08qOEQNPGA=="
+secured: "v82dv4dq928lRnRl8Er6qRQSNO67YgnsEOQFXsOIH/le5zNHUHEN8zPwqn5Wy1UjwiQ6qDKhtuZabj26CctAYwkcSu1rW+bgzlGpa8klB/sOKXbrhCsZiJ/fguGMSg+l98UlyO44j+HDNmK9d6K8w0VPwM4tSwP94rdlM6BUfbXQ5dpBEurrp+vXqEef4rWp8agj+PIlrFghaTIwQBEJuyMml25v8EPSHjLvCAZd3JJ64w0kAF71nn/fUv2Vvymbao7R6G7nwLIHCmg0kFwCEXib7vuZvF+a39G87uAj9kwlO+77NVoCWQQNflzeGTC7i30kQ6VU8CS2GUih/DJiL8e+kF7VHMr4VETtw9fjGU8=;sabFM2ekmZfNFq53Q8GdWA=="
 ---
 

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
+excerpt: "Evergreen, Colo. - Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
+publishedDateTime: 2024-02-13T16:15:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/2024/02/13/tesla-worker-killed-in-fiery-crash-may-be-first-full-self-driving-fatality/72583572007/"
+webUrl: "https://www.detroitnews.com/story/business/autos/2024/02/13/tesla-worker-killed-in-fiery-crash-may-be-first-full-self-driving-fatality/72583572007/"
+type: article
+quality: 16
+heat: -1
+published: false
+
+provider:
+  name: Detroit News
+  domain: detroitnews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
+    excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
+    publishedDateTime: 2024-02-13T17:14:00Z
+    webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 62
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
+    excerpt: "Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
+    publishedDateTime: 2024-02-13T10:55:00Z
+    webUrl: "https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 36
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHOS2X2YYTD6U3FRX2JIFMYQQ.jpg&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "TOKm0cbW/3mItQOSq4lkCPrDuzZPh+8Is7wH/jfdVw/cv5L1exIYHM4M1+eqp4nsIleBA/2d+nU73r3Y4ydJmlF+IwUgaIrz/V1fWGLRKcri/yinwxv4wDxpBtd0WV53KldX3Kb7dSWnMnEXyOl1QPk1OA+MHneYlSnCqZbQPQ2kDvXY69OphRSCFHRPaaDQw5ZvBg0Oc8MXbg1dtRE38HQE5hcg2bWJ+etS52fGehPePL/zkbuotEz5N9eGTtKq941F6EqN6VoIVxIYPxyBE+QvFIbAiQvWKP6UC8AyPBPZYcjTDQEZrCvmRMMODhrrEf2AynrzsV7Iq6QlmOyqM9z+kRgIAgYkE+LNVN+EC6Q=;wOHrHfchn/1KCVkos5tmqw=="
+---
+

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-an
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-and-mental-health/202402/wellness-is-not-healthcare?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1528
     height: 800
     isCached: true
+
+related:
+  - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
+    excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
+    publishedDateTime: 2024-02-13T17:18:00Z
+    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-enhancing-healthcare-a-promising-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 50
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "SxdeXmtJqtYlG36LMuKNg68s6t9kYhWKV8ZNmIZ7qEdmtIzvH1Uu8shLUspuq8pV1jCkr1+x/wHDIGZkcRtKpbltso2M8iiD4cLFhqOOq5c9ANVqjoGHzEq1paL7IOpH8mKWjBZwuv2OxBRRgV7ZC87ftcsAUL29uvZgRkaa05BGmpi98rBFeVromuq73UKX+UwJMtZzdTuWQu3g4WzUnvApF5ETdGGVT055z2INxo7sU23VGERJ2QHrbdXVZY4qQR6YK3yLUeo+g34EP9zR82GWLg1WunWGYvPE+XGNx8FFrqte14eOQzvkP+RSzHUhLKb4AjJ3yJLI141/2OZfYR7e2NuiLaIIsfp6xZ04H8U=;HezZ5ktIYVWOFFHtm/9rTw=="
 ---

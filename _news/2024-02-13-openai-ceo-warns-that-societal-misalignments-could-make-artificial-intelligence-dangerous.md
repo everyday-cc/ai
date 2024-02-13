@@ -1,48 +1,32 @@
 ---
 category: news
-title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-publishedDateTime: 2024-02-12T16:31:00Z
-originalUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-ampWebUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
-cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/amp/"
+title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
+excerpt: "And I’m not that interested in the killer robots walking on the street direction of ... OpenAI, a San Francisco-based artificial intelligence startup, is one of the leaders in the field. Microsoft has invested some $1 billion in OpenAI."
+publishedDateTime: 2024-02-13T00:44:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
 type: article
 quality: 64
 heat: -1
 published: false
 
 provider:
-  name: WGN Radio
-  domain: wgnradio.com
+  name: ABC News
+  domain: abcnews.go.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2024/02/65cb85398fdd50.75559590.jpeg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://s.abcnews.com/images/International/wirestory_9593a03830c0ef83fdef76c68bb87118_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-13T10:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 77
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
     excerpt: "Sam Altman said the dangers that keep him awake at night regarding artificial intelligence are the \"very subtle societal misalignments\" that could make the systems wreak havoc OpenAI's chief executive officer, Sam Altman, has warned of the potential ..."
     publishedDateTime: 2024-02-13T12:17:00Z
@@ -70,16 +54,16 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
-  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
-    publishedDateTime: 2024-02-13T09:54:00Z
-    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
+  - title: "OpenAI reportedly seeking trillions for AI chip development"
+    excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
+    publishedDateTime: 2024-02-09T09:27:00Z
+    webUrl: "https://cointelegraph.com/news/openai-seeking-trillions-ai-chip-development"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 34
 
-secured: "tskdgqknXCnGj/pcUFHEb0WH4E04e1H1Ogj+Gk8EpJms1RMavlr9PQFDna5QNh+Z9uk2LDteycrAUHP2VQHtL/Ucjm4KBGxegZeH04e1blcGWF0RJiUvcAKwZNidQ6vPA5cwf202Yx6yzbmEfpXNb3k2UJXh1JdwxkMS3qTzLdhs8CQrhZisgf/pVY33nlAnXvVygj+etpItXGXI0C4Qyk8sDMKu+wJgMQH5ryoeAf+b3pwfnsgF83FzXAATzoGGOuH7hjlQH5RwYa3aKBAsImdxqd4u1OsItGRR0PH7lEGDM8ntgygF2GGJe5Sae7zXNhZz6/IXXx8gPpyCGqfnv+YUG8LlNSKm0PcEjUO17mA=;Ym9Ig0UGeKTtRgxQTzZHVg=="
+secured: "fqwI1Jphbpvbv6Ku0xpDrjwRuoROlFqHhO70NQQkZwpcs3MBHFaFP8ow6kOcTTysrKe4i58vs+8kYu5Qw5zNNwoCQuUrtq14f9KPkGZPf/StWxaNF83hbgjCP0gJbErhUlHPUldZQkDmh5lhT0PM9VyU/g3gOFSGGztMQ/cD5cV1+3VrR8rEhAYoMQkFB5+WcX21XOlX8rvR48+Ch3m33QlWaYqOGsqonxTR3i4eVvu7BndPlyFqGZccI4+KmdACv1VVKWcQy2B4O1COK09hcxF9KG2oVbYaZLxPeS2iyyRaiLg1xREEa7m2i3jskse+o+PyhnT/+7awsnEoCp5f3mUAM3pmcznUj9vCmrKXrxc=;kT8vWUj0el5lbQRemgdWKQ=="
 ---
 

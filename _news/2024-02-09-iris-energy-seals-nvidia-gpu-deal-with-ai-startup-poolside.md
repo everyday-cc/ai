@@ -55,6 +55,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
+    excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
+    publishedDateTime: 2024-02-13T17:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-amd-broadcom-among-biggest-beneficiaries-of-ai-explosion-to-400b-market-analysts-1033062540"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Hands-In-Gloves-Hold-Chip-Testing-Microe_0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Nvidia's tailor mad chip gamble"
     excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
     publishedDateTime: 2024-02-12T10:35:00Z

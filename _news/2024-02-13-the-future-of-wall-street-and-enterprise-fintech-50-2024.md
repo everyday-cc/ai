@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Eltropy Doubles Down On Fintech Integrations And Generative AI Innovation In 2024"
-    excerpt: "Digital conversations platform leader surpasses 40 partnerships w/ fintech leaders to elevate AI-powered member engagement for credit unions & community banks While we've been very selective, we have built a strong ecosystem of industry-leading and diverse ..."
-    publishedDateTime: 2024-02-08T17:30:00Z
-    webUrl: "https://menafn.com/1107830544/Eltropy-Doubles-Down-On-Fintech-Integrations-And-Generative-AI-Innovation-In-2024"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229"
-        width: 445
-        height: 250
-        isCached: true
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
     publishedDateTime: 2024-02-12T10:32:00Z
@@ -185,6 +171,15 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 3
+  - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
+    excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
+    publishedDateTime: 2024-02-13T18:27:00Z
+    webUrl: "https://www.finextra.com/blogposting/25680/use-next-gen-fintech-to-encrypt-your-digital-payments-instead-of-the-otp"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 3
   - title: "B2B Fintech Firm Aspire Offers Small & Medium Businesses A Unified Suite Of Financial Services"
     excerpt: "B2B fintech, Aspire has raised $79.15 M in internal funding after its $100 M Series C round. Co-founder & CEO, Andrea Baronchelli talks to Shruti Mishra about Aspire's solutions for SMEs, its focus on AI & cybersecurity and India plans."
     publishedDateTime: 2024-02-12T20:39:00Z
@@ -195,6 +190,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "8AdXbpIdjvYSLx2syjx530CkEMz+lEA2FvXx/Bn3+Y4+nLzbc8ELYY15b5fHyI6YuBky12Ah2w5mwcOB+n8fcLnSl8eyYkkTNZqPfb1F+vaxPwEOZxELa6usIRSq/uh+sav+QVRbPAjpQ+9ukX5cqDvqbuUjiGMkDByWBtTOK7oijqtfk3RO+YkEoweOpx5S/iOCGBODHai2idLFXdPHNnhusYL6b80ewq2JCNQAjq1ZWz9HLX2M6Kj58gVxbxF5uSxtB10D5H3GVg8I4AXo6kRS10H63CQ2nH/l+/M9CeVUZenfsGcjcldrazgbc5aSLvssqpDlrifP9/qo1/9HY2IAY1N0HrvnGQ0VtZs74lY=;IaaYyU1r5iSE686OKqkK9Q=="
+secured: "k3robiOrfkEH5+vJPrzu0m9vPP2y6AnxyLkYZYaUwvP4C1BP9176tjAVeTBXJAChjI+aBw5SQs5TALE1bqMvGJfjD3SXUYSirBHtLRWJK4zZS2GrIRoKcppA9Wxp12us5Oz1kydGpY/euSH0oijw33PZUaV8Nuk8S6r7gw2SNaTlq9husMRUIsVkN2emjcTVO/tBBWGrnTyb+9t+pZ795BHL86RDCpijPU+0wAmikexqZWufTwAmKyQ+9JpLeNBRyQRmQv1bJE0OiUaXyJe3LB0WmkoJlwk5/i5jcpC2jroED36tBf9wx3N74Sd+LF2urUSoV23iLfu2f/3XLxvgg0t2Hp6BY6Pusc5g/Q/2qEDnOMctMusmLEtD2cW3eD+QMC+lHi8/dB+TW7G3IMo/ciCRBhgoxK+ISOZRMCp1JTbeKLWYmTFyFK14oXZ2bhiGWMa5lePBIY1ObcW7ufLZiS0u3Cq9WRjgJ1zpIBXZTnZlszMmnXhSPC89lVlrRq2bppHnSozyia7PkwAXL1Egow==;v3rd0I66KB56F+eIABkuGw=="
 ---
 

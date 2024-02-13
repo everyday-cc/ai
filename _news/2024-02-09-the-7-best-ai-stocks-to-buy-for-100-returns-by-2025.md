@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-ai-stoc
 webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-ai-stocks-to-buy-for-100-returns-by-2025-1033048443"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will"
-    publishedDateTime: 2024-02-08T17:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834"
+  - title: "3 AI Stocks to Buy on the Dip: February 2024"
+    excerpt: "Marc Guberti is a finance freelance writer at InvestorPlace.com who hosts the Breakthrough Success Podcast. He has contributed to several publications, including the U.S. News & World Report, Benzinga, and Joy Wallet. The post 3 AI Stocks to Buy on the Dip: February 2024 appeared first on InvestorPlace."
+    publishedDateTime: 2024-02-10T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-on-the-dip%3A-february-2024"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-    images:
-      - url: "https://lh7-us.googleusercontent.com/VHB65XuS_x0VfXMZBAFX-2PmmZJ-ZabjP9TQSNQaR7TunfoW1OsGw2JDZQAYWcwGbiY6C2kEVuYJ9MJiEBxAOORYss-Ei8kmWqWE1hWYN0JbbUNLWnC3toUz4MkBHfqmf-Vu7o0e-mt8m0KdHLDhiQ"
-        width: 1600
-        height: 846
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Exit Now! 3 AI Stocks to Sell in February 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trade in artificial intelligence (AI) is starting to get frothy. So far in"
     publishedDateTime: 2024-02-12T19:56:00Z

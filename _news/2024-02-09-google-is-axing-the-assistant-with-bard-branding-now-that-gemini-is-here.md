@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Don't tell your AI anything personal, Google warns in new Gemini privacy notice"
+    excerpt: "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting."
+    publishedDateTime: 2024-02-13T09:50:00Z
+    webUrl: "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
     excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
     publishedDateTime: 2024-02-12T03:25:00Z
@@ -148,20 +164,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Why Google Renamed Bard to Gemini"
-    excerpt: "Google takes a major leap in AI, renaming Bard to Gemini, signaling a new era for its AI services and user access."
-    publishedDateTime: 2024-02-08T17:58:00Z
-    webUrl: "https://www.cmswire.com/customer-experience/why-google-renamed-bard-to-gemini/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 24
-    images:
-      - url: "https://www.cmswire.com/-/media/66979b6d09c14a40aa82b52294808799.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "Google plans to fix Gemini’s early flaws pretty quickly"
     excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."

@@ -127,6 +127,20 @@ related:
         width: 1201
         height: 900
         isCached: true
+  - title: "Zylon launches to take away the pain of generative AI adoption for SMBs"
+    excerpt: "Zylon was co-founded in 2023 by Iván Martínez Toro and Daniel Gallego Vico, previously the co-creators of PrivateGPT, an open-source project."
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/zylon-launches-to-take-away-the-pain-of-generative-ai-adoption-for-smbs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/L-xcfvsGJRKjYia9jok7tvtRMEfzTKtB_uvWYWdeZvBsLrEZsS0iodQq4WIZzF8_BmaN0yXqSfb2WfVBLzcy_y6jt72Y4Umv70HAKQIJr8SpfF9k1aCq7tw0RjIEuCoul961hb6czUBeq8iGxbUYwTU.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "How many healthcare employees use generative AI at work"
     excerpt: "Healthcare workers are increasingly using generative artificial intelligence on the job, though the industry's adoption of the technology still lags beyond other sectors, a new study found. Forty percent of \"pink-collar\" healthcare employees, such as ..."
     publishedDateTime: 2024-02-12T16:01:00Z
@@ -154,6 +168,20 @@ related:
       - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "What You Can Learn From These 2 Generative AI Startups"
+    excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
+    publishedDateTime: 2024-02-13T14:38:00Z
+    webUrl: "https://www.inc.com/peter-cohan/what-you-can-learn-from-these-two-generative-ai-startups.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1169108667_537270_rilaf0.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "How generative AI is a game-changer for communications in today’s workplace"
     excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."

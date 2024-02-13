@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 962
         isCached: true
+  - title: "Samsung Low-power, High-speed AI chips in 2024"
+    excerpt: "LLW DRAMs will become its flagship, next-generation chips and be embedded into AI devices such as extended reality headsets. Samsung aims to beef up artificial intelligence chip foundry sales to about 50% of its total foundry sales in five years."
+    publishedDateTime: 2024-02-12T11:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/02/samsung-low-power-high-speed-ai-chips-in-2024.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-10.42.24-AM.jpg"
+        width: 744
+        height: 560
+        isCached: true
 
 secured: "3jwhkRab3vnQllycS3iH1TW/Yi8BTdbvEHCVkCGXtX3GHuNqsruQflZpWG64z6Zf+vsdwAhjgnHJHvxwiNWr737vsyLoDZhITa3dK1GgN8FtvIFHkzumMZXTLCgQxlbHj29nZ//LYreWRYmsvntVd40VsrkHYQw613Fbrmx5ChNh+PIeHX9wS3PNSbj0W0MuZlUuyAAJ0pTrQ5SJ2vj0MUUWZ7/8N+kBNrxgTQOnnaEgAOWwGovxtDYaPre2gvGqIIKZbLLr5mBlrqDD3QaDNB4t2t8x5BK2Gf6+j+4JV8NZ8cZkclWWKKIeQqRwawRuRzNTSm/RwJCoDEYfVcMKdx1ZxQiPI0oJWHmdyr46aIs=;sY0q7CIAep0wdQ/Myf6fmA=="
 ---

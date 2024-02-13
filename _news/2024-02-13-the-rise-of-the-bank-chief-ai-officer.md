@@ -7,8 +7,8 @@ originalUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-
 webUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: American Banker
@@ -34,7 +34,21 @@ related:
     provider:
       name: Government Product News
       domain: americancityandcounty.com
+    quality: 11
+  - title: "Data and AI Expert Andres Avalos Named Chief Product Officer of OfficeSpace Software to Transform the Workplace Management Category"
+    excerpt: "OfficeSpace Software (“OfficeSpace”), the top-rated workplace management software on G2’s software review site, announced Andres Avalos as its Chief Prod"
+    publishedDateTime: 2024-02-13T15:12:00Z
+    webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/data-and-ai-expert-andres-avalos-named-chief-product-officer-of-officespace-software-to-transform-the-workplace-management-category"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
     quality: 9
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/02/bw20240213945495_andres_avalos_-_officespace_software.jpeg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "QQmNbzA/Vr2YTtUjorA7tGsp7PVJZV5m/Fv9EmbZWQfePgg2BEwMtdzkmxzyWDJlXZ3ciyhGh7YksvskaBui3G3Wvow4egtSwVu7CtIQr/WV7I8O3BaLCu+zSKwVP/11IxRPz9zT2jWVkc27lX08EwvSSUqLOyvRuZdbjB8Kf3RjZHqIwzhoVi6DWvRcmNjXyzQAOofN5Nh9H8kLXmD1Co/jU//6n+6owEnb6WHvYCwxs6izlNT0gT8v8Gt7ZLP5r6vn3f3uc6QltWyV7RP/E5gro3kcpQqp2q9tTPtbVbjTtPwpu48bZYVhaxxsoUBLhtBtVZTu5YIdQi2Y2uR4vnvIjUSjmLBa2bXFFl59c98+chbvENaq68/2ZVCvGSl48hGKHM/uM+p/3RwNkpGVqtwiyOXNOrDczZ3T0iCdFCwPpY3/zugtRMAnmxW/UonLCLnWhUu+sICzwEUc9xJfMZzsAdejpNXIFBksP/L6Ifm1X7zfRy6Hwm9QKksA8Xx4Fstv8Xg1RnerZoiIc+/vkQ==;0YU+uRtuhjSVizqt6Ftk3A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-roll
 webUrl: "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-rolling-out-in-india/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung Low-power, High-speed AI chips in 2024"
+    excerpt: "LLW DRAMs will become its flagship, next-generation chips and be embedded into AI devices such as extended reality headsets. Samsung aims to beef up artificial intelligence chip foundry sales to about 50% of its total foundry sales in five years."
+    publishedDateTime: 2024-02-12T11:26:00Z
+    webUrl: "https://www.nextbigfuture.com/2024/02/samsung-low-power-high-speed-ai-chips-in-2024.html"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 54
+    images:
+      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-10.42.24-AM.jpg"
+        width: 744
+        height: 560
+        isCached: true
   - title: "Samsung Galaxy S24's AI in-call translation makes talking in other languages shockingly easy — how to use Live Translate"
     excerpt: "There is some work to do before you start chatting in other languages via Samsung's AI, though. So allow us to take you through the initial set-up and your first Live Translate call on Galaxy S24 ..."
     publishedDateTime: 2024-02-08T23:59:00Z

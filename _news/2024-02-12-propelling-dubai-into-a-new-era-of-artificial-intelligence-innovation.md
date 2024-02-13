@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
+    publishedDateTime: 2024-02-13T09:54:00Z
+    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
   - title: "Tech Industry Sheds 34,250 Jobs as Companies Embrace AI Innovation"
     excerpt: "The rapid growth of AI is reshaping the landscape of the tech industry, ushering in unprecedented levels of innovation and efficiency."
     publishedDateTime: 2024-02-13T12:28:00Z
