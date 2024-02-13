@@ -25,22 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Startups pursue GPU alternatives for AI"
-    excerpt: "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming."
-    publishedDateTime: 2024-02-09T11:00:00Z
-    webUrl: "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html"
-    ampWebUrl: "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/"
+  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
+    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
+    publishedDateTime: 2024-02-12T13:35:00Z
+    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 74
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
+        width: 4000
+        height: 2662
         isCached: true
+  - title: "Nvidia's tailor mad chip gamble"
+    excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
+    publishedDateTime: 2024-02-12T10:35:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/85ae5c159005f0f36da0615500f600e0_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
+    excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
+    publishedDateTime: 2024-02-12T04:55:00Z
+    webUrl: "https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 36
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hTqnRPDNbs8jT8x7QGNwbW-1200-80.jpg"
+        width: 536
+        height: 301
+        isCached: true
+  - title: "Nvidia to Go After Custom AI Chip Market"
+    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
+    publishedDateTime: 2024-02-09T14:44:00Z
+    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 34
+  - title: "Nvidia CEO says tech advances will keep AI cost in check"
+    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
+    publishedDateTime: 2024-02-12T12:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
+  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
+    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
+    publishedDateTime: 2024-02-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "LDmCUCyuxwei4DTQMsotBRY1e1qoiN0VNWVuklZshpT9T5GUioSo/X6l7MPxXr1lUhdWaWa79btYUKcDn8lrv9kOu/Y4pLAroRUjKUuft6ckTk/UrIz0jRV2CPUVBij7ZarER55uxAzPRwPWptvBm4if6xkWzUquijkjSaQQgtKUN4dSidkZto3ICSRfN7GU3ghx7M+vTL2fu0rNyrloJwXLTFOzV25wGa3LS9XZ6PxtZX9B1F6yb4ihuBZ7qAevzfRykcPFE+7XSE7mt1Eftaqtm1uS8KYBzeImT0rZgO2w/t9OKudQXf5xvgEvfcpVoRvGSDA9fFc2a2Dp0uj7ylPgkATG4K8n4WuwactB3WyW4FtLxRAY+cSt3BhpVcMYjVINWMzhUh7HNw3PTPbdDXDGEiECdDoX69y/KM5fon8TOuwOwO9GFUah0tAwO/RxBE+UhY3gFTd1/qsZ8Gc6BlEVI12GA4cwgXUNe/kkE19qy5vLerp23HrC9vHolYbbON4L0k51kyo1/B09JDeM1g==;8zvdf6vlSqec1xXkpcUxkQ=="
 ---

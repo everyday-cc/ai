@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care"
+    excerpt: "Artificial Intelligence (AI) has emerged as a major player in the realm of health care, promising to completely transform­ its delivery. With AI’s remarkable ability to analyze data, learn, solve problems, and make decisions, it has the potential to ..."
+    publishedDateTime: 2024-02-08T23:59:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/hhs-addresses-the-growing-influence-of-1261893/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 36
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15533_134.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "tv0CQJ3KpOTOY6ImPHYiX/+4bPA9m5af7ONtMhsKiw4IwGy7Co/RaFRduqXY3WtCAcycMIjkft54/GQagFwKH1wsJZ9vb6Dr+0B8jMB+tZEWv1Q/Qs+DBDHbs1/G9n3ZQuZ9JYzi0buENyLAMQlf8HVOnTShdlJopIHPhGQZC+X+6oqtfG+5fgZ4xaWSBH+Eh+lZRrzT5RHYgVk6RM2NDV0D111O5SDFwbflO/OhdFNv7GjK5SVRo7NSzk3UES/QoS9nSyr4RVEcThVbmpL8urbC/UOhkTRyx0bVY94FUjV30hOPy7D+c9j/Kpvv+fygnEYMGUrHZPu46Vpuk8hbR0B3TQmRr+JFXwtlb6EX/Rc9hLo2SGDyH1ro62a25+3apjpQvg53egn9kKff3ByC4I/arLREaf+mDImp0kPu+Gw1ITTeVnVJm+VBFxVZ+nhZzcSxUA+GyQfFH0/IAWcXBcye87nVoAOGbhrqbhsMTfDGrlLLdiy163pvy7pHk15/bzgcL3dG1SeAywoN9wgqqw==;Wd7iSbXYYyvyCgz9neWtww=="
 ---
 

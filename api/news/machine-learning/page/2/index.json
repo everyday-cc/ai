@@ -2,41 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-01-25-top-50-ai-startups-to-blow-up-in-2024.md",
-      "title": "Top 50 AI Startups to Blow Up In 2024",
-      "excerpt": "Explore the 50 best AI startups that have the potential to add new capabilities to the ever-growing artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/top-ai-startups",
-      "originalUrl": "https://www.techopedia.com/top-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2024-01-25-lds-transformation-from-order-taker-to-trusted-learning-advisor.md",
       "title": "L&D’s Transformation From Order Taker To Trusted Learning Advisor",
       "excerpt": "The Learning & Development (L&D) field, since its inception, has found itself pigeonholed into a reactive, order-taking role.",
@@ -1288,6 +1253,49 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-how-beamr-technology-can-boost-machine-learning.md",
+      "title": "How Beamr Technology Can Boost Machine Learning",
+      "excerpt": "Beamr BMR is advancing on a new front and reveals its capability to boost Machine Learning for video. Machine Learning and Artificial Intelligence for video have demonstrated immense achievements and have even more tremendous potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/12/screenshot_2024-01-12_at_7.02.46_pm.png?width=1200&height=800&fit=crop",
+          "width": 1005,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "publishedDateTime": "2024-01-12T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

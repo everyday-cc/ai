@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
+    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
+    publishedDateTime: 2024-02-12T13:35:00Z
+    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
+        width: 4000
+        height: 2662
+        isCached: true
+  - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
+    excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
+    publishedDateTime: 2024-02-09T13:10:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/iris-energy-seals-nvidia-gpu-deal-with-ai-startup-poolside/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Iris_Energy_cryptomine.2e16d0ba.fill-1200x630.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Nvidia's tailor mad chip gamble"
     excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
     publishedDateTime: 2024-02-12T10:35:00Z
@@ -39,34 +69,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
-    excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
-    publishedDateTime: 2024-02-09T06:31:00Z
-    webUrl: "https://www.tweaktown.com/news/96106/ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
-    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
-    publishedDateTime: 2024-02-13T00:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
-        width: 1500
-        height: 857
-        isCached: true
   - title: "Nvidia to Go After Custom AI Chip Market"
     excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
     publishedDateTime: 2024-02-09T14:44:00Z
@@ -76,20 +78,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
-    excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
-    publishedDateTime: 2024-02-12T10:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/2024-02-09T184144Z_1_LYNXMPEK180O5_RTROPTP_4_NVIDIA-CHIPS.JPG"
-        width: 1200
-        height: 749
-        isCached: true
   - title: "Nvidia CEO says tech advances will keep AI cost in check"
     excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
     publishedDateTime: 2024-02-12T12:31:00Z
@@ -99,6 +87,15 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
+  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
+    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
+    publishedDateTime: 2024-02-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "whilKauoyTru/8iIQGtQb4xACIysatcOh1obC9IkytuF48DoK/sKF7dQOQIlOEw5Vx5p4mPug8GT2kGrdu8qkBScTsY7/Y5ZtWHiK+S6m299KY8GzPh/1ajHJwrshQAeomsGBYA7xexMl03ohBiOUgBIkLHDVCx2w03k22S7FSVpRobqVC4R7+HBQzzDjDYVpeuY193kO5q3/NsbmH9WJzlUptpbZv7KqddILA9PYxYJbp6ZNnai5MIXJyaOoMtFvBC4l8V0xSdvOrOswkr3kf00t49Bj+yTv+pFJFdap3VUNoaX9nIqwazpUZccxTmtRSFujtKUXHI2T9yZpTK/5iiHK4n2/ikrpNSimpCmPDw=;XjangRSmw13bWJGtgCpFvg=="
 ---

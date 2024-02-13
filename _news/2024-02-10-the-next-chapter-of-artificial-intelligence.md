@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-09T19:46:00Z
 originalUrl: "https://nationalinterest.org/blog/techland/next-chapter-artificial-intelligence-209250"
 webUrl: "https://nationalinterest.org/blog/techland/next-chapter-artificial-intelligence-209250"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://nationalinterest.org/sites/default/files/main_images/Shutterstock_AI.jpg"

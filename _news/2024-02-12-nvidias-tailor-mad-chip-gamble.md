@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-ga
 webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fudzilla
@@ -25,33 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
-    excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
-    publishedDateTime: 2024-02-09T06:31:00Z
-    webUrl: "https://www.tweaktown.com/news/96106/ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production/index.html"
+  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
+    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
+    publishedDateTime: 2024-02-12T13:35:00Z
+    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
+      name: CNBC
+      domain: cnbc.com
+    quality: 87
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
-        width: 1280
-        height: 720
+      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
+        width: 4000
+        height: 2662
         isCached: true
-  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
-    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
-    publishedDateTime: 2024-02-13T00:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
+  - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
+    excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
+    publishedDateTime: 2024-02-09T13:10:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/iris-energy-seals-nvidia-gpu-deal-with-ai-startup-poolside/"
     type: article
     provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
     images:
-      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
-        width: 1500
-        height: 857
+      - url: "https://media.datacenterdynamics.com/media/images/Iris_Energy_cryptomine.2e16d0ba.fill-1200x630.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
     excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
@@ -76,20 +78,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
-    excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
-    publishedDateTime: 2024-02-12T10:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/2024-02-09T184144Z_1_LYNXMPEK180O5_RTROPTP_4_NVIDIA-CHIPS.JPG"
-        width: 1200
-        height: 749
-        isCached: true
   - title: "Nvidia CEO says tech advances will keep AI cost in check"
     excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
     publishedDateTime: 2024-02-12T12:31:00Z
@@ -99,7 +87,16 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
+  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
+    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
+    publishedDateTime: 2024-02-12T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
-secured: "i2QLZD1DIE3cfi0AOOB3mm/do84br9Rk7Se+bDvcOlzRX9Ld6CULnSsRdz+/zKjgtwozwPjWw42VxRh42TYiFjmZV3DehqQQAKQBBeNEalLYoc+qkVwnS9O3iLRjlc2RbHct5zzlRe8ZwXeXu06s2IykwLSpbO3HFOd6zizV2qUQQ2I9AINTAw9xadQsg2VcIejloCpAB61buZeit4C66/C5REXTQxkRZc477Zf90TjkE7FrvPvWDixvfWY5Y3FuSPMHHbGN6g3pz/Fkh+5KHPlzsFEFcOTrW66IeFTADt4iyIMvKwNytzF+A2kFCfRUycrmA7eTImMr4Rxoqc1Z0mNzH5JT3DnvpkZHre31+PV6fi/Q53AxanmJoOwr3HvEZnkIGEnoZWLHhzImcpHdntnlHUZFjEepAYoC+94oSMzDP7FrpP2m0FNfyxd8sSgPQ9AxZ/zf3pGFbvzUxPfQW9Qli2GOurze7wyoDDo58MoJTysSQ8qeBJFfauZkOflIbXzAm0QAAJHHThVR7MRWqA==;C6bYlEOkO5DER+7CkYqVnQ=="
+secured: "XF7v3vbjgtupsEzPNUK6Q2EeBhx6l+lBxRHDNR5sKP3a3/qWcagdNBoahItiKilvlbbqRcE3VM9FEv6XSzwxK9mUxZsLNITW9h8tmAwJMiSjH8SVHch96HRGj9LEsrLVn0iZThqoQDzB7sVpDIhZr+4xPOtY51nNPwAPLEvu+JAf8cDpJbdp0RA4xl9zVxyKHWoCAYYQ3hD9GiITG5MDCIOSWoBiixKWDBF/4Hd//IsXig85OAWbbHV/JGqPmHdZEjJ0RhrwngBlNLT8uUS6Yy57SFCmZ+CvfC29YJ9m9k6WDKnWEgJ4s1Vvr1lVo48BK2ZB+W5+agdkyort44CShXAmQGd4b5IdA7iRe0pLP0KcLimq8pHHE08mbuJ9KVaFPCY3p8DaxZfpAT6SzNFk+TLSkDGKegCvP7p04csE1SmfIt7CSC4xzIXqqSdNRAxqeRC+xaB0liTWatqUC/YdO59x3Jn9NfGm+Yx47aPynui/KFEYdiISmap4Bslo5I+53M2TRU8x2zz1T2bIW47iyw==;BFvrVNosrKh7AK6bbMJLnA=="
 ---
 

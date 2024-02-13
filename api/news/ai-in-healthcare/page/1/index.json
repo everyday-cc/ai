@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-12-minding-the-machine-assessing-the-case-for-ai-regulations-in-healthcare.md",
-      "title": "Minding the Machine: Assessing the Case for AI Regulations in Healthcare",
-      "excerpt": "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi",
-      "originalUrl": "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T06:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2024-02-11-smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor.md",
       "title": "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor",
       "excerpt": "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy.",
@@ -354,8 +310,8 @@
       "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "AI plays a pivotal role across diverse healthcare applications ... and the potential for personalized treatment strategies. Artificial Intelligence in Manufacturing Market Size, Share & Industry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html?gclid=EAIaIQobChMI-p",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html?gclid=EAIaIQobChMI-p",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1369,6 +1325,49 @@
       "provider": {
         "name": "BioWorld",
         "domain": "bioworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-is-there-ai-discussion-fatigue-in-healthcare.md",
+      "title": "Is there AI discussion fatigue in healthcare?",
+      "excerpt": "Discussion around artificial intelligence in healthcare has exploded as the technology looks promising in making healthcare more efficient, but is the discourse around the topic causing fatigue? Will Weider, CIO and senior vice president of Wausau ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/is-there-ai-discussion-fatigue-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
         "images": null,
         "publishers": null,
         "authors": null

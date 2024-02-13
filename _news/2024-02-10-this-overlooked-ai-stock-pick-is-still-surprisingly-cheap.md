@@ -48,6 +48,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 17
+  - title: "Is Arm really an AI stock?"
+    excerpt: "It’s been a big week for the chip designer Arm Holdings. Since the company’s earnings call last Wednesday, the stock has just about doubled:"
+    publishedDateTime: 2024-02-13T06:31:00Z
+    webUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "H/vnhaaM1RYiW1dh1wM+eOFG8NRc+RYptin0JxME/eDtrVzmjCErH/cTL1t2DR8+P69IOJszRd7CEn2vDXnFCkki7UelcATeOxNRJIvkvnuYoaBULX6VIL+mXVu46Ca4J02JKqYJtc5MSV2VdwrMD48i+UMqWt8abnpogE3l5THU33KJ43WBB6eahTwUNDbBRezNspGWTI3oWnFp6NA6OjMMhZlG60F05U0z8IBBzhkdL5uz6QyNPLpLPbkyTgeofJUQjoeFoeGbdGy2UAalHzIhdjj4Qo/hW6qkWYQsJ55i+Y94qod0NYvY0MdDYEVqGaSt3AVRg978n5pY1x3pQDMnMEgQ+RU06Je/j4EUgAo=;qUAg2O0qMbY52LxkAGM96w=="
 ---

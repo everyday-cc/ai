@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "L&T Technology Services and BlackBerry Join Forces to Develop Advanced Automotive Technologies for Self-Driving Vehicles"
+    excerpt: "The collaboration is set to leverage the BlackBerry QNX suite of automotive software solutions and enable the development of innovative Software Defined Vehicles SDVs for global Original Equipment Manufacturers OEMs."
+    publishedDateTime: 2024-02-13T05:55:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 19
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "How Technology Is Changing Financial Advice"
     excerpt: "The use of artificial intelligence (AI), machine learning, the rise of blockchain and cryptocurrencies, and myriad app-based platforms are reshaping financial services. Newer technologies are ..."
     publishedDateTime: 2024-02-11T18:04:00Z

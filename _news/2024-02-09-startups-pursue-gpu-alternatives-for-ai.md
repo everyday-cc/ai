@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alt
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1024
     height: 682
     isCached: true
-
-related:
-  - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
-    excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
-    publishedDateTime: 2024-02-09T13:10:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/iris-energy-seals-nvidia-gpu-deal-with-ai-startup-poolside/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Iris_Energy_cryptomine.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "3d0AAFC25H5d1BvXXqCyQJKDNM+W8MqAjwmYDLNtjEnJZ7OLue+6FWqBXqO5Mg8jo5/aNZAdS43gXr4zUZqUOk2HBiQOzSd7pzGZwQQ8mYaFln8sc6tTltJrIi3t4V5csTA3gZLwYgBvW47Vf2SG4spMrmkUXlFppgPYiMoUsZhHuxeaotyZPwSE69ChUErPYOPkarOdA5HqTDVB5QKlPkJvuz+VUPziA1r6JJAyA5bBOtCUkfayuIYW2maIkk9kRnVDDIY3gogApBSyPqD2pLK3lH5K7ex5kpIxO1x1/Uea7C+I03GTsMr/tKB4jNxZs9bDGzzEdqN6tKlCTHot4nBI+PdYOWd21ACirRGG+yEfAr8laNauni9sDVCvbh7OJfJO8ehTOI+PTtJJIfRk9EUYIjN69PFOqn8g78e5T73R40syvJOz45vfGXeSU+vEprTtYdMdzjSvSWJxqT9M4nZWtR6lokEuwGX1My+t6OaM5sZ3fXZ9W1YDdAibKmq2LBWBFPAy1vnHQB3B0zzkwA==;qt2MgzU2DUa7tjJy8CeUmw=="
 ---

@@ -25,43 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
+  - title: "How AI Improves The Health And Safety Of NFL Players, And Elevates Careers"
+    excerpt: "The NFL, NBA, MLB and other sports leagues are leveraging AI to build athlete performance and health safety, as well as enhance the skills and careers of all parties involved, including the pro athletes,"
+    publishedDateTime: 2024-02-12T19:39:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2024/02/12/how-ai-improves-the-health-and-safety-of-nfl-players-and-elevates-careers/"
     type: article
     provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
-    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 25
-  - title: "Changing Dynamics Of The Global Artificial Intelligence in Machine Vision Market In The Coming Years"
-    excerpt: "Comprehensive Market Analysis: The report offers a comprehensive overview of the Artificial Intelligence in Machine Vision industry through a combination of qualitative and quantitative analysis. The report focuses on growth drivers, market trends, potential barriers, and stakeholders."
-    publishedDateTime: 2024-02-12T05:53:00Z
-    webUrl: "https://www.opprairie.com/news/changing-dynamics-of-the-global-artificial-intelligence-in-machine-vision-market-in-the-coming-years/38652/"
-    type: article
-    provider:
-      name: The Orland Park Prairie
-      domain: opprairie.com
-    quality: 24
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgNrejkG-ZjGEdlOMh-meridFUzlLOuzl7anbHTfv-Sa-6rivgHQvzb54qZp1ldaalF8wXusugUfw4KROYvGo-7KkzYecnIJgt_vNXBwc2h8i_TCvLqrk8IBErovzda-YzmDfA_Umc83zZuzcFZ_NBDPf1EaUmUvhWSvsWQ2pNrwZnQ_cqU7d0A79jow/w400-h226/RV3.png"
-        width: 400
-        height: 225
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 45
 
 secured: "e1N31YxvujJIZZ7J403+MS0ek6xnuEoQIXaLWQGLp1YflDwzhA7YaZzuFTxWHULPomaA5t51WWlD/Em70Q2K891G6vFEHtKjCjPXbLOFaX6O9SlVrzC7ulqBSciKx9Vqa06MRh5DixCviNGtoMLmHwYE1Jr6Rl1+cXEVc/UKT6nZoB4oqwq6fDt8Ci1ZhHe3CcCztKo7pgLq9IWvjQi+4RpwT8GoEcGJdZLUbnFCYc9FhE2XUXrdYERRM66IHXHURXTPH8f9nj1JJQrJVivggPOTZSd/Oj+OrtEsIHHkxB5iknfwLGWFxn6Sn1msnPELGMAx1X54RsufazDKlbPKS/GMS3rpV+K5xF6CkHx3ldY=;qbSY7COQHGdMVtqLekRG+A=="
 ---

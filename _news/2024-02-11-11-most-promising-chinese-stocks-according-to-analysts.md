@@ -9,7 +9,7 @@ ampWebUrl: "https://www.insidermonkey.com/blog/11-most-promising-chinese-stocks-
 cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/?amp=1"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "US lawmakers accuse VC firms of funding Chinese military-linked firms"
-    excerpt: "Sequoia Capital China, Qualcomm Ventures and three other U.S. venture capital firms plowed at least $3 billion into Chinese tech"
-    publishedDateTime: 2024-02-08T18:48:00Z
-    webUrl: "https://www.shorenewsnetwork.com/2024/02/08/us-lawmakers-accuse-vc/"
+  - title: "Why young Chinese women are 'dumping' real men for AI boyfriends"
+    excerpt: "Discover why young Chinese women are choosing AI boyfriends over real men. Explore the rise of virtual connections and the adaptability of artificial intelligence in meeting their emotional needs. Learn about the concerns surrounding user privacy in this booming industry."
+    publishedDateTime: 2024-02-13T05:51:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
     type: article
     provider:
-      name: shorenewsnetwork
-      domain: shorenewsnetwork.com
-    quality: 24
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://www.shorenewsnetwork.com/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTopNews/tagreuters.com2024binary_LYNXMPEK170SR-VIEWIMAGE.jpg"
-        width: 450
-        height: 300
+      - url: "https://static.toiimg.com/thumb/msid-107649267,width-1280,height-720,resizemode-4/107649267.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
+    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
+    publishedDateTime: 2024-02-12T06:41:00Z
+    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 55
+    images:
+      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
+    excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
+    publishedDateTime: 2024-02-12T18:49:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/08/AI-Artificial-Intelligence-©AFP-1K-01-e1693102717754.jpg"
+        width: 1024
+        height: 612
+        isCached: true
+  - title: "'Better than real men': Young Chinese women turn to AI boyfriends"
+    excerpt: "Users say they are driven by a desire for companionship because China's fast pace of life and urban isolation make loneliness an issue for many."
+    publishedDateTime: 2024-02-13T06:53:00Z
+    webUrl: "https://www.japantimes.co.jp/news/2024/02/13/asia-pacific/social-issues/chinese-women-ai-boyfriends/"
+    type: article
+    provider:
+      name: ジャパンタイムズ
+      domain: japantimes.co.jp
+    quality: 39
+    images:
+      - url: "https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/13/280266.jpg"
+        width: 1000
+        height: 666
         isCached: true
 
 secured: "GREmDwvERdEDC97KV8ER6jUduwJKzPOTBOrkrpZZrHBdGxsvGba5OoIQIqnKofqVL5hVJ1eScynUj0kISlUViXVUbeCbjsEqnoukAqR/0hgXYXNZo9uRsOdHLi/92EGhYoHUFUFsIDTNaLF28CMmwA6zBebumW5nspM25wPpXDwzc9CT3R8b4U0KO0x8qY6QIawMKaX8n1js68zani816c14xQZ/+t2wFAbC0+NL0w07vWwTjVmM1buRrmPBjugC+A3RzBy6g9Ucgt7s8XD/YEzlLGuhIOGe21daJNE+6c1KSM7DUncWqHD394fq2+Hy4f6a0LJR/lC01H6axtceuyZJQJ+E6K9i5ZRdmcDh4rMNRngbPV9e84cndn4m/II4gdaak0A2qfkvKtwEJYRykZ9FR+Ri24cx9mLPBi2vtjktXoIJMgqod2nqh/3Og6Zw677jRX7m165jEAB+DHAPKAYg50mXvaXbhimTM4Az3rBkYzIigh3PH6AMhx28uWyPXQv8WrIQoK6VzZYhnowmTA==;/OmAuJbxDLGRZwQPyrnE7A=="
