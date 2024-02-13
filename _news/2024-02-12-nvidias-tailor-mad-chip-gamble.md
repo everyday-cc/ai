@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-ga
 webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
+    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
+    publishedDateTime: 2024-02-13T00:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
+        width: 1500
+        height: 857
         isCached: true
   - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
     excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."

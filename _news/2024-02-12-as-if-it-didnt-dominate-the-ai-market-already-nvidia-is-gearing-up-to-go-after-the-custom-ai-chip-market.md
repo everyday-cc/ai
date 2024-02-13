@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
+    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
+    publishedDateTime: 2024-02-13T00:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Nvidia to Go After Custom AI Chip Market"
     excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
     publishedDateTime: 2024-02-09T14:44:00Z

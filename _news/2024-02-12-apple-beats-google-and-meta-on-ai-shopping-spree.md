@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/apple-beats-google-a
 webUrl: "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583"
 type: article
 quality: 67
-heat: 87
+heat: 90
 published: true
 
 provider:

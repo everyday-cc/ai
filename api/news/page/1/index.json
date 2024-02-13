@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
+      "title": "Thanks to AI, Azure is Closing the Gap with AWS",
+      "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/cloud/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
+      "originalUrl": "https://www.thurrott.com/cloud/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg",
+          "width": 1066,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-super-bowl-lviii-told-by-ai-deepfakes.md",
       "title": "Super Bowl LVIII, Told by AI Deepfakes",
       "excerpt": "Gizmodo used Midjourney to create visual representations of some of the Super Bowl’s biggest moments. AI deepfakes are slowly becoming a central component of our society, so we",
@@ -534,6 +578,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-google-to-spend-269-million-on-ai-training-in-europe.md",
+      "title": "Google to Spend $26.9 Million on AI Training in Europe",
+      "excerpt": "Google's philanthropy arm is setting aside millions of dollars for European nonprofits to train workers how to use AI. But it's unclear whether AI training will help save jobs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
+      "originalUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01J8NpOIf2aZCkNB8ZhzBnJ-1.fit_lim.size_1200x630.v1707739993.png",
+          "width": 1123,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
       "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
       "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
@@ -689,7 +784,7 @@
       "originalUrl": "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1018,7 +1113,7 @@
       "originalUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1069,7 +1164,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -1109,110 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-ai-and-software-can-improve-semiconductor-chips-accenture-interview.md",
-      "title": "How AI and software can improve semiconductor chips | Accenture interview",
-      "excerpt": "Thanks to AI, one of these days we'll be talking about chips with trillions of transistors on them, according to Accenture.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "originalUrl": "https://venturebeat.com/ai/how-ai-and-software-can-improve-semiconductor-chips-accenture-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/accenture-Tech-Vision-2024-Infographic_v5-01.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T16:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
-      "title": "6 AI Apps For Android That Are Actually Useful",
-      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

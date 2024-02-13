@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://img.hoodline.com/2024/2/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns-1.webp"
         width: 1640
         height: 924
+        isCached: true
+  - title: "Mob attacks driverless car in San Francisco"
+    excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
+    publishedDateTime: 2024-02-13T01:19:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/791196-Mob-attacks-driverless-car-in-San-Francisco"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 39
+    images:
+      - url: "https://img.dunyanews.tv/news/2024/February/02-13-24/news_big_images/791196_29926189.jpg"
+        width: 752
+        height: 423
         isCached: true
   - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
     excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
