@@ -7,7 +7,7 @@ originalUrl: "https://www.stltoday.com/news/nation-world/business/google-artific
 webUrl: "https://www.stltoday.com/news/nation-world/business/google-artificial-intelligence-gemini-smartphones-microsoft/article_6e95c66f-312a-572f-b8f1-457ca1730da6.html"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,61 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Don't tell your AI anything personal, Google warns in new Gemini privacy notice"
+    excerpt: "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting."
+    publishedDateTime: 2024-02-13T09:50:00Z
+    webUrl: "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google Bard is now called Gemini, Gemini Ultra 1.0 launched"
+    excerpt: "Google is rebranding its Bard AI to Gemini and it is also launching Gemini Ultran 1.0 and a new mobile app, along with the name change comes a paid"
+    publishedDateTime: 2024-02-09T07:20:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-bard-is-now-called-gemini-gemini-ultra-1-0-launched/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 24
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
+    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
+    publishedDateTime: 2024-02-11T22:25:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 24
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
+  - title: "How to Learn a Language with Google Gemini"
+    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 4
 
 secured: "MW2Hf08bVh4qugrOWVxTaYF6nzV2dTQavesHaryWms71qrtqqHqkHFNatKxCpJ6H48Q8ato/hfBuJKkd2QfVHganLqurM/dbWUUvhrYh/GNtP8H9Y7Gf82/oXukNWMg8oWlRXZmyRRsOnf2lFAbqELihCOmQOIRaK22U4pDP0i1EUDX0TFhIhlgu37hjT7xUjiHuwXoRnFEd3+GkYJVA9MlJhhsFR0zJSOVEuTPW4EFzbVhUhUytcadk3lzHX1uzV8Z6rI9xRSj0oMG8Bqor9IxIvAS4zJ22AV8/Y7HIVF/OGMsLyD0MtoyROf/TBTC6JV9j9beSi5i3ONcK9WA2D9drI3uleWumbRdqmhayGBE=;lXjzYoHGq1IAbaChsuh1jg=="
 ---

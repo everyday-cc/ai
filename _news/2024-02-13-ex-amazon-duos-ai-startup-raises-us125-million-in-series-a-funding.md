@@ -38,20 +38,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Generative AI-Powered E-Discovery Startup Beagle Raises $3 Million in Seed Funding Round"
-    excerpt: "Beagle, whose co-founders were previously machine learning managers at Snap Inc., looks to stand out in the market due what the company called its experienced technical team."
-    publishedDateTime: 2024-02-08T20:32:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/08/generative-ai-powered-e-discovery-startup-beagle-raises-3-million-in-seed-funding-round/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 28
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Beagle-Logo-767x633.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "zeICwtIcdurDmHoj8n7NB62PDd7fSFtRdmxnURVsFbt1+y8CZ/5RDw7JlWLtjsRy5Ppy3r7HfZC/eGQoskMf6fuKz2aXhz5zekNNigcUBo00E6i/gCmNMkrxsfzajkbXNgC/F0w7twH+g1kRa5eXY4s1hoDIzQNODuKonwtMBUNoLLQjGIc0EHN02JAIlU7zuEUdkCMliu2B9nrBXsEreZrkkl+MP/2N6Bl7CA8rpP08wZHLMO2s78wtsK7+VY50a6QpRY7+hLh7+KebgYsPJWoX7P3qx47rrosmI84jsN75QI4eavmU4IVTsUkjkZxGPQPSk5VXhv16di7qExiJ049gD9kEixuYjVYbEQhrRKM=;wsZqcE6yTB4XZxTqtk9b3w=="
 ---

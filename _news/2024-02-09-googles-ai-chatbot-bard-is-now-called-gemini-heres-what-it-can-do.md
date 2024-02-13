@@ -19,188 +19,149 @@ topics:
   - AI
 
 related:
-  - title: "Google Bard transitions to Gemini: What to know about the AI upgrade"
-    excerpt: "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app."
-    publishedDateTime: 2024-02-08T19:24:00Z
-    webUrl: "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade"
-    ampWebUrl: "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp"
+  - title: "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’"
+    excerpt: "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card."
+    publishedDateTime: 2024-02-13T15:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg"
+        width: 1280
+        height: 680
         isCached: true
-  - title: "Don't tell your AI anything personal, Google warns in new Gemini privacy notice"
-    excerpt: "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting."
-    publishedDateTime: 2024-02-13T09:50:00Z
-    webUrl: "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+  - title: "Nvidia launches Ada Generation GPU with 19.9B transistors"
+    excerpt: "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization."
+    publishedDateTime: 2024-02-12T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
-    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
-    publishedDateTime: 2024-02-12T03:25:00Z
-    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+  - title: "Chat With RTX brings custom local chatbots to Nvidia AI PCs"
+    excerpt: "Nvidia said that Chat with RTX is more than a mere chatbot; it’s a personalized AI companion that users can customize with their own content. By leveraging the capabilities of local GeForce-powered Windows PCs, users can accelerate their experience and enjoy the benefits of generative AI with unprecedented speed and privacy, the company said."
+    publishedDateTime: 2024-02-13T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/chat-with-rtx-brings-custom-local-chatbots-to-nvidia-ai-pcs/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
-        width: 2560
-        height: 1440
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
         isCached: true
-  - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
-    excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
-    publishedDateTime: 2024-02-13T01:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/articleshow/107639046.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
+  - title: "Hands On With Nvidia's Chat With RTX: Leverage Your GeForce Card for Local AI"
+    excerpt: "Got the yen to fashion your own personalized chatbot? Chat With RTX is an easy-to-use generative AI tool for your PC, using the GPU you may already own."
+    publishedDateTime: 2024-02-13T14:22:00Z
+    webUrl: "https://www.pcmag.com/news/hands-on-with-nvidias-chat-with-rtx-leverage-your-geforce-card-for-local"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 66
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107639040,width-1280,height-720,resizemode-4/107639040.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.pcmag.com/imagery/articles/01i8ZFXPENHode1ttcvLH0k-1.fit_lim.size_1200x630.v1707777510.png"
+        width: 726
+        height: 408
         isCached: true
-  - title: "Google CEO Sundar Pichai Explains The Reason Behind Renaming Bard To Gemini"
-    excerpt: "Pichai said that the company sees Gemini as the forefront of their AI technology. Google Gemini, Google Bard rebrand, Gemini AI, Gemini Ultra, Gemini Advanced, Sundar Pichai on Gemini, ChatGPT Plus, Microsoft Open AI,"
-    publishedDateTime: 2024-02-13T08:23:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+  - title: "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card"
+    excerpt: "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit"
+    publishedDateTime: 2024-02-13T02:22:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 57
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 66
     images:
-      - url: "https://static.tnn.in/thumb/msid-107655265,thumbsize-14062,width-1280,height-720,resizemode-75/107655265.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg"
+        width: 696
+        height: 496
         isCached: true
-  - title: "Google is axing the 'Assistant with Bard' branding now that Gemini is here"
-    excerpt: "Google is axing the Assistant with Bard branding now that Bard is Gemini, and it’s available on Android. The company is still striving to build an AI that is conversational, multimodal, and helpful. Gemini will be the branding Google will stick to going forward."
-    publishedDateTime: 2024-02-09T04:46:00Z
-    webUrl: "https://www.androidauthority.com/google-gemini-replacing-assistant-with-bard-3412760/"
+  - title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
+    excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
+    publishedDateTime: 2024-02-13T20:29:00Z
+    webUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 52
+      name: PC World
+      domain: pcworld.com
+    quality: 64
+  - title: "Nvidia launches a chatbot that can run on your PC's GeForce RTX GPU"
+    excerpt: "You can also feed it videos from the web, including clips from YouTube. Simply plug in the URL of the source video, then ask the chatbot"
+    publishedDateTime: 2024-02-13T19:04:00Z
+    webUrl: "https://www.techspot.com/news/101872-nvidia-launches-local-chatbot-runs-geforce-rtx-gpus.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
+    excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
+    publishedDateTime: 2024-02-13T17:32:00Z
+    webUrl: "https://www.tweaktown.com/news/96183/ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/10/Assistant-with-Bard-Presentation-at-Made-by-Google-Event-2023.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
+        width: 1323
+        height: 744
         isCached: true
-  - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
-    excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.viva.co.id/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
-    ampWebUrl: "https://www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
-    cdnAmpWebUrl: "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+  - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
+    excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
+    publishedDateTime: 2024-02-12T23:14:00Z
+    webUrl: "https://www.tweaktown.com/news/96134/nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design/index.html"
     type: article
     provider:
-      name: viva
-      domain: viva.co.id
-    quality: 44
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
     images:
-      - url: "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/08/6572a07ba12f5-google-rilis-gemini-ai_665_374.jpg"
-        width: 665
-        height: 374
+      - url: "https://static.tweaktown.com/news/9/6/96134_81_nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design_full.jpg"
+        width: 1500
+        height: 843
         isCached: true
-  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
-    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
-    publishedDateTime: 2024-02-13T07:29:00Z
-    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
+  - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
+    excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
+    publishedDateTime: 2024-02-12T16:06:00Z
+    webUrl: "https://siliconangle.com/2024/02/12/nvidia-debuts-powerful-rtx-2000-ada-generation-gpu-ai-accelerated-design-workloads/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 41
-    images:
-      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
-        width: 1792
-        height: 1024
-        isCached: true
-  - title: "From Google Bard To Google Gemini: What Has Changed?"
-    excerpt: "Google has announced a rebrand for Bard to Gemini and not only the name but a lot else has also changed. Google Bard was a tough competitor for ChatGPT when it was launched last year. However ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.themobileindian.com/news/from-google-bard-to-google-gemini-what-has-changed"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
+    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
+    publishedDateTime: 2024-02-13T18:53:00Z
+    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
     type: article
     provider:
-      name: Mobile
-      domain: themobileindian.com
-    quality: 24
-    images:
-      - url: "https://www.themobileindian.com/wp-content/uploads/2024/02/bard-rebranded-gemini.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google Bard is now called Gemini, Gemini Ultra 1.0 launched"
-    excerpt: "Google is rebranding its Bard AI to Gemini and it is also launching Gemini Ultran 1.0 and a new mobile app, along with the name change comes a paid"
-    publishedDateTime: 2024-02-09T07:20:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-bard-is-now-called-gemini-gemini-ultra-1-0-launched/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
-    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
-    publishedDateTime: 2024-02-11T22:25:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
-  - title: "Google’s AI Bard And Duet Become Gemini; $20 Per Month For Gemini Ultra"
-    excerpt: "Google AI Bard is now Gemini as the LLM and GenAI product goes into iOS, Android, Google Cloud and Google Workspace, Google CEO says."
-    publishedDateTime: 2024-02-08T20:28:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/google-s-ai-bard-and-duet-become-gemini-20-per-month-for-gemini-ultra"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 19
-  - title: "How to Learn a Language with Google Gemini"
-    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
+  - title: "A new way to let AI chatbots converse all day without crashing"
+    excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
+    publishedDateTime: 2024-02-13T14:44:00Z
+    webUrl: "https://techxplore.com/news/2024-02-ai-chatbots-converse-day.html"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "20KuQ5UJNO19qyBxUyYzFU4Nj6M+q8r2oNEFNmgZFC2fFCAP1qIqehGKgZ6iwMTv6OCDAtmOMFIxGUdEshXuoN2pnSipks2eyo5nqjobBBaRFGmoDD27Ayx2NVjdc30cX28IbjLo5V4Hk/Moiq5dxoXWmndZ2LobePixRwM3QECbBZQAaXClpZERzizfvxYKEm8dh9awQ24njy4xojj6hk93SKKLbUIeLQVyH3YMZEz+9qoY6ptTraX+Vdsjos7CRHYst6BPo3Hi3P0dktkUUWp+0Gn70aJMyPPpIk1JTh96eWqrD8LlgjGmYv04ysK9qaqYzUDJ0xGFk7+/EeMTuIsF8UEML0A5KhBX2cWXvWdhoCyZ3YvEz/mJ2OCqtHMRyPJJopehE84n852VPal+Bdn3YK3VxVxVDvpLsjnqP4cCHjwrYHSGf/w+ZIKV9c2uWUyfFKAustX/2iHHF/Epfbi/aT+VY2Kk0WQDy0eJAmywxWEtgYgQTWbSUIEVKH/qazxO1nkXpQxgLwa8CMsoeg==;MswrjL8Zc+XuANGk96L2tQ=="
 ---

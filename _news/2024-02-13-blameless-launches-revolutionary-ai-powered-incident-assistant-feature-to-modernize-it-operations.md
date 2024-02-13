@@ -19,15 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "Patents on AI creations require 'significant' human input, USPTO says"
-    excerpt: "The U.S. Patent and Trademark Office on Monday clarified when it will grant patents for inventions created with the aid of artificial intelligence, addressing an emerging issue in intellectual property law."
-    publishedDateTime: 2024-02-12T19:22:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/patents-ai-creations-require-significant-human-input-uspto-says-2024-02-12/"
+  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
+    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
+    publishedDateTime: 2024-02-12T05:11:00Z
+    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: Dataquest
+      domain: dqindia.com
+    quality: 75
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
+    excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
+    publishedDateTime: 2024-02-13T13:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/13/new-ai-powered-program-alcion-helps-msps-microsoft-365-backup-modernization/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
+  - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
+    excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
+    publishedDateTime: 2024-02-12T13:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960671.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "e/eB/gVgHYf0bxrS+H3u8cGs0Wujeu5Ea5P56NbF/gJdTHsLVlma+JoFif+EySp/umP1WPfllfgrfyVv8wPpU3Tm86NGiRKiqPdhxxbwU0EX7K1HXcZFL2bsTj0yyjAbT3rLNDAIuh5e8nZsKK7SajhZBH0hCx60gM0h4192dmAolaXFPQNpCQYMxo0PbQDYt/VrK/XzI0WClC+mP6pdoBQHFavzQIMw8NPqlEQMmbhczXD4HDGoJc5fg5yAldEQdWB1ec9M9umLD7XwB+y03iPphwA3jSMkSSWUUJWCXO+te4xdQxeIz6B3YOCo25cplRZ3Xed95hPDvS+ITfWX2B+Sgp2hnOhuf2sTEzjAZSA=;C+b3E/bb/GoMHCmFsdtr5A=="
 ---

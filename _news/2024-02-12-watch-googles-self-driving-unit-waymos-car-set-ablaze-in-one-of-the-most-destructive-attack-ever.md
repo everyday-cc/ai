@@ -66,19 +66,19 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "Self-Driving Waymo Robotaxi in Collision with Bicyclist in San Francisco, Raising Safety Concerns"
-    excerpt: "A Waymo self-driving car hit a bicyclist in San Francisco, raising safety questions regarding autonomous vehicles."
-    publishedDateTime: 2024-02-08T19:22:00Z
-    webUrl: "https://hoodline.com/2024/02/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns/"
+  - title: "Self-Driving Waymo Can't Avoid Crashing Into Cyclist"
+    excerpt: "The self-driving robotaxi reportedly braked heavily but wasn't able to avoid the cyclist. The vehicle in question was not reported but we suspect it was a Jaguar I-Pace after the company retired ..."
+    publishedDateTime: 2024-02-09T20:43:00Z
+    webUrl: "https://carbuzz.com/news/self-driving-waymo-cant-avoid-crashing-into-cyclist"
     type: article
     provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 41
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 39
     images:
-      - url: "https://img.hoodline.com/2024/2/self-driving-waymo-robotaxi-in-collision-with-bicyclist-in-san-francisco-raising-safety-concerns-1.webp"
-        width: 1640
-        height: 924
+      - url: "http://cdn.carbuzz.com/gallery-images/1600/1228000/100/1228197.jpg"
+        width: 1600
+        height: 1066
         isCached: true
   - title: "Mob attacks driverless car in San Francisco"
     excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."

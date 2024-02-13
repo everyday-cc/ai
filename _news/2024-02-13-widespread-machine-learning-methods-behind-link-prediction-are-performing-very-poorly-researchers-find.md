@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2024-02-widespread-machine-methods-lin
 webUrl: "https://techxplore.com/news/2024-02-widespread-machine-methods-link-poorly.html"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Widespread machine learning methods behind ‘link prediction’ are performing very poorly"
+    excerpt: "New research in the Proceedings of the National Academy of Sciences establishes that the metric used to measure link prediction performance is missing crucial information, and link prediction tasks are performing significantly worse than popular literature indicates."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/1033851"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 11
 
 secured: "9UHuLXdDHlHUMsiTr+k2xNSdMfL8F0dWyLwmmZcOHRLh0EN/cWg0XFRDSJ89tA7NSiClG5QZY8kyzPkMk/itd8QNQBZ+6NGNpsoQ70gMf9TAjV9Wh1NZXUqNchhXY8Zsq/GImcn3z9gAyVS3ECj2yrFH9+GGKIGMYAxhTxkobjoL+RDYtvUjXDWIBt3NtbjSwxCPDfPFTRjrzuCpNKKqLu450kLf/u2SgFGw0uu786sAlY1wkk5gcYe5cbaSDqzyeVatp3qx4H+CvpMJq36txXXEaXs4GwLdt6aeAMJa7iyYhf0zuuixdOvOrsGPRSycJQC25NogEBuadYqT4dRqVQBHuuTJ5PHtNlR1ZLIVuU1fm8h9Vq3PUFEtQ7fraFFdMIzMLZ621QBULagbJoQeVaTqTUSoUW72jMsSNv6WiayivKQIEQhDmwAT7XgB/HYa8MGk9Km6fAZ6PSqjjdkFwVjULOXG2rIb5ssWYroEtCwUIk7FvmdLYQ9AIvdk4NymPSRERqehmknaSP7sV/Az5A==;xwB/YE3EpisPIWSGhiaguQ=="
 ---

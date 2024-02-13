@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
-      "title": "The rise of the bank chief AI officer",
-      "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
+      "path": "_news/2024-02-13-dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice.md",
+      "title": "Don't tell your AI anything personal, Google warns in new Gemini privacy notice",
+      "excerpt": "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting.",
       "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
-      "originalUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "webUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg",
+          "url": "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:15:00Z",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
+      "publishedDateTime": "2024-02-13T09:50:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,52 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
+      "title": "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety",
+      "excerpt": "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
+      "originalUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
-        "AI in Finance"
+        "AI Ethics",
+        "Microsoft AI"
       ]
     },
     {
@@ -98,59 +151,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-microsoft-is-bringing-ai-super-resolution-upscaling-to-windows-11.md",
-      "title": "Microsoft is bringing AI Super Resolution upscaling to Windows 11",
-      "excerpt": "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
-      "originalUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T13:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-11-smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor.md",
       "title": "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor",
       "excerpt": "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy.",
@@ -159,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -202,58 +202,6 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-real-time-ai-monitoring-at-work-major-brands-are-snooping-on-employee-conversations.md",
-      "title": "Real-time, AI monitoring at work: Major brands are snooping on employee conversations",
-      "excerpt": "For years, businesses have monitored the content of employees' emails, setting up tools and rules to passively check what staff were sending to each other and",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101842-real-time-ai-monitoring-work-major-brands-snooping.html",
-      "originalUrl": "https://www.techspot.com/news/101842-real-time-ai-monitoring-work-major-brands-snooping.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-10-image-9.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T18:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -1453,6 +1401,58 @@
         "name": "The Financial Express",
         "domain": "financialexpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work.md",
+      "title": "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work.",
+      "excerpt": "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/",
+      "originalUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b1996fda6126e5c3faa4d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/",
+      "publishedDateTime": "2024-01-26T02:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

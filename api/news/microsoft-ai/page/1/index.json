@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
+      "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
+      "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
+      "publishedDateTime": "2024-02-13T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-openai-gives-chatgpt-a-better-memory.md",
       "title": "OpenAI Gives ChatGPT a Better ‘Memory’",
       "excerpt": "The A.I. start-up is releasing a new version of ChatGPT that stores what users say and applies it to future chats.",
@@ -54,29 +106,38 @@
       ]
     },
     {
-      "path": "_news/2024-02-13-why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026.md",
-      "title": "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026",
-      "excerpt": "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival.",
+      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
+      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
+      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
+      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 86,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
-      "publishedDateTime": "2024-02-13T15:09:00Z",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "publishedDateTime": "2024-02-13T13:15:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -93,8 +154,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
@@ -142,38 +202,29 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-microsoft-is-bringing-ai-super-resolution-upscaling-to-windows-11.md",
-      "title": "Microsoft is bringing AI Super Resolution upscaling to Windows 11",
-      "excerpt": "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial",
+      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
+      "title": "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety",
+      "excerpt": "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
-      "originalUrl": "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html",
+      "webUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
+      "originalUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 73,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T13:54:00Z",
+      "publishedDateTime": "2024-02-12T17:24:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -189,8 +240,9 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AWS AI",
         "AI",
+        "AI Ethics",
         "Microsoft AI"
       ]
     },
@@ -248,6 +300,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
+      "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
+      "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
+      "originalUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
+      "publishedDateTime": "2024-02-12T05:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor.md",
       "title": "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor",
       "excerpt": "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy.",
@@ -256,7 +351,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1356,110 +1451,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age.md",
-      "title": "AI Empathy: Emotional AI Is Redefining Interactions In The Digital Age",
-      "excerpt": "These advanced tools are not just software interfaces; they are bridges to understanding human emotions and behaviours in a manner that was once the realm of science",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "originalUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b93dd0bcecf3a77f4d00ea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/josipamajic/2024/01/30/ai-empathy-emotional-ai-is-redefining-interactions-in-the-digital-age/amp/",
-      "publishedDateTime": "2024-01-30T18:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-microsoft-earnings-what-to-expect-from-azure-office-and-ai.md",
-      "title": "Microsoft earnings: What to expect from Azure, Office and AI",
-      "excerpt": "AI is an engine for Microsoft’s MSFT, -0.28% Azure cloud-computing business, and analysts expect that business to have grown at a 27% rate on a constant-currency basis during the latest quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "originalUrl": "https://www.marketwatch.com/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 609,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-872097/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/microsoft-earnings-what-to-expect-from-azure-office-and-of-course-ai-65115a56",
-      "publishedDateTime": "2024-01-30T17:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

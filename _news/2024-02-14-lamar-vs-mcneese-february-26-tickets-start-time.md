@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
-    excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-11T04:23:00Z
-    webUrl: "https://www.wifr.com/sports/betting/2024/02/24/depaul-vs-georgetown-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WIFR
-      domain: wifr.com
-    quality: 22
-    images:
-      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/7IMHMUCU6JJ33F6MZXGO6UYQWI.jpg?auth=255e7c57cb70c737d3f7fea012a96765f739ee5915e245ac61d9aec85fccfc51&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SFA vs. Utah Valley February 24 Women's Basketball Tickets & Start Time"
     excerpt: "Stephen F. Austin Ladyjacks vs. Utah Valley Wolverines women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-11T10:19:00Z
@@ -65,34 +51,6 @@ related:
       - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/EKF2ERWPQBPPZPERNENJWTTLKU.jpg?auth=adad284a429a7013915456041ab414049cba1ddc46ee50df645644dba16a0dc3&width=800&height=450&smart=true"
         width: 800
         height: 450
-        isCached: true
-  - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
-    excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-12T04:20:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/02/25/green-bay-vs-youngstown-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hawks vs. Magic February 25 Tickets & Start Time"
-    excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
-    publishedDateTime: 2024-02-12T12:18:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/25/hawks-vs-magic-buy-nba-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/4KQ7WQNKM5NTBASKVPWGZF3PNU.jpg?auth=6b1d3371243d88f35b432fce17004de20c2fccaee602bed071ebe00f76e652a7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Michigan vs. Purdue February 25 Tickets & Start Time"
     excerpt: "The Purdue Boilermakers (22-2, 11-2 Big Ten) play a fellow Big Ten squad, the Michigan Wolverines (8-16, 3-10 Big Ten), on Sunday, February 25, 2024 at Crisler Center. The game will begin at 2:00 PM ET and is available via CBS."
@@ -133,48 +91,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/UONYLBEODZKBTMTNW6C3NSIVLU.jpg?auth=3a1a8af024d21510c9ec82e75a457b0682faa6a1e6f79aaac820f813651b27a6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Blues vs. Maple Leafs February 13 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Mitchell Marner and Pavel Buchnevich are two of the best players to keep an eye on when the Toronto Maple Leafs meet the St. Louis Blues at Scotiabank Arena on Tuesday, February 13 at 7:00 PM ET. Robert Thomas is a top ..."
-    publishedDateTime: 2024-02-12T22:23:00Z
-    webUrl: "https://www.ky3.com/sports/betting/2024/02/13/blues-vs-maple-leafs-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 22
-    images:
-      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/v2/LC3I3J4BUJLQDCLUCEYUH25GSI.jpg?auth=d439d977ffd840dbdd419216d7dcb274bcbef2ee8fa352ac33e51e06fe3c19e7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ducks vs. Canadiens February 13 Tickets & Start Time"
-    excerpt: "The Montreal Canadiens' Cole Caufield and the Anaheim Ducks' Troy Terry are two of the most exciting players to keep an eye on when these teams play on Tuesday at 7:00 PM ET, at Bell Centre. If you're looking to catch this game in person, head to Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-12T22:02:00Z
-    webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/13/ducks-vs-canadiens-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 22
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/7YEAZFOXYJKWLFSJM22KK6UZRY.jpg?auth=1c4fab413f9c9a65832ad52a95ba630bbf44985fefd100e7cb73edbb799889a4&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hurricanes vs. Stars February 13 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Roope Hintz and Martin Necas will be two of the best players to watch when the Dallas Stars play the Carolina Hurricanes at American Airlines Center on Tuesday, February 13 at 8:00 PM ET. Sebastian Aho is a top offensive ..."
-    publishedDateTime: 2024-02-12T22:02:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/13/hurricanes-vs-stars-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 22
-    images:
-      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/XUFJPIRDKJKMPOJUJXJWOJ62SI.jpg?auth=c1e752aefa4f6d36bc5088c12800ca966090256b7f3bf19ff21a4d698cca4266&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -306,15 +222,6 @@ related:
     provider:
       name: WWSB
       domain: mysuncoast.com
-    quality: 2
-  - title: "Predators vs. Devils February 13 Tickets & Start Time"
-    excerpt: "The Nashville Predators' Ryan O'Reilly and the New Jersey Devils' Tyler Toffoli will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Bridgestone Arena. If you're looking to go to this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://www.wkyt.com/sports/betting/2024/02/13/predators-vs-devils-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WKYT
-      domain: wkyt.com
     quality: 2
 
 secured: "ipqNpJbYILcmxD3InuiISQnbRohZUq78nc1dfrEeTsbrCrvKimGAakG16SL2MvYa1Dis/7cQC15s/7mBtMnSHctthLN2aeHod7OJfDDXKlJEj1bwfF5do9P9rat77c+t2LZZen09KlEXuwjq8/JQK3r/ppkLdXz1GGyx2ulufqxBMZahLlnRNVc6J0k7ZbZagqdhtne0PGTqRi78Mp1V3DWSwXDK8ul5Z7t/Jn4wS82ZgSnRNZ46jkTy3cskGrLGww17y5TrMxfQflQKxEXTNrl1apENne9MNYkfYSR5UVBE7dteb3bRsJrpgddSPvS4B2heQRcikDquPgffmWPeTkizBcHVVyXxe+QR7+W3UhU=;aMMEyCeRbs7WIvry7uA/Dg=="

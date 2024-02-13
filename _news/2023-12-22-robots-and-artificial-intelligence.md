@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png"

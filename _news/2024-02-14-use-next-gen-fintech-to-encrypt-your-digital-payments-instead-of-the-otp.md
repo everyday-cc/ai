@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech In The UAE Will Contribute $900 Per Capita By 2030"
+    excerpt: "Analysts of UnaFinancial have assessed the contribution of fintech to the well-being of the GCC region. By 2030, the UAE's fintech will add the highe"
+    publishedDateTime: 2024-02-13T21:05:00Z
+    webUrl: "https://menafn.com/1107848297/Fintech-In-The-UAE-Will-Contribute-900-Per-Capita-By-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/13/M_ded1dimage_story.jpg"
+        width: 940
+        height: 559
+        isCached: true
   - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
     excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
     publishedDateTime: 2024-02-13T06:49:00Z
@@ -148,6 +162,15 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 4
+  - title: "Mass Fintech Hub adds members"
+    excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
+    publishedDateTime: 2024-02-13T15:33:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z
@@ -165,6 +188,15 @@ related:
     provider:
       name: Finextra
       domain: finextra.com
+    quality: 4
+  - title: "Forbes honors Sure on its Fintech 50 list for the second year in a row"
+    excerpt: "Sure's second consecutive year on the Fintech 50 follows launch of industry-disrupting innovations to unlock the potential of digital insurance. LOS ANGELES, Feb. 13, 2024 /PRNews"
+    publishedDateTime: 2024-02-13T20:54:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961635.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 4
   - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
     excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."

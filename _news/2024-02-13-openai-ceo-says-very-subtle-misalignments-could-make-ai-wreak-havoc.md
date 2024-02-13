@@ -37,21 +37,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
-    excerpt: "And I’m not that interested in the killer robots walking on the street direction of ... OpenAI, a San Francisco-based artificial intelligence startup, is one of the leaders in the field. Microsoft has invested some $1 billion in OpenAI."
-    publishedDateTime: 2024-02-13T00:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/openai-ceo-warns-societal-misalignments-make-artificial-intelligence-107181949"
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T22:18:00Z
+    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
     type: article
     provider:
-      name: ABC News
-      domain: abcnews.go.com
-    quality: 64
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 44
     images:
-      - url: "https://s.abcnews.com/images/International/wirestory_9593a03830c0ef83fdef76c68bb87118_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
+        width: 506
+        height: 337
         isCached: true
   - title: "OpenAI reportedly seeking trillions for AI chip development"
     excerpt: "OpenAI CEO Sam Altman is reportedly in discussions with investors, chip makers, and governments worldwide to raise trillions of dollars for developing semiconductor chips."
@@ -62,6 +60,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 34
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+    publishedDateTime: 2024-02-12T16:31:00Z
+    webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+    type: article
+    provider:
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 24
 
 secured: "n98jlnvnn359fsjrk11F/6opvH5KemjDqFERiCiaTeO6dk5+xtCehWyOZD1qyYneEEKMMNr9ZgM8X8KkMjpaRyHku4lxi+1JvOFkiaHZ+6hj2h0jkMfgGAXgnKCvUvi7TEzwHfhnDmshb4lztKU+yWyzeDwMSSVruDtO0wTs41KfGG6Pi6JVSwhXgfoT3eklL09iQ5J5AJzZzkCTIhM5BvEhXKtWZXpuLCnAeK35FSkDtlvzzKpchWrm++TxLY9xM+++sQsCAj4sMZUQkFYvAPqPMAPL2u/O5ZbRnaco+joT0dSnqEU73clIjacmHMNDxnguOduZ0254ZGmmcUEtDH0OLL5ambpYvhIaYBmNoA7JXtKJK6C/yN2yLb+6WsZ4aVJgYTCGv9tvkUt+s1HR7BSZnvKtHxuOLSxt5HdFwv95dgv8Qpe9TDvijz5WO/r62GiRgIkZLVVudcC6t9n60tIvWGiVHp1GdrrGzTVWLTG2sbBryZJrT65DP6Bj0UD7o6mf6yRKd13Dcog6n1GXjg==;36WnTpuopvbpU80eioejag=="
 ---

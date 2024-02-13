@@ -7,7 +7,7 @@ originalUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-f
 webUrl: "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI PCs will make up nearly 60% of total PC shipments by 2027"
-    excerpt: "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple"
-    publishedDateTime: 2024-02-08T20:42:00Z
-    webUrl: "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-23.jpg"
-        width: 4608
-        height: 3456
-        isCached: true
   - title: "IDC Predicts NPU-Based AI Pcs to Make Up 60% of Global PC Shipments by 2027"
     excerpt: "PCs with specific system-on-a-chip (SoC) to run generative AI tasks will grow from 50m units in 2024 to 167m in 2027"
     publishedDateTime: 2024-02-12T02:47:00Z

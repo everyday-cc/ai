@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AWS has its mojo back thanks in part to artificial intelligence"
-excerpt: "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat sales, due in part to rapidly rising benefits from artificial intelligence."
+excerpt: "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat growth, due in part to rapidly rising benefits from artificial intelligence."
 publishedDateTime: 2024-02-02T13:48:00Z
-originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atrending"
-webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atrending"
+originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atechnology"
+webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atechnology"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 499
     isCached: true
 
-secured: "JWtEI5/XFHyMJZjfTbeLaucvA3oQ7ecV2qWyRBAX2FT4HD/2+Kmr82b39hnjaMkOlVVpR2A+m+FAO7HriSi79cZjFsNbQhoWwBQAh2/vz5wXiY2zs5qx0wqFCqXoVzYjhgz288S7LpO7/PPyFY3Nrq9lNlwCCwILBvuPdrq9KV3kkz49wB2rD80+abB6ttlYnjd2zD5/7Tt6iPX4WPA4Qeunb9Nmjcu76x8s7b4ZWMNHZg6Rwyw3pWG6DNz6pDe6M6w6YzBi3KGvKQIow0u/m/fHnw8ftmykpBfoA9QOxJa13j+IPjBu6bQmMX6Aflgzhp0edwwjkTowv1sqvpvhxKS0fb5lXo79exs/y9SHXKg=;CnLvpzwHy30hMOEJozGsFA=="
+secured: "w/2DI8v/fGQMUIRLlDvk7Eveg59RrdBQuiYS3MCwgQE2FF8l9wfNWVRan941hyiqxzf0ntgfQ4bs+UrBrnaqTWrfXCibcFnhnoP3ZyUo516g9x8wMe36Imu+CX449CnILz/XtplFp7e0WJbFd3lki0xby++HsYs7Y5H2ezjEhRJIdT3ZcT5IjYyfQbvCVK5OmUWEQ2wgGtAGlQfMRdTf3GE1f6R683Lw9NL8DJe+CNIm+e1/JPRQn/VIiLnuHe5864VkCPTQiNm+hjbIfh3Dk6+d6C3FllYAESId74Akx5R6+npDYyqRnzAAV0woGJ9lfRrGsw/6rrDJGqvzH+OpI/csJx0JDym43ObUlITcD6Y=;hlUlszUAJ6SMuYRU888zhg=="
 ---
 

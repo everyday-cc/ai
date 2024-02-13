@@ -19,24 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "The 7 Best AI Stocks to Buy for 100% Returns by 2025"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips 2023 was the year that artificial intelligence (AI) stocks exploded. All as"
-    publishedDateTime: 2024-02-08T22:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-7-best-ai-stocks-to-buy-for-100-returns-by-2025-1033048443"
+  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
+    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 49
-  - title: "Exit Now! 3 AI Stocks to Sell in February 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trade in artificial intelligence (AI) is starting to get frothy. So far in"
-    publishedDateTime: 2024-02-12T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-3-ai-stocks-to-sell-in-february-2024-1033058405"
+    quality: 64
+  - title: "The AI Chip Game Part 2"
+    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 34
+  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
+    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
+    publishedDateTime: 2024-02-11T20:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "7cXUI1H0gbLp1Qq+OkC9UNw1qa8rHLfb5ubjFSvg/cbnX4qF4586cHWAxMdOX+C17IBty08HXhQDU9arvSwu8aaD2o193OVzWTrOLX/MM6b7dFXyn1hIGhIMopvWGd6zyLM8u9tRjb8kBLS73fo3bMySxpplImvBW8QgRnsHJSySScqcrVVcorq/AP+fBMPq/Hx6a/v6h2Iq09LoFbBkOmiXMAMVc/FVDoc3J3qIPctZ7tDkvL+luXzz6TRuCL9Bu8yeLAvYmWOkuPTt37hBeTxtaqdnXNU/UDv2HwXP1CYOuKr/LriQJkRVtXKM0iiNaSYJhoruszCgjqcZRg0End3oIDtllLIiaIvqaB4Lo1td72XTGq+SOzGYPQIjWiU4SwnESQP8ehXM7+93//YeoZV9TiIFarot+lFOeZeGQG7llQQwNQNuXmYnNRtGv+/SY6rH9iItsFJ2gYdJVN3xKAJx8k9oogLUNI7vWqdAIeM9hpwRQaWMWg3SpHRgtdbFsXraji/E1hf7VxsfCGXvaA==;Vo7RxuDGSFsX8J7OCUnMUA=="
 ---

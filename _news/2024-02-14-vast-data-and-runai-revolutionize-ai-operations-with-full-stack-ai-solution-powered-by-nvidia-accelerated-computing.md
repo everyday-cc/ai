@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutio
 webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -25,30 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Joins Newly Launched Artificial Intelligence Safety Institute Consortium by National Institute of Standards and Technology"
-    excerpt: "NVIDIA has joined the National Institute of Standards and Technology’s new U.S. Artificial Intelligence Safety Institute Consortium as part of the company’s"
-    publishedDateTime: 2024-02-12T07:18:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34951-nvidia-joins-newly-launched-artificial-intelligence-safety-institute-consortium-by-national-institute-of-standards-and-technology"
+  - title: "AI in Schools: Revolution or Risk for Black Students?"
+    excerpt: "By Joseph Williams Originally appeared in Word in Black Hailed as cutting-edge technology that will revolutionize teaching, next-generation artificial intelligence is coming to a classroom near you — if it"
+    publishedDateTime: 2024-02-13T22:00:00Z
+    webUrl: "https://dallasweekly.com/2024/02/ai-in-schools-revolution-or-risk-for-black-students/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 8
+      name: The Dallas Weekly
+      domain: dallasweekly.com
+    quality: 39
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e706ee3a511fae1cf845f573c78eedfc.jpg?t=20240212_071403"
-        width: 753
-        height: 408
+      - url: "https://dallasweekly.com/wp-content/uploads/2022/01/classroom-scaled.jpg"
+        width: 2560
+        height: 1706
         isCached: true
-  - title: "One Zero Bank Launches Groundbreaking GenAI-Powered Service Platform Integrated with AI21, Revolutionizing Customer Interaction"
-    excerpt: "Based on LLMs (Large Language Models), 'Ella' 2.0 showcases advancements in understanding and responding to customer queries and open questions in multiple languages. The platform, cultivated through extensive user training, delivers instantaneous responses, operates 24/7, and harnesses machine learning to tailor personalized financial services."
-    publishedDateTime: 2024-02-12T14:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960809.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
-secured: "GJ25k6gKh9I/wJyLrpGj+8loES+Mnd/ruMHPcGIpom46QBLAIcdAVuPwyI8ho20YgaXS0dvFjNX4oZP8mU8FD9NFuOP4748fYrdAS6gq9obtIHDOZHzPUgCvvNcWRoSkq4ctmvjmMgTXTot76GtXUJ1Z1Ug7ZBuNEXThMgjhBs3bjU2aaMfZrgIaUSWwUcM4+yRL4HkziOSFzvp2MBGhYV29+bGwbk9xWAIWrUOnBYy+jTwzYWUnVATRWildz9gpdx+DecMx5IuvMGJKTHQjk/HPnwyKYcz8Fw8cXO2AEFJq69Ef/B/kscsXP8ItNWJs5PGf1OgpvhEAiw5iBJd0JJ07T/opBr57JwztrxfEGfI=;XUfrWn2U0mheeO+BH7H80w=="
+secured: "bGsGtZ796j/QuSgxX1/T60Vt6T9sI5Pwl/+9jH8h5m5SwjnMinfZ2a+uOZ3RKNa7Vu27w4xR6YngIz0d9RABo2VmMM079O6i50TysqKOMpECp+rbJyMkhtiEVpzrXCCVNJ7HaATUnBIoSQS5p+Ok+cC7jrtEKvkhNCdyXNiAhE65W3SS5DYxg3F2edfzcOqZRdLF9J9GcLKrnp45veM49HmD6kgoPGl3srWSLGee8Ewcr88arDMF4czSSIeXOAaqZzKdz/T5VcO2LDC48EfjMA69N/73pii1nOMLL6B1QrAZ4BQIKx80gNtU3xT8Y3MOtqtF8pZa+5God7Ev+mrC/N6zFlnJPoMNEnuAmhwDkZx5/sUV3hTeGSGpnEF0hyhvKMvHa4TdFHFGm+lilaVZQwlcF3JZp/hi/JXFwAj+cjJwv4WY5FTakjJ4gRxY8DtD3ursfnXcnRSGr1eYOD2Sxsj/7TZgUqcGe+bF7As3ti5SwmSQn9jtnQaf1WCATe5CO8pYyrUN40/qYF49lMBM8A==;uJmplxZEzUUCQqKvPZDSNA=="
 ---
 

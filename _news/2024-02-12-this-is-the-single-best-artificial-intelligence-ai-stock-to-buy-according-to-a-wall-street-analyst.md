@@ -18,43 +18,33 @@ topics:
   - AI
 
 related:
-  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "Charting, Price Performance, News & Related Contracts."
-    publishedDateTime: 2024-02-09T15:19:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
+    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
-        width: 1875
-        height: 792
-        isCached: true
-  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "And remember Watson? Well, it's still alive and well at IBM. There is the Watsonx.ai studio, which is a platform that provides businesses with large language models (LLMs) where they can actually build their own chatbots. Another product is Watsonx.data ..."
-    publishedDateTime: 2024-02-10T10:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "3 AI Stocks to Buy on the Dip: February 2024"
+    excerpt: "Marc Guberti is a finance freelance writer at InvestorPlace.com who hosts the Breakthrough Success Podcast. He has contributed to several publications, including the U.S. News & World Report, Benzinga, and Joy Wallet. The post 3 AI Stocks to Buy on the Dip: February 2024 appeared first on InvestorPlace."
+    publishedDateTime: 2024-02-10T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-on-the-dip%3A-february-2024"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
-        width: 1875
-        height: 792
-        isCached: true
-  - title: "Is Arm really an AI stock?"
-    excerpt: "It’s been a big week for the chip designer Arm Holdings. Since the company’s earnings call last Wednesday, the stock has just about doubled:"
-    publishedDateTime: 2024-02-13T06:31:00Z
-    webUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "The AI Chip Game Part 2"
+    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 34
 
 secured: "nmnLlhIQey1oajyEYIiHSTNEzbPho+TpZnkHpF/MFXXZyclcFq9wZbmXSZJKm79/ugwBEdS487eG2DrgZd9SMnyBRhkPueSzDpNrvm0cJ+jbXKt4LSWBxkE60C80488BvYFCmqUkR3YRUVurxV5VNRpRiTHJbCFAjKQSqqvjRWntBilDda1+jxaJAvyg8nz9kWs+v/3Gin27sNbaDG5RNPCmKXhnryMj+tgXzjnCXERkhKTEQ+M3hecnCKqc3HtKXrYnSFtXsitWxYXXcePREm7M8/5pI/jJTYEDnAd2wof0j3LKn++f7uVh8elg+FXQnL1ElW/h02E/904TbKtEE+H2kHPzq+0g+h0io7Eopppj/ndJRGZcIGEZbxdZddmA3mEcxz1/6RLp7bM/BkAfICyT6BKbBnwrR1nQpu/tYzfA1yjP7YMar/wpVFkK0WrP4ISFcSHLQnu+e8iiFUUvFH3gv/f29+JBk+bp4qM1iFl4gPx6uV1Bo1cnunwKFItncH8sH3dhWCX/vJqutnmvIA==;s6rGHO5cqfcUe54r99RiJg=="
 ---

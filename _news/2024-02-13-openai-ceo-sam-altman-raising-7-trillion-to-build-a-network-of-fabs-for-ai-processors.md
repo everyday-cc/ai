@@ -119,6 +119,20 @@ related:
         width: 1000
         height: 568
         isCached: true
+  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
+    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T20:39:00Z
+    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
     excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
     publishedDateTime: 2024-02-12T22:11:00Z

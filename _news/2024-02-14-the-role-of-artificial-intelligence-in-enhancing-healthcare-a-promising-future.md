@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-13T17:18:00Z
 originalUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-enhancing-healthcare-a-promising-future/"
 webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-enhancing-healthcare-a-promising-future/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/02/AI.jpg"

@@ -48,15 +48,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
-    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
-    publishedDateTime: 2024-02-11T20:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
 
 secured: "vw5e0RaZKIORiEG/F4khDs/yaoexylQzUCBuVJcP3xAzRvtOtTbKVYfgCHHhsxqxXdTilULpzlrWtSUESs5Ew1QLg7n1DgXONRrtzrySuGq7g3DwtHObaoWxX8FRjGLQC5CvPjnsGd3EctN02ouAA2C3loFoQhGrOWTRtK6uhuA7gkrWzvL1Prf2MFZkXuS2GAmInKcpG8xIpOT/a4Km9/Dvs62ey7TaYFWmd+ND67mLTcTATC6uIGbIbIvH/ASGmRdJ6VEgtNXIiLGrX5723SBGbqx0mTXSZRDz2qav1UFjp6AKJDxGcQqPknlWwobhgjIrXtCtsFrcMj7Z87aPIh0cS3pv+ki+nzIuzEmT4Fs=;Az1MQ6plFY43D1BGW4LPOg=="
 ---

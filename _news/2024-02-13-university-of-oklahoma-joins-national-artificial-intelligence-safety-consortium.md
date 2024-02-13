@@ -33,6 +33,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 53
+  - title: "The chief artificial intelligence officer: A blueprint for state and local government?"
+    excerpt: "Late last year the White House issued an Executive Order (EO) on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. On page 52 of the 66-page document, the EO called for each federal agency to establish a permanent chief artificial intelligence (AI) officer."
+    publishedDateTime: 2024-02-13T16:14:00Z
+    webUrl: "https://www.americancityandcounty.com/2024/02/13/the-chief-artificial-intelligence-officer-a-blueprint-for-state-and-local-government/"
+    type: article
+    provider:
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 11
 
 secured: "qhH0CS2pX42Nq/2PmacVOspBHd3oWDrxeJwWweiG1nrZKcUHeHQlQMXqeaNMyPJGmQYrsf+judYLqvNZtku0H3XsS2Mr6YNM+ZYHqo2Yzg1Qeyqla9XfpXaqo3o1sc3x1xstUuD2ibdqSprmUIeeD5m7hGNi9sKAVn9H8EZoYUEI6Dc9SpVdUbEYSonkGPYySOjXdM5PZvG2ajbCeeNgGMkuVFWiSwtOuuVgF7zQvcJ59OMbUmNs8jV5cs939JX+5JGiuYjISLS2g32Ji2IP5ceHa04zO2SudcwmOKxkknKNRcRSFG53PqnYxMwM5P2bDEpQ+CyIw9fmpkwn4VgctWAO2uSSqbFSkx54s2LTY08=;pXfMfwwYNbAeFISme6bIxQ=="
 ---

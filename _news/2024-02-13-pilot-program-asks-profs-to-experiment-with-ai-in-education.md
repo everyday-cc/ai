@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/pilot-program-asks-pro
 webUrl: "https://www.govtech.com/education/higher-ed/pilot-program-asks-profs-to-experiment-with-ai-in-education"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1440
     height: 700
     isCached: true
-
-related:
-  - title: "American Management Association Introduces Artificial Intelligence Learning Resources To Help Organizations Prepare For AI's Impact"
-    excerpt: "According to AMA President & Chief Executive Officer Manny Avramidis, \"If you haven't developed a leadership strategy to help your team understand and leverage AI, to put fears they may have about it in proper perspective, and to recognize the potential around it-then today is the time to start.\""
-    publishedDateTime: 2024-02-13T18:31:00Z
-    webUrl: "https://menafn.com/1107847050/American-Management-Association-Introduces-Artificial-Intelligence-Learning-Resources-To-Help-Organizations-Prepare-For-AIs-Impact"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?795801"
-        width: 253
-        height: 250
-        isCached: true
 
 secured: "dI1qSvSBYmIsneDxPKWNxm8PzDwKyaaBWBmIVkYHQSqXFqpnkJybZMbnyIOfKriaQvwewf0GT/iCpfXAUhJwc+/XpW54W0VmF468m59CZgzr8b7Oej34dU5Cy5YitqDCTQaIq64V4aoouLm91bU1Gu2OF+7yhQHbNvRTsWxIqMESYHGkA9i+EGbdyJvxxcca2BbBuii8Z75AAJDxozx/ft2VPZoPDbE2EN4QsgQuE3Qq45DLD9R9mC82DnMSynuWRxGL8kkMai1Q6qG4AVZDSWEcpzABzxSjtZUJQXpLbPAtAyJnfPZFEW/GDVHA3fjlttp4Fzi+NWDnEDjNHxF8dpHiEwXa72phSiy2/b+RnAU=;lhRjAElitZ67fn7p7fNn1w=="
 ---

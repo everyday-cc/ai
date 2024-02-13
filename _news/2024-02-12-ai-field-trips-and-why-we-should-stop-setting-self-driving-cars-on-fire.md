@@ -47,6 +47,20 @@ related:
         width: 1349
         height: 900
         isCached: true
+  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
+    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
+    publishedDateTime: 2024-02-13T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Exploring the impact of artificial intelligence in marketing: The future of advertising"
     excerpt: "In the fast-paced digital world, the combination of Artificial Intelligence (AI) and marketing promises to change how companies interact with their audiences. TribLIVE Local’s upcoming seminar “The Future of Advertising” aims to clarify this intersection,"
     publishedDateTime: 2024-02-12T20:15:00Z
@@ -74,6 +88,20 @@ related:
       - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
         width: 1066
         height: 600
+        isCached: true
+  - title: "Samsung Galaxy Buds 2, Buds 2 Pro, and Buds FE are finally getting AI translation"
+    excerpt: "With Live Translate, users can receive real-time call translations on their screen while using Galaxy Buds, but may need to download additional language packs to access certain languages. If you’re still not convinced by some of the advantages of AI ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.androidpolice.com/samsung-galaxy-buds-ai-translation-s24/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 34
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/samsung-galaxy-buds-2-pro-everyday-carry.jpg"
+        width: 3000
+        height: 2000
         isCached: true
 
 secured: "v5EDrBLnuqbZa0sCmzRAZI5oV+BRWcsSkObsmtmR54vs1pIsWQV785sz4Purnw6Oj5PkzHOhtv2HI1eDM8HRJkfe8enS7+QpyxuY5LhmaMLbyezkCj/EWXbiru9F/aUtMLPhUaY9wAzMFrArSIjRYtq2R03a3q6WgAh/yPbqib/aWlXIP3iPgZO2Gx3pJRl8CupQGwIudNJ/mFyC3toQM60XMgYtr5YufkmxISB1M1Kn70bhxRH1CcvjbKY2CnfVxlMGgzafX7gaqOTAcq9Hx83kWjlSAFlkQpBRgOMF5ls16p51fOGBJWa1B0NU/vY0MSVU0wArl5uxmFb93V8byJX/Qkt90LFW3P4ReCLJjNA=;6bF5h3KKxcRwTtYP7hmopg=="

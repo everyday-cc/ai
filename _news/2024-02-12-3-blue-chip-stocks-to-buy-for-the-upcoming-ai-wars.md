@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -23,22 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "AI Driving Acceleration For Big 3 Cloud Stocks"
-    excerpt: "Alphabet’s Google Cloud, Microsoft’s Azure, and Amazon’s AWS shined as generative AI products drove an acceleration in cloud revenue growth in the Q4."
-    publishedDateTime: 2024-02-08T23:01:00Z
-    webUrl: "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/"
-    ampWebUrl: "https://www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/08/ai-driving-acceleration-for-big-3-cloud-stocks/amp/"
+  - title: "3 AI Stocks to Buy on the Dip: February 2024"
+    excerpt: "Marc Guberti is a finance freelance writer at InvestorPlace.com who hosts the Breakthrough Success Podcast. He has contributed to several publications, including the U.S. News & World Report, Benzinga, and Joy Wallet. The post 3 AI Stocks to Buy on the Dip: February 2024 appeared first on InvestorPlace."
+    publishedDateTime: 2024-02-10T12:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-ai-stocks-to-buy-on-the-dip%3A-february-2024"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c5077ec8cf125f217b25fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "The AI Chip Game Part 2"
+    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 34
+  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
+    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
+    publishedDateTime: 2024-02-11T20:54:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 17
 
 secured: "KDmqka6F13T2M/tB3eHgEDobdhlm7baOFk/CflIXNYe8Q/mtknCMAPDBacfOdeg/h/kCkf+wLBeVXbrcYFxsJQqxSFqh/mhNWg32eo1ahHJBrWDTQr/OUP343P9Qw8RtK1YSkLB2g8n2g8TEZ9YQ0hiBKjmjEq2xiXHVpP8Q4ixH6ygjEOtXJOcT9ITMuBipWB4yRHJDEHW75AbqLk76sK2V7L45RV42SKungZwMiqfMp5RCG9ETrsf7I2hy0FA5AhLivWYnCv4avASenAAjW6Rd/2PvfXnwS1jz8pyQdDocQbsku9i7c27dQM43DeoUWsmtkN1NbqmdrY4axOAApE9DQJoUpd7yTeF0gS5RGr4=;ZxpwF5B5dvEz6uHMQhQAbw=="
 ---

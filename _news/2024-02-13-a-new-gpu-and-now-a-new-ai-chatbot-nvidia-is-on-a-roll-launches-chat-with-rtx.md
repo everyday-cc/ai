@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal
 webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
 type: article
 quality: 78
-heat: 148
+heat: 198
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chat With RTX brings custom local chatbots to Nvidia AI PCs"
+    excerpt: "Nvidia said that Chat with RTX is more than a mere chatbot; it’s a personalized AI companion that users can customize with their own content. By leveraging the capabilities of local GeForce-powered Windows PCs, users can accelerate their experience and enjoy the benefits of generative AI with unprecedented speed and privacy, the company said."
+    publishedDateTime: 2024-02-13T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/chat-with-rtx-brings-custom-local-chatbots-to-nvidia-ai-pcs/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?w=1200&strip=all"
+        width: 1200
+        height: 637
+        isCached: true
   - title: "Hands On With Nvidia's Chat With RTX: Leverage Your GeForce Card for Local AI"
     excerpt: "Got the yen to fashion your own personalized chatbot? Chat With RTX is an easy-to-use generative AI tool for your PC, using the GPU you may already own."
     publishedDateTime: 2024-02-13T14:22:00Z
@@ -71,6 +85,24 @@ related:
         width: 696
         height: 496
         isCached: true
+  - title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
+    excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
+    publishedDateTime: 2024-02-13T20:29:00Z
+    webUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 64
+  - title: "Nvidia launches a chatbot that can run on your PC's GeForce RTX GPU"
+    excerpt: "You can also feed it videos from the web, including clips from YouTube. Simply plug in the URL of the source video, then ask the chatbot"
+    publishedDateTime: 2024-02-13T19:04:00Z
+    webUrl: "https://www.techspot.com/news/101872-nvidia-launches-local-chatbot-runs-geforce-rtx-gpus.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
     excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
     publishedDateTime: 2024-02-13T17:32:00Z
@@ -108,6 +140,24 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
+  - title: "Google’s AI chatbot Bard is now called Gemini: Here’s what it can do"
+    excerpt: "Google’s most advanced large language AI model, Gemini, has officially launched on Android and iOS in the United States."
+    publishedDateTime: 2024-02-09T05:41:00Z
+    webUrl: "https://cointelegraph.com/news/what-can-google-ai-chatbot-bard-now-gemini-do"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
+    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
+    publishedDateTime: 2024-02-13T18:53:00Z
+    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 19
   - title: "A new way to let AI chatbots converse all day without crashing"
     excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
     publishedDateTime: 2024-02-13T14:44:00Z

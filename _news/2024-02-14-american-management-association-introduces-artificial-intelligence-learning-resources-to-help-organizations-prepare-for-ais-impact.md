@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Pilot Program Asks Profs to Experiment With AI in Education"
-    excerpt: "As part of the AI Unity Initiative by the school software company PowerNotes, professors are testing new applications for artificial intelligence in classrooms and research, then discussing the results with each other."
-    publishedDateTime: 2024-02-12T23:51:00Z
-    webUrl: "https://www.govtech.com/education/higher-ed/pilot-program-asks-profs-to-experiment-with-ai-in-education"
+  - title: "Americans Had Imaginary Girlfriends Long Before AI Companions"
+    excerpt: "Long before AI-generated sweethearts, dead maidens gave Americans someone to pine for—but their impact went beyond romance."
+    publishedDateTime: 2024-02-13T21:30:00Z
+    webUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 54
+      name: Time
+      domain: time.com
+    quality: 67
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2400690/2147483647/strip/true/crop/1000x486+0+66/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fae%2F45%2Fbaf0cf324b789aac10caf77fa5e1%2Fai-research.jpg"
-        width: 1440
-        height: 700
+      - url: "https://api.time.com/wp-content/uploads/2024/02/grave.jpg?quality=85"
+        width: 1024
+        height: 699
+        isCached: true
+  - title: "The AI companions you can have conversations with"
+    excerpt: "Tech firms are now racing to release their own conversational AI companions. Google has Vertex AI Conversation, Microsoft has Azure AI, and there are now a host of start-ups in the sector. Meanwhile, Amazon is sticking with Alexa, but planning to add ..."
+    publishedDateTime: 2024-02-13T06:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68165762?at_medium=RSS&"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-68165762.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68165762.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73BA/production/_132562692_prof1.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "DLtlD+xsPfehdchN9rSwZQum39VFdasQ4qhhBp5ah5jMU9LE4Lffz8EYst32iDceRdyyZEUYwHro2r9PWqUCaGAotG4/N+jnRiBtq3Nw5cJoLhwPrZuu9YgXkvtZZEmh6+hQ2EwrM6BZQYApQz/knlzI0h5jhUg1LAcZXV8czRzlRiy90m00MCmUwEK9bHFvw4HSG6kkyA05qOS+FFVEXxg7U+N89oD9tXPJHkWX7Dp0zHPHyCSJ0YM6gxmOKXhPBRsNX71SzbeDTaV8mHtziHk1gVQBpKMOW4hnzlH6O2XrwBwxeJr2RAzB7CtuQxATeSKgb+pWuJddpa5lSaQwCkZmYIyQM0m6s3fQPsMxGY8=;FLFupJQGsnvfz3nOsweI3Q=="

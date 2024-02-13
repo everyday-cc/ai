@@ -174,6 +174,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "What comes after Stable Diffusion? Stable Cascade could be Stability AI’s future text-to-image generative AI model"
+    excerpt: "Stable Cascade uses somewhat of a different architecture than SDXL to generate images that Stability AI researchers hope will be more efficient."
+    publishedDateTime: 2024-02-13T21:22:00Z
+    webUrl: "https://venturebeat.com/ai/what-comes-after-stable-diffusion-stable-cascade-could-be-stability-ais-future-text-to-image-generative-ai-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image_437058.png?resize=667%2C659&#038;strip=all"
+        width: 667
+        height: 659
+        isCached: true
   - title: "What You Can Learn From These 2 Generative AI Startups"
     excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
     publishedDateTime: 2024-02-13T14:38:00Z
@@ -187,6 +201,20 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1169108667_537270_rilaf0.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Responsible Use of Artificial Intelligence"
+    excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
+    publishedDateTime: 2024-02-13T22:21:00Z
+    webUrl: "https://www.databreachtoday.com/blogs/responsible-use-artificial-intelligence-p-3561"
+    type: article
+    provider:
+      name: DataBreachToday
+      domain: databreachtoday.com
+    quality: 37
+    images:
+      - url: "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/responsible-use-artificial-intelligence-showcase_image-5-p-3561.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "How generative AI is a game-changer for communications in today’s workplace"
     excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."

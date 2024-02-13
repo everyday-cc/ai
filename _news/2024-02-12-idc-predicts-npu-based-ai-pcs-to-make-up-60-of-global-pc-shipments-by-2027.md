@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 764
         isCached: true
-  - title: "AI PCs will make up nearly 60% of total PC shipments by 2027"
-    excerpt: "Until recently, running AI tasks on a local machine involved the CPU, the GPU, or a combination of the two. That's not ideal for a couple"
-    publishedDateTime: 2024-02-08T20:42:00Z
-    webUrl: "https://www.techspot.com/news/101818-ai-capable-pcs-make-up-nearly-60-total.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 69
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-08-image-23.jpg"
-        width: 4608
-        height: 3456
-        isCached: true
 
 secured: "SA5WKzoidYseL8rtg/vcOVZMKiO+29gXvnGwHHzqbCKgEFjwu2sJWdGdNNJQm/Y+XhdLEiTWYo6yUJuULLoMZ3tImAY5NMwGj3DeGYaNldVv60RhHFu+bMSnFVDAVSvo8BK9/Ws4pOsdkOM9BdACU3uDpkigr/EDbvCDAZ4sddy53yDuFhg91o9EYg0mVAd86SYj2zbzH9BG9gat8I0yB/XkRq5lQ3jZYaow0utg8LJ/SSzgfT/m7W+FvAxqd96Xm/TUMUi1OYosP/HmCS88YCRApxJ2FcDaywIvQrhAkK6izOux0qlEGKDz1IGyk0oh0wftWO8R15vY+0SPIyhleMaQyC03b8AjS79ybOvREe4=;+sks2eCKFCr/x+lKzb2r4A=="
 ---

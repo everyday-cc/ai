@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
+    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
+    publishedDateTime: 2024-02-12T03:25:00Z
+    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
     excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
     publishedDateTime: 2024-02-13T18:15:00Z

@@ -22,6 +22,17 @@ topics:
   - Meta AI
   - AI
 
+related:
+  - title: "Kartoon Studios, Penguin Young Readers Launch ‘Llama Llama’ Retail Program"
+    excerpt: "Kartoon Studios has partnered with Penguin Young Readers and Kohl’s to launch book and plush products inspired by the Llama Llama preschool franchise. The retail promotional program will be part of Kohl’s Cares, where 100% of Kohl’s net profit will benefit nonprofit organizations that improve the well-being of different communities."
+    publishedDateTime: 2024-02-13T19:07:00Z
+    webUrl: "https://toybook.com/kartoon-studios-penguin-young-readers-llama-llama-launch/"
+    type: article
+    provider:
+      name: toybook
+      domain: toybook.com
+    quality: 17
+
 secured: "Sby9eJ7t4VboZwDeqGWZLUOiTzzcpSdpAD1CWU7e0/zFMT5bX9Q6H/JldZsBudb6vWclOowULyvCssRmQLS6UcLsCjUrRX8Ejraw+Ra1yrLrrRGWYXcvBJzGw9mwpQ8+ikaItgirbSVaG6lyEytq5fVLqIxig4TuY52/stECEZNdmUne5uVr8RwZ0r83R+waXqT+RjrnBNyg5d0zrPP3JKBKfiXLE7l2vfaUMZNG4wJoxcGY1CKQViPyUcDrvU+KuzEggZ6gcHjtFZOjwPj9C9IZh+6ibiqfdzYX8VpgAdziUhlEM/rWBC8DplniDUFSRqW/EGuNItGwrPntwmoXrqTjRUTdw+lDX0IfJ0mXkgcsl5q6n4iANSF4jYGoA7EmtkmsHbaj6hjRbcR/sji6pM+niIkGVRRDASvg2cZb30mdass8BYhlI2BezZO1iuq/PcbrPxJvLV37CJlAsdFr9ATTN7qdZtgkbHkexXw48WCoNdUqVpZ+QES+gRTYMUfQOVpbRBceOXvBKOSwi5OVKQ==;PBUaI5FPA3cOGAh7LXDyQw=="
 ---
 

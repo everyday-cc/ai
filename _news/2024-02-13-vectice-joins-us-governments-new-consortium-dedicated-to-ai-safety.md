@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new
 webUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: VentureBeat
@@ -39,6 +39,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "The chief artificial intelligence officer: A blueprint for state and local government?"
+    excerpt: "Late last year the White House issued an Executive Order (EO) on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. On page 52 of the 66-page document, the EO called for each federal agency to establish a permanent chief artificial intelligence (AI) officer."
+    publishedDateTime: 2024-02-13T16:14:00Z
+    webUrl: "https://www.americancityandcounty.com/2024/02/13/the-chief-artificial-intelligence-officer-a-blueprint-for-state-and-local-government/"
+    type: article
+    provider:
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 11
 
 secured: "SApLGrDgHdmfw/QGbjdTI6oBk90LZnQJMy3Dx06FMuorb7L6FpVjMCS3KxTGt01GebLr9aH7wCyeE0LB3GU1kS5f6NW5/wlTQISP5GMc9P/kvr/xUYbru4XC5Hh5UMO+Ri0TtylKPjOQo8WA6HPkMv7A2pwmDGtF/Ft28sxFTDfWTU20XzEz4lrtQe8mELWC2m3+6QiSUVd55ZOpBFpH5iodM4BM604+DRqtnT+xFz2uetEdW1WkvqYscdKJ6RcpubGYiKtcxVDRfpC57YIMfbFOJHfQjgACN6gOj5/tJPdsVFAsDMPlRbezRO4Ef1+bZzgRrKLcyKM5n1Fn1GSXsu2GCw5se08RrS9BdtzUPjs=;5C1eh5K0p8j64TA2DBJIkw=="
 ---

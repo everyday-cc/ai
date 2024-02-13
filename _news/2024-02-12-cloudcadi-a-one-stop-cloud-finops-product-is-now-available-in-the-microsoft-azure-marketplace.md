@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft Cloud For Sustainability Gains Data & AI Capabilities"
+    excerpt: "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress."
+    publishedDateTime: 2024-02-13T21:46:00Z
+    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/"
+    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026"
     excerpt: "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival."
     publishedDateTime: 2024-02-13T15:09:00Z
@@ -48,21 +64,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
-    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
-    publishedDateTime: 2024-02-12T05:11:00Z
-    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+  - title: "Microsoft is bringing AI Super Resolution upscaling to Windows 11"
+    excerpt: "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial"
+    publishedDateTime: 2024-02-12T13:54:00Z
+    webUrl: "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 75
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
     images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
-        width: 1200
-        height: 628
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "How Microsoft's AI push is helping it close the gap on Amazon"
     excerpt: "Discover how Microsoft's strategic focus on AI and cloud computing has enabled it to rapidly close the gap on Amazon. Learn about the growth of Microsoft Azure and its powerful AI solutions."
@@ -118,6 +132,34 @@ related:
       - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
+    excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
+    publishedDateTime: 2024-02-12T05:40:00Z
+    webUrl: "https://www.crn.com.au/news/cabots-partners-with-microsoft-and-insight-enterprises-on-ai-chatbot-605002"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg"
+        width: 690
+        height: 428
+        isCached: true
+  - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
+    excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
+    publishedDateTime: 2024-02-12T23:53:00Z
+    webUrl: "https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 42
+    images:
+      - url: "https://res.infoq.com/news/2024/02/copilot-studio-powerva-available/en/headerimage/generatedHeaderImage-1707698005856.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Nerdio Adds Partner Resources, AI To Its Microsoft Cloud Management Suite"
     excerpt: "Nerdio, a vendor for Microsoft cloud technologies management software, has added artificial intelligence capabilities to its products and is investing in more partner resources after growing the base by 150 percent."

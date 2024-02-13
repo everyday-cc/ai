@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
+    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
+    publishedDateTime: 2024-02-12T03:25:00Z
+    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
     excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
     publishedDateTime: 2024-02-11T06:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-heal
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Dataquest
@@ -27,108 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026"
-    excerpt: "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival."
-    publishedDateTime: 2024-02-13T15:09:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
+  - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
+    excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
+    publishedDateTime: 2024-02-13T13:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/13/new-ai-powered-program-alcion-helps-msps-microsoft-365-backup-modernization/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-  - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
-    excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T07:30:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 27
+  - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
+    excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
+    publishedDateTime: 2024-02-12T13:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960671.htm"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 89
-    images:
-      - url: "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Microsoft's AI push is helping it close the gap on Amazon"
-    excerpt: "Discover how Microsoft's strategic focus on AI and cloud computing has enabled it to rapidly close the gap on Amazon. Learn about the growth of Microsoft Azure and its powerful AI solutions."
-    publishedDateTime: 2024-02-12T15:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/articleshow/107636221.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
+  - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
+    excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
+    publishedDateTime: 2024-02-12T19:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9961018.htm"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107636221,width-1280,height-720,resizemode-4/107636221.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Microsoft Cloud and its Azure OpenAI Power Telstra's Generative AI Solutions"
-    excerpt: "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more successful interactions with customers."
-    publishedDateTime: 2024-02-12T02:08:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34930-microsoft-cloud-and-its-azure-openai-power-telstras-generative-ai-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 66
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/46728b61d34ccb500614b5e7b5e40db9.jpg?t=20240212_015241"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
-    excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T12:17:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/microsoft-ai-growth-helping-azure-cloud-chip-away-at-amazons-lead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
-  - title: "Microsoft to build new data centre in Centurion"
-    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
-    publishedDateTime: 2024-02-12T05:34:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
-    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to CloudCADI – One Stop Cloud FinOps Solution, directly from Azure Marketplace itself - while leveraging scalability, reliability, and agility of Azure in driving application development and shaping business strategies."
-    publishedDateTime: 2024-02-12T05:49:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 57
-  - title: "Nerdio Adds Partner Resources, AI To Its Microsoft Cloud Management Suite"
-    excerpt: "Nerdio, a vendor for Microsoft cloud technologies management software, has added artificial intelligence capabilities to its products and is investing in more partner resources after growing the base by 150 percent."
-    publishedDateTime: 2024-02-13T14:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/nerdio-brings-ai-to-its-microsoft-cloud-management-suite"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "A9Amnar62iJPMitO0iXq4mqu5aq5IonHlFoZ7KXTVsYtHawZI3ySH8zn8IUuUGFKmchmbzXUatlZ7jUWcuWQiEShF0nenI+QBDBCK8vkACVb6+wcb73pGfVTRn+DSbm19ouKlxbcHK9mZ2H7X6cUe9Wej+X0IqNuI1ny2fVZ0IWXq9CyJEij5UWl8QeRgTVzU0+eES+YUvv2ZconyLSXU074VEkjOAU6EIZJ33FHTevm98tyO0vje3GpPFluqPo+lQp3qns3eSo4xPE6Uxuc8Ol7eM+G9INYzdxOxk1th7haaSCVXrEdDblpfoiZVpoynYZFgdQh8e6arVlIEZyUTO82Ure/YCZQsHxyfvsnjuA=;fynf9fZ3t9PI5kuHme/0VA=="
 ---

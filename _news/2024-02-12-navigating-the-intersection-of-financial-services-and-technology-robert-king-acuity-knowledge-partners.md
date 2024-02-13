@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI Technology: Pros and Cons as Shared by Experts"
-    excerpt: "Some tech giants such as Netflix, Meta, and Amazon may now be offering around $900,000 for workers to develop AI models."
-    publishedDateTime: 2024-02-13T10:19:00Z
-    webUrl: "https://www.coinspeaker.com/ai-technology-pros-cons-experts/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 19
   - title: "L&T Technology Services and BlackBerry Join Forces to Develop Advanced Automotive Technologies for Self-Driving Vehicles"
     excerpt: "The collaboration is set to leverage the BlackBerry QNX suite of automotive software solutions and enable the development of innovative Software Defined Vehicles SDVs for global Original Equipment Manufacturers OEMs."
     publishedDateTime: 2024-02-13T05:55:00Z
