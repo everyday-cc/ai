@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card"
+    excerpt: "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit"
+    publishedDateTime: 2024-02-13T02:22:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 66
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg"
+        width: 696
+        height: 496
+        isCached: true
   - title: "RTX 2000 Ada GPU meets AI visualisation demands"
     excerpt: "To meet the increased demand for generative AI in embedded and edge applications, Nvidia has released the RTX 2000 Ada Generation GPU. According to the"
     publishedDateTime: 2024-02-12T16:11:00Z

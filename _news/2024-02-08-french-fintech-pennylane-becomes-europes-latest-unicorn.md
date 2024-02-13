@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-lates
 webUrl: "https://thenextweb.com/news/french-fintech-pennylane-europes-latest-unicorn"
 type: article
 quality: 54
-heat: 106
+heat: 104
 published: true
 
 provider:

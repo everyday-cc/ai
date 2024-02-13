@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-cant-be-used-to-deny-you-health-cove
 webUrl: "https://www.pcmag.com/news/ai-cant-be-used-to-deny-you-health-coverage-say-feds"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "AI cannot be used to deny health care coverage, feds clarify to insurers"
+    excerpt: "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ..."
+    publishedDateTime: 2024-02-08T15:30:00Z
+    webUrl: "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 68
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "sJU9GY4cIDQIq5Ci5TTOjq9woekP31pWCBER48MAQoIYBX7eND07LvavN7bvxVebq4wOoNT6Vzw+SWjXP5PCENcTRUhMoQS2q0LMMDODQwaaC+L6CYeiUup0y9x/Q4nFmL7kZCg1qfT0X2zZqo6LofjUKvCa1p2uukDVds5AuEHemB+EMHSCbtFdytYuby/ywoDtyt7Qt5Df3nRt8QJ17zxJOArEAAowf9xXUTJl8bvU6xSy/GH2u+++9uw4q7sESFUG/OKFrESST0i6T7Dve1XghW2zyewonS1sPpPh43ubblyr151SoSLlaYwyEw4t8Cd0LyAZgxhPsr4lbvix98m2JkEMOTUoPQsZ79q5VUS6+pIn+5xlfp1hUXpAOU1RL5TuMaq41wngHJjJnlTwhOCtf6b15M7TO+1RwQBXk403MXXUSNOjCFjBuEvS5NM5VMYXUs5RwqmcTjUySDFbw8+S4YFrQjHT0ArIS0cB2rM1IKRtPh22stXH7ukaYD3i2UJWRa2awDNZj/dgADNjaA==;l+Wac6ekXytqil3mtRgF/A=="
 ---

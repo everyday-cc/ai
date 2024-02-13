@@ -87,20 +87,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Sarvam AI Partners Microsoft To Bring Its Voice-Based AI Tools To Azure"
-    excerpt: "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure. The collaboration will allow Sarvam AI to use Microsoft's cutting-edge cloud and AI ..."
-    publishedDateTime: 2024-02-08T04:45:00Z
-    webUrl: "https://menafn.com/1107826864/Sarvam-AI-Partners-Microsoft-To-Bring-Its-Voice-Based-AI-Tools-To-Azure"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/08/I_3c3feimage_story.png"
-        width: 300
-        height: 206
-        isCached: true
   - title: "Sarvm AI Collaborates with Microsoft to Bring Indian Languages to Azure"
     excerpt: "Generative AI startup Sarvam AI has announced that it is working with Microsoft to make its Indic voice large language model (LLM) available on Azure."
     publishedDateTime: 2024-02-08T09:46:00Z

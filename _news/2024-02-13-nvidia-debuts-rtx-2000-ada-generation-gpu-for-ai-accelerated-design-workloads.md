@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card"
+    excerpt: "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit"
+    publishedDateTime: 2024-02-13T02:22:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 66
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg"
+        width: 696
+        height: 496
+        isCached: true
   - title: "NVIDIA H100 GPU cloud contract signed with AI company, poolside"
     excerpt: "Iris Energy has executed a cloud service agreement with poolside for 248 NVIDIA H100 GPUs. The contract is for an initial 3-month term, with an extension option for an additional 3 months at the customer’s election."
     publishedDateTime: 2024-02-08T12:03:00Z

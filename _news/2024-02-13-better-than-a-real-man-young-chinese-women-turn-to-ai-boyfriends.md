@@ -1,23 +1,29 @@
 ---
 category: news
-title: "'Better than a real man': young Chinese women turn to AI boyfriends"
-excerpt: "Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: he's kind, empathetic, and sometimes they talk for hours."
-publishedDateTime: 2024-02-12T18:17:00Z
-originalUrl: "https://techxplore.com/news/2024-02-real-young-chinese-women-ai.html"
-webUrl: "https://techxplore.com/news/2024-02-real-young-chinese-women-ai.html"
+title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
+excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
+publishedDateTime: 2024-02-12T18:49:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends/article"
+webUrl: "https://www.digitaljournal.com/tech-science/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends/article"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "oMu2u+NMrQd0n9yHzQH5H6lsifuzlIKz20fVJziPvw0D1cRNf5MU5r03k4xZIPrL8csi6GDXYuaPd7qDHvA4mT6TU+ZY3XL7/3fxuhJaEzlS3BUNZ4Lu7VXyDmlIZsl0ngSIK8hgaR00VJbZ48UjbIkXycwX/YUJ7zL0Wcpro/S8dwVJ5CTlr/MA/5s4dAwV3YbtZ4NH5sHAHxaE0siTyZnmXGXibSHe8VTF94l8Wgj5itdfjideo/wF/gC6gcpO34jF9cWUkGFAWN1/Pd4AKZnXiVu0hCZEeTFSM2gsZJvS34uwq4T28TYSx+gl6LZABaE7Y9kZQiaieAhJ/HbEwti74KKzA3BRClB5KMkWCDz6GmOcc6yN21/qE9G3WbBpL9dphhzz5B9z64F/vC+vxHKx6LhWCxly3X3WjbIT1qcmSw4VZTQ1MIZgP83WRxdvw1Ha7jYfZBvb0r3x/7pc2yP6qHQ025Bdu89xUf408++xt5h/9LXlnQ0qirHbNWlBZyi8pwD5jtJrEdb0mheklw==;T0DSSf8nbrIED98ceN7qLQ=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2023/08/AI-Artificial-Intelligence-©AFP-1K-01-e1693102717754.jpg"
+    width: 1024
+    height: 612
+    isCached: true
+
+secured: "nEDgl8DSzCkCO1LWzY7g2g20ix0rX7JZ/hRr4nnc5X6x197XUeM6wMl6KDSViycK1uiQKO+DOkdtGSQ1XcHxDTlSkN5IGUhahvl5H697IjWlgrYJwt0bv06szk8rKous/cO5LtEloR82tqei83sDJkLm+V6sK4kQ6IqFaiM9WLK4P9JU4fOVMmsOMa4Tm0e2ou22HKmySvk/3k8uZ1fqHQlX44URtxHNAwYYnDt9FEvckBkVedS1FDAgo9XWPoaq8St4+jOf8ZTLCbB9JoXn0bVrZ3as9h2ZBKABIJcg3DZvSiP4Ml16+ncAQlL66i8ccdIu40njKT3noZzdEx/SsLiB1H0MR95K2HJmkQcNcBo=;zBBzGSRl2N66F/6IzNMbKQ=="
 ---
 
