@@ -158,15 +158,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
-  - title: "Google’s AI chatbot Bard is now called Gemini: Here’s what it can do"
-    excerpt: "Google’s most advanced large language AI model, Gemini, has officially launched on Android and iOS in the United States."
-    publishedDateTime: 2024-02-09T05:41:00Z
-    webUrl: "https://cointelegraph.com/news/what-can-google-ai-chatbot-bard-now-gemini-do"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
   - title: "A new way to let AI chatbots converse all day without crashing"
     excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
     publishedDateTime: 2024-02-13T14:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyf
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "11 Most Promising Chinese Stocks According to Analysts"
     excerpt: "Disclosure: None. 11 Most Promising Chinese Stocks According to Analysts is originally published on Insider Monkey."
     publishedDateTime: 2024-02-10T21:34:00Z

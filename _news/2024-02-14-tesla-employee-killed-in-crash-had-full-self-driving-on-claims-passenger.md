@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'"
+    excerpt: "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature."
+    publishedDateTime: 2024-02-14T04:45:00Z
+    webUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
     excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
     publishedDateTime: 2024-02-13T17:14:00Z

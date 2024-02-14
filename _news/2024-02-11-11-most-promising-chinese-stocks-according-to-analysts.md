@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
     excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
     publishedDateTime: 2024-02-12T18:49:00Z

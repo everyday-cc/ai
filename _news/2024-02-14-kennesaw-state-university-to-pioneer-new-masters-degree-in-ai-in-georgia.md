@@ -3,22 +3,26 @@ category: news
 title: "Kennesaw State University to pioneer new master's degree in AI in Georgia"
 excerpt: "KENNESAW, Ga. - Kennesaw State University will soon be offering a master’s degree in artificial intelligence. This initiative marks the second institution in Georgia to offer a master’s degree in this rapidly growing field, positioning the university as a key player in addressing the burgeoning demand for AI experts."
 publishedDateTime: 2024-02-14T02:21:00Z
-originalUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia"
-webUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia"
-ampWebUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
-cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
+originalUrl: "https://www.aol.com/news/kennesaw-state-university-pioneer-masters-022117256.html"
+webUrl: "https://www.aol.com/news/kennesaw-state-university-pioneer-masters-022117256.html"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: FOX 5 Atlanta
-  domain: fox5atlanta.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/cBLHJFg0mAKki5D_2L.cew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/e3b688698559d7e9b843a09ddb23ee3e"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Georgia bill aims to restrict AI in healthcare"
@@ -59,6 +63,6 @@ related:
       domain: fiercehealthcare.com
     quality: 25
 
-secured: "4WO0pTCYPAwUy8pzV3XUXDGXG5TATpjEPKVy2tbNVTgtNnuu352CYVIiZy5v7/AImOHyB+kfBsu022FNNonht4cZrGS+pLvwiwjuKojOXVhpTLCusw+FZt92LzBpk4vS4P6ijF8+lsjP9DRBwEKdwXJtqtXxpMZDQY0APx0CeOjDboZSHffWXWCMM3mSI97BAes32obzJfeQG0WfsOiV0kIn4nIz++v07RGHpPMpt0ok7tqFDtLuVuRuiJZ1uck7pNcU0coTP9cH0Z5UmuuZ+6SU2mJrBznGdEU8BuRcfuXqmOpjCPpUc6iBEgulYiiIZSUSOD6GfNMnZqjKota2t4e9UrBiYmCBaHCOxikYc7MX+itNlujBmYMK7U7LFW643Z6RLN9GTiCVmBUplsMjkLEYBUpGYafgoIbhcY/eblQCclG4maoeGCYut16WZscA3lfoZFMDGVuUatj7nOFIjdlR5TCuCrVQKOBYF4zEvT1uDsbHTil4oM2g2lUzTfJiKVRJqpYmONt1Ur+E8B7fqQ==;BUd3DvEBIG9fL6qxwU2ylg=="
+secured: "5cg1UBnsw59ly3+qHs7Dp5SZLCaiihmA4k+z3BbcKsmFkEG8xCoaJzTlqr6xfvmdJybHjtCjD5W498JaY3DQP4KIUhWOkczZRgZliTMySsBsrBw7HJrff2I4juFgIh3RKtyegq2Z6GMf9eN8hMzeTFTBIftMiXWalXZFJg61ieXtvkriSSwzG37gYepG73o/ut6HHbR/3xVnS9S5r+h+GlK5aIc/cGJj3NKffyzBpmbiahEfJm7L0PO+B0Lj5VSRmMn4TeOnnIafVv6GfEY65gxjFdtRdRMrWyLySr3YL3DVIAD9j5RNeAWW3jAiHEBjCQVRO1yQ7nPq3nyGipIvtQVE/sumTZjd2ten1yzjzv8=;qK4rsfHghWo3HlNzST6XlQ=="
 ---
 

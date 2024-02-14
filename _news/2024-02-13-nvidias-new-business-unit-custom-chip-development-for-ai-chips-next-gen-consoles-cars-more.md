@@ -39,20 +39,6 @@ related:
         width: 1008
         height: 672
         isCached: true
-  - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
-    excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
-    publishedDateTime: 2024-02-09T06:31:00Z
-    webUrl: "https://www.tweaktown.com/news/96106/ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
     excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
     publishedDateTime: 2024-02-12T10:57:00Z

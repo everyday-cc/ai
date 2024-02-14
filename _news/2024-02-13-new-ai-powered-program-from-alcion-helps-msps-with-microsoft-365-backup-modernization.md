@@ -51,6 +51,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
+    publishedDateTime: 2024-02-14T05:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
     excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
     publishedDateTime: 2024-02-12T13:21:00Z

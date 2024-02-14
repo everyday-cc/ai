@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-14T04:35:00Z
 originalUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
 webUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
@@ -48,6 +49,6 @@ related:
         height: 627
         isCached: true
 
-secured: "R/L4d/sXtRKKFsacwBc0BzqmkyBWj17wlyp7vT74skUQYkhjrenHe1ygEbJE7oJKYYncuseDtIPAfpFW5BrpE5UfgFiSGiufQbD05XUSaJhKzmO98W5DITss+tZK+Xox/nZEG+n6qeaSxUUgXXuCGz3YqG4rBKGYXwXXszKMQk223DzpyFJf+6uGHXnjAHuhpGnzWdqHaJ88dKK3hleEC0a5BFph+zuiafW7UcJT0hw/lx2nOulkp4sEywm2tN82P9+SGcyRoJO6gm4dV36SOIBBD6oHMKDWR0JjwqAgu31rBSFGMlF7uNl1Sv04Eh37HQwxM2L2WYxV1buLZoboxCeN55G7yyHdxRoDXq3nd6I=;b4ZkUyQ2Md+ChFd3aS5psQ=="
+secured: "XlMq4oUrWTg0KoNIt4dArVAfWHboOyAb/4Ca34M1br4eZJr6NMgtNgn0VNpspiwDcxmbabxXdTAS+s9hweBJcQTofezVA9k5j5P/HTNVMPY/symJIpUlLHVJ1xCRyQP1eoVg9tQ6bps2B1LwozklEGABVlHMP+SVrON+fnlg6+gY90BkQPzzK4loN+bBCkNjrWyzphhMJoEiCLB5sH5YFtc9qy7yNLq8qLoANEy6HOLKBnUQOgX82oJE7Gpo/4lVn3JWrPiKgXeAZASy4s0d+mZgZ0LQBN3V5aCIHvqrHS0Vzzb9iYMint7Jiu8wnix5YxVe9Ywe71JQPDiB4aF/xQLRflmy4YJpu4O8QyhCAHZNTHCgJkkXQleLMEoJ6k64ztOls9ltJyuBVhK12xRuoa5Dzk7L1L0d21y/AqgxFqZnMK0Xiux4NzugWbDm+4blicwHrpOyEz5LhCLHmPI7vZ3cLhMfw3MfaJVpqtcNjfqu417enJZgz4cEqNZXo+zxWrQx1oWNPlZPv1vM+Oe8cw==;IKXkKhjji42mdkxKU3OdMA=="
 ---
 

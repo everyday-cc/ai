@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-de
 webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI to make AI - NVIDIA's ChipNeMo is an AI model created to accelerate chip production"
-    excerpt: "NVIDIA's custom AI LLM called ChipNeMo is currently being used to train engineers, and it could also be used to help design and accelerate chip production."
-    publishedDateTime: 2024-02-09T06:31:00Z
-    webUrl: "https://www.tweaktown.com/news/96106/ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 46
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96106_01_ai-to-make-nvidias-chipnemo-is-an-model-created-accelerate-chip-production_full.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
     excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
     publishedDateTime: 2024-02-13T00:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-government-ai-prod
 webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
 type: article
 quality: 69
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "10 AI Tools For Australian Businesses In 2024"
+    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
+    publishedDateTime: 2024-02-14T03:07:00Z
+    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Australia Lagging Peers on AI Adoption, Productivity Chair Says"
     excerpt: "Australia is lagging international peers on the adoption of artificial intelligence and other advanced technologies, according to the Productivity Commission."
     publishedDateTime: 2024-02-12T06:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-heal
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
+    publishedDateTime: 2024-02-14T05:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
     excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."

@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Here’s Everything You Need To Know About Recurrent Neural Network"
+    excerpt: "What Is A Recurrent Neural Network (RNN)? Recurrent Neural Networks (RNNs) are artificial neural networks designed to handle sequential data like text, speech or financial records. Unlike ..."
+    publishedDateTime: 2024-02-10T00:00:00Z
+    webUrl: "https://inc42.com/glossary/recurrent-neural-network/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 19
+
 secured: "YIKu2z9GPrxwKZm5N81VUfKQHACQ2w2GDYWMqJl+TmgNpSF2t2DCLP4vL4mQ6Or1G5PMw1ceEYUu4n59w/I8Ljgfguzs+pBEN6mGXG4faxw6HFeohmR8Fw+H+xIRUXtLsz+Lu2aK0aOT78ZsGjohqydvruZ6ZSGCKg7/+aWtKOPTQCwsobx6ReaTjX8DHmq2QXeckZxV+YUJYxYC0Fv8hXaMdF03OJNjQN4ztcoZGoLGy9kzlMls9gkzipu4g/Z6vtPChF6lv3uP6izNT+OflbjT/8B7qnSev+HIwS0705GaFvVCSwJudMXOntH9rnztGRp6xF6GMmiMzxfHR3a/gUz/N462WAUycCQcRyy3M05ZVFZs0xFrERYeR/8a1lEWxXwUlX0Cv1UL6gq2Une6oReNxxvZDATY3VC1Nlsz7B6bvDINE6TUULrBJAP2DRontdNdpJT4GSJyfODgVqYKslycTO2ZDqP+aNjCvyQj8OaTyNn2l3e4/pnZzuyiNk2n8/UZyfysiAkk5PurJaI+1Q==;z1Bs9H3Qt13cUsdvU2wddA=="
 ---
 

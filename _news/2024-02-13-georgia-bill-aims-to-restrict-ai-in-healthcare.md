@@ -42,14 +42,17 @@ related:
   - title: "Kennesaw State University to pioneer new master's degree in AI in Georgia"
     excerpt: "KENNESAW, Ga. - Kennesaw State University will soon be offering a master’s degree in artificial intelligence. This initiative marks the second institution in Georgia to offer a master’s degree in this rapidly growing field, positioning the university as a key player in addressing the burgeoning demand for AI experts."
     publishedDateTime: 2024-02-14T02:21:00Z
-    webUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia"
-    ampWebUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
-    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
+    webUrl: "https://www.aol.com/news/kennesaw-state-university-pioneer-masters-022117256.html"
     type: article
     provider:
-      name: FOX 5 Atlanta
-      domain: fox5atlanta.com
+      name: AOL
+      domain: aol.com
     quality: 38
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/cBLHJFg0mAKki5D_2L.cew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/e3b688698559d7e9b843a09ddb23ee3e"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
     excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
     publishedDateTime: 2024-02-12T17:00:00Z

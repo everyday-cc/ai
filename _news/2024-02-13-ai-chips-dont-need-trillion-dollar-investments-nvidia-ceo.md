@@ -27,7 +27,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
         width: 1500
