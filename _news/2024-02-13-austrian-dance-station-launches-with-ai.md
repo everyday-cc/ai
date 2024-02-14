@@ -55,6 +55,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Australia’s Craggle releases AI tool for refinancing home loans"
+    excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
+    publishedDateTime: 2024-02-14T09:22:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99659/australias-craggle-releases-ai-tool-for-refinancing-home-loans"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "cTdkSqGrI0kDSLpmq/6B43P0PED8v0dbRnAPjBWjG99byGcjypBJAkd6SizAukBqWzAOUFfdotWOBF1rdPBcnMFttyPUXt5OrFn9XgbiMZwmY2jEC80zJDjs7RXhZNRy6j74GNFTWtcrqPSnx6IWdY2x9MMr8gHwsWlyWa54HxeC1TEqYgj09/3uyJWfAHvpvysvRpf8TFapPml5qeobD4WYe+HIIpg8iFR58GsARz7IDh5NQBIbB6MPzVuAwk1KCAm0GL50UI/BjlC/sbLq6oHFIW8Bv77GZ/tN7yh2WqVfiZnoMFdlYEdIWuZgiYAD4Xc0ZkVlj8GTtda0fwZTmeSjBDpFHQXER1FkKENfEC8U8qKTIXgTIpf4lUp4Yx3nXv7iKfcoSz5/+5TUPdWCxcnEnrwyi3CZlscXTrj/8g7LIVaSamSOmKJyYWrl0NFQkv6C8hkYqtHETYtdLp9gNCfRlf2rotPf19DDOQHCD3MeltwHUbUeGXE4GqNGk6MvdcaFwVkB8Hf77xHnFtjJUQ==;gTpKemoGP0UJQYGrHlzaDQ=="
 ---

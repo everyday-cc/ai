@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Rolls Out Gemini AI On Ios, Android Outside Of US"
+    excerpt: "Google has started to roll out its AI service Gemini AI (formerly Bard) in English to more countries on iOS and Android."
+    publishedDateTime: 2024-02-14T10:57:00Z
+    webUrl: "https://menafn.com/1107850608/Google-Rolls-Out-Gemini-AI-On-Ios-Android-Outside-Of-US"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?936495"
+        width: 560
+        height: 250
+        isCached: true
   - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
     excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
     publishedDateTime: 2024-02-11T00:15:00Z

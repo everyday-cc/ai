@@ -33,20 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence and Cybersecurity: Strengthening Digital Defenses"
-    excerpt: "Introduction: In the rapidly evolving landscape of the digital age, the intersection of artificial intelligence (AI) and cybersecurity has become increasingly crucial. As technology advances, so do the threats that organizations face in the digital realm."
-    publishedDateTime: 2024-02-09T10:07:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-strengthening-digital-defenses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Artificial-Intelligence-and-Cybersecurity-Strengthening-Digital-Defenses.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
     excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
     publishedDateTime: 2024-02-12T12:18:00Z

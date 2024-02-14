@@ -39,6 +39,20 @@ related:
         width: 1080
         height: 962
         isCached: true
+  - title: "Samsung AI-powered Live Translate is coming to these Galaxy Buds — what we know"
+    excerpt: "AI translation is one of the big features in the Galaxy AI suite, which debuted on the Galaxy S24. But it sounds like you won’t be restricted to translating foreign languages through your phone, because Galaxy AI's Live Translation will be coming to various Galaxy Buds as well."
+    publishedDateTime: 2024-02-14T10:33:00Z
+    webUrl: "https://www.tomsguide.com/audio/earbuds/samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/HfpDsihZb4TQNs7P69Zhm7-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "1scV33szzfDxmoWJKZabc7d6UBvQmw0QJPgPdJ4/mHBS0KwQWhisKzMOjSyeChNqZRY0Ki673AHXobHviypUWRROFZtG/2FCAn55IF1xBf0GKZT4S8lSDAHB2Kw1s3KJpduAIRzQFDD3hVIjpnIe6qu623Es5gzyoKWkPW8JiLCwimmm2Qh9KjAIBuFog2YQEqRjIQ7HTsd5rR9B5l3b2NJTAGucgVL9jSiS29Q/D0jFXmV61tqj0kJsTxaQTbYj5mS5rCaxSDR432yyx4aaFMz+IhFe92TXFi3yNctsfhFlNXCtlAdhk/PBM5xsNkonCH0VoOemfyrCYNACtEx+sqdRYkZfHawstz+Bc7rvxcI=;CJx4wDwDpqktgCKqX9+sog=="
 ---

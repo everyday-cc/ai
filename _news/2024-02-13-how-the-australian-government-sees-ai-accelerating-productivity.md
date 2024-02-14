@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-government-ai-prod
 webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
 type: article
 quality: 69
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Australia’s Craggle releases AI tool for refinancing home loans"
+    excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
+    publishedDateTime: 2024-02-14T09:22:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99659/australias-craggle-releases-ai-tool-for-refinancing-home-loans"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Austrian Dance Station Launches with AI"
     excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
     publishedDateTime: 2024-02-12T21:13:00Z

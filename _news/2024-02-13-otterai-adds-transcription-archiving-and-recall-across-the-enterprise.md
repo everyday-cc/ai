@@ -141,6 +141,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "What the US AI Safety Consortium means for enterprises"
+    excerpt: "US Secretary of Commerce Gina Raimondo recently announced the creation of the US AI Safety Institute Consortium (AISIC) on behalf of the Biden administration. The effort promises"
+    publishedDateTime: 2024-02-14T10:36:00Z
+    webUrl: "https://diginomica.com/what-us-ai-safety-consortium-means-enterprises"
+    ampWebUrl: "https://diginomica.com/what-us-ai-safety-consortium-means-enterprises?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-us-ai-safety-consortium-means-enterprises?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/Biden.jpg"
+        width: 1646
+        height: 946
+        isCached: true
   - title: "How many healthcare employees use generative AI at work"
     excerpt: "Healthcare workers are increasingly using generative artificial intelligence on the job, though the industry's adoption of the technology still lags beyond other sectors, a new study found. Forty percent of \"pink-collar\" healthcare employees, such as ..."
     publishedDateTime: 2024-02-12T16:01:00Z

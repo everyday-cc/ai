@@ -1,0 +1,45 @@
+---
+category: news
+title: "Apple's Latest AI Tool Can Animate an Image Based on Your Description"
+excerpt: "Apple has made another addition to its growing AI repertoire with the creation of a tool that leverages large language models (LLMs) to"
+publishedDateTime: 2024-02-14T09:07:00Z
+originalUrl: "https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/"
+webUrl: "https://www.macrumors.com/2024/02/14/apple-research-ai-tool-animates-images/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: MacRumors
+  domain: macrumors.com
+
+topics:
+  - Meta AI
+  - AI
+
+images:
+  - url: "https://images.macrumors.com/t/rB1k_jSnVYazvB6DeCuwPw7mOtw=/1792x/article-new/2024/02/apple-AI-research-dall-e.jpg"
+    width: 1792
+    height: 1024
+    isCached: true
+
+related:
+  - title: "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs"
+    excerpt: "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences."
+    publishedDateTime: 2024-02-14T01:05:00Z
+    webUrl: "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
+
+secured: "k2ZDi/ZAV0lYgcRRtzlO8nVHsyiv478XLEl4t3/aAe9Ra/H2d2eDy9GWKGXJoUcjBKJ95vrnin28InR6IVY9EM71y469xKqfk+ILfJUoWU3ZfnIHU9KX7NgUnwN/g0ZLceedeNhI8PcO8wDdzLEhmzqqUHda35T3qv8hjmvhM/Bz6K0aw1c4HctzH2JESP2T7YCOrJnKeC+FmepATzD01KzI2ZAVjpI8fF7IT9hCSdYD20c2H0u7tMwPXmDlpiP+Z8XMB1az3ZLd2QUCl550mepLUP7FofSMk/N6hfy5irRXqIBZevD4eQ3hEAkXK9trf/C2Gmjv/aXzbvVTdzrhxgVijD4OSELzBVOAr18M6Q0=;KDy1wwdnyCSzLdFWniBVIA=="
+---
+

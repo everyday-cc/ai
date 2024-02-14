@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcwashington.com/news/national-international/amid-artif
 cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/national-international/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-mark/3543352/?amp=1"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "‘AI Girlfriends’ Are a Privacy Nightmare"
+    excerpt: "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says."
+    publishedDateTime: 2024-02-14T09:00:00Z
+    webUrl: "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "QpJBeiSh/dAV2cBzQu07O+x30lQ6euRRAF9GUKQjbTlPjE4NxegQ64LxGQzVtEex7CiW3/cp2/+mawVTBChtx40RLnIf6FcixfVpn57M2f6DjXO+0Q9vo2vfsYkle1DNwgCSTIddhKU2aK5O7/9bOwCvIHTj0tuS7nAQOYIRAljg4NCCGfX0VTCYhMaf3pQ3nlxkPD46uLYcnepOZ22W0s7kesuSh7Ka5Hq/P6boGtPgUmfGJBZ9pSUUNI1Y15mExwzrcVBCdMfkNELCjFAK6uPQ0zsF9XJH8j6b7mb9FGabgfQ0OAHSAIVE46NPs22n4h+40p/zxe95a1+GcYGiE7jzWRzavU5K57lmCBSjYOY=;sWjDWULkpm1PLSZfSjW92w=="
 ---

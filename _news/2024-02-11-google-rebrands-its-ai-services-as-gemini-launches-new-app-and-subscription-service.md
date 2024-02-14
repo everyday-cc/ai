@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Rolls Out Gemini AI On Ios, Android Outside Of US"
+    excerpt: "Google has started to roll out its AI service Gemini AI (formerly Bard) in English to more countries on iOS and Android."
+    publishedDateTime: 2024-02-14T10:57:00Z
+    webUrl: "https://menafn.com/1107850608/Google-Rolls-Out-Gemini-AI-On-Ios-Android-Outside-Of-US"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?936495"
+        width: 560
+        height: 250
+        isCached: true
   - title: "Google plans to fix Gemini’s early flaws pretty quickly"
     excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
     publishedDateTime: 2024-02-11T22:25:00Z

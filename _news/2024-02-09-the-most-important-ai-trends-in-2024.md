@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-trends/"
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-trends/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Best AI stocks in 2024 for performance"
+    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
+    images:
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "4 Industries AI Is Expected to Significantly Impact in 2024"
     excerpt: "PwC's Emerging Technology Survey from last year found that 73 percent of U.S. businesses have adopted AI, or have plans to. This tells you something about the influence the technology will have. However, some industries will be more impacted than others. Any jobs with simple tasks in any digital setting will be disrupted."
     publishedDateTime: 2024-02-13T09:01:00Z

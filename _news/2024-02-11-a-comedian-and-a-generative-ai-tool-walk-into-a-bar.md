@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "What the US AI Safety Consortium means for enterprises"
+    excerpt: "US Secretary of Commerce Gina Raimondo recently announced the creation of the US AI Safety Institute Consortium (AISIC) on behalf of the Biden administration. The effort promises"
+    publishedDateTime: 2024-02-14T10:36:00Z
+    webUrl: "https://diginomica.com/what-us-ai-safety-consortium-means-enterprises"
+    ampWebUrl: "https://diginomica.com/what-us-ai-safety-consortium-means-enterprises?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/what-us-ai-safety-consortium-means-enterprises?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-01/Biden.jpg"
+        width: 1646
+        height: 946
+        isCached: true
   - title: "Otter.ai adds transcription archiving and recall across the enterprise"
     excerpt: "A transcription and notetaking service that can save, archive, and recall all meetings, including in-person meetings, phone conversations, and video calls, is a huge step forward in a marketplace dominated by large companies with AI tools that can transcribe one meeting at a time, with no way to connect them, Liang said."
     publishedDateTime: 2024-02-13T07:33:00Z

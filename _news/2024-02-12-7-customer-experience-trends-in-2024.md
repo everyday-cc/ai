@@ -44,6 +44,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "OpenAI board chairman launches AI agent startup to elevate customer experiences"
+    excerpt: "an AI agent startup for businesses. Founded with Google’s former head of VR Clay Bavor, Sierra aims to empower enterprises with their own AI agents. This will enable them to take their digital operations to a whole new level. The company has already ..."
+    publishedDateTime: 2024-02-13T11:58:00Z
+    webUrl: "https://venturebeat.com/ai/openai-board-chairman-launches-ai-agent-startup-to-elevate-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/happy_robot_wearing_headphones_and_handling_cust-1-e1707845401633.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Use AI to Personalize Customer Experience and Build Trust with Customers"
     excerpt: "Heather Kurzenski, CX program specialist, Intelisys, offered strategies to use AI and build trust and understanding with customers."
     publishedDateTime: 2024-02-13T23:41:00Z

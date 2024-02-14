@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal
 webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
 type: article
 quality: 78
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
         width: 696
         height: 496
         isCached: true
+  - title: "NVIDIA's Chat with RTX is an AI chatbot that runs offline on your personal files"
+    excerpt: "NVIDIA has released Chat with RTX, an AI chatbot that is run locally on your PC and on your own files. Read on to know more!"
+    publishedDateTime: 2024-02-14T09:58:00Z
+    webUrl: "https://www.androidauthority.com/nvidia-chat-with-rtx-offline-ai-chatbot-3414523/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 64
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/NVIDIA-Chat-with-RTX.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
     excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
     publishedDateTime: 2024-02-13T20:29:00Z
@@ -130,6 +144,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
         width: 1323
         height: 744
+        isCached: true
+  - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
+    excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."
+    publishedDateTime: 2024-02-14T02:52:00Z
+    webUrl: "https://techreport.com/news/nvidia-brings-generative-ai-chatbot-chat-with-rtx-to-windows-pc/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/Chat-With-RTX.jpg?_t=1707907922"
+        width: 1345
+        height: 717
         isCached: true
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."

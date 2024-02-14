@@ -19,34 +19,15 @@ topics:
   - Meta AI
 
 related:
-  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "Charting, Price Performance, News & Related Contracts."
-    publishedDateTime: 2024-02-09T15:19:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+  - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
+    excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
+    publishedDateTime: 2024-02-13T00:18:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
-        width: 1875
-        height: 792
-        isCached: true
-  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "And remember Watson? Well, it's still alive and well at IBM. There is the Watsonx.ai studio, which is a platform that provides businesses with large language models (LLMs) where they can actually build their own chatbots. Another product is Watsonx.data ..."
-    publishedDateTime: 2024-02-10T10:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
-        width: 1875
-        height: 792
-        isCached: true
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "OnmxS1WC1rL6HlL49jC8QlRUxZwJLK4JBrbSfzr0KZxpLVBUVnKojm7ZbEQgHkUgwQjUREzke3qmP3AKKVrkWtKvcJC82T2ymxYcFyCTv1/bUmb82JyIkTRUlvEEnn6F13giFDUc1bEOvZzbfvzGpDg1Ayq6lDdQbGTk7FuTgqzn/ytqj3G9I8E6CbFKRZ21uoZaL9VN6I1b0Iv4iBGcAnqYLodYexhsw0QqmgIjtSYvYPxGKPPbBl7p2YfQ1A+QFNXi2mWNMoQxAW+3gpXVe0Zdl2EnDrptnXx5RULx9dWeVVkuXBbwY3Mj6plFzf9ug0+63g176uFiP6digFCc7PEfuUZG5HFQNqgfqo2hvOrFjYgUuL3MI5jOZQkpO4aUx1fyrTto2tV+xngDHi7d4mTscz4XVlakOw0wLVjTJo21ygQ56b2BA4D01pIWQCe2zXQMSryawI61iDztgn98IGCmCsXJU/0BtKIgcC/DGncU0675lRss3v+0/Y3srXbIAKksJ2+zflM2Sb8yheobCw==;rU2DD/R4QJx3aUttcIIQFw=="
 ---

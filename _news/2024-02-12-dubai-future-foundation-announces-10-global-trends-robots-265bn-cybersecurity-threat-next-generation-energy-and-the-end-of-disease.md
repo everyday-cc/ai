@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence and Cybersecurity: Strengthening Digital Defenses"
-    excerpt: "Introduction: In the rapidly evolving landscape of the digital age, the intersection of artificial intelligence (AI) and cybersecurity has become increasingly crucial. As technology advances, so do the threats that organizations face in the digital realm."
-    publishedDateTime: 2024-02-09T10:07:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-and-cybersecurity-strengthening-digital-defenses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Artificial-Intelligence-and-Cybersecurity-Strengthening-Digital-Defenses.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
     excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
     publishedDateTime: 2024-02-11T15:32:00Z
