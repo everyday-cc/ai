@@ -62,6 +62,15 @@ related:
       name: Shacknews
       domain: shacknews.com
     quality: 29
+  - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
+    excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
+    publishedDateTime: 2024-02-14T19:41:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 19
 
 secured: "jHVcoJl9bzVQk+o1gUEI7LIAKv+eXsbZtAY0nnN1rck9IANHld5gFLWkOmGMd/eSlEgWmk1nxQC2jhb+VYBA5bttrR4Cp6+6bBTH4F9SNz9qT3eVMt3pCR3a+wcBXZn6HDsZCDeqdlHLzpbpjWoeGuqDGCfNaZrnI+h0MOduspk13UI5BLWqShgHzgrnYeQVdtj5QHcIjcAtEx7JL0KL3f94ujuihOV3dyEtTEgr4tX2BkNGVqgyLSNzOeNsdUuqIrYodnLlUebfyeGR9mLFRjN/UX2S6RnqhKqVzA1LY1Kk4Iy2iBvTgGAgiRkryGe3mXnBBH9bf2weEcSR9+nWxcrnLwHQEq70/V7zlRAV2RA=;YTnHQs931YyyomOrQmZFUw=="
 ---

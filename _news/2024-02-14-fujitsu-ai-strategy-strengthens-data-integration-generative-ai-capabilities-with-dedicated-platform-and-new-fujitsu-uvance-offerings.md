@@ -90,6 +90,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
+    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
+    publishedDateTime: 2024-02-14T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
 
 secured: "J+J+B97KDln2NkhBXolNoxohON6Z2kbz+8fqyINXvoO9qqf9foox9ndMX2BXGFJ7P3VDT9m+KMf26DDcD3fx5QyqCmL9C1Z+xI2ykJeR8N8HCRlIyoJ6vi8e0uLvIEjhu17mieJ2EU3A7vmugHnq7ldWNTpoQbyZZVUfV4YlBlrIbaZIqD+L8JhEFw2GSAiDE/h9k9BC02QwOSA9QabDTsfDX8hkXSIMwgFEalI5eDXih+tNQF0I+agYo0BosXOsPx3ZAyu4bQRqkiRzOinX2DuFyuxe7I7SnYybvRBuaknw5aE2Du5hylgYhiD1NJIjH4lB74TpFxOEO/dUOtEXnzwGZnaGRLLaUqSA+5iEGf8=;UMxYQ4RU9d+U+I15J3oivQ=="
 ---

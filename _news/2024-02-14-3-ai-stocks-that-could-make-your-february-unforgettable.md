@@ -64,6 +64,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 35
+  - title: "5 Undervalued Stocks To Buy In February 2024"
+    excerpt: "One way to find investments is to identify stocks that are undervalued but have strong fundamentals and growth prospects. Here are five that fit the bill."
+    publishedDateTime: 2024-02-14T19:25:00Z
+    webUrl: "https://www.forbes.com/sites/investor-hub/article/most-undervalued-stocks-february-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
     excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-11T04:23:00Z
@@ -159,6 +168,20 @@ related:
     quality: 22
     images:
       - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/v2/KSGFKARZRBMZNLCAZMEYLYSSQE.jpg?auth=65a1185b61e07cd9873b8425378e73184e534186c6fa782cc271ea6ca01500ab&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Blues vs. Oilers February 15 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the Edmonton Oilers face the St. Louis Blues at Enterprise Center on Thursday (starting at 8:00 PM ET), Leon Draisaitl and Jordan Kyrou will be two of the most exciting players to keep an eye on. Robert Thomas is a ..."
+    publishedDateTime: 2024-02-14T22:04:00Z
+    webUrl: "https://www.wowt.com/sports/betting/2024/02/15/blues-vs-oilers-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WOWT.com
+      domain: wowt.com
+    quality: 22
+    images:
+      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/B37SHQVYA5LHRALLGB32GR2I2Q.jpg?auth=99440935a5c96641eb51c34aff2062011e3ba94f83926cd2129fa4009fca4573&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true

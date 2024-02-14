@@ -9,7 +9,7 @@ ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challe
 cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -21,21 +21,19 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Meet Goody-2, the AI too ethical to discuss literally anything"
-    excerpt: "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ..."
-    publishedDateTime: 2024-02-09T23:02:00Z
-    webUrl: "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/"
-    ampWebUrl: "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/"
+  - title: "Gen AI's Impact on Retail: Overcoming Data Challenges and Ethical Considerations"
+    excerpt: "Gen AI is no longer confined to the realms of experimentation but is swiftly becoming an integral part of retailers' strategic visions."
+    publishedDateTime: 2024-02-14T16:12:00Z
+    webUrl: "https://www.mytotalretail.com/article/gen-ais-impact-on-retail-overcoming-data-challenges-and-ethical-considerations/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 51
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2024/02/goody2.jpg?resize=1200,630"
-        width: 1200
-        height: 630
+      - url: "https://network.napco.com/total-retail/wp-content/uploads/sites/14/2024/02/NRF-Big-Show-2024-Jason-Dixson-Photography-240114-162847-5005.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "32cB4Oftkx8DSkVCqkThHDR0Z9TcNBq19D5gto0KOCi/5LFvjWHLef+UAOok581dqWtkA8pyd8P/EkyEn2e8P8SXvsP0BjnMjrLv+8pfmzfWz5ainyFJGeInRpJvEqHEVB2/6bKKaG4IwkX1Ja+R43DsbP8e3yg48tLgX/DTKACpE27m4F0FwDZpjKYkjuQc06EHHQr3W7SDYM2+TbVZA7OQBDiT6lTf+gcWtYP/mz6A/0BGrN4p7dIpgTRXM+haoCGylJbvccEC5TI6fW8s1lro30/ySrDQMOecb+S+OIUeip/L1A9VavOmgCT2eXaj9aggGrQy9Z0VlcVQo6T1GGrC9LDSl297MvJt00lakVpK8BvF3Eo5cIYL1dlC+NkofQfyHRdaL74fyeTSFwghw3qZ/0OD8JzQ1izbq54Rh6EsX0FrIrJLVOUbX7uzVg6jivLKPnWLu9i9ROrDmGbEBicVGrs6SLGc9KRd+wQ9yPzmjrQvm7KYRksBT5kWMoPMTYYvZRSLy2Qek8U2XvqObA==;qqTiIhzZMuRD+ox9j44dIA=="

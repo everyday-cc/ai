@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Penn is the first Ivy League to offer a degree in AI"
+    excerpt: "Penn is the first Ivy League to offer an undergrad AI degree. The new program will be available this fall."
+    publishedDateTime: 2024-02-14T17:56:00Z
+    webUrl: "https://www.businessinsider.com/penn-students-can-major-in-ai-fall-2024-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Penn will be the first Ivy League school to offer undergrads an engineering degree in AI"
     excerpt: "The coursework will also address AI safety, ethics, and how the tech can be used for social good. Since AI is always changing, the school’s leaders aim to prepare students to adapt their skills to meet the challenges of new technology as it arises ..."
     publishedDateTime: 2024-02-12T22:34:00Z

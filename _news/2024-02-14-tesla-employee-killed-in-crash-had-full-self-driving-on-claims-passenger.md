@@ -63,6 +63,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
+    excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
+    publishedDateTime: 2024-02-14T19:18:00Z
+    webUrl: "https://electrek.co/2024/02/14/tesla-full-self-driving-beta-saved-me-once-tried-to-kill-me-twice/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 49
   - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
     excerpt: "Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
     publishedDateTime: 2024-02-13T10:55:00Z

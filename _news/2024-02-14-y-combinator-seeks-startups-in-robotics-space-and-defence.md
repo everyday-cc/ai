@@ -28,15 +28,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
-  - title: "Y Combinator puts out a new call for startups in areas like AI, spatial computing, climate tech and more"
-    excerpt: "Spatial computing, climate tech, and applications of AI technology join the newly announced list of startup incubator Y Combinator's newest request for"
-    publishedDateTime: 2024-02-14T14:51:00Z
-    webUrl: "https://techcrunch.com/2024/02/14/y-combinator-puts-out-a-new-call-for-startups-in-areas-like-ai-spatial-computing-climate-tech-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
 
 secured: "U/3PcGD/UbIsT4PpK7tE24J3risKEqd7VVmmgH/nqazPFzW0PPC7MRn7AMs4+//sdBQJulYhiqYZfCdFm4kVOpT4w7HlF7zO1LZWQ9qIMmjYvJ+UsW+7OHSuny1YNkeaLqWXPV21P9zWwOdT9GT0NkPHP9ZxQ7TtaQb45l2Z7KFNBu5Fj+4oZnox5BNSsifImxw04glMeG+bBMdml7pwbCG8CSrPjAdiv2wYBmDKP/er/OxuxEHkFEyDoKWS/8DkygVzL+qWl0mzHmpXA2usFgAOWk1dof0Rrf62yLeoLbAAbqUDYtE8U20GGUQXTnbqo/gkR8p5jBoFjEhW5amfxFnR2SXKssZn8VgYcMdP2EU=;ZhDSywqrvmCkX9jpmmN6IA=="
 ---

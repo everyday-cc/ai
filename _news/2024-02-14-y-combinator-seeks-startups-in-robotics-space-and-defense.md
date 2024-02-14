@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-se
 webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 34
-  - title: "Y Combinator puts out a new call for startups in areas like AI, spatial computing, climate tech and more"
-    excerpt: "Spatial computing, climate tech, and applications of AI technology join the newly announced list of startup incubator Y Combinator's newest request for"
-    publishedDateTime: 2024-02-14T14:51:00Z
-    webUrl: "https://techcrunch.com/2024/02/14/y-combinator-puts-out-a-new-call-for-startups-in-areas-like-ai-spatial-computing-climate-tech-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
 
 secured: "RHMRz3A6dh7U96BJjYY6+csSHbKEFQIwGCRf0DWXFuskmDvXhyure5+tapDPTSIQRYmAp8537XtqX8S2XG2yBbZ7VDSDnL0OrGdWLvtCaJGmukVydbktdf1hEvSY4yuozCUkylBhGSrR/hie2XQXpAgG7qxsQk8pn4qlxuJfQZDObWKqjxDeHFMbGDC8ArpnMtK0cp1sL1WOxT6UJlNK7azzkCit4nrn0ulrTG+Wj4oy99s4TNuLbv4F04y238ZNUVVUliRrl89lnga9IiWGyfraIcDSsMQyrVgeuacoYkDwJsY6G7BZw7B03UXWeZ/3Rjly30ptKZn9xYk6HuwKj/qWZWIYJ/Va1mELNnRraUE=;lpBttIahLcz4aKaLDGXdoA=="
 ---

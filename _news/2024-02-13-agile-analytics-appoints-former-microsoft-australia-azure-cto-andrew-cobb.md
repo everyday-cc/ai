@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/agile-analytics-appoints-former-micros
 webUrl: "https://www.crn.com.au/news/agile-analytics-appoints-former-microsoft-australia-azure-cto-andrew-cobb-605037"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 1100
     height: 836
     isCached: true
+
+related:
+  - title: "KKR to acquire stake in healthcare analytics company"
+    excerpt: "KKR plans to acquire a stake in healthcare data analytics company Cotiviti from private equity company Veritas Capital, the companies said Wednesday."
+    publishedDateTime: 2024-02-14T18:37:00Z
+    webUrl: "https://www.modernhealthcare.com/mergers-acquisitions/kkr-stake-cotiviti"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "k1qaRUzcO2Exv+r67rwr4ilku74wsORugGg4Q4TZNeiQH49bSXJV75EFITy/9y4dN5K/kHqVq10mH8ZMMJ8r+0FQHHUjojm/LHijrvtFMZecNVnCWt/6wmnb5LaNPy7oLKWyg6Zal8j7IojLBGmKj1WI5pjpKQtBop6TCeGg6R/icUVxhrymK0P0F5GhmwP5XkxUHEGSOnw5pBgkCULGidceVHw2ZnVEobO96zM/FWpSu+EZcwEZwgO4J+2zws5AEB0WWCPu/+ATaGNYTirYyoa3Yopy6IocTz7Te24JkcU+MEVPZ1sgB5zRCB2+ekUy8W4e1aifsRtMgY7qbEBhy7aDoeocdJDZ2XE4vhuA+dw=;11li1HdbVOoHKdWOYKtgHA=="
 ---

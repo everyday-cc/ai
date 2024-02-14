@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-government-ai-prod
 webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
 type: article
 quality: 69
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "How we’re partnering with the industry, governments and civil society to advance AI"
+    excerpt: "Google shares more on how it’s partnering with industry, governments and civil society to advance AI."
+    publishedDateTime: 2024-02-14T20:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-ai-partnerships-government-industry-civil-society/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 63
   - title: "Australia Lagging Peers on AI Adoption, Productivity Chair Says"
     excerpt: "Australia is lagging international peers on the adoption of artificial intelligence and other advanced technologies, according to the Productivity Commission."
     publishedDateTime: 2024-02-12T06:06:00Z

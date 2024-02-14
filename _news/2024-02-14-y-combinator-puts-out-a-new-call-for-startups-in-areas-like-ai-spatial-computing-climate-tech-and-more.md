@@ -22,24 +22,20 @@ topics:
   - AI
 
 related:
-  - title: "Y Combinator Seeks Startups in Robotics, Space and Defense"
-    excerpt: "Y Combinator is one of the most prominent and competitive Silicon Valley startup accelerators, and has backed companies including Airbnb Inc., DoorDash Inc. and Stripe Inc. Apple Inc. ’s longest-serving senior industrial designer is leaving the company, marking the near-complete turnover of a team once led by Jony Ive."
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense"
+  - title: "AI Investors Are Wooing Startups With Massive Computing Clusters"
+    excerpt: "Nat Friedman and Daniel Gross built a 4,000-chip supercomputer. Andreessen Horowitz is in talks to secure tens of thousands of GPUs for an offering of its own, a source said."
+    publishedDateTime: 2024-02-14T20:13:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
-  - title: "Y Combinator seeks startups in robotics, space and defence"
-    excerpt: "SILICON Valley institution Y Combinator has released a new list of 20 types of startups it wants to join its accelerator programme – calling for applications in sectors like artificial intelligence-powered robotics,"
-    publishedDateTime: 2024-02-14T14:44:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/y-combinator-seeks-startups-robotics-space-and-defence"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd0941a11e54b7ed05dad1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "BEzdwURMmqBBuZ/dN8+Or7al787iyqhpNS38gb7amgAPXUNxct9L6sKNPPheo49v37fKEXhBz5b8DRM4NPHOLrS6pXPdEdWsSXzDbGLxYnXi56pEfB7zxBH8OgqAb2+1asu9ozwLaj7K9DbU1VwBEhrhYeN1g8yxYM03z8/RPYxHi05EKI4FdmPzDAPOIWEFcZNubTo9qiHogfimnDUix45itQmN965Qd7OE/2TWuD3OT+5kdbW/1wh+2ReDQCudMFoFPty9lGyBZIwC1hgf3FCTOUxdUUKanX4lZkMXTaLVM204cnNkiYhwspqUcBk2VxRFu+5e0vCoxWSHPlv2cvW8QeEjcGddVPHjlV4zHira7OvHRWtjtqQS3YXlmSMxkLrn41oVMITpkr0wDc8EgmKzd9SKN2yY8ujxPNPV4pDIT7G1K9uw48HWUIDLhIH86oxqcKbIY/QUOTaXuoussfJkZnvKM4z5DUlUrlV4y4XxjgB8jZrFXqTaP3cr50XTyDYWsXXxSywLpt6UFK0H2w==;oWZioPQTDGgwBPb9AtQPgw=="
 ---

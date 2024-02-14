@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glass
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
 
 related:
   - title: "The Next Chapter of Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI has become the primary driver of the stock market surge in 2023, despite worries and anxieties on Capitol Hill about the technology’s unregulated status. The fear that it will turn us into prey for Terminator-style robots has faded,"
-    publishedDateTime: 2024-02-09T19:46:00Z
-    webUrl: "https://nationalinterest.org/blog/techland/next-chapter-artificial-intelligence-209250"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 43
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/Shutterstock_AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Next Chapter of Artificial Intelligence"
     excerpt: "Artificial intelligence (AI) has become the primary driver of the stock market surge in 2023, despite worries and anxieties on Capitol Hill about the technology’s unregulated status. The fear that it will turn us into prey for _Terminator_-style robots has faded,"
     publishedDateTime: 2024-02-13T15:56:00Z
     webUrl: "https://www.hudson.org/information-technology/next-chapter-artificial-intelligence-arthur-herman"
@@ -59,6 +45,6 @@ related:
         height: 3800
         isCached: true
 
-secured: "/kzY9d5TJfcPU8gfUvpj7DRJ4XAvXbq6FFXG0+LtVBt8FNRmqAwh/8Cwcb2kqCVJwkx/zxY0vHwS6Js5DYpwWADc01JdjgkZcu/cHgyK5zgM47Bm+KywyoiF5YFTvgKVIAavs78U4p7A88v3ifKupCLeZr911Zfs04ww3nuwD4IiGXAXneasuCcL75CL/Di70rKZL7QJQxpA3X/86N6JnYYU4F17RdEOJfXeMEvO+7Gj54ymqQBoKbRZGzgEwOQxV1u8qsnaucP5SAkEFM/cAV/p9DKMoac28jRbPXmWF420loaaRYIfVe9yTykhzC3fH4YfxpA2/DTpl/HwCIxTs1Vm5vhgsqbZMn+HeSQM228=;+9hHgSfU+8VaYC8wfDYxiQ=="
+secured: "YEIAfu3c8L4oT34X8gQW4PMZD5rr3b0U6pD4DCFGLjtPMnojZip/W3T5hZ6cNDhXx4+4p+t7Vi2HLuC9dIPR4JoqWFUKRMqttFDnK4Kwvbqdn6bAoLwJycGOawFH75QHutgjMb43F3vGqxxA1ok+tVb+IV3mSVXsaXfgxcl1b2Xlj5QBOe7K8/g8QoQ7okY+Gd8iM13scnAnA6Klf2FTMm1TBDl9tcHaRl1+ZaaFUw3Vi7c9aUncTnxIFah2yG8XQqGqxJR8g1OrqcuwH/BHZ3o+0y9G1cQ075LTQp9cSKXd+UwZ+b31KpHUjqou/8jAalqce1rRcMCsg+lBbgqO82kccgZIPLZGVRVoacdsUqdHSSNekaF8nilcIKi3vviBXplDcWK0iV7gfwv6fOCb5twpfDJV4UHnhBpSEQ05+8UWaC+Szlro/sQctS7dnSFiutQou2lE99fc4MMfIv2nULAgcLLvwSfqtbf+e2oohmnPzU2+9z3WByhA4qnQ4W+EhEA4OMqpdx1g1cq9aG8ApQ==;eymzunhs8+PuGSP7FHuIow=="
 ---
 

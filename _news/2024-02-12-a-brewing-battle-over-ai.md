@@ -51,6 +51,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
+    excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.inc.com/associated-press/tiktok-cracking-down-on-misinformation-ai-fakes-influence-ops-before-eu-vote-could-be-model-for-presidential-election.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 0
 
 secured: "JpVOG1032fyu2Hbz0lGj54Rd5R+BLuSdtUl6zjyiY30illiLNFkrqTexvkDs0XYlZaXRUBvjkf4DnBByhnS18VanW4oMu/O9kVdnVtnUrAg71byeoi0lu9s0+r5uqv4hGflkLN9Nzdv35MqBMWSRcwY8DTDz4V9a3LXoIo/t0mL8YeK3wjY104F5KmOCAJ99QhmKAUr//soEEsi/Ziplyznm+A0R7XH2npexuclEcLPr4fM4NbpL55QV/XKZWJ9jtQAQRrqEf5Q5IECvvZF8dbJafxv7aLRTL87jXvYIxeC+y5REF/IWsRNiY7bqIShbrhYjJZk+AduclzZziOOe7ur7NRQGmdr9kUA2pEGGJsE=;k3O2JUWPQUn/2a68f/MF8A=="
 ---

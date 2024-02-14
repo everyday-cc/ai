@@ -85,6 +85,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "What you need to know about AI corn"
+    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
+    publishedDateTime: 2024-02-14T20:08:00Z
+    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "uzWxImU2UY13QLIcJYy0ReMQFFnnour8b61YitffBoU5TN74nQGA3el/NnVfjE4H7Zci/7bQIDP3EbKyYb4mv4JlBWk9euWxXicciWuA8EWTv4PkODEMN1HFnP9uOPWaQz6bkvpEox3hwT4zxDRADfF50Ul5TfCQdGHHnI2ckv6JXYm2MDzwNB8PgygiPfoES+D1hoHo/SoWL3rj/PJ0Wjo828KEX4Ts01nUDgObFT6j2wllAC9JrySD2DubA6Jop2o51irYYZD78M5nJHkC8NkNOVyIxgXHGrOVOCiiAAKGnzTD2NZki/a2sVbHsKwB+br22qU2uTV7kdm51Z3vT5/dyy4AolcQQCkxhg9gjmI=;pOu+2Y+awf/QHxPx7Cbjwg=="
 ---

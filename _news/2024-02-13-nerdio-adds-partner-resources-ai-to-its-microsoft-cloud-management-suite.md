@@ -131,6 +131,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks"
+    excerpt: "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and"
+    publishedDateTime: 2024-02-14T20:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
     excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
     publishedDateTime: 2024-02-12T12:17:00Z
@@ -209,6 +218,24 @@ related:
         width: 1191
         height: 628
         isCached: true
+  - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
+    excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
+    publishedDateTime: 2024-02-14T22:57:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23899803/micron-could-be-a-big-winner-as-intel-and-microsoft-push-the-ai-pc/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+  - title: "North Korea and Iran using AI for hacking, Microsoft says"
+    excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
+    publishedDateTime: 2024-02-14T18:52:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/feb/14/north-korea-iran-ai-hacking-microsoft"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
 
 secured: "R711e4umjXssZFO8JG/P4IwQW7Nd68rHqSVzMS+fsG5G3R/VERmhN0kNWlucx6zUs/vMAKXZiF8NfacFHZfkWA+PzfbhKd0khc8L/y4WEDLKQ98P3JZYgpMmICwYUc5s6/tUQf3p0XohvEN6i08Osa8uORlJxDkCmmwHXWifDXrBOaIakQMyyK0mo0zC/FdlvWFyhIgWEOaC9PiK3ki+fH4MtOhXpFz/Sq7qOa96k4Zm+/MRDbbsyG7hc3h2Y/xTfKCuFcZCsBmcKuKlqwl00MdTxOI8hp6TM0Oqw2LWi0cfhdoeJCy22XcrCTw7uH4Iz67H6FAclE928cZCGj4khjmjNoZtpUdeZ+7TKmpTOWQ=;KbuumeDDHl+Ogl2ybmwVgA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Mila - Quebec AI Institute holds an international conference on AI and Human Rights with the United Nations, the OECD, UNESCO and many others"
+    excerpt: "Mila is a globally recognized non-profit organization for its significant contributions to deep learning, especially in the fields of language modeling, automatic translation, object recognition, and generative models. For more information, visit mila.quebec"
+    publishedDateTime: 2024-02-14T20:43:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61408441-mila-quebec-ai-institute-holds-an-international-conference-on-ai-and-human-rights-with-the-united-nations-the-oecd-unesco-and-many-others-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "7jaEQi4IN8yiAfG6cpnrGld2skGCMGJTQOSQK6gXVAsYfW89xezYhgw1Q6Eqt+2klMgXukZBE/Qww29X+j4e2E+EIToAp+EI4SLL/Yu9XbZapwaPRv06Kqzcptk7UJh0J4nCfHs08jq1gJJHHKFJkW7s6Piq8vhiTK//uTAjlyii8tfltBrngb0rGYjFiyrWW3fB91qTFxlb0tmR0m31Ab3x0NHfLLXhK6A5plW/W8FQh42Orssd5HvXHM4DtkS5yIioKefzuB4Jo5foWPVvo7jYkY59KwnsYIE7SrloNz1c6iPy1c5Bccmjx+O/nem+MelhA9Ej1BjyaC2oDRmEXJGTNnT3353dWwIzWgQedtsfV6uJ/Ty/c6eutf3/llGRKGwnKxoFL4yDxrN2918KBfnjhRx+FQX2PiUxQM22I3aEvFcvsTu6erzTQz4ZeeoyGLLnN9+OjE4CgqGkx++JEx3OqTO23mTt8qEdOEGelzsyPlpzUVw0plmm7x5250NIcZibs3fRAHjrrpYuB6y9Zw==;VU3/PKVd1W9+uEgFmduFgQ=="
 ---

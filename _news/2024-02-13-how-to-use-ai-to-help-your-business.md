@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "What you need to know about AI corn"
+    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
+    publishedDateTime: 2024-02-14T20:08:00Z
+    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "8eYezB+rrOO9q2MKMXxNUNXCACdjCa4lWifl/R5eZajVrTU1CalnfPqQXhja5KhVFmCzuYTVxEsfh8Ase9FwRB+eQB1ESajJNbxadcMlA8SLUkGE7kD9JiXNP7TjHOxWcuFcswQCT5c2TWipUX7JzBaL/DzGUpsT2WFdYS0yebeOEaUc2xDlszjnlJZ8d52z/SiHO4+BmshSU3OVNPBppe+V2sRt1rkjeihhmpVVVLHRDG3JM7TwTclEOVHjMX/mm7sc38SEzh7NKAgdlDOIvxq/Lv6UVEIwb+YRbCA2oEUVcI2R48UpOVPwrO0R2GQl2YUphOnW+O6+LaP4j2kfcl+OQ7wEYL75x/TqlFYXwOU=;7XB6CJ5kz/nzUWYOgptw6Q=="
 ---

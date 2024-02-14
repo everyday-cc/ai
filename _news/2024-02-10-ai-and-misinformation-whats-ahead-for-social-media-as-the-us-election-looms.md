@@ -55,6 +55,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 19
+  - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
+    excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.inc.com/associated-press/tiktok-cracking-down-on-misinformation-ai-fakes-influence-ops-before-eu-vote-could-be-model-for-presidential-election.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 0
 
 secured: "SWHOD+IdcoE5kI6g/B1Qoo3q2ZVScxalcOtCxVka2pPAIXPdXIyqMt71QdpqQ08c9mPRF4lUiZYR6zG/yLPV4BscTz+diJ/O5B/kuZGjWV0Bfdq063jM98mk/xciFO8Gxzo3rlQuwQOUJqTlhhmdONR2TBE6q1iBpFc0Hos34tegirkApxcMTxH3YwZbpkHn+DtQjDfowT+k5/xkpx91KMqTkMst3E2NXCSNgIBflLfoW6fKcwtJq5nSraZsTn4l3SZ5gJxA5xbLFmJYUy3fLVquidflvbzLpSI64q9FuVnvfdSfDg44OWtthVm9u9BB25UMhrp8sOGy7xusg0HpJZpqHbv2u2AiFdhP/EA0f70aS0csfj3FikCe10Sv6eKwNLFJ5Ralw2o7fYfCzBCJ3uq/o7CTYaw6ogQl7ET7E9bwp9qHlBUuMLLe17bnD0nErg9yRpHnQwF/w1aE+lJa02qgTVLC71+kR+eLFlEhsgxbfwktXFeZsRcRyjJnJrdtOsoB3Wek0GKLNuolDo1X6g==;aOXC6C2FCco/aMfhE7OIbQ=="
 ---

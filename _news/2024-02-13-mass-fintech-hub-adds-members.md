@@ -185,15 +185,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "Why Big Game Ads Are Becoming a Must for B2B FinTech Companies"
-    excerpt: "Papaya Global’s decision to enter the world of NFL advertising comes in the wake of other B2B FinTech brands that found great success through their own ads. One noteworthy example of this is Gong, an AI-powered revenue intelligence platform that ran regional ads in 2021 and 2022."
-    publishedDateTime: 2024-02-09T20:10:00Z
-    webUrl: "https://www.usatoday.com/story/special/contributor-content/2024/02/09/why-big-game-ads-are-becoming-a-must-for-b2b-fintech-companies/72542760007/"
+  - title: "Carbon acquires Nigerian fintech Vella Finance"
+    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and ... The digital bank is aiming to leverage Vella Finance’s AI-powered SME banking feature that helps users get actionable ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech-vella-finance/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 4
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z

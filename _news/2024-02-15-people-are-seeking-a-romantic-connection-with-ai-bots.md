@@ -1,0 +1,29 @@
+---
+category: news
+title: "People are seeking a romantic connection with AI bots"
+excerpt: "Carrier wasn't looking to develop a relationship with something that wasn't real, nor did he want to become the brunt of online jokes. But he did want a romantic partner he'd never had, in part because of a genetic disorder called Marfan syndrome that makes traditional dating tough for him."
+publishedDateTime: 2024-02-14T19:38:00Z
+originalUrl: "https://www.ksl.com/article/50877210/people-are-seeking-a-romantic-connection-with-ai-bots"
+webUrl: "https://www.ksl.com/article/50877210/people-are-seeking-a-romantic-connection-with-ai-bots"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: KSL
+  domain: ksl.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://img.ksl.com/slc/2970/297043/29704311.jpg?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
+    isCached: true
+
+secured: "yFd/9ePZR62DRuasZGX7zpCdHt2trLYLdQLPXy0vmsmtWdp1QQD86dj+pgHqp/+h/8iDIxXGzaWwmC7cckaBqx8+fwv4OWiwyE809S8KyooD0in41I2lmDpsG37xCk2ZGZ50iW1Nx9xiiEPWz5oSgzfuPMTrV8aKVAPvh5da9BQbPXX88159e9iaV3DiXvtRUe+ZgVMDGBGF3S+UIeUE5nRpGPC7lp7HKlg5C0djmMwild5Ka+PJXv2FkLlUTazpmoDs/WGh8eiYG4Ftp5usXjNspBP0+buiaOIWvZkz53TvJ+2E38JiJX3lD8j/fxj7tZ3CiJtfb986AUvzqW3ebrvNLtt3IBWAWIMD5X/i4VQ=;HL2dgea/TQbJ9RUYWJmWaQ=="
+---
+

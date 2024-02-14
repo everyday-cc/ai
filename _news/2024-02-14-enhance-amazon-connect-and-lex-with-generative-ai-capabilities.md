@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-conne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
+    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
+    publishedDateTime: 2024-02-14T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
     excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
     publishedDateTime: 2024-02-14T11:14:00Z

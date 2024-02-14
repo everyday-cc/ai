@@ -34,6 +34,15 @@ related:
       name: India TV
       domain: indiatvnews.com
     quality: 36
+  - title: "HP unveils AI-enhanced HP Spectre x360 laptops in India for enhanced performance and security"
+    excerpt: "HP introduces its latest HP Spectre x360 laptops in India, featuring AI-enhanced capabilities for improved performance, collaboration, and security in the hybrid work era."
+    publishedDateTime: 2024-02-14T20:49:00Z
+    webUrl: "https://tech.hindustantimes.com/laptops-pc/news/hp-unveils-ai-enhanced-hp-spectre-x360-laptops-in-india-for-enhanced-performance-and-security-71707897298459.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 25
 
 secured: "7AKx727Ru91bjgV0kixA6CGTfOPavrd2/cELKOwMPB/mfa7+XjFgUU1c9EI1PtlRoJRZ5Q7KdbZ2hwWdfCU8dN3x6T35/05vZYMINaJE3RvfUsWQ502DxlWkZzbPP9U2Wc3CpZMDLvHpHhXIqr5m2QXPSMJcUeH0heLmjio09oGNmAcNji6oQDB50m5+ZEsDWEVJ2SKNcTvVPClkNWaDpUvmi33cq0W34JR1p+4shE4e1bqvsLx5UgGv1lrLflefTDFOBsuhn3EmT/Gh+V321Sx6HdtV0GmulFI09nWbIskCg9fRIYLM7WwJ4i4j8EeisKfCavgCfLT6IsdGtI3ZNBYoG6pHk/5NRykiY4X/GDg=;zsU7ZzDrJnJKqLfWj2mLdA=="
 ---

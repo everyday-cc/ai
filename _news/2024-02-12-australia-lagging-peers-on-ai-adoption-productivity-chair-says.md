@@ -50,6 +50,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "How we’re partnering with the industry, governments and civil society to advance AI"
+    excerpt: "Google shares more on how it’s partnering with industry, governments and civil society to advance AI."
+    publishedDateTime: 2024-02-14T20:00:00Z
+    webUrl: "https://blog.google/technology/ai/google-ai-partnerships-government-industry-civil-society/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 63
   - title: "Australia’s Craggle releases AI tool for refinancing home loans"
     excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
     publishedDateTime: 2024-02-14T09:22:00Z

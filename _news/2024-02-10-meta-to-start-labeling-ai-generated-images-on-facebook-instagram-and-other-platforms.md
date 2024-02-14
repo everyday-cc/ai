@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook And Instagram Flooded With Hundreds Of AI Spies Made By Italian Surveillance Dealers, Meta Warns"
+    excerpt: "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists."
+    publishedDateTime: 2024-02-14T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 30
 
 secured: "me/BvdYzJktq9AZxvYIL0cDisOeSt4ymsiU+4qinLo9N9TblS8BTtN0FT5VFd1D0ByBrQmftg2wqM8jUkdf5AAbtJl0mHyo4X0xdhwyXUtMYDQwLHmw16irFsYrBhz+GorXXeGzB8mf13MG9JWdIznu3xKMnJwmEt0dpw+hH+Uli4qt1WVJLAB3tUB4iUAU4pzrPd7vyd3/2kR7/jrGv18OTLngQfD9NUshgJwkT4m6C3WA8O1lGqYvxy8+YtmRxyQ/q6Zv3l/18BaaF5X98oXBAt/8ijihaaRmUhVs+/4mXnt6lvYnFsyY0AjLviJnIez/dAhxC1eOlqJFR47lBOrsgCoLgC7T/DdmrkxDEiT5onV1NMomERSPghDoaWncom0W03jkBi5LzLjtQH+dCOiOa5lPLSYqJWlog3EOSJQ7bTqyRzmvUdYTL7EAA1yZ0UplQCf/FO7CIkY/KNIRm/4Us7RWBoZqf0gfdkwGyX0mIpZrxN+G1J6ew9z51SERTLDc5/+dsqDqOf/lM6QRGyg==;jNoMFTC2b15LGTO+fFaPVw=="
 ---

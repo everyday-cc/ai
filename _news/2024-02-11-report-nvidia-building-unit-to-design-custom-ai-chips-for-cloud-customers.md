@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-de
 webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: Shacknews
       domain: shacknews.com
     quality: 29
+  - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
+    excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
+    publishedDateTime: 2024-02-14T19:41:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 19
 
 secured: "3SUp61H+qzNF7BJ7G1ErJMENyoR383W4X4ONbGiLzPukaS9ZGc8KpkBaxVpJt51oFr1PIWs5WbyWZcRtePV1z1h3TB1WIqnbWemBdiI7Gry/BZaEz7URNQ1A6T01EWOiRfRY6Y1/5A9moz9+Ox89/rtwIhn62Awb9/SPLOResQRMc3UqfH5Ym+koxCZkGT46p3LuM81G/C+pZq704B/vqEccApPqQqf0QqjgqI+gyI8Eh8a/NayFN/WEKQJp8IrGv0czubnq9/zNznbTBkN3tMpFVuLmwRco/K1vEz4I8UBR0AyMnsKXALJSlbJpRLO4QinjiLmw/EloOeg2aNus149RGroqI1d7n7QnjADK7GgpZEzPSUjfckcGyirRBli2iqfoUeu51NppG0kMTAgEPuXFaUehhAQVPGvohsilAauKs0a+gm2bbnMap/ZSvqfMmX1zpWT4H6WfEoYIEdIw/5FORjmaXoemF9gLQ3ZIQfQshu7JOYK3YdYE85ra4OA0uyIgGkKi1Ia1Bdc0q5M/fg==;cEybU1pU3Qt+h5geV1xA6Q=="
 ---

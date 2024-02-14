@@ -225,6 +225,20 @@ related:
         width: 667
         height: 659
         isCached: true
+  - title: "FCC Requires Consent for AI-Generated Cloned Voice Calls"
+    excerpt: "The FCC clarifies that voice cloning enabled by AI technologies are within ... it was also interested in using AI to help with pattern recognition in order to detect illegal robocalls before they reach consumers. While the FCC confirms the inclusion ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/fcc-requires-consent-for-ai-generated-4970882/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.5223_1814.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "What You Can Learn From These 2 Generative AI Startups"
     excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
     publishedDateTime: 2024-02-13T14:38:00Z
@@ -253,6 +267,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Aviz gives its enterprise SONiC offering an AI boost"
+    excerpt: "“Customers can create a data lake with all of the normalized data they are familiar with – that’s data coming from any switch vendor, ASIC or network operating system, as well as data from AWS, Azure and GCP – and build AI-based applications to ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.networkworld.com/article/1307730/aviz-gives-its-enterprise-sonic-offering-an-ai-boost.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 19
   - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
     excerpt: "Learn more about the Alteryx and Databricks partnership here."
     publishedDateTime: 2024-02-14T14:22:00Z
@@ -262,6 +285,24 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 15
+  - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
+    excerpt: "Alteryx, Inc., a leader in AI for enterprise analytics, today announced its expanded partnership and product integrations"
+    publishedDateTime: 2024-02-14T19:40:00Z
+    webUrl: "https://www.datanami.com/this-just-in/alteryx-and-databricks-fast-track-ai-for-enterprises-with-deepened-integration/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
+  - title: "Stability AI: Everything you need to know about the open source, generative AI company"
+    excerpt: "Stability AI has quickly become an AI leader. The company funded Stable Diffusion, an open source, text-to-image AI platform launched in 2022. In addition to Stable Diffusion, Stability AI also creates open source music, image, and video generation models."
+    publishedDateTime: 2024-02-14T18:40:00Z
+    webUrl: "https://www.androidpolice.com/stability-ai-guide/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 11
   - title: "Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy AI Infrastructure Solutions for the Data Center"
     excerpt: "Cisco and NVIDIA are partnering on plans to deliver AI infrastructure solutions for the data center that are easy to deploy and manage, enabling the massive computing power that enterprises need to succeed in the AI era."
     publishedDateTime: 2024-02-12T14:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-drivin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
 type: article
 quality: 73
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
+    excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
+    publishedDateTime: 2024-02-14T19:18:00Z
+    webUrl: "https://electrek.co/2024/02/14/tesla-full-self-driving-beta-saved-me-once-tried-to-kill-me-twice/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 49
   - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
     excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
     publishedDateTime: 2024-02-13T23:07:00Z

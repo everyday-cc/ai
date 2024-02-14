@@ -78,6 +78,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 4
+  - title: "Google warns users not to share personal information with Gemini"
+    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
+    publishedDateTime: 2024-02-14T20:19:00Z
+    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 4
 
 secured: "MW2Hf08bVh4qugrOWVxTaYF6nzV2dTQavesHaryWms71qrtqqHqkHFNatKxCpJ6H48Q8ato/hfBuJKkd2QfVHganLqurM/dbWUUvhrYh/GNtP8H9Y7Gf82/oXukNWMg8oWlRXZmyRRsOnf2lFAbqELihCOmQOIRaK22U4pDP0i1EUDX0TFhIhlgu37hjT7xUjiHuwXoRnFEd3+GkYJVA9MlJhhsFR0zJSOVEuTPW4EFzbVhUhUytcadk3lzHX1uzV8Z6rI9xRSj0oMG8Bqor9IxIvAS4zJ22AV8/Y7HIVF/OGMsLyD0MtoyROf/TBTC6JV9j9beSi5i3ONcK9WA2D9drI3uleWumbRdqmhayGBE=;lXjzYoHGq1IAbaChsuh1jg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://technical.ly/software-development/university-pennsylvania-
 webUrl: "https://technical.ly/software-development/university-pennsylvania-engineering-artificial-intelligence-bse-degree/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Penn is the first Ivy League to offer a degree in AI"
+    excerpt: "Penn is the first Ivy League to offer an undergrad AI degree. The new program will be available this fall."
+    publishedDateTime: 2024-02-14T17:56:00Z
+    webUrl: "https://www.businessinsider.com/penn-students-can-major-in-ai-fall-2024-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Penn to become first Ivy League school to offer undergraduate degree in artificial intelligence"
     excerpt: "Students and faculty expressed excitement for the new engineering degree in AI, which will be available to students next school year."
     publishedDateTime: 2024-02-14T04:22:00Z

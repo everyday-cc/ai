@@ -2,22 +2,22 @@
 category: news
 title: "ZenRobotics launches fourth generation of waste sorting robots"
 excerpt: "The company has introduced the Heavy Picker 4.0, a multipurpose waste sorting robot for bulky material, and the Fast Picker 4.0, a high-speed robot ideal for lightweight material."
-publishedDateTime: 2024-02-14T16:12:00Z
-originalUrl: "https://www.wastetodaymagazine.com/news/zenrobotics-launches-fourth-generation-waste-sorting-robots/"
-webUrl: "https://www.wastetodaymagazine.com/news/zenrobotics-launches-fourth-generation-waste-sorting-robots/"
+publishedDateTime: 2024-02-14T16:03:00Z
+originalUrl: "https://www.recyclingtoday.com/news/zenrobotics-launches-fourth-generation-waste-sorting-robots/"
+webUrl: "https://www.recyclingtoday.com/news/zenrobotics-launches-fourth-generation-waste-sorting-robots/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Waste Today
-  domain: wastetodaymagazine.com
+  name: Recycling Today
+  domain: recyclingtoday.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "2vh5T5/zBSh7R1prjimrp9JrCNp+mJtFNgLIcqgBF+NZBuzN79TF1g1hVB3Yk9q0FsWfkWA0U+XNDHYvPKuu34JZF5T93pdP04gzFtFJrh18soyg4Hcp7Ba0vb/w+hfj7pTfstxeqIsB6OzPruYJ5TF7ZL/bzFeBltlyJJufF1MuVRXHGinxa6XNtHEr0iyyTOeH8f7zW4RIRdD/UOHmsGvEZDuDiMw7qmA6RDqAhBJBX9cyrkrC/g0zTjkys6Sp3LF6Jefp4eYXNr/RX0xLPEMkz9p2q8Nc1Fs2w28zFnUq9PqSKyg5hkNetN0qqkC1WDbSAYYA3oTF5XEWyu38dw1TfSefjpM0ril1xcP/1zU=;MvdMI1mqDdkq4xgqiU/H9A=="
+secured: "3+YpkZjsVrfQTqLEj9koyhnr/mT4egTRVNn7RnwyuMaR3+TGy8CwvaD5QL6dIJQ26r5V4y75dxw/8VCWA7R/k/dEF8pUwAn9SyMJNkO0wYhBnT4vRE6bHmMzaRRlyjqdj/f2SmyyrrC0QLiLVoMl1sJ7xSIOaRpzS4WPppSVZO+M3CsOcVSYrGEVQWcvsaoouB7QzTc16Udpw8jES+FHonz7C4me91EBKoAIcv+jh+l3DAWB2E6TjTMdwNsaGwv9HlKOq/CSqHekhIb7nK6HmEjFlZkdl4reKf0XDzuL+zQz/fwsteRY4fPWBvC93IpW0nwBVVw9kjW8iq8zSr0kTbSUIk/qtsziqCfekMgClDFAkF1GHJLFdKbI2plVYGzyFT+UuXxgxjZycLxk1grXVjE/WZ3OKqyyWv1fh94J1YQmaMi2PST6XU7Cr1yWHS9CkEqVDI6PvPWV3kE0r9uaaWob/6rQXgRe0UrAGdl+FtPy1e7RGyqLnfCNyaQhy5/4ycvOmpBBVRtLMd0rDUN68w==;tWk+cqSGYEWWBRSIKnz7Cg=="
 ---
 

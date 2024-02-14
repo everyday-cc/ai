@@ -34,6 +34,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "HP unveils AI-enhanced HP Spectre x360 laptops in India for enhanced performance and security"
+    excerpt: "HP introduces its latest HP Spectre x360 laptops in India, featuring AI-enhanced capabilities for improved performance, collaboration, and security in the hybrid work era."
+    publishedDateTime: 2024-02-14T20:49:00Z
+    webUrl: "https://tech.hindustantimes.com/laptops-pc/news/hp-unveils-ai-enhanced-hp-spectre-x360-laptops-in-india-for-enhanced-performance-and-security-71707897298459.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 25
 
 secured: "Cg5VK9oUrTJz4QdgVwO1EDlUEHwCs5njjEzeP0lCj3mCjwp7vTGmQIJfGEqOtjBeVZc2ylbfInb0m9KG7Ty1U805eSfUC89JnedVnEE/1iRvioBcDLFETutgdm3B3NpN+dDON2OiagVOcF1MrYrMssT4GOpeLOTl7e/yW89ch4i9oQY6ATUQIBBZ0WMVwFtDknQXjU0giBqIt8hyVrczr62cbgvikuU4UExhvFddtVJUmFraNr2eLyKb33fk5+4oZUfd+KmRn5UlGIJLI0O8G9I59eCeJI7wUDL9xGq3XXqp6FwO6wTAiB3s4AjIV6fj4eTxB3lvVRPZMSMNmLikN8dRbjD2P0uB6DxCPKglyoM=;94Ne7RQb9AOb+HphVFz7ng=="
 ---

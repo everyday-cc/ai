@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
       name: Politico
       domain: politico.com
     quality: 19
+  - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
+    excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.inc.com/associated-press/tiktok-cracking-down-on-misinformation-ai-fakes-influence-ops-before-eu-vote-could-be-model-for-presidential-election.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 0
 
 secured: "iQHPVNV554//qXkPdwlTdTjniTemBPDjL4b/dPQSQylombWBM3o4bUm6NL+gnFPboGohqagTh54B2Hqs7wtGAte6WQrbxJL49wfEz4wU31w3Y7D5eNacGThbdtRUJtUGyMsis46y+cjYZc4joWoOFkgkP7nkoEoT374PL17PADd+0j62bxrsEmsZDpHQm/Skf6zey2QSxa3OL8uVmw719b1XreQjCo/PEaqWrul/1r+d1helwJcSEMIBmTg+mMi3RSPxqisgl4AuTxX0yq9n8cq8e7coM+9YYrM1wjTXYUe+VmqvFnXpoBfRSfRatkUBTh+GQ6tnGolJt3KBGftBBjiXROXM5+k9vOK93M5+764EWy9Qebuzouzxwsh3J93bXC36O82zZiD4OmnCAMkvBDmCW2MIeIx7LL3STIHxJJlnUIEzUIbok2P1q8oAdMAfkQaZNXGMPxyKR05ixr0UZN2/EdLt/ZIXc2oY2YQH8zlPcqOWj4wzom+/mOoQ1kWUn0xZ+M/phU+LlK7mT3VA+Q==;mP6PYU8+SS1fC+b0RW2O4w=="
 ---

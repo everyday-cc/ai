@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Waymo recalls software after two self-driving cars hit the same truck"
-excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart. Minutes apart from one another, two Waymo cars came across the ..."
-publishedDateTime: 2024-02-14T17:28:00Z
-originalUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
+publishedDateTime: 2024-02-14T19:29:00Z
+originalUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
+webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
+  - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -56,20 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "Self-Driving Waymo Can't Avoid Crashing Into Cyclist"
-    excerpt: "The self-driving robotaxi reportedly braked heavily but wasn't able to avoid the cyclist. The vehicle in question was not reported but we suspect it was a Jaguar I-Pace after the company retired ..."
-    publishedDateTime: 2024-02-09T20:43:00Z
-    webUrl: "https://carbuzz.com/news/self-driving-waymo-cant-avoid-crashing-into-cyclist"
-    type: article
-    provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 39
-    images:
-      - url: "http://cdn.carbuzz.com/gallery-images/1600/1228000/100/1228197.jpg"
-        width: 1600
-        height: 1066
-        isCached: true
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "On Oct. 2, 2023, a pedestrian hit by another vehicle was thrown into the path of a self-driving Cruise vehicle and dragged 20 feet (6 meters). California subsequently suspended the company's driverless testing license, and Cruise pulled all its U.S. self-driving vehicles from testing."
     publishedDateTime: 2024-02-12T14:30:00Z
@@ -186,6 +166,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "VMdFJNYSjc/hLA4mWVS2+G/HAYhZkAqqW+TmZ7vu6YlDpJqRGCw8ywqDRmQDhHiWgeGH5JVgtIfX8fW0LpNaA8f2iPirh4PQQhXF6sX+RSOoidvko9b16J//+RHN/XdjdPNVYm8qLbxo6DIx+0YKCZYgnzxy+5URyTuI9EG1MEVt+DxSeLjrdQ55I9C1THjiTW7AL+Wp5Twp6e9jLSKHjck2ASk+7xjWMb4yIK09vIIZ0OeFlgCqJrdVGP7F2vuHvuhvMh1IHMCvtspxRUc+uTSuqyLducTrXZzPmxV1b1VJv/Nq90LFX3X5BLwYH3TJFf/KpPmXUVaB6BbNBDmL+gWXOiVqGVb1sybUNHHX4K8=;3G82JxkH+Gf5k7Q1HhjtVg=="
+secured: "n9VounloeWlemrOK1L0GLOpCEUSyI8mzIIhpBnSYE9BbXG6mkM8KUEGQGM5fhYwmBjYAVlBUlO7rV9lPIroBPvZaM1OJohSKOopEesxZdCMon61LNqe5BisBmz0hWaMToShQhhE/RWpK48JoWAwsPUKTGwSiTOWlUTIyHBVMva9Pu7JymzMROT5ejRoMTTSreg+jIEqCRQ0nLXxwzJ3vV5EIA5ydls58RpsOpeSr75p0poXa/3WRnMKc+cvBrXPejH8Sa2s1yOSexM3TjQddxaPBTYpONzqxTnFu0erUAU2zW76s/kw3eGs94jmJL5iPwDKiLb7VtGa4bWCQEhhl4zYbvG87f4Xx7SqUF74EcdU=;ATWuS4PgldqChEthS2jYdg=="
 ---
 

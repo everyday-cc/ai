@@ -34,6 +34,24 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "US says AI models can’t hold patents"
+    excerpt: "On Tuesday, the United States Patent and Trademark Office (USPTO) published guidance on inventorship for AI-assisted inventions, clarifying that while AI systems can play a role in the creative process,"
+    publishedDateTime: 2024-02-14T20:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/us-says-ai-models-cant-hold-patents/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 47
+  - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
+    excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"
+    publishedDateTime: 2024-02-14T19:22:00Z
+    webUrl: "https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 3
 
 secured: "CImZKcx9mUxhfM88rMrzTUzKWWvTRBfvw7PFchMec3wzo5eUl4+euZehH9z+A0oj0eG77t5ZlsnQmrLrBC+KFJEdhRarK9WRocNkNI7amRP36Fyqhlcaf0RfioJ3/A16i//rQ8ToB1FL79SAtoUZgeodOp6KFWRTULjunmsW7yNMkJ4ZYaibW+8dnMamlGH5n0JTfh+V9wQ91Cih+l83whvV62QVoK1OjAXXu6CDM8iUXlvhMRaW9cHKMdH+yG09JBPGbkRpGg6YW0XJGwVGZ7Vj8kEowIt6dmEQR+my+uWHwQ/fQrZZCJTBPvx72vbtT/bPfSo3Z4LUNnWuIljQDKB6lfpdvw0146VSdAbZVIA=;Q2L9nroGEBYYuMAX+COqAg=="
 ---

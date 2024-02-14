@@ -77,6 +77,15 @@ related:
         width: 2100
         height: 1400
         isCached: true
+  - title: "Google warns users not to share personal information with Gemini"
+    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
+    publishedDateTime: 2024-02-14T20:19:00Z
+    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 4
 
 secured: "0gvKaPDI7VCL5PyBMO5+ATL2zX3jm2zT/dR4oCrmdQjR9zupO49M07p6J9KmjvB5pq513+LvnIgSY+so8EeIOIofNfZRniQxbW9Q9WgX3/fwEswjQ8Ajv8/o36goy/4xJDDQ4niGK+Be7wUkU+tSc6obIwAwQE2s6oAPXujQMbJM2Gux803EsVeGcKhhLi3GMYuC79fnZwTol19KzgLijLfCdx07oJqLgeuxcUjglrH/VNy4OOx5lT9RlvaaZkOfAVUvhbYSfBODrzbymnntn+0EMUz1rxabuHtw2APKKgXZnwPeregOvlkb9yqDfX+5kgtepCXfgSPl8a4dpH5MauiknNYOEDv8YFj3wl3nOcI=;vpLWt0yhau0q7s3m1pm8Uw=="
 ---

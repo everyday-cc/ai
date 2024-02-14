@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 4
+  - title: "Google warns users not to share personal information with Gemini"
+    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
+    publishedDateTime: 2024-02-14T20:19:00Z
+    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
     quality: 4
 
 secured: "xZ8l+NeGij7y2sOG2SC/HhKVb9IEN3YBlyH3oslcF9ASXI4nCLd0g7brLfyv4AGOgxBQ3r+4rOJRD+aNc9PpaIbHM+krKLRC8rUbmIbNqMXrLO2zhWdSh61vbOxFYVEOkawGR5Qofg3UlLddv/u/sqA3ENv9Bvb6wgFN9/rbgNECi8TDDFv1h7nRD2Vg9KDf2uU8dfGXk/HAwjHLBGVdjbAJKt3COfVt0T0NRS0dMJFzeZD72lLQPwOOnfb1b+uCFKGz29nzX81IxCaZLZUoxpohdrIo6VHTDtfyjxxM7FZDCip3/ZM0HaDVyeNg8b7QMcrKOIzJbmyOEI7YAlyzuXYCuA2HCp7ZvF82Wvl2V1U=;95+j7jpeyWJSAZsn+P6B9g=="

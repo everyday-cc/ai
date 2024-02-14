@@ -7,7 +7,7 @@ originalUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
 webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 416
     isCached: true
 
-secured: "mQ0Mjr6nK/DcZZfh0scAq2iGzDiNVNPKNb32va8eobpoKuAfygw800t6km1j7rYGAYbUzeJl8Dzw99AKrOSaso/5YGfzdxwAo9VKFspmvKUpbYQKYfKhnJc8AY0oIxfhuz5//DDdwHUuK6aG+pVYiH5yTT/BsVL4Yo46CxXh/XuXWqHAyOw4jiwkT87OE1scHVDY+E5WWLRQLk/NIe2sNfdluobWBZ8wbRCM3wqaRxEDcmv1RBJazwROjpt7kX3DIDnmogjin897A6myGYt3wEWnxx5nxarRhG93gM/0XztauwefQZWpPEld29ZRbhJxs9G71uWULInO9HFFrK2SHJNvOsoQynR1ipTYVxPeIaU=;4sgC5ILxUoR5K55jIVslqg=="
+related:
+  - title: "A tiny robot on the space station will simulate remote-controlled surgery up there"
+    excerpt: "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ..."
+    publishedDateTime: 2024-02-10T11:30:00Z
+    webUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 33
+    images:
+      - url: "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 657
+        height: 492
+        isCached: true
+
+secured: "IF6w+4ehAXibyKSxAAPn3qeYycyp/5VfaBD7bai0QAzVQEuRS2u3CIfyJax9hYxctz/Dwx80ZXb6V9uItpmdW5FpV/5RbJ3NlMO4gCS3NNLBoqqs16Ogp9h/ZNtj2ARXKjb8MlLX4EbZam/yM/YFM4/2VCYtr8WzFwy51G2X/hUQPgjs8rFveCbjeJ99Bs1W//zuwASO1JBF+oAIXml0Yg1VS9k0uieYYCNGgx+6UVorgwISSpb0A5m5QtM7AZ40xnGblvUfzdtGe+nhteQy8jeLING64B06wLtNv3qlUnf41bV9uJHAwwYJ4D8iFqkHHhVsKLKJY6AxlZpbM5Q++qDrKklQs3cpllC7vG/MSGg=;YGWPNIX8aOg9ubNy1ykPjQ=="
 ---
 
