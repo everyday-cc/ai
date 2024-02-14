@@ -55,6 +55,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 101
+  - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
+    excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
+    publishedDateTime: 2024-02-14T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 90
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/64765a1052b8527239cc8dfdf11cce380332116d/2024/02/13/71989f29-053d-450b-a7a5-228abcfd7a9d/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft is bringing AI Super Resolution upscaling to Windows 11"
     excerpt: "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial"
     publishedDateTime: 2024-02-12T13:54:00Z

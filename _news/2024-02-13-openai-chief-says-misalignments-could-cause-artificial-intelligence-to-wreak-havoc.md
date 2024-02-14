@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
+    publishedDateTime: 2024-02-13T22:00:00Z
+    webUrl: "https://trib.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_1a25c22f-e289-5c62-99a7-73f2ba3fa5ad.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: Casper Star-Tribune
+      domain: trib.com
     quality: 44
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-        width: 506
-        height: 337
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/1/a2/1a25c22f-e289-5c62-99a7-73f2ba3fa5ad/65cbf1bb7f938.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
     excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
@@ -61,6 +61,15 @@ related:
       name: WGN Radio
       domain: wgnradio.com
     quality: 24
+  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
+    publishedDateTime: 2024-02-13T09:54:00Z
+    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "roASUSxJkc7HMaDHRsXXhF9od8V5LB2erBOIOpIlr5N3uEevEdpeA9P8jjep4iNEFhcG3n5+kVnUC2cd5YNl3gR1li1S5Q8/CpLkx8VtfkQC3sjwVvQWVb81ruOo8Q9O+6N7Yssvsx6e+nSmXQOYp2ejgvVbD6nSMc3PRfz3db7xPGhY+KcIRtkZcSkoVfCmuMOsJMBnNYUB47VbawNKIhIIKLRxTj6/byUNX0/QuKomPm3d6o71ntfTLznz2hGFj80uzOeLlNPB4/YWa1MnvUWevF4TFiyxzwbikEcL97B66K70Wsl/36fk2hrMdp4qmnZH1BemWoMns7f2gm/reczc3khknTTa7Ilhkzh0wY0=;XWhtHu6qgUbYo7vIAAtVOA=="
 ---

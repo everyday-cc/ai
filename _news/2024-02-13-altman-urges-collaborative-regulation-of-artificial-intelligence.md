@@ -47,20 +47,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Sam Altman wants up to $7 trillion for AI chips. The natural resources required would be ‘mind boggling’"
-    excerpt: "Yesterday the Wall Street Journal reported that OpenAI CEO Sam Altman wants to raise up to $7 trillion for a “wildly-ambitious” tech project to boost the world’s chip capacity, funded by investors including the U.A.E. — which in turn will vastly ..."
-    publishedDateTime: 2024-02-09T11:21:00Z
-    webUrl: "https://venturebeat.com/ai/sam-altman-wants-up-to-7-trillion-for-ai-chips-the-natural-resources-required-would-be-mind-boggling/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-09-13.52.42-An-imaginative-landscape-featuring-rare-earth-minerals-and-water-symbolizing-the-manufacturing-of-AI-chips-in-a-16_9-aspect-ratio.-The-scene-include.webp?w=1200&strip=all"
-        width: 1200
-        height: 685
-        isCached: true
   - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
     excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
     publishedDateTime: 2024-02-13T17:00:00Z

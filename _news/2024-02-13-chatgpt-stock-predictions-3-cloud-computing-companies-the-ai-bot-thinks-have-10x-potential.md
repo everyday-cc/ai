@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-pred
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cloud-computing-companies-the-ai-bot-thinks-have-10x-potential-1033060530"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT Stock Predictions: 3 Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In a time when AI is a friend and a guide through complex financial markets,"
+    publishedDateTime: 2024-02-14T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-companies-the-ai-bot-thinks-have-10x-potential-1033065846"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "Can ChatGPT edit fiction? 4 professional editors asked AI to do their job – and it ruined their short story"
     excerpt: "Technically, ChatGPT can do (some of) the work of a human editor. But an experiment comparing three separate human edits of a literary short story to edits by ChatGPT exposes AI’s serious limitations."
     publishedDateTime: 2024-02-12T19:09:00Z

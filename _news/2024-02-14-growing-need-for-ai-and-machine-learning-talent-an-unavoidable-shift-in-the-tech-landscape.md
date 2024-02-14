@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tech spending shifts to meet AI demand, forces a 'reshuffling of skills' for workers"
+    excerpt: "With AI 'sucking the air out of almost non-AI investments in the whole tech world,' companies are cutting what they believe are unnecessary jobs — and replacing them with AI-skilled workers."
+    publishedDateTime: 2024-02-14T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/shutterstock_1469452646-100960338-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Revolutionizing Cityscapes: The Power of Tech in Unveiling Urban Decay"
     excerpt: "Exploring the innovative intersection of technology and urban planning, this blog delves into how object detection models are revolutionizing the way we measure and understand urban quality by identifying signs of physical decay in our cities."
     publishedDateTime: 2024-02-14T04:22:00Z

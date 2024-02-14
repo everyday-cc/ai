@@ -58,6 +58,22 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
+    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
+    publishedDateTime: 2024-02-14T06:09:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
     excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
     publishedDateTime: 2024-02-13T18:15:00Z
@@ -67,6 +83,20 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
+    excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
+    publishedDateTime: 2024-02-14T05:47:00Z
+    webUrl: "https://www.deccanherald.com/opinion/theres-an-art-to-naming-your-ai-and-its-not-using-chatgpt-2893788"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 56
+    images:
+      - url: "https://images.deccanherald.com/deccanherald%2F2023-09%2Fca6187b5-343a-457b-b748-667b9060a567%2FChatGPT.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
     excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
     publishedDateTime: 2024-02-14T00:33:00Z

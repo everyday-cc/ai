@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia Releases Chat With RTX, an AI Chatbot That Runs Locally on Windows PC"
+    excerpt: "To run Nvidia’s Chat with RTX, a Windows PC with RTX 30 or 40 series GPU with a minimum of 8GB VRAM is required."
+    publishedDateTime: 2024-02-14T11:59:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 56
+    images:
+      - url: "https://i.gadgets360cdn.com/large/nvidia_chat_with_rtx_1707911795224.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia’s New Perk for GPU Owners is An AI Chatbot"
     excerpt: "Nvidia has released a demo 'Chat With RTX' AI bot, that leverages your local word documents to give you answers to queries."
     publishedDateTime: 2024-02-14T04:42:00Z
@@ -181,6 +197,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 31
+  - title: "Nation-state hackers are already using AI chatbots"
+    excerpt: "Microsoft says Russian, Chinese, Iranian and North Korean hackers are using AI to write phishing emails and study targets"
+    publishedDateTime: 2024-02-14T12:01:00Z
+    webUrl: "https://www.axios.com/2024/02/14/state-hackers-ai-chatbot-use"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
   - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
     excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
     publishedDateTime: 2024-02-13T18:53:00Z

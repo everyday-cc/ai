@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-heal
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 9
-  - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
-    excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
-    publishedDateTime: 2024-02-12T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9961018.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "A9Amnar62iJPMitO0iXq4mqu5aq5IonHlFoZ7KXTVsYtHawZI3ySH8zn8IUuUGFKmchmbzXUatlZ7jUWcuWQiEShF0nenI+QBDBCK8vkACVb6+wcb73pGfVTRn+DSbm19ouKlxbcHK9mZ2H7X6cUe9Wej+X0IqNuI1ny2fVZ0IWXq9CyJEij5UWl8QeRgTVzU0+eES+YUvv2ZconyLSXU074VEkjOAU6EIZJ33FHTevm98tyO0vje3GpPFluqPo+lQp3qns3eSo4xPE6Uxuc8Ol7eM+G9INYzdxOxk1th7haaSCVXrEdDblpfoiZVpoynYZFgdQh8e6arVlIEZyUTO82Ure/YCZQsHxyfvsnjuA=;fynf9fZ3t9PI5kuHme/0VA=="
 ---

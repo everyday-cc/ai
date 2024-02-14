@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
-    excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
-    publishedDateTime: 2024-02-13T17:18:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-enhancing-healthcare-a-promising-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI.jpg"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Kennesaw State University to pioneer new master's degree in AI in Georgia"
     excerpt: "KENNESAW, Ga. - Kennesaw State University will soon be offering a master’s degree in artificial intelligence. This initiative marks the second institution in Georgia to offer a master’s degree in this rapidly growing field, positioning the university as a key player in addressing the burgeoning demand for AI experts."
     publishedDateTime: 2024-02-14T02:21:00Z

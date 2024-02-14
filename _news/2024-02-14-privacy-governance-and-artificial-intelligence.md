@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2024/02/13/privacy-governance-an
 webUrl: "https://www.law.com/legaltechnews/2024/02/13/privacy-governance-and-artificial-intelligence/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 767
     height: 633
     isCached: true
-
-related:
-  - title: "Traversing the AI era of digital discovery and brand growth"
-    excerpt: "HiveMinds, a digital marketing agency under Madison World, partners with brands like BigBasket and Domino’s The founder and CEO credits the company’s growth to its initial focus on startups Eyeing global expansion,"
-    publishedDateTime: 2024-02-12T23:40:00Z
-    webUrl: "https://www.afaqs.com/news/digital/traversing-the-ai-era-of-digital-discovery-and-brand-growth"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 39
-    images:
-      - url: "https://gumlet-images.assettype.com/afaqs%2F2024-02%2F7a05f862-16ee-4b11-ab75-59cd9438cf4d%2FJyothirmayee_JT.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PCJyGA8fcv0lIuVEwdMyYYGXmt0e5TBv3ildvpDO6qX1+8f0yyof+oMQ+GEdni140QXw7fhf3gGQC+3qBw9KdwNzH5EdwM31cfO9cH3JPELrOit1mjgb32z7yfJwIwevyco16ooReGi7a0+ukALE5XrWOee4G5+F/TNOE39TWD5NqE0xszI+4F8J1X9V1NMmxHhmx4XoISDpbCmMQBDvjmnVCYuYfAae2uGOWp6QqvUzWwGk6T5dT4kXjM08TGNJLur6w/vLESvwI3e2vVvAXT33Hn1w6aqmk39G0oSLNDdqKbmW59t1UDu+JNXVIY7ZyAMcVAyokBUlnLTqx24vr3u1KNdFCD58v5WyxcpGJLI=;TDkvg/tbZNzhFerTHvwh9Q=="
 ---

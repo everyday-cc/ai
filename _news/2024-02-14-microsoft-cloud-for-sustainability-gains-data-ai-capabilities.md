@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 244
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 101
+  - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
+    excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
+    publishedDateTime: 2024-02-14T04:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 90
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/64765a1052b8527239cc8dfdf11cce380332116d/2024/02/13/71989f29-053d-450b-a7a5-228abcfd7a9d/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
     excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
     publishedDateTime: 2024-02-12T07:30:00Z

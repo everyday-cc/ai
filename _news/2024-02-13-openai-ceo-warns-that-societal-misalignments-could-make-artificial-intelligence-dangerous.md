@@ -35,19 +35,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
+    publishedDateTime: 2024-02-13T22:00:00Z
+    webUrl: "https://trib.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_1a25c22f-e289-5c62-99a7-73f2ba3fa5ad.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: Casper Star-Tribune
+      domain: trib.com
     quality: 44
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-        width: 506
-        height: 337
+      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/1/a2/1a25c22f-e289-5c62-99a7-73f2ba3fa5ad/65cbf1bb7f938.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
     excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
@@ -60,6 +60,15 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
+    publishedDateTime: 2024-02-13T09:54:00Z
+    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
 
 secured: "Ru/fCHYeZRrA4Yf03OR2xUr8X05stSPoZDVqi8WvUyYGRIJ/4GL5A1zCKvSIyZPob1g7GileWdnBl7/3wCOYqTQnzX6ACDBk2Iuy5zeGwtdfwvDOzVtkuIzkd8RzmoRVX6FORetl4FQWy9tpL53KUccY9pocqxKpCIQC1AQKE5kfFxY07RhmFmCfTUxDeMShdiBozEootVkPcFhmiGh3nUFAx9DrZCRLuEoFTLoYu/JdFisjEE72a1K4FsE9O9ahjAH9JjM2enNd2PFenYG8g7hVaH6ixAKpOmMO3MewEnN4hRvdJUP+GPzNzFfpvrwamVivdrhzdduhYBbBQmh9fZou6JAZK6Gvd+7naRR0wKE=;hee01e26VaywAyKo/nxNCA=="
 ---

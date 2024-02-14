@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-13T05:30:00Z
 originalUrl: "https://menafn.com/1107845446/Artificial-Intelligence-AI-In-Drug-Discovery-Market-Projected-To-Hit-71-Bn-By-2030-Growing-At-2372-CAGR"
 webUrl: "https://menafn.com/1107845446/Artificial-Intelligence-AI-In-Drug-Discovery-Market-Projected-To-Hit-71-Bn-By-2030-Growing-At-2372-CAGR"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?467392"

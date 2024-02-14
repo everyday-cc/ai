@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-13T16:49:00Z
 originalUrl: "https://techbullion.com/exploring-the-impact-of-artificial-intelligence-on-everyday-life/"
 webUrl: "https://techbullion.com/exploring-the-impact-of-artificial-intelligence-on-everyday-life/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Healthcare
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/02/AI-Technology.jpg"

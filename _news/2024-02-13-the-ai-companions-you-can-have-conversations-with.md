@@ -27,34 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Americans Had Imaginary Girlfriends Long Before AI Companions"
-    excerpt: "Long before AI-generated sweethearts, dead maidens gave Americans someone to pine for—but their impact went beyond romance."
-    publishedDateTime: 2024-02-13T21:30:00Z
-    webUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
+  - title: "The 5 Dysfunctions Of A Bottleneck Leader And How AI Can Help"
+    excerpt: "Struggling to lead effectively and get things done? Discover how AI transforms bottleneck bosses into visionary leaders."
+    publishedDateTime: 2024-02-12T13:01:00Z
+    webUrl: "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://api.time.com/wp-content/uploads/2024/02/grave.jpg?quality=85"
-        width: 1024
-        height: 699
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65c97bb8e0719829faffe85f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "American Management Association Introduces Artificial Intelligence Learning Resources To Help Organizations Prepare For AI's Impact"
-    excerpt: "According to AMA President & Chief Executive Officer Manny Avramidis, \"If you haven't developed a leadership strategy to help your team understand and leverage AI, to put fears they may have about it in proper perspective, and to recognize the potential around it-then today is the time to start.\""
-    publishedDateTime: 2024-02-13T18:31:00Z
-    webUrl: "https://menafn.com/1107847050/American-Management-Association-Introduces-Artificial-Intelligence-Learning-Resources-To-Help-Organizations-Prepare-For-AIs-Impact"
+  - title: "4 Ways To Help Gen X Leaders Wake Up To The AI Revolution"
+    excerpt: "Gen Xers need to build confidence to lead digital transformation. Here are four learning strategies to do that."
+    publishedDateTime: 2024-02-13T09:24:00Z
+    webUrl: "https://www.forbes.com/sites/gregorme/2024/02/13/4-ways-to-help-gen-x-leaders-wake-up-to-the-ai-revolution/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?795801"
-        width: 253
-        height: 250
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "KQkV0B9jxrmR9YBUv21vSDyBXOmophv/5uLy6DyaJFBYZ+fRfY6BofxFcYGotkCOSOiDjv082F4mpR1kMXkbWA1QqtoUhSkDCA9GXxXpEl+q41RzUL1ZkU8KoV/9f3qciS61qchc/sB6s8zAFMt6QcHh3fxdeGzjg/0Je6ZDcLnCk4mYds4rCoZjdrbsugyYa8omaCY7MzICrvzcj2nIBNsARUiAjbwumT6SxnE0KzY/Rk5zgEXIMqCgXm28GxfRZ2whDW9cW6ita6WFNnToGiq9us5x6JRoQHPML6NuTMPPyLHmNYLCbfv/XV6A9ttnIPZ/n5sN+ElYNz9RvVCwj9hYz1jwCDVS3kRq9qDxyFk=;csTM42ps1qjsc5XPavFmLA=="
 ---

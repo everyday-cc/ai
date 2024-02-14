@@ -73,15 +73,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 27
-  - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
-    excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
-    publishedDateTime: 2024-02-12T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9961018.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "uoHeAAvRG0+5OSgkpsqtK9J9gGmmInzKewj8T50Zh0IKzZbQvYBRN2CcPBRGk3XasomeLsELCLLcZjABNLGIOncpIZOD1jFiC3sUu9idc8S2h9A67pvo8SdHFlHEBY0W8o7uMghh4lYkcCLWlfATOlj/jkGbTV90ECOMDtn5bxc5bCMtHPgOZZUD5bKlvT7AYtVe/t4qp2iqnP2dkdp+AVQpYyVFd8s2ABbyDHasUM3fomQ4pDvIbryh7WffdCsLzsTHCx0yb4dEBGohNZBHLouyC/Iv0dfO/wu7GjIFxt4Q3jm3Clz5PLs3vG1gKkndz7SSsmx/GbBKGRBQroBraKl+w6WOS5BeoIsTvn1WxUY=;DukeEylP6s40QdH+RyhQTA=="
 ---

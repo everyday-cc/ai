@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "flo0ixCVASHUlJ09b9ikRB8cUMPvPwOVlEcAZkYVak1NZU5BabqSn4Bbqm5S7oeWqcEFSUCG64Gi8RleBq/46cDE0yhYW62UTywjuhBGG9Mzn4dxhc5Me9/APlSFs8TjIjVUDkEm/f7nNVyMMsCVW5ME8xzVA70EQzM8HQ3E02yv5AXVtvNyXG9eJrYyEVCnloPgaQa2nrcmQucd6qLSN3s7YHsDHYk3vpJ2m4+MPj1YmutA4HdUpBogVw0s/uHfVDgtkUW+b3QOXNwpwONY2twTIhMocrKCk2qL4hUS3zX5zR76+zLUs+jbZVb8UQOeH38sOpJgcxyxXsNkkp1/+8gGNYKD6HKUUrl3wI4xTVn4Mnvn0UGttT7SrExiK8TZtpKu2o7uK2KlqnZcbOSEpvQbozwSadXe96Ie6ovBHFNY8NhOru+CDHMUYJWlV34Gl3BevNMdxz875qzKEvlzvf1tgM9nzLowtsN8gL/uPMjCeG5N1Avxxftl846SReAQJWCbJEyWUPAkcoQyxczhuw==;J7/lWmFf3G8dYSQv0j/75Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
 webUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The AI companions you can have conversations with"
-    excerpt: "Tech firms are now racing to release their own conversational AI companions. Google has Vertex AI Conversation, Microsoft has Azure AI, and there are now a host of start-ups in the sector. Meanwhile, Amazon is sticking with Alexa, but planning to add ..."
-    publishedDateTime: 2024-02-13T06:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68165762?at_medium=RSS&"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-68165762.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68165762.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73BA/production/_132562692_prof1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "American Management Association Introduces Artificial Intelligence Learning Resources To Help Organizations Prepare For AI's Impact"
     excerpt: "According to AMA President & Chief Executive Officer Manny Avramidis, \"If you haven't developed a leadership strategy to help your team understand and leverage AI, to put fears they may have about it in proper perspective, and to recognize the potential around it-then today is the time to start.\""
     publishedDateTime: 2024-02-13T18:31:00Z

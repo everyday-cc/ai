@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyf
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1000
         height: 666
         isCached: true
-  - title: "‘Better than a real man’: Young Chinese women turn to AI boyfriends on chatbot"
-    excerpt: "Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: he’s kind, empathetic, and sometimes they talk for hours. Except he isn’t real."
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://manilastandard.net/news/314416322/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends-on-chatbot.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 15
 
 secured: "aDFbOypUAUQ+jtP4qr2Bc5ShEViAV7mkSpA9h/1Wdt5lwDC4vYdRNtqPzFgbd6+GxIwQ8rUozREbvSaB1WhRX8jWG25LolmS88jdsELAufaMvyC1tQ077G06EaAAMECaa7oIBH2y4o3RLjkcVX6KcdDugDb9zFgnvoWSHXhwUmlNBWT2p5gBBe8hRRT/p2HVXBzh6xiZaap7Cdg89zeK3YLtdfaF40bSK9psm4BOjYFL3AxPEcC7SEQqQ5161t8DNTdJCuTZDveAIgfNYIrddTpHNNxKrgrJXtUKDBgqjtck3MN4R/BcYlr+9FHGIeQjMnnwOttq14aBA2ld2vcJsQcd6LRo2TxZemafnnkBjB8=;PxcvY/yHq9exh7ehZKaKgQ=="
 ---

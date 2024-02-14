@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT Stock Predictions: 3 Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In a time when AI is a friend and a guide through complex financial markets,"
+    publishedDateTime: 2024-02-14T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-companies-the-ai-bot-thinks-have-10x-potential-1033065846"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "ChatGPT Stock Predictions: 3 Cloud Computing Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In a world continually reshaped by technology, cloud computing stands as a"
     publishedDateTime: 2024-02-13T12:00:00Z

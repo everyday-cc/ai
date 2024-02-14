@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - Microsoft AI
+  - IBM AI
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/ML-with-AI-Cloud-Infrastructure.jpg"

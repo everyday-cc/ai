@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Changing Dynamics Of The Global Artificial Intelligence in Machine Vision Market In The Coming Years"
     excerpt: "Comprehensive Market Analysis: The report offers a comprehensive overview of the Artificial Intelligence in Machine Vision industry through a combination of qualitative and quantitative analysis. The report focuses on growth drivers, market trends, potential barriers, and stakeholders."
     publishedDateTime: 2024-02-12T05:53:00Z
