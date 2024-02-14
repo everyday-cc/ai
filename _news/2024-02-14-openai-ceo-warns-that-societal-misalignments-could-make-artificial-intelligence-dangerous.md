@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-13T21:18:00Z
 originalUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
 webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
 type: article
-quality: 24
+quality: 42
 heat: -1
 published: false
 
@@ -15,8 +15,13 @@ provider:
   domain: bostonglobe.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
+    width: 506
+    height: 337
+    isCached: true
 
 related:
   - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
@@ -65,6 +70,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "2eBUmOM1jqMfjuxQz12w1brwexj9Ydb4JW5+dt6xZacuujUrfWQ4ZOnHJSz2dP8aKE7Rd2O1j72OaPaRUq55GhAEDe8NZQd57DWt2o+1YH4DUxvQScii8D0N310LxJSu6O9Flmu7I2wtHGzZ4ffyle2OVC8VV9nvdoJn1Xu0Tjh3fE0qfRfZ29xiEatgfz2LcAcUo9LembnYvSGGEMhnu9H0wIF5FpFdW9EHYUqz2vCCQrBjSwhnHGb8RwCceIqJrT7xp5ej5ON8fowgO9d82uFPV6k1uX9xNMNp7jzHrtQBRPP9OmwwEjpu0nh9r9nrk4eSU21L4ZDGaQnKU2PcIVFfOZ+JUUU4/aAU74d8v7rmUszemxYhX/crICCg/d3lJeIBGVF/WmRO0wBWv5Ody7rOzCVN2yk+nuCQmapit/6/hj0fnTfxhpH9Y8U8C0ZJJfwisP2mZPtL8wt2go39sJUhkn9IHokyqy5Q13QJcbLosPJfXwGB9pVeio6/JzHwiXaA8EsYw0BraYhvdDA3QQ==;JOS7Ektuxva6fVR6hFw3jQ=="
+secured: "rh7Ho4AaDHG2pZufZcFTGAvjCqQQtiReHLE6VoSERE1e3LY6jDsimy6MXXxUQ7TrpUWmsCb30Jnl1X3tGm79f/msu8myyGXYNhDhcz+XdgymBBnI96RJ1rwC4eol0V+j/kcP72nMPasRW4DqoJXf1vJAamy+/k9PAP2m4gRAb/yd1Q3Ls2IJ+2hfvghJSYRIoOIse5q8EcDSAVtE2BWeH5fvVv1liM3Hij3EzEEOR4HdBkdyIRg47J4Z9VwD+W/lr3kzkYidMipAYCrDKD9LZReDLbG6BJhYmF3KaGsFM4RamsodzOSMAbKZe74BVfdugnMMvLLbp6VJ3oDbqQQo0lEJ5LkVX+vg6IMLRIh5g+M=;whdMA3AJox4GdkWgZmGCpg=="
 ---
 

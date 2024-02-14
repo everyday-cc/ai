@@ -7,8 +7,8 @@ originalUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: TechRepublic
@@ -28,90 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock"
-    excerpt: "With the advent of generative AI solutions, organizations are finding different ways to apply these technologies to gain edge over their competitors. Intelligent applications, powered by advanced foundation models (FMs) trained on huge datasets, can now understand natural language, interpret meaning"
-    publishedDateTime: 2024-02-14T16:56:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
+  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
+    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
+    publishedDateTime: 2024-02-14T01:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
-        width: 936
-        height: 598
-        isCached: true
-  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
-    excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
-    publishedDateTime: 2024-02-14T04:47:00Z
-    webUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 74
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape"
-    excerpt: "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,"
-    publishedDateTime: 2024-02-14T04:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 64
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "MIT developed a way to help AI chatbots perform better over long conversations"
-    excerpt: "Researchers at MIT have come up with a way to solve a puzzling ChatGPT performance issue, allowing the bot to talk longer."
-    publishedDateTime: 2024-02-13T21:05:00Z
-    webUrl: "https://bgr.com/tech/mit-developed-a-way-to-help-ai-chatbots-perform-better-over-long-conversations/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
-        width: 3024
-        height: 1701
-        isCached: true
-  - title: "AI chatbots should pay for news, bipartisan Senate group says"
-    excerpt: "Lawmakers are rallying to protect journalism from the potentially fatal blow of generative artificial intelligence."
-    publishedDateTime: 2024-02-13T12:00:00Z
-    webUrl: "https://rollcall.com/2024/02/13/ai-chatbots-should-pay-for-news-bipartisan-senate-group-says/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
-  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
-    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
-    publishedDateTime: 2024-02-14T11:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-ai-strategy-strengthens-data-integration-generative-ai-/2024/02/14/9962047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
 
-secured: "e9e1vrV5paGpzETUmt+b+g+Cp1aJVLiccBKM6DdsAPZ4Id80w5QsEpgO0wJ4SDS+srazTZIH3FMlQjI7vwIJrdRyu83b9QKj56TmLVS7aXcYgXfxBGlwt4ad0WQh/FC93iCoxWZbWAO8c610cpoL6/nq00+lUYB8rO/oy14QQ0lhEaASPYprbSOCLjTWTSPNrBx5gPsiyLlA4kB7mqPCh2yeCr+axWVkTlkuNRL95P2l2qqPL6s+IptmBfRk8tN+RaaSl61rE7xuNdoCpDe4DTAZCX7dUymK68w0l5d0qZN4k1cohDbDP6CbMfv9fFkgxdgRH3mrHRnVYaEYI3j9H3HARuI8/hWQOsh3HAkrpkU=;HWbEpCnlb32qOUI8P/TYiA=="
+secured: "7jaEQi4IN8yiAfG6cpnrGld2skGCMGJTQOSQK6gXVAsYfW89xezYhgw1Q6Eqt+2klMgXukZBE/Qww29X+j4e2E+EIToAp+EI4SLL/Yu9XbZapwaPRv06Kqzcptk7UJh0J4nCfHs08jq1gJJHHKFJkW7s6Piq8vhiTK//uTAjlyii8tfltBrngb0rGYjFiyrWW3fB91qTFxlb0tmR0m31Ab3x0NHfLLXhK6A5plW/W8FQh42Orssd5HvXHM4DtkS5yIioKefzuB4Jo5foWPVvo7jYkY59KwnsYIE7SrloNz1c6iPy1c5Bccmjx+O/nem+MelhA9Ej1BjyaC2oDRmEXJGTNnT3353dWwIzWgQedtsfV6uJ/Ty/c6eutf3/llGRKGwnKxoFL4yDxrN2918KBfnjhRx+FQX2PiUxQM22I3aEvFcvsTu6erzTQz4ZeeoyGLLnN9+OjE4CgqGkx++JEx3OqTO23mTt8qEdOEGelzsyPlpzUVw0plmm7x5250NIcZibs3fRAHjrrpYuB6y9Zw==;VU3/PKVd1W9+uEgFmduFgQ=="
 ---
 

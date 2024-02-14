@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "Report: Sam Altman seeking trillions for AI chip fabrication from UAE, others"
-    excerpt: "TSMC is the world's largest dedicated independent semiconductor foundry. It's a critical linchpin that companies such as Nvidia, Apple, Intel, and AMD rely on to fabricate SoCs, CPUs, and GPUs for a broad variety of applications."
-    publishedDateTime: 2024-02-09T18:20:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/report-sam-altman-seeking-trillions-for-ai-chip-fabrication-from-uae-others/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 81
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sam_altman_jan_2024_5-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
     excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
     publishedDateTime: 2024-02-11T07:43:00Z

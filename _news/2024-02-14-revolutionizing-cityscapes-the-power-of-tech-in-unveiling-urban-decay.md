@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2817249-revolutioniz
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "TOMRA unveils revolutionary deep learning solution, aims to transform ore sorting technology"
-    excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
-    publishedDateTime: 2024-02-14T09:19:00Z
-    webUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+  - title: "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape"
+    excerpt: "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,"
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
     type: article
     provider:
-      name: Mining Weekly
-      domain: miningweekly.com
-    quality: 43
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 64
     images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001114581_resized_albertdupreezheadoftomramining41022.jpg"
-        width: 1022
-        height: 575
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Tech spending shifts to meet AI demand, forces a 'reshuffling of skills' for workers"
+    excerpt: "With AI 'sucking the air out of almost non-AI investments in the whole tech world,' companies are cutting what they believe are unnecessary jobs — and replacing them with AI-skilled workers."
+    publishedDateTime: 2024-02-14T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/shutterstock_1469452646-100960338-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "te8dq1pqe8NwrZEZF7+c7qggDP3HKMyRsgEe8mAH6xUk1twu8wLA2qZnup9mT8N9dl8jThq5893eet60H1Rz8eCPCuroAkUICY8O61JOftzBqjN6d5eFDLCypARvvKZuniqhN6/KYGnVJGbY7y6lkQme65IRO+4PiXGXBa8nPZmqKea2/FAJQSHudRMmW/o40mIPPAgCfCwREXkYk5tPkwOI/WLB9L9WbMJOijLTVIrPR9O5zZBZkFF44F/jyGP8xIc9b+MxBv6SgfSNeY/c9zGZzWVPbFvvBWl703ZHkI//Jty8kmc4SKEIJHFIbbir1FNX0FC8ZJWHIPR+O9k1pMPcSxp7e25zaIXPORCX8cA=;3D4gu2CmQ4sSbfgqNRk8qg=="

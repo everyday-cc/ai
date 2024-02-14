@@ -19,54 +19,76 @@ topics:
   - AI
 
 related:
-  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
-    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
-    publishedDateTime: 2024-02-12T05:11:00Z
-    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+  - title: "Enhance Amazon Connect and Lex with generative AI capabilities"
+    excerpt: "Effective self-service options are becoming increasingly critical for contact centers, but implementing them well presents unique challenges. Amazon Lex provides your Amazon Connect contact center with chatbot functionalities such as automatic speech recognition (ASR) and natural language understanding"
+    publishedDateTime: 2024-02-14T17:43:02Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 75
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
     images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
-        width: 1200
-        height: 628
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ML-15687_1_image1-2-1260x451.png"
+        width: 1260
+        height: 451
         isCached: true
-  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
-    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
-    publishedDateTime: 2024-02-14T05:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+  - title: "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock"
+    excerpt: "With the advent of generative AI solutions, organizations are finding different ways to apply these technologies to gain edge over their competitors. Intelligent applications, powered by advanced foundation models (FMs) trained on huge datasets, can now understand natural language, interpret meaning"
+    publishedDateTime: 2024-02-14T16:56:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
-        width: 1200
-        height: 765
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
+        width: 936
+        height: 598
         isCached: true
-  - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
-    excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
-    publishedDateTime: 2024-02-13T13:05:00Z
-    webUrl: "https://siliconangle.com/2024/02/13/new-ai-powered-program-alcion-helps-msps-microsoft-365-backup-modernization/"
+  - title: "JioGenNext Introduces New Startup Cohort with Generative AI Focus"
+    excerpt: "The cohort consists of ten dynamic startups spanning diverse sectors such as healthcare, banking, legal services, entertainment, and agriculture."
+    publishedDateTime: 2024-02-13T15:11:00Z
+    webUrl: "https://analyticsindiamag.com/jiogennext-introduces-new-startup-cohort-with-generative-ai-focus/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-  - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
-    excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
-    publishedDateTime: 2024-02-12T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960671.htm"
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/JioGenNext-Generative-AI-startups-.jpeg"
+        width: 2048
+        height: 1138
+        isCached: true
+  - title: "GAO Utilizes Artificial Intelligence to Enhance Efficiency and Effectiveness"
+    excerpt: "Artificial intelligence (AI) continues to revolutionize various sectors, offering solutions to complex problems and tasks traditionally requiring human intelligence. Recognizing its potential, the Government Accountability Office (GAO) has embarked on an ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.hstoday.us/industry/latest-from-gao/gao-utilizes-artificial-intelligence-to-enhance-efficiency-and-effectiveness/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 34
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2024/02/iStock-1488283230.jpg"
+        width: 775
+        height: 450
+        isCached: true
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-14T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-ai-strategy-strengthens-data-integration-generative-ai-/2024/02/14/9962047.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 8
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ofAUl4ImxULxA3uT0KUMNwEhfETfqsrItOkQJznDwtkK3jOWOBMq0vOMtDgZ4+UzZs34HTrDRlLe3uwsvew2iQ+pp7BhU6NgStVu9Bk2DWagiHjd0R6op4r2Ur+1Q22dXuA22+DY8T4JttMJPrCE4ux/gh8TPiwYjqpbgtQ3nd4LsucHvvj87dDODewlQNrmKJ9X8KagOnP+6pG/DuSIqSO2PAxOyAYg6SG98TUHlNCXXqhhOR7jCDvg49WiUUgMpNzJXLkHt5DBx+Hb6jaADgRkv1+jgVHp9xc+yTOfN9S/NG1y1Wh0DJBfFIw59nH7BP3tw2MHxCGWUjAzOM8nMllYRQSXdw6qa1L3NF3X0e4=;PXw+cnLQm2SDDH45EiGaJg=="
 ---

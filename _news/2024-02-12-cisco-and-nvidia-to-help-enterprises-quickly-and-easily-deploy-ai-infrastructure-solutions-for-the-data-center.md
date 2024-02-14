@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Financial Services Firms Can Build A Generative AI Assistant"
+    excerpt: "This article simplifies a complex topic in order to give you and your organization a high-level outline of how to build a generative AI assistant."
+    publishedDateTime: 2024-02-14T17:13:00Z
+    webUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ccb37a19195fa2262fe7d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1559
+        height: 900
+        isCached: true
   - title: "A Comedian And A Generative AI Tool Walk Into A Bar"
     excerpt: "At this year's 7x7 event pairing artists and technologists, comic Ana Fabrega teamed with Runway CEO Cristóbal Valenzuela to see what happens when AI and humor collide."
     publishedDateTime: 2024-02-10T19:04:00Z

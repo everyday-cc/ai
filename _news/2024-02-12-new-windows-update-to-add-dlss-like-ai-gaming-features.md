@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
+    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
+    publishedDateTime: 2024-02-13T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
+        width: 1199
+        height: 675
+        isCached: true
 
 secured: "XhXfNZX1e2RzRl8Z62VVItYd7jawyIYTB/0/dZmnYecY851/KqVzt2DeF+iwtm0lEbs0ef0Z+76OjE2wcTDXnwSLPuYpcO0374knfgF+vY/fD/TzSaIrsL8dfNXwa2Pgie4SCBhgSS8/9o0QIbmVkSiwtd/f67WInPJXRcRARJDCVVQBWTaevSdTGUtiaj5Id1siKwIAkoWGp/NUyotB50YJ1A04cw36iJwqFVvwSrQOVx4uQ4HaJ4fISlKBehNhprzZ7SbEYeQ7yJWzXLGKJsLHEO88v3UFedAT3jhocZEZ95s4i04trR+18WiaXICTCSqZc7mA05a7Zf35JJNBqBtiPcEyZp8tJSwIqgRK35DF+iSZc3gjeL/03DNLMZrxulltp+c0WtV7V7Qw5zmPXvxRmpoH8f774gmEV9GPP7V9UcoEXDBROFI9fG6SpcsvP3q/B4ZHsVNWDrwoCBb89tWx1rXcXsN/A4hUxgcz2axZy2D5DWB72Nd8/aBxm/JORD/uDoxFbnBsbG26n4s/0w==;1SjqsXXfoS55Uv1CARFIDQ=="
 ---

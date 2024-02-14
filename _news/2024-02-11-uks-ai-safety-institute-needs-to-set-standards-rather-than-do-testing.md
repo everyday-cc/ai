@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/11/ai-safety-institu
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/11/ai-safety-institute-needs-to-set-standards-rather-than-do-testing"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "AI safeguards can easily be broken, UK Safety Institute finds"
-    excerpt: "Researchers find large language models, which power chatbots, can deceive human users and help spread disinformation"
-    publishedDateTime: 2024-02-09T18:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/09/ai-safeguards-can-easily-be-broken-uk-safety-institute-finds"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/09/ai-safeguards-can-easily-be-broken-uk-safety-institute-finds"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/09/ai-safeguards-can-easily-be-broken-uk-safety-institute-finds"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/75d3678c9dcf94f0a00d112c59a696fd86f22d08/0_233_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=2dd4ded1b30cf6d164b83d98974a5189"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "xjvIOEKdC97fV1r9C9NYeQIuTPiIuIqG7udK1S+GP9BwBjoMmcDySt3QopNVHAC59GAj5ZY5YcdAS7aI3SZhwBgYuZC+sDIp8lzrY0E1J3fMulAkj9VQUMt3PPmqc8ccbpl9o5ztIFANFbh5VisiTMnpgG9uhktO16mwTOaK1OZax2Z8bglCeXc90ZUuGN3x/J8j67xHHQSxcW1WdQy/F3P7u4HPopYUGMcOEIfw/1GxpeB26/eyRH6me7/x+Y0s0MCIo36ZAau/+MlYb6F2psy4KdwFQwI0+xB02aifiLwG3ajl5BGCDunkG0t6fB7Ji17pc3ACcNErkpMtDTGKHROJ5Q74+CPlmPCoVeuy6/sdYW7Jmlt+fCB9z8Et45GqYYd0F0SIDGjatVLcNz8cyYgjddElYCC4O8/OmwVVzsNPW7MwfoJ/zm6xmkPereUn11q0UYlFAFrB1hLFVD43lFp5JED4vDej8mTbpKU5CYWe5Z1/fVeYPuy20hyTBIs+yH0ZPffljiNUOGaxQbvRtg==;dB1rmGZS3PHdM0iBIHo4ag=="
 ---

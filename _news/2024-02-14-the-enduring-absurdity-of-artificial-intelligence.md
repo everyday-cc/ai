@@ -1,15 +1,15 @@
 ---
 category: news
 title: "The Enduring Absurdity of Artificial Intelligence"
-excerpt: "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail."
+excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
 publishedDateTime: 2024-02-13T19:53:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
+webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
 type: article
-quality: 59
-heat: 99
+quality: 57
+heat: 97
 published: true
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -79,6 +78,6 @@ related:
       domain: royalgazette.com
     quality: 19
 
-secured: "psWm/pnK7WdjGoZlx+/7GOuKSvWBPBxcsYNn/AtfLusvy2x705NF20pB6Sxtj9Dap4+TnRDVW21K1qqaUbt1qYRFXWpw/xNaNMoe6TOIOvOluWxxXlhuuzASdILxVm7oaYh3Vp0/8yINombM22mk23NJ9NvHn4x592g5rUSDRtazjNnHaBFMqecqdptQBSlZZhoW/J2W07xCj4pL64bJXNqTwKDZEtQQtQ4P4YVqiW68y8V2kJexckq/Sa5osjQ5joRdEatcHgLWXTV8p6DHUffm3w0T+MuzmF4TmU9zTHp5jGQvXpEYzFP9dYmgVs/iamE+GZOrR5VX71AsacOU5BjoGOUeHl4Wot8ao4ShuqY=;RaDZt+YU0FPn+uBD3n8+dw=="
+secured: "vF0P/Pan75SDCUYOjqpROP94C4YmhvBGMjgfPGiAFkktorZduDaHEJLpcYZTT9eRyezidJYcCvODzvyU61SjaE1XpDS9HznR4YaIpjlZOI+pxC0sxPsSS1Wwni/OD5d2ERPlmfDvKhIjcL0JH2MCz0S2VFHbILD5BLQf+Pvxn7pbRV5dooe0i8A6U/hUsFOJJS1JecWz+KL6YZR6CcOsT1QtGfI4OtpfoGq9l+xNIrRixEG59g8Nf+RKV4kBNDwHbsc8PnqFFfD0XvThqB2phVvMDy85k97DlLbuXgOC7KTCrnnSirzupOZDyDgk5YALsVp16hZpJaoCu2gxupJ8ZF5e3/HVTf+/MTYR++b7o6I=;yGnm/khqdGaoNsALyfwOUQ=="
 ---
 

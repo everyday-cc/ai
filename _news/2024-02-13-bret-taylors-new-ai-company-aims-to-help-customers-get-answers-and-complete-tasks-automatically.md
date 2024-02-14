@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-c
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/amp/"
 type: article
 quality: 74
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Equity: Bret Taylor has a brand new AI startup"
+    excerpt: "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ..."
+    publishedDateTime: 2024-02-14T16:54:00Z
+    webUrl: "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/"
+    ampWebUrl: "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
+        width: 680
+        height: 383
+        isCached: true
   - title: "Former Salesforce co-CEO Bret Taylor launches AI startup backed by Sequoia"
     excerpt: "Bret Taylor left Salesforce one year ago and was recently placed on the board of OpenAI after a dramatic boardroom shakeup. Now he's launching an AI startup of his own."
     publishedDateTime: 2024-02-13T16:57:00Z

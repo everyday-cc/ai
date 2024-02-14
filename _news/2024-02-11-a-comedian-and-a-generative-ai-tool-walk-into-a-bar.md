@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Financial Services Firms Can Build A Generative AI Assistant"
+    excerpt: "This article simplifies a complex topic in order to give you and your organization a high-level outline of how to build a generative AI assistant."
+    publishedDateTime: 2024-02-14T17:13:00Z
+    webUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/"
+    ampWebUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ccb37a19195fa2262fe7d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1559
+        height: 900
+        isCached: true
   - title: "5 Principles To Make Generative AI Your New Work Buddy"
     excerpt: "Today, “how” we work and “who” we work with are the defining transformations in the workplace. Soon, every team member will have their own GenAI work buddy, or co-pilot."
     publishedDateTime: 2024-02-13T15:00:00Z

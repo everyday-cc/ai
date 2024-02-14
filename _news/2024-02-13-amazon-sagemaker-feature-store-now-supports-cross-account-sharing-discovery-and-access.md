@@ -57,6 +57,20 @@ related:
         width: 1243
         height: 630
         isCached: true
+  - title: "Skeleton-based pose annotation labeling using Amazon SageMaker Ground Truth"
+    excerpt: "Pose estimation is a computer vision technique that detects a set of points on objects (such as people or vehicles) within images or videos. Pose estimation has real-world applications in sports, robotics, security, augmented reality, media and entertainment, medical applications, and more. Pose estimation"
+    publishedDateTime: 2024-02-14T17:29:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/skeleton-based-pose-annotation-labeling-using-amazon-sagemaker-ground-truth/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/ML-14933_football_player_2-875x630.png"
+        width: 875
+        height: 630
+        isCached: true
 
 secured: "y0+5BqseuBHZmX4z9wY7S7LVmYfka4gnIrdl/w7JTIXnKwYbfjNd8fsMC5PC15NkFg9UJma+yRZy5RLIh7unSAcKH0ssKvIVglovvOEdr3g9h3s5wLqSEH6dy/LKGD0ifXd1F9O4DsutF7Bi89ZZxwKExVh/Q4nVa/2pNHaewZKGizwrVOOpLjEfBdJDEMMwjCWiPx63+fDXwLP27T8yRFC/jH71CjoZAZklZqD5VuLrwd4Xld7ReEWWbLo37BfoXOFWupA56ELhwvCk8lEm+z0rwIY5rjYWLCjIoA6WjIe3ROeWO+GePBVEqDkdPN8DHSd9CDFtQj1bxdYepj1D4JNyxbgPKZEZ4tjyUlLFNV4=;FwCuULD8bP8qgvrAQ1AVvQ=="
 ---

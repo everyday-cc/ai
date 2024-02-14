@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-me
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
+    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
+    publishedDateTime: 2024-02-13T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 57
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "New Windows update to add DLSS-like AI gaming features"
     excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
     publishedDateTime: 2024-02-12T10:24:00Z

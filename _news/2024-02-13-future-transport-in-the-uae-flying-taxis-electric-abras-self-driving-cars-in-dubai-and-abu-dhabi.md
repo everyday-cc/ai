@@ -25,20 +25,70 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai sets target for 25% of transport in city to be self-driving by 2030"
-    excerpt: "Dubai is looking to make 25 per cent of transportation in the city to be made in self-driving vehicles by 2030. Mattar Al Tayer, Commissioner-General for Infrastructure, Urban Planning and Well-Being Pillar and Director-General and Chairman of the Board of Executive Directors of the Roads and Transport Authority (RTA) in Dubai,"
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-sets-target-for-25-of-transport-in-city-to-be-self-driving-by-2030"
+  - title: "AI field trips and why we should stop setting self-driving cars on fire"
+    excerpt: "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into."
+    publishedDateTime: 2024-02-12T15:21:00Z
+    webUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/"
+    ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 38
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://www.arabianbusiness.com/cloud/2023/09/27/Chevrolet-Bolt.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
         width: 1200
-        height: 800
+        height: 741
         isCached: true
+  - title: "How Google's Waymo car fire shows one of the biggest problems with self-driving cars"
+    excerpt: "The article discusses a recent incident in San Francisco where a Waymo self-driving car was attacked and set on fire during the Chinese New Year celebrations. The incident highlights the challenges faced by robotic cars in making judgment calls and the need for more regulation."
+    publishedDateTime: 2024-02-13T16:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/articleshow/107667661.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107667652,width-1280,height-720,resizemode-4/107667652.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Unleashing the Potential: Harnessing the Power of AI in Digital Marketing Strategies"
+    excerpt: "Introduction: In the ever-evolving landscape of digital marketing, staying ahead of the curve is not just an advantage but a necessity. One of the pivotal factors driving this evolution is the integration of Artificial Intelligence (AI) into digital marketing strategies."
+    publishedDateTime: 2024-02-12T17:20:00Z
+    webUrl: "https://techbullion.com/unleashing-the-potential-harnessing-the-power-of-ai-in-digital-marketing-strategies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Unleashing-the-Potential-Harnessing-the-Power-of-AI-in-Digital-Marketing-Strategies.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Using generative AI to improve existing content: Top tips + sample prompts"
+    excerpt: "Generative AI tools like ChatGPT can help you rewrite sections of old posts to bring them back to relevance while ensuring they meet current SEO standards. Start by feeding your old content into the AI tool. It will review what you have, looking at ..."
+    publishedDateTime: 2024-02-12T08:00:00Z
+    webUrl: "https://searchengineland.com/generative-ai-improve-existing-content-437376"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 15
+  - title: "Moment furious crowds set self-driving electric taxi on FIRE amid growing fury at futuristic robo-cars taking to streets"
+    excerpt: "THIS is the shocking moment a large crowd furiously sets a self-driving electric taxi on fire in the middle of the street. The crowd smashed the car to pieces before leaving it a burning wreckage"
+    publishedDateTime: 2024-02-12T18:25:00Z
+    webUrl: "https://www.thesun.ie/motors/12193026/furious-crowd-set-fire-self-driving-taxi-san-fransisco/"
+    type: article
+    provider:
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 0
 
 secured: "2T8o75NwBLsZxjcKgnvA/HAyrrZtCgBGzVQCMpd9nbjr1i0dX4Kbltrf2xGu69hEbczUX8fVQytll3r6u5zBBVxq5riu4p3d12nxxjKCDLo1UZDs+cIoSAl/YNpsvSFCp7JUd5Ld6tDeCIvgeh4sXE0VHmKonjFG/ScY3vIc2LJP6sj92LYoZ8nBt6eN/GPi1zoYeUtkg5GMGEh3mSQLX53I+iqAWn5p1I4mzea+2PsIuuU1HNQG0tq5gLXJiUsyPEQLK/9twxTFPKLR9t37BncOsV2ct8DbV4w0FTdy+i/mm6e62vivN3howKQYXq4CBrI4ub2ojdk69HGdfNKx2o3yyM3YvPeNgi+cXBVHNnw=;/XjMfHjlcAToui0TBXNpBw=="
 ---

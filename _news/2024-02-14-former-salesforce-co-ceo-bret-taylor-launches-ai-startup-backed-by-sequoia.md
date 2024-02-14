@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Equity: Bret Taylor has a brand new AI startup"
+    excerpt: "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ..."
+    publishedDateTime: 2024-02-14T16:54:00Z
+    webUrl: "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/"
+    ampWebUrl: "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680"
+        width: 680
+        height: 383
+        isCached: true
   - title: "Bret Taylor’s new AI company aims to help customers get answers and complete tasks automatically"
     excerpt: "Last February we heard he was launching an AI startup built with former Google employee Clay Bavor. Today, the two emerged with a new conversational AI company called Sierra with some bold claims about what it can do. At its heart, the new company is a ..."
     publishedDateTime: 2024-02-13T14:36:00Z

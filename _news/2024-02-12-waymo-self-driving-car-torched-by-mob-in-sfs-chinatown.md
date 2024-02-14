@@ -35,21 +35,21 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "How Google's Waymo car fire shows one of the biggest problems with self-driving cars"
-    excerpt: "The article discusses a recent incident in San Francisco where a Waymo self-driving car was attacked and set on fire during the Chinese New Year celebrations. The incident highlights the challenges faced by robotic cars in making judgment calls and the need for more regulation."
-    publishedDateTime: 2024-02-13T16:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/articleshow/107667661.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
+  - title: "Waymo recalls software after two self-driving cars hit the same truck"
+    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart. Minutes apart from one another, two Waymo cars came across the ..."
+    publishedDateTime: 2024-02-14T17:28:00Z
+    webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
+      name: CNN
+      domain: cnn.com
+    quality: 89
     images:
-      - url: "https://static.toiimg.com/thumb/msid-107667652,width-1280,height-720,resizemode-4/107667652.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
         isCached: true
   - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
     excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."

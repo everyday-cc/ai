@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/microsoft-detects-rus
 webUrl: "https://markets.businessinsider.com/news/etf/microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio-1033067556"
 type: article
 quality: 73
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
+    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
+    publishedDateTime: 2024-02-14T18:20:00Z
+    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
+        width: 1920
+        height: 960
+        isCached: true
   - title: "2024 Cybersecurity Trends: AI And What's Next"
     excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
     publishedDateTime: 2024-02-12T13:30:00Z

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T21:18:00Z
+    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 42
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
+        width: 506
+        height: 337
+        isCached: true
   - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
     excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
     publishedDateTime: 2024-02-13T15:11:00Z
@@ -54,15 +68,6 @@ related:
     provider:
       name: WGN Radio
       domain: wgnradio.com
-    quality: 24
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
     quality: 24
 
 secured: "kh9LyAs9Khu/lR321ybPIWtYj94EQyn3jifmNQ4/sQm5/fgpI9k3WeZtaeFNDX1JwKJYJpslZJ+ZDMl/xqDrsTKnoPfGzaPweKMgHBdbVjsayY3InK5s4sy4IzmEnHAeXJ/yxfO90SL6ujbdSJL86j5aL3iD7m4Af0K5hxLB6mFuab31UZIEV03j6aYM8cv9+R6zRYUTg0iGa0uBeGekdkJUCNkAN0RQneZQ0uhHtP8X7V0RWrCf6QuCxRiAecIRerCukKTP3vH3ZSLL6XBXUdyYVrcsYjk1nXwyd4yfu+GRHI5Zp6tseHJzmYldo9W+F4n2YWPAMlQbjrrPn1wFX5+xqRaC2eyl6cqKB1vVZcz73eZZi4IiJJBEjiYllD/IC/JU7wd9mh5hETNvcjUi6XnMkPAh2HrdN00i1fBMrzCdU7FhGcjQHDLrtUkw8wuDynxACM8joMK8G0cBi8yfnQr0jv71AYrIyvMi7KqdvjChNZUesnhOG46ZB1wsCLIX2B41MQ98jeOYhay80Jp62Q==;TjqPqmQLVEoqHhIz5hQAig=="

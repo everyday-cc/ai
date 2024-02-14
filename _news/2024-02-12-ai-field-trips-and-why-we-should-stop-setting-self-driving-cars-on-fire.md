@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: TechCrunch
@@ -31,78 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Getting Boring, And That’s Pretty Exciting"
-    excerpt: "Ironically, AI will hit its full stride only when it disappears into the software and tasks that run our businesses."
-    publishedDateTime: 2024-02-09T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/02/09/ai-is-getting-boring-and-thats-pretty-exciting/amp/"
+  - title: "How Google's Waymo car fire shows one of the biggest problems with self-driving cars"
+    excerpt: "The article discusses a recent incident in San Francisco where a Waymo self-driving car was attacked and set on fire during the Chinese New Year celebrations. The incident highlights the challenges faced by robotic cars in making judgment calls and the need for more regulation."
+    publishedDateTime: 2024-02-13T16:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/articleshow/107667661.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 52
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c65aa027388edae3f3cdef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1349
-        height: 900
+      - url: "https://static.toiimg.com/thumb/msid-107667652,width-1280,height-720,resizemode-4/107667652.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
-    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
-    publishedDateTime: 2024-02-13T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
+  - title: "Unleashing the Potential: Harnessing the Power of AI in Digital Marketing Strategies"
+    excerpt: "Introduction: In the ever-evolving landscape of digital marketing, staying ahead of the curve is not just an advantage but a necessity. One of the pivotal factors driving this evolution is the integration of Artificial Intelligence (AI) into digital marketing strategies."
+    publishedDateTime: 2024-02-12T17:20:00Z
+    webUrl: "https://techbullion.com/unleashing-the-potential-harnessing-the-power-of-ai-in-digital-marketing-strategies/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
-        width: 1199
-        height: 675
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Unleashing-the-Potential-Harnessing-the-Power-of-AI-in-Digital-Marketing-Strategies.jpg"
+        width: 650
+        height: 450
         isCached: true
-  - title: "Exploring the impact of artificial intelligence in marketing: The future of advertising"
-    excerpt: "In the fast-paced digital world, the combination of Artificial Intelligence (AI) and marketing promises to change how companies interact with their audiences. TribLIVE Local’s upcoming seminar “The Future of Advertising” aims to clarify this intersection,"
-    publishedDateTime: 2024-02-12T20:15:00Z
-    webUrl: "https://triblive.com/news/partner-news/exploring-the-impact-of-artificial-intelligence-in-marketing-the-future-of-advertising/"
+  - title: "Future transport in the UAE: Flying taxis, electric abras, self-driving cars in Dubai and Abu Dhabi"
+    excerpt: "Elsewhere in the UAE, a self-driving public transport bus that uses artificial intelligence (AI) and the Internet of Things for full automation was developed by Ajman in May 2019. It travels on the emirate’s streets without any human involvement."
+    publishedDateTime: 2024-02-13T06:31:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/future-transport-in-the-uae-flying-taxis-electric-abras-self-driving-cars-in-dubai-and-abu-dhabi"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 46
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 25
     images:
-      - url: "https://assets-varnish.triblive.com/2024/02/7045295_web1_part-aiseminr-021224.jpg"
-        width: 500
-        height: 500
+      - url: "https://www.arabianbusiness.com/cloud/2024/02/13/UAE-future-transport.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
-    excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."
-    publishedDateTime: 2024-02-12T16:55:00Z
-    webUrl: "https://www.thurrott.com/windows/297693/windows-11-is-reportedly-getting-an-ai-upscaling-feature-for-games"
+  - title: "Using generative AI to improve existing content: Top tips + sample prompts"
+    excerpt: "Generative AI tools like ChatGPT can help you rewrite sections of old posts to bring them back to relevance while ensuring they meet current SEO standards. Start by feeding your old content into the AI tool. It will review what you have, looking at ..."
+    publishedDateTime: 2024-02-12T08:00:00Z
+    webUrl: "https://searchengineland.com/generative-ai-improve-existing-content-437376"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 39
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
-        width: 1066
-        height: 600
-        isCached: true
-  - title: "Samsung Galaxy Buds 2, Buds 2 Pro, and Buds FE are finally getting AI translation"
-    excerpt: "With Live Translate, users can receive real-time call translations on their screen while using Galaxy Buds, but may need to download additional language packs to access certain languages. If you’re still not convinced by some of the advantages of AI ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.androidpolice.com/samsung-galaxy-buds-ai-translation-s24/"
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 15
+  - title: "Moment furious crowds set self-driving electric taxi on FIRE amid growing fury at futuristic robo-cars taking to streets"
+    excerpt: "THIS is the shocking moment a large crowd furiously sets a self-driving electric taxi on fire in the middle of the street. The crowd smashed the car to pieces before leaving it a burning wreckage"
+    publishedDateTime: 2024-02-12T18:25:00Z
+    webUrl: "https://www.thesun.ie/motors/12193026/furious-crowd-set-fire-self-driving-taxi-san-fransisco/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 34
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/samsung-galaxy-buds-2-pro-everyday-carry.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
+      name: Irish Sun
+      domain: thesun.ie
+    quality: 0
 
 secured: "v5EDrBLnuqbZa0sCmzRAZI5oV+BRWcsSkObsmtmR54vs1pIsWQV785sz4Purnw6Oj5PkzHOhtv2HI1eDM8HRJkfe8enS7+QpyxuY5LhmaMLbyezkCj/EWXbiru9F/aUtMLPhUaY9wAzMFrArSIjRYtq2R03a3q6WgAh/yPbqib/aWlXIP3iPgZO2Gx3pJRl8CupQGwIudNJ/mFyC3toQM60XMgYtr5YufkmxISB1M1Kn70bhxRH1CcvjbKY2CnfVxlMGgzafX7gaqOTAcq9Hx83kWjlSAFlkQpBRgOMF5ls16p51fOGBJWa1B0NU/vY0MSVU0wArl5uxmFb93V8byJX/Qkt90LFW3P4ReCLJjNA=;6bF5h3KKxcRwTtYP7hmopg=="
 ---
