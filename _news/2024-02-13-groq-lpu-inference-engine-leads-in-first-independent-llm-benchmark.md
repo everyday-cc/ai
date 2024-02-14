@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961176.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961176.htm"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Groq Shows Promising Results in New LLM Benchmark, Surpassing Industry Averages"
+    excerpt: "MOUNTAIN VIEW, Calif., Feb. 13, 2024 — Groq, a generative AI solutions company, is the winner in the latest large language model (LLM) benchmark by ArtificialAnalysis.ai, besting eight top cloud providers in key performance indicators including Latency vs. Throughput, Throughput over Time, Total Response Time, and Throughput Variance."
+    publishedDateTime: 2024-02-13T23:49:00Z
+    webUrl: "https://www.datanami.com/this-just-in/groq-shows-promising-results-in-new-llm-benchmark-surpassing-industry-averages/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 20
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/02/groq-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "qxJvQyzVYGjE2w5LBMG20aj+YphKmuUxkmXT31QLfy2Za3NeAOGdic/eTOBAAmeOMF4Z9nsz6TNSwrk+sS/8javLK+NcqKnW8ZkD/iuWVajVL5dDh9ijCy/wt6Z5R3saCFk21a8zzPA5yUacFzBupq3xAeRiktiCvF5by+XmYYTeLhC3WFtHJY51vqHuP8+URjmTWywVUn4/l5Jh4//23ldls+fywLgvXmqxVdY4Y2Hzo0Mg+nDW43YZnfE5/+NMACXpfHk5WEew0WliGPnZzcXUbi6IJjv4PMTc9mU0aZFFYGV3x/OD20OQPtsGHG4wiOBOt/8IxP6ovKUt3d12QxxMFk8gBp/aGlWAUoZyIuk=;bnooce2U3BdiTd1USoI1uQ=="
 ---

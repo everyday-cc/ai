@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-03-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-internal-memo.md",
+      "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo",
+      "excerpt": "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T16:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-create-images-with-adobe-firefly-ai-for-apple-vision-pro.md",
       "title": "Create images with Adobe Firefly AI for Apple Vision Pro",
       "excerpt": "Adobe's image-generating software Firefly has been announced for the new Apple Vision Pro, and joins the company's previously-announced Lightroom photo app.",
@@ -1100,49 +1153,6 @@
       "provider": {
         "name": "The Punch Newspapers",
         "domain": "punchng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
-      "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
-      "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
-      "originalUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2024/02/xaia-meditating-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
         "images": null,
         "publishers": null,
         "authors": null

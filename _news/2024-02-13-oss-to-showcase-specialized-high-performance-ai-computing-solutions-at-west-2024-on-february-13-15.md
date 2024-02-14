@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Best AI ETFs in February 2024"
+    excerpt: "Editorial Note: Blueprint may earn a commission from affiliate partner links featured here on our site. This commission does not influence our editors' opinions or evaluations. Please view our ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-etfs/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
+    images:
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/08/09032927/GettyImages-1495043596.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
     excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-11T04:23:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Kennesaw State University to pioneer new master's degree in AI in Georgia"
+    excerpt: "KENNESAW, Ga. - Kennesaw State University will soon be offering a master’s degree in artificial intelligence. This initiative marks the second institution in Georgia to offer a master’s degree in this rapidly growing field, positioning the university as a key player in addressing the burgeoning demand for AI experts."
+    publishedDateTime: 2024-02-14T02:21:00Z
+    webUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia"
+    ampWebUrl: "https://www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/kennesaw-state-university-to-pioneer-new-masters-degree-in-ai-in-georgia.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 38
   - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
     excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
     publishedDateTime: 2024-02-12T17:00:00Z

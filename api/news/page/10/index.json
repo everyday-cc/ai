@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
+      "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
+      "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "originalUrl": "https://www.statnews.com/2024/02/02/apple-vision-pro-apps-healthcare-providers-xaia-cyranohealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2024/02/xaia-meditating-1024x576.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth.md",
       "title": "AWS sees another record year for Amazon as AI push drives cloud growth",
       "excerpt": "The division’s growth matched what analysts had expected, and is largely attributable to the increasing interest in artificial intelligence. Revenue driven by AWS was slightly under that of ...",
@@ -1181,58 +1224,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-new-and-better-ways-to-create-images-with-imagen-2.md",
-      "title": "New and better ways to create images with Imagen 2",
-      "excerpt": "We’re rolling out Imagen 2, a major update to our image generation technology. Try it out today in Bard, Image FX, Search and Vertex AI.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-imagen-2/",
-      "originalUrl": "https://blog.google/technology/ai/google-imagen-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Imagen_SocialShare.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-imagen-2/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-imagen-2/amp/",
-      "publishedDateTime": "2024-02-01T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
