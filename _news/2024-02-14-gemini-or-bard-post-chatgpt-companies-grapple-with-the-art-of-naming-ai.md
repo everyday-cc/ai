@@ -74,6 +74,15 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
+    excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
+    publishedDateTime: 2024-02-14T14:23:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/deepmind-and-meta-staff-plan-to-launch-a-new-ai-chatbot-that-could-have-the-edge-over-chatgpt-and-bard"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
   - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
     excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
     publishedDateTime: 2024-02-13T18:15:00Z

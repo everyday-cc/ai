@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp"
 type: article
 quality: 76
-heat: 76
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 500
     isCached: true
 
-secured: "wwcwm5gRjk7hLyXZaq/RhPxJ1Ia2dgCXyLr8XzN+dUYPjSvAwDP2xML20N+TcJdlRquaQO2fOgBqYDnsr/dlA2DLCdpT54u3sRmdcSSz+Nneojal5JMXwJ9g+j9+bhETRF4LCqH7ZVDFPlTSXNfHiFv6QFXTiRF2ps1tO0rstJyahSlDQxuppqFxEQl3/DitfN7AGqn+81gT4ycoQzJRFb24VbmbDMjjaZ+wPIyaq7X8cYXI4wD/NnG2cF8awXpRbVsFZhYdUlLOkntWUORBVqs1FvMV5qfFkrnrmZmMTDIJX/jK9Pgtf11xWD7Bkd/kYKMpYV2PKDXUozD4sPTTkTCeS3hUbOQlAnFr0hvHRLk=;2gQAzR+WK+5HC2AjcjxEuw=="
+secured: "rXnmWo+3ZpKrtxd/L1HpRCpcsjn9TunCEnCv/2GHYL9+CSrq51CpAz0t1p32AqwgIiywtTSQwp/IJHXB37I0ANj0cylMZ9pi/E2GwF6QMZp6GYRckI6m6TttSepoQjX/9gmXWdAOZkkpBln+filN0pcixt9/Py2LLf6bMVoPqkIGaorKV1Gxhy5Ryj63GJhRuLW/mdoxQZTbDPEMllPT5eONUpCk7GScptMjGUOo/2e7GU6v+zd2bANh7bGXP9JIRt6yzBiZm0rgZxlbHoRrZkmlnxSULgiBd+G6I3P7bHFaotGJGIDJg24r9p+Wu8PQht+vdcYOJGQztYXwgQarSGHdtP91tSJFZvyqOnD3JRl7nxcnbmBGbphSKGvt5wgKaXrLk6FY3M0XkHgHNgn1CiI5lTuFUoNbbtiMw/rBa3FUJvShAFH8IQ3J9Nwo5UtA+z8kzVqT1EGm2Z6HdPhwxWPs23Zbc45gJhno3mUVWoIrfNig2Qzbglmna+JRj/Lb3PezujlB7Kh6S6XQbF+JKA==;w5jt8OWFK1XCo53XAyOGeg=="
 ---
 

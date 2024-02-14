@@ -39,6 +39,20 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Ambience secures $70 million in funding from Optum, OpenAI Startup Fund"
+    excerpt: "The company said it plans to use the funding to help expedite its product roadmap and advance AI foundation models for medicine."
+    publishedDateTime: 2024-02-14T16:03:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ambience-secures-70-million-funding-optum-openai-startup-fund"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 37
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/AI_artificial_intelligence_tablet_screen_Laurence%20Dutton_Getty%20Images_2.jpg"
+        width: 635
+        height: 353
+        isCached: true
 
 secured: "AfG9iSum1JZe+7gUfL8T+9ZIbQ15w+FfPcNgH0tfyC0RrvKD59bMx5dVvThrm71bTgxMfdOap6HHI340OCC5O8rgVY3LKd2j+h+P6OJtt1SrD9W/AF8W/b0aAMko1BuraC3LCsnvrsg5t/lvf3+U40cxmMAoALNCWt3KYFNR8RFgUo0vkRPtbwrtxkenIbhRu6TuQPcgMK9Oz21ywFqIDiaJhIZw1vtstlEMdiCLicd11j1YpNzb8bceaxQs6LqLBWTz56+uU3k/3g4GKMcLBepZQllMgUBmV518rBid+NraXt9jBu8OilCu9cSQOrcRpqT/0vLrd0H0Uwf7v2PWSAljbXhMGc2NYrXlQRUY63w=;6CD/L9qWPc0zHAsn9+hgXQ=="
 ---

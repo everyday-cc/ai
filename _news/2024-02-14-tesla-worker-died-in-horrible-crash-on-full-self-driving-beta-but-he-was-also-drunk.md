@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk claims fatal crash was not on ‘Full Self-Driving Beta’ after Tesla said the logs were lost"
+    excerpt: "Elon Musk has claimed that a fatal crash reported by The Washington Post yesterday was not on ‘Full Self-Driving"
+    publishedDateTime: 2024-02-14T14:38:00Z
+    webUrl: "https://electrek.co/2024/02/14/elon-musk-claims-fatal-crash-not-on-full-self-driving-beta-after-tesla-logs-lost/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 69
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/Elon-Musk-hero-Tesla-shareholder-meeting.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
     excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
     publishedDateTime: 2024-02-13T23:07:00Z

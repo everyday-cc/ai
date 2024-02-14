@@ -27,54 +27,87 @@ images:
     isCached: true
 
 related:
-  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
-    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
-    publishedDateTime: 2024-02-12T05:11:00Z
-    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
+  - title: "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock"
+    excerpt: "With the advent of generative AI solutions, organizations are finding different ways to apply these technologies to gain edge over their competitors. Intelligent applications, powered by advanced foundation models (FMs) trained on huge datasets, can now understand natural language, interpret meaning"
+    publishedDateTime: 2024-02-14T16:56:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 75
+      name: AWS
+      domain: aws.amazon.com
+    quality: 78
     images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
-        width: 1200
-        height: 628
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
+        width: 936
+        height: 598
         isCached: true
-  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
-    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
-    publishedDateTime: 2024-02-14T05:43:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 54
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
-        width: 1200
-        height: 765
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
+        height: 900
         isCached: true
-  - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
-    excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
-    publishedDateTime: 2024-02-13T13:05:00Z
-    webUrl: "https://siliconangle.com/2024/02/13/new-ai-powered-program-alcion-helps-msps-microsoft-365-backup-modernization/"
+  - title: "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape"
+    excerpt: "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,"
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-  - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
-    excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
-    publishedDateTime: 2024-02-12T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960671.htm"
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 64
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "MIT developed a way to help AI chatbots perform better over long conversations"
+    excerpt: "Researchers at MIT have come up with a way to solve a puzzling ChatGPT performance issue, allowing the bot to talk longer."
+    publishedDateTime: 2024-02-13T21:05:00Z
+    webUrl: "https://bgr.com/tech/mit-developed-a-way-to-help-ai-chatbots-perform-better-over-long-conversations/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 33
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
+        width: 3024
+        height: 1701
+        isCached: true
+  - title: "AI chatbots should pay for news, bipartisan Senate group says"
+    excerpt: "Lawmakers are rallying to protect journalism from the potentially fatal blow of generative artificial intelligence."
+    publishedDateTime: 2024-02-13T12:00:00Z
+    webUrl: "https://rollcall.com/2024/02/13/ai-chatbots-should-pay-for-news-bipartisan-senate-group-says/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 17
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-14T11:14:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-ai-strategy-strengthens-data-integration-generative-ai-/2024/02/14/9962047.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 8
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "2iJsejTzKFut1bbO4k0EeOwNd2gOn0FTTknSH18ZVP6masR9FK1KsKJU2RqPGXsnWXTWFqr2ZsfhuhakEaTdG9GITZy1u8GcpCzh2EUjD1WmDX6DH49t7s+faWugXd3p6jvcGqc0Is1kUfV5Hkr/RHlpMaJhUBONXOQKKSxsnrXI+1Cwpm3XusELLMcwchNP4vMQ2hIBwrqiUxFcCD9xF9RyXn0wOuYRlAvigWeO6q/YupGDG9tlEsCWkDF3AYEl/gLFKmYazjdvom0tNKMckri4nJc9iP/9hLzPEJkDIL8T2mDR7uOrBHCuo+QST7bVeojEwhoWs15f/PNAQCGM1ggFlmkLtqf2cYH0WsCOiow=;4hz0rqFGXwWAYfOVjZnz8w=="
 ---

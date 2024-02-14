@@ -85,6 +85,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
+    excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
+    publishedDateTime: 2024-02-14T14:23:00Z
+    webUrl: "https://www.techradar.com/computing/artificial-intelligence/deepmind-and-meta-staff-plan-to-launch-a-new-ai-chatbot-that-could-have-the-edge-over-chatgpt-and-bard"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 67
   - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
     excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
     publishedDateTime: 2024-02-14T05:47:00Z

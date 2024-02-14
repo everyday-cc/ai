@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
-    publishedDateTime: 2024-02-13T22:00:00Z
-    webUrl: "https://trib.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_1a25c22f-e289-5c62-99a7-73f2ba3fa5ad.html"
-    type: article
-    provider:
-      name: Casper Star-Tribune
-      domain: trib.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/1/a2/1a25c22f-e289-5c62-99a7-73f2ba3fa5ad/65cbf1bb7f938.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
     excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
     publishedDateTime: 2024-02-12T16:31:00Z
@@ -59,6 +45,15 @@ related:
     provider:
       name: WGN Radio
       domain: wgnradio.com
+    quality: 24
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T21:18:00Z
+    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
     quality: 24
   - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
     excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"

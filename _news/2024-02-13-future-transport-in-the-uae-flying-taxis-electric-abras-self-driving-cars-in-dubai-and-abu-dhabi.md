@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/transport/future-transp
 webUrl: "https://www.arabianbusiness.com/industries/transport/future-transport-in-the-uae-flying-taxis-electric-abras-self-driving-cars-in-dubai-and-abu-dhabi"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Dubai sets target for 25% of transport in city to be self-driving by 2030"
+    excerpt: "Dubai is looking to make 25 per cent of transportation in the city to be made in self-driving vehicles by 2030. Mattar Al Tayer, Commissioner-General for Infrastructure, Urban Planning and Well-Being Pillar and Director-General and Chairman of the Board of Executive Directors of the Roads and Transport Authority (RTA) in Dubai,"
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/dubai-sets-target-for-25-of-transport-in-city-to-be-self-driving-by-2030"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 38
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2023/09/27/Chevrolet-Bolt.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "2T8o75NwBLsZxjcKgnvA/HAyrrZtCgBGzVQCMpd9nbjr1i0dX4Kbltrf2xGu69hEbczUX8fVQytll3r6u5zBBVxq5riu4p3d12nxxjKCDLo1UZDs+cIoSAl/YNpsvSFCp7JUd5Ld6tDeCIvgeh4sXE0VHmKonjFG/ScY3vIc2LJP6sj92LYoZ8nBt6eN/GPi1zoYeUtkg5GMGEh3mSQLX53I+iqAWn5p1I4mzea+2PsIuuU1HNQG0tq5gLXJiUsyPEQLK/9twxTFPKLR9t37BncOsV2ct8DbV4w0FTdy+i/mm6e62vivN3howKQYXq4CBrI4ub2ojdk69HGdfNKx2o3yyM3YvPeNgi+cXBVHNnw=;/XjMfHjlcAToui0TBXNpBw=="
 ---

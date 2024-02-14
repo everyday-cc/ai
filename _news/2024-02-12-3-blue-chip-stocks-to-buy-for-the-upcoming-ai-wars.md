@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "The 3 Best AI Stocks to Buy in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the"
+    publishedDateTime: 2024-02-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "3 AI Stocks to Buy on the Dip: February 2024"
     excerpt: "Marc Guberti is a finance freelance writer at InvestorPlace.com who hosts the Breakthrough Success Podcast. He has contributed to several publications, including the U.S. News & World Report, Benzinga, and Joy Wallet. The post 3 AI Stocks to Buy on the Dip: February 2024 appeared first on InvestorPlace."
     publishedDateTime: 2024-02-10T12:00:00Z
@@ -40,7 +49,7 @@ related:
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
         width: 2560

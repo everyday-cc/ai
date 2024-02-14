@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Machine Learning Can Predict Eyes at Risk for Diabetic Retinopathy Progression"
+title: "Machine learning can predict eyes at risk for diabetic retinopathy progression"
 excerpt: "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology."
-publishedDateTime: 2024-02-14T06:30:00Z
-originalUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
-webUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
+publishedDateTime: 2024-02-13T19:13:00Z
+originalUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
+webUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Too Old to Operate
-  domain: physiciansweekly.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707892244.jpg"
-    width: 800
-    height: 490
-    isCached: true
-
-secured: "mbKopT8lpM7zPlyqUCMKF6I8QKvLJnv6g90AzfnOvlvVOJEn0bRgn+EUbZ0PlyeGpDF9amQvy0viDFworRnmzy02fYmsws6LxmlaBtP3L1u0/78O12mJ/eM3sV3ge44+yTI76RtZGQtqIex8C0nTdbolBSLYRPmJ3r6eY0/5y2zo1/1zRrlzL/Zj2YBR6Y2+iQBjLR44Y7q+yLWfAqFI5loH8tMOm8xLBNujZGC1iCM8D+n6nKIRlGmRV1p61sR6UwK1bMYZWMnSE4mfRmd0vOfHQD/SODTnGvtoiuLlrHgEw8abhie2nW+MkggxMwKg+HDfdlTXntdaSQpsa+995QaAw9hIzgGLFyCHijIq9k9C03oORnssiAXEkaLcc0n4yNnhOfH9XLgUZljiGofLbeRjNGqzbjz8950AkdVnyW/Kra0VkJ95tS3V9AquGWr5WAsqY3/fiUxthlXHv4eoDy5Fvnzkl/pBGp7akjlpjf9WVGcyVBtUWC91/SRnXokBEJbDVVe6HRsTZ9zRHcGDng==;1GgNxO6hxE/sQOl1Wp+Ydw=="
+secured: "d+FQAnXTsR8ksgRdm1ys+fxNgkFh+KEYj5g3Hs6YzYe/X48o6P92WjZbcLZksAxM4CfYhtUT+BCWP1ERRAF6nIEmpaTWpNZTNH0ewKO2pwkZYbP9eg/Uka8ZHM2FpF6dvB1F8YNKZDRKhqzZroVVai9fgy1jrx3Xr8I8GTfuyg7UN8SusDbhWWASwHrfuj1Oz8u6JwkKQIhADtaJ4hnlgmXmju8/V/TtC5GFiWyx24qMfoZB7+3nSgL9gcBKC5vlLkcZL/YassD1a2SYHtJLvPX75jd2khTgyQ1HuR0QNm3fGRLg5q2D1hy8u404qq4bv8mYyXU3v1pzxyP/GuJ+EVcWXTZXrAD7RTcO1A5MLz+qTGB+PawXMqOZc3N2DvmTlbvFf4sEEo6s5KIS2ZxMvOEgYXUM0J3d2eqQEhyK06PVl7wfAdwK9H6DrQmyTEmQTxuttnJu0KxUH3h8EN0Y8coi+GDFIXnJfVqrWDyGJqWiSb2BBPj8AmTxx9Yk3q1HYGZ2D3KxIznJ0I5PwenP2w==;zxIhdx0vzrDERyc00WBcVg=="
 ---
 

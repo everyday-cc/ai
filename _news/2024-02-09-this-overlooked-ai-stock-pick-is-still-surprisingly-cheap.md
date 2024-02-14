@@ -1,14 +1,11 @@
 ---
 category: news
 title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-excerpt: "Charting, Price Performance, News & Related Contracts."
-publishedDateTime: 2024-02-09T15:19:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+excerpt: "Real-time index price for TSX Composite Index (TXCX), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+publishedDateTime: 2024-02-09T15:31:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: The Globe and Mail
@@ -24,22 +21,6 @@ images:
     height: 792
     isCached: true
 
-related:
-  - title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-    excerpt: "And remember Watson? Well, it's still alive and well at IBM. There is the Watsonx.ai studio, which is a platform that provides businesses with large language models (LLMs) where they can actually build their own chatbots. Another product is Watsonx.data ..."
-    publishedDateTime: 2024-02-10T10:31:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 39
-    images:
-      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
-        width: 1875
-        height: 792
-        isCached: true
-
-secured: "vw5e0RaZKIORiEG/F4khDs/yaoexylQzUCBuVJcP3xAzRvtOtTbKVYfgCHHhsxqxXdTilULpzlrWtSUESs5Ew1QLg7n1DgXONRrtzrySuGq7g3DwtHObaoWxX8FRjGLQC5CvPjnsGd3EctN02ouAA2C3loFoQhGrOWTRtK6uhuA7gkrWzvL1Prf2MFZkXuS2GAmInKcpG8xIpOT/a4Km9/Dvs62ey7TaYFWmd+ND67mLTcTATC6uIGbIbIvH/ASGmRdJ6VEgtNXIiLGrX5723SBGbqx0mTXSZRDz2qav1UFjp6AKJDxGcQqPknlWwobhgjIrXtCtsFrcMj7Z87aPIh0cS3pv+ki+nzIuzEmT4Fs=;Az1MQ6plFY43D1BGW4LPOg=="
+secured: "y4mZQdiMphsEZR2IPEbpnDQ3HjX+9+LpOynWzE9iELFrCkdw+ucZ1/eijmwl7V5F1iS7doDjrrzSJQB760HzXtWQj7NVsvhwTww1YUQge1/9tk+36sqkroaNWk+Bym3Zq0Oqc/HGqohxVwMxhasKcDvKNwAbtjwaNS77pxeChVD4QCy+FyqKdpsIAmd1xI4pL+Cyk58HIGK+1EFA3K6Xv3Pi779sAOlGWFsbfs5wLZBkgrZrfekK2ecxKNN+DtvGR0avH0BSCpHz0JQeexTLe1FeyoRM27OcE2bXLBb+IOw8fZyUvDwy0CIJo+zVNGLWSBejxBn/ArjCjwv0otZ/oclexlgjuJnjxQgoSa1Fk1k=;CC810VuI4JV3VcteYk+2oA=="
 ---
 

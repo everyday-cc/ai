@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/34951-nvidia-join
 webUrl: "https://www.thefastmode.com/technology-solutions/34951-nvidia-joins-newly-launched-artificial-intelligence-safety-institute-consortium-by-national-institute-of-standards-and-technology"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 753
     height: 408
     isCached: true
+
+related:
+  - title: "DeepScribe Launches New and Innovative Trust and Safety Suite for its Ambient AI Technology"
+    excerpt: "DeepScribe, a leader in AI-powered medical documentation solutions, announced today its new Trust and Safety Suite. The innovative features in DeepScribe's latest addition to its ambient AI technology reflect the company's initiative to set industry standards for AI in healthcare in safety,"
+    publishedDateTime: 2024-02-14T15:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962373.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/2340056/DeepScribe.jpg"
+        width: 400
+        height: 245
+        isCached: true
 
 secured: "mZug0FUnSurHplLo/2hvB10KK73mrqRzPhI7tMT15nP3RET229A54+VxsHHIePcS80/3cr5+ipI7bj0d9YLP8kfQVBkJFGHvGt42jw4HlQd+9Ras8HuOWzdq5i9/FkQBgERzd3bS7sfKe4nvdHAmP+gtAklbPoylL/m38X4B9OslpEPkLhc6e3k8SnbjezQaE4zu1ctcG4u/Ys0PgX/C0zkT7DTwheUSAR2g1OiYP4hyktmKgu8EC/xV1pMMWV0/oJ3ciT+TDRcMCIN4DUm+ep8v1Glizc0pvcNJ2Ac1CKygrz7Io+lqmYwK8MK855uYw4BAWo+2Vk8Dk8Y1PPxqhIeh39LvD5kQRDIVRHQin3U=;iRAKcRSLH8xe9sq8gVvV/A=="
 ---

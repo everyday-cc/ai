@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
-    excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
-    publishedDateTime: 2024-02-09T13:10:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/iris-energy-seals-nvidia-gpu-deal-with-ai-startup-poolside/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Iris_Energy_cryptomine.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Nvidia's tailor mad chip gamble"
     excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
     publishedDateTime: 2024-02-12T10:35:00Z
@@ -120,15 +106,6 @@ related:
         width: 536
         height: 301
         isCached: true
-  - title: "Nvidia to Go After Custom AI Chip Market"
-    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
-    publishedDateTime: 2024-02-09T14:44:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
     excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
     publishedDateTime: 2024-02-13T10:21:00Z
@@ -166,6 +143,6 @@ related:
       domain: seattletimes.com
     quality: 17
 
-secured: "H2Fp1jymKkcUQ3QiNjIyV1S2eMydxEtj0uBAnogBWIm+I0n/YQB20SNopXURNQMp16hGN53mRpfyHHMLUkp/aA8ZJRMhPv30fN1p4VGto2jC8xosJwVCSsUnqqQyk+KA/SUWFqBSfiv7gs9zNV/JUl+biAlmz+EtUFkqug1jpZ1o6bGKFTznogivKy9AwsdDO6LlBsXL2pstOKwnksfVO+h1p/lZUK24jOtJQ9TEhOLDsPt+eKZJhzT9IwJl9fCcNRnOdOS/YFHh+Aeg1bSn31TO1+PTVZ+ocmqExpht0wM793x057dQNe8HaRVzFGbgGTehTBOeRxa6qtYyo6NNhBhlKM/+USUQuytGwTWs3Bk=;jMJUOlRgRivyb3tW47zYcA=="
+secured: "sfDjpswQ2D0d68zXX7MNI0h6eXk08YS4IRfE1gSa03n5u4vsSKfe4clFIGEZEJ3hKRKO5FIDCFjmLv454gbmnZTIVtH60ZfB9BMYrWUDGe3v2WzIgribI7e8WQM6d9esn6n/5UAL46tVxuvFkJ6JJJsL7ZUAotalmUxa6qSr3DTYA+bi5HsgTXPczj5046dRoOpevEVCp3L3lzUYUdaJqCfNQ2tXIVQMJYUTxd7Cq9obVNGwPyGCuY96OP6b1PQ0gO7wwoQf90dy6okkmf8eQe0XdNIVlbU73idFJNQP/biTen+BPiT9+6D3XacxjAMND1+u+3zG6Mso80wOdtNZdn4qj5FLRNUM7C8Cb25u0eEfaDHvmEbfcbMalM+f7psF1qMHqFay+7jo/QR32kfHTP6aKlxBKfPicQfID+2jd5Q5n/6MV6cCt+TWWXmODA0/vB/5mbty7gykGwuQk5GFKjDMzD5YcfrUnC5ePX9mbIYXgXIVwlRp8/ySoNsfUO+NkKx23O1My9yYyt1QR+D+7A==;9zcdU6Vs6SuNq3DfKupzqQ=="
 ---
 

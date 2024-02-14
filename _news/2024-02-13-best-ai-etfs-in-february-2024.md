@@ -177,6 +177,15 @@ related:
       name: WKYT
       domain: wkyt.com
     quality: 2
+  - title: "Ohio vs. Akron February 27 Tickets & Start Time"
+    excerpt: "Tuesday's MAC schedule includes the Ohio Bobcats (13-11, 7-4 MAC) against the Akron Zips (18-6, 10-1 MAC), at 7:00 PM ET on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-14T14:22:00Z
+    webUrl: "https://www.fox19.com/sports/betting/2024/02/27/ohio-vs-akron-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 2
 
 secured: "OiGj9s1PyePzguHI/t9CduU0vXwqhYwO5L6tScrjNauoJqGEmJgDqCOqoL5j0yHXOC9YOJO4j2bxvKNTfvK5YZw8nSgGuggmhWrcXzc7Gq5d4F5kRA44Vt4utmzg8ckvNUeXPGTGZGSMLQ0/iZaEd1hZUOd1vGJ359BBV/Pw3q+x+CciFdHhF5YVRWOolhqngu4hOEJ7dWxt3YQxNnmoYILkRFiSOZL+JxKcquWJaByjSZSVsShsusvswe0EI1XCcLYxCbjgyqkrjDR/dFTX1Mh/TMr53xaI1skXieLGHsiIYZKd8dL6mbXRWH/A8DQDZ+HrAaE9MxzfN1aF2x334KKQBg2gn0/jtRq5VjYIuUs=;YS5xwG1mL46OiQ5CiboubA=="
 ---

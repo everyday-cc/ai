@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-ta
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI board member Bret Taylor has a new AI startup"
+    excerpt: "Equity's discussing the week's leading startup and vc news, including Bret Taylor's new AI startup, Foundry Group shutting down, and more."
+    publishedDateTime: 2024-02-14T15:02:00Z
+    webUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/"
+    ampWebUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-hp.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "John Oliver Reacts to ‘Upsetting’ AI Pics of Him and Taylor Swift"
     excerpt: "Taylor Swift and Travis Kelce may be America’s reigning sweethearts, but the newly minted Super Bowl champion may have met his match in a most unlikely figure: John Oliver. Oliver was the lead guest on Stephen Colbert’s The Late Show on Monday night,"
     publishedDateTime: 2024-02-13T17:00:00Z

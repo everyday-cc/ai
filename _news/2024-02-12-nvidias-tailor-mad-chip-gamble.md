@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Iris Energy seals Nvidia GPU deal with AI startup Poolside"
-    excerpt: "The data center provider has agreed to a cloud service agreement with Poolside for 248 of Nvidia’s top-of-the-range H100 GPUs, which are used for training AI models. The initial contract is three months, with a potential three month extension, Iris Energy said."
-    publishedDateTime: 2024-02-09T13:10:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/iris-energy-seals-nvidia-gpu-deal-with-ai-startup-poolside/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Iris_Energy_cryptomine.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "3 Reasons Nvidia’s Stock Is Still a Must-Buy AI Powerhouse in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Any Nvidia (NASDAQ:NVDA) stock outlook has to start by considering its"
     publishedDateTime: 2024-02-14T11:35:00Z
@@ -120,15 +106,6 @@ related:
         width: 536
         height: 301
         isCached: true
-  - title: "Nvidia to Go After Custom AI Chip Market"
-    excerpt: "The report says it's based on nine sources, which shared Nvidia is already talking to Meta, Google, Amazon, and OpenAI about building custom chips for AI and other computing tasks. The piece doesn't say if Nvidia has signed any contracts with these ..."
-    publishedDateTime: 2024-02-09T14:44:00Z
-    webUrl: "https://www.extremetech.com/computing/nvidia-to-go-after-custom-ai-chip-market"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
   - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
     excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
     publishedDateTime: 2024-02-13T10:21:00Z

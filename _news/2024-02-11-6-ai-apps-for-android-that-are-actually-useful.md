@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 webUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Easily build full stack AI apps using Gradient"
+    excerpt: "Developers can sign up for an account and start using the accelerator blocks right away, taking advantage of the opportunity to enhance their projects with advanced AI capabilities. For engineers and developers eager to push the boundaries of AI in their ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-full-stack-ai-apps/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "junzw62hFnYtGjmucPA8K9zxPI8RFq9QKynyGQcmtmXS8JKjD7xB9eeVFpRuEEDl3dyYSeO54+D4TXwW9IBtUYeHJoOhvhyB7/wJCLQFuBLfOkswCpMWChondh8NOVKc+4RhAO37F52JxlOW+U+1KURq7dC22SmKLEHcxYUwgYrBd+GRgL/sJEigWiKZ6V4ssj+JrIPjZoXXmsfXmj6exuaFztv4m37ZJHWN655IZc62fJiq0rPlv3FKHMftju20WcwyAMrxYCsAoMCRtFkCWxFCsXok7PHWIn1n6UWksV/hoWnsHB+nx0v3VLxulwGPdV1ffwC6yyjnUwLuFjS9vMMV1y+sCwhbSE6pVgXBWlU=;eW62i26XNetfufiNMTxJWQ=="
 ---

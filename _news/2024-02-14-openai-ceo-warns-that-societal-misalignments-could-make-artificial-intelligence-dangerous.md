@@ -1,28 +1,22 @@
 ---
 category: news
-title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
-excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
-publishedDateTime: 2024-02-13T22:00:00Z
-originalUrl: "https://trib.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_1a25c22f-e289-5c62-99a7-73f2ba3fa5ad.html"
-webUrl: "https://trib.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_1a25c22f-e289-5c62-99a7-73f2ba3fa5ad.html"
+title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
+publishedDateTime: 2024-02-13T21:18:00Z
+originalUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Casper Star-Tribune
-  domain: trib.com
+  name: The Boston Globe
+  domain: bostonglobe.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/1/a2/1a25c22f-e289-5c62-99a7-73f2ba3fa5ad/65cbf1bb7f938.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
@@ -71,6 +65,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "fwc1fpjkYj/t0pzw8dlUYjUVSq5xBRtxdKUjZVcYGr/LgYVL5pG3J8CHl9SUN1n3UK7v3kve4c+Ad8yukvI++SmpwICYc4WMet4EULYWa9iIloRtgGYK64+qmkT2NZeFwmPEKDyKDQieeTQi6duWgqpezXeN2tENEgly3M31Tz6k9Ei6btYds+JB/7N2mNKWCNWls6X9+FNlzOL+VuXTLtL1DEZTUowSfah6oowMSuQmzGbzd8W/kvboc9o8z+N7PuEPziUwjt/nZpKbqUbLlzPNlknWrr9VBPrNQXmodrqCuGMTqYI8hFVdC83jikAPJCLAfzc3D1ifiYIIU+L5go+DLJoK+2Oeqo0pLMY5kzE=;8Hi5BOlfow/Wd4XIpzbE2Q=="
+secured: "2eBUmOM1jqMfjuxQz12w1brwexj9Ydb4JW5+dt6xZacuujUrfWQ4ZOnHJSz2dP8aKE7Rd2O1j72OaPaRUq55GhAEDe8NZQd57DWt2o+1YH4DUxvQScii8D0N310LxJSu6O9Flmu7I2wtHGzZ4ffyle2OVC8VV9nvdoJn1Xu0Tjh3fE0qfRfZ29xiEatgfz2LcAcUo9LembnYvSGGEMhnu9H0wIF5FpFdW9EHYUqz2vCCQrBjSwhnHGb8RwCceIqJrT7xp5ej5ON8fowgO9d82uFPV6k1uX9xNMNp7jzHrtQBRPP9OmwwEjpu0nh9r9nrk4eSU21L4ZDGaQnKU2PcIVFfOZ+JUUU4/aAU74d8v7rmUszemxYhX/crICCg/d3lJeIBGVF/WmRO0wBWv5Ody7rOzCVN2yk+nuCQmapit/6/hj0fnTfxhpH9Y8U8C0ZJJfwisP2mZPtL8wt2go39sJUhkn9IHokyqy5Q13QJcbLosPJfXwGB9pVeio6/JzHwiXaA8EsYw0BraYhvdDA3QQ==;JOS7Ektuxva6fVR6hFw3jQ=="
 ---
 

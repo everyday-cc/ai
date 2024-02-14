@@ -24,6 +24,22 @@ images:
     height: 1300
     isCached: true
 
+related:
+  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot"
+    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
+    publishedDateTime: 2024-02-14T15:55:00Z
+    webUrl: "https://www.wbir.com/article/news/nation-world/ai-girlfriend-boyfriend-chatbots-emerge-amid-generative-ai-boom/507-7615e2bf-4f8f-4813-b64b-a0f3a278c120"
+    type: article
+    provider:
+      name: 10 News
+      domain: wbir.com
+    quality: 24
+    images:
+      - url: "https://media.wbir.com/assets/CCT/images/eeffcb51-d403-46dd-8ea4-ff12246f0e29/eeffcb51-d403-46dd-8ea4-ff12246f0e29_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+
 secured: "/Wjd03HNPaysjJrVO0LzdKUNJloEWS0HokhvZzDjrS25Poai3/fPcSBD9ljAF2V/clMmW+injoGIIw6NUnti9y9L0Oug+7+TiskldxRr4CU7qQEExBB/XhITbAvP7iQ+hYXYonrx2rTN4EgJGLkeGd9sP37a6HJoRTEOSSIIozBQr3P6cLo9ZCTge2dfhtOzdzyLKauJz3h2LCmvDDgM+JFlxWsy6mKeuAva+aV6vzxu2I7V8WyPFlL2Pa8SMdKQ+j5OpaONJkmrBg+XfgmGCSnAZ0YCC8XtrZIVhf1W0CbRCOXUP5DVmVXCEIk4IgKFGUzDzy4w94CVF9PtRzMMXNrFmSSIEB1JE0axJpHcPFw=;4vkkZmAf//LMrLjyf5fGEg=="
 ---
 

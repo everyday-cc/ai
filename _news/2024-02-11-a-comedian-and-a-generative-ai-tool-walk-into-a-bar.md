@@ -39,6 +39,15 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "The most valuable AI use cases for business"
+    excerpt: "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-14T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/artificial-intelligence-use-cases/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "Is Generative AI Overshadowing The Proven Workhorses Of Modern Tech?"
     excerpt: "The rise of generative AI has indeed shifted the technological focus, overshadowing some of the core technologies that have been instrumental in our digital progress."
     publishedDateTime: 2024-02-12T07:30:00Z
@@ -175,6 +184,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "R.AI.SE Summit 2024: Enterprise Gateway to Generative AI’s Future"
+    excerpt: "The R.AI.SE Summit, a global reunion of 1,500 global leaders and Generative AI pioneers, is set to take place on April 8th, 2024, at the prestigious Westin Paris Vendôme, Paris, France. The landmark conference will bring together the corporate world and the top artificial intelligence builders to share first-hand insights on using Generative AI to address essential business and societal challenges."
+    publishedDateTime: 2024-02-14T14:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/r-ai-se-summit-2024-enterprise-gateway-to-generative-ai-s-future-1033066830"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "What comes after Stable Diffusion? Stable Cascade could be Stability AI’s future text-to-image generative AI model"
     excerpt: "Stable Cascade uses somewhat of a different architecture than SDXL to generate images that Stability AI researchers hope will be more efficient."
     publishedDateTime: 2024-02-13T21:22:00Z
@@ -203,20 +221,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Responsible Use of Artificial Intelligence"
-    excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
-    publishedDateTime: 2024-02-13T21:38:00Z
-    webUrl: "https://www.govinfosecurity.com/blogs/responsible-use-artificial-intelligence-p-3561"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 37
-    images:
-      - url: "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/responsible-use-artificial-intelligence-showcase_image-5-p-3561.jpg"
-        width: 860
-        height: 520
-        isCached: true
   - title: "How generative AI is a game-changer for communications in today’s workplace"
     excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."
     publishedDateTime: 2024-02-12T17:21:00Z
@@ -231,6 +235,24 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Responsible Use of Artificial Intelligence"
+    excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
+    publishedDateTime: 2024-02-13T22:21:00Z
+    webUrl: "https://www.databreachtoday.com/blogs/responsible-use-artificial-intelligence-p-3561"
+    type: article
+    provider:
+      name: DataBreachToday
+      domain: databreachtoday.com
+    quality: 17
+  - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
+    excerpt: "Learn more about the Alteryx and Databricks partnership here."
+    publishedDateTime: 2024-02-14T14:22:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/02/14/alteryx-and-databricks-fast-track-ai-for-enterprises-with-deepened-integration"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 15
   - title: "Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy AI Infrastructure Solutions for the Data Center"
     excerpt: "Cisco and NVIDIA are partnering on plans to deliver AI infrastructure solutions for the data center that are easy to deploy and manage, enabling the massive computing power that enterprises need to succeed in the AI era."
     publishedDateTime: 2024-02-12T14:04:00Z

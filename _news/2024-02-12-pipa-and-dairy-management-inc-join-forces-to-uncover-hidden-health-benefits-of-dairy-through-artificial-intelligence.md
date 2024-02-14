@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
-    excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
-    publishedDateTime: 2024-02-14T04:47:00Z
-    webUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 74
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
     excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
     publishedDateTime: 2024-02-14T05:43:00Z
@@ -73,6 +57,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 27
+  - title: "Soluna Ventures into AI Hosting with Co-location Agreement"
+    excerpt: "Soluna's co-location service offering comes at a pivotal moment as the company prepares to launch its own AI Cloud business. Leveraging its expertise in renewable energy, data center operations, and strategic partnerships, Soluna is poised to provide AI customers with Renewable Computing at a fraction of the cost of traditional data centers."
+    publishedDateTime: 2024-02-14T13:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962210.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "uoHeAAvRG0+5OSgkpsqtK9J9gGmmInzKewj8T50Zh0IKzZbQvYBRN2CcPBRGk3XasomeLsELCLLcZjABNLGIOncpIZOD1jFiC3sUu9idc8S2h9A67pvo8SdHFlHEBY0W8o7uMghh4lYkcCLWlfATOlj/jkGbTV90ECOMDtn5bxc5bCMtHPgOZZUD5bKlvT7AYtVe/t4qp2iqnP2dkdp+AVQpYyVFd8s2ABbyDHasUM3fomQ4pDvIbryh7WffdCsLzsTHCx0yb4dEBGohNZBHLouyC/Iv0dfO/wu7GjIFxt4Q3jm3Clz5PLs3vG1gKkndz7SSsmx/GbBKGRBQroBraKl+w6WOS5BeoIsTvn1WxUY=;DukeEylP6s40QdH+RyhQTA=="
 ---

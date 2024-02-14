@@ -40,6 +40,22 @@ related:
         width: 1352
         height: 900
         isCached: true
+  - title: "OpenAI board member Bret Taylor has a new AI startup"
+    excerpt: "Equity's discussing the week's leading startup and vc news, including Bret Taylor's new AI startup, Foundry Group shutting down, and more."
+    publishedDateTime: 2024-02-14T15:02:00Z
+    webUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/"
+    ampWebUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-hp.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Taylor Swift, deep fakes, free speech and the push in Tennessee to regulate AI"
     excerpt: "After a series of explicit AI-generated images of Taylor Swift went viral online, Tennessee lawmakers are proposing tougher restrictions on AI."
     publishedDateTime: 2024-02-12T10:03:00Z
