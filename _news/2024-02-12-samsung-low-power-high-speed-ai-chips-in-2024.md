@@ -39,20 +39,6 @@ related:
         width: 1080
         height: 962
         isCached: true
-  - title: "Samsung Galaxy S24's AI in-call translation makes talking in other languages shockingly easy — how to use Live Translate"
-    excerpt: "There is some work to do before you start chatting in other languages via Samsung's AI, though. So allow us to take you through the initial set-up and your first Live Translate call on Galaxy S24 ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-live-translate-on-galaxy-s24"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 29
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uu55FsdvBBVqSzmqPGh3gS-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "1scV33szzfDxmoWJKZabc7d6UBvQmw0QJPgPdJ4/mHBS0KwQWhisKzMOjSyeChNqZRY0Ki673AHXobHviypUWRROFZtG/2FCAn55IF1xBf0GKZT4S8lSDAHB2Kw1s3KJpduAIRzQFDD3hVIjpnIe6qu623Es5gzyoKWkPW8JiLCwimmm2Qh9KjAIBuFog2YQEqRjIQ7HTsd5rR9B5l3b2NJTAGucgVL9jSiS29Q/D0jFXmV61tqj0kJsTxaQTbYj5mS5rCaxSDR432yyx4aaFMz+IhFe92TXFi3yNctsfhFlNXCtlAdhk/PBM5xsNkonCH0VoOemfyrCYNACtEx+sqdRYkZfHawstz+Bc7rvxcI=;CJx4wDwDpqktgCKqX9+sog=="
 ---

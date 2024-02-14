@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://img.dunyanews.tv/news/2024/February/02-13-24/news_big_images/791196_29926189.jpg"
         width: 752
         height: 423
+        isCached: true
+  - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
+    excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
+    publishedDateTime: 2024-02-13T23:14:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startup-marqo-raises-20-million-moves-hq-san-francisco/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 35
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/02/240209_MARQO_328.jpg?resize=1200,630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
     excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."

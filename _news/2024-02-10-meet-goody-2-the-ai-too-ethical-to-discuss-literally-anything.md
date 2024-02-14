@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 54
 
 secured: "xbzl4PtduB49ebM3k8keHUmFwtncS/lK2ERP4PXGanmicYqA4woawdZsIlrCyozZdp18BYpIUSDSvmGEs7NWIDtnJWjJWiZHRN+sjpqP79WdA7od8OCCGv1ieQ/icwURhgVfrquHcSuL8aRi5TWu2OAZwxgHiMIlRWJWQSWuWZwQyd7OyaYQwspOd0jRgJKK1vFV0SMLbXWL2TU6U1cc9ZXZwdS0thQrqoO4s01gnLSRiqYOfPp/0el3Vqoqjsgrnh9dAeZL+S5A3geo7Ss9zkq7Zax15kduHGVMDxAEQpYSErBj/Krh48L02gjh7MkgtvHDrLM9O7GUmdbPGixYRYZM1pJx02ewWwsql0u2p5k=;U3rWozMuQt/x26ipz5ZqlQ=="
 ---

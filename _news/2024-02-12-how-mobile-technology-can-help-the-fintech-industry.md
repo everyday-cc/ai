@@ -83,6 +83,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Insuretech, Fintech as Threat to Group Life Insurance"
+    excerpt: "The Key Man Insurance policy or Key person insurance on the other hand is a life insurance policy which a company buys on the life of a top executive or another critical individual. Such insurance cover is needed if that person’s death would be devastating to the future of the company."
+    publishedDateTime: 2024-02-14T00:02:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/02/14/insuretech-fintech-as-threat-to-group-life-insurance"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/14/insuretech-fintech-as-threat-to-group-life-insurance?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/14/insuretech-fintech-as-threat-to-group-life-insurance?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/0-1-32.png"
+        width: 785
+        height: 530
+        isCached: true
   - title: "US-Based Fintech Formidium Opens New Office In India, To Hire 40-50"
     excerpt: "US-based fintech company Formidium on Monday said that it has opened a new office in India and plans to hire over 40-50 empl"
     publishedDateTime: 2024-02-12T07:43:00Z

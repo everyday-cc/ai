@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-fu
 webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/?extended-comments=1"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
+    excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
+    publishedDateTime: 2024-02-13T23:07:00Z
+    webUrl: "https://www.carscoops.com/2024/02/tesla-employee-killed-in-crash-had-full-self-driving-on-claims-passenger/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
   - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
     excerpt: "Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
     publishedDateTime: 2024-02-13T10:55:00Z

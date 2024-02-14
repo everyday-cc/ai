@@ -32,6 +32,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI Bubble Trouble: 3 Stocks at Risk of a Selloff This Year"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rally we’ve seen in AI stocks has been incredible to watch."
+    publishedDateTime: 2024-02-13T22:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-bubble-trouble-3-stocks-at-risk-of-a-selloff-this-year-1033063154"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at WEST 2024 on February 13-15"
     excerpt: "In February, OSS won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
     publishedDateTime: 2024-02-13T14:32:00Z

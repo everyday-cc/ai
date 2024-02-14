@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
+    excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
+    publishedDateTime: 2024-02-13T23:07:00Z
+    webUrl: "https://www.carscoops.com/2024/02/tesla-employee-killed-in-crash-had-full-self-driving-on-claims-passenger/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
   - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
     excerpt: "Evergreen, Colo. - Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
     publishedDateTime: 2024-02-13T16:15:00Z

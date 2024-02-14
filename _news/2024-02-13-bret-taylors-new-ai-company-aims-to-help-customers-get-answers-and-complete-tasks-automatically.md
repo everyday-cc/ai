@@ -1,0 +1,50 @@
+---
+category: news
+title: "Bret Taylor’s new AI company aims to help customers get answers and complete tasks automatically"
+excerpt: "Last February we heard he was launching an AI startup built with former Google employee Clay Bavor. Today, the two emerged with a new conversational AI company called Sierra with some bold claims about what it can do. At its heart, the new company is a ..."
+publishedDateTime: 2024-02-13T14:36:00Z
+originalUrl: "https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/"
+webUrl: "https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/"
+ampWebUrl: "https://techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/bret-taylors-new-company-aims-to-connect-conversational-ai-to-enterprise-workflows/amp/"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1436405360.jpg?resize=1200,800"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Former Salesforce co-CEO Bret Taylor launches AI startup backed by Sequoia"
+    excerpt: "Bret Taylor left Salesforce one year ago and was recently placed on the board of OpenAI after a dramatic boardroom shakeup. Now he's launching an AI startup of his own."
+    publishedDateTime: 2024-02-13T16:57:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/02/13/bret-taylor-launches-ai-startup-sierra.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 35
+    images:
+      - url: "https://media.bizj.us/view/img/12690577/bret-taylor-and-clay-bavor-01*1200xx8046-4526-0-0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "cH43zjNkAENUbi+zgwj7fxsw7OF52DNx1QqFWslZYmqe4MJRf1t2SrUnFo8pKvB4yENZE9JU/PHaYCUSZZUd08EMiTICB2pHFz7xRe7Gp6lk53vqWljrEF+1AMdVYG/e/Kzs98nPvenHj28Ldv1oeFrWnyirbcOQmn/GPNZlauSRDXTxMLkFuKPU8VhsTWYF0egbXHojXUiY+lJGKwAP6pI2P5oZl07W9OHS3b9RvQM6T3GO/uNDLvHz9KTE97sXdPJhLYeyR4+5uvQtJRfpIm0D+7rZ4t8XmbUoj0LYye9z+i0hly2SKcWXmt+Qv/k86QfLZQhmbDmY2/xG7tq/FOMi25NhxbituPNpb7S/zaw=;KhgxvEb1TYWDNF9ObhWm1A=="
+---
+

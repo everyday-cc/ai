@@ -7,7 +7,7 @@ originalUrl: "https://www.nextbigfuture.com/2024/02/south-koreas-sk-hynix-going-
 webUrl: "https://www.nextbigfuture.com/2024/02/south-koreas-sk-hynix-going-all-in-on-ai-memory.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 709
     isCached: true
+
+related:
+  - title: "TSMC rumored to be teaming with SK hynix on next-gen HBM memory for next-gen AI GPUs"
+    excerpt: "TSMC and SK hynix reportedly teaming up to dominate the HBM and AI GPU market, will battle Samsung directly as the world's biggest memory manufacturer."
+    publishedDateTime: 2024-02-14T00:03:00Z
+    webUrl: "https://www.tweaktown.com/news/96135/tsmc-rumored-to-be-teaming-with-sk-hynix-on-next-gen-hbm-memory-for-ai-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 47
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96135_98_tsmc-rumored-to-be-teaming-with-sk-hynix-on-next-gen-hbm-memory-for-ai-gpus_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
 
 secured: "iSMX1htG5p9s4HX4hYPW7316rv+VW5zOR7iwLeORCjveS6ptB/IfJMBHqe91uu+uZEPq0Fe2yt6os2bKJWoNTITHygBMoB5dD+kastFuFWnDr0vEGP5GcGjhmwcelnn6+UPFjXSizi+hLGnCjDSZL2mKpNMiR65EukDupOmW4Df7w+m3a9NbOLIrRaeo7oHp5hYlfdREpxo3IJ3+zunzVH7JIq04HLelk2HWdnZ8WVhvmPj2xbr/7nIF7u/Z7UCZl6O6uR5275By+4adH1dJKT7Pm5pV82WYd+APWKz59tzcvB1vRG811UIUki8uSUJT1srKRReGFK8+ApatXV7lulPmYgxqgicbUd59ZkmEnpflsvsiP1iynuWH4JRPVsPubfB4Csw495MF81Ymx5Nc5iTZ5DW0oBdCXpemd/UV1kG2cJ1Qbe9jT2dmJ9wDFZX+m0t9lF/Tl017xpbV9eaegg1j0+0Hs4YO8Db24jX8I19Hv0RFFLOyJx76mm+oEjdDFauPP0n0QXPVd+JWvspwKg==;RWbyjU64CneC3hOVhGS5Sw=="
 ---

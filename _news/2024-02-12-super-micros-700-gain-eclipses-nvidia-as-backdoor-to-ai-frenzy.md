@@ -90,6 +90,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
+    publishedDateTime: 2024-02-13T23:31:00Z
+    webUrl: "https://insidehpc.com/2024/02/vast-data-and-runai-announce-ai-solution-with-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
+        width: 714
+        height: 422
+        isCached: true
   - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
     excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
     publishedDateTime: 2024-02-12T04:55:00Z

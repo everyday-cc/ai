@@ -75,20 +75,6 @@ related:
         width: 700
         height: 390
         isCached: true
-  - title: "Apple Engineer Sentenced to 6 Months in Prison for Stealing Company's Self-Driving Car Tech"
-    excerpt: "A former engineer at Apple will serve time in prison after pleading guilty to stealing trade secrets related to the company’s self-driving car technology, also known as Project Titan. Xiaolang Zhang was first charged by the FBI in 2018. He had been ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://hypebeast.com/2024/2/apple-engineer-prison-sentence-self-driving-car-secrets"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 14
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F02%2Fapple-self-driving-car-technology-engineer-trade-secrets-tw.jpg?w=1080&cbr=1&q=90&fit=max"
-        width: 1080
-        height: 540
-        isCached: true
 
 secured: "j1OxVR2VcqoUdiYzf/HLKe56hS0/G5UjZz7PB93CtdWvi9ElEFhW4XBI/U5qIaVcAghYY9cIoEAvzRQFzugWP4JpeTZpcz/Tr5+f8r5Nwf86vtrdSOOeDlLK17gc6cJCuDg5bcI4Tne+iaYRDz/fPigvDfgjg3sVnmuoLoqp6fAV4rp5J7qVn95BNJDfBx1qlJ/BPEvfxeSHPYMRBEMy0LcSvYgQz4CQmN7dKC/kJTm4yQZP+SO2Tv3GmSUSdaPyiF4ENDK9o3hA0p9vQawbD07VCfMKurUb3w6/Nble7uIoAPbMGKKFEocE7jJMRoxImRHUbdJFUd81UErhENG3oxsTmIgTwjed7qF7jyLNE+s=;Zqnuvlnu163fS3JnTD4/Sw=="
 ---

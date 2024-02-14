@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/australian-government-ai-prod
 webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
 type: article
 quality: 69
-heat: 89
+heat: 93
 published: true
 
 provider:

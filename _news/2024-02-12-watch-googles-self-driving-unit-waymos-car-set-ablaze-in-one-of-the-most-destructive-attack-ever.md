@@ -94,6 +94,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
+    excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
+    publishedDateTime: 2024-02-13T23:14:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startup-marqo-raises-20-million-moves-hq-san-francisco/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 35
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/02/240209_MARQO_328.jpg?resize=1200,630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
     excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
     publishedDateTime: 2024-02-12T14:10:00Z

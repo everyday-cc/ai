@@ -33,15 +33,6 @@ related:
       name: Roll Call
       domain: rollcall.com
     quality: 17
-  - title: "Third startup from ScriptDrop co-founder aims to make AI chatbots private, user-friendly"
-    excerpt: "EXCLUSIVE: Three Columbus entrepreneurs who've sold startups before are building 'approachable AI' to make tools such as ChatGPT and Bing more user friendly and less fraught with privacy and other concerns."
-    publishedDateTime: 2024-02-08T23:47:00Z
-    webUrl: "https://www.bizjournals.com/columbus/inno/stories/news/2024/02/08/kallo-ai-nick-potts-startup.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
 
 secured: "4ivLaSZNBIssx5Xmnjp1Mz4Da5nOSt28MMLDJVsKbCsQ8DGrvwKYLqHsAxL6KtIrZsThlCsvgnytj7UtFoLsj9hbUURQQQBCtLHIuFEyJvPguUf3klu1JCmpzovvIFhvlDewRdphtMEGC9rMbej4jEaLKf4WpC/iUGSp+W4imlq2lPtFMMscGPQUkdAd5itDT3krYulNOCJSTgbEaK4s7d54XUYHdhSfgGzgr9RmmHFZja6Opf9hMVAN4Bw7I27LD5LUHB6zZdbhhyPTMy4wJISJWHMgxdejk2jkMS3t/Pp7y+/Ulu2h17NoKJAFL2LbJGVy4+unHJUd/cnrCRB0pGyN3SyoLEFgLw7neeRWQH0=;MnZLopWAy8L+v0HTeHzzJw=="
 ---

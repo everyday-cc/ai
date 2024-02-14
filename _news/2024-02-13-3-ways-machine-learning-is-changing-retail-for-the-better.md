@@ -9,7 +9,7 @@ ampWebUrl: "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp"
 type: article
 quality: 76
-heat: 78
+heat: 80
 published: true
 
 provider:

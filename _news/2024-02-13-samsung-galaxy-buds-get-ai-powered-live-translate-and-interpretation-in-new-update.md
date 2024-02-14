@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-roll
 webUrl: "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-rolling-out-in-india/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-10.42.24-AM.jpg"
         width: 744
         height: 560
-        isCached: true
-  - title: "Samsung Galaxy S24's AI in-call translation makes talking in other languages shockingly easy — how to use Live Translate"
-    excerpt: "There is some work to do before you start chatting in other languages via Samsung's AI, though. So allow us to take you through the initial set-up and your first Live Translate call on Galaxy S24 ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.tomsguide.com/phones/samsung-phones/how-to-use-live-translate-on-galaxy-s24"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 29
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Uu55FsdvBBVqSzmqPGh3gS-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "iwmNfed5uWObzUak8ps0kysh7u9M1PCxzFgGYDH0VEACgb3IdBOrFGpRoGrvJ3EPQWkz8sixwXmd39j9y7/7oeWffOGH4WdoDaq8xmPJNEww20E2Shel8gwzdFQFXZKcYZe31nWF20XzTKCwSsEe5VD6f7JwZRkeA9vAHe/7mBPaSN3/412TwibfzsKvdZTsPxIOSDBaA0XXZ46Q8qbIAZfRGk/ol7efdWds9Dwsd35Wmi4An5yrvqbjICvXiZ/OdvwdmdQvgJgl/msFjShYGieYiljaFIlbeBbLYbYJGKQX/eSxM0dlf8rcyrJ8NpqZsm92GNggxP3KYpx7WQCT1AWUEuf9PDsBOZ2JcYGHTPI=;ZTMzQerB6Tn2AQ7UgvOuQw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-le
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1155295707.blog-lead-space-40x21-1.jpg"
         width: 2400
         height: 1260
+        isCached: true
+  - title: "Use AI to Personalize Customer Experience and Build Trust with Customers"
+    excerpt: "Heather Kurzenski, CX program specialist, Intelisys, offered strategies to use AI and build trust and understanding with customers."
+    publishedDateTime: 2024-02-13T23:41:00Z
+    webUrl: "https://www.tmcnet.com/voip/news/articles/458687-use-ai-personalize-customer-experience-build-trust-with.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-feb/6214588199-NEW-2024_collocated_ITEXPO_PR_1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0FvkIj9sJ9bKlHa+GNJBUGhW90UfUD2HfBv3OKGousxA9LkOHHdaMc+i/XjlUolGhK7EnkDZz+zuu4bnhCDKKFZyW0pqBoRLIUCC40J83TW1i5x1t2qYOAhTPkSN8jLz+1S3AXAlzy1pANVX+UTlZsWwNF+4k6gqSq5xX8MIWr5ix+sA7i1oeubwokxFGPgreaoL7vPAes6ytjR0rPxKlJUmDv7BWFqn4bP4TKDxuhOJQ6ZMBP1tkxrJ4zf9pnWz92JbGipreiEcuz+gVx8L/8D8RnST+XfnE1QdAFFGwSPphBpFp3d5y+IOIo/A++5sSUOJyCtHuSyF8DMwa+tLUhbc3qeyrRnkFRe/7Bylhrw=;+jQoSpN0aox1plOYyXF82g=="

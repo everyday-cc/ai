@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "AI Bubble Trouble: 3 Stocks at Risk of a Selloff This Year"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The rally we’ve seen in AI stocks has been incredible to watch."
+    publishedDateTime: 2024-02-13T22:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-bubble-trouble-3-stocks-at-risk-of-a-selloff-this-year-1033063154"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
     excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-11T04:23:00Z

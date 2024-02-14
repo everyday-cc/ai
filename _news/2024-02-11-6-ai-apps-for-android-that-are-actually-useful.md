@@ -7,7 +7,7 @@ originalUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 webUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Build and publish AI apps and models on the cloud for free"
-    excerpt: "Selecting a Cloud Provider: Evaluate cloud providers (e.g., AWS, Google Cloud, Azure) based on the services they offer, such as managed machine learning services, scalability, cost, and geographic availability. Compute Resources: Choose between CPUs ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/build-ai-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 41
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Publish-AI-apps-and-AI-models-to-the-cloud.jpg"
-        width: 1280
-        height: 780
-        isCached: true
   - title: "Demand that Artificial Intelligence Respect Copyright"
     excerpt: "Building quality journalism in the midst of an unhealthy media business ecosystem is like planting rice in the desert."
     publishedDateTime: 2024-02-12T01:30:00Z

@@ -26,22 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Wellness Is Not Healthcare"
-    excerpt: "Applying the rigorous standards of healthcare to digital apps would see many fall short on real-world clinical evidence. There are concerns that these apps could be downright harmful, as was found ..."
-    publishedDateTime: 2024-02-08T23:59:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-and-mental-health/202402/wellness-is-not-healthcare"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/artificial-intelligence-and-mental-health/202402/wellness-is-not-healthcare?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/artificial-intelligence-and-mental-health/202402/wellness-is-not-healthcare?amp"
+  - title: "Georgia bill aims to restrict AI in healthcare"
+    excerpt: "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision."
+    publishedDateTime: 2024-02-13T15:55:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/shutterstock_2046023384.jpg?itok=VSJtx0We"
-        width: 1528
-        height: 800
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
         isCached: true
+  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
+    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
+    publishedDateTime: 2024-02-12T17:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 25
 
 secured: "GErhF1CLfFuPXxaV5e6w6dG7jChFIGAC0jbIxBrAzHwgIx+O1GCpBHs525zdO/lDKLGHuafOljM7cGpch9Hhs94HC3ywLaQauIy/q9P+8/4z0oGABCIRAsB3gKfsVl5Xj6lJxGrm317MlB4C0KKk1PsjuxWnlnalUNtFpuo85PMUALWjUsg7e6Tc1Aftu3DS3IWYv82Qluqw67JSNabBLjg15WOymG3CRGQ8xw/O7E5Mknm+YRvMnCfqmgCcD+twTZSZyL85GXl6OWHqkV0n1Un0V/nUqxaYZzJYdffmhtjtPL+Z423N6+V1H/xAg4zUMf71WOxn14mETDxLOUPbCsurthrmxoMgdoZMs7Mcdys=;LHM4pO5i5dxC673P+/zUKg=="
 ---
