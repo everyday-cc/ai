@@ -76,6 +76,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "AMD’s Instinct MI300 series AI chips aim to redefine AI computing for Microsoft"
+    excerpt: "In a bid to revolutionize the AI computing landscape, AMD is set to introduce its latest innovation, the Instinct MI300 series accelerator. Reports from Windows Report suggest that AMD is poised to supply this cutting-edge technology to Microsoft at a reduced price,"
+    publishedDateTime: 2024-02-14T04:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/14/amds-instinct-mi300-series-ai-chips-aim-to-redefine-ai-computing-for-microsoft/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 77
   - title: "How Microsoft's AI push is helping it close the gap on Amazon"
     excerpt: "Discover how Microsoft's strategic focus on AI and cloud computing has enabled it to rapidly close the gap on Amazon. Learn about the growth of Microsoft Azure and its powerful AI solutions."
     publishedDateTime: 2024-02-12T15:20:00Z
@@ -169,6 +178,20 @@ related:
       - url: "https://res.infoq.com/news/2024/02/copilot-studio-powerva-available/en/headerimage/generatedHeaderImage-1707698005856.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Drive sustainability transformation faster with new data and AI capabilities"
+    excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
+    publishedDateTime: 2024-02-13T17:35:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/sustainability/2024/02/13/drive-sustainability-transformation-faster-with-new-data-and-ai-capabilities/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/02/GettyImages-1437931505-social.jpg"
+        width: 1191
+        height: 628
         isCached: true
 
 secured: "R711e4umjXssZFO8JG/P4IwQW7Nd68rHqSVzMS+fsG5G3R/VERmhN0kNWlucx6zUs/vMAKXZiF8NfacFHZfkWA+PzfbhKd0khc8L/y4WEDLKQ98P3JZYgpMmICwYUc5s6/tUQf3p0XohvEN6i08Osa8uORlJxDkCmmwHXWifDXrBOaIakQMyyK0mo0zC/FdlvWFyhIgWEOaC9PiK3ki+fH4MtOhXpFz/Sq7qOa96k4Zm+/MRDbbsyG7hc3h2Y/xTfKCuFcZCsBmcKuKlqwl00MdTxOI8hp6TM0Oqw2LWi0cfhdoeJCy22XcrCTw7uH4Iz67H6FAclE928cZCGj4khjmjNoZtpUdeZ+7TKmpTOWQ=;KbuumeDDHl+Ogl2ybmwVgA=="

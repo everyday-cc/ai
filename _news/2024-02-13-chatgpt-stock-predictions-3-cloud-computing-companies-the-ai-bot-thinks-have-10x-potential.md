@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-pred
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cloud-computing-companies-the-ai-bot-thinks-have-10x-potential-1033060530"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -36,6 +36,20 @@ related:
       - url: "https://images.theconversation.com/files/574573/original/file-20240209-30-jdrrpv.jpg?ixlib=rb-1.1.0&rect=0%2C5%2C4000%2C2000&q=45&auto=format&w=1356&h=668&fit=crop"
         width: 1356
         height: 668
+        isCached: true
+  - title: "Can ChatGPT edit fiction? 4 professional editors asked AI to do their job – and it ruined their short story"
+    excerpt: "Writers have been using AI tools for years from Microsoft Words spellcheck (which often makes unwanted corrections) to the passive-aggressive Grammarly. But ChatGPT is different. ChatGPTs natural language"
+    publishedDateTime: 2024-02-14T02:44:00Z
+    webUrl: "https://www.econotimes.com/Can-ChatGPT-edit-fiction-4-professional-editors-asked-AI-to-do-their-job--and-it-ruined-their-short-story-1671388"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 38
+    images:
+      - url: "https://f1.econotimes.com/2024/02/c8o0t5t1lv_th_1024x0.jpg"
+        width: 496
+        height: 328
         isCached: true
 
 secured: "FVjiG5Qo1MMoKrbEneKhSKvS1qpcrVSpomBAb9gve1YsBaZ4rAve03a0Qr0H6zei+SsegSf4LgaHGkmRur1e2+aaK+6H89obtMAE0DSujVnN4LqeE6nW/wbMRt9aw0m4wBsqzBfMyL4tjfN3U27eKDmLaXjx79IG6ZYBwPo+sW0rMMyUxSmA0gkiZQCo6IJ84YitHZAJGS/Lk8PKQ+qUe2P8q6L7qaTvcKMSKDMj/27G6XomibD8bpIXe2pS5eaavUpuOgqw1iGSkRmVIe7qGqy8b8RlAIpBWNc+FHkczIOD4STeNcDgt2KmBd7mbwLvDDaY8l1IxW4CD6YTyz6iVnfkNdlpQ0lLD/pXXP1aykE=;0gyUJl1NaimyjIlwUESUYg=="

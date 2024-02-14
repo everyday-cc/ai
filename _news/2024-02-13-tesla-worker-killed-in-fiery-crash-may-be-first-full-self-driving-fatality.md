@@ -28,7 +28,7 @@ related:
   - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
     excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
     publishedDateTime: 2024-02-13T17:14:00Z
-    webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/?extended-comments=1"
+    webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/"
     type: article
     provider:
       name: Electrek

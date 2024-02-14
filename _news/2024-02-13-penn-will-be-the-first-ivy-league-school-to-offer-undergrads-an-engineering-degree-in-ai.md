@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Penn to become first Ivy League school to offer undergraduate degree in artificial intelligence"
+    excerpt: "Students and faculty expressed excitement for the new engineering degree in AI, which will be available to students next school year."
+    publishedDateTime: 2024-02-14T04:22:00Z
+    webUrl: "https://www.thedp.com/article/2024/02/penn-new-major-engineering-degree-artificial-intelligence"
+    type: article
+    provider:
+      name: The Daily Pennsylvanian
+      domain: thedp.com
+    quality: 27
+    images:
+      - url: "https://snworksceo.imgix.net/dpn/bfde7347-ba41-45ed-8b4d-e5956c98b894.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Penn Engineering joins international alliance to promote open, responsible artificial intelligence"
     excerpt: "The AI Alliance is a community of researchers, companies, universities, and other institutions working to address safety concerns as AI technology advances."
     publishedDateTime: 2024-02-13T03:18:00Z

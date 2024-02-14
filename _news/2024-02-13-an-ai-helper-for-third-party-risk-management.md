@@ -2,17 +2,17 @@
 category: news
 title: "An AI helper for third-party risk management"
 excerpt: "A new generative artificial intelligence tool from Ncontracts can assist in summarizing lengthy agreements with fintech partners and identifying important clauses."
-publishedDateTime: 2024-02-12T21:59:00Z
-originalUrl: "https://www.nationalmortgagenews.com/news/an-ai-helper-for-third-party-risk-management"
-webUrl: "https://www.nationalmortgagenews.com/news/an-ai-helper-for-third-party-risk-management"
+publishedDateTime: 2024-02-13T02:00:00Z
+originalUrl: "https://www.americanbanker.com/news/an-ai-helper-for-third-party-risk-management"
+webUrl: "https://www.americanbanker.com/news/an-ai-helper-for-third-party-risk-management"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: National Mortgage News
-  domain: nationalmortgagenews.com
+  name: American Banker
+  domain: americanbanker.com
 
 topics:
   - AI in Finance
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "NWYelwUFCWip73uiaVxhziJjhhx24MUcSjRDvc4otRRrhRyPXfM/NAotbAqCAjsIw/DjwgXGc50i4MWqe/9VCFB8I617WfIrDSHGCGYhfRF8W+pYUvXvOLv07wA6ZnvV2wv9c1Blxw0PyHBYFf8buYn40xI+uQyENWg1eP0FfmeZCIcqnj6/RIxT2cBIkWyTupHX0/fPsz9Pk6vEFmJf9lL8ae3Ckne0KSZLl/K4rvoHwXKisK10BS0LB+4947vC80h8gYtRXXmswseVpdFnlhCJuBdVdJJuLm9OUN2EwzKyy+7mvpXF4dSwzQ7fEvnaJ+lMWNhPXwYafltObh915TF/c5PCbnRr9aDluBby0UU=;IKKt9ewvL05T0Ya8SpYO9Q=="
+secured: "Z04XBUAz3cYWvfOzX7yHTEJpuM61cZhRB45Dw7ayBBNLsDhgGaiwGbu8zLanUo5Jqn2QMREgH/bk08j3Seq/5MC5CV8/powB80SYgpPk4PRkQxo3TnRk4dMlui1SEHkxel24A4Klsclp9OUMM6V2A6BR3U3DAkrecTmb9OrizFy2utTXKn1xmWxZKcSxq8/SnT62h7W6QOab+aJM5S9lnCoReW5dPIqWmHYLkMj2QUj8wrHi6tX6cWPqgGTAUCd44j+gdM86grg2jD5qs1ShAU3dQVCeDt2pbMURomYQhN3kIDPrCccqO7dsLWUfYHnnngJKO8EPyMUrbWMDYfD4NUS27GVAM0LsczIDuqZjLjk=;TuhnegH57vMth0f8FauzLQ=="
 ---
 

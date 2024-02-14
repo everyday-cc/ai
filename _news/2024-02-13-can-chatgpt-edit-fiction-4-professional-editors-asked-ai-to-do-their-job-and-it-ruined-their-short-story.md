@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Can ChatGPT edit fiction? 4 professional editors asked AI to do their job – and it ruined their short story"
+    excerpt: "Writers have been using AI tools for years from Microsoft Words spellcheck (which often makes unwanted corrections) to the passive-aggressive Grammarly. But ChatGPT is different. ChatGPTs natural language"
+    publishedDateTime: 2024-02-14T02:44:00Z
+    webUrl: "https://www.econotimes.com/Can-ChatGPT-edit-fiction-4-professional-editors-asked-AI-to-do-their-job--and-it-ruined-their-short-story-1671388"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 38
+    images:
+      - url: "https://f1.econotimes.com/2024/02/c8o0t5t1lv_th_1024x0.jpg"
+        width: 496
+        height: 328
+        isCached: true
 
 secured: "xyJT/2wWs/FTnGfn9wRQ7SSwsfc3Zo6pyZq9BleMY7jpuBbtGgX1k+kJHziz628ISAhOVdvmDBjF6ypmFVWZ6edknxc7rZyUTxBaCSiwXEreWn3pt529L6qBww0403hRXZ/VjYccY42rs23RYuDqwE3Cq8rMTtLEcXAaPLkLEdQhq1tVJS2Vpp4njsn5dsLY5uPJ4yEuE6lx6sEE9S0BOBd+acOSKRFSS6MkYB0GFmvig8jOgt/oRTMZ11QQyUE4cB4bdfFpIaSE4fx7RdojpJG+231pdGx49Hrd+VYN/AeWfCIGIz35BXjE/PZ5s+waO9uI020DxmPUaNrBdPuHiftSFBbiSlCPkBoctY12KiGOciMmwocaGO8ljtLbywSddJnov7gvSCAY9QiIB66HMZM6+5J5wonq7l3Xe7i1KRAPvpdWrGGaTM+exqDLkz3hvfI7P1KvmyQhsABbYutlnZ82juyGC3wTvJjyGjhQRRtFYm73+lZfj6jGgdLbEthEdrjqU6eSm/YxO5krZk8d3Q==;uZK5rzxnFnzBBbGmTp+zQw=="
 ---

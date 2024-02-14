@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 480
         isCached: true
-  - title: "Investing in emerging technologies in 2024"
-    excerpt: "The rapid growth of disruptive technologies such as artificial intelligence (AI), robotics and automation, and cloud computing has presented significant investment opportunities. These ..."
-    publishedDateTime: 2024-02-09T03:51:00Z
-    webUrl: "https://www.aol.com/finance/investing-emerging-technologies-2024-085105572.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 24
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/NRdXdnawJ4UWBtRytoIg6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_bankrate_605/de6bae1944c99b5afbc769cf37cd3d33"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "How Technology Is Changing Financial Advice"
     excerpt: "The use of artificial intelligence (AI), machine learning, the rise of blockchain and cryptocurrencies, and myriad app-based platforms are reshaping financial services. Newer technologies are ..."
     publishedDateTime: 2024-02-11T18:04:00Z

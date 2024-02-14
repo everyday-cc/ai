@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-heal
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
     excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
     publishedDateTime: 2024-02-13T13:05:00Z

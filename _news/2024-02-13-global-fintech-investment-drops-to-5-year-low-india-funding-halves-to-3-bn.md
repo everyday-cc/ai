@@ -95,6 +95,22 @@ related:
         width: 785
         height: 530
         isCached: true
+  - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
+    excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
+    publishedDateTime: 2024-02-14T03:57:00Z
+    webUrl: "https://tech.hindustantimes.com/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 35
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/14/1600x900/IMG-20230204-WA0011_1676537454810_1707882286694.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How Mobile Technology can help the Fintech Industry"
     excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
     publishedDateTime: 2024-02-12T10:32:00Z

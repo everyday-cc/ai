@@ -102,6 +102,20 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 64
+  - title: "Nvidia’s New Perk for GPU Owners is An AI Chatbot"
+    excerpt: "Nvidia has released a demo 'Chat With RTX' AI bot, that leverages your local word documents to give you answers to queries."
+    publishedDateTime: 2024-02-14T04:42:00Z
+    webUrl: "https://gizmodo.com.au/2024/02/chat-with-rtx-nvidia/"
+    type: article
+    provider:
+      name: gizmodo
+      domain: gizmodo.com.au
+    quality: 54
+    images:
+      - url: "https://gizmodo.com.au/wp-content/uploads/2024/02/gizmodo-6.png?quality=75"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
     excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
     publishedDateTime: 2024-02-13T17:32:00Z

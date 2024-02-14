@@ -199,12 +199,12 @@ related:
         isCached: true
   - title: "Responsible Use of Artificial Intelligence"
     excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
-    publishedDateTime: 2024-02-13T22:21:00Z
-    webUrl: "https://www.databreachtoday.com/blogs/responsible-use-artificial-intelligence-p-3561"
+    publishedDateTime: 2024-02-13T21:38:00Z
+    webUrl: "https://www.govinfosecurity.com/blogs/responsible-use-artificial-intelligence-p-3561"
     type: article
     provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
+      name: HHS
+      domain: govinfosecurity.com
     quality: 37
     images:
       - url: "https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/responsible-use-artificial-intelligence-showcase_image-5-p-3561.jpg"

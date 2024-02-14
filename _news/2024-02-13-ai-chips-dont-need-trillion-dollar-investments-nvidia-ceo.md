@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
+    excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
+    publishedDateTime: 2024-02-14T04:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 32
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Bennet Investment Limited Embraces Artificial Intelligence To Identify Trillion-Dollar Opportunities"
     excerpt: "Advanced Data Analytics: Bennet Investment Limited will harness the power of AI to analyse vast amounts of financial data in real-time. This sophisticated data analysis will enable the identification of emerging trends, patterns, and investment opportunities that may lead to trillion-dollar valuations."
     publishedDateTime: 2024-02-12T14:01:00Z
