@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "Sam Altman wants to raise trillions of dollars for AI chip initiative"
-    excerpt: "After disrupting the AI industry by launching ChatGPT, OpenAI’s Chief Executive Officer, Sam Altman, is now looking to reimagine the global semiconductor industry."
-    publishedDateTime: 2024-02-09T08:13:00Z
-    webUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/11/sam_altman-100948715-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sam Altman wants up to $7 trillion for AI chips. The natural resources required would be ‘mind boggling’"
     excerpt: "Yesterday the Wall Street Journal reported that OpenAI CEO Sam Altman wants to raise up to $7 trillion for a “wildly-ambitious” tech project to boost the world’s chip capacity, funded by investors including the U.A.E. — which in turn will vastly ..."
     publishedDateTime: 2024-02-09T11:21:00Z

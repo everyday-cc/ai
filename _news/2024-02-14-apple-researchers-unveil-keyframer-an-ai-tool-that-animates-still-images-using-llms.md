@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-14T01:05:00Z
 originalUrl: "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/"
 webUrl: "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all"
@@ -27,6 +28,6 @@ images:
     height: 672
     isCached: true
 
-secured: "wq5FbErEXE87QN/AldaxlLCb18uFSVZXlDLWOVmfO/4wV/qf+/KwSyJn2+nxh6ZQWD1E8ArTQioFGbBprOi+zmLiW/ffa8TU2ufufVdHof099iUXTxQ1SOcyzFKNFcwENpqkyEBiU2uNhAaUAZMu3XccE+2foqjnooeQCzak/nrQhcnUnxQB9kaM9oseboVrfENwuImCWzClcWSAywp0AmGAso3rHANhwDBAAKytydtP0L2QbRf6mWtKNs4MLML84VpzkxdjPjrN24fZm8nTwY2oKvWumMzHSvlDMwlwGkey9oXJu3Bs5ovX7wdQ0oesR9xAECcJgZGtiRbj/vaDaX978qDlwjjMEltgQKOy+x8=;0CwCKPbGZPGwLnY8WD/nvg=="
+secured: "semghhyLX+ZAMBZJO6gnwRXmbfxKrDJ/zJlHusptDhyAe9KN8T7cjrOKotJuDT7+JSnv934S5Mof7WZg/pg9BwYKFT1n/zu8UxlCnl1Erb0VsNnjD+ZuJtU/F4B52l7jAq5jZ7OG9zRKHtdeF1pDp/9+62MDPvfDCyX4ddRxiUHvkR1ZIGc47Jd2rbGeQC7AVXXtO9r1ZkJg1yIqgQpe/afzLVR7IObMbaVuj1nlMu/a9wyHeJ3aGHJmm+ddXj1mDkfXclYRmwDCqg+DCBfRzbabu1bMcl+ojP/A+O5xmcmrzzPSCj0Vh6MOOtml0T8leF0f1kblmkUepAMB+BkW03yr8CVPlbEeBg+pch1kJT4pGlcAeKV1whTxloykL8U4/pYD9Vyx8+eeSxuBdXM2MBR//E3Z+eCZpq7riRk/FOSGvY36ELTkirMkrF9Z8faR1PGvlfD8mANFISDaqzFkNwhxIlxEQzCKrBYyWjQguhVZUYSl3vplYw9Ij+6GDLQS6Nkjt9hcXzqXjCGWpKGoEA==;8Fy2JUAGBcDUWke89pbUFA=="
 ---
 

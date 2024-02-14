@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-01-gms-self-driving-car-company-cruise-lost-348-billion-in-2023.md",
+      "title": "GM’s self-driving car company Cruise lost $3.48 billion in 2023",
+      "excerpt": "(Elijah Nouvelage/Reuters) SAN FRANCISCO — General Motors-owned self-driving car company Cruise’s operating loss totaled $3.48 billion in 2023, a staggering deficit that comes as the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2024/01/31/cruise-self-driving-company-loss-gm/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2024/01/31/cruise-self-driving-company-loss-gm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PKBUN4PVSHVIVQB4XST5LCFM34.JPG&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T21:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-aptiv-pulls-support-from-motional-robotaxi-joint-venture.md",
       "title": "Aptiv Pulls Support From Motional Robotaxi Joint Venture",
       "excerpt": "As such, support in the auto industry has waned, and the projects inside most companies were downgraded to focus on driver assist tools, or at the very most a freeway-only driving system ... California (including Apple, Baidu Apollo, Auurora, AutoX ...",
@@ -852,6 +895,59 @@
       ]
     },
     {
+      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
+      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
+      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "publishedDateTime": "2024-01-31T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-artificial-intelligence-in-2024-what-it-has-in-store-for-us.md",
       "title": "Artificial Intelligence In 2024: What It Has In Store For Us",
       "excerpt": "The end goal of AI is not to eliminate human intervention and automate all of your tasks, but rather to complement your business processes and offer numerous advantages.",
@@ -1133,92 +1229,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-new-ai-model-designs-proteins-to-deliver-gene-therapy.md",
-      "title": "New AI model designs proteins to deliver gene therapy",
-      "excerpt": "Researchers have used an artificial intelligence (AI) model to redesign a crucial protein involved in the delivery of gene therapy, a technique that employs genes to treat, prevent or cure diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
-      "originalUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/gene-therapy-chromosome-genetic-brain-disorder-x-y-chromosome-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
-      "publishedDateTime": "2024-01-31T07:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services.md",
-      "title": "Jio Brain is a new platform that uses AI and machine learning to create new 5G services",
-      "excerpt": "Jio Brain is a new AI powered platform that uses machine learning and offers services like image, text and video generation. Here's what we know so far about the newly announced service.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2024/01/Jio-Brain.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
-      "publishedDateTime": "2024-01-31T05:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

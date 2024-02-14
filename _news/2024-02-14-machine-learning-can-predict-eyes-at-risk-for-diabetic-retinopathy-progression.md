@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Machine learning can predict eyes at risk for diabetic retinopathy progression"
+title: "Machine Learning Can Predict Eyes at Risk for Diabetic Retinopathy Progression"
 excerpt: "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology."
-publishedDateTime: 2024-02-13T19:13:00Z
-originalUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
-webUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
+publishedDateTime: 2024-02-14T06:30:00Z
+originalUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
+webUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "S0MQ8MyqA2YZXv9MjIZM5GWWhYDjH2mUC3+7SMvAq/3z3Y5unOm/HXT+ElUrdoUUHL/Fi6B5jAbw5BQFoIoXjblRHLws7LOAd06l3jANr0Lmypude05JfwpiMkSXdV4ccX9mJOOyKJ15u8yHmPzznE29oGL1OfQAyH7ZB8i7fzX8oCzYDgjxbxxLAZRacF7OUW7dEmJ6yFCtRrre0fYmounHMoqKepspWSydsuaCtYILH8lqrQZFia5zysUlo3Rou4clvf4ArPb8SAW2DaTHY8HaGKBrGM1FDvL7tGkG5TrhWCDSgNCrrdTmIYjWE1/3BK8Z9qeTFjIGjCSTjOM//tw5RROcMWJMJTL+M17g+LZRbT1aDEyPKTYhEhqZMUgYCCbrL4GgYuukYfb9z9zD2ge1mv96juH5N3N8P6sk0u98T8eGGqlG1PksXtEXhkX6v0mGpPdrF1QrdM+9VGFKW3HRiTWIAgdLFqtTxC/ziompqreZVZp0GL8li5Sb4MjbsCtKmF9ISwjTrLzcEtw38w==;QgJaLAukWXWUMeymOri58Q=="
+images:
+  - url: "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707892244.jpg"
+    width: 800
+    height: 490
+    isCached: true
+
+secured: "oJBPyxCyEaiyREf/l0N/5MioYhTuVdrS0yPQxq89wlqL/aLI1FM3zhDozfZ2t3cbwnOswUNIv1hbkIiHvbhmVbdqWXieDcRzuO6+S3TOGx4UlKJW35x+FjZYbcvIHl69+kcZUj/np5sTWODc4KMQgAD5FyMDt01qXbBkdMsieDdStdPj55eKQCBGtjSNXiOiyMPACWjvhyd5b8PDAJsYJVccEyQyofgPhKIvWmq5HxzRDTjPYpniYowhzfniL9Ika0tpGPbjlpbPApmwgxYqIURwX8r8A6ravdSKvK3oXlEua577OdUahIFKX9pwjBK9DHzSXvnd2dGbLdapJnuXVIWSu/ClcCb+OPENNViNfo0=;bBGfR1VnxED66taKnhUuwg=="
 ---
 

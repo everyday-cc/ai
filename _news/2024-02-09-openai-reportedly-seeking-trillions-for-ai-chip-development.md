@@ -35,19 +35,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T22:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+  - title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
+    publishedDateTime: 2024-02-13T22:00:00Z
+    webUrl: "https://www.stltoday.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_2dc670f8-1c8f-5c86-b4b7-63b651a01087.html"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
     quality: 44
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-        width: 506
-        height: 337
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/dc/2dc670f8-1c8f-5c86-b4b7-63b651a01087/65cbf1bb1b3d8.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
     excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"

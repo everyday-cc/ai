@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/e9/6e95c66f-312a-572f-b8f1-457ca1730da6/65c649cb7df31.preview.jpg?crop=1612%2C846%2C0%2C203&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google Bard is now called Gemini, Gemini Ultra 1.0 launched"
-    excerpt: "Google is rebranding its Bard AI to Gemini and it is also launching Gemini Ultran 1.0 and a new mobile app, along with the name change comes a paid"
-    publishedDateTime: 2024-02-09T07:20:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-bard-is-now-called-gemini-gemini-ultra-1-0-launched/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google plans to fix Gemini’s early flaws pretty quickly"
     excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."

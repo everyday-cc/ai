@@ -1,29 +1,29 @@
 ---
 category: news
-title: "The World's Coral Reefs Are Bigger Than We Thought But It Took Satellites, Snorkels And Machine Learning To See Them"
-excerpt: "The world's coral reefs are close to 25% larger than we thought. By using satellite images, machine learning and on-ground knowledge from a global n"
-publishedDateTime: 2024-02-14T05:49:00Z
-originalUrl: "https://menafn.com/1107849240/The-Worlds-Coral-Reefs-Are-Bigger-Than-We-Thought-But-It-Took-Satellites-Snorkels-And-Machine-Learning-To-See-Them"
-webUrl: "https://menafn.com/1107849240/The-Worlds-Coral-Reefs-Are-Bigger-Than-We-Thought-But-It-Took-Satellites-Snorkels-And-Machine-Learning-To-See-Them"
+title: "The world’s coral reefs are bigger than we thought – but it took satellites, snorkels and machine learning to see them"
+excerpt: "The world’s coral reefs are close to 25% larger than we thought. By using satellite images, machine learning and on-ground knowledge from a global network of people living and working on coral reefs, we found an extra 64,000 square kilometres of coral reefs – an area the size of Ireland."
+publishedDateTime: 2024-02-14T03:56:00Z
+originalUrl: "https://theconversation.com/the-worlds-coral-reefs-are-bigger-than-we-thought-but-it-took-satellites-snorkels-and-machine-learning-to-see-them-223322"
+webUrl: "https://theconversation.com/the-worlds-coral-reefs-are-bigger-than-we-thought-but-it-took-satellites-snorkels-and-machine-learning-to-see-them-223322"
 type: article
-quality: 16
-heat: 16
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-02/14/TC_42092image_story.jpg"
-    width: 960
-    height: 540
+  - url: "https://images.theconversation.com/files/575519/original/file-20240214-20-mjiqz2.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C4607%2C2303&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "L5f3KcgWtYS9zTQscmU1oORDCzjl4Rwq6HP6xz2Hq9+tN/IufKbocq8XODR2rvT4aANwHMflpCNzYhuxlonZ9oe2O0c2qiOjz/XMApyc9PthSoWVwKqXs1zvXEyMdle13DNO99psJ2XTlmD+NDdA8T9wK1vQAJBCgDmbFXTZsR2JxlqasFnnWlq/AIBLzxmg6mZUbc06bHXLYc9N9aftHLdQMYoYqBE8yYqeXGLjMlnaWJM19lsqz2bILIDHqP5xyCj0mijznesAKQruHA3E/9F2fkSgx0+NEMvER+Er8RFl1pIURSFvgy+MyUT3KN6XjpzDBWk3VV3hZqSZuRHJ5GQyYB3gRqXdcgtCb9ZtYOI=;bUB9iSGMotRLVa8cQDkdhw=="
+secured: "lGGXFDP4YPjORF1IDZxLM5AABs9ey9htKAbH5QkbXpOU+UeZdHI1aclhRxyghrEiDMufJmF+pL2DcEIuu+qSzTBHknWtluxwcaJXdFRYUGJww/IgiBu2WxJC4YPZ+i+nDbPQ8jr2WgEqQJUiCn4rvNc3bAScvdq0kLKE5pOZ9iC47xtd3SsEfqUt2l7JZqZcWTOlqPomDGnGaxiKAaVyEdIG3cS0KaSLE1jsupsHNsLOQ1kDH7BdmMeThgn5axrEbMJRM9x671nMGL/h85ctrWiSgRiEWszKxbfLFaIw9X5WcilbyGQyOzqGnX0e9SfAsHg2L4vJWedvyAo1F28KaszSvNDDpkYrp/GgK9eKLaI=;pSFa3ZI1xePNtDb83SY5vA=="
 ---
 

@@ -57,22 +57,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Sam Altman wants to raise trillions of dollars for AI chip initiative"
-    excerpt: "After disrupting the AI industry by launching ChatGPT, OpenAI’s Chief Executive Officer, Sam Altman, is now looking to reimagine the global semiconductor industry."
-    publishedDateTime: 2024-02-09T08:13:00Z
-    webUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712684/sam-altman-wants-to-raise-trillions-of-dollars-for-ai-chip-initiative.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 74
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/11/sam_altman-100948715-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
     excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
     publishedDateTime: 2024-02-13T17:00:00Z

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-publishedDateTime: 2024-02-13T22:18:00Z
-originalUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+title: "OpenAI CEO warns that 'societal misalignments' could make artificial intelligence dangerous"
+excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI."
+publishedDateTime: 2024-02-13T22:00:00Z
+originalUrl: "https://www.stltoday.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_2dc670f8-1c8f-5c86-b4b7-63b651a01087.html"
+webUrl: "https://www.stltoday.com/news/nation-world/science/artificial-intelligence-technology-tech-ai/article_2dc670f8-1c8f-5c86-b4b7-63b651a01087.html"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Boston Globe
-  domain: bostonglobe.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-    width: 506
-    height: 337
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/2/dc/2dc670f8-1c8f-5c86-b4b7-63b651a01087/65cbf1bb1b3d8.preview.jpg?crop=1665%2C874%2C86%2C265&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -71,6 +71,6 @@ related:
       domain: wgnradio.com
     quality: 24
 
-secured: "SmV9s4mZxlSZkCOGwc3LN7mNMH3WJPD4wNquYb3cYtx3QTFv6i1VmTFGn01EI8w0NqpekoW2Utzq2RJCc8vKnubZCxuIovZjcTcQAst8dZnufmwpr2RkWvusXr+qIAvm/fses16YAvbJNH1fGNWwsgnkMcOj8MqBkp+ZIWRqPuMRUH2ObSXgsALkywIThmxMuuDqYOfN2yo+H1rrkMG/EuDfd0/onZT2gmnpzWPsky1IslBmNENMDsCDc7fVvPr/Vzq+B8cDHyOOjDUFUtBRwuveokWAtGSgJA+fbdt5/MnuMLJSQgUoXMFCUjT+AcZKagOFq33X6Tv2y/ihP2C2IUq5H6uaKuadag0818PTpZzteG30GjiyoYJY33a2RpvUy1hFTNm8VeYTLMrm3pz1h2+MjS2+b78YhGqtYs1yL4bgbgdqp+j5UAl3kZ3eQBOuIIQcGFIV1oULiy65AH2klSmCAyvfW12pWIRcCevadjnt53GLL6ugkO7Z0rbHzZ6+4GJRyPSJSywG1r51ahszQA==;GSyg3qoZM0urIR8ZI4c1qQ=="
+secured: "vaZJqS+9SH27Z6kpwK5GRmQDB+/QDgITpQpg0FnPAFXwm2jJZTpHhAi8kI/I5ucqZ5760aJm44oBLzcJrXCJ9Ld9Nw+kEmItCcpiXpAbgYWwR1u7ggBMwaHQc7eF83f1k9zmX7EdPHiBG588MyijbdKaFEElknAB4HOSz0qSgQkUmf+4ZYq8EY8Lk0tspO0JgtbDRDTTqBBE3KIBl4Q/Qu9jI1XefZ/ESuhIJ+SClkTvHYph1sYxOcKRJEijb8n1B2R9qBdQkOiKrB+r2sx8fpmQuFdsKZm84r73sL1rREFxP8H4tj2b4yVHIE0rBf5eiI2ocu1/1l55JgOmnD0DXxXaVKeCritU+AMCNFHd/OY=;TuNGp1YZkJ86T3fmcupGfQ=="
 ---
 

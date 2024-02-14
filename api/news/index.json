@@ -149,7 +149,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -500,7 +500,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -549,17 +549,17 @@
       "title": "The Enduring Absurdity of Artificial Intelligence",
       "excerpt": "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
+      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=7KgU3g4P",
-          "width": 320,
-          "height": 319,
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK",
+          "width": 1528,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -567,8 +567,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
       "publishedDateTime": "2024-02-13T19:53:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -583,6 +583,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

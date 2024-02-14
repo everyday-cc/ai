@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/"
 type: article
 quality: 113
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Akamai Bets on Edge Computing to Take on AWS, Azure and Google Cloud"
+    excerpt: "Akamai aims to establish 25 new edge locations by the end of this month, 100 by the end of this year, and scale to over thousands in the coming years."
+    publishedDateTime: 2024-02-14T08:45:00Z
+    webUrl: "https://analyticsindiamag.com/akamai-bets-on-edge-computing-to-take-on-aws-azure-and-google-cloud/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/Akamai-interview.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "5vfSA8qzDSCXX6mMwif2PISsk4Msv2Qt5n7ICG4VyaT28iXtVlNgNDatz/j1YLeqw8NQBsZPEFa3yoFtTa1kHpdM/rKixezZ8b1VyaC7wZC8GLtj/myK89S3RNPT9wrWdnQju1RzGfDuAeJoY9eug9NfPHqQ1gKexV0XUfXPG4tP+YIxd+ZHx/JSkVrsJc0YYkUNR+w5NVDdgbG7Y53aZgVlP0Sasp8OKxadem5vJYu1u8FlrtBCZxYv9FhRq/+NiSnrMn7L/wDJ+nTWfiI5wLsQnsL0GB1fOGKb9gDSx25xHZlthhIBznxH2HUbMXnhowTt4DOh3EWyv0/DB5QRj0LFR+Rje9Taru7x7Zo9WzQ=;H71Aq07EM2Wk7sLvZMKWhg=="
 ---

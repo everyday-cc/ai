@@ -1167,21 +1167,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-01-how-indian-farmers-are-using-ai-to-increase-crop-yield.md",
-      "title": "How Indian Farmers Are Using AI To Increase Crop Yield",
-      "excerpt": "Saagu Baagu shows AI's growing role in agriculture, helping developing-world farmers achieve sustainable and profitable practices.",
+      "path": "_news/2024-02-01-is-amazon-prime-still-worth-it-all-the-pros-and-cons.md",
+      "title": "Is Amazon Prime still worth it? All the pros and cons",
+      "excerpt": "Bad news, Amazon Prime Video members. If you haven't noticed, all Prime Video content now includes ads. If you're a Prime member and you'd like to opt out of viewing the ads, it'll cost you an ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/",
+      "webUrl": "https://www.cbsnews.com/essentials/is-amazon-prime-worth-it/",
+      "originalUrl": "https://www.cbsnews.com/essentials/is-amazon-prime-worth-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bb73f8a637e4b346f8873d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 666,
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/28/33d59574-309a-4e26-9bfc-0792c6b6c3cd/thumbnail/1200x630/91bf4b8629ed72456940318b5fb0f006/cbsn-fusion-zulily-closing-amazon-prime-video-change-tiktok-passcode-tech-news-thumbnail-2559934-640x360.jpg?v=b776bbc665e28d385e06ef913c5ff9ae",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1189,23 +1189,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/01/how-indian-farmers-are-using-ai-to-increase-crop-yield/amp/",
-      "publishedDateTime": "2024-02-01T10:41:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T11:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1214,6 +1205,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -70,6 +70,20 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
+    excerpt: "On Oct. 2, 2023, a pedestrian hit by another vehicle was thrown into the path of a self-driving Cruise vehicle and dragged 20 feet (6 meters). California subsequently suspended the company's driverless testing license, and Cruise pulled all its U.S. self-driving vehicles from testing."
+    publishedDateTime: 2024-02-12T14:30:00Z
+    webUrl: "https://www.autoblog.com/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 39
+    images:
+      - url: "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/02/12090446/a_waymo_self-driving_robotaxi_is_engulfed_in_flames_in_san_francisco.jpeg"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Mob attacks driverless car in San Francisco"
     excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
     publishedDateTime: 2024-02-13T01:19:00Z
@@ -126,15 +140,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
-    excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
-    publishedDateTime: 2024-02-11T22:04:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
   - title: "Crowd torches Waymo self-driving car in San Francisco"
     excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
     publishedDateTime: 2024-02-12T12:00:00Z

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
-excerpt: "SAN FRANCSICO: A crowd vandalised and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned company and authorities said, marking the latest public attack on such vehicles in the US."
-publishedDateTime: 2024-02-11T22:04:00Z
-originalUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
-webUrl: "https://www.freemalaysiatoday.com/category/world/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+excerpt: "On Oct. 2, 2023, a pedestrian hit by another vehicle was thrown into the path of a self-driving Cruise vehicle and dragged 20 feet (6 meters). California subsequently suspended the company's driverless testing license, and Cruise pulled all its U.S. self-driving vehicles from testing."
+publishedDateTime: 2024-02-12T14:30:00Z
+originalUrl: "https://www.autoblog.com/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
+webUrl: "https://www.autoblog.com/2024/02/12/crowd-sets-waymo-self-driving-vehicle-ablaze-in-san-francisco/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Free Malaysia Today
-  domain: freemalaysiatoday.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2024/02/12090446/a_waymo_self-driving_robotaxi_is_engulfed_in_flames_in_san_francisco.jpeg"
+    width: 1062
+    height: 597
+    isCached: true
 
 related:
   - title: "Crowd sets Waymo self-driving car ablaze in San Francisco"
@@ -176,6 +182,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "sgTl7QhgZwFG46s1FeQxezDNfpLc90JN++JYW/R0ZhKvnPFpgc/miKWAGf400bRsvGXgFJ3g3nu93yQlTblhY1+Cahaw8nfISzxHFjtZr/gPaKXSTmZJR1kkE0R08NDMZ9zNfEGabJy51NoaaMGGu/NHgW7cT5pxzUxqeSgnjJNghQsp0s4qRZCmTOj8z76y3YOOb1IrXpnbcnB+n1prX7y0NDnodiSg8F30pOhNz8KumcDmUnXlhYnWy07YKNKro0iopG4/g/GFaq2IKDH13P2wpkYPWHlrvCEbqs/DrDQmp21KeqL6YQAkUYxs8RBcT0VXjL+6fLJ9uslPJPrbBjm9UCymrJbM17zLcdxz0kI=;7VMB4kjSCRT8eQX0z9LPYQ=="
+secured: "rfnOVSo+4pdwOYo8horlYh5xROW2Ae/3u4CtAxGy+ioUCCbIXr2h83MSRyCsYFWzabT3wGUpLQBovzCMSq1wb0JVTFNjoKalhd9+JXp754rxZ0IX4inq2lJ1QSJ1NzTXwrUgXAN8BtOsqxE/eNRlZ6FpTdD2448yikKMPj90XVN4AEzFfMv1Z2kT1Rg+7DKCvDUsvns7hL4G8ifR3PZdM9OZGKA/vTFgD5XqR5rDrWlvE4vvrH9OFYqEuIJTMp/Dmr6RvlFH31fBToQ+etywnrWVyS+dTjwp178BIX/q6U91h5Rc+p9APllriXCEtEO7a9qeRvwknhMC2+E5xgqoAZ95bAtsJbgKx3T/j99Tae4=;UIH3Ugr1vWx61W+/n+4C4A=="
 ---
 

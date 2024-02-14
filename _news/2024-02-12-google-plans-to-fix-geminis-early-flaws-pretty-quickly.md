@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google Bard is now called Gemini, Gemini Ultra 1.0 launched"
-    excerpt: "Google is rebranding its Bard AI to Gemini and it is also launching Gemini Ultran 1.0 and a new mobile app, along with the name change comes a paid"
-    publishedDateTime: 2024-02-09T07:20:00Z
-    webUrl: "https://www.geeky-gadgets.com/google-bard-is-now-called-gemini-gemini-ultra-1-0-launched/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 24
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Gemini.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How to Learn a Language with Google Gemini"
     excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
     publishedDateTime: 2024-02-11T23:59:00Z
