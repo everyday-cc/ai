@@ -47,6 +47,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
+    excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
+    publishedDateTime: 2024-02-14T19:41:00Z
+    webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
+    type: article
+    provider:
+      name: Campus Technology
+      domain: campustechnology.com
+    quality: 39
+    images:
+      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240214aipcs.jpg"
+        width: 644
+        height: 368
+        isCached: true
   - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
     excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
     publishedDateTime: 2024-02-12T10:57:00Z
@@ -61,15 +75,6 @@ related:
         width: 1200
         height: 749
         isCached: true
-  - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
-    excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
-    publishedDateTime: 2024-02-14T19:41:00Z
-    webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 19
 
 secured: "tiQFDC9bdjt0U/HOLhEV8uC9YF18JFO3VE9Eq1CLVwmhCpFGN0O/8+/9BdI4uzjYb3GKykg/SRr5NRFyk7dcBCq2A9usSybDp+tepiNfMu8c24oCFEniOQdtOFVTHiEz+tUD9SGh2X5y3pi4gWF7IxytAEkWNoZTcWSm6zO7NOZFj/uwJOqrdsdYqsa4XxUMjKYVKLiuD4kGw9QRHs1X/xvj95GemEKm15edQUA/oetZCVaU+XJIcQReVYBvgPfwTujqkCw/xnUe/H0fDCq6N3VU1qa15gR7P5YkbpDCa/Xk0ECa5T2WJVKfDqLGVto/BbWVQmxWxP0DHYpRTUinAYA07zJp+XmcJuwSwR7xpa8mi3/ENyFiAZAuXfCK0AvqFRfOKFjmuh1HInev5ERtRYbmiopHREXJ7i9WFY9O9BsvG/ugUClRzN5LQODXhoLIREAxmlTNZpZ2X8amxHx6w0TZorYMfC3elK+VbM1JaK1T2C3oOGWcH9tiaFzdzvGnNwvtB8SWZ9vb3QCApwfi9Q==;foJZt4meBJJtzI4rtrsBvw=="
 ---

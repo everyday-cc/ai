@@ -8,8 +8,8 @@ webUrl: "https://economictimes.indiatimes.com/prime/prime-decoder/can-machines-t
 ampWebUrl: "https://m.economictimes.com/prime/prime-decoder/can-machines-think-all-about-the-race-to-achieve-artificial-general-intelligence-/amp_primearticleshow/107697516.cms"
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/prime-decoder/can-machines-think-all-about-the-race-to-achieve-artificial-general-intelligence-/amp_primearticleshow/107697516.cms"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-100452,msid-107697505/.jpg"
@@ -26,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "DPnZGZbRpeXfSze3TEp1kh/K1LkgA9lIl9HQIa9+mqZYwZRTM24AYvmEGc/segUYGce1u1DPM/vSmUPKuqHszQRg9lVo0hyOEStKNhxUsJ/NovOm1UhTdQhO4hJT/xpv2BzO2BOj5j6kehEKYGNzi8w8mmNRZzsA0I9O8imbdoyv2lySs4FJVb2YYFnNwGZ36wM0ZHEA6O4KDoDSn6jdlQRYNw153Ghm237LMfnzYhYqZGd9cZLN+sU4PRzJocZj9AAD3fv8gDo6TTDCLQFX+6RTP4AIQ/0wdDq5yPDc3z4tq8Wr786YHrbe+RbXEnYT4mW6BnutwwlikAhTG9rzZ6ocJ6I1PsHis4dMsfuH7jI=;w7lwb+rbikIdPbtm/9Wzsw=="
+secured: "kjrmLzWPTgAWqq27tsSfRNitXvdjRpKCPjJrw/tZFmNcRDuqpYDRGZ0Za60QgIOUeS90JGD3IId70gd3GTfBDX4e8OEdFR2gACQws4H+jwtNwmLlnnLw1uifw6NgXTzyXuH5zzFZkYjMfjN1vdNf8kR+21rekQL8d6he/88gRkq4tVjdYtkPvpHnri8AKq5o5fXNOx7g1pIDN/zol8panTWCQFq2Qha5BzgzTY96Mh3tYhTKuYKmQCHx6G5Ph4fTiNVXYMbTWT4k+K0DIn4FStgs5aliglt23z/EEXlRIYVOMk3g8oQxGKw/QhpLxQxGaWHAkdqemPKzO3DwrtAYhTUIapjCAImn57/aWMhkXYz7fxKhp/NDzuDedcsfw7bpLuO/Ica0+ic/PhPTf596KVgt/6rpsc+iyPrnlUYJhAGx3bdnlVEkpQI1gvbBgihIpHgEjHsJ6xn7ms/79oH/TWvqhUr4rS96GosWLvLUlGw3VmhF45X0MIiJQs11eKVooy5TBO2DVhe8HUH1hvpsng==;oZ7GxQjBMTcrxwgTtaCyfQ=="
 ---
 

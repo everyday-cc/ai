@@ -59,7 +59,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ"
         width: 1600
@@ -74,6 +74,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
+    excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
+    publishedDateTime: 2024-02-14T00:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
   - title: "Australia’s Craggle releases AI tool for refinancing home loans"
     excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
     publishedDateTime: 2024-02-14T09:22:00Z

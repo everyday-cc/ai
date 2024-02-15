@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Sonata Software collaboration with AWS on Gen AI"
+    excerpt: "Sonata Software collaboration with AWS on Gen AI - Sonata Software , a leader in Modernization Engineering, today announced the integration of Amazon Bedrock"
+    publishedDateTime: 2024-02-13T18:36:00Z
+    webUrl: "https://www.siliconindia.com/news/general/sonata-software-collaboration-with-aws-on-gen-ai-nid-227860-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/438a7PGM.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
     excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
     publishedDateTime: 2024-02-12T13:21:00Z

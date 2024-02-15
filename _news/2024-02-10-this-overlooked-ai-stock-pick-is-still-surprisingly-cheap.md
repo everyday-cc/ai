@@ -1,10 +1,10 @@
 ---
 category: news
 title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-excerpt: "And remember Watson? Well, it's still alive and well at IBM. There is the Watsonx.ai studio, which is a platform that provides businesses with large language models (LLMs) where they can actually build their own chatbots. Another product is Watsonx.data ..."
-publishedDateTime: 2024-02-10T10:31:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/DIU23/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+excerpt: "IBM has focused its business in recent years on growing its hybrid cloud and AI offerings. CFO Jim Kavanaugh told analysts during the earnings conference call on Jan. 26 that software and consulting now represent 75% of IBM's revenue base, compared to 55% in 2020."
+publishedDateTime: 2024-02-10T07:49:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDQ21/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDQ21/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 792
     isCached: true
 
-secured: "H/vnhaaM1RYiW1dh1wM+eOFG8NRc+RYptin0JxME/eDtrVzmjCErH/cTL1t2DR8+P69IOJszRd7CEn2vDXnFCkki7UelcATeOxNRJIvkvnuYoaBULX6VIL+mXVu46Ca4J02JKqYJtc5MSV2VdwrMD48i+UMqWt8abnpogE3l5THU33KJ43WBB6eahTwUNDbBRezNspGWTI3oWnFp6NA6OjMMhZlG60F05U0z8IBBzhkdL5uz6QyNPLpLPbkyTgeofJUQjoeFoeGbdGy2UAalHzIhdjj4Qo/hW6qkWYQsJ55i+Y94qod0NYvY0MdDYEVqGaSt3AVRg978n5pY1x3pQDMnMEgQ+RU06Je/j4EUgAo=;qUAg2O0qMbY52LxkAGM96w=="
+secured: "xOXZWUuOjEIL131CbdEdmxpM2nm2hmHgMbqgqIGPl52h21cC2Ny8eullwmDfc5s2+Og5N+3VvY0fB1IjbxYsox6Xhkn+UxvYypfJrMeegrMxzO2wv33cC/OVgO6owC1Am1qaiKFyFjE9KqK2vjbcmvHL8JkpjqAi/Fddi6Gq+GLBIgca5RQzoG5JyvezuXhYlbu9zMyFgrhXcIL86NvbFh2KJs00PhIbdqQnGNF71hynjF62EDDq/7nXbtk+OCZpTCjFzdq4bY8lfHMTinVYLajiypRICqDtuySEQyAfItT//jT4nJbDrem3k5SYvO78QMRqqBDonXHgajMa81iJGYkEO5CDK/NgA7dukNpipEU=;vkEhkBHPjXRgMgLQNN/7UA=="
 ---
 

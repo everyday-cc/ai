@@ -32,20 +32,6 @@ related:
         width: 3024
         height: 1701
         isCached: true
-  - title: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots"
-    excerpt: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots - SiliconANGLE"
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/14/draft-conversational-ai-startup-rasa-technologies-raises-30m-combine-llms-traditional-chatbots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-09_081644969.png"
-        width: 793
-        height: 457
-        isCached: true
 
 secured: "Gd32gQbGM9BChDto6ZCqj1Ze/hi64fFS1ck1OD7fuq1IWotxxhyyBixMHLWp6kduUREcLMQvpmlqMgVRE/SaP4QUXmrAxC6ey6VBtYEiGCGBaMFDg9MlcopzL/Yb0qu8MdwzWxa6Ls7ia2akpXkWFF2yjeFBzjwf6WqOy03Xnzw1OZTlsn6Ps6LHEY6LDLeXjqFeXvYlSSOqgClYpD/axwwnqFBJlEa0C2OHDD4qf3W+SpxDMQPqXpPTpr+7H5s3ccZTtIOVVX/IfDmP+RZwbTfPW/Iu61c+TJz38x76YH0vzLmBJ1S26OtKocR5b2xhKSMtbmTyMugRhBjhSg30/mQdz1fqDyih4+gUVI2T/CY=;2oeDbqNEe4Ns7T/Gq32qbg=="
 ---

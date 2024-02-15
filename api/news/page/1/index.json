@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
+      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
+      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T02:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
       "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
@@ -54,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -96,49 +148,6 @@
         "AI",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai.md",
-      "title": "Gun violence killed them. Now, their voices will lobby Congress to do more using AI",
-      "excerpt": "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
-      "originalUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/ff3b8f0/2147483647/strip/true/crop/4032x2268+0+378/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2Fdf%2F1bc3d740417a9d73696e6e2219b2%2Felection-training-wake-county-boe-020124.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
-      "cdnAmpWebUrl": "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true",
-      "publishedDateTime": "2024-02-14T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WUNC",
-        "domain": "wunc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -500,6 +509,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants.md",
+      "title": "Rasa lands $30M to supercharge customer service with generative AI assistants",
+      "excerpt": "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
+      "originalUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-26-11.48.35-Photo-of-a-robot-resembling-a-friendly-assistant-seated-at-a-spacious-desk-in-a-well-lit-room.-The-robots-metallic-arms-move-with-precision-as-it-t.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T15:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1189,50 +1249,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
-      "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
-      "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
-      "publishedDateTime": "2024-02-14T04:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

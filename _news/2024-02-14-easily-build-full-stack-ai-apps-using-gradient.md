@@ -35,14 +35,14 @@ related:
   - title: "AI as a Catalyst for Self-Actualization"
     excerpt: "Iteration, Cognitive Intimacy, and a Path to Self-Actualization Across history, each age has been marked by distinct technological advancements that have fundamentally altered the human experience. As we transitioned from the industrial to the information age,"
     publishedDateTime: 2024-02-14T19:11:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg?itok=ZXa-GVcn"
         width: 1528

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-14T22:34:00Z
 originalUrl: "https://fedscoop.com/mitre-air-traffic-conversation-ai-tool-faa-dot/"
 webUrl: "https://fedscoop.com/mitre-air-traffic-conversation-ai-tool-faa-dot/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/GettyImages-1478177330.jpg?w=506"

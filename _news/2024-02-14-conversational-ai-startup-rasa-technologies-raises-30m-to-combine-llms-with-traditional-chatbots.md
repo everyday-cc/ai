@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "MIT developed a way to help AI chatbots perform better over long conversations"
-    excerpt: "Researchers at MIT have come up with a way to solve a puzzling ChatGPT performance issue, allowing the bot to talk longer."
-    publishedDateTime: 2024-02-13T21:05:00Z
-    webUrl: "https://bgr.com/tech/mit-developed-a-way-to-help-ai-chatbots-perform-better-over-long-conversations/"
+  - title: "Rasa lands $30M to supercharge customer service with generative AI assistants"
+    excerpt: "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ..."
+    publishedDateTime: 2024-02-14T15:55:00Z
+    webUrl: "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 33
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
     images:
-      - url: "https://bgr.com/wp-content/uploads/2023/04/chat-gpt-open-ai.jpg?quality=82&strip=all"
-        width: 3024
-        height: 1701
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-26-11.48.35-Photo-of-a-robot-resembling-a-friendly-assistant-seated-at-a-spacious-desk-in-a-well-lit-room.-The-robots-metallic-arms-move-with-precision-as-it-t.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
-  - title: "AI chatbots should pay for news, bipartisan Senate group says"
-    excerpt: "Lawmakers are rallying to protect journalism from the potentially fatal blow of generative artificial intelligence."
-    publishedDateTime: 2024-02-13T12:00:00Z
-    webUrl: "https://rollcall.com/2024/02/13/ai-chatbots-should-pay-for-news-bipartisan-senate-group-says/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
 
 secured: "yzC/skyHPMDIZJjr7p3uxnM63fj1NI4gfaXYiTm19wJ1IQtCvhFsgL/yi5B2rJWK3Li1bFYgJqI1HTfSpP7bYZToIgQLZAXYmMgp3xyU87kfTTvHf32f1B5K4OXI6tNE6IuEzSLI/z4mR7Ecjj9u1N8C05XN0qunFqs0lX/r+tzT4L67H8u4RO3P9xugaSFHdhNOPJ+0XMFWsC9L2H5FzeQEVSLxVtS/fHGoL/LAIcm+QjDSftse9yqN6WrlVf88jAlillhVwZnFuqdqmWgMOQq8KuBjWfdD75IadreP0fe6JGwjuTJ5WPWcKS8FqBoiLIpnHC6nEHb+VhXPyia/AhKy/Kh57GBfrVhxyCUzMMs=;BPPbDWnKHtYzcehRjVBWAA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-ar
 webUrl: "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/"
 type: article
 quality: 71
-heat: 81
+heat: 82
 published: true
 
 provider:

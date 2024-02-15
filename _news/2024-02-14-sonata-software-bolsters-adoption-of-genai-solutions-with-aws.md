@@ -57,6 +57,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Sonata Software collaboration with AWS on Gen AI"
+    excerpt: "Sonata Software collaboration with AWS on Gen AI - Sonata Software , a leader in Modernization Engineering, today announced the integration of Amazon Bedrock"
+    publishedDateTime: 2024-02-13T18:36:00Z
+    webUrl: "https://www.siliconindia.com/news/general/sonata-software-collaboration-with-aws-on-gen-ai-nid-227860-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/438a7PGM.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
     excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
     publishedDateTime: 2024-02-13T13:05:00Z

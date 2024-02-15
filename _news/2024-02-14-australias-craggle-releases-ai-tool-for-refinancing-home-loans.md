@@ -70,7 +70,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ"
         width: 1600
@@ -85,6 +85,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
+  - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
+    excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
+    publishedDateTime: 2024-02-14T00:17:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
   - title: "Austrian Dance Station Launches with AI"
     excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
     publishedDateTime: 2024-02-12T21:13:00Z

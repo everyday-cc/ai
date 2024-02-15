@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-01-29-an-ai-opportunity-agenda-for-asean.md",
+      "title": "An AI opportunity agenda for ASEAN",
+      "excerpt": "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2024-01-29_at_11.12.38.width-1300.png",
+          "width": 978,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
+      "publishedDateTime": "2024-01-29T11:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-warning-google-will-start-mass-deleting-nest-hub-features-today.md",
       "title": "Warning: Google Will Start Mass Deleting Nest Hub Features Today",
       "excerpt": "Google says that it is focussing its development resources on the most commonly used features and deleting less popular skills. Unofficially, it is also making way for Assistant’s likely replacement: Bard. The full cull list can be seen here, but it ...",
@@ -1139,49 +1191,6 @@
         "IBM AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-why-are-so-many-robots-white.md",
-      "title": "Why are so many robots white?",
-      "excerpt": "These design choices tend to follow the clinical, clean look with shiny white plastic, similar to other technology products like the original iPod.Kaspar is a robot designed to interact with children with autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/16_05_2020_04_41_08_0489537.jpg?width=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2790601-why-are-so-many-robots-white?amp",
-      "publishedDateTime": "2024-01-28T06:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

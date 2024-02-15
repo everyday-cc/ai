@@ -43,6 +43,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
+    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
+    publishedDateTime: 2024-02-15T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "1UGzvS6velL+vpKa/64nUvbcFOLB/KT2DiyH+BmrBkPkEDXjxEj9VZ315rYyoPCfq3ZJuNb/+zozFJWFKfuC8pVY7ummAGDbeP6Uf7nyt0IuXXRMwu9pKctjYnXs8R2CIficB3kgIyLPwbSo46iNmuONqQ9qHX1ywKcyzEZUa0+Q4ZmwWQHI5acyyuO7r0zAlBdJA789vVnhNXIVTl5h+MjEayNazOQUAG5If/1Ze/rkwQ+bGITltuWxLJm63L2ticezZy5QB5o43ItEkgx5E+3cgBhqWYoGjOSbBJAL0AD99qw3VNNsbxga6Ba7VrkuXeloK/KqNbVwdW4F+coYj09MkA5GFiAn4ND7kIWAAdk=;hV/l0CsvPlMe6LZ6LQwHoQ=="
 ---

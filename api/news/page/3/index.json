@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-openai-chief-says-misalignments-could-cause-artificial-intelligence-to-wreak-havoc.md",
+      "title": "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'",
+      "excerpt": "Sam Altman said the dangers that keep him awake at night regarding artificial intelligence are the \"very subtle societal misalignments\" that could make the systems wreak havoc OpenAI's chief executive officer, Sam Altman, has warned of the potential ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756",
+      "originalUrl": "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article32113815.ece/ALTERNATES/s1200/0_JS305368878.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp",
+      "publishedDateTime": "2024-02-13T12:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-edge-of-network-computing-and-ai-how-ai-may-fill-gaps-in-5g-tech.md",
       "title": "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech",
       "excerpt": "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy.",
@@ -459,7 +502,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -874,7 +917,7 @@
       "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1153,58 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help.md",
-      "title": "The 5 Dysfunctions Of A Bottleneck Leader And How AI Can Help",
-      "excerpt": "Struggling to lead effectively and get things done? Discover how AI transforms bottleneck bosses into visionary leaders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c97bb8e0719829faffe85f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/",
-      "publishedDateTime": "2024-02-12T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

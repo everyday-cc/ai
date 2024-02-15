@@ -3,12 +3,12 @@ category: news
 title: "AI as a Catalyst for Self-Actualization"
 excerpt: "Iteration, Cognitive Intimacy, and a Path to Self-Actualization Across history, each age has been marked by distinct technological advancements that have fundamentally altered the human experience. As we transitioned from the industrial to the information age,"
 publishedDateTime: 2024-02-14T19:11:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg?itok=ZXa-GVcn"
@@ -65,6 +64,6 @@ related:
       domain: geeky-gadgets.com
     quality: 17
 
-secured: "13rMO7b2PwoFG5Q7vTnJdQHxGHxOAIgR711Rq6nt7PksSgKDdh5JHKFktp51AH5UU+p1ucHHENKbuuGFbHI2PLNusoSuqqPkSq6LtiNROVC8VvWWta6o3BFon6PP2qgf3qiVYnBJMEqIV72GdU3w7XvwyxvFvPCmk1r0SfgEdczH7HsrSRrG58C21BZ0gIuheqpykuoMTT8SWYtujRsmDsQDcuRpzUU+nvajnm8W5uGaFFWUgL/YVYHBdHCDwNnTB7metOXuuo6NF6JMW0hJuSrj3us99d6MPuq5kRG/y6AYKfgZRdmUMazT4TSxbC2ol/OW5uTyL4FgJAtvZs/oEzbl6UIFqn+qYaM4bCpRa0FpXvAmyyCveRnZqnZNmO9Xa3FQAMf0nl2+aEZzi2Yjtr0PwQDJ7RXSJs1Ic6zJT2//1s0RYWA6ZxPpi+50ljCwUXpoLp4tZKBhHh9gIAffKrp6UAkRvX6HzkJfAzTfrNQKer1O//VrLFEe6v7RXTVPOD6ozBKK0xgll8kmRXbuhA==;NzD5MvAw83zPcnhlAke4/g=="
+secured: "Q0yIG2tLwJm08LCXlcCem0YfU0ltTGfcXs/I8MBjgu89Way9bRRiSdsNzSs4lTTs0+hHHGw/R0aR4Ab4+ANREyaLhgDMwtY8UkDIyPr9UCDCHmKfccBxr0BhZvq5mka4cTWnz4Au3owG/3LqzspGB2Un2NonwqXig0yOnYnLyTUvUawYZPsAhrnh/xurtK4QXar3d9KK+jj1QkMF0iQWfcWRSJ/FoYaRSJSjiYIVru1yVyy35JGP9v5Dtk1Feac1YjUub7S641valnD36QUv9n/eubG4dalxN8EGxc7Efv/FbrKvaKN0PNL+2YvDIwUfnbbx5EFT4U2IZ8Nh25Grv0H74eT0lMok682/PWZ974I=;Yn3uNfv8HmM5MMNFyH541Q=="
 ---
 

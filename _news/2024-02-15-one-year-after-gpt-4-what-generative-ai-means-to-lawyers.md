@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-14T21:38:00Z
 originalUrl: "https://www.law.com/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/"
 webUrl: "https://www.law.com/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"

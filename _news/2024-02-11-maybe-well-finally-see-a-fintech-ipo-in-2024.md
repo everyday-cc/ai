@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
 type: article
 quality: 74
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 54
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65caa1c68c2bb76dd88fe0b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The Future Of Payments: Fintech 50 2024"
+    excerpt: "From startups enabling in-game and international payments to payment processing giant Stripe, nine payments companies made our ninth annual Fintech 50 list this year."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/the-future-of-payments-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa0ad00dfab63d16ef4f6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1280
         height: 720
         isCached: true

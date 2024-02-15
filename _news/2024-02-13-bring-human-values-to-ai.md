@@ -38,6 +38,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
+    publishedDateTime: 2024-02-13T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "zt39e+v02/F3THpFQz0fIwgM1G0yqeiR4S0QVC/wpvexegVlmxrgXovV9aQaObB7RDwRyXo+OMMH0x9H/VnCzoiZIF0nCkgMBhGQ0H8nGh8rzIkH96xBHCxhP3AKxB2BigevceJCjvKtBm31INjv8w+prRRNI7Su5Ie+FJBQp1SOlbzjURH2P4to3pgVCuHxAHIJ4NzJav0ZqK2dqhIciFoKs0Kp4539VzVenfewm7/UoalVAb/Yv5irHLfSEgtbesBC9jPW8fl/enzRzpNkZI3jAFRGsZJFGxQlnNQdhrmV5YMcrC+N+nRsO0yLPc8xcQjHvHK7WRuTSX1xn7zaHbaYzq6fw+dW+BWVMvSdi0wPzfGu/xs/YBNiqhEtvXkAcB5tsqBBzHlmRv7O0Y+c2qfi80YLVFbdaVPcL4hwXTijIGa8np+8eGyMR1lys9useui1BX3yP1rzIFUo/wv3KJJB4m6I1X+gvFhc0WUwdpOkzu4KtZg/Nd1624PTO2iNdImeD7dhGeF6cV+xH1IXgg==;SWMc55OcpYE8ViAatMa20A=="
 ---

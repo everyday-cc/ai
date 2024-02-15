@@ -7,7 +7,7 @@ originalUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-
 webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
+    publishedDateTime: 2024-02-13T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Bring Human Values to AI"
     excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
     publishedDateTime: 2024-02-12T17:00:00Z

@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots"
-    excerpt: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots - SiliconANGLE"
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/14/draft-conversational-ai-startup-rasa-technologies-raises-30m-combine-llms-traditional-chatbots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-09_081644969.png"
-        width: 793
-        height: 457
-        isCached: true
   - title: "AI chatbots should pay for news, bipartisan Senate group says"
     excerpt: "Lawmakers are rallying to protect journalism from the potentially fatal blow of generative artificial intelligence."
     publishedDateTime: 2024-02-13T12:00:00Z

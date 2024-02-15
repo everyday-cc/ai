@@ -9,7 +9,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

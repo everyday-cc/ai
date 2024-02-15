@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-14T19:41:00Z
 originalUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
 webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240214aipcs.jpg"
+    width: 644
+    height: 368
+    isCached: true
 
 related:
   - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
@@ -71,6 +77,6 @@ related:
       domain: shacknews.com
     quality: 29
 
-secured: "t5lsxEbMvKa3AdGZ06ZCGMGKhvtt3PZvQ+o/iliBWEOZg8R5jYN6jE2x44B1rJ2EQ4BNbCy6zZptqfuYWAgkWwRB0Iu7IyLmSBNeBg3g8fkCybrQJZEH5N3iyIu0YhzI1tLJJmG4vf38mq/9zXWvD0S1jyrF7BwHAdnd7/vBwp6NU68u5bnsi+QlEaHzoqKXQh6YSIGx8ref7CdRLRXm11LW9WeQ//dluBFVa+SK1d0Vu3TYl3757o9YiGuYHDRDlhymqLJzD+aqUeqsCH48JlWyDpuNuSJqF+DQL4RZ9sswBm1YzlmHAX3sjIY+B/ckepIIYTEWzdIp4tL2xv8IbrHNBR9N8Z4KAxXzoOxKk7o=;VLcoVDRP90YsuufopccOnQ=="
+secured: "glj8S+I4baEkDZMseZg7WPodZsoZvA8HzczQWvPPvZXsWCt3VPLnkyO71j2mzlMqJgYfbFdUUDKtQxalDDOHp75J1BZ8kbFMZzPkUemjtD2MOAwBKD3zkEKzSccUVnI9A/Fby4LIxAPTTYCy+0t0A6VMo08DjR+C21inQncmAMfKlFuS9v0PxeORDyxKSKbw2/jL8xDR5EV8uHKcNg6izCmMi+r5UH3VIs5tfK+nmD46UhkXk8Hd4Nxyjv98+0QCuosTqmQOaWOvYIVmYEIzKo0RTKE1a00LnbgUaPatIFFaWrFukVF5yNNX/7aJ+YmhSgqnSBu64yIsuCcTHJsnbT0fe13XqREv6Y8mMSFJiqc=;R5Y+seIz+WZKLTAaPzuDog=="
 ---
 
