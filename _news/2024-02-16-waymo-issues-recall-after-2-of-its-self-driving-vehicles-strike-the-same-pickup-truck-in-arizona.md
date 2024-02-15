@@ -1,0 +1,60 @@
+---
+category: news
+title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
+excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
+publishedDateTime: 2024-02-15T16:23:00Z
+originalUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+webUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+ampWebUrl: "https://www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+type: article
+quality: 46
+heat: -1
+published: false
+
+provider:
+  name: newscentermaine.com
+  domain: newscentermaine.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
+
+related:
+  - title: "Alphabet's Waymo recalled vehicles to update automated driving software"
+    excerpt: "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan."
+    publishedDateTime: 2024-02-15T11:09:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Waymo recalls software after self-driving taxis crash in December"
+    excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
+    publishedDateTime: 2024-02-14T17:37:00Z
+    webUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/"
+    ampWebUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+
+secured: "vyqPegeYcWk0wrk2L1CHeQyRgH4rHoTK/4OE5Uh7Ln5jatXZebxbfiE05unn4Xb9tijOntMQv/PZm0cTHo+3anLDMwLSTV2PYOrG6Yf+1ZmDBPhcRk71xwIxOWEQp7BcJPkhXkBtuOQXna1H14vTcrJfi4yH69ydylMFnL1WqAtHhxdNPhn0qHU2uVCboKh0cMPh45DnSCJPeTANa5VAktM3qJbUj3H7jXXrL2WSu5creuI6cvr9vTsN3YS6Gyeu9Kgy+oJPcAFmLHwBpfwE1dEKOqWnWIm0X+dIa2FuNbiol5fvx3xuUOZj9n+4H3s614H58Nu3KR/BjaG8qc7a/AXoCzC8KxZ7IPxChL08Ksg=;TbKFjvZWUH7aG18D7T2/VA=="
+---
+

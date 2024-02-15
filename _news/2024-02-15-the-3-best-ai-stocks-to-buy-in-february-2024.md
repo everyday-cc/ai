@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stoc
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
 type: article
 quality: 51
-heat: 391
+heat: 381
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Best AI stocks in 2024 for performance"
-    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Best AI ETFs in February 2024"
     excerpt: "Editorial Note: Blueprint may earn a commission from affiliate partner links featured here on our site. This commission does not influence our editors' opinions or evaluations. Please view our ..."
     publishedDateTime: 2024-02-13T00:00:00Z

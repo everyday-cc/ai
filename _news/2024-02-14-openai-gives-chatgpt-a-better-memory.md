@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt
 webUrl: "https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The Human Perils of Giving ChatGPT More Memory"
-    excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
-    publishedDateTime: 2024-02-14T15:13:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-14/the-human-perils-of-giving-chatgpt-more-memory"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
     excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
     publishedDateTime: 2024-02-15T01:02:00Z

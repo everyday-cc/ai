@@ -72,17 +72,17 @@ related:
         isCached: true
   - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
     excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T07:30:00Z
-    webUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/"
-    ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
+    publishedDateTime: 2024-02-12T13:30:00Z
+    webUrl: "https://www.nbcmiami.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/"
+    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
     quality: 89
     images:
-      - url: "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcmiami.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -166,6 +166,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 63
+  - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
+    excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
+    publishedDateTime: 2024-02-15T13:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 62
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to CloudCADI – One Stop Cloud FinOps Solution, directly from Azure Marketplace itself - while leveraging scalability, reliability, and agility of Azure in driving application development and shaping business strategies."
     publishedDateTime: 2024-02-12T05:49:00Z

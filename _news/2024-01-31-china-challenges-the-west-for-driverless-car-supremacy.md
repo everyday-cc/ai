@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China challenges the west for driverless car supremacy"
-excerpt: "The progress made by Chinese companies and regulators in Beijing poses a new challenge to the west, which is already lagging behind China in the development of electric vehicles, according to analysts,"
-publishedDateTime: 2024-01-31T02:24:00Z
-originalUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb?trk=public_post_comment-text"
-webUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb?trk=public_post_comment-text"
+excerpt: "In Wuhan, 500 robotaxis, mostly run by Baidu, China’s rival to Google ... according to Waymo, the self-driving car developer of Google’s parent company Alphabet. Waymo told the Financial ..."
+publishedDateTime: 2024-01-31T00:00:00Z
+originalUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb"
+webUrl: "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "5/R9sw6ghNPukcFVufqrWWg1BvJSiu67Z8LUH61VK28afo3rq51uhMXVAb67fs4qajdvwqJul+4+De7xn7uWnqCxaCQmeKY5/g8xmpPLYOYAINdqBKZQWehK/zxG5IyFPKA3H7AfTLeLCNKGMqr65amX2k28zyjrvAftiXTyZiQu5ZsObhsWqTu0lcas9o8OVSca95ZZb8FfCGYfJddCchN7F/y/bEkFVRsNAj4gm5m2WPu11/TO75sveWI+O1L58tasqkme2faDpUribIFuj3b73DtNG2f/cNSeTUmCa9FJYzk0HkQVo8eJZiZpf+cWdl+RlAykrF2wpQpdt3+NJBPOZVY0czsR/Gac0nma7/M=;+7wVUQvLU1uIf/MJJd8ztg=="
+secured: "jE7KWfAAVu1pGphQcIJNTe+LcEZP1+9iu/Q+UNYdwfCsk4Y1zDnST5S+rGwBvVNjRbpi9QEc8gMciNdKtwNLc1lu7fgNYIxFaPWDwquMpjjVdypHSlU6glEWJzlT6rLDaMSvO2PXRqGvlVH3TY1qE6aN0mTJ9bIu01oujZpKvAeTWPWMh5f0uvtRs5YR8JJzyN1NCl8/ZltWaxy97/8y+hUpyZ4XA+yvZsAKX18slAQhqwqw6JXaC2ewC2qd4b9rJGzBsusE1MePG7gLjppjBSvvvSkcd0aRVqKAzxeI1RgnGxI8aWXXuRXzFKEJI/0x+vATqnPoCB1F9AXx/vd2eu6lyjirHtyReb8+aUnHIvk=;cIN8g1HJjOCNDIlOF/dsRA=="
 ---
 

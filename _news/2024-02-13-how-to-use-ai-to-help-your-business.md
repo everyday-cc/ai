@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial intelligence is transforming business life"
-    excerpt: "Interactive AI, including chatbots and intelligent assistants such as Siri, Cortana and Google Assistant, is widely adopted and frequently used by 41% of professionals. Popular examples of functional AI tools that include data analysis, cloud security, and breach prevention tools include IBM Watson, Salesforce Einstein, and Azure Machine Learning."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.bthaber.com/artificial-intelligence-is-transforming-business-life/"
-    type: article
-    provider:
-      name: bthaber.com
-      domain: bthaber.com
-    quality: 39
-    images:
-      - url: "https://www.bthaber.com/wp-content/uploads/2024/02/denizcakirgilsezen.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence Can Now Help You Buy Your Dream Home"
     excerpt: "With plans to expand operations to respond to Nashville's affordability and inventory crunch, with a milestone of delivering a thousand homes in the next three to four years, Legacy South sees AI integration as a crucial tool to capture valuable data, understand buyer profiles, and inform new construction decisions that will shape future growth."
     publishedDateTime: 2024-02-15T16:25:00Z

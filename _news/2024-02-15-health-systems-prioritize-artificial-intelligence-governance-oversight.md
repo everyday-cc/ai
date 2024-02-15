@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Privacy Governance and Artificial Intelligence"
-    excerpt: "Against this backdrop, artificial intelligence systems, trained on vast amounts of data, continue to advance without a clear consensus on principles or a process to assess and mitigate AI risk. However, state and federal governments around the world are ..."
-    publishedDateTime: 2024-02-14T03:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/13/privacy-governance-and-artificial-intelligence/"
+  - title: "Study: Majority of health care systems lag in AI policies"
+    excerpt: "A new report from the Pittsburgh-based Center for Connected Medicine and KLAS Research finds that a majority of health care systems and hospitals have yet to develop detailed policies surrounding the use of artificial intelligence."
+    publishedDateTime: 2024-02-15T17:18:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2024/02/15/center-for-connected-medicine-ai-governance-policy.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 37
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Data-protection-767x633-1.jpg"
-        width: 767
-        height: 633
+      - url: "https://media.bizj.us/view/img/12692220/robertbartmd*1200xx2392-1348-0-483.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Temple Health Joins U.S. Study Of Artificial Intelligence Diagnostic System For DVT Detection"
+    excerpt: "Temple Health is partnering with ThinkSono, a UK-based AI company, to study a new artificial intelligence (AI)-powered ultrasound technolog"
+    publishedDateTime: 2024-02-14T01:38:00Z
+    webUrl: "https://menafn.com/1107848604/Temple-Health-Joins-US-Study-Of-Artificial-Intelligence-Diagnostic-System-For-DVT-Detection"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?353744"
+        width: 361
+        height: 249
         isCached: true
 
 secured: "4gCOUfmadicuCaF8kZ6E3Y/kKwjjJZyWR0un7z8LJS64Woj3R+OQJx5mRJpG2XrSk2OX6lMn7yJ3Sk5zsgWIJm5oCkWAuftEmFMpL2BOx2YR4UFwQfOD/ZfGqfkzCaqsDT3AhQ2Ccezvzv/MVl79ZCB+NuNutx8wRDlO/IQN+e0ov6XnfdtmRVNuRA0FZ/R7llJOucSUdYhXlcQsNotcA+41/taywPdE4Al2uDLuWiAJb9YkfkavmAtOkrrmq8aMdpMRjgcJf7mp9vFTw5fXjViajsYyRTytEAST8Yu5EDkfr1zGKuJ3kKBOG20VLFAlPMnrHUWc1ojV1wEhKRDFmNeoGsY0bbWMA1xtREUC1mo=;ezg1LuhnCGAi816RS1SkXw=="

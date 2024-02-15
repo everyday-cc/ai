@@ -92,6 +92,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
+    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
+    publishedDateTime: 2024-02-15T18:54:00Z
+    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
+        width: 1200
+        height: 791
+        isCached: true
   - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
     excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
     publishedDateTime: 2024-02-13T23:31:00Z

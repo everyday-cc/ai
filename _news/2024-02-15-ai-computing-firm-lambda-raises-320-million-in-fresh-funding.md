@@ -37,6 +37,34 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI cloud compute startup Lamba raises $320M at $1.5B valuation"
+    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lamba-raises-320m-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
+  - title: "AI cloud compute startup Lambda raises $320M at $1.5B valuation"
+    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it has raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+    publishedDateTime: 2024-02-15T17:10:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lambda-raises-320m-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
   - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
     excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
     publishedDateTime: 2024-02-13T11:41:00Z

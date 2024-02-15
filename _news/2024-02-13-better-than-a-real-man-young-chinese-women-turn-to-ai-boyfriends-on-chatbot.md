@@ -35,6 +35,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Nation-state hackers are already using AI chatbots"
+    excerpt: "Microsoft says Russian, Chinese, Iranian and North Korean hackers are using AI to write phishing emails and study targets"
+    publishedDateTime: 2024-02-14T12:01:00Z
+    webUrl: "https://www.axios.com/2024/02/14/state-hackers-ai-chatbot-use"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "A new way to let AI chatbots converse all day without crashing"
+    excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
+    publishedDateTime: 2024-02-13T14:44:00Z
+    webUrl: "https://techxplore.com/news/2024-02-ai-chatbots-converse-day.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 17
 
 secured: "1C56gJqSEqb59hCefM29okx2uFihypG5cpd5gP0kLm+OexWQyzdv9nKJ7DMwNKmszHPJKuAdvcq214vi2WdHzVT1NP6a5ckuVrg27OoEzt2rBN96XWud24kgLFYvCJEzLrrN8U/KonE6TdHvH81XZ9qV0d2x04uOyfGjzJMzha7uBFtsya9UFALa73Ze+Hnb2e2vVTZaQujrAkuxdwV2OitevsFEBJ+uQlE59iCW7fVxAiws7QPMp3u0HCTCyjZuN7mAmzuZp3J9qpTgW7tilyNh5kXN/+gD5hLBz3bTBvTbcIRhY/m6MtsY96cju7YB5StiWW84+STm2NK9/gtagvmNRlwL7XIdxyzfSBRrmBg=;TSIpFA98IxiU0qrfc3J+jg=="
 ---

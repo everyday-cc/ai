@@ -61,20 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Best AI stocks in 2024 for performance"
-    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at WEST 2024 on February 13-15"
     excerpt: "In February, OSS won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
     publishedDateTime: 2024-02-13T14:32:00Z

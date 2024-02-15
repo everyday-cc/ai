@@ -81,22 +81,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "10 ways generative AI will transform software development"
-    excerpt: "Code generation and copilots are just the beginning of new AI-enabled ways to develop, test, deploy, and maintain software."
-    publishedDateTime: 2024-02-12T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3712826/10-ways-generative-ai-will-transform-software-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712826/10-ways-generative-ai-will-transform-software-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712826/10-ways-generative-ai-will-transform-software-development.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/17/10/cso_identifying_talent_opportunity_double-exposure_business_people_gears_rising_escalator_by_metamorworks_gettyimages-1159996529_2400x1600-100806029-large-100922144-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
     excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
     publishedDateTime: 2024-02-15T11:45:00Z
@@ -158,20 +142,6 @@ related:
       - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "A Comedian And A Generative AI Tool Walk Into A Bar"
-    excerpt: "At this year's 7x7 event pairing artists and technologists, comic Ana Fabrega teamed with Runway CEO Cristóbal Valenzuela to see what happens when AI and humor collide."
-    publishedDateTime: 2024-02-10T19:04:00Z
-    webUrl: "https://www.forbes.com/sites/lesliekatz/2024/02/10/a-comedian-and-a-neural-network-walk-into-a-bar/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c2d754532637ef98b2ee64/0x0.jpg?format=jpg&crop=1448,815,x0,y13,safe&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
         isCached: true
   - title: "5 Principles To Make Generative AI Your New Work Buddy"
     excerpt: "Today, “how” we work and “who” we work with are the defining transformations in the workplace. Soon, every team member will have their own GenAI work buddy, or co-pilot."
@@ -397,6 +367,6 @@ related:
       domain: dbta.com
     quality: 0
 
-secured: "3TT83Q6YXoGX7pAHTHG36R2Zvz4uO60IIbgra598gzUx1FLv+gwdxTaUU1amdx6sSdV+2PfY0C4smxtjnzk4DRnxWGm2ODqZfT/X++jMPfWLcVz5LgfTUTZ0bb7m9FMlEJQzucqAepY3YyEJ4p+Ei21wNjkioa0xzJuf26KrZLU6R/j2DcHLLKWl57GAd3Nee92EfuqBRK5l+Bd42tcmSLYpleXNRB1/ASNkdtgfbN2JpIuUcT0oJ7ShSnqtD8sF7YEIBbplLL3Gv5eEL1wUGjfd9NQBKYPYYx9T8PATFfhDnvp3gloRy6bx9ESLnnMUqbJnOLRV4HFYminRmoZgYjxhtcXHEsJNft1jVtVFoIc=;8w01ZSgpK2Lig43wXD4qFQ=="
+secured: "6cwFM1y89vrAE6+zzYPFiTq44Fej+zEpZI/F6nQr4RwD2i4mt7a7yLY7c/ntm8A6L2MLZAw7k3mLuxSaSGp7X6m7xHJp5bpeQPvEg7J6j88O+HEmugNBban//Xg39ctPug76xjhlqyU6jxlGEzfMso9dGpxlasduCZWlhrbO/OMNJo/yJicg0Eq50DMUWk25Qt+wcHgPL93U7JgvwDP3X/4P/qgOdUF4XNW59et2+OpMVeCjglaHz/4/slCmX/FyXDbsSW7P1w9msYxyZw423VKtmVUN97YuDR7uYikQkY45EFdLuY5ySB+MesZsBolLIL2iGsrs4LGbZXqBTpo6tGvGsLA4/Msomig35lLKoiNgcbdKzoIhc3bB6fRP0jX2Zm47OnvinFaqXbfj3Rd6eJMrYP7yn7OksHhh9tpt+yFHtHM0mtVGyavGfS3eU470hTkyK6llLxOXMbjUWdtq4EAswZ+l1y28XrexyXGG584BqMqx2ql3Zl0xDcu9pi/T5eBTl/DXcmngaKQK+fJfPQ==;k9JFAejpDo9igyRtJGOm/A=="
 ---
 

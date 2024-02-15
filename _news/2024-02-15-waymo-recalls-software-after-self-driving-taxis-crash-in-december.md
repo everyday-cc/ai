@@ -37,6 +37,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
+    excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
+    publishedDateTime: 2024-02-15T16:23:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    type: article
+    provider:
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 46
+    images:
+      - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "8XmnADNGAiA5FI6m8b3x42e3Og0qU55v629xj0GAuLaKsmB2z5YTYIBFN0UamRBszfQhxCxiJOqKZTwpLrBSglaYZfYnbf0a7AEhHV3g0DO2cZcXzsQhOTjagvzV8F7d3mVYORkY/te0qaFhRu5q6eGkw3ZMyplMfGe6ZEx6KIVg/1CvHbvtNpbUk+YfUGOMQUnAxcmaO4ULFVeqtcLQOMuTIMpSGDjZkHOI9jvWpvtM8AFmdRWUqJfbumFb/z+6GaNO/gyH2CGGB4mxd3R9QtPOnCJMJ/wPaEay8PjW88oA0ZQyEnrIG2VwCGvHHCE0/r0pFq+eUfhpAlMPh2W3wjDMsmNH0Ic7S89pbkD8haxUlKSBkzaWKJMfZFAJAwTEzb0BAMdWS5RkP9wGC1WGpUFOQFt0y+UnlJUVL2jU2Un5POvap6Chbne3TSsyQYfTimyhZwqh3n9kfdxAmXgbJ7hKhL/OT0avv10eYZOF0g4lh/9YeI9IWdy0HnwntGUp6Di0scwCC4bZL4itNpl1XQ==;5zmXrHKA5Tn7QS44YbyH3A=="
 ---

@@ -47,6 +47,34 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "AI cloud compute startup Lamba raises $320M at $1.5B valuation"
+    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lamba-raises-320m-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
+  - title: "AI cloud compute startup Lambda raises $320M at $1.5B valuation"
+    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it has raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+    publishedDateTime: 2024-02-15T17:10:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lambda-raises-320m-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
 
 secured: "zeICwtIcdurDmHoj8n7NB62PDd7fSFtRdmxnURVsFbt1+y8CZ/5RDw7JlWLtjsRy5Ppy3r7HfZC/eGQoskMf6fuKz2aXhz5zekNNigcUBo00E6i/gCmNMkrxsfzajkbXNgC/F0w7twH+g1kRa5eXY4s1hoDIzQNODuKonwtMBUNoLLQjGIc0EHN02JAIlU7zuEUdkCMliu2B9nrBXsEreZrkkl+MP/2N6Bl7CA8rpP08wZHLMO2s78wtsK7+VY50a6QpRY7+hLh7+KebgYsPJWoX7P3qx47rrosmI84jsN75QI4eavmU4IVTsUkjkZxGPQPSk5VXhv16di7qExiJ049gD9kEixuYjVYbEQhrRKM=;wsZqcE6yTB4XZxTqtk9b3w=="
 ---

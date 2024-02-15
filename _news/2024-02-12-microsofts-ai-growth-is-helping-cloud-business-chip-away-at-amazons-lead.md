@@ -2,27 +2,27 @@
 category: news
 title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
 excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-publishedDateTime: 2024-02-12T07:30:00Z
-originalUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/"
-webUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/"
-ampWebUrl: "https://www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
-cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3459868/?amp=1"
+publishedDateTime: 2024-02-12T13:30:00Z
+originalUrl: "https://www.nbcmiami.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/"
+webUrl: "https://www.nbcmiami.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/"
+ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
+cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
 type: article
 quality: 89
 heat: -1
 published: false
 
 provider:
-  name: NBC DFW
-  domain: nbcdfw.com
+  name: NBC 6 South Florida
+  domain: nbcmiami.com
 
 topics:
-  - AI Hardware
-  - AI
   - Microsoft AI
+  - AI
+  - AI Hardware
 
 images:
-  - url: "https://media.nbcdfw.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcmiami.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -151,6 +151,20 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 63
+  - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
+    excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
+    publishedDateTime: 2024-02-15T13:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 62
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Microsoft to build new data centre in Centurion"
     excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
     publishedDateTime: 2024-02-12T05:34:00Z
@@ -271,6 +285,6 @@ related:
       domain: upi.com
     quality: 33
 
-secured: "PN7bLXAL9YrTckHSk8slOq6vA5ef9/lOYT0fz/hePI9ZEb5YqNJP4p0sC5+dx0xyuc5f3F96GMzQ08Rt1kTgaMt8eTPsVPs/vwo5YWzCYbDxiLH3SbxcI+HnSkLThfEkqgdNN6Xc7+tyZSE7O3UBXDDu5pSmAXmX9sMFsJ+3EkcDAOLA2nGGptX8LuEbDjg6HYBQlct9gHrcd5k3ca3BRBpe+1SjGqBzaren3xIzxz4aAFeOCoNFbntMz6Snd/WWmKVHVUX0Jsf5sQW2JBOFqjMxQlAUn/azAK/uuQyvLilhb35FaZBw5G4uvGPZkEAGNEYf0OqyNDjiWMy1yad/hNaouTTKlb3myfEkJYAQ8XNMa9YUXBQez4AKg/j7TBfLhMu8yw5QyUhTYgVcEUEdJbrphe0daQmvFGWusUtPqYhUtqDZT6yipOuTfgiOMCihWEtcbZxdZNe56Lk4fkLGroRqQ4VlUv+8kirDhRcX2uOI1+yrn7/JRU5I90fSRsdh+eIftOB70RXgczhLw7mMxQ==;DXCGSvgv8MLfTw0/y13MIA=="
+secured: "6bdbD88loFH2VXq3nEG3YbwvRAO4aEQJ1yBhY9lzQGFQ3cXHGGfWfCoN5ADWDVcQL7btRYxfsB/W1DDBHEhbSCqx7r4yHeKA3a8CFUvPfh+7RuDSVYIkzI8y/Q1oJ80jWf+0Vy1dV7hIQeGYZAZ7EXfnxzazclU6e9NsOpJUEfkVtGOgkLYDZef367Z+19e/QKO1AlCwUgdxc565r1NYHTcJdBwUe6mRjmuwBc3oMjt2mztkWSXC5eNsedkgGjn9F64AMXsjiqSrRd41vg6ytaLIR1NdViYwrClRTXnK8dyg84S7cUKjj3uaVlr0WBUndv7nebmXMKwJDq/0vVRQlOca+CLvN+4nk5HtvKn8Osw=;+NvjDXalr0xG5A8Jvcqw0g=="
 ---
 

@@ -1,0 +1,82 @@
+---
+category: news
+title: "AI cloud compute startup Lambda raises $320M at $1.5B valuation"
+excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it has raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+publishedDateTime: 2024-02-15T17:10:00Z
+originalUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lambda-raises-320m-1-5b-valuation/"
+webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lambda-raises-320m-1-5b-valuation/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: SiliconANGLE
+  domain: siliconangle.com
+
+topics:
+  - AI
+  - AI Hardware
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+    width: 1280
+    height: 741
+    isCached: true
+
+related:
+  - title: "AI Computing Firm Lambda Raises $320 Million in Fresh Funding"
+    excerpt: "(Reuters) - Lambda, an artificial intelligence computing firm, said on Thursday it has raised $320 million in a new funding round led by billionaire Thomas Tull's US Innovative Technology to expand its AI cloud business."
+    publishedDateTime: 2024-02-15T14:40:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-15/ai-computing-firm-lambda-raises-320-million-in-fresh-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Cascading AI Secures $3.9 Million in Pre-Seed Funding"
+    excerpt: "Cascading AI, a cutting-edge fintech startup founded by alumni of Stanford University and Y Combinator, is thrilled to announce the successful completion of its $3.9 million pre-seed funding round to unlock $1 trillion in value of advanced AI for the global banking industry Casca,"
+    publishedDateTime: 2024-02-12T09:34:00Z
+    webUrl: "https://financialit.net/news/fundraising-news/cascading-ai-secures-39-million-pre-seed-funding"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/casca_ai.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "AI cloud compute startup Lamba raises $320M at $1.5B valuation"
+    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lamba-raises-320m-1-5b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
+  - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
+    excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
+    publishedDateTime: 2024-02-13T11:41:00Z
+    webUrl: "https://www.businesstimes.com.sg/startups-tech/ex-amazon-duos-ai-startup-raises-us125-million-series-funding"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 37
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/13/email-32490621920.jpg"
+        width: 880
+        height: 587
+        isCached: true
+
+secured: "77DR2CRQr2qi9MKQsupQ4a1crb04Zpaxx81Zjyr+sjuOOADt6qerULnNp2VmL9d/e+maaFncEa9z88q7X4BG0qmIVuZzF46O5dutHl3R5nGOojZS7t/HS1hqQmgaXGjY7rKdTe7pKgQoAXdTbt1QSDxwJQbBPK+OiL3qgPVzEf1Yp5D92PuHiDsNrSAqUI7izspqE7yezTtX/YHwcvSCxniIKgiA91mINFTsTFNBTVm/LRfE5T9h4BT7/ieXdAb+zlIEelOhSw9+uT5yLpsBmQ3k2dBXE1msdTK86/e+6xYG/HNzvnA7TE8gF4mmo/QCs3XV7Sa2KwpJ0HfXkIsIs1z40chi1ZUNJfgp/7jvqqk=;h3JwIj7QmkG6GG5oDVQ4WA=="
+---
+

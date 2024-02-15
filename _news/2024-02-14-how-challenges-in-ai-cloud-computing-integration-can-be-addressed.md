@@ -113,6 +113,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
+    excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
+    publishedDateTime: 2024-02-15T18:07:00Z
+    webUrl: "https://www.news-medical.net/news/20240214/Insights-into-how-AI-and-wearable-technologies-are-impacting-the-future-of-healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry"
     excerpt: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry - As adoption of Artificial Intelligence has grown over the last decade, new untouched avenues are being"
     publishedDateTime: 2024-02-13T04:22:00Z
