@@ -296,6 +296,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-google-rebrands-bard-ai-to-gemini-and-launches-a-new-app-and-subscription.md",
+      "title": "Google rebrands Bard AI to Gemini and launches a new app and subscription",
+      "excerpt": "Google on Thursday announced a major rebrand of Bard, its AI chatbot and assistant, including a fresh app rollout and new usage and subscription options. Bard, a chief competitor to OpenAI's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107344639-1701966994127-gettyimages-1829227396-porzycki-googlege231206_npI8C.jpeg?v=1701967024",
+          "width": 3543,
+          "height": 2362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/08/google-gemini-ai-launches-in-new-app-subscription.html",
+      "publishedDateTime": "2024-02-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-google-bard-is-now-google-gemini.md",
       "title": "Google Bard is now Google Gemini",
       "excerpt": "Say goodbye to Google Bard, and say hello to Google Gemini. On Thursday, Alphabet and Google CEO Sundar Pichai announced the company will be rebranding its AI model Bard as Gemini. The company ...",
@@ -1419,58 +1471,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-warning-google-will-start-mass-deleting-nest-hub-features-today.md",
-      "title": "Warning: Google Will Start Mass Deleting Nest Hub Features Today",
-      "excerpt": "Google’s process of deleting Assistant features, the AI that powers its Nest Hub products, starts today. Two weeks ago, the company announced that it plans to delete 17 Assistant features on January 26th: today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/",
-      "originalUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a3fa0baaf8177a3682aa17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jaymcgregor/2024/01/26/google-delete-assistant-features-bard-nest-audio-nest-hub/amp/",
-      "publishedDateTime": "2024-01-26T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

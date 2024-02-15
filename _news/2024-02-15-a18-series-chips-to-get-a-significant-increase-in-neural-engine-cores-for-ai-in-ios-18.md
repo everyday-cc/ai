@@ -41,6 +41,34 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "AI is the only reason I care about the iPhone 16’s huge A18 chip upgrade"
+    excerpt: "A new report claims the A18 chips that will power the iPhone 16 phones will feature big Neural Engine upgrades - what you need to know."
+    publishedDateTime: 2024-02-15T11:50:00Z
+    webUrl: "https://bgr.com/tech/ai-is-the-only-reason-i-care-about-the-iphone-16s-chip/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 53
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "iPhone 16's massive AI upgrade leaked — A18 and M4 chips to give massive boost to Neural Engine"
+    excerpt: "Apple is widely expected to unveil its next best iPhone in September, complemented by significant AI upgrades to iOS 18 which should arrive at WWDC 2024. To power all those changes, Economic Daily News reports that Apple’s iPhones, iPads, and MacBooks “will be greatly upgraded.”"
+    publishedDateTime: 2024-02-15T10:58:00Z
+    webUrl: "https://www.imore.com/iphone/iphone-16/iphone-16s-massive-ai-upgrade-leaked-a18-and-m4-chips-to-get-massive-boost-to-neural-engine"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ydPYNpWSkV8H9kf3eekM95-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "iPhone 16 AI could get a big boost from this performance upgrade"
     excerpt: "The A18 chipset thought to be driving this year's new iPhones could feature an upgraded Neural Engine with more computing cores. This is Apple's label for its neural processing unit (or NPU), which is dedicated to tackling machine learning and AI tasks."
     publishedDateTime: 2024-02-15T10:47:00Z

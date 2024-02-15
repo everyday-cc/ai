@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI In Cybersecurity: Revolutionizing Safety"
+    excerpt: "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy."
+    publishedDateTime: 2024-02-15T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1406
+        height: 900
+        isCached: true
   - title: "Microsoft Detects Russian, Chinese AI Hackers: Is It Time To Add Cybersecurity To Your Portfolio?"
     excerpt: "AI-driven cybercriminals targeting government and corporate records are pushing for increased AI deployment. Companies like Microsoft and OpenAI are detecting and banning state-backed hacking groups."
     publishedDateTime: 2024-02-14T16:43:00Z
@@ -36,20 +52,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
-    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
-    publishedDateTime: 2024-02-14T18:20:00Z
-    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "2024 Cybersecurity Trends: AI And What's Next"
     excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
     publishedDateTime: 2024-02-12T13:30:00Z
@@ -59,6 +61,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
+    excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
+    publishedDateTime: 2024-02-15T08:01:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/googles-latest-startup-growth-academy-aims-boost-ai-cybersecurity/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
+        width: 5071
+        height: 3381
+        isCached: true
   - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
     excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
     publishedDateTime: 2024-02-11T15:32:00Z
@@ -72,6 +88,34 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
         width: 650
         height: 450
+        isCached: true
+  - title: "The Lithuanian cybersecurity start-up developing interactive, AI-driven solutions for SMEs"
+    excerpt: "Cyber Upgrade, a Lithuanian cybersecurity start-up helmed by former Paysolut co-founders, is developing interactive, AI-driven cybersecurity solutions for SMEs, with a focus on inclusivity and accessibility."
+    publishedDateTime: 2024-02-12T08:14:00Z
+    webUrl: "https://emerging-europe.com/made-in-emerging-europe/the-lithuanian-cybersecurity-start-up-developing-interactive-ai-driven-solutions-for-smes/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 29
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2024/02/adi-goldstein-eusvweosble-unsplash.jpg"
+        width: 1360
+        height: 908
+        isCached: true
+  - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
+    excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
+    publishedDateTime: 2024-02-12T12:18:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-future-foundation-announces-10-global-trends-robots-265bn-cybersecurity-threat-next-generation-energy-and-the-end-of-disease"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 22
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2022/12/12/Museum-of-the-Future.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "IHj84IVRU190moK4iDVU2CpoxIG5N8HZfA6PsNyQMVihF/9YlUFNIanItd/T6eYy9KtFoF0Sh4J2z61u1rDqMoi+LQUjmsHXj91Y7tZn81E927eK6y0ZRhbHi5IX4/iTwdAiWSJSI0HzkvWiF1sNyYXpOLbp/jqSmifSkMQIZXHtQhFQAudQqY5UAUOF8qKtwAmNwHTBSQjPOIPN0o7AoW1kQ674cOfN3qizYiYnLZ6brPW1uQxEaaAWbiycX6I2nuGrc8e7AfdxTM0sOYwdekm86uXKihR+CdKrS6aMdTDsCPUW0I8Ci6rJXIK7q3H0XIKgcFbw5k/1EC3L277ydUGLgn43mSVB8v6eGAL9Y2FKIPiGLde1GMobE8EheF1+mmTGvP3m9rrMs3iQFhe7irZRjGrpHv+4u8PUVdJKkrDZmuFPwP3T4cfYZO+n5Oo5A0Ltv13frsHNamhzpLMR3TUWjkzrVVFM524Z4bCFiWWaPfswTPwx5m7CYJ5jerr/hDUNQjz8YHIf8a7w1a8NVw==;MxbEtJAGt4Z4Odg0+iGbSw=="

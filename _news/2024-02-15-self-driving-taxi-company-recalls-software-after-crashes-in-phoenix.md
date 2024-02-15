@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-
 webUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-company-recalls-software-crashes-phoenix/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo recalls software after self-driving taxis crash in December"
-    excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
-    publishedDateTime: 2024-02-14T17:37:00Z
-    webUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/"
-    ampWebUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+  - title: "California's Self-Driving Robotaxi Dream May Be In Jeopardy"
+    excerpt: "Waymo, the autonomous vehicle company operated by Alphabet, has announced that it will voluntarily recall software following an unusual accident in December."
+    publishedDateTime: 2024-02-14T19:22:00Z
+    webUrl: "https://carbuzz.com/news/californias-self-driving-robotaxi-dream-may-be-in-jeopardy"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
+      name: https//carbuzz
+      domain: carbuzz.com
+    quality: 4
 
 secured: "8mcva7gDEBAt0mxRCjjzZ5l5DsgUlCMeosQNoJ8rZ5T6PO19mWiaZ4SZN3CuDMvB2baD2AhMFR9w25J7rUX46p1PqQmFrlfSX9UHzbi5PtQ9ioriQlGwttykixThqZzOsaDypDVmX8oJCdQbJ6/mDA9JnZfsSPkwl42Znim848NFepVZlzy2c/GOT8gbObSS6Gg6aXmiSh0GlP/i/m1xaLzHz6irzVkaafpeOwD0NTdQdFT0a3DvlA3GvCyUeuV7Br0azh2+Ajly+yTb91zpTdpm0kkfnO9COZTOHzk5WGL0r6WyeD4fTZ/BR4Fk3FTzLEyz9vuXaSleUHRfCBTTR8xGjcV9FqIphCHqRgP/LoHnX1yIKsu85W7r8tmbRVg+IeijskC+ovSHQ+AyTGgGJQWJi2dlxqiDHjP7odKY+FC70J8WHxUok2+VqS0b28v9L27hp3HGNzNT2AOXozYIgAsChx+jtL+xpDzR20YlYa/ruWLatSHQbPFdSMxKBdpMH1FKpLqpY87dVvMrlHxaJQ==;bc1j2fUPM4dc++lb5nM0Qg=="
 ---

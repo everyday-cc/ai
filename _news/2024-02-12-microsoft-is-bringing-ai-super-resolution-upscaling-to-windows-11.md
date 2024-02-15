@@ -137,6 +137,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
+  - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
+    excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
+    publishedDateTime: 2024-02-15T10:25:00Z
+    webUrl: "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 64
   - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
     excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
     publishedDateTime: 2024-02-12T12:17:00Z

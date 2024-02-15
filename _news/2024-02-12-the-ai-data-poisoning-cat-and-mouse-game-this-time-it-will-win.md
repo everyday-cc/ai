@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3712805/the-ai-data-poisoning-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712805/the-ai-data-poisoning-cat-and-mouse-game-this-time-it-will-win.amp.html"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The AI Chip Game Part 2"
+    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 34
 
 secured: "9TM/49immL6V+fkvCCaxoxFXtZPHj97dRHpqV4cudaVr7V3sZTNMTT2BTEpruvFzBKxsqMbvKVO5apDQpanE9JnR3BFOvGTtSZVTWBgXkrbMapnfZfCNoZSQL1nCjLoLKAGYrzmXm30XTGoaDQan1+Qy3QlKOCkk26ZBQG1C1ZCr5JDBJdPAQwoOibymbltKqJ0qidoPQpJ1NeCNk2ShmKtwC0ydicIY7fWJsvfk9nYBJ11OEE2pfwNB4pKOAKBtZwTA+NwjSOnQsgQgrGKSPbQYod64L+/r13871ibB7HJ9C1iCmVajtJF90vZg0GbJt9R/B8kVSKA9KE8jN/+g/0hGdaZCk1iw6Q5Ej2TPnUUaBMkjdQB2ax05D2NT7lc53B2vdJ9mCKODe8pDvUxelrkfe5XMNQBiD2WVxK0ICKDYGzmngxYH5xqi1Mgs9Efki9SP+/UmVyenQ8oYaDl6buXsfoSRAGYASYkUprVWvRGjyYZg77WqHrbiHxWsfEdRqsPiJ6neykeBEhbMmWxbpw==;DLaog8+13QuBysRD8Ps6sQ=="
 ---

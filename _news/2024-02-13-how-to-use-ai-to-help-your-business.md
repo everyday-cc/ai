@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "How health insurers use AI to streamline operations"
+    excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
+    publishedDateTime: 2024-02-15T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-operations-unitedhealth-aetna-oscar-health"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
   - title: "What you need to know about AI corn"
     excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
     publishedDateTime: 2024-02-14T20:08:00Z

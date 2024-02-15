@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-14-y-combinator-seeks-startups-in-robotics-space-and-defense.md",
+      "title": "Y Combinator Seeks Startups in Robotics, Space and Defense",
+      "excerpt": "Y Combinator is one of the most prominent and competitive Silicon Valley startup accelerators, and has backed companies including Airbnb Inc., DoorDash Inc. and Stripe Inc. Apple Inc. ’s longest-serving senior industrial designer is leaving the company, marking the near-complete turnover of a team once led by Jony Ive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-renewable-energy.md",
+      "title": "The future of renewable energy",
+      "excerpt": "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "originalUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-how-a-french-health-insurance-unicorn-plans-to-leverage-ai-to-reach-profitability.md",
+      "title": "How a French health insurance unicorn plans to leverage AI to reach profitability",
+      "excerpt": "Alan’s meteoric rise in the French tech ecosystem has been both figurative and literal. A few years ago, the startup’s office was limited to one floor in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/83ef56a7-9318-4a1f-9f0f-cbde328cef0e_MOORE-Alan-BD_D3A8123copie.jpg?resize=1200,811",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "publishedDateTime": "2024-02-14T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
       "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
       "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
@@ -10,7 +146,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -752,7 +888,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1084,153 +1220,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-a-new-gpu-and-now-a-new-ai-chatbot-nvidia-is-on-a-roll-launches-chat-with-rtx.md",
-      "title": "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’",
-      "excerpt": "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 258,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg",
-          "width": 1280,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-pixel-is-now-the-official-mobile-phone-of-the-national-womens-soccer-league.md",
-      "title": "Pixel is now the Official Mobile Phone of the National Women’s Soccer League",
-      "excerpt": "Google Pixel and National Women’s Soccer League announce a multi-year partnership, with Pixel becoming the league’s official mobile phone.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
-      "originalUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NWSL_Pixel_Hero.width-1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
-      "publishedDateTime": "2024-02-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
-      "title": "14 Best Robotics Stocks To Buy Now",
-      "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "originalUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15152835/HHGC-insidermonkey-1700080113045.jpg?auto=format&expires=1739318400&w=400&h=225&fit=crop",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
-      "publishedDateTime": "2024-02-13T14:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

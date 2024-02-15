@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 webUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 type: article
 quality: 99
-heat: 351
+heat: 361
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/17/10/cso_identifying_talent_opportunity_double-exposure_business_people_gears_rising_escalator_by_metamorworks_gettyimages-1159996529_2400x1600-100806029-large-100922144-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
+    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
+    publishedDateTime: 2024-02-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Generative AI Will Redefine The Workplace For All Organizations"
     excerpt: "Artificial Intelligence, or AI, is like a highly specialized tool in a corporate setting, adept at performing specific tasks such as analyzing data, predicting patterns or automating routine processes."

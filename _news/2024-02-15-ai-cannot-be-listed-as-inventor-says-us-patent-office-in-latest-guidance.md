@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-
 webUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html"
 type: article
 quality: 68
-heat: 108
+heat: 111
 published: true
 
 provider:
@@ -71,6 +71,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "93W2Phx7psaQY52DKWb74mEb8LQ4qeF+MCLjPNc7qVOr+D1Ar96wbq5vCHquYvgRGPYzQTc2hNHXuPvD6Bl45b6VaGpuWpONeWyhnX9NdlIJjszMOeg7fWl7VAywpTsjiyyGvavD0bOWE8uO209d7iwxg26KdIUBFJwyATe7LkCD9EaHyRURy402Mk8IYoEB9pOB7Y0i4htaIzDQnl3ziwWM6kXv1eEhscrorK3ew5L8gksXwkQwlBWDml94h2rcMDB42oncRP7oQYj8g+08qj/P1fGMkrIdx0zJzy+S0ReG0yKYn4wvAGkqqtRyFqnl51qmWqd/kku+sutfK3NdvIncfz12HouDJTfuoYBoyc4=;+h7/aZeL4mvDXywniLoThg=="
+secured: "bykOMDMfCgddfpsEaCZ9f6ogidBT+lmU3dH6tn5Hg62q4EHRW8KezzjT5P3a2KC6glX9K8c1it9pR9U18wXmzfb1d3fFB7O2ULFAh9ch5iOyDZSCihTUaz8wVaDHBgNHRV6COn64zYGdoooSzYIjShoVNBHlrgys4rhGKbQQOdABhFppB87HSOZO7Ueo1jq/INgYB4N8ZafZT3+uAC76Hor1gsGz5Fo0dxkltIR1We8gECwpQLURlwt/YVXrUJbgeQZX1C7K6pOAhtVi2dGtBpv8/HqaiNZtyOWwUYghRlcj1E6B8BmfornRuXpS0/fqXsT74EzKcM2K/EQhGp6fw446kiKu5OLt/rVGz/t8rfkSCNoTV7GFFi15YwMMqluq0tV69Vfuc3Vke+/cHZhgWpfpiProuseGvT7DSi0fXE7S4nd+eH72zclIIPoBGTUR2xFwsHpWNAAfkV/CkxudFi+jRbiMaCjY6ZXuLa06+3gCgWEYyLJsRwYoslmi6TWp7wldgm7P1HwEhg5vNrWuOA==;4yqk90HqxRrhb2Ow0Cbx5w=="
 ---
 

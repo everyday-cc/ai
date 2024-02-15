@@ -35,6 +35,20 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "AI is the only reason I care about the iPhone 16’s huge A18 chip upgrade"
+    excerpt: "A new report claims the A18 chips that will power the iPhone 16 phones will feature big Neural Engine upgrades - what you need to know."
+    publishedDateTime: 2024-02-15T11:50:00Z
+    webUrl: "https://bgr.com/tech/ai-is-the-only-reason-i-care-about-the-iphone-16s-chip/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 53
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/09/iphone-15-pro-max-5.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "A18-series chips to get a \"significant\" increase in Neural Engine cores for AI in iOS 18"
     excerpt: "Apple has included a Neural Engine on its A-series chips ever since 2017's A11 Bionic which was used on the iPhone 8, iPhone 8 Plus, and the iPhone X. That chip featured a dual-core Neural Engine which increased to an octa-core Neural Engine for the A12 and A13 Bionic in 2018 and 2019 respectively."
     publishedDateTime: 2024-02-15T00:58:00Z
@@ -46,6 +60,20 @@ related:
     quality: 45
     images:
       - url: "https://m-cdn.phonearena.com/images/article/155102-wide-two_1200/Why-you-shouldnt-buy-the-Galaxy-S25-Ultra-or-the-iPhone-16-Pro-Max.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "iPhone 16's massive AI upgrade leaked — A18 and M4 chips to give massive boost to Neural Engine"
+    excerpt: "Apple is widely expected to unveil its next best iPhone in September, complemented by significant AI upgrades to iOS 18 which should arrive at WWDC 2024. To power all those changes, Economic Daily News reports that Apple’s iPhones, iPads, and MacBooks “will be greatly upgraded.”"
+    publishedDateTime: 2024-02-15T10:58:00Z
+    webUrl: "https://www.imore.com/iphone/iphone-16/iphone-16s-massive-ai-upgrade-leaked-a18-and-m4-chips-to-get-massive-boost-to-neural-engine"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 42
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ydPYNpWSkV8H9kf3eekM95-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true

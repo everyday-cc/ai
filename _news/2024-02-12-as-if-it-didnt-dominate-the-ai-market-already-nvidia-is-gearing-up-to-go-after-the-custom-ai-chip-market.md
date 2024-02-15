@@ -92,6 +92,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
+    excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
+    publishedDateTime: 2024-02-15T12:29:00Z
+    webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/15/image/jpeg/zmdNHJGapezEozHxNrJjljcuS9lgnyoTBjNjNIEk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
     excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
     publishedDateTime: 2024-02-13T23:31:00Z

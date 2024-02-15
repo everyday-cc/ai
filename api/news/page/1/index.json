@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-15-dataiku-defines-development-routes-to-user-centric-ai.md",
+      "title": "Dataiku Defines Development Routes To User-Centric AI",
+      "excerpt": "We need to consider how an AI service will be actually be used by users and then construct and feed it with the ingredients it needs to suit the exact recipe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce0435bb2cb21ce46b67d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1543,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/amp/",
+      "publishedDateTime": "2024-02-15T12:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
+      "title": "AI In Cybersecurity: Revolutionizing Safety",
+      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1406,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
+      "publishedDateTime": "2024-02-15T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-ai-cannot-be-listed-as-inventor-says-us-patent-office-in-latest-guidance.md",
       "title": "AI cannot be listed as inventor, says US patent office in latest guidance",
       "excerpt": "The USPTO's new guidance on the use of artificial intelligence states that while AI-assisted inventions are not \"categorically unpatentable, the inventorship analysis should focus on human contributions,",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -50,6 +153,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-flyteinteractive-interactive-development-for-machine-learning-models.md",
+      "title": "FlyteInteractive: Interactive development for machine learning models",
+      "excerpt": "LinkedIn needed a better way to test and tune machine learning models, so it wrote its own tool that plugs into Visual Studio Code. Machine learning (ML) is becoming an increasingly important part of the modern application stack. Whether it’s large-scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
+      "originalUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/12/21/worried-tired-programmer-developer-100947122-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html",
+      "publishedDateTime": "2024-02-15T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -346,7 +501,7 @@
       "originalUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -778,31 +933,22 @@
       ]
     },
     {
-      "path": "_news/2024-02-15-microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio.md",
-      "title": "Microsoft Detects Russian, Chinese AI Hackers: Is It Time To Add Cybersecurity To Your Portfolio?",
-      "excerpt": "AI-driven cybercriminals targeting government and corporate records are pushing for increased AI deployment. Companies like Microsoft and OpenAI are detecting and banning state-backed hacking groups.",
+      "path": "_news/2024-02-15-the-3-best-ai-stocks-to-buy-in-february-2024.md",
+      "title": "The 3 Best AI Stocks to Buy in February 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/etf/microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio-1033067556",
-      "originalUrl": "https://markets.businessinsider.com/news/etf/microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio-1033067556",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 361,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/hacker-shutter3.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T16:43:00Z",
+      "publishedDateTime": "2024-02-14T16:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -827,7 +973,7 @@
       "topics": [
         "Meta AI",
         "AI",
-        "Microsoft AI"
+        "AI Hardware"
       ]
     },
     {
@@ -1077,142 +1223,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-y-combinator-seeks-startups-in-robotics-space-and-defense.md",
-      "title": "Y Combinator Seeks Startups in Robotics, Space and Defense",
-      "excerpt": "Y Combinator is one of the most prominent and competitive Silicon Valley startup accelerators, and has backed companies including Airbnb Inc., DoorDash Inc. and Stripe Inc. Apple Inc. ’s longest-serving senior industrial designer is leaving the company, marking the near-complete turnover of a team once led by Jony Ive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-the-future-of-renewable-energy.md",
-      "title": "The future of renewable energy",
-      "excerpt": "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
-      "originalUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-how-a-french-health-insurance-unicorn-plans-to-leverage-ai-to-reach-profitability.md",
-      "title": "How a French health insurance unicorn plans to leverage AI to reach profitability",
-      "excerpt": "Alan’s meteoric rise in the French tech ecosystem has been both figurative and literal. A few years ago, the startup’s office was limited to one floor in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
-      "originalUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/83ef56a7-9318-4a1f-9f0f-cbde328cef0e_MOORE-Alan-BD_D3A8123copie.jpg?resize=1200,811",
-          "width": 1200,
-          "height": 811,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
-      "publishedDateTime": "2024-02-14T12:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

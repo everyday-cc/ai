@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-
 webUrl: "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/"
 type: article
 quality: 69
-heat: 81
+heat: 79
 published: true
 
 provider:

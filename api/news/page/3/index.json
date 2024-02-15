@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-a-new-gpu-and-now-a-new-ai-chatbot-nvidia-is-on-a-roll-launches-chat-with-rtx.md",
+      "title": "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’",
+      "excerpt": "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 258,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg",
+          "width": 1280,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-pixel-is-now-the-official-mobile-phone-of-the-national-womens-soccer-league.md",
+      "title": "Pixel is now the Official Mobile Phone of the National Women’s Soccer League",
+      "excerpt": "Google Pixel and National Women’s Soccer League announce a multi-year partnership, with Pixel becoming the league’s official mobile phone.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
+      "originalUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NWSL_Pixel_Hero.width-1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/pixel/google-pixel-national-womens-soccer-league/amp/",
+      "publishedDateTime": "2024-02-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
+      "title": "14 Best Robotics Stocks To Buy Now",
+      "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
+      "originalUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/15152835/HHGC-insidermonkey-1700080113045.jpg?auto=format&expires=1739318400&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/14-best-robotics-stocks-to-buy-now-1258230/?amp=1",
+      "publishedDateTime": "2024-02-13T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-generative-ai-is-here-to-stay-its-time-to-get-on-board-securely.md",
       "title": "Generative AI Is Here To Stay: It’s Time To Get On Board Securely",
       "excerpt": "As business leaders explore the potential of AI tools, they should focus on these critical factors for effective implementation.",
@@ -52,7 +199,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 351,
+      "heat": 361,
       "tags": null,
       "images": null,
       "content": "",
@@ -147,7 +294,7 @@
       "originalUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -491,7 +638,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1058,153 +1205,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-bookingcom-modernized-its-ml-experimentation-framework-with-amazon-sagemaker.md",
-      "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
-      "excerpt": "This post is co-written with Kostia Kofman and Jenny Tokar from Booking.com. As a global leader in the online travel industry, Booking.com is always seeking innovative ways to enhance its services and provide customers with tailored and seamless experiences. The Ranking team at Booking.com plays a pivotal",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/22/ml15274image002-976x630.png",
-          "width": 976,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T18:54:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
-      "title": "Automotive industry likely to continue leading robotics growth, says A3",
-      "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "originalUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/ABB_Automotive_Manufacturing.jpg",
-          "width": 770,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
-      "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
-      "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
-      "originalUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/amv-textilebusinessa141011.blog-lead-space-40x21-1-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:46:31Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

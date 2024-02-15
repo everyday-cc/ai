@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/interview/navigating-the-intersection-of-fin
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/interview/navigating-the-intersection-of-financial-services-and-technology-robert-king-acuity-knowledge-partners-3691143"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "L&T Technology Services and BlackBerry Join Forces to Develop Advanced Automotive Technologies for Self-Driving Vehicles"
-    excerpt: "The collaboration is set to leverage the BlackBerry QNX suite of automotive software solutions and enable the development of innovative Software Defined Vehicles SDVs for global Original Equipment Manufacturers OEMs."
-    publishedDateTime: 2024-02-13T05:55:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2817078-lt-technology-services-and-blackberry-join-forces-to-develop-advanced-automotive-technologies-for-self-driving-vehicles?amp"
+  - title: "SNB Capital and Malaa Technologies announce partnership to boost fintech services in Saudi Arabia"
+    excerpt: "The partnership, which was announced at SNB Capital’s inaugural Investment Tycoons Forum in Riyadh, will enable Malaa’s clients to access SNB Capital’s funds and products. Such access to advanced technology and data-driven insights will help guide clients toward an informed and optimal decision-making process for their overall financial planning."
+    publishedDateTime: 2024-02-15T12:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/snb-capital-and-malaa-technologies-announce-partnership-to-boost-fintech-services-in-saudi-arabia-mbuow6d8"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/snb-capital-and-malaa-technologies-announce-partnership-to-boost-fintech-services-in-saudi-arabia-mbuow6d8?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/snb-capital-and-malaa-technologies-announce-partnership-to-boost-fintech-services-in-saudi-arabia-mbuow6d8?amp=1"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 19
+      name: Zawya
+      domain: zawya.com
+    quality: 31
     images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_34_04_2312796.png?width=1280"
-        width: 1280
-        height: 723
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZWYwZDRjMmYtZDQ5Yy00/0/rashedsharif-ceoofsnbcapitalandalialorainy-ceoofmalaa-jpg.jpeg?f=3%3A2"
+        width: 838
+        height: 558
         isCached: true
-  - title: "How Technology Is Changing Financial Advice"
-    excerpt: "The use of artificial intelligence (AI), machine learning, the rise of blockchain and cryptocurrencies, and myriad app-based platforms are reshaping financial services. Newer technologies are ..."
-    publishedDateTime: 2024-02-11T18:04:00Z
-    webUrl: "https://www.investopedia.com/how-technology-is-changing-financial-advice-4774011"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 4
 
 secured: "rliAjnKbXC7aKswqoADbYIulGQHfhF1ePlSV5lWa06dzZyp905WWCw/zLgPogJcPttXWg1hBAg0YFmxnjDdrnD62fJi9aR5EBtwx8dIB97FYifr/RaWXaRq79H5Hzh9rZiQT7wBaq+Ao5Q02k3SUZYjrXe9cVy3jRSyAgtpkOnSH6fDKAlM3eAfARX5P8C4bDaQXwo00ISC4DCu8QSAsHlPjyb7mJzrXoKcQDM5hF7Md3BpPZEd+Pe7dgn9xxdFpMYFx5H1G0RZL5LglWImManYJ7uZv2y7kI6UktADs4Hha84hWxfhjTwpK1Cuj4ip5HNgGxwSz186UDfeL+tJrHwoUIWX4S/fluxuD95CPBwo=;tGpeKeKHmwsA4qocoy/7Dw=="
 ---

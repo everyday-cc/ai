@@ -92,6 +92,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
+    excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
+    publishedDateTime: 2024-02-15T12:29:00Z
+    webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/15/image/jpeg/zmdNHJGapezEozHxNrJjljcuS9lgnyoTBjNjNIEk.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
     excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
     publishedDateTime: 2024-02-12T04:55:00Z

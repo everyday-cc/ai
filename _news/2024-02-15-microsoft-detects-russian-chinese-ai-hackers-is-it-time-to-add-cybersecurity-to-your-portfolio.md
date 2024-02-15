@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/microsoft-detects-rus
 webUrl: "https://markets.businessinsider.com/news/etf/microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio-1033067556"
 type: article
 quality: 73
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
-    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
-    publishedDateTime: 2024-02-14T18:20:00Z
-    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
+  - title: "AI In Cybersecurity: Revolutionizing Safety"
+    excerpt: "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy."
+    publishedDateTime: 2024-02-15T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
-        width: 1920
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1406
+        height: 900
         isCached: true
   - title: "2024 Cybersecurity Trends: AI And What's Next"
     excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
@@ -62,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
+    excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
+    publishedDateTime: 2024-02-15T08:01:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/googles-latest-startup-growth-academy-aims-boost-ai-cybersecurity/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
+        width: 5071
+        height: 3381
+        isCached: true
   - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
     excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
     publishedDateTime: 2024-02-11T15:32:00Z
@@ -75,6 +91,34 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
         width: 650
         height: 450
+        isCached: true
+  - title: "The Lithuanian cybersecurity start-up developing interactive, AI-driven solutions for SMEs"
+    excerpt: "Cyber Upgrade, a Lithuanian cybersecurity start-up helmed by former Paysolut co-founders, is developing interactive, AI-driven cybersecurity solutions for SMEs, with a focus on inclusivity and accessibility."
+    publishedDateTime: 2024-02-12T08:14:00Z
+    webUrl: "https://emerging-europe.com/made-in-emerging-europe/the-lithuanian-cybersecurity-start-up-developing-interactive-ai-driven-solutions-for-smes/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 29
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2024/02/adi-goldstein-eusvweosble-unsplash.jpg"
+        width: 1360
+        height: 908
+        isCached: true
+  - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
+    excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
+    publishedDateTime: 2024-02-12T12:18:00Z
+    webUrl: "https://www.arabianbusiness.com/culture-society/dubai-future-foundation-announces-10-global-trends-robots-265bn-cybersecurity-threat-next-generation-energy-and-the-end-of-disease"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 22
+    images:
+      - url: "https://www.arabianbusiness.com/cloud/2022/12/12/Museum-of-the-Future.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "erv23kAila+spqEpW2eu25phccx0PGkS8Xn9H0cGVXVMbR7gQEdsAjF3McmtpS/mlyhO32RzhMP7n+RTtOFnPk4rB2Ts4R/zgYIplEQogEra7BsilJj+kD1dt2YNpyDiWg+hzPIu8DxVpfqMKfP7qi+r08G3YMPQK31LaP4hGlZy5gJ3nE1/0mHcRrGDK0/JffpUFWV87cJOIsjYTEHea70Tkp3uYASRRk7dA3phM2YHp4zpAXsBnvc60VRH7QhEojz7eVuCb0mSbuBEpCIg651mvbcOb5DZ9JPkYYy1NnpadwKMK+1CZ+91Z4wkwGBrt/DURRk4hyZ+e9tNz8Fb0FbqGStcx2CiIvFNAzCfpkQ=;CFmO3UC3uQCtYKHAIfub3A=="

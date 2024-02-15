@@ -43,6 +43,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
+    excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
+    publishedDateTime: 2024-02-14T11:51:00Z
+    webUrl: "https://www.abcactionnews.com/morning-blend/ai-doctor-the-rise-of-artificial-intelligence-in-healthcare"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 69
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/04fc097/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe6b%2F45bf940c346f431c9be273b8942ab6eb%2Fe6b7a26d62644eeebc848a59b1eb55c8%2Fposter_906bccf9973d4e97bc21e778876d8908.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
     excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
     publishedDateTime: 2024-02-12T06:41:00Z
