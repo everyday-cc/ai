@@ -185,6 +185,20 @@ related:
         width: 1345
         height: 717
         isCached: true
+  - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
+    excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."
+    publishedDateTime: 2024-02-15T05:52:00Z
+    webUrl: "https://www.ibtimes.co.uk/chat-rtx-here-nvidias-offline-ai-chatbot-ready-talk-1723438"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1722987/nvidia.jpg"
+        width: 1024
+        height: 833
+        isCached: true
   - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
     excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
     publishedDateTime: 2024-02-12T16:06:00Z

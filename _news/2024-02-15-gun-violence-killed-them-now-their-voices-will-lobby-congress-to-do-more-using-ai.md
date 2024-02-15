@@ -2,26 +2,28 @@
 category: news
 title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
 excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-publishedDateTime: 2024-02-14T21:00:00Z
-originalUrl: "https://www.kalw.org/npr-news/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-webUrl: "https://www.kalw.org/npr-news/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
+publishedDateTime: 2024-02-14T17:59:00Z
+originalUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
+webUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
+ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
+cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 53
+heat: 93
+published: true
 
 provider:
-  name: KALW
-  domain: kalw.org
+  name: WUNC
+  domain: wunc.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/974cd23/2147483647/strip/true/crop/3184x1672+0+756/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F13%2Fgettyimages-924929238_sq-3163e0f5ec3c7c5e5d70853408df2b6dbd5c0bc5.jpg"
-    width: 1200
-    height: 630
+  - url: "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -74,6 +76,6 @@ related:
       domain: theguardian.com
     quality: 12
 
-secured: "i9wTwgGh+qbR04j/nwqUr0K1hrIjCujETO3uNM3YsWT7BU+eTllBY82VLpERU7OWbq4WpI6pxwV/qjAWygS7vKd2IVayr9aPoAjynv5N5LXxR2VhaUepl7k6CFnERwpLpQXWpSqv2pUqHYfgNaGMVUPexELog50goHnf5MYuAdVTqrRG2fK2wNRLcjoJ1KhLHEjO9dCDmkWYhcNpESOnbnEOPitpu2P0dtUTBZaZzUgyvqqC2wNbLmzgqBTylVdioqr+zgve9V2t9zIA1V7WnApS+sit1EEbKNXcyS0JeRzn3JYQpKlfAiaE6SiA2K2e1U/zAT78S7YcNlbhMcInnmzcCaFKlfo/g1wkYfIRzdm64G3PzMvM1jFKE78wIZW1MLtWaL1e5AYn6Kp/gZQ611IPakyhyp1LLTQs9eOtntuDrEO8udqsYijUE96cxG+yRpZBoREUGc7k71GRzbKn1ihZVn9Ir7/fnyjsVjO1btwnrvjUYiGOD5yBj8YUDi6ZS12AygU8oYKk+Qew6WN+Aw==;tzuxNBSlIpwrQNbmOYB7oQ=="
+secured: "CtH65RUPCZ4jOSNOYCkxlWSRqu7tb6rNh4N5CD+iPtWjql2pzYPIvm1YQS+ARR9ak4GtNiMOGHPj3W+yQJd5s0yxDKc/BMqGGPL/B0gj+49eHbJSV4W1+b/oRaVusVsvu4t3HbMxF06B0TfrrdYBOQ9/ENW1RWHDZKa0IBWpI3+30gNrH8miyDYv/ZFYoNkbj0TaALuUwccWSM94zeEjXwxxDhGKjdSog0XXp6CgGk2I/2OlXcDDNzughkDshJP1ecOsisFHqkz8RINwCEfO1qpoVejYIOarxZFoynCEKw7yW58pCksJfsI2mh1ZPQyCRMOFJC+CXz5I9cUOkryHvrgA32hR5Lgb7UMo4Tx8U7c=;iJgsTT1URWH+bm7+7K5nxQ=="
 ---
 

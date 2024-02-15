@@ -53,6 +53,20 @@ related:
         width: 1500
         height: 857
         isCached: true
+  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
+    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
+    publishedDateTime: 2024-02-15T06:40:00Z
+    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
+        width: 399
+        height: 250
+        isCached: true
   - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
     excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
     publishedDateTime: 2024-02-12T10:57:00Z
@@ -77,6 +91,6 @@ related:
       domain: shacknews.com
     quality: 29
 
-secured: "glj8S+I4baEkDZMseZg7WPodZsoZvA8HzczQWvPPvZXsWCt3VPLnkyO71j2mzlMqJgYfbFdUUDKtQxalDDOHp75J1BZ8kbFMZzPkUemjtD2MOAwBKD3zkEKzSccUVnI9A/Fby4LIxAPTTYCy+0t0A6VMo08DjR+C21inQncmAMfKlFuS9v0PxeORDyxKSKbw2/jL8xDR5EV8uHKcNg6izCmMi+r5UH3VIs5tfK+nmD46UhkXk8Hd4Nxyjv98+0QCuosTqmQOaWOvYIVmYEIzKo0RTKE1a00LnbgUaPatIFFaWrFukVF5yNNX/7aJ+YmhSgqnSBu64yIsuCcTHJsnbT0fe13XqREv6Y8mMSFJiqc=;R5Y+seIz+WZKLTAaPzuDog=="
+secured: "JaImdwoqaxajk/MajX4UWlDQypkcB2wYOQ2tqynHMrPo0BtwxZ5RtLvkBFpIjDrwPHf3wj8QM3k+LRTeDQbTi3AMs4f+UDBK48n+YX6S1NBhPbAvOQlo6jDIT4B/k6ddAjW92V3gISYI8VtL1Kk1pLM65oIw2KQk6J3Oe77mbjfghBmNr75rYDYo6rV4Qppm7adjQl1oFBPoCJ1aTaKVnCibpedUWeQ0ELE4t57izZQD8cfAUnqHFc9oGk0eocMF5fgi9EcgwJujiJVZcYZjLHTnhiM8fe3dPosgm9WjqTjTEF6yMf+wwS0jy0qj6Bkfj1OvrUrVvfEDvIBOjTF7TQ4jjUAqhyz+mNqkqFJ1RTDwGKxq+ac18yrMKyi9JCk7i6ygCAcNUexBeHNviX1RWUAFFxnGF5IP20zdZIwSyyI6tAufrAe3M+U5NVLKUSNTr6449UwdyBngWdy4QX3XaqJNVgwnDbKAkzVRqYkSv87v+hcZ5VBpkgB2ucUQQYLuBXzvw5V1hU9CBuwCoCpXVA==;0eue/eeq4vpsBDRauGnIRw=="
 ---
 

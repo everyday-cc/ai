@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
+    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
+    publishedDateTime: 2024-02-14T17:59:00Z
+    webUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
+    ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
+    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
+    type: article
+    provider:
+      name: WUNC
+      domain: wunc.org
+    quality: 53
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
     excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
     publishedDateTime: 2024-02-14T14:25:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Ew8AbcNpR5JpJm57Flw78mM2LVU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SZKQ24E6KTURNBDZKNRY22HSXE.jpg"
         width: 506
         height: 337
-        isCached: true
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T21:00:00Z
-    webUrl: "https://www.kalw.org/npr-news/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-    type: article
-    provider:
-      name: KALW
-      domain: kalw.org
-    quality: 33
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/974cd23/2147483647/strip/true/crop/3184x1672+0+756/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F13%2Fgettyimages-924929238_sq-3163e0f5ec3c7c5e5d70853408df2b6dbd5c0bc5.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
     excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."

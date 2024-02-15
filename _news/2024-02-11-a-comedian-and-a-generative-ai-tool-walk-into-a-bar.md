@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI Will Redefine The Workplace For All Organizations"
+    excerpt: "Artificial Intelligence, or AI, is like a highly specialized tool in a corporate setting, adept at performing specific tasks such as analyzing data, predicting patterns or automating routine processes."
+    publishedDateTime: 2024-02-15T05:08:00Z
+    webUrl: "https://www.forbes.com/sites/qhamirani/2024/02/15/generative-ai-will-redefine-the-workplace-for-all-organizations/"
+    ampWebUrl: "https://www.forbes.com/sites/qhamirani/2024/02/15/generative-ai-will-redefine-the-workplace-for-all-organizations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qhamirani/2024/02/15/generative-ai-will-redefine-the-workplace-for-all-organizations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd2c393d95b3ba590c00d0/0x0.jpg?format=jpg&crop=2377,1336,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "How Financial Services Firms Can Build A Generative AI Assistant"
     excerpt: "This article simplifies a complex topic in order to give you and your organization a high-level outline of how to build a generative AI assistant."
     publishedDateTime: 2024-02-14T17:13:00Z

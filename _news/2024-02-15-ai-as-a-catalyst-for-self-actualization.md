@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as
 ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg?itok=ZXa-GVcn"
@@ -64,6 +65,6 @@ related:
       domain: geeky-gadgets.com
     quality: 17
 
-secured: "Q0yIG2tLwJm08LCXlcCem0YfU0ltTGfcXs/I8MBjgu89Way9bRRiSdsNzSs4lTTs0+hHHGw/R0aR4Ab4+ANREyaLhgDMwtY8UkDIyPr9UCDCHmKfccBxr0BhZvq5mka4cTWnz4Au3owG/3LqzspGB2Un2NonwqXig0yOnYnLyTUvUawYZPsAhrnh/xurtK4QXar3d9KK+jj1QkMF0iQWfcWRSJ/FoYaRSJSjiYIVru1yVyy35JGP9v5Dtk1Feac1YjUub7S641valnD36QUv9n/eubG4dalxN8EGxc7Efv/FbrKvaKN0PNL+2YvDIwUfnbbx5EFT4U2IZ8Nh25Grv0H74eT0lMok682/PWZ974I=;Yn3uNfv8HmM5MMNFyH541Q=="
+secured: "rcRYRcY0ayjcOMcQyCjoCf1qkaPfxJEDFstA76DjxzuXYI8d1mCbajXH6Qo3Iud94kFJLqJoegbOyTHJRGtFYAcR1L2a+ZsHuONPDQoTjLI5PREciwrbLXTTZRWIbhtZCmAZhOr6P1Uh6a4TTOxpnw8RsV0vw8+VcXHNaNoReB/kFQoCuJ6zJev3YvUsccqTKLfbSe6gmrd1PImYgao7mKmtZv5eHxcjhaHiDP11QFtt52YIV531D+AGbfH58uGznDv1+ETjgp17ztYSCweL0pkw4SLAEDVrLnYx5YjRm391dC6E64sab8dgfLUckuuwgW6bR5RyjUWoS284OJ0I577D+4zLl9Rnw2nVi0phhOMafDVZlEi5gAnN5FQTgRX/EfJYIannVaBdldXqStLIlziKBNhVrq0aYqik8yMW3Jb/q3Jc4VUkeF9z7Ps2Os2hijqTdzmhYcDzq4r+Af+zR9TboQVAjWCdpUrhR9nYqWtTZWumqujzZ5jix236HOIUZz/NMTCEdCGeAkvMQ3jF3g==;3rybHCH3cO+mrI2+WoTXSA=="
 ---
 

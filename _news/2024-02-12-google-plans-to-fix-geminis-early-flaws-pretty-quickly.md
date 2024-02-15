@@ -55,6 +55,20 @@ related:
         width: 560
         height: 250
         isCached: true
+  - title: "Google Introduces Gemini AI App to More Countries"
+    excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
+    publishedDateTime: 2024-02-15T06:20:00Z
+    webUrl: "https://techreport.com/news/google-introduces-gemini-ai-app-to-more-countries/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/02/malware-7020225_1280-1-300x215.png"
+        width: 300
+        height: 215
+        isCached: true
   - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
     excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
     publishedDateTime: 2024-02-11T00:15:00Z

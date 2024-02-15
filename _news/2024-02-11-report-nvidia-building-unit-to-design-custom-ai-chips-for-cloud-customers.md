@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-de
 webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
 type: article
 quality: 52
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
         width: 1500
         height: 857
+        isCached: true
+  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
+    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
+    publishedDateTime: 2024-02-15T06:40:00Z
+    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
+        width: 399
+        height: 250
         isCached: true
   - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
     excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
