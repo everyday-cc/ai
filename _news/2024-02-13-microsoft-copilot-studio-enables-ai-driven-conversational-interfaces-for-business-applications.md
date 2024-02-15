@@ -205,6 +205,20 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Microsoft to inject €3B into Germany AI, cloud"
+    excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."
+    publishedDateTime: 2024-02-15T16:38:00Z
+    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-to-inject-e3b-in-germany-ai-cloud/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/15160342/MWL_Microsoft_Germany_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Drive sustainability transformation faster with new data and AI capabilities"
     excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
     publishedDateTime: 2024-02-13T17:35:00Z
@@ -245,6 +259,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 33
+  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
+    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
+    publishedDateTime: 2024-02-15T09:52:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
     quality: 33
 
 secured: "FOUCRl5pE1LB6WX17rmM7XYJ3W3voabAfMy2Rz5dCEa1ZJz2bcfgMxJNd7gR/a1wwUhBSXqx7jmQgZ6VhA7OS3xP+DcyNYVYX/8jf/oea5lya2o96W+HWYY4f9xJn3lpXvrVfN+PIkhTBnu5BmyyGyGYYmL8um50K2H3AOEA0wHiAPcJDwSRpMzIQGiBvJom4iwtK0ykVgNmtqOdJJyOzNz/PTTVtMPl3MlNgkC5mZA8+mKrYjVpWj2KfZFQ6V1FE/sGfuGISUToHmE1BetfLDtc8/Qfuswm1jcURH0T86UsaicIvSdMJq7+PveShTIY8ukcOfjYn8NKR6cI9vwY8qpL5XzwIICWVedKTODZVmymkNckdDWXziQeu5rxcoGl6IIaw7CGYFM3awaRkp64lVGe1w7dmVaVEnnUOzvokxZ/GIqO4jgbpNgbIihjOn6ZAmu3JcUkEuukZS+r2myrvu+JUivmk349V9hRu/7fMe/TfsAFVutlhx9O2t5G+BoKgY60bppR8d0CZpV9qQqNWA==;n9yK6TnAoKjn6pdDpqw7KQ=="

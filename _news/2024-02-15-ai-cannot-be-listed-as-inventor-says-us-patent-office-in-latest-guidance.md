@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-
 webUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html"
 type: article
 quality: 68
-heat: 111
+heat: 112
 published: true
 
 provider:

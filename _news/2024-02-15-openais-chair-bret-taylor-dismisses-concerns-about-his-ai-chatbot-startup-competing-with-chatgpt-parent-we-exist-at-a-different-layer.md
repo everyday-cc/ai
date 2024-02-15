@@ -57,6 +57,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The Human Perils of Giving ChatGPT More Memory"
+    excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
+    publishedDateTime: 2024-02-14T15:13:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-14/the-human-perils-of-giving-chatgpt-more-memory"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
 
 secured: "1iJgBUislUg+2ZwQkRm/oVqE19AryvK4NZleLxS5tt+kLhXqdMyuXdqlteKcr5nVdB/SR41GLVcR3xyM7E6CvGnNDHRTLA/EstJGy/9fP/h3MK+nFUS99kqcXMq3hFI0sCWL3MSiXTnyycYcI0OAxF4wKb/EwTS7N4rf38DnJzJijpIdeDEvDeL4YIJ3giLSBMEsssEZfjdHYRnzGf0WoXNYvFMn0gfA4Vu799yloUGC2SxvQJHVPB/C4If9EeP1wCSur0XcTDkXJ3RL01++HwGiP9Ur3hwef38odXngu1CM6P7cPbw+kgeX681WSiS27UXV2SCnJEg8ZRbi7bP2DdQfEh0RVPZ8SttoFR+VTBI=;k6MXMyTRFx5Ww8KZShtoVA=="
 ---

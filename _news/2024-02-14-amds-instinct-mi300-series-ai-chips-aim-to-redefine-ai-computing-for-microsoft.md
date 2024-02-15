@@ -195,6 +195,20 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Microsoft to inject €3B into Germany AI, cloud"
+    excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."
+    publishedDateTime: 2024-02-15T16:38:00Z
+    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-to-inject-e3b-in-germany-ai-cloud/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/15160342/MWL_Microsoft_Germany_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
     excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
     publishedDateTime: 2024-02-12T23:53:00Z
@@ -249,6 +263,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 33
+  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
+    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
+    publishedDateTime: 2024-02-15T09:52:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
     quality: 33
 
 secured: "poS18/vuD4WCVD/fRcxwe5RmIG5Mr3vqKicBJZM985tkV3HRW7JVGXpPniJPkAFoTqtPuyqQU5jHrTt6JGDYFTG2wowY1C6EeSzBqP2Xfv9H4jbE12iR3k7xe1SqLZ507c0aGPi5smWILbydnK+QondFSJ3OV6YaKnkLh4NgZiPhgrikn6ZoizLsLUwgcDooELoIF9d9292Al9IBXNDmabhoUUTtW+5qdns6NQH3Osz6EY0maxjwCB1Eyy2ii4axYP7Fj+67hDkCjzLCIesj15YXbGQPe9+SUIC5oMkqgSDBssgy8UrZmW+brVLv4TW8dDHiW64aJXw0U5/QIvOZrqrjcvDBNUiVG7dcaCSWpbumWSU+Ux3hPv5AblxOP4+CCaA8mhc5sMZTapV1TPK22Lol1gP793GbYxVIphD6cL4Ys/ImkFUijKMR4w+a2bdyhYVJ329U63fmcDntx6YR02wepXduRo1TICdPCGjJ6M05borATCWWH+bCMrE242cVOC5DBvvDkr/fL3WOGZAF/Q==;QavPXqN6pxsK66YPJvhlqw=="

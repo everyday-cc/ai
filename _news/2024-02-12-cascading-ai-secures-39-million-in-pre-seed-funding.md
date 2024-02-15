@@ -7,7 +7,7 @@ originalUrl: "https://financialit.net/news/fundraising-news/cascading-ai-secures
 webUrl: "https://financialit.net/news/fundraising-news/cascading-ai-secures-39-million-pre-seed-funding"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI Computing Firm Lambda Raises $320 Million in Fresh Funding"
+    excerpt: "(Reuters) - Lambda, an artificial intelligence computing firm, said on Thursday it has raised $320 million in a new funding round led by billionaire Thomas Tull's US Innovative Technology to expand its AI cloud business."
+    publishedDateTime: 2024-02-15T14:40:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-15/ai-computing-firm-lambda-raises-320-million-in-fresh-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
     excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
     publishedDateTime: 2024-02-13T11:41:00Z
@@ -38,20 +47,6 @@ related:
       - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/13/email-32490621920.jpg"
         width: 880
         height: 587
-        isCached: true
-  - title: "Ambience secures $70 million in funding from Optum, OpenAI Startup Fund"
-    excerpt: "The company said it plans to use the funding to help expedite its product roadmap and advance AI foundation models for medicine."
-    publishedDateTime: 2024-02-14T16:03:00Z
-    webUrl: "https://www.healthcarefinancenews.com/news/ambience-secures-70-million-funding-optum-openai-startup-fund"
-    type: article
-    provider:
-      name: Healthcare Finance News
-      domain: healthcarefinancenews.com
-    quality: 37
-    images:
-      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/AI_artificial_intelligence_tablet_screen_Laurence%20Dutton_Getty%20Images_2.jpg"
-        width: 635
-        height: 353
         isCached: true
 
 secured: "AfG9iSum1JZe+7gUfL8T+9ZIbQ15w+FfPcNgH0tfyC0RrvKD59bMx5dVvThrm71bTgxMfdOap6HHI340OCC5O8rgVY3LKd2j+h+P6OJtt1SrD9W/AF8W/b0aAMko1BuraC3LCsnvrsg5t/lvf3+U40cxmMAoALNCWt3KYFNR8RFgUo0vkRPtbwrtxkenIbhRu6TuQPcgMK9Oz21ywFqIDiaJhIZw1vtstlEMdiCLicd11j1YpNzb8bceaxQs6LqLBWTz56+uU3k/3g4GKMcLBepZQllMgUBmV518rBid+NraXt9jBu8OilCu9cSQOrcRpqT/0vLrd0H0Uwf7v2PWSAljbXhMGc2NYrXlQRUY63w=;6CD/L9qWPc0zHAsn9+hgXQ=="

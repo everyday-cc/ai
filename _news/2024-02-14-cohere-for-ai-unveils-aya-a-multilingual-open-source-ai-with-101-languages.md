@@ -38,6 +38,34 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Open Source AI Software Maker LangChain Launches First Paid Product — With A Massive Waitlist"
+    excerpt: "CEO Harrison Chase confirmed a $20 million funding round led by Sequoia and said his one-year-old startup already had a waitlist of 80,000 for its new tools."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/15/open-source-ai-startup-langchain-launches-langsmith/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 56
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ce1fbc9ea69baa635ac5a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Kong Open Sources New AI Gateway to Help Developers Easily Build Multi-LLM Apps"
+    excerpt: "Kong Inc., a leading developer of cloud API technologies, today announced a suite of open-source AI plugins for Kong Gateway 3.6 that can turn any Kong Gateway deployment into an AI Gateway, offering unprecedented support for multi-Language Learning Models (LLMs) integration."
+    publishedDateTime: 2024-02-15T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2341020/Kong_Gateway.jpg"
+        width: 348
+        height: 400
+        isCached: true
 
 secured: "VYqVRfah9WAjRLqC5AEOjLLsfGb5YFDnH8q2cHfz8MGHkbu/iZT02e5hYSbbxDGwJ3FfH233n+ZFr5kx290AkcS6AMzu60w3WtiXcnl7dt7Kq+QvsAMLv/FD4dSQI5I/ARkky7UwzsatThvMvP0E/dm+aH0N8QyAW3wdwOp/vZxaUTNOqTJ2bJDKM4gF5pEETPQPGqjM/chNermvHGD/MiD27/kZqXDeGIk4KNoPB3uB4vuYbrtg5kgl0tO32D70Jp6T7ap0c3jZsP0Q83cESiKvY78guLNsQowouWiufoFvdp79/D3LKj8N35oXXyeviJFjZv99EX4TkGfPGXr20GvN8dvi4jTmvNuNuMnvU1Y=;u8mZzKvaC5CvsqPcvY8umg=="
 ---

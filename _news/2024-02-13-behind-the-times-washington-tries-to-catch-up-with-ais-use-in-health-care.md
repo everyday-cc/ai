@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "'Behind the times': Washington tries to catch up with AI's use in health care"
+    excerpt: "Lawmakers and regulators in Washington are starting to puzzle over how to regulate artificial intelligence in health care—and the AI industry thinks there's a good chance they'll mess it up."
+    publishedDateTime: 2024-02-15T13:37:00Z
+    webUrl: "https://techxplore.com/news/2024-02-washington-ai-health.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 16
+
 secured: "AJKy6fw/3N/DnFrsZ4HG5QSFKpctXhSEFf1OmUDDKn84iZO9mZW5YI+C4EpXX8SFU7vs7NNDSx1FcdALB6CQwBK/AvOVKbdiMc3VG6llsM+ROTbpMbp5Jwf7ZJp0CGZKQrxrRXmZwwF1/KvyZEldHXlJJLtGpOHicWd/86wrrmiFkig90KTwpEx2bfThdWIFUsQOJytope18J36dqyx6iKfi3U6AbM6K8+Bw6OuaJvBZx1HgV+M4q5YObcDKJ3JtLrByhRE88nN+AH3dqVUs9JSVpHFRpvQPXpH2k9i5hGgn+o015bt0zzaH8iFb1Ur16fw24RF+1Y1KkhPwJcLLmN5oMAbdhBsl3s3u5ZMgx4xMNwsKtdfOsG8grHFpOhIJf6FNGU/O6rYfazpyXwLXDVGnRx3Z8jOu+NdqoKk5pduIHK2gqnOJsOZ3qxDvv/vZ0Z3CBRISk4OCmdJfadejyoNQRiZp9jN55Zmoo+etaOsskyBBqGbqUo6C89Pipu1Bdp4pQ+yL0hikHfZ5H6/eJw==;9p05GA615ezlW4HWQI21+A=="
 ---
 

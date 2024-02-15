@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Waymo issues a voluntary recall on its self-driving vehicle software"
-excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better predict the \"future motion of a towed vehicle.\""
-publishedDateTime: 2024-02-14T01:04:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
+excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+publishedDateTime: 2024-02-14T00:00:00Z
+originalUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC Los Angeles
+  domain: nbclosangeles.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.nbcnewyork.com/2024/02/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?quality=85&strip=all&resize=1200%2C675"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Crowd sets Waymo self-driving car ablaze in San Francisco"
@@ -182,6 +174,6 @@ related:
       domain: menafn.com
     quality: 19
 
-secured: "p9Jf56NyjmYmwe+jzH4/wA61bFbMzdZXFIVQlIsK4StT7xTgO52jC8ETMH2R2CgE/XeO5HpNNHxMzNk2RwbrAX6lAj/OAn16SVOMFEbqPERqSHCc+v9hYb6arhkCy9ZH470hAtUbducr4WrLGJROd626VCybj40LKLMudke/oleEN5zT9P5SVsJUv8M7PKvCGiZQrw46hhLsHc3rYjfJ/TJAaNog3m49OBBMbDa3YbEH5W3hLCVqlVWG+ETCIm2LtU+wQX7zXxDMT7U27MoBsb3/0+K4Q4tQ0IU2c+F7VMDmbDVUq06WtFe2fLeD4RsIQJ+SEBd3UqWQ+Cj0s/WqQA4BM+51n7zR858l3mYtiMA=;sAN4WxkxalWCiREQ/K8Ebw=="
+secured: "OBiAW7vRMKdwDBn2z5gKgtcPFoRoJmeGnwW9ENQU2omVxPojq76b2I1Wi7dVAEqMn6k6zszVUZYc9bSzE4agWtc+jNpljHlPu6gjBCqW8fK+QgHgEpLvTSz+oXsQJaDjh0B9EI0+OVrsREOUpGUryLhxtuMMAS2Dgnhl/YzVCB4+7gVi42blum9SbenaqGgsSJeaq1MvU/nYswRDnxcd1f4woIcOMPymidSYowg8UEKY2/fJ/H1irODKX9mviLey4/OT2VDGinf8JQiLREW0xx/3FW4wpEpGaEv7KhtIJXfQxrSzsz7+WvBLnfopaCB7Ey2OeBtyK20RKK2HjC2P2v6IUhD4ba/eQfYhknmJBEM=;H8GN5kR9o90Nfa1+aEbkGA=="
 ---
 

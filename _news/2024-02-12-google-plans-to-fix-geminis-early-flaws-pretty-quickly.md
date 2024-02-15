@@ -25,35 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Don't tell your AI anything personal, Google warns in new Gemini privacy notice"
-    excerpt: "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting."
-    publishedDateTime: 2024-02-13T09:50:00Z
-    webUrl: "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+  - title: "Our next-generation model: Gemini 1.5"
+    excerpt: "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities."
+    publishedDateTime: 2024-02-15T15:00:50Z
+    webUrl: "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/"
+    ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 94
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png"
+        width: 800
+        height: 418
+        isCached: true
+  - title: "Meet Gemini 1.5, Google's newest AI model with major upgrades from its predecessor"
+    excerpt: "On Thursday, Google unveiled its next-generation model, Gemini 1.5. Even though Gemini 1.0 just launched in December, the new model boasts massive upgrades from its predecessor, including a longer context window, better understanding, and an overall enhanced performance."
+    publishedDateTime: 2024-02-15T06:59:00Z
+    webUrl: "https://www.zdnet.com/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 85
+    quality: 83
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/951386ad561df1f668e67d2614eceb1d655811c1/2024/02/14/bfae1e50-6018-4394-8cf6-3a1f356e6bf1/press-kit-gemini-lockup-16-9.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Rolls Out Gemini AI On Ios, Android Outside Of US"
-    excerpt: "Google has started to roll out its AI service Gemini AI (formerly Bard) in English to more countries on iOS and Android."
-    publishedDateTime: 2024-02-14T10:57:00Z
-    webUrl: "https://menafn.com/1107850608/Google-Rolls-Out-Gemini-AI-On-Ios-Android-Outside-Of-US"
+  - title: "Google’s new version of Gemini can handle far bigger amounts of data"
+    excerpt: "Google DeepMind today launched the next generation of its powerful artificial intelligence model Gemini, which has an enhanced ability to work with large amounts of video, text, and images."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?936495"
-        width: 560
-        height: 250
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Screenshot-2024-02-15-080149.png?w=1920"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Google Introduces Gemini AI App to More Countries"
     excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
@@ -69,19 +87,19 @@ related:
         width: 300
         height: 215
         isCached: true
-  - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
-    excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
-    publishedDateTime: 2024-02-11T00:15:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/business/google-artificial-intelligence-gemini-smartphones-microsoft/article_6e95c66f-312a-572f-b8f1-457ca1730da6.html"
+  - title: "Gemini 1.5 is much more than a new foundation model"
+    excerpt: "The pace is on at Google Deepmind, it is already coming out with Gemini 1.5 within months of the launch of Gemini 1.0. It sounds like a new version of an"
+    publishedDateTime: 2024-02-15T16:15:00Z
+    webUrl: "https://www.techzine.eu/news/analytics/116521/gemini-1-5-is-much-more-than-a-new-foundation-model/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 32
+      name: techzine
+      domain: techzine.eu
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/e9/6e95c66f-312a-572f-b8f1-457ca1730da6/65c649cb7df31.preview.jpg?crop=1612%2C846%2C0%2C203&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.techzine.eu/wp-content/uploads/2024/02/gemini-1.5.jpg"
+        width: 2096
+        height: 1182
         isCached: true
   - title: "How to Learn a Language with Google Gemini"
     excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."

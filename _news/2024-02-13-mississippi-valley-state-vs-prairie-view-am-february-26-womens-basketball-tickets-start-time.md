@@ -46,6 +46,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Wofford vs. Samford February 28 Tickets & Start Time"
+    excerpt: "The Wofford Terriers (15-11, 8-5 SoCon) face the Samford Bulldogs (23-3, 12-1 SoCon) in a clash of SoCon teams at 7:00 PM ET on Wednesday. The game is available on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-15T14:20:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/28/wofford-vs-samford-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 2
 
 secured: "WLGThptENvgZzK+RXWvk1WekLr4lqPHE5Y5hjh0vKrNYzYXOxJffxU5nThscNIdo4Vty2EVubgAjLaZ+8NC9bBCPE5kXWkuACgay04cvvHu6SxdfcXh/U9sULyOTMWGJDxQmWSBtngYb/ZO3SV15532VlAypXJ2KL9i//aarYyVSepuJjCXXrg4GWNlcYmTIXrHqSlUFD5coYtEPlbRFumHZApV55SMbEZtcG3hdAToiEFqtc9teGuAm10rbHD3qEikiFo5MWoTFBFgWyyN4rGwdt8ErNVe6tO+38WJGlOG4N1rVsKnUWyP8ga7bLfVZHqzedXWI6De3kiP2/qHuHsR3AaTXGjTXBzW24CusTicYrr9nMB3GpCm09W3VYHDq/H3e3rwG01VGuervYbbvrO7sSzBJ9gAlOA61DrtLFtdHDt7+5gAKE4BrFz++yM/pyas6vtVvF+Tdul19bCGWX8G7C8lnr/TPblgn+7/6FnFXM32u9brqp6/Wh1YDhiKdsinh3XJ/nrnSlRpYf9DhKw==;o9FH/jBtGoHGDlEU+yPy5g=="
 ---

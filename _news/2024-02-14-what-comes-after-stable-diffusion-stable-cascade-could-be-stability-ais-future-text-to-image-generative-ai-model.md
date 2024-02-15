@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The 2024 Buyer’s Guide To Industrial Generative AI"
+    excerpt: "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science."
+    publishedDateTime: 2024-02-15T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd014ed2449794cb1106a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "10 ways generative AI will transform software development"
     excerpt: "Code generation and copilots are just the beginning of new AI-enabled ways to develop, test, deploy, and maintain software."
     publishedDateTime: 2024-02-12T10:00:00Z
@@ -230,6 +246,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2022/03/home-feed-and-meeting-gems-panel-100923010-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Responsible technology use in the AI age"
+    excerpt: "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Thoughtworks_image_2_1200x630px.jpg?w=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "How many healthcare employees use generative AI at work"
     excerpt: "Healthcare workers are increasingly using generative artificial intelligence on the job, though the industry's adoption of the technology still lags beyond other sectors, a new study found. Forty percent of \"pink-collar\" healthcare employees, such as ..."

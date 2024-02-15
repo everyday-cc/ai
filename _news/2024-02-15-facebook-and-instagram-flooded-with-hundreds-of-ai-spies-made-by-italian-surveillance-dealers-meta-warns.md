@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
-    excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."
-    publishedDateTime: 2024-02-10T14:09:00Z
-    webUrl: "https://techreport.com/news/meta-to-start-labeling-ai-generated-images-on-facebook-instagram-and-other-platforms/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 31
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/Meta-AI-Image-labelling.jpg?_t=1707574259"
-        width: 1510
-        height: 876
-        isCached: true
 
 secured: "fAslGzbGssJZVKdaXjsEaPt9G3KY7iKi07T2pMZlIPGxRCnz06yyLKXWd+JS1qeTkB2yQf7AebREcyB0p4jsJ84vjWRHyXGhgY7FIQfdji/POPbdQy10he0r9s8ovyazrxynUYuaTyQOmRRfCoWZfMvupMceY44OdhFtSODluDOhPRq+zLXYKzjcaFEdNpV5+CyIyhIxW1kfnXnPkh2ucrVIBOLvBfGROEdOFVZmtdXowoQcJLhWN5pdf2DUANPNV+TOjm25Q+ZSZ2kkwr+VvJCswnkSa3q5Gx5EuXUpqtTp7HSF+DvYpI7ydP4mwYJYSk414zDJ7dddz+U0Zgf/Ho07DvAzUXr7lLdTPWjFsSY4xNUGAO4WE7OVoE1j7cyJgLZS1rz6cbsWIdpOnwgalGM+1ObuoSGjTFBg84g/mlHvbcMWtNu6NGkYv022PGkCRdo0rsTfEv7PIVhnX7caBOlXdamf2ifQMTnMXsKG76T8HqpeWHAugsWmgoTh+Ex3iFSfQ3E4ND09a+/HtodoOQ==;20pjwpHidxFbKFx+MnymkA=="
 ---

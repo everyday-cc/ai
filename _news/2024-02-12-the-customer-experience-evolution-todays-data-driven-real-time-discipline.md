@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/evolution-customer-experience/"
 webUrl: "https://www.ibm.com/blog/evolution-customer-experience/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,17 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "NLP Evolution: Changes Coming To The Ways We Interact With Technology"
+    excerpt: "As NLP technology continues to evolve, experts expect it to play a role in everything from Web surfing to business automation (and much, much more)."
+    publishedDateTime: 2024-02-15T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/nlp-evolution-changes-coming-to-the-ways-we-interact-with-technology/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "5ZmL+vdhEPFpQ2EHf9wK1VAEG2/bolb/SEkGeEtVGAwTuG7i6IR7q1aJjoYKFanDqQKeY2amaVapD9mSkf860JWkNYogC6K2iTCBhHmOLOSWfxkf9nk/Sl+NADSYJlRSDFU4rsQyEAiJYhKwhS6sV3qX0LK4gO+WTAnYGPQCueHtrXkDNt1L0bQPHNp0fp06OGnkGxZVRRbfgsxFYewD0FjXxzDhkbTS2vq1ILdf/DFDGJizJwZC5bCVU/Z25Zg8Ll2htpYbc3NeAdh/IxzZtFE9zdJ2ieFKMC7LtBIwDC027ykbzAGARqEHIQepqmBaDi9ZqA1rX7rp4W7iWr11y/vsRR8du6+M/RbOTky7OCg=;ofkgk8FCGUVmkzTGhVMeAg=="
 ---

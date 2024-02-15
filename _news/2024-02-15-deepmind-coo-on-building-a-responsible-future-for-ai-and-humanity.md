@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible
 webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
 type: article
 quality: 84
-heat: 104
+heat: 106
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 600
         isCached: true
 
-secured: "NnpL4t9l1z7tCgCnx03WR3eH8bhxk0SO7JAb/BQ+XfvxvP5ggP/L1vwWpe3ghu/AM3TyOZ3DXB3utBekLBrtGLChN1Og/C62ZJ1ORpqKEF6JfKlCyy3/imeQMQLVuop/KX2y1qS2tAO1I08y1Ei1rIte7y/3WXs/qsGgiOEfsPnGh4HRQLfAZE3eo/FGQdcGmbvHdLkzFxK2MKB1HndzfK1JZw9rs5lO0m6uNTTz+dxJ1zY8SLXAhm334kMyNbdAxsMKZhwh2mlVAzNVCKCY7XCTa/1K24RhBa6S3zD0AmXKKrZZmhP6OVta2hbgkoMmsgXd9BaALaVhfm5h+TernuWmQyaBvkZWMVk71HH/uHmvPiPgHzb5UdUV3OJUeiPCziaxoRPkLFMwxYPNjwo4EK5xfx1wLouG/KbxNAxCRXw9TrLeNRiXm8r4uqySHxyVfXc8D7pjJGqrsRS5LWTb9oG3yFy7VdB6yeso9d3cLiMCZb4sV8YYm5frFSccP1faFWekvez5yEkSMAL9aYeI2g==;sNXRK+07LTkNZp9hjGV3yw=="
+secured: "AAQfEVjVqp+opGWcJucFPcr+PrsHPbaCKw69mWCi+CJu/bkEQfVbn4mhNuYiz+if5E6U2Jrm04NP9pGSdEgdk2Xz45RWzXAa660OZIAG9nEpxAHBbVzhR4pHJqvMu5bXFTlCEJU6ui6kwApBRwZ4OAe3wTfmL4kbNxlScEvJhH7wciW81QQCdlW22xsBtnnrwQJTtFZV3KlHjHotn8z8dUGdPWRWgQIl0DkQ7u24vOifdAwFPTHN1yy+xBfRefR52gVC/F/IsSntTUXtMt6B0tDTw6oo6Wqt0Om6HS79W8Jw70UfUX2p+7DK+ZxxGFnPAfDVkS8hjljohCpkdem07iSBJ1t3vmrrVwYtcz10iFNkACakNKT8WTAFOv2iqHTtwKNqaesL42eOdkmuO7CLetAwXdCox+aMi+bv2M+U2u/u+8OxXxXx+iLv3naExE0NJQdl9ZU7CkRasU1sQ20QAtYf7jScJOQ/gYMcyEAO9whIFi1qXxJtwY6L77sbZd0Zs8ekbncAuafwV2smfKrHJA==;YLf9tjtD0rLyFWk0PNTzXw=="
 ---
 

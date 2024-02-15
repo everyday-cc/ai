@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -195,6 +195,20 @@ related:
         width: 690
         height: 428
         isCached: true
+  - title: "Microsoft to inject €3B into Germany AI, cloud"
+    excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."
+    publishedDateTime: 2024-02-15T16:38:00Z
+    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-to-inject-e3b-in-germany-ai-cloud/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/15160342/MWL_Microsoft_Germany_650.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
     excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
     publishedDateTime: 2024-02-12T23:53:00Z
@@ -249,6 +263,15 @@ related:
     provider:
       name: CRN
       domain: crn.com
+    quality: 33
+  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
+    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
+    publishedDateTime: 2024-02-15T09:52:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
     quality: 33
 
 secured: "rlt34BYjhH4MPvlhThiGDxrHrseNUhWsgkkDYOx6qfTOpSShjfab5RHRoUCzP2BSKeEAr3UVBbF8tS11gMw85zjaTBvnEUrWAd47DAMzdghdBGkVxCUOvvVC4qQxTu2ILoFTWhfnjxTfJ+lkYB+R2Dzhdo0GRhIsed+nxXWK1iGbms6hpEiXd9d1JqucgnjPGws+5eVF8RUJ+lKo159jw2qxHKBjC3kW7Crx4VVZMaIHAcmETdmJHxhLshXmseHJ0qVb4nmmCP5iC2vDTZTW7b02wwuknBW4GpG8/m3Vp03pJpwN78uf0IgFE2dETZl7ksU4xfdP1ddudo71SF1URkLOWT6Fn5OaaLWwKgqY/wBh/jCNpHLfeQ60uF1PQiyF/rOAj+HXVyGbIW52VtA4rnSbii6lmgTVB53XATj8vIhROP/7iyk41LDVgXWfarx+c2OEFmoWHHjBJPYvYrt8xr28Si+kl8G3viQkFJy1pRt8HaAoMH2NfYHYUeJL5x/G1+rjoIYjDEmwNZLi+0IAsw==;flThODv/K1d907x4uYX+yw=="

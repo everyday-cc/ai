@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explo
 webUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: The Straits Times
@@ -24,6 +24,22 @@ images:
     width: 860
     height: 573
     isCached: true
+
+related:
+  - title: "Exploring the Impact of Artificial Intelligence on Everyday Life"
+    excerpt: "Welcome to the future! From self-driving cars to voice-activated virtual assistants, it’s becoming evident that artificial intelligence (AI) is reshaping the world as we know it. But what exactly is AI,"
+    publishedDateTime: 2024-02-13T16:49:00Z
+    webUrl: "https://techbullion.com/exploring-the-impact-of-artificial-intelligence-on-everyday-life/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 45
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI-Technology.jpg"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "iiE2UQ0tQk4OdCUnDSeHd8c8/Hqy+Zys+/1N9iTZHPK4i+IH1BMRyYSE6/+mZDny28LRFFGsnT3QdSNh56SGCqHLrRyxBdDMT/z0uDHB8uSuvvQN3fxMAx+TtbsLfODKnbHop9rXb9J4qktHqotFznOwrDEmbaO2QrwwZel/09HGxmIhY08BU4FPDEZEBnzEAZh6zrhaHtnszLubjNGvlPrGQbxDzeKPZ2HfIFAzxfoW/PHRU/S+U+pPTZXQyK8i1btFC/+/atTWSi6ZSRGrraLDoJyCEYneLCON3fF5RZ/zAt/IiShahS3bXgTwgiezj6GraSi3d74MR7G34vHj4azBzXDreFplsrqgyyxtV50=;qZUi+tUtpKlIqRhEJAQ7YA=="
 ---

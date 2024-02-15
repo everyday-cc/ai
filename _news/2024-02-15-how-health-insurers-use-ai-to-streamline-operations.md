@@ -90,6 +90,20 @@ related:
         width: 800
         height: 500
         isCached: true
+  - title: "Artificial Intelligence Can Now Help You Buy Your Dream Home"
+    excerpt: "With plans to expand operations to respond to Nashville's affordability and inventory crunch, with a milestone of delivering a thousand homes in the next three to four years, Legacy South sees AI integration as a crucial tool to capture valuable data, understand buyer profiles, and inform new construction decisions that will shape future growth."
+    publishedDateTime: 2024-02-15T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "What you need to know about AI corn"
     excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
     publishedDateTime: 2024-02-14T20:08:00Z

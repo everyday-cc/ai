@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot"
-    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
-    publishedDateTime: 2024-02-15T01:20:00Z
-    webUrl: "https://www.wral.com/21283296/"
-    ampWebUrl: "https://www.wral.com/amp/story/amid-artificial-intelligence-boom-ai-girlfriends-and-boyfriends-are-making-their-mark/21283296/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/story/amid-artificial-intelligence-boom-ai-girlfriends-and-boyfriends-are-making-their-mark/21283296/"
-    type: article
-    provider:
-      name: WRAL
-      domain: wral.com
-    quality: 44
-    images:
-      - url: "https://wwwcache.wral.com/asset/news/technology/2024/02/14/21283298/65cc4beac0abb-media_089914121c3045ecaeb300c2e9d2eac7-DMID1-61xxdpl46-640x480.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "AI innovation helps create authentic, pitch perfect vocals"
     excerpt: "According to Hai, Diff-Pitcher is notable not only for its ability to create authentic and controlled voices but also for the method used to achieve it. \" [The results sound] really natural, and unlike in older ways of fixing pitch, we can still regulate how high or low the voice goes,\" Hai said."
     publishedDateTime: 2024-02-12T10:00:00Z
@@ -55,19 +39,19 @@ related:
         width: 1300
         height: 1300
         isCached: true
-  - title: "People are seeking a romantic connection with AI bots"
-    excerpt: "Carrier wasn't looking to develop a relationship with something that wasn't real, nor did he want to become the brunt of online jokes. But he did want a romantic partner he'd never had, in part because of a genetic disorder called Marfan syndrome that makes traditional dating tough for him."
-    publishedDateTime: 2024-02-14T19:38:00Z
-    webUrl: "https://www.ksl.com/article/50877210/people-are-seeking-a-romantic-connection-with-ai-bots"
+  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
+    excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"
+    publishedDateTime: 2024-02-15T15:46:00Z
+    webUrl: "https://www.pilotonline.com/2024/02/15/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 39
+      name: The Virginian-Pilot
+      domain: pilotonline.com
+    quality: 24
     images:
-      - url: "https://img.ksl.com/slc/2970/297043/29704311.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
+      - url: "https://www.pilotonline.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908.jpg?w=1024&#038;h=682"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "P+Doye/spEN/vGoUOwS7Vb9T7AQbuG1lcpBA1jCwYri3KaxRx9EDV14QwbN9OdVUZWFmzz0I8dyvyVH4jW5SZB7pgICh3c6Qv+fPANwfB6UCtYsF1lE3WKVEGAYRRA8llLzMzja1rArF2nzrh08saKIgrLvwuy/FGYsRvVI3MoG09dz48qPTiG1L5GQRLD56tmskdVOuXP7a42UI56lGB7Kf9Ocb8lekld7RADhE3gznjDCGbl81uJeb+2lwrMNV947hjkbmUpEGNaweI+IQUy9qs3smXwtPviIkk7fIPSbupVQfzXTq4xpImYoFPr/fJe3nJCVmzYgwWVV9f4TKKEkH68j0h7Cj6EIVs+a2EF0=;7DJiE10wNXYOftf1lKfOug=="

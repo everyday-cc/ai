@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-i
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta to Start Labeling AI-Generated Images on Facebook, Instagram, and Other Platforms"
-    excerpt: "Once the feature is deployed, users on Meta’s platforms will start seeing labels on AI-generated images appearing on their social media feeds. In the blog announcing the new feature, Meta specifically mentioned that it aims to label images from leading companies like OpenAI, Google, Microsoft, Midjourney, Adobe, and Shutterstock."
-    publishedDateTime: 2024-02-10T14:09:00Z
-    webUrl: "https://techreport.com/news/meta-to-start-labeling-ai-generated-images-on-facebook-instagram-and-other-platforms/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 31
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/Meta-AI-Image-labelling.jpg?_t=1707574259"
-        width: 1510
-        height: 876
-        isCached: true
   - title: "Facebook And Instagram Flooded With Hundreds Of AI Spies Made By Italian Surveillance Dealers, Meta Warns"
     excerpt: "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists."
     publishedDateTime: 2024-02-14T16:00:00Z

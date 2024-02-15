@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-sl
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -30,22 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Walmart, Delta, Chevron and Starbucks are using AI to monitor employee messages"
-    excerpt: "Aware uses AI to analyze companies' employee messages across Slack, Microsoft Teams, Zoom and other communications services."
-    publishedDateTime: 2024-02-10T15:06:00Z
-    webUrl: "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html"
+  - title: "US companies are discussing cost cuts and AI like never before"
+    excerpt: "US companies are discussing cost control on earnings calls at a record rate, amid a push to reallocate funds and invest in new technologies, according to an analysis by Morgan Stanley strategists."
+    publishedDateTime: 2024-02-12T12:38:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/us-companies-are-discussing-cost-cuts-and-ai-like-never-before-71707737790042.html"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 81
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107233563-1682968497653-gettyimages-969435802-ai7i8668.jpeg?v=1682968530"
-        width: 6019
-        height: 4013
-        isCached: true
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "OyarleH0UUqvdfNtz/X4GVfnaBDVPiENAtC/yESl+AflcYWi7d2rmUvO4DNKZUxbqT8Kqe2t2Jvfzh3ALCAoPvWDFdwQ760L+7ih6m8cVi23GPSEWnsbwK9Y12mRcfmfNf4pj3AFORVxeLlCK7Hbt48Mq3Fl/p8WvlJ7cTsOe5wffFj+fkkPsCuJmuW4f8PRxmrtXmerxptl24/PrKjuotjXecd1ua3+m+ZxC9tr6zX39STahLOCWesoBbWWvDMnO1kGsPhsAhldpSX2Zl1P73EX3XvhPaWVUREKDuwlzniafa84fGeqyAUITT1yfe7yTaVLEN7Ocmk0FJU3cUVf3kENYwoI0t3htqSuJj1RKwHEkYwZLpiBtZyf/hxYfaMgO17+Y+5qwAdJcdpjsvt5Xb0ylxPDXhXvjTd9Y4diuwPK/QuQ1TVCNFSDfVznZ/tAd3ir9eL6Z2JlJc1Crehk4YXQVDG+Q5hcdiwGhJDuw+1bWesJtAOjqkwbQM4eEw/+CYzbavq42qLrsd37NFzZJA==;vxK1aMe1J/8ibp4dnwtC2g=="
 ---

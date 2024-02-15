@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-tr
 webUrl: "https://www.forbes.com/sites/gilpress/2024/02/14/is-ai-going-to-transform-higher-education-and-how/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65cbe7a803402c001efdede4-saul_leal.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Unleashing the Power of AI: How Algorithms Are Transforming Art Creation"
+    excerpt: "Are you ready to witness the remarkable fusion of creativity and technology? Look no further than Artificial Intelligence (AI) algorithms, revolutionizing the very essence of art creation. Step into a world where Picasso’s brushstrokes meet mathematical genius,"
+    publishedDateTime: 2024-02-15T16:06:00Z
+    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-how-algorithms-are-transforming-art-creation/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI-in-art-creation.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "VqqRVV+nYif/CWa+zfolHyM7CUX9jlPfvFqifXKizRfPrq4YUU3jO80kjsc63k/k4teXWHY7cAEWRWU5u5kkUvmEnGHk7VUgtP0xx5jAiPe65kQtwJYazubmh6idkH2ldAxOD0ljoi+A0zQ35BYU7oAq4R9GCHhWpZfsb1rYY+XDILn569NnsPwcGjvCM75ze8DZH2xaNSJCdjcuarIQ1E3JbECyJyzn4rjsRyXNoY2UZngzP+6b0T2l1V72dLWBlWFalemX9/z8FYKVy+HxWHUEeguoc5kXRUhMRlohwHZEBGJ8D0qoYvqNrNpxxEtDMqI5Vsfp1u2bH/6K9jMgZ9p8eqMlY4f6Kymr6SyYbJru0Iqp86nwvFkf36cFVWzpPgxmIxZKvb+nwWjdM6EI639fLMuDXh5V+GcGr1su2ZEdBtZeqing9ulrSeNdDg81XTjFBDgDWtxW9owIHSaPOsBBrXM5AKa4uxnAZMHD/+Zaks5fh/Mm2wtKwGn4EFEum+teGk3Ytar+KQOaPMHHNg==;o/TH/chc4ofp4kQA8j1ERA=="

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-booking-com-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png"
         width: 1243
+        height: 630
+        isCached: true
+  - title: "Detect anomalies in manufacturing data using Amazon SageMaker Canvas"
+    excerpt: "With the use of cloud computing, big data and machine learning (ML) tools like Amazon Athena or Amazon SageMaker have become available and useable by anyone without much effort in creation and maintenance. Industrial companies increasingly look at data analytics and data-driven decision-making to increase"
+    publishedDateTime: 2024-02-15T15:54:24Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-manufacturing-data-using-amazon-sagemaker-canvas/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ml-14561-image006-e1706807831681-1249x630.png"
+        width: 1249
         height: 630
         isCached: true
   - title: "Skeleton-based pose annotation labeling using Amazon SageMaker Ground Truth"

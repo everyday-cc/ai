@@ -82,6 +82,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence Can Now Help You Buy Your Dream Home"
+    excerpt: "With plans to expand operations to respond to Nashville's affordability and inventory crunch, with a milestone of delivering a thousand homes in the next three to four years, Legacy South sees AI integration as a crucial tool to capture valuable data, understand buyer profiles, and inform new construction decisions that will shape future growth."
+    publishedDateTime: 2024-02-15T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963301.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "How health insurers use AI to streamline operations"
     excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
     publishedDateTime: 2024-02-15T09:00:00Z

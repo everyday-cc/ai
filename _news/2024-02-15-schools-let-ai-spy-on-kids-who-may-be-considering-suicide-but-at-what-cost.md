@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-15T12:00:00Z
 originalUrl: "https://time.com/6694425/ai-monitoring-school-suicide-cost-essay/"
 webUrl: "https://time.com/6694425/ai-monitoring-school-suicide-cost-essay/"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://api.time.com/wp-content/uploads/2024/02/ai-trackingi-students.jpg?quality=85"
@@ -27,6 +28,6 @@ images:
     height: 1188
     isCached: true
 
-secured: "roTEuFtZYbYlnhhaDASM600I5661F9RrxSdwPQpxAcuJSUFnAcvURimVOBv7DEk9WZbDEq8ZT9wLW1WXc3T/OTEPC5j3WB5dniihrtX185Pm3+2H8WtEhWJXm7D2csb0SrNIBuo9LZbhcIHqvKFQAT471FP+98/PZDlcVeTD1/EqeSvumUB0U+cDvnl9Y12Jv9/c+eNW6087Xgf7YM8Ty5Igmo5PSctdEXNZhAipLvih5SRCVu9Mb44Q05dG9kClPbDrr/0dWwR0CcN9bmKsyIeDWAlcAsjP9WSOFIwbPOsanPkerl2b2cQeu/n196VLPx8TecEOclreblb7hSJbrzOPspkcVZzRcOOK6YBbR+8=;irOWD4vsegldrwVqGSydPA=="
+secured: "OGUeLMemGpXXr6t1bLeWvd9D9E6ZzeD82UIeGn1dqlzTCH5FJD4NllOa/7N++TSVyYP4npzHsWDuEXWBouHGyibOoaUbK7xGEC1eaqtR9SjwQ0D5EHN+q89s4MoMal2fPBVR8X9T5/WeLv2RUeoxTYqUolFULvKRLAyNJlV0z/r0+Qmf748A+TWYxkaVsdFGFzGnjRChzAiBnHYHHWXBfJXOGkOEOdMgkeoxnYNZHVLbgUcPdqVCJsIlMIdOUshkxn+U5q6KDUGCNW3KFNN1fXTiDxBCFIrnQxJJ5Wz+NlwFNtj8S+Hb8DRdu5dwTu748KJ5Jeq+oeWfqELH/6SdcD3/cLOvYQd+Dc2JWCmN/yX7V0q9I54M2E9xeGHWU21QKOsMHDxcII5rYFln6SNbbiAJngRCRwZzF/PV9hWGDCtA7krIs+G/8mMnL+pwaeFtd8geUaH/DzQ/jTWY4kp2N1s5KrydEvnAOx5RSTk7s5ypYj4939qxHKryidyWhFMt+bh7zJzauvMm97hxR6U7vw==;hCBsHk1bWG5UMjZwEJqxkA=="
 ---
 

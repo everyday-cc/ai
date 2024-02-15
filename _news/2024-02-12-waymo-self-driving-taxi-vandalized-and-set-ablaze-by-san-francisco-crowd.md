@@ -39,22 +39,6 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
-    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better predict the \"future motion of a towed vehicle.\""
-    publishedDateTime: 2024-02-14T01:04:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "On Oct. 2, 2023, a pedestrian hit by another vehicle was thrown into the path of a self-driving Cruise vehicle and dragged 20 feet (6 meters). California subsequently suspended the company's driverless testing license, and Cruise pulled all its U.S. self-driving vehicles from testing."
     publishedDateTime: 2024-02-12T14:30:00Z
@@ -183,6 +167,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 19
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
     quality: 19
 
 secured: "uxC1Dvw26jK3gtuxO/W6PoUBGudvYVyuOx792A8ylhDKbbhsKeIPLjPAj5m/TtCP5h962jQ0DXjCDMULV67Z//Amk4OPTDOueMrXn1xHxvYWgiilPQPGzOj0q+SOeXXwyCwFo0wwfhBkeIYEiQ/M/zTV9YvfID7nEL0zgonevK4kqh2LkwSMlLQJA8fgC4A2SHMXkkBnxHOMRzw3bXVsr5fZOnQeQA7XmQ0YevqkcUsdkJArRJh/kaNYKt171qIhcqVR+sh9sb9XEBeuwMJ1sNoTiVnGTm/LwZQl4vq3gM/JFfZ98Kxm8I7xhHpkogW4zKyFvnu7hYoHuwgcrmMYSecfNnxKTT3bcIpF6Fkni6Y=;G7uuLP15NgKJLCy1wBgPdQ=="

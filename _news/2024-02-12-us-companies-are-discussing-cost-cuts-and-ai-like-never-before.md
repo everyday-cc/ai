@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Flashy AI isn’t the only force disrupting giant companies"
-    excerpt: "Why are layoffs sweeping through Big Tech companies such as Alphabet ( GOOG, GOOGL) and Amazon ( AMZN )? Executives are resetting their cost structures to reinvest in AI, which they believe is needed to annihilate their less-nimble foes."
-    publishedDateTime: 2024-02-11T15:30:00Z
-    webUrl: "https://www.aol.com/finance/flashy-ai-isn-t-only-133012142.html"
+  - title: "Major companies are reportedly using this AI tool to track Slack and Teams messages from more than 3 million employees. Privacy experts are alarmed."
+    excerpt: "A startup claims its AI tool tracks employee messages on Slack and Teams to monitor risk. Experts aren't convinced."
+    publishedDateTime: 2024-02-12T19:42:00Z
+    webUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/UQnZz6r0f2fZALwDgtZekA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/20688ed600e63b688672146920cd0316"
-        width: 1200
-        height: 800
+      - url: "https://i.insider.com/65ca57c06e2e190e71a392df?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 549
         isCached: true
 
 secured: "VSE3Ja+PLRWCuuqt+K7NRf8fgc8mqaeU0ZQjZbG7OjRO38yAETzp67ho5QndXM0iWD4/4q9L28qsxwIX83tVD6bJTRbbMkuwHmr5ijavsaI9bP9ahjWru9y3hV59LshiyAtzheRqPpaPpf/9CG8GJjeD/jRMycSqHMUrOc141G1FBshGJn3ad2I2UinjaLY0iuuOmX5V23R7TT9GLlfS4AjIwfkw4/pEsEYsbKzzBAoEme66Nubq9AAkYuuDIyTIAOrqJhzRv3e9IVcMjvlfdgGHIkc+l1iF1ndtvO68B/pqeXVnAOzVVdEIaH6HHENS32Fg/mlbtluGiitNnZHDMqS/LMqZMhzdlC1uEhaGc0aFdGjEhu/dEBWj5diDmMRZ5LMW/LpC4eYtZFe94hNDgBeE6IFEvdW/ETq51pVo/OAz9LmzlsyEziqrGz6suTgGkPcBHYeLlGRaAWvI6UqbYd7pR4icEPy6Ht++WTGJp1I6O2orfZdNVIMdEFgTqNIPCGx6V6BFqn/zwWP6uMYOIg==;1xCgN2t9H+Td8XCx2BzT4w=="

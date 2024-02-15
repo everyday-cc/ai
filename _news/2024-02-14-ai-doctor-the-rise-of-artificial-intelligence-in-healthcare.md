@@ -41,6 +41,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
+    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
+    publishedDateTime: 2024-02-15T15:11:00Z
+    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
+    type: article
+    provider:
+      name: American College of Radiology
+      domain: acr.org
+    quality: 71
+    images:
+      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI for Social Good: Revolutionising lives through operational excellence"
     excerpt: "The transformative potential of AI for social good is intricately tied to operational excellence. Collaborative, sustainable and personalised AI efforts present strategies to showcase the broad impact"
     publishedDateTime: 2024-02-13T10:20:00Z
@@ -132,6 +146,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "V0W6lFPffG4wcKP/ZUHJVU3VQlMGph4RPOgMoARSwasZOpVEqbEmgvPYvCmsE3ojexUolA6GemxYKK7O9U3Baqzfl3dpBmFV5KVxVAiMq6qijljkOniYkMDgSPcjfson1cYJXU6ryFjDLA5Xz3QzF3oPj4irBg7jLnlnNKZFvjO209x0CDmVkWY2WennJzDYKjhxMqBIeAydj4pUzlXPLLqz/veBILdS5PZS6ohxk5tBI+6EzOydF3eRQuYFdTINW8TONBzjzLI8O/mFgZ/e6UbUsWJg0qAWOBKKoOSGobz/pbjEywblBn0x2bLTzm1PKkEitkK2goAU2JjU2KgqMQovAxI60r/VA52oIfK+5J8=;zaNJq97vziGxTR+T/2/VUw=="
+secured: "YtwsHFZhVYZEOMz7/lnE8Sy/SeCeKBns5vXgGDCOnRFgbHJOdXqo4LKWBpCK4iwWtossCWkg2pkrTTw6vcrxS9z3SK9mqvnRdpl5XuSAanzCTpU7hr0WL19LyThNipyIXr4xF27JqtCqwlqX4TZUExZYBkORhonJcSVRzIPtEJiTvhY7D/luhoUJjMJtr+aQTIYVxtkibR2YVHUUzt7fT2eTNFdKyOaUiqBsp4hQ72pYnAwJJQUslBNxE8pIUd7ptk2w+KxyV04YiD84yK7O4BDUaUF/W9tJyR7omzJLLDTQG04kloykb1Ww3YkRIiyvW29cYkUMeCX/639f5KoMHM1AZJsDYnoQTZewnq+Kp8FlzHrFhzKUekT2vU4tgxsctb4Xa4WaCbJS9zINhXzsOr1scFnuVRQLKT04dNYDaLLBijC2ZMQRdDAR/x5ddBIyT/36zqaTKoMsLHCayJJMyowKhOHYHqriVN1nhmXJeS3qQqAyKYlz06zU91pC+WwaAcqw7Mng4KMB+3noUSR61g==;PwGPcchSNybCS0gOvN16Vw=="
 ---
 

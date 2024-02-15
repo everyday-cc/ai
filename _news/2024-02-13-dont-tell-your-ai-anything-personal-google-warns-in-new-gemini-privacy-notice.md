@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
 type: article
 quality: 85
-heat: 145
+heat: 105
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
         width: 560
         height: 250
         isCached: true
-  - title: "Google Introduces Gemini AI App to More Countries"
-    excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
-    publishedDateTime: 2024-02-15T06:20:00Z
-    webUrl: "https://techreport.com/news/google-introduces-gemini-ai-app-to-more-countries/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/malware-7020225_1280-1-300x215.png"
-        width: 300
-        height: 215
-        isCached: true
   - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
     excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
     publishedDateTime: 2024-02-11T00:15:00Z
@@ -73,38 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
-    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
-    publishedDateTime: 2024-02-11T22:25:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
-  - title: "How to Learn a Language with Google Gemini"
-    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-  - title: "Google warns users not to share personal information with Gemini"
-    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
-    publishedDateTime: 2024-02-14T20:19:00Z
-    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
 
 secured: "xZ8l+NeGij7y2sOG2SC/HhKVb9IEN3YBlyH3oslcF9ASXI4nCLd0g7brLfyv4AGOgxBQ3r+4rOJRD+aNc9PpaIbHM+krKLRC8rUbmIbNqMXrLO2zhWdSh61vbOxFYVEOkawGR5Qofg3UlLddv/u/sqA3ENv9Bvb6wgFN9/rbgNECi8TDDFv1h7nRD2Vg9KDf2uU8dfGXk/HAwjHLBGVdjbAJKt3COfVt0T0NRS0dMJFzeZD72lLQPwOOnfb1b+uCFKGz29nzX81IxCaZLZUoxpohdrIo6VHTDtfyjxxM7FZDCip3/ZM0HaDVyeNg8b7QMcrKOIzJbmyOEI7YAlyzuXYCuA2HCp7ZvF82Wvl2V1U=;95+j7jpeyWJSAZsn+P6B9g=="
 ---

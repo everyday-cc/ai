@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "US companies are discussing cost cuts and AI like never before"
-    excerpt: "US companies are discussing cost control on earnings calls at a record rate, amid a push to reallocate funds and invest in new technologies, according to an analysis by Morgan Stanley strategists."
-    publishedDateTime: 2024-02-12T12:38:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/us-companies-are-discussing-cost-cuts-and-ai-like-never-before-71707737790042.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
-
 secured: "UY5cLsaBzedsWcxPMGSg8SHexP8EHRLmHhPohcEwrLnn4JqYHfmIpAr34robyZUpQj9Kk5g7twTblD8r+L3Ikz8yWtAfoYgo0CRkYbQ94WBrqPD4PvTovmeXbO9wYK99ZvuaFIOJ86iY63Iwykn/bKSRrKmVRcxTOgQQr8gfy8qsi5feY5Sr0IjyjpHdOFkMVobsjcfHU8bOjTivjHxs/s3FM6+iNVt3ETmcUgNLmOSwRPpIGYgobDal0LKjcN/4OL/Izkr7Bw/agFu1rIHX2sXKTlepEjlLD1qfAJ/hvpqrlkDjuBR6nSSR+b8qZhw72uPcsffyTmLJQVzsuDTn0g8d4DFnpUbViof4lEM827Q=;Z6OC7y6Yg2k1nDcKhm4PTQ=="
 ---
 

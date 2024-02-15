@@ -40,22 +40,6 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
-    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better predict the \"future motion of a towed vehicle.\""
-    publishedDateTime: 2024-02-14T01:04:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/5134428/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 59
-    images:
-      - url: "https://media.nbcnewyork.com/2024/02/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
     excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
     publishedDateTime: 2024-02-12T12:13:00Z
@@ -179,6 +163,15 @@ related:
     provider:
       name: Mena FN
       domain: menafn.com
+    quality: 19
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
     quality: 19
 
 secured: "ZLNK8/cs6bKi8W/HoCAU4hAfNrtE3vA8ZiM+fQZZUELwJX/VxALeQfLzkyDPO4R/oTOWsJDw94x6SbWP7pp7QvI+ztKG/+YEmNxat2+LSsF8RffSK9Zg/4uw2t+2Nve/GTAWZv6SPwLq4ebadTSa+qP+8ylYJ7fDGDFAFhOFNGjZ7VmWP4s4yt5E+0Zs3/iLK+OMWRdgNL+ldsUbm/5irBH/T2hsX7Ro0A/MUCkKFU7A/7NqDfq6cIz0zv8X0YuMBHwUo1aG+epAc3dCQH2qIeCCHKAv60PORvVsvmOgFryYBPZ/n8/V/0+yjNVH9qXgCyaxeqWuFv7fcCbxsiy1BH9GIESUCSw7tmD/JozCbfb42hiYKJRCw2oojf71or8/ahnYJBvecyARn+3af/1qG6wcTnWEP3HE7PWnyrrjp7jXp1iFNa/Ke+aWOmqTTgzPwAQ2nMdpSpYLs9XDL31dHA6IHbH8gZrLrbZfSlg1mu9CoVb5qM/6OjPjCAOB4VV0VnHkJ+OzawJe5iz3hO9uPg==;6FTdlrZefMrSPIdv4tw61g=="

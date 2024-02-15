@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Introduces Gemini AI App to More Countries"
-    excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
-    publishedDateTime: 2024-02-15T06:20:00Z
-    webUrl: "https://techreport.com/news/google-introduces-gemini-ai-app-to-more-countries/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/malware-7020225_1280-1-300x215.png"
-        width: 300
-        height: 215
-        isCached: true
   - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
     excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
     publishedDateTime: 2024-02-11T00:15:00Z
@@ -69,38 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
-    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
-    publishedDateTime: 2024-02-11T22:25:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
-        width: 2100
-        height: 1400
-        isCached: true
-  - title: "How to Learn a Language with Google Gemini"
-    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
-  - title: "Google warns users not to share personal information with Gemini"
-    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
-    publishedDateTime: 2024-02-14T20:19:00Z
-    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
 
 secured: "J6Kk0O0ShvQcNq7P1QbzhjHmOlMs9NRhWBXmaXf2XbKwPUt7UHY1ycMKLSr6sqv0eb4wWQV/AqDmHJJ9mckToG8UsSZkApGaWQhnj9+B3zZUqQgM12uhZkWjEZmUO5fwx5ahZQXl938RfLh/YNNN/7/WLfhCKajMoDT3i/xoqsLIkAwWmjlVFVs/U1AhvjLiuho9dJhqOICHCak6KMxiyZlqr0kO+GVovw+muvSr+p5FiMoeHGw0htQdbZOAFIiOIePOVfFVDMAyBopk5ZBuY08I3s26HbeFPWMctq5Nv6EzCBnwaPQt5XaCH0fO0i20mCWNcZ3hQJh0DOTxcoz1QcbssyC5x0LK4M87QnysW/Y=;Wc3L5aL0jL5mSxIBJIx2/g=="
 ---

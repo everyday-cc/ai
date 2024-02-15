@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How Artificial Intelligence is making its way into the legal system."
-    excerpt: "Subscribe to future newsletters here. As criminal justice journalists, my colleagues and I read a fair amount of legal filings. Historically, if I came across a citation in a filing — say, “Bourguignon v."
-    publishedDateTime: 2024-02-10T17:00:00Z
-    webUrl: "https://www.themarshallproject.org/2024/02/10/ai-artificial-intelligence-attorney-court"
+  - title: "How artificial intelligence is shaking up these school classrooms"
+    excerpt: "LEHI — Educators were among the most concerned demographic groups when the artificial intelligence chatbot ChatGPT made its public debut less than a year and a half ago. The query-driven platform, trained on vast amounts of data culled from the internet ..."
+    publishedDateTime: 2024-02-10T19:21:00Z
+    webUrl: "https://www.ksl.com/article/50870978/how-artificial-intelligence-is-shaking-up-these-school-classrooms"
     type: article
     provider:
-      name: The Marshall Project
-      domain: themarshallproject.org
+      name: KSL
+      domain: ksl.com
     quality: 37
     images:
-      - url: "https://d1n0c1ufntxbvh.cloudfront.net/photo/d8d1e015/92961/1200x/"
-        width: 1200
-        height: 628
+      - url: "https://img.ksl.com/slc/2969/296939/29693927.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
 
 secured: "KPvAF7qEptDk9TKgZnhNPHcdJISAN7XIeHjagOPI8LJGs0uSdLIHbdAu32E6TofXdjnm/yI1K6sBAYLDlKzQoqiSY7vLDQK+hAb+htqWhy9x2lnBPyBXbHUd2JU5qSeEnIC4T8BdElaZ5nuxs7eM+k92EsxYJnE2gRt1El4io0PHVRF7KMgFTS+PTui68FBDOsI1ebfHgcZ6KeEgJRMorbXHmHmSlJ7lQgHJKmvVAzg6lJbdhPT8TjuZBpx2RHRJIeT8bRixG2UcYzQ9teK+8JkMaeG4+1iuMVK5hHUlZcRAqVG5NNylaUkmEvAqRMzAY48dcYyIBionqaE6jU/tWAx1b1f0o6o1n10L2FzJuUguaeUEHCu9SNfZzULR/QxUPGEZVad2mm3FiIPY0qTc4OQ0t8vRDQuoUVGd8lstQmuogItQw2F+rxvs2P8EcutlSe3YWicXrSkR06/HeZ9AIaUbi2lhkkP4DZpUv051row6fkBhSMUl2hL8mIt46DhBjeanr7acrSu7kXxvCCXaMw==;o/SM2uqPqACnoh6rCY7hsA=="

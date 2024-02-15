@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Electric Plane, Corporate Retreats, AI Trip Planner: Startup Funding Roundup"
-    excerpt: "Based in New Delhi, the startup said its platform is meant to offer personalized options for curated holiday packages. The funding will go toward business expansion, enhancing the tech, and adding more products. Nicer, an AI-powered travel and booking ..."
-    publishedDateTime: 2024-02-10T14:00:00Z
-    webUrl: "https://skift.com/2024/02/10/electric-plane-corporate-retreats-ai-trip-planner-startup-funding-roundup/"
-    ampWebUrl: "https://skift.com/2024/02/10/electric-plane-corporate-retreats-ai-trip-planner-startup-funding-roundup/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2024/02/10/electric-plane-corporate-retreats-ai-trip-planner-startup-funding-roundup/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 34
 
 secured: "z/v7hqfxZDZSgOrxF3N0iDNiXsaGL/vEctu/Esn9mq5evK4F/aAESvmZQ0GsoYq6d/HFJ65ZyL//WGhcrtgFWO/6QksCnqJ2I3I5fXhMpeoO5lkSQoyBTPhcThlXIz9Vxcvp/twQFxa7Tm7PKHKnMFNafBBQGUSpSscGJ6O7pk5GmIyB6UThRhCg1Ebl2p9iOFAlC0LzoPk5Cj5/1SHUq1rPOJSgv7YYGGJoKtIQOJdyh+jv1bRhXir5V+ky5CfN3VIHRVsYjmEJDnJUmnsj79T7iiYBM7Lr9joe1pNBV5YSmgFnvSWTOY+IZPvDBSqHrXzvDxATwnECFMyMhNs9JDIKcZaOvtUs+iARhph87po=;afPwxwXAKR+M8xCuXJFA+w=="
 ---
