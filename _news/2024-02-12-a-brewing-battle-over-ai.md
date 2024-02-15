@@ -35,22 +35,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "AI and misinformation: what’s ahead for social media as the US election looms?"
-    excerpt: "Innovation is outpacing our ability to handle misinformation, experts say. That makes falsehoods easy to weaponize"
-    publishedDateTime: 2024-02-10T11:03:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/10/social-media-ai-misinformation-election-2024"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2024/feb/10/social-media-ai-misinformation-election-2024"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/10/social-media-ai-misinformation-election-2024"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/9e436491e9ef104ea41f04a941123ee8691d375f/0_117_3500_2102/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=469ecdf3b89c8ec41876ca2676deca14"
-        width: 620
-        height: 372
-        isCached: true
   - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
     excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
     publishedDateTime: 2024-02-14T19:29:00Z

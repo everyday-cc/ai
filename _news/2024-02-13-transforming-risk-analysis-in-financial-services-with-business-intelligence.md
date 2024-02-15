@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "AI Survey Report Reveals Top Trends in Financial Services"
+    excerpt: "The financial services industry is undergoing a transformation with the adoption of AI technologies. NVIDIA’s fourth annual State of AI in Financial Services Report provides insights into the current landscape and emerging trends for 2024."
+    publishedDateTime: 2024-02-15T10:51:00Z
+    webUrl: "https://www.finextra.com/blogposting/25702/ai-survey-report-reveals-top-trends-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+
 secured: "nSdza2v3wT9XwAlO+Ho4R5k5e2OoSilSan0UlfTB3owMB5jvHlXIRRrvoUisEEl5SOfiaEQAEYHtT6gdJfkCTAeDmuKd4BpepF1nXuVdzg5pSzOQATWeh/F79Mh3R16UAGumbiw5nIDPOOdXYJEnXzZHinQfoWd2YpC6cVEzpTViPC7FySLIccurU/MRtBMFeXLjYyfghh0C7hht3h+2iLwpDz0kz03Sm3Sv0P+flBgZtN9tRT9x0hbTIABBpAskpAWSPG8VQYavoUhby0H9XylrR+1gMk8okCYoCd1+2YLkCNLNnuDjHVWUmIai8IiUFgp1rWYhFqQ2W091HLyPgrCEUyhU597I7FO6hqOusXgSGhscNYJWgzOdLkWoE8fcfLxcX8k/7WvPopSUftREgkmQOJWIQ7ORrQuWarTR6NQocSM9OyxuIRpT76uJg6Qhyqpe8ABg1kXQvSWkJHTiKZlWoPaeDg4OsNvtN81T0faO0GLq+s3CWMykPJd2bfa4XUZRkeWwtMCO4VAOVV4FpQ==;ilHgpotAaQp8q8qGyVq2MQ=="
 ---
 

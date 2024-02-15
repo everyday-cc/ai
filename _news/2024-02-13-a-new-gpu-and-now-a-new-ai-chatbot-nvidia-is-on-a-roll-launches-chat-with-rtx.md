@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal
 webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
 type: article
 quality: 78
-heat: 248
+heat: 258
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/02/Chat-With-RTX.jpg?_t=1707907922"
         width: 1345
         height: 717
+        isCached: true
+  - title: "NVIDIA Debuts ‘Chat with RTX’—AI Chatbot for the PC under Free Demo"
+    excerpt: "NVIDIA is joining the other Big Tech companies in the world that offer their take on AI chatbots, centering on the latest release of \"Chat with RTX,\" made specifically for computers. This version of Chat with RTX is only in its free demonstration version,"
+    publishedDateTime: 2024-02-14T02:20:00Z
+    webUrl: "https://www.techtimes.com/articles/301618/20240213/nvidia-debuts-chat-rtx-—ai-chatbot-pc-under-free-demo.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 39
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443619/nvidia-chat-with-rtx.png"
+        width: 852
+        height: 466
         isCached: true
   - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
     excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."

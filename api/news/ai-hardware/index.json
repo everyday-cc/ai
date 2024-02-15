@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-15-key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade.md",
+      "title": "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade",
+      "excerpt": "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
+      "originalUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop",
+          "width": 864,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37151354",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354",
+      "publishedDateTime": "2024-02-15T08:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-a18-chip-in-iphone-16-to-get-a-powerful-neural-engine-for-ai-features-report.md",
       "title": "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report",
       "excerpt": "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -158,7 +201,7 @@
       "originalUrl": "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -210,7 +253,7 @@
       "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1416,59 +1459,6 @@
         "AI Hardware",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-elon-musk-says-neuralink-has-implanted-its-first-brain-chip-in-human.md",
-      "title": "Elon Musk says Neuralink has implanted its first brain chip in human",
-      "excerpt": "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "originalUrl": "https://www.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/134671988bdcfa034f14722647af46810b4b6251/0_107_4000_2400/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=1a104797821783b786bff088d587f939",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/29/elon-musk-neuralink-first-human-brain-chip-implant",
-      "publishedDateTime": "2024-01-31T01:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

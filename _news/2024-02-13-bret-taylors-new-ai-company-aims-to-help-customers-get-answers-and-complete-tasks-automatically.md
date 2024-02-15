@@ -46,6 +46,22 @@ related:
         width: 680
         height: 383
         isCached: true
+  - title: "OpenAI board member Bret Taylor has a new AI startup"
+    excerpt: "Equity's discussing the week's leading startup and vc news, including Bret Taylor's new AI startup, Foundry Group shutting down, and more."
+    publishedDateTime: 2024-02-14T15:02:00Z
+    webUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/"
+    ampWebUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-hp.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Former Salesforce co-CEO Bret Taylor launches AI startup backed by Sequoia"
     excerpt: "Bret Taylor left Salesforce one year ago and was recently placed on the board of OpenAI after a dramatic boardroom shakeup. Now he's launching an AI startup of his own."
     publishedDateTime: 2024-02-13T16:57:00Z
@@ -60,6 +76,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI Chairman Bret Taylor launched AI Chatbot Startup Sierra"
+    excerpt: "OpenAI has encountered scrutiny regarding conflicts of interest among its board members, including the resignation of Reid Hoffman due to his investments in AI companies, while Adam D'Angelo remains despite his ties to Quora,"
+    publishedDateTime: 2024-02-15T10:40:00Z
+    webUrl: "https://thesiliconreview.com/2024/02/openai-bret-taylor-startup-sierra"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 17
 
 secured: "cH43zjNkAENUbi+zgwj7fxsw7OF52DNx1QqFWslZYmqe4MJRf1t2SrUnFo8pKvB4yENZE9JU/PHaYCUSZZUd08EMiTICB2pHFz7xRe7Gp6lk53vqWljrEF+1AMdVYG/e/Kzs98nPvenHj28Ldv1oeFrWnyirbcOQmn/GPNZlauSRDXTxMLkFuKPU8VhsTWYF0egbXHojXUiY+lJGKwAP6pI2P5oZl07W9OHS3b9RvQM6T3GO/uNDLvHz9KTE97sXdPJhLYeyR4+5uvQtJRfpIm0D+7rZ4t8XmbUoj0LYye9z+i0hly2SKcWXmt+Qv/k86QfLZQhmbDmY2/xG7tq/FOMi25NhxbituPNpb7S/zaw=;KhgxvEb1TYWDNF9ObhWm1A=="
 ---

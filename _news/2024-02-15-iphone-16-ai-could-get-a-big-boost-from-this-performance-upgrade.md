@@ -1,0 +1,70 @@
+---
+category: news
+title: "iPhone 16 AI could get a big boost from this performance upgrade"
+excerpt: "The A18 chipset thought to be driving this year's new iPhones could feature an upgraded Neural Engine with more computing cores. This is Apple's label for its neural processing unit (or NPU), which is dedicated to tackling machine learning and AI tasks."
+publishedDateTime: 2024-02-15T10:47:00Z
+originalUrl: "https://www.tomsguide.com/phones/iphones/iphone-16-ai-could-get-a-big-boost-from-this-performance-upgrade"
+webUrl: "https://www.tomsguide.com/phones/iphones/iphone-16-ai-could-get-a-big-boost-from-this-performance-upgrade"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Tom's Guide
+  domain: tomsguide.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report"
+    excerpt: "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance."
+    publishedDateTime: 2024-02-14T23:22:00Z
+    webUrl: "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/"
+    ampWebUrl: "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 71
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/01/iPhone-Motherboard-.jpg"
+        width: 1250
+        height: 750
+        isCached: true
+  - title: "A18-series chips to get a \"significant\" increase in Neural Engine cores for AI in iOS 18"
+    excerpt: "Apple has included a Neural Engine on its A-series chips ever since 2017's A11 Bionic which was used on the iPhone 8, iPhone 8 Plus, and the iPhone X. That chip featured a dual-core Neural Engine which increased to an octa-core Neural Engine for the A12 and A13 Bionic in 2018 and 2019 respectively."
+    publishedDateTime: 2024-02-15T00:58:00Z
+    webUrl: "https://www.phonearena.com/news/significant-core-increase-neural-engine-a18-series-chips_id155350"
+    type: article
+    provider:
+      name: PhoneArena
+      domain: phonearena.com
+    quality: 45
+    images:
+      - url: "https://m-cdn.phonearena.com/images/article/155102-wide-two_1200/Why-you-shouldnt-buy-the-Galaxy-S25-Ultra-or-the-iPhone-16-Pro-Max.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
+    excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"
+    publishedDateTime: 2024-02-14T19:22:00Z
+    webUrl: "https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 3
+
+secured: "XopIMZQwMOAm4O3Ca8jSEZ27prPJX7bsMPBScqsPYCZFum5oHbR4Tt2hzW+c/MxTC6adni35sHXq/hcVEhRjC8bF7C6gCyAoFuu/BEZhSJKxOwtVmUESkm6E7Z/Iyhss4MuzM/qhQ0QaZzmPxT6eNH/ixyE5C7YGRxCxIQGB0T6CfA7l1ugMLHLFYGWRbZHbytpvAlXF3NtPtnhJtQnRqtA78KwR24QS33JrDyNm3DwIyvCgj7DE7vJMsVxFKQhHc8PhUCzhildswXMVyxxhrc+npu5hvcYmBUv19KQ+AK1CJaYP1M84zUuSCJT7r2RpFabR5h2y5NJvd8g3PZyBY+7K4dLGMBoHtJH8vFHZ1Nk=;BzfuJg8c48r0l2g1gwAi+Q=="
+---
+

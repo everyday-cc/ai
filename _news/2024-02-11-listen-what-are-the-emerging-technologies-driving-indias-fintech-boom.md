@@ -35,6 +35,36 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "Dutch fintech leader Finom nets €50M to boost digital banking for SMEs"
+    excerpt: "Dutch fintech Finom has raised €50mn ... a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! “We aimed to give them more time to focus and reach their full potential.”"
+    publishedDateTime: 2024-02-14T15:23:00Z
+    webUrl: "https://thenextweb.com/news/fintech-finom-funding-digital-banking-smes"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 69
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-1-2.jpg&signature=d51704b3b76e03c05f73a3a38dee1540"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Fintech bets on AI to improve loan offerings"
+    excerpt: "Carbon has announced the acquisition of Vella Finance and aims to leverage the fintech’s artificial intelligence (AI)-powered"
+    publishedDateTime: 2024-02-15T10:21:00Z
+    webUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/"
+    ampWebUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
+    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 59
+    images:
+      - url: "https://cdn.businessday.ng/2023/04/AI-in-entertainment-.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Eight CEOs Making Their Debut On The Fintech 50"
     excerpt: "Their companies do everything from taking some of the drudge work out of accounting to helping Americans maximize their credit card rewards. Seven are founders."
     publishedDateTime: 2024-02-13T11:15:00Z

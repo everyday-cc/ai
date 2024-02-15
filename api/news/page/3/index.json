@@ -2,6 +2,195 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-generative-ai-is-here-to-stay-its-time-to-get-on-board-securely.md",
+      "title": "Generative AI Is Here To Stay: It’s Time To Get On Board Securely",
+      "excerpt": "As business leaders explore the potential of AI tools, they should focus on these critical factors for effective implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/generative-ai-is-here-to-stay-its-time-to-get-on-board-securely/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/generative-ai-is-here-to-stay-its-time-to-get-on-board-securely/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/generative-ai-is-here-to-stay-its-time-to-get-on-board-securely/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/generative-ai-is-here-to-stay-its-time-to-get-on-board-securely/amp/",
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-generative-ai-use-cases-for-the-enterprise.md",
+      "title": "Generative AI use cases for the enterprise",
+      "excerpt": "In this post, we demystify generative AI to help businesses harness the value of gen AI through use-case-driven approaches.\nThe post Generative AI use cases for the enterprise appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 351,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-leveraging-ai-a-global-growth-roadmap-for-smes-in-2024.md",
+      "title": "Leveraging AI: A Global Growth Roadmap For SMEs In 2024",
+      "excerpt": "As we move into 2024, it is time for SMEs to get back to business fundamentals and focus on cashflow, more money coming in than going out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca81b41b3e14dd8bde218b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-cohere-for-ai-launches-open-source-llm-for-101-languages.md",
+      "title": "Cohere for AI launches open source LLM for 101 languages",
+      "excerpt": "Cohere For AI launched an open source LLM covering 101 languages — more than double the number covered by existing open source models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "originalUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
       "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
       "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
@@ -604,7 +793,7 @@
       "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1016,196 +1205,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-customer-experience-evolution-todays-data-driven-real-time-discipline.md",
-      "title": "The customer experience evolution: Today’s data-driven, real-time discipline",
-      "excerpt": "The future of customer experience is bright. Providing a positive customer experience can become a competitive advantage.\nThe post The customer experience evolution: Today’s data-driven, real-time discipline appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
-      "originalUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:32:36Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-vectice-joins-us-governments-new-consortium-dedicated-to-ai-safety.md",
-      "title": "Vectice Joins U.S. Government’s New Consortium Dedicated to AI Safety",
-      "excerpt": "Press Release Vectice, the leader in documentation software for AI model development, joins the U.S. Government's initiative to support the development and deployment of trustworthy and safe AI. Vectice is among the first group of AI experts to join this effort,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
-      "originalUrl": "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T17:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
-      "title": "How the Australian Government Sees AI Accelerating Productivity",
-      "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
-      "title": "AI Will Boil The Oceans",
-      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "publishedDateTime": "2024-02-12T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

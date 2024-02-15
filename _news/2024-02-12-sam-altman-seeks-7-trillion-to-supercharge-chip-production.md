@@ -67,6 +67,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
+    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
+    publishedDateTime: 2024-02-15T09:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
     excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
     publishedDateTime: 2024-02-13T20:39:00Z

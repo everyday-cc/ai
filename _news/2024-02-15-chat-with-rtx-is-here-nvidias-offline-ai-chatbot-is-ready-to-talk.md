@@ -185,6 +185,20 @@ related:
         width: 1345
         height: 717
         isCached: true
+  - title: "NVIDIA Debuts ‘Chat with RTX’—AI Chatbot for the PC under Free Demo"
+    excerpt: "NVIDIA is joining the other Big Tech companies in the world that offer their take on AI chatbots, centering on the latest release of \"Chat with RTX,\" made specifically for computers. This version of Chat with RTX is only in its free demonstration version,"
+    publishedDateTime: 2024-02-14T02:20:00Z
+    webUrl: "https://www.techtimes.com/articles/301618/20240213/nvidia-debuts-chat-rtx-—ai-chatbot-pc-under-free-demo.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 39
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443619/nvidia-chat-with-rtx.png"
+        width: 852
+        height: 466
+        isCached: true
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
     publishedDateTime: 2024-02-12T23:14:00Z

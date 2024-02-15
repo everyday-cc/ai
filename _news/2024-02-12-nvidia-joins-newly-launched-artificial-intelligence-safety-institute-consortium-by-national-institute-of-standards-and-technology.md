@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "DeepScribe Launches New and Innovative Trust and Safety Suite for its Ambient AI Technology"
-    excerpt: "DeepScribe, a leader in AI-powered medical documentation solutions, announced today its new Trust and Safety Suite. The innovative features in DeepScribe's latest addition to its ambient AI technology reflect the company's initiative to set industry standards for AI in healthcare in safety,"
-    publishedDateTime: 2024-02-14T15:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962373.htm"
+  - title: "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade"
+    excerpt: "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs."
+    publishedDateTime: 2024-02-15T08:54:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37151354"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/2340056/DeepScribe.jpg"
-        width: 400
-        height: 245
+      - url: "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop"
+        width: 864
+        height: 576
+        isCached: true
+  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
+    publishedDateTime: 2024-02-13T16:07:00Z
+    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
+        width: 1100
+        height: 550
         isCached: true
 
 secured: "mZug0FUnSurHplLo/2hvB10KK73mrqRzPhI7tMT15nP3RET229A54+VxsHHIePcS80/3cr5+ipI7bj0d9YLP8kfQVBkJFGHvGt42jw4HlQd+9Ras8HuOWzdq5i9/FkQBgERzd3bS7sfKe4nvdHAmP+gtAklbPoylL/m38X4B9OslpEPkLhc6e3k8SnbjezQaE4zu1ctcG4u/Ys0PgX/C0zkT7DTwheUSAR2g1OiYP4hyktmKgu8EC/xV1pMMWV0/oJ3ciT+TDRcMCIN4DUm+ep8v1Glizc0pvcNJ2Ac1CKygrz7Io+lqmYwK8MK855uYw4BAWo+2Vk8Dk8Y1PPxqhIeh39LvD5kQRDIVRHQin3U=;iRAKcRSLH8xe9sq8gVvV/A=="

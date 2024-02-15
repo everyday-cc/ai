@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-driverless-car-companies-sto
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Was Once About Climate Change, Driverless Cars, AI. Now What?"
-    excerpt: "Elon Musk’s changing personal priorities raise questions about where the automaker is heading."
-    publishedDateTime: 2024-02-10T09:30:00Z
-    webUrl: "https://www.wsj.com/business/autos/tesla-has-long-been-a-hope-stock-but-what-are-investors-hoping-for-now-7031171f"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 79
   - title: "California Vandals Light Self-driving Taxi On Fire"
     excerpt: "A self-driving taxi was smashed and lit aflame on the streets of San Francisco over the weekend, company representatives said Sunday."
     publishedDateTime: 2024-02-12T01:08:00Z
@@ -57,6 +48,6 @@ related:
         height: 742
         isCached: true
 
-secured: "l2y2NyCkJtYkUBBncWzwEy5uAf4MkzaDocUvvCDhZOb61E7QQrrqGR4NpeG5n3QIUKuWZlLnoB3b2z5dD6kLns3G7FSWfz4j8vwl/hyHZx5U4m87Og5X+9ieSM3EDF0oCwtCydLiZiTRMZNBji0bDHoe9gmf4D5qSV/+3cfdqZ/9RWXC5ieQ1wqpuHYQge4xi1aGrvdIEceEm/bOB+Kplhmi+GplPlbzGNm+ZY3b2tHhMo+sb3vAtYchYajOOw6l6eFZnlCzX9HwOACZgoAqIcT6EAsTvOjAXYTc/uHVnVgWcW7Z+UuS9HuveT/1Smw6Kd011hXvJo+d1HADR1f82OGJWN6QdbfJhhpNepVva4w=;kBfq5gTmPrA5eMb1FlEj7A=="
+secured: "by+5JqfyLrGL9HgBG4G7TP/BSWmQuH/6k370JjdRWNsYdLyV0doP7TlZp3qKOhhdKOs6kpO+5t4wHpCG03jNbgsz481GX1wBNGzBgudLyoJA7Ff66LrH/OmxXWKn5VZILrBgjBfhqDOD9Sgy4CoyW5pJ4mFJF4ruyRn5yB+8DMA0Iw336FIW2MeTdt3m8YHZZebM1WDYgJjGvqWe8LCtvdVlmKAekL/Drn5h0WozergwLs3v1EEvXp8DbX6oAgXc/dP445fxaIvZa9x8kNRKhvqQYyGQDLtOelS7B7LUGn3wq/HRKruLNWCLo1+8mi1TV5NTglCimKvmB7e32ceEZ05HrsBHcQ8DpM5XFN/4n+JPGjBEtlff5Xc74cuLilb9Hy/tcm+9SvZ7XXSeQKSQr4182czPzt32gPVhBs0KWLytMavc1doE7AK3HCxBAAMDEvH9KC/5Bu6f9dr0bvslitD8dueCW8AATyMQO7PYgi3xyNTN3XcuKz7pVOFhRijHJIjyCl7dODb+WbZWgtHmRg==;Ehzr74HFbRaIfgO0Uta0qQ=="
 ---
 

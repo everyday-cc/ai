@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-anc
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/amp_articleshow/107587457.cms"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind COO on building a responsible future for AI and humanity"
+    excerpt: "The AI community has an obligation to humanity to build AI responsibly. But what does that mean? DeepMind COO Lila Ibrahim shares 3 steps."
+    publishedDateTime: 2024-02-15T09:32:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-3.jpg&signature=463d573ee9ee2d37c82274580114c348"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Capgemini Partners An OpenAI Competitor Mistral AI Founded by Former Google Deepmind and Meta Researchers"
     excerpt: "Capgemini Partners With Mistral AI to Spearhead the Adoption of New Frontier Generative AI Models. Capgemini and Mistral AI will focus on accelerating"
     publishedDateTime: 2024-02-12T04:32:00Z

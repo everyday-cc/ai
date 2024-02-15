@@ -34,6 +34,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "USIBC Launches New Initiative To Align US, India Leadership In AI"
+    excerpt: "India and the US governments signed a pact to connect both countries’ startup ecosystems, particularly in critical and emerging technologies (CET)"
+    publishedDateTime: 2024-02-15T08:35:00Z
+    webUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/"
+    ampWebUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 37
   - title: "India's first AI-enabled education tablet launched: Details"
     excerpt: "Aimed at playing an active enabler of digital learning, the education tablet is the first of its kind to come integrated with the BharatGPT virtual assistant and will highlight AI/ML-based inter-lingual translation for Indian languages (Voice-2-Voice,"
     publishedDateTime: 2024-02-13T14:33:00Z

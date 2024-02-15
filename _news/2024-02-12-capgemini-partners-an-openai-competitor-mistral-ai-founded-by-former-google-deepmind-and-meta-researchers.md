@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind COO on building a responsible future for AI and humanity"
+    excerpt: "The AI community has an obligation to humanity to build AI responsibly. But what does that mean? DeepMind COO Lila Ibrahim shares 3 steps."
+    publishedDateTime: 2024-02-15T09:32:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-3.jpg&signature=463d573ee9ee2d37c82274580114c348"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How researchers used AI to read ancient texts and earn laurels from Google DeepMind CEO, Elon Musk and others"
     excerpt: "Discover how researchers used AI to unlock and read 2,000 year-old Herculaneum Papyri scrolls. The breakthrough project earns praise from industry leaders like Google DeepMind CEO and Elon Musk."
     publishedDateTime: 2024-02-11T03:29:00Z

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
+      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
+      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
       "title": "Azure AI Studio: A nearly complete toolbox for AI development",
       "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
@@ -1434,59 +1478,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024.md",
-      "title": "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?",
-      "excerpt": "Palantir Technologies ( PLTR -1.02%) ranks as Wood's No. 3 best AI stock of 2023. Shares of the software maker appear to be headed to end the year up close to 170%. As was the case with Meta, this performance is the best that Palantir has delivered in its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg",
-          "width": 2122,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

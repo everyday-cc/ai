@@ -41,6 +41,20 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "iPhone 16 AI could get a big boost from this performance upgrade"
+    excerpt: "The A18 chipset thought to be driving this year's new iPhones could feature an upgraded Neural Engine with more computing cores. This is Apple's label for its neural processing unit (or NPU), which is dedicated to tackling machine learning and AI tasks."
+    publishedDateTime: 2024-02-15T10:47:00Z
+    webUrl: "https://www.tomsguide.com/phones/iphones/iphone-16-ai-could-get-a-big-boost-from-this-performance-upgrade"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
     excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"
     publishedDateTime: 2024-02-14T19:22:00Z

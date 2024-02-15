@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/john-oliver-reacts-to-upsetting-ai-p
 webUrl: "https://www.thedailybeast.com/john-oliver-reacts-to-upsetting-ai-pics-of-him-and-taylor-swift"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,49 +22,6 @@ images:
     width: 1480
     height: 833
     isCached: true
-
-related:
-  - title: "AWS, AI, And Taylor Swift Usher In Super Bowl 2024 And Sports’ Future"
-    excerpt: "This year, we are about to experience a very special Super Bowl, which stands to become a truly watershed moment for AI technology and inclusivity in sports."
-    publishedDateTime: 2024-02-10T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/"
-    ampWebUrl: "https://www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/10/aws-ai-and-taylor-swift-usher-in-super-bowl-2024-and-sports-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c6ee29df74c4afe8eaae79/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1352
-        height: 900
-        isCached: true
-  - title: "OpenAI board member Bret Taylor has a new AI startup"
-    excerpt: "Equity's discussing the week's leading startup and vc news, including Bret Taylor's new AI startup, Foundry Group shutting down, and more."
-    publishedDateTime: 2024-02-14T15:02:00Z
-    webUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/"
-    ampWebUrl: "https://techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/openai-board-member-bret-taylor-has-a-new-ai-startup/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/openai-hp.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Taylor Swift, deep fakes, free speech and the push in Tennessee to regulate AI"
-    excerpt: "After a series of explicit AI-generated images of Taylor Swift went viral online, Tennessee lawmakers are proposing tougher restrictions on AI."
-    publishedDateTime: 2024-02-12T10:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2024/02/12/taylor-swift-first-amendment-push-ai-regulation-tennessee-united-states/72399975007/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 13
 
 secured: "iT18AhsV6U4rfreWNFH5OPm1nT9O4ooHOOZqxSyF/sRMsYUv+W6H4BnYzdxPF2niejwIPFUpovxxwWaMtXmkheyJoNN6B6rAajm4Vg5+x5mE+cFZMkuVQhqXPp/UUCcxG5Vw0icdUm78hEG/W/NOyQ4/U392XTuHT6M7JTrVonj+JYinytqRY+OuNnDR4FcBxmi1TZIfh/8lQ2kXlsTTC1CBbOscfbpyLRGIbjx1xWz1bDB8JLWNqjQLq1BrD1kuWtAkr7ibOR3u3HoYe0tFHeD0bjosurpXOTSZ0jzq+J2VoFiIlOfN9w4C3bbLNO4qb6/PMxlJ4yTAF9Id1UWriS0b1HfxtuEZhlRIRMktD5cWkazXo6v2w3QqC4YbnWSKptNTaU2WF2+Geuqk+9KZvEyWgUuYZffllQZFEt2z8ReDH7b3fPXGqk/gMWjqFW61vuKzKupQVGMMVsB0llaEtjOFTd40sy8804HbKhVC2moir1mSdjIAlWpvpB5MuU+9HnpuggJ3cleNJgygMqfNrg==;3Q+ggdYKJEZTdTDrQxxFRA=="
 ---
