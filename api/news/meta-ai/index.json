@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu.md",
+      "title": "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU",
+      "excerpt": "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-the-3-best-ai-stocks-to-buy-in-february-2024.md",
       "title": "The 3 Best AI Stocks to Buy in February 2024",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the",
@@ -1390,58 +1444,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-a-view-of-artificial-intelligence-ai-from-the-trenches.md",
-      "title": "A View Of Artificial Intelligence (AI) From The Trenches",
-      "excerpt": "Digital transformation and cyber security ought to be bigger priorities for most companies. “How will AI change the CFO’s job?” My boss, the CEO, keeps asking me, “what’s our AI strategy?” What should I tell her?”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/",
-      "originalUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b90343142eedce6b991d95/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2024/01/30/a-view-of-artificial-intelligence-ai-from-the-trenches/amp/",
-      "publishedDateTime": "2024-01-30T14:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

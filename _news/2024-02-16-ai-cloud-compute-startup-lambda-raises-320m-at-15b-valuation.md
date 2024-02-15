@@ -76,7 +76,16 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "AI Compute Startup Lambda Hits $1.5B Valuation After Massive $320M Raise"
+    excerpt: "In a round that marks the largest by an AI startup this year, cloud computing services and hardware for training artificial intelligence software provider Lambda hit unicorn status after a $320 million Series C."
+    publishedDateTime: 2024-02-15T18:33:00Z
+    webUrl: "https://news.crunchbase.com/ai/ai-compute-startup-lambda-unicorn-nvda/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 16
 
-secured: "77DR2CRQr2qi9MKQsupQ4a1crb04Zpaxx81Zjyr+sjuOOADt6qerULnNp2VmL9d/e+maaFncEa9z88q7X4BG0qmIVuZzF46O5dutHl3R5nGOojZS7t/HS1hqQmgaXGjY7rKdTe7pKgQoAXdTbt1QSDxwJQbBPK+OiL3qgPVzEf1Yp5D92PuHiDsNrSAqUI7izspqE7yezTtX/YHwcvSCxniIKgiA91mINFTsTFNBTVm/LRfE5T9h4BT7/ieXdAb+zlIEelOhSw9+uT5yLpsBmQ3k2dBXE1msdTK86/e+6xYG/HNzvnA7TE8gF4mmo/QCs3XV7Sa2KwpJ0HfXkIsIs1z40chi1ZUNJfgp/7jvqqk=;h3JwIj7QmkG6GG5oDVQ4WA=="
+secured: "yKjzoURPLRrQ73ahjYFjcHiUyVzvdwLFPouHKsFmHpdxi30c2muTjTgkiPgsu2f+sRQO8GZaKTgiahMeJRXBLoW0F48d0KyfIwp4yNybAU+RLhCSqa3m/gwPON8DhTKES1G5oTvcOBR62R9dVMja9AHmSgONIU/nGhPyGIQMkgFx9vaiDIjTzz88SWyAPpRvdZKGjz4+li8Gwb/vET7FHkRNJ631XlLZJSKViekh0d1gU1ZwMz6ae2aF5/r5fDG0NqL5QeQEArTwHW3DTIQaqpWBKaaSEjZMVbOXrqH7lVKQJehr4uiXzdw+tCGi2oUnl2LuVWuYaI0OuYyKm+brCpTvNtxEhAZTZFZivtoMrr93zy8ePZizHN0iShLMxQ9Sf/jf/2TDPasequ92DeUonRD4W+1JMlhyCtScy+jo+T6ky1MkLjNQc6iCRs2l4pYxuPUk6fcFZmmAz5Y6Kv7Dc91cxVbg1uYMiv527KFCqxr0oHAScjoJVKMkUSX0OyeTH5HwRf5H7CAxV7ZRVyfgNQ==;JDbQ8T1d3zrxOojIALhUuA=="
 ---
 

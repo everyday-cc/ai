@@ -77,10 +77,10 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "3 Reasons Nvidia’s Stock Is Still a Must-Buy AI Powerhouse in 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Any Nvidia (NASDAQ:NVDA) stock outlook has to start by considering its"
-    publishedDateTime: 2024-02-14T11:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-reasons-nvidias-stock-is-still-a-must-buy-ai-powerhouse-in-2024-1033065968"
+  - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
+    excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
+    publishedDateTime: 2024-02-15T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-drives-nvidia-to-overtake-alphabet-in-market-value-1033073406"
     type: article
     provider:
       name: Business Insider

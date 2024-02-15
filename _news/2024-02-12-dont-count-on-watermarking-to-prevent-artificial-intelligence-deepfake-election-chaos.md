@@ -38,6 +38,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
+    excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
+    publishedDateTime: 2024-02-15T17:42:00Z
+    webUrl: "https://www.scmagazine.com/news/hackers-steal-your-face-to-create-deepfakes-that-rob-bank-accounts"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 21
 
 secured: "PvF9P+DLqtqWmDrd51jlDk0c7mHQche0WzzHt5j+4Hn0S8SRsbFhXcLnZpjrCaSoprOURlncKNHPp8mA6yVwk4fgNWAr7ftDjeWc+CtnUgYk2DVjPGRmC+mUMZwRe3yAgcCtT/F277Sj3gaOdAgucD53FelqlHr16blkbiE5lsmBKXTW4MgU9VTgOiHbKJimBMueuk5xGF/gBIZWnakLbvPKPn7m7ln8KhcG1A9yhEPNB/zjsla1dBc7zWOYpMwSd7vqEieM12z4KK8O8/U7tD8wYyHV9Z8v03zASArUNkZ4iYSgDU0/Pp/6UnxQIxTa0Lfx0SFMsaqoW1vSch2kvI5ND6B/MD+Ku4aPCaiiQFQKHpIoLflgacfxLDefKZplrarkcdiY/UIKJvGCTHdkGvKTYULCz8VFn0zCHposjqRIsKH9t41RYkxx/SB0xHYFsJVoENlJ1Adnsl6m5XLjYh/x8iDVJCTkYAvVf4GoxfXspDbN70eocofm4YsxiUfod59LsWGHecZNfBQU+QybfQ==;fvlwVabfJheWdJ7AkfXsLA=="
 ---

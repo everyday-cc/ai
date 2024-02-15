@@ -79,6 +79,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
   - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
     excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
     publishedDateTime: 2024-02-12T13:21:00Z

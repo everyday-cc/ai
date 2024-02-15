@@ -32,6 +32,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Joe Montana-backed AI marketing startup raises $14 million"
+    excerpt: "How far does a marketing dollar go? San Francisco startup Alembic just raised $14 million from Joe Montana, Jeffrey Katzenberg and others to answer that question."
+    publishedDateTime: 2024-02-15T16:19:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/02/15/joe-montana-backed-ai-marketing-startup-raises-14m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "3dS/azHWIctYlL+GcgrUH56P+e9fJuo1mR6STtIrzoniTaNiD7NRkZWEv6wNYtuDq5jru8ZTkDFxUI5luNe/wCmCZId1eqk0LwzOly0wmQaF2K+l3cOcQu7qMQkaUihbLJGHthNVrKStuTwUGcfC2IEuGtJxjaCXD/4ctUFp9Q/b7cphwJyRwbpgn/6Nmv0fPC7AbKmbYrxpuyAuXDwboV/MNzuLBPEA7n8VCl66h+BL3amsqFPBWCr42L8pdg6HxpdcV2t7e/ITFUF5ao52L28hyKe5NQL72h9KwIYW0UaD1BJrzbZL80JLTWZUOIh7RG3MW/n6u5EKvpZa+qnjA9Zk2vXp9snbrN2h1evhJXisA4/X/up+q4B32RsfyIzue4Xy0gjbYZ+dRruk6o50Lg0rl6iUjW1hy4aE1R7HC2NwqVP8YPvmsJuE1geVNJeLgDLCibK3Th7Gd+shglUZp9nrIFugyxUBC3MeyrgKivp8ZwIXL6oslalHiqnjcvl5nLvjXnq++NfjJG22+glNXw==;BsZAuXkyH1ckGx6ZxavplA=="
 ---

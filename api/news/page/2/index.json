@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade.md",
+      "title": "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade",
+      "excerpt": "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
+      "originalUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop",
+          "width": 864,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37151354",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354",
+      "publishedDateTime": "2024-02-15T08:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-facial-recognition-system-at-airport-remains-ineffective.md",
+      "title": "Facial recognition system at airport remains ineffective",
+      "excerpt": "The modern facial recognition system, a collaborative effort between Karachi airport and the government of Japan, is facing operational challenges due to incomplete data entry, rendering it ineffective.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
+      "originalUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/319015-karachi_airport-1326187455/319015-karachi_airport-1326187455.jpg",
+          "width": 922,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
+      "publishedDateTime": "2024-02-15T08:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-saas-startup-partners-boston-dynamics-to-deploy-dog-robot-at-construction-sites.md",
+      "title": "SaaS startup partners Boston Dynamics to deploy dog robot at construction sites",
+      "excerpt": "Zepth is in talks with investors to raise its first funding round in order to expand in the Americas, as well as deeper in India and the Middle East. The company's project manager app has over 40,000 downloads in India and is used by over 500 projects and 8,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47490,msid-107710087/zepth.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
+      "publishedDateTime": "2024-02-15T05:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
       "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
       "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
@@ -245,7 +374,7 @@
       "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1075,161 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
-      "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
-      "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc89284db5e2fad8876e8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 966,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "publishedDateTime": "2024-02-14T09:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
-      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
-      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-5-generative-ai-video-tools-everyone-should-know-about.md",
-      "title": "5 Generative AI Video Tools Everyone Should Know About",
-      "excerpt": "While last year was all about chatbots and image generators, this year, generative AI tools that help us create and edit videos are all the rage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc5f9e92dce2942f51519c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "publishedDateTime": "2024-02-14T05:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

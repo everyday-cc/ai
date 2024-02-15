@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "11 Most Promising Chinese Stocks According to Analysts"
-    excerpt: "Disclosure: None. 11 Most Promising Chinese Stocks According to Analysts is originally published on Insider Monkey."
-    publishedDateTime: 2024-02-10T21:34:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 44
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/09/19161003/BABA-insidermonkey-1695154200895.jpg?auto=format&expires=1739059200&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
   - title: "'Better than real men': Young Chinese women turn to AI boyfriends"
     excerpt: "Users say they are driven by a desire for companionship because China's fast pace of life and urban isolation make loneliness an issue for many."
     publishedDateTime: 2024-02-13T06:53:00Z

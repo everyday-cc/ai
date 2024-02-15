@@ -3,8 +3,8 @@ category: news
 title: "More AI-Powered K5 Robots Deployed in Washington"
 excerpt: "The K5 ASR is the Company's fully autonomous (i.e., no human intervention needed to operate) outdoor robot capable of watching over a property 24/7/365. The robot's commnding size along with its conspicuous lighting,"
 publishedDateTime: 2024-02-15T15:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-more-ai-powered-k5-robots-deployed-washington-/2024/02/15/9963215.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-more-ai-powered-k5-robots-deployed-washington-/2024/02/15/9963215.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963215.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963215.htm"
 type: article
 quality: 34
 heat: -1
@@ -43,6 +43,6 @@ related:
       domain: recyclingtoday.com
     quality: 34
 
-secured: "+dGnBCJGVLIeyluhw+RoXmuz8fYIOs6AIm5zzkSdRwrBoZEonjhdA0E0M0G57C/DakJwxFe1pq6dBYohV19KHRkyF7X3Q039FpdatNvLWQn0j/at2nsg0oEQ4mzKcSsQkej1HxIu4ZJq7I6ICeCh+FSbo1gfebQx9OQGgWZe/HmW5eXZGF53D8p2VXzMutNwTFdpPnziHWpCfwrPkLwIJ/NBbKc1LRbrOwubtBn3PJ49BT8XkkVrHVL1xfD+amWQXybmPYzb4ZRa2YATd19wmU0Jb0p52PG7+EHq5sTu8tZH1jerrCHjql6iRvS2HcVbgEyHMxGu3QnHFkEyRuYf7tM6bJsf/jL368761bWBKRT/C+AsYQOysgbNiBI+tyrU4myVyLlEq8ZPFihpJ+mnqkIH9MptaZ1zBuqzrK3SAQEkkgpYhuwD5G8SpArB6ZvjsWvt6vwXYw5HsUYBghhMV+UEssxaLdHRzGHVzYHtZBqhReZjujBMQ2VCFH/29XxurdBKKBH8sBLO3epn1zaDMg==;p3mCZ/LZYAgZIvjoBkAl5Q=="
+secured: "8higU7lwobSEuwHUWEvykjXlQaF82WCGqo93UqI00IXUEJQ0eFTU5MfhBXcgoCdNvDVUYqf0DuIqtsI3fVm0J6S9nVyFazfEAhaDKU+kgZwtbhPyHdJOZU6fatizWPCa2dARvPkk8jMnnq4HQv5p5HkbZXK1JIbAu0nvyfa//Cg67wzqj1xJKFpIJfyAT51h8b6PZSVJb5zQaRgRSn0ZIu4T3J+IZb9XzE6Fxdznnswo9nLweEUI8ytHJCKkkbO85YtijmXzhAQQ07qcS5rVe1StPPYqjxVz5vNQywrXkTTlm6BoJM02dMvNOckuiAX3vwnBsDGboqaIkInMdBTK5uhc923KBmZH16rAV78V7/n+ZRZ+7BKwQOke6tA3s+RXgtYQgfm7O4X/GxIy3kTYxoAth4I7Tz8zKCzwmphdEU49HosoT880+I6dE++/b6Gd0ASTBPjR1MxLiko+YcRpAxpPK/1bMqEQuxmKNvclGGfGJxmNbLKtJS+vuDfBkdtMa4yiuDqsvkPhw8pBKPm+Qw==;nHFeHhskBacrN/mFNT0x4w=="
 ---
 

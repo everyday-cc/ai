@@ -20,6 +20,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Singapore becoming AI hub with commercial models in local languages"
+    excerpt: "paving the way for more advanced and efficient natural language processing models in the future.” Teo added that SEA-LION is open and can be used by companies seeking to do business and reach the Southeast Asia region. According to data from KPMG ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/singapore-ai-hub-local-languages"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+
 secured: "ZFS41CxrFBjAYnFktZEheIC7RSm1REIyn+zurAsJo8NE74jKbsgJDrW/tFiENpBdal9UhqajmDnqtRI/VsLr75OKidAwpVXeEoq6fdE2IjAf1cLdYb1ng/P2edoi+Dnn300pTTX4h2oGtNxcU9WhU5/cHq3KkTHxD3ymTEXkCDXoqXdvMiMUhJrIPbjSQERM/FUJrCpOsRpBvk7561vupz2OYOQ9SqPN6+EpMSWn9JQ1cu4k2MY/vVVUPu+6gRdRGwOkBo02Tpn5D3jUVmgC5oM+w8Dx/jgddKqJx/lKj7Ztb2PLtmHXoFC57Yz02Or5l6xl5WDxtDVY0iHlBqQv+8VpXWaf21S0p0ITuFWaIwM=;/hZLNf+o/XVVbY09kd/CGQ=="
 ---
 

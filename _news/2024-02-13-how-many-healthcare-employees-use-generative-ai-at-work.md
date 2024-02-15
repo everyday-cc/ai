@@ -266,6 +266,20 @@ related:
         width: 667
         height: 659
         isCached: true
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. \"We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-15T21:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963250.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 44
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "FCC Requires Consent for AI-Generated Cloned Voice Calls"
     excerpt: "The FCC clarifies that voice cloning enabled by AI technologies are within ... it was also interested in using AI to help with pattern recognition in order to detect illegal robocalls before they reach consumers. While the FCC confirms the inclusion ..."
     publishedDateTime: 2024-02-14T00:00:00Z

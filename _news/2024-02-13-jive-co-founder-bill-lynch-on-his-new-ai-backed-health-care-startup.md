@@ -49,6 +49,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Congress tiptoes toward healthcare AI legislation"
+    excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
+    publishedDateTime: 2024-02-15T19:19:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/congress-ai-legislation-healthcare-wyden-mcmorris-rodgers"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
 
 secured: "ofn4bKeJEh5013KjvOkNgHz/jNjoQEzgs+JZgfhs7vIRqlj0HTggpsh3ZnU7qVVsAZ75WKAYfxVv6sk6DaM18nghASb1JhzEzaBgW0e07/dBEdH1jjMFcQF7OE5bdMrieuGZzkhnWCuAExdeBqffsU8X418YTBvVbWHDfvKoQADSOu9fI9C7ZE1eVNEjAkT0Z4K2Um6C24Ewwr9eawL28hO1DanzsobiM03nq+83X6HiI3vpXPmEO0yZfScyl+AeDy74MCiWn3AV703iNoEqN2oLkC+g9Y2QbLyv6TvNc+thxAdjQzbqTclfqrzr3CoWo9Hyf+8UcOzjNK9z81echcZDwNyZ6UUL3hn6JdizQWE=;Kw1MpKJS7IxAcF+3dZ/NKQ=="
 ---

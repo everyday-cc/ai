@@ -2,6 +2,281 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-09-google-is-rebranding-its-bard-ai-service-as-gemini-heres-what-it-means.md",
+      "title": "Google is rebranding its Bard AI service as Gemini. Here's what it means.",
+      "excerpt": "The advent of Gemini, named after an AI project unveiled late last year, means that Google is retiring the Bard brand that it introduced a year ago. Bard, a chatbot, was an effort to compete with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "originalUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
+      "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
+      "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "publishedDateTime": "2024-02-08T19:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far.md",
+      "title": "Not Science Fiction Anymore: What Happens When Machine Learning Goes Too Far?",
+      "excerpt": "Every piece of fiction carries a kernel of truth, and now is about the time to get a step ahead of sci-fi dystopias and determine what the risk in machine sentience can be for humans. Although people have long pondered the future of intelligent machinery,",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
+      "originalUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Robot-Thinking-Colorful.jpg",
+          "width": 2000,
+          "height": 1143,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T18:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
+      "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
+      "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/05/ML-15921-kb-embeddings-960x630.png",
+          "width": 960,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:37:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
+      "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher-1033047834",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/VHB65XuS_x0VfXMZBAFX-2PmmZJ-ZabjP9TQSNQaR7TunfoW1OsGw2JDZQAYWcwGbiY6C2kEVuYJ9MJiEBxAOORYss-Ei8kmWqWE1hWYN0JbbUNLWnC3toUz4MkBHfqmf-Vu7o0e-mt8m0KdHLDhiQ",
+          "width": 1600,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-the-history-of-climate-change.md",
+      "title": "The history of climate change",
+      "excerpt": "The understanding and awareness of climate change mitigation that inspired urgency took some two centuries to develop.\nThe post The history of climate change appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "originalUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-elon-musks-brother-kimbal-is-not-as-optimistic-about-teslas-full-self-driving.md",
       "title": "Elon Musk’s brother Kimbal is not as optimistic about Tesla’s Full Self-Driving",
       "excerpt": "Elon Musk’s brother Kimbal, who is also a board member at Tesla, is not as optimistic as his brother about Tesla delivering ‘Full Self-Driving’. He says: “maybe 5 years”. Virtually every year for the past five years, Tesla CEO Elon Musk has said that the company will achieve full self-driving capability by the end of the year.",
@@ -882,272 +1157,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-how-to-build-the-best-ai-pc.md",
-      "title": "How to Build the Best AI PC",
-      "excerpt": "look for at least a mid-tower or even a full tower and select RTX for AI performance. A GeForce RTX 4090 Ti GPU will perform up to 1.7x faster than a prior generation RTX 3090 GPU in AI applications, so it’s worth prioritizing the GPU upgrade over CPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
-      "originalUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2024/02/Nvidia-CyberPower-AI-PC-1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T11:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m.md",
-      "title": "Confirmed: Entrust is buying AI-based ID verification startup Onfido, sources say for more than $400M",
-      "excerpt": "Onfido, an early mover in the world of identity verification using computer vision, machine learning and other AI tools, is getting acquired, TechCrunch",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
-      "publishedDateTime": "2024-02-07T11:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-70-fascinating-baidu-statistics-and-facts-2024-trends.md",
-      "title": "70+ Fascinating Baidu Statistics and Facts [2024 Trends]",
-      "excerpt": "Instead of relying on Google and other foreign solutions, the government provided Baidu for its citizens to help them navigate the Chinese web. The question in your mind will probably be ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/baidu-statistics/",
-      "originalUrl": "https://techreport.com/statistics/baidu-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/01/Baidu-Statistics-and-Facts.png?_t=1707326810",
-          "width": 994,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T09:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-3-health-systems-share-their-apple-vision-pro-plans.md",
-      "title": "3 health systems share their Apple Vision Pro plans",
-      "excerpt": "Cedars-Sinai Medical Center, Boston Children’s Hospital and Sharp Healthcare are testing Apple's virtual and augmented reality set.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
-      "originalUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modern Healthcare",
-        "domain": "modernhealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
-      "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
-      "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
-      "originalUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_2259188619-100938589-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
-      "publishedDateTime": "2024-02-07T05:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates.md",
-      "title": "Village by village, creating the building blocks for AI tools with work that also educates",
-      "excerpt": "Karya is employing rural Indians to build AI datasets for low-resourced languages in India, verified with Microsoft's Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "originalUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T05:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

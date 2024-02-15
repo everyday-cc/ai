@@ -23,6 +23,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "GM’s Super Drive self-driving tech now covers over 750,000 miles of roads in North America"
+    excerpt: "GM has expanded its Super Cruise hands-free driving experience to over 750,000 miles across the United States and Canada."
+    publishedDateTime: 2024-02-15T20:45:00Z
+    webUrl: "https://bgr.com/tech/gms-super-drive-self-driving-tech-now-covers-over-750000-miles-of-roads-in-north-america/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 0
+
 secured: "eg/GW1mTpWtpHIPcRz0QHTBQ7loKIlvC3ulmb3/3CrzobXJHojzxQT7VJzcfG5axeXJFS1UbTKlQHhNpE8KFN8tuf+oOpbVXRoWCP8/4xEQN31LE5AhS7yhmdSVrVhzZgNkwywtAlaZUtHjFD2pUXe9x2vBQOj0JpEczuqs8y+8DNUH9GVqFElkqrZ6K4V59vapqa4tCvBp/wkMO/LG2SyBz/p+gJDdiYJ3JX/pZ3ZmzTS/b+JOAg/TG9JenGDF3F6ArhGkEF5jCHTxxBjCsO6VLDlcPJVM1fNSLFz3wsqwIT8d2ki45ptjHa8HWN3xq9ID9OzL9QCvXaKBolUP3yy10g4V7rCRdtCNSst3QD/5QBRA8Vmf04hmXqr3V7pTFFQRev9hT0bSuU51DICux0HDo8wVkFj9UzOdSL0R/whvNE1ZG+3OgUtYfq+FQ/wW3JuXKfE/VigWwzaMjwhdVOB4wxzhTPi1AsSqLhS0briDTNXPNa6ZDTlzt4Ukow47xZkjrSiTR+RVgLHQgleKGvw==;DdzG1NccwZKyBCuVqX0+Tw=="
 ---
 

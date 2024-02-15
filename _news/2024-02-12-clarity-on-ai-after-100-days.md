@@ -77,6 +77,15 @@ related:
         width: 1792
         height: 1024
         isCached: true
+  - title: "Scathing Critiques of AI Girlfriend Apps May Only Fuel Their Popularity"
+    excerpt: "The Mozilla Foundation's devastating reviews of romantic chatbot apps cite \"toxicity\" and data risks, but may only just spark greater interest from people looking for large-language-model love."
+    publishedDateTime: 2024-02-15T20:10:00Z
+    webUrl: "https://www.inc.com/bruce-crumley/scathing-critiques-of-ai-girlfriend-apps-may-only-fuel-their-popularity.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "EC6l+dVOeVXli7+bkHHgvQ6FvGmVY4Sd7x3hBHU1YP7WL9P57wEC6Y9OCnMy1F5hys+Hqina/EB7lePCj2Cw1ndhFXgUr2WbZC9uYzYbX9JCzqY8shKCvwipLa2WaGz2WYK7vUvOYTobNK0rkwyMEsSYA6yi3cSxlGSe2Sfxlbef4VIw1OfHOEdhOlSdbmn87smpy8DbZWMMxHwRBevCOwht3T1mr1GOUlJIg5QU6uO02+t+mBoAj5eGW+kl6VGq0FEogl89z3o9dVBOEQq3QIvjmycHFkHOZ4sn4kr583iavU8gdiB4/H0owszNj1KixeuJyP99EYqluWpx7BwifKs/HzgOT0Q7L3WIC9SB4UQ=;zI2CPrNpuS/v3lVqz7laYg=="
 ---

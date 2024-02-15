@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyf
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "11 Most Promising Chinese Stocks According to Analysts"
-    excerpt: "Disclosure: None. 11 Most Promising Chinese Stocks According to Analysts is originally published on Insider Monkey."
-    publishedDateTime: 2024-02-10T21:34:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/11-most-promising-chinese-stocks-according-to-analysts-1253642/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 44
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/09/19161003/BABA-insidermonkey-1695154200895.jpg?auto=format&expires=1739059200&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
   - title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
     excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
     publishedDateTime: 2024-02-12T18:49:00Z

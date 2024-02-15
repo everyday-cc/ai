@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Musk Says 2022 Tesla Crash Driver Didn’t Have Full-Self Driving Tech"
+    excerpt: "CEO’s tweet contradicts report from Washington Post suggesting Tesla employee Hans von Ohain was first FSD-related fatality"
+    publishedDateTime: 2024-02-15T20:35:00Z
+    webUrl: "https://www.carscoops.com/2024/02/musk-says-2022-tesla-crash-driver-didnt-have-full-self-driving-tech/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 54
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2024/02/FSD-death.jpg"
+        width: 2250
+        height: 1265
+        isCached: true
   - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
     excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
     publishedDateTime: 2024-02-14T19:18:00Z

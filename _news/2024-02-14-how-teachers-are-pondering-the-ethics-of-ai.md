@@ -78,6 +78,15 @@ related:
       name: The Royal Gazette
       domain: royalgazette.com
     quality: 19
+  - title: "Scathing Critiques of AI Girlfriend Apps May Only Fuel Their Popularity"
+    excerpt: "The Mozilla Foundation's devastating reviews of romantic chatbot apps cite \"toxicity\" and data risks, but may only just spark greater interest from people looking for large-language-model love."
+    publishedDateTime: 2024-02-15T20:10:00Z
+    webUrl: "https://www.inc.com/bruce-crumley/scathing-critiques-of-ai-girlfriend-apps-may-only-fuel-their-popularity.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "GCkyEI2Bqf0clNLcX7Z8IrwqD2a8lojZr1jeP7md8mosAnb5MMjh+xT0iXQc0kd2gI10IBTbIOuTP73CGRjhK0oQQpV5qNFvH29Pyf1G/riTzc+rLwA+AMHFUdtP6ztixKzLxMzhQYnEY7AzCnZF1Y4Wu9qlP9kaGZcI9sOHXd4+45lFRjW1JpCXkuzyZJIkG5xZ8uiDhnwF4BOYeCVEBYCMYx0pNUyxmT4n7yu6+h1R30f8bRxwpcM/BVmihnYTcmuUhbGGulWZbTuNUiR6IX2aFgiTNX6MQuc1GyfHXhEnAVy9dMzQKDQyp+iBaeah94YwqZLVmBSAmQ2XvPIXxvyeTtQmVtIHU3CmuiTcGopvHYfsvTXzcff5Ewx3hJ35OKYsKiu4iEwNyf7cd0vpKsXv3VIZgdnrBSWvxnnFVX8AiUnmWEYuO9tocvnArWPl3PyKmdDrpKxqOzUcyQ/lGGwyO3bj3Q90mzFGurP7I7WFoHeVh+dEpvmE7XP1C9dZaGCk04DP0OSpohYi6kKh2g==;vh93Uj/xIGRnrFbdgThazg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
 type: article
 quality: 74
-heat: 334
+heat: 344
 published: true
 
 provider:
@@ -358,6 +358,15 @@ related:
     provider:
       name: cnbctv18
       domain: cnbctv18.com
+    quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
+    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
+    publishedDateTime: 2024-02-15T19:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "BnHYCsIHP4KaprekauINjCTctYlS9W9fiJcFAeBgtZmAKwpLsJ56Zr6aUBiCT52sO1F9AT08KAyvAe6SpKVQ5EEUK3uYtpXadrkNrcc6fQjgxvKHCF1fP/9xJ9rLKvEG/ofrx79iHdbBQ7acdN1BOtEo1lMw3qHuAe9GSaWNk7PRrhwrPdGhwP6x3SRqxNxaiXX6t94sa33kOVBHNxgK+AKtXbDdOLD1GjAoKvVIfOI4uH6dGiLSPo3iMBqG9oSWJWlqldtd3rBhuNL1h4OTZ5k63zE8PVB1vuhr+2L7Mw+v9qVG6egGpyPVFjR1C50fHCR+OinflGcRcjrsa4ZJcnp9whM3stubm0C3J7UnMHo=;QkWujYWNTNvoFypq3NSe7w=="

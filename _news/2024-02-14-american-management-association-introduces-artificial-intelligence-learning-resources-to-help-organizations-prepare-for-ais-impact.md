@@ -38,6 +38,15 @@ related:
         width: 1024
         height: 699
         isCached: true
+  - title: "GM brings hands free driving to rural American"
+    excerpt: "Unlike more controversial fully-autonomous self-driving cars, GM’s Super Cruise systems require drivers to keep their eyes on the road."
+    publishedDateTime: 2024-02-15T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/gm-hands-free-driving-rural/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 4
 
 secured: "DLtlD+xsPfehdchN9rSwZQum39VFdasQ4qhhBp5ah5jMU9LE4Lffz8EYst32iDceRdyyZEUYwHro2r9PWqUCaGAotG4/N+jnRiBtq3Nw5cJoLhwPrZuu9YgXkvtZZEmh6+hQ2EwrM6BZQYApQz/knlzI0h5jhUg1LAcZXV8czRzlRiy90m00MCmUwEK9bHFvw4HSG6kkyA05qOS+FFVEXxg7U+N89oD9tXPJHkWX7Dp0zHPHyCSJ0YM6gxmOKXhPBRsNX71SzbeDTaV8mHtziHk1gVQBpKMOW4hnzlH6O2XrwBwxeJr2RAzB7CtuQxATeSKgb+pWuJddpa5lSaQwCkZmYIyQM0m6s3fQPsMxGY8=;FLFupJQGsnvfz3nOsweI3Q=="
 ---

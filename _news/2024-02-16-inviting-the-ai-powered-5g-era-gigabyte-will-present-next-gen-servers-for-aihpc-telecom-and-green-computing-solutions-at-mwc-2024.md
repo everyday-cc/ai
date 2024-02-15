@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
-excerpt: "Continuing the booth theme \" Future of COMPUTING \", GIGABYTE's presentation will cover servers for AI/HPC, RAN and Core networks, modular edge platforms, all-in-one green computing solutions, and AI-powered self-driving technology."
-publishedDateTime: 2024-02-15T18:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963375.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963375.htm"
+excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"
+publishedDateTime: 2024-02-15T16:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
+webUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
@@ -50,6 +50,6 @@ related:
         height: 627
         isCached: true
 
-secured: "fxRAMMnbMyB2Bsm7ISrmNKwfWAL58pnGyzigtbYKtDNZkirBeR+0YhQ9bjVM3MgNwgMty1L8/6tW8MCTD9znhhZFw0TKXfxLnPUFigECMjJ98Bl8hnHdK+V5exlTlZi7vhl0zA2/fKhXPp7NnRnu3TQTPiZGiYKJjyLVzOKon1v4b14d/8mQZW7pp6S8diJM4U+LpjLg7v4kUgSY+0ZpgcrTZ3aj5eOGSYqro9XQceTqiLrRRP53EWvpz3SAH3Pn+ur6eWy2PaVMrsQTW3e5B5xJSe+2G4lOqZ4cuDsmfO9o+NGLGRipm8L5oLLs9tprSzxzwHRXSxUAfaR5TtdrezzHfBqkRba+swMvP+xa9rvD71RjZ/8i2CW62uceHZgqytzwSeKKuBbv5F6PaqMv9EMjBhzKPiaQAbFy5gPI7suyz4ZsA9DK9OACBghLcJZFD4t8xSMb30E/PhxT57+rRdnUmDAS3nSU+pE4I0p9Vpx95bglNTuajgnlcdh5ia3kKyHoXytOtmKRJeoCGgg0WQ==;FpvfLax//c+AWOH1zpsbpw=="
+secured: "8h8Xq9adwbURfp1K/Kr/Q0YUH+9jw92tKEbc9U+xUQLc31V82/hMIGB1f85+7Q2jf112Qwfh3E7NsAEGh65si7aY1GNkM8DtloSoIYSQSInsLAsN8kqtI2zCK+WvhzW+pna/buyGIj776M4Ps+CACynOKA2Ox6mZ13XRzWGwYup9/Y8BZ9kHvOkS6Si1a/7THZ9mQosUH/++/bHDYfbc2q+aW7lL6oh9kmTScfx1cHX/4JhP4DVYrQYaO6cHzjpx8o0e2r5vm55zB4xp8dpvIc6v+KofTtwLBToFMpvqI84xCJkRZJG+VVJ2Mr0Phz8XB2EIHk/YoMG8No8j7o14M6uEfRx/SbHHjJ6NlCyWucake2ONm0W/kQxvErWf++UJidC88X2T4jBeG3dmSfZ25nKrVyuTvm1zFax7ETU8a7QF5/tzXp1GK2iJ66/Ebn0sSJvYIzr3/z260rH/eTDlfj4tcd+f/R9KAmEjSv6xxLQqGocWk0d1T01aESZVexUl/J7P0Eep7O1HLD3qoPdb2Q==;pBBWfdKIqs45PeZZXow55Q=="
 ---
 

@@ -36,7 +36,7 @@ related:
   - title: "More AI-Powered K5 Robots Deployed in Washington"
     excerpt: "The K5 ASR is the Company's fully autonomous (i.e., no human intervention needed to operate) outdoor robot capable of watching over a property 24/7/365. The robot's commnding size along with its conspicuous lighting,"
     publishedDateTime: 2024-02-15T15:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-more-ai-powered-k5-robots-deployed-washington-/2024/02/15/9963215.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963215.htm"
     type: article
     provider:
       name: TMCnet

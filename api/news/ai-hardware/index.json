@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
+      "title": "Acciones de Nvidia se disparan por AI",
+      "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230629175437-dinero-chips-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "publishedDateTime": "2024-02-15T21:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu.md",
       "title": "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU",
       "excerpt": "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -51,7 +103,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "Meta AI"
       ]
     },
     {
@@ -402,7 +455,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -476,6 +529,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-41500-usd.md",
+      "title": "World's first desktop AI workstations with NVIDIA GPU and CPU Superchips start from $41,500 USD",
+      "excerpt": "Not longer limited to data centers, severs, and cloud systems, you can now buy an off-the-shelf desktop workstation with NVIDIA's Grace Hopper Superchip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96130/worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-41-500-usd/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96130/worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-41-500-usd/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96130_04_worlds-first-desktop-ai-workstations-with-nvidia-gpu-and-cpu-superchips-start-from-40-000-usd_full.jpg",
+          "width": 1500,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1374,101 +1470,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-memory-demand-for-ai-boosts-chip-tester-business-advantest.md",
-      "title": "Memory demand for AI boosts chip tester business: Advantest",
-      "excerpt": "Japan's Advantest said it sees sales of memory testers reaching 244 billion yen ($1.65 billion) in the financial year ending March, an increase of 5 billion yen from its October outlook but down a quarter on the same period a year earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-107328970,imgsize-120944,width-1200,height=765,overlay-etbrandequity/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/memory-demand-for-ai-boosts-chip-tester-business-advantest/107328970",
-      "publishedDateTime": "2024-02-01T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-cadence-brings-ai-supercomputing-to-digital-twin-simulations.md",
-      "title": "Cadence brings AI supercomputing to digital twin simulations",
-      "excerpt": "Cadence Design Systems has launched a hardware and software platform to bring supercomputing performance to digital twin and AI simulations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/cadence-brings-ai-supercomputing-to-digital-twin-simulations/",
-      "originalUrl": "https://venturebeat.com/games/cadence-brings-ai-supercomputing-to-digital-twin-simulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/cadence-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

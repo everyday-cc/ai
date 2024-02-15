@@ -71,6 +71,20 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
   - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
     excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
     publishedDateTime: 2024-02-13T13:05:00Z

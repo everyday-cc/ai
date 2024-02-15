@@ -162,6 +162,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 63
+  - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
+    excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
+    publishedDateTime: 2024-02-15T18:50:00Z
+    webUrl: "https://www.techspot.com/news/101896-microsoft-vision-net-9-development-framework-all-about.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
@@ -268,6 +277,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
+  - title: "Microsoft and Google invest in AI in Europe"
+    excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
+    publishedDateTime: 2024-02-15T14:58:00Z
+    webUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
   - title: "Nerdio Adds Partner Resources, AI To Its Microsoft Cloud Management Suite"
     excerpt: "Nerdio, a vendor for Microsoft cloud technologies management software, has added artificial intelligence capabilities to its products and is investing in more partner resources after growing the base by 150 percent."
     publishedDateTime: 2024-02-13T14:36:00Z

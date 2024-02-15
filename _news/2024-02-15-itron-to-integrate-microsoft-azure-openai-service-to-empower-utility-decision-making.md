@@ -164,6 +164,15 @@ related:
       name: CNBC
       domain: cnbc.com
     quality: 63
+  - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
+    excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
+    publishedDateTime: 2024-02-15T18:50:00Z
+    webUrl: "https://www.techspot.com/news/101896-microsoft-vision-net-9-development-framework-all-about.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 63
   - title: "Microsoft to build new data centre in Centurion"
     excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
     publishedDateTime: 2024-02-12T05:34:00Z
@@ -256,6 +265,15 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
+  - title: "Microsoft and Google invest in AI in Europe"
+    excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
+    publishedDateTime: 2024-02-15T14:58:00Z
+    webUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
   - title: "North Korea and Iran using AI for hacking, Microsoft says"
     excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
     publishedDateTime: 2024-02-14T18:52:00Z

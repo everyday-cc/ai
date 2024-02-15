@@ -35,7 +35,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg"
         width: 760

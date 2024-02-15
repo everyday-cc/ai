@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "FTC Proposes Ban on Using AI Tools Impersonating Individuals"
+    excerpt: "The FTC said it was proposing a change to a rule that already bans impersonation of businesses or government agencies, which would extend the protections to all individuals."
+    publishedDateTime: 2024-02-15T19:55:00Z
+    webUrl: "https://www.wsj.com/articles/ftc-proposes-ban-on-using-ai-tools-impersonating-individuals-79bd6764"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "How financial institutions are using AI tools"
     excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
     publishedDateTime: 2024-02-14T15:00:00Z
@@ -38,15 +47,6 @@ related:
         width: 1280
         height: 714
         isCached: true
-  - title: "Singapore becoming AI hub with commercial models in local languages"
-    excerpt: "paving the way for more advanced and efficient natural language processing models in the future.” Teo added that SEA-LION is open and can be used by companies seeking to do business and reach the Southeast Asia region. According to data from KPMG ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/singapore-ai-hub-local-languages"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
 
 secured: "QKYdBR4e4r8LEYEAkWXb1rRgHWPPumtF2Wk5tTelNls7dBd7ZAAiVc3qf+gQMWeAMxersxqOobnhajMB+dzRN47MngMhuxar7yzEhfqAOnv7feEOron95iQkbPNyClEnffV0pheHxj12xJPe344hhaAm7NxEisY/OPtz8x/TUn4PK0PFqXgkjfWRfRjSXhoT5xBY4o0RU3wweotrR7AnCxrrNWv37YJG90IMhRG8leOwe6Ot3e/VYmqhGWsoA1gAxEIBj10ff+JYShMBSLgqgSigld77xbA6j61rFBtHshGFy4B7EIzXsaAx090WlBmT5bZhA5xqooV+tnSHklYh8DluK0K9nVPFu0u3Go9M5HQ=;wZgsiET5NwV9CRsgkrs5gA=="
 ---

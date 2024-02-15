@@ -355,6 +355,15 @@ related:
       name: cnbctv18
       domain: cnbctv18.com
     quality: 0
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
+    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
+    publishedDateTime: 2024-02-15T19:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "79KxpSDxCuuWNP9dPMRxJ7KtMn2B1f1SflSutPv7cNjj10NuwUBUQNHP16d32H/OOU/2TquVKnLortvNKVLsiTY8BfwXo7z42sUPJpD2OiTjt2RKk9pVJmvswnWwylws/3+8HAho/K5hRd9GbiNSRMtbFzujwbSzJHMryfNaFKZRtznRUCN8b0RNMHcTFFC6eUVaV2okS7Et2rVSm5q9QjIUvmRtb8WvBnhI6GP2T+gJPKeGWfkTvnka2Rnt1msF69liUVNyO2XybXTDfxNnVRaRI5NPpuMXa0F8SpyTwnd4GsKAaam9PjbX9X/7dDv53un1vIYJfJLDrBbTf6TlxSf0LsFGmFgJasxobo7bjoc=;sAiC+CObp7R2Y6jBqIuKyQ=="
 ---

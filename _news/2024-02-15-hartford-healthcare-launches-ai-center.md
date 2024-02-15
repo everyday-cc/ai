@@ -41,6 +41,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Congress tiptoes toward healthcare AI legislation"
+    excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
+    publishedDateTime: 2024-02-15T19:19:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/congress-ai-legislation-healthcare-wyden-mcmorris-rodgers"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
   - title: "Jive co-founder Bill Lynch on his new AI-backed health care startup"
     excerpt: "Jive co-founder Bill Lynch is back with a new startup exploring the use of artificial intelligence tools, specifically generative AI, in health care. The new company is called HumanTrue and Lynch is chief technology officer."
     publishedDateTime: 2024-02-13T11:44:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
       name: The Royal Gazette
       domain: royalgazette.com
     quality: 19
+  - title: "Scathing Critiques of AI Girlfriend Apps May Only Fuel Their Popularity"
+    excerpt: "The Mozilla Foundation's devastating reviews of romantic chatbot apps cite \"toxicity\" and data risks, but may only just spark greater interest from people looking for large-language-model love."
+    publishedDateTime: 2024-02-15T20:10:00Z
+    webUrl: "https://www.inc.com/bruce-crumley/scathing-critiques-of-ai-girlfriend-apps-may-only-fuel-their-popularity.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
 
 secured: "9Wy5ngSNHN4c3Gdl+kHowLPGeNqLp15fie7pZlGUuySdBR/eJ6ha9qsmUBL8Zo5RnGVfNOJNg9RlTbIMuuWlEh01/t8dqlYeOv95O+NTbv1pGswegJbcBBLXmKKGObnT6wLhKprZPsxFufhfZZPTpOitcD760jAkPnEV6DxGBIX8lOQa6XpWU03n9cgKyqZ4qmCXRgzVqEsfSLJjthDKOL8vlR8IqXJm9uerc+7lNpH89BXjxKOnulN1Xs/WAO8kTQ7XjcQIhzXidhr8NXh0d97VE55Fu4rqHmDcGsYj8CeL4OJWBci9QbwuBNMwSLwKIbmvjNs9KB7HDMkzmzd+WdrZ7qTrDForLLIorDamvBalrqMlFHrAFfMGwWF1Y2H0FmWL6v9hGpx13r4Vx70x524/Cc6vSRtOxjSe+s6qjm9miDPwzTo6q2UK2vuigovM5+w4ItvCMmoyGT2+Ms52tzqzoF2IbT/fm+ZvUL5pXzJ7IQWUx++MPdKW8zJPbZsP3KifI2E3tfYNPwcFTWNOog==;3FnubPTWFH7OZmNPs2kkNg=="
 ---

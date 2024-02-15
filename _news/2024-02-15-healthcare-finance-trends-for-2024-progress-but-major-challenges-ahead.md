@@ -19,6 +19,17 @@ topics:
   - AI
   - AI in Finance
 
+related:
+  - title: "Healthcare Finance Trends for 2024 – Progress, but Major Challenges Ahead"
+    excerpt: "Healthcare Finance Trends for 2024 by CommerceHealthcare® presents the bank’s annual outlook on major factors commanding leadership attention. Ten themes are identified from analysis of a broad spectrum of industry data."
+    publishedDateTime: 2024-02-15T17:33:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-finance-trends-for-2024-progress-but-major-challenges-ahead.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 35
+
 secured: "m2BH+UmWi+r+p0rGxGQYz8C1MIV/kQSbnT4BY4QEzKwhomsAeLYVwmyS9uqM+v/hU0RpWCKEWs7pv3xUNYk3+O+EaqniatCdL1InwQ8SdCP5XbeTV8Lj+bKRaQq3lihr22UaEh55E1oEig746DnLwR4vZ9xopJzP8ojEp7/ewXmG1E8Ct6o34koIT5uSMT324iru9azIA3/e5ihkoactXuvH8ShJiyEngYc0KbkBWdZdcF0A2FNl6s5yf4JgFHfKlBTTq5LQKP+gwdPXwuTstFnlVXLtIm0WKVThBCpkcDqBF43x06ZDxQ7RhcA+CFkB05ycrwD4kSWaTQGHIK7nG8oe0fDbP6wengzUM/jgVlLnwGyY4nUm2vzuac3BIHlCXv5WmnA1f8QzW/aK+5Q72EKFz0u9EXH3niwvOwCbIy7SvZml6J2dWlwdsFHUPAJUE0M3q3R8vRwbEHHytS+QhrhY+XMKzVjbP6n1nW0HFkoMpDNhgQWWj0ic17x0id4XkhO5yLbCisXyzRyq67TaKg==;JBIUrb9JLhhlI6+uLlJdBw=="
 ---
 

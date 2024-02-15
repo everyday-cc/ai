@@ -56,6 +56,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
+    excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
+    publishedDateTime: 2024-02-15T22:17:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65cbcba74b994e610bc5d2ae/191:100/w_1280,c_limit/Which-AI-Chatbot-Is-Right-For-You-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
     excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
     publishedDateTime: 2024-02-11T06:24:00Z

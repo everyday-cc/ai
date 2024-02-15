@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
+    excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
+    publishedDateTime: 2024-02-15T17:42:00Z
+    webUrl: "https://www.scmagazine.com/news/hackers-steal-your-face-to-create-deepfakes-that-rob-bank-accounts"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 21
 
 secured: "sWO4x6Rd1QbJo2wuJx6g0VXrSFfLWefHsX+ZT+UAlc/K4p94k4iyaFz8qW8Pp8xYDFhlPOcZvVkYbiEko1IvjaeQTtwc9MB+ZXEE0s0oCr3oESrBzLwFCQ/PFFnq1ZbMQp2dimP1mkZ9SP23RaOzmyH41azqOV/mCubfsFWLUnWLQSAYpFZngZceMH7fLqzOajdqlVMAaw9NRvcioQR8O8uumnQRTThOovMsk/DC03AKPkphtdm7L7bpUHnmpxYoSWt3vHVFrJZOzT8jJapaHdD8lmWVPjEMbQ5TFmzf/mZot5VuqIEe1D8L+q9HTRrCakp1gB6ESbMfk4LwUbdh7xGAcMOKb2StEnZJLcqYx5wzcMkSvwX4rJt7CVDj/s/MDPtnJ8HyoSktK4lcUXg1iC+dSLbuV5d50j5S9VTwswv/9yM2q+aB7Ns5FlxZgK2Byslj2cSZrhuAHPH4V0wKN6P2YIC5c/C+4NtETs7dHyf67n0AF2KuAtUrXeO59/5goiCIU1BYFfxyRl9Bp3fCpQ==;qBnXkm/A8POGtH7NEdy1Bg=="
 ---

@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Department of Justice announces new AI initiative"
+    excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
+    publishedDateTime: 2024-02-15T21:55:00Z
+    webUrl: "https://fedscoop.com/justice-ai-doj-new-ai-initiative/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2020/06/26011734845_e8cfcc6b44_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
 
 secured: "IPuOCoOTsoaRGI5JCdaQ45c9Mo7kmqg1dKrkhVdSwJZ+KtE5WSVzqTyFqk64Z9G1i3hHmcXMsmL1fd6aGFcDs273saR831CypEsarYjauQrQL4qmWp++akixDQdEcNMlYIUldgzQGqvDo8/RU/YHRl2sVo30V57RJ1kwcJbJHYGHmy5vwia1nOZUHt5q7naRMjL5WzzM+hPslJdo7b9jiKmpit6TYrxJwBZxg0VAOJKLsmmkgMq2Sz0wARVlQHDRuyIaJH6VivHH8O+DChpAFIezF7wk63bCDJtaBi4fypfHtN16ZkTDMzuf2CK/jRfw86upE06SfYdDVXqzGyg6mOE2h2NRhMBsYt2h32iflY6q2CQEOEFvejjn0RTNiqHWtyHCitjbuBTQrbPIJQENRj7WcV038oXCj6C+i6hyqOX1i/rO8tVnsxhCTEMwZRFBzPNsVSOtnike3kLGeeet39H5GibDf3F0s3f+wC5lD2Vv7UYov6Jeden1mRdsuds8eIAeMHgcQl6ftNMbxcEEgg==;9Yv/CYTLfN+jxh/zIiPxOw=="
 ---

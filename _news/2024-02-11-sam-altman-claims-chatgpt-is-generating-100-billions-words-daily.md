@@ -58,6 +58,20 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
+    excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
+    publishedDateTime: 2024-02-15T22:17:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65cbcba74b994e610bc5d2ae/191:100/w_1280,c_limit/Which-AI-Chatbot-Is-Right-For-You-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
     excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
     publishedDateTime: 2024-02-14T06:09:00Z

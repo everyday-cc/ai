@@ -61,6 +61,24 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "Feeding the hunger for Nvidia GPU access is big business"
+    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
+    publishedDateTime: 2024-02-15T16:34:00Z
+    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
+  - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
+    excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+    publishedDateTime: 2024-02-15T20:29:00Z
+    webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 34
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
     publishedDateTime: 2024-02-12T23:14:00Z

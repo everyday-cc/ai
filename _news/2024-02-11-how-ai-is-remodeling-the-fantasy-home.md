@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "How artificial intelligence is shaking up these school classrooms"
-    excerpt: "LEHI — Educators were among the most concerned demographic groups when the artificial intelligence chatbot ChatGPT made its public debut less than a year and a half ago. The query-driven platform, trained on vast amounts of data culled from the internet ..."
-    publishedDateTime: 2024-02-10T19:21:00Z
-    webUrl: "https://www.ksl.com/article/50870978/how-artificial-intelligence-is-shaking-up-these-school-classrooms"
+  - title: "Granblue Fantasy: Relink - Best AI Characters"
+    excerpt: "The AI in the game makes good use of the abilities of these characters ... New players to Granblue Fantasy: Relink can start their playthrough on the right track by avoiding the following mistakes. If players do choose to bring Eugen into the fray ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://gamerant.com/granblue-fantasy-relink-gbf-best-ai-characters/"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
+      name: Game Rant
+      domain: gamerant.com
     quality: 37
     images:
-      - url: "https://img.ksl.com/slc/2969/296939/29693927.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
+      - url: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/granblue-fantasy-relink-gran-starting-a-quest-1.jpg"
+        width: 1800
+        height: 900
         isCached: true
 
 secured: "KPvAF7qEptDk9TKgZnhNPHcdJISAN7XIeHjagOPI8LJGs0uSdLIHbdAu32E6TofXdjnm/yI1K6sBAYLDlKzQoqiSY7vLDQK+hAb+htqWhy9x2lnBPyBXbHUd2JU5qSeEnIC4T8BdElaZ5nuxs7eM+k92EsxYJnE2gRt1El4io0PHVRF7KMgFTS+PTui68FBDOsI1ebfHgcZ6KeEgJRMorbXHmHmSlJ7lQgHJKmvVAzg6lJbdhPT8TjuZBpx2RHRJIeT8bRixG2UcYzQ9teK+8JkMaeG4+1iuMVK5hHUlZcRAqVG5NNylaUkmEvAqRMzAY48dcYyIBionqaE6jU/tWAx1b1f0o6o1n10L2FzJuUguaeUEHCu9SNfZzULR/QxUPGEZVad2mm3FiIPY0qTc4OQ0t8vRDQuoUVGd8lstQmuogItQw2F+rxvs2P8EcutlSe3YWicXrSkR06/HeZ9AIaUbi2lhkkP4DZpUv051row6fkBhSMUl2hL8mIt46DhBjeanr7acrSu7kXxvCCXaMw==;o/SM2uqPqACnoh6rCY7hsA=="

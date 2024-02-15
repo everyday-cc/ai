@@ -115,6 +115,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chicago startup Hackerverse selected for Google AI cybersecurity accelerator"
+    excerpt: "A Chicago startup combining AI and cybersecurity was just named to a Google for Startups program. Learn more here."
+    publishedDateTime: 2024-02-15T18:37:00Z
+    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/02/15/chicago-startup-hackerverse-google-ai-accelerator.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "51GAAzwIVOEe6ssYjQOGILKSaSy/Nf00M1Jaly/tIKw/Ko4wDJL4TVihxLVe5iwQ8ZUaCbRbGWdAKGofAHDWybuChdM349U6HgquwNZHFd2rIRGtqWuFvH1bw2TcWI94g+Y2Iq7O+UNM20IiFHo9u5JNLegof6JORPKPeycRgr3Sh1G2U424CnXDol9YyOQvnlIm++KiIDUJyuHNehomHxFEJL314a5fQRpFdb7IDqLP36jqo8XulCS4HbO2znD/sY11cctQTaCPZ9bgolhLKZu1Wu4RPTwMc2f4p3sqjke7JZmuRdjOpPvD2RfjOSTjxFYUy395cvYs8JxyU0AkFW8zOuzZT1yN096Odx1w2ZY=;ERDKfNMyI8/Nfak/O8jnwQ=="
 ---

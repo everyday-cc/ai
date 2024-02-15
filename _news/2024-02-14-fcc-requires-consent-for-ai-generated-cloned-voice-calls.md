@@ -280,6 +280,20 @@ related:
         width: 667
         height: 659
         isCached: true
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. \"We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-15T21:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963250.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 44
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "What You Can Learn From These 2 Generative AI Startups"
     excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
     publishedDateTime: 2024-02-13T14:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-ar
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Congress tiptoes toward healthcare AI legislation"
+    excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
+    publishedDateTime: 2024-02-15T19:19:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/congress-ai-legislation-healthcare-wyden-mcmorris-rodgers"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
   - title: "Jive co-founder Bill Lynch on his new AI-backed health care startup"
     excerpt: "Jive co-founder Bill Lynch is back with a new startup exploring the use of artificial intelligence tools, specifically generative AI, in health care. The new company is called HumanTrue and Lynch is chief technology officer."
     publishedDateTime: 2024-02-13T11:44:00Z
@@ -51,6 +60,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "WtLZy4IKyqewLu75gr/+HwatQq7l1vMI8bnOlX6KRIq6KKscJ2g+0hNDtzPE4Y2EmzPwH+kwpdm8OrGwwFqUvj4+UJNr1V1Tq5KuT6YfGDHCJDCigy7xx5FdCXa/lH6cRuenDgxiJ/+NRUGvbokTCF21sAFXK8OpPGqQeeqoYVlxfVxABWcyEJt7V9ttCM2kfhjFEpBMy8IN99m/oKS/n4RnolY3d1zIKnmYhw2sw0FO3PPvq3tXxRVY+dG7MqscgPgZNPgX7tipWTiteNck7G3JTdXF2kV+m73oxxAhcNC7UIjU8khnjV3E19CQinsJ3uHf1geqgduYa+M9wM5A8yYjvIIv4xxvN4w/z/odt6U=;3R2E/Hzwz7NnQjtVQaO3hw=="
+secured: "WDJkW2zNTtGk7qX2GOiW7cR0wCrmZWK0wqoYYsFdg6FgQnrVmDOumhzkbMQaiHyeKJEeVoITXlvTzSg/Eo1BgtZKbi1+utJzYExRUnILXkI5Tnse2IHJKb6hm1gyGTVOAsH+xdyL7KTC5cvRlYp0c8ci+UvBmHiVXwsZwPS6mWmIMC+IGQ2se883AtcDhdHMqetaFJ3n4RnnkLDYWrKgQFX9igF3+zPN6vbI+Qp2/byfUAl6EQsMwcT4MHNfA7lGGOic8SwUU9j9VjzZeG+6FB1ceKTGdfpLQlHstRcuD970wNXL0ixgyqLfxWJTfqIn9ZT+8i6zbWcsTfYRR1ymDR9saElPb3mfEWTQND6svK4KSY+P7fubXoB1EKKSQtDzRm7u9bVvLtN8FYjFJLJcGHm45HVWDFrTedmZkeo3NaQ0xnVTJuidYFGkPpkiFc0ErdXrIUne3bi5KGCluXSJBM6nXFe5h0d+Tre0jij3V9KsGJ7X323iEWgiNxC+/AUytM0ReZNNbv9I88pMQH7z+A==;EP4uej6ikGa25sZou1CbVw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-15T16:54:00Z
 originalUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
 webUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
 type: article
-quality: 85
-heat: 225
+quality: 87
+heat: 227
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Meta AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg"
@@ -209,6 +210,6 @@ related:
       domain: interestingengineering.com
     quality: 19
 
-secured: "fro1aVQ+0ivy0uB8UvN+qbYhovffN7BT5BFoYFWD2DEDmqOLuchBxRJ3yKgAdwZloj6lroYLHJUUyB6RAtdF8WXS+QtSTnz8oNL/bgofDrF9eNv/Z6EfVv98SNXNdXH24Y3Oc3CWIzZ2Hu0dxi+NmoyoQM7NXguowVxL1RXLrN3yPVQwyQVXLDxmDLsMUXEpWL2O+4UFMaUjAeWcmIye54W9upd/8Il4VZc0X9bxn/2qGc668Oxaar1aWm/AypJEn0Na+/d1ZbhGpnA+F3ClbS26SfnA0rMRh61aUsWtrA32GRWTrixePp63E9ksbmxtf9HqtLZdxcgXrxw1WWEXQwbXNviSnLSQn1vSr9DHNfM=;2hT10L2zHMzBIdpiKch26w=="
+secured: "itWQTTpbUuODCq+LdhZujJTEfEgf/TyaugxsHMnsdBn0qxcrfDj8ssnOXdBEKGjJEDHs7gLUbgKv101zpYyMDBP+GoNiO4fzKb1VJJ2dMihtuV8eo8N+gLYVK+dYOL86WYUAtGjwQBjaGJ26jVDBfar7XNFUntqwZO0OuM5UfchxgznCY2s7+iQom1n/sODt8yoLX/i24btIb6hGLBZGiv8mnTZNniFCmJzr/1IqIlO9fDZ/9+H+Jt6Ipo65G8UZDE7akDumywh/9z6pKtbwtarE57FEI0/NbI4jVwEEoTP88UuE28mzm2u/L6+BnlCPC5F6xfBaQg/lONbSptHzTLz0P6zw4QyiNRAZxwhjatyyTa5Yx4KempifZVGUNv5ukCAYWSM5LfSqOxJk3yY+d2R5U1Dsidj7faevMVNgaMozB0qIl5ZUIf5LItVbjIaH0juTm8CEfFnELioOapZNwkgsWlXAfYi8N9YkKDfCbqs+782cNVJu2ddB/gh3/rMSzvIn4H5g/Fufhzgpp+wigw==;sa3wpgOFtbXE/P0X9KfK9w=="
 ---
 

@@ -41,13 +41,13 @@ related:
         height: 900
         isCached: true
   - title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
-    excerpt: "Continuing the booth theme \" Future of COMPUTING \", GIGABYTE's presentation will cover servers for AI/HPC, RAN and Core networks, modular edge platforms, all-in-one green computing solutions, and AI-powered self-driving technology."
-    publishedDateTime: 2024-02-15T18:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963375.htm"
+    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"
+    publishedDateTime: 2024-02-15T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 0
 
 secured: "BQuscXGaQuW3UvEjrUeM4bJcGArYcpTznM2pTIxecc1l/sPlCceJGew3FFGnqx/Z2tX5EkKQI2VxB0W7dB3V4AQhwyjA86pmZvPWUNmUW48RlmzrMS7MfRY6zKAEtZPyh3RpuJaBX7WX5RBODik2fZvcLbx8M/+k0mgHtIx/gk3AiGbAkqMQJLdCpOFwkS0BNHchlgAdhRRFQ3u4eG5g3TeMVDGGbksTt9y/ouYtj4SqQHLiB9rYt9nktKGtqIb2RAqekmMcAFjXRUL0bVUOkG8QMpqGRGSyDKM0/0FWnJoBS1WeZRAsrZxDiy75pSEyIJSoto1ifIPHLANR+Ks1nPZZ8r301DiCGuhlvhq8DHw=;bABdmC73KTOFuJ39WXLF0Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-s
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.arabianbusiness.com/cloud/2024/02/13/UAE-future-transport.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "San Francisco crowd sets self-driving car on fire"
+    excerpt: "Video shows a self-driving taxi burning in San Francisco on Feb. 10. The vehicle had its windows broken and a firework was thrown inside of it, officials said. (Video: Alex Ulanch via Storyful ..."
+    publishedDateTime: 2024-02-12T22:16:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2024/02/12/waymo-set-on-fire-san-francisco/"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-12-2024/t_0854f802dec64fd5ae274fc01c4bed8d_name_20240212_Self_Driving_Fire_00_01_00_27_Still016.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Using generative AI to improve existing content: Top tips + sample prompts"
     excerpt: "Generative AI tools like ChatGPT can help you rewrite sections of old posts to bring them back to relevance while ensuring they meet current SEO standards. Start by feeding your old content into the AI tool. It will review what you have, looking at ..."

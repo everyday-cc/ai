@@ -6,9 +6,6 @@ publishedDateTime: 2024-02-10T19:38:00Z
 originalUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
 webUrl: "https://www.kcrw.com/news/shows/npr/npr-story/1230628268"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
   name: KCRW
@@ -24,6 +21,6 @@ images:
     height: 416
     isCached: true
 
-secured: "SvjYBz7YSd0N9kGXsBkQqjuR9Wo+6oWfNKuYM2oK/zyEpdbeKheauULNGt4E9SygnDdPkq3AamCRRBv/q2KTTQuhX3JaOmgsy3MulQM2k6wiFlGqE0gjzyZbsVGI9tR0El3xfyYCpVTCSuIB0+08/2gAAgnog3gbEmdV15Ch6iRO1CfQDKdhN0r0i0wuA0c0tkS0KCwUN+GRLQ40Kk2Ac039jfnNcBAkCvmBwPxMHf8vbt/4nxW6Z/FwxvxpLP3eu71cQj2AF6HX3gZZFGmRWjIhP8tZHfrxTQCZ0DvCOYjgyUElNeXqQkyPIVfL8TTi4uWze1GKobRlcuA+g15dVVVM/ZPwkgcPpLw6/XeJI4U=;GHLZpSdD5SSYr1F+pQq0wA=="
+secured: "NodKftXrktyelRhOXxatbFGyM9fhVK/H7dmoVGkG5wu5AyLJpwoDVHIw8GhPsQoCyoKPDXvtLdAr5iBUzZ7Wm8zSvv882Wk5f9Le4ZNwE0yGBYKQ9X83R3vawe2LFNVwRMsIRP2WrvAz1y1lgGCLK8FpiyjJlFJjBJLHWx05UR0/d/nF4Q1Gpo7jaG46HmnMK4TMBxMIuaThswIsM7ogKqiTgSvLweq4bPbeUhswb5YPnlcih9WP3TmgZsKK9hpkdw1mCspZg712ow0F/HehTs2S3fXVzb6s74ossy7bYPi0gWFbD97OlPpBGCo7tZ7ZgQ3AJbBKoZkTsp9cvlnXqTmP1LdIky3Z5xAe0A6//q8=;KadqkCV+WM19m9TlOqVC2g=="
 ---
 
