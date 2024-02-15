@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
+      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
+      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "publishedDateTime": "2024-02-13T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-4-strategic-sourcing-use-cases-to-strengthen-your-supply-chain.md",
       "title": "4 strategic sourcing use cases to strengthen your supply chain",
       "excerpt": "Strength and resilience across the entire value chain is no longer a nice-to-have—it’s a survival tactic for sourcing teams.\nThe post 4 strategic sourcing use cases to strengthen your supply chain appeared first on IBM Blog.\n",
@@ -1153,58 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
-      "title": "AI field trips and why we should stop setting self-driving cars on fire",
-      "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
-      "originalUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
-      "publishedDateTime": "2024-02-12T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

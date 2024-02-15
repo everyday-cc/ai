@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-31-jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services.md",
+      "title": "Jio Brain is a new platform that uses AI and machine learning to create new 5G services",
+      "excerpt": "Jio Brain is a new AI powered platform that uses machine learning and offers services like image, text and video generation. Here's what we know so far about the newly announced service.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/Jio-Brain.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "publishedDateTime": "2024-01-31T05:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-ai-machine-learning-to-keep-old-structures-strong.md",
       "title": "AI, machine learning to keep old structures strong",
       "excerpt": "Old buildings can now be made safe and collapse-proof using machine learning and artificial intelligence-aided mechanisms. Philadelphia-based Drexel University",
@@ -1254,49 +1297,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-can-artificial-intelligence-patents-survive-alice.md",
-      "title": "Can Artificial Intelligence Patents Survive 'Alice'?",
-      "excerpt": "Part Article Under the current Alice framework, those attempting to patent AI innovations face an uphill battle. But, as the caselaw demonstrates, inventors and patent drafters can take steps to reduce the risk of AI patent claims being invalidated as abstract ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/2024/01/16/can-artificial-intelligence-patents-survive-alice/",
-      "originalUrl": "https://www.law.com/2024/01/16/can-artificial-intelligence-patents-survive-alice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/08/patent8_767.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

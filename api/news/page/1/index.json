@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-15-facial-recognition-system-at-airport-remains-ineffective.md",
+      "title": "Facial recognition system at airport remains ineffective",
+      "excerpt": "The modern facial recognition system, a collaborative effort between Karachi airport and the government of Japan, is facing operational challenges due to incomplete data entry, rendering it ineffective.",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
+      "originalUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.tribune.com.pk/media/images/319015-karachi_airport-1326187455/319015-karachi_airport-1326187455.jpg",
+          "width": 922,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
+      "publishedDateTime": "2024-02-15T08:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-saas-startup-partners-boston-dynamics-to-deploy-dog-robot-at-construction-sites.md",
       "title": "SaaS startup partners Boston Dynamics to deploy dog robot at construction sites",
       "excerpt": "Zepth is in talks with investors to raise its first funding round in order to expand in the Americas, as well as deeper in India and the Middle East. The company's project manager app has over 40,000 downloads in India and is used by over 500 projects and 8,",
@@ -1180,58 +1223,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
-      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
-      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

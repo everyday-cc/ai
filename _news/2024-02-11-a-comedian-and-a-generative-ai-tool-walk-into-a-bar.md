@@ -128,6 +128,20 @@ related:
         width: 1559
         height: 900
         isCached: true
+  - title: "The iPhone 16's chip could get a big AI upgrade for generative AI features"
+    excerpt: "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower."
+    publishedDateTime: 2024-02-15T07:39:00Z
+    webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 82
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "5 Principles To Make Generative AI Your New Work Buddy"
     excerpt: "Today, “how” we work and “who” we work with are the defining transformations in the workplace. Soon, every team member will have their own GenAI work buddy, or co-pilot."
     publishedDateTime: 2024-02-13T15:00:00Z

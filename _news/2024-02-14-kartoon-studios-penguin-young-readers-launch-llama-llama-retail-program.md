@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Kartoon Studios: Other Events"
+    excerpt: "Item 8.01 Other EventsKartoon Studios, Inc. (the “Company”) issued a press release on February 12, 2024 announcing the new “Llama Llama” merchandise retail promotional and charitable program at Kohl’s."
+    publishedDateTime: 2024-02-15T08:57:00Z
+    webUrl: "https://cbonds.com/news/2713189/"
+    type: article
+    provider:
+      name: Cbonds
+      domain: cbonds.com
+    quality: 24
+    images:
+      - url: "https://cbonds.com/img/cbonds_logo_square.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "Kartoon Studios and Penguin Young Readers Launch New “Llama Llama” Merchandise Retail Promotional and Charitable Program at Kohl’s"
     excerpt: "First Products Launch in February 2024 with Second Promotion Planned for April 2024 in Kohl’s Stores Nationwide and Kohls.com“Llama Llama” Adds"
     publishedDateTime: 2024-02-12T15:15:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kartoon-studios-an
 webUrl: "https://markets.businessinsider.com/news/stocks/kartoon-studios-and-penguin-young-readers-launch-new-llama-llama-merchandise-retail-promotional-and-charitable-program-at-kohl-s-1033057167"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Kartoon Studios: Other Events"
+    excerpt: "Item 8.01 Other EventsKartoon Studios, Inc. (the “Company”) issued a press release on February 12, 2024 announcing the new “Llama Llama” merchandise retail promotional and charitable program at Kohl’s."
+    publishedDateTime: 2024-02-15T08:57:00Z
+    webUrl: "https://cbonds.com/news/2713189/"
+    type: article
+    provider:
+      name: Cbonds
+      domain: cbonds.com
+    quality: 24
+    images:
+      - url: "https://cbonds.com/img/cbonds_logo_square.png"
+        width: 1500
+        height: 1500
+        isCached: true
   - title: "Kartoon Studios, Penguin Young Readers Launch ‘Llama Llama’ Retail Program"
     excerpt: "Kartoon Studios has partnered with Penguin Young Readers and Kohl’s to launch book and plush products inspired by the Llama Llama preschool franchise. The retail promotional program will be part of Kohl’s Cares, where 100% of Kohl’s net profit will benefit nonprofit organizations that improve the well-being of different communities."
     publishedDateTime: 2024-02-13T19:07:00Z

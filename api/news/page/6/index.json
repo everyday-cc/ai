@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-08-the-history-of-climate-change.md",
+      "title": "The history of climate change",
+      "excerpt": "The understanding and awareness of climate change mitigation that inspired urgency took some two centuries to develop.\nThe post The history of climate change appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "originalUrl": "https://www.ibm.com/blog/climate-change-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-elon-musks-brother-kimbal-is-not-as-optimistic-about-teslas-full-self-driving.md",
+      "title": "Elon Musk’s brother Kimbal is not as optimistic about Tesla’s Full Self-Driving",
+      "excerpt": "Elon Musk’s brother Kimbal, who is also a board member at Tesla, is not as optimistic as his brother about Tesla delivering ‘Full Self-Driving’. He says: “maybe 5 years”. Virtually every year for the past five years, Tesla CEO Elon Musk has said that the company will achieve full self-driving capability by the end of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "originalUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
       "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
       "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
@@ -1044,92 +1138,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-biden-administration-names-a-director-of-the-new-ai-safety-institute.md",
-      "title": "Biden administration names a director of the new AI Safety Institute",
-      "excerpt": "The Biden administration on Wednesday plans to name a top White House aide as the director of the newly established safety institute for artificial intelligence, according to an administration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
-      "originalUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2024/02/GettyImages-1983623721.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
-      "publishedDateTime": "2024-02-07T03:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
-      "title": "Bell, Mila to embark on joint deep learning AI initiative",
-      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
-      "publishedDateTime": "2024-02-07T00:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

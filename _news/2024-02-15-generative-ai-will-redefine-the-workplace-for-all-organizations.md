@@ -112,6 +112,20 @@ related:
         width: 1559
         height: 900
         isCached: true
+  - title: "The iPhone 16's chip could get a big AI upgrade for generative AI features"
+    excerpt: "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower."
+    publishedDateTime: 2024-02-15T07:39:00Z
+    webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 82
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A Comedian And A Generative AI Tool Walk Into A Bar"
     excerpt: "At this year's 7x7 event pairing artists and technologists, comic Ana Fabrega teamed with Runway CEO Cristóbal Valenzuela to see what happens when AI and humor collide."
     publishedDateTime: 2024-02-10T19:04:00Z
@@ -334,6 +348,6 @@ related:
       domain: dbta.com
     quality: 0
 
-secured: "RDCW0PJrGB7iKHz0WFIAXCZZODlNUOEneGVXm+wAyVhlDlZrh7xZ+jv6WvpHqeHrmvBUYM9U+eBSK9HaECCmwgMZJZlHN2aCy3Ti4UVqCG5gnnmVicVMU4RgC2iWNTR2kyoytbTNSI3UacA4kQpQ0afXEHZ9y9QmhCfBLXV5k5+U+BYQpHYFRRFuonNCU0tRpvce4b7bqK/N5u26IX9tGPI63aeOou70V0y8GExPN732P7VjUmjfDDdyJIzEtSj0uPzm1Dz0z5BDlNMQkRsRMgIAy5Tl4sWZKPzoryeo6O7b+VnmEbSSpeuPbcp/Evg1Bhn+YdNMk6Pz/1CwoqjNnlJDV/R4dYYxL+8ajwqjffI=;U6JV6Y2H4cGbsQKoAz9frw=="
+secured: "3nTKs778ZHYCENp64gGWohTs0H7/wdGqmzG4Bm8c2CbKXsu+KeiMyNPlyWZ1/KiSyMkntNgmPEqRfEJrlKUfwLlRpI9o3CNCQenFpHtkp1HiRRS2dfxFCmQcfpitaxMHA0EZ4BcuurrifceQQF+qT5JeE8Ux4rMbuT2xEnwX8pNrSFmhO3O/rRjIJj6hW7jE9H3Zvb51JICeIIHkyzyO9bxo/ZSSQlyM0Yp92CPShlHGXeGNgxMY/bcTZar3G7c9IHCccBHcPJQmta5bhJs2hFnX/n4onT6Vc+hwgD/nAMdiEFmt/VEj1Qmb8oxg3qImwstXlUmynIuKK2X9Qi0c5V5HaUV3+kv6lFuc1nsKCri88vFMaDUaHcIeH7zSGgu6777B3a+fPUcoUJhBYzWSi/SPvcu5CwXFvvu683wBuXYDI3nL4tADXRsj4YaJDw/x4axg8XDNQ+C0WgzWxfkMbQFgi/TxkPcdyQcQJvFVG/rMjEGsTfqDKYyf/lllnI/ARUSLtIO6aqIZ5CTXU0Z16Q==;QKe5n6OGRLzHimTx0HsSJg=="
 ---
 

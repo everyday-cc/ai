@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
+      "title": "AI field trips and why we should stop setting self-driving cars on fire",
+      "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "originalUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign.md",
       "title": "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign",
       "excerpt": "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software.",
@@ -680,7 +732,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1174,50 +1226,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-openai-and-1x-robotics-autonomous-robots-will-change-the-world.md",
-      "title": "OpenAI and 1X Robotics autonomous robots will change the world",
-      "excerpt": "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
-      "originalUrl": "https://www.geeky-gadgets.com/autonomous-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg",
-          "width": 1280,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

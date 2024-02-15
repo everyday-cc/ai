@@ -24,6 +24,22 @@ images:
     height: 846
     isCached: true
 
+related:
+  - title: "Understanding Artificial Versus Human Intelligence"
+    excerpt: "What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s University’s Daniel Ernst explains. What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s ..."
+    publishedDateTime: 2024-02-15T08:03:00Z
+    webUrl: "https://www.insidehighered.com/podcasts/academic-minute/2024/02/14/understanding-artificial-versus-human-intelligence"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 22
+    images:
+      - url: "https://www.insidehighered.com/sites/default/files/2023-05/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
+        isCached: true
+
 secured: "iM39dxHjY+xiYBce4psrJLMKW3k4vVo1L/zInsUoUx/5AN0kpHpk3y44KuZ25jTZPDXimHQcgAxCwNy0sHK73f3SR5YPfjS0JkEO6fkhNar8klevtVQDCmldEaE7xpBgBWDXrGcuorRcI1Wu3JtRvj/Nxchi9kHaJZnCyvDccrwVahEMaGyqeJMbrld22F3YYRPTfVIILwT2w7xv+Tk9RlhB+kuonMeYbdmXNmTZjZRarrPi0HFSYvZeOPlJxUb7rtd3AbdPxt3V5WBi/so1eZ8xNJ1AENPo+YNVxGb2eW654/U9qqVvkpzPEBTc31N2PFpuhbv+BzbROX53K2h8IdeMZX8c3E8IKYLM0CDBeaU=;nTfMjmd32uWD7k1uUS39oA=="
 ---
 
