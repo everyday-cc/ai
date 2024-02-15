@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand"
+    publishedDateTime: 2024-02-14T22:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 83
   - title: "ChatGPT Stock Predictions: 3 Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In a time when AI is a friend and a guide through complex financial markets,"
     publishedDateTime: 2024-02-14T11:00:00Z

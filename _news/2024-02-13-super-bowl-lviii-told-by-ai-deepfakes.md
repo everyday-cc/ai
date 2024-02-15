@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 85
+heat: 77
 published: true
 
 provider:

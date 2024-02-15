@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/generative
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/generative-ai-is-here-to-stay-its-time-to-get-on-board-securely/amp/"
 type: article
 quality: 67
-heat: 77
+heat: 79
 published: true
 
 provider:

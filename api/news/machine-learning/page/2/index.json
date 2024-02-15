@@ -584,6 +584,49 @@
       ]
     },
     {
+      "path": "_news/2024-01-24-deep-learning-model-composer-enhances-early-sepsis-detection-and-patient-survival.md",
+      "title": "Deep learning model COMPOSER enhances early sepsis detection and patient survival",
+      "excerpt": "A recent Npj Digital Medicine study evaluated the effectiveness of COMPOSER, a deep learning model for early sepsis prediction. It assessed the impact of this model on the quality of patient care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240124/Deep-learning-model-COMPOSER-enhances-early-sepsis-detection-and-patient-survival.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240124/Deep-learning-model-COMPOSER-enhances-early-sepsis-detection-and-patient-survival.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_770036_17061510676339666.jpg",
+          "width": 2000,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-want-to-improve-rewire-your-brains-neural-pathways.md",
       "title": "Want To Improve? Rewire Your Brain's Neural Pathways",
       "excerpt": "Will your brain adjust just because it has the capability and capacity to do so? Not necessarily. You have to want to change.",
@@ -1254,41 +1297,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Grid Dynamics Earns the AI and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "\"Securing the AI and Machine Learning Advanced Specialization on Microsoft Azure is not just a reflection of our expertise and commitment to AI and ML innovation, but also a symbol of our robust ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
-      "originalUrl": "https://www.nasdaq.com/press-release/grid-dynamics-earns-the-ai-and-machine-learning-on-microsoft-azure-advanced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

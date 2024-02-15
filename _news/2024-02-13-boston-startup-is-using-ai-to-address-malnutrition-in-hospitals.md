@@ -21,7 +21,7 @@ related:
   - title: "SaaS startup partners Boston Dynamics to deploy humanoid robot at construction sites"
     excerpt: "Zepth is in talks with investors to raise its first funding round in order to expand in the Americas, as well as deeper in India and the Middle East. The company's project manager app has over 40,000 downloads in India and is used by over 500 projects and 8,"
     publishedDateTime: 2024-02-14T12:10:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms"
+    webUrl: "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms?from=mdr"
     ampWebUrl: "https://m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms"
     cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms"
     type: article

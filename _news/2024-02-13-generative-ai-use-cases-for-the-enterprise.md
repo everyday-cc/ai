@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 webUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 type: article
 quality: 99
-heat: 329
+heat: 331
 published: true
 
 provider:

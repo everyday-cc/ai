@@ -28,6 +28,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Y Combinator wants climate tech, AI, body-scan startups and more"
+    excerpt: "Here's what Y Combinator is looking for in its next batch of startups: climate tech, AI, body-scanning tech and more."
+    publishedDateTime: 2024-02-14T18:14:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/02/14/ycombinator-request-for-startups-climate-tech-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "U/3PcGD/UbIsT4PpK7tE24J3risKEqd7VVmmgH/nqazPFzW0PPC7MRn7AMs4+//sdBQJulYhiqYZfCdFm4kVOpT4w7HlF7zO1LZWQ9qIMmjYvJ+UsW+7OHSuny1YNkeaLqWXPV21P9zWwOdT9GT0NkPHP9ZxQ7TtaQb45l2Z7KFNBu5Fj+4oZnox5BNSsifImxw04glMeG+bBMdml7pwbCG8CSrPjAdiv2wYBmDKP/er/OxuxEHkFEyDoKWS/8DkygVzL+qWl0mzHmpXA2usFgAOWk1dof0Rrf62yLeoLbAAbqUDYtE8U20GGUQXTnbqo/gkR8p5jBoFjEhW5amfxFnR2SXKssZn8VgYcMdP2EU=;ZhDSywqrvmCkX9jpmmN6IA=="
 ---

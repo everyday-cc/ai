@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
 type: article
 quality: 74
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49fc9a66d41bfb129e98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
+    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
+    publishedDateTime: 2024-02-14T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
+        width: 1080
+        height: 810
         isCached: true
   - title: "Insuretech, Fintech as Threat to Group Life Insurance"
     excerpt: "The Key Man Insurance policy or Key person insurance on the other hand is a life insurance policy which a company buys on the life of a top executive or another critical individual. Such insurance cover is needed if that person’s death would be devastating to the future of the company."
