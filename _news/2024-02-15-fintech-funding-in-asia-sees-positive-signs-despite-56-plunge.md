@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Mass Fintech Hub adds members"
-excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
-publishedDateTime: 2024-02-13T15:33:00Z
-originalUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
-webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
+excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
+publishedDateTime: 2024-02-15T04:02:00Z
+originalUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
+webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Fintech Singapore
+  domain: fintechnews.sg
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
+    width: 1024
+    height: 567
+    isCached: true
 
 related:
   - title: "Maybe we’ll finally see a fintech IPO in 2024"
@@ -227,20 +233,6 @@ related:
         width: 940
         height: 559
         isCached: true
-  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
-    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
-    publishedDateTime: 2024-02-15T04:02:00Z
-    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
     excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
     publishedDateTime: 2024-02-13T06:49:00Z
@@ -270,6 +262,15 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Mass Fintech Hub adds members"
+    excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
+    publishedDateTime: 2024-02-13T15:33:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z
@@ -325,6 +326,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "BDRuiiW6WuqDJm26vsUntAw8klFxM7t58WtA/fqwCfZTkPsbNNMF6/LVzgB2h1/s+OkfJgL3qQXGHXvEnwT8LcyRZbyWAdVchUhe+v7AWByJu1l3iRy+gLXklzyIXuIToiR3f8QpWlyktvyKeKLmttNc5+dTueTONnOo2soVUsQz6ujN+u3NhcyUyLJcxFtXA9gg4+dBIz5ci6RvdH27uqf1xbd0Jl0HqjwbzEJwd2ZWUJbXBTso+Eiu4klrOolLeNnvIZDisEZJkYPpnY5yHKOKYw9effYzQUrlLVmQ/EChZXAF8XokjfFeUaoG9aqikjmwEiEjOpfeytHqUl/rmG7eWQ9PhonavjGxk+KUWV0=;58YYhJpAlBrloeSK9Kywpg=="
+secured: "x9I13MyrL3Fh9LQjWBrjm9TdkMaFRGPwgo819p7xx5tw+DGjq9l/LlJlff6PIO7VOl6zscN+7dgnyi4q/CLs4LdAY0hDGaKGqpnfCnl6OhmgmdwpT0pd408uQpx3Ry+6oxl5UbSp1aYlFmIjrIEBoM/qWcTh4DCLW5ZOVP8/eDSoC34QTtE6hvSCYyBWsq2J3PYNLxDTWyhA2AX+Ja36M+e8RgQAi13pcA3NWdnGPMbubtVN08p03jjdIxUV3IBgu3AnPaxVVnbj+5O4pghbLRkxgoD7pTl/5Bz2+Gh2oB1C+B9a9AocdSOhOkE6x9TudgfQfqAFtU7q60HISqUF0Y4JR/xx98TSfg3EcETlCik=;FFALvmRWp+NZOwIBP6ICXg=="
 ---
 

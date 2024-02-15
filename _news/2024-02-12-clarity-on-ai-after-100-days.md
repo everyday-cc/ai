@@ -20,16 +20,16 @@ topics:
 
 related:
   - title: "The Enduring Absurdity of Artificial Intelligence"
-    excerpt: "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail."
+    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
     publishedDateTime: 2024-02-13T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
         width: 1528

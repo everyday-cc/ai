@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2024/02/14/nation/parents-gun-violence
 webUrl: "https://www.bostonglobe.com/2024/02/14/nation/parents-gun-violence-victims-use-ai-bring-kids-voices-capitol-hill/"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
+    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
+    publishedDateTime: 2024-02-14T14:25:00Z
+    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 42
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
     excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
     publishedDateTime: 2024-02-14T21:00:00Z
@@ -47,6 +63,15 @@ related:
       name: WFAE
       domain: wfae.org
     quality: 13
+  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
+    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
+    publishedDateTime: 2024-02-14T13:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 12
 
 secured: "slZl5LKlXHGgWgrGz/ZnXUSoLJkIrpmdAtRdeG4kKlthSdBfJhc6cd0MmyabPBB9oLMQbWR6Wn9QGvDM49Dd9VYjVUMtRCmBZ/3WH8fRSb0g+avyFXWdxZtXxkK0LwDysy2tVg/gYpiDTvDOHJEW8Qc5TXJ32oE4SnG9nGJXRN7GPpXk62teqLZoQKayrwnaHc0xPkJCtl9eLrw5vstUOuaSQZBlDvk0h8/IQb79F5XSFzjAjq78yMd0BlrfCFRi1JmReyisPA1OMG6RAt4ZY0fKJSUvFBK64d7ft19UpWAgs3CSznZCBMT6dYo08Sxx9ErrnB2ZRFU8XZlB7GZGMUWJked6fArKbztKqjra5ho=;vcVjZ+HN0OUbuaUVU5olEg=="
 ---

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
+    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
+    publishedDateTime: 2024-02-14T14:25:00Z
+    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 42
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Parents of gun violence victims use AI to bring kids’ voices to Capitol Hill"
     excerpt: "At first, the parents were hesitant. Kristin and Mike Song hadn’t heard their 15-year-old son’s voice since Jan. 31, 2018, when he went to a friend’s house and accidentally killed himself with an unsecured gun."
     publishedDateTime: 2024-02-14T17:33:00Z
@@ -47,6 +63,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
+    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
+    publishedDateTime: 2024-02-14T13:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 12
 
 secured: "Lk5kY4E0PjPESpktRV+Nj2NsG+xRbp9sDVHCi++hn2QwTgadozmYyk/Q58XrhGs2tLbkINrtnb0cDHlG1cTYVtVuKRvM0HIYgU0D/xK3rM3eAWDK7w5H0LK8/vDq90ohCbzPijF3J8KiCahm2L/5t+3oyo3cDegZBLxz07KqX3BramQngWBOLChW1JffDvvlHMstl+1faLkWHZ6iyeh0k5SAmClsqfIDwTP3vcbHPps49HIxmhtdrHsO/0dyJQ1v3mKc/KgWGClK+iH5beufSvfVs4CDhCy70KtUNbzVTTwlfQ5vVkTFb4JssNg1UF7x50fTLGUglv7O5EJ2XH2APCzfYh8YkYm7T7yk9TZ29yHBGH0WNNHVo7IxIihkauYn3KwkzXb1s0835H6ggw5IuAgOKRmkQkRaQIj62ntNK4UHZjRSP+NytFOZpO9HilZQC6Niy0NX6xXa4vddeefuXCcVpHlOOeSd6gl+GdF14DM/bpuX5/94sVVPSZmiX2XRNKhLQxuONza/Xrm4gB9tNw==;9IN/ay0Win+KFJsBJ0XrHA=="
 ---

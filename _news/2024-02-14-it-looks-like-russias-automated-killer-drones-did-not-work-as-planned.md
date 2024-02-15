@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

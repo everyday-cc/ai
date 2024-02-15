@@ -119,6 +119,38 @@ related:
         width: 785
         height: 530
         isCached: true
+  - title: "Carbon acquires Nigerian fintech"
+    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
+    publishedDateTime: 2024-02-15T02:37:00Z
+    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
+    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
+    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
+    publishedDateTime: 2024-02-15T03:27:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
+        width: 800
+        height: 527
+        isCached: true
   - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
     excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
     publishedDateTime: 2024-02-14T03:57:00Z
@@ -190,6 +222,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-02/13/M_ded1dimage_story.jpg"
         width: 940
         height: 559
+        isCached: true
+  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
+    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
+    publishedDateTime: 2024-02-15T04:02:00Z
+    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
+        width: 1024
+        height: 567
         isCached: true
   - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
     excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
@@ -284,6 +330,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "BdMLJhFLhfHThE08Ac9VCfENuF2fkvT7KpmslC25TdVNyFnsPhT2HhKqcjMecN6Fuz0hQGkpqAdG/axJnmybSxZ2LFtux8SblrUo2quz1WRCT/KwoPpObHtiF/TUWyOw99bTLculb+YN9+0XEaLNhFzUMBW2CadjyAd4nmWgJaUpTNT14V5AofDYJE1kYbVvzpV36ApDRTr5w8np+Epg3BAvDSIBRwvj0X4PSiVX7Y/JRjAbKZ2a6ZesPkNeFVtJ4IGPUt5yhi3zyBhGWdH3gTdp6UhIHHWZfU/9RX0ujeFHqluqsHwaNxJny7fVNZJ4cVoM7KdTicfRP/rv3ALsnLyZa/uFfKysecF2lurOniA=;8vpQ2wdsINH3a2z1/Ysxpw=="
+secured: "LkT1jYL0BhEZk+6ZAomHFxgjHMn8h6ygd7UspG6LTsZ9pus2rKAX9OFZH0wDZbpEvXYARHzQzUi1TrJkAahGJej+1KGylm18tb2XfUIWbanKB0KAQf25G/5MaL7gIK8nG63QsAOZdMaYihzk4vVy0fJXB+vrrex+Yu1CA44YFNgDhnAQ0XdMGJyt1Aw9PJfT2q0ErvUGfTqq1iw/ucnDZXnVCfm0MWrRpguR6tPV7NrxvEwjiwPht7YgOCU+Vb45zoAB8rDqLbdznvuV04WC03Dj3mZaYRQ0+IydS2ndbgUdM4e6YqU2jY8YnY1iVVV1PRDGvNGMTt82LPbDlDI2NwqxO+ElQN7BsiRKgCmnPLzOTM1UP4tLraWVZYrZ6FWggdzg5en6AqylTsyqzK5lMAmRxbS9vL5XsCEzCBCTbFIuRx/SXvXPcfOEncJoRW4Mg4+g2LpSacnUqQfjg4z046G3yQz/5SAtfls2+fHFvpFKMcpevzUw44C9J6P+l7NN+De3GdFOi6GhsADyExTN6A==;f2X73ZzcOokCRGUHepZfjA=="
 ---
 

@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mass Fintech Hub adds members"
-excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
-publishedDateTime: 2024-02-13T15:33:00Z
-originalUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
-webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
+excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
+publishedDateTime: 2024-02-15T03:27:00Z
+originalUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
+webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
+ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: This Day
+  domain: thisdaylive.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
+    width: 800
+    height: 527
+    isCached: true
 
 related:
   - title: "Maybe we’ll finally see a fintech IPO in 2024"
@@ -139,22 +147,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
-    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
-    publishedDateTime: 2024-02-15T03:27:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
-        width: 800
-        height: 527
-        isCached: true
   - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
     excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
     publishedDateTime: 2024-02-14T03:57:00Z
@@ -270,6 +262,15 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Mass Fintech Hub adds members"
+    excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
+    publishedDateTime: 2024-02-13T15:33:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z
@@ -325,6 +326,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "BDRuiiW6WuqDJm26vsUntAw8klFxM7t58WtA/fqwCfZTkPsbNNMF6/LVzgB2h1/s+OkfJgL3qQXGHXvEnwT8LcyRZbyWAdVchUhe+v7AWByJu1l3iRy+gLXklzyIXuIToiR3f8QpWlyktvyKeKLmttNc5+dTueTONnOo2soVUsQz6ujN+u3NhcyUyLJcxFtXA9gg4+dBIz5ci6RvdH27uqf1xbd0Jl0HqjwbzEJwd2ZWUJbXBTso+Eiu4klrOolLeNnvIZDisEZJkYPpnY5yHKOKYw9effYzQUrlLVmQ/EChZXAF8XokjfFeUaoG9aqikjmwEiEjOpfeytHqUl/rmG7eWQ9PhonavjGxk+KUWV0=;58YYhJpAlBrloeSK9Kywpg=="
+secured: "KXX79aF8VJz9vF1QbxFuTJS7Jv9TqBxNhL/AXC1pXb/SsiV7kV1qmFq3EhwoeaSev/SO6unUkprfD5nsdHAaCsM72Ved3RNyQb04eXmlyskZ4gwTDmgv8frcIr9VCNXh2IhFYy4KNz78BpEheNydMC1wkYipL7WX3oQ137czXOEsxw9lBOjiVpvhtWLjIYoJw+3EYbiMa6cAetZ+9ZWvOs3vT+XUmKmMLPnPEOAN4ZTEXYr9ePdfZo3LSUsS7++X3MLxkaget0kPiXTR8GHT+4YeHOHfpLLs2rSMtMES45MZpQMAyanMQ2OjzXXPWD5mpmzPHIja2ahWniewrWFtFg+55wQk3UYXFIvWk1Z7Zo8=;t3IPrwuL6JoWw31jsKlH7g=="
 ---
 

@@ -1,43 +1,31 @@
 ---
 category: news
-title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
-excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
-publishedDateTime: 2024-02-14T13:02:00Z
-originalUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
-webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
+title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
+excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
+publishedDateTime: 2024-02-14T14:25:00Z
+originalUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
 type: article
-quality: 12
-heat: -1
+quality: 42
+heat: 42
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KHOU 11
+  domain: khou.com
 
 topics:
   - AI
 
+images:
+  - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
+    width: 1140
+    height: 641
+    isCached: true
+
 related:
-  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
-    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
-    publishedDateTime: 2024-02-14T14:25:00Z
-    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 42
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Parents of gun violence victims use AI to bring kids’ voices to Capitol Hill"
     excerpt: "At first, the parents were hesitant. Kristin and Mike Song hadn’t heard their 15-year-old son’s voice since Jan. 31, 2018, when he went to a friend’s house and accidentally killed himself with an unsecured gun."
     publishedDateTime: 2024-02-14T17:33:00Z
@@ -75,7 +63,16 @@ related:
       name: WFAE
       domain: wfae.org
     quality: 13
+  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
+    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
+    publishedDateTime: 2024-02-14T13:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 12
 
-secured: "YQG7OHpsepvck02dKUZjmIP4RwhiLPwtbOCzOIiM9S7NPZyzENXqYcOIHBg9AVtpN+S2RNDDX2WferwMYeRxgMb51E2OVZCeHWGl29KrUKIS8HgeTHkc8hDbhocNhOBJjNvcVzQ8FtCcbQWgpEAs91WKlUWdkY/O99ZxtChbY9BPXFWRCfwbF9X0XKWdJj265k9UOcy2bxN1HI7comeUhZNDQZiQsgFCOl1Gl/W9SdCNZe9HtN0INuzeT2m+GJKYaDX8NV6+K3MSHZ713bPOaKc7bizIzG7hEtE5Ky91APEfJ6CqG6TEdJQrMHVBvMmsPo0Ik8PmKrKHQA6uUZsERM8hfRuQtBg02McgrrupOrtYYvmTW4lrjeE9VSBiCfaeMZm8k3MYxL9/6VdB6ZoKGoO4hJe6gonWjCo6nGWbui76bJB3ZbHJGD4KEzI3xOdjfnM7sGUb51a3q4yMmUUFbfIghYdgaikIUX7TpoDRJ5XOrCbVX+kE/yqtdaGws1hgTXsabrBj10CLO6iPCm6leQ==;Bo+kj7lb1P2v59/QCL9Mlw=="
+secured: "Wuts+F87AflGcdff8qhmH/gaoSTJoC7mdzK2C7UoJFYv0B9sh7gnd+6Lx793QYsihsNhLY8sSotrxTvWLrx5yijVrRp/84UkSaD9cpezxH/SEkPiWa2kwqUQdx5EDbZTfl4LsWAFxfy4aukJoLJ1nmhpY5cDUtKSsR5qA14jXA/NsxGcpcJV9lrOn5cn3gXRqEAu6hORq5eUAlU0iEhSmvBCCkCii0h3vgK1BhuwTPoStYsIdGJEwcGF+ihynQy/athHErVMlzR0eO4ODCPiGZQlJoE+k0yOagAC6Y4DZcK/m4oyXJz7vFu3POkuOtpWyxCBsEe9oX25BLu0LrVOGQGM0OxaTCQVsreRLA98F98=;fUWoW86LptEvD0RCLNBJNw=="
 ---
 

@@ -15,6 +15,7 @@ topics:
   - AWS AI
   - AI
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg"

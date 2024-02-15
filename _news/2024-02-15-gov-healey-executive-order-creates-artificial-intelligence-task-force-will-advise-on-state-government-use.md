@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-15T00:00:00Z
 originalUrl: "https://www.berkshireeagle.com/state/gov-healey-executive-order-creates-artificial-intelligence-task-force-will-advise-on-state-government-use/article_7fb07ad0-cb9b-11ee-8914-dfc1fb4c17fa.html"
 webUrl: "https://www.berkshireeagle.com/state/gov-healey-executive-order-creates-artificial-intelligence-task-force-will-advise-on-state-government-use/article_7fb07ad0-cb9b-11ee-8914-dfc1fb4c17fa.html"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/2/96/2965cfee-cb9c-11ee-b058-af5bf74d83cd/659452e394caa.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"

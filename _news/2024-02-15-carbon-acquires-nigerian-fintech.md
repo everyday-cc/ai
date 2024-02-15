@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Mass Fintech Hub adds members"
-excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
-publishedDateTime: 2024-02-13T15:33:00Z
-originalUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
-webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+title: "Carbon acquires Nigerian fintech"
+excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
+publishedDateTime: 2024-02-15T02:37:00Z
+originalUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
+webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
+ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
+cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: The Punch Newspapers
+  domain: punchng.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
+    width: 640
+    height: 427
+    isCached: true
 
 related:
   - title: "Maybe we’ll finally see a fintech IPO in 2024"
@@ -122,22 +130,6 @@ related:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/0-1-32.png"
         width: 785
         height: 530
-        isCached: true
-  - title: "Carbon acquires Nigerian fintech"
-    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
-    publishedDateTime: 2024-02-15T02:37:00Z
-    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
-    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
     excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
@@ -270,6 +262,15 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Mass Fintech Hub adds members"
+    excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
+    publishedDateTime: 2024-02-13T15:33:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z
@@ -325,6 +326,6 @@ related:
       domain: cnbctv18.com
     quality: 0
 
-secured: "BDRuiiW6WuqDJm26vsUntAw8klFxM7t58WtA/fqwCfZTkPsbNNMF6/LVzgB2h1/s+OkfJgL3qQXGHXvEnwT8LcyRZbyWAdVchUhe+v7AWByJu1l3iRy+gLXklzyIXuIToiR3f8QpWlyktvyKeKLmttNc5+dTueTONnOo2soVUsQz6ujN+u3NhcyUyLJcxFtXA9gg4+dBIz5ci6RvdH27uqf1xbd0Jl0HqjwbzEJwd2ZWUJbXBTso+Eiu4klrOolLeNnvIZDisEZJkYPpnY5yHKOKYw9effYzQUrlLVmQ/EChZXAF8XokjfFeUaoG9aqikjmwEiEjOpfeytHqUl/rmG7eWQ9PhonavjGxk+KUWV0=;58YYhJpAlBrloeSK9Kywpg=="
+secured: "laYeELcl1aEFgsw5sk6Z4ELT+1PXqee5LNZNWmL7+NXCmfG0FD1ZP3bHsXX3khMPoPLexxkwdJw93+wW1aZK3VEw9OLLNNKNTcFMacqUJYVptjbl3nEwe4p3SrbEdFhVzZVbr5vsqJNMfQyEZbY9WGxjpXGlLr1/2iaWsFuEQ8eT17Hc69ZFrBkN5s6jQaOj9m/sgdV3XkpviCbMZbETREoNq6O3zpmje9q8gVQswGKMBddLpyMa5upPd658PQ1HKIrbhPT3+sRPQKBK1AjyopXa0MD1AHjZP9DMnkTglGcAxS8+MRkniC82AYIxkfJZNmklj0S44dYC0/IYYqjDMbRl1J6zV2si+2Qta9HMOTg=;DvdUoBFSWn2yzrcnmKlGGQ=="
 ---
 

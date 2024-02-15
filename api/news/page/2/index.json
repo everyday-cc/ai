@@ -547,13 +547,13 @@
     {
       "path": "_news/2024-02-14-the-enduring-absurdity-of-artificial-intelligence.md",
       "title": "The Enduring Absurdity of Artificial Intelligence",
-      "excerpt": "The narrative of Sisyphus, as reimagined by Albert Camus, offers curious insights into this juncture, inviting us to contemplate the essence of our technological pursuits and the inherent absurdity they may entail.",
+      "excerpt": "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown.",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -567,8 +567,8 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp",
       "publishedDateTime": "2024-02-13T19:53:00Z",
       "updatedDateTime": null,
       "provider": {
@@ -583,7 +583,6 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
