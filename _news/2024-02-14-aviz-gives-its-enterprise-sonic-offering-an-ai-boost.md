@@ -346,6 +346,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
+    excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
+    publishedDateTime: 2024-02-16T04:43:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
+        isCached: true
   - title: "Responsible Use of Artificial Intelligence"
     excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
     publishedDateTime: 2024-02-13T22:21:00Z

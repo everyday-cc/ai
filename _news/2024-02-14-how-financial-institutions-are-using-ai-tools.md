@@ -34,20 +34,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Job seekers say they are using AI tools in the job hunt"
-    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
-    publishedDateTime: 2024-02-13T16:37:00Z
-    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
 
 secured: "FuqpNamh2DuFeTrNip8p9ULewtl8jR+H0Xh2ZMfra5cGDN0qmJL3/ERlBQu33Ko2tGrx2uV4G8QW4Fsk7++DnUXzGqh16cGOa5Wfnzch+WiMgSxpMs10D6vGpXApBB5cIJOH3DlAE2FsLgwC41k2udkbn3Klku2ho0AyfBA/f63t9KgHOmsRDTxM13LBM9HL6XHYXRcNXutmHBQK49e9PrqlHi9t2lenteWYaljg8gvoi3n6X3dlm5o1NPZ/qy0iMFm0vsKl92ZoHBaUn1AkCIpjfFMnH+70TwnQWyQ47akw7Dg4sX5hcqDD2Xrv7DAgJ6Ntfs/VIKNJgxf8BLrxNOJX0rG7zlRtd+YLEiZty40=;LyBLPIOibQ592HcN6hMRNw=="
 ---

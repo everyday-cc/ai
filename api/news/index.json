@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-best-ai-gaming-laptops.md",
+      "title": "Best AI gaming laptops",
+      "excerpt": "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/top-products/best-ai-gaming-laptops.html",
+      "originalUrl": "https://www.digit.in/top-products/best-ai-gaming-laptops.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/Best-AI-gaming-laptops.jpeg",
+          "width": 1280,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/",
+      "publishedDateTime": "2024-02-16T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
       "title": "SK-backed Sapeon to develop on-device AI chip",
       "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
@@ -548,7 +591,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -579,48 +622,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-west-2024-artificial-intelligence-still-needs-a-human-touch.md",
-      "title": "WEST 2024: Artificial Intelligence Still Needs a Human Touch",
-      "excerpt": "While AI has promise in many military systems, it will probably support troops and sailors rather than acting alone, experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch",
-      "originalUrl": "https://fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/IMG_6008_cropt.jpg?itok=kAzwM8Us",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch?amp",
-      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch?amp",
-      "publishedDateTime": "2024-02-15T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//fedtechmagazine.com",
-        "domain": "fedtechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -927,7 +928,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 204,
       "tags": null,
       "images": [
         {

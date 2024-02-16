@@ -3,8 +3,8 @@ category: news
 title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
 excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
 publishedDateTime: 2024-02-15T13:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
 type: article
 quality: 62
 heat: -1
@@ -350,6 +350,6 @@ related:
       domain: upi.com
     quality: 33
 
-secured: "H69vZ3a4gdensa8LPAVJ0sPjx2xUK8HN8xhuhUXnNV27T4n6YeC/AxNIW59w108ZyI7aAPbdzF4wh2s4mddDlGcBCwoZfkWxPkboMuLo2U5iAGg/mA3Q+iiRw0sqcCfpfYJOB5ZvsF5Mf4yVwO5C7JLitMK+CTALFPUcznFbBxrIUoQ4YW2terbV8/j9tee1NZzFPc9kcJ/Amgi04zUf3j7fPwVRG4+KDsU2T2V1x1OLbAKsRfTFn4Dph9REch7Ra1h26AcmVwcYZ3Q8GjQC0wHLvijY5SVFf6jokx2Aq8bXdTA+wU5pkpyQagJyE8rL0YTlxCMGfW5+TrVtqUjb7tl+gVjxVkkzdQPS7fLuWSY=;oZsudnrxwAnCXu6BUK7tTw=="
+secured: "845OHyTzzG2IMX65JsCaaJm+cs49313u2tng9JZ0bIX17zzRsQfQXobr+Qyf3f7dhLoYvMM1r04zValCMQ2cSCOT/K3EhbieDTlTFkjHtYXEsNNApTk2WVeENqwFI1uPwcTWYafc8PU/ztpcDWONv6xp7m/8GAfep7L/ToAjd3tMvQC+/4EpBOQwKgwEstctZH4TkeART9/H6MuCrjqIOiZZvKbVp5nrK7pAgoCTLUmwx+G9e5qOyMtUuL5eZxUNbcK7SE4c7OLdVu5MgTg/JITCpnNs23YNr9Ru6vjiB0Txyodo4ysWesjPByky970V88klFrNvx1dbUcv5wijBxhmwu+wInDMBD+/VkvRB4Mk=;e+0kUJPajA29/Y8MQCzUbg=="
 ---
 

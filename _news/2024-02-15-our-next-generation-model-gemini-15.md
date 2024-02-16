@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
+    excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
+    publishedDateTime: 2024-02-16T05:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ultra-1-0-vs-chatgpt-4/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemini-Ultra.png"
+        width: 1280
+        height: 712
+        isCached: true
   - title: "Google Introduces Gemini AI App to More Countries"
     excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
     publishedDateTime: 2024-02-15T06:20:00Z
@@ -156,6 +170,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "NWhyRIFMnugoIRnz0q0ov3Y56P/74bWgsPWv+YBWHznv58nmVTYZe5eypboZ8YuPYHNXGfDl2RquwHaPJtXvN6dHQ+9irV99P48I7tTJpV6znI+SJLZaEfrZimSW8zoBS6g2QarNT7a8mIoed5FsIKxpGs7hIQlQ68KyKiD0e/f7KquQ6oDtzUIG89RTeJdfj5G0D8roPstPOEgIGYTx1sS5Zd4nBdWmIFGJazC3OWjMeVOi+o0XaAk+SAwHj/+HLvCWS25zf7YCelEQhu2DWoAfRboGSzklNXX8XvXZq1clC7efUGpj8LSOpeml6+7d8uF6mJ1pIi0VoF3V7QfS3nLPkOPVH7v8ugKD9lJ1ayQ=;8O1NJOsB6iw/4fXH/XsAWw=="
+secured: "/c3iUz7YZxBATTZtEyc1+YJRJqoiBg+TE+12mvskI+HVdR+86cjvesAegNOijJ3W+3I08EbJsq2mUAgf/yrfHUR0gpzOjaeZdszU0yJK5Lgvsf+VetbKl9hdQoTUFEWA8a998U9HVuoo9c/DQrvKD8kDsf9lx5nwgG5IyNr7iLKNzTcFPq2DVEQvaRh4kZIyy1xDquZdEPWzXi7oAUWm8BF6aCeqx8CWr+DbW7VTDG4LRHfBYuOKlvEcfjQn/fvDW2K/FuHh71NC95ZEW2GlF10yTwNkO3bSuxKAQF9c/HCsYOjnBQmy7JfDaraPHatUC9uPx3qaqupRyCC9rTngfY4oaqvr0Aj5jGqeOsEc5GA=;oAbb3sZqbvRE36ysIOMg+Q=="
 ---
 

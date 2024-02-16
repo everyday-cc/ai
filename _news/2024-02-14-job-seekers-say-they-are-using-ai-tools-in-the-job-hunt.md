@@ -24,29 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Proposes Ban on Using AI Tools Impersonating Individuals"
-    excerpt: "The FTC said it was proposing a change to a rule that already bans impersonation of businesses or government agencies, which would extend the protections to all individuals."
-    publishedDateTime: 2024-02-15T19:55:00Z
-    webUrl: "https://www.wsj.com/articles/ftc-proposes-ban-on-using-ai-tools-impersonating-individuals-79bd6764"
+  - title: "How Teachers Are Pondering the Ethics of AI"
+    excerpt: "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at"
+    publishedDateTime: 2024-02-13T21:07:00Z
+    webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "How financial institutions are using AI tools"
-    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
-    publishedDateTime: 2024-02-14T15:00:00Z
-    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
-    type: article
-    provider:
-      name: BUSINESSJOURNALISM
-      domain: businessjournalism.org
-    quality: 39
+      name: EdSurge
+      domain: edsurge.com
+    quality: 54
     images:
-      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
-        width: 1280
-        height: 714
+      - url: "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
         isCached: true
+  - title: "How AI is remodeling the fantasy home"
+    excerpt: "Each of these teensy homes had been rendered by artificial intelligence software and smoothed with an assist from more AI software. I had been fantasizing about a fantasy. The nature of these homes was,"
+    publishedDateTime: 2024-02-11T14:00:00Z
+    webUrl: "https://www.seattletimes.com/business/real-estate/how-ai-is-remodeling-the-fantasy-home/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "QKYdBR4e4r8LEYEAkWXb1rRgHWPPumtF2Wk5tTelNls7dBd7ZAAiVc3qf+gQMWeAMxersxqOobnhajMB+dzRN47MngMhuxar7yzEhfqAOnv7feEOron95iQkbPNyClEnffV0pheHxj12xJPe344hhaAm7NxEisY/OPtz8x/TUn4PK0PFqXgkjfWRfRjSXhoT5xBY4o0RU3wweotrR7AnCxrrNWv37YJG90IMhRG8leOwe6Ot3e/VYmqhGWsoA1gAxEIBj10ff+JYShMBSLgqgSigld77xbA6j61rFBtHshGFy4B7EIzXsaAx090WlBmT5bZhA5xqooV+tnSHklYh8DluK0K9nVPFu0u3Go9M5HQ=;wZgsiET5NwV9CRsgkrs5gA=="
 ---

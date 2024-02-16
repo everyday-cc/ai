@@ -7,7 +7,7 @@ originalUrl: "https://yourstory.com/2024/02/voice-diversity-vernacularai-revolut
 webUrl: "https://yourstory.com/2024/02/voice-diversity-vernacularai-revolution"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,50 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Enduring Absurdity of Artificial Intelligence"
-    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
-    publishedDateTime: 2024-02-13T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "The rise of the bank chief AI officer"
-    excerpt: "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer."
-    publishedDateTime: 2024-02-12T17:15:00Z
-    webUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer"
-    type: article
-    provider:
-      name: American Banker
-      domain: americanbanker.com
-    quality: 56
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How Teachers Are Pondering the Ethics of AI"
-    excerpt: "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at"
-    publishedDateTime: 2024-02-13T21:07:00Z
-    webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 54
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Clarity on AI after 100 days"
     excerpt: "The past 100 days have been a whirlwind of discovery, challenges, and triumphs as we have embarked on a mission to support Bermuda organisations in integrating generative AI tools and systems. This"
     publishedDateTime: 2024-02-12T09:56:00Z
@@ -78,15 +34,6 @@ related:
       name: The Royal Gazette
       domain: royalgazette.com
     quality: 19
-  - title: "Scathing Critiques of AI Girlfriend Apps May Only Fuel Their Popularity"
-    excerpt: "The Mozilla Foundation's devastating reviews of romantic chatbot apps cite \"toxicity\" and data risks, but may only just spark greater interest from people looking for large-language-model love."
-    publishedDateTime: 2024-02-15T20:10:00Z
-    webUrl: "https://www.inc.com/bruce-crumley/scathing-critiques-of-ai-girlfriend-apps-may-only-fuel-their-popularity.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
 
 secured: "vOsVK2pFNZyQ3whtFgya6EGCPKyEB2fiKGS2t0dRqbdUIJvNNb0Ep3zRxd4p5Idno1OGVZ56v91fFI2skQnJqXSOz3p1bT8Y7aTwAmTTbRTwe+L3Q275boNpVKi1gsOYLrqw8I/9oLv2eGK2nK/ytsIxhHGKl/RXdbeJUof71DFfQ8wwdOlma7mFjTCRrJpc58Qb9ds7s9MSkPh647a+7f5bXX27cON1tYseAasWG7yhPaSjKVm1I/nwKpoQu61oczYrCKOyCeM7xW0BjqcPHWpT+tonVhhDC0pR1/vvjMAO1QDoyMk8G1bLxpAa+uCaocmqrqrLZG/ZXmNXs5IxlDowhdBsS8Llj5utu7iUTgY=;7qGdXYirF2ztjldU4qTGGQ=="
 ---

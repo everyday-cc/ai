@@ -36,6 +36,22 @@ related:
         width: 1300
         height: 900
         isCached: true
+  - title: "A look at Dubai’s focus on infrastructure and capacity building for businesses of the future"
+    excerpt: "The Dubai government has been supporting experimental initiatives that aim to foster an environment where businesses of the future can thrive., Leaders of Tomorrow News, Times Now"
+    publishedDateTime: 2024-02-16T06:03:00Z
+    webUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571"
+    ampWebUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 48
+    images:
+      - url: "https://static.tnn.in/thumb/msid-107743729,thumbsize-135486,width-1280,height-720,resizemode-75/107743729.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
     excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
     publishedDateTime: 2024-02-15T23:01:00Z

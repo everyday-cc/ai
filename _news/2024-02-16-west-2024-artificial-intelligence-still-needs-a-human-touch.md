@@ -9,8 +9,8 @@ ampWebUrl: "https://fedtechmagazine.com/article/2024/02/west-2024-artificial-int
 cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch?amp"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: https//fedtechmagazine.com
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best AI stocks in 2024 for performance"
-    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "WGS 2024: UAE’s big bet on artificial intelligence"
     excerpt: "The report provides a comprehensive overview of the UAE’s ambitions to become a global AI player and focuses on US-UAE AI business collaborations"
     publishedDateTime: 2024-02-12T14:34:00Z

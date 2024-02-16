@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Artificial intelligence takes centre stage at World Government Summit 2024"
-    excerpt: "Artificial Intelligence (AI) emerges as the focal point of discussion at this year’s World Government Summit (WGS) set to convene in Dubai from Feb 12-14."
-    publishedDateTime: 2024-02-11T05:12:00Z
-    webUrl: "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/02/11/artificial-intelligence-takes-centre-stage-at-world-government-summit-2024"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/02/11/2538633.jpg"
-        width: 1240
-        height: 841
-        isCached: true
-
 secured: "mV0OARzG+z54II/OxUVc4Uu5ibZKUemMah2koUQMRqZPgvKhQSi0Oo04tm3PoksHJxQ1YN694q5PivrPj7hNTwhfpvudebEhy84doyPfpQnfeaLcXiVAxJrbNQqpwOKRzUd10LUu6LQf37H+ArsEU+fJi+52HiEIlzPynLcJN97wP66RPDQ9Bj2nz8yOydEboJxPhNXQQ8P16ZPWhpG/8JJJtrakBjWZ7x5piIKXK4FHuZoIEeJaK7f+ly0wluLQXks8lLwyvQBopmGCGK9tHf97mka8guZdswjnxSjahOz4ygnZUMMjEJQ/kf0PwZ8qQHefYMA2VyBvlcSPmPevvr7kPNaOeuACGO+b6IZMxas=;sdgRp0X4rgKFADluPfkPQg=="
 ---
 

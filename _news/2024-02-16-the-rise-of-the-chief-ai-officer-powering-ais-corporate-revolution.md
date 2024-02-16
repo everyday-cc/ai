@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-ch
 ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -193,6 +194,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "M79CMZyQ80bLFNHxWGGrXdu1N81X4lOt2M55TxOvLtkPLiye3IjlYVrdfvzzpSZfcMy9zPE31DoBLHY8o49r86KhVtFXShtAkSCi+ytlwqjptOct5lAIM02CG2jny5LASgkRBmNnf2YAk3D8fiIho4hmI4i14qYU2UQ1kVxfDp4ptkChI/DPXFcwPoapVXmpGkXko4t5FZDFls+GLCFJIGLKnp3b86Y5racnHNYHcUZhrnf2B9z5Bauhss+12EgRcNG2EJ2/N0v8CjDHA9Lyh0tU4tuNqFmahv/wPRFhAOVEISY5BrfSXcx9MRDasfDCE/QVOoztYFggJ6KuUb3niI5jTjGGzfURWZAGYwu1ASw=;Md4iPq8RptSVyzBlXXNV2g=="
+secured: "NEbutDGhq5omF8HZnWvJCM5hJZI+a5eFzr6DP/nMENmsrb3ZGb/8w3omtNVIihbGJDcMz4TZPGoiO/eErrKj0gZ9wid8o75/Tcw8nFFMqMIaANyWiyKqOGnYeALIPh3Y0PeFIYAq45FObIF5tUJRP8Mmp8s3Mv/AG/mAaMBTSJuwGfyVmZ8WU4OoA+7VULUA0bdCuFhQgz4aF/uaVw3kMyxoXMYeI12oXymYIZSjDM0of6/CPLTh87fDyuEGG4inLO+5ubCaEWkiE/4L2V5G+zJC/YLYPaXpLPIzm5Gy+jadS7l8Uz1nFEVoE2fSLd/fIR7cBy1zrpCSDhKggRPnWU+sAFhfxfC6B0A0NvXLEEmHCWxPORBAcmQB2JQRnHNW4/sDNF+iLze9roSeXibxc2wNk41bF6eqxSay9d8y5RsaZEZksCbL8aPAEN26Zs+gFgksCKWZ5CBKAMgJ43I8tbevebgvb7TstXEOGqlPQpI0ik/A20yYC0EyIBuNZWKbSCCwbjVY1IBeKHjJBNzdKQ==;Q7wEIlf3QScjRQDVeeRm/w=="
 ---
 

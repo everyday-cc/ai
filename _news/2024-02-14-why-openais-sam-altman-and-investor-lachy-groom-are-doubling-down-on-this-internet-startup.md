@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
-    excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
-    publishedDateTime: 2024-02-11T06:24:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/790822-Sam-Altman-claims-ChatGPT-is-generating-100-billions-words-daily"
-    ampWebUrl: "https://dunyanews.tv/amp/english/790822.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790822.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 76
-    images:
-      - url: "https://img.dunyanews.tv/news/2024/February/02-11-24/news_big_images/790822_96736365.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
     excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
     publishedDateTime: 2024-02-11T07:43:00Z

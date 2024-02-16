@@ -7,8 +7,8 @@ originalUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-
 webUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 106
+published: true
 
 provider:
   name: American Banker
@@ -26,68 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "The Enduring Absurdity of Artificial Intelligence"
-    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
-    publishedDateTime: 2024-02-13T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "How Teachers Are Pondering the Ethics of AI"
-    excerpt: "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at"
-    publishedDateTime: 2024-02-13T21:07:00Z
-    webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
+      name: OPB
+      domain: opb.org
     quality: 54
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Voice of Diversity: Vernacular.ai's Advancement in Local Language AI Accessibility"
-    excerpt: "In the evolving landscape of artificial intelligence (AI), one domain that's making significant strides is voice AI, specifically in making technology accessible across diverse linguistic landscapes."
-    publishedDateTime: 2024-02-14T07:19:00Z
-    webUrl: "https://yourstory.com/2024/02/voice-diversity-vernacularai-revolution"
+  - title: "Chief Technology Officer appointed to advance Q-Bot’s use of robotics and AI in social and private housing"
+    excerpt: "John Burley joins Q-Bot from CMR Surgical to advance the use of robotics, digital and AI in the retrofit and construction sectors Q-Bot, the technology compa"
+    publishedDateTime: 2024-02-15T09:54:00Z
+    webUrl: "https://bdcmagazine.com/2024/02/chief-technology-officer-appointed-to-advance-q-bots-use-of-robotics-and-ai-in-social-and-private-housing/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
+      name: bdcmagazine.com
+      domain: bdcmagazine.com
+    quality: 51
     images:
-      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1323-1707847664576.jpg?fm=png&auto=format"
-        width: 1792
-        height: 1024
+      - url: "https://bdcmagazine.com/wp-content/uploads/2024/02/John-Burley-Q-Bot-CTO-scaled-e1707990805587.jpg"
+        width: 1920
+        height: 1390
         isCached: true
-  - title: "Clarity on AI after 100 days"
-    excerpt: "The past 100 days have been a whirlwind of discovery, challenges, and triumphs as we have embarked on a mission to support Bermuda organisations in integrating generative AI tools and systems. This"
-    publishedDateTime: 2024-02-12T09:56:00Z
-    webUrl: "https://www.royalgazette.com/technology/business/article/20240212/clarity-on-ai-after-100-days/"
+  - title: "These orgs hired a chief AI officer. Does your company need one?"
+    excerpt: "The responsibilities of a chief AI officer shape a company's overall AI strategy. Here's how CHROs can plan for AI leadership in their orgs."
+    publishedDateTime: 2024-02-14T13:08:00Z
+    webUrl: "https://hrexecutive.com/these-orgs-hired-a-chief-ai-officer-does-your-company-need-one/"
     type: article
     provider:
-      name: The Royal Gazette
-      domain: royalgazette.com
+      name: hrexecutive
+      domain: hrexecutive.com
     quality: 19
-  - title: "Scathing Critiques of AI Girlfriend Apps May Only Fuel Their Popularity"
-    excerpt: "The Mozilla Foundation's devastating reviews of romantic chatbot apps cite \"toxicity\" and data risks, but may only just spark greater interest from people looking for large-language-model love."
-    publishedDateTime: 2024-02-15T20:10:00Z
-    webUrl: "https://www.inc.com/bruce-crumley/scathing-critiques-of-ai-girlfriend-apps-may-only-fuel-their-popularity.html"
+  - title: "The chief artificial intelligence officer: A blueprint for state and local government?"
+    excerpt: "Late last year the White House issued an Executive Order (EO) on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. On page 52 of the 66-page document, the EO called for each federal agency to establish a permanent chief artificial intelligence (AI) officer."
+    publishedDateTime: 2024-02-13T16:14:00Z
+    webUrl: "https://www.americancityandcounty.com/2024/02/13/the-chief-artificial-intelligence-officer-a-blueprint-for-state-and-local-government/"
     type: article
     provider:
-      name: Inc
-      domain: inc.com
-    quality: 17
+      name: Government Product News
+      domain: americancityandcounty.com
+    quality: 11
+  - title: "Data and AI Expert Andres Avalos Named Chief Product Officer of OfficeSpace Software to Transform the Workplace Management Category"
+    excerpt: "OfficeSpace Software (“OfficeSpace”), the top-rated workplace management software on G2’s software review site, announced Andres Avalos as its Chief Prod"
+    publishedDateTime: 2024-02-13T15:12:00Z
+    webUrl: "https://financialpost.com/pmn/business-wire-news-releases-pmn/data-and-ai-expert-andres-avalos-named-chief-product-officer-of-officespace-software-to-transform-the-workplace-management-category"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 9
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/02/bw20240213945495_andres_avalos_-_officespace_software.jpeg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "QQmNbzA/Vr2YTtUjorA7tGsp7PVJZV5m/Fv9EmbZWQfePgg2BEwMtdzkmxzyWDJlXZ3ciyhGh7YksvskaBui3G3Wvow4egtSwVu7CtIQr/WV7I8O3BaLCu+zSKwVP/11IxRPz9zT2jWVkc27lX08EwvSSUqLOyvRuZdbjB8Kf3RjZHqIwzhoVi6DWvRcmNjXyzQAOofN5Nh9H8kLXmD1Co/jU//6n+6owEnb6WHvYCwxs6izlNT0gT8v8Gt7ZLP5r6vn3f3uc6QltWyV7RP/E5gro3kcpQqp2q9tTPtbVbjTtPwpu48bZYVhaxxsoUBLhtBtVZTu5YIdQi2Y2uR4vnvIjUSjmLBa2bXFFl59c98+chbvENaq68/2ZVCvGSl48hGKHM/uM+p/3RwNkpGVqtwiyOXNOrDczZ3T0iCdFCwPpY3/zugtRMAnmxW/UonLCLnWhUu+sICzwEUc9xJfMZzsAdejpNXIFBksP/L6Ifm1X7zfRy6Hwm9QKksA8Xx4Fstv8Xg1RnerZoiIc+/vkQ==;0YU+uRtuhjSVizqt6Ftk3A=="
 ---

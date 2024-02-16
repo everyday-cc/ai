@@ -301,6 +301,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "How the UAE is cementing its fintech hub status"
+    excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
+    publishedDateTime: 2024-02-16T06:28:00Z
+    webUrl: "https://gulfbusiness.com/how-the-uae-is-fostering-fintech-innovation/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2024/02/GettyImages-1231917794-e1708064794310.jpg"
+        width: 930
+        height: 620
+        isCached: true
   - title: "SA fintech develops AI-powered fintech apps"
     excerpt: "South African fintech consultancy firm Elenjical Solutions (ES) has developed three proof-of-concept AI apps focusing on using proprietary information for rapid information retrieval, code generation,"
     publishedDateTime: 2024-02-12T07:10:00Z

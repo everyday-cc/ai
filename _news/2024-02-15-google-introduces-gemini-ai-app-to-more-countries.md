@@ -96,6 +96,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
+    excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
+    publishedDateTime: 2024-02-16T05:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ultra-1-0-vs-chatgpt-4/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemini-Ultra.png"
+        width: 1280
+        height: 712
+        isCached: true
   - title: "Google plans to fix Gemini’s early flaws pretty quickly"
     excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
     publishedDateTime: 2024-02-11T22:25:00Z
