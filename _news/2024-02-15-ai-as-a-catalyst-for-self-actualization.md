@@ -27,43 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "6 AI Apps For Android That Are Actually Useful"
-    excerpt: "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities."
-    publishedDateTime: 2024-02-11T12:44:00Z
-    webUrl: "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/"
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg"
-        width: 1600
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
         height: 900
         isCached: true
-  - title: "Demand that Artificial Intelligence Respect Copyright"
-    excerpt: "Building quality journalism in the midst of an unhealthy media business ecosystem is like planting rice in the desert."
-    publishedDateTime: 2024-02-12T01:30:00Z
-    webUrl: "https://www.kompas.id/baca/english/2024/02/11/en-menuntut-kecerdasan-buatan-menghargai-hak-cipta"
+  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
+    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
+    publishedDateTime: 2024-02-14T01:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
     type: article
     provider:
-      name: Kompas
-      domain: kompas.id
-    quality: 37
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
     images:
-      - url: "https://cdn-assetd.kompas.id/wPdNz4-ilkTTudJ1bULkH8fJ3EE=/1024x576/https%3A%2F%2Fasset.kgnewsroom.com%2Fphoto%2Fpre%2F2024%2F02%2F11%2Fe1a24540-d9da-4a8d-ab75-2c2e8cbac0cc_jpg.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Easily build full stack AI apps using Gradient"
-    excerpt: "Developers can sign up for an account and start using the accelerator blocks right away, taking advantage of the opportunity to enhance their projects with advanced AI capabilities. For engineers and developers eager to push the boundaries of AI in their ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-build-full-stack-ai-apps/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 17
 
 secured: "rcRYRcY0ayjcOMcQyCjoCf1qkaPfxJEDFstA76DjxzuXYI8d1mCbajXH6Qo3Iud94kFJLqJoegbOyTHJRGtFYAcR1L2a+ZsHuONPDQoTjLI5PREciwrbLXTTZRWIbhtZCmAZhOr6P1Uh6a4TTOxpnw8RsV0vw8+VcXHNaNoReB/kFQoCuJ6zJev3YvUsccqTKLfbSe6gmrd1PImYgao7mKmtZv5eHxcjhaHiDP11QFtt52YIV531D+AGbfH58uGznDv1+ETjgp17ztYSCweL0pkw4SLAEDVrLnYx5YjRm391dC6E64sab8dgfLUckuuwgW6bR5RyjUWoS284OJ0I577D+4zLl9Rnw2nVi0phhOMafDVZlEi5gAnN5FQTgRX/EfJYIannVaBdldXqStLIlziKBNhVrq0aYqik8yMW3Jb/q3Jc4VUkeF9z7Ps2Os2hijqTdzmhYcDzq4r+Af+zR9TboQVAjWCdpUrhR9nYqWtTZWumqujzZ5jix236HOIUZz/NMTCEdCGeAkvMQ3jF3g==;3rybHCH3cO+mrI2+WoTXSA=="
 ---

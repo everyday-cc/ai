@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-secur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "Google Launches AI Cyber Defense Initiative"
+    excerpt: "Alphabet Inc.'s Google has launched the 'AI Cyber Defence Initiative' as part of its bid to use AI's security potential through a"
+    publishedDateTime: 2024-02-16T12:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/google-launches-ai-cyber-defense-initiative-1033075605"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "M9CUuRoSCQ30FkdZiOC8lSvaUmAPJeTHOjZfRzLk+QRVsKRMaFPfTnO0Kq/vCyftodQeH1EZ7ewB2dGtn0tWRi9K+UF1d5nwWVpiOQJzc+QcZVuTOgS5GXNBwg5BfaJi2mnUMdeXDcKZU9bLvOZyFViGhH45c/XsmyuhrIIF63Z3rJITlGAf12Z1jq09694W4d1pS6KHqaZUSFSpiKMsuPiFmGAu4J37jOxVgp6LVpNl2yFJ/1JM95CzakH1T5TW9ZufLxviip/i2k5+LdeaElWv2jlhbzQqV1pTqobt6OSYhOES93INDkXlib0XsDujZiPRFSr7tKbt04YUQhc9R7f/CiZb2boD+CuaxN5Gmko=;J1hkhjOjONRqgt/p+JquDw=="
 ---

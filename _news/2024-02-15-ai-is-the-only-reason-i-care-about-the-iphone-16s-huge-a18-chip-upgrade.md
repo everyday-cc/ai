@@ -41,6 +41,20 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks"
+    excerpt: "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes"
+    publishedDateTime: 2024-02-16T11:55:00Z
+    webUrl: "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "A18-series chips to get a \"significant\" increase in Neural Engine cores for AI in iOS 18"
     excerpt: "Apple has included a Neural Engine on its A-series chips ever since 2017's A11 Bionic which was used on the iPhone 8, iPhone 8 Plus, and the iPhone X. That chip featured a dual-core Neural Engine which increased to an octa-core Neural Engine for the A12 and A13 Bionic in 2018 and 2019 respectively."
     publishedDateTime: 2024-02-15T00:58:00Z
@@ -82,6 +96,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
+    excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."
+    publishedDateTime: 2024-02-16T11:50:00Z
+    webUrl: "https://bgr.com/tech/ios-18-might-bring-ai-to-the-iphone-search-and-im-ready-for-it/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/iphone-15-plus-6.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
     excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"

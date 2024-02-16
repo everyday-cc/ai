@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
-excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. \"We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
-publishedDateTime: 2024-02-15T21:37:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963250.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963250.htm"
+excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+publishedDateTime: 2024-02-16T12:12:00Z
+originalUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
+webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial IT
+  domain: financialit.net
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/world.jpg"
-    width: 1200
-    height: 627
+  - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+    width: 1366
+    height: 768
     isCached: true
 
 related:
@@ -89,6 +89,22 @@ related:
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65cd014ed2449794cb1106a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
+        height: 900
+        isCached: true
+  - title: "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It"
+    excerpt: "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission."
+    publishedDateTime: 2024-02-16T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
   - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
@@ -324,6 +340,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "What will generative AI mean for the racial wealth gap?"
+    excerpt: "Tech shifts have a history of keeping Black and other groups at the bottom of economic opportunities. Will generative AI be different?"
+    publishedDateTime: 2024-02-16T12:30:00Z
+    webUrl: "https://publicintegrity.org/inside-publici/newsletters/watchdog-newsletter/generative-ai-racial-wealth-gap/"
+    type: article
+    provider:
+      name: Center for Public Integrity
+      domain: publicintegrity.org
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/publicintegrity.org/wp-content/uploads/2024/02/GettyImages-1355305689-scaled.jpg?fit=2560%2C1350&ssl=1"
+        width: 2560
+        height: 1350
+        isCached: true
   - title: "What You Can Learn From These 2 Generative AI Startups"
     excerpt: "Here are two of Entrée's most interesting generative AI startups. SWAAP, a provider of a \"construction planning platform designed to digitize the construction industry\" -- raised $11.5 million of Series A venture funding and employs 41 people, according to Pitchbook ."
     publishedDateTime: 2024-02-13T14:38:00Z
@@ -421,6 +451,6 @@ related:
       domain: dbta.com
     quality: 0
 
-secured: "7xC8KCnowBO6yqrPCHf6AvP3EqnnN7mBkuvdtET8TeHKU5yoKXt6hzWMUzULqxt3pFyO1hMO0UBgbC2+35RJgfk6p13ft4uY6KNyInazDz/9dwAbn9i4wAYCj5GOORVkrSMqsUG9k1D3yfW2h1SMPWiUBkMl/SjE5tnh6PM9rO6Xp1BGX6iGhIy/kAMxGdp3jQWjDc/m7pImWZT7HAiEB3LTOSIrffvzn9x2OfsUT+lQJ3vdO5odwPXdMyPgZh1ah8JyOh+lnKB/5dLC6pVAIoO4vSp0C/gE3eIwYAwhrEVGUjShe9iCbaQJeTUrLFfYTS40g3XwJOx6oSmPFa8KpvuyPKfDOuhsKagPuiLR58Q=;Bc/802UGEIOB4GMu1LPimA=="
+secured: "fT1KsdbyBbD1SJz3dWc5qja7uCeGASLFXbO5989d6vjPkmgvlizGB9Wu1+/h6nonGXDTjdTDzgg4+3FlYSdG8kpmnuFo4RI0Jm4Fewb123/ali370hZdxAsfp9oI+TFCFmS7nzfhS2aC1LCEUb16KVeNzNj97ZxZjnHsjzhALAyMgtPfI54IHodlOKFLI16PZyeBm5byAsx08pVEOBqe2cJtEwW/YPN8tq/3mEXLbXOi7elnnJRojV0rKCNemRb/h/TZ/uHJeVQuCOZP9P4bd6gkjS3OTb4wCV8pHJiXPkGOiG2OntxVwIPmHmJwPHpZHo9X0tWGNETsJZCRxyAEYcT8RfaSSAzaiSKfR0agqDo=;rPVWmKCZ/uf7N3D0uwTw+A=="
 ---
 

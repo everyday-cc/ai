@@ -71,6 +71,20 @@ related:
         width: 560
         height: 250
         isCached: true
+  - title: "Google claims AI advances with Gemini LLM"
+    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
+    publishedDateTime: 2024-02-16T06:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "JSCrkFJyXErKzjGk4saUUtCWGC7kFh3c/nV16wjUj1IdBRk+jE0h0T0yHahWyQm4ujpSHA+knrgLA2VeJVGahPEJdgf04ugoFCyFLBbYsO88GJg6Ch06dLeXeB7H88XtJEVEfUaMxaSs4Zevi+pgTdDEY7vrurykYxr3lcRxOmtqTDgp6VLisHdPN9PQI7bKe8YRcK9cEErFKfgcY4Dmf6td2GzVJg6G1gqi3HdvGc4QlBxUEJYls9RjdotdH9eQyMn7zbieh9HVTAvKuQgl6xsme5jJqcVYTz0KdqxRZVUThgfzyAMzIS2oNiIqD7F+1GZLYdp1Mr67jkNbtWT/EPLAjr4qD2tlRt26Ji5aKVo=;fIF1jRLC8RBrtqKU5Uqgxw=="
 ---

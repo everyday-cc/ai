@@ -78,6 +78,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Penn to become first Ivy League to offer AI degree, looks to ‘train the leaders’ in emerging field"
+    excerpt: "Along with those required courses, students will also have to learn the ethics of AI and what it can be used for. “There’s a couple of different courses that students could choose from ranging from ethical algorithm design to a course that’s taught ..."
+    publishedDateTime: 2024-02-16T10:30:00Z
+    webUrl: "https://www.wesa.fm/education/2024-02-16/university-pennsylvania-artificial-intelligence-degree"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 25
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/76192b4/2147483647/strip/true/crop/5692x2988+0+52/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F6a%2F3b5553e44945bd04125427d99740%2Fap23349839650541.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mjH/+Ua4BVUDnmv0byl7r/eEpZzm3eo6qSxy/TYwdcWaQ8HAuJ0DkdAYJ93yXUSbtVQAzTvLltozsI0v92GwDm6rbFUHqYbZRaE1FDEhSCUnmOTtG0OZCc7cu+UDLQrmMqlH+6xthyrKj0BuxpuGysiFaTVCoQ4WU+xudmtY/xk5PeALYPtgWmD90iE/xEa/yz0773/vRlrseVOIj0lC8eN6eLfRdYS0g3Gu22rduoXrSH+lYeY41BqM2KZb4EPry/zUiMqxM6rupzxXJ9Xdf0siysGPMVwyL+R7OUDN3hCGp37ZRrWXfTsfncEOomz4O+of7QRn8aDZvXuZxEtZ0rIUsyDt9R12YDBk7FqdHSjWZB4XmFcjbofA47FNsNIw51+52LNiUraQUk8Ww4B4uOWR6wDwBQxQ/1nSQMeFdtpLAY1MHTVY2gLLUL2bR1tnSw4Vh+SDuB0aBCYAYxZXe2OsJagaV++w9YEuZJr5lw8aejEFFfSEHbbGfXlYFwBte+K5cNhSjo0EAMY/WkqomA==;Up+bWQ1vbhGN9YalSVX56A=="
 ---

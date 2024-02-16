@@ -9,7 +9,7 @@ ampWebUrl: "https://fedtechmagazine.com/article/2024/02/west-2024-artificial-int
 cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2024/02/west-2024-artificial-intelligence-still-needs-human-touch?amp"
 type: article
 quality: 57
-heat: 69
+heat: 67
 published: false
 
 provider:

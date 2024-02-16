@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-ca
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
       - url: "https://brobible.com/wp-content/uploads/2024/02/waymo-self-driving-car.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
+    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
+    publishedDateTime: 2024-02-16T11:58:00Z
+    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 24
+    images:
+      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
+        width: 620
+        height: 372
         isCached: true
   - title: "Crowd torches Waymo self-driving car in San Francisco"
     excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."

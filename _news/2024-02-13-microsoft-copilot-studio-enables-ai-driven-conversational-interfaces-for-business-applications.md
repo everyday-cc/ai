@@ -206,7 +206,7 @@ related:
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
     type: article
     provider:
       name: TMCnet
@@ -290,6 +290,20 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 49
+  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
+    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
+    publishedDateTime: 2024-02-16T12:20:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Drive sustainability transformation faster with new data and AI capabilities"
     excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
     publishedDateTime: 2024-02-13T17:35:00Z

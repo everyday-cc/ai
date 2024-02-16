@@ -19,19 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Gen AI's Impact on Retail: Overcoming Data Challenges and Ethical Considerations"
-    excerpt: "Gen AI is no longer confined to the realms of experimentation but is swiftly becoming an integral part of retailers' strategic visions."
-    publishedDateTime: 2024-02-14T16:12:00Z
-    webUrl: "https://www.mytotalretail.com/article/gen-ais-impact-on-retail-overcoming-data-challenges-and-ethical-considerations/"
+  - title: "Reducing defects and downtime with AI-enabled automated inspections"
+    excerpt: "IBM harnesses the power of data and AI to drive real-time, predictive business insights to help clients make intelligent decisions.\nThe post Reducing defects and downtime with AI-enabled automated inspections appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-16T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-enabled-automated-inspections/"
     type: article
     provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 51
+      name: IBM
+      domain: ibm.com
+    quality: 119
     images:
-      - url: "https://network.napco.com/total-retail/wp-content/uploads/sites/14/2024/02/NRF-Big-Show-2024-Jason-Dixson-Photography-240114-162847-5005.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/190328_19003_industrial_red_frames_102.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
+  - title: "People are seeking a romantic connection with AI bots"
+    excerpt: "Carrier wasn't looking to develop a relationship with something that wasn't real, nor did he want to become the brunt of online jokes. But he did want a romantic partner he'd never had, in part because of a genetic disorder called Marfan syndrome that makes traditional dating tough for him."
+    publishedDateTime: 2024-02-14T19:38:00Z
+    webUrl: "https://www.ksl.com/article/50877210/people-are-seeking-a-romantic-connection-with-ai-bots"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 39
+    images:
+      - url: "https://img.ksl.com/slc/2970/297043/29704311.jpg?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
 
 secured: "82fnFyYb6O5ZDn02dkD6boYJToVX1mNBUHaG55uNrjssGCMmrftODAm5YE0mHyFr/YPvzkFe6EJcexE7uDqRKuZd0YFg2Lp9ZCW0qTDgPJeAXU2X94FzbkljNgnoJ4JwSGf2bWOwJYPXx6eLyyBAWelncTqVdxKtRYKU1SoR6eLRIk6br+s7gFIXgv3uXBOJblsSzuU9VYR/ae013i+dxPk0/ZjJkOry2pDtWdeRw5vgT7TDw+Uj4clVKtLh+4IzlPkoSBP1TU7DPpYgCAXwYuq75bMM1TEMGCv238l2Q0TePPuLd7dkf/P4TiXQiO5m+Zo+maw1Jut2KNq0qBpRzUEB4MaVfXdPf4vM3TXzqJwbwe3GBDGduIhbQg3brBMwSFI4nOIZdIQczmydmYn4sopE7JZWtVfY+SA1a1+2NhfOjpbiPJjoqW9NQJ6cNUboqtfrLQt6Qe0sWtYo1wZOHWV2oa/eaiaVvD6zhsUMhRvJFMGx1Hg4S9QX6t4WCNavHflZLhrYT4t1rCVn8rVHRQ==;7ciUgNFHhwqwn6c/Lk84kw=="

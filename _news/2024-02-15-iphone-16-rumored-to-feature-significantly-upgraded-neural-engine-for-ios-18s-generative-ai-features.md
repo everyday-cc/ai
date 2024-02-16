@@ -35,6 +35,20 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks"
+    excerpt: "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes"
+    publishedDateTime: 2024-02-16T11:55:00Z
+    webUrl: "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 60
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2023/10/2023-10-04-image-20.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "AI is the only reason I care about the iPhone 16’s huge A18 chip upgrade"
     excerpt: "A new report claims the A18 chips that will power the iPhone 16 phones will feature big Neural Engine upgrades - what you need to know."
     publishedDateTime: 2024-02-15T11:50:00Z
@@ -90,6 +104,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
+    excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."
+    publishedDateTime: 2024-02-16T11:50:00Z
+    webUrl: "https://bgr.com/tech/ios-18-might-bring-ai-to-the-iphone-search-and-im-ready-for-it/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/12/iphone-15-plus-6.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1125
         isCached: true
 
 secured: "Ngu7/rboFGQrrFunabP/sEGv/kW4WuAeQmQV/yREsCmUeZkrX2GZzlG3oP0antM4OTCVhPvTxXHCRjkQyn5+Dz3QfwUd0kZ5FSNO4KT2QSt2jYD9iZ57lFPgUJgcLFQfC7sSavxRexKEbzr8jY6FI1vEVBVeRuZvccoMT/1r0VINwUjnHOKVumSpxugovVFXwJmx+eTRrU43/YGUFKEUW+p5wcap+YIOV0mKbKcXmHIUr/b42p/gFvDpTodkc4dCVII8xx/vxmzoUPXjqPr6f6C1a29HzM4bAjrYP1x72U7dbHlij1at9a39PBEMapdzJHpKrJHuQ73QJRk1E0v9Fi12eqzKX3cFQF16NEiOLaM8EZmMCLS7jywWqQUTaw9zlWs4akEljfssmPmqwQC1D0HaMmlvaSJtqsjUJPzCdfF6rFabM1dQHesf8oefDZBeHTMc9HUa+4oRG/+T+Le6D4GS4eD2ZeEGuyryMkUg8EPNMNxdxitCmyk7vMUWHd/wi8m5IYcEfQ9s4IsZ29a43A==;X57AWLMfohsHjQjd0tg6mQ=="

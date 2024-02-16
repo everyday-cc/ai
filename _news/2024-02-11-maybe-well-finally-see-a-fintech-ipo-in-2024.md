@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-i
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
 type: article
 quality: 74
-heat: 374
+heat: 384
 published: true
 
 provider:
@@ -352,6 +352,20 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
+  - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
+    excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
+    publishedDateTime: 2024-02-16T11:49:00Z
+    webUrl: "https://techbullion.com/intersphere-enterprises-and-icarus-labs-a-fintech-partnership-redefining-the-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/ICA0018-media-banner-02.jpg"
+        width: 720
+        height: 455
+        isCached: true
   - title: "Mass Fintech Hub adds members"
     excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
     publishedDateTime: 2024-02-13T15:33:00Z

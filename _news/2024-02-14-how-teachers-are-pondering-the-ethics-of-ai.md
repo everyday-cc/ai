@@ -7,8 +7,8 @@ originalUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering
 webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: EdSurge
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Job seekers say they are using AI tools in the job hunt"
-    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
-    publishedDateTime: 2024-02-13T16:37:00Z
-    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "How AI is remodeling the fantasy home"
     excerpt: "Each of these teensy homes had been rendered by artificial intelligence software and smoothed with an assist from more AI software. I had been fantasizing about a fantasy. The nature of these homes was,"
     publishedDateTime: 2024-02-11T14:00:00Z
