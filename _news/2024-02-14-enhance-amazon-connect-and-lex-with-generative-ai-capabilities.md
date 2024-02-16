@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-conne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-16T02:01:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4671"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 8
+    images:
+      - url: "https://img.digitimes.com/ad/en_20240130_asia_bigbutton.jpg"
+        width: 336
+        height: 280
         isCached: true
 
 secured: "mg8PnhK7Yl1PGpViZETs6kBer7dQmFoOYo+fVrJV4NP6NFQGZwhMdN4G6k86rJbXAdWiNZVUO+iJWngvjaJhLHBopmyevb9T0/5AI4jMssXCMek/esS4VKzhWomD7GUwuYQqI9Bd1yYBKZA/CRC8MFH8ewrOHDJ7A62S9qJFoFKWjkoXmcbJV7VCauVr3GZ4wSBODtsnLq4aYclH016MzSh2D6OJksMUGGGEwipRjbQsM0p9tksVEz+L7rvg0yYOaBbK1UU+R0dgIjvIdDxOvbs1J3geOqpWn2pstaGZJCnjWbPleyP0hN38H8Niuf1XXjq2dDy54Ye+7GQo1QuwuXyKLTbDdx9sFHNCSQeUq0E=;Ctjfju1+5iyp1CJK/VgKWA=="

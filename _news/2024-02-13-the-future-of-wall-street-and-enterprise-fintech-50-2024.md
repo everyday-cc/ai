@@ -117,6 +117,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Future Of Insurance: Fintech 50 2024"
+    excerpt: "From two startups protecting against hackers to a small business insurer using AI to process applications quickly, six insurtech businesses made our Fintech 50."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2024/02/13/the-future-of-insurance-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa5c47d3d2cb63e760ff9/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Future Of Payments: Fintech 50 2024"
     excerpt: "From startups enabling in-game and international payments to payment processing giant Stripe, nine payments companies made our ninth annual Fintech 50 list this year."
     publishedDateTime: 2024-02-13T11:15:00Z

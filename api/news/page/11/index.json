@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-05-apples-new-ai-research-promises-high-performance-without-the-high-price-tag.md",
+      "title": "Apple’s new AI research promises high performance without the high price tag",
+      "excerpt": "For instance, Hugging Face, a company that provides open-source tools and models for natural language processing, recently launched an initiative with Google that makes it easier for users to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
+      "originalUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_an_apple_surrounded_by_data_and_money_118ed9fb-d58c-4b58-940c-f1d0ec5bddd4-1-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T12:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-why-elon-musks-self-driving-of-teslas-board-and-its-decision-to-pay-him-56b-collided-with-the-law-and-what-happens-next.md",
+      "title": "Why Elon Musk’s ‘self-driving’ of Tesla’s board and its decision to pay him $56B collided with the law – and what happens next",
+      "excerpt": "(THE CONVERSATION) Delaware Chancery Court Judge Kathaleen St. Jude McCormick has blocked Elon Musk’s US$55.8 billion pay package, which Tesla’s board of directors approved in 2018 through a process she found to be “deeply flawed.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
+      "originalUrl": "https://www.chron.com/news/article/why-elon-musk-s-self-driving-of-tesla-s-18648693.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T12:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-how-ethics-regulations-and-guidelines-can-shape-responsible-ai.md",
       "title": "How Ethics, Regulations And Guidelines Can Shape Responsible AI",
       "excerpt": "Ethics plays a crucial role in guiding the development of artificial intelligence (AI), as does outlining fundamental principles such as fairness, transparency and accountability. However, principles alone may not be sufficient, and the challenge lies in bringing clarity to these ethical foundations.",
@@ -1040,101 +1127,6 @@
       "provider": {
         "name": "The Financial Express",
         "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
-      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
-      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-scientists-map-neural-network-in-mouse-brain.md",
-      "title": "Scientists map neural network in mouse brain",
-      "excerpt": "Chinese scientists have outlined the largest depiction so far of mouse cells in the hippocampus, a key brain area for learning and memory, and studied how single neurons in the area are interconnected and how they connect with neurons in other brain areas.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202402/03/65bd8885a3104efc33024a09.jpeg",
-          "width": 857,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T00:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

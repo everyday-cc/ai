@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Future Of Insurance: Fintech 50 2024"
+    excerpt: "From two startups protecting against hackers to a small business insurer using AI to process applications quickly, six insurtech businesses made our Fintech 50."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkauflin/2024/02/13/the-future-of-insurance-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa5c47d3d2cb63e760ff9/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The Future Of Payments: Fintech 50 2024"
     excerpt: "From startups enabling in-game and international payments to payment processing giant Stripe, nine payments companies made our ninth annual Fintech 50 list this year."
     publishedDateTime: 2024-02-13T11:15:00Z
@@ -383,6 +397,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "ipL6YTXyiSrF3rMwS60xj8/VEMQ7fFnSF8nuv3elnAOccPRpaIHoP/1bSz9Kvoi9CZLoX7mjOvjGEc6B/huLN+poWM4n5zHTfOgSGV4qO3X1X/qUSKtrj5bv/ZfljFmpVlxaOtQf356i42RR/paxT5QyeC0jqVMOxOpDdT8JHUQPX4Ln0JjI4zAysLZwgXPL+ipnjnNGQF6GffAOcGsbuUQUY7rpIJWB82T4P9J1iiggkH1HXPvHM9bAylANMgmr7ZnrGcT+NlzWYNYGtqzWI4cPcWK/rB36M9uCZGaV6lXiycVvy4tqXSGnr7gmc6f3fkekpL11/oQ+8JOpCYXM1qmMLGyVmZKvDA4hAUVfDQs=;UjyUJhmeQJbUWgOAtK/O0Q=="
+secured: "ftnYJvSQH8Po9yi/YFzr2Hg3THamh6HytI9lGqmr3+pA578gbWzNfAXJ8VkXOF9yTN3k3WRL8W2dN/6aH2UE6vb9A3YpYN2r2SckuqP7Diw9dLHa09nwjZRVOjU/wJIxqC6IKwsvuRoj7wm+lJWO6wWWJYQ6cisYo/TXcHoMRFysQDhXnJbJ80cbK3X8Nt7/S7HlkF6TcV3U0GoO7BUch9pvlAQ16fplpJLL8wcewAhEGABPBga/3nqKz1dgBrTQ1daKky11ztYtHk5/SQfpSktAjBcghaRpiB7GDmnPSx3OTDdygLyeBF+YzU1d+2OCS1qTUbgorri7Pg4z3GrPSmmzqg82rHxgYvhSmepmoGe7Z3Cw4PQY+YzgHMSmY9bUfknSwDUGco9USbkyLr/5xkDPGCbyIYzK9vMLoPi0WfnH5opL4tLPtMz0N4RFB4BqQPkpT6MxhgeHU/iSVlNnrGqc1LVRuDgxWCCi/FrIWtgn5t5bPe8yNKIntzloPowOQ+hgDn7z74K/iUXCl84nig==;M1+0gX/GgJfgV0DdTOCDTA=="
 ---
 

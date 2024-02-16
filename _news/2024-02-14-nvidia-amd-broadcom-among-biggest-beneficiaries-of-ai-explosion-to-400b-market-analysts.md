@@ -45,6 +45,20 @@ related:
         width: 4000
         height: 2662
         isCached: true
+  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
+    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
+    publishedDateTime: 2024-02-16T02:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Nvidia's tailor mad chip gamble"
     excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
     publishedDateTime: 2024-02-12T10:35:00Z

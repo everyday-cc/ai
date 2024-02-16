@@ -61,6 +61,20 @@ related:
         width: 560
         height: 250
         isCached: true
+  - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
+    excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
+    publishedDateTime: 2024-02-16T01:47:00Z
+    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-4.jpg"
+        width: 3874
+        height: 2583
+        isCached: true
 
 secured: "eLQODqUn5wj6bIOUF/LgUcIvx8mclca64ONOunol9p541BcYPbqL9H59mgUbpwnPQGzIHgP40QivlI92lrtDpfn6M4bs1a6nDPB2u3/P30yqaweSyP6eJwAr1DgQGz3lL/UKRi7iLRsfl/qzDV9wTw3+TPAgTezHW9rpGpbJ41yHbe2VGidMe78iOYJrnZNbE/gXcmJFAZUwZZoaQqlOTbLqQM605edRj9l9wMfaz9fnp+DZCoHpdwFp4mGunjzmRZoHD803HbXDUmEhCBqNO8fw6BzQ72g9tB/vUj1tH0jZMutWD7mHBLWF9qpm9xI/SIjDHgJhjEIXdLNytmhp5Te+2bQ7kZaDQu456Rht3r4=;L2iOFlsr3cpPnAcq9yXcpw=="
 ---

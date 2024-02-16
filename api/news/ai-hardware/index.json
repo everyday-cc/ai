@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-ai-computing-firm-lambda-raises-320-million-in-fresh-funding.md",
+      "title": "AI computing firm Lambda raises $320 million in fresh funding",
+      "excerpt": "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban.",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107736843,imgsize-183154,width-1200,height=765,overlay-ettelecom/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "publishedDateTime": "2024-02-16T02:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
       "title": "Acciones de Nvidia se disparan por AI",
       "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
@@ -1123,6 +1166,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-06-huawei-just-retasked-a-factory-to-prioritize-ai-over-its-bestselling-phone.md",
+      "title": "Huawei just retasked a factory to prioritize AI over its bestselling phone",
+      "excerpt": "Reuters reports that Huawei will focus on increasing the manufacturing of its AI chip, the Ascend 910B, at the expense of production of its Mate 60 phones in at least one facility. Chinese AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause",
+      "originalUrl": "https://www.theverge.com/2024/2/5/24062541/huawei-ascend-chips-ai-mate-phones-pause",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/7dClQwPazOCZ1AD5apVTuQH28ZE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002392/acastro_STK079_huawei_01.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T21:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-elon-musks-neuralink-implanted-its-first-brain-chip-in-a-humans-skull-heres-what-we-know-about-the-surgery.md",
       "title": "Elon Musk's Neuralink implanted its first brain chip in a human's skull. Here's what we know about the surgery.",
       "excerpt": "The billionaire said the company's first product will be called Telepathy and will allow users to control their phone ... That's where a robot comes in. The device can only be inserted into ...",
@@ -1373,111 +1468,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-clash-of-the-titans-in-chinas-ai-market-as-nvidia-takes-on-huawei.md",
-      "title": "Clash of the Titans in China’s AI Market as Nvidia Takes on Huawei",
-      "excerpt": "This pricing strategy places it in direct competition with Huawei's Ascend 910B, an AI chip with comparable capabilities and price points",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/china-ai-market-nvidia-huawei/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-meta-platforms-to-deploy-in-house-custom-chips-this-year-to-power-ai-drive-internal-memo.md",
-      "title": "Meta Platforms to deploy in-house custom chips this year to power AI drive: internal memo",
-      "excerpt": "Facebook owner Meta Platforms plans to deploy into its data centres this year a new version of a custom chip aimed at supporting its artificial intelligence push, according to an internal company document.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3250678/meta-platforms-deploy-house-custom-chips-year-power-ai-drive-internal-memo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/02/592c1290-bb08-4db2-bb00-ffe2f151fcf1_45a1b0c9.jpg?itok=22EXWYiV&v=1706848356",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T16:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

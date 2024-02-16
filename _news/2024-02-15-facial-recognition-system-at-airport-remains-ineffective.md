@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2456510/facial-recognition-system-at-ai
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

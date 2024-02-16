@@ -69,7 +69,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
         width: 480

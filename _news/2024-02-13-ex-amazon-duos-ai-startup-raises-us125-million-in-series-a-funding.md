@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI computing firm Lambda raises $320 million in fresh funding"
+    excerpt: "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban."
+    publishedDateTime: 2024-02-16T02:22:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107736843,imgsize-183154,width-1200,height=765,overlay-ettelecom/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "AI Computing Firm Lambda Raises $320 Million in Fresh Funding"
     excerpt: "(Reuters) - Lambda, an artificial intelligence computing firm, said on Thursday it has raised $320 million in a new funding round led by billionaire Thomas Tull's US Innovative Technology to expand its AI cloud business."
     publishedDateTime: 2024-02-15T14:40:00Z

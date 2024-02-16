@@ -7,7 +7,7 @@ originalUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-
 webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,71 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
-    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
-    publishedDateTime: 2024-02-11T02:55:00Z
-    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
+  - title: "IDC Predicts NPU-Based AI Pcs to Make Up 60% of Global PC Shipments by 2027"
+    excerpt: "PCs with specific system-on-a-chip (SoC) to run generative AI tasks will grow from 50m units in 2024 to 167m in 2027"
+    publishedDateTime: 2024-02-12T02:47:00Z
+    webUrl: "https://www.thefastmode.com/market-trends/34941-idc-predicts-npu-based-ai-pcs-to-make-up-60-of-global-pc-shipments-by-2027"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
+      name: Deep
+      domain: thefastmode.com
+    quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
-        width: 1008
-        height: 672
+      - url: "https://www.thefastmode.com/media/k2/items/src/3b616bb58139b2e964445c8d6645ea7a.jpg?t=20240212_023215"
+        width: 752
+        height: 408
         isCached: true
-  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
-    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
-    publishedDateTime: 2024-02-13T00:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
-    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
-    publishedDateTime: 2024-02-15T06:40:00Z
-    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
-        width: 399
-        height: 250
-        isCached: true
-  - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
-    excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
-    publishedDateTime: 2024-02-12T10:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/2024-02-09T184144Z_1_LYNXMPEK180O5_RTROPTP_4_NVIDIA-CHIPS.JPG"
-        width: 1200
-        height: 749
-        isCached: true
-  - title: "Nvidia (NVDA) reportedly to invest $30 billion into custom AI chip manufacturing"
-    excerpt: "Nvidia is already one of the most prolific chip makers and distributers in the world when it comes powering AI technology, but it may be preparing to invest substantial into the particular needs to AI tech firms and services with an upcoming investment."
-    publishedDateTime: 2024-02-12T12:09:00Z
-    webUrl: "https://www.shacknews.com/article/138696/nvidia-nvda-30-billion-usd-custom-ai-chips"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 29
 
 secured: "JaImdwoqaxajk/MajX4UWlDQypkcB2wYOQ2tqynHMrPo0BtwxZ5RtLvkBFpIjDrwPHf3wj8QM3k+LRTeDQbTi3AMs4f+UDBK48n+YX6S1NBhPbAvOQlo6jDIT4B/k6ddAjW92V3gISYI8VtL1Kk1pLM65oIw2KQk6J3Oe77mbjfghBmNr75rYDYo6rV4Qppm7adjQl1oFBPoCJ1aTaKVnCibpedUWeQ0ELE4t57izZQD8cfAUnqHFc9oGk0eocMF5fgi9EcgwJujiJVZcYZjLHTnhiM8fe3dPosgm9WjqTjTEF6yMf+wwS0jy0qj6Bkfj1OvrUrVvfEDvIBOjTF7TQ4jjUAqhyz+mNqkqFJ1RTDwGKxq+ac18yrMKyi9JCk7i6ygCAcNUexBeHNviX1RWUAFFxnGF5IP20zdZIwSyyI6tAufrAe3M+U5NVLKUSNTr6449UwdyBngWdy4QX3XaqJNVgwnDbKAkzVRqYkSv87v+hcZ5VBpkgB2ucUQQYLuBXzvw5V1hU9CBuwCoCpXVA==;0eue/eeq4vpsBDRauGnIRw=="
 ---

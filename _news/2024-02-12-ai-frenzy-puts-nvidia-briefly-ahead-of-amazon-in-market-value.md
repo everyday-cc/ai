@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ah
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
 type: article
 quality: 87
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
+    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
+    publishedDateTime: 2024-02-16T02:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
   - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
     excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
     publishedDateTime: 2024-02-13T17:43:00Z

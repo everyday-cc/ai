@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-14-not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual.md",
+      "title": "Not So Fast: Study Finds AI Job Displacement Likely Substantial, Yet Gradual",
+      "excerpt": "MIT study suggests human tasks won't be automated and taken over by AI as quickly as previously suggested, and provides reassurance on impact on the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
+      "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbdc02f4ea484ae3d9afbc/0x0.jpg?format=jpg&crop=3695,2079,x0,y79,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
+      "publishedDateTime": "2024-02-13T21:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
       "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
       "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
@@ -838,7 +889,7 @@
       "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1163,50 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-3-ways-machine-learning-is-changing-retail-for-the-better.md",
-      "title": "3 Ways Machine Learning Is Changing Retail for the Better",
-      "excerpt": "Customers want convenience; retailers want growth. Machine learning can help with both. Artificial intelligence has revealed its potential in retail, as anyone who has ever interacted with a digital sales assistant knows. In fact, the value of AI in retail ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better",
-      "originalUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202402/GettyImages-1487920406_cropt.2jpg_0.jpg?itok=72GwsRqT",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/02/3-ways-machine-learning-changing-retail-better?amp",
-      "publishedDateTime": "2024-02-12T20:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

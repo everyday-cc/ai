@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-15/ai-comp
 webUrl: "https://www.usnews.com/news/technology/articles/2024-02-15/ai-computing-firm-lambda-raises-320-million-in-fresh-funding"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "AI computing firm Lambda raises $320 million in fresh funding"
+    excerpt: "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban."
+    publishedDateTime: 2024-02-16T02:22:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107736843,imgsize-183154,width-1200,height=765,overlay-ettelecom/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Cascading AI Secures $3.9 Million in Pre-Seed Funding"
     excerpt: "Cascading AI, a cutting-edge fintech startup founded by alumni of Stanford University and Y Combinator, is thrilled to announce the successful completion of its $3.9 million pre-seed funding round to unlock $1 trillion in value of advanced AI for the global banking industry Casca,"
     publishedDateTime: 2024-02-12T09:34:00Z

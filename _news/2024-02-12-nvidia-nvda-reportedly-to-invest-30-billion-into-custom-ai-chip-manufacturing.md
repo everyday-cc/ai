@@ -7,7 +7,7 @@ originalUrl: "https://www.shacknews.com/article/138696/nvidia-nvda-30-billion-us
 webUrl: "https://www.shacknews.com/article/138696/nvidia-nvda-30-billion-usd-custom-ai-chips"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -17,78 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Report: Nvidia building unit to design custom AI chips for cloud customers"
-    excerpt: "Nvidia Corp. is believed to be forming a new business unit that will develop custom chip designs for cloud providers and other customers."
-    publishedDateTime: 2024-02-11T02:55:00Z
-    webUrl: "https://siliconangle.com/2024/02/09/report-nvidia-building-unit-design-custom-ai-chips-cloud-customers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/44658024474_23169e4910_b.jpg"
-        width: 1008
-        height: 672
-        isCached: true
-  - title: "NVIDIA's new business unit: custom-chip development for AI chips, next-gen consoles, cars, more"
-    excerpt: "NVIDIA wants to be everywhere, with its new business unit to secure 'custom chip' customers for AI, telecom, game consoles, next-gen cars, and more."
-    publishedDateTime: 2024-02-13T00:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96147/nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96147_805_nvidias-new-business-unit-custom-chip-development-for-ai-chips-next-gen-consoles-cars-more_full.png"
-        width: 1500
-        height: 857
-        isCached: true
-  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
-    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
-    publishedDateTime: 2024-02-15T06:40:00Z
-    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
-        width: 399
-        height: 250
-        isCached: true
-  - title: "Report: Shipments of AI-Capable PCs to Hit 167 Million by 2027"
-    excerpt: "According to a report by IDC, the market for PC systems with specific AI computing capabilities built into the hardware is expected to jump by 60 percent over the next three years."
-    publishedDateTime: 2024-02-14T19:41:00Z
-    webUrl: "https://campustechnology.com/articles/2024/02/14/report-shipments-of-ai-capable-pcs-to-hit-167-million-by-2027.aspx"
-    type: article
-    provider:
-      name: Campus Technology
-      domain: campustechnology.com
-    quality: 39
-    images:
-      - url: "https://campustechnology.com/-/media/EDU/CampusTechnology/2024/02/20240214aipcs.jpg"
-        width: 644
-        height: 368
-        isCached: true
-  - title: "Exclusive-Nvidia pursues $30 billion custom chip opportunity with new unit -sources"
-    excerpt: "Nvidia is building a new business unit focused on designing bespoke chips for cloud computing firms and others, including advanced artificial intelligence (AI) processors, nine sources familiar with its plans told Reuters."
-    publishedDateTime: 2024-02-12T10:57:00Z
-    webUrl: "https://www.business-reporter.co.uk/news/news/exclusive-nvidia-pursues-30-billion-custom-chip-opportunity-with-new-unit--sources-9923"
-    type: article
-    provider:
-      name: business-reporter.co.uk
-      domain: business-reporter.co.uk
-    quality: 33
-    images:
-      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/041/2024-02-09T184144Z_1_LYNXMPEK180O5_RTROPTP_4_NVIDIA-CHIPS.JPG"
-        width: 1200
-        height: 749
-        isCached: true
 
 secured: "tiQFDC9bdjt0U/HOLhEV8uC9YF18JFO3VE9Eq1CLVwmhCpFGN0O/8+/9BdI4uzjYb3GKykg/SRr5NRFyk7dcBCq2A9usSybDp+tepiNfMu8c24oCFEniOQdtOFVTHiEz+tUD9SGh2X5y3pi4gWF7IxytAEkWNoZTcWSm6zO7NOZFj/uwJOqrdsdYqsa4XxUMjKYVKLiuD4kGw9QRHs1X/xvj95GemEKm15edQUA/oetZCVaU+XJIcQReVYBvgPfwTujqkCw/xnUe/H0fDCq6N3VU1qa15gR7P5YkbpDCa/Xk0ECa5T2WJVKfDqLGVto/BbWVQmxWxP0DHYpRTUinAYA07zJp+XmcJuwSwR7xpa8mi3/ENyFiAZAuXfCK0AvqFRfOKFjmuh1HInev5ERtRYbmiopHREXJ7i9WFY9O9BsvG/ugUClRzN5LQODXhoLIREAxmlTNZpZ2X8amxHx6w0TZorYMfC3elK+VbM1JaK1T2C3oOGWcH9tiaFzdzvGnNwvtB8SWZ9vb3QCApwfi9Q==;foJZt4meBJJtzI4rtrsBvw=="
 ---

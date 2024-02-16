@@ -62,7 +62,7 @@ related:
     provider:
       name: Stars and Stripes
       domain: stripes.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
         width: 480
@@ -87,6 +87,6 @@ related:
       domain: militarytimes.com
     quality: 19
 
-secured: "P1kH60iDIRx64FrnxdSC5IqmkAoCrRrniBX1ZGt16oTnzABOv9cG5x0JSJhWh0Ncs/YJ3Z5I22O9VErpJ07HIWJS+oYrrPqbJgaibfzHaLImX4ngpMyz00m6L2ssBDSmV/BE3JHJjgEGYfHuk8GUI0RsJXUaZDBRKEIGojw3MLBc9TwXeNH4SSvOjpI+JGq17W5WClbSwJWMfrBNYq3mgPe4lcYmuZqFr8g3i94PWjAlI5p9xS58WLuqyHOFeaHbupxYGV1HXHCiJqtFLs/j07d+qncPlmK4xCH06JAcSdLiGbw6sj7q62MMSJ52UtXS7ZfCSUwuTJiEnD0jQmfvdES+CvXV2R2FRdV2o+go3VU=;gN72nx0E8C0yg+2VzHchyg=="
+secured: "usCttNBxVni6S4fy39TCj6D0Wp7ywt1mtyfqrVZ1raf3s9tCND6aok9t7NM38rrB4ATcJnyIwck/g8pkuU7+wxg2CS4mBhpTc1d1etPJXJalp/DLutt1oY7XwTv55xw2wxjykSiU+LWaBXGlGGSf3KPnAx7FSSEPDeInmcF5N+94/owtKu5yM0AWQpiCPp6n39Gom4/dzUElHayb3Wz8X/egkgEOhplXM/JMGh+/Caxo++XDEfRoaEXvR+6FbrwZ9sGrKKO0srlSLa1MtKx/N5hYO7kX9rXeSv6tN7kSReKgwx9KoKB59GPBG5OKsuqKBgkPYWloJ+g57AmCBaGCqSz/+7D//KVxCOh0xKGi04SXh7k57HeARjvHh/5XFJ/Zrz92DSlyHEh3CoGizP8aGy53lfa2bRiE6CR0EgziYCy6JS807wYLHbeZm6cPglZ6OnpxU7EWJsfk07y/0+R+7/it7PNF75f8EbyxgR16qCnfrfuOlbU6IGTxpbay90mRodi8Vb55k3LhdZ+7uBhGLg==;yQCp4UqcmNta6BLcYDZ3Hw=="
 ---
 

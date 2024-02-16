@@ -3,8 +3,8 @@ category: news
 title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
 excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
 publishedDateTime: 2024-02-11T23:31:00Z
-originalUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/"
-webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/"
+originalUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
+webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
 type: article
 quality: 49
 heat: -1
@@ -173,6 +173,6 @@ related:
       domain: nbclosangeles.com
     quality: 19
 
-secured: "hmsmQsN7Itz9k0AkPuVVp/2f5+AG7C6dwhP4px6GbyDqotP47ybwJdAmTNG3EFm2kyCb0fdItM5YQQsobyqE7Uh69i8lOI6n9ofDijyp00PAnaJivahTNG7W1l4kK0QyClvQamCHmuoth5CtqlFxi6g4PsvSKmDqdQiBaHINKZx0TOeCZjlrNEn2M91TCwNnEAKp/KO9hqTyFcS5lwza6EzVvDlDtab/Iowx+zsFu954tkhXoHRaPFWmxaseNlLhKGh6X8VStrZdgQHGrxakNWYHmXNOOucy0LkgiVl5lnMGJ0Nt3Nw5A6wIq4QBrRAZEN7Y+8tt7QZqFHGNtGccBA+t58WATwF9PedjhtRzBfs=;cZSGy01lW0dRqUgmuhXCtw=="
+secured: "9rDgMssEf+SPj34rRORxoa2dh74yCaZ8QHj9OY1YeYrtrFISYmzOhnTplo77oWx3QqqLlrJ4ea6CIlhjVVqU8Age2ThhIc5Mpu8c0hGjvvhT4q+bvi3o3pwfm7c+rE+CzCiOsIz/Tp6sldz4lxyFd3Uzlj1kLlTp+taeJyVW8+3XxLK5CuowIjTJ1vE+vWFEszrclW9nGO4qM7IsMgonn/cl4rAm26wK8zsf3wcfEJzJ7M49tPCMU8l3JrLGypPe33ehrMbAI7yfEfkGVyJ6isATalv22/ZYsDrRwEri2pYSb7U89ML4hULpQiMtzKoOI3cf8OIR7tfi9Jvcy539Am1FDjgfa8lg/EtiBjcAXqQ=;/L6HznbF4PaAFwNt9SS00A=="
 ---
 

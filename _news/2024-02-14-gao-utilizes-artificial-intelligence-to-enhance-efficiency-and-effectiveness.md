@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-16T02:01:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4671"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 8
+    images:
+      - url: "https://img.digitimes.com/ad/en_20240130_asia_bigbutton.jpg"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "Vpk1K0gutGW2zx9DMKk0an13/neD0Wg+EP9405APeBnGHQW897k4tbt4NTVs+JU7R63ZV3vSuWv4ebQYK70N616NGLGlY8BaVPZeL4kaEIGk4TC00qk4TuXKX6q8bZ5OZsdcwQppYoSny3F7bW6qVVdMAcxbuLog2e8AW1jiAbISduC94tJXOcBZ2K+ud+sxWObfi/nV7zwElk5a2N4khVQdvvvwFM5lqKfjVJeIMEZOlU3OLFp0Hc2mXrazCjGsvYpeBdDF8siAMQOFZllt322fqYC5l/DBkDhXSjC+ZaVy0HCkZoUOSe/R96hi8biVkHusQmCtIpoWvtlL2GKxKzl/ZKViDsK4KA3jx1HOVGU=;syFX/ngMdsQFssFoLcBVNQ=="
 ---

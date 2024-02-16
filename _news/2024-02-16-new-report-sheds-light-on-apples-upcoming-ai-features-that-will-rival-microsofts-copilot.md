@@ -58,6 +58,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 101
+  - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
+    excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 98
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
     excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
     publishedDateTime: 2024-02-14T04:00:00Z

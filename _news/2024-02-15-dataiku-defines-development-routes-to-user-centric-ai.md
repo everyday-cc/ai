@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-def
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

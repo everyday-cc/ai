@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-15T23:08:00Z
 originalUrl: "https://www.stripes.com/veterans/2024-02-15/veterans-affairs artificial-intelligence health-care-13017012.html"
 webUrl: "https://www.stripes.com/veterans/2024-02-15/veterans-affairs artificial-intelligence health-care-13017012.html"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
@@ -86,6 +87,6 @@ related:
       domain: militarytimes.com
     quality: 19
 
-secured: "8YdhVl2xL/kf8g57gEKObj4sjnpCnlihxoPTnYi/BBy6nFsAXgFuFoHrliXSwJ4W6Ukm+mgTsx5fvTehEzKGUTYY8EeLKS++GolXBQjYBEBulRBSm8+1utIisJj2XGkW9BsJ1V1hIFoLvBcqJzPXhx1Fy0/XGWWWv3AFCP0YsH6vKfU49jPbWT2+r8izJjtkyxkORQ5d+eUzHbYwpZeZcZBVfa/OP54YGMe1YVStCkZEU+CT1P5Eq+Oyxi7/jVTQkbxPD/croQBbP7shQWWLYVr5VsgKQKfyKvBdTiiEoezTIqQLP9p0Rdf/ftuH9hwfZvjzw8RkVYDJ6kB56aqLMfCfcJAGt4akuImvBYMwW4k=;blbsqjw4FpQw723hvcp9HQ=="
+secured: "FH0zYfqtFXZbOoeXy0GKi/kE5WJlp8E+TxG6sBppWSpoaPYnhaZSXBD7s+qrHhF3srXc4WaEt4yJIuaeOWcLQeEc3rM6uWvbJUEbTyhlQscmqcBAii63dcvVdvXFBJItcQ1ouryZTa21dDEs+HuPjc9fY376K9ZRocXH6NsiAbhWcJ/NHx5vgGarG5OoF2ax5CdJd6zIPbHK/zdOQXJ7sUYRdMurcX88ggmuswlyu2kKjP7HxcqbBn6kzlsiD+w9JaiySznYvPBjHHWTAKoYB5a1tJRssZBEAPBTf6vPiKGwKln3/88dsG+Zses85XRRCaE7haF4W+jw5kbQd1MAAdhmpLI4nB8/a+bXZl8PqVIrMD18VA8CqKoUwRqSTdIEidq8yici/Y4wqjUlA27OmrcmSJzCbH+ZYsjuBfgtVo0UBYDlpKg6iAWFwMBTRLNcDQ4Gf+qfsECn1wfB+Y+L/SHFMZ9EtxpiEvAvkzBmAiCY4otjZmxN4pgAzW5n+EPBodGJOkTKs/GfhXULetmjaw==;0gBbRG78tbmfkZmWXbMq+Q=="
 ---
 

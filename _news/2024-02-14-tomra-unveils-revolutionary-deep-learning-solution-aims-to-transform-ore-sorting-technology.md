@@ -3,16 +3,16 @@ category: news
 title: "TOMRA unveils revolutionary deep learning solution, aims to transform ore sorting technology"
 excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
 publishedDateTime: 2024-02-14T09:19:00Z
-originalUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
-webUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+originalUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+webUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: Engineering News
-  domain: engineeringnews.co.za
+  name: Mining Weekly
+  domain: miningweekly.com
 
 topics:
   - Machine Learning
@@ -35,6 +35,6 @@ related:
       domain: engineeringnews.co.za
     quality: 19
 
-secured: "T+oZmOGVwEuy7Q1t3Ua+Pr0w1lUoyBjN0J2BAHVrTVQT1i1PiWoF3PyoyWMuBXlwQeAVR2lKAatL2SjHoIQKD57pyk2MFkq1NWdGkG7YjUdGAAzOhZk2HqFCOu+PppT5Cto9mTKRtZSh/jOUdADp/f0SUPlP9FwQfRnJOrfw9mqB05FKCPB5k45HDWl9idUXgoqVva2BzszqSwt0Gt9F012gJOatlzOwoaJvNnxZu/UOXAJuXAo/PL/hxpukLsH5asiMxFsO7CTbdkuBieATnYSaNFZZ8dC6XIXWlrONmWWkrgKBsFCnpU7SUQNAL2E8HQlXM3HkNJ0KgIvH2cPwrpfyBJdF/Z+9n1uraEAx6Ik=;miZ4hRAvcnSkgPrb6iOLjQ=="
+secured: "/FZXw78cUOhFI1T32urjvA426udxwxjsIu1RI5uerRkUXOusFrDaRAm5wUAQ8wHhLtSq/pmyFVtLwhAoeU8aiJUACN+c7lNfaf899pPIGzyK8wXgNWDQpPc3yFlWddn2Nw+jFsIcyEnwqaSD4gabfZOACy2Y+eb8w7RE6IMaKDdFs/zYpOvEG1TOpVS5cxFWV1OmPMFr+Xio0zGitRmNZkV7NXEa1S/DiWaUWKkqI/GDcRrw+TopXlhh2OgmhXaw8qKbKYq0C24qAZ3vxBcvbfXA1DpyxntkS+eHa4ebhr+t8Yv4NFDVMAEjPuLhpDeURVLNY2KB+NKhCCFeVvPrCBgiMhztFxHGvJhLN6gk1sA=;NoOYURc4kNzg6JHePBzqZQ=="
 ---
 

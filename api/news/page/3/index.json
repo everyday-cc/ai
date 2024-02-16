@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-14-nvidia-rockets-past-google-thanks-to-ai-is-this-chipmaker-unstoppable.md",
+      "title": "Nvidia Rockets Past Google, Thanks to AI! Is This Chipmaker Unstoppable?",
+      "excerpt": "Analysts are predicting a stellar performance from Nvidia in its upcoming earnings report, with expectations of a 400% increase in profit",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-231635.png",
+          "width": 1020,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-leaders-what-are-you-doing-about-ai-fatigue.md",
       "title": "Leaders, What Are You Doing About AI Fatigue?",
       "excerpt": "In a world where digital transformation is as crucial as the air we breathe, there’s a quieter, more insidious transformation happening within our organizations.",
@@ -1070,7 +1122,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 364,
+      "heat": 374,
       "tags": null,
       "images": [
         {
@@ -1146,57 +1198,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual.md",
-      "title": "Not So Fast: Study Finds AI Job Displacement Likely Substantial, Yet Gradual",
-      "excerpt": "MIT study suggests human tasks won't be automated and taken over by AI as quickly as previously suggested, and provides reassurance on impact on the economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
-      "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbdc02f4ea484ae3d9afbc/0x0.jpg?format=jpg&crop=3695,2079,x0,y79,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
-      "publishedDateTime": "2024-02-13T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

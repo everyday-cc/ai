@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-13T00:26:00Z
 originalUrl: "https://venturebeat.com/ai/how-llms-are-learning-to-differentiate-spatial-sounds/"
 webUrl: "https://venturebeat.com/ai/how-llms-are-learning-to-differentiate-spatial-sounds/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/A_robot_sitting_in_a_room_wearing_headphones_wit-transformed_fd0472.jpeg?w=1200&strip=all"

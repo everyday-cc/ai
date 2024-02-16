@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
+  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
+    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
+    publishedDateTime: 2024-02-15T06:40:00Z
+    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
     type: article
     provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
-        height: 900
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
+        width: 399
+        height: 250
         isCached: true
+  - title: "Nextdoor's Transparency Report Highlights Impact of AI-Led Innovation, Maintaining Very Low Levels of Harmful Content Reported on the Platform"
+    excerpt: "View the full release here:  \"The 2023 Transparency Report reflects our dedication to merging technology like generative AI and machine learning with human understanding, cultivating a space for authentic and meaningful connections among neighbors across the globe,"
+    publishedDateTime: 2024-02-13T11:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-nextdoors-transparency-report-highlights-impact-ai-led-innovation-/2024/02/13/9961200.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "P26UbLM/aI7kkxw2Q4wJadEIPi6LEx2yBro7w6AdcFsUITvsKmdGXuSo7no3Gg7lYz+bbeEPCN8KsEu5c38yQe465plyJohYUt5hvZA7EgMeb9fb8MciKwoYMt17ZMl2u+NBhc5DI2PqnHPBddMrNoWjabdvQbNUKe8WNiQAqGijoKJDcrXaL9OG+y5DMfCDbqyVKYDgyQuxfLEc0qtPTZzEL1heDQbD7YsOUwOPute2GLsZ58akfznrx8oV6T8BaoKMf+be5amYwPioRw/cSNZChEjeq0GtSg0dTGY0hk97WkQCr2TKNDWeSY5Hu21HYofql8AmqgDnP+a76Nnjfvlfd0Ae3ScyXzUYnMRUv/k=;DUWaBpONMOvhfLgh/flm0A=="
 ---
