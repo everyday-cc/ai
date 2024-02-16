@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 3874
         height: 2583
         isCached: true
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
 secured: "xZ8l+NeGij7y2sOG2SC/HhKVb9IEN3YBlyH3oslcF9ASXI4nCLd0g7brLfyv4AGOgxBQ3r+4rOJRD+aNc9PpaIbHM+krKLRC8rUbmIbNqMXrLO2zhWdSh61vbOxFYVEOkawGR5Qofg3UlLddv/u/sqA3ENv9Bvb6wgFN9/rbgNECi8TDDFv1h7nRD2Vg9KDf2uU8dfGXk/HAwjHLBGVdjbAJKt3COfVt0T0NRS0dMJFzeZD72lLQPwOOnfb1b+uCFKGz29nzX81IxCaZLZUoxpohdrIo6VHTDtfyjxxM7FZDCip3/ZM0HaDVyeNg8b7QMcrKOIzJbmyOEI7YAlyzuXYCuA2HCp7ZvF82Wvl2V1U=;95+j7jpeyWJSAZsn+P6B9g=="
 ---

@@ -85,7 +85,16 @@ related:
         width: 3874
         height: 2583
         isCached: true
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
-secured: "W2u2cb90bZIJYJZoaWDZiQX/7vM3uyJXBef45zk2v/UFAlXmahgktRuhh0tRaG8L1x8FFe1RvizLryG52AaHXXAHKYySqNfacTjQmWJNpZExosgN2HJU8ZYViE5Qa9VYwmOhN910v8Hywn+6iDmxflQmqG+KGPQwVeVqnqo0AlC7QemvoEOsaIa6Hh0Hi+ureehCi7l9dXPq0hlRDDpT46zjwXn9IJe1v4rQzGoOVNjyQ/+ZieXXdN4uuTRjHkKN63RFFuOK44f4Wsd+B554aXTyjq1BqYHgqS+PXZz6VbuGMxAsiMKuGsBoBMX5oyqgup35aXVKJOOrMSc3YPrp4V0mD2Tn4nvRRINBWcjK70c=;E8kFk6vwO6TRIKXQWq56zw=="
+secured: "kOkwpyTOLSjYcGvo0v5DuINk9LcT7XER+05N1v96I+5+yRx+LMDq2R7UUuu2ps4cq5zvz/ch0Np6MQ62MdGYcnXikyveurLyZV5JSH6CsaFpgfDJXm6EhWjEx7wSXT5lq0fH7f4En8EACpIAz5vWQPwBRQZ0xs4gOxOoyQlNLLPldEMuwuXvOAP88THDqH8lePVfd8YQvgWaLzC95cCUyipHesEEbyGirxcL+KmoEjFjgGCZnOD4pYpQB4m+JYzh0k+JlSL+iKMshMTn2OQDYMUWJPJyYAZVkj1ulio2j0BeC4TLtEIr8ZHSqued9fY7TFBMxAdQxh0Lg2rzBtvJXxiHu41pT99Qe/9n2Lw3k11RwO0LsZZKgZf9Oa79J2GMndP8xIkVCCpAui9U9ApR0imrI8KEY5/f072LE7YeIF+ZGJzG5C0RhdJd1RTeKfdsq//vo+IDBmoqWAxfScFLzF/Cg8Bh4nrhTDycIZIsbnOTbNrRrHOH82G9pZcx/OfrgmN3VFgEfgd/5LBfiAnneg==;2UEkJBd5UBsEwgJprCCsQQ=="
 ---
 

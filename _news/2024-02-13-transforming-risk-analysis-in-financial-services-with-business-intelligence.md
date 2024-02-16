@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI's Inclusive Touch: Transforming Customer Service For Individuals With Disabilities"
+    excerpt: "Achieving accessibility is a significant challenge, yet one of the most impactful areas for a business to make a tangible difference is in customer service."
+    publishedDateTime: 2024-02-16T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/ais-inclusive-touch-transforming-customer-service-for-individuals-with-disabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
   - title: "AI Survey Report Reveals Top Trends in Financial Services"
     excerpt: "The financial services industry is undergoing a transformation with the adoption of AI technologies. NVIDIA’s fourth annual State of AI in Financial Services Report provides insights into the current landscape and emerging trends for 2024."
     publishedDateTime: 2024-02-15T10:51:00Z

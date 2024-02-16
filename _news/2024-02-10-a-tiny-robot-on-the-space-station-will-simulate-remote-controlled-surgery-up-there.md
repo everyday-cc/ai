@@ -2,25 +2,19 @@
 category: news
 title: "A tiny robot on the space station will simulate remote-controlled surgery up there"
 excerpt: "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ..."
-publishedDateTime: 2024-02-10T11:30:00Z
-originalUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
-webUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
+publishedDateTime: 2024-02-10T13:30:00Z
+originalUrl: "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery"
+webUrl: "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery"
 type: article
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: MPR News
+  domain: mprnews.org
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 657
-    height: 492
-    isCached: true
-
-secured: "os4cmSWdEOmINr2X5TUEuNs647guE6z/Ay2K+ATjPCFZhMRs+/HWiRoGTQamDqghTmyvvMCwnNd20Yiv1Glg9KkxrSVn10lK4OgnEPdEggXAvna4EUHRDet1Hvd/JmY4zzgT6HXY0EkBnJNmaecgUohCY03f9OhFHFrJnOZpSve0hH5IbCMcratyHQupWJcQ8zWhyMIo4vujj9Rb3T6bbaJ29ckwHzNGbitdU/7jTZi+UGy71CiMJjVd0POyGfpganoyZYmO0gPU1co8qllxSfvw3P0WaoDM9K6gGVQM5yp8BRZl807+RZMKlRPgb/uRaDJR7G+xzWUci/Crp0uXZ6+1ATE0e9AS1PfATh39HKk=;ioBLeENxeRBwFcvJz9Q7aw=="
+secured: "vMAM7nBIYjqLhZXlXVfamYnxD6D2wiYHCp1lASFeg6MN4jDCG15MxIHCzcNd9M6LYty6xlJd5EaERuQSi4pxVWCR/2nQrcwsTSK2Acj5hTfmS6Nr5Jc1+LLxQF+XzUKowHGQ24abwszfuBxfieQTaeJQLy4hUxuGRZJT7C9xPfb9e0HzP3D0luRQSew0doMXkAJDCrqjEHF7Qi8nYyCHa9bU+6SeabnavuBvdSC+IhyIhWWUXgCzWVDErrQ8AO7aqv1RWj7IaxfX1r7zC2vJ4B3Deuh/dPVJHfTIUnDMaI0xCJaz8GWu4yG+tEcBXPLLabiGDuQClRqzwaCfYpVAgW4VCidJwvc4T7rn8F1bfNg=;3XpwJzsb+aWjQN+rBfMH8w=="
 ---
 

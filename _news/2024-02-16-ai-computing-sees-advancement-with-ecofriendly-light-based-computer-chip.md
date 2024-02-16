@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AI computing sees advancement with ecofriendly light-based computer chip"
-excerpt: "A computer chip working at lightspeed wont just aid cybersecurity and increase computing speeds for AI training but could even be more sustainable than current electric-based processors a pair of Univ"
-publishedDateTime: 2024-02-16T10:27:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274128148/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip"
-webUrl: "https://www.bignewsnetwork.com/news/274128148/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip"
+excerpt: "(CN) — A silicon-photonic chip that leverages light rather than electricity would ... especially in reducing the energy consumption associated with AI's training processes. \"By utilizing light for computations, we can achieve a substantial reduction ..."
+publishedDateTime: 2024-02-16T00:00:00Z
+originalUrl: "https://www.courthousenews.com/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip/"
+webUrl: "https://www.courthousenews.com/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip/"
 type: article
-quality: 53
-heat: 73
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Courthouse News Service
+  domain: courthousenews.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
@@ -39,21 +33,35 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "US researchers develop 'unhackable' computer chip that works on light"
-    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
+  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
+    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
+    publishedDateTime: 2024-02-15T06:40:00Z
+    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
+        width: 399
+        height: 250
+        isCached: true
+  - title: "Can I Protect Something That I Created Using Artificial Intelligence?"
+    excerpt: "The USPTO has also published information about current technologies and their impact on copyrighted works and is conducting a study regarding copyright issues raised by AI. Based on public information through December of 2023,"
+    publishedDateTime: 2024-02-16T14:54:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2024/02/16/can-i-protect-something-that-i-created-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2024/02/William-Trueba-767x633.jpg"
+        width: 767
+        height: 633
         isCached: true
 
-secured: "4Voi7voAgMjlo8ZnDK0fHbMFzeCM2EKBXSUvp8QlZHNmCFKER/LxR2yw62u03eLeP2m+oXn/m+ixCkKfXkJTgRTvkUcAQH5x+IjLtaoxyiiCjuneyFHCadRIRz64dvYQdTLQM/Gd1GX+zvc9douGE7lHW7FHIxYn3ApQnOz+CtFFlDtXyUaZiluEPnKylY4zgHpHAnmHYioXkGVGDhVG34yENonRcQBjpKbpsbtdwumadcjuOABXqRM60sxh5DAmvxBTNT43TFOXOiOHniFmOpoHaw1Z1wTR+nNnH8PBl/dnJTsRkrIajQwhlFlCgj0vj/sz38fXtQ1dlzW60LWbmM0KRlvWmB0A0+GHWqhFxlE=;VRAsej4SM+o6citaSG2lcg=="
+secured: "+qQL+5nk8LaL2mqOlz9QmPMhSlnWH/2OGwGskQ3RUDEYYXAS6sSYb6rWcxzFxffa/Zp3eQ/603Q/3aaNOhXe5yPlmJU6H0fU+kcxAfrCqCCbzYS8RViJnLxqD8n2LQqCltYlxaDpmTX5qXTNgvxixfE2oVQx3Qowpvo8t72FNf6oXD5kmDIqmz7HakJnJi5lgHLZ5YX46iJ9EN9Gv9wl9XPgSrjcb7HopDOj/EkktBwVQiLULkWpsf9j9DNJGLmKevskbg4Ypd8NpBJAOVnjZddHB6j4vlBlnkW3pMijlAl9axY/ePzXTsLCL4SVB8Z66p7f5wC56MOcVg1cq8Qlmr68IfgZ+42kFw6eBrrxQ7U=;qpLn1x6/CrX4nwhIb4N0Tw=="
 ---
 

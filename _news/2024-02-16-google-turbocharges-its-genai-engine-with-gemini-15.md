@@ -162,6 +162,15 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
+    excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
+    publishedDateTime: 2024-02-16T14:03:00Z
+    webUrl: "https://www.extremetech.com/computing/google-announces-gemini-15-pro-ai-that-dwarfs-all-other-models"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "How to Learn a Language with Google Gemini"
     excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
     publishedDateTime: 2024-02-11T23:59:00Z

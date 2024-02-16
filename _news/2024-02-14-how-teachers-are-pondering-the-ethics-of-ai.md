@@ -7,7 +7,7 @@ originalUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering
 webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "How AI is remodeling the fantasy home"
-    excerpt: "Each of these teensy homes had been rendered by artificial intelligence software and smoothed with an assist from more AI software. I had been fantasizing about a fantasy. The nature of these homes was,"
-    publishedDateTime: 2024-02-11T14:00:00Z
-    webUrl: "https://www.seattletimes.com/business/real-estate/how-ai-is-remodeling-the-fantasy-home/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "GCkyEI2Bqf0clNLcX7Z8IrwqD2a8lojZr1jeP7md8mosAnb5MMjh+xT0iXQc0kd2gI10IBTbIOuTP73CGRjhK0oQQpV5qNFvH29Pyf1G/riTzc+rLwA+AMHFUdtP6ztixKzLxMzhQYnEY7AzCnZF1Y4Wu9qlP9kaGZcI9sOHXd4+45lFRjW1JpCXkuzyZJIkG5xZ8uiDhnwF4BOYeCVEBYCMYx0pNUyxmT4n7yu6+h1R30f8bRxwpcM/BVmihnYTcmuUhbGGulWZbTuNUiR6IX2aFgiTNX6MQuc1GyfHXhEnAVy9dMzQKDQyp+iBaeah94YwqZLVmBSAmQ2XvPIXxvyeTtQmVtIHU3CmuiTcGopvHYfsvTXzcff5Ewx3hJ35OKYsKiu4iEwNyf7cd0vpKsXv3VIZgdnrBSWvxnnFVX8AiUnmWEYuO9tocvnArWPl3PyKmdDrpKxqOzUcyQ/lGGwyO3bj3Q90mzFGurP7I7WFoHeVh+dEpvmE7XP1C9dZaGCk04DP0OSpohYi6kKh2g==;vh93Uj/xIGRnrFbdgThazg=="
 ---

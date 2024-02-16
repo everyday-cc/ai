@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -136,6 +136,58 @@
         "name": "The Express Tribune",
         "domain": "tribune.com.pk",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-this-ios-trojan-is-harvesting-facial-recognition-data.md",
+      "title": "This iOS Trojan Is Harvesting Facial-Recognition Data",
+      "excerpt": "GoldPickaxe' malware circulating in Southeast Asia is designed to steal facial recognition data, likely because banks and government agencies there are adopting biometric scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data",
+      "originalUrl": "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04w7ZWlTRSx6ST7kQDWum6A-1.fit_lim.size_1200x630.v1707947992.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T08:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1435,58 +1487,6 @@
         "name": "WSB-TV",
         "domain": "wsbtv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-nomad-go-raises-15m-to-power-computer-vision-software-that-automatically-counts-inventory.md",
-      "title": "Nomad Go raises $1.5M to power computer vision software that automatically counts inventory",
-      "excerpt": "Using an iPad or iPhone rather than relying on manual counts by employees using pencil and paper, Nomad Go’s Metashelf combines edge AI computer vision, spatial computing and augmented reality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2024/nomad-go-raises-1-5m-to-power-computer-vision-software-that-automatically-counts-inventory/",
-      "originalUrl": "https://www.geekwire.com/2024/nomad-go-raises-1-5m-to-power-computer-vision-software-that-automatically-counts-inventory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2024/01/NomadGo-Overview--1260x682.png",
-          "width": 1260,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

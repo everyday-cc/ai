@@ -7,7 +7,7 @@ originalUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-
 webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "AWS expands free AI training course catalog"
+    excerpt: "The cloud titan added LLM deployment, fine-tuning and chatbot development courses to its upskilling portfolio."
+    publishedDateTime: 2024-02-16T13:55:00Z
+    webUrl: "https://www.ciodive.com/news/generative-ai-training-AWS-free-course/707695/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "lAdsfE3o5wwbcpoDOuNqfr4QB3WnXt/1c4JgW9cRCBHJ3rqcsiKiT9oqChAT8l6zN3zqm0uVJeTr+VL+mT4ixvtc6Ufy2dKOpIPi+iTP1phNC1oARqRg8vkWYP6q3/m46QWFbp7nfvqtNWBb8K7m8LAHCPn7bCSuL1NfV/bGwymiWAq/bxaLDHCedmGHoP5wiPt5AhbRsr7BA+O/QdSxynr95c6eiRjb6ZfMGoYq8H1sv3PxKThM0UIGSF1/gHQePff4cKb68A4ezrryOV4v1I8xR2LbYmRQ/7rJeSpqSuokJDpg59HOu1wudt8azB4pxLW35FOSBmuGvH998dHBLsKQPYbASAeCHiQHAJi21oC3eLiI/Ru8W9bCGUfpHw0OalwOHbyZ4FDUUNj3fH10NrpjNPqKqAzWqTPcr7rwfZIcj+wJ141/BGwidHG7cQPDHJtbHsNcviEipmdtonyWslYpVc2SOyh0/EmWbjpOd3pdQsvaA1cV5UMoSHjXYflQ2NGzEL+WX+TrbkKZLJIBnQ==;hOpv/eYEiy6VcYZX3Oq52w=="
 ---

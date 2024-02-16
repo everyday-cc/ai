@@ -98,6 +98,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
+    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
+    publishedDateTime: 2024-02-16T15:33:00Z
+    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Austrian Dance Station Launches with AI"
     excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
     publishedDateTime: 2024-02-12T21:13:00Z

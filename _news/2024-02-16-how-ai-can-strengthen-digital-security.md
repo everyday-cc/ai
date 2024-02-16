@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-cyber-def
 webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
 type: article
 quality: 106
-heat: 156
+heat: 147
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
         width: 5071
         height: 3381
-        isCached: true
-  - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
-    excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
-    publishedDateTime: 2024-02-11T15:32:00Z
-    webUrl: "https://techbullion.com/the-synergy-of-artificial-intelligence-and-cybersecurity-fortifying-digital-defenses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
-        width: 650
-        height: 450
         isCached: true
 
 secured: "B0Rku/Mo1H43wEJs8o4SnP6mvm4Ko/1a6eQZdQKnDa7ECVgo0PiBqMYoJxouin4jh+6AQpHP+a0b3dGTfJQ4/Rcnest3NbHkqGDjfhsmZ0dIhdJtBF37EK0BRn3JAZOg80aqIpXsnKq7TsBKxCLfAhq2mv1IcJfUH911JxbemXxHoG75PV7FwYcT10o/3DrzpLppaEouQEs5nH96r3N3D1suNlFGM/4qGtvokIM9mhrdqrPTxOgXRXYLUa1q9Wjd7QDdt7/M5za8iMSNZ3qOp8/9SHzvBwrR+76g1FFnIrLs37ahtr64dOMSR0XvLvtXXQEBEEYqPnRfiDiIkGyRjDZr1pLLsJcPJ18GtYZDaSI=;B70dKtlHBUknz5lHIeZM3g=="

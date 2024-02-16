@@ -84,6 +84,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
+    publishedDateTime: 2024-02-16T16:20:00Z
+    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 34
   - title: "Altman urges collaborative regulation of artificial intelligence"
     excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
     publishedDateTime: 2024-02-13T13:50:00Z

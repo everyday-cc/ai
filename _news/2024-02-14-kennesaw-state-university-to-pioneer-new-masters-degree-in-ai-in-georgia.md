@@ -39,6 +39,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "UB to hold research symposium on AI in health care"
+    excerpt: "The role of artificial intelligence in improving all aspects of health care is the theme of a research symposium to be held from 1:30-6 p.m. Feb. 27 at the Jacobs School of Medicine and Biomedical Sciences at UB. The event will kick off a new initiative at ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/briefs/2024/02/ai-health-care-symposium.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 19
 
 secured: "x5/YiN0ChtgaBfpL69A8q2neegA3UxMXZBfmvhV1lF+pAofRVKFMv7HhARz/zL2/7m+gepwAeZRCJUyyXXHWpTnhqRZZ9wplqmYsa43gHrIjIT8uEvgZtn5oZYmtJjJf8nLm9URAGvrfqK9c3QwVOpmg/p7LWt3SqDARYnd9JgFyACbZGM/bIOtmhLuvEVklYAIFnrXlu5LMorW2X1jzNmLXN4mH52MOGJ0TerFX/N2RVl6c1n0VX62NWRpGnP7abQ8/8CKNClLadQvaPzLLdAe0zyYnLkRx3aYMH5nMEr/S6DvDpoZ0BWZ5UL8lQT2g189jL1a4ZgTi7pfWHzp6TDv8Y1WhYT+w3mdx4w+tqnd5Lbjj9O2MMMDyjTwDbpc9C4Lw87mfs0YHijc1OYKb1pFmxvDEeqC7RXtWUJoE/Y2K1zECwQq7s1VzyArTId764HElnjZYJ+PdGgyhvjLU1dLphdsIAskFt1k8ojIbqdh0R//WuE+cYkLhQBxt36h4HKCgD58nFt9Rsko1ThlSag==;C0aQ2cXmyWpOeV2IXqt5eA=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI's Inclusive Touch: Transforming Customer Service For Individuals With Disabilities"
+    excerpt: "Achieving accessibility is a significant challenge, yet one of the most impactful areas for a business to make a tangible difference is in customer service."
+    publishedDateTime: 2024-02-16T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/ais-inclusive-touch-transforming-customer-service-for-individuals-with-disabilities/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 42
 
 secured: "ojhTa2UWkTyCov1JXAf50Oa0lXCpWCYPtaBD9o/CZqV939fpszokS4eKxDbzrO3nWCHDvLxPCxuldV77V4NPekYYES+iVn8jwCNXJWnZnNGTZy3/RwUiR+9RcSn2q1S0vVBeRD7XlPZh4ppJtMg14vh2AbTZ+3vE1ov8iMpEFzdymcY5oxAcH0sm+FjESMNDiYnhjh+s5ZSBT9+QjDB6niYaSU6MDwu8pdvrbtxyKLPfVhnczQ8D9Me0kcag6iMLgsTSVKO+OgefjDqdurMGttB4YUu0YekfPSxrYe3HZvn9T2Q8gzz0ugwjIGMta34nJJBrRM+ln/hYObW6pRgLCfSljxvhWb4ubCnt7m1shiQ=;51HXD/fKp9hwidUSE3VQ0g=="
 ---

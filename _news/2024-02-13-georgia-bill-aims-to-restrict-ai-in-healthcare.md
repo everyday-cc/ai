@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Becker's Hospital Review
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "UB to hold research symposium on AI in health care"
+    excerpt: "The role of artificial intelligence in improving all aspects of health care is the theme of a research symposium to be held from 1:30-6 p.m. Feb. 27 at the Jacobs School of Medicine and Biomedical Sciences at UB. The event will kick off a new initiative at ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/briefs/2024/02/ai-health-care-symposium.html"
+    type: article
+    provider:
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 19
 
 secured: "hl044yolQ/ZReCHVY6SW9bQTONs/4xIe3h8s7eWK5XI3DqzvHck6eB/yUHeKEGe4EC/GQb9KDAnqutG2Mwd3/Ht9toYXi4h2VngqaqG+fiTaEA0wxVU6ohnzLVNRrdilfx1Pph35Lwt3rqpHAU73Fb8YMJhtXFFtpqqeUYDmiCvfgz/6LRhr+xmtd4yfXONMWTvikWpS01uE6IHWABnVMaQ1y8HO9NSNm0Bz+wfi1j1xQBD8j4EKRVDhRQaMPKpl+orXTq1GT83sBIbP/FaQOCsqMkpQ74n2yf2fK/dCZcjpiv0WUcv4JzX/laYFhh9A86ey2x6t/EpuXaVyt3NKaBBkO/ew0dAM18W3oGa67gs=;9US0ciqoxIbnMmN2snw+GA=="
 ---

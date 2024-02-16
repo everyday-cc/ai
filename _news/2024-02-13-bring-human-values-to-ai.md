@@ -52,6 +52,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AWS expands free AI training course catalog"
+    excerpt: "The cloud titan added LLM deployment, fine-tuning and chatbot development courses to its upskilling portfolio."
+    publishedDateTime: 2024-02-16T13:55:00Z
+    webUrl: "https://www.ciodive.com/news/generative-ai-training-AWS-free-course/707695/"
+    type: article
+    provider:
+      name: CIO Dive
+      domain: ciodive.com
+    quality: 34
 
 secured: "zt39e+v02/F3THpFQz0fIwgM1G0yqeiR4S0QVC/wpvexegVlmxrgXovV9aQaObB7RDwRyXo+OMMH0x9H/VnCzoiZIF0nCkgMBhGQ0H8nGh8rzIkH96xBHCxhP3AKxB2BigevceJCjvKtBm31INjv8w+prRRNI7Su5Ie+FJBQp1SOlbzjURH2P4to3pgVCuHxAHIJ4NzJav0ZqK2dqhIciFoKs0Kp4539VzVenfewm7/UoalVAb/Yv5irHLfSEgtbesBC9jPW8fl/enzRzpNkZI3jAFRGsZJFGxQlnNQdhrmV5YMcrC+N+nRsO0yLPc8xcQjHvHK7WRuTSX1xn7zaHbaYzq6fw+dW+BWVMvSdi0wPzfGu/xs/YBNiqhEtvXkAcB5tsqBBzHlmRv7O0Y+c2qfi80YLVFbdaVPcL4hwXTijIGa8np+8eGyMR1lys9useui1BX3yP1rzIFUo/wv3KJJB4m6I1X+gvFhc0WUwdpOkzu4KtZg/Nd1624PTO2iNdImeD7dhGeF6cV+xH1IXgg==;SWMc55OcpYE8ViAatMa20A=="
 ---

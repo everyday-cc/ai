@@ -2,6 +2,238 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-15-this-ios-trojan-is-harvesting-facial-recognition-data.md",
+      "title": "This iOS Trojan Is Harvesting Facial-Recognition Data",
+      "excerpt": "GoldPickaxe' malware circulating in Southeast Asia is designed to steal facial recognition data, likely because banks and government agencies there are adopting biometric scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data",
+      "originalUrl": "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/04w7ZWlTRSx6ST7kQDWum6A-1.fit_lim.size_1200x630.v1707947992.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T08:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-saas-startup-partners-boston-dynamics-to-deploy-dog-robot-at-construction-sites.md",
+      "title": "SaaS startup partners Boston Dynamics to deploy dog robot at construction sites",
+      "excerpt": "Zepth is in talks with investors to raise its first funding round in order to expand in the Americas, as well as deeper in India and the Middle East. The company's project manager app has over 40,000 downloads in India and is used by over 500 projects and 8,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47490,msid-107710087/zepth.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
+      "publishedDateTime": "2024-02-15T05:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
+      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
+      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T02:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
+      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-a18-chip-in-iphone-16-to-get-a-powerful-neural-engine-for-ai-features-report.md",
+      "title": "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report",
+      "excerpt": "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
+      "originalUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2024/01/iPhone-Motherboard-.jpg",
+          "width": 1250,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
+      "publishedDateTime": "2024-02-14T23:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
       "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
@@ -43,6 +275,49 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round.md",
+      "title": "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round",
+      "excerpt": "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg",
+          "width": 1080,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/",
+      "publishedDateTime": "2024-02-14T21:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -913,300 +1188,6 @@
       "ampWebUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
       "publishedDateTime": "2024-02-14T10:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
-      "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
-      "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc89284db5e2fad8876e8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 966,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "publishedDateTime": "2024-02-14T09:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
-      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
-      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai.md",
-      "title": "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI",
-      "excerpt": "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
-      "publishedDateTime": "2024-02-14T06:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-5-generative-ai-video-tools-everyone-should-know-about.md",
-      "title": "5 Generative AI Video Tools Everyone Should Know About",
-      "excerpt": "While last year was all about chatbots and image generators, this year, generative AI tools that help us create and edit videos are all the rage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc5f9e92dce2942f51519c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "publishedDateTime": "2024-02-14T05:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape.md",
-      "title": "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape",
-      "excerpt": "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
-      "originalUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
-      "publishedDateTime": "2024-02-14T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-wife-of-tesla-employee-who-died-in-what-may-have-been-the-first-full-self-driving-crash-said-she-and-her-husband-were-guinea-pigs.md",
-      "title": "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'",
-      "excerpt": "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
-      "originalUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
-      "publishedDateTime": "2024-02-14T04:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

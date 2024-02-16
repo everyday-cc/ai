@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas vs. Kansas February 24 Tickets & Start Time"
-    excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-11T16:24:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/02/24/texas-vs-kansas-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 22
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/SB2Y3DNUKVK6JM2HV5N44NNY7U.jpg?auth=951e35972c029ad1363a269b140a94263041abd4e900b0965cd306d39a062dc5&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "UTEP vs. Sam Houston February 24 Tickets & Start Time"
-    excerpt: "Saturday's CUSA schedule includes the UTEP Miners (13-11, 4-5 CUSA) playing the Sam Houston Bearkats (13-11, 6-3 CUSA) at 9:00 PM ET on ESPN+. If you're looking to attend this gam"
-    publishedDateTime: 2024-02-11T16:25:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/02/24/utep-vs-sam-houston-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 22
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/UONYLBEODZKBTMTNW6C3NSIVLU.jpg?auth=3a1a8af024d21510c9ec82e75a457b0682faa6a1e6f79aaac820f813651b27a6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kansas State vs. West Virginia February 26 Tickets & Start Time"
     excerpt: "Kansas State Wildcats vs. West Virginia Mountaineers game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-13T16:19:00Z
@@ -103,33 +75,6 @@ related:
       name: WLOX
       domain: wlox.com
     quality: 4
-  - title: "Charleston (SC) vs. Towson February 24 Tickets & Start Time"
-    excerpt: "Saturday's CAA slate includes the Towson Tigers (14-10, 7-4 CAA) against the Charleston (SC) Cougars (18-7, 9-3 CAA), at 12:00 PM ET on CBS Sports Network. If you're looking to go to this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-11T14:23:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/24/charleston-sc-vs-towson-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 2
-  - title: "Charlotte vs. Tulsa February 24 Tickets & Start Time"
-    excerpt: "The Charlotte 49ers (14-8, 8-2 AAC) face a fellow AAC squad, the Tulsa Golden Hurricane (12-10, 3-7 AAC), on Saturday, February 24, 2024 at Donald W. Reynolds Center. The game will tip off at 8:00 PM ET and you can watch via ESPNU."
-    publishedDateTime: 2024-02-11T14:26:00Z
-    webUrl: "https://www.wect.com/sports/betting/2024/02/24/charlotte-vs-tulsa-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WECT
-      domain: wect.com
-    quality: 2
-  - title: "Western Michigan vs. Buffalo February 24 Tickets & Start Time"
-    excerpt: "The Western Michigan Broncos (8-16, 5-6 MAC) play the Buffalo Bulls (3-20, 1-9 MAC) in a clash of MAC squads at 2:30 PM ET on Saturday. The game airs on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-11T14:14:00Z
-    webUrl: "https://www.wilx.com/sports/betting/2024/02/24/western-michigan-vs-buffalo-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WILX-TV
-      domain: wilx.com
-    quality: 2
   - title: "South Florida vs. SMU February 25 Tickets & Start Time"
     excerpt: "The SMU Mustangs (17-7, 8-3 AAC) meet a fellow AAC team, the South Florida Bulls (17-5, 10-1 AAC), on Sunday, February 25, 2024 at Yuengling Center. The game will begin at 12:00 PM ET and you can watch via ESPNU."
     publishedDateTime: 2024-02-12T14:19:00Z

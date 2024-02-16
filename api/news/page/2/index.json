@@ -2,6 +2,198 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
+      "title": "Hartford Healthcare launches new AI center to help with operations",
+      "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "publishedDateTime": "2024-02-15T17:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox61",
+        "domain": "fox61.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
+      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
+      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "publishedDateTime": "2024-02-15T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-unveiling-the-transformative-ai-technology-behind-watsonx-orders.md",
+      "title": "Unveiling the transformative AI technology behind watsonx Orders",
+      "excerpt": "With IBM® watsonx™ Orders, we have created an AI-powered voice agent to take drive-thru orders without human intervention.\nThe post Unveiling the transformative AI technology behind watsonx Orders appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "originalUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:10:28Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu.md",
+      "title": "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU",
+      "excerpt": "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
       "title": "AI chip tags can fight espionage from hostile states, report says",
       "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
@@ -104,7 +296,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -504,7 +696,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -983,186 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-saas-startup-partners-boston-dynamics-to-deploy-dog-robot-at-construction-sites.md",
-      "title": "SaaS startup partners Boston Dynamics to deploy dog robot at construction sites",
-      "excerpt": "Zepth is in talks with investors to raise its first funding round in order to expand in the Americas, as well as deeper in India and the Middle East. The company's project manager app has over 40,000 downloads in India and is used by over 500 projects and 8,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/articleshow/107693758.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47490,msid-107710087/zepth.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms",
-      "publishedDateTime": "2024-02-15T05:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-innovationrx-the-feds-nutrition-labels-for-healthcare-ai.md",
-      "title": "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI",
-      "excerpt": "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T02:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
-      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-a18-chip-in-iphone-16-to-get-a-powerful-neural-engine-for-ai-features-report.md",
-      "title": "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report",
-      "excerpt": "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
-      "originalUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2024/01/iPhone-Motherboard-.jpg",
-          "width": 1250,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
-      "publishedDateTime": "2024-02-14T23:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

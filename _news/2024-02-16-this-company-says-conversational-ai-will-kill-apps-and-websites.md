@@ -1,0 +1,33 @@
+---
+category: news
+title: "This Company Says Conversational AI Will Kill Apps and Websites"
+excerpt: "I might have inadvertently insulted Bret Taylor and Clay Bavor when I interviewed them about their new AI startup last week. Their new company, Sierra, is developing AI-powered agents to “elevate the customer experience” for big companies."
+publishedDateTime: 2024-02-16T14:00:00Z
+originalUrl: "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/"
+webUrl: "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/"
+type: article
+quality: 69
+heat: 69
+published: false
+
+provider:
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://media.wired.com/photos/65ce8e802d03fe069d2dde96/191:100/w_1280,c_limit/Sierra-AI-Plaintext-Business-CCarlos_Chavarria_Sierra_AI_Bret_Taylor_&_Clay_Bavor_091_296.jpg"
+    width: 1280
+    height: 670
+    isCached: true
+
+secured: "96zqwFaxinCYqNOwm7LyuPk6ijGD8ZCb+VtNevuNrd3A71rGhAm5HOP3yGNg1SSs1yLL8gpjRPjys4YWUJPyA06xYsMfp8MZKGVNiPCpWXFvGmA8YBmNBncYH0zOw0qxnevdCUO2JqM97mcI5bjE9FslpNuAXzHgESJCpkgtY4jdjODjF1yZEPMpryMBPr+lNH5r+s+sSos7tuRhn4gQ7m+TrbYDRzHVP1TuSUaDcE37UQxHIswmyNtRdh0Wr3Q+natVJENkKeLZpRa3YHcbaWemG8XXzfBfHmqpAl0nOHUkxqfvXeYPcnAyTuVnDJRgnMuPNYHWqOPReKiN/C4J418s7S+C86D0g2u3SkxKIV0=;uUaqLELig9eN7ZNSVUxyhA=="
+---
+

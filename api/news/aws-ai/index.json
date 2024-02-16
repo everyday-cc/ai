@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Code Llama 70B is now available in Amazon SageMaker JumpStart",
+      "excerpt": "Today, we are excited to announce that Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-16262-image005-1137x630.jpg",
+          "width": 1137,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T16:32:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-enhance-amazon-connect-and-lex-with-generative-ai-capabilities.md",
       "title": "Enhance Amazon Connect and Lex with generative AI capabilities",
       "excerpt": "Effective self-service options are becoming increasingly critical for contact centers, but implementing them well presents unique challenges. Amazon Lex provides your Amazon Connect contact center with chatbot functionalities such as automatic speech recognition (ASR) and natural language understanding",
@@ -107,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
+      "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
+      "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png",
+          "width": 1243,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T17:44:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
       "title": "Thanks to AI, Azure is Closing the Gap with AWS",
       "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
@@ -115,7 +219,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -148,59 +252,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-bookingcom-modernized-its-ml-experimentation-framework-with-amazon-sagemaker.md",
-      "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
-      "excerpt": "This post is co-written with Kostia Kofman and Jenny Tokar from Booking.com. As a global leader in the online travel industry, Booking.com is always seeking innovative ways to enhance its services and provide customers with tailored and seamless experiences. The Ranking team at Booking.com plays a pivotal",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/22/ml15274image002-976x630.png",
-          "width": 976,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T18:54:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1362,49 +1413,6 @@
       "provider": {
         "name": "Reseller News",
         "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-streann-introduces-tv-30-platform-for-media-entertainment-powered-by-aws.md",
-      "title": "Streann Introduces TV 3.0 platform for Media & Entertainment, Powered by AWS",
-      "excerpt": "Streann's TV 3.0 platform, developed using AWS, introduces a range of innovative features designed to redefine content curation: Facial Recognition Technology: Utilizing sophisticated algorithms, TV 3.0 enhances content security and personalization, designed to provide a safer, more tailored user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-streann-introduces-tv-30-platform-media-entertainment-powered-/2024/01/25/9952661.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T19:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

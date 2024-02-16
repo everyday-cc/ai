@@ -2,6 +2,463 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-13-leveraging-ai-a-global-growth-roadmap-for-smes-in-2024.md",
+      "title": "Leveraging AI: A Global Growth Roadmap For SMEs In 2024",
+      "excerpt": "As we move into 2024, it is time for SMEs to get back to business fundamentals and focus on cashflow, more money coming in than going out.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca81b41b3e14dd8bde218b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/leveraging-ai-a-global-growth-roadmap-for-smes-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-cohere-for-ai-launches-open-source-llm-for-101-languages.md",
+      "title": "Cohere for AI launches open source LLM for 101 languages",
+      "excerpt": "Cohere For AI launched an open source LLM covering 101 languages — more than double the number covered by existing open source models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "originalUrl": "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
+      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
+      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
+      "publishedDateTime": "2024-02-13T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-4-strategic-sourcing-use-cases-to-strengthen-your-supply-chain.md",
+      "title": "4 strategic sourcing use cases to strengthen your supply chain",
+      "excerpt": "Strength and resilience across the entire value chain is no longer a nice-to-have—it’s a survival tactic for sourcing teams.\nThe post 4 strategic sourcing use cases to strengthen your supply chain appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sourcing-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/sourcing-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1202250874.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-application-performance-optimization-elevate-performance-and-reduce-costs.md",
+      "title": "Application performance optimization: Elevate performance and reduce costs",
+      "excerpt": "Optimizing application development and performance is a must in a world where a user’s experience can control a business’ trajectory.\nThe post Application performance optimization: Elevate performance and reduce costs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/application-performance-optimization-elevate-performance-and-reduce-costs/",
+      "originalUrl": "https://www.ibm.com/blog/application-performance-optimization-elevate-performance-and-reduce-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-samsung-galaxy-buds-get-ai-powered-live-translate-and-interpretation-in-new-update.md",
+      "title": "Samsung Galaxy Buds get AI-powered Live Translate and Interpretation in new update",
+      "excerpt": "Samsung‘s latest update for Galaxy Buds users in India is a game-changer. It adds the Galaxy AI features to the Galaxy Buds 2 Pro, Galaxy Buds 2, and Galaxy Buds FE, paired with the Galaxy S24 series smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-rolling-out-in-india/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/13/galaxy-buds-ai-features-rolling-out-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Annotation-2024-02-13-174347.png",
+          "width": 1080,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-edge-of-network-computing-and-ai-how-ai-may-fill-gaps-in-5g-tech.md",
+      "title": "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech",
+      "excerpt": "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64a57380e07eea1def9805d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
+      "publishedDateTime": "2024-02-13T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-how-to-use-ai-to-help-your-business.md",
+      "title": "How To Use AI To Help Your Business",
+      "excerpt": "From the financial sector to the automotive industry to healthcare to language models like ChatGPT and beyond, it seems that everywhere you look, you can see evidence of AI advancements. The business world is no exception.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/656614e32643c2fb4761e838/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/",
+      "publishedDateTime": "2024-02-13T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-future-of-business-to-business-banking-fintech-50-2024.md",
+      "title": "The Future Of Business To Business Banking: Fintech 50 2024",
+      "excerpt": "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca49c9ad26e48437eb62c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
       "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
       "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
@@ -107,7 +564,7 @@
       "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -297,7 +754,7 @@
       "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -349,7 +806,7 @@
       "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -519,59 +976,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-how-bookingcom-modernized-its-ml-experimentation-framework-with-amazon-sagemaker.md",
-      "title": "How Booking.com modernized its ML experimentation framework with Amazon SageMaker",
-      "excerpt": "This post is co-written with Kostia Kofman and Jenny Tokar from Booking.com. As a global leader in the online travel industry, Booking.com is always seeking innovative ways to enhance its services and provide customers with tailored and seamless experiences. The Ranking team at Booking.com plays a pivotal",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/22/ml15274image002-976x630.png",
-          "width": 976,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T18:54:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     },
     {
@@ -763,7 +1167,7 @@
       "originalUrl": "https://www.techrepublic.com/article/australian-government-ai-productivity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -803,400 +1207,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-nvidia-launches-ada-generation-gpu-with-199b-transistors.md",
-      "title": "Nvidia launches Ada Generation GPU with 19.9B transistors",
-      "excerpt": "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "originalUrl": "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
-      "title": "AI Will Boil The Oceans",
-      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
-      "publishedDateTime": "2024-02-12T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
-      "title": "AI field trips and why we should stop setting self-driving cars on fire",
-      "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
-      "originalUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
-      "publishedDateTime": "2024-02-12T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign.md",
-      "title": "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign",
-      "excerpt": "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
-      "originalUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/",
-      "publishedDateTime": "2024-02-12T15:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-non-disruptive-sap-erp-modernization-on-ibm-power.md",
-      "title": "Non-disruptive SAP ERP modernization on IBM Power",
-      "excerpt": "IBM® offers a choice of hybrid cloud options, and is the only IaaS provider offering SAP-certified instances on Power and Intel x86.\nThe post Non-disruptive SAP ERP modernization on IBM Power appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
-      "originalUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T14:42:46Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.md",
-      "title": "AI frenzy puts Nvidia briefly ahead of Amazon in market value",
-      "excerpt": "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781",
-          "width": 4000,
-          "height": 2662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
-      "publishedDateTime": "2024-02-12T13:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help.md",
-      "title": "The 5 Dysfunctions Of A Bottleneck Leader And How AI Can Help",
-      "excerpt": "Struggling to lead effectively and get things done? Discover how AI transforms bottleneck bosses into visionary leaders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c97bb8e0719829faffe85f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/12/the-5-dysfunctions-of-a-bottleneck-leader-and-how-ai-can-help/amp/",
-      "publishedDateTime": "2024-02-12T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-google-to-spend-269-million-on-ai-training-in-europe.md",
-      "title": "Google to Spend $26.9 Million on AI Training in Europe",
-      "excerpt": "Google's philanthropy arm is setting aside millions of dollars for European nonprofits to train workers how to use AI. But it's unclear whether AI training will help save jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
-      "originalUrl": "https://www.pcmag.com/news/google-spend-26-million-ai-training-europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01J8NpOIf2aZCkNB8ZhzBnJ-1.fit_lim.size_1200x630.v1707739993.png",
-          "width": 1123,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

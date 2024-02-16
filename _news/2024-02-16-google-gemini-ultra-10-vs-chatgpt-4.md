@@ -155,6 +155,15 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
+    excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
+    publishedDateTime: 2024-02-16T14:03:00Z
+    webUrl: "https://www.extremetech.com/computing/google-announces-gemini-15-pro-ai-that-dwarfs-all-other-models"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Google turbocharges its genAI engine with Gemini 1.5"
     excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
     publishedDateTime: 2024-02-15T20:41:00Z

@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Maybe we’ll finally see a fintech IPO in 2024"
-    excerpt: "This week, we're looking at Plaid's latest step towards an IPO, one BNPL company's financial results, and more."
-    publishedDateTime: 2024-02-11T15:30:00Z
-    webUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/"
-    ampWebUrl: "https://techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/11/maybe-well-finally-see-a-fintech-ipo-in-2024/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/05/iposign.jpg?resize=1200,894"
-        width: 1200
-        height: 894
-        isCached: true
   - title: "The Future Of Business To Business Banking: Fintech 50 2024"
     excerpt: "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank."
     publishedDateTime: 2024-02-13T11:15:00Z
@@ -145,22 +129,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
-    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
-    publishedDateTime: 2024-02-14T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
-        width: 1080
-        height: 810
-        isCached: true
   - title: "Insuretech, Fintech as Threat to Group Life Insurance"
     excerpt: "The Key Man Insurance policy or Key person insurance on the other hand is a life insurance policy which a company buys on the life of a top executive or another critical individual. Such insurance cover is needed if that person’s death would be devastating to the future of the company."
     publishedDateTime: 2024-02-14T00:02:00Z
@@ -177,37 +145,19 @@ related:
         width: 785
         height: 530
         isCached: true
-  - title: "Carbon acquires Nigerian fintech"
-    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
-    publishedDateTime: 2024-02-15T02:37:00Z
-    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
-    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
+  - title: "What made Srikanth Nadhamuni build banking fintech firm Trustt"
+    excerpt: "One of the architects of Aadhaar, Srikanth Nadhamuni is now creating new-age banking solutions leveraging AI at Trustt. In an interaction with YourStory, he discusses his vision for the company, his take on Gen AI,"
+    publishedDateTime: 2024-02-15T00:30:00Z
+    webUrl: "https://yourstory.com/2024/02/aadhaar-founder-cto-srikanth-nadhamuni-banking-fintech-company-trustt"
     type: article
     provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
+      name: Your Story
+      domain: yourstory.com
+    quality: 39
     images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
-    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
-    publishedDateTime: 2024-02-15T03:27:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
-        width: 800
-        height: 527
+      - url: "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/NadhamuniFeatureImage-1707921553003.jpg?fm=png&auto=format"
+        width: 3334
+        height: 1667
         isCached: true
   - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
     excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
@@ -239,62 +189,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US-Based Fintech Formidium Opens New Office In India, To Hire 40-50"
-    excerpt: "US-based fintech company Formidium on Monday said that it has opened a new office in India and plans to hire over 40-50 empl"
-    publishedDateTime: 2024-02-12T07:43:00Z
-    webUrl: "https://menafn.com/1107839661/US-Based-Fintech-Formidium-Opens-New-Office-In-India-To-Hire-40-50"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?40194"
-        width: 387
-        height: 250
-        isCached: true
-  - title: "How French Fintech Pennylane Reached Unicorn Status"
-    excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
-    publishedDateTime: 2024-02-12T16:29:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/french-fintech-pennylane-unicorn-status"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/236dcb444f9708c318a0ad650a0c1016:465deb789a1cef3d55b630eea63f0e35/arthur-waller.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech In The UAE Will Contribute $900 Per Capita By 2030"
-    excerpt: "Analysts of UnaFinancial have assessed the contribution of fintech to the well-being of the GCC region. By 2030, the UAE's fintech will add the highe"
-    publishedDateTime: 2024-02-13T21:05:00Z
-    webUrl: "https://menafn.com/1107848297/Fintech-In-The-UAE-Will-Contribute-900-Per-Capita-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/13/M_ded1dimage_story.jpg"
-        width: 940
-        height: 559
-        isCached: true
-  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
-    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
-    publishedDateTime: 2024-02-15T04:02:00Z
-    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "Carbon acquires fintech firm to empower SMEs"
     excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
     publishedDateTime: 2024-02-16T08:36:00Z
@@ -323,17 +217,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
-    excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
-    publishedDateTime: 2024-02-13T06:49:00Z
-    webUrl: "https://www.business-standard.com/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 21
   - title: "SA fintech develops AI-powered fintech apps"
     excerpt: "South African fintech consultancy firm Elenjical Solutions (ES) has developed three proof-of-concept AI apps focusing on using proprietary information for rapid information retrieval, code generation,"
     publishedDateTime: 2024-02-12T07:10:00Z
@@ -342,15 +225,6 @@ related:
     provider:
       name: IT-Online
       domain: it-online.co.za
-    quality: 19
-  - title: "Carbon acquires Nigerian fintech Vella Finance"
-    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and ... The digital bank is aiming to leverage Vella Finance’s AI-powered SME banking feature that helps users get actionable ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech-vella-finance/"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
     quality: 19
   - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
     excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
@@ -384,15 +258,6 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 4
-  - title: "Why free trials are so important for fintech product adoption?"
-    excerpt: "This is why the need for fintech companies to build trust from the outset is critical. One of the most susceptible sectors to user trust challenges is the Forex brokerage scene, where  scams and fraud are common."
-    publishedDateTime: 2024-02-13T13:59:00Z
-    webUrl: "https://www.finextra.com/blogposting/25683/why-free-trials-are-so-important-for-fintech-product-adoption"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Forbes honors Sure on its Fintech 50 list for the second year in a row"
     excerpt: "Sure's second consecutive year on the Fintech 50 follows launch of industry-disrupting innovations to unlock the potential of digital insurance. LOS ANGELES, Feb. 13, 2024 /PRNews"
     publishedDateTime: 2024-02-13T20:54:00Z
@@ -419,15 +284,6 @@ related:
     provider:
       name: cnbctv18
       domain: cnbctv18.com
-    quality: 0
-  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
-    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
-    publishedDateTime: 2024-02-15T19:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
     quality: 0
 
 secured: "LkT1jYL0BhEZk+6ZAomHFxgjHMn8h6ygd7UspG6LTsZ9pus2rKAX9OFZH0wDZbpEvXYARHzQzUi1TrJkAahGJej+1KGylm18tb2XfUIWbanKB0KAQf25G/5MaL7gIK8nG63QsAOZdMaYihzk4vVy0fJXB+vrrex+Yu1CA44YFNgDhnAQ0XdMGJyt1Aw9PJfT2q0ErvUGfTqq1iw/ucnDZXnVCfm0MWrRpguR6tPV7NrxvEwjiwPht7YgOCU+Vb45zoAB8rDqLbdznvuV04WC03Dj3mZaYRQ0+IydS2ndbgUdM4e6YqU2jY8YnY1iVVV1PRDGvNGMTt82LPbDlDI2NwqxO+ElQN7BsiRKgCmnPLzOTM1UP4tLraWVZYrZ6FWggdzg5en6AqylTsyqzK5lMAmRxbS9vL5XsCEzCBCTbFIuRx/SXvXPcfOEncJoRW4Mg4+g2LpSacnUqQfjg4z046G3yQz/5SAtfls2+fHFvpFKMcpevzUw44C9J6P+l7NN+De3GdFOi6GhsADyExTN6A==;f2X73ZzcOokCRGUHepZfjA=="

@@ -56,6 +56,15 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The Future of AI Is Hybrid"
     excerpt: "Artificial intelligence today is largely something that occurs in the cloud, where huge AI models are trained and deployed on massive racks of GPUs. But"
     publishedDateTime: 2024-02-12T20:09:00Z

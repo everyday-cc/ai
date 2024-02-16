@@ -53,6 +53,6 @@ related:
       domain: commercialobserver.com
     quality: 34
 
-secured: "3qBhsCfoRp6vLa6mIp8RKKlUBvLDej9aJxMQBim7sqStQ/uY6E7m019do+ondrvQajxdkg9pZhgJPfHwjNd+X+F6Y54rsaE0flJn5kv8a6JH4NjSkyRZJYDHbWlSaUyg5biiAY2UFDQ8db7yXUEwR1W+Tkn6BuqD3dk7gl9PuabqiNkYBuj7LyDh+j8Jb+XBA/WH1Sg2XDMduCWVi5O50/MANy7WS4OMHE9KSYooRYh8wCbLqiWxAnlFEIxrKrfg/isR3VN1BGk3UHSpqthFEFxOMU0tfMb3UQ315SFTLfe6Ccqo0Jz3KZd5c7PzBQw6lkTI2tLpzmbcn2T0nEO2KmaEfa+XlVRnBSf9hRrCsqQ=;rYVLRoB4gObW1DKHxo+RfA=="
+secured: "aNsiqbDrWbywQU1e69F/B012/aFY21ssE1VzCwD3tLRqQ/tbnS5nDBznHvLpAV4piGq3c4XevKzalTTb1MI9m+ltvsNPPkInkEaTPKFDbGToMSgrTgVOEkRx9syp3wHBv0QGdltkXDVhKKLxDHn3AKMCcKiw+76iddRrM36IfL+gqlr2hS3BmLGid+og0dIsVr6f12F9/NYoaw2d8B+6gXGf4uLl4YfkBvBduUZSMaJ3Ka1LZjq2m3KDvffaYO628r4qFdRlwneJzD9MAEehMd+zqeShbRMM2mg6HPbRi/aRxhnytNQ8CmppOkUJyXwk3ju+cOVtU8h75+r2m+jt0zFErm0jjLObsLyzFanHMok=;S7HgYRZvUC/Y0S9XeY+/Bw=="
 ---
 

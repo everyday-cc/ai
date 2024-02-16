@@ -43,6 +43,15 @@ related:
         width: 1300
         height: 900
         isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
     excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
     publishedDateTime: 2024-02-15T23:01:00Z

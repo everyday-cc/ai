@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-re
 webUrl: "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PC Magazine
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "First ever iOS trojan discovered and can steal Face ID data"
+    excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
+    publishedDateTime: 2024-02-16T14:19:00Z
+    webUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/"
+    ampWebUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 44
+    images:
+      - url: "https://www.mactech.com/wp-content/uploads/2024/02/Trojan-1024x864.jpg"
+        width: 1024
+        height: 864
+        isCached: true
   - title: "First ever iOS trojan discovered — and it’s stealing Face ID data to break into bank accounts"
     excerpt: "According to a new report from Group-IB, the Android trojan GoldDigger has now been modified with new capabilities that make it easier for this malware to drain victims’ bank accounts. First discovered last October, the trojan's new variation has been dubbed GoldPickaxe, with versions specifically designed for both Android and iOS devices."
     publishedDateTime: 2024-02-15T18:35:00Z

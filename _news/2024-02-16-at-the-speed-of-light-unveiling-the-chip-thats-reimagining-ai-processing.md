@@ -7,8 +7,8 @@ originalUrl: "https://scitechdaily.com/at-the-speed-of-light-unveiling-the-chip-
 webUrl: "https://scitechdaily.com/at-the-speed-of-light-unveiling-the-chip-thats-reimagining-ai-processing/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: SciTech Daily
@@ -25,34 +25,43 @@ images:
     isCached: true
 
 related:
+  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
+    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
+    publishedDateTime: 2024-02-15T06:40:00Z
+    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
+        width: 399
+        height: 250
+        isCached: true
+  - title: "Can I Protect Something That I Created Using Artificial Intelligence?"
+    excerpt: "The USPTO has also published information about current technologies and their impact on copyrighted works and is conducting a study regarding copyright issues raised by AI. Based on public information through December of 2023,"
+    publishedDateTime: 2024-02-16T14:54:00Z
+    webUrl: "https://www.law.com/dailybusinessreview/2024/02/16/can-i-protect-something-that-i-created-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/392/2024/02/William-Trueba-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "AI computing sees advancement with ecofriendly light-based computer chip"
-    excerpt: "A computer chip working at lightspeed wont just aid cybersecurity and increase computing speeds for AI training but could even be more sustainable than current electric-based processors a pair of Univ"
-    publishedDateTime: 2024-02-16T10:27:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274128148/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip"
+    excerpt: "(CN) — A silicon-photonic chip that leverages light rather than electricity would ... especially in reducing the energy consumption associated with AI's training processes. \"By utilizing light for computations, we can achieve a substantial reduction ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.courthousenews.com/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip/"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 53
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "US researchers develop 'unhackable' computer chip that works on light"
-    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 33
 
 secured: "0P5Qwpx4+Xp8Mfg2bEIALddlJF0gUA/Fe9AcKECcOzb88NayJnwTcUeSD+mUoFCePu2GzDhu4TgT9gl3xRVKtF2t25B2f/H2RcbvouGZHwDLTrluLfLcbOsXkDb+RYdA8dzetkS+hOpfJIz2kBmISfJw2Wz6f4WUYI3W9wfB51jMg5aw3U9Ok0Tni3/099P8Q6kvMMvf/Ts1P3JX6dSkBxg8zsRvnPVOhVCCpIfatDaE9pQ2vLJ503Gn9Sdy7nvkzoeYw8FtpxofiOuQo9kM3nB+fB1d0+ycu7nVn4yu/JA6dXOcE9WHbg4yORpgGimzFEfvH7V3IhfYziJ9W+0KqT3V1DfChZkucwRpppCsMmU=;R7xZXH9YoQ4KwWfRAh5Kbw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 1279
         height: 720
         isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
     excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
     publishedDateTime: 2024-02-15T23:01:00Z

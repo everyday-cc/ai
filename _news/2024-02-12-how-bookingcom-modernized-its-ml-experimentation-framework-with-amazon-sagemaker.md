@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-booking-com-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-booking-com-modernized-its-ml-experimentation-framework-with-amazon-sagemaker/"
 type: article
 quality: 101
-heat: 141
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,18 +30,18 @@ images:
     isCached: true
 
 related:
-  - title: "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker"
-    excerpt: "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores"
-    publishedDateTime: 2024-02-13T17:44:51Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/"
+  - title: "Code Llama 70B is now available in Amazon SageMaker JumpStart"
+    excerpt: "Today, we are excited to announce that Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language"
+    publishedDateTime: 2024-02-16T16:32:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 94
+    quality: 104
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png"
-        width: 1243
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-16262-image005-1137x630.jpg"
+        width: 1137
         height: 630
         isCached: true
   - title: "Detect anomalies in manufacturing data using Amazon SageMaker Canvas"

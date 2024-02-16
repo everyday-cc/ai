@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -158,6 +158,15 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
+    excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
+    publishedDateTime: 2024-02-16T14:03:00Z
+    webUrl: "https://www.extremetech.com/computing/google-announces-gemini-15-pro-ai-that-dwarfs-all-other-models"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
   - title: "Google turbocharges its genAI engine with Gemini 1.5"
     excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
     publishedDateTime: 2024-02-15T20:41:00Z
@@ -186,6 +195,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "yHavFPKKfoBJBmshkAj/oJd3+Sq7LEcluGsW0AGqfRpNsXgFr6tGNdh6I6U/GS7wH7vFvFedataUjrNxUktWH/aMRMWw7C2ZEnLzH8aoCqHwB2CCTjoKqjcA2A/JHCEhQdrN8XHk3JF0Jsb272Je2n4p4LYIp0ewtII9G4kDaf80QAJF9blrIom49gUzS2RLpTMbt0wUBLwhoBrzPL9ew2DIqEQFQWal5E6oPgpzlXKOcg7PI+ZTLDwjxX+NR44QpkAKBVOYCGzUWtpy9L44OYxLzjvPtqtmwFPB7cCzoH7BeeipgWlLbQAdr6MCPH6nydfzvjvfEhifj7IztucMjkWTZjztc6VcPvHaTIeIZnw=;ooFBiveTaWeyTgmyhDGivw=="
+secured: "12Nh9chIjMTZCQ87HzSjdHhhbCtA2P+wna4KfiDx3S2E81pFz98u67hi+nYXjON6CKeDWZoh43WmBkpYEdzVYfvQ1x2sGcXxC+J/5EVc3OV+OPKMGRNgiZz7jdg/tK1vOPyVXiZ1prMzr5LZkcrF/Xyp99aT1UFHN+6yxvNNH6ZAJXGdrdf8xpTBjhU2bIUoF7WVZWFuge7iK+v4DnjtmzwewhkBTNBAPs35CLA5dzCVx2emWkYtCZVpjORFcohhoYbzdSziRqLaI1OgnCYUAHGux9u6I0CmMpKQxKKTuJSCU/KuABwhNtG3amvM4q3zgn0VVs6Y5y72hUDC2HG/YWRevkFR7bafnTBzd+Yn0II=;OxxNGI9WwQ0jm3+WrCBldQ=="
 ---
 

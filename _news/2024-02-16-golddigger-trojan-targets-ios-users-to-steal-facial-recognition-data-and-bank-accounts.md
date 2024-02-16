@@ -58,7 +58,23 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "iPhone Devices Under Threat as New iOS Trojan That Targets Facial Recognition Data Reported"
+    excerpt: "The trojan affecting iPhone devices was discovered by cybersecurity firm Group-IB, which also named the malware."
+    publishedDateTime: 2024-02-16T15:11:00Z
+    webUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953"
+    ampWebUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 49
+    images:
+      - url: "https://i.gadgets360cdn.com/large/iphone_apps_pic_1708096164615.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "hFzQSemtafhhv838ePQbtIyY1PmgWjOLgQ7Jc9nAk3PVWE7v4ZgaArc5VZclmo5cs70nyGbfxc0t1B1vzdVEOLYMMwVtPEed4FDmRi4Le1Ye3ld2WYTtUOUoYvF0+IePcC/ThKxHQN3L7+4niILWfQj5B158A5MoCglleuqCZBruSjiFfi7ofD19XDhg2BwlCcstqKqEqHEyUyf4naCy48P5VM6OcrOBX+XNO/PpVtrTGUVfj7JObKNhE9nf0N6ETeW5L3R0Ufgo07NI0mFaskLP5wrQqRyvKbHkecFF2QqkddX+JklpcP7bUox1Px+yK6Qqtf/AQ98PpR+Nu8SV5gOdPJ88Q/cK/zLVvAL12YE=;XBfSX2Q1QanTVQEJw1EzuQ=="
+secured: "2+tv0PXTRXjnThE8yYVaQO9QqwqdvlklukZIrD29rKzunWjHfyPInBkganMR8u0nUimUl1J3FcCa30nY7epNjWF8hiJXppAOOItcMIBPvV6PH7STbkl90GQMT+hkraY3Rd+uzBwMnQNRllO1SwrHKbtX/T9ihcFl5oxLS4kUWWDp+YBeXXXsInZPaTXVc4LdcUVoJEMxcSOsF3ZlOhWAT7y8XAnPvRMBX6PKn1J1WUydWC9e0nuZ5OxtS96L2catIqJMaCsmR24dGmISlafXqxpYx6j8ExRKWhUtD0xVtgHWFPZGC2gY22e5oWV8e6XvK2Ok3EVOQzCNx37pUhnFbSgjxI8gi8VjJlRjurwg9JY=;4U3zTVKOsXXaCW006qn36w=="
 ---
 

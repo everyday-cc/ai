@@ -101,6 +101,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
+    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
+    publishedDateTime: 2024-02-16T15:33:00Z
+    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "cTdkSqGrI0kDSLpmq/6B43P0PED8v0dbRnAPjBWjG99byGcjypBJAkd6SizAukBqWzAOUFfdotWOBF1rdPBcnMFttyPUXt5OrFn9XgbiMZwmY2jEC80zJDjs7RXhZNRy6j74GNFTWtcrqPSnx6IWdY2x9MMr8gHwsWlyWa54HxeC1TEqYgj09/3uyJWfAHvpvysvRpf8TFapPml5qeobD4WYe+HIIpg8iFR58GsARz7IDh5NQBIbB6MPzVuAwk1KCAm0GL50UI/BjlC/sbLq6oHFIW8Bv77GZ/tN7yh2WqVfiZnoMFdlYEdIWuZgiYAD4Xc0ZkVlj8GTtda0fwZTmeSjBDpFHQXER1FkKENfEC8U8qKTIXgTIpf4lUp4Yx3nXv7iKfcoSz5/+5TUPdWCxcnEnrwyi3CZlscXTrj/8g7LIVaSamSOmKJyYWrl0NFQkv6C8hkYqtHETYtdLp9gNCfRlf2rotPf19DDOQHCD3MeltwHUbUeGXE4GqNGk6MvdcaFwVkB8Hf77xHnFtjJUQ==;gTpKemoGP0UJQYGrHlzaDQ=="
 ---

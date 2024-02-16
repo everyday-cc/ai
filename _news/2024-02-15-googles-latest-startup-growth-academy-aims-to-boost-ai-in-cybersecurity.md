@@ -72,20 +72,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
-    excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
-    publishedDateTime: 2024-02-11T15:32:00Z
-    webUrl: "https://techbullion.com/the-synergy-of-artificial-intelligence-and-cybersecurity-fortifying-digital-defenses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
-        width: 650
-        height: 450
-        isCached: true
 
 secured: "H/4RWz427BsXECNASnJ2ax/eve9inltgaPmFxfPQPIV2uLzWh2U74gs4HDwBBo5J5Qa7mee2R+n/gAM+JjXAlVJuhU2tzqquFt3cOoYABgoJtCotMnjitMMsQ1LLaDtXFgyDDumJEittpxG6bV3NdzJ4QfnLYJprZEmgS6wIfNXaFMOX73/YcveloR3BivqukfuT6DWfqk2wJcci8QCDuMystUxW11D9X7+hBxKXqIhSewyehjgTPPOGdHgCtZAkPbB1vGAmTavIYamPT4/zM5fqMpBTCWRrzeDENj6VAvIzi5thshRHeyF4grfUPS2P3cfXVVwJROt8FNXMq1l9S5QkgSCx53UhbTiIMK3cS/hit6JsVJCWaNNKtJgOwkwaqY7UFMgh1hHmTSEkOUjKU0H8TQumGzh4DhP1VDP9yfSN9cow7GB77sudjolfty6/ktsbK4p0wBwmrJCptxdj/bkDkrNLIDD0Th1xdTFQ1JxmUcfMIpY7S32TRkJobpurNLLfbVj9jVkBJEWM8E8fxQ==;7F5JEj5ZMumIzl/jwsIdVA=="
 ---

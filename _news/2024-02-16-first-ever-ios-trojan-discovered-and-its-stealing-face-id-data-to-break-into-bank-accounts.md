@@ -40,6 +40,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "First ever iOS trojan discovered and can steal Face ID data"
+    excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
+    publishedDateTime: 2024-02-16T14:19:00Z
+    webUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/"
+    ampWebUrl: "https://www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/02/16/first-ever-ios-trojan-discovered-and-can-steal-face-id-data/amp/"
+    type: article
+    provider:
+      name: MacTech
+      domain: mactech.com
+    quality: 44
+    images:
+      - url: "https://www.mactech.com/wp-content/uploads/2024/02/Trojan-1024x864.jpg"
+        width: 1024
+        height: 864
+        isCached: true
 
 secured: "BEj5pMhS6Gb60Bbn04FsFPCXJ/xoMKd1nfoF5LAh96bOp8k5vrKxKSfYTc8rlrc4pVgL2SabJjA6iXD80ZAlxKyymV235j4FgRbD4UMeLPXuYGZe1LQikr2kwbPWiUqp6bJ9pc4omTz/d0ljrQSUtDft8q4gjJsob8+6oLexuADgeuQjqjY+nR6Lo5izR2lAKSjnItB4QwVahyGc0H1VAv2CSJPtXehrpZzo+UVr3v+AEa+kK4HUMfAE7sc5tkRhTCHOgfyh9gMvXciXwOHOdYCF94EPLfajZtEmywRryLPZDAAq2P59rBQckLtcEyIo0eikJOU8+581zFQDG2Eqg6iPuNhV5iZIfLNhaZjP7dd8VFqoRWisUD+ObSVuud2Bqh2oTtTWsHjXCLAJP/K3SnziUDNeknbOJPzwBjgYODTA8Dz+4hOS94lhQB5YoSMzX+XLeop3tRSm1yraIIOCbu5sgssQyxwPg5/KHJL2vB6RY1IyzVoFnBsNQstorwUycmvOl2vUKZPTw6tr/7EKPw==;o0UE6Laz7fH3sYm3R87eZA=="
 ---

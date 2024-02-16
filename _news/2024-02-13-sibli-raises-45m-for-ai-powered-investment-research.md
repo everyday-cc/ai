@@ -18,20 +18,77 @@ topics:
   - AI
 
 related:
-  - title: "Quilter raises $10 million for AI-powered circuit board design, led by Benchmark"
-    excerpt: "Circuit board design startup Quilter announced on Tuesday it raised $10 million, saying it would use artificial intelligence to reduce the time to design components that power electronics in rockets,"
-    publishedDateTime: 2024-02-13T12:03:00Z
-    webUrl: "https://www.aol.com/news/quilter-raises-10-million-ai-120350619.html"
+  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
+    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
+    publishedDateTime: 2024-02-14T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/1e7096b07c72630d0811f922381e61d6"
-        width: 800
-        height: 534
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
+        width: 1080
+        height: 810
         isCached: true
+  - title: "European Fintech Pennylane Reports Series C Funding Round"
+    excerpt: "Pennylane has reportedly raised €40M from Sequoia Capital and other investors, reflecting steady growth over the past two years."
+    publishedDateTime: 2024-02-12T02:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "MITRE researched air traffic conversation AI tool for FAA, documents show"
+    excerpt: "MITRE, a public interest research nonprofit that receives federal funding, proposed a system for transcribing and studying conversations between pilots and air traffic controllers, according to documents obtained by FedScoop through a public records request."
+    publishedDateTime: 2024-02-14T22:34:00Z
+    webUrl: "https://fedscoop.com/mitre-air-traffic-conversation-ai-tool-faa-dot/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 40
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2023/11/GettyImages-1478177330.jpg?w=506"
+        width: 505
+        height: 337
+        isCached: true
+  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
+    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
+    publishedDateTime: 2024-02-15T04:02:00Z
+    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
+    excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
+    publishedDateTime: 2024-02-13T06:49:00Z
+    webUrl: "https://www.business-standard.com/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 21
 
 secured: "rfnjuoOlZ171eUECg5/6FHsqMOyiET240NG2T0Wc91k1gagk9asIz1O6J28zuUIji5ZuZS+njOaOlARkVMLgczhze8qf47G6KD7FaSevxodJkaUduYhkNPC+S9pp8SfVwPc6E1c4WqwENHu/Vur8QZmZz+Pm+vlsCMTgkSP807q6aWE0sDRbLKwEmvqSrEn97MqxHi/oWbPjbMEDKWpRtgAXF1u3JucG0k3yUhm1P7yVTiczYkbWvqkQUZOHT4p5xJ/G3NV0BU7Zxo3QORh52KgtwdTXsXEbLuCS7kyK298QnOQJa7pH6HTl3TB6GBoGwADSJhDiOzW2qrwOe+hCTZya72//p9+qxJarADkObYc=;/3jU97vOI6FTVWtgYhvSFA=="
 ---
