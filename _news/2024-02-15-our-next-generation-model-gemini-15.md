@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_a_brain_with_Googles_multi-colored_logo_ebed8fc5-410e-4075-a948-57a9ee6955fa-transformed.webp?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Google Unveils Gemini 1.5, Meta Introduces Predictive Visual Machine Learning Model V-JEPA"
+    excerpt: "Google and Meta made notable artificial intelligence (AI) announcements on Thursday, unveiling new models with significant advancements. The search giant unveiled Gemini 1.5, an u"
+    publishedDateTime: 2024-02-16T08:28:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 49
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemini_15_1708071970272.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google upstages itself with Gemini 1.5 AI launch, one week after Ultra 1.0"
     excerpt: "which supposedly represented the best AI language model Google could muster—available as part of the renamed \"Gemini\" AI assistant (formerly Bard). Today, Google announced Gemini Pro 1.5, which it says \"achieves comparable quality to 1.0 Ultra ..."
@@ -170,6 +186,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "4dpExfKczJ9Jt+lnP8bq1Lb1GzTehxAM/FfvOpauD06WKcZ1usW/K0LtjakSG/vyX2JpO0Rqzr7jknnjtQUS+L4VQ5EVipKSz/MgYewue8PDsmesxgc0lGXTR5fgpOrsTGtVJ6nS62EjXD1r9kR2gnue0STH4nHv9G37lIo9+Re51vPpKK4rXUBDoJaBi+XK37wTyqthApdYItXKpptQi2jbSrdcDFn+fGFRZAz8O7FZ6N4GI9WcHwoaJdwFzbVo3sQTaeJ0SkkqxvGe+fdfTqElSmo3ojz3xuK3Kn7htguSOIVEj0igTXTEm+RITxLiSVGVmME3VvgoudnK34Zx1TolsjTestdC989ikyB/aBY=;8DzkcbdpeP304Ke3h3Q7sA=="
+secured: "K1EXlZ4rWkAKKv2356BnMhdc/P16Ap4F+p6GvB5rC7DK8Na87/M2fXiTI+dPbM5jdtHUbLMCM1qCK62rHhgzdZ9UaRkBjKMtsPBIZBqiXOU/p/sI2qP2QWDzA65GomoSKqhu6a0iERFGmG94p9Qwc7KgG58Bw75L5GU2VoI4+ERLp16Lo0UXzvn8wepAtKNzBEe6kUOzIAZRYtTiatLnBS325uiugUtROEw6kVFDswpxImZ8jCU0HMzVwRFC39Pc/M9oms6WMJqqapA2U0YcHqW6rUai40K2DgCbgJwF6fr8qWkgQLbOcAFY0zp40pt0RZaZWRGiUOAuAp5IXCvtJbzdSnpyAFNr39lFyYMu0MM=;8zJIhUTOrHg3uMeEywHnvQ=="
 ---
 

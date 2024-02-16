@@ -1,53 +1,26 @@
 ---
 category: news
 title: "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade"
-excerpt: "Amazon is quickly expanding the AI capabilities of AWS. You’re reading a free ... According to projections from Grand View Research, the artificial intelligence (AI) market will grow at a ..."
-publishedDateTime: 2024-02-11T07:25:00Z
-originalUrl: "https://www.fool.com/investing/2024/02/11/2-artificial-intelligence-ai-stocks-you-can-buy-an/"
-webUrl: "https://www.fool.com/investing/2024/02/11/2-artificial-intelligence-ai-stocks-you-can-buy-an/"
+excerpt: "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles."
+publishedDateTime: 2024-02-11T06:25:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/"
 type: article
-quality: 80
-heat: 100
-published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://g.foolcdn.com/editorial/images/764071/ai-market-growth.jpg"
-    width: 4000
-    height: 2720
+  - url: "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700"
+    width: 720
+    height: 473
     isCached: true
 
-related:
-  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
-    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
-    publishedDateTime: 2024-02-12T06:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
-    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
-    publishedDateTime: 2024-02-11T20:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
-
-secured: "RFbycZiXcAxpi0p6sbJkxGSNkJUVKCEaMeOwCtyWulw79ojaTA4R0dG9Pd3DgCTik5PucldkshJCZhVYUVzu3JnGGURF8uBBAltaOrxdzBjVmot0TtbmfTXq8KZ4XD0LwTqrZjg7myFfEjygR+q859jd7fkw72MKcwMuSS0c0DFahagP1ZJ7u6nCkyCsE56bCO5jUtQotx5co94rgn/OMYCDT9v498DFXXPj7HFrN+r/2zdXaQ1tvKHqaXCNclPF6l4TL5izlTcOBY3AeIy4eJ2hYiZMfspaE5hDqprTMUNSy8Cji2uFtCTtzY31U8DqtpkMTOEKx0VT0ze3Dsd0/oABmpQ2+2h/Q4rHee1XF/k=;AM55hpqKtUUeOOPBIAGmkg=="
+secured: "VpuychNIjz/p93lHAqkF2M0C6jrvNtj0SMetEIOwnm6WZPDjpFdh8VzQDQON5/OYmrbiziinNRm9JyBhFqOlw1NMHeSVRc/JuJCwDnJ8Ho2KCe9JmQ0bnUglzYfG+8Bpi38qgQDtzwXZo1C4ELS1OAP8F6vaRtAfLmF4q7vVcRnXEO+lw9OOYcctTNhGK1QyopyQojdUNxxdhHNToV92sz7X1aJ4gbTTy0J6d4v6X6gqV/bmHCOE6DIdGHG10NICDScvt/Fv8hewV2ZkR05tkOp+dkRdcYf5Pr0p0qn6sQ7iagwB7gTrVSD5sX4nQMkyjdgPK7LZXLQd8YhdlluNub0ESEeqRBNePL4KBHAE/bI=;OzdR85n6hXzfje8jxN+ijg=="
 ---
 

@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sundar Pichai: AI can strengthen cyber defences, not just break them down"
+    excerpt: "The new FT Digital Edition: today’s FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App."
+    publishedDateTime: 2024-02-15T17:31:00Z
+    webUrl: "https://www.ft.com/content/7000ac39-cc0e-467e-96f6-6617f91dc948"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 16
 
 secured: "QgP2Ed1GnKEBqOB5SXCA7LY/5cD/q051d7MrmKqd+x7GFbWIVeKuECNODxa+NRPTJfX6DM/4Exdiy7s6dPH+VD7eYiwJHpAcjHCFa+DPvHf/EiphZCte6clLsxVxrutb/fCuDo8AxrXF1A9S+cRXUWohki0FmMzgoGygZQybUhM+HC9GQCPwZOqmiH+kZJQsdkFv+b5jFJhFx+Z9zYe0TeYH9XjqRVy0J+y4x9Mbo+yOha6tBBgRDyDHN8NqXiXUgtcn3tB4woPx/jT/PqA/dM2d+V2FrRKWSfg3XUbijdUeQK/muOH/5HgM7jkU60EYMkaNaqGZpvWzKfV0BP43jbWplm2zheVOB4+giLyUJPPGYzY9XFHP/WcGg9Eodlqt+jgDVGLblRBpGTaQHqnGNO0uuW3/kDiE+YwXJIlMisP/RnpMOamrJcTekUTomDKaRWipyzBZuLU8Mfsd3hQLl7W8yROoeHIYaQhmbPNk214le5npBwL0mDXCm9F39LAMH1DaYicECIIRqoBi9h5m6Q==;CnDJlaMNktayPIPC6IsYjQ=="
 ---

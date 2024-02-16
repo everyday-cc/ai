@@ -50,7 +50,7 @@ related:
   - title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
     excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
     publishedDateTime: 2024-02-16T00:13:00Z
-    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
+    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
     type: article
     provider:
       name: 9to5Mac
@@ -62,6 +62,6 @@ related:
         height: 628
         isCached: true
 
-secured: "joRfCpPSJlvUHxyW0UJd3o3a22VjwR8CgwIC+SyuGlPG9YqkxelBC+n+ovDMIT9/D9nO9L4A0hHVxm2k06/ZRAVDG5rZG9tseQRLMpVwPQudzbnZoNw0Ae5Nkdv8htMB4njZ2KE7KhrxRuCt7xiPF4LQRQanOQ4xEylhJg5K/8xckjXJubSP/UrDUb2w65dAo/HfbcF9UyDTTDZzGu0+tri50Zh78SArGpNyGnV3P/y28420dvtSnGAGGKBpzdSTy8+IoF8BEtQyEMZ+2f+vXrQV4Crs4IoozRTiploB1mBi0OsXO1TKXnrPKLJ0ZH96XVhcRnDpsypAjpZkp3AFREQgWQTOfKokx0QnlsYb0ZHLV8p7XMQtQu0pt7mBga+DiHTKtGxtTacsYxLr/AArHtKrw7vRWX5/eaPsVhf59A8eP+hs4i0aNtSq225K0o8AsH2HMPpKkOJ+KE1UQgzuVzBSoCkeyWpP1ga+hJTcWLumtXAoyl0U7mF5pMRKw6XE0pO9gmvzA0xKr+VMA8al4Q==;Q9c1IwbeaPsfBPPwvIaolQ=="
+secured: "whiSxNA7fKGv/GnMxD43+vDmRDdDDG+Jtl+rWPnVZAHbsJ0niAV/cc8MPnITjEQpWtS95xDOsY9h0DSWKQoLyx1tH8SrQbjORgvs4aFPSiqodwCIZV6nu911g0TAd917ZufvIjwdG0LD7I5LUYk2K4t1iiynKfAuhzV5pCdNFJlplPacuSeovGA1zHjAlaxWpTKaynxcYY9PpPacLSH6kwerEdUG3lIBhTIXPl1/BfcF/ENOhNDgiKluYtb98WqpIKK+spDTYZ9fl9/SVUoW4zQ29Tmymmf64k7Lf7F3Qqu/prfwW2JLZ+aPnMnJRpaRYY4fJVBeN5OOATMEbuS/bAVBQuPHxdQE1fUp8SzCFOuNILxQfNlCNiqBjfhXwpHeI2T08gTUkk2pM1dlg8v0shedQZH7GkwDEv7gu5a1NLmKOGmWKtCKV8OJdQ912CIo/xZZnwm/wv4fvTTc8rBm5Gy+AfL39SFUr1QY4UQraxG8oo0lBW+5o6slnLZzBc799V+euQHhIKJDnktZYwu+Kw==;AFj29Y0ieB/lHBSgFNpKXw=="
 ---
 

@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Google Unveils Gemini 1.5, Meta Introduces Predictive Visual Machine Learning Model V-JEPA"
+    excerpt: "Google and Meta made notable artificial intelligence (AI) announcements on Thursday, unveiling new models with significant advancements. The search giant unveiled Gemini 1.5, an u"
+    publishedDateTime: 2024-02-16T08:28:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 49
+    images:
+      - url: "https://i.gadgets360cdn.com/large/google_gemini_15_1708071970272.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google’s new version of Gemini can handle far bigger amounts of data"
     excerpt: "Google DeepMind today launched the next generation of its powerful artificial intelligence model Gemini, which has an enhanced ability to work with large amounts of video, text, and images."
     publishedDateTime: 2024-02-15T15:00:00Z

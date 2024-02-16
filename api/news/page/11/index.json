@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
+      "title": "A baby llama has possibly been stolen from Maine farm",
+      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "AI plays a pivotal role across diverse healthcare applications ... and the potential for personalized treatment strategies. Artificial Intelligence in Manufacturing Market Size, Share & Industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-healthcare-market-worth-148-4-billion-by-2029---exclusive-report-by-marketsandmarkets-302052960.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-miley-cyrus-does-not-mention-dad-billy-ray-cyrus-in-2024-grammys-acceptance-speech.md",
       "title": "Miley Cyrus Does Not Mention Dad Billy Ray Cyrus in 2024 GRAMMYs Acceptance Speech",
       "excerpt": "You SAW me before this recognition. I never needed it because I HAVE YOU ... learning and absorbing and I think I can see my wheels turning and watching his voice and the way that he's using the instrument,\" she siad. \"I will say I feel vocally, my ...",
@@ -1026,92 +1112,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-apples-effort-in-testing-self-driving-car-technology-paced-up-details.md",
-      "title": "Apple's effort in testing self-driving car technology paced up: Details",
-      "excerpt": "Apple has a permit to test autonomous vehicle tech on California’s public roads only if the company has a safety driver behind the wheel. Apple’s secret car project has finally gained momentum, as per the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "originalUrl": "https://www.indiatvnews.com/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/02/apple-1707032344.jpg",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/apple-s-efforts-in-testing-self-driving-car-technology-paced-up-details-2024-02-04-915178",
-      "publishedDateTime": "2024-02-04T07:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks.md",
-      "title": "The original tabletop deckbuilder Dominion is free-to-play on Steam, with AI powered by neural networks",
-      "excerpt": "What makes this version different is that the AI opponent is powered by neural networks, and it certainly seems competent. It beat me on the easiest difficulty a couple of times, though to be fair ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks/",
-      "originalUrl": "https://www.pcgamer.com/the-original-tabletop-deckbuilder-dominion-is-free-to-play-on-steam-with-ai-powered-by-neural-networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/S3WQs6ZDpW4mMXP2FY53zW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

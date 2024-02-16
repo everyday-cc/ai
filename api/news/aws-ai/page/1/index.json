@@ -206,19 +206,19 @@
     {
       "path": "_news/2024-02-11-2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "Amazon is quickly expanding the AI capabilities of AWS. You’re reading a free ... According to projections from Grand View Research, the artificial intelligence (AI) market will grow at a ...",
+      "excerpt": "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/11/2-artificial-intelligence-ai-stocks-you-can-buy-an/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/11/2-artificial-intelligence-ai-stocks-you-can-buy-an/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/764071/ai-market-growth.jpg",
-          "width": 4000,
-          "height": 2720,
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700",
+          "width": 720,
+          "height": 473,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -228,21 +228,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T07:25:00Z",
+      "publishedDateTime": "2024-02-11T06:25:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

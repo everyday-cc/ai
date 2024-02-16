@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/"
 type: article
 quality: 89
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Inviting The AI-Powered 5G Era, GIGABYTE Will Present Next-Gen Servers For AI/HPC, Telecom, And Green Computing Solution..."
+    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming t"
+    publishedDateTime: 2024-02-16T09:28:00Z
+    webUrl: "https://menafn.com/1107860492/Inviting-The-AI-Powered-5G-Era-GIGABYTE-Will-Present-Next-Gen-Servers-For-AIHPC-Telecom-And-Green-Computing-Solution"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/16/A_517bdimage_story.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
     excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"

@@ -46,22 +46,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "How To Strategize AI Implementation For Sustainable Business Growth"
-    excerpt: "Developing an artificial intelligence strategy that aligns with broader business goals and transcends mere technical considerations is crucial in 2024."
-    publishedDateTime: 2024-02-11T10:59:00Z
-    webUrl: "https://www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/"
-    ampWebUrl: "https://www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rhettpower/2024/02/11/how-to-strategize-ai-implementation-for-sustainable-business-growth/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c44aaa59632af5a469aec4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 675
-        height: 900
-        isCached: true
   - title: "Otter AI Knows What You Missed On Boring Business Calls"
     excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
     publishedDateTime: 2024-02-13T14:00:00Z

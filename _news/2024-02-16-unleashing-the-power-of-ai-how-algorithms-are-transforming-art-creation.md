@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tulsa Organization To Host Educational Event On Artificial Intelligence"
+    excerpt: "Greenwood\" is taking place on February 22 and 23 at the Greenwood Cultural Center. It is open to anyone who wants to learn about artificial intelligence."
+    publishedDateTime: 2024-02-16T10:23:00Z
+    webUrl: "https://www.newson6.com/story/65cf3775a91a290656214b27/tulsa-organization-to-host-educational-event-on-artificial-intelligence"
+    type: article
+    provider:
+      name: News on 6
+      domain: newson6.com
+    quality: 37
+    images:
+      - url: "https://hot-town-images.s3.amazonaws.com/kotv/production/2024/February/16/ai-chatgpt.1708078682287.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xItCtq+RkUBsDuUnqPvzoacIHJyr7Oafcf5Lj3pSZGszpMgzqs2Ipp7iUuwUcfG/avy4vYfRSfvoOSsKwBWPwfRw3MeQ1BS7NhUz5HdkPKOYDFj5GFEv6IGrIQXE4WRJl68BPh2uCXcByn1EBV9MuTHR5WGVqsgMe+ObfGkal4MdImslOjSX0oJFd5yZwOqwr8adOHPhnuzQB8I++arHkw0akr9lAhPfTy9PjM7hAIYMwj2BDnYXtqRTsoHug1W+RqPSoR3r3ZNRbu2QmBXNXEKJqjXzej6K1STGJFxEv1ojICZ3Xy2sJRsyM/g/bh8fVnekouTtwQ4RsSg+2DKHqEsHuBwjc8/jB5jEVT+Tbjs=;e3YaGtAz+Ldsun6PueRA2Q=="
 ---

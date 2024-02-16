@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-10-latest-windows-build-boosts-copilot-with-advanced-ai-functions.md",
+      "title": "Latest Windows build boosts Copilot with advanced AI functions",
+      "excerpt": "The release notes for Windows Insider build 26052 include notable information and updates in several areas. Chief among them is Copilot, which Microsoft hopes to use",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "originalUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything.md",
+      "title": "Meet Goody-2, the AI too ethical to discuss literally anything",
+      "excerpt": "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "originalUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/goody2.jpg?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/09/meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything/amp/",
+      "publishedDateTime": "2024-02-09T23:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-ai-is-getting-boring-and-thats-pretty-exciting.md",
       "title": "AI Is Getting Boring, And That’s Pretty Exciting",
       "excerpt": "Ironically, AI will hit its full stride only when it disappears into the software and tasks that run our businesses.",
@@ -56,10 +160,10 @@
     {
       "path": "_news/2024-02-09-this-overlooked-ai-stock-pick-is-still-surprisingly-cheap.md",
       "title": "This Overlooked AI Stock Pick Is Still Surprisingly Cheap",
-      "excerpt": "Real-time index price for TSX Composite Index (TXCX), along with buy or sell indicators, analysis, charts, historical performance, news and more",
+      "excerpt": "Charting, Price Performance, News & Related Contracts.",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -78,7 +182,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T15:31:00Z",
+      "publishedDateTime": "2024-02-09T15:19:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",
@@ -1036,101 +1140,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-the-next-chapter-of-our-gemini-era.md",
-      "title": "The next chapter of our Gemini era",
-      "excerpt": "We're bringing Gemini to more Google products.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "originalUrl": "https://deepmind.google/discover/blog/google-gemini-update-sundar-pichai-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Keyword_Social_-_1920x1080.width-1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/amp/",
-      "publishedDateTime": "2024-02-08T13:00:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini-all-the-info-you-need.md",
-      "title": "Google Bard is now Gemini: All the info you need",
-      "excerpt": "Google is going all-in on Gemini. Bard is getting rebranded to Gemini and a new Android app will replace Assistant on your phone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "originalUrl": "https://www.androidauthority.com/google-bard-gemini-name-change-3411938/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

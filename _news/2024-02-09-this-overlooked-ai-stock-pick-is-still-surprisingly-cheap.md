@@ -1,10 +1,10 @@
 ---
 category: news
 title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-excerpt: "Real-time index price for TSX Composite Index (TXCX), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-publishedDateTime: 2024-02-09T15:31:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+excerpt: "Charting, Price Performance, News & Related Contracts."
+publishedDateTime: 2024-02-09T15:19:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 792
     isCached: true
 
-secured: "5AoEkXLS9fRMw8XWtTBPM8DoOLNK255tN6xqDDeak7uf8oNZjD3N/+Nc1UJrryLtOUx6wZ07VubtxWBQ59+9cNtbgaXnwtRnVdqQKb7DjwfslT8QzxxTtjWWkK1WEHbD/Y/U9focTPXezgIFCk982HYSSHuaYp4NQqGodZZi7CZU+q7SfPjuKdi+c+ThlE3QesoiI770cS35vChsh1V2WcYOT0205/Ok29ERtF5VGb7rTltPWieTLWabPwsXo9EpgEbPQqwIle6nn/+zVR9gWzKmBHnlQt9EkPcnLoJ02O1gj94cN/ILF+g6kaYcArAJj/rdymgZaFgthN9Lp6JRamyUAVrIOlzd4178nOnzsOU=;UhPrrbUbU1/2V0cSOFKJiQ=="
+secured: "U27EdcnOutK3Kok5qgCz8+ioQlvep5Qyz3rkoPqw7WDpJ0w30gZXtlKPKM7CEXXLw39U20cGIEyxysUgARpjdFgVpaYdmtL0Gd4VdYdhb1trmh6/OzjizkUE+69VB1wnKi6TenI1Bpd3s9mk5HpK1keaBnp/Jcnw+0x/CR/Hj41WDXV32cPyBUOgRcLQpUDM/apVKBlisFKky16DUYaOAZET0IPbztKx58Y7ghbEBizaqX9Lbc3XOjFBB9BFrmoZkbZ0vCRlgCvdm/FV7b/CZv5yxUJDZpdQTITAHfgWk7zl7laNJ/TzWxb6/NYCojwVg6O4CSu/utjWHzF4WRqlFnsgL0A9qwN8HTenNYyGNDI=;rm6Gpe/dJfuWJIf44H2C8Q=="
 ---
 

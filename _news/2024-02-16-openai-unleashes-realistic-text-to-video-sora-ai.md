@@ -50,6 +50,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "OpenAI introduces AI model that turns text into video"
+    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
+    publishedDateTime: 2024-02-16T10:05:00Z
+    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
+    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 59
+    images:
+      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
+        width: 999
+        height: 599
+        isCached: true
   - title: "OpenAI debuts Sora, a tool to make instant videos from written prompts"
     excerpt: "The maker of ChatGPT on Thursday unveiled its next leap into generative artificial intelligence with a tool that instantly makes short videos in response to written commands."
     publishedDateTime: 2024-02-16T03:38:00Z

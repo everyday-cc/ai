@@ -7,7 +7,7 @@ originalUrl: "https://www.wilx.com/sports/betting/2024/02/25/michigan-vs-purdue-
 webUrl: "https://www.wilx.com/sports/betting/2024/02/25/michigan-vs-purdue-buy-college-basketball-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,34 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "SFA vs. Utah Valley February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Stephen F. Austin Ladyjacks vs. Utah Valley Wolverines women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.kcbd.com/sports/betting/2024/02/24/sfa-vs-utah-valley-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KCBD
-      domain: kcbd.com
-    quality: 22
-    images:
-      - url: "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/v2/JSGMJMCUSJOJLG4DQHB7ADH6IA.jpg?auth=a54818362309405c05c5114298eb2dbbc0dbc717f0f08f352ab2f9c7681ac897&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tulane vs. Memphis February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Tulane Green Wave vs. Memphis Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/02/24/tulane-vs-memphis-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 22
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/EKF2ERWPQBPPZPERNENJWTTLKU.jpg?auth=adad284a429a7013915456041ab414049cba1ddc46ee50df645644dba16a0dc3&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Texas vs. Kansas February 24 Tickets & Start Time"
     excerpt: "Saturday's Big 12 slate includes the Kansas Jayhawks (19-5, 7-4 Big 12) versus the Texas Longhorns (16-8, 5-6 Big 12) at 6:00 PM ET on ESPN. If you're looking to attend this game in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-11T16:24:00Z
@@ -108,34 +80,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Radford vs. Longwood February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Radford Highlanders vs. Longwood Lancers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:20:00Z
-    webUrl: "https://www.wdbj7.com/sports/betting/2024/02/24/radford-vs-longwood-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 21
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/IEME5MCMSRNG3JCZ6LIFS3GYLM.jpg?auth=8f10bb2c25b4a4d0df7f154fa65eb7134adbc4ea5a422e5df5b0dca9c8372876&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Grambling vs. Southern February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Grambling Tigers vs. Southern Jaguars women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.wafb.com/sports/betting/2024/02/24/grambling-vs-southern-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WAFB
-      domain: wafb.com
-    quality: 20
-    images:
-      - url: "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/v2/OX5OFIU3GRK3ZEKHPGW7JW7RV4.jpg?auth=ab902afaf7567328c0e80249bb96b9aae5764d45924fd7b82ef2084299d738e5&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Virginia vs. Louisville February 25 Women's Basketball Tickets & Start Time"
     excerpt: "Virginia Cavaliers vs. Louisville Cardinals women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-11T22:19:00Z
@@ -149,34 +93,6 @@ related:
       - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/MWHMFCCOCRMWXPSEHJE3IZWCYA.jpg?auth=aa3d760217493470dd348dcaf130868683d46c2d731c51c47ddaaa17fd04a53e&width=800&height=450&smart=true"
         width: 800
         height: 450
-        isCached: true
-  - title: "Louisiana vs. Texas State February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Louisiana Ragin' Cajuns vs. Texas State Bobcats women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ksla.com/sports/betting/2024/02/24/louisiana-vs-texas-state-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KSLA
-      domain: ksla.com
-    quality: 19
-    images:
-      - url: "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/v2/YURWQGBIX5IQZH6NF7QKWFWRNA.jpg?auth=1ddc4c4e788b719fc5c05b6fd86cc6cc9c19205e151658f681d200e00bc02028&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Texas State vs. Louisiana February 24 Women's Basketball Tickets & Start Time"
-    excerpt: "Texas State Bobcats vs. Louisiana Ragin' Cajuns women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T10:19:00Z
-    webUrl: "https://www.ktre.com/sports/betting/2024/02/24/texas-state-vs-louisiana-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KTRE
-      domain: ktre.com
-    quality: 19
-    images:
-      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/JH4MQCPZWRJEZCJGCPFKM27IFQ.jpg?auth=24fef1ea65c2d90ee422658934872036107895b55f52e31aa6bce30bc976ec32&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Mississippi Valley State vs. Prairie View A&M February 26 Women's Basketball Tickets & Start Time"
     excerpt: "Mississippi Valley State Delta Devils vs. Prairie View A&M Panthers women's basketball game with ticket info, start time, stats, odds and TV channel."

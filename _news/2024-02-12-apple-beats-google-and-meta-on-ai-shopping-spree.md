@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/technology/apple-beats-google-a
 webUrl: "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple’s AI startup shopping spree outpaces Google and Meta"
-    excerpt: "Some of Apple’s notable AI startup purchases over the past few years include Voysis, WaveOne, Emotient, Laserlike and more. Voysis, acquired in 2020, specialised in voice assistants that can understand natural language. This technology likely helped advance Apple’s own Siri virtual assistant."
-    publishedDateTime: 2024-02-11T10:09:00Z
-    webUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/"
-    ampWebUrl: "https://indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/apple-2023-ai-acquisitions-outpace-google-meta-9155872/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.indianexpress.com/2024/02/apple-logo.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Should you upgrade to Google One AI Premium? Its AI features and pricing explained"
     excerpt: "The Google One AI Premium plan is available to buy now and will cost you $19.99 / £18.99 / AU$32.99 a month. Unlike some other Google One plans, you can't pay annually to get a discount on the overall price, but you can cancel whenever you like."
     publishedDateTime: 2024-02-11T14:00:00Z

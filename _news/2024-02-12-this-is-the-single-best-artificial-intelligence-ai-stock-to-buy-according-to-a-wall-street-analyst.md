@@ -18,20 +18,47 @@ topics:
   - AI
 
 related:
-  - title: "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets"
-    excerpt: "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ..."
-    publishedDateTime: 2024-02-11T11:01:00Z
-    webUrl: "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/"
+  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
+    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 69
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "The 3 Best AI Stocks to Buy in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the"
+    publishedDateTime: 2024-02-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Best AI stocks in 2024 for performance"
+    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 41
     images:
-      - url: "https://g.foolcdn.com/editorial/images/764004/gettyimages-1399446122-1200x800-5b2df79.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
+        width: 2560
+        height: 1440
         isCached: true
+  - title: "The AI Chip Game Part 2"
+    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 34
 
 secured: "nmnLlhIQey1oajyEYIiHSTNEzbPho+TpZnkHpF/MFXXZyclcFq9wZbmXSZJKm79/ugwBEdS487eG2DrgZd9SMnyBRhkPueSzDpNrvm0cJ+jbXKt4LSWBxkE60C80488BvYFCmqUkR3YRUVurxV5VNRpRiTHJbCFAjKQSqqvjRWntBilDda1+jxaJAvyg8nz9kWs+v/3Gin27sNbaDG5RNPCmKXhnryMj+tgXzjnCXERkhKTEQ+M3hecnCKqc3HtKXrYnSFtXsitWxYXXcePREm7M8/5pI/jJTYEDnAd2wof0j3LKn++f7uVh8elg+FXQnL1ElW/h02E/904TbKtEE+H2kHPzq+0g+h0io7Eopppj/ndJRGZcIGEZbxdZddmA3mEcxz1/6RLp7bM/BkAfICyT6BKbBnwrR1nQpu/tYzfA1yjP7YMar/wpVFkK0WrP4ISFcSHLQnu+e8iiFUUvFH3gv/f29+JBk+bp4qM1iFl4gPx6uV1Bo1cnunwKFItncH8sH3dhWCX/vJqutnmvIA==;s6rGHO5cqfcUe54r99RiJg=="
 ---
