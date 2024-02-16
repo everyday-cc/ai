@@ -30,7 +30,7 @@ related:
     provider:
       name: Government Technology
       domain: govtech.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/6d588da/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2F01%2F5f898d9b4d8fb7064e830695e97c%2Funiversity-of-pennsylvania.jpg"
         width: 1440

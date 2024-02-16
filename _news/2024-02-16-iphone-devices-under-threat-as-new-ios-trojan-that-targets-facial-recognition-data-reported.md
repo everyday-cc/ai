@@ -59,20 +59,24 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "GoldPickaxe Malware Steals Facial Recognition Data Of IOS Users"
+    excerpt: "(RTTNews) - Cybersecurity company, Group-IB's researchers found a new set of aggressive trojans named GoldPickaxe, targeting iPhone and iPad users by stealing their facial recognition data to break into their bank accounts."
+    publishedDateTime: 2024-02-16T21:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/goldpickaxe-malware-steals-facial-recognition-data-of-ios-users-1033077343"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
     excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
     publishedDateTime: 2024-02-16T00:13:00Z
-    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
+    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
     type: article
     provider:
       name: 9to5Mac
       domain: 9to5mac.com
-    quality: 47
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-generic-trojan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
+    quality: 27
 
 secured: "0V0FrFzaKFwWfxDNB9sta92SM9Cb3iS5gdmwTFCmlSMtEbF5Y9Dr1FA2v5sE0obTF3sSiDjmEUzizhvn/8YLF0DmB2AU7BQLVAq7Qdq7qHg7nT1WTesgR4EPv7uf4QfARwoBcrFbrs/ekew8l3MUP5pr+kKwTe4PTltCIUrfU7tKS2BmDO3/H1npeJpBJCd2lgq7fHbHdcvjp/MH/0YbioXDO0e2nkvGV4mApd6ayM66j9/qiokWtK2B/CuTHWBzmv2IFFtcyySfFqNFlV8gBi6QAYC+VQnW4ParaDRstlWECHewETVEaCh7GJ2r0vGKwUT0kDvDv51JQ1fU2YNKQT+sP3HcPgDY/H1J4vw2No0=;KK2C07vbM3D7JgImFlJlxg=="
 ---

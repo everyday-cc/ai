@@ -74,6 +74,24 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 21
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
+    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
+    publishedDateTime: 2024-02-16T19:40:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
 secured: "+1DrXjQRTz/2UpXE0lizZKVAZkwyFQ/u0u7oSspJ87AXcv4/jmqhpftZr5zkIXAXOuxFpWlMCqZiNA/qxugpWghH1EYYwNk0JM9J6Yb7EYRd57xDe3EUl4OE0hrPS+zlCwv/KxPCuqLWJwIKx14AnTlj7LPWKSn6COyxWsQVeY1pyDniCTA+WH4io9N7BDqf+1HwnxMWx6wm4HpskVCV9Q6D1LO+TtKn6XzQNnTAQK/o4sPDTC8anzo4ioIzjLRFXQjVheAFARnKJ4gik05uZ7QiK/LDbskjOb9rCkk2x1+yQBctaiJ5WsmoaLpHIL1gPh5YmHJRrZIVjb9XMg5II1ApjW/pNuRK7o8S6rgU9mIbT6VBPuVO20PoK1gp7H3w8wTjLzJaez76m5z1E+K7JR0/7aJlclGIJWDvwTin0IkRverbTnbQmh3/U3i+jNQvUOUt+6+edm2EyJwrLf0Kli0ejCumyIuboa8LoETnWvz+Z12w+l9bSPMGm44DlD20m+5gjCSf90xCm2Z+Oca1CA==;8MoP4PSYTkduYoAtmsumgA=="
 ---

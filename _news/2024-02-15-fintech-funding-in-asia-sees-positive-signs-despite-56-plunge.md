@@ -91,6 +91,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "Australia Fintech Activity Declines Amidst Global Slowdown – Research Report"
+    excerpt: "Australia saw a 76% drop in fintech deal value \"in 2023 to US$587.5 million, while the deal count fell by a third to 95 transactions.\""
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221470-australia-fintech-activity-declines-amidst-global-slowdown-research-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
 
 secured: "x9I13MyrL3Fh9LQjWBrjm9TdkMaFRGPwgo819p7xx5tw+DGjq9l/LlJlff6PIO7VOl6zscN+7dgnyi4q/CLs4LdAY0hDGaKGqpnfCnl6OhmgmdwpT0pd408uQpx3Ry+6oxl5UbSp1aYlFmIjrIEBoM/qWcTh4DCLW5ZOVP8/eDSoC34QTtE6hvSCYyBWsq2J3PYNLxDTWyhA2AX+Ja36M+e8RgQAi13pcA3NWdnGPMbubtVN08p03jjdIxUV3IBgu3AnPaxVVnbj+5O4pghbLRkxgoD7pTl/5Bz2+Gh2oB1C+B9a9AocdSOhOkE6x9TudgfQfqAFtU7q60HISqUF0Y4JR/xx98TSfg3EcETlCik=;FFALvmRWp+NZOwIBP6ICXg=="
 ---

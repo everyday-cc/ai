@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Widespread machine learning methods behind 'link prediction' are performing very poorly"
+    excerpt: "New research establishes that the metric used to measure link prediction performance is missing crucial information, and link prediction tasks are performing significantly worse than popular literature indicates."
+    publishedDateTime: 2024-02-16T19:50:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240212153531.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Widespread machine learning methods behind ‘link prediction’ are performing very poorly"
     excerpt: "New research in the Proceedings of the National Academy of Sciences establishes that the metric used to measure link prediction performance is missing crucial information, and link prediction tasks are performing significantly worse than popular literature indicates."
     publishedDateTime: 2024-02-11T23:59:00Z

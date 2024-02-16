@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
 webUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
   - Meta AI
-
-related:
-  - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
-    excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
-    publishedDateTime: 2024-02-13T00:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "OnmxS1WC1rL6HlL49jC8QlRUxZwJLK4JBrbSfzr0KZxpLVBUVnKojm7ZbEQgHkUgwQjUREzke3qmP3AKKVrkWtKvcJC82T2ymxYcFyCTv1/bUmb82JyIkTRUlvEEnn6F13giFDUc1bEOvZzbfvzGpDg1Ayq6lDdQbGTk7FuTgqzn/ytqj3G9I8E6CbFKRZ21uoZaL9VN6I1b0Iv4iBGcAnqYLodYexhsw0QqmgIjtSYvYPxGKPPbBl7p2YfQ1A+QFNXi2mWNMoQxAW+3gpXVe0Zdl2EnDrptnXx5RULx9dWeVVkuXBbwY3Mj6plFzf9ug0+63g176uFiP6digFCc7PEfuUZG5HFQNqgfqo2hvOrFjYgUuL3MI5jOZQkpO4aUx1fyrTto2tV+xngDHi7d4mTscz4XVlakOw0wLVjTJo21ygQ56b2BA4D01pIWQCe2zXQMSryawI61iDztgn98IGCmCsXJU/0BtKIgcC/DGncU0675lRss3v+0/Y3srXbIAKksJ2+zflM2Sb8yheobCw==;rU2DD/R4QJx3aUttcIIQFw=="
 ---

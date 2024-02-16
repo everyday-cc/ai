@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Virginia vs. Louisville February 25 Women's Basketball Tickets & Start Time"
-    excerpt: "Virginia Cavaliers vs. Louisville Cardinals women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-11T22:19:00Z
-    webUrl: "https://www.wdbj7.com/sports/betting/2024/02/25/virginia-vs-louisville-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 20
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/v2/MWHMFCCOCRMWXPSEHJE3IZWCYA.jpg?auth=aa3d760217493470dd348dcaf130868683d46c2d731c51c47ddaaa17fd04a53e&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
   - title: "South Florida vs. SMU February 25 Tickets & Start Time"
     excerpt: "The SMU Mustangs (17-7, 8-3 AAC) meet a fellow AAC team, the South Florida Bulls (17-5, 10-1 AAC), on Sunday, February 25, 2024 at Yuengling Center. The game will begin at 12:00 PM ET and you can watch via ESPNU."
     publishedDateTime: 2024-02-12T14:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vanda
 webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
+    excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
+    publishedDateTime: 2024-02-13T14:25:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
     excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
     publishedDateTime: 2024-02-13T23:14:00Z

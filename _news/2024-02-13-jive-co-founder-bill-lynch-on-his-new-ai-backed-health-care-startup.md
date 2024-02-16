@@ -58,6 +58,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "Hartford HealthCare launches new center to use artificial intelligence in hospitals"
+    excerpt: "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays."
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php?src=sthplocal"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 28
 
 secured: "ofn4bKeJEh5013KjvOkNgHz/jNjoQEzgs+JZgfhs7vIRqlj0HTggpsh3ZnU7qVVsAZ75WKAYfxVv6sk6DaM18nghASb1JhzEzaBgW0e07/dBEdH1jjMFcQF7OE5bdMrieuGZzkhnWCuAExdeBqffsU8X418YTBvVbWHDfvKoQADSOu9fI9C7ZE1eVNEjAkT0Z4K2Um6C24Ewwr9eawL28hO1DanzsobiM03nq+83X6HiI3vpXPmEO0yZfScyl+AeDy74MCiWn3AV703iNoEqN2oLkC+g9Y2QbLyv6TvNc+thxAdjQzbqTclfqrzr3CoWo9Hyf+8UcOzjNK9z81echcZDwNyZ6UUL3hn6JdizQWE=;Kw1MpKJS7IxAcF+3dZ/NKQ=="
 ---

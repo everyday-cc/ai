@@ -74,7 +74,25 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 21
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
+    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
+    publishedDateTime: 2024-02-16T19:40:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
-secured: "s6Nm/7b5Y28QbeHg3HCGD7qt//a8Ze2uSk+oo2H6yTeZ4qPIwvXqsUzrXFmw9KQDBPfkU0oSMrzsZRbk1WD9QYzgmH6NcdP8qa/sDcvXDpRlc6bXCJu5cIv9Vr9xqB+busLxA7vNFNy7iGpkmecPyVhZjeFwFz1Rp8MWOk2UzZ9Aa9eFw1e28FckY0JyOx40FItufhVzUihAWhWEQNHLfA5uiKqL9tMoBAuvV8hsVRB7K65KMm9DPrPCNt8FAjneKiCekmt1wn/cvrKErYP6/iPLPS+PZVPz+qevzPbayQU8IrG1VbaRu3Kl7ltV8aKYAYJD8sMT1cHtC0DU0GFLbRrYqU+RxZau1WrPDmlpQ+Q=;9xuyoNkfAXr6PzZfGK7cQg=="
+secured: "DILt/9kKY3Jii+ukopU5Sx7VJMbTVIlvgta8WTjUxpOwt+BIbn3lfycuU96rv0BkcBJy78U2vRJqQl9KEf3TvM9xWB1YMBIuGXekMmIgnbs/+Sd7i0e80E+XG5K0OQtkFQ3pYgWdnoy3n8L9ij5ZCLttf8NVhnXeIGhhrKuys3QMHWeYvqm/ziLmdTpXdktcH4cWWQ6fjXeFywZly17bvSprZ3nUaxi3/a/R4ufpOXhage6yGxZCPlwUw+HR511j4WWayTpWzb3VpMmKOLF6eRdSD1Zb26rUECr6E94bsYtUVOiYNHZLW6vxS6mAvOFF8g60QkDCLCU3mdosBl+L83pVJONzV5Bs038DAOmubUbLVTwXVNLhc16jyeVbFW8/cb9utjJ/7Hl3eOnbZ/431CwwC7nMFhJqDFFKI8jW8pEnTrlj0Sg9zqgqOVQ+8WFdZ09KTWWynPcbYBAnI584mMkRfnfVV1SN4kfd1vKAapA3wTxrPp+Sd+iztERxEIpJNyVXRRFaEyGHFeUFgbSeXA==;P90sb5piy68BB8GtIqzjwA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "OpenAI's new text-to-video tool, Sora, has one artificial intelligence expert \"terrified\""
+    excerpt: "Another groundbreaking generative artificial intelligence tool from the company behind ChatGPT unveiled Thursday is expected to accelerate the proliferation of deepfake videos and have implications for virtually every industry. Sora, an AI application that ..."
+    publishedDateTime: 2024-02-16T22:19:00Z
+    webUrl: "https://www.cbsnews.com/news/openai-sora-text-to-video-tool/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/openai-sora-text-to-video-tool/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 63
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/16/06bdbde2-d331-421b-9b02-dfcb40887307/thumbnail/1200x630/68b8f18388648d7a0794e56790213d64/gettyimages-2006246488.jpg?v=2a01790210e495d24a119503c08f840d"
+        width: 1200
+        height: 630
         isCached: true
   - title: "OpenAI introduces AI model that turns text into video"
     excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"

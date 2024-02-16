@@ -230,6 +230,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 57
+  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
+    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 56
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
     excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
     publishedDateTime: 2024-02-12T05:40:00Z
@@ -364,6 +378,6 @@ related:
       domain: upi.com
     quality: 33
 
-secured: "ZJ9UeqgNY3a9KmwwESoEvk3bqRQeHWO5KtT8wRa6lXgFgUqjUSlKO6SFkHNAAfK4MulunfmtfvFYfgkYD/XXmp63t+ptu6W0osLYhhUAq64CYIYP8Vir8YIZ6fO9/qGieqgfwH75BtVuE5lyrQVC53OOaxG7rW+thvgMSGbUXKC7QE99OsRWPOa8Amsqg80V1fMAw3eaJ4ifwSsXE1ayYFPTm3ZC783UN8twMb8QmtaMOQq78msUD0scxy3Vg/7WpNqElJXod7R5WgraUzvi2FAtD7Km4VwVlwZKJ36TwmZ+z8yyEdYarE9teOh809cHGlesXOm8w0ILlSt05mLj0zeYP2P80QILA6VzSsZaT9o=;VGx/70VgPFu+2XFv+yI7Dg=="
+secured: "7IceDXPfJraoWlwNsNo0jJBTY2BuN7l4J+mSJTKLUHYTkJYBAhBYXg8F4qSPvlVNufhB0j08vQz2SKrhUPIMlArCcxa7qo2DTT1cPPEpXvlKMkLhZVzaPZyif/CE+5aYNAnYDPIN1cGy1EVdWLUlYDaELe2MmNTvF5qsAYyBiBTy1ckvCeqJ8FsHkJhSHGMDOIfkmPGjTY8VuQxKw3wfhn/DjuGr7mJ/9ig8jT3Du+ObhSAp49qH6oyk+A1/dLbwOWllWAiLgTX6nQUKiAXj+NGpbkRbK4RSRF4Wcme2P751UF5hWDp4NfqRtn9TWg0Uv589wUj8McKfftwitxLNJwsILZZZ4xh8MFKs4l+EgD0=;4AC9gYmnwdPfaGfqACPSow=="
 ---
 

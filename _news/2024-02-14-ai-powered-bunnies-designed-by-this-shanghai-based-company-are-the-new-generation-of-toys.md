@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Tech companies sign accord to combat AI-generated election trickery"
+    excerpt: "Major technology companies signed a pact Friday to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to disrupt democratic elections around the world"
+    publishedDateTime: 2024-02-16T11:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2024/02/16/ai-generated-election-deepfakes-munich-accord-meta-google-microsoft-tiktok-x/9fe5a30c-ccef-11ee-aa8e-1e5794a4b2d6_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQ45YCWM54I65KUODZLZJJFS2Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
     excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
     publishedDateTime: 2024-02-14T14:39:00Z

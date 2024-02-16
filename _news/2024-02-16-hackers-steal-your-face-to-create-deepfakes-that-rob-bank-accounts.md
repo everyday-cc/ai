@@ -75,6 +75,24 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
+    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
+    publishedDateTime: 2024-02-16T19:40:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
 secured: "iX0sUDhRgN7eAHOv7iLXo/h4G61RKaf/kE6cu7bttFvAqbg5BZku2f+hWmOSD8GzpmjGpL2DVaViaI4sPdV97usNRvyZ/z95w+wQh4uFgD3otr0UposoxVHd7U5Z/Us7ugm4W0U+WHc8eXX7Q9w7Nfts/w1VE6L0Lko8Y78CjqcmZIaYb7mlKX2IgOPxSmVsPXDrdkoaBSlfCSX63gjMHrQct1s1XHrZKAxy3+T4qwAAS8d4t5vbN1TFlQmmeQLJN06/jqLjcOYyDc7QmrZ/3bWUsebp7aWLAN7WxdGMCcCFw7YJZ9wzPL8aBM0OFXcj4CU5AwKvTMIzwTewoo9apQ+H+bZxMx5MWZVYOQM9q905SuDjqgjwAuuNfGr4V0iCS205/N4YPYuepmini92ISpV9S0PFoKYrxc8wHftjKaJq0bufqdWuC+Sris5N7yHsypu2kVIaVVqFBa+zf2zrkghLozOD97ptB5IcA9rZhAjQBya86sBQOq92bxBq3Zpk7Df1jrzIHcrXpq2KwEmnuw==;7WQ91PFexKtfVLs3mOzS7A=="
 ---

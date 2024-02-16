@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -78,6 +78,24 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 21
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
+  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
+    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
+    publishedDateTime: 2024-02-16T19:40:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 2
 
 secured: "sWO4x6Rd1QbJo2wuJx6g0VXrSFfLWefHsX+ZT+UAlc/K4p94k4iyaFz8qW8Pp8xYDFhlPOcZvVkYbiEko1IvjaeQTtwc9MB+ZXEE0s0oCr3oESrBzLwFCQ/PFFnq1ZbMQp2dimP1mkZ9SP23RaOzmyH41azqOV/mCubfsFWLUnWLQSAYpFZngZceMH7fLqzOajdqlVMAaw9NRvcioQR8O8uumnQRTThOovMsk/DC03AKPkphtdm7L7bpUHnmpxYoSWt3vHVFrJZOzT8jJapaHdD8lmWVPjEMbQ5TFmzf/mZot5VuqIEe1D8L+q9HTRrCakp1gB6ESbMfk4LwUbdh7xGAcMOKb2StEnZJLcqYx5wzcMkSvwX4rJt7CVDj/s/MDPtnJ8HyoSktK4lcUXg1iC+dSLbuV5d50j5S9VTwswv/9yM2q+aB7Ns5FlxZgK2Byslj2cSZrhuAHPH4V0wKN6P2YIC5c/C+4NtETs7dHyf67n0AF2KuAtUrXeO59/5goiCIU1BYFfxyRl9Bp3fCpQ==;qBnXkm/A8POGtH7NEdy1Bg=="
 ---

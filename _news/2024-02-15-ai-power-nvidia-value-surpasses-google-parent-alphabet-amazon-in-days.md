@@ -92,6 +92,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
+    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
+    publishedDateTime: 2024-02-16T19:33:00Z
+    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
   - title: "Nvidia's investments in these AI companies sent their stocks soaring"
     excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
     publishedDateTime: 2024-02-15T18:54:00Z

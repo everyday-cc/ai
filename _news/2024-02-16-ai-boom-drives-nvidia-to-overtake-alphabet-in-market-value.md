@@ -81,6 +81,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
+    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
+    publishedDateTime: 2024-02-16T19:33:00Z
+    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
   - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
     excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
     publishedDateTime: 2024-02-15T12:29:00Z

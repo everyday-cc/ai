@@ -2,25 +2,27 @@
 category: news
 title: "Tech giants pledge action against deceptive AI in elections"
 excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."
-publishedDateTime: 2024-02-16T17:15:00Z
-originalUrl: "https://www.npr.org/2024/02/16/1232001889/ai-deepfakes-election-tech-accord"
-webUrl: "https://www.npr.org/2024/02/16/1232001889/ai-deepfakes-election-tech-accord"
+publishedDateTime: 2024-02-16T22:15:00Z
+originalUrl: "https://www.tpr.org/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections"
+webUrl: "https://www.tpr.org/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections"
+ampWebUrl: "https://www.tpr.org/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections?_amp=true"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: NPR
-  domain: npr.org
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - AI
 
 images:
-  - url: "https://media.npr.org/assets/img/2024/02/16/ap24023546723486_wide-66ebfbe3c7412e739b03242164d25cd081382efe-s1400-c100.jpg"
-    width: 1400
-    height: 787
+  - url: "https://npr.brightspotcdn.com/dims4/default/8cc2114/2147483647/strip/true/crop/6351x3912+0+121/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F16%2Fap24023546723486_custom-e80192e3c508d3c5a9edd40d01d5255d4d77888d.jpg"
+    width: 880
+    height: 542
     isCached: true
 
 related:
@@ -59,6 +61,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "XVdG1N/BFNu2W0mLYTsaKAWNjeFnkFG3ih0GuQ/5BqKxTMJaiAvR/z5eRwQ1tj5kVeTen+kEWQ01mdnb2TMxx0Zq1NVB6xxkXYPL9vztJ4s+y58fstRM83AzCDKvjxKNRT+TYTIEOA0rPucVsOtxJOBqx+5QIR7jH32YjRlgExKqS4tWCyGixBn9iWxlhGR3aWoPMEgPMHIkati0jWlOs+Rs/0mBFKtoYVe9fwvlo9sXJ52QxbCrjq2xh7eCjZNAxv7rqVrBYi0JtAcrTYNAxFCmLDkEOxmTy1mle0oEuepxOY8wkreRvZ4n4yEUC3dgpINZRODOf2oZsOfmFFxLkH0HD7rJrkHp0DDc4i7QgHU=;HydhsUt+qfXGXagn4PeLTQ=="
+secured: "k3aUWjaYtumFrLL2S89OLlSDBb/ALK2ShZkXQo0MN+ifMzKJzDkj/nxq4FybbIU9/iRIj1hA5FG6OYxewBQ+nZmFwNFfrDvD2Hm5wXBX4zPqD6K75Cnc1E0k77o/8uY4WfgzGrjMC0LaRm/FIPqwBQEITfqNtzYAibJdV3DvqOdmfSVCruWNWfez8kTBvC+Sc6PQC0epTrDbzm54SFoaaQQgsuetexFigg/PVtcV8kmWCuIvArRwo5QTk2Ie+IVttMLcWOFX8zjU8SjGMPlWc8g471HxwtYVasgNUc5TctM58y+gYB1ojWuExiszcYeM7RVu3FF5Yogytm+vGTYfN3gC3bencRe0M3Ze+CMuxcw=;6CbafOQXLpJU3xzJvf2C3w=="
 ---
 

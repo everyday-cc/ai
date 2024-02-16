@@ -38,7 +38,7 @@ related:
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
     publishedDateTime: 2024-02-11T23:31:00Z
-    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
+    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=am-quickie.ghost.io"
     type: article
     provider:
       name: Reuters
@@ -94,6 +94,15 @@ related:
       name: NBC Los Angeles
       domain: nbclosangeles.com
     quality: 19
+  - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
+    excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
+    publishedDateTime: 2024-02-16T20:28:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/02/16/waymo-software-recall-phoenix-crashes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "kgSUj2lbVVlA+un8M227tWuDQPIqpcPqK9aCWvBgPgXt2rm60Uu7+Dm/zIEmzaiTskIQvaWpqDFAzNnfZdXdQPNiWpd58mLz2OeoaSncwdVzGl7mWPWyFWhFHSjOxJRtXXBNQjfAAnj0Xl96xeuLQboYOWbaP7AJcfLzoEH/dYZz0P/GOt6mikt+c7ODoil8bywluuZKAx/cdFy+2B4g1HtloqAScBxcbaFOb6Y3WZfFF2SmZs7Q0vFRH1onqDBXs6n+tdvfRG61Af8tdth+Qt9TU2ljcNXNAOrsTBdGjl6BieTFbqd3J2/yr9k5tGmrR9BAfR7kfsV+JjuGHOj+zC1otHBjZYxazYiQyVZncQb3Bqp/k0lcSjfRAJ/QATALuGm2daAv7dd1n98HUu3eyWgTd8lKR3LVvogyjd3n/ZafQecFNX34ybF93uGyTDWA003yCA3i9TtwKyYJmH+Pos3YU0lMUesPlwucz2AksP1pFukAAPJ6j+PoReqXkXgyuu9I80mSHL838Q4mQOFIWQ==;JwJzikFFU/36p3uP+q5kWw=="
 ---

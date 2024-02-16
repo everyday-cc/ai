@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "New Hampshire CIO Talks Privacy, AI and Modernization"
-    excerpt: "The state will also need to examine how existing privacy laws affect potential AI use cases. New Hampshire has released its Code of Ethics for AI Systems, and IT has been trying to help state officials understand potential business cases for AI and how to ..."
-    publishedDateTime: 2024-02-15T00:00:00Z
-    webUrl: "https://www.govtech.com/workforce/new-hampshire-cio-talks-privacy-ai-and-modernization"
+  - title: "The AI Alliance: How To Make Friends And Influence AI Policy"
+    excerpt: "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership."
+    publishedDateTime: 2024-02-16T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 870
+        height: 580
+        isCached: true
+  - title: "Spotlight on Excellence: Profiles of Top AI Influencers"
+    excerpt: "The world of Artificial Intelligence (AI) is rapidly evolving, with new discoveries and advancements occurring every day. It's a dynamic landscape, shaped"
+    publishedDateTime: 2024-02-14T18:01:00Z
+    webUrl: "https://nerdbot.com/2024/02/14/spotlight-on-excellence-profiles-of-top-ai-influencers/"
+    type: article
+    provider:
+      name: Nerdbot
+      domain: nerdbot.com
     quality: 39
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/8558f08/2147483647/strip/true/crop/940x457+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F0f%2F78%2F1b3660e6155cc640f72647ba3612%2Fdenis-goulet-new-hampshire.jpg"
-        width: 1440
-        height: 700
+      - url: "https://nerdbot.com/wp-content/uploads/2023/10/medium-shot-girl-recording-video-with-smartphone-freepik-vlog-tiktok-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "PCJyGA8fcv0lIuVEwdMyYYGXmt0e5TBv3ildvpDO6qX1+8f0yyof+oMQ+GEdni140QXw7fhf3gGQC+3qBw9KdwNzH5EdwM31cfO9cH3JPELrOit1mjgb32z7yfJwIwevyco16ooReGi7a0+ukALE5XrWOee4G5+F/TNOE39TWD5NqE0xszI+4F8J1X9V1NMmxHhmx4XoISDpbCmMQBDvjmnVCYuYfAae2uGOWp6QqvUzWwGk6T5dT4kXjM08TGNJLur6w/vLESvwI3e2vVvAXT33Hn1w6aqmk39G0oSLNDdqKbmW59t1UDu+JNXVIY7ZyAMcVAyokBUlnLTqx24vr3u1KNdFCD58v5WyxcpGJLI=;TDkvg/tbZNzhFerTHvwh9Q=="

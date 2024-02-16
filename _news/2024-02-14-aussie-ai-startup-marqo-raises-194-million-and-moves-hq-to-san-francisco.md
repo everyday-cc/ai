@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
+    excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
+    publishedDateTime: 2024-02-13T14:25:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
     excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
     publishedDateTime: 2024-02-12T12:13:00Z

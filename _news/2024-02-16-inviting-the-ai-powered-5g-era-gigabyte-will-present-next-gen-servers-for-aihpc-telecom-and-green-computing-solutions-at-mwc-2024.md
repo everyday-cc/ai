@@ -35,6 +35,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "New computer chip enables AI computing at the speed of light"
+    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
+    publishedDateTime: 2024-02-16T21:17:00Z
+    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 54
+    images:
+      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
+        width: 2500
+        height: 1756
+        isCached: true
   - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
     excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
     publishedDateTime: 2024-02-14T23:18:00Z
@@ -49,6 +63,24 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Accommodating artificial intelligence: how AI fits into UA classrooms"
+    excerpt: "Without a clearly defined set of guidelines dictating the use of artificial intelligence in classrooms at the University of Arizona, instructors and students alike are working together to explore the potential benefits and risks of AI. The UA is left ..."
+    publishedDateTime: 2024-02-11T23:59:00Z
+    webUrl: "https://wildcat.arizona.edu/153215/news/n-ua-policy/"
+    type: article
+    provider:
+      name: Arizona Daily Wildcat
+      domain: arizona.edu
+    quality: 34
+  - title: "A degree in artificial intelligence: Penn becomes first Ivy to offer AI major for undergrads"
+    excerpt: "Students pursuing the B.S.E will take high-level courses from topics like computing algorithms, machine learning, data analytics and advanced robotics, the university said. Intro courses include \"Introduction to Artificial Intelligence\" and \"Data ..."
+    publishedDateTime: 2024-02-15T23:28:00Z
+    webUrl: "https://www.freep.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 23
   - title: "Inviting The AI-Powered 5G Era, GIGABYTE Will Present Next-Gen Servers For AI/HPC, Telecom, And Green Computing Solution..."
     excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming t"
     publishedDateTime: 2024-02-16T09:28:00Z

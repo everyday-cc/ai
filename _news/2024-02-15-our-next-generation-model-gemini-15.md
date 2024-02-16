@@ -132,6 +132,20 @@ related:
         width: 1280
         height: 712
         isCached: true
+  - title: "ChatGPT vs. Google Gemini"
+    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
+    publishedDateTime: 2024-02-16T20:38:00Z
+    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Google Introduces Gemini AI App to More Countries"
     excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
     publishedDateTime: 2024-02-15T06:20:00Z
@@ -145,20 +159,6 @@ related:
       - url: "https://techreport.com/wp-content/uploads/2024/02/malware-7020225_1280-1-300x215.png"
         width: 300
         height: 215
-        isCached: true
-  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
-    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
-    publishedDateTime: 2024-02-11T22:25:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
-        width: 2100
-        height: 1400
         isCached: true
   - title: "Gemini 1.5 is much more than a new foundation model"
     excerpt: "The pace is on at Google Deepmind, it is already coming out with Gemini 1.5 within months of the launch of Gemini 1.0. It sounds like a new version of an"
@@ -211,6 +211,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "joQBx7c/T3fD71iO0Ds7YHMeFcOCPiw0ZYBojrAbuJw2ML3NoZ2gJQaBQC9ulmPOgnV0iLPACOmv2Bz4MWx4JsnjnpRst3iInhOD6XbeXQJq1/2CSxdYei8Oi5RjT6x6v8MlJPGFdjni+AQRaQSHW+RboGwFCUS2rUeHFJ1dowOV44VYh+gdICcaiMh0x6fB5bCu3g7ckIvajEKyMU9aKRKMeWYCe2C7vEDnjE1n8xH5Oa6ppoFWBp3V5IHVKz3RZov63Jk1aREPx+0Q+T6tJ3p4ld3q1qkB1TYcTYaz2AMRHbY6sDYmN+xuD7eU/7qGkG/3o/DCdNNfPqoU5No32HqP+XajFd6ttgBq3cOjdsI=;u64CkwTXk4kWHkPgJZEhNA=="
+secured: "nNiSabTq7upp9BD8SXGvzyI/aVm3UGL41//7HtNoPfjUrvulptlUdTxyxn4ZbFn21nb5wJDa7oGOGDHpOcMei0jhFZ1XUi2hX10PVjVf69HBtoR3LFipsw0lG6fpkLGpJ6sJcXOQGAJ9V7xEzDrhgSueZ503UsrzUS9m/WMvMONv7hCCRMjOXcUe6vdTZe3/fU2Ra0TaDfAA3Zf58x2bfhNKe7608lBMN/N6U/bMzqy8v8xuCLtyi3/MYCyUNxrDzD9mhflDzs9DdMOcmAczHM/A2ovzPu3BU6Mem8ajft6+U4DqZARoTdhcoVZiMHNuGeSf5dqluTivxGNO+IQ8LLsdA8YpRll2mIEwOjeu+Bw=;7EITJ/xuruw5GLuXAQBUGw=="
 ---
 

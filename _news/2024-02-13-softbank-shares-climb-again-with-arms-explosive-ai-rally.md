@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares
 webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -22,15 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "Is Arm really an AI stock?"
-    excerpt: "It’s been a big week for the chip designer Arm Holdings. Since the company’s earnings call last Wednesday, the stock has just about doubled:"
-    publishedDateTime: 2024-02-13T06:31:00Z
-    webUrl: "https://www.ft.com/content/e585533d-fed8-44dc-8a4a-b08ff7f65e1f"
+  - title: "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News"
+    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T18:56:00Z
+    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: Reuters
+      domain: reuters.com
+    quality: 61
+  - title: "SoftBank's Son Is Seeking About $100 Billion for AI Chip Venture - Bloomberg News"
+    excerpt: "(Reuters) - SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp, Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T19:56:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/softbanks-son-is-seeking-about-100-billion-for-ai-chip-venture-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
 
 secured: "fL6SMseQEeoMVRJ7U/m1zFBJp/qSrVKrduPDar4aVO0PkEi8RYKlSkVHQNA/3GCbqAK/B65u54v+SULIFQlCMRtjVFe1hV81m+twgwgXLzKKoW8Ts6PYX+c0XyrSgbEO3/tTBfoRNXovyWXQGuo8c0h+zM/j/Q7d/vhQY1OwEgNq9ZEkOI52wlcxnyxbh3wItTKmsoilmPIEkW2dGKYtcxHLCZPnAX4b2jACw3i+oliQtl8B8I3wNDze3NHW/e7GgeiXwixFs2CSM766q9DKFgOSQs8IZwUArkiOOUdeFl+ZnejbB/pYyn7kPwFY5XigCWZrxGw69Vg3D7B0ER58ptggcZmLmpzloG/bLJ1h2V68Uv97BLMbM5jIwfV+NwVcvN1DgiNcUSDr/ZKBpfPzzQ4Dha7JD/N0MjBGCPh8FCtf/dNlcW9hsdq0eron6oKyXhGHMIoJh0UfzVHIdorB80VWCy8+9EK5u1iRo6WIISLVAvc+R+G+cjLzcMN57x9fMLupVhr8BfcX6r+OiVgQvQ==;Ebv64CQVNe7mJ4lFSDdzsg=="
 ---

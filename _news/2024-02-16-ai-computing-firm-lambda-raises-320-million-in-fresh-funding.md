@@ -9,7 +9,7 @@ ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-co
 cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 19
+  - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
+    excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
+    publishedDateTime: 2024-02-16T19:20:00Z
+    webUrl: "https://www.nextplatform.com/2024/02/16/lambda-snags-320-million-to-grow-its-rent-a-gpu-cloud/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
     quality: 19
   - title: "AI Compute Startup Lambda Hits $1.5B Valuation After Massive $320M Raise"
     excerpt: "In a round that marks the largest by an AI startup this year, cloud computing services and hardware for training artificial intelligence software provider Lambda hit unicorn status after a $320 million Series C."

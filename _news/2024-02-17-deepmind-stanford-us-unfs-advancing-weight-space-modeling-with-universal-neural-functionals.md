@@ -8,8 +8,8 @@ webUrl: "https://syncedreview.com/2024/02/16/deepmind-stanford-us-unfs-advancing
 ampWebUrl: "https://syncedreview.com/2024/02/16/deepmind-stanford-us-unfs-advancing-weight-space-modeling-with-universal-neural-functionals/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2024/02/16/deepmind-stanford-us-unfs-advancing-weight-space-modeling-with-universal-neural-functionals/amp/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2024/02/image-14.png?fit=793%2C448&ssl=1"

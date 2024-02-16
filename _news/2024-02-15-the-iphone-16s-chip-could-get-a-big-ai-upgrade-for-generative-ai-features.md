@@ -418,6 +418,15 @@ related:
       name: DataBreachToday
       domain: databreachtoday.com
     quality: 17
+  - title: "Navigating the AI Career Maze"
+    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
+    publishedDateTime: 2024-02-16T20:18:00Z
+    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
+    type: article
+    provider:
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 17
   - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
     excerpt: "Learn more about the Alteryx and Databricks partnership here."
     publishedDateTime: 2024-02-14T14:22:00Z

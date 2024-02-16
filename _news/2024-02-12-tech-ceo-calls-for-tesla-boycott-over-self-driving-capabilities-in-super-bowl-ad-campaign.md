@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boy
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
 type: article
 quality: 65
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Boycott Tesla’ Super Bowl ads target self-driving technology"
-    excerpt: "(The Hill) – A pair of Super Bowl ads went after Tesla’s self-driving technology on Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a 2023 Super Bowl ad campaign, which featured ..."
-    publishedDateTime: 2024-02-11T20:59:00Z
-    webUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/"
-    ampWebUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
-    type: article
-    provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 59
-    images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2024/02/657a5044890126.50541840-e1707735341246.jpeg?w=1280"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
     excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."
     publishedDateTime: 2024-02-11T23:59:00Z

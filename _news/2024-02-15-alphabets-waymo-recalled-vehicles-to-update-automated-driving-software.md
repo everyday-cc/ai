@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,7 +30,7 @@ related:
   - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
     excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
     publishedDateTime: 2024-02-11T23:31:00Z
-    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
+    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=am-quickie.ghost.io"
     type: article
     provider:
       name: Reuters
@@ -95,6 +95,15 @@ related:
       name: NBC Los Angeles
       domain: nbclosangeles.com
     quality: 19
+  - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
+    excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
+    publishedDateTime: 2024-02-16T20:28:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/02/16/waymo-software-recall-phoenix-crashes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "Ig1VYvZ8+uHjE1QnR359ZdL7lyOLzDiUGnlu659WmtR/mKDSC+Gz4Ma+vR/Mx8PZSH8ISS66ngIMsyvFToVdrZnDBIGUwIEBApTMdDEPowzxEdhFSTsJvYObhmaF9A9gdWxpiAcSsbl+mNfxwo/YkvEAy5ZRns1l2zOpRC1o7F0eYh0gQGqvRi4QmsT28X3m4R0G0GQInArp6GS+zAQ+H32s0Q2PUQbSqt44rGvSjZ5FtDIBXa6BMK9bu2tcj2kRm9YqHTpm+T4t+QKWg3RbJNbLoerFA+wKScMYPcCYJBO8uSHRGMW6A08p61fSpKC1i2d2gt75ZJduWjfuJCva9l0hHNkl7ZxCAjazOF36A5jQD635ZT8w7bAtOu34JReG/iB4QLRNiP9bd4r5aihfmbwOgOj418QfpzF5Ud6CdGvQFf/01N0JQPK5ThHjiH60K81nt83ynuq09G/8QP+/Udr1TZPovrBx/F0ihuBF0DQp4KbH0xUgwHZZsJQ7Qg4Wwr5FJBi7bIICUcEZxYgOdg==;fAXrXpeuBlgK7KZ4vlgatg=="
 ---

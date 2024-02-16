@@ -49,6 +49,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
+    excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
+    publishedDateTime: 2024-02-16T17:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/high-flying-nvidias-earnings-could-test-us-stock-markets-ai-dreams"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
     excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
     publishedDateTime: 2024-02-14T04:35:00Z

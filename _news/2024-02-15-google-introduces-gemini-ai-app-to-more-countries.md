@@ -142,19 +142,19 @@ related:
         width: 1280
         height: 712
         isCached: true
-  - title: "Google plans to fix Gemini’s early flaws pretty quickly"
-    excerpt: "The Gemini app is gradually appearing outside the US, with Google vowing to patch any existing bugs quickly based on user feedback. People are supposedly impressed by the Gemini chatbot's writing style, creativity, and pace of responses."
-    publishedDateTime: 2024-02-11T22:25:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-early-flaws-fix-asap/"
+  - title: "ChatGPT vs. Google Gemini"
+    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
+    publishedDateTime: 2024-02-16T20:38:00Z
+    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 24
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/pixel-8-pro-gemini-lifestyle-01-1.jpg"
-        width: 2100
-        height: 1400
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Gemini 1.5 is much more than a new foundation model"
     excerpt: "The pace is on at Google Deepmind, it is already coming out with Gemini 1.5 within months of the launch of Gemini 1.0. It sounds like a new version of an"

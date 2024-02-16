@@ -231,6 +231,20 @@ related:
       name: The Week
       domain: theweek.in
     quality: 57
+  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
+    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 56
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
     excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
     publishedDateTime: 2024-02-12T05:40:00Z

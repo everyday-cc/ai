@@ -50,6 +50,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "Hartford HealthCare launches new center to use artificial intelligence in hospitals"
+    excerpt: "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays."
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php?src=sthplocal"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 28
   - title: "Jive co-founder Bill Lynch on his new AI-backed health care startup"
     excerpt: "Jive co-founder Bill Lynch is back with a new startup exploring the use of artificial intelligence tools, specifically generative AI, in health care. The new company is called HumanTrue and Lynch is chief technology officer."
     publishedDateTime: 2024-02-13T11:44:00Z

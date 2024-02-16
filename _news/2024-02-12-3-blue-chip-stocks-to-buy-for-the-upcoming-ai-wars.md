@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks
 webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
 type: article
 quality: 64
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: Electronics Weekly
       domain: electronicsweekly.com
     quality: 34
-  - title: "This Is the Single Best Artificial Intelligence (AI) Stock to Buy, According to a Wall Street Analyst"
-    excerpt: "Wedbush Securities analyst Dan Ives has said Palantir Technologies(NYSE: PLTR) is probably the best pure-play artificial intelligence (AI) stock on the market. He also called the company an \"undiscovered gem\" following its fourth-quarter earnings report ..."
-    publishedDateTime: 2024-02-11T20:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/PLTR-N/pressreleases/23991544/this-is-the-single-best-artificial-intelligence-ai-stock-to-buy-according-to-a-wall-street-analyst/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 17
 
 secured: "KDmqka6F13T2M/tB3eHgEDobdhlm7baOFk/CflIXNYe8Q/mtknCMAPDBacfOdeg/h/kCkf+wLBeVXbrcYFxsJQqxSFqh/mhNWg32eo1ahHJBrWDTQr/OUP343P9Qw8RtK1YSkLB2g8n2g8TEZ9YQ0hiBKjmjEq2xiXHVpP8Q4ixH6ygjEOtXJOcT9ITMuBipWB4yRHJDEHW75AbqLk76sK2V7L45RV42SKungZwMiqfMp5RCG9ETrsf7I2hy0FA5AhLivWYnCv4avASenAAjW6Rd/2PvfXnwS1jz8pyQdDocQbsku9i7c27dQM43DeoUWsmtkN1NbqmdrY4axOAApE9DQJoUpd7yTeF0gS5RGr4=;ZxpwF5B5dvEz6uHMQhQAbw=="
 ---

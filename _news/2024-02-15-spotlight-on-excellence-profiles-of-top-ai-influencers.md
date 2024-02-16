@@ -7,7 +7,7 @@ originalUrl: "https://nerdbot.com/2024/02/14/spotlight-on-excellence-profiles-of
 webUrl: "https://nerdbot.com/2024/02/14/spotlight-on-excellence-profiles-of-top-ai-influencers/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "The AI Alliance: How To Make Friends And Influence AI Policy"
+    excerpt: "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership."
+    publishedDateTime: 2024-02-16T20:06:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 870
+        height: 580
+        isCached: true
+  - title: "Privacy Governance and Artificial Intelligence"
+    excerpt: "Against this backdrop, artificial intelligence systems, trained on vast amounts of data, continue to advance without a clear consensus on principles or a process to assess and mitigate AI risk. However, state and federal governments around the world are ..."
+    publishedDateTime: 2024-02-14T03:49:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/13/privacy-governance-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Data-protection-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "TTtnHHOGL0RcRZW6r0JpZuBvcJSSI9V7wpbapmEGPdAc2wjzS+/4DX37h9ZGDHKhNG5vfXhMhLMb0kiUahLec1NkszeSpQnz486/ROyF9QAH2T7YDiovzxcg4G3YCNRRKReW970xiUpvbq9CEriA/4dkEgwIY1GFcwJ/43IR3skWr51O4eVdxba+nOGB+JSc9pfbUiIsA+LzRo0tAC0rBlbXy3e/As/EH5wWGSKILwvQusvLFHO+CFe6fVY44BqleuT//xZgH/lE0QgzisA03xx8tpdXUCja0KALvNgp2UooAb7/ITwQu5PqTTeLjFmsJsslwHfYII5qcCitAGChoeiCi7NRJqV7eyB7Ac7luLE=;hbplz5DBYQTt+DDOUoi6oQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-ne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
+    excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
+    publishedDateTime: 2024-02-16T17:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/high-flying-nvidias-earnings-could-test-us-stock-markets-ai-dreams"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "AI chips don’t need trillion-dollar investments: Nvidia CEO"
     excerpt: "Jensen Huang remarked on OpenAI CEO Sam Altman’s plan to raise up to $7 trillion for an AI chip initiative, saying the amount assumes that computers won’t get faster."
     publishedDateTime: 2024-02-13T04:48:00Z

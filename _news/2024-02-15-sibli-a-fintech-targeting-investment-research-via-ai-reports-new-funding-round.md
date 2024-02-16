@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targ
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 17
+  - title: "Australia Fintech Activity Declines Amidst Global Slowdown – Research Report"
+    excerpt: "Australia saw a 76% drop in fintech deal value \"in 2023 to US$587.5 million, while the deal count fell by a third to 95 transactions.\""
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221470-australia-fintech-activity-declines-amidst-global-slowdown-research-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
 
 secured: "79KxpSDxCuuWNP9dPMRxJ7KtMn2B1f1SflSutPv7cNjj10NuwUBUQNHP16d32H/OOU/2TquVKnLortvNKVLsiTY8BfwXo7z42sUPJpD2OiTjt2RKk9pVJmvswnWwylws/3+8HAho/K5hRd9GbiNSRMtbFzujwbSzJHMryfNaFKZRtznRUCN8b0RNMHcTFFC6eUVaV2okS7Et2rVSm5q9QjIUvmRtb8WvBnhI6GP2T+gJPKeGWfkTvnka2Rnt1msF69liUVNyO2XybXTDfxNnVRaRI5NPpuMXa0F8SpyTwnd4GsKAaam9PjbX9X/7dDv53un1vIYJfJLDrBbTf6TlxSf0LsFGmFgJasxobo7bjoc=;sAiC+CObp7R2Y6jBqIuKyQ=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
 excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
 publishedDateTime: 2024-02-11T23:31:00Z
-originalUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
-webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
+originalUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=am-quickie.ghost.io"
+webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=am-quickie.ghost.io"
 type: article
 quality: 49
 heat: -1
@@ -98,7 +98,16 @@ related:
       name: NBC Los Angeles
       domain: nbclosangeles.com
     quality: 19
+  - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
+    excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
+    publishedDateTime: 2024-02-16T20:28:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/02/16/waymo-software-recall-phoenix-crashes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
-secured: "9rDgMssEf+SPj34rRORxoa2dh74yCaZ8QHj9OY1YeYrtrFISYmzOhnTplo77oWx3QqqLlrJ4ea6CIlhjVVqU8Age2ThhIc5Mpu8c0hGjvvhT4q+bvi3o3pwfm7c+rE+CzCiOsIz/Tp6sldz4lxyFd3Uzlj1kLlTp+taeJyVW8+3XxLK5CuowIjTJ1vE+vWFEszrclW9nGO4qM7IsMgonn/cl4rAm26wK8zsf3wcfEJzJ7M49tPCMU8l3JrLGypPe33ehrMbAI7yfEfkGVyJ6isATalv22/ZYsDrRwEri2pYSb7U89ML4hULpQiMtzKoOI3cf8OIR7tfi9Jvcy539Am1FDjgfa8lg/EtiBjcAXqQ=;/L6HznbF4PaAFwNt9SS00A=="
+secured: "ebW7FmUQMyfy7QoKpD0cMqTY8pwwzfxADLbzVIiF4QRXo/VAUCsrJ9erDuZTGS+Vh/2F1caZE2Acbhv6SS7JnVUx/7/58VN4R5erFghDHUyIT4+h//vb3czmtryGLqC8OiKw96PLlW9d7W7/i7KsZPV07/M0g9fo7JeQp4i3i7zaHmilEcB86T7U/jgWc0OIv/ABVtDAlsyf+H4WrOA7+Er17N90woINffHBkWYYGNocXL7MrdUgSuBQRLa/J8392ZgpMVU8Ba5rAA5vC43wEEVt31OzHMFS0aNqEjDQm8daH7K07WtmARN4bRFrplNIOUbWRhrNGhXswdBhTeQK26GPpZ/+KwR4HEUCmh8nrTs=;vz3MOmvHnXC4yYDs6y6XgA=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
 excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
 publishedDateTime: 2024-02-16T00:13:00Z
-originalUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
-webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
+originalUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
+webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
 type: article
-quality: 47
+quality: 27
 heat: -1
 published: false
 
@@ -18,12 +18,6 @@ topics:
   - Computer Vision
   - AI
   - AI in Finance
-
-images:
-  - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-generic-trojan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Dangerous New iPhone Attack Steals Facial Recognition Data"
@@ -74,7 +68,16 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "GoldPickaxe Malware Steals Facial Recognition Data Of IOS Users"
+    excerpt: "(RTTNews) - Cybersecurity company, Group-IB's researchers found a new set of aggressive trojans named GoldPickaxe, targeting iPhone and iPad users by stealing their facial recognition data to break into their bank accounts."
+    publishedDateTime: 2024-02-16T21:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/goldpickaxe-malware-steals-facial-recognition-data-of-ios-users-1033077343"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
-secured: "WqD+Im6b1BT7NDbuRJWiVSoodExPkSU1ECHbTBSckRMDw4IGCrNIU2ff/dfSYNAyx+NqGCMZUuEfti+3wxh11t8EmIghq7UK+A6L1m1l9AooxNbj9VYms4lt1S09mNPWfEpTZ33XXOLcbN/mr5FxxcdZSATc8a4mtuUtjUF1937lpWJn2VwVjb9KwF3FzJb/jdJxVO4e8gEetLQoHSmi9oPvl+N6PCJQxZTbOlkKmRZeyLKM6lk9T8kL12GD0j8D0Ha7vNQFbDMtXoNoxy9tMcZnTrDiB9mbOtFIbo61v2kL2hYMwCKaR4lDN7isJHMmQEdGVsRSr3XDNmfq9kS3wNlBg4Zt6GJlaPzPdxdGUjEaXNhHYjYQbohWgZSE43hk95q8FFPDfdoLvJD65wZIAUq86cM021U5I0PjZCLtI4NJXWp8epdjhiYt5gOTxlG7o1viB6/+Fn/puFX9P3bi+2iXk6Zxkx81Uq09QGB4J0fmBag0aMHI5FvbBnv+UZ+d9KmZivbJeCnwVHw2oJANSw==;jqmAmStTY6mcsTsJ5vzbhg=="
+secured: "0knSJR0LDi9VJ+LZxGmQYMDnhpUrjRS9AuZk2+mxe5kh2tn6qI7NZEhVlakhkWnvpDh2aAvw8X63jf6uBrav5c/DRxuFob6VNN5EDZtD5KDGH4bAljtRIMCbn2EnyqAYgvOqKWrDgK2i35SFBN4esyUJ17151KyBgoVwbjFx0jJBsEvxM2DUDjWU/mdGte880YZWVvXMurwO2IjYelS9eDvlq9mN9MBjJ4UVt2d/cKyIdLELdOyByCw0MEcUwmnIEatK7arUTNIZrP5+jfTiurCovipf3XiKPLnoWI6KSDHj7XrWcSvAQY2eFeQTCxqiT/fz1ReYtvg9byOStYIAptcubvLoU9k/EezMo5CvaLzWJQqzhrQ4IthCe4DqP8fhh1JcVLD99awYOjLY/JbsdniScgx12vlcaSSOc8Kq9JIy32308bhGaM77Uh6/ma/WOTQhSabt66kwCd4dSd96CrFRum/WuFNO3xgjyLbLEwuBoV3Di/mSXp5YMl7sRpM6nNJCGYiM6Cx2iPL6Oc6wtg==;R688yMDuLvwKedqAgJL48g=="
 ---
 

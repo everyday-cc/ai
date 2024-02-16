@@ -89,6 +89,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 21
+  - title: "Australia Fintech Activity Declines Amidst Global Slowdown – Research Report"
+    excerpt: "Australia saw a 76% drop in fintech deal value \"in 2023 to US$587.5 million, while the deal count fell by a third to 95 transactions.\""
+    publishedDateTime: 2024-02-16T18:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221470-australia-fintech-activity-declines-amidst-global-slowdown-research-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
 
 secured: "rfnjuoOlZ171eUECg5/6FHsqMOyiET240NG2T0Wc91k1gagk9asIz1O6J28zuUIji5ZuZS+njOaOlARkVMLgczhze8qf47G6KD7FaSevxodJkaUduYhkNPC+S9pp8SfVwPc6E1c4WqwENHu/Vur8QZmZz+Pm+vlsCMTgkSP807q6aWE0sDRbLKwEmvqSrEn97MqxHi/oWbPjbMEDKWpRtgAXF1u3JucG0k3yUhm1P7yVTiczYkbWvqkQUZOHT4p5xJ/G3NV0BU7Zxo3QORh52KgtwdTXsXEbLuCS7kyK298QnOQJa7pH6HTl3TB6GBoGwADSJhDiOzW2qrwOe+hCTZya72//p9+qxJarADkObYc=;/3jU97vOI6FTVWtgYhvSFA=="
 ---
