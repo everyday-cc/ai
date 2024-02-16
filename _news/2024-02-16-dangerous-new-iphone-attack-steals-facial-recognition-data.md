@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "iPhone Users Beware—This Malware Steals Your Facial Recognition"
+    excerpt: "Yes, your iPhone is more secure than Android devices, but no, it’s not impervious to attack. A new report has suddenly warned Apple users that a dangerous trojan is stealing facial recognition data from iPhones to target users’ bank accounts."
+    publishedDateTime: 2024-02-15T22:46:00Z
+    webUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/"
+    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ce8fd198b0a0a8507ed794/0x0.jpg?format=jpg&crop=1703,1138,x762,y425,safe&height=900&width=1600&fit=bounds"
+        width: 1347
+        height: 900
+        isCached: true
   - title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
     excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
     publishedDateTime: 2024-02-16T00:13:00Z

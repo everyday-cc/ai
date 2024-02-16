@@ -170,6 +170,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "/c3iUz7YZxBATTZtEyc1+YJRJqoiBg+TE+12mvskI+HVdR+86cjvesAegNOijJ3W+3I08EbJsq2mUAgf/yrfHUR0gpzOjaeZdszU0yJK5Lgvsf+VetbKl9hdQoTUFEWA8a998U9HVuoo9c/DQrvKD8kDsf9lx5nwgG5IyNr7iLKNzTcFPq2DVEQvaRh4kZIyy1xDquZdEPWzXi7oAUWm8BF6aCeqx8CWr+DbW7VTDG4LRHfBYuOKlvEcfjQn/fvDW2K/FuHh71NC95ZEW2GlF10yTwNkO3bSuxKAQF9c/HCsYOjnBQmy7JfDaraPHatUC9uPx3qaqupRyCC9rTngfY4oaqvr0Aj5jGqeOsEc5GA=;oAbb3sZqbvRE36ysIOMg+Q=="
+secured: "4dpExfKczJ9Jt+lnP8bq1Lb1GzTehxAM/FfvOpauD06WKcZ1usW/K0LtjakSG/vyX2JpO0Rqzr7jknnjtQUS+L4VQ5EVipKSz/MgYewue8PDsmesxgc0lGXTR5fgpOrsTGtVJ6nS62EjXD1r9kR2gnue0STH4nHv9G37lIo9+Re51vPpKK4rXUBDoJaBi+XK37wTyqthApdYItXKpptQi2jbSrdcDFn+fGFRZAz8O7FZ6N4GI9WcHwoaJdwFzbVo3sQTaeJ0SkkqxvGe+fdfTqElSmo3ojz3xuK3Kn7htguSOIVEj0igTXTEm+RITxLiSVGVmME3VvgoudnK34Zx1TolsjTestdC989ikyB/aBY=;8DzkcbdpeP304Ke3h3Q7sA=="
 ---
 

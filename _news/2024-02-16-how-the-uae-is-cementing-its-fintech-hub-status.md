@@ -305,6 +305,20 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Carbon acquires fintech firm to empower SMEs"
+    excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
+    publishedDateTime: 2024-02-16T08:36:00Z
+    webUrl: "https://businessday.ng/companies/article/carbon-acquires-fintech-firm-to-empower-smes/"
+    type: article
+    provider:
+      name: businessday
+      domain: businessday.ng
+    quality: 24
+    images:
+      - url: "https://cdn.businessday.ng/2023/09/nigerian-fintechs-1.jpeg"
+        width: 700
+        height: 350
+        isCached: true
   - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
     excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
     publishedDateTime: 2024-02-13T06:49:00Z

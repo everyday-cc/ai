@@ -3,8 +3,8 @@ category: news
 title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
 excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
 publishedDateTime: 2024-02-15T13:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
 type: article
 quality: 62
 heat: -1
@@ -60,7 +60,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
         width: 1200
@@ -350,6 +350,6 @@ related:
       domain: upi.com
     quality: 33
 
-secured: "845OHyTzzG2IMX65JsCaaJm+cs49313u2tng9JZ0bIX17zzRsQfQXobr+Qyf3f7dhLoYvMM1r04zValCMQ2cSCOT/K3EhbieDTlTFkjHtYXEsNNApTk2WVeENqwFI1uPwcTWYafc8PU/ztpcDWONv6xp7m/8GAfep7L/ToAjd3tMvQC+/4EpBOQwKgwEstctZH4TkeART9/H6MuCrjqIOiZZvKbVp5nrK7pAgoCTLUmwx+G9e5qOyMtUuL5eZxUNbcK7SE4c7OLdVu5MgTg/JITCpnNs23YNr9Ru6vjiB0Txyodo4ysWesjPByky970V88klFrNvx1dbUcv5wijBxhmwu+wInDMBD+/VkvRB4Mk=;e+0kUJPajA29/Y8MQCzUbg=="
+secured: "A3wL+sGxGRFbRgsKYH4ghHyyr4dt9rtf4oT9Q9KFRhN6aCMRpHt9isoZ3W7Srqsi1IMddTjcbpG9ni6gbx/+HM8CLFLzgYTYpI1upM3zeVLqNTs51JGECMh+ctaj6wVNmD+Jhygjji/2/uXZSVpsjLJgcr1+W2p+8FtSYXT1zrKOeyIV1V99Gq8lG8f4Xn9BGuvjBRKQmdYGgLFhOt5clZFszAOS9sYE+4rn+5hXvS0XzySljPWT696dBPKh0Yq6Y77TWFjfFP+1+4aNtEiVfzCuKpqx4ZFwjxuHAcbK9l8MYw9be4CZnfeaoFnnLVaefSwel26XNqDfpyGvykAsmDsKDYaSlefp6N3BO+lIKaw=;pdH2+pCM5+UwVswtpXsYPA=="
 ---
 

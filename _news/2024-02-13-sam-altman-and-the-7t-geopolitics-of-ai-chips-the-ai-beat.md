@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai
 webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
-        isCached: true
-  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
-    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
-    publishedDateTime: 2024-02-11T07:43:00Z
-    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
     excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."

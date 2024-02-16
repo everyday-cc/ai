@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 79
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Best AI stocks in 2024 for performance"
-    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "New Windows update to add DLSS-like AI gaming features"
     excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
     publishedDateTime: 2024-02-12T10:24:00Z
@@ -71,15 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The AI Chip Game Part 2"
-    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "lpwMSqvN1nb22yyJigD4KeNYHhl13fSY9cR2FN2ogydQw6eLC/uVjMUpadllCkM71uuMVkL7cArR9MgonP2czq40jkhu2tVCzgalCLFBqGpMjJ5NtCGR5rJTBjEicHr3/XUEJA+g8EAGiA5JccuIhrOASw10SW3V4SBSpW3B+9byp9UYbx+IuBdrjv4AydH9I4OQnCy5i9vzfr2o2oXsktCn+LoOlISO67/PF8TVRyvGPaXlv61O1WnzjcI24VzdxiNauRlJuwW1MXl65vSG+t0HtjqqksvYCOTrzNHQUKwOrCYRERbvvopBOvwIVHt62KUO46D7qeysXbHnsBz2yAyJIXQvnqsyaAr4RnF8SU8=;QKuCfgxJtAgOWhEmPIdHIQ=="
 ---

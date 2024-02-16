@@ -66,18 +66,18 @@ related:
         height: 2143
         isCached: true
   - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-    excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+    excerpt: "SAN JOSE, Feb. 15, 2024 — Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital, SK Telecom, funds and accounts advised by T. Rowe Price Associates, Inc., and existing investors Crescent […]"
     publishedDateTime: 2024-02-15T20:29:00Z
-    webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+    webUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
     type: article
     provider:
       name: insideHPC
       domain: insidehpc.com
     quality: 54
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
-        width: 1024
-        height: 512
+      - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
+        width: 312
+        height: 207
         isCached: true
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."

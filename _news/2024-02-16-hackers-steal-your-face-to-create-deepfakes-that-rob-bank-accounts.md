@@ -34,6 +34,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Era of AI Deepfakes Complicates 2024 Elections"
+    excerpt: "The explosion of artificial-intelligence technology makes it easier than ever to deceive people on the internet, and is turning the 2024 U.S. presidential election into an unprecedented test on how to police deceptive content."
+    publishedDateTime: 2024-02-16T08:50:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824"
+    ampWebUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
   - title: "Don’t count on watermarking to prevent artificial intelligence deepfake election chaos"
     excerpt: "Tagging artificial intelligence-generated images with invisible markers may not be the airtight solution the federal government wants."
     publishedDateTime: 2024-02-12T08:00:00Z

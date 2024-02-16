@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+excerpt: "SAN JOSE, Feb. 15, 2024 — Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital, SK Telecom, funds and accounts advised by T. Rowe Price Associates, Inc., and existing investors Crescent […]"
 publishedDateTime: 2024-02-15T20:29:00Z
-originalUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
-webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+originalUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
+webUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
 type: article
 quality: 54
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
-    width: 1024
-    height: 512
+  - url: "https://insidehpc.com/wp-content/uploads/2023/07/Dell-Technologies-logo-square-0723.png"
+    width: 312
+    height: 207
     isCached: true
 
 related:
@@ -118,6 +118,6 @@ related:
       domain: crn.com
     quality: 14
 
-secured: "VZPN1GLWwXYVJBYHFgFNAfZ2PuUsDooV+jWwo1RxgyleIccpwh+PwHq8gOto4R1PKsD5kaogwFG7UxFzEufW48Kz0mbjLrV/sTIwTryVEsiyCU7WajGATSNXKGLtGY2baEoRxonI8hASDldvbmTWRJvXmGA0y+iL3RCksV4/RVb1rXUGPYUcorNcm7u3xZQTnR8mU4m9KCZ03MGqMojNBkSvBMAomiXLRevxY2PuVVfxua/5tKDSjd0Jxew2G0lu7d/qWU+hhf08oBEkeofuIcsFUhc54BnwdW+aA2RUDFznuLyNA4m5kKJJk2/C+NLB4+aYzpd9Sd4BcTjhfTk/uoEgmY2/PckDAOa+7cMpSWhKmWdCDKIhFCwQTEGI1R54hsXq2aiSMhOQVCX/+zrNE/pAvFXwUa7qOxn8T4urr/aUNC7NVZSP+thknui0PPFalyMLBULsgFZEKnPXKHMbBurhEhROXhUK7uV+HunZVMB5N2zRRiuTsG7U9R8ahqYbajevWXfVYNxtTAQEZ8ATQQ==;ql5w7TQ1R5LiuF8m0XaF/g=="
+secured: "yefHq1W/Y9XVT693hcjejUgy8rShOcUCko4/xVLKQ1WjHvUJ//eHpFQOW+6uRoiyEKxqKT46HrVl8/vKA7SppTb39/g9HGdy7cGo6OyF65RboFMD5s4Wtx+mq+52+V4aDt1wvlWu112EXDyPuxLDQqbqUv3pcmNnMbjwNT05nhHlvTDRQORh+Xgo1J6t77j6Vm/DpUL0a0lP0yn9adaaR/OeokOngfpAw0UiiMJP/RQDfeVhrbjEma4+HJSHDTfMN40YrzKYe8Z/FhTiGAG4YDAoO2utcDN5wFtAA+s5NEY+0FJS/CRoJBU4U5Up2rjM28k2Og8b/2AKEdJ1z/EqJxZsOKHI/XV2VKOwwL6GZFo=;aefjH2HmEjVsOCwcDEHNgw=="
 ---
 

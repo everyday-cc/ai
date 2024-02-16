@@ -47,7 +47,7 @@ related:
     provider:
       name: NextBigFuture
       domain: nextbigfuture.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-9.25.32-AM-1024x709.jpg"
         width: 1024

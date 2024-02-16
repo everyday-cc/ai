@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
-      "title": "Thanks to AI, Azure is Closing the Gap with AWS",
-      "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
-      "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg",
-          "width": 1066,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T00:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thurrott",
-        "domain": "thurrott.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-13-senate-committee-discusses-bill-that-deals-with-artificial-intelligence-in-campaign-commercials.md",
       "title": "Senate committee discusses bill that deals with artificial intelligence in campaign commercials",
       "excerpt": "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer.",
@@ -96,7 +52,7 @@
       "originalUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1057,6 +1013,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars.md",
+      "title": "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars",
+      "excerpt": "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T06:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },

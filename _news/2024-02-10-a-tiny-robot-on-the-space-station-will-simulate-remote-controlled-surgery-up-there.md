@@ -2,25 +2,25 @@
 category: news
 title: "A tiny robot on the space station will simulate remote-controlled surgery up there"
 excerpt: "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ..."
-publishedDateTime: 2024-02-10T11:30:00Z
-originalUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
-webUrl: "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there"
+publishedDateTime: 2024-02-10T13:30:00Z
+originalUrl: "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery"
+webUrl: "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery"
 type: article
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: MPR News
+  domain: mprnews.org
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 657
-    height: 492
+  - url: "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02_wide-271e2c37c0248888d9e595d273e223b17e03375b.jpg?s=800"
+    width: 739
+    height: 416
     isCached: true
 
-secured: "YxW0qyIfpddSKUUzUrsf06UC7cNzOF6M9DQ2h30O6xsFliu0i64X2DqrnpWiehrGG0r8aB87B0ICW4ZdEZe0mhWT5sKD3cps9DCLKEQ51BfyPsHMTdLiEp3O4ucFI0vodrJTz5SUAwW4xhhFm9mFX7oQKF63cKcaNb+NxXTeWFNSCyPHZTmVDq4S50qBLpmcJQ3wLOrbJjbb1wnThb2Dm4vRkEfiTaE79r+6PeAoydvGeZpl2w1Eu2PUz2IdnPmjF/kHLe3EjjlzLG9R12Hm7BUafMNAhMmUu06TFx/jFKDjl3tncla1sD2fdzzEPeCgNNIRquB2XVz13O15cqR1+tyYWDomB4TFOJUtb9hl+/k=;DMFYa5EmU8+1WGQL3SJrIQ=="
+secured: "16gBXrsBm/1SLhaOP0/PjQSAEQNMflOheENQM2Va2ZCDLWlnL7TzyVwyKavEQuyMfGoDV3PHZ445f6N51N5mSL1utEb7YHNS5qLtnOXUifmY4F8yehoTuigTm/4Rmu1fOrE8Ux9aVwKL/kZAqsOpN5rjvKgS4JUJxaEwLdAOXYL5tI+kVYAQ604jiqiU5h+TTaai6KsF9LWkDAdVFsdWqPPKIqjrb/5gQ0muBsra63jGxgtguz23Ja6PrBDhMEhOK9Kb9w6xR7uBz767wySO+m0s3vLiX6np+W4FPziCQxaMacrAcHFXN5hW6/KCzbNvRn+kb0W1f0QcVSo7Q6nUS8T9IU/t72WIbsBdbBYQXjU=;x3GITj4vicOZRzOHB/094g=="
 ---
 

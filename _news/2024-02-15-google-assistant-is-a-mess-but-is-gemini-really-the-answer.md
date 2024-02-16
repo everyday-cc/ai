@@ -33,6 +33,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Google DeepMind Unveils Gemini 1.5: 5 Key Highlights the Latest LLM"
+    excerpt: "Google's Gemini 1.5, the newest addition to its Large Language Models, brings enhanced processing capabilities and multimodal understanding."
+    publishedDateTime: 2024-02-16T06:44:00Z
+    webUrl: "https://www.thehansindia.com/tech/google-deepmind-unveils-gemini-15-5-key-highlights-the-latest-llm-858913"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/02/16/1423413-google.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "1xIaFnLNW8rEkJMGK6M1bGt5oVv6eMKRKV9lOk6d3x4XAuM3+pSTB6+nnwdzmZIzXwEkZrGBM6yDAFM2aodOGKi4wtF06dtg7kKmwHAPaW0KnVzoaShoS4r5T5kctZlZOuG69DsmvCWwxk3+zWXjlt45+8ctF+MfvCHIhE7hK3Ayp4Pc0ojSRdanvhGZDNZQvzXyIn1VVv83GfzPvh2v7o8icQckCC0yZrMDcAqjElcBRsjP/HRfjTL4kFwJot55Ht58AE5AJuUaF3u6UhHjuSpvfSLxNRkgteNgP9mi8So6KiSEXv8q+Jvu96WXUm/9JGm6JidOtvfWNhRtsZcBxMdOV3XZYdHxe7WLHGPGaCbCH/q2x3Mp3lG3TQ+pECYr0CrRNO1jA5+EB0W4ZEHQdTujfxgYZjhGOxchc8OwW/6n1vlmdNwAJWjH5r4AfxaSrQh5m3sJW4JOJxuZELnRj57jYlspms3BjsC4AkO45v8zC1YXPtD0VHBfoAymYUf2Y7aFvD80J+SpUHK3y9X/Gg==;0BpROAF7T7238qU2cXbnBg=="
 ---

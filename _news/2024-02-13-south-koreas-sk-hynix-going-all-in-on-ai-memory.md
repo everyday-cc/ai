@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-12T17:50:00Z
 originalUrl: "https://www.nextbigfuture.com/2024/02/south-koreas-sk-hynix-going-all-in-on-ai-memory.html"
 webUrl: "https://www.nextbigfuture.com/2024/02/south-koreas-sk-hynix-going-all-in-on-ai-memory.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-9.25.32-AM-1024x709.jpg"

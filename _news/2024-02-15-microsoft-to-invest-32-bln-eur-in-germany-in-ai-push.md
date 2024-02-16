@@ -58,7 +58,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
         width: 1200
@@ -195,7 +195,7 @@ related:
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
     type: article
     provider:
       name: TMCnet

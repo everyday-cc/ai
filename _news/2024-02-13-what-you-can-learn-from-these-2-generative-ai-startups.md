@@ -323,6 +323,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How Fractal is Leveraging Generative AI for Insurance"
+    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
+    publishedDateTime: 2024-02-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How generative AI is a game-changer for communications in today’s workplace"
     excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."
     publishedDateTime: 2024-02-12T17:21:00Z

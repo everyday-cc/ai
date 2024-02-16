@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2456510/facial-recognition-system-at-ai
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 922
     height: 624
     isCached: true
-
-related:
-  - title: "Croydon support for Met Police facial recognition operation"
-    excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
-    publishedDateTime: 2024-02-16T05:00:00Z
-    webUrl: "https://www.yourlocalguardian.co.uk/news/24122082.croydon-support-met-police-facial-recognition-operation/"
-    type: article
-    provider:
-      name: Your Local Guardian
-      domain: yourlocalguardian.co.uk
-    quality: 39
-    images:
-      - url: "https://www.yourlocalguardian.co.uk/resources/images/17755422/?type=og-image"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "GXm7nFKRFLZwme5ObXQWd/URZIxPZDbWW8/VSbhVmUkDa5IzVTLPD2XFkJcPrbNAwE2x3PSHf0llOReVPyPFhlO+4dEb18FzdQvnWHBoUlJkqBxasJWHmBEwT/+fUyQcaVhMyKoIJ2AT5a+6gDtA+Iaw2g/nwEOzDtshrYt74hfQeAtx8uahpC0d/qnmsAGVrF3D9JRVqUtGrDVBzC9l5+ZYZyK1gbE5SQ4XrnuroeTpP65yf3Hdo5QJGq67NzptsvdF9KD5VUMiTZxqC0OnMO6zVzFIiJcdWoFsiIT5B6O3D8hpn9DFYkh8XwHiS7bvDfIAoqWEcOx9ZohsbscJb5LVbDJWDtO0yPzEihKThRcldifhL/uxXWDOu4UWQhslCt6rSxnX7JNOx3W1s9hmwsUyGvqOZL14iQ6N0tmXRI8YBz/ke0PFfzHrDz58UQIAyXJoNH32Ire9ve80d7tYpUBR3B+iEK4wbWK1UwlEj/rhz0lEdfTzK5bkABsf0uDcZyu22PQLmmPnkujbRxOBIw==;dbpWYgluTbYVFjX2bUpc0w=="
 ---

@@ -26,52 +26,24 @@ images:
     isCached: true
 
 related:
-  - title: "Best AI gaming laptops"
-    excerpt: "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU."
-    publishedDateTime: 2024-02-16T05:39:00Z
-    webUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html"
-    ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
-    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
+  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
+    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
+    publishedDateTime: 2024-02-12T06:59:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
     type: article
     provider:
-      name: Digit
-      domain: digit.in
-    quality: 59
-    images:
-      - url: "https://static.digit.in/Best-AI-gaming-laptops.jpeg"
-        width: 1280
-        height: 675
-        isCached: true
-  - title: "The Enduring Absurdity of Artificial Intelligence"
-    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
-    publishedDateTime: 2024-02-13T19:53:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "The 3 Best AI Stocks to Buy in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the"
+    publishedDateTime: 2024-02-14T16:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
-        height: 900
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
   - title: "The AI Chip Game Part 2"
     excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
     publishedDateTime: 2024-02-11T23:59:00Z

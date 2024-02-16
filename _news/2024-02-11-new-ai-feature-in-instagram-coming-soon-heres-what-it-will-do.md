@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-i
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook and Instagram to label all images on their platforms created by AI, Meta says"
+    excerpt: "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ..."
+    publishedDateTime: 2024-02-15T10:40:00Z
+    webUrl: "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 51
+    images:
+      - url: "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook And Instagram Flooded With Hundreds Of AI Spies Made By Italian Surveillance Dealers, Meta Warns"
     excerpt: "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists."
     publishedDateTime: 2024-02-14T16:00:00Z
