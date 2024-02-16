@@ -410,7 +410,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -589,17 +589,17 @@
       "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
       "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
-      "originalUrl": "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
+      "webUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
+      "originalUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
-          "width": 657,
-          "height": 492,
+          "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/B5WBQ32ZD4P27EACRGUHXVYO7U.jpg?auth=af1d0e097f4ba70c7df6eb56dd8c32ba676c0132fdc3657af7a7b9edbd21b212&width=767",
+          "width": 767,
+          "height": 574,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -607,13 +607,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T11:30:00Z",
+      "ampWebUrl": "https://www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/10/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there/?outputType=amp",
+      "publishedDateTime": "2024-02-10T13:22:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "KUOW",
-        "domain": "kuow.org",
+        "name": "OPB",
+        "domain": "opb.org",
         "images": null,
         "publishers": null,
         "authors": null

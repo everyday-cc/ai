@@ -364,15 +364,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
-    excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
-    publishedDateTime: 2024-02-11T04:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/multimedia/audio/what-are-the-emerging-technologies-driving-indias-fintech-boom/article67831878.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 3
   - title: "B2B Fintech Firm Aspire Offers Small & Medium Businesses A Unified Suite Of Financial Services"
     excerpt: "B2B fintech, Aspire has raised $79.15 M in internal funding after its $100 M Series C round. Co-founder & CEO, Andrea Baronchelli talks to Shruti Mishra about Aspire's solutions for SMEs, its focus on AI & cybersecurity and India plans."
     publishedDateTime: 2024-02-12T20:39:00Z

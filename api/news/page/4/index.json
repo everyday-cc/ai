@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-14-sadiq-khan-says-fake-ai-audio-of-him-nearly-led-to-serious-disorder.md",
+      "title": "Sadiq Khan says fake AI audio of him nearly led to serious disorder",
+      "excerpt": "London Mayor Sadiq Khan says deepfake audio of him supposedly making inflammatory remarks before Armistice Day almost caused \"serious disorder\". Mr Khan says the law is not \"fit for purpose\" in tackling AI fakes, as the audio creator \"got away with it\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-68146053",
+      "originalUrl": "https://www.bbc.com/news/uk-68146053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/30FF/production/_132634521_promo_ep02_976x549.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-68146053.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-68146053.amp",
+      "publishedDateTime": "2024-02-13T22:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
+      "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
+      "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/",
+      "publishedDateTime": "2024-02-13T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-americans-had-imaginary-girlfriends-long-before-ai-companions.md",
+      "title": "Americans Had Imaginary Girlfriends Long Before AI Companions",
+      "excerpt": "Long before AI-generated sweethearts, dead maidens gave Americans someone to pine for—but their impact went beyond romance.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6694247/ai-companions-dead-maidens/",
+      "originalUrl": "https://time.com/6694247/ai-companions-dead-maidens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/grave.jpg?quality=85",
+          "width": 1024,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual.md",
       "title": "Not So Fast: Study Finds AI Job Displacement Likely Substantial, Yet Gradual",
       "excerpt": "MIT study suggests human tasks won't be automated and taken over by AI as quickly as previously suggested, and provides reassurance on impact on the economy.",
@@ -344,7 +498,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 379,
       "tags": null,
       "images": null,
       "content": "",
@@ -688,7 +842,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1076,143 +1230,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
-      "title": "Thanks to AI, Azure is Closing the Gap with AWS",
-      "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
-      "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg",
-          "width": 1066,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T00:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Thurrott",
-        "domain": "thurrott.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-senate-committee-discusses-bill-that-deals-with-artificial-intelligence-in-campaign-commercials.md",
-      "title": "Senate committee discusses bill that deals with artificial intelligence in campaign commercials",
-      "excerpt": "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
-      "originalUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WCNC/images/ff68ac18-3d57-4685-ba45-9c8184e839e0/ff68ac18-3d57-4685-ba45-9c8184e839e0_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
-      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
-      "publishedDateTime": "2024-02-12T21:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTHR",
-        "domain": "wthr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-super-bowl-lviii-told-by-ai-deepfakes.md",
-      "title": "Super Bowl LVIII, Told by AI Deepfakes",
-      "excerpt": "Gizmodo used Midjourney to create visual representations of some of the Super Bowl’s biggest moments. AI deepfakes are slowly becoming a central component of our society, so we",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
-      "originalUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/94c818ab12b088cb5c4870edec8dba6a.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T20:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

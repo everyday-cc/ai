@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible
 webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
 type: article
 quality: 84
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How researchers used AI to read ancient texts and earn laurels from Google DeepMind CEO, Elon Musk and others"
-    excerpt: "Discover how researchers used AI to unlock and read 2,000 year-old Herculaneum Papyri scrolls. The breakthrough project earns praise from industry leaders like Google DeepMind CEO and Elon Musk."
-    publishedDateTime: 2024-02-11T03:29:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/articleshow/107587457.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/amp_articleshow/107587457.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/amp_articleshow/107587457.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107587471,width-1280,height-720,resizemode-4/107587471.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Capgemini Partners An OpenAI Competitor Mistral AI Founded by Former Google Deepmind and Meta Researchers"
     excerpt: "Capgemini Partners With Mistral AI to Spearhead the Adoption of New Frontier Generative AI Models. Capgemini and Mistral AI will focus on accelerating"
     publishedDateTime: 2024-02-12T04:32:00Z

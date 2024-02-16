@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-15-how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology.md",
+      "title": "How Kubota is changing the status quo in agriculture and sustainability with technology",
+      "excerpt": "“It is no exaggeration to say that this initiative has just begun. With IBM, we hope to develop it into a standard in Japan and globally.\"\nThe post How Kubota is changing the status quo in agriculture and sustainability with technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
+      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
+      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-chatgpts-been-acting-weird-and-its-probably-our-fault.md",
+      "title": "ChatGPT's been acting weird — and it's probably our fault",
+      "excerpt": "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp",
+      "publishedDateTime": "2024-02-15T12:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-dataiku-defines-development-routes-to-user-centric-ai.md",
       "title": "Dataiku Defines Development Routes To User-Centric AI",
       "excerpt": "We need to consider how an AI service will be actually be used by users and then construct and feed it with the ingredients it needs to suit the exact recipe.",
@@ -312,7 +448,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -725,7 +861,7 @@
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1051,153 +1187,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-the-3-best-ai-stocks-to-buy-in-february-2024.md",
-      "title": "The 3 Best AI Stocks to Buy in February 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 381,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T16:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-how-robotics-and-ai-helped-hippo-harvest-land-21m-to-grow-lettuce.md",
-      "title": "How robotics and AI helped Hippo Harvest land $21M to grow lettuce",
-      "excerpt": "Lettuce isn’t the world’s most challenging crop, but as any farmer knows, there are plenty of problems that pop up between planting and harvest. The gamut runs from pests to pathogens and rain — both too little and too much.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
-      "originalUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Copy-of-Copy-of-DSC01841.jpg?resize=1200,802",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
-      "publishedDateTime": "2024-02-14T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants.md",
-      "title": "Rasa lands $30M to supercharge customer service with generative AI assistants",
-      "excerpt": "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
-      "originalUrl": "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-26-11.48.35-Photo-of-a-robot-resembling-a-friendly-assistant-seated-at-a-spacious-desk-in-a-well-lit-room.-The-robots-metallic-arms-move-with-precision-as-it-t.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

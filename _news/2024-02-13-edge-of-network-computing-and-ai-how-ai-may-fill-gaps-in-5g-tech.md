@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-ne
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 111
 published: true
 
 provider:

@@ -2,6 +2,233 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-08-daedalus-which-is-building-precision-manufacturing-factories-powered-by-ai-raises-21m.md",
+      "title": "Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M",
+      "excerpt": "A fledgling startup founded by one of OpenAI’s first engineering hires is looking to “redefine manufacturing,” with AI-powered factories ... “At one point, the robot hand broke down ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "originalUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/62d95484b9c434922879bf26_A6_00110_05-07-22_Daedalus_F2-p-1600-e1707214708909.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "publishedDateTime": "2024-02-08T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
+      "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
+      "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c47465b26f4765dcb63181/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/08/understanding-ai-in-2023-its-definition-role-and-impact/amp/",
+      "publishedDateTime": "2024-02-08T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-ethics-and-ai-in-education-self-efficacy-anxiety-and-ethical-judgments.md",
+      "title": "Ethics and AI in Education: Self-Efficacy, Anxiety, and Ethical Judgments",
+      "excerpt": "This is what a recent study titled “AI in K-12 Classrooms: Ethical Considerations and Lessons Learned” hopes to address and is one of three studies published in the \"Critical Thinking and Ethics in the Age of Generative AI in Education” report by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2/amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-google-bard-is-now-google-gemini.md",
+      "title": "Google Bard is now Google Gemini",
+      "excerpt": "Say goodbye to Google Bard, and say hello to Google Gemini. On Thursday, Alphabet and Google CEO Sundar Pichai announced the company will be rebranding its AI model Bard as Gemini. The company ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
+      "originalUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04299uXv4EIXIoGiOs2KOLz/hero-image.fill.size_1200x675.v1707401073.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
       "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
       "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the ...",
@@ -895,220 +1122,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-microsofts-ai-engine-powering-hr-blocks-tax-filing-assistance-product.md",
-      "title": "Microsoft's AI engine powering H&R Block's tax filing assistance product",
-      "excerpt": "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "publishedDateTime": "2024-02-06T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
-      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
-      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-amazon-web-services-ceo-dishes-on-bostons-ai-scene-and-harvard-square-pizza.md",
-      "title": "Amazon Web Services CEO dishes on Boston’s AI scene — and Harvard Square pizza",
-      "excerpt": "senior vice president and head scientist for artificial general intelligence, and Raj Aggarwal, general manager of GenAI at AWS. But the area was also hit by deep layoffs in the company’s Alexa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "originalUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/vAVgn87cGxjqvv-ar8qrmZYbJ9k=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VANIQEJKYUPLKTBKMK5LFILHVE.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
-      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
-      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
-      "sourceUrl": null,
-      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
-      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
-          "width": 711,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seacoastcurrent",
-        "domain": "seacoastcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms.md",
-      "title": "IBM opens AI school for telcos: ‘A critical phase – not just of AI, but for all telecoms’",
-      "excerpt": "IBM explains how its AI tieup with the GSMA is about how telcos engage with the outside world, and make 5G valueable to new customer segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "originalUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

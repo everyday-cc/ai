@@ -196,6 +196,22 @@ related:
         width: 1646
         height: 946
         isCached: true
+  - title: "HR companies find many GenAI use cases to raise efficiency"
+    excerpt: "Global tech leader Service Now partnered with Hugging Face to roll out the Now LLM, an instruction fine-tuned version of a model in the StarCoder model family, for HR leaders to drive productivity and operational efficiency by reducing redundant and manual tasks."
+    publishedDateTime: 2024-02-16T04:30:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/hr-companies-find-many-genai-use-cases-to-raise-efficiency/articleshow/107732127.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/hr-companies-find-many-genai-use-cases-to-raise-efficiency/amp_articleshow/107732127.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/hr-companies-find-many-genai-use-cases-to-raise-efficiency/amp_articleshow/107732127.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2687315,msid-107732143/government-working-groups-may-submit-ai-framework_generative-artificial-intelligence_thumb_image_ettech.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Otter.ai adds transcription archiving and recall across the enterprise"
     excerpt: "A transcription and notetaking service that can save, archive, and recall all meetings, including in-person meetings, phone conversations, and video calls, is a huge step forward in a marketplace dominated by large companies with AI tools that can transcribe one meeting at a time, with no way to connect them, Liang said."
     publishedDateTime: 2024-02-13T07:33:00Z

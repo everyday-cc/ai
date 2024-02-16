@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96135/tsmc-rumored-to-be-teaming-wi
 webUrl: "https://www.tweaktown.com/news/96135/tsmc-rumored-to-be-teaming-with-sk-hynix-on-next-gen-hbm-memory-for-ai-gpus/index.html"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SK Hynix reportedly plans AI chip alliance with TSMC"
+    excerpt: "SK Hynix is rumored to be establishing an Artificial Intelligence (AI) semiconductor alliance with TSMC, investing in the development of next-generation high-bandwidth memory (HBM) such as HBM4, and strengthening its packaging technology capabilities to solidify its respective positions in the AI semiconductor market,"
+    publishedDateTime: 2024-02-16T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240216pd204_files/4_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "South Korea’s SK Hynix Going All-in on AI Memory"
     excerpt: "SK Hynix, the world's second-largest memory chip maker, announced that it will become a total AI memory provider by 2024. The company will"
     publishedDateTime: 2024-02-12T17:50:00Z

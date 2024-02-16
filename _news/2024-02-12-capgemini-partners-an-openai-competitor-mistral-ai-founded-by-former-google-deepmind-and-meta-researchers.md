@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "How researchers used AI to read ancient texts and earn laurels from Google DeepMind CEO, Elon Musk and others"
-    excerpt: "Discover how researchers used AI to unlock and read 2,000 year-old Herculaneum Papyri scrolls. The breakthrough project earns praise from industry leaders like Google DeepMind CEO and Elon Musk."
-    publishedDateTime: 2024-02-11T03:29:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/articleshow/107587457.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/amp_articleshow/107587457.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-ai-unlocked-ancient-texts-success-recognized-by-google-deepmind-ceo-elon-musk-and-others/amp_articleshow/107587457.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 55
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107587471,width-1280,height-720,resizemode-4/107587471.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "a5bw+4hCP8FjF//86m3V8MpoPTo7BJyq6OEGlxLiis/QVLXaHVg8BU6Csiy3RNbEqJ3iMHpSDxq0GckI11g4iyCoyiJQdS9qOyXTwDlo6dLO1yq/gYB5Hv8F67e25XWZi6mWo2X+7LaX3cGTdQKSXY+bQy9/2CFmOYIYvQKQEt2TEka0dUHthvCRu4FPfYhlJcwo3JOLnDlISCSR5w2EaAzEc5wGATWHFtbevE4SxskImbTReT0rl8XTyWqzJ8Jdg0W2ye1YyJn5B5O55jleM+JCQPqwGQ4yKYo6Gq50CKX8NGq20Ur8SzqGuooJ4I3YXas12W+TBmexEFjIsoTFnOzKT+rTF+kZB4Sh00Mu3JsO4q/iRKoHVFMLOvDvyVeYbyVXEvvON73cEetKuyIG107/5uNhavEEtXZDXKsvyWDDjPsG9SbgaLFxNu/55qnB9GyYLYejxCxNPKAv19oyQt3tTHuKpBgTUuZA8URgwkzGbLCKOYSQdQHor0mt4yDeAot4IhHM6pK7d7I00lBUcQ==;IVd/hQ+sMIK4HGSmGAJCtQ=="
 ---

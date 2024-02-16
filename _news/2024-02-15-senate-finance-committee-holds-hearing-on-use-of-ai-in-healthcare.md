@@ -42,6 +42,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution"
+    excerpt: "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge"
+    publishedDateTime: 2024-02-16T04:22:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
     excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
     publishedDateTime: 2024-02-14T11:51:00Z
@@ -127,6 +143,20 @@ related:
       - url: "https://images.yourstory.com/cs/21/98e25df018b511e988ceff9061f4e5e7/Imagesjlw-1628749303332.jpg?fm=png&auto=format"
         width: 800
         height: 400
+        isCached: true
+  - title: "Shaping The Future Of Healthcare Technology"
+    excerpt: "Is your company positioned as a trailblazer in shaping the future of healthcare technology? In the face of disruptive technologies and shifting b"
+    publishedDateTime: 2024-02-16T04:48:00Z
+    webUrl: "https://menafn.com/1107859577/Shaping-The-Future-Of-Healthcare-Technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
         isCached: true
   - title: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry"
     excerpt: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry - As adoption of Artificial Intelligence has grown over the last decade, new untouched avenues are being"

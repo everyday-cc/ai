@@ -82,20 +82,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "DePaul vs. Georgetown February 24 Tickets & Start Time"
-    excerpt: "The DePaul Blue Demons (3-20, 0-12 Big East) meet the Georgetown Hoyas (8-15, 1-11 Big East) in a clash of Big East squads at 6:00 PM ET on Saturday. The game will be available on CBS Sports Network. If you're looking to attend this game in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-11T04:23:00Z
-    webUrl: "https://www.wifr.com/sports/betting/2024/02/24/depaul-vs-georgetown-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WIFR
-      domain: wifr.com
-    quality: 22
-    images:
-      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/7IMHMUCU6JJ33F6MZXGO6UYQWI.jpg?auth=255e7c57cb70c737d3f7fea012a96765f739ee5915e245ac61d9aec85fccfc51&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "SFA vs. Utah Valley February 24 Women's Basketball Tickets & Start Time"
     excerpt: "Stephen F. Austin Ladyjacks vs. Utah Valley Wolverines women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-11T10:19:00Z

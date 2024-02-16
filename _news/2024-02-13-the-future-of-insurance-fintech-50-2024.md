@@ -360,15 +360,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
-    excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
-    publishedDateTime: 2024-02-11T04:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/multimedia/audio/what-are-the-emerging-technologies-driving-indias-fintech-boom/article67831878.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 3
   - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
     excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
     publishedDateTime: 2024-02-13T18:27:00Z
@@ -397,6 +388,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "OO2S/lzbRWLd/0n8Ln7I/vvS7AMQ230nvhwAB03+88Fb6pXRsq6c5acJ9HjxPczmkiu3Mzxyqg/NrAHFMv4mf3P1nKs1mn15Sadhqv8x1Drvm0d3/RI8yk5rYn8YnOAhr8gUOVACEHg9fJhczdlDw5uFVa5IImhVdXPONpHGTjcgfNcWK7q7MZ3TysDJRfIi1M4oytTGgQK/0h7Fwa5j1mKLDxxnG3oR9Z1XnbZ3U3+aM3DcEumiUwfuV7VtDXv4ZSMqF4aIaenyUIOsC/LnJNP7aU19sKfQwuNfQNeRA87nGJk0GGX/P81tk7xFYWeDawfmvLqMwXHkJx6znR4ASLS3OkVOq7wRWNAlc6rE8Zg=;4YjQ887jfGsv4YjJgUYiRQ=="
+secured: "SvZ6us57NDm3N0l4eWbFV06sAPL45E6MFW6k0TJHpXElGJwLURcGm0quz8rceTFuNR3LwxrxPO5CA1BR5jBbYX4PSJb1XYpCGEUN65MSDKhA82e3dTqUjbe3WFKYTnj+XznxpZMatApcsIz8F1o0fIqybcyFoB/FpNWIRUn8M2b5bV3nd9lBdslILoUX0faZaRnpycX8S9mdWzHelKZlWIDSpqmy28UgY06z5LK4csVYkF06ThRDKq8NU3zMPI6dnEGL9n+kJCyF5f3jN56FejVs4WZnADBAkSZMRy+34WLqw0kev0sftDwfY7z7iy/aRNK+BLKImVxlCSRKvwwqpvMJFe8/Wm3oJqMsC5BGRWfUytV9CDz1V58s6kHj22jwthFlP+B/x+P5+xYNAJB35mbNwt0UVaSePoGHBeSV/UwkSjgeFUxKz0nZW6HoNvTQPMd+26CUhmMe538Uec9mrZv1v6aOJWF7RsO5r9RjwybJdcRnJebgj9P7Ov+LULDAhCUzuoPB46DOswxx8bVloQ==;LxjSe5bwOB1ffoVMDshiCQ=="
 ---
 

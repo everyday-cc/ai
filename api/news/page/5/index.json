@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-13-thanks-to-ai-azure-is-closing-the-gap-with-aws.md",
+      "title": "Thanks to AI, Azure is Closing the Gap with AWS",
+      "excerpt": "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
+      "originalUrl": "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg",
+          "width": 1066,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T00:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Thurrott",
+        "domain": "thurrott.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-senate-committee-discusses-bill-that-deals-with-artificial-intelligence-in-campaign-commercials.md",
+      "title": "Senate committee discusses bill that deals with artificial intelligence in campaign commercials",
+      "excerpt": "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "originalUrl": "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WCNC/images/ff68ac18-3d57-4685-ba45-9c8184e839e0/ff68ac18-3d57-4685-ba45-9c8184e839e0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1",
+      "publishedDateTime": "2024-02-12T21:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTHR",
+        "domain": "wthr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-super-bowl-lviii-told-by-ai-deepfakes.md",
+      "title": "Super Bowl LVIII, Told by AI Deepfakes",
+      "excerpt": "Gizmodo used Midjourney to create visual representations of some of the Super Bowl’s biggest moments. AI deepfakes are slowly becoming a central component of our society, so we",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
+      "originalUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/94c818ab12b088cb5c4870edec8dba6a.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T20:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-3-ways-machine-learning-is-changing-retail-for-the-better.md",
       "title": "3 Ways Machine Learning Is Changing Retail for the Better",
       "excerpt": "Customers want convenience; retailers want growth. Machine learning can help with both. Artificial intelligence has revealed its potential in retail, as anyone who has ever interacted with a digital sales assistant knows. In fact, the value of AI in retail ...",
@@ -777,7 +914,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1059,152 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
-      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
-      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
-      "publishedDateTime": "2024-02-12T04:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-apple-beats-google-and-meta-on-ai-shopping-spree.md",
-      "title": "Apple Beats Google and Meta On AI Shopping Spree",
-      "excerpt": "This figure puts Apple well ahead of other major tech giants in terms of AI startup acquisitions. Google acquired 21 AI startups in 2023, Facebook Meta purchased 18, while Microsoft trailed with 17 acquisitions according to the report. Apple has so far ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/apple-beats-google-and-meta-on-ai-shopping-spree/469583",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1707719699-IMG-1530.jpeg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
-      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
-          "width": 2200,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "publishedDateTime": "2024-02-11T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

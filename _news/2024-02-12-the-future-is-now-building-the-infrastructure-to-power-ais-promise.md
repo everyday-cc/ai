@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
+        isCached: true
   - title: "The Future of AI Is Hybrid"
     excerpt: "Artificial intelligence today is largely something that occurs in the cloud, where huge AI models are trained and deployed on massive racks of GPUs. But"
     publishedDateTime: 2024-02-12T20:09:00Z

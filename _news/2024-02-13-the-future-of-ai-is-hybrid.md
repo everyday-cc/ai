@@ -36,6 +36,20 @@ related:
         width: 1300
         height: 900
         isCached: true
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "tj6XwnoW68VfA4RqrXUXZAD/w4mAObpcIF/LB7AsrI7Mqw0ZlF4NloIrffiSQe4OM2Zl4upvS5aUb5IYQqPVsYp2k3j3Ygb6vMknQVKu+5RmoMWWFU6dBOVSxZ5lvXp9rwWpsDbdR5nsUapXmiXrVm1vl7/+7xloNeUA4r8Z3AQqRoPDJBjmtv7rX9/Sh7jWjFxruedOX0YAOmU6vn1ghvhZfKzC8wjM/bmsfmTj34c3zOSCRItOyLE6rWx0TXJgqwJ4i17OvJYKqgAbQQPjZSIjVrcY+oTReN84WiCmkCJ5ynRRGXMYvKpinztKy9DKNWcVUQjpKrQs3GL97+/tnzg8DRUD7oQAaQ97OcldMbxv9rVgP56m8A6IRfub5YNsfTyN+IkV8kbAsjte29fG4RZiGZ7GTkiYAsI8/DGrnMs1uoIV29cPAhVxJC4QG+Tl6gEcVFc1S3ZJ6jUMRk7O6GLQLpvli5nJAr4E6udoFIswLv1w82GvZQGRS+ttSr38hIhooEuQsa2QaLF1d2wrKQ==;OvgVOC9VCxp8opRNzGoqEQ=="
 ---

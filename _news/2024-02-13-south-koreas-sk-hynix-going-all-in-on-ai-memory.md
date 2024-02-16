@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SK Hynix reportedly plans AI chip alliance with TSMC"
+    excerpt: "SK Hynix is rumored to be establishing an Artificial Intelligence (AI) semiconductor alliance with TSMC, investing in the development of next-generation high-bandwidth memory (HBM) such as HBM4, and strengthening its packaging technology capabilities to solidify its respective positions in the AI semiconductor market,"
+    publishedDateTime: 2024-02-16T02:14:00Z
+    webUrl: "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240216pd204_files/4_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "TSMC rumored to be teaming with SK hynix on next-gen HBM memory for next-gen AI GPUs"
     excerpt: "TSMC and SK hynix reportedly teaming up to dominate the HBM and AI GPU market, will battle Samsung directly as the world's biggest memory manufacturer."
     publishedDateTime: 2024-02-14T00:03:00Z

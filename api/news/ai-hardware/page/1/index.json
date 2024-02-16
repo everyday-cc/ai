@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
+      "title": "SK-backed Sapeon to develop on-device AI chip",
+      "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20240216050362",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F02%2F16%2F20240216050380_0.jpg",
+          "width": 630,
+          "height": 387,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20240216050362",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240216050362",
+      "publishedDateTime": "2024-02-16T04:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap.md",
+      "title": "‘Game on’ for video AI as Runway, Stability react to OpenAI’s Sora leap",
+      "excerpt": "Runway CEO Cristóbal Valenzuela posted two words on X in response to today's demo drop of OpenAI's Sora video AI model: 'game on.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
+      "originalUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-15-16.03.59-A-futuristic-scene-showcasing-five-different-digital-animals-in-a-running-race-designed-with-a-high-tech-cybernetic-aesthetic.-The-setting-is-a-neon.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-ai-computing-firm-lambda-raises-320-million-in-fresh-funding.md",
       "title": "AI computing firm Lambda raises $320 million in fresh funding",
       "excerpt": "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban.",
@@ -31,6 +126,49 @@
       "provider": {
         "name": "telecom.economictimes.indiatimes",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-sk-hynix-reportedly-plans-ai-chip-alliance-with-tsmc.md",
+      "title": "SK Hynix reportedly plans AI chip alliance with TSMC",
+      "excerpt": "SK Hynix is rumored to be establishing an Artificial Intelligence (AI) semiconductor alliance with TSMC, investing in the development of next-generation high-bandwidth memory (HBM) such as HBM4, and strengthening its packaging technology capabilities to solidify its respective positions in the AI semiconductor market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html",
+      "originalUrl": "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20240216pd204_files/4_b.jpg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T02:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -349,7 +487,7 @@
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -402,7 +540,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 381,
+      "heat": 371,
       "tags": null,
       "images": null,
       "content": "",
@@ -1301,163 +1439,6 @@
         "name": "cnbctv18",
         "domain": "cnbctv18.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-is-there-a-bubble-in-ai-stocks.md",
-      "title": "Is There A Bubble In AI Stocks?",
-      "excerpt": "Talk of price to innovation ratios by Morgan Stanley has triggered talk of a bubble in AI stocks. Is this just the beginning of a run up in stock prices?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "originalUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65be8742c9d836097bc8f8e7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2024/02/03/is-there-a-bubble-in-ai-stocks/amp/",
-      "publishedDateTime": "2024-02-03T18:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-nvidia-h100-ai-gpus-might-cost-3-to-6-times-as-much-as-amds-mi300s.md",
-      "title": "Nvidia H100 AI GPUs might cost 3 to 6 times as much as AMD's MI300s",
-      "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: The two GPU rivals may argue over who has the more powerful AI acceleration graphics card, but there's no doubt about which hardware is more expensive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
-      "originalUrl": "https://www.techspot.com/news/101748-enormous-price-difference-develops-between-amd-nvidia-hpc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-12-image-4.jpg",
-          "width": 3558,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
-      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
-      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

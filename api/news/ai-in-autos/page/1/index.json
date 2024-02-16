@@ -157,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -475,6 +475,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-fcc-bans-ai-generated-voices-in-robocalls.md",
+      "title": "FCC bans AI-generated voices in robocalls",
+      "excerpt": "The Federal Communications Commission (FCC) banned the use of artificial intelligence (AI) generated voices in robocalls on Thursday just weeks after a message imitating President Biden went out ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "originalUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "publishedDateTime": "2024-02-08T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1317,58 +1351,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-highlights-of-tesla-ceo-elon-musks-court-ruling-mars-frankenstein-a-self-driving-car-pun.md",
-      "title": "Highlights of Tesla CEO Elon Musk's court ruling: Mars, Frankenstein, a self-driving car pun",
-      "excerpt": "A Delaware judge voided the $56 billion pay package Tesla gave Elon Musk, CEO of the electric automaker, after finding the company failed to show it was fair.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107335105-1700154424109-gettyimages-1760546933-UK_MUSK.jpeg?v=1706667973",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
-      "publishedDateTime": "2024-01-31T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

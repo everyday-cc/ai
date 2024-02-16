@@ -356,15 +356,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Listen. What are the emerging technologies driving India’s fintech boom?"
-    excerpt: "Both guests emphasise the pivotal role of technology in fintech’s growth. RV lauds India’s digital identity infrastructure, enabling start-ups to offer innovative products and services. Iyer highlights AI-driven advancements, such as chatbots and ..."
-    publishedDateTime: 2024-02-11T04:43:00Z
-    webUrl: "https://www.thehindubusinessline.com/multimedia/audio/what-are-the-emerging-technologies-driving-indias-fintech-boom/article67831878.ece"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 3
   - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
     excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
     publishedDateTime: 2024-02-13T18:27:00Z
