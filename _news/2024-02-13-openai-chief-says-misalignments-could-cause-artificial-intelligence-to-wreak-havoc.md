@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Mirror
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+    publishedDateTime: 2024-02-13T10:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 77
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
     excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
     publishedDateTime: 2024-02-13T21:18:00Z

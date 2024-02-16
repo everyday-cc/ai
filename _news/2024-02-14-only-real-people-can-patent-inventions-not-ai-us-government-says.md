@@ -39,15 +39,6 @@ related:
         width: 2560
         height: 1696
         isCached: true
-  - title: "Patents on AI creations require 'significant' human input, USPTO says"
-    excerpt: "The U.S. Patent and Trademark Office on Monday clarified when it will grant patents for inventions created with the aid of artificial intelligence, addressing an emerging issue in intellectual property law."
-    publishedDateTime: 2024-02-12T19:22:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/patents-ai-creations-require-significant-human-input-uspto-says-2024-02-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "US says AI models can’t hold patents"
     excerpt: "On Tuesday, the United States Patent and Trademark Office (USPTO) published guidance on inventorship for AI-assisted inventions, clarifying that while AI systems can play a role in the creative process,"
     publishedDateTime: 2024-02-14T20:41:00Z

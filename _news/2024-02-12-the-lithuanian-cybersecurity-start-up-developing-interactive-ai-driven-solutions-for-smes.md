@@ -55,52 +55,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "2024 Cybersecurity Trends: AI And What's Next"
-    excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
-    publishedDateTime: 2024-02-12T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/2024-cybersecurity-trends-ai-and-whats-next/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Cybersecurity Threats: How To Fight AI With AI"
-    excerpt: "There are also innovative startups using AI for cybersecurity in new ways. BioCatch, for example, uses ML to analyze human digital, physical and cognitive behavior. Its AI platform allows financial and other institutions to risk-score sessions—which often include transactions—when anomalies suggest account takeover or other kinds of fraud."
-    publishedDateTime: 2024-02-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cybersecurity-threats-how-to-fight-ai-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
-    excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
-    publishedDateTime: 2024-02-15T08:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/googles-latest-startup-growth-academy-aims-boost-ai-cybersecurity/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
-        width: 5071
-        height: 3381
-        isCached: true
-  - title: "The Synergy of Artificial Intelligence and Cybersecurity: Fortifying Digital Defenses"
-    excerpt: "Introduction: In an era dominated by digital advancements, the need for robust cybersecurity measures has never been more critical. With the relentless evolution of cyber threats, organizations are turning to Artificial Intelligence (AI) to fortify their defenses and stay one step ahead of malicious actors."
-    publishedDateTime: 2024-02-11T15:32:00Z
-    webUrl: "https://techbullion.com/the-synergy-of-artificial-intelligence-and-cybersecurity-fortifying-digital-defenses/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 30
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/The-Synergy-of-Artificial-Intelligence-and-Cybersecurity-Fortifying-Digital-Defenses.jpg"
-        width: 650
-        height: 450
-        isCached: true
   - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
     excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
     publishedDateTime: 2024-02-12T12:18:00Z

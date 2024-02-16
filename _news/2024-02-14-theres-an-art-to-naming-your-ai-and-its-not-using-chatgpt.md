@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT's been acting weird — and it's probably our fault"
+    excerpt: "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says."
+    publishedDateTime: 2024-02-15T12:49:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor"
     excerpt: "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy."
     publishedDateTime: 2024-02-11T11:30:00Z
@@ -42,65 +58,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
-    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
-    publishedDateTime: 2024-02-12T03:25:00Z
-    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+  - title: "OpenAI Gives ChatGPT a Better ‘Memory’"
+    excerpt: "The A.I. start-up is releasing a new version of ChatGPT that stores what users say and applies it to future chats."
+    publishedDateTime: 2024-02-13T18:23:00Z
+    webUrl: "https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
+      name: The New York Times
+      domain: nytimes.com
     quality: 84
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
-    excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
-    publishedDateTime: 2024-02-15T22:17:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/65cbcba74b994e610bc5d2ae/191:100/w_1280,c_limit/Which-AI-Chatbot-Is-Right-For-You-Gear.jpg"
-        width: 1280
-        height: 670
-        isCached: true
-  - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
-    excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
-    publishedDateTime: 2024-02-11T06:24:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/790822-Sam-Altman-claims-ChatGPT-is-generating-100-billions-words-daily"
-    ampWebUrl: "https://dunyanews.tv/amp/english/790822.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790822.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 76
-    images:
-      - url: "https://img.dunyanews.tv/news/2024/February/02-11-24/news_big_images/790822_96736365.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
-    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
-    publishedDateTime: 2024-02-14T06:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 75
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static01.nyt.com/images/2024/02/13/business/13chatgpt-memory/13chatgpt-memory-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
     excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
@@ -120,6 +90,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "The Human Perils of Giving ChatGPT More Memory"
+    excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
+    publishedDateTime: 2024-02-14T15:13:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-14/the-human-perils-of-giving-chatgpt-more-memory"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
     excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
     publishedDateTime: 2024-02-14T00:33:00Z

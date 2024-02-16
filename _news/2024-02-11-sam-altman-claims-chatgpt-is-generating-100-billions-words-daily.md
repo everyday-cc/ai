@@ -28,107 +28,103 @@ images:
     isCached: true
 
 related:
-  - title: "Smartly Using Generative AI ChatGPT To Get Ready For Valentine’s Day And Hopefully Boost Your Romantic Splendor"
-    excerpt: "Use generative AI such as ChatGPT to make sure your Valentine's Day is one filled with splendor. Here's the ins and outs. Be prepared, be happy."
-    publishedDateTime: 2024-02-11T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/02/11/smartly-using-generative-ai-chatgpt-to-get-ready-for-valentines-day-and-hopefully-boost-your-romantic-splendor/amp/"
+  - title: "Sam Altman and the $7T geopolitics of AI chips | The AI Beat"
+    excerpt: "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl."
+    publishedDateTime: 2024-02-13T01:44:00Z
+    webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
+  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
+    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 88
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c87fa658002bd23078ce45/0x0.jpg?format=jpg&crop=2041,1531,x92,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1200
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
-    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
-    publishedDateTime: 2024-02-12T03:25:00Z
-    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
+    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
+    publishedDateTime: 2024-02-11T07:43:00Z
+    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
+      name: The Tech Report
+      domain: techreport.com
+    quality: 54
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
-  - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
-    excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
-    publishedDateTime: 2024-02-15T22:17:00Z
-    webUrl: "https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 84
-    images:
-      - url: "https://media.wired.com/photos/65cbcba74b994e610bc5d2ae/191:100/w_1280,c_limit/Which-AI-Chatbot-Is-Right-For-You-Gear.jpg"
+      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
         width: 1280
-        height: 670
+        height: 853
         isCached: true
-  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
-    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
-    publishedDateTime: 2024-02-14T06:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 75
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
-    excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
-    publishedDateTime: 2024-02-14T14:23:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/deepmind-and-meta-staff-plan-to-launch-a-new-ai-chatbot-that-could-have-the-edge-over-chatgpt-and-bard"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 67
-  - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
-    excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
-    publishedDateTime: 2024-02-13T18:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
+  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
+    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
+    publishedDateTime: 2024-02-15T09:59:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
     type: article
     provider:
       name: Bloomberg L.P.
       domain: bloomberg.com
-    quality: 64
-  - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
-    excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
-    publishedDateTime: 2024-02-14T05:47:00Z
-    webUrl: "https://www.deccanherald.com/opinion/theres-an-art-to-naming-your-ai-and-its-not-using-chatgpt-2893788"
+    quality: 47
+  - title: "Sam Altman Seeks $7 Trillion to Supercharge Chip Production"
+    excerpt: "OpenAI Chief Sam Altman is reportedly seeking to raise trillions of dollars to address the massive global shortage in semiconductor chips. The ongoing"
+    publishedDateTime: 2024-02-12T14:55:00Z
+    webUrl: "https://www.datanami.com/2024/02/12/sam-altman-seeks-7-trillion-to-supercharge-chip-production/"
     type: article
     provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 56
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
     images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-09%2Fca6187b5-343a-457b-b748-667b9060a567%2FChatGPT.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
+      - url: "https://www.datanami.com/wp-content/uploads/2020/03/brain_chip_ML_shutterstock_archy13.jpg"
+        width: 1000
+        height: 568
         isCached: true
-  - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
-    excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
-    publishedDateTime: 2024-02-14T00:33:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/chatgpt-gets-scary-update-as-ai-becomes-more-human"
+  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
+    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T20:39:00Z
+    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
     type: article
     provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 34
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Altman urges collaborative regulation of artificial intelligence"
+    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
+    publishedDateTime: 2024-02-13T13:50:00Z
+    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
+    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
+    publishedDateTime: 2024-02-13T09:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 11
 
 secured: "cgT/aXhm8zHJEjdpJdeLz9oh4yW1WYx5mwwPhBm0OP/DqTYEDCKPWbogCzDVNvAAkaq0zQnOV1jPsKS9l9aS/baZPqIF07UmGZmH67nOAZAlrleaR5qz2+coLOaNvzfAeaoj+hwgJhzXRL5e1rXENE4GDcsLZD/EC/nEv8NA+DJQ+7bOq92LfH/z6/W78dIw7FnrF8uNd0wsqry1DWVX2BewaT0pI7hu2gVvOCTdUdTexAUjVyTLvee6vquxiFQseNNMjRmFVKz3X+p0mJRFtmiIDx0FLiZMjSIqGg1Th9nRo6JFe95tK3Zp/5zCn/63/m3NPjTJV6WvxV+D3A+zJgCfmnbC2WOGzfP7tnrlWZQ=;E1DSSjFO7dEpap5dnGLT9A=="
 ---

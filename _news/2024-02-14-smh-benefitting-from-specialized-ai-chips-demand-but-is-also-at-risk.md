@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4670013-smh-etf-bemefitting-speci
 webUrl: "https://seekingalpha.com/article/4670013-smh-etf-bemefitting-specialized-ai-chips-demand-but-also-at-risk"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 509
     height: 339
     isCached: true
+
+related:
+  - title: "Applied Materials crushes earnings forecasts and revenue targets on rising demand for AI chips"
+    excerpt: "The semiconductor industry has been boosted by demand for artificial intelligence chips, as well as a slight recovery in the personal computer market, the company added. In addition, there is also a rush to build AI-embedded PCs that are fitted with more powerful chips."
+    publishedDateTime: 2024-02-15T23:53:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/applied-materials-crushes-wall-streets-earnings-revenue-targets-rising-demand-ai-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/maxresdefault-1.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oXbXPpxsJTrNAXF93XDT917BwhMqlv0sK4lRlz5TY1Gnud7RZQTOFB76Z5PBgqw7KU0minw8alPNBXs8JcLskqhkhKXm4HLCWmQr0JaJ7/99cBihu0DN4B/dYqynQLHI1nnpIaqCo3f6EQKAEj/9LjRi2cDqLfxfCUuqRtRnhbrU9eN5w2At8hEtr/mRqALeZDh0Q1+WNWjZNmdmeng2wZPiZGtkCqlTxBczM8IURoNOYQmICkOMvYmHV4jd+bhzK4Y3+smrCnfDHm9tyL0cLTZl5Pp5qJzNAH67VPPvaN/Ig01SczTkiA+C3QGUbyp2tWa1vZuHVrsDhYP9Vue2t7oiryjO7lrsVkZu9OvD07pOZLESwWyXeu+0VkvnP1ueSSBJd/zIHX/+vum6RrKHaO6prHyz16c7lkkWySlapCr2yKj3gUu8b7OrO2vIl4HMZHfXvTiwk6NUnrqXgGSxnxF7OfVZyBgnhDrbmAlUTZXW7qMSFH2htlymNH2vFjqEEYOUMBV62GveFDiIlgMPNw==;U62AgD/z6IPbfmx8orIruA=="
 ---

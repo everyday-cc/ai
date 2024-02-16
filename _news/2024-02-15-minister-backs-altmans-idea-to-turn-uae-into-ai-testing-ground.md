@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Sam Altman claims ChatGPT is generating 100 billions words daily"
+    excerpt: "According to Altman, OpenAI currently churns out approximately 100 billion words every day through its various AI systems, including ChatGPT. openai now generates about 100 billion words per day. all people on earth generate about 100 trillion words per day."
+    publishedDateTime: 2024-02-11T06:24:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/790822-Sam-Altman-claims-ChatGPT-is-generating-100-billions-words-daily"
+    ampWebUrl: "https://dunyanews.tv/amp/english/790822.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790822.php"
+    type: article
+    provider:
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 76
+    images:
+      - url: "https://img.dunyanews.tv/news/2024/February/02-11-24/news_big_images/790822_96736365.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
     excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
     publishedDateTime: 2024-02-13T17:00:00Z
@@ -89,20 +105,6 @@ related:
     quality: 39
     images:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
-    excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
-    publishedDateTime: 2024-02-12T22:11:00Z
-    webUrl: "https://www.inc.com/ben-sherry/nvidia-founder-jensen-huang-dismisses-7-trillion-ai-investment-figure-floated-by-openais-sam-altman.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/NVIDIA-Jensen-Huang-inc_537332_npjqju.jpg"
         width: 1024
         height: 576
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible
 webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
 type: article
 quality: 84
-heat: 106
+heat: 108
 published: true
 
 provider:

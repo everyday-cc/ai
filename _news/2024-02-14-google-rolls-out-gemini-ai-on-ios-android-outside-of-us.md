@@ -41,19 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google rebrands its AI services as Gemini, launches new app and subscription service"
-    excerpt: "Google’s new Gemini app will enable people to quickly connect to a digital brain that can write for them, interpret what they’re reading and seeing, even help manage their lives."
-    publishedDateTime: 2024-02-11T00:15:00Z
-    webUrl: "https://www.stltoday.com/news/nation-world/business/google-artificial-intelligence-gemini-smartphones-microsoft/article_6e95c66f-312a-572f-b8f1-457ca1730da6.html"
+  - title: "Google unveils a more capable Gemini Pro AI as it seeks an edge against OpenAI and other rivals in tech’s hottest battlefield"
+    excerpt: "Demis Hassabis heads Google DeepMind, Alphabet's advanced AI research lab. The lab has helped to develop Google's Gemini AI models. The company has unveiled its latest, a more capable Gemini Pro called 1.5 Pro, that can process more data in one go than any ..."
+    publishedDateTime: 2024-02-15T09:05:00Z
+    webUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/"
+    ampWebUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 32
+      name: Fortune
+      domain: fortune.com
+    quality: 62
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/e9/6e95c66f-312a-572f-b8f1-457ca1730da6/65c649cb7df31.preview.jpg?crop=1612%2C846%2C0%2C203&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1760047727-e1707947499536.jpg?w=840"
+        width: 840
+        height: 561
         isCached: true
 
 secured: "J6Kk0O0ShvQcNq7P1QbzhjHmOlMs9NRhWBXmaXf2XbKwPUt7UHY1ycMKLSr6sqv0eb4wWQV/AqDmHJJ9mckToG8UsSZkApGaWQhnj9+B3zZUqQgM12uhZkWjEZmUO5fwx5ahZQXl938RfLh/YNNN/7/WLfhCKajMoDT3i/xoqsLIkAwWmjlVFVs/U1AhvjLiuho9dJhqOICHCak6KMxiyZlqr0kO+GVovw+muvSr+p5FiMoeHGw0htQdbZOAFIiOIePOVfFVDMAyBopk5ZBuY08I3s26HbeFPWMctq5Nv6EzCBnwaPQt5XaCH0fO0i20mCWNcZ3hQJh0DOTxcoz1QcbssyC5x0LK4M87QnysW/Y=;Wc3L5aL0jL5mSxIBJIx2/g=="

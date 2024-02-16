@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+    publishedDateTime: 2024-02-13T10:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 77
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
     excerpt: "Sam Altman said the dangers that keep him awake at night regarding artificial intelligence are the \"very subtle societal misalignments\" that could make the systems wreak havoc OpenAI's chief executive officer, Sam Altman, has warned of the potential ..."
     publishedDateTime: 2024-02-13T12:17:00Z

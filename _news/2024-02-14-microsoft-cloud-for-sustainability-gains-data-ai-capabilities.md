@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 334
+heat: 364
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 101
+  - title: "New report sheds light on Apple's upcoming AI features that will rival Microsoft's Copilot"
+    excerpt: "Apple has plans to launch an AI coding tool to developers as early as this year, per Bloomberg."
+    publishedDateTime: 2024-02-15T22:53:00Z
+    webUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/65ce8b2a6fcb546d2d50738d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
     excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
     publishedDateTime: 2024-02-14T04:00:00Z
@@ -232,6 +248,24 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
+    excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
+    publishedDateTime: 2024-02-16T00:11:00Z
+    webUrl: "https://www.sdxcentral.com/articles/feature/ai-security-initiatives-comparison-microsoft-and-openai-vs-google/2024/02/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 51
+  - title: "Microsoft reveals what’s to come in .NET 9"
+    excerpt: "We’re also turning our focus to delivering paved paths to popular production infrastructure and services, for example running in Kubernetes and using managed database and caching services like Redis,” the .NET team at Microsoft wrote in a blog post."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://sdtimes.com/msft/microsoft-reveals-whats-to-come-in-net-9/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 49
   - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
     excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
     publishedDateTime: 2024-02-12T23:53:00Z

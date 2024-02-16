@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-me
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -30,32 +30,34 @@ images:
     isCached: true
 
 related:
-  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
-    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
-    publishedDateTime: 2024-02-13T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
+  - title: "Working together to address AI risks and opportunities at MSC"
+    excerpt: "For 60 years, the Munich Security Conference has brought together world leaders, businesses, experts and civil society for frank discussions about strengthening and safe…"
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/"
+    ampWebUrl: "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
-        width: 1199
-        height: 675
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Shield.width-1300.jpg"
+        width: 1300
+        height: 733
         isCached: true
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
+  - title: "2024 J.S. Held Global Risk Report: New Laws Addressing the Risks and Rewards of Artificial Intelligence (AI)"
+    excerpt: "The race to develop AI and calls to regulate it are heating up around the world. In November 2023, 28 countries, including the United States, United Kingdom, China, and the European Union, met and pledged to work together to address and contain the ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/2024-j-s-held-global-risk-report-new-5145542/"
     type: article
     provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16174_3024.jpg"
+        width: 1200
         height: 900
         isCached: true
 

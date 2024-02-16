@@ -25,103 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman and the $7T geopolitics of AI chips | The AI Beat"
-    excerpt: "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl."
-    publishedDateTime: 2024-02-13T01:44:00Z
-    webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
+  - title: "Every country needs its own AI systems, says Nvidia CEO Jensen Huang"
+    excerpt: "Jensen Huang said nations should work toward building \"sovereign AI\" to control the intelligence and data produced."
+    publishedDateTime: 2024-02-15T11:49:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all"
+      - url: "https://i.insider.com/65cded4ca610a9069d59295d?width=1200&format=jpeg"
         width: 1200
-        height: 685
+        height: 600
         isCached: true
-  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
-    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
-    publishedDateTime: 2024-02-13T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
+  - title: "Nvidia CEO calls for “Sovereign AI” as his firm overtakes Amazon in market value"
+    excerpt: "On Monday, Nvidia CEO Jensen Huang said that every country should control its own AI infrastructure so it can protect its culture, Reuters reports. He called this concept \"Sovereign AI,\" which an Nvidia blog post defined as each country owning \"the production of their own intelligence.\""
+    publishedDateTime: 2024-02-13T16:41:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/nvidia-ceo-calls-for-sovereign-ai-as-his-firm-overtakes-amazon-in-market-value/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 64
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
-  - title: "Sam Altman Plans To Raise $7 Trillion For His Upcoming AI Chip Project"
-    excerpt: "Sam Altman is planning to raise $7 trillion for his upcoming AI chip project to meet the demand of power for AI technology."
-    publishedDateTime: 2024-02-11T07:43:00Z
-    webUrl: "https://techreport.com/news/sam-altman-plans-to-raise-7-trillion-for-his-upcoming-ai-chip-project/"
+  - title: "AI chips don’t need trillion-dollar investments: Nvidia CEO"
+    excerpt: "Jensen Huang remarked on OpenAI CEO Sam Altman’s plan to raise up to $7 trillion for an AI chip initiative, saying the amount assumes that computers won’t get faster."
+    publishedDateTime: 2024-02-13T04:48:00Z
+    webUrl: "https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html"
     type: article
     provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 54
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+  - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
+    excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
+    publishedDateTime: 2024-02-14T04:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
     images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/technology-7888259_1280.jpg?_t=1707637391"
-        width: 1280
-        height: 853
+      - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
+        width: 1500
+        height: 857
         isCached: true
-  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
-    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
-    publishedDateTime: 2024-02-15T09:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
+  - title: "Nvidia CEO says tech advances will keep AI cost in check"
+    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
+    publishedDateTime: 2024-02-12T12:31:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Sam Altman Seeks $7 Trillion to Supercharge Chip Production"
-    excerpt: "OpenAI Chief Sam Altman is reportedly seeking to raise trillions of dollars to address the massive global shortage in semiconductor chips. The ongoing"
-    publishedDateTime: 2024-02-12T14:55:00Z
-    webUrl: "https://www.datanami.com/2024/02/12/sam-altman-seeks-7-trillion-to-supercharge-chip-production/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/03/brain_chip_ML_shutterstock_archy13.jpg"
-        width: 1000
-        height: 568
-        isCached: true
-  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
-    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T20:39:00Z
-    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Altman urges collaborative regulation of artificial intelligence"
-    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
-    publishedDateTime: 2024-02-13T13:50:00Z
-    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
     quality: 19
-  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
-    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
-    publishedDateTime: 2024-02-13T09:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 11
 
 secured: "VJTzCQuy6ff1Zg4dk4dIW0/q4FD3iiNUO/2vheYoS5Y2MBst3ZU11UtwouiUCHU7XmcsPgmGaKntgw1cwdkVq6XKWCYlvQClYoZAPVsMWc2c9ciSX3if2oXK8uhw/ZWmQzzjtM1ET4Oi6WSZt1o5YMJbxyTiE6uGEivUTIz9X0XyQtfajkdtGqS9+qd5J2VbxZj9DUFXv/CoCY+odOyy/69UAlskUJZlgKrjI2lrN7SwB6ikF9yq/9Ri87PPkN107DnjnZolPfJq9hp24QrrCI/C0glUhy1V6SD5hENFv7hK11loxahFITmDQyS5ZnuQiUQ6u4y6580xPe//S2+wTKAOFW+ppMWT72WWPVrcEEKrGdMqyVKWdCvXtmal2Jkk9HU4mdjxqUkPWFuX+zICiM/tgkrx9TJCI4YxdtsRq4+WGH3GYjt7ySTKQSSuJMOk/88i0iwXZOKndxdBKPxAZm256yIaCk3Rrus0ExxoNF0++jchDzUFbq2dD81/V1LQAQ/A6Ocw/Mls5K1VxqLksA==;wBLOQkUUST44rTqXj81/1g=="
 ---

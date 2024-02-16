@@ -7,7 +7,7 @@ originalUrl: "https://www.aspistrategist.org.au/i-killer-robot-the-ethics-of-aut
 webUrl: "https://www.aspistrategist.org.au/i-killer-robot-the-ethics-of-autonomous-weapons-systems-governance/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 654
     isCached: true
-
-related:
-  - title: "OpenAI and 1X Robotics autonomous robots will change the world"
-    excerpt: "It’s a significant step forward in the field of humanoid robots, and it’s sparking conversations about the future of artificial intelligence and ... reflexes are made possible by its advanced neural networks, which process information directly ..."
-    publishedDateTime: 2024-02-11T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/autonomous-robots/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 71
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-and-1X-Robotics-autonomous-humanoid-Robotics.jpg"
-        width: 1280
-        height: 736
-        isCached: true
 
 secured: "TyRytck30Yc4T4RnCICHNL1zBPWyKcUzmiBFdhKIlYn5c/KQZ+ig/7FNYxAyJdYTXca//hfx1Q4cQGSQc3QRguMxGKeauYmMFDwYcCR2eNE5I0+Upjevu7oL/s3lDGBxb5Q9fhEyOnnp/J/J8mhF02/3Q4NSUYoo6kiCo1pSanQ7AXJanhaCjJV0sN6wlliHtu0FVyW8wrrN9bksiJXDAByPr/wpRb6VRIVZWydqAluewpKI4WqnvzNCCBaqCGXRW6lzaLYCWjrnTUrmfOdYQmSoFs0xukaisQouK7osDKTpDaqA97MI/9XrVA6ntF0eB0SKzGxBrVCCg8XjO4rRaTP1pyrbJqqsjT7wO56/vY8=;OCXCghJ0OpcQyWrOVYp/Zg=="
 ---

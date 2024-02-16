@@ -67,6 +67,20 @@ related:
         width: 2560
         height: 2143
         isCached: true
+  - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
+    excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+    publishedDateTime: 2024-02-15T20:29:00Z
+    webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Feeding the hunger for Nvidia GPU access is big business"
     excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
     publishedDateTime: 2024-02-15T16:34:00Z
@@ -76,15 +90,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-    excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
-    publishedDateTime: 2024-02-15T20:29:00Z
-    webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
   - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
     excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
     publishedDateTime: 2024-02-12T16:06:00Z

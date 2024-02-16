@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-15T20:29:00Z
 originalUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
 webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
+    width: 1024
+    height: 512
+    isCached: true
 
 related:
   - title: "Nvidia launches Ada Generation GPU with 19.9B transistors"
@@ -112,6 +118,6 @@ related:
       domain: crn.com
     quality: 14
 
-secured: "0Smi8ZamQ+aSyq60IHSD9qNYi+ieTZMiNuTlIOER8MW6BbBEbjXyrYOYwvG+SQCwCXmxi2cAkv4ebi6pWz47CS2WG7SMNp16AiOaQ3ADrNz6tnRYdz8PsmKOJdmTAOY22S55+hHUayqqwV8GJlCGCsQznANez6/oPIo7RQZ5s0yGFqSRr1Y2nE6spICSqBGujMouv8vHmHNmoSm3nuSOcYyKsNtrVSRhZILpWUAE7QKR2OO3FNkJhxMt4UhTzPMNZxXRfptFjpetmRdIPXI/MQWs+cWBM/PJTtdYvn3d/MQWGBlk0QyW+cRP07Oq2dzRtPWITXlXgUkWf3zQUZunqoqCYLkAKCDCPvtx3yV6lfQ=;nT0OaPQ4nrbQYHGGuvwRdg=="
+secured: "C7cUpRjfumw5dAO8/zuL4ZzM/6S+mle1C9uoeDGMepVQ0NhV6UoKPWKBZm1EL2nT+HyDGzXiS74gYjI6QXHZL3M/3TlvUiDjWPsDj3I66UP7k+X+wIvoXz7qbCu1NwiuA8sS9WQGUxvQxieJDvKYi1PrJSXeOqGmcaGxTwSKYdzZugINXyTMEWZkBIfhWITPAVWcUNZlGU2B24iYj4M8OCaQ1f/lnXnxArLu1NgOSkRaqsHIqGVRPWMUs3Mxfhwf2oUSEvsJlMadVGeHnJEdYgw2Gnei9oZA1aJ5Jec63amU6Gl1qYUUNTNnSQNQAd7QEqrfLqHNcqAclXsd3Nh4Cqb7YWG0OofrD6U7rNc2A9A=;PR5FQiBCAXgXSkAGYvFRfg=="
 ---
 

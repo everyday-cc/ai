@@ -29,124 +29,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
-    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
-    publishedDateTime: 2024-02-12T13:35:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
-        width: 4000
-        height: 2662
-        isCached: true
-  - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
-    excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
-    publishedDateTime: 2024-02-13T17:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-amd-broadcom-among-biggest-beneficiaries-of-ai-explosion-to-400b-market-analysts-1033062540"
+  - title: "Every country needs its own AI systems, says Nvidia CEO Jensen Huang"
+    excerpt: "Jensen Huang said nations should work toward building \"sovereign AI\" to control the intelligence and data produced."
+    publishedDateTime: 2024-02-15T11:49:00Z
+    webUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 59
+    quality: 89
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Hands-In-Gloves-Hold-Chip-Testing-Microe_0.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Nvidia's tailor mad chip gamble"
-    excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
-    publishedDateTime: 2024-02-12T10:35:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/85ae5c159005f0f36da0615500f600e0_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
-    excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
-    publishedDateTime: 2024-02-15T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-drives-nvidia-to-overtake-alphabet-in-market-value-1033073406"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
-    excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
-    publishedDateTime: 2024-02-15T12:29:00Z
-    webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/15/image/jpeg/zmdNHJGapezEozHxNrJjljcuS9lgnyoTBjNjNIEk.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
-    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
-    publishedDateTime: 2024-02-15T18:54:00Z
-    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
+      - url: "https://i.insider.com/65cded4ca610a9069d59295d?width=1200&format=jpeg"
         width: 1200
-        height: 791
+        height: 600
         isCached: true
-  - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
-    excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
-    publishedDateTime: 2024-02-13T23:31:00Z
-    webUrl: "https://insidehpc.com/2024/02/vast-data-and-runai-announce-ai-solution-with-nvidia-accelerated-computing/"
+  - title: "AI chips don’t need trillion-dollar investments: Nvidia CEO"
+    excerpt: "Jensen Huang remarked on OpenAI CEO Sam Altman’s plan to raise up to $7 trillion for an AI chip initiative, saying the amount assumes that computers won’t get faster."
+    publishedDateTime: 2024-02-13T04:48:00Z
+    webUrl: "https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
-        width: 714
-        height: 422
-        isCached: true
-  - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
-    excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
-    publishedDateTime: 2024-02-12T04:55:00Z
-    webUrl: "https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 36
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hTqnRPDNbs8jT8x7QGNwbW-1200-80.jpg"
-        width: 536
-        height: 301
-        isCached: true
-  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
-    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
-    publishedDateTime: 2024-02-13T10:21:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
+      name: Computerworld
+      domain: computerworld.com
     quality: 34
+  - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
+    excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
+    publishedDateTime: 2024-02-14T04:35:00Z
+    webUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
+    excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
+    publishedDateTime: 2024-02-12T22:11:00Z
+    webUrl: "https://www.inc.com/ben-sherry/nvidia-founder-jensen-huang-dismisses-7-trillion-ai-investment-figure-floated-by-openais-sam-altman.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/NVIDIA-Jensen-Huang-inc_537332_npjqju.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Nvidia CEO says tech advances will keep AI cost in check"
     excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
     publishedDateTime: 2024-02-12T12:31:00Z
@@ -156,24 +91,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 19
-  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
-    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 19
-  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
-    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
-    publishedDateTime: 2024-02-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "atGWdA/fJ9AJ+4RSVJUbEswCwtry0+/e4ZYeSsRFaLYjyuS1uVk73d8KKDfH7tl1gWGX+isyapL5cUREIRkrRe6nwWw0WjJ+TwQcPsI/pikHOf4hlqaASy38aIvFAvsJFtG5AUiilauzH43iIFtBRdF86xbAreXHVPFUDo+f1ThZdS/uTyCBk+lcFOy5V6iduhg4prd/WdBLw6LBc/UD2DXHlxMeKzDIrQwdltPTcd5p3S1e1DKvsxgS0M9AR2h+AJ4/KQ0n43YQ73efSIL2RRdFe8BySbB0gJsYf/NL8KrGC6BPFpwPKvUcXQvUSiy9sc3EM0M2ftsenP4PS9HwwpK0d9RK7ggSTLbAYkiqUjA=;zUUGAXsc6iliPcn+x9mrkg=="
 ---

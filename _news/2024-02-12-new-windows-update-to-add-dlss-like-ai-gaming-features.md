@@ -7,7 +7,7 @@ originalUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-a
 webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai adds AI meeting features at no additional cost across all plans"
-    excerpt: "Meeting GenAI and its feature set is available starting today across all plans, including the free Otter Basic plan, at no additional cost. This addition is part of Otter AI's commitment to improve how its users meet and collaborate."
-    publishedDateTime: 2024-02-13T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
+  - title: "Windows 11 is Reportedly Getting an AI Upscaling Feature for Games"
+    excerpt: "Microsoft is reportedly working on a built-in alternative to AI-powered upscaling technologies from Nvidia, AMD, and Intel on Windows 11."
+    publishedDateTime: 2024-02-12T16:55:00Z
+    webUrl: "https://www.thurrott.com/windows/297693/windows-11-is-reportedly-getting-an-ai-upscaling-feature-for-games"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
+      name: Thurrott
+      domain: thurrott.com
+    quality: 39
     images:
-      - url: "https://www.zdnet.com/a/img/resize/aac5a1233ac3187d0e535142ecbea07c1a386d9e/2024/02/12/57566d6e-c7bc-4372-bf8b-9daa40a2aebf/meeting-genai-banner.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’"
-    excerpt: "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform."
-    publishedDateTime: 2024-02-13T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/looking-for-more-intelligence-from-meetings-otter-ai-is-taking-a-shot-with-meeting-genai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 57
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image2.png?w=1200&strip=all"
-        width: 1199
-        height: 675
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2024/02/Windows-11-Gaming-PC.jpg"
+        width: 1066
+        height: 600
         isCached: true
 
 secured: "XhXfNZX1e2RzRl8Z62VVItYd7jawyIYTB/0/dZmnYecY851/KqVzt2DeF+iwtm0lEbs0ef0Z+76OjE2wcTDXnwSLPuYpcO0374knfgF+vY/fD/TzSaIrsL8dfNXwa2Pgie4SCBhgSS8/9o0QIbmVkSiwtd/f67WInPJXRcRARJDCVVQBWTaevSdTGUtiaj5Id1siKwIAkoWGp/NUyotB50YJ1A04cw36iJwqFVvwSrQOVx4uQ4HaJ4fISlKBehNhprzZ7SbEYeQ7yJWzXLGKJsLHEO88v3UFedAT3jhocZEZ95s4i04trR+18WiaXICTCSqZc7mA05a7Zf35JJNBqBtiPcEyZp8tJSwIqgRK35DF+iSZc3gjeL/03DNLMZrxulltp+c0WtV7V7Qw5zmPXvxRmpoH8f774gmEV9GPP7V9UcoEXDBROFI9fG6SpcsvP3q/B4ZHsVNWDrwoCBb89tWx1rXcXsN/A4hUxgcz2axZy2D5DWB72Nd8/aBxm/JORD/uDoxFbnBsbG26n4s/0w==;1SjqsXXfoS55Uv1CARFIDQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Becker's Hospital Review
@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
-    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 25
 
 secured: "hl044yolQ/ZReCHVY6SW9bQTONs/4xIe3h8s7eWK5XI3DqzvHck6eB/yUHeKEGe4EC/GQb9KDAnqutG2Mwd3/Ht9toYXi4h2VngqaqG+fiTaEA0wxVU6ohnzLVNRrdilfx1Pph35Lwt3rqpHAU73Fb8YMJhtXFFtpqqeUYDmiCvfgz/6LRhr+xmtd4yfXONMWTvikWpS01uE6IHWABnVMaQ1y8HO9NSNm0Bz+wfi1j1xQBD8j4EKRVDhRQaMPKpl+orXTq1GT83sBIbP/FaQOCsqMkpQ74n2yf2fK/dCZcjpiv0WUcv4JzX/laYFhh9A86ey2x6t/EpuXaVyt3NKaBBkO/ew0dAM18W3oGa67gs=;9US0ciqoxIbnMmN2snw+GA=="
 ---

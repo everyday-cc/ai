@@ -39,6 +39,34 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
+    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
+    publishedDateTime: 2024-02-12T03:25:00Z
+    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 84
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
+    excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
+    publishedDateTime: 2024-02-15T22:17:00Z
+    webUrl: "https://www.wired.com/story/chatgpt-vs-gemini-ai-chatbot-comparison/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 84
+    images:
+      - url: "https://media.wired.com/photos/65cbcba74b994e610bc5d2ae/191:100/w_1280,c_limit/Which-AI-Chatbot-Is-Right-For-You-Gear.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’"
     excerpt: "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card."
     publishedDateTime: 2024-02-13T15:44:00Z
@@ -134,6 +162,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
+    excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."
+    publishedDateTime: 2024-02-15T23:37:00Z
+    webUrl: "https://hoodline.com/2024/02/google-s-gemini-chatbot-a-mixed-bag-of-reviews-as-it-takes-on-openai-s-chatgpt/"
+    type: article
+    provider:
+      name: Hoodline
+      domain: hoodline.com
+    quality: 52
+    images:
+      - url: "https://img.hoodline.com/2024/2/googles-gemini-chatbot-a-mixed-bag-of-reviews-as-it-takes-on-openais-chatgpt.webp"
+        width: 1640
+        height: 924
+        isCached: true
   - title: "Nvidia launches a chatbot that can run on your PC's GeForce RTX GPU"
     excerpt: "You can also feed it videos from the web, including clips from YouTube. Simply plug in the URL of the source video, then ask the chatbot"
     publishedDateTime: 2024-02-13T19:04:00Z
@@ -142,15 +184,6 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 49
-  - title: "The Human Perils of Giving ChatGPT More Memory"
-    excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
-    publishedDateTime: 2024-02-14T15:13:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-14/the-human-perils-of-giving-chatgpt-more-memory"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
     quality: 49
   - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
     excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."

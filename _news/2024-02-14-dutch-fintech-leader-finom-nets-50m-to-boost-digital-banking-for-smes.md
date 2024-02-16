@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 894
         isCached: true
+  - title: "The Future Of Business To Business Banking: Fintech 50 2024"
+    excerpt: "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank."
+    publishedDateTime: 2024-02-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49c9ad26e48437eb62c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Fintech bets on AI to improve loan offerings"
     excerpt: "Carbon has announced the acquisition of Vella Finance and aims to leverage the fintech’s artificial intelligence (AI)-powered"
     publishedDateTime: 2024-02-15T10:21:00Z

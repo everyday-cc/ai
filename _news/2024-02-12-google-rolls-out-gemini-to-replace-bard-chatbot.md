@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
+    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
+    publishedDateTime: 2024-02-14T06:09:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
     excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
     publishedDateTime: 2024-02-13T01:10:00Z
@@ -43,37 +59,35 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Google CEO Sundar Pichai Explains The Reason Behind Renaming Bard To Gemini"
-    excerpt: "Pichai said that the company sees Gemini as the forefront of their AI technology. Google Gemini, Google Bard rebrand, Gemini AI, Gemini Ultra, Gemini Advanced, Sundar Pichai on Gemini, ChatGPT Plus, Microsoft Open AI,"
-    publishedDateTime: 2024-02-13T08:23:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
+  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
+    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
+    publishedDateTime: 2024-02-13T07:29:00Z
+    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 57
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
     images:
-      - url: "https://static.tnn.in/thumb/msid-107655265,thumbsize-14062,width-1280,height-720,resizemode-75/107655265.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
+        width: 1792
+        height: 1024
         isCached: true
-  - title: "Why did Google rename Bard to Gemini? Sundar Pichai said ‘Really made sense to…’"
-    excerpt: "Google CEO Sundar Pichai revealed the reason behind renaming the Bard AI chatbot to Gemini, stating that it reflects Google's approach to building its AI models. The name change allows users to directly interact with the underlying Gemini model."
-    publishedDateTime: 2024-02-12T04:37:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to-11707709119623.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to/amp-11707709119623.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to/amp-11707709119623.html"
+  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
+    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
+    publishedDateTime: 2024-02-15T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/12/1600x900/GEMINI-AI-13_1707709895119_1707710256711.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "z+m90cEqv7OB6chhyLc3hAmiOodm4DEsFa2Mn8UuEk//Yu2jhyl5P0O5VYGxVXtJiKaoGf7t9S32dTT/oU4Kci68KLme0ieXvDfFf6eJyC4DloeyyZpgmw9xYTShRYogSFYr68N9lYsOdZbKAJqR2ayOzj6Dmf2k3UjJJZwerRAnpsoOvDSCVGuFZknWmsfUbjA5bJNCy+fKutwN5gWfftQkPWNDr2iH8piKvmISa9a+XRwLhgeMN3kYmB4mKrcis2KyRDjcwatp5GmIb5/37l8hfPUdEcuuTOAHkerhdgOJYqqtzyLBlI7Y8mpWd9YnRlYUOhH2fkOvUrXPbDwjgsU2zpO7xDJf1pQGEUFPtO8vNN8hkvGg22tOfIl7GaWvOakzPUuJFfcXpCvXcCOcOrzzEn5xUuFaP9DYvUeAxJOSq/+mhf5I/NqYYEfqsG8NAcXplzndlHnU8F5G4JhvHH8JSRTdq+5m41v+fHaJrTm4JWsxw/SmdnKwJHjn98167aasRC0MWsr6lmHLnPMqow==;YvVxOs04kf3nNFWM87gQog=="

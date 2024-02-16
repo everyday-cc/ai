@@ -19,34 +19,71 @@ topics:
   - AI
 
 related:
-  - title: "Georgia bill aims to restrict AI in healthcare"
-    excerpt: "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision."
-    publishedDateTime: 2024-02-13T15:55:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html"
+  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
+    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 56
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "AI not ready for prime time in mental health care, experts say"
+    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
+    publishedDateTime: 2024-02-14T08:00:00Z
+    webUrl: "https://www.gloucestertimes.com/news/national_world_news/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_31988137-aebe-595d-8304-943d4a9f6029.html"
+    type: article
+    provider:
+      name: Gloucester Daily Times
+      domain: gloucestertimes.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
+        width: 400
+        height: 391
+        isCached: true
+  - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
+    excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
+    publishedDateTime: 2024-02-14T16:36:00Z
+    webUrl: "https://www.beckershospitalreview.com/hospital-physician-relationships/trends-clinical-leaders-hospital-execs-say-will-shape-healthcare-beyond-2024.html"
     type: article
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
-    quality: 54
+    quality: 36
     images:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
         isCached: true
-  - title: "Kennesaw State University to pioneer new master's degree in AI in Georgia"
-    excerpt: "KENNESAW, Ga. - Kennesaw State University will soon be offering a master’s degree in artificial intelligence. This initiative marks the second institution in Georgia to offer a master’s degree in this rapidly growing field, positioning the university as a key player in addressing the burgeoning demand for AI experts."
-    publishedDateTime: 2024-02-14T02:21:00Z
-    webUrl: "https://www.aol.com/news/kennesaw-state-university-pioneer-masters-022117256.html"
+  - title: "House Republican urges VA to get consent from veterans before using AI for health care"
+    excerpt: "Rep. Matt Rosendale urged the Department of Veterans Affairs on Thursday to obtain patient consent before using artificial intelligence as a clinical tool for the diagnosis and treatment of medical conditions."
+    publishedDateTime: 2024-02-15T23:08:00Z
+    webUrl: "https://www.stripes.com/veterans/2024-02-15/veterans-affairs artificial-intelligence health-care-13017012.html"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 38
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 31
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/cBLHJFg0mAKki5D_2L.cew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/e3b688698559d7e9b843a09ddb23ee3e"
-        width: 1200
-        height: 675
+      - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
+        width: 480
+        height: 299
         isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
+    publishedDateTime: 2024-02-15T10:59:00Z
+    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Military Times
+      domain: militarytimes.com
+    quality: 19
 
 secured: "N5l0SiwGzx9W5a+/zdNxvMSyNfhDrrJRg6en33Zi82YGS70K1ZAEcAg+DaT38WACHbVc14heTwYq1cnpcuHKPmBBMHT26PTV7+vFYX3Sf5V1Vz+mHF0yd80oNWLPvZ/VXPgR/ZgSAg8HTLmWoltT7W7/GPKS1NE6IDbmNbJz0EzjOwLPAYcWFUB9tlZR+6WSNPu01iNkTV31wCJlBkHka0Karsj8ixD3wtnjqb50bpiZwXxwDhTWkb+662+6uaAWHsgmJNNmx4NnAttH10++OkJ9h1d+8eu8m1BRJrl/i09L62VDBJMH/aGy/8+qgD92J1G3s8EdRAUvE8D39zfCuMoTQgbDanja61zfcwdfJgs=;kwbO5nT2q4D/LCBHL4wscA=="
 ---

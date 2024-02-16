@@ -27,35 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI Gives ChatGPT a Better ‘Memory’"
-    excerpt: "The A.I. start-up is releasing a new version of ChatGPT that stores what users say and applies it to future chats."
-    publishedDateTime: 2024-02-13T18:23:00Z
-    webUrl: "https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html"
+  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
+    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
+    publishedDateTime: 2024-02-14T06:09:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
     type: article
     provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 75
     images:
-      - url: "https://static01.nyt.com/images/2024/02/13/business/13chatgpt-memory/13chatgpt-memory-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-13T10:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+  - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
+    excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
+    publishedDateTime: 2024-02-13T01:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/articleshow/107639046.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 77
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.toiimg.com/thumb/msid-107639040,width-1280,height-720,resizemode-4/107639040.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
+    excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
+    publishedDateTime: 2024-02-12T08:00:00Z
+    webUrl: "https://www.viva.co.id/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    ampWebUrl: "https://www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    cdnAmpWebUrl: "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
+    type: article
+    provider:
+      name: viva
+      domain: viva.co.id
+    quality: 44
+    images:
+      - url: "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/08/6572a07ba12f5-google-rilis-gemini-ai_665_374.jpg"
+        width: 665
+        height: 374
+        isCached: true
+  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
+    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
+    publishedDateTime: 2024-02-13T07:29:00Z
+    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
+    images:
+      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
+        width: 1792
+        height: 1024
         isCached: true
 
 secured: "1iJgBUislUg+2ZwQkRm/oVqE19AryvK4NZleLxS5tt+kLhXqdMyuXdqlteKcr5nVdB/SR41GLVcR3xyM7E6CvGnNDHRTLA/EstJGy/9fP/h3MK+nFUS99kqcXMq3hFI0sCWL3MSiXTnyycYcI0OAxF4wKb/EwTS7N4rf38DnJzJijpIdeDEvDeL4YIJ3giLSBMEsssEZfjdHYRnzGf0WoXNYvFMn0gfA4Vu799yloUGC2SxvQJHVPB/C4If9EeP1wCSur0XcTDkXJ3RL01++HwGiP9Ur3hwef38odXngu1CM6P7cPbw+kgeX681WSiS27UXV2SCnJEg8ZRbi7bP2DdQfEh0RVPZ8SttoFR+VTBI=;k6MXMyTRFx5Ww8KZShtoVA=="

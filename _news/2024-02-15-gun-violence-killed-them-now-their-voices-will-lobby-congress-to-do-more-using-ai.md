@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-v
 cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "Families advocate for artificial intelligence to restore voices of gun violence victims"
+    excerpt: "If the idea of getting a call from someone killed in a mass shooting makes you uncomfortable, families across the U.S. say that's the point. Artificial intelligence is now restoring the voices of people lost to gun violence."
+    publishedDateTime: 2024-02-15T23:18:00Z
+    webUrl: "https://www.fox32chicago.com/video/1411844"
+    ampWebUrl: "https://www.fox32chicago.com/video/1411844.amp"
+    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/video/1411844.amp"
+    type: article
+    provider:
+      name: FOX 32
+      domain: fox32chicago.com
+    quality: 29
   - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
     excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
     publishedDateTime: 2024-02-14T14:00:00Z

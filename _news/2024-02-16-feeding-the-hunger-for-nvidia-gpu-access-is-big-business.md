@@ -73,7 +73,12 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AI_shutterstock_2287025875_special-1-1024x512-1.jpg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
     excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
     publishedDateTime: 2024-02-12T23:14:00Z
