@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Gemini: Everything you need to know about the new generative AI platform"
+    excerpt: "Google, proving once again that it lacks a knack for branding, didn’t make it clear from the outset that Gemini is separate and distinct from the Gemini apps on the web and mobile (formerly Bard). The Gemini apps are simply an interface through which ..."
+    publishedDateTime: 2024-02-16T18:25:00Z
+    webUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v2.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meet Gemini 1.5, Google's newest AI model with major upgrades from its predecessor"
     excerpt: "On Thursday, Google unveiled its next-generation model, Gemini 1.5. Even though Gemini 1.0 just launched in December, the new model boasts massive upgrades from its predecessor, including a longer context window, better understanding, and an overall enhanced performance."
     publishedDateTime: 2024-02-15T06:59:00Z
@@ -195,6 +211,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "12Nh9chIjMTZCQ87HzSjdHhhbCtA2P+wna4KfiDx3S2E81pFz98u67hi+nYXjON6CKeDWZoh43WmBkpYEdzVYfvQ1x2sGcXxC+J/5EVc3OV+OPKMGRNgiZz7jdg/tK1vOPyVXiZ1prMzr5LZkcrF/Xyp99aT1UFHN+6yxvNNH6ZAJXGdrdf8xpTBjhU2bIUoF7WVZWFuge7iK+v4DnjtmzwewhkBTNBAPs35CLA5dzCVx2emWkYtCZVpjORFcohhoYbzdSziRqLaI1OgnCYUAHGux9u6I0CmMpKQxKKTuJSCU/KuABwhNtG3amvM4q3zgn0VVs6Y5y72hUDC2HG/YWRevkFR7bafnTBzd+Yn0II=;OxxNGI9WwQ0jm3+WrCBldQ=="
+secured: "joQBx7c/T3fD71iO0Ds7YHMeFcOCPiw0ZYBojrAbuJw2ML3NoZ2gJQaBQC9ulmPOgnV0iLPACOmv2Bz4MWx4JsnjnpRst3iInhOD6XbeXQJq1/2CSxdYei8Oi5RjT6x6v8MlJPGFdjni+AQRaQSHW+RboGwFCUS2rUeHFJ1dowOV44VYh+gdICcaiMh0x6fB5bCu3g7ckIvajEKyMU9aKRKMeWYCe2C7vEDnjE1n8xH5Oa6ppoFWBp3V5IHVKz3RZov63Jk1aREPx+0Q+T6tJ3p4ld3q1qkB1TYcTYaz2AMRHbY6sDYmN+xuD7eU/7qGkG/3o/DCdNNfPqoU5No32HqP+XajFd6ttgBq3cOjdsI=;u64CkwTXk4kWHkPgJZEhNA=="
 ---
 

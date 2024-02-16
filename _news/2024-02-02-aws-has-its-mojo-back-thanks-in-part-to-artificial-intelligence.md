@@ -3,8 +3,8 @@ category: news
 title: "AWS has its mojo back thanks in part to artificial intelligence"
 excerpt: "The tech giant's cloud computing unit is back to re-accelerating growth after seven straight quarters of flat sales, due in part to rapidly rising benefits from artificial intelligence."
 publishedDateTime: 2024-02-02T13:48:00Z
-originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atrending"
-webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence?source=content_type%3Areact|first_level_url%3Amarket-news|section_asset%3Amain|section%3Atrending"
+originalUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence"
+webUrl: "https://seekingalpha.com/news/4062032-aws-has-its-mojo-back-thanks-in-part-to-artificial-intelligence"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 499
     isCached: true
 
-secured: "Y80y8CZaJeMfnCXPYtAqlL2eFdwKPtnMAHPtngMIpMUW64MmVkODKiDQTIDlKXVgJ1ugq/u1Qa3gMjPApyBiqUqE2PvidHcKRGIXlcINvhoUvxd+DdJj/2+Ne1FAeWKI/C3oFQJceUeuiH5FvJu2GgotGABJa9xp8aA9qvqThTuL7dAzkbnHmmKF45p/Zm3AcipbYVhlNDpEQCK0SUrZlQrGJDBvy2IeUe86YV5WSfe8vrkgo0sX35ubO8+n0RLHy0iR7G7wSyjQ1A5skvLeS/Gq2NJLFH7lJMniZZgRAj8cORKDs39VElxwAhrs1RbcEqhOydQ4GMVgUu+tJbSKDVjgf5vWMkGvVJN3aLlMaDw=;mrQS+myKJn6102MyzRldHA=="
+secured: "CepC9oZskLnWUkJQFzxM9KqWtf3rD7KBhVoHh6gUMiuSu5M9aI4R6RGjYaGvBB4Q2nJ9g57BJUFlJz3KSRgoyoQ176qlwKflyRPNVnTWp6zxXFicAd+lrK68eVYpZTqy5VN3U+Nh4nM6Xu9uWjPN42ozgXeFJWjupfQmSKhaZ5nBmwu6XND+4i21EX6SkTZa9bNBlObf5yiDEEOBz3o+huocgs+khMm6L1vpZS0eWlCgsr5VBGchnIP1Yj7IkSAjSmQ0Z4ST4PxM2tfNqlQr3c5Rc7pS5JNLG8gt/Vuu4l3GhKAwn0890hFj+ec1p2bg1OvAzkTVaW/ZpkTL6XSwHEVv6Ys4Q4J1NW7guJeOjrY=;5mGK/VK0n0qoQ8U37hiXBA=="
 ---
 

@@ -26,21 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Gen AI's Impact on Retail: Overcoming Data Challenges and Ethical Considerations"
-    excerpt: "Gen AI is no longer confined to the realms of experimentation but is swiftly becoming an integral part of retailers' strategic visions."
-    publishedDateTime: 2024-02-14T16:12:00Z
-    webUrl: "https://www.mytotalretail.com/article/gen-ais-impact-on-retail-overcoming-data-challenges-and-ethical-considerations/"
+  - title: "Navigating The AI Wave: A Strategic Approach To Adoption"
+    excerpt: "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption."
+    publishedDateTime: 2024-02-16T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
     type: article
     provider:
-      name: Total Retail
-      domain: mytotalretail.com
-    quality: 51
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://network.napco.com/total-retail/wp-content/uploads/sites/14/2024/02/NRF-Big-Show-2024-Jason-Dixson-Photography-240114-162847-5005.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 54
 
-secured: "uE5PfETbDxm+gYBZB1ubkZN1gAL5W0gxDt/zqTFGY5TardsGSbe9p61jaBSCJS7u3WWnaKWPnKAMHERJ+eQQsXtl4YsmZxXgW2UcNNG0+V88pQN0VyKhsKvJx+FJro6HMuQ+rFgySSgPddgFnBk7Nknuz6FTh3rVFcufVyQXPhLuTN5O6+ECRP4qNS/eDj/Q6cFcKVwO53QfHbpFBKOVa5T1rtm4BtLOVpSJ/QDHPqE0wB2c4f2wRnD38zOTsVgIuGuC3zpUkO83KMj+h0s47ErzJ4dlsko6kTprk7Ww8SjsRU9EgCJ2+6qZXQMs1Waj+kD/XgfOE4dxiIjSkq7zjisLhLAGPCF2bVrER+z6Was=;PcKSm29vU56Qyl4NIcyE/A=="
+secured: "SG0uzjKfMlixf6KosupKWyoCS90ZFy3ttB6OAfjQPobEDVCegy3EXBwzXCBsNRrH7h4NAyztWUXqsFMfocGnFaDBK81YKzGBjr8Xhi0nziEXXXeWiEOzAcasE03Cc36iLOKJrOqUQMmIdlNsgYwKrKG37PAXm6OTsJY+Lml7gLmcPdyvn5McUnKP9T9cbh2DnonitFPrUK+0wiRC4az9NeiGinAcITHoB42/kR74XImCcIP5BF3FHf3Rtyjeud+CCK0uaO4iFOPssTgA7SXFwi07Y58ChMj9/kFix/pMZM9+beH17yYYw1KQjUVcTGzceD40EuisrgBLkfvsBSujQXQCqZAOJ6Tepbdt9hrqZzTzfTX0E8RtD3KWOLjSmyzfAehmZPd0kRFVmz2j8m31EYoLpLEXOyzHx41T8E8o++6evBSauaz+JBmWCGjhrrfkE5lVdDW/kKR9hYPjD0+U0jrmLRQxDnzl2qPo6UUGUWYI8gk6EKGjr8np95pPNAR89mGsvnqeVlByahJ/b/53Eg==;zJgpljYrGuBwuLSutVDPMA=="
 ---
 

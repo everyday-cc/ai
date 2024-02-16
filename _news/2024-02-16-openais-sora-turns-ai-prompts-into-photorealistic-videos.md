@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-15T18:15:00Z
 originalUrl: "https://www.wired.com/story/openai-sora-generative-ai-video/"
 webUrl: "https://www.wired.com/story/openai-sora-generative-ai-video/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg"

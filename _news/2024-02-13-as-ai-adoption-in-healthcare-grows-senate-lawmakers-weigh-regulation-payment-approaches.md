@@ -33,6 +33,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
+    publishedDateTime: 2024-02-15T10:59:00Z
+    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Military Times
+      domain: militarytimes.com
+    quality: 41
+    images:
+      - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
+        isCached: true
   - title: "AI not ready for prime time in mental health care, experts say"
     excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
     publishedDateTime: 2024-02-14T08:00:00Z
@@ -46,6 +60,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
         width: 400
         height: 391
+        isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
+    publishedDateTime: 2024-02-15T19:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
         isCached: true
   - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
     excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
@@ -75,15 +103,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
-    publishedDateTime: 2024-02-15T10:59:00Z
-    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
-    type: article
-    provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 19
 
 secured: "N5l0SiwGzx9W5a+/zdNxvMSyNfhDrrJRg6en33Zi82YGS70K1ZAEcAg+DaT38WACHbVc14heTwYq1cnpcuHKPmBBMHT26PTV7+vFYX3Sf5V1Vz+mHF0yd80oNWLPvZ/VXPgR/ZgSAg8HTLmWoltT7W7/GPKS1NE6IDbmNbJz0EzjOwLPAYcWFUB9tlZR+6WSNPu01iNkTV31wCJlBkHka0Karsj8ixD3wtnjqb50bpiZwXxwDhTWkb+662+6uaAWHsgmJNNmx4NnAttH10++OkJ9h1d+8eu8m1BRJrl/i09L62VDBJMH/aGy/8+qgD92J1G3s8EdRAUvE8D39zfCuMoTQgbDanja61zfcwdfJgs=;kwbO5nT2q4D/LCBHL4wscA=="
 ---

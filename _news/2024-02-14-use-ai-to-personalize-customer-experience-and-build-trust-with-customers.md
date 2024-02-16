@@ -54,6 +54,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Customer service vs customer experience: Key differentiators"
+    excerpt: "What is customer service vs customer experience? Here are the key differences, and why your business needs to excel at both.\nThe post Customer service vs customer experience: Key differentiators appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-16T18:00:00Z
+    webUrl: "https://www.ibm.com/blog/customer-service-vs-customer-experience/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 102
+    images:
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1448005049.blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
+        isCached: true
   - title: "OpenAI board chairman launches AI agent startup to elevate customer experiences"
     excerpt: "an AI agent startup for businesses. Founded with Google’s former head of VR Clay Bavor, Sierra aims to empower enterprises with their own AI agents. This will enable them to take their digital operations to a whole new level. The company has already ..."
     publishedDateTime: 2024-02-13T11:58:00Z

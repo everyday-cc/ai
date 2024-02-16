@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explo
 webUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "The impact of Artificial Intelligence on the global economy and job market"
+    excerpt: "In an increasingly connected world, artificial intelligence (AI) is emerging as a catalyst for change, revolutionizing sectors and"
+    publishedDateTime: 2024-02-16T17:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1708097809119.png"
+        width: 1597
+        height: 1060
+        isCached: true
   - title: "Exploring the Impact of Artificial Intelligence on Everyday Life"
     excerpt: "Welcome to the future! From self-driving cars to voice-activated virtual assistants, it’s becoming evident that artificial intelligence (AI) is reshaping the world as we know it. But what exactly is AI,"
     publishedDateTime: 2024-02-13T16:49:00Z

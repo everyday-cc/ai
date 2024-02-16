@@ -47,6 +47,22 @@ related:
         width: 800
         height: 418
         isCached: true
+  - title: "Google Gemini: Everything you need to know about the new generative AI platform"
+    excerpt: "Google, proving once again that it lacks a knack for branding, didn’t make it clear from the outset that Gemini is separate and distinct from the Gemini apps on the web and mobile (formerly Bard). The Gemini apps are simply an interface through which ..."
+    publishedDateTime: 2024-02-16T18:25:00Z
+    webUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v2.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google unveils Gemini 1.5, a next-gen AI model with million-token context window"
     excerpt: "Google unveils Gemini 1.5, a next-generation AI model with a million-token context window for dramatically improved long-form reasoning."
     publishedDateTime: 2024-02-15T15:00:00Z

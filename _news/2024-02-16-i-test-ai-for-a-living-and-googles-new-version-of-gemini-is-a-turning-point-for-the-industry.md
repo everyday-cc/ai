@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
+        isCached: true
   - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
     excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
     publishedDateTime: 2024-02-16T01:47:00Z

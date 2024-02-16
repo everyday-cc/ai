@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-new-magic-gmail-securitygoogles-latest-ai-defense-initiative.md",
+      "title": "New ‘Magic’ Gmail Security—Google’s Latest AI Defense Initiative",
+      "excerpt": "Google wants AI to protect your networks and data. It's already starting with Gmail as the technology titan launches the AI Cyber Defense Initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/",
+      "originalUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64dcb864be8a2689643d5163/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/",
+      "publishedDateTime": "2024-02-15T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-acciones-de-nvidia-se-disparan-por-ai.md",
+      "title": "Acciones de Nvidia se disparan por AI",
+      "excerpt": "Las acciones del fabricante de chips, Nvidia, aumentaron 2,5% sobrepasando a Amazon. ¿Cómo?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/230629175437-dinero-chips-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
+      "publishedDateTime": "2024-02-15T21:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use.md",
+      "title": "This German nonprofit is building an open voice assistant that anyone can use",
+      "excerpt": "Collabora is working pro bono to adapt its open source speech recognition and text-to-speech models, WhisperLive and WhisperSpeech, for BUD-E. “Building the text-to-speech and speech recognition solutions ourselves means we can customize them to a degree ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/voice-assistants.png?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/amp/",
+      "publishedDateTime": "2024-02-15T21:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-palantir-stock-surges-from-artificial-intelligence-platform.md",
+      "title": "Palantir Stock Surges From Artificial Intelligence Platform",
+      "excerpt": "Palantir’s stock surged after Q4 earnings confirmed an acceleration in its US commercial business, driven by its AI platform. This is the major story for 2024 and 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
+      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce48fe323023c5a055af97/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/amp/",
+      "publishedDateTime": "2024-02-15T20:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
       "title": "Hartford Healthcare launches new AI center to help with operations",
       "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
@@ -296,7 +503,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -560,7 +767,7 @@
       "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "",
@@ -851,7 +1058,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -986,195 +1193,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity.md",
-      "title": "DeepMind COO on building a responsible future for AI and humanity",
-      "excerpt": "The AI community has an obligation to humanity to build AI responsibly. But what does that mean? DeepMind COO Lila Ibrahim shares 3 steps.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity",
-      "originalUrl": "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-3.jpg&signature=463d573ee9ee2d37c82274580114c348",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T09:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-is-supercharging-parametric-insurance.md",
-      "title": "AI Is Supercharging Parametric Insurance",
-      "excerpt": "Considering its 200-year history, parametric insurance has been slow to adopt, with conventional insurers regarding it as a niche proposition, suited for the",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca298f61d43ff4607a297b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1316,
-          "height": 877,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ruthfoxeblader/2024/02/15/ai-is-supercharging-parametric-insurance/amp/",
-      "publishedDateTime": "2024-02-15T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade.md",
-      "title": "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade",
-      "excerpt": "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
-      "originalUrl": "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop",
-          "width": 864,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37151354",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354",
-      "publishedDateTime": "2024-02-15T08:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-facial-recognition-system-at-airport-remains-ineffective.md",
-      "title": "Facial recognition system at airport remains ineffective",
-      "excerpt": "The modern facial recognition system, a collaborative effort between Karachi airport and the government of Japan, is facing operational challenges due to incomplete data entry, rendering it ineffective.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
-      "originalUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/319015-karachi_airport-1326187455/319015-karachi_airport-1326187455.jpg",
-          "width": 922,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2456510/facial-recognition-system-at-airport-remains-ineffective?amp=1",
-      "publishedDateTime": "2024-02-15T08:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

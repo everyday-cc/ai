@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Crowd sets Waymo self-driving car ablaze in San Francisco"
-    excerpt: "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet."
-    publishedDateTime: 2024-02-11T17:36:00Z
-    webUrl: "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980"
-        width: 2200
-        height: 1238
-        isCached: true
-  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
-    excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
-    publishedDateTime: 2024-02-11T23:31:00Z
-    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
     excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
     publishedDateTime: 2024-02-12T12:13:00Z
@@ -53,34 +28,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 48
-  - title: "Mob attacks driverless car in San Francisco"
-    excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
-    publishedDateTime: 2024-02-13T01:19:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/791196-Mob-attacks-driverless-car-in-San-Francisco"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 39
-    images:
-      - url: "https://img.dunyanews.tv/news/2024/February/02-13-24/news_big_images/791196_29926189.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "Waymo recalls software after two self-driving cars hit the same truck"
-    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
-    publishedDateTime: 2024-02-14T19:29:00Z
-    webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
     excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
     publishedDateTime: 2024-02-13T23:14:00Z
@@ -154,33 +101,6 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 19
-  - title: "Waymo Self-Driving Car Torched by Mob in SF's Chinatown"
-    excerpt: "An autonomous Waymo vehicle was attacked and set on fire by a mob in San Francisco's Chinatown; no one was injured."
-    publishedDateTime: 2024-02-11T18:19:00Z
-    webUrl: "https://hoodline.com/2024/02/no-passengers-but-fury-ablaze-waymo-self-driving-car-torched-by-mob-in-sf-s-chinatown/"
-    type: article
-    provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 19
-  - title: "San Francisco crowd destroys Waymo self-driving car"
-    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
-    publishedDateTime: 2024-02-12T19:17:00Z
-    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
-    type: article
-    provider:
-      name: winnipegsun
-      domain: winnipegsun.com
-    quality: 19
-  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
-    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
-    type: article
-    provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
     quality: 19
 
 secured: "Pq26Q7MEqkvVJyXgi+VhZqw1PaD77sA+qNBpCa4pK60DsdGYzLl/PvX9HkYSciwL6xSLxbn0P/pLollf2IYfqCsitII/w2hOjSTc6H4XCJOyjY+jd9WBlvFi/Osmqw/Wng6jg11yH/kc4ew9YLGkhcqEPz07WrmotgK3G+VJKDuLiWSMwcDGQX+bhYZgRAN6BBSwqRmiWENG4bzWxeyPVEXiT7WxsU3xRH+eEckhtMAEC9qpqYyjRg5ciIFiMJXYP5adUAsljlRNnoAKvyyUf18UGetUq2XdKd+QX4ia/UH19Pc5xS03P5uFUC36AgoCma0HOjMqruinPes+amxpEvQo+as7Rs7yYZIhBVWfE10=;aQFJyZQ3K+FyNke/fBb3rg=="

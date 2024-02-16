@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-ena
 webUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-enabled-automated-inspections/"
 type: article
 quality: 119
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Commercial Observer
       domain: commercialobserver.com
     quality: 34
+  - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
+    excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
+    publishedDateTime: 2024-02-16T18:53:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/UiPath-Debuts-Expansive-Updates-for-Developer-Centered-Automations-162634.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "aNsiqbDrWbywQU1e69F/B012/aFY21ssE1VzCwD3tLRqQ/tbnS5nDBznHvLpAV4piGq3c4XevKzalTTb1MI9m+ltvsNPPkInkEaTPKFDbGToMSgrTgVOEkRx9syp3wHBv0QGdltkXDVhKKLxDHn3AKMCcKiw+76iddRrM36IfL+gqlr2hS3BmLGid+og0dIsVr6f12F9/NYoaw2d8B+6gXGf4uLl4YfkBvBduUZSMaJ3Ka1LZjq2m3KDvffaYO628r4qFdRlwneJzD9MAEehMd+zqeShbRMM2mg6HPbRi/aRxhnytNQ8CmppOkUJyXwk3ju+cOVtU8h75+r2m+jt0zFErm0jjLObsLyzFanHMok=;S7HgYRZvUC/Y0S9XeY+/Bw=="
 ---

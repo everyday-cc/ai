@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
+    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "k47scQ2M096LmDkf2UFpBJb4giR3wM5/y7Rn47SgTDgHG+/c5FrznjkNFEOrpS7OiQz6sZK9hi/gklGNjBsPakfGm9ufpv73u8s3vOIT4JKNr/IcFFTLGQOmvGsJEXEaCaF/p7xKFp2YkY5bAONfZLfTQGe2K8CFFuOKynt70lLnGBO8ad/KZGnqedM7oUD5G06xKkUcJg5YERNw61JQdB2upSYr7UDEpNGqsmdcj+go130671R4HrP3zpT8GtHyuZmV0a+rPcTyGObBDhQpm/3PXF3HFC59nj0h2NMwE1R+dMEflTqv2NJMxb88EDZdf0DMW/hARsX7T1c2MY6960LaZK+ZWCkW3eMuddodjq8=;EdZm9XbeXEatGbZMelkmHA=="
 ---

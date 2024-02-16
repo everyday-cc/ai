@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 400
         isCached: true
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
+        isCached: true
   - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
     excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
     publishedDateTime: 2024-02-16T12:15:00Z

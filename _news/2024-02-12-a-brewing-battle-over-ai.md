@@ -35,6 +35,20 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Tech giants pledge action against deceptive AI in elections"
+    excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."
+    publishedDateTime: 2024-02-16T17:15:00Z
+    webUrl: "https://www.npr.org/2024/02/16/1232001889/ai-deepfakes-election-tech-accord"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 37
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/16/ap24023546723486_wide-66ebfbe3c7412e739b03242164d25cd081382efe-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
     excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
     publishedDateTime: 2024-02-14T19:29:00Z

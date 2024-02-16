@@ -47,6 +47,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
+    excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
+    publishedDateTime: 2024-02-16T18:53:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/UiPath-Debuts-Expansive-Updates-for-Developer-Centered-Automations-162634.aspx"
+    type: article
+    provider:
+      name: dbta
+      domain: dbta.com
+    quality: 24
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "82fnFyYb6O5ZDn02dkD6boYJToVX1mNBUHaG55uNrjssGCMmrftODAm5YE0mHyFr/YPvzkFe6EJcexE7uDqRKuZd0YFg2Lp9ZCW0qTDgPJeAXU2X94FzbkljNgnoJ4JwSGf2bWOwJYPXx6eLyyBAWelncTqVdxKtRYKU1SoR6eLRIk6br+s7gFIXgv3uXBOJblsSzuU9VYR/ae013i+dxPk0/ZjJkOry2pDtWdeRw5vgT7TDw+Uj4clVKtLh+4IzlPkoSBP1TU7DPpYgCAXwYuq75bMM1TEMGCv238l2Q0TePPuLd7dkf/P4TiXQiO5m+Zo+maw1Jut2KNq0qBpRzUEB4MaVfXdPf4vM3TXzqJwbwe3GBDGduIhbQg3brBMwSFI4nOIZdIQczmydmYn4sopE7JZWtVfY+SA1a1+2NhfOjpbiPJjoqW9NQJ6cNUboqtfrLQt6Qe0sWtYo1wZOHWV2oa/eaiaVvD6zhsUMhRvJFMGx1Hg4S9QX6t4WCNavHflZLhrYT4t1rCVn8rVHRQ==;7ciUgNFHhwqwn6c/Lk84kw=="
 ---

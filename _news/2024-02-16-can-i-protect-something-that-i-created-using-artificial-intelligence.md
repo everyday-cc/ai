@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-16T14:54:00Z
 originalUrl: "https://www.law.com/dailybusinessreview/2024/02/16/can-i-protect-something-that-i-created-using-artificial-intelligence/"
 webUrl: "https://www.law.com/dailybusinessreview/2024/02/16/can-i-protect-something-that-i-created-using-artificial-intelligence/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/392/2024/02/William-Trueba-767x633.jpg"

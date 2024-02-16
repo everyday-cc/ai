@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-15T10:59:00Z
 originalUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
 webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+    width: 1024
+    height: 632
+    isCached: true
 
 related:
   - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
@@ -46,6 +53,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
         width: 400
         height: 391
+        isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
+    publishedDateTime: 2024-02-15T19:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
         isCached: true
   - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
     excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
@@ -85,6 +106,6 @@ related:
       domain: fiercehealthcare.com
     quality: 25
 
-secured: "uRotP8TpytTiFIBZvcP6q82QtnOcePfch/pdJIrgkVhcYoNCAK09IgCpXTuVbEReopZXTnZUDdUID2xdklRt0j/pSyOfzTGNrzATYYQMugSXhG4CzdO/zNnC4JZbFxJhhUy1l0fq8RpqA56YGGARu7TMN5cP9Ro2lkLj03GFFTjUoNOZnpW1F9Xq8Luu6GTaSETnWfkUiMy0V2SrJhqvYMnyAYfI1JSBGDZxhDuWAliU/6A7N465eMjk/Oc50Rq+YkHnyx9Efg3dETB+2BmUOvf04uCqxs8IYwDYPif8hOLmTUw7vx9c9jmUNu2FZ6gQ4vjX1InxW0JZ1p/VLE3RDDfQLCwTL+1tCW+7GnVP1HalWVQ8Of1yuKQE+pyHvYMBiZC5VRxjsHPry9xNu+PpgAbDb48ikmiKvnDpHxjs5LaX932Uj3TspDu9d337ZpZr8sgNJaxw88hFBw8SFUoCc1HWbJXSOSPQGMSoDr0ixucRTlZoz1RNg1OK5EJzDRslICAx2NUK8AZj/NP3shB1RA==;TN6tIKGOn0qfoDUb6PZEkg=="
+secured: "5AYTqz+u+82gTMw/dMe0JvE/ZUsFysDjYVOmOJLpxbXEkcCJ49L16ZWfb+VAp5+CTe4M+q9hkB9EbBXoXjFDNHPCbFF3Mr5Uo0eOgDcvChAvlfsCtc4FAUdMF5kEYe4n4ahjNwwFbhxgucf6bcpmCJGMwJQuB+yrc3awfzwG2sFFuKGCAwORZWKbB6Dp7fHEByo7GQNRodsgPxzfW1pyTpEZdDJlthoBr5QEgpbj5U8nS871VJdMY5AA/Mf5WGCwPAttzsxuRIFPeOR056DMwoGSYwYYadA3uYVJJIui0oxrgmz883GdOfi7W+WakY5wG0g1C81m2BiMM8zI8Ba/4ARwuLuOgDXnCLziAd98VUY=;/Q0axFNvFF93FpnIR66N5g=="
 ---
 

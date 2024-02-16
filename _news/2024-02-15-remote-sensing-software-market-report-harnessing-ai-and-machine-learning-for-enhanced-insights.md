@@ -47,7 +47,7 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://images.law.com/contrib/content/uploads/sites/392/2024/02/William-Trueba-767x633.jpg"
         width: 767

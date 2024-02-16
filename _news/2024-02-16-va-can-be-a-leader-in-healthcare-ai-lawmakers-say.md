@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108
 webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
 type: article
 quality: 56
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
+    publishedDateTime: 2024-02-15T10:59:00Z
+    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Military Times
+      domain: militarytimes.com
+    quality: 41
+    images:
+      - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
+        isCached: true
   - title: "AI not ready for prime time in mental health care, experts say"
     excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
     publishedDateTime: 2024-02-14T08:00:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
         width: 400
         height: 391
+        isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
+    publishedDateTime: 2024-02-15T19:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
         isCached: true
   - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
     excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
@@ -77,15 +105,6 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 25
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
-    publishedDateTime: 2024-02-15T10:59:00Z
-    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
-    type: article
-    provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 19
 
 secured: "dr4SpZe1eo5zv03OJpKhTHVq/8q6AyCXgPIUpp3zcBJ6cDeqVJ0sksddX10TJOT/9gAWVW2it7T7m/21JhNCMqWUIJFEeQLSZb6vyy7Ig2JY9HFbchmxEDyU9MYpmAXXDWhfo3+tMdzYyUJggopDIAEO2VbS5exLBLm4Z1DKNk8npgM/M/VQOnJNK6105a+HSe8g1iGjzyWHCDTCsNTtmm/gI/Un3E4NKcXu7AlsHDdoMogbTWD2mM5S1uxJn1bOkTJrwshzHKa9NJBWO0LrKzkyMHastHrZvp8muNu/JDyZrAPpiQnFqiPPMXqDv0QuWevCMD3FaEYLXcJv3dl0xoMMt8x7xHEQNCRa1X1KFE59YzyeiGzjIp4KDvDgSwvOxWamjUZ37O2Gj5dh1dNrvVKiM2Es9ifc9JaezrGZRwaoKWYymjvnjIT1xZ+6vTSAldJ1/x1qdaJzr7+lUuHQ2wnGjefnxT2CV3kov1ZZr6SkQrpoIs80dSsxHs53GNENQUQc7kbzdpCWuDmZymScHQ==;wgZYWzB2VaZ6zI8BgGKLRw=="
 ---

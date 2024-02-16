@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITIONS OF TECHNOLOGY MAGAZINE, AI MAGAZINE AND DATA CENTRE MAGAZINE"
+    excerpt: "The December editions of Technology Magazine, AI Magazine and Data Centre Magazine includes interviews with leading experts and executives from AWS, Fujtisu and Etix Everywhere. LONDON"
+    publishedDateTime: 2024-02-16T18:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61431338-bizclik-media-launches-december-editions-of-technology-magazine-ai-magazine-and-data-centre-magazine-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 4
+
 secured: "yUAtqM6Jdg70ehQBT2zdDmufNer9Gb6S7dzb5rtD8V3B/PlMNXp/XeljG1kfjsRhkrWyKzV6RoEYkEPtwJB4+dtme6p8vY6Gt0tWXtaZYCSoSNv05tMHe/S9WC7WR+wOfEY8ef3ggJc1NrCMkfn81rTaHSL+7y7pDq+j5GgNgjJSNjB0yQ7fwG8EYoiJKFKR4OtV1RKVLjT8ebSF1hCgphyomY5umltoWcdlAX8gtpNbpS/a6FTy/g3g+tW6cU1rogB/mQ6P7SmqiezUb5P0KwBep6M64vkrjDlqtz5OmPQpCJA7MWyEHL+v+mVfiSkmkW+zdpZIs8KqarkytoJmMG4AbF0RmMRszGwtZbeabAA=;ekLxGnNX19A3aPJisCqLSQ=="
 ---
 

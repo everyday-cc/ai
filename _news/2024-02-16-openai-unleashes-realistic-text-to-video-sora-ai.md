@@ -44,7 +44,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg"
         width: 1280

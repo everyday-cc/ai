@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech giants pledge action against deceptive AI in elections"
+    excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."
+    publishedDateTime: 2024-02-16T17:15:00Z
+    webUrl: "https://www.npr.org/2024/02/16/1232001889/ai-deepfakes-election-tech-accord"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 37
+    images:
+      - url: "https://media.npr.org/assets/img/2024/02/16/ap24023546723486_wide-66ebfbe3c7412e739b03242164d25cd081382efe-s1400-c100.jpg"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "A brewing battle over AI"
     excerpt: "OWNING THE AIRWAVES — The primary race for California’s Senate seat has been a blowout — at least on the airwaves. Democratic Rep. Adam Schiff, who also holds a comfortable lead in polls, has spent $20.4 million on advertising buys, according to data from Ad Impact."
     publishedDateTime: 2024-02-12T13:00:00Z

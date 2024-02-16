@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-
 webUrl: "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the ethical challenges of artificial intelligence"
-    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
-    publishedDateTime: 2024-02-13T23:16:00Z
-    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
-    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: OPB
-      domain: opb.org
-    quality: 54
   - title: "Chief Technology Officer appointed to advance Q-Bot’s use of robotics and AI in social and private housing"
     excerpt: "John Burley joins Q-Bot from CMR Surgical to advance the use of robotics, digital and AI in the retrofit and construction sectors Q-Bot, the technology compa"
     publishedDateTime: 2024-02-15T09:54:00Z

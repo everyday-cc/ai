@@ -3,8 +3,8 @@ category: news
 title: "Just how good is Gen AI in helping with proposals?"
 excerpt: "Lohfeld Consulting's Bruce Feldman shares the findings of a new AI study that found several areas that were reassuring and some surprises."
 publishedDateTime: 2024-02-15T03:58:00Z
-originalUrl: "https://washingtontechnology.com/opinion/2024/02/just-how-good-gen-ai-helping-proposals/394185/?oref=wt-skybox-hp"
-webUrl: "https://washingtontechnology.com/opinion/2024/02/just-how-good-gen-ai-helping-proposals/394185/?oref=wt-skybox-hp"
+originalUrl: "https://washingtontechnology.com/opinion/2024/02/just-how-good-gen-ai-helping-proposals/394185/"
+webUrl: "https://washingtontechnology.com/opinion/2024/02/just-how-good-gen-ai-helping-proposals/394185/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "hdQ4sQtHvoZfrRE7r0suVuA8+IHCTf4PVz1PK6IyKoj1Gq4erDXBB5NTRzxmLUISoVoB0l6e+vuRy0yo4unmDsIowuDvlmrPfneHeTEcY9jcfBDAiqgKmL70iBZXYxMEKA/c9RThXkDLa4oq33Q+bWnFttaPKCsFMkfexfDWBfre7zOfeJO2VTmASqJfQqn2Wv6map/8P6N0w0xBLebCpIxvhGL2F+aUUsfaeprpZKYHo46rXMGYySKvcYF3+eCSEcxknSpLOgoMNBNXKgAcbQutobxDWeKjaPEpqXrGUKXgeQiTwJxW/FePpzyg8CqzTcJVIgbljUbM5+kwb1Lj2VieV7sJVXWFvLCOLQFSUkI=;/a7TGLyrGCCcY+aYxdE4HQ=="
+secured: "42qun6VJ8X0yPTy8FyR6CgSIG8UWMGtlpfLE+3QIz6kUuuj/zyHWxCsfc99NqlHV+tzbjlPku2q6EInOj90VaL88s384HRT6VtdAjTtkGen5br2eUpwA5gEUGLUtrAEpgRRqTdw7rX9iS+LW3/D0wljNO/ODnFsV3UDwpe7nA3zjgUxazcpNqfEIZRUJ0GpWFQ8vJu3dz+8dr7rB+IQcPjsqdp/VusmQyrglzsh/vNo12PqktyQEC/NnELFBTmPAZdoIkZJi38/IrbMbIrkG4poMJ+5S5C9Hr9Lm/+zx4KTUDXY2g6QNhndQGGbbcI/PHOeY1XgZm2FdUHPz5yAbi4YBo3AHB2VfWEHWid/VYn4=;o74QSqPofRpDGtBPxGZ3wg=="
 ---
 

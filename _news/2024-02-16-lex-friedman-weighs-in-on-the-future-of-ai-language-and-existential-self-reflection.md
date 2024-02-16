@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-
 ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65cf86014c1349603be73537/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "fZDmF63hbcF8ugQyeNNFUluYRZUINTYlU9MYhPnL5R/hafOIdw8cmLBvHpxoIHtP7VtVCZcSWJORp11FrrhLfrV+Luk+F0WjdzQL/oKBJAt1Hq70abzleszGO+DYqqxrqNw/7BbiqR4t07UoweokXVl+bJogWBzcpiGPJTuE/H9EajSsrUO88M6631ASzzAKWurhLxpi8E+TK8OUJ29opPVza5XtExzXMf3snoJcLrs4GUON+T6QRhlYYdLQYkXzFCIFO2fH2wW13SEdGeVrZ/wB8uKvURms7TvJdR1+H/4a8nNLLVsmJpnRPbkU54WI57Gp7qCo07jGcmG9zph8RXWJW8HOphTbkZg06sbh870=;/0puIyzOF6ies+Id9fhqLg=="
+secured: "tHrWB0zerVFGoT7sNhrrTgXrToJSZtWYmLQzI5y/BbWk2nQq4CS79WtaABmVBbpAjlvnhv36QKsZYeKR77ekPnf8zNLjG+VBibOGNq9QZMCXcQxtKj4xRcNH1AJjmnSagQstOl9HvF7MxhgETlotm2YVFgScv33YfGv6qz2lEViq04pZatWFrzvQSl4WBL5yPVoiYzATD9PyFd5v9Nrbcwa8g37ypj4O4HczDdjf63CA95P5wRdb/2+5HvoCMBSHgZePVXPAZzADwSEEcLooBZ2oNqhwibQEXldBdJa+sglmQ58pPOBryLE2UaxEPDI0KmbB5wbOMnFCle60ZDqATMwb83BkCr7TYvBHoW+5jYyYaNnJPmVV+O1qhbCgHXGlVy+OH9Bbss0L0eoEvnZF+aUIdWmFFvJi9w88QYwY0DgopneldUCpUc1ZwNStvHvuU57XUky7loaslDzLYw/qKU0cKPyeMr8NRzbmLo8XjZJbuUr8JRsiAlAO3Amxma9/RpDa2XI16FO4mmFqhbtwbw==;ueljs8eCe2nDu/l4Wk214w=="
 ---
 

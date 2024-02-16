@@ -43,6 +43,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
+    excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
+    publishedDateTime: 2024-02-11T23:31:00Z
+    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "Waymo recalls software after self-driving taxis crash in December"
     excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
     publishedDateTime: 2024-02-14T17:37:00Z
@@ -54,6 +63,38 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
+  - title: "Waymo recalls software after two self-driving cars hit the same truck"
+    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "San Francisco crowd destroys Waymo self-driving car"
+    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
+    publishedDateTime: 2024-02-12T19:17:00Z
+    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
+    type: article
+    provider:
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 19
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 19
 
 secured: "3nItYNht6x0f9aYd5eJIhUtZaK2cdgeDAx9WpSsqK+xW/rNfxFynWTCpwMS8HUDetxJNzO+GhvH1NvGdrJut7mpdYuCBYDjXkcbOqxnNDO0pTTq4H5h4LdszSRgAOLE6e+uj4WP4PC2dk7cTruwD3thCoTNgcT6jyZY2O3fqdvolzAnbI74esMSePqZHWi7XhN8udDQsFwSMFRkXLpzHNiLPg59b62s7GgiFZFYZEQaKNegwbMiv0yKNP0AtOfZIspQw60MLzArPWTwPFu4k3Gx0f+mcOIoQAxJuuGz++JDEpcX5ADlmK6IzyBRA+sL0HhfanSwPvq4XCLuPKaFWb9ZWqpK6s9X6cQYOsoaOpST66CFyXPqaqQRHuXNh3eUKroIRJFVdI86/hDXgVEtomJAh6pSyQ5HiAMoKtmnQWh90Q2V+049MftzatdZ12WVc49lvH9Ndyi3UzmsClhxlkOEyaxqlZASGyK0ydWlV4+80nxPxouVnG1jYEy9OTd6rnlxn0ESgaSTJChEEXZTCKQ==;98CVBgMv7nv34bIKl20CFg=="
 ---

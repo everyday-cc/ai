@@ -49,6 +49,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    publishedDateTime: 2024-02-16T17:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 32
+    images:
+      - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
     excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
     publishedDateTime: 2024-02-15T17:42:00Z

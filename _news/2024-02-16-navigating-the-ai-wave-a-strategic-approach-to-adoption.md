@@ -1,0 +1,61 @@
+---
+category: news
+title: "Navigating The AI Wave: A Strategic Approach To Adoption"
+excerpt: "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption."
+publishedDateTime: 2024-02-16T11:15:00Z
+originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+type: article
+quality: 87
+heat: 107
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 54
+  - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
+    excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
+    publishedDateTime: 2024-02-16T15:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Artificial-Intelligence-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
+
+secured: "QFhPJdGc+2J5tW8pHFpq3UKmGXPs+Crtd/km3cXB5a3iEOjQW1zC9G2JflDUGfkrzA1Daa/yi9ZLrmB8uA/LMU4rRwiXsrfKWqOjZ4VpoilGZ/S5J/Ep45Fql5coa9F+YK6ZJZkb9+NpsQzLHoFJpMdbDLxhPAMZdk4XnjJSeyx66uWEgicc0HuPv5Rz90igE2IIDcpDZoezTX2jhr7M7jjDyKA6D5xnWWiza/lkDuyHixwCG6GQusmgMrfearaBO/JT4mqCcguOChsONdP30xF5IQp8bNTmSx7ivJgweKPx2kHgIKb37aotzve+k1hxb+vfwlQd74CtwJ0H2FurnwQk/UkiIwFnv6QHhiakjtk=;bj4wB5d6jc8HS3oHgnpO3A=="
+---
+

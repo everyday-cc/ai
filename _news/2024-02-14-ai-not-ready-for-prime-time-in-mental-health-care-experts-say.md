@@ -39,6 +39,34 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
+    publishedDateTime: 2024-02-15T10:59:00Z
+    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Military Times
+      domain: militarytimes.com
+    quality: 41
+    images:
+      - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
+        isCached: true
+  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
+    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
+    publishedDateTime: 2024-02-15T19:00:00Z
+    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+    type: article
+    provider:
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
+    quality: 39
+    images:
+      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
+        width: 1024
+        height: 632
+        isCached: true
   - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
     excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
     publishedDateTime: 2024-02-14T16:36:00Z
@@ -76,15 +104,6 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 25
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
-    publishedDateTime: 2024-02-15T10:59:00Z
-    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
-    type: article
-    provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 19
 
 secured: "ZWY1jUOofTyA6wDoqRk+ni+OWifmxjyNfhVDbG7S28ShoBia8rnO+Fih6bu3CdptXRdjhNt9NhNMpUp0oo3G9sEHd4D6KJeon5kw78TrwI4uZMSd05N8W+KcgAKsFt5/qLPjuSbN3YFGkBsd8Pf8wloLd2bzxxyayzhPdxEI8LhWDeA5umDpyAfmILvYbAXt51hg+23z8NSLySFFx+VD49OjOJ2Z4AZvilfveBTPIUc63WxHs9WpPgqKvznDBX5vD6/MOD5V8Qd0r6n09457GPB20VH7XQ9OEM4GGuSjNc1yc2nZG5amstb8oA5hwsF8MSL4ezHy1t5yjlL5rCFPVRVSKBO1vFmaz4FEoAzCvFE=;ctEQBVL7As2Q67QDmhGMlQ=="
 ---

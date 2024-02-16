@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,22 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    publishedDateTime: 2024-02-16T17:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 32
+    images:
+      - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Don’t count on watermarking to prevent artificial intelligence deepfake election chaos"
     excerpt: "Tagging artificial intelligence-generated images with invisible markers may not be the airtight solution the federal government wants."
     publishedDateTime: 2024-02-12T08:00:00Z
