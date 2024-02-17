@@ -47,6 +47,15 @@ related:
         width: 1920
         height: 1390
         isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "These orgs hired a chief AI officer. Does your company need one?"
     excerpt: "The responsibilities of a chief AI officer shape a company's overall AI strategy. Here's how CHROs can plan for AI leadership in their orgs."
     publishedDateTime: 2024-02-14T13:08:00Z

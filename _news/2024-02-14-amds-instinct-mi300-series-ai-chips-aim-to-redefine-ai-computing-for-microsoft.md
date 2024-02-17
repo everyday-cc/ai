@@ -161,15 +161,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
-    excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T12:17:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/microsoft-ai-growth-helping-azure-cloud-chip-away-at-amazons-lead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
   - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
     excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
     publishedDateTime: 2024-02-15T18:50:00Z
@@ -182,7 +173,7 @@ related:
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
     type: article
     provider:
       name: TMCnet

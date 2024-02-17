@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/future-of-renewable-energy/"
 webUrl: "https://www.ibm.com/blog/future-of-renewable-energy/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -20,6 +20,22 @@ provider:
 
 topics:
   - IBM AI
+
+related:
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "G0vGQQfhnPQ5qwpzfIAS478W4QOyG+TP0N3WsAnBgbxb/iAub4dyjKJePhOij/v5P/WcFwiGQSk+gmV+Ny5K+UeB0Y/mc+AhLyfWPqeblsJ54v53kgLrYDGA9py3vwuhW6IqprClrOOpetSvJCB1h4Sj5lHc6aHcUdNdIuoO1MF2qYjVwb6CbXkZiWOakEc8/3cewFTxjGWx5xF0x2VBuWbyNOhRi3cRFsLquO5B7TXEYAp9mvf+Y7Y09Hec6XxWpNQwoczAuER+8gG+HRtY6HGlUjMneYShSwcaLP6/TpkMeTuDQ7FmyppsR62Zz3dgz+AgQAjI8gSxRPlRjJF3nTgfgH+oQ4Xq83h1xu3PBps=;pWNPvuDcBxeYSSD87D31ng=="
 ---

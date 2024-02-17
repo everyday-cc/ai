@@ -92,20 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Hawks vs. Magic February 25 Tickets & Start Time"
-    excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
-    publishedDateTime: 2024-02-12T12:18:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/25/hawks-vs-magic-buy-nba-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/4KQ7WQNKM5NTBASKVPWGZF3PNU.jpg?auth=6b1d3371243d88f35b432fce17004de20c2fccaee602bed071ebe00f76e652a7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Ducks vs. Canadiens February 13 Tickets & Start Time"
     excerpt: "The Montreal Canadiens' Cole Caufield and the Anaheim Ducks' Troy Terry are two of the most exciting players to keep an eye on when these teams play on Tuesday at 7:00 PM ET, at Bell Centre. If you're looking to catch this game in person, head to Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-12T22:02:00Z

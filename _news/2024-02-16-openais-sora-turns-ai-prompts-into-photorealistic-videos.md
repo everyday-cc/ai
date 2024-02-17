@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "OpenAI introduces AI model that turns text into video"
-    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
-    publishedDateTime: 2024-02-16T10:05:00Z
-    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
-    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    type: article
-    provider:
-      name: Ariana News
-      domain: ariananews.af
-    quality: 59
-    images:
-      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
-        width: 999
-        height: 599
-        isCached: true
   - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
     excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
     publishedDateTime: 2024-02-16T16:14:00Z
@@ -89,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
-    excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
-    publishedDateTime: 2024-02-15T20:35:00Z
-    webUrl: "https://www.pcmag.com/news/openai-unleashes-realistic-text-to-video-sora-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "OpenAI debuts Sora, a tool to make instant videos from written prompts"
     excerpt: "The maker of ChatGPT on Thursday unveiled its next leap into generative artificial intelligence with a tool that instantly makes short videos in response to written commands."
     publishedDateTime: 2024-02-16T03:38:00Z

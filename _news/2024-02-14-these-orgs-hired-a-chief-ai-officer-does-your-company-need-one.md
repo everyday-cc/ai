@@ -47,6 +47,15 @@ related:
         width: 1920
         height: 1390
         isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "The chief artificial intelligence officer: A blueprint for state and local government?"
     excerpt: "Late last year the White House issued an Executive Order (EO) on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. On page 52 of the 66-page document, the EO called for each federal agency to establish a permanent chief artificial intelligence (AI) officer."
     publishedDateTime: 2024-02-13T16:14:00Z

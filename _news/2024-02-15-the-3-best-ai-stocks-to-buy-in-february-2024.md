@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stoc
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
 type: article
 quality: 51
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Hawks vs. Magic February 25 Tickets & Start Time"
-    excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
-    publishedDateTime: 2024-02-12T12:18:00Z
-    webUrl: "https://www.wsfa.com/sports/betting/2024/02/25/hawks-vs-magic-buy-nba-tickets/"
-    type: article
-    provider:
-      name: WSFA
-      domain: wsfa.com
-    quality: 22
-    images:
-      - url: "https://gray-wsfa-prod.cdn.arcpublishing.com/resizer/v2/4KQ7WQNKM5NTBASKVPWGZF3PNU.jpg?auth=6b1d3371243d88f35b432fce17004de20c2fccaee602bed071ebe00f76e652a7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blues vs. Maple Leafs February 13 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Mitchell Marner and Pavel Buchnevich are two of the best players to keep an eye on when the Toronto Maple Leafs meet the St. Louis Blues at Scotiabank Arena on Tuesday, February 13 at 7:00 PM ET. Robert Thomas is a top ..."
     publishedDateTime: 2024-02-12T22:23:00Z

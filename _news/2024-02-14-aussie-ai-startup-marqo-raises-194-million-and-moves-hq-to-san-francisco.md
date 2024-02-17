@@ -42,15 +42,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
-    excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
-    publishedDateTime: 2024-02-12T12:13:00Z
-    webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
   - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
     excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
     publishedDateTime: 2024-02-12T14:10:00Z

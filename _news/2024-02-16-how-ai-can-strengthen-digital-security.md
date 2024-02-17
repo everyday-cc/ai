@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-cyber-def
 webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
 type: article
 quality: 106
-heat: 158
+heat: 156
 published: true
 
 provider:

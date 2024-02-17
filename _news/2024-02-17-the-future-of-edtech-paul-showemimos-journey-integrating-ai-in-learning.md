@@ -50,7 +50,30 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
+        isCached: true
+  - title: "The Future of AI Is Hybrid"
+    excerpt: "Artificial intelligence today is largely something that occurs in the cloud, where huge AI models are trained and deployed on massive racks of GPUs. But"
+    publishedDateTime: 2024-02-12T20:09:00Z
+    webUrl: "https://www.datanami.com/2024/02/12/the-future-of-ai-is-hybrid/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 21
 
-secured: "dUTNed/cEAai/TEUhIAwttJBmBaNYuV0s8vVMIVz5YTePpke1xQ3Q5JYM11AkEKVALCwaMMT7WQR3PuZCpX1n/dYOH+uMiVHFd/ZthGNksRc+DBLSudYnJovDG8AP57fux3ThnJ4JsIRvdyq/hWke+tWGdAGTYvpm+fQl6xWt/0G79ltse4qklfR1XS9pXq3wEktzYStjeboz0Yjzvcam3uM239MzVo7DVyP8Z1bfdBK9eCwswMTcSICm1SqjusnjnkBLGiVwEujhYWlMV7k6lG+VW7rnoUaA3xfN6yIDcenyj1RqJ21RrdUlszywBjG+KAgMDDVtlGuhrLg/zvs2N+KhSZXK994Rc35eVQTXlU=;uZu5HnHM2xTIgw6MgwH4fQ=="
+secured: "nDzDtjluGIOm7x8MNn+VLbhJ7kiQyuHSdzyJ6K6NWSssv65xLePgNshbie9dDovxPQPURqu49cOMZmxZGHlAYodZAVsC+o+rOhlvYV3zFdMMxtF+/5k6keSzrRXOT0sA1b7baorvU3XPcQHqDKK947/K00EcN3qzQN1kwT9VMK98dawBX99FgKWIkB8KSFJFtxHqfNZoZvewRTKwnwjm3RkKokYngYOUiJnQ03Ho0LwvUxEtXmXP1wxGQmAV+6dZsbCrWdaf+/ujEUJGtq7ORSJbyQeRMfDIrVEwwqpOUfkYWGhMVHU420EDqQoDNy19vlpWUZ+fFIichorsSlWbCkFDK6H6zsn6SxaM/GSS5WHV94H00nbL7Wf43VIoc+Y8J1Bb52QClCn6mFYsYj+BewvquC3FaAanK41eNObNxPbgTmOS6p6t/Bge2KKWu7e7pSn9lD2OQQ3EAfmLPcbDbNp4vgOCwcD8Og4ZksvnWpmcc3mApnKcKJ7knrCTIERfz/cN2ybcPBe0AKhX/1zgvg==;36ECDDdjaUyUfFDXDMaZzQ=="
 ---
 

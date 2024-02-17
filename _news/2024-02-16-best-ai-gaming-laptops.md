@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 type: article
 quality: 59
-heat: 91
+heat: 89
 published: true
 
 provider:

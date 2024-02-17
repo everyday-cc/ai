@@ -7,7 +7,7 @@ originalUrl: "https://www.techlicious.com/blog/meta-facebook-ai-minformation/"
 webUrl: "https://www.techlicious.com/blog/meta-facebook-ai-minformation/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "What’s the secret to standing out as an AI start-up?"
-    excerpt: "For those leading AI start-ups, we learned some top tips from NovaUCD’s Michelle Doyle and Enterprise Ireland’s Marina Donohoe"
-    publishedDateTime: 2024-02-12T11:30:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/ai-start-up-advice-enterprise-ireland-novaucd-ai-accelerator"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/lightbulb.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "I0Kv/iz9Essir6SfA+pAzXMz0YHzMlWRIrFR3EnyDLcRwethXhnL20UW1oJ3ViSJ7QgTDpzNowAqh/caGToy0kd4+o2nK6kyMe9c3LpMRQlvwQfohbNWWfy3PbavtybCK8pVUYtwcRrG3xCDX4m0vSv3l2/H9iSNfZRIKSPoxHhPSFrOWzLvhbz0htpzuoR9pSLwe+njv1DsT+7HXg8Ovl/DfRP447BYszCNgPsnYWoJvD0OfV3J/ITvomEGPNZGO0IHDu9xefxo5R/QzX/Po3jOgdM+yjQaVbSyaGF65j/QwGpmpw8OIpHwlFfw6xUKClaGjbrK+cq6vLmUvTp3AnN+6pQhHJsow+vSph/veG0=;qcPBEGgIB3iJUZuwVEzcOg=="
 ---

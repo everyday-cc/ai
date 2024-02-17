@@ -27,65 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-13T10:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+  - title: "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says"
+    excerpt: "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes."
+    publishedDateTime: 2024-02-17T09:00:00Z
+    webUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says"
+    ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 77
+      name: Fox News
+      domain: foxnews.com
+    quality: 84
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
-        width: 1600
-        height: 900
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
+  - title: "OpenAI introduces AI model that turns text into video"
+    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
+    publishedDateTime: 2024-02-16T10:05:00Z
+    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
+    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 44
+      name: Ariana News
+      domain: ariananews.af
+    quality: 59
     images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-        width: 506
-        height: 337
+      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
+        width: 999
+        height: 599
         isCached: true
-  - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
-    excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
-    publishedDateTime: 2024-02-13T15:11:00Z
-    webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/"
-    ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+  - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
+    excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
+    publishedDateTime: 2024-02-15T20:35:00Z
+    webUrl: "https://www.pcmag.com/news/openai-unleashes-realistic-text-to-video-sora-ai"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 41
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-12T16:31:00Z
-    webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 24
-  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
-    publishedDateTime: 2024-02-13T09:54:00Z
-    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
 
 secured: "roASUSxJkc7HMaDHRsXXhF9od8V5LB2erBOIOpIlr5N3uEevEdpeA9P8jjep4iNEFhcG3n5+kVnUC2cd5YNl3gR1li1S5Q8/CpLkx8VtfkQC3sjwVvQWVb81ruOo8Q9O+6N7Yssvsx6e+nSmXQOYp2ejgvVbD6nSMc3PRfz3db7xPGhY+KcIRtkZcSkoVfCmuMOsJMBnNYUB47VbawNKIhIIKLRxTj6/byUNX0/QuKomPm3d6o71ntfTLznz2hGFj80uzOeLlNPB4/YWa1MnvUWevF4TFiyxzwbikEcL97B66K70Wsl/36fk2hrMdp4qmnZH1BemWoMns7f2gm/reczc3khknTTa7Ilhkzh0wY0=;XWhtHu6qgUbYo7vIAAtVOA=="
 ---

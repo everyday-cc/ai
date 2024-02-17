@@ -3,8 +3,8 @@ category: news
 title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
 excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
 publishedDateTime: 2024-02-15T13:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-itron-integrate-microsoft-azure-openai-service-empower-utility-/2024/02/15/9963037.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
 type: article
 quality: 62
 heat: -1
@@ -171,15 +171,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
-  - title: "Microsoft's AI growth is helping its cloud business weaken Amazon's lead"
-    excerpt: "Microsoft's cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T12:17:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/microsoft-ai-growth-helping-azure-cloud-chip-away-at-amazons-lead.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 63
   - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
     excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
     publishedDateTime: 2024-02-15T18:50:00Z
@@ -323,6 +314,6 @@ related:
       domain: upi.com
     quality: 33
 
-secured: "6xHk/DQmRoS1hYyGuaqt3PaW5mpULcSUFs1ceXIvYd8lLeaJS5WXj0ipyIi3ro6+UpMrP/QSB7Fc2bRm6SKMS5y/+jMeeHJcNZMcDlolovD8PKdQ5m53xnTyDDs7GtGVlzzVVh2tg32tmvIIx9a4r7hss9Xg5mqOEjMp3NufYiwj6A0Hphvck7ZN3sTE/CdnGLyxIA0L1gZMb2J8ui2OKRln3GOzxYo9IgjDbLRfgDcGtj1h6RxY+zuYX+l5LIU/AyW9ioX9dLSn4z/cb4fm21MCyT9MWsYHD+QjsDrS+FqI8YNmo05ADRNP3c5NrvsuVGWnTVU/AolCFT4wC8YrVIXxeweSe1FZgCDU0elwJM8=;NLJSrvEZCjlw7ZpOVPgt9A=="
+secured: "voaj3051rMWG7vPW2tj9TwI3mEHKWFJgdh0/MeamOfMkvwe6pPC74hwi+BobTGx/FAI2N1xIaBF8c3ZTSQ2NeSV4GYUusr3qeTDHhn4041oMIYGcTpeVrhVmH+Fvsi3/UCnR/I7vm4NzcKAdzpWDI6YyXHInKuotAMsAMQacvoR6Er7fmk3xOK2v47j2EftSiiuIPs+02dO/jpQFcRVlflIswv8Aq9IuFK/iu9LteugEb43IGCblzJiXzqTz6c0ERubEJIVWBgH7IXqJSuNx5T/35LiyM+LErd60WXNipGf5NbeHUW38T88fwWfujggrOaLZW9ukk6+MSro71Yhw2++0UnoDKg1Bx1lpWVYU648=;4Uc1qkRURfhhwPcUoyAOag=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-ne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia CEO says tech advances will keep AI cost in check"
-    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
-    publishedDateTime: 2024-02-12T12:31:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "EJgRj353EORvwjH2cp1f7ojnvxAr0Q8A8K+cs5C3KH9HHvtpZcpxnIQo+1v6BTPj5LnIStUZFHSpESCs+Ggyy/TLBE1EEQiLILR3mGv8LS8yGQ6zEUAK9mbD/1N3hGaR16C1uUglB16xn0mAcIOMCtsPBFok9pvPm2dvkU8fgbAUcNlN4zpb8KEX3u1/9hkf03Nvv/7/KUPEP8dazdolnH6BIIOtn53FY4Vk9x9Lud9G/R1fT1zIOsFN16EVhyWl68UV+TPeW00irDu0DzkDqT5VRXlU8/vnPrB3idqzjnMCzJEPuFfFHtkpj0XczhlKwZyLJf+d5FlHjtMe7WQqewQgPoIoCVoPn4on3XQNvDHEEWdIPG1vL+I2hhuKN0Xd/e+P93phAmPoyQkzN2a+T5UEy0vAAr979V6nKZsBBCc/k1whOSqaemGjRKXylz2y5/frgvOMHRUT+OAYOAwwo8ux/8Joi62ncZzQlI+EpI4ZglMSnepQysUioCUCsyVF3EO1PUzm749oPIyLW4aQ7A==;FuHtai/0gbzGVzJNMOm3DQ=="
 ---

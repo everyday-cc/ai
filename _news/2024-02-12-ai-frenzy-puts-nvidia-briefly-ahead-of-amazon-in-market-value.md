@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ah
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
 type: article
 quality: 87
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -136,15 +136,6 @@ related:
       name: Worth Playing
       domain: worthplaying.com
     quality: 19
-  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
-    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
-    publishedDateTime: 2024-02-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "YU/5NQ+SBTcm4qCbwMBzDqpN1RgqI5kbQZZUSLofh0FXSvuRlmFGuRcz33/XegPJxqPhFjMgtJCwKSPqhjzjrc6+L2N9x/kpR08T251XWX4FqG4UI9kX5G8zebxjGPYLMtksW7ZxXno9A7s9JPEUkGa5qPjzrA57EYtZpaigKN2uWvDIj5CQ1c/wElmcPnhAiwd7gR2uU7uS/AetDdkId03eL/WMvT8y2A47w8/tDnfImsRwnibNWK/myR2FiC+H6YlwSL7pCe7hhGrOwa8WpAGgyi8dNPE7AoTWV2Xe+E7urlerNa4f+k4OX/FV6Mf+HLCg9lHcKtsUSJfuDxS+AEX0yf1bTUFP2q+uSAgCHa56NDU0hWpcopbdHwrOSICgYBl7VjR9GWG1A1KLEcEpH+YM8AJCUbhMN2SWZhpVv/2UlLIgzyq7VuwqXSiQbF4YhSso+TLl0UTRY5JP8QGW1uYfU1ovbCKCbIFLKXwrUTJYe/BWViBIl45qcXE1zX0xD/WDafEZmSP1TkHT+T4CCQ==;irDZ14PbXfx7UPivyeoVZw=="
 ---

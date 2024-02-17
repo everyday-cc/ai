@@ -32,15 +32,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
-    excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
-    publishedDateTime: 2024-02-12T12:13:00Z
-    webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
   - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
     excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
     publishedDateTime: 2024-02-13T23:14:00Z

@@ -39,20 +39,6 @@ related:
         width: 1080
         height: 962
         isCached: true
-  - title: "Samsung Low-power, High-speed AI chips in 2024"
-    excerpt: "LLW DRAMs will become its flagship, next-generation chips and be embedded into AI devices such as extended reality headsets. Samsung aims to beef up artificial intelligence chip foundry sales to about 50% of its total foundry sales in five years."
-    publishedDateTime: 2024-02-12T11:26:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/samsung-low-power-high-speed-ai-chips-in-2024.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 54
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-10.42.24-AM.jpg"
-        width: 744
-        height: 560
-        isCached: true
   - title: "Samsung Galaxy Buds 2, Buds 2 Pro, and Buds FE are finally getting AI translation"
     excerpt: "With Live Translate, users can receive real-time call translations on their screen while using Galaxy Buds, but may need to download additional language packs to access certain languages. If you’re still not convinced by some of the advantages of AI ..."
     publishedDateTime: 2024-02-13T00:00:00Z

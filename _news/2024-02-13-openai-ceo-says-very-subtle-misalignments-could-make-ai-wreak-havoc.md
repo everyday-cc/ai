@@ -38,22 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
-    excerpt: "Sam Altman said the dangers that keep him awake at night regarding artificial intelligence are the \"very subtle societal misalignments\" that could make the systems wreak havoc OpenAI's chief executive officer, Sam Altman, has warned of the potential ..."
-    publishedDateTime: 2024-02-13T12:17:00Z
-    webUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756"
-    ampWebUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 66
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32113815.ece/ALTERNATES/s1200/0_JS305368878.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
     excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
     publishedDateTime: 2024-02-13T21:18:00Z

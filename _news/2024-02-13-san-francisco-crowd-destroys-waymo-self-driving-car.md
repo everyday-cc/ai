@@ -106,15 +106,6 @@ related:
         width: 2560
         height: 1403
         isCached: true
-  - title: "Crowd torches Waymo self-driving car in San Francisco"
-    excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
-    publishedDateTime: 2024-02-12T12:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
     excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
     publishedDateTime: 2024-02-13T10:24:00Z

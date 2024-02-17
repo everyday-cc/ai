@@ -132,15 +132,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 34
-  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
-    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
-    publishedDateTime: 2024-02-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "8J7PnszmXy+WckaeZMTe4Y9NPnEZ831Hp+kOUkJGqlEehBtnDTi/C61aOdtzDOfwZELirpG9EWOfTOQSSRWHsLFtay5VFjGtujCQLMhxE6kfjA609lJocKg1DC3IhjsqKl6MeMT9gaBlDaAnug3SEb5LA8sBH1fKvxWYusOKENbEJF3Z8UWn8PPs8a4MC5cxc0RmSoujfRWfYh+kIhxrlvHjHoGpPWqLrNhT5mIK77+8SWnR/b6yzhsRgVp43VcAn01rNnBy0hcsabAsvaJTC1CTMLVYy5BPLC1LJthgfhcWBHaNkW3vUZfjCbBfPqWPavmGqXp3wNHmms4cncmp8vPpR0Xm05d+aYgTNpXLBBQ=;L7XKK8XxNwQZ5KvKQoULzA=="
 ---

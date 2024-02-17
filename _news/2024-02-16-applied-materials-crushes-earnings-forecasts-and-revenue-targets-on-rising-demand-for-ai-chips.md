@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "SMH: Benefitting From Specialized AI Chips Demand, But Is Also At Risk"
-    excerpt: "SMH offers targeted exposure to a basket of chip stocks. The industry is benefiting from the strong demand for specialized AI chips to handle data-intensive computations. Nearly a quarter of the fund exposure is in shares of Nvidia Corporation, which adds ..."
-    publishedDateTime: 2024-02-14T05:46:00Z
-    webUrl: "https://seekingalpha.com/article/4670013-smh-etf-bemefitting-specialized-ai-chips-demand-but-also-at-risk"
+  - title: "Applied Materials Gains on Upbeat Forecast as Rising AI Adoption Drives Chip Tools Demand"
+    excerpt: "Applied Materials forecast second-quarter revenue of $6.5 billion, plus or minus $400 million, and adjusted profit per share of $1.79 to $2.15 or the quarter ending April, above market expectations. It also topped expectation for first-quarter revenue."
+    publishedDateTime: 2024-02-16T12:17:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/applied-materials-gains-on-upbeat-forecast-as-rising-ai-adoption-drives-chip-tools-demand"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 54
-    images:
-      - url: "https://media.gettyimages.com/id/1359446412/photo/semiconductor-and-circuit-board.jpg?b=1&s=170667a&w=0&k=20&c=pjo2e-WAgfsSLGH1_nKKPqYM9sMlC64Spiz3-nBwpEE="
-        width: 509
-        height: 339
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jy9lwdjJ+ZXcY0O+XZN4wZ1pZxrOVgTGHTHInc7n1jbTa1rsVBWEESL7wFg2Pm/E/zxf10mCBlOhHiIhnWQ9ZHtLOR0Dv1co6RqEpwS87XI43W0962e4iGJzLlGSpMsRuL+f9kSRrGT4pe6+7aW881J0CLAZUmAexmlcFL9mBdbRvuR+8nlPFdOZ5kylppKuDd+M688KfhJAWdLLAeUCKYR+yI+j3x6EQU5Ir0bEd2tA4bSbs3o9zaWj3YZTCwMS+bFr8cVoz0TGM8pvxITuCq2iBE+m/A5nmHCR+VNBljKsXr2WhNW7SoP+PBto/lC2q/RuQV0wPKx6HEocRS+LT8zJy7tJI1/EkXOt5VXuGaCLP8PfDmEMdpHLqOnmuqt+VobP0XTnoe8QkQtZ21jIz3/g18efALP5B967ZGZXUfShnCTqH+bhgOScEYtNH1EsPRLrEOerNobKnh5s7qf5aG2QooDC79PsO5RZ5C6BW14p/CiaBqF+fdQIFiKnR9UFhI4xJh7q2lDS6Mb9JoaRhg==;V5m/ndXwiIkFb3dWpwExTA=="
 ---

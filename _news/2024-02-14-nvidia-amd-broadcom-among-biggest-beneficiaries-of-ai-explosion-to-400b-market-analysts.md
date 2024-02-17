@@ -137,15 +137,6 @@ related:
       name: Worth Playing
       domain: worthplaying.com
     quality: 19
-  - title: "Super Micro’s 700% gain eclipses Nvidia as ‘backdoor’ to AI frenzy"
-    excerpt: "California-based Super Micro now has a market capitalization around $37 billion, more than eight times its size at the end of 2022."
-    publishedDateTime: 2024-02-12T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/super-micros-700-gain-eclipses-nvidia-as-backdoor-to-ai-frenzy/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "yIEsK0M/Wj07keQCQPp19geB/xJxQm5wjcDkLZYUDiHisxJ8FpwANMXuMlJhYh1CYpE3Rtb6fL6Xo9heC1WhFEDYO7VsoypKzbXtuK08DaGaJv/1hidVn52McIUAud+6f+8D+PON64RYrhAVd4fw6zFYxkuiQ+FYwTi8jVKVywXzsHPmiRoPOGbpsS+3DLcRFUtUFFKLoVivm656iUMCFbMQuRMipInJPV7QVCDxWM+Y6ochF8ubp6VhyK6qZ71sbWWnwC1ooUwq8hRYEI422eTB0iPGd1aqyTs9/8EjDAWschSLODbyXwwY0Ezv5KBxAm4dISW8+bZYUIivnIpc6yaPPhS41/wSW3/3f+6cun0JFIwXYqb6I7EJeIrosIY6I9krprQA+3HyVbuoq5b8fQQyp0GDb+LDsFZddz2vAgYKdiz5Qzc+Lv88DE7h1ZYgdq1yyJ50DzUralnSRa6SYslG70McPwU8lYXgycZOjSJGwz6bBJkdI/2Jq3v5C+CSfQnJ0fqQxEne8AhGqdkRNg==;wHBAoI1hMVnyuGvPA90dzw=="
 ---

@@ -24,40 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of Humans And AI In Social Media's Battle Against Misinformation"
-    excerpt: "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult."
-    publishedDateTime: 2024-02-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/"
+  - title: "How AI Bots Could Sabotage 2024 Elections around the World"
+    excerpt: "AI-generated disinformation will target voters on a near-daily basis in more than 50 countries, according to a new analysis"
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://www.scientificamerican.com/article/how-ai-bots-could-sabotage-2024-elections-around-the-world/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://static.scientificamerican.com/sciam/cache/file/189AEB75-F1C0-4F86-AF02FD6E8BBE270A_source.jpg?w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "A brewing battle over AI"
-    excerpt: "OWNING THE AIRWAVES — The primary race for California’s Senate seat has been a blowout — at least on the airwaves. Democratic Rep. Adam Schiff, who also holds a comfortable lead in polls, has spent $20.4 million on advertising buys, according to data from Ad Impact."
-    publishedDateTime: 2024-02-12T13:00:00Z
-    webUrl: "https://www.politico.com/newsletters/california-playbook/2024/02/12/a-brewing-battle-over-ai-00140895"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 19
-  - title: "TikTok Cracking Down on Misinformation, AI Fakes, and Influence Ops Before EU Vote, Could Be Model for Presidential Election"
-    excerpt: "Self-regulation meshes with self-interest as Chinese company acknowledges social media's role in fomenting political conflicts."
-    publishedDateTime: 2024-02-14T19:29:00Z
-    webUrl: "https://www.inc.com/associated-press/tiktok-cracking-down-on-misinformation-ai-fakes-influence-ops-before-eu-vote-could-be-model-for-presidential-election.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 0
 
 secured: "5At6dha8FnD2K3Ldis6HGoYiYz3yJVU8a+wDqAXvg9BeUwtE0Z2Xj+IS/wZFa4JpwsEcX8ssrHv/h/gAKm0ichDfc7r6qW/TofIrYlEnI8dI/u1/7YwZxwoReecIVb/h7t5qLNAaxTZGWi5Sm5PgOv7L1qgtZblbMhYikFO0PxPE9V6MhAll4/pemtadEYwX6q4RQE5Wuzv4trfBQ+HvESUzsAjN/rTcUGMZawnIBaHkyT2QbODZ2wBpH2WsptimRM5rRiAPMQtlk1kQ+csEk5RxaPSRJ9uSj0VHVZui4leB/RR7LdbYLfTkJIvKHokzbNXXfi/FXii0AErTlgwmEjrOuCyAe7aaYPu50QE2lEA=;44QgTRyaFVmlKHuSY6MM5g=="
 ---

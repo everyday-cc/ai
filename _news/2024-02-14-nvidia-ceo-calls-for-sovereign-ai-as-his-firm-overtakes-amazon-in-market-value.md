@@ -91,15 +91,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Nvidia CEO says tech advances will keep AI cost in check"
-    excerpt: "Still, the Nvidia CEO doesn't see an end to the increase in AI spending anytime soon. In his remarks, Huang estimated that the global cost of data centers powering AI will double in the next five years."
-    publishedDateTime: 2024-02-12T12:31:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/nvidia-ceo-says-tech-advances-will-keep-ai-cost-in-check-71707737809735.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "atGWdA/fJ9AJ+4RSVJUbEswCwtry0+/e4ZYeSsRFaLYjyuS1uVk73d8KKDfH7tl1gWGX+isyapL5cUREIRkrRe6nwWw0WjJ+TwQcPsI/pikHOf4hlqaASy38aIvFAvsJFtG5AUiilauzH43iIFtBRdF86xbAreXHVPFUDo+f1ThZdS/uTyCBk+lcFOy5V6iduhg4prd/WdBLw6LBc/UD2DXHlxMeKzDIrQwdltPTcd5p3S1e1DKvsxgS0M9AR2h+AJ4/KQ0n43YQ73efSIL2RRdFe8BySbB0gJsYf/NL8KrGC6BPFpwPKvUcXQvUSiy9sc3EM0M2ftsenP4PS9HwwpK0d9RK7ggSTLbAYkiqUjA=;zUUGAXsc6iliPcn+x9mrkg=="
 ---

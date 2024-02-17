@@ -35,7 +35,7 @@ related:
     provider:
       name: fox61
       domain: fox61.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg"
         width: 1140
