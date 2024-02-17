@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
-    excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
-    publishedDateTime: 2024-02-12T08:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 25
-    images:
-      - url: "https://static.toiimg.com/photo/107623393.cms"
-        width: 2200
-        height: 1238
-        isCached: true
   - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
     excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
     publishedDateTime: 2024-02-12T14:10:00Z
@@ -94,33 +80,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Crowd torches Waymo self-driving car in San Francisco"
-    excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
-    publishedDateTime: 2024-02-12T12:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-  - title: "Waymo self-driving car set ablaze by crowd in San Francisco"
-    excerpt: "The severity of the incident may demonstrate growing public hostility toward self-driving cars after a pedestrian-dragging accident last year involving an autonomous vehicle operated by General Motors' Cruise unit and a recent collision between a cyclist and a Waymo car in San Francisco."
-    publishedDateTime: 2024-02-12T10:04:00Z
-    webUrl: "https://europe.autonews.com/automakers/waymo-autonomous-car-set-ablaze-crowd-us"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
-    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
-    publishedDateTime: 2024-02-13T10:24:00Z
-    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
 
 secured: "gFT4Fdqq+gHWbN+HmZKbowDkXgkFNE6TwRlK1YJhYsPjxc68AE0NU4R222Uyo+CeKwl5iyVjs6+hrS/RN6MJLxsF0yPWWWoQamPw8c6QX9qLkk7KxyupSb2h7IMY6tmqIlaLSP4eGR1y4MPLG+B7WwBE4O3jkbzXnOg0C4+Dt28eHKTUadGr3hITdjrA1RwZlOCskOM4Lvgk43lTKFZv6nCXxpeB/QEz9yWlW0QLhD4mnkkjs1hxLm4IxK/O9ySpEuTyfwOju/fNe2MguU+D33grPg0gkMmTe8seONfc3t13pbrHdH0hTYgOSgiafEnu5ajPoQmgiEBvN8C5f9Q3FMiifhopL38HdUFBce+xASI=;tbV4/YWou3xVFYtKeHg+Ww=="
 ---

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service"
-    excerpt: "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft."
-    publishedDateTime: 2024-02-12T05:11:00Z
-    webUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    ampWebUrl: "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 75
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
     excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
     publishedDateTime: 2024-02-14T04:47:00Z
@@ -56,6 +40,48 @@ related:
       - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
+    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
+    publishedDateTime: 2024-02-13T00:37:00Z
+    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
+        width: 1066
+        height: 600
+        isCached: true
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
+    publishedDateTime: 2024-02-13T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
     excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
@@ -85,24 +111,70 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "New AI-powered program from Alcion helps MSPs with Microsoft 365 backup modernization"
-    excerpt: "Data management startup Alcion Inc. today launched Alcion for Partners, a new artificial intelligence-powered partner program for managed service providers that allows them to modernize their Microsoft 365 backup offerings."
-    publishedDateTime: 2024-02-13T13:05:00Z
-    webUrl: "https://siliconangle.com/2024/02/13/new-ai-powered-program-alcion-helps-msps-microsoft-365-backup-modernization/"
+  - title: "BARREL ENERGY ANNOUNCES CREATION OF ARTIFICIAL INTELLIGENCE MINING CENTER"
+    excerpt: "Las Vegas, NV., Feb. 12, 2024 (GLOBE NEWSWIRE) -- Barrel Energy Inc., (OTC Markets: BRLL) (the “Company” or “BRLL”) is pleased to announce the creation of its AI Mining Center, Spectral AI Hyderabad, which represents an innovation in artificial intelligence (AI) directed spectral anomaly detection for exploration and environmental services."
+    publishedDateTime: 2024-02-12T15:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/barrel-energy-announces-creation-of-artificial-intelligence-mining-center-1033057718"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-  - title: "PIPA and Dairy Management Inc. Join Forces to Uncover Hidden Health Benefits of Dairy through Artificial Intelligence"
-    excerpt: "PIPA LLC, AI leader in Nutrition and Ingredient Innovation and Dairy Management Inc, the national dairy research and promotion organization, announce a partnership to further explore the full spectrum of dairy's health benefits."
-    publishedDateTime: 2024-02-12T13:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960671.htm"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
+    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
+    publishedDateTime: 2024-02-14T01:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
+    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
+    publishedDateTime: 2024-02-12T17:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 25
+  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
+    publishedDateTime: 2024-02-13T16:07:00Z
+    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
+    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
+    publishedDateTime: 2024-02-12T19:59:00Z
+    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
+    type: article
+    provider:
+      name: KIOSK marketplace
+      domain: kioskmarketplace.com
+    quality: 15
+  - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
+    excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
+    publishedDateTime: 2024-02-14T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962214.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 9
+    quality: 3
 
 secured: "NkPTWuKc+avcLNPuQjuzak2AUeEB9mkvCKyIP6G6NSJ0msRu1TRQ3sn6q4OoA41ZWQnojClU8q1lflGZHF+MrNCko58dLVIkU4fqn2wCjBrEJvZQVHMAiKk8dcZvEMNEJSSpwBIWwFB3HCucU/NlGjOKAv9J4/VR81YkUlWVmCnmTvfLR5Ie1WJABYx2gGbGh76TO4gwXEyb8Dj7jenkk7Y+qrktEPXalO+QTfUOEkhimDoSdSVgwADe+iFFm+k/EtoZOnQtoXfTeSAzwRewkQ90kqKr9NAMrMVf8tRayHU7ER5+jTxj5lIuB+ZekB3IUFvMgNCnPuoaIqZVETBw6sR0vX7LnND1x6wJxDvnBU3n4+doh4cAo8xj3UGtlcBVxXT6I9axtPtWj1Gc+0/eY0jea8J46dQNzexG8tcDg/1B9O4Z1jFmPo9/DGvVED4VJIFXABC/W1bQDdqWxNlxem+U1myNby7O+HF4FCqjgfQx+iFNWPlYpxVUI7o98HYc7NMiIqv6N8RZrFrNNJJWCQ==;MmNcbO34gml0caoRkXKxDw=="
 ---

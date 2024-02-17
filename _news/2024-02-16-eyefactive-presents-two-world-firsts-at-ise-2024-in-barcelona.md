@@ -24,17 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
-    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
-    publishedDateTime: 2024-02-12T19:59:00Z
-    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
-    type: article
-    provider:
-      name: KIOSK marketplace
-      domain: kioskmarketplace.com
-    quality: 15
-
 secured: "CZmYcATE2m2kDWwIOp1X8M7Hsy38bT6HIcDLJC1idE3cOb8B0t5y3/whMehHxvoNz2NgtwfKuonrni8/lJuaDV6W2/lc/SQTQSodcifFqyTzP4v3SMVWVFjSxll5/AoBgkyNIe/C5SHGlc75KDFFeM/eLjBnjXy1WDE1SseHUDumU2XQj2Lg+b6XESFnDUJbggioeK05lvo0hlpPxd+DyVJDHlOB/iayx4cuaJV5cjTSoWA1oxkbB5XH5fZmCZWHBRxNjbF/33OZvWyAuKxA6bb6XWcPRveSIlxI5eE4nmLfRWjwh7rmB1lU38zCpKzujApyS7ygE1GF4PAnY0psuzohqZHCTPKLPkc3rb97eBc=;xIVBXchwAYWPvWdQDTcGUQ=="
 ---
 

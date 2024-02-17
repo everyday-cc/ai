@@ -69,15 +69,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Australia Lagging Peers on AI Adoption, Productivity Chair Says"
-    excerpt: "Australia is lagging international peers on the adoption of artificial intelligence and other advanced technologies, according to the Productivity Commission."
-    publishedDateTime: 2024-02-12T06:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-12/australia-lagging-peers-on-ai-adoption-productivity-chair-says"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
     excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
     publishedDateTime: 2024-02-14T00:17:00Z

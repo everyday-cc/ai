@@ -33,16 +33,7 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 40
-  - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
-    excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
-    publishedDateTime: 2024-02-14T14:39:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962214.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
 
-secured: "YVgaDRnMA9rMe5eXJBUUX1eLll6I65uUnXi12DlqTTg4+kYKhAa8MCV7keR0nQ0EWkzZA8BveSRZBa327t335R7+VbDimAsdA6R03fLER2gU5Jprsv7OAvF+rJn64rsXzMiuZOf+/J28Dj/gfRjqbS8kgy2fLFQWBd25vTY0zxN1RGD104SpcLEILbh2qdWTYoh9Ucdtg8s3C2jNZSvwxXpxpGL+ihWs6X2b+JPCRYZnOjDFCpeI9WG6O5fs0Jm4SLFosDcBklYrFZTkEbkXa/e0LTbdcbZLwH/yO3f2xD4xodhPHJph1+BwyFXTqVX+mYKNtqm0DQifaPm9wbVkCwr42Xs3xhvwsIZMDeVe30I=;ZTp3EjjmB+Yiy41l1EoLWw=="
+secured: "hplYWYY1y86mZh8JNJxGvj+OxEJtc1pyqoBK1wq1lLUs6yUjZRNgR2vL8JQzbhzMoVu95PxOeRMF+dGw/75YyXyhLe+zNr0FbsQL1f2XtrFOKIQ4hN9gVUfe+wFgibSwy2TJcT3hjPYiOLO2Tzvq7iuo4hljPlo2QO6pXbqONdPjHyaF3O9uUZP2h4Tlqjl0ZKr4BGeKHENEt78zafc2Qo8xDHzLi1EX911oZ077N+r6EhZWzlO3o9p5/2NtwjZ+bEjwDi+9ageIwd6bomkf9ugZkJFbRPghkCQ5S0ZsUWbmTwEZuWyqsqobPkGMKQdxeIup7fCzWxmXDIv17GxEoCgUnZY6I7ktipCFgufeN+f+3CJZxjFsX4WFFBcWjJF36chs7hWfpUp1wGll1ehakM0e9EiEVowhR5Rlh/Tm/09CIfx8IH/cBPY0ZmNLglpaeva9l+8BS8oXsXoaVM7UdH9jDRcDgAGuG6GQs2tt+ZJ004mXrBhwAzuZ/ivc/Moe5U6K0ES9aiq8W5KyQyvaxg==;ofUXXXTwKmwu8Su6FSUPUA=="
 ---
 

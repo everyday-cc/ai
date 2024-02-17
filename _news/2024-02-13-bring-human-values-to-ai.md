@@ -24,43 +24,66 @@ images:
     isCached: true
 
 related:
-  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
-    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
-    publishedDateTime: 2024-02-13T00:37:00Z
-    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
+  - title: "Best AI gaming laptops"
+    excerpt: "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU."
+    publishedDateTime: 2024-02-16T05:39:00Z
+    webUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html"
+    ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
     type: article
     provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
+      name: Digit
+      domain: digit.in
+    quality: 59
     images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
-        width: 1066
-        height: 600
+      - url: "https://static.digit.in/Best-AI-gaming-laptops.jpeg"
+        width: 1280
+        height: 675
         isCached: true
-  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
-    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
-    publishedDateTime: 2024-02-13T14:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
+  - title: "The Enduring Absurdity of Artificial Intelligence"
+    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
+    publishedDateTime: 2024-02-13T19:53:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "AWS expands free AI training course catalog"
-    excerpt: "The cloud titan added LLM deployment, fine-tuning and chatbot development courses to its upskilling portfolio."
-    publishedDateTime: 2024-02-16T13:55:00Z
-    webUrl: "https://www.ciodive.com/news/generative-ai-training-AWS-free-course/707695/"
+  - title: "Best AI stocks in 2024 for performance"
+    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
     type: article
     provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 34
+      name: USA Today
+      domain: usatoday.com
+    quality: 41
+    images:
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "New Windows update to add DLSS-like AI gaming features"
+    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
+    publishedDateTime: 2024-02-12T10:24:00Z
+    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "zt39e+v02/F3THpFQz0fIwgM1G0yqeiR4S0QVC/wpvexegVlmxrgXovV9aQaObB7RDwRyXo+OMMH0x9H/VnCzoiZIF0nCkgMBhGQ0H8nGh8rzIkH96xBHCxhP3AKxB2BigevceJCjvKtBm31INjv8w+prRRNI7Su5Ie+FJBQp1SOlbzjURH2P4to3pgVCuHxAHIJ4NzJav0ZqK2dqhIciFoKs0Kp4539VzVenfewm7/UoalVAb/Yv5irHLfSEgtbesBC9jPW8fl/enzRzpNkZI3jAFRGsZJFGxQlnNQdhrmV5YMcrC+N+nRsO0yLPc8xcQjHvHK7WRuTSX1xn7zaHbaYzq6fw+dW+BWVMvSdi0wPzfGu/xs/YBNiqhEtvXkAcB5tsqBBzHlmRv7O0Y+c2qfi80YLVFbdaVPcL4hwXTijIGa8np+8eGyMR1lys9useui1BX3yP1rzIFUo/wv3KJJB4m6I1X+gvFhc0WUwdpOkzu4KtZg/Nd1624PTO2iNdImeD7dhGeF6cV+xH1IXgg==;SWMc55OcpYE8ViAatMa20A=="
 ---

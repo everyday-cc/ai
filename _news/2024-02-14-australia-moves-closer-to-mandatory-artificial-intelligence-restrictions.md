@@ -73,15 +73,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Australia Lagging Peers on AI Adoption, Productivity Chair Says"
-    excerpt: "Australia is lagging international peers on the adoption of artificial intelligence and other advanced technologies, according to the Productivity Commission."
-    publishedDateTime: 2024-02-12T06:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-12/australia-lagging-peers-on-ai-adoption-productivity-chair-says"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Australia’s Craggle releases AI tool for refinancing home loans"
     excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
     publishedDateTime: 2024-02-14T09:22:00Z

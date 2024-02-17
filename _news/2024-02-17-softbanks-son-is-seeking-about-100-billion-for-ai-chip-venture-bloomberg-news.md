@@ -32,6 +32,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 61
+  - title: "SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports"
+    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T20:02:00Z
+    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
   - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
     excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
     publishedDateTime: 2024-02-16T23:08:00Z

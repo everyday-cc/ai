@@ -19,46 +19,78 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
-    excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
-    publishedDateTime: 2024-02-13T06:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ..."
+    publishedDateTime: 2024-02-14T23:29:00Z
+    webUrl: "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
-    excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
-    publishedDateTime: 2024-02-13T14:25:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
-    excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
-    publishedDateTime: 2024-02-12T12:13:00Z
-    webUrl: "https://www.techspot.com/news/101850-waymo-self-driving-taxi-vandalized-set-ablaze-san.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 48
-  - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
-    excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
-    publishedDateTime: 2024-02-13T23:14:00Z
-    webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startup-marqo-raises-20-million-moves-hq-san-francisco/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 35
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/02/240209_MARQO_328.jpg?resize=1200,630"
-        width: 1200
-        height: 630
+      - url: "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947"
+        width: 3200
+        height: 2400
+        isCached: true
+  - title: "Alphabet's Waymo recalled vehicles to update automated driving software"
+    excerpt: "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan."
+    publishedDateTime: 2024-02-15T11:09:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
+    excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
+    publishedDateTime: 2024-02-15T16:23:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    type: article
+    provider:
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 46
+    images:
+      - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Waymo recalls software after self-driving taxis crash in December"
+    excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
+    publishedDateTime: 2024-02-14T17:37:00Z
+    webUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/"
+    ampWebUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "Waymo recalls software after two self-driving cars hit the same truck"
+    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
+        width: 960
+        height: 540
         isCached: true
   - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
     excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
@@ -74,33 +106,19 @@ related:
         width: 2200
         height: 1238
         isCached: true
-  - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
-    excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
-    publishedDateTime: 2024-02-12T14:10:00Z
-    webUrl: "https://brobible.com/culture/article/mob-attacks-torches-self-driving-waymo-car-san-francisco/"
+  - title: "Self-driving taxi company recalls software after crashes in Phoenix"
+    excerpt: "A driving technology company voluntarily recalled its self-driving car software after two of its robotaxis hit a towed vehicle in Phoenix at the end of last year. Waymo, a subsidiary of Google's parent company Alphabet,"
+    publishedDateTime: 2024-02-14T23:10:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-company-recalls-software-crashes-phoenix/"
     type: article
     provider:
-      name: BroBible
-      domain: brobible.com
+      name: Washington Examiner
+      domain: washingtonexaminer.com
     quality: 24
     images:
-      - url: "https://brobible.com/wp-content/uploads/2024/02/waymo-self-driving-car.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
-    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
-    publishedDateTime: 2024-02-16T11:58:00Z
-    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 24
-    images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
-        width: 620
-        height: 372
+      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP23077011657218-1-scaled.jpg"
+        width: 2560
+        height: 1403
         isCached: true
   - title: "Crowd torches Waymo self-driving car in San Francisco"
     excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
@@ -111,6 +129,15 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
+  - title: "San Francisco crowd destroys Waymo self-driving car"
+    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
+    publishedDateTime: 2024-02-12T19:17:00Z
+    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
+    type: article
+    provider:
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 19
   - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
     excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
     publishedDateTime: 2024-02-13T10:24:00Z
@@ -120,6 +147,24 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 19
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 19
+  - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
+    excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
+    publishedDateTime: 2024-02-16T20:28:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/02/16/waymo-software-recall-phoenix-crashes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "IPgPibLyrZ9h3+QG3KdXR9PQw65/jF5h4GeoUZGj9StUiLlfVdlGVXC0KUCSC5XQDP3TFCoYCUZ0qNNCoQfrfDAwcTYcAnGM2uKAuyJvCy71R5qorZqXBJ93ta5mRin/URkj5IivWopHY9moTqCzuAWhjL3NC5rO/jKEghNtp9Qs+NTKEE8QS1C+L9XLqauUj9ZrB+6n4rHh/zldtEKcbD50SwqkpYOy6FrEOZYIdDANjkoEgcztWAWGGo0o9he5Lknzkz5Uyx3ZonFaNWz1G12XQee4ZAzMDiu4HwhpsVg2ZjF76f5EKN1NRUG2mJrMEXAzTBKMVwNz2XuWJHHaNJ0vSt8Hb6dmrVQbFbqPLgoh/MBDsSTwn1xNYZEhFDPgB5trgvYONG340PLHrykKVCQlmjzKE8fJ2kB7Qi1aygQ12UNaCqpei9Rqet9BMVqPjAhT/rc8uUHBnVdt8O0P3VB+ma4xz3E/loH8sx6gFiK3qhd01wB9dYzPTZNWylapISFr7SIlXlnQ9B//MvZ3kQ==;P5JGWQfj8cuaq+OblULTgQ=="
 ---

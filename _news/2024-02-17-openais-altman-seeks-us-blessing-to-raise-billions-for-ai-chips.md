@@ -47,6 +47,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "After Sam Altman, Softbank Founder Masayoshi Son Joins AI Chip Race"
+    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion"
+    publishedDateTime: 2024-02-17T05:14:00Z
+    webUrl: "https://menafn.com/1107863278/After-Sam-Altman-Softbank-Founder-Masayoshi-Son-Joins-AI-Chip-Race"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/I_9a3a1image_story.jpg"
+        width: 328
+        height: 400
+        isCached: true
   - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
     excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
     publishedDateTime: 2024-02-15T09:59:00Z

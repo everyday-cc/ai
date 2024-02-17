@@ -26,24 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "3 Blue-Chip Stocks to Buy for the Upcoming AI Wars"
-    excerpt: "The United Kingdom has promised to pour $1.3 billion over the next five years into AI and supercomputing, while China will put in double that amount. If you include government subsidies of chip factories (the most capital-intensive part of AI investment ..."
-    publishedDateTime: 2024-02-12T06:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794"
+  - title: "Best AI gaming laptops"
+    excerpt: "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU."
+    publishedDateTime: 2024-02-16T05:39:00Z
+    webUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html"
+    ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "The 3 Best AI Stocks to Buy in February 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the"
-    publishedDateTime: 2024-02-14T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/Best-AI-gaming-laptops.jpeg"
+        width: 1280
+        height: 675
+        isCached: true
+  - title: "The Enduring Absurdity of Artificial Intelligence"
+    excerpt: "This relentless pursuit, much like Sisyphus's endless toil, might seem absurd when viewed through Camus's lens. The universe remains indifferent to our achievements, and the deeper we delve into the complexities of consciousness, the more we confront the vast, uncharted territories of the unknown."
+    publishedDateTime: 2024-02-13T19:53:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202402/the-enduring-absurdity-of-artificial-intelligence?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
+        width: 1528
+        height: 800
+        isCached: true
+  - title: "New Windows update to add DLSS-like AI gaming features"
+    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
+    publishedDateTime: 2024-02-12T10:24:00Z
+    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Bring Human Values to AI"
+    excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
+    publishedDateTime: 2024-02-12T17:00:00Z
+    webUrl: "https://hbr.org/2024/03/bring-human-values-to-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/R2402C_BONASERA.png"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "p2IAqTfkRHSv2vsvCtlGsVR74EmTHKNE92B66Fq83or621o8i6oR96qgV8PZ7MuFualgNlIFklTLj0sBFjw1E7X3IgGno2fu9dEsZ6Ey7yZyWepyERyN2K6hoeSUDogzk21xzvwmqrK6Q9o794zswxtPayRb9K3RqBGx9tHqAiBiveXQLsX0Oh26HO9HMWG1jTuMG2NCotF9JqtQHzMLotRvH6k1JeNVPCd4+mSj2+ZieKv+e0vVg0XTFSBvEBokg5ZtJxFMcZYScSFyDPgpsfNJAPJdYJEGp9GQh7FG6KTuFnXc7LqCgDfgMERuftkjD+z7NSfbDEY2TxSxSgEtj5KucB0F7rNk8/lTmQzvwaU=;hk9FAVviCAtP0HMARjLckg=="
 ---

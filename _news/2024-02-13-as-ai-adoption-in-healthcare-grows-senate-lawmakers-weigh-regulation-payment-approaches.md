@@ -19,90 +19,161 @@ topics:
   - AI
 
 related:
-  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
-    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
     type: article
     provider:
-      name: MedPage Today
-      domain: medpagetoday.com
-    quality: 56
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
     images:
-      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Worthington said his office is working with the Veterans Health Administration’s ethics group to develop an approach on that topic, but there is not yet a specific timeline for implementation. “While AI can be a powerful tool, we must adopt it with ..."
-    publishedDateTime: 2024-02-15T10:59:00Z
-    webUrl: "https://www.militarytimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
+    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
+    publishedDateTime: 2024-02-13T00:37:00Z
+    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
     type: article
     provider:
-      name: Military Times
-      domain: militarytimes.com
-    quality: 41
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
     images:
-      - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
-        width: 1024
-        height: 632
-        isCached: true
-  - title: "AI not ready for prime time in mental health care, experts say"
-    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
-    publishedDateTime: 2024-02-14T08:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/national_world_news/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_31988137-aebe-595d-8304-943d4a9f6029.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
-        width: 400
-        height: 391
-        isCached: true
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
-    publishedDateTime: 2024-02-15T19:00:00Z
-    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
-    type: article
-    provider:
-      name: Marine Corps Times
-      domain: marinecorpstimes.com
-    quality: 39
-    images:
-      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
-        width: 1024
-        height: 632
-        isCached: true
-  - title: "Trends clinical leaders, hospital execs say will shape healthcare beyond 2024"
-    excerpt: "We also believe that AI will have an increase within healthcare institutions. There are many different possibilities with the exciting field of artificial intelligence, whether it's to make processes more efficient, making workflows more efficient ..."
-    publishedDateTime: 2024-02-14T16:36:00Z
-    webUrl: "https://www.beckershospitalreview.com/hospital-physician-relationships/trends-clinical-leaders-hospital-execs-say-will-shape-healthcare-beyond-2024.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 36
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
+        width: 1066
         height: 600
         isCached: true
-  - title: "House Republican urges VA to get consent from veterans before using AI for health care"
-    excerpt: "Rep. Matt Rosendale urged the Department of Veterans Affairs on Thursday to obtain patient consent before using artificial intelligence as a clinical tool for the diagnosis and treatment of medical conditions."
-    publishedDateTime: 2024-02-15T23:08:00Z
-    webUrl: "https://www.stripes.com/veterans/2024-02-15/veterans-affairs artificial-intelligence health-care-13017012.html"
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
     type: article
     provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 33
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
     images:
-      - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
-        width: 480
-        height: 299
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
+        height: 900
         isCached: true
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
+    publishedDateTime: 2024-02-13T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
+    publishedDateTime: 2024-02-14T05:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Sonata Software collaboration with AWS on Gen AI"
+    excerpt: "Sonata Software collaboration with AWS on Gen AI - Sonata Software , a leader in Modernization Engineering, today announced the integration of Amazon Bedrock"
+    publishedDateTime: 2024-02-13T18:36:00Z
+    webUrl: "https://www.siliconindia.com/news/general/sonata-software-collaboration-with-aws-on-gen-ai-nid-227860-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/438a7PGM.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "BARREL ENERGY ANNOUNCES CREATION OF ARTIFICIAL INTELLIGENCE MINING CENTER"
+    excerpt: "Las Vegas, NV., Feb. 12, 2024 (GLOBE NEWSWIRE) -- Barrel Energy Inc., (OTC Markets: BRLL) (the “Company” or “BRLL”) is pleased to announce the creation of its AI Mining Center, Spectral AI Hyderabad, which represents an innovation in artificial intelligence (AI) directed spectral anomaly detection for exploration and environmental services."
+    publishedDateTime: 2024-02-12T15:57:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/barrel-energy-announces-creation-of-artificial-intelligence-mining-center-1033057718"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
+    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
+    publishedDateTime: 2024-02-14T01:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
+    publishedDateTime: 2024-02-13T16:07:00Z
+    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
+    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
+    publishedDateTime: 2024-02-12T19:59:00Z
+    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
+    type: article
+    provider:
+      name: KIOSK marketplace
+      domain: kioskmarketplace.com
+    quality: 15
+  - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
+    excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
+    publishedDateTime: 2024-02-14T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962214.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "N5l0SiwGzx9W5a+/zdNxvMSyNfhDrrJRg6en33Zi82YGS70K1ZAEcAg+DaT38WACHbVc14heTwYq1cnpcuHKPmBBMHT26PTV7+vFYX3Sf5V1Vz+mHF0yd80oNWLPvZ/VXPgR/ZgSAg8HTLmWoltT7W7/GPKS1NE6IDbmNbJz0EzjOwLPAYcWFUB9tlZR+6WSNPu01iNkTV31wCJlBkHka0Karsj8ixD3wtnjqb50bpiZwXxwDhTWkb+662+6uaAWHsgmJNNmx4NnAttH10++OkJ9h1d+8eu8m1BRJrl/i09L62VDBJMH/aGy/8+qgD92J1G3s8EdRAUvE8D39zfCuMoTQgbDanja61zfcwdfJgs=;kwbO5nT2q4D/LCBHL4wscA=="
 ---

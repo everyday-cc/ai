@@ -111,20 +111,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Minding the Machine: Assessing the Case for AI Regulations in Healthcare"
-    excerpt: "Explore the delicate balance between innovation and patient safety as policymakers navigate the ever-evolving landscape of artificial intelligence in medicine."
-    publishedDateTime: 2024-02-12T06:41:00Z
-    webUrl: "https://www.medscape.com/viewarticle/minding-machine-assessing-case-ai-regulations-healthcare-2024a10002yi"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 55
-    images:
-      - url: "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240209_artificial_intelligence_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
     excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
     publishedDateTime: 2024-02-13T17:18:00Z

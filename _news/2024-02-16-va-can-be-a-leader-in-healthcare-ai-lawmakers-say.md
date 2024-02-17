@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108
 webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
 type: article
 quality: 56
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -96,15 +96,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
-    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 25
 
 secured: "dr4SpZe1eo5zv03OJpKhTHVq/8q6AyCXgPIUpp3zcBJ6cDeqVJ0sksddX10TJOT/9gAWVW2it7T7m/21JhNCMqWUIJFEeQLSZb6vyy7Ig2JY9HFbchmxEDyU9MYpmAXXDWhfo3+tMdzYyUJggopDIAEO2VbS5exLBLm4Z1DKNk8npgM/M/VQOnJNK6105a+HSe8g1iGjzyWHCDTCsNTtmm/gI/Un3E4NKcXu7AlsHDdoMogbTWD2mM5S1uxJn1bOkTJrwshzHKa9NJBWO0LrKzkyMHastHrZvp8muNu/JDyZrAPpiQnFqiPPMXqDv0QuWevCMD3FaEYLXcJv3dl0xoMMt8x7xHEQNCRa1X1KFE59YzyeiGzjIp4KDvDgSwvOxWamjUZ37O2Gj5dh1dNrvVKiM2Es9ifc9JaezrGZRwaoKWYymjvnjIT1xZ+6vTSAldJ1/x1qdaJzr7+lUuHQ2wnGjefnxT2CV3kov1ZZr6SkQrpoIs80dSsxHs53GNENQUQc7kbzdpCWuDmZymScHQ==;wgZYWzB2VaZ6zI8BgGKLRw=="
 ---

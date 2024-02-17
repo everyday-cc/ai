@@ -203,33 +203,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Microsoft to build new data centre in Centurion"
-    excerpt: "Microsoft said it is committed to accelerating the pace of technology transformation and digital enablement in South Africa."
-    publishedDateTime: 2024-02-12T05:34:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/"
-    ampWebUrl: "https://www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    cdnAmpWebUrl: "https://www-citizen-co-za.cdn.ampproject.org/c/s/www.citizen.co.za/lifestyle/technology/microsoft-build-data-centre-centurion-sa/amp/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://media.citizen.co.za/wp-content/uploads/2024/02/Microsoft-Data-Centre.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to CloudCADI – One Stop Cloud FinOps Solution, directly from Azure Marketplace itself - while leveraging scalability, reliability, and agility of Azure in driving application development and shaping business strategies."
-    publishedDateTime: 2024-02-12T05:49:00Z
-    webUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..html"
-    ampWebUrl: "https://www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/wire-updates/business/2024/02/12/dcm5-amadis-technologies-inc..amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 57
   - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
     excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
     publishedDateTime: 2024-02-16T00:00:00Z
@@ -243,20 +216,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
         width: 647
         height: 450
-        isCached: true
-  - title: "Cabot's partners with Microsoft and Insight Enterprises on AI chatbot"
-    excerpt: "DuluxGroup-owned Cabot's has partnered with Microsoft and Sydney-based solutions integrator Insight Enterprise to develop a prototype artificial intelligence chatbot for customer support."
-    publishedDateTime: 2024-02-12T05:40:00Z
-    webUrl: "https://www.crn.com.au/news/cabots-partners-with-microsoft-and-insight-enterprises-on-ai-chatbot-605002"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-690_artificial_intelligence_ai_chatbot.jpg"
-        width: 690
-        height: 428
         isCached: true
   - title: "Microsoft to inject €3B into Germany AI, cloud"
     excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."

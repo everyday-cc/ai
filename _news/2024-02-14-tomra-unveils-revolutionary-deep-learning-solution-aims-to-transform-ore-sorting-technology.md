@@ -3,16 +3,16 @@ category: news
 title: "TOMRA unveils revolutionary deep learning solution, aims to transform ore sorting technology"
 excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
 publishedDateTime: 2024-02-14T09:19:00Z
-originalUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
-webUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+originalUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+webUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: Engineering News
-  domain: engineeringnews.co.za
+  name: Mining Weekly
+  domain: miningweekly.com
 
 topics:
   - Machine Learning
@@ -35,6 +35,6 @@ related:
       domain: engineeringnews.co.za
     quality: 19
 
-secured: "ab79m/1oG/92C2iwC+Bu6iQRyiaBtWJFfPPVUW5YBmq/2O9aATBRvVf7YQuZ4Ze+SLTclcDIhAi/CNaaYWOfjCNv+22k7cxD0EBpbBHBNv9dBIC+b7PxwOxmWvSdu9q1XtgHrFuVnndCB5Ov7KB43EJewGkkyQIM4VsNA4F4NprQTtL/9XIroyasYr8q+RQPnV1maNX4t5ajBTYAoCAt+LvhfYpK2jtgRtBoffr3ac+Ips8almyN7BVe+yuK/zdqKb+u8tIKu9HJgBEs/2Fa+72NOuwBnkAeXAhsJZC3xFN4Ou7WmgbKZxIp0cei14gl3+TL4KghR0sYG3yzLVFZHy4NJjrdUbdFMLB7JqPEAG33IuXnAkP4Wbk/QXoKLykMuCNWxKz7RhK+sIUs4XcoY3IL8dcNEQfxOPMurSdkoCus/uLKif/XlUzdRnxf5Zz1vsrUtaPcGHdwpesCdQ9sqB0gYPk3APwYv5JShkZWw3BEXkKoGlQ9UJncNl/ujWWu+Aw2W71Gcmk2mE1kdjo9LA==;hekMk26rg+QwkId6NMA3Vg=="
+secured: "yhfmUmMc/ZItLDIx/CJ7PP/qqr6idA4gHT6r2GGTRHAu01awyawuAyf2rG7m3/haroXRkhusfAM+6S1ADu+MA1fR+x0xAQ97TML0kBdN+JBh0BpvNDE+QZdGiEbvaI4D4rqe9ExdfvEOVVwcW6FAM803J3BNTastCx3s5cc2RNq5GNp2TwDDqAmiT1y3V6qz4duuqcHruvPNLaGIL+GAak1pFrPXJe4wyck9U2kHISmxZmmFDkgxhsgrkq0dokKM0b8dsfU0rHYGNTFtpaYS+v5S4Hbj7cs1D7Q6wR4Uzun0x1I/dmz0hGYJPMtKaCGyz/VMQcXF5Ni9p94IJ/wrYjLNn4T4nFkEFc3mtdl/d4I=;QvUGgF431g7AT/SanxkLgA=="
 ---
 

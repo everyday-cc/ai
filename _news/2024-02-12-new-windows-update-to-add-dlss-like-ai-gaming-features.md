@@ -57,6 +57,34 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Best AI stocks in 2024 for performance"
+    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 41
+    images:
+      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Bring Human Values to AI"
+    excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
+    publishedDateTime: 2024-02-12T17:00:00Z
+    webUrl: "https://hbr.org/2024/03/bring-human-values-to-ai"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2024/01/R2402C_BONASERA.png"
+        width: 2000
+        height: 1125
+        isCached: true
 
 secured: "XhXfNZX1e2RzRl8Z62VVItYd7jawyIYTB/0/dZmnYecY851/KqVzt2DeF+iwtm0lEbs0ef0Z+76OjE2wcTDXnwSLPuYpcO0374knfgF+vY/fD/TzSaIrsL8dfNXwa2Pgie4SCBhgSS8/9o0QIbmVkSiwtd/f67WInPJXRcRARJDCVVQBWTaevSdTGUtiaj5Id1siKwIAkoWGp/NUyotB50YJ1A04cw36iJwqFVvwSrQOVx4uQ4HaJ4fISlKBehNhprzZ7SbEYeQ7yJWzXLGKJsLHEO88v3UFedAT3jhocZEZ95s4i04trR+18WiaXICTCSqZc7mA05a7Zf35JJNBqBtiPcEyZp8tJSwIqgRK35DF+iSZc3gjeL/03DNLMZrxulltp+c0WtV7V7Qw5zmPXvxRmpoH8f774gmEV9GPP7V9UcoEXDBROFI9fG6SpcsvP3q/B4ZHsVNWDrwoCBb89tWx1rXcXsN/A4hUxgcz2axZy2D5DWB72Nd8/aBxm/JORD/uDoxFbnBsbG26n4s/0w==;1SjqsXXfoS55Uv1CARFIDQ=="
 ---

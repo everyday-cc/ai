@@ -96,15 +96,6 @@ related:
         width: 480
         height: 299
         isCached: true
-  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
-    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 25
 
 secured: "eRclA213z8A2Sr6gcOeGeygUKTfuSEIh77dmYOoHupkzKG+HKSh6ppi8J2YVR0b3OCfRUO7doZN557/lMHT1qmej9Sl0vZUjHqjvALkASxK8QXAxJTzLcMcxCJT0mh2CkSAnKDESWhHLNY00Y82x7AkD68SSsajzkT816yYGlROMAbL6u11kVK1BpDbnvy3iE9ibqGHhkOoFhKjvamLph58bzaWjSEWPyANB6X4Eb1l95sQfgOx+5n9PAXHqwCXbaPL8LjkS83GivZomc1QIQ/wGDkg82WRVKlI2JDThbXmDa4XbviXVt9E48wD1q5e3gmCPDRsbGk3Oy9SKU0di25SRFxUOvYOMuaBFW/sdw4XFXenfsD0wFjBrpnvU9Sk+DS/FYkZet7BXUcmbht2ri1sAwzW8Wusc+WTS9BwG1nLEJZPjieoS8nkIbIyLjvRqVKpgM1z7/IPJ0YO1NnyF1D4lKauIVTy+iGVGordQwaSKHHi2/o+D4FTW5Yw5WaMTA+n0bpd3tDRAhqmp+UYNcQ==;QdehoEnSFSuzl4b2Y3lUjw=="
 ---

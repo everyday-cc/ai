@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-
 webUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-company-recalls-software-crashes-phoenix/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,147 @@ images:
     isCached: true
 
 related:
-  - title: "California's Self-Driving Robotaxi Dream May Be In Jeopardy"
-    excerpt: "Waymo, the autonomous vehicle company operated by Alphabet, has announced that it will voluntarily recall software following an unusual accident in December."
-    publishedDateTime: 2024-02-14T19:22:00Z
-    webUrl: "https://carbuzz.com/news/californias-self-driving-robotaxi-dream-may-be-in-jeopardy"
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ..."
+    publishedDateTime: 2024-02-14T23:29:00Z
+    webUrl: "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
     type: article
     provider:
-      name: https//carbuzz
-      domain: carbuzz.com
-    quality: 4
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947"
+        width: 3200
+        height: 2400
+        isCached: true
+  - title: "Alphabet's Waymo recalled vehicles to update automated driving software"
+    excerpt: "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan."
+    publishedDateTime: 2024-02-15T11:09:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/amp_articleshow/107723020.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
+    excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
+    publishedDateTime: 2024-02-15T16:23:00Z
+    webUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
+    type: article
+    provider:
+      name: newscentermaine.com
+      domain: newscentermaine.com
+    quality: 46
+    images:
+      - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Waymo recalls software after self-driving taxis crash in December"
+    excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
+    publishedDateTime: 2024-02-14T17:37:00Z
+    webUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/"
+    ampWebUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 39
+  - title: "Waymo recalls software after two self-driving cars hit the same truck"
+    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
+    publishedDateTime: 2024-02-14T19:29:00Z
+    webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
+    excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
+    publishedDateTime: 2024-02-12T08:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 25
+    images:
+      - url: "https://static.toiimg.com/photo/107623393.cms"
+        width: 2200
+        height: 1238
+        isCached: true
+  - title: "Crowd torches Waymo self-driving car in San Francisco"
+    excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
+    publishedDateTime: 2024-02-12T12:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+  - title: "Waymo self-driving car set ablaze by crowd in San Francisco"
+    excerpt: "The severity of the incident may demonstrate growing public hostility toward self-driving cars after a pedestrian-dragging accident last year involving an autonomous vehicle operated by General Motors' Cruise unit and a recent collision between a cyclist and a Waymo car in San Francisco."
+    publishedDateTime: 2024-02-12T10:04:00Z
+    webUrl: "https://europe.autonews.com/automakers/waymo-autonomous-car-set-ablaze-crowd-us"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
+  - title: "San Francisco crowd destroys Waymo self-driving car"
+    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
+    publishedDateTime: 2024-02-12T19:17:00Z
+    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
+    type: article
+    provider:
+      name: winnipegsun
+      domain: winnipegsun.com
+    quality: 19
+  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
+    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
+    publishedDateTime: 2024-02-13T10:24:00Z
+    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
+    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software/3338787/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 19
+  - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
+    excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
+    publishedDateTime: 2024-02-16T20:28:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2024/02/16/waymo-software-recall-phoenix-crashes.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
 
 secured: "8mcva7gDEBAt0mxRCjjzZ5l5DsgUlCMeosQNoJ8rZ5T6PO19mWiaZ4SZN3CuDMvB2baD2AhMFR9w25J7rUX46p1PqQmFrlfSX9UHzbi5PtQ9ioriQlGwttykixThqZzOsaDypDVmX8oJCdQbJ6/mDA9JnZfsSPkwl42Znim848NFepVZlzy2c/GOT8gbObSS6Gg6aXmiSh0GlP/i/m1xaLzHz6irzVkaafpeOwD0NTdQdFT0a3DvlA3GvCyUeuV7Br0azh2+Ajly+yTb91zpTdpm0kkfnO9COZTOHzk5WGL0r6WyeD4fTZ/BR4Fk3FTzLEyz9vuXaSleUHRfCBTTR8xGjcV9FqIphCHqRgP/LoHnX1yIKsu85W7r8tmbRVg+IeijskC+ovSHQ+AyTGgGJQWJi2dlxqiDHjP7odKY+FC70J8WHxUok2+VqS0b28v9L27hp3HGNzNT2AOXozYIgAsChx+jtL+xpDzR20YlYa/ruWLatSHQbPFdSMxKBdpMH1FKpLqpY87dVvMrlHxaJQ==;bc1j2fUPM4dc++lb5nM0Qg=="
 ---

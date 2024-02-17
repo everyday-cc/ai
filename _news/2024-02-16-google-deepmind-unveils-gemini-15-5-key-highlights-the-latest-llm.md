@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
-    excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/14/google-deepmind-gemini/"
+  - title: "DeepMind uses AI to tackle neglected deadly diseases"
+    excerpt: "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ..."
+    publishedDateTime: 2024-02-17T04:47:00Z
+    webUrl: "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-8cS9Uum6SGyXHaiJuH6QTvj4_l9PogOdor7xg7ucWn_j3MaKb2kqUdhue7sRODtdyBXZm1"
+    ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: BBC
+      domain: bbc.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd60e78d0b0630549429ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
-        height: 900
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Google Assistant is a mess, but is Gemini really the answer?"
-    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
-    publishedDateTime: 2024-02-15T13:00:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
+  - title: "DeepMind COO on building a responsible future for AI and humanity"
+    excerpt: "The AI community has an obligation to humanity to build AI responsibly. But what does that mean? DeepMind COO Lila Ibrahim shares 3 steps."
+    publishedDateTime: 2024-02-15T09:32:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-3.jpg&signature=463d573ee9ee2d37c82274580114c348"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "NFbJw/sZBvkpMJAf4nkXoyfYUyuk0rQBndjTQbgcGcGrdjzBVB5mcluaxSCQZqXmtFsHK2VXFxkKiQWQBLRpxFKdl7+lyrjoNqE2o+NXTnQUsAnQfmI6OjmHRPidT/DZXahc3cRcLmSNbdExEuti7zbuJI7qeMP7KZri0jJYhZMstwRSI4M2U6YmTLWzhNCzq89UBRlHQyipaB6jxfWvyHdtgZW/BWMdaDuGbu3JATiKjqw+QWMOav4WCugE9TpfpwLGb3hanecYAXUG7doQpy+6DoFEWBvWPI7sVqjRIJHTFIIs8uQGlLezHPCWmgHYT7AtsGeWbfA0kxFnDyZlV5W7Vrz6Z/Q1iin7FYyH8clagvl5HN1EzV1WglT1H8OQy1K39/nZSDZKx9mU7K3aAaFSRBZDNGXOYWlg7FA8O1pAadNMzAGCqcwecRT/Dc0hkVonOH7K7Vowqy93q31CTgk9I7jaWkf/jy3705jDCawN/OOBsbcGjunefGdrw6ueSR4X6nIFy3FENY/zvU9l7A==;s+h/GQUJ+8enxGJLf1g/JQ=="
 ---

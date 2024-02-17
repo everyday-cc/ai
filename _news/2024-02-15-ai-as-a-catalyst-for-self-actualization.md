@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,34 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Slack Rolls Out Generative AI Search and Summarization"
-    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
-    publishedDateTime: 2024-02-14T16:51:00Z
-    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
+  - title: "Smartling’s AI Translation Drives 40% Growth – a Leap Forward for Enterprise Localization"
+    excerpt: "Smartling grew its Translation business 40% as a result of AI Translation and is reshaping the industry by delivering human-quality translation for a fraction of the cost and up to 10 times faster."
+    publishedDateTime: 2024-02-15T01:07:00Z
+    webUrl: "https://slator.com/smartlings-ai-translation-drives-40-growth-a-leap-forward-for-enterprise-localization/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
-        width: 1400
-        height: 900
-        isCached: true
-  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
-    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
-    publishedDateTime: 2024-02-14T01:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 38
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Slator
+      domain: slator.com
+    quality: 10
 
 secured: "rcRYRcY0ayjcOMcQyCjoCf1qkaPfxJEDFstA76DjxzuXYI8d1mCbajXH6Qo3Iud94kFJLqJoegbOyTHJRGtFYAcR1L2a+ZsHuONPDQoTjLI5PREciwrbLXTTZRWIbhtZCmAZhOr6P1Uh6a4TTOxpnw8RsV0vw8+VcXHNaNoReB/kFQoCuJ6zJev3YvUsccqTKLfbSe6gmrd1PImYgao7mKmtZv5eHxcjhaHiDP11QFtt52YIV531D+AGbfH58uGznDv1+ETjgp17ztYSCweL0pkw4SLAEDVrLnYx5YjRm391dC6E64sab8dgfLUckuuwgW6bR5RyjUWoS284OJ0I577D+4zLl9Rnw2nVi0phhOMafDVZlEi5gAnN5FQTgRX/EfJYIannVaBdldXqStLIlziKBNhVrq0aYqik8yMW3Jb/q3Jc4VUkeF9z7Ps2Os2hijqTdzmhYcDzq4r+Af+zR9TboQVAjWCdpUrhR9nYqWtTZWumqujzZ5jix236HOIUZz/NMTCEdCGeAkvMQ3jF3g==;3rybHCH3cO+mrI2+WoTXSA=="
 ---
