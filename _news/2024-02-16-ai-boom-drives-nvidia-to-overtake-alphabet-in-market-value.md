@@ -67,20 +67,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Nvidia's tailor mad chip gamble"
-    excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
-    publishedDateTime: 2024-02-12T10:35:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/85ae5c159005f0f36da0615500f600e0_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
     excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
     publishedDateTime: 2024-02-16T19:33:00Z

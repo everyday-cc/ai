@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why artificial intelligence needs to consider the unique needs of older women"
+    excerpt: "Without thinking through these questions, we may leave older adults, particularly women, and other marginalized populations, open to discriminatory outcomes."
+    publishedDateTime: 2024-02-17T10:00:00Z
+    webUrl: "https://www.thespec.com/opinion/contributors/why-artificial-intelligence-needs-to-consider-the-unique-needs-of-older-women/article_5c764325-58af-5d48-af51-f98c2b8d8342.html"
+    type: article
+    provider:
+      name: The Hamilton Spectator
+      domain: thespec.com
+    quality: 36
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/thespec.com/content/tncms/assets/v3/editorial/c/fd/cfda6b38-eb9c-5e90-b688-06e9269b2e9b/65ce45e6681d9.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Technology: Pros and Cons as Shared by Experts"
     excerpt: "Some tech giants such as Netflix, Meta, and Amazon may now be offering around $900,000 for workers to develop AI models."
     publishedDateTime: 2024-02-13T10:19:00Z

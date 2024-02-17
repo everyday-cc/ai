@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 type: article
 quality: 59
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Bring Human Values to AI"
     excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."

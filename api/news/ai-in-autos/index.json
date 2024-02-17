@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -34,6 +34,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
+      "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
+      "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-fsd",
+      "originalUrl": "https://www.businessinsider.com/tesla-fsd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62f26cf8cc15bf00182f8eb8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-fsd?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fsd?amp",
+      "publishedDateTime": "2024-02-14T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1324,40 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-china-challenges-the-west-for-driverless-car-supremacy.md",
-      "title": "China challenges the west for driverless car supremacy",
-      "excerpt": "In Wuhan, 500 robotaxis, mostly run by Baidu, China’s rival to Google ... according to Waymo, the self-driving car developer of Google’s parent company Alphabet. Waymo told the Financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb",
-      "originalUrl": "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

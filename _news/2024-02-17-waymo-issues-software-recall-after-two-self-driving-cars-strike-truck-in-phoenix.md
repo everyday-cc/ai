@@ -115,15 +115,6 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 19
-  - title: "Waymo self-driving car set ablaze by crowd in San Francisco"
-    excerpt: "The severity of the incident may demonstrate growing public hostility toward self-driving cars after a pedestrian-dragging accident last year involving an autonomous vehicle operated by General Motors' Cruise unit and a recent collision between a cyclist and a Waymo car in San Francisco."
-    publishedDateTime: 2024-02-12T10:04:00Z
-    webUrl: "https://europe.autonews.com/automakers/waymo-autonomous-car-set-ablaze-crowd-us"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
   - title: "San Francisco crowd destroys Waymo self-driving car"
     excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
     publishedDateTime: 2024-02-12T19:17:00Z

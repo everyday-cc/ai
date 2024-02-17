@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-14-not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual.md",
+      "title": "Not So Fast: Study Finds AI Job Displacement Likely Substantial, Yet Gradual",
+      "excerpt": "MIT study suggests human tasks won't be automated and taken over by AI as quickly as previously suggested, and provides reassurance on impact on the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
+      "originalUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbdc02f4ea484ae3d9afbc/0x0.jpg?format=jpg&crop=3695,2079,x0,y79,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/heatherwishartsmith/2024/02/13/not-so-fast-study-finds-ai-job-displacement-likely-substantial-yet-gradual/amp/",
+      "publishedDateTime": "2024-02-13T21:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
       "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
       "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
@@ -794,7 +845,7 @@
       "originalUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1163,57 +1214,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-super-bowl-lviii-told-by-ai-deepfakes.md",
-      "title": "Super Bowl LVIII, Told by AI Deepfakes",
-      "excerpt": "Gizmodo used Midjourney to create visual representations of some of the Super Bowl’s biggest moments. AI deepfakes are slowly becoming a central component of our society, so we",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
-      "originalUrl": "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/94c818ab12b088cb5c4870edec8dba6a.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T20:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
+      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
+      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
+      "publishedDateTime": "2024-01-31T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-moxie-ai-robot-founder-highlights-armenias-potential-for-advancement-in-artificial-intelligence-and-robotics.md",
       "title": "Moxie AI Robot founder highlights Armenia's potential for advancement in artificial intelligence and robotics",
       "excerpt": "believes that there is significant potential for the development of robotics and artificial intelligence in Armenia. According to him, while many countries possess oil, gas, and gold resources, Armenia's most valuable resource lies in its intellectual ...",
@@ -1112,58 +1165,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all.md",
-      "title": "How Schneider Electric Is Deploying AI To Improve Energy Efficiency For All",
-      "excerpt": "Like so many companies across industries today, Schneider Electric is mobilizing to leverage AI to improve productivity and efficiency. A recent survey found that 64.2% of companies believe that Generative AI has the potential to be the most transforming technology in a generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b96d877014f9ce8b7c5fe2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2024/01/30/how-schneider-electric-is-deploying-ai-to-improve-energy-efficiency-for-all/amp/",
-      "publishedDateTime": "2024-01-30T21:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

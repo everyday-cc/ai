@@ -69,20 +69,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Nvidia's tailor mad chip gamble"
-    excerpt: "Tech giant to make bespoke AI processors Nvidia is launching a new business unit to make tailor-made chips for cloud computing firms and others, including advanced AI processors. According to Reuters,"
-    publishedDateTime: 2024-02-12T10:35:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/58428-nvidia-s-tailor-mad-chip-gamble"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/85ae5c159005f0f36da0615500f600e0_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
     excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
     publishedDateTime: 2024-02-15T21:36:00Z

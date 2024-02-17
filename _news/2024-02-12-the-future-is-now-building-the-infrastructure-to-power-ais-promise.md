@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-future-is-now-building-the-infrastructure-to-power-ais-promise/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
+        isCached: true
   - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
     excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
     publishedDateTime: 2024-02-15T23:01:00Z

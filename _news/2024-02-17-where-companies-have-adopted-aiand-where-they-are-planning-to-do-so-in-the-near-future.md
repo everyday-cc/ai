@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Where companies have adopted AI—and where they are planning to do so in the near future"
-excerpt: "Verbit analyzed survey data from the Census Bureau to see which states have the most companies that are enthusiastic about artificial intelligence."
-publishedDateTime: 2024-02-16T17:24:00Z
-originalUrl: "https://www.sacbee.com/news/business/article285579412.html"
-webUrl: "https://www.sacbee.com/news/business/article285579412.html"
+excerpt: "On Nov. 30, 2022, OpenAI launched ChatGPT, a chatbot driven by artificial intelligence. The app spread like wildfire. Not only did it provide an entertaining companion to chat with, but it also showed promise as a piece of productivity software."
+publishedDateTime: 2024-02-16T18:10:00Z
+originalUrl: "https://www.timesunion.com/personal-finance/article/where-companies-have-adopted-ai-and-where-they-18672230.php"
+webUrl: "https://www.timesunion.com/personal-finance/article/where-companies-have-adopted-ai-and-where-they-18672230.php"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Uycu+kIjbWha8iqulrvT9m0AFXAPqhz87vQcc5wQs8NxqcDMwtpAhXtYlMmcOJqSApkpw4Js+o4LJN9UjsVrOdtBwn6sQ4Ffe8gH+opycdNkpWki1SU0FHBj6/q84hg7WkEr47088MGjjBsv/BZ1qCugQDAYZWZ+nDmvGmK2gXH2wrYidfoZTS5FIuuvNgrYIIbV9gihbjXc5qXjDr8BO1MlXFdRZ2T05n4Wuhec+XscoEyYgvIeEUUeUolrhEbhrO4h3CS0PcWvmMAVcQw70E3Wpu2YlEvbE/LRE6q5yZogT11eBzX6C1k4fe+UoguMVhlcDx7d9EEUNQ72/oky153wLmF8VMQL6yT5i2svzrkATPPpkwWpPApGSO6drvfIu8YERL9RaEnpVI3DBZou/IFxlM8NDjX92dZ1tJMjld3kmV3zUUVZKKqpeDTdljFoKp1GulcWJVjzi2l7Wmw/McLH/SlnFBWLdGZoiel1qhYzZI6DhWkJSYOgLFoOtmzSV5JHoEx4vicQvbQ0xyN+eg==;Ze5n7xL9DpuQA0Vts/LMew=="
+secured: "+sGDQC2M1nZnRb030Em9ceIcQmp8m0w8b8UoX+06Go+2OX5bEc0zZoaEopfW5eWh7/4Wy3um5LBEXOi9HC+lNYxHkw2OzqIEysc/0yS1m6lVoXpKP3Ot+o+sNA657mSYLQ0OXmg1nRSZLG+/W1SYfeKB3hZlYaaCgSGIwV1O66QBCWFwRcoSn7j3/qrlQrFGKNz4tP6kBHMtpp89Hpp+oOoE8VuFlUvkqTUSvpXR0ywIlaB1gyMFYJ92oAOltuZKZtPfFdzx3X4NuDEibP4bhNjgWwVCSVwRh7ZwnJqmA83ruB+2+dnr5ah4eFjFctNvXK/ebHWnUzYuU9Gc0K3lE8yvIs+G2MLLahfGHXLt7x32MGTGRyyUmCDqiLZ1SK/BBR16QclkQN+/bvjr7CLXVnOO8VzSVkG9Wyfh9etk93ByXIVWxFcQuMBUK68UAn3ng2230R0fRQmFzKAZb8kz4xxNU6cmN5CUUUoxz8lKODLOMh1N9Yj76OK5/tCWfBj6hrfWriG2UYiS+KFyvHbxvg==;UdPgJfWhnjG6krM9z8GO9A=="
 ---
 

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-17-softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.md",
+      "title": "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports",
+      "excerpt": "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.economictimes.indiatimes.com/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123",
+      "originalUrl": "https://auto.economictimes.indiatimes.com/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123",
+      "cdnAmpWebUrl": "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123",
+      "publishedDateTime": "2024-02-17T09:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ET Auto",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
       "title": "DeepMind uses AI to tackle neglected deadly diseases",
       "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
@@ -201,49 +244,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-17-softbanks-son-is-seeking-about-100-bln-for-ai-chip-venture-bloomberg-news.md",
-      "title": "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News",
-      "excerpt": "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/",
-      "originalUrl": "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T18:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-17-take-a-look-at-innovative-applications-of-computer-vision.md",
       "title": "Take A Look At Innovative Applications Of Computer Vision",
       "excerpt": "Computer vision has the potential to streamline business functions, support environmental stewardship and make our day-to-day lives as consumers a little bit easier.",
@@ -252,7 +252,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/take-a-look-at-innovative-applications-of-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1012,7 +1012,7 @@
       "originalUrl": "https://www.digit.in/top-products/best-ai-gaming-laptops.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1150,7 +1150,7 @@
       "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {

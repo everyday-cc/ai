@@ -70,20 +70,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "zt39e+v02/F3THpFQz0fIwgM1G0yqeiR4S0QVC/wpvexegVlmxrgXovV9aQaObB7RDwRyXo+OMMH0x9H/VnCzoiZIF0nCkgMBhGQ0H8nGh8rzIkH96xBHCxhP3AKxB2BigevceJCjvKtBm31INjv8w+prRRNI7Su5Ie+FJBQp1SOlbzjURH2P4to3pgVCuHxAHIJ4NzJav0ZqK2dqhIciFoKs0Kp4539VzVenfewm7/UoalVAb/Yv5irHLfSEgtbesBC9jPW8fl/enzRzpNkZI3jAFRGsZJFGxQlnNQdhrmV5YMcrC+N+nRsO0yLPc8xcQjHvHK7WRuTSX1xn7zaHbaYzq6fw+dW+BWVMvSdi0wPzfGu/xs/YBNiqhEtvXkAcB5tsqBBzHlmRv7O0Y+c2qfi80YLVFbdaVPcL4hwXTijIGa8np+8eGyMR1lys9useui1BX3yP1rzIFUo/wv3KJJB4m6I1X+gvFhc0WUwdpOkzu4KtZg/Nd1624PTO2iNdImeD7dhGeF6cV+xH1IXgg==;SWMc55OcpYE8ViAatMa20A=="
 ---

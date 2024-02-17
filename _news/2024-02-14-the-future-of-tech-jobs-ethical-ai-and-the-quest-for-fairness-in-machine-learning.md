@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2816540-the-future-o
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
+  - title: "The Future of EdTech: Paul Showemimo’s Journey Integrating AI in Learning"
+    excerpt: "EdTech – educational technology – is a rapidly growing field. In 2021, the worldwide market for EdTech was estimated at 115,022.22 million USD. It is projected to grow at a compound annual growth rate (CAGR) of 26."
+    publishedDateTime: 2024-02-17T10:36:00Z
+    webUrl: "https://techbullion.com/the-future-of-edtech-paul-showemimos-journey-integrating-ai-in-learning/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 38
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Paul-Showemimo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "cJjqHqNfoaQ+hiMdN7copkYmNe7HwAWt6Zh4iel0IdSg7LWbhCMMHQw9addGuXj7FMXtMOTLupJ56HoAmvQ8QMI0Inz4HbuHW2NfTV635pnW7Wh8pzjRz1Q7fC+os+METPqQUW/u/GL/jK489tzi8hHG2Zs0ubmeHh9SZuJdS3PUmOar1NuuYsTxEPc5VzqU0qS1vBEqrgJtMvFIJ248UY7uapJE375IeHgipWpHHGTEG5gEBdcj3nzmtnKOzpvu+9nB6DUfbOtbUrdWYZ/FJq2Kij99WEWTicBLTgxoSOxhD9N9SsVfW/kboztk26YBhZTs+UYwrCi64QaxHY9RvEfV+27fbaXC4pSWaO3Exqk=;DHs4aot1WKt5YzYD/Bf+Ig=="
 ---

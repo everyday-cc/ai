@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2024-01-26-trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work.md",
+      "title": "Trustworthy AI: String Of AI Fails Show Self-Regulation Doesn’t Work.",
+      "excerpt": "If 2023 was the year of AI hype, 2024 is the year that trust in AI becomes mission-critical. Without effective guardrails, we may be speeding towards another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/",
+      "originalUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b1996fda6126e5c3faa4d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/abigaildubiniecki/2024/01/25/trustworthy-ai-string-of-ai-fails-show-self-regulation-doesnt-work/amp/",
+      "publishedDateTime": "2024-01-26T02:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-aws-takes-aim-at-smbs-with-new-competency.md",
       "title": "AWS takes aim at SMBs with new competency",
       "excerpt": "AWS SMB competency partners can deliver solutions and offerings across the full spectrum of SMB needs including platform solutions such as migration and modernisation, security, data storage, disaster recovery, and artificial intelligence/machine learning.",
@@ -1115,41 +1167,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-top-50-ai-startups-to-blow-up-in-2024.md",
-      "title": "Top 50 AI Startups to Blow Up In 2024",
-      "excerpt": "Explore the 50 best AI startups that have the potential to add new capabilities to the ever-growing artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techopedia.com/top-ai-startups",
-      "originalUrl": "https://www.techopedia.com/top-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techopedia",
-        "domain": "techopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
+    excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
+    publishedDateTime: 2024-02-17T09:50:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
+    type: article
+    provider:
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 66
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News"
     excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
     publishedDateTime: 2024-02-16T18:56:00Z

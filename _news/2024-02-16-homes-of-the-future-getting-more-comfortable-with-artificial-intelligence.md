@@ -65,6 +65,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
+        isCached: true
   - title: "The Future of AI Is Hybrid"
     excerpt: "Artificial intelligence today is largely something that occurs in the cloud, where huge AI models are trained and deployed on massive racks of GPUs. But"
     publishedDateTime: 2024-02-12T20:09:00Z

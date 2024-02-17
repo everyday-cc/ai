@@ -171,20 +171,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How Mobile Technology can help the Fintech Industry"
-    excerpt: "Choosing the right partner for any fintech project is rarely free of complexity – but thankfully there is a route to making informed decisions on this with minimal ambiguity or delay. Connected Industries in Hall 4 at MWC Barcelona 2024 brings together some of the world’s most innovative and influential organisations shaping the future of mobile fintech."
-    publishedDateTime: 2024-02-12T10:32:00Z
-    webUrl: "https://fintechmagazine.com/articles/how-mobile-technology-can-help-the-fintech-industry"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/1f3a482e694da4999811920d1af26edb:3ad93245b94c71a11eb392f3b55c9ccd/3-image-for-ci-gsma-mwcb24-connected-industries-fintech-final-low.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Carbon acquires fintech firm to empower SMEs"
     excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
     publishedDateTime: 2024-02-16T08:36:00Z

@@ -58,6 +58,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
+    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
+    publishedDateTime: 2024-02-17T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
     excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
     publishedDateTime: 2024-02-14T11:51:00Z

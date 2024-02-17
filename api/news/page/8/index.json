@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-09-the-most-important-ai-trends-in-2024.md",
+      "title": "The most important AI trends in 2024",
+      "excerpt": "Adapting to emerging trends is essential to maximizing potential, minimizing risk and responsibly scaling generative AI adoption.\nThe post The most important AI trends in 2024 appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-trends/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
       "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
       "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
@@ -1105,58 +1148,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-daedalus-which-is-building-precision-manufacturing-factories-powered-by-ai-raises-21m.md",
-      "title": "Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M",
-      "excerpt": "A fledgling startup founded by one of OpenAI’s first engineering hires is looking to “redefine manufacturing,” with AI-powered factories ... “At one point, the robot hand broke down ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
-      "originalUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/62d95484b9c434922879bf26_A6_00110_05-07-22_Daedalus_F2-p-1600-e1707214708909.jpg?resize=1200,674",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
-      "publishedDateTime": "2024-02-08T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://jg-tc.com/news/nation-world/science/artificial-intelligenc
 webUrl: "https://jg-tc.com/news/nation-world/science/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/article_414e78fa-8d93-5f7f-8c41-391bf9a021a3.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI innovation helps create authentic, pitch perfect vocals"
-    excerpt: "According to Hai, Diff-Pitcher is notable not only for its ability to create authentic and controlled voices but also for the method used to achieve it. \" [The results sound] really natural, and unlike in older ways of fixing pitch, we can still regulate how high or low the voice goes,\" Hai said."
-    publishedDateTime: 2024-02-12T10:00:00Z
-    webUrl: "https://hub.jhu.edu/2024/02/12/ai-auto-tune-diff-pitcher/"
-    type: article
-    provider:
-      name: HUB
-      domain: jhu.edu
-    quality: 39
-    images:
-      - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/soft_crop_1300/public/2024-02/GettyImages-1403930676.jpg"
-        width: 1300
-        height: 1300
-        isCached: true
   - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
     excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"
     publishedDateTime: 2024-02-15T15:46:00Z

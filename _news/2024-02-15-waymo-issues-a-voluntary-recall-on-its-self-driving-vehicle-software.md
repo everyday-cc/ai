@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -106,15 +106,6 @@ related:
     excerpt: "The incident was not the first time people harassed self-driving cars, but its severity signals growing public hostility toward the vehicles."
     publishedDateTime: 2024-02-12T12:00:00Z
     webUrl: "https://www.autonews.com/mobility-report/waymo-self-driving-car-vandalized-angry-crowd-san-francisco"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-  - title: "Waymo self-driving car set ablaze by crowd in San Francisco"
-    excerpt: "The severity of the incident may demonstrate growing public hostility toward self-driving cars after a pedestrian-dragging accident last year involving an autonomous vehicle operated by General Motors' Cruise unit and a recent collision between a cyclist and a Waymo car in San Francisco."
-    publishedDateTime: 2024-02-12T10:04:00Z
-    webUrl: "https://europe.autonews.com/automakers/waymo-autonomous-car-set-ablaze-crowd-us"
     type: article
     provider:
       name: Automotive News

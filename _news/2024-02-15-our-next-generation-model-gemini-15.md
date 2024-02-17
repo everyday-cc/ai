@@ -202,6 +202,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "8MGokk+hQMnFls10NQ1/+Sq1+iIiZFTRG+0Tgv2zaAkeFQZBEAQki0XaEEmBNXRQGwFf17H2P2KpCNkF/Bf4zVSi5gGceh47066i3lf2g+7h5vOKxlkVlXwV7r1MkqB60Sd3HxfvWVqgOejpg4a4BTTFRBdD6Y+SWVdo+d8IfOo4uafilIGYro+dLjeTcCz9D6QXaTJ8wGy7Qeba9IHixti3Us4lExuSv/Qt5tY66UZw5d8IfGkdf/4uz58YZZQQweRWoVqRPCM/YfZE4asDSmpJXewDfp20nANQcjyP1fXqpBad449e9yLtL7aIuMBcueq2S78DbW2wnwpptoSuUrVRWeowRmKFD2w7tghOwAM=;a/EqsfXu7xm//roD8BBhHg=="
+secured: "jbuTeDkrEHQDYIfWbopeIjbFaQKIFXwaAA9xXbrL9SqZ8viQVhVwkGVff/+F8PfpUvdAtygni/g5HyDxc3xp5yFY1s69p07sOnCD6vDeNeryJn6C+bXiaMKn4cPE4axqI7WASdxVQ6uvGJKbfKXWpT/rxktysRM/M5oCf+klHAITQ4s+ve8ghxKF1dIRRuyfPOcMcobsBXIdjgZ52hsDkv8qypNjeixUpyyzQR1M7rzTmWpe2d5m6SHbbj0jiFauimDcC9XlUze9jv48rgGrP7N3hnCsvH0bv2rnJcmLHpQHe6e/0Ko0nNAduqZ6N9gWiPrtrZrg6SJTsvLlzh7uBiCt/QDa8c33JvqlX4p/K8M=;noR2AF6pcbM01mUnNZDRCw=="
 ---
 

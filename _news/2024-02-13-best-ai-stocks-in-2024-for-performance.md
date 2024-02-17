@@ -58,20 +58,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "New Windows update to add DLSS-like AI gaming features"
-    excerpt: "Microsoft is poised to release a DLSS-like feature, AI super-resolution, to the next Windows update, which can improve gaming performance."
-    publishedDateTime: 2024-02-12T10:24:00Z
-    webUrl: "https://www.dexerto.com/tech/new-windows-update-to-add-dlss-like-ai-gaming-features-2527602/"
-    type: article
-    provider:
-      name: Dexerto
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/11/16/Fastest-Esports-Gaming-PC-CPU.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Bring Human Values to AI"
     excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
     publishedDateTime: 2024-02-12T17:00:00Z

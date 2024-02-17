@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Propelling Dubai into a new era of artificial intelligence innovation"
-    excerpt: "Serial AI entrepreneur Dr Torsten Bernasco unveils QCI and AGI company under the patronage of Suhail Muhammad Al Zarooni"
-    publishedDateTime: 2024-02-12T10:56:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 72
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=5d3f2901-b0b5-5745-9fbe-ae50ae2f4dd7&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07865.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "XhEY3Nej/FJwXfAu+nHPeL4Pv23GPuixW4CpTvnY7SV0buNAjDC7yTdHATvOl6/QQBI456dQ/l560yoUqXCUsJmk1PvmMYGNqgNBiojRGMGJSXHm45t63ldoBczdPuDzEILe3jBvTo+7Y/cDHJxaWtxhTJU7+quVreqUfzAurzbmLH3rbozJdz+IxW7GvymLc0LLlzo9HQ8MmMFkTAzVEEiNCMIkmQJnwnlrO+sYDQphpfwSqwlgKK8+V6zGiY7QuGJhuJvMN9lgyz9ZG0QpydGHAwQnNOLPtSroxMrpOkG8HNgia+4O5nwz5gNSIVRI16QphpLjoxmXHajittxIFCs2f04o8Fd7lbo2tiMHf0M=;fXBYshoKr3EqITRKXtrjnQ=="
 ---

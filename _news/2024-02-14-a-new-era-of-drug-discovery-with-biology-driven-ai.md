@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Propelling Dubai into a new era of artificial intelligence innovation"
-    excerpt: "Serial AI entrepreneur Dr Torsten Bernasco unveils QCI and AGI company under the patronage of Suhail Muhammad Al Zarooni"
-    publishedDateTime: 2024-02-12T10:56:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation"
-    ampWebUrl: "https://www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/propelling-dubai-into-a-new-era-of-artificial-intelligence-innovation?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 72
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=5d3f2901-b0b5-5745-9fbe-ae50ae2f4dd7&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8427&width=1200&height=675&x=1.0E-5&y=0.07865.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Traversing the AI era of digital discovery and brand growth"
     excerpt: "HiveMinds, a digital marketing agency under Madison World, partners with brands like BigBasket and Domino’s The founder and CEO credits the company’s growth to its initial focus on startups Eyeing global expansion,"
     publishedDateTime: 2024-02-12T23:40:00Z

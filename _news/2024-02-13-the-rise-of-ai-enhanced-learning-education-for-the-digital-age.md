@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Future of EdTech: Paul Showemimo’s Journey Integrating AI in Learning"
+    excerpt: "EdTech – educational technology – is a rapidly growing field. In 2021, the worldwide market for EdTech was estimated at 115,022.22 million USD. It is projected to grow at a compound annual growth rate (CAGR) of 26."
+    publishedDateTime: 2024-02-17T10:36:00Z
+    webUrl: "https://techbullion.com/the-future-of-edtech-paul-showemimos-journey-integrating-ai-in-learning/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 38
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Paul-Showemimo-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "vmFyeCUY3s92t6+tw9JEmW9F8nmmlr2Hgum0vyjDwb1x1WmjNEVPHvNHkjr/x+p45iGC9+1cXQRJPldMErQTCygUtNqkL5DmIYd8yYXlLEKhfDElWotjiKpnh8BLppPwi6l+Qt697ByRRQ0fE/ZU0Ru1UPHwYNZqA8yjeODBLfBGFWg+Gbj509+fC+DKmIGU7usVp6P65lh519kDvXIeJ3m/n/jxF1m5+UAW3NHCZZ7Crh0jqQ6yxAonh/jNA81uWkaLN4/oSTxyORlWJtGR6c1lDPnfSQpR2d+c/rl0PskiHU/JNt5+tL7sGelAQkTHDCLuK8o+ouCVbxcSyi0GyCdltIrGVNmCgiIL9SsZS1Hfv6bOw4c9unqToOFyZGanf7iiw4HxbtY4Jc5JA72nU0SYdMpA2zycGvOk9BatWH+TiP8WAvvpFzfOdexZEC/c9PVXGYAnwAS464ATdsgaoQgmRneZDHJO8RJjXBNK43HMKhiGw5lVc/xu1WwfHOv0YS1Q/Pq2RnhEbUbOGl1dwQ==;odYgrRpQcJe+p3+Y8Dc5uQ=="
 ---
