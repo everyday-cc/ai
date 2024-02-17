@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
 webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -80,15 +80,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Austrian Dance Station Launches with AI"
-    excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
-    publishedDateTime: 2024-02-12T21:13:00Z
-    webUrl: "https://www.radioworld.com/global/austrian-dance-station-launches-with-ai"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
 
 secured: "BZx//AD5yXRo+6Z9V00Vo3KBi791vBPd+uk7UNjOnBYfk12QCjWcS1vopQGKUWSP0rcYQvQZMPW5kA51tDTrG7ARG5UwNLj91bQ4slFM+OwuoL3K88HYj+sUAz66dKFMPvsfvHqL5hXUidRjn8CAH12IbzJLJM9Z49yv34x/0SQlfjQv6UCK16YO7nGzGKa6xd7b1+Qxj/rR1uh7tU0GeGVKI7x1OQ93J7qRtCMVaHKFApvKLDlrz+pqgkMbNDM9Xx7XKc3RNJKCV0fFyjtvot/owsgQk8r/rPCGnXiv0yWsKGV6f+qvZe0kPRMTtdf9VP9SEdOvCwofmgvrDjHLPvIEMVeI0P6P9fQxlcnPMmg=;JuKkVPhOZPmEoVJYdg/P6g=="
 ---

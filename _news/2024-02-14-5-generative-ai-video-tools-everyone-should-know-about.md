@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
+    excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/technology/article/ai-text-generators/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
     excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
     publishedDateTime: 2024-02-16T17:54:00Z

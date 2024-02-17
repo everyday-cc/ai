@@ -72,20 +72,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Nvidia Founder Jensen Huang Dismisses $7 Trillion AI Investment Figure Floated by OpenAI's Sam Altman"
-    excerpt: "During an interview at the World Government Summit in Dubai on Monday, the founder of AI computing giant Nvidia expressed skepticism at the need to raise $7 trillion to overhaul t"
-    publishedDateTime: 2024-02-12T22:11:00Z
-    webUrl: "https://www.inc.com/ben-sherry/nvidia-founder-jensen-huang-dismisses-7-trillion-ai-investment-figure-floated-by-openais-sam-altman.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 24
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/NVIDIA-Jensen-Huang-inc_537332_npjqju.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "c7EBproLOwCJvMoanfkWDBWCD5MjpZ2DKUkEeoYgYO8I9lZT4HWCg6bOiuLymNpmlvVcypWqkvVurArojq7McKdQetNbY0ZDZqwqzudEOqy734SRDdy54Cy6v5M6b73yawSf4G+t4aDI6tfCcWjgM8zQ00WvAvdl/K5MSIDTnbPM5kgG5bjvYJA7lVgJwlrd3GyTEUmaLFq1DT9Y8dpHur0UjYR/KtU2cIz+jOyQ7DoZyVQiT9mHcL3xLzfK4dTyrbfXboQ7hVGloCSyE0NQmWAEfs3k8uEa15vGaRwfBUYtqeaRIU/h/K2q6VsdTNczsxRlml/+FlhnrUKB3t3xysc2w2U6GWnfYvxb6zLgQkeuS5i64cbPsLfru87F6CGJyUxRPcoGzdOJmKIFsUwKTghInW3DlhDlX5QCt9NSijyqiF4MAaFk9jZqgutG12HdQ+zQLWx/548fueY2qQZyraySFW2fYQueEQhJLTOtijUOALFJ5GTOw+96Rq/M0PXNKjaE7XcW8P/XmYzDOP4F5w==;O4+Br8OR71sbEojLFtHtDQ=="
 ---

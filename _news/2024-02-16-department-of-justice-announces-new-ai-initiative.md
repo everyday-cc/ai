@@ -55,6 +55,15 @@ related:
         width: 5700
         height: 3800
         isCached: true
+  - title: "NEWS TAGGED AI CHIP"
+    excerpt: "are trying to find ways to cut dependency on its AI chips. While specialists have pointed out that Altman's lack of understanding... Tuesday 6 February 2024 SMIC reportedly building 5nm capacities ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.digitimes.com/tag/ai_chip/00111338.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "71AgWBMV7dWwr6EYq1DSmu8fX32kdRL9HaR361ZauRI0pbVAN4lsLxPGKEjGmEPwU2x5mFPV/Gy7kVdr/LVR+Z6mkmUsFRyBgH1WsfMkIKZwAj8/+ziCNOTh7ULug2uz1RFRqH+LXdokxSaAO1mDUzqiWj/qnByDja3uIiWrHfHzcX9qjt18fcOnAPPF10mYUMewaF07lu4fbaERshHIzWaUyksm4gvTAADv0XU9NbioqXoiW+EtRCFWydCJmEXaaRmVsQ6JywFj3RRuUAeDEuaQhY6oRortY70RKHew2dDZ/vyqeujQIxlNDT4bKsEEZ0PL8FDpCwj3dt1wNuDdnuwH7Se1HRF2w0q6ftExGcN/qV6CDMIFWXHVekkrAWqN72t8+niHuxkhvbba6/7JqmN7PSFI2IDk1D9Did3A5XNP3oaGIL1Cxxna3OoUyM9lHRQHbsGDLgMAwO9F8+53mdxRA6QdFqszWZYaz0CtFs2x/QZVNNVAJ/RmYIjrT0ClGeyOpYewIDjQAB8d88sr5w==;llgexkHvGLKKWtArfvBCYw=="
 ---

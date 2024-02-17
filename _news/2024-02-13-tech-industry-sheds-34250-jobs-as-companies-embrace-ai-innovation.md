@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
 
 secured: "NUGaHIk/+wrxlkdeN42sNwEhzsGkyTM13Am3gG4l1hS5472J4Mx5ZxSv9nYbOtXiYAnQqdz5GRMeF+v6+xXPcz3jWxmJClmImBQU76piFa9Fe9ueuz7fMSCmO/1uaxE2Yo0DTtiU85MRHcIG3t3e52X908yP6OfamPnaYEogl+MRcp1em50ZJBVgGCngBSmprasycmqEWWuTapPUHOpft4mLUOrm8lcBpE1Y7yURzG2wd42KwGRnQwacdYTizVkfYUO6j4aPZV5WHMh76DDNEl3LJSBkCSStMaIfepgVbFLQ4InMWgBKET0ALfArzTmXKLtSSMF01WWSZg8t7VQ0ytSP0fyUWfXfSJGtbJzFKbymTcK6qYY7y6398dFlsc5r0Axp1lDhEVioplHAYdYdvrzNrUzufbnRJN9rO9PJN5mVxbs78Sm1JXzKx+NFM114LgsS2Hy0Za0zOl0p/y89fAGzmVMpvR87Wd2AePfUpSCkloGO2ByCNIrTCahGMLJJ3oXXtlqBJZFAxdQZ0/goWw==;oQVpM4iIFB+gQnvc+TRKaQ=="
 ---

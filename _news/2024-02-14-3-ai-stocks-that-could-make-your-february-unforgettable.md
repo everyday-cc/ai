@@ -41,15 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Exit Now! 3 AI Stocks to Sell in February 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The trade in artificial intelligence (AI) is starting to get frothy. So far in"
-    publishedDateTime: 2024-02-12T19:56:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-3-ai-stocks-to-sell-in-february-2024-1033058405"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Best AI ETFs in February 2024"
     excerpt: "Editorial Note: Blueprint may earn a commission from affiliate partner links featured here on our site. This commission does not influence our editors' opinions or evaluations. Please view our ..."
     publishedDateTime: 2024-02-13T00:00:00Z
@@ -82,48 +73,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Blues vs. Maple Leafs February 13 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Mitchell Marner and Pavel Buchnevich are two of the best players to keep an eye on when the Toronto Maple Leafs meet the St. Louis Blues at Scotiabank Arena on Tuesday, February 13 at 7:00 PM ET. Robert Thomas is a top ..."
-    publishedDateTime: 2024-02-12T22:23:00Z
-    webUrl: "https://www.ky3.com/sports/betting/2024/02/13/blues-vs-maple-leafs-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: KY3
-      domain: ky3.com
-    quality: 22
-    images:
-      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/v2/LC3I3J4BUJLQDCLUCEYUH25GSI.jpg?auth=d439d977ffd840dbdd419216d7dcb274bcbef2ee8fa352ac33e51e06fe3c19e7&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ducks vs. Canadiens February 13 Tickets & Start Time"
-    excerpt: "The Montreal Canadiens' Cole Caufield and the Anaheim Ducks' Troy Terry are two of the most exciting players to keep an eye on when these teams play on Tuesday at 7:00 PM ET, at Bell Centre. If you're looking to catch this game in person, head to Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-12T22:02:00Z
-    webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/13/ducks-vs-canadiens-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 22
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/7YEAZFOXYJKWLFSJM22KK6UZRY.jpg?auth=1c4fab413f9c9a65832ad52a95ba630bbf44985fefd100e7cb73edbb799889a4&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Hurricanes vs. Stars February 13 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. Roope Hintz and Martin Necas will be two of the best players to watch when the Dallas Stars play the Carolina Hurricanes at American Airlines Center on Tuesday, February 13 at 8:00 PM ET. Sebastian Aho is a top offensive ..."
-    publishedDateTime: 2024-02-12T22:02:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/13/hurricanes-vs-stars-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 22
-    images:
-      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/XUFJPIRDKJKMPOJUJXJWOJ62SI.jpg?auth=c1e752aefa4f6d36bc5088c12800ca966090256b7f3bf19ff21a4d698cca4266&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Cavaliers vs. Mavericks February 27 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Dallas Mavericks (31-23) will lean on Luka Doncic (first in NBA, 34.3 points per game) when they square off against Donovan Mitchell (fourth in league, 28.3) and the Cleveland Cavaliers (35-17) on Tuesday, February 27 ..."
     publishedDateTime: 2024-02-14T05:04:00Z

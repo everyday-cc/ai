@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benefitspro.com/2024/02/13/senate-committee-grapples-wit
 cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2024/02/13/senate-committee-grapples-with-ai-challenges-in-health-care-focusing-on-bias-care-denials/?amp=1"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Senate committee discusses bill that deals with artificial intelligence in campaign commercials"
-    excerpt: "Under House Bill 1133, any images, video or audio that changes a candidate or elected official’s appearance, conduct or speech must have a disclaimer."
-    publishedDateTime: 2024-02-12T21:55:00Z
-    webUrl: "https://www.wthr.com/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1"
-    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1"
-    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/senate-committee-discusses-bill-deals-with-artificial-intelligence-campaign-commercials-indiana/531-13530072-cfdf-4859-9651-d9eaf77311d1"
+  - title: "Singapore becoming AI hub with commercial models in local languages"
+    excerpt: "paving the way for more advanced and efficient natural language processing models in the future.” Teo added that SEA-LION is open and can be used by companies seeking to do business and reach the Southeast Asia region. According to data from KPMG ..."
+    publishedDateTime: 2024-02-13T00:00:00Z
+    webUrl: "https://cointelegraph.com/news/singapore-ai-hub-local-languages"
     type: article
     provider:
-      name: WTHR
-      domain: wthr.com
-    quality: 60
-    images:
-      - url: "https://media.tegna-media.com/assets/WCNC/images/ff68ac18-3d57-4685-ba45-9c8184e839e0/ff68ac18-3d57-4685-ba45-9c8184e839e0_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
 
 secured: "WOFE70mu+aimwFlNN85bI8aLdMqdox9PG6fCisSFZWnDvrcUagkF5gmudC88UPaJapnZFbi/OghGIrXAS/RQGKoQEYKBwncCztAa5Nmfk8yUcrJXB7A45WxtoBbHC20QWBa6FWG4QxCg69wDP9gUAdRrZwOMxA0+IYDfm4TKkX3yX68cVhu1BO1cVxPLZ48qogIN2985LMyfroSxADb15rErgKuyXxK/46+pG4SekI6Vzc50RYQSj19ox2mdLRpIsZYlZxUXPDXuiCQPEjLZGUVNGAd8CNiwsBhNBtG0utUs7A8mtJiD+MzM4iAArlqBhd3/wmMCxggZWWLHJ3cr7vcZJ9u0I7rEOX+fICaLnvsx7TvYXPUucZ1bhlreD4+v8NhFMQwHLnqZEDBz3AhUf4pwuazkOy8zB9muGzOwToAFqRWKKCR7S92R0YVHtjfiKuESLjZpRoKKniF5AoweaYEALzsV/1IbJqtUGjXuo/nI6Fb5DKpxo/NYEdscCzQWveY5ME+nezbwdIc96aj37Q==;VGjaM6wrqCo3Ien0FL/mbA=="
 ---

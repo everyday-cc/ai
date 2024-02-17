@@ -18,6 +18,17 @@ topics:
   - AWS AI
   - AI
 
+related:
+  - title: "UiPath Announces New Developer Features at DevCon 2024, Two Data Centres Announced"
+    excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
+    publishedDateTime: 2024-02-17T20:02:00Z
+    webUrl: "https://www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 0
+
 secured: "yq3Tygd4uW2x6v8HFwRKVgjplTNASqWlrsBBN57Wb2nf+B/ZRAM+/pVUw1gj4sgGrooCJTn7baDbn8P6QkjDUulC3NG0zIgOFRmB/7zEi0+fJjJ56nWZlv8IOmwN6qPUxtdE+XnPgVqCEMZFt1P1osieOHVY7SY4ioZZ8RzfvKDjfxZwGUEWiegftsl6y7wSkLiHefOgK+k5DokuZuCPiur4pSGGcWO2Gt0TAt5ftXlJK7YDelrkEX9n9O1om1kJ7q7hFALFuZSPPGcQYQHEt6fKHya/F7Xewhpq0eyCM8auJWHwBQbWLUsp4POBnLDtfze1hlkp6fbDpSWOHaAfcjuaf9xpoIl9aso7oStMAvg=;XD8+gH4QeRZMNJRCmxr6/Q=="
 ---
 

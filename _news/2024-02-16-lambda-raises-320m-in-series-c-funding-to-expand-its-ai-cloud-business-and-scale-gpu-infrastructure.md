@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-16T12:55:00Z
 originalUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
 webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+    width: 2560
+    height: 1336
+    isCached: true
 
 related:
   - title: "AI computing firm Lambda raises $320 million in fresh funding"
@@ -105,6 +111,6 @@ related:
       domain: crunchbase.com
     quality: 16
 
-secured: "/MiPL69uZeBL9namxPr+4WFKgdZNmiPj550yRQf1tzObKOsbgVnNtqqao46mzh8a+ei2hobgHhP7tXl2av2wfBd1J9WIlqY8rdOQDc2g8HxcQafOVWYLwegEKsdO8+GCyXnKiGoEecgm5iZrzAfVbslwj8UPmNm6U5i+JOFQXB/ZMVF6YXvId41Xx0nUFD5K5dR4KclFc8NWxhNNxhIBfT866YYzAeEyqc30JJ0t5R2k1g9tYvHN80JMuRsPhBmvQlE3Md4yDKmrlEfyXqgBUmIFPCi3471pIlkNKvloJOHy/21lJXKTJgisi2EdSuttxg6mkPY9mqSFxyE9uu1Np/ndW4ywY0KBpyHIkuoK0YM=;iW3K8WSVNR1le7taSDYw2A=="
+secured: "aK5CZJ5VidTI1rtaYG+OTdSdq4tkr0/5GfS5vqlp/8FFco/xFT3/g8HD2CSukJ124ZzXlRhbTzSCzAX0ZFpoZCdhAdCDk4Z499yCB0hQsdHjSusjqbWhx4HFErPl0IJw6VhBr+tWnMbBG4SFBtJW0H/F6gM2KHqfFMsez2spnnma6d8Fr3y88XuKOwNBfyYMvvSj9H6elPhPfKr6nSb4QMt4DiI58u2EcE/VcCzndQFfRvnZ0UsGFbYz00qo73XCPO31yHbs6LVltz9xqRgMrZzvHM6uI9Q99iddD+APl9alhOyPiXhFHcG29qzgbpBvI+vKWdkahXg4XGYg1EBmZscjO8WjaoOEk3DjaARZZ/M=;u5K7zyjLp8WVRckWTNHT3g=="
 ---
 

@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-17-monumental-raises-25m-for-bricklaying-robots.md",
+      "title": "Monumental raises $25M for bricklaying robots",
+      "excerpt": "Monumental said its robots can move freely around building sites to help contractors address labor shortages and rising costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
+      "originalUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/monumental-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T21:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-why-the-debate-about-artificial-general-intelligence-misses-the-point.md",
       "title": "Why The Debate About Artificial General Intelligence Misses The Point",
       "excerpt": "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations.",
@@ -201,7 +244,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": null,
       "content": "",
@@ -461,6 +504,40 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai.md",
+      "title": "Would you be happy to be operated on by a surgical robot controlled by AI?",
+      "excerpt": "Would you be happy to be operated on by a surgical robot, being controlled solely by artificial intelligence (AI)? Or, how would you feel being stitched up by a robot, which is remotely operated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "originalUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITV",
+        "domain": "itv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1266,94 +1343,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-combining-robotics-and-ai-to-create-humanoid-robots.md",
-      "title": "Combining robotics and AI to create humanoid robots",
-      "excerpt": "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
-      "originalUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-rise-of-the-machines-openai-microsoft-to-invest-in-robots-that-think-independently.md",
-      "title": "Rise Of The Machines? OpenAI, Microsoft To Invest In Robots That Think Independently",
-      "excerpt": "If rumours turn out to be true, Microsoft and OpenAI might be putting up to $500 million (£394.92 million) in Figure AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "originalUrl": "https://www.ibtimes.co.uk/rise-machines-openai-microsoft-invest-robots-that-think-independently-1723144",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722763/humanoid-robot.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T08:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

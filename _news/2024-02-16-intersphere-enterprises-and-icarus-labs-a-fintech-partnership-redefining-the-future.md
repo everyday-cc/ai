@@ -249,15 +249,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 3
-  - title: "B2B Fintech Firm Aspire Offers Small & Medium Businesses A Unified Suite Of Financial Services"
-    excerpt: "B2B fintech, Aspire has raised $79.15 M in internal funding after its $100 M Series C round. Co-founder & CEO, Andrea Baronchelli talks to Shruti Mishra about Aspire's solutions for SMEs, its focus on AI & cybersecurity and India plans."
-    publishedDateTime: 2024-02-12T20:39:00Z
-    webUrl: "https://www.cnbctv18.com/binge/bb-fintech-firm-aspire-o-A5h2cIiiFDw.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 0
 
 secured: "TPK1dcYaDyZqFQoZ2KMZN6FP1iJZclZe4F/0pKeZlv9DeccxkloZ6JFnOVcmFlYu7it9EtK21Bg3nAIryOmSRfn74nZuOd6lUJlStpmmQoBMFlR5IZirPH49ggAXlVyLMcux0qc3wjUDFaLRZJGASpsQDOPZF7ZfENGaBhxTIH2HLtzIzc/2UKgVuEAhy1hj6V7EeLtlpTBiTQRCa+4xqeBTjJUWOOWpsPPLZffr4fseFwfgPcF/qFI91ZnGHqLRHjME7iy9ufpa3j/1B7JlhqQP7TzHPBW6HIDRa0AIS9+WibkAhd+fI/ncbDxqWybUkv3R+Fh99/cOGSCOkRx5k1eVxISx76aCH1HZUvaqqyA=;8AN0zWiAEz2aFNfQCZWYew=="
 ---

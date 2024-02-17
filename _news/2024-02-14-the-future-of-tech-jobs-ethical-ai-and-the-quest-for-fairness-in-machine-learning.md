@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2816540-the-future-o
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp"
 type: article
 quality: 85
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
         width: 715
         height: 429
         isCached: true
-  - title: "The Future of AI Is Hybrid"
-    excerpt: "Artificial intelligence today is largely something that occurs in the cloud, where huge AI models are trained and deployed on massive racks of GPUs. But"
-    publishedDateTime: 2024-02-12T20:09:00Z
-    webUrl: "https://www.datanami.com/2024/02/12/the-future-of-ai-is-hybrid/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 21
 
 secured: "cJjqHqNfoaQ+hiMdN7copkYmNe7HwAWt6Zh4iel0IdSg7LWbhCMMHQw9addGuXj7FMXtMOTLupJ56HoAmvQ8QMI0Inz4HbuHW2NfTV635pnW7Wh8pzjRz1Q7fC+os+METPqQUW/u/GL/jK489tzi8hHG2Zs0ubmeHh9SZuJdS3PUmOar1NuuYsTxEPc5VzqU0qS1vBEqrgJtMvFIJ248UY7uapJE375IeHgipWpHHGTEG5gEBdcj3nzmtnKOzpvu+9nB6DUfbOtbUrdWYZ/FJq2Kij99WEWTicBLTgxoSOxhD9N9SsVfW/kboztk26YBhZTs+UYwrCi64QaxHY9RvEfV+27fbaXC4pSWaO3Exqk=;DHs4aot1WKt5YzYD/Bf+Ig=="
 ---

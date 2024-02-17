@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -118,15 +118,6 @@ related:
         width: 2560
         height: 1403
         isCached: true
-  - title: "San Francisco crowd destroys Waymo self-driving car"
-    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
-    publishedDateTime: 2024-02-12T19:17:00Z
-    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
-    type: article
-    provider:
-      name: winnipegsun
-      domain: winnipegsun.com
-    quality: 19
   - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
     excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
     publishedDateTime: 2024-02-13T10:24:00Z

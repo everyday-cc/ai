@@ -296,6 +296,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-17-monumental-raises-25m-for-bricklaying-robots.md",
+      "title": "Monumental raises $25M for bricklaying robots",
+      "excerpt": "Monumental said its robots can move freely around building sites to help contractors address labor shortages and rising costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
+      "originalUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/monumental-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T21:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams.md",
       "title": "How Gong’s AI tools are increasing win rates for sales teams",
       "excerpt": "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates.",
@@ -304,7 +347,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1183,58 +1226,6 @@
         "name": "The Korea Herald",
         "domain": "koreaherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap.md",
-      "title": "‘Game on’ for video AI as Runway, Stability react to OpenAI’s Sora leap",
-      "excerpt": "Runway CEO Cristóbal Valenzuela posted two words on X in response to today's demo drop of OpenAI's Sora video AI model: 'game on.'",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
-      "originalUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-15-16.03.59-A-futuristic-scene-showcasing-five-different-digital-animals-in-a-running-race-designed-with-a-high-tech-cybernetic-aesthetic.-The-setting-is-a-neon.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T04:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

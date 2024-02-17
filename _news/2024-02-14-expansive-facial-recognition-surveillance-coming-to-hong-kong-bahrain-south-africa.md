@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognitio
 webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-coming-to-hong-kong-bahrain-south-africa"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expansive facial recognition surveillance networks coming to Hong Kong, Bahrain"
-    excerpt: "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes"
-    publishedDateTime: 2024-02-12T21:48:00Z
-    webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-networks-coming-to-hong-kong-bahrain"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Study Suggests Existing Laws Sufficient for Regulating Live Facial Recognition in Public Spaces"
     excerpt: "New research from Brunel University London explains why the use of live facial recognition (LFR) technology by law enforcement authorities does not require new legislation. It outlines the UK laws, po"
     publishedDateTime: 2024-02-13T00:30:00Z
@@ -50,6 +36,15 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 27
+  - title: "South Africa Playing A Leading Role In Africa’s FinTech Revolution"
+    excerpt: "With continued investment, South Africa is well positioned to maintain its leading role as the regional driver of fintech innovation, reshaping digital financial services across the continent while contributing positively to financial inclusion and economic growth in the country."
+    publishedDateTime: 2024-02-13T08:16:00Z
+    webUrl: "https://za.investing.com/news/south-africa-playing-a-leading-role-in-africas-fintech-revolution-3009135"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 4
 
 secured: "8whR9lZBzvhCqAOVKCeOXCgM6BPMPw6qt1C0o5Dmn+RZybxUF9WbEdgHRwSBXv9brOP93WZw1+GYOtr8kJRbOhoczePd/shQLEtRCv30jX6UG/7cTcTC/6/2Y+AREdX0vRTiigvdxKFPKvSaAZAcQXSiqTqq+KasP80i0YHWXUqq5su/QLDLuPDDiwhCSl3ZyUI/mKlemLHdpWJ5rWCBoAtAApyBD5Jbm/ae7TZKifvYAPUdHjEJlZdv/BDG00mdGeIF45IBsD5NOklfUpOqYsy9OVeBI2ZNJkkyUDlAr1EedJ7b6NvYrtI7thi5+pAW7IyejiP95s4McEr4D5sLkl8La9W4uJp6QpJVYe7/9T4=;eQFt8O4fXY4xeY3Vcp7pLg=="
 ---

@@ -177,15 +177,6 @@ related:
         width: 1100
         height: 550
         isCached: true
-  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
-    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
-    publishedDateTime: 2024-02-12T19:59:00Z
-    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
-    type: article
-    provider:
-      name: KIOSK marketplace
-      domain: kioskmarketplace.com
-    quality: 15
   - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
     excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
     publishedDateTime: 2024-02-14T14:39:00Z

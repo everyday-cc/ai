@@ -76,15 +76,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Austrian Dance Station Launches with AI"
-    excerpt: "Austrian private station Antenne Voralberg expanded its streaming options with the help of Betty, an AI-voiced DJ powered by Radio.Cloud."
-    publishedDateTime: 2024-02-12T21:13:00Z
-    webUrl: "https://www.radioworld.com/global/austrian-dance-station-launches-with-ai"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
 
 secured: "DOAVrxg8TVom1SfTTomepiSEf+yePzPiPOp9AuG1TPcmp3TR3vGlNDUVbxEAZiINH2Xjlkc5GMvmjR8s0QHu08aB7IHAvgJ8flw1FVqPjPx1Vj41+B38Dl6fBy8UIMWtnJ3RacmN4P7uGmzx5hULT1wAOYgRvxF82xW9f+ROQQJL7lAJfRsFxklDhSzGDsuY0znPjbHndCcdWem+9kwi6VvdjQTRdGfkSgaGbCZ1XTZ32nHH5fDfe5OnhLHMANw/bBykeD8fCUyP6gin8XrG+/JvMvEkHzH6Er6NKEV3IPEmKQnKCipLBm0GK/ve4ZIa43wdvMX7M8dlCjkyBZlZ1b1Sj6JEwGhbXvi2dkgruvE=;v82t8ln4j/BnquPKn+dukQ=="
 ---

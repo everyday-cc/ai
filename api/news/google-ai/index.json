@@ -445,6 +445,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
+      "title": "Google Bard AI Officially Becomes Gemini",
+      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-the-next-chapter-of-our-gemini-era.md",
       "title": "The next chapter of our Gemini era",
       "excerpt": "We're bringing Gemini to more Google products.",
@@ -1411,50 +1454,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
-      "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
-      "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
-      "publishedDateTime": "2024-01-29T07:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

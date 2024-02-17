@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glass
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1920
         height: 1024
         isCached: true
+  - title: "NEWS TAGGED AI CHIP"
+    excerpt: "are trying to find ways to cut dependency on its AI chips. While specialists have pointed out that Altman's lack of understanding... Tuesday 6 February 2024 SMIC reportedly building 5nm capacities ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.digitimes.com/tag/ai_chip/00111338.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
 
 secured: "YEIAfu3c8L4oT34X8gQW4PMZD5rr3b0U6pD4DCFGLjtPMnojZip/W3T5hZ6cNDhXx4+4p+t7Vi2HLuC9dIPR4JoqWFUKRMqttFDnK4Kwvbqdn6bAoLwJycGOawFH75QHutgjMb43F3vGqxxA1ok+tVb+IV3mSVXsaXfgxcl1b2Xlj5QBOe7K8/g8QoQ7okY+Gd8iM13scnAnA6Klf2FTMm1TBDl9tcHaRl1+ZaaFUw3Vi7c9aUncTnxIFah2yG8XQqGqxJR8g1OrqcuwH/BHZ3o+0y9G1cQ075LTQp9cSKXd+UwZ+b31KpHUjqou/8jAalqce1rRcMCsg+lBbgqO82kccgZIPLZGVRVoacdsUqdHSSNekaF8nilcIKi3vviBXplDcWK0iV7gfwv6fOCb5twpfDJV4UHnhBpSEQ05+8UWaC+Szlro/sQctS7dnSFiutQou2lE99fc4MMfIv2nULAgcLLvwSfqtbf+e2oohmnPzU2+9z3WByhA4qnQ4W+EhEA4OMqpdx1g1cq9aG8ApQ==;eymzunhs8+PuGSP7FHuIow=="
 ---

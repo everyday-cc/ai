@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
+    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
+    publishedDateTime: 2024-02-16T12:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
     excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
     publishedDateTime: 2024-02-13T11:41:00Z
@@ -86,15 +100,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
-    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
-    publishedDateTime: 2024-02-16T12:55:00Z
-    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
   - title: "AI Compute Startup Lambda Hits $1.5B Valuation After Massive $320M Raise"
     excerpt: "In a round that marks the largest by an AI startup this year, cloud computing services and hardware for training artificial intelligence software provider Lambda hit unicorn status after a $320 million Series C."
     publishedDateTime: 2024-02-15T18:33:00Z

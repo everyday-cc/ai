@@ -170,15 +170,6 @@ related:
         width: 1100
         height: 550
         isCached: true
-  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
-    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
-    publishedDateTime: 2024-02-12T19:59:00Z
-    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
-    type: article
-    provider:
-      name: KIOSK marketplace
-      domain: kioskmarketplace.com
-    quality: 15
   - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
     excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
     publishedDateTime: 2024-02-15T16:28:00Z

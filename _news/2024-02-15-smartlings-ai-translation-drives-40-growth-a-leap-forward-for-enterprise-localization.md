@@ -35,6 +35,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Cloud optimization wanes as AI slowly lifts off"
+    excerpt: "Though cloud optimization is less of a factor, we think the macro will still drive consumption trends. Optimization remains a feature of cloud and cuts both ways – what goes up can still come down. That’s not a bug, it’s a benefit, but won’t always accrue to the cloud vendor. That’s OK – they’re doing just fine :-)"
+    publishedDateTime: 2024-02-17T18:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/17/cloud-optimization-wanes-ai-slowly-lifts-off/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Big-3-Clouds.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "qMcUYu1uhAPK6gxAygYbwVIa5nui9L3lVlwIMHIxBMCYLaMgy809s5QvJ3+EqzLU9i8uYVq+22s/XYTQmsatkwFOyEWFL1/cTqWUP+Hgc4c7AMnYX7YMTqPW94cE3sd6O++Upcf9rWjuNOKQ/yzv8pM8rPN0MvIckWmuiUwKzxHSJHVeCVHMWm0sspCrQQ8Fmjgongtp8YB0ntoq7eDox47zXBR1vvfGAVye1dM0hYNnmgQK7FXM+CckP4z8Ml9t/qpXlIuOqX4IgEgF7uHuD88lxdnSfHfDvfBUIWxi00TBV6vdtudFGpGqvemeSf+7T/EpXa4FNbQfZwbqvTV70LuOZccr4bg6EWbso8B4WqDPcLnoEdpgC92GIHyX7Vz1LoO4CVOM1qUorB9cuKpVW5P5PkA7MtAOiKX/9iLJwJMeanl87IkQNRKtPLh1/tS40cLcjuR0gq0S/0hAPhu1ZI51+HTSq4oSp0XstjmyMUeFbozbOS4kWDqmFxx23T/vulLDmFYQsxKLDI4PUb/HZw==;ExDPfqckoxoWgScPbJbkig=="
 ---

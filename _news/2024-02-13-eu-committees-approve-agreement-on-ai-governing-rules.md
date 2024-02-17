@@ -33,7 +33,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
+    quality: 49
 
 secured: "eIWhTbF6el0LgcmWr9yLtDn+8aJmKEnjJ+fDYT5Ic4ieI6QE1JNbNowrZ30wyr/xX+cfCHSLtFastZy5koNG9lq1rW20IGM2PXS5H99FZ4sHRUvQdsj1AA0XGsFDQvFVJcWkT0mwIHc+0BA4q50RAoStXOKPp3924DIeCC7gVV8RwBMqXgy9rbMPdCvrvzyEetHOQLEiKBB7wgzIOJk1Jr/sPq/H87QY3DSfLOJCUAxc7Z47VYoOnnxNht06seCTCnw0gC7Qx93kQVUrHdD6AxrWrgrRlLysMx65VZ6Hb8IH4NGNGbPFyiAPTpgpXf+7qG5MzdR5QUV5NcZNqfh/AFH151D6FqPY21hiSWMzpTk=;/mC1mTEqpSM07+ixyZFhyg=="
 ---

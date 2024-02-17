@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-17T13:30:00Z
 originalUrl: "https://www.salon.com/2024/02/17/does-ai-want-to-nuke-us-we-dont-know--and-that-could-be-more/"
 webUrl: "https://www.salon.com/2024/02/17/does-ai-want-to-nuke-us-we-dont-know--and-that-could-be-more/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2024/02/nuclear_blast_mushroom_cloud_binary_code_falling_955124060_1191009978.jpg"

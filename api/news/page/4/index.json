@@ -2,6 +2,154 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-15-equity-bret-taylor-has-a-brand-new-ai-startup.md",
+      "title": "Equity: Bret Taylor has a brand new AI startup",
+      "excerpt": "The AI agent space is busy, but Sierra has already raised $110 ... and it’s working on payments in Latin America. So this is a big FinTech round in a region that was once absolutely bonkers for FinTech and given the venture pullback we’ve seen in ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/12/equity-podcast-2019-phone.webp?w=680",
+          "width": 680,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/equity-bret-taylor-has-a-brand-new-ai-startup/amp/",
+      "publishedDateTime": "2024-02-14T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-the-3-best-ai-stocks-to-buy-in-february-2024.md",
+      "title": "The 3 Best AI Stocks to Buy in February 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Despite the significant progress made in artificial intelligence (AI) over the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T16:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-how-robotics-and-ai-helped-hippo-harvest-land-21m-to-grow-lettuce.md",
+      "title": "How robotics and AI helped Hippo Harvest land $21M to grow lettuce",
+      "excerpt": "Lettuce isn’t the world’s most challenging crop, but as any farmer knows, there are plenty of problems that pop up between planting and harvest. The gamut runs from pests to pathogens and rain — both too little and too much.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/Copy-of-Copy-of-DSC01841.jpg?resize=1200,802",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/hippo-harvest-series-b-fundraise/amp/",
+      "publishedDateTime": "2024-02-14T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants.md",
       "title": "Rasa lands $30M to supercharge customer service with generative AI assistants",
       "excerpt": "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ...",
@@ -343,7 +491,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -647,7 +795,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -741,7 +889,7 @@
       "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -836,7 +984,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -976,7 +1124,7 @@
       "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1059,152 +1207,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms.md",
-      "title": "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs",
-      "excerpt": "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "originalUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T01:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
-      "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
-      "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "originalUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/HTQ124_Feature_Gimbel_Hero.jpg?itok=aixW-18e",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "publishedDateTime": "2024-02-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge.md",
-      "title": "Airbnb plans to use AI, including its GamePlanner acquisition, to create the ‘ultimate concierge’",
-      "excerpt": "In November, Airbnb acquired a stealth AI firm launched by Siri’s co-founder, called GamePlanner.AI. The deal valued the secretive startup at around $200 million, according to reports. Though the hosting company didn’t telegraph its plans for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
-      "originalUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
-      "publishedDateTime": "2024-02-13T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

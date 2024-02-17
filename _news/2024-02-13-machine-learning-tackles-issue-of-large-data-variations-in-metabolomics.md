@@ -39,15 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning promises to accelerate metabolism research"
-    excerpt: "A new study shows that it is possible to use machine learning and statistics to address a problem that has long hindered the field of metabolomics: large variations in the data collected at different sites."
-    publishedDateTime: 2024-02-12T19:59:00Z
-    webUrl: "https://medicalxpress.com/news/2024-02-machine-metabolism.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 19
 
 secured: "qXeIrlAbjxOYT1BcjoTGmy7jkWiDCGj6FvC48CP246XJ5DsHCALZMWsuEjPlK1QXLdDlUDeqPOYH6bwI2toZlNzOt5sI7ivd6Gr0GkBKFomGnp/xwM3Yr+hffF0Ys/NyuxXahdy0QymxnY1j7FhDaDeOmOKCI/F5Wt2kpsEH+YEDx/Sw14X6Gw6cRcJNUA4QFHe8fg1FJnoLVH9XJokFtVGRqnLAjqOMWsdKFJxVqc4PgnhugkMkJ2LNxDqVI4rThTGfMsrz/Q6tH9Ixfkn1f3UaCDimQGI7WbdSyFkw7kzMX8ZreC307ad7h29mfeaRgTS7+WJ0G57cpZ70LOKDpJFY54Rc5SzNKIGDdtwrtKE=;YFA7u3bTr0RIXvaR9j8Drg=="
 ---

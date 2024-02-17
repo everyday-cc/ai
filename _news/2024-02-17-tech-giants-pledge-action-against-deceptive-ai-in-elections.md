@@ -56,6 +56,15 @@ related:
       name: coinspeaker
       domain: coinspeaker.com
     quality: 19
+  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
+    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
+    publishedDateTime: 2024-02-16T20:04:00Z
+    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 11
 
 secured: "5At6dha8FnD2K3Ldis6HGoYiYz3yJVU8a+wDqAXvg9BeUwtE0Z2Xj+IS/wZFa4JpwsEcX8ssrHv/h/gAKm0ichDfc7r6qW/TofIrYlEnI8dI/u1/7YwZxwoReecIVb/h7t5qLNAaxTZGWi5Sm5PgOv7L1qgtZblbMhYikFO0PxPE9V6MhAll4/pemtadEYwX6q4RQE5Wuzv4trfBQ+HvESUzsAjN/rTcUGMZawnIBaHkyT2QbODZ2wBpH2WsptimRM5rRiAPMQtlk1kQ+csEk5RxaPSRJ9uSj0VHVZui4leB/RR7LdbYLfTkJIvKHokzbNXXfi/FXii0AErTlgwmEjrOuCyAe7aaYPu50QE2lEA=;44QgTRyaFVmlKHuSY6MM5g=="
 ---

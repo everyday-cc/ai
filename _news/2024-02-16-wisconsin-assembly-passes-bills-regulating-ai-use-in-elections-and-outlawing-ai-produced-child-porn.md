@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Major companies are reportedly using this AI tool to track Slack and Teams messages from more than 3 million employees. Privacy experts are alarmed."
-    excerpt: "A startup claims its AI tool tracks employee messages on Slack and Teams to monitor risk. Experts aren't convinced."
-    publishedDateTime: 2024-02-12T19:42:00Z
-    webUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-    images:
-      - url: "https://i.insider.com/65ca57c06e2e190e71a392df?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 549
-        isCached: true
   - title: "FTC Proposes Ban on Using AI Tools Impersonating Individuals"
     excerpt: "The FTC said it was proposing a change to a rule that already bans impersonation of businesses or government agencies, which would extend the protections to all individuals."
     publishedDateTime: 2024-02-15T19:55:00Z

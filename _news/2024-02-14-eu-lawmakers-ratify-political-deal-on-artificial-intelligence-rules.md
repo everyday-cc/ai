@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-13T20:35:00Z
 originalUrl: "https://www.reuters.com/technology/eu-lawmakers-back-political-deal-artificial-intelligence-rules-2024-02-13/"
 webUrl: "https://www.reuters.com/technology/eu-lawmakers-back-political-deal-artificial-intelligence-rules-2024-02-13/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "EU committees approve agreement on AI governing rules"

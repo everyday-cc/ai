@@ -122,15 +122,6 @@ related:
         width: 2560
         height: 1403
         isCached: true
-  - title: "San Francisco crowd destroys Waymo self-driving car"
-    excerpt: "A crowd of people attacked a self-driving automobile, setting it on fire in San Francisco on Saturday, Reuters reports. The white SUV — operated by autonomous vehicle company Waymo, a subsidiary of Google/Alphabet — was surrounded and vandalised while in the city’s Chinatown district, a company spokesperson told the newswire."
-    publishedDateTime: 2024-02-12T19:17:00Z
-    webUrl: "https://winnipegsun.com/auto-news/crashes/waymo-self-driving-car-destroyed-burned-san-francisco"
-    type: article
-    provider:
-      name: winnipegsun
-      domain: winnipegsun.com
-    quality: 19
   - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
     excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self-driving car company. Waymo said it updated the software to better ..."
     publishedDateTime: 2024-02-14T00:00:00Z

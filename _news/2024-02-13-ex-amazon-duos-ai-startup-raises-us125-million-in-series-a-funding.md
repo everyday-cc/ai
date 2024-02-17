@@ -85,7 +85,12 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 19
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
   - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
     excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
     publishedDateTime: 2024-02-16T19:20:00Z

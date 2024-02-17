@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-
 webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/"
 type: article
 quality: 69
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -253,15 +253,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 3
-  - title: "B2B Fintech Firm Aspire Offers Small & Medium Businesses A Unified Suite Of Financial Services"
-    excerpt: "B2B fintech, Aspire has raised $79.15 M in internal funding after its $100 M Series C round. Co-founder & CEO, Andrea Baronchelli talks to Shruti Mishra about Aspire's solutions for SMEs, its focus on AI & cybersecurity and India plans."
-    publishedDateTime: 2024-02-12T20:39:00Z
-    webUrl: "https://www.cnbctv18.com/binge/bb-fintech-firm-aspire-o-A5h2cIiiFDw.htm"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 0
 
 secured: "ftnYJvSQH8Po9yi/YFzr2Hg3THamh6HytI9lGqmr3+pA578gbWzNfAXJ8VkXOF9yTN3k3WRL8W2dN/6aH2UE6vb9A3YpYN2r2SckuqP7Diw9dLHa09nwjZRVOjU/wJIxqC6IKwsvuRoj7wm+lJWO6wWWJYQ6cisYo/TXcHoMRFysQDhXnJbJ80cbK3X8Nt7/S7HlkF6TcV3U0GoO7BUch9pvlAQ16fplpJLL8wcewAhEGABPBga/3nqKz1dgBrTQ1daKky11ztYtHk5/SQfpSktAjBcghaRpiB7GDmnPSx3OTDdygLyeBF+YzU1d+2OCS1qTUbgorri7Pg4z3GrPSmmzqg82rHxgYvhSmepmoGe7Z3Cw4PQY+YzgHMSmY9bUfknSwDUGco9USbkyLr/5xkDPGCbyIYzK9vMLoPi0WfnH5opL4tLPtMz0N4RFB4BqQPkpT6MxhgeHU/iSVlNnrGqc1LVRuDgxWCCi/FrIWtgn5t5bPe8yNKIntzloPowOQ+hgDn7z74K/iUXCl84nig==;M1+0gX/GgJfgV0DdTOCDTA=="
 ---

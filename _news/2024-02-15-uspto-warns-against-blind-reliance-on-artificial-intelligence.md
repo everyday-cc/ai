@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/uspto-warns-against-blind-relia
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 602
     height: 300
     isCached: true
-
-related:
-  - title: "Patents on AI creations require 'significant' human input, USPTO says"
-    excerpt: "The U.S. Patent and Trademark Office on Monday clarified when it will grant patents for inventions created with the aid of artificial intelligence, addressing an emerging issue in intellectual property law."
-    publishedDateTime: 2024-02-12T19:22:00Z
-    webUrl: "https://www.reuters.com/legal/litigation/patents-ai-creations-require-significant-human-input-uspto-says-2024-02-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
 
 secured: "a6xjuuhhdyvGP19FtUY4kbgL2BAmruuqNj/3ru7iH9O5HcKZpYMmAerUdyrRl6eq2aaI5ZxVpIRfgEqIyeoscUcyeEfxC5F/oLxQbs8ZoPiytxN87ZKKTOeHoTwwAYy9CjlECTZfYwOpZSAMhU6s7Ja3ngReUrgp13Y4NTZ5NVRevIu+nMKRW+3rxz8JQz74+CNMUMU8SllrEExc9qerHz0R9x3COnnJS7SRT13yOnXtKcQ/V/xIAqHH/ygCnYCJeUHZDyw/CUoh0xFhmQFNJNfKFPVbu6Dp6i4EgbtWPWTKRJeTXcMoixSzN5TK/MUSinBOf0S8IXnkZ5yZXdcD1SWGy3vQADKBGgjex0j6IQw=;JItFpXpfK9zKDY01yVNSQw=="
 ---

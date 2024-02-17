@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
 type: article
 quality: 96
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -223,15 +223,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
-    excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
-    publishedDateTime: 2024-02-12T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9961018.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "8Tc9m2Ze7JDw0fo3MZSVNeYjNu0DdDyMGmoJnLF+Kvn462rGe4mTEE2/GVQYoTMGJ+zlFnbN99FhlGxybfqi8ZEu9Rw3gqZa8MGWXYERHaXORgIfcJoRitEi/jeLMrq9I1Cl5a2b+ZfS8LPa5NE+EUBS33mANzyPf5jNJYsfef1yOK8J7ysT0Iq8SabVhlxxY91xxUU2FnKx/DPgY+oIbILuDmDykXq+6niCYrlm4xkPhgV3h+U2IetME6pF4BdAsadeAdkWSphLDbpvz+JsJ5WabuqriLBfDYaEq4wC0NpKtB3sRATXemcY+O3F27s+NfrV66fYBVafRV+VpZqo7LfyvU511p2Of245E5xhz0Q=;CoseDN8ieam5puLLo4Pt8Q=="
 ---

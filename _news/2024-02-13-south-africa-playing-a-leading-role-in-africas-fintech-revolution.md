@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Quantum AI Elon Musk South Africa Trading Platform Reviews 2024"
-    excerpt: "Ever since the name Quantum AI trading got involved with Elon Musk, this platform has been making waves around the world. Everyone, literally everyone in the trading world, is talking about Quantum AI and the involvement of Elon Musk in it."
-    publishedDateTime: 2024-02-17T09:57:00Z
-    webUrl: "https://techbullion.com/quantum-ai-elon-musk-south-africa-trading-platform-reviews-2024/"
+  - title: "Expansive facial recognition surveillance coming to Hong Kong, Bahrain, South Africa"
+    excerpt: "The use of FRT for law enforcement has proven controversial, but not enough to deter authorities around the globe from implementing new FRT schemes"
+    publishedDateTime: 2024-02-13T16:12:00Z
+    webUrl: "https://www.biometricupdate.com/202402/expansive-facial-recognition-surveillance-coming-to-hong-kong-bahrain-south-africa"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 47
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/qs.png"
-        width: 910
-        height: 466
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
+  - title: "Study Suggests Existing Laws Sufficient for Regulating Live Facial Recognition in Public Spaces"
+    excerpt: "New research from Brunel University London explains why the use of live facial recognition (LFR) technology by law enforcement authorities does not require new legislation. It outlines the UK laws, po"
+    publishedDateTime: 2024-02-13T00:30:00Z
+    webUrl: "https://indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
+    ampWebUrl: "https://indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 27
 
 secured: "fK78naCCoc8Z+ge8jmaDVwPxSKXalVi5Z4bPQf0gpCMwcBNbMHcdZuG+M6EWvmHOaZMyuucAk62YmFDhALwQ3WhIdLUIY1itU4t5om9P6u9HUc31Ec6bKTI+jpGu6gIBVLIUIwQM3AL5L7FjTVWdKRDU3w9QQKdw/uu0id+fWdePN93XdozSAhicX1ASo900PsANTPW2iPfBXs5ploG11dPjJyU2J0oTh2bVgonvrrvAwkXQiPwlAP1OornsgM9IYK+YijRAoY8UewLDrNWzAxb0f+HZqoGv4K7p7vYjBHcPzfxxQBVcab5UDIo0uOalUrTciCNEF6brEMdYGnFTuExmanvUynDTWK4VKk5tUpM=;Vp5/43jwJ7HS4sA1wMXTMw=="
 ---

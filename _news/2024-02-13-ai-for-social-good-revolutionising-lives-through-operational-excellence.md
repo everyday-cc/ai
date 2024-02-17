@@ -219,15 +219,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
-    excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
-    publishedDateTime: 2024-02-12T19:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9961018.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
 
 secured: "BkVjH41bwPyifFRSDQ6cjrl8gcXVuOuBTg8N+ntMuR09i6eESCn3Pxwj8cz7v/uo76oiEAGfiMGN7EH6jRRqEXnj+4prVuvJmmxarCQEuZY8HKY8woXoiXPqOgUsOBPHmi0IyDOez6GftvzQInme2ao63qoG5IYkHqhKIUaKM7XS1vtu9y8FRsqYsB6cmXxL0LEd9eUrcHbRnu1BwewdhCOYKfd4TFMFi8qpnjeSo+LLWfGOio7RuetjICfZvg9ibbvuK8Aw1HZGwdreeGuwObtQvZHTZdjVnWMVgE1PDAQwfBN/xI/vrdv5sljkuRPGGsapgRdIM0B4HhjDPnrLC4ft9rPaiyd1vZy18sCi68k=;bd/eVQ5QwI1Q9s38+7E5AA=="
 ---

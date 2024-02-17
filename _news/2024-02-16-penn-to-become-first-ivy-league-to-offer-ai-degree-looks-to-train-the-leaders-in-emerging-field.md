@@ -62,20 +62,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Penn will be the first Ivy League school to offer undergrads an engineering degree in AI"
-    excerpt: "The coursework will also address AI safety, ethics, and how the tech can be used for social good. Since AI is always changing, the school’s leaders aim to prepare students to adapt their skills to meet the challenges of new technology as it arises ..."
-    publishedDateTime: 2024-02-12T22:34:00Z
-    webUrl: "https://technical.ly/software-development/university-pennsylvania-engineering-artificial-intelligence-bse-degree/"
-    type: article
-    provider:
-      name: Technical
-      domain: technical.ly
-    quality: 30
-    images:
-      - url: "https://technical.ly/wp-content/uploads/2018/03/penn.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Penn to become first Ivy League school to offer undergraduate degree in artificial intelligence"
     excerpt: "Students and faculty expressed excitement for the new engineering degree in AI, which will be available to students next school year."
     publishedDateTime: 2024-02-14T04:22:00Z
