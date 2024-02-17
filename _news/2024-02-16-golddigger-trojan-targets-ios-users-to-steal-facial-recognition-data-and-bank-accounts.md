@@ -3,10 +3,10 @@ category: news
 title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
 excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
 publishedDateTime: 2024-02-16T00:13:00Z
-originalUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
-webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/?extended-comments=1"
+originalUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
+webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
 type: article
-quality: 27
+quality: 47
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
   - AI in Finance
+
+images:
+  - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-generic-trojan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Dangerous New iPhone Attack Steals Facial Recognition Data"
@@ -78,6 +84,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "0knSJR0LDi9VJ+LZxGmQYMDnhpUrjRS9AuZk2+mxe5kh2tn6qI7NZEhVlakhkWnvpDh2aAvw8X63jf6uBrav5c/DRxuFob6VNN5EDZtD5KDGH4bAljtRIMCbn2EnyqAYgvOqKWrDgK2i35SFBN4esyUJ17151KyBgoVwbjFx0jJBsEvxM2DUDjWU/mdGte880YZWVvXMurwO2IjYelS9eDvlq9mN9MBjJ4UVt2d/cKyIdLELdOyByCw0MEcUwmnIEatK7arUTNIZrP5+jfTiurCovipf3XiKPLnoWI6KSDHj7XrWcSvAQY2eFeQTCxqiT/fz1ReYtvg9byOStYIAptcubvLoU9k/EezMo5CvaLzWJQqzhrQ4IthCe4DqP8fhh1JcVLD99awYOjLY/JbsdniScgx12vlcaSSOc8Kq9JIy32308bhGaM77Uh6/ma/WOTQhSabt66kwCd4dSd96CrFRum/WuFNO3xgjyLbLEwuBoV3Di/mSXp5YMl7sRpM6nNJCGYiM6Cx2iPL6Oc6wtg==;R688yMDuLvwKedqAgJL48g=="
+secured: "3Phlq2zmVTUDEui+b2d+NhpeVqv5PvhHsUhw8YSPUxBlT0A5S8/wjurdmHpymiW/Z+Aiv6ChPoKEA9ctAjwu2BXu1fnpmCzDesi4/LNZs3K2bO5erxtkQ82lw+wznbUkmqy3I3oWYPcUi+A2ug0lxBAYrMu2A1Mu7JQgQia81qeFfsQn9tAmuj6NpB59J3UkeF1ipbD+A2KKxiSknFYCuyO26ucn0tjYyr0dTiotFH8TZqvHsqMVtdzBvFULsUGG0SU5L/uE61qnqSPbOyr54ZqflpviRZ5rOjgJfrwWEQR5uUuiJtfBfWKI/HLOk5+PX3KAqJG9U/9fJqjbGHVdv1sWSW6dIhYVi/+ugll2+ms=;2TMZZzw1I1zOKka1BYQvCA=="
 ---
 

@@ -196,15 +196,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
-  - title: "How to Learn a Language with Google Gemini"
-    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
 
 secured: "kWhckQSzLVJ0CzWw511eJMBv0mjUdSxS06FVr7JE8bCOPHFFBi13oEi8RVXTwvEjTW+yUu62l+M/vZ6NUECp+lLdtRkvWM3qJIMjn8UNhUe7GdsnAjKKOFKr8Gsifq0wOfR3yjIbb0yHibITz/bABSj8NTswR4IeYOdlpaurNUPhfnOHvQuLZLPqIdsWlTxtcVCN6fsFd9IaHpfRPzGrPbrJffMuujtWe5XWiOkBGMqbvttgwDcqfBjo1lunaD9yd5IinjTEVGW9ZD+ZpYoL6Hz1rO/f8AhTGv07Up/akoNQlWeFgPZSI37avLhvPSlni1VVCJtHkDXnYXeQCzOUsPXuNJmitNUXiuSVhOkEVS8=;ml9DZf626wdR9lhdl58dwQ=="
 ---

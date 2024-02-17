@@ -44,15 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "The AI Chip Game Part 2"
-    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "p2IAqTfkRHSv2vsvCtlGsVR74EmTHKNE92B66Fq83or621o8i6oR96qgV8PZ7MuFualgNlIFklTLj0sBFjw1E7X3IgGno2fu9dEsZ6Ey7yZyWepyERyN2K6hoeSUDogzk21xzvwmqrK6Q9o794zswxtPayRb9K3RqBGx9tHqAiBiveXQLsX0Oh26HO9HMWG1jTuMG2NCotF9JqtQHzMLotRvH6k1JeNVPCd4+mSj2+ZieKv+e0vVg0XTFSBvEBokg5ZtJxFMcZYScSFyDPgpsfNJAPJdYJEGp9GQh7FG6KTuFnXc7LqCgDfgMERuftkjD+z7NSfbDEY2TxSxSgEtj5KucB0F7rNk8/lTmQzvwaU=;hk9FAVviCAtP0HMARjLckg=="
 ---

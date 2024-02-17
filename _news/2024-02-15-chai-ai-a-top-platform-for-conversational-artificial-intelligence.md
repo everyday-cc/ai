@@ -54,15 +54,6 @@ related:
         width: 2500
         height: 1756
         isCached: true
-  - title: "Accommodating artificial intelligence: how AI fits into UA classrooms"
-    excerpt: "Without a clearly defined set of guidelines dictating the use of artificial intelligence in classrooms at the University of Arizona, instructors and students alike are working together to explore the potential benefits and risks of AI. The UA is left ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://wildcat.arizona.edu/153215/news/n-ua-policy/"
-    type: article
-    provider:
-      name: Arizona Daily Wildcat
-      domain: arizona.edu
-    quality: 34
   - title: "A degree in artificial intelligence: Penn becomes first Ivy to offer AI major for undergrads"
     excerpt: "Students pursuing the B.S.E will take high-level courses from topics like computing algorithms, machine learning, data analytics and advanced robotics, the university said. Intro courses include \"Introduction to Artificial Intelligence\" and \"Data ..."
     publishedDateTime: 2024-02-15T23:28:00Z

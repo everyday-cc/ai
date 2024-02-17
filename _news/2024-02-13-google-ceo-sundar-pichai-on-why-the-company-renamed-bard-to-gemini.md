@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
+    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
+    publishedDateTime: 2024-02-16T06:50:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
     excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
     publishedDateTime: 2024-02-12T08:00:00Z

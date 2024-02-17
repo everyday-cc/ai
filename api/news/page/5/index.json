@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
+      "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
+      "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
+      "originalUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1202322660-1.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp/amp/",
+      "publishedDateTime": "2024-02-13T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-looking-for-more-intelligence-from-meetings-otterai-is-taking-a-shot-with-meeting-genai.md",
       "title": "Looking for more intelligence from meetings? Otter.ai is taking a shot with ‘Meeting GenAI’",
       "excerpt": "The new “Meeting GenAI” enable organizations to benefit from the Otter AI assistant in a single meeting, but also across all meeting transcriptions that a user or organization has on the platform.",
@@ -293,7 +346,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 419,
       "tags": null,
       "images": null,
       "content": "",
@@ -637,7 +690,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -985,7 +1038,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/articleshow/107649314.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1007,58 +1060,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-alphabet-stock-nasdaqgoogl-ai-innovation-warrants-a-higher-multiple.md",
-      "title": "Alphabet Stock (NASDAQ:GOOGL): AI Innovation Warrants a Higher Multiple",
-      "excerpt": "Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG) stock has performed well but still hasn’t been the most magnificent of the so-called Magnificent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/alphabet-stock-nasdaq-googl-ai-innovation-warrants-a-higher-multiple-1033059745",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tipranks.com/wp-content/uploads/2024/02/image-279.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-          "width": 778,
-          "height": 447,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T04:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

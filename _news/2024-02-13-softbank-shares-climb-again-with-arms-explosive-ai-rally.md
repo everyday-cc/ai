@@ -40,6 +40,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
+  - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
+    excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T23:08:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/global/softbanks-founder-son-seeks-build-us100-billion-ai-chip-venture"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 54
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
 
 secured: "fL6SMseQEeoMVRJ7U/m1zFBJp/qSrVKrduPDar4aVO0PkEi8RYKlSkVHQNA/3GCbqAK/B65u54v+SULIFQlCMRtjVFe1hV81m+twgwgXLzKKoW8Ts6PYX+c0XyrSgbEO3/tTBfoRNXovyWXQGuo8c0h+zM/j/Q7d/vhQY1OwEgNq9ZEkOI52wlcxnyxbh3wItTKmsoilmPIEkW2dGKYtcxHLCZPnAX4b2jACw3i+oliQtl8B8I3wNDze3NHW/e7GgeiXwixFs2CSM766q9DKFgOSQs8IZwUArkiOOUdeFl+ZnejbB/pYyn7kPwFY5XigCWZrxGw69Vg3D7B0ER58ptggcZmLmpzloG/bLJ1h2V68Uv97BLMbM5jIwfV+NwVcvN1DgiNcUSDr/ZKBpfPzzQ4Dha7JD/N0MjBGCPh8FCtf/dNlcW9hsdq0eron6oKyXhGHMIoJh0UfzVHIdorB80VWCy8+9EK5u1iRo6WIISLVAvc+R+G+cjLzcMN57x9fMLupVhr8BfcX6r+OiVgQvQ==;Ebv64CQVNe7mJ4lFSDdzsg=="
 ---

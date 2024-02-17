@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-va-can-be-a-leader-in-healthcare-ai-lawmakers-say.md",
+      "title": "VA Can Be a Leader in Healthcare AI, Lawmakers Say",
+      "excerpt": "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/washington-watch/washington-watch/108771",
+      "originalUrl": "https://www.medpagetoday.com/washington-watch/washington-watch/108771",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-working-together-to-address-ai-risks-and-opportunities-at-msc.md",
       "title": "Working together to address AI risks and opportunities at MSC",
       "excerpt": "For 60 years, the Munich Security Conference has brought together world leaders, businesses, experts and civil society for frank discussions about strengthening and safe…",
@@ -321,7 +365,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -658,7 +702,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -1149,58 +1193,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
-      "title": "AI In Cybersecurity: Revolutionizing Safety",
-      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1406,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

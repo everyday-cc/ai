@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
 type: article
 quality: 67
-heat: 91
+heat: 87
 published: true
 
 provider:

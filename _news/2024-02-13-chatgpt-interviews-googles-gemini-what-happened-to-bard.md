@@ -42,6 +42,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
+    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
+    publishedDateTime: 2024-02-16T06:50:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
     excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
     publishedDateTime: 2024-02-13T01:10:00Z

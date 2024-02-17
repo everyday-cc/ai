@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Widespread machine learning methods behind ‘link prediction’ are performing very poorly"
-    excerpt: "New research in the Proceedings of the National Academy of Sciences establishes that the metric used to measure link prediction performance is missing crucial information, and link prediction tasks are performing significantly worse than popular literature indicates."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1033851"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 11
   - title: "Widespread machine learning methods behind 'link prediction' are performing very poorly, researchers find"
     excerpt: "As you scroll through any social media feed, you are likely to be prompted to follow or friend another person, expanding your personal network and contributing to the growth of the app itself. The person suggested to you is a result of link prediction: a widespread machine learning (ML) task that evaluates the links in a network—your friends and everyone else's—and tries to predict what the next links will be."
     publishedDateTime: 2024-02-12T19:59:00Z

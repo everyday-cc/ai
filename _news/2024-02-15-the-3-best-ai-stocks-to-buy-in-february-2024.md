@@ -47,15 +47,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "The AI Chip Game Part 2"
-    excerpt: "The AI Chip Game Part 1 recounted how Nvidia’s best customers for accelerators – Microsoft, Amazon, Google and Meta – were building their own chips to undercut Nvidia and get more individually focussed ICs. The AI Chip Game Part 2 looks at Nvidia ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.electronicsweekly.com/blogs/mannerisms/markets/the-ai-chip-market-part-2-2024-02/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 34
 
 secured: "WgGUpH5RHUUkR+0QHKv+PsRCjcxhg/M7GOgfdhvA205twYsH9cixnS5GqR+M47MocdMtrJNH8aMCuDKaYOtdDWZvctEgRz8DOt7mZ+ns0bBOhh3gLZndH9iyMWsSwT5CiotUwcesYk28S3E3T6YfYlV9hr47yPN8/q8ToAQjghQafW3sJk4LrBc40Hti+SfNExHMNSCtGN4KTQ1JwxuSw++C3O253APdEP0rWvu7V+ETAVW3JUkKhu2ZYmKO5gE2HEjFJ0D2Istiy8P7ikqYfrRFvd+AQ7Z5qfD+asGM3M+/7ar2HA4i27O66VHQI3QcYQ9OHv/VM3WFqajO+0DraDcZLW4BQye7qkEt/tw8lgs=;tTbiIE4qKQFEGN5qTj3/vQ=="
 ---

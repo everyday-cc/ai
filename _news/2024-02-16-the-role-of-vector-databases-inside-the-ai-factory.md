@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/16/the-role-of-vector-databases-inside-the-ai-factory/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

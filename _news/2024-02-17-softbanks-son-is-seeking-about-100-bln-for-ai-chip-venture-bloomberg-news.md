@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-
 webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -32,6 +32,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
+  - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
+    excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T23:08:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/global/softbanks-founder-son-seeks-build-us100-billion-ai-chip-venture"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 54
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
+        width: 880
+        height: 587
+        isCached: true
   - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
     excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
     publishedDateTime: 2024-02-13T00:18:00Z

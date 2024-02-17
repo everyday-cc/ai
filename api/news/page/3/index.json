@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
+      "title": "AI In Cybersecurity: Revolutionizing Safety",
+      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1406,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
+      "publishedDateTime": "2024-02-15T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-alphabets-waymo-recalled-vehicles-to-update-automated-driving-software.md",
       "title": "Alphabet's Waymo recalled vehicles to update automated driving software",
       "excerpt": "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/alphabets-waymo-recalled-vehicles-to-update-automated-driving-software/articleshow/107723020.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -157,7 +209,7 @@
       "originalUrl": "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -665,7 +717,7 @@
       "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/02/14/ai-investors-are-wooing-startups-with-massive-computing-clusters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -967,7 +1019,7 @@
       "originalUrl": "https://www.techrepublic.com/article/slack-generative-ai-search/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1161,57 +1213,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-leaders-what-are-you-doing-about-ai-fatigue.md",
-      "title": "Leaders, What Are You Doing About AI Fatigue?",
-      "excerpt": "In a world where digital transformation is as crucial as the air we breathe, there’s a quieter, more insidious transformation happening within our organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "originalUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ccdd42394810960907e940/0x0.jpg?format=jpg&crop=2929,1372,x0,y41,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/",
-      "publishedDateTime": "2024-02-14T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Accommodating artificial intelligence: how AI fits into UA classrooms"
-    excerpt: "Without a clearly defined set of guidelines dictating the use of artificial intelligence in classrooms at the University of Arizona, instructors and students alike are working together to explore the potential benefits and risks of AI. The UA is left ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://wildcat.arizona.edu/153215/news/n-ua-policy/"
-    type: article
-    provider:
-      name: Arizona Daily Wildcat
-      domain: arizona.edu
-    quality: 34
   - title: "Inviting The AI-Powered 5G Era, GIGABYTE Will Present Next-Gen Servers For AI/HPC, Telecom, And Green Computing Solution..."
     excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming t"
     publishedDateTime: 2024-02-16T09:28:00Z

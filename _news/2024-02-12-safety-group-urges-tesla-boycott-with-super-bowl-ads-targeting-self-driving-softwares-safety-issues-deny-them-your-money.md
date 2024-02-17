@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 679
         isCached: true
-  - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
-    excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 56
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2024-02-12/l_1156988_084110_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
 
 secured: "j1OxVR2VcqoUdiYzf/HLKe56hS0/G5UjZz7PB93CtdWvi9ElEFhW4XBI/U5qIaVcAghYY9cIoEAvzRQFzugWP4JpeTZpcz/Tr5+f8r5Nwf86vtrdSOOeDlLK17gc6cJCuDg5bcI4Tne+iaYRDz/fPigvDfgjg3sVnmuoLoqp6fAV4rp5J7qVn95BNJDfBx1qlJ/BPEvfxeSHPYMRBEMy0LcSvYgQz4CQmN7dKC/kJTm4yQZP+SO2Tv3GmSUSdaPyiF4ENDK9o3hA0p9vQawbD07VCfMKurUb3w6/Nble7uIoAPbMGKKFEocE7jJMRoxImRHUbdJFUd81UErhENG3oxsTmIgTwjed7qF7jyLNE+s=;Zqnuvlnu163fS3JnTD4/Sw=="
 ---

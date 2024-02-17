@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-cyber-def
 webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
 type: article
 quality: 106
-heat: 147
+heat: 158
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Index reflects nation's strength in AI governance"
+    excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
+    publishedDateTime: 2024-02-16T23:38:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/17/WS65cfee5fa31041d387d6e014.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
     excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
     publishedDateTime: 2024-02-15T08:01:00Z

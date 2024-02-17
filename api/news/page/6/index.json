@@ -492,7 +492,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -930,7 +930,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/3-blue-chip-stocks-to-buy-for-the-upcoming-ai-wars-1033056794",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": null,
       "content": "",
@@ -1156,21 +1156,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.md",
-      "title": "Crowd sets Waymo self-driving car ablaze in San Francisco",
-      "excerpt": "A crowd vandalized a Waymo self-driving vehicle and set it on fire in San Francisco on Saturday, said Waymo, which is owned by Alphabet.",
+      "path": "_news/2024-02-12-the-language-of-ai-defining-the-most-common-terms.md",
+      "title": "The Language of AI: Defining the Most Common Terms",
+      "excerpt": "Natural Language Processing: A branch of AI that uses machine learning to process and interpret text and data. Neural Network: A computer system made up of interconnected \"artificial neurons\" that help computers learn from data and recognize patterns.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
+      "webUrl": "https://www.medpagetoday.com/special-reports/features/108692",
+      "originalUrl": "https://www.medpagetoday.com/special-reports/features/108692",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/107371968-17076799512024-02-11t184546z_1479943353_rc2a06a3oscq_rtrmadp_0_waymo-san-francisco.jpeg?v=1707679980",
-          "width": 2200,
-          "height": 1238,
+          "url": "https://assets.medpagetoday.net/media/images/108xxx/108692.jpg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1178,23 +1178,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/11/crowd-sets-waymo-self-driving-car-ablaze-in-san-francisco.html",
-      "publishedDateTime": "2024-02-11T17:36:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T23:59:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1203,7 +1194,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Natural Language Processing",
         "AI"
       ]
     }

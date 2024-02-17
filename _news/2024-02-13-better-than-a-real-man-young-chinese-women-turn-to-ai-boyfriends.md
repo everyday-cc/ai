@@ -55,6 +55,20 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
+    excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
+    publishedDateTime: 2024-02-17T00:00:00Z
+    webUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-women-turn-ai-boyfriends-2361986"
+    type: article
+    provider:
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--WN-9H-ul--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2024/02/13/20240213_afp_ai_boyfriend.jpg?itok=zzY4QWFh"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "jQohqOfM+elL7nMTgEbLc7lk5i8ozjpo9dZO8jEkihzfNJ0PdXXPtQ9RGLUEXkqQBQMbaFNIvvf+jyKV65znwvxHsm6TXbjSC35Oh18bDw4Ed66DH5nR1kbq6vvqk/ceJOYPDwQiyf0jIXOVuaa+05VQU3tKqZrQccATMfa/P9RirgXUJTHa7M11Z6WwDA7HFMscVgquH2fqHh8mHWV9mNxyQ9CxqPAmzPR41WB6iHHN4faxEeuBAIWUuE37kTFFpHGESYu+BPcal85954KXu6ayh3jW/7wYSZpxjk+Wp5XWx4Nx1LQ1HC3HA8HAw+E6iOE/8YzPe2wcj3sXJHl+Dxehi0wYBp+7UNI+rQ3UDqoB98oHrp+6mjTGQ4s7hnSu0nJz6ES8I3xnYAC5qqq9SkjtW7WeFwfX/7oovozsPnkgGYlex3GkX44xc422DKm7TpsHbugdCX+d/BF0UBGeOdi8j3pK8eUZ5rQCF9ZjZMRH0JtciI+GXEu3cANc7ZuJ8Je4gLU0tDZzhXD1nqSUnw==;bbjukCcF7TihTljx9Gki1g=="
 ---

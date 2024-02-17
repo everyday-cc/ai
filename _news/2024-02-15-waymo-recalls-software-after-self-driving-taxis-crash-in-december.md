@@ -37,15 +37,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Crowd sets Waymo self-driving vehicle ablaze in San Francisco"
-    excerpt: "Feb 11 (Reuters) - A crowd vandalized and set fire to a Waymo self-driving car using a firework in San Francisco on Saturday, the Alphabet-owned (GOOGL.O), opens new tab company and authorities ..."
-    publishedDateTime: 2024-02-11T23:31:00Z
-    webUrl: "https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/?ref=am-quickie.ghost.io"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
     excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
     publishedDateTime: 2024-02-15T16:23:00Z

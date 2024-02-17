@@ -264,20 +264,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "FCC Ruling on AI-Generated Robocalls Reflects Focus on Artificial Intelligence"
-    excerpt: "The proliferation of artificial intelligence (AI) technologies is likely to have a profound impact on the telecommunications industry. Technology underlying the creation of deepfakes, which accurately mimic a person via digitally altered video, audio or ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/fcc-ruling-on-ai-generated-robocalls-4431532/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 48
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15281_0526.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "R.AI.SE Summit 2024: Enterprise Gateway to Generative AI’s Future"
     excerpt: "The R.AI.SE Summit, a global reunion of 1,500 global leaders and Generative AI pioneers, is set to take place on April 8th, 2024, at the prestigious Westin Paris Vendôme, Paris, France. The landmark conference will bring together the corporate world and the top artificial intelligence builders to share first-hand insights on using Generative AI to address essential business and societal challenges."
     publishedDateTime: 2024-02-14T14:19:00Z

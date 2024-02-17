@@ -21,6 +21,15 @@ topics:
 related:
   - title: "The brain processes speech and its echo separately"
     excerpt: "Echoes can make speech harder to understand, and tuning out echoes in an audio recording is a notoriously difficulty engineering problem. The human brain, however, appears to solve the problem successfully by separating the sound into direct speech and its echo,"
+    publishedDateTime: 2024-02-17T00:32:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2024/02/240215142233.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "The brain processes speech and its echo separately"
+    excerpt: "Echoes can make speech harder to understand, and tuning out echoes in an audio recording is a notoriously difficulty engineering problem. The human brain, however, appears to solve the problem successfully by separating the sound into direct speech and its echo,"
     publishedDateTime: 2024-02-15T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/1033426"
     type: article

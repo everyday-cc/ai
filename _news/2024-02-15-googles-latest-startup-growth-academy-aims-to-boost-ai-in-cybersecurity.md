@@ -72,6 +72,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Index reflects nation's strength in AI governance"
+    excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
+    publishedDateTime: 2024-02-16T23:38:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/17/WS65cfee5fa31041d387d6e014.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "H/4RWz427BsXECNASnJ2ax/eve9inltgaPmFxfPQPIV2uLzWh2U74gs4HDwBBo5J5Qa7mee2R+n/gAM+JjXAlVJuhU2tzqquFt3cOoYABgoJtCotMnjitMMsQ1LLaDtXFgyDDumJEittpxG6bV3NdzJ4QfnLYJprZEmgS6wIfNXaFMOX73/YcveloR3BivqukfuT6DWfqk2wJcci8QCDuMystUxW11D9X7+hBxKXqIhSewyehjgTPPOGdHgCtZAkPbB1vGAmTavIYamPT4/zM5fqMpBTCWRrzeDENj6VAvIzi5thshRHeyF4grfUPS2P3cfXVVwJROt8FNXMq1l9S5QkgSCx53UhbTiIMK3cS/hit6JsVJCWaNNKtJgOwkwaqY7UFMgh1hHmTSEkOUjKU0H8TQumGzh4DhP1VDP9yfSN9cow7GB77sudjolfty6/ktsbK4p0wBwmrJCptxdj/bkDkrNLIDD0Th1xdTFQ1JxmUcfMIpY7S32TRkJobpurNLLfbVj9jVkBJEWM8E8fxQ==;7F5JEj5ZMumIzl/jwsIdVA=="
 ---

@@ -502,7 +502,7 @@
       "originalUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -589,7 +589,7 @@
       "originalUrl": "https://www.ibm.com/blog/generative-ai-use-cases/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 429,
+      "heat": 419,
       "tags": null,
       "images": null,
       "content": "",
@@ -1143,6 +1143,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-05-looking-outside-the-magnificent-seven-stocks-could-be-a-good-idea-for-artificial-intelligence-ai-investors-heres-1-stock-that-ive-got.md",
+      "title": "Looking Outside the \"Magnificent Seven\" Stocks Could Be a Good Idea for Artificial Intelligence (AI) Investors: Here's 1 Stock That I've Got My Eye On",
+      "excerpt": "IBM's Watson governance tools have garnered interest as it pertains to compliance with AI practices. The company's consulting operation is serving as a bellwether for generative AI software revenue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/05/looking-outside-the-magnificent-seven-stocks-could/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/763057/it-solutions-server-room-data-management.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T07:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
       "title": "IBM Databand: Self-learning for anomaly detection",
       "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
@@ -1252,48 +1304,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-02T17:00:11Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
-      "title": "4 questions to consider when you’re selecting an external DNS provider",
-      "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "originalUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

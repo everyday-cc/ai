@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -192,15 +192,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
-  - title: "How to Learn a Language with Google Gemini"
-    excerpt: "Google Gemini is a large-scale language model (LLM) developed by Google AI. LLMs are trained on massive datasets of text and code, allowing them to communicate, generate text, translate languages, and provide assistance like a knowledgeable virtual companion."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.geeky-gadgets.com/how-to-learn-a-language-with-google-gemini/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 4
   - title: "Google warns users not to share personal information with Gemini"
     excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
     publishedDateTime: 2024-02-14T20:19:00Z
@@ -211,6 +202,6 @@ related:
       domain: bgr.com
     quality: 4
 
-secured: "nNiSabTq7upp9BD8SXGvzyI/aVm3UGL41//7HtNoPfjUrvulptlUdTxyxn4ZbFn21nb5wJDa7oGOGDHpOcMei0jhFZ1XUi2hX10PVjVf69HBtoR3LFipsw0lG6fpkLGpJ6sJcXOQGAJ9V7xEzDrhgSueZ503UsrzUS9m/WMvMONv7hCCRMjOXcUe6vdTZe3/fU2Ra0TaDfAA3Zf58x2bfhNKe7608lBMN/N6U/bMzqy8v8xuCLtyi3/MYCyUNxrDzD9mhflDzs9DdMOcmAczHM/A2ovzPu3BU6Mem8ajft6+U4DqZARoTdhcoVZiMHNuGeSf5dqluTivxGNO+IQ8LLsdA8YpRll2mIEwOjeu+Bw=;7EITJ/xuruw5GLuXAQBUGw=="
+secured: "3BlvdsWipRZfxTtNsbgsHg8+sMqAlZ7ZucfBhomOKcXOpqKKDiDjNGJ9N5JsRqonEElUFGilGsQsi9jaSXv5qVeRDOdaDPJlFNUraDRJiyB8J9VgooGKezuvuL5f/eJkjP9fz2lwcQ3MGaUjNG3jc06AQ2Nkn87UWq8nxW5VEgIxblVZQyXmAbhbDuIxA8wiT0UjaBJgbQ+vtwEwGpZKwpFPi3fpwze1x2uPROwvi0BxyTEkZV27E03kxiDXrZlOuCqXxrwg/UOQ2Y0JcexBxIzx64IS4RztME87+GeoslszPjogojOKLxCK6zwECuiyeL2pifQ85qOoGKN0RZTQg8Fa/tAjglkrt7cepDmaCm4=;fQGWhD5fNipvJrIS0ffgmA=="
 ---
 
