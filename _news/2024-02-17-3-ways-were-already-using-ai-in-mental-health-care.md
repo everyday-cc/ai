@@ -8,7 +8,7 @@ webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202
 ampWebUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/ai-7111802_1280.jpg?itok=THAhA6gt"
@@ -205,6 +206,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "tzpaZBv9Os5zVOjsNRdKRxsWnx5tx+8iZ1+FOZmdBKl4tDwnycyYlUbMLAb2O7OMwaQb/U5jc5th/AT2rgJlvWyAmRRaTRPBeRVaw65InRqAlaVvOYe0kP1BD3bGtKSbNJrZcoqvXSn397IOL7RjWOkm1Qvhn8nx7XVgw0OMtE6gpw3Tn/MXLmNNUSV/jcuf1YR8h6F1iAn9CzsaW2nvO3fXi8emM6pY6HHZWYqkhEO39CqsZQ1ZesZHAmesMGUAgWSBL7q9loSXGbvrc0uNtMmSL92Bw66lLqD10z69rIY2aPZTqZrooKu5JlFxY7JklC8P7xoH4NS+I7re5cLA+6elHIbQRm8tCw1+KMGerEI=;rY6cNxwVUHaOUuwd59p+rg=="
+secured: "bYjhPbHzRrC/TWv/Bmmj+oq/iAhV6zqR0M98EzLuBAtjxv9/l/piYp4irBG9cHn6hYo08fgzV0BPO9aHsPA2+WZ1oihAhsGSBcIJYjpPvQDJS7szMe/UEPvtpS3qyTYplzQ+huhxWA/Izp9xtt+pBQgV0xCHjZjiv2/08bLzS3H0T93uV2+beKYg/U/UqnIKb2I92e68sidb6yiiVXE4ajiO7DvL7KHxnoMxdZUhTqlEogYGCZ98wglWP99C9+vqClZNjGQIRrLU14WxuhPWJHAM0/kk7v3jOXbsE9nHTpgjSKWVmnJiWckw1MZq/0u5wcJPTw8PjvsCzVNaNMnH2a+XlgHMszVwQ1sSpgc7SujWJMK+wy2FSns8vULU9oKb5to+/WxSXGGLEifVn5KN83xTXLTCDUTv6u2APZ+ZitYxwiaLE8NnH8czjsnAhlgIFe415k/3a+hr26bAuvTeienKuIMgaCHqDyQfKq2wXwQFCeruIfZM+XLLXa0fXSdHmZyn4R0AsbWrLIPxozWGvw==;laOBBb3mHzFYh1+ZiPwLnA=="
 ---
 

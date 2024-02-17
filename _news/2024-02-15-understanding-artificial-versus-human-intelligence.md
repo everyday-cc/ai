@@ -70,6 +70,20 @@ related:
         width: 1280
         height: 846
         isCached: true
+  - title: "Understanding Artificial Versus Human Intelligence: Academic Minute"
+    excerpt: "Today on the Academic Minute: Daniel Ernst, assistant professor of English at Texas Woman’s University, explains what a platypus has to do with artificial intelligence. Learn more about the Academic Minute here."
+    publishedDateTime: 2024-02-15T08:04:00Z
+    webUrl: "https://www.insidehighered.com/news/quick-takes/2024/02/15/understanding-artificial-versus-human-intelligence-academic-minute"
+    type: article
+    provider:
+      name: Inside Higher Ed
+      domain: insidehighered.com
+    quality: 24
+    images:
+      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "hnD8dKY83oceWEojthZBxIEncEvvloWeNGcUnK7dhiTVu6oDSZFTYdT4ixTT1KzOFFpQ3Ng8AKNQP6Tt32XEEt3FQYueRjziYw5mmBzzwXcv8ZUB31/DXQr+wpsTK9iPEMqAxDuSZ+kJt2oujGaNOJprk0bj8AoLrx2mBfoai4wvXLo38hrCAoNsMaoOdkL1am0D0uWnOcpiIqhDHf28oBlRPqKn8gpCuUcmgLoz91WE92yv2+RaVYPdcCpy1sGidsF3ZGq0zl+fjwHT/Lpba+Uw608T4u0RVn/XzZK1kqQ6FIFP8LbAOzHpji2DnXIVoGUeFIaDNF1zkIhM6vXAqNof1Wh5S3CsHRgzEzyZMdQ=;SOwvk/5WRjR9185oiqs4ZA=="
 ---

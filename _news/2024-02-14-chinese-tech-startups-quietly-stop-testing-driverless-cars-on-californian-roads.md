@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-driverless-car-companies-sto
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "California Vandals Light Self-driving Taxi On Fire"
-    excerpt: "A self-driving taxi was smashed and lit aflame on the streets of San Francisco over the weekend, company representatives said Sunday."
-    publishedDateTime: 2024-02-12T01:08:00Z
-    webUrl: "https://www.barrons.com/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    ampWebUrl: "https://www.barrons.com/amp/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Mob attacks driverless car in San Francisco"
     excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
     publishedDateTime: 2024-02-13T01:19:00Z

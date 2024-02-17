@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targ
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
 type: article
 quality: 54
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "European Fintech Pennylane Reports Series C Funding Round"
-    excerpt: "Pennylane has reportedly raised €40M from Sequoia Capital and other investors, reflecting steady growth over the past two years."
-    publishedDateTime: 2024-02-12T02:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221376-european-fintech-pennylane-reports-series-c-funding-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2023/06/Euro-50-cent-1024x768.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "MITRE researched air traffic conversation AI tool for FAA, documents show"
     excerpt: "MITRE, a public interest research nonprofit that receives federal funding, proposed a system for transcribing and studying conversations between pilots and air traffic controllers, according to documents obtained by FedScoop through a public records request."
     publishedDateTime: 2024-02-14T22:34:00Z

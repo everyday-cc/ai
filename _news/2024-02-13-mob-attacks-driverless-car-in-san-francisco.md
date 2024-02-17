@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "California Vandals Light Self-driving Taxi On Fire"
-    excerpt: "A self-driving taxi was smashed and lit aflame on the streets of San Francisco over the weekend, company representatives said Sunday."
-    publishedDateTime: 2024-02-12T01:08:00Z
-    webUrl: "https://www.barrons.com/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    ampWebUrl: "https://www.barrons.com/amp/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/california-vandals-light-self-driving-taxi-on-fire-f8ea6e21"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
 
 secured: "Ai2NGMwl1qOcV7upo516h1LgB5Zi7899txodMaGE28hOGTqfxg5jVOazpEATLdbX3m6K49RERnjY8RsZbQt3TqIVtyHTGt3QuHsaUShKG+nLhKzhKumAiiSA/jvrXpA7jXsZ2M65caWYnOYMZTVAxYuzvvLcozfqBeX4gqVWZaak8QHQTrn3zWSGIW6URVlQg0Tyf6O80pgrrPxhYT9igGyh6PLUYuJksxomZDbICrxfHTQmvk5k9zoEa9f98Lg2AMPuhwCEn8LuXaNEvnj7FllidfUFYsYGJOQvbPFtMtbc6D9SlINATay/Nmpe1sNCvyHUQttw5q0zhEAgEAlDYuDtP8a8vVDUZG7vI/YMlSY=;q7b8R90H2W8MsZIw6iUexA=="
 ---

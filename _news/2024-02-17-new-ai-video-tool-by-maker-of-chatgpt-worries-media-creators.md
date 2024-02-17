@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
-excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
-publishedDateTime: 2024-02-13T20:29:00Z
-originalUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
-webUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
+title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
+excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
+publishedDateTime: 2024-02-17T01:30:00Z
+originalUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+webUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+ampWebUrl: "https://www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
 type: article
-quality: 64
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: PC World
-  domain: pcworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Barron's
+  domain: barrons.com
 
 topics:
-  - AI Hardware
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+    width: 1320
+    height: 742
+    isCached: true
 
 related:
   - title: "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU"
@@ -79,22 +83,6 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
-    excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
-    publishedDateTime: 2024-02-17T01:30:00Z
-    webUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    ampWebUrl: "https://www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
-        width: 1320
-        height: 742
-        isCached: true
   - title: "Chat With RTX brings custom local chatbots to Nvidia AI PCs"
     excerpt: "Nvidia said that Chat with RTX is more than a mere chatbot; it’s a personalized AI companion that users can customize with their own content. By leveraging the capabilities of local GeForce-powered Windows PCs, users can accelerate their experience and enjoy the benefits of generative AI with unprecedented speed and privacy, the company said."
     publishedDateTime: 2024-02-13T21:00:00Z
@@ -137,6 +125,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
+    excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
+    publishedDateTime: 2024-02-13T20:29:00Z
+    webUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 64
   - title: "Nvidia Releases Chat With RTX, an AI Chatbot That Runs Locally on Windows PC"
     excerpt: "To run Nvidia’s Chat with RTX, a Windows PC with RTX 30 or 40 series GPU with a minimum of 8GB VRAM is required."
     publishedDateTime: 2024-02-14T11:59:00Z
@@ -256,6 +253,6 @@ related:
       domain: interestingengineering.com
     quality: 19
 
-secured: "sWUXS6cBurYr7Ndq3s4S6PZnMmDJmd9sTiUK5tjPr9Xm221iK7Ehhud/wzj2YF/kunDytbeCleABMtmEpAzsXC6e0I4GSZftqzz4lBh9eUrTlrSKAeVfcufZ5m+bHoGSGUz3Pf5FOVBLnqxpwWlUh99aRp9NN+WM5iwg7aRx4Yw9Hnpk3fHa/5A7yZm6WPF2S2+FIoxVAjXcDmjsvFPoAIsAfSQmxpH5J1ELNaIol3y4GOZufRCOMEpgkkEGB2bWOe6goEbW4jz9Ir44nzTx1idswrPES47ksoSGXvZBSc5NrU0G428t6Vo7kzDu5FRKlEcJDBzoPHzQp1HPatMHZPtn5BX0MeoHT4cfP9UFWeaJWuwZs0r55IkpJzvsBYhCp6AibyhysgKIJgUFYQtbSNncj5xwqxxPQqeqShmMZIDZCtynk7is0C06+2UMyLpxE5zTCN64NNwFIO6eyI+Ov7bd4n4moMGsKc2n7JhULFQ87sEgWdwXJIrynQLHCIGqpJU06rHaDn8AfhpvIHQP2Q==;a1lZgODg5nDZph4mCl0wpQ=="
+secured: "I723OGJgJpqD2oeOnBcbBtisxMtLOywNusUa0PVq2G0HOMdyi588L8pbrvVGOyut1J/Zko2SY96RaVPsKAJO/FOkZPbKsOfSNp+unGBL5zz7MUtY/0FjWmblk/es7mk2/IlGeYGcwMGippJAp3zqkRygMMq79ZaUB1iS5Tcc6n1RuSd+Chq7Ij2UBmklHEphrWWU5g0lk58PDc6fcL8YJM8B3DkP36Q0mNJNWKz6SABEInKOwPl+TyuanVtGpl1/CzMDU2DYXunBRxZknMqJEp8p9HDkgUbiMKYlS8vDy319M85UVcCQGe42T6rR20O6NJSXScAUbB8i+x5ibKQUL3rCPe9C9qFTeGEJkU8Pm4M=;JCmB0WcCM+D+aYbhsExaCQ=="
 ---
 

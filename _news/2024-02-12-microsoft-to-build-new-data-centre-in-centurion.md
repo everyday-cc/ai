@@ -155,20 +155,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Microsoft Cloud and its Azure OpenAI Power Telstra's Generative AI Solutions"
-    excerpt: "Telstra is expanding two in-house developed generative AI solutions following promising pilots with frontline team members, enabling faster and more successful interactions with customers."
-    publishedDateTime: 2024-02-12T02:08:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/34930-microsoft-cloud-and-its-azure-openai-power-telstras-generative-ai-solutions"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 66
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/46728b61d34ccb500614b5e7b5e40db9.jpg?t=20240212_015241"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks"
     excerpt: "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and"
     publishedDateTime: 2024-02-14T20:27:00Z

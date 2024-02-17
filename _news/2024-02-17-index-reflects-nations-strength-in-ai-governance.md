@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-16T23:38:00Z
 originalUrl: "https://global.chinadaily.com.cn/a/202402/17/WS65cfee5fa31041d387d6e014.html"
 webUrl: "https://global.chinadaily.com.cn/a/202402/17/WS65cfee5fa31041d387d6e014.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"

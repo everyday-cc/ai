@@ -85,6 +85,22 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
+    excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
+    publishedDateTime: 2024-02-17T01:30:00Z
+    webUrl: "https://www.barrons.com/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+    ampWebUrl: "https://www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/new-ai-video-tool-by-maker-of-chatgpt-worries-media-creators-17ebca9c"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 74
+    images:
+      - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
+        width: 1320
+        height: 742
+        isCached: true
   - title: "Hands On With Nvidia's Chat With RTX: Leverage Your GeForce Card for Local AI"
     excerpt: "Got the yen to fashion your own personalized chatbot? Chat With RTX is an easy-to-use generative AI tool for your PC, using the GPU you may already own."
     publishedDateTime: 2024-02-13T14:22:00Z

@@ -80,7 +80,7 @@ related:
     provider:
       name: 中国日报网
       domain: chinadaily.com.cn
-    quality: 39
+    quality: 41
     images:
       - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
         width: 900

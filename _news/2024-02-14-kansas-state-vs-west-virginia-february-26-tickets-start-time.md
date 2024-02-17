@@ -7,7 +7,7 @@ originalUrl: "https://www.kwch.com/sports/betting/2024/02/26/kansas-state-vs-wes
 webUrl: "https://www.kwch.com/sports/betting/2024/02/26/kansas-state-vs-west-virginia-buy-college-basketball-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Michigan vs. Purdue February 25 Tickets & Start Time"
-    excerpt: "The Purdue Boilermakers (22-2, 11-2 Big Ten) play a fellow Big Ten squad, the Michigan Wolverines (8-16, 3-10 Big Ten), on Sunday, February 25, 2024 at Crisler Center. The game will begin at 2:00 PM ET and is available via CBS."
-    publishedDateTime: 2024-02-12T02:19:00Z
-    webUrl: "https://www.wilx.com/sports/betting/2024/02/25/michigan-vs-purdue-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WILX-TV
-      domain: wilx.com
-    quality: 22
-    images:
-      - url: "https://gray-wilx-prod.cdn.arcpublishing.com/resizer/v2/TQA3NJ6EUZKWJHG723MW6CQLUM.jpg?auth=9383822d03f57e0bc88ee72f715406d7e08947f4a19a778a9f0806dccaa4e72f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Lamar vs. McNeese February 26 Tickets & Start Time"
     excerpt: "The Lamar Cardinals (13-11, 7-4 Southland) face the McNeese Cowboys (22-3, 11-1 Southland) in a matchup of Southland squads at 8:00 PM ET on Monday. The game will be available on ESPN+. If you're looking to attend this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-13T16:19:00Z
