@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-me
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How to use Nvidia’s new Chat with RTX AI bot"
+    excerpt: "Nvidia has a local AI chatbot called Chat with RTX, allowing you to use AI completely free from the cloud. Here's how to use it."
+    publishedDateTime: 2024-02-17T15:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "3 Reasons Nvidia’s Stock Is Still a Must-Buy AI Powerhouse in 2024"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Any Nvidia (NASDAQ:NVDA) stock outlook has to start by considering its"
     publishedDateTime: 2024-02-14T11:35:00Z

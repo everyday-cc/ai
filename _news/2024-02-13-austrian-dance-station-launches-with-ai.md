@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "How the Australian Government Sees AI Accelerating Productivity"
-    excerpt: "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report."
-    publishedDateTime: 2024-02-12T16:49:00Z
-    webUrl: "https://www.techrepublic.com/article/australian-government-ai-productivity/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 69
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240212-australian-government-ai-productivity.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "10 AI Tools For Australian Businesses In 2024"
     excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
     publishedDateTime: 2024-02-14T03:07:00Z
@@ -46,15 +32,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "How we’re partnering with the industry, governments and civil society to advance AI"
-    excerpt: "Google shares more on how it’s partnering with industry, governments and civil society to advance AI."
-    publishedDateTime: 2024-02-14T20:00:00Z
-    webUrl: "https://blog.google/technology/ai/google-ai-partnerships-government-industry-civil-society/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 63
   - title: "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess"
     excerpt: "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ..."
     publishedDateTime: 2024-02-15T00:00:00Z

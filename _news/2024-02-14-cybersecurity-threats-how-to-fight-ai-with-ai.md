@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "2024 Cybersecurity Trends: AI And What's Next"
-    excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
-    publishedDateTime: 2024-02-12T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/2024-cybersecurity-trends-ai-and-whats-next/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Index reflects nation's strength in AI governance"
     excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
     publishedDateTime: 2024-02-16T23:38:00Z

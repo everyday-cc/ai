@@ -242,20 +242,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How many healthcare employees use generative AI at work"
-    excerpt: "Healthcare workers are increasingly using generative artificial intelligence on the job, though the industry's adoption of the technology still lags beyond other sectors, a new study found. Forty percent of \"pink-collar\" healthcare employees, such as ..."
-    publishedDateTime: 2024-02-12T16:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/rankings-and-ratings/how-many-healthcare-employees-use-generative-ai-at-work.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "What comes after Stable Diffusion? Stable Cascade could be Stability AI’s future text-to-image generative AI model"
     excerpt: "Stable Cascade uses somewhat of a different architecture than SDXL to generate images that Stability AI researchers hope will be more efficient."
     publishedDateTime: 2024-02-13T21:22:00Z
@@ -368,6 +354,20 @@ related:
         width: 1529
         height: 1038
         isCached: true
+  - title: "More money, more new models for AI, while weak guidance plagues enterprise earnings"
+    excerpt: "Also late-breaking Friday: OpenAI completes deal that values the company at $80 billion, according to the New York Times. Venture capital may be in the doldrums in other areas of tech, but AI doesn’t seem to care about interest rates or profits."
+    publishedDateTime: 2024-02-17T00:18:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
+        isCached: true
   - title: "Aviz gives its enterprise SONiC offering an AI boost"
     excerpt: "“Customers can create a data lake with all of the normalized data they are familiar with – that’s data coming from any switch vendor, ASIC or network operating system, as well as data from AWS, Azure and GCP – and build AI-based applications to ..."
     publishedDateTime: 2024-02-14T00:00:00Z
@@ -422,15 +422,6 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 11
-  - title: "Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy AI Infrastructure Solutions for the Data Center"
-    excerpt: "Cisco and NVIDIA are partnering on plans to deliver AI infrastructure solutions for the data center that are easy to deploy and manage, enabling the massive computing power that enterprises need to succeed in the AI era."
-    publishedDateTime: 2024-02-12T14:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Cisco-and-NVIDIA-to-Help-Enterprises-Quickly-and-Easily-Deploy-AI-Infrastructure-Solutions-for-the-Data-Center-162540.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 0
 
 secured: "Z6jKQiVUAaGlkmY7otH8J9ju/5I0nvaN5NwBTfT+kcxvZNGkIQ+1sqG8zijhLs9z62mLYHDqg2NCbqvzCOmGL2elCoVY4llYYrq4V+wlBdbVcnaJyAH1Iml3NllhF4z9oFqPgFduBJzzuUJSEpcBFwajJuKFMpmffuNopJhAG6tPevpi29iP9847gm88nJXNjoRe7l3cGsRf/yeayG+Ct+c9f5uU6cN6ok+q855NRretgOqtylkYY2ob7okT3Za4I2PASt3mDowkWLnAu5O1gV6t+wVvgr855Dci3A7WR4yJM3PNmLmwogwKPZMt53DHlHdzaMnh4RJmVsI2Jeq2gKf/x0DV45oTQ6VmFRx93n4=;uWxJMriTz0RonzM0XwVvEg=="
 ---

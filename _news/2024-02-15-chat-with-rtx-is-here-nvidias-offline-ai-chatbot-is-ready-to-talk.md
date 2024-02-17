@@ -229,6 +229,15 @@ related:
         width: 852
         height: 466
         isCached: true
+  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
+    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
+    type: article
+    provider:
+      name: Worth Playing
+      domain: worthplaying.com
+    quality: 19
   - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
     excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
     publishedDateTime: 2024-02-13T18:53:00Z

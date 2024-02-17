@@ -52,15 +52,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 41
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-12T16:31:00Z
-    webUrl: "https://wgnradio.com/news/technology-news/ap-openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-    type: article
-    provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 24
   - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
     excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
     publishedDateTime: 2024-02-13T09:54:00Z

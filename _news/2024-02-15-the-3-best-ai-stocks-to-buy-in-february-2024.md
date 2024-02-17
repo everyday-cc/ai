@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stoc
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
 type: article
 quality: 51
-heat: 241
+heat: 231
 published: true
 
 provider:
@@ -181,15 +181,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "South Florida vs. SMU February 25 Tickets & Start Time"
-    excerpt: "The SMU Mustangs (17-7, 8-3 AAC) meet a fellow AAC team, the South Florida Bulls (17-5, 10-1 AAC), on Sunday, February 25, 2024 at Yuengling Center. The game will begin at 12:00 PM ET and you can watch via ESPNU."
-    publishedDateTime: 2024-02-12T14:19:00Z
-    webUrl: "https://www.mysuncoast.com/sports/betting/2024/02/25/south-florida-vs-smu-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WWSB
-      domain: mysuncoast.com
-    quality: 2
   - title: "Bruins vs. Lightning February 13 Tickets & Start Time"
     excerpt: "The Boston Bruins' David Pastrnak and the Tampa Bay Lightning's Nikita Kucherov will be two of the most exciting players to watch when these squads play on Tuesday at 7:00 PM ET, at TD Garden. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-13T09:01:00Z

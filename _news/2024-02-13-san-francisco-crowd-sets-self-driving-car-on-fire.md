@@ -25,75 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI field trips and why we should stop setting self-driving cars on fire"
-    excerpt: "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into."
-    publishedDateTime: 2024-02-12T15:21:00Z
-    webUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/"
-    ampWebUrl: "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/"
+  - title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
+    excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
+    publishedDateTime: 2024-02-13T06:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741"
-        width: 1200
-        height: 741
-        isCached: true
-  - title: "How Google's Waymo car fire shows one of the biggest problems with self-driving cars"
-    excerpt: "The article discusses a recent incident in San Francisco where a Waymo self-driving car was attacked and set on fire during the Chinese New Year celebrations. The incident highlights the challenges faced by robotic cars in making judgment calls and the need for more regulation."
-    publishedDateTime: 2024-02-13T16:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/articleshow/107667661.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107667652,width-1280,height-720,resizemode-4/107667652.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Unleashing the Potential: Harnessing the Power of AI in Digital Marketing Strategies"
-    excerpt: "Introduction: In the ever-evolving landscape of digital marketing, staying ahead of the curve is not just an advantage but a necessity. One of the pivotal factors driving this evolution is the integration of Artificial Intelligence (AI) into digital marketing strategies."
-    publishedDateTime: 2024-02-12T17:20:00Z
-    webUrl: "https://techbullion.com/unleashing-the-potential-harnessing-the-power-of-ai-in-digital-marketing-strategies/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 49
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Unleashing-the-Potential-Harnessing-the-Power-of-AI-in-Digital-Marketing-Strategies.jpg"
-        width: 650
-        height: 450
-        isCached: true
-  - title: "Future transport in the UAE: Flying taxis, electric abras, self-driving cars in Dubai and Abu Dhabi"
-    excerpt: "Elsewhere in the UAE, a self-driving public transport bus that uses artificial intelligence (AI) and the Internet of Things for full automation was developed by Ajman in May 2019. It travels on the emirate’s streets without any human involvement."
-    publishedDateTime: 2024-02-13T06:31:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/future-transport-in-the-uae-flying-taxis-electric-abras-self-driving-cars-in-dubai-and-abu-dhabi"
+  - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
+    excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
+    publishedDateTime: 2024-02-13T14:25:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
     type: article
     provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 25
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
+    excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
+    publishedDateTime: 2024-02-13T23:14:00Z
+    webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startup-marqo-raises-20-million-moves-hq-san-francisco/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 35
     images:
-      - url: "https://www.arabianbusiness.com/cloud/2024/02/13/UAE-future-transport.jpg"
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2024/02/240209_MARQO_328.jpg?resize=1200,630"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Moment furious crowds set self-driving electric taxi on FIRE amid growing fury at futuristic robo-cars taking to streets"
-    excerpt: "THIS is the shocking moment a large crowd furiously sets a self-driving electric taxi on fire in the middle of the street. The crowd smashed the car to pieces before leaving it a burning wreckage"
-    publishedDateTime: 2024-02-12T18:25:00Z
-    webUrl: "https://www.thesun.ie/motors/12193026/furious-crowd-set-fire-self-driving-taxi-san-fransisco/"
+  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
+    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
+    publishedDateTime: 2024-02-16T11:58:00Z
+    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 0
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 24
+    images:
+      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "m7Fgbn5wh2/D1yOjEMrNO4MSg6v+qabsOGaJg1yvngveBdiQkxRLtOKy0ddK2NjJbVjO645ALqxJqu9acsFoYiycdTDrEKACPFJGpOd09Zwqbp5ICdRVUbXdWR29dXrFMVDJa5LCxYEBOCynCE8rMFG3VN6EDhwGYceIkWzU7g8/A9stFqLMbP4iX8AJJSPZYNz7h48cCQYEXiGhNa8+EK+Urkfz2Mn3OQ7OCcEBrpX1NzVXKVAODBz/t1Q33f6fwRGl40DvfNzxS61ZhvNucDZbaUKtRRTnNMJssAyYrBd++r0WXs8sFspSF0YEQ4aRKrUFN4BLR0GccMEEsK7usIeAwWcfr8neJRmApgRBPOs=;t68o98s0rQg7wd5EZV5Gyw=="
 ---

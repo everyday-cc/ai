@@ -25,56 +25,102 @@ images:
     isCached: true
 
 related:
-  - title: "AI in school: Ohio builds artificial intelligence toolkit for teachers, students"
-    excerpt: "Ohio Lt. Gov. Jon Husted, a leader in many of Ohio’s workforce initiatives, encouraged schools to investigate AI curriculum, weighing the benefits of the new technology along with issues like student privacy, data security and ethics. “We want Ohio to ..."
-    publishedDateTime: 2024-02-15T22:14:00Z
-    webUrl: "https://www.daytondailynews.com/local/ai-in-school-ohio-builds-artificial-intelligence-toolkit-for-teachers-students/J5X5EUDRNFCD5HKROBXH6B3ORI/"
+  - title: "How Gong’s AI tools are increasing win rates for sales teams"
+    excerpt: "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates."
+    publishedDateTime: 2024-02-16T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
     type: article
     provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 49
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.daytondailynews.com/resizer/wephEwvhLjrTbgU2m7FHpc4EJIY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/LGCALBW7URGYJDZA4JY6JK6DCU.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "From ethics to outsmarting Chat GPT, state unveils resource for AI in Ohio education"
-    excerpt: "Generative AI is the future, and Lt. Gov. Jon Husted said Ohio students need to learn to use it ethically and responsibly."
-    publishedDateTime: 2024-02-15T19:49:00Z
-    webUrl: "https://www.cleveland.com/news/2024/02/from-ethics-to-outsmarting-chat-gpt-state-unveils-resource-for-ai-in-ohio-education.html"
+  - title: "Major companies are reportedly using this AI tool to track Slack and Teams messages from more than 3 million employees. Privacy experts are alarmed."
+    excerpt: "A startup claims its AI tool tracks employee messages on Slack and Teams to monitor risk. Experts aren't convinced."
+    publishedDateTime: 2024-02-12T19:42:00Z
+    webUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 44
-  - title: "AI in Schools: Revolution or Risk for Black Students?"
-    excerpt: "By Joseph Williams Originally appeared in Word in Black Hailed as cutting-edge technology that will revolutionize teaching, next-generation artificial intelligence is coming to a classroom near you — if it"
-    publishedDateTime: 2024-02-13T22:00:00Z
-    webUrl: "https://dallasweekly.com/2024/02/ai-in-schools-revolution-or-risk-for-black-students/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/65ca57c06e2e190e71a392df?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 549
+        isCached: true
+  - title: "FTC Proposes Ban on Using AI Tools Impersonating Individuals"
+    excerpt: "The FTC said it was proposing a change to a rule that already bans impersonation of businesses or government agencies, which would extend the protections to all individuals."
+    publishedDateTime: 2024-02-15T19:55:00Z
+    webUrl: "https://www.wsj.com/articles/ftc-proposes-ban-on-using-ai-tools-impersonating-individuals-79bd6764"
     type: article
     provider:
-      name: The Dallas Weekly
-      domain: dallasweekly.com
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Wisconsin Assembly passes bills regulating AI use in elections and outlawing AI-produced child porn"
+    excerpt: "Wisconsin lawmakers have passed bills designed to regulate artificial intelligence, joining a growing number of states grappling with how to control the technology as November’s elections loom"
+    publishedDateTime: 2024-02-15T20:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/wisconsin-lawmakers-regulating-ai-elections-reduce-state-workforce-107261676"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-lawmakers-regulating-ai-elections-reduce-state-workforce-107261676"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-lawmakers-regulating-ai-elections-reduce-state-workforce-107261676"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 43
+    images:
+      - url: "https://s.abcnews.com/images/US/wirestory_d238df6f1c7bce4b8e7be7214c5266f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How financial institutions are using AI tools"
+    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
+    publishedDateTime: 2024-02-14T15:00:00Z
+    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
+    type: article
+    provider:
+      name: BUSINESSJOURNALISM
+      domain: businessjournalism.org
     quality: 39
     images:
-      - url: "https://dallasweekly.com/wp-content/uploads/2022/01/classroom-scaled.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
+        width: 1280
+        height: 714
         isCached: true
-  - title: "Aroostook educator says teachers need to learn how to use AI in schools"
-    excerpt: "Presque Isle schools Curriculum Director Jennifer Bourassa talked about AI’s potential uses and problems for educators during an SAD 1 board meeting this week, and ended with recommending teachers communicate with an AI entity known as ChatGPT to better understand how it works."
-    publishedDateTime: 2024-02-15T16:10:00Z
-    webUrl: "https://www.bangordailynews.com/2024/02/15/aroostook/aroostook-educator-lays-out-the-risks-and-rewards-of-using-ai-in-schools/"
+  - title: "Job seekers say they are using AI tools in the job hunt"
+    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
+    publishedDateTime: 2024-02-13T16:37:00Z
+    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 39
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
     images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2024/02/SH_JenniferBourassaChatGPT_021324-1-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "This Startup Aims to Make It Easier for Retailers to Create Their Own Custom AI Tools"
+    excerpt: "XGen AI, which came out of stealth mode this week, says that its technology has helped beta testers like Golden Goose and Sonos to increase conversion."
+    publishedDateTime: 2024-02-15T22:57:00Z
+    webUrl: "https://www.inc.com/rebecca-barker/this-startup-aims-to-make-it-easier-for-retailers-to-create-their-own-custom-ai-tools.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 32
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/xgen-product-search-inc_537447_i6dxja.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "qOjXXCe9ylKWb6WlMZnnL7mnzAuWPMzf6KegjFbB+gBwbiv8NiJNutMVsQRPXX8Ak48e8noXk25sd3Pwb/nnV8KclbDDGzkk5NJjMjLiphvkgR+302aNfbiMYHA304VPIXnlOlTCSZHlVYUe1IEXA2X0jlVxv32VT5hSexJfGLzNPr+vieEeAdn4/gQxt0oktSzzJTCDW/HBwd6U67SNOEuVWs++v2JzMAMNXd3pnJ9IFbwrHjacKTTL8+fJzOjV30O+QqSw659g5BQc7NJx1LcxCJPTjMYEFkhxiCrVOKEGMiC9XZpLAh7Jhxq1lGFuQbS3xyrMYOGIKutvCgPZ/8i/N9jJMhu70MIXrBbjFDdGM8xsKSQ+jvQ9qr0hLTw8e4qN3APLIrkAEJQBPSL6RnIgR8GEEriVkV0jPWrcJPV3Jo3lhxKU84GVjHeBAbPhFezNKrLulTNXUicNYjqQc+DtB632ftRYtIYY58MznSUzVlQe9hY9cJRL29lff/bQ/gKe2emzPMdJjdXUgf9noA==;RH/lI1aEyKn1Z9xF72xdjw=="

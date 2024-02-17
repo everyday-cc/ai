@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "BARREL ENERGY ANNOUNCES CREATION OF ARTIFICIAL INTELLIGENCE MINING CENTER"
-    excerpt: "Las Vegas, NV., Feb. 12, 2024 (GLOBE NEWSWIRE) -- Barrel Energy Inc., (OTC Markets: BRLL) (the “Company” or “BRLL”) is pleased to announce the creation of its AI Mining Center, Spectral AI Hyderabad, which represents an innovation in artificial intelligence (AI) directed spectral anomaly detection for exploration and environmental services."
-    publishedDateTime: 2024-02-12T15:57:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/barrel-energy-announces-creation-of-artificial-intelligence-mining-center-1033057718"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
     excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
     publishedDateTime: 2024-02-14T01:15:00Z
@@ -135,6 +126,20 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
+    publishedDateTime: 2024-02-13T23:31:00Z
+    webUrl: "https://insidehpc.com/2024/02/vast-data-and-runai-announce-ai-solution-with-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
+        width: 714
+        height: 422
         isCached: true
   - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
     excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
@@ -150,15 +155,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "As AI adoption in healthcare grows, Senate lawmakers weigh regulation, payment approaches"
-    excerpt: "Obermeyer has done extensive research on AI in healthcare and uncovered large-scale racial bias in algorithms used by healthcare organizations to make care decisions. These decisions could impact up to 150 million U.S. patients every year, he told lawmakers."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-adoption-healthcare-grows-senate-lawmakers-weigh-regulation-payment"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 25
   - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
     excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
     publishedDateTime: 2024-02-13T16:07:00Z

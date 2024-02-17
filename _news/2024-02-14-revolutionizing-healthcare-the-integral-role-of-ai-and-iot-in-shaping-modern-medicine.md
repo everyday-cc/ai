@@ -151,6 +151,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "The Role of “Fintech” in Healthcare in 2024"
+    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
+    publishedDateTime: 2024-02-17T15:56:00Z
+    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 41
+    images:
+      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
+        width: 646
+        height: 250
+        isCached: true
   - title: "How challenges in AI, cloud computing integration can be addressed"
     excerpt: "The various benefits of AI cloud computing integration outweigh the challenges. Though issues like data privacy, cost management, model training, talent shortage, and observability persist, solutions are available."
     publishedDateTime: 2024-02-14T02:30:00Z
@@ -193,15 +207,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "One Zero Bank Launches Groundbreaking GenAI-Powered Service Platform Integrated with AI21, Revolutionizing Customer Interaction"
-    excerpt: "Based on LLMs (Large Language Models), 'Ella' 2.0 showcases advancements in understanding and responding to customer queries and open questions in multiple languages. The platform, cultivated through extensive user training, delivers instantaneous responses, operates 24/7, and harnesses machine learning to tailor personalized financial services."
-    publishedDateTime: 2024-02-12T14:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960809.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
   - title: "Blameless Launches Revolutionary AI-Powered Incident Assistant Feature to Modernize IT Operations"
     excerpt: "Blameless, the foremost Incident Management solution and AI innovator, today unveiled a major enhancement to its platform with its groundbreaking AI-powered Incident Assistant feature launch. IncidentAssistant™ marks a significant advancement in enabling customers to seamlessly integrate Artificial Intelligence into their IT Operations strategy,"
     publishedDateTime: 2024-02-12T19:13:00Z

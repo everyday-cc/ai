@@ -25,114 +25,177 @@ images:
     isCached: true
 
 related:
-  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
-    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
-    publishedDateTime: 2024-02-12T13:35:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni."
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
+      name: ThePrint
+      domain: theprint.in
+    quality: 74
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
-        width: 4000
-        height: 2662
+      - url: "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
-    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
-    publishedDateTime: 2024-02-16T02:44:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
+  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
+    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
+    publishedDateTime: 2024-02-13T00:37:00Z
+    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 61
+      name: Thurrott
+      domain: thurrott.com
+    quality: 71
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
-        width: 1280
-        height: 680
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
+        width: 1066
+        height: 600
         isCached: true
-  - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
-    excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
-    publishedDateTime: 2024-02-13T17:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-amd-broadcom-among-biggest-beneficiaries-of-ai-explosion-to-400b-market-analysts-1033062540"
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
+        height: 900
+        isCached: true
+  - title: "The AI companions you can have conversations with"
+    excerpt: "Tech firms are now racing to release their own conversational AI companions. Google has Vertex AI Conversation, Microsoft has Azure AI, and there are now a host of start-ups in the sector. Meanwhile, Amazon is sticking with Alexa, but planning to add ..."
+    publishedDateTime: 2024-02-13T06:01:00Z
+    webUrl: "https://www.bbc.co.uk/news/business-68165762?at_medium=RSS&"
+    ampWebUrl: "https://www.bbc.co.uk/news/business-68165762.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68165762.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 59
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Hands-In-Gloves-Hold-Chip-Testing-Microe_0.jpeg"
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73BA/production/_132562692_prof1.jpg"
         width: 1024
-        height: 768
+        height: 576
         isCached: true
-  - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
-    excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
-    publishedDateTime: 2024-02-15T21:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-drives-nvidia-to-overtake-alphabet-in-market-value-1033073406"
+  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
+    publishedDateTime: 2024-02-13T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
-    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
-    publishedDateTime: 2024-02-16T19:33:00Z
-    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
-  - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
-    excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
-    publishedDateTime: 2024-02-15T12:29:00Z
-    webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/15/image/jpeg/zmdNHJGapezEozHxNrJjljcuS9lgnyoTBjNjNIEk.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
-    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
-    publishedDateTime: 2024-02-15T18:54:00Z
-    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 791
+        height: 627
         isCached: true
-  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
-    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
-    publishedDateTime: 2024-02-13T10:21:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
+  - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
+    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
+    publishedDateTime: 2024-02-14T05:43:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws/107680253"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Sonata Software collaboration with AWS on Gen AI"
+    excerpt: "Sonata Software collaboration with AWS on Gen AI - Sonata Software , a leader in Modernization Engineering, today announced the integration of Amazon Bedrock"
+    publishedDateTime: 2024-02-13T18:36:00Z
+    webUrl: "https://www.siliconindia.com/news/general/sonata-software-collaboration-with-aws-on-gen-ai-nid-227860-cid-1.html"
     type: article
     provider:
       name: SiliconIndia
       domain: siliconindia.com
-    quality: 34
-  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
-    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
+    quality: 54
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/438a7PGM.jpg"
+        width: 570
+        height: 367
+        isCached: true
+  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
+    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
+    publishedDateTime: 2024-02-14T01:15:00Z
+    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
     type: article
     provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 19
+      name: datanami.com
+      domain: datanami.com
+    quality: 38
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
+  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
+    publishedDateTime: 2024-02-13T16:07:00Z
+    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
+        width: 1100
+        height: 550
+        isCached: true
+  - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
+    excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
+    publishedDateTime: 2024-02-12T19:59:00Z
+    webUrl: "https://www.kioskmarketplace.com/news/eyefactive-announces-touchscreen-software-pcap-object-recognition-solutions/"
+    type: article
+    provider:
+      name: KIOSK marketplace
+      domain: kioskmarketplace.com
+    quality: 15
+  - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
+    excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
+    publishedDateTime: 2024-02-15T16:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
+  - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
+    excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
+    publishedDateTime: 2024-02-14T14:39:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962214.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "sfDjpswQ2D0d68zXX7MNI0h6eXk08YS4IRfE1gSa03n5u4vsSKfe4clFIGEZEJ3hKRKO5FIDCFjmLv454gbmnZTIVtH60ZfB9BMYrWUDGe3v2WzIgribI7e8WQM6d9esn6n/5UAL46tVxuvFkJ6JJJsL7ZUAotalmUxa6qSr3DTYA+bi5HsgTXPczj5046dRoOpevEVCp3L3lzUYUdaJqCfNQ2tXIVQMJYUTxd7Cq9obVNGwPyGCuY96OP6b1PQ0gO7wwoQf90dy6okkmf8eQe0XdNIVlbU73idFJNQP/biTen+BPiT9+6D3XacxjAMND1+u+3zG6Mso80wOdtNZdn4qj5FLRNUM7C8Cb25u0eEfaDHvmEbfcbMalM+f7psF1qMHqFay+7jo/QR32kfHTP6aKlxBKfPicQfID+2jd5Q5n/6MV6cCt+TWWXmODA0/vB/5mbty7gykGwuQk5GFKjDMzD5YcfrUnC5ePX9mbIYXgXIVwlRp8/ySoNsfUO+NkKx23O1My9yYyt1QR+D+7A==;9zcdU6Vs6SuNq3DfKupzqQ=="
 ---

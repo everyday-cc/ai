@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia's investment in SoundHound sends shares of the AI voice company soaring 55%"
-    excerpt: "Nvidia revealed a stake in the AI company in a new regulatory filing, as well as an investment in Arm, which went public last September."
-    publishedDateTime: 2024-02-15T14:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soundhound-stock-price-nvidia-investment-artificial-intelligence-ai-stock-market-rally-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
   - title: "What's Going On With SoundHound AI Stock?"
     excerpt: "SoundHound shares began surging shortly after the market close on Wednesday as traders circled a new 13-F filing from Nvidia in which the company disclosed a 1.73 million share stake in SoundHound."
     publishedDateTime: 2024-02-15T13:08:00Z

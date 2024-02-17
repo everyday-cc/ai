@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
+    excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
+    publishedDateTime: 2024-02-15T14:20:00Z
+    webUrl: "https://www.law.com/2024/02/15/protecting-technology-assisted-works-and-inventions-where-does-smart-technology-end-and-ai-begin/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 25
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2024/02/artificial_intelligence7_767.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "AI Technology: Pros and Cons as Shared by Experts"
     excerpt: "Some tech giants such as Netflix, Meta, and Amazon may now be offering around $900,000 for workers to develop AI models."
     publishedDateTime: 2024-02-13T10:19:00Z

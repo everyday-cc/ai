@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/wisconsin-lawmakers-re
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/wisconsin-lawmakers-regulating-ai-elections-reduce-state-workforce-107261676"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,100 @@ images:
     isCached: true
 
 related:
-  - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
-    excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
-    publishedDateTime: 2024-02-15T14:20:00Z
-    webUrl: "https://www.law.com/2024/02/15/protecting-technology-assisted-works-and-inventions-where-does-smart-technology-end-and-ai-begin/"
+  - title: "How Gong’s AI tools are increasing win rates for sales teams"
+    excerpt: "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates."
+    publishedDateTime: 2024-02-16T21:00:00Z
+    webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 25
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2024/02/artificial_intelligence7_767.jpg"
-        width: 767
-        height: 633
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Major companies are reportedly using this AI tool to track Slack and Teams messages from more than 3 million employees. Privacy experts are alarmed."
+    excerpt: "A startup claims its AI tool tracks employee messages on Slack and Teams to monitor risk. Experts aren't convinced."
+    publishedDateTime: 2024-02-12T19:42:00Z
+    webUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/major-companies-using-ai-to-track-slack-messages-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://i.insider.com/65ca57c06e2e190e71a392df?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 549
+        isCached: true
+  - title: "FTC Proposes Ban on Using AI Tools Impersonating Individuals"
+    excerpt: "The FTC said it was proposing a change to a rule that already bans impersonation of businesses or government agencies, which would extend the protections to all individuals."
+    publishedDateTime: 2024-02-15T19:55:00Z
+    webUrl: "https://www.wsj.com/articles/ftc-proposes-ban-on-using-ai-tools-impersonating-individuals-79bd6764"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "How financial institutions are using AI tools"
+    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
+    publishedDateTime: 2024-02-14T15:00:00Z
+    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
+    type: article
+    provider:
+      name: BUSINESSJOURNALISM
+      domain: businessjournalism.org
+    quality: 39
+    images:
+      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
+        width: 1280
+        height: 714
+        isCached: true
+  - title: "Ohio Releases AI Toolkit for Schools"
+    excerpt: "A new online resource for Ohio schools, compiled by the state, includes sections for parents, teachers and school districts with sample lessons, discussions about ethics, safety policies and other topics."
+    publishedDateTime: 2024-02-15T22:33:00Z
+    webUrl: "https://www.govtech.com/education/k-12/ohio-releases-ai-toolkit-for-schools"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 39
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/825e1fc/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F1a%2F7f%2Fa922bfc24da1b401e38fbd37da04%2Fai-handwriting.jpg"
+        width: 1440
+        height: 700
+        isCached: true
+  - title: "Job seekers say they are using AI tools in the job hunt"
+    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
+    publishedDateTime: 2024-02-13T16:37:00Z
+    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
+    type: article
+    provider:
+      name: HR Dive
+      domain: hrdive.com
+    quality: 37
+    images:
+      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "This Startup Aims to Make It Easier for Retailers to Create Their Own Custom AI Tools"
+    excerpt: "XGen AI, which came out of stealth mode this week, says that its technology has helped beta testers like Golden Goose and Sonos to increase conversion."
+    publishedDateTime: 2024-02-15T22:57:00Z
+    webUrl: "https://www.inc.com/rebecca-barker/this-startup-aims-to-make-it-easier-for-retailers-to-create-their-own-custom-ai-tools.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 32
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/xgen-product-search-inc_537447_i6dxja.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "x0zU8fzNV4eUzBWDp084wUelqB8QNq+8cUVjtBHqihdvgJ1fv6ANqNvPP39tdE0WSEdipsoMIlFuzkDE24EZZ9sLJeCDmLR3zPDYaS/utrqQkELQ7tdfJDlr7w6eYtlmKZ59VvP7Zh4W2L4emlrAXZaXeQxES1DcxZZIK31PWujYI1BJR0z6TI0hcxg7+OcV96epSJ6bl6BoKFwieSsUZjgbQ4P1qlQisSuUQl1+ccgieT30ntPVtLMXaaAsX+n7ajoYRFbT4oqwsNkrjLR9oVxoqRWSHoZNIc3Dq4HnE5BpQkLghTR+/SbLFoay3Gbf5bclkpCo1/u/EqJS9uUMYJPAp6JwQA3uKaNK0eoFl3I=;Eh/JCkD2qL9L1mSk0F17+Q=="

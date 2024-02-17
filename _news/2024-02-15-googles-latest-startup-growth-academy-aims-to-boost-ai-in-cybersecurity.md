@@ -54,15 +54,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "2024 Cybersecurity Trends: AI And What's Next"
-    excerpt: "Data privacy will continue to be an issue in the upcoming year. There is a significant need for sufficient IT hygiene in all industries, but budgets are still very tight."
-    publishedDateTime: 2024-02-12T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/2024-cybersecurity-trends-ai-and-whats-next/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Cybersecurity Threats: How To Fight AI With AI"
     excerpt: "There are also innovative startups using AI for cybersecurity in new ways. BioCatch, for example, uses ML to analyze human digital, physical and cognitive behavior. Its AI platform allows financial and other institutions to risk-score sessions—which often include transactions—when anomalies suggest account takeover or other kinds of fraud."
     publishedDateTime: 2024-02-14T13:30:00Z

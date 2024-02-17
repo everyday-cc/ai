@@ -97,36 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's AI growth is helping cloud business chip away at Amazon's lead"
-    excerpt: "Microsoft’s cloud is growing significantly faster than Amazon Web Services of late, thanks in part to its cozy OpenAI relationship."
-    publishedDateTime: 2024-02-12T13:30:00Z
-    webUrl: "https://www.nbcmiami.com/news/national-international/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/"
-    ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/microsofts-ai-growth-is-helping-cloud-business-chip-away-at-amazons-lead/3231678/?amp=1"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 89
-    images:
-      - url: "https://media.nbcmiami.com/2024/02/107371899-1707520970738-gettyimages-1928583536-DAVOS_WEF_2024.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Microsoft is bringing AI Super Resolution upscaling to Windows 11"
-    excerpt: "Believed to have been first spotted by Windows Insider and X user @PhantomOfEarth, the latest build includes a feature called \"Automatic Super Resolution\" that uses artificial"
-    publishedDateTime: 2024-02-12T13:54:00Z
-    webUrl: "https://www.techspot.com/news/101851-microsoft-bringing-ai-super-resolution-upscaling-windows-11.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-12-image-8.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "AMD’s Instinct MI300 series AI chips aim to redefine AI computing for Microsoft"
     excerpt: "In a bid to revolutionize the AI computing landscape, AMD is set to introduce its latest innovation, the Instinct MI300 series accelerator. Reports from Windows Report suggest that AMD is poised to supply this cutting-edge technology to Microsoft at a reduced price,"
     publishedDateTime: 2024-02-14T04:44:00Z
@@ -136,22 +106,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 77
-  - title: "How Microsoft's AI push is helping it close the gap on Amazon"
-    excerpt: "Discover how Microsoft's strategic focus on AI and cloud computing has enabled it to rapidly close the gap on Amazon. Learn about the growth of Microsoft Azure and its powerful AI solutions."
-    publishedDateTime: 2024-02-12T15:20:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/articleshow/107636221.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/microsofts-ai-push-closing-the-gap-on-amazon-latest-news/amp_articleshow/107636221.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107636221,width-1280,height-720,resizemode-4/107636221.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
     excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
     publishedDateTime: 2024-02-15T10:25:00Z

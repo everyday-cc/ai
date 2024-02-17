@@ -39,6 +39,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How to use Nvidia’s new Chat with RTX AI bot"
+    excerpt: "Nvidia has a local AI chatbot called Chat with RTX, allowing you to use AI completely free from the cloud. Here's how to use it."
+    publishedDateTime: 2024-02-17T15:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?resize=1200%2C630&p=1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nvidia holdings disclosure pumps up shares of small AI companies"
     excerpt: "Nvidia acquired its stake in biotech company Recursion more recently. Like TuSimple, Recursion went public in 2021, but Nvidia bought in two years later through what’s called a private investment in public equity (PIPE). Nvidia bought $50 million worth of shares in 2023 and now has an investment worth $76 million, according to its filing."
     publishedDateTime: 2024-02-15T16:53:00Z

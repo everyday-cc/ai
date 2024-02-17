@@ -58,20 +58,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Bring Human Values to AI"
-    excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://hbr.org/2024/03/bring-human-values-to-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2024/01/R2402C_BONASERA.png"
-        width: 2000
-        height: 1125
-        isCached: true
 
 secured: "p2IAqTfkRHSv2vsvCtlGsVR74EmTHKNE92B66Fq83or621o8i6oR96qgV8PZ7MuFualgNlIFklTLj0sBFjw1E7X3IgGno2fu9dEsZ6Ey7yZyWepyERyN2K6hoeSUDogzk21xzvwmqrK6Q9o794zswxtPayRb9K3RqBGx9tHqAiBiveXQLsX0Oh26HO9HMWG1jTuMG2NCotF9JqtQHzMLotRvH6k1JeNVPCd4+mSj2+ZieKv+e0vVg0XTFSBvEBokg5ZtJxFMcZYScSFyDPgpsfNJAPJdYJEGp9GQh7FG6KTuFnXc7LqCgDfgMERuftkjD+z7NSfbDEY2TxSxSgEtj5KucB0F7rNk8/lTmQzvwaU=;hk9FAVviCAtP0HMARjLckg=="
 ---

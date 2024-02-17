@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
         width: 2560
         height: 1440
-        isCached: true
-  - title: "Bring Human Values to AI"
-    excerpt: "When it launched GPT-4, in March 2023, OpenAI touted its superiority to its already impressive predecessor, saying the new version was better in terms of accuracy, reasoning ability, and test scores—all of which are AI-performance metrics that have been used for some time."
-    publishedDateTime: 2024-02-12T17:00:00Z
-    webUrl: "https://hbr.org/2024/03/bring-human-values-to-ai"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 37
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2024/01/R2402C_BONASERA.png"
-        width: 2000
-        height: 1125
         isCached: true
 
 secured: "lpwMSqvN1nb22yyJigD4KeNYHhl13fSY9cR2FN2ogydQw6eLC/uVjMUpadllCkM71uuMVkL7cArR9MgonP2czq40jkhu2tVCzgalCLFBqGpMjJ5NtCGR5rJTBjEicHr3/XUEJA+g8EAGiA5JccuIhrOASw10SW3V4SBSpW3B+9byp9UYbx+IuBdrjv4AydH9I4OQnCy5i9vzfr2o2oXsktCn+LoOlISO67/PF8TVRyvGPaXlv61O1WnzjcI24VzdxiNauRlJuwW1MXl65vSG+t0HtjqqksvYCOTrzNHQUKwOrCYRERbvvopBOvwIVHt62KUO46D7qeysXbHnsBz2yAyJIXQvnqsyaAr4RnF8SU8=;QKuCfgxJtAgOWhEmPIdHIQ=="

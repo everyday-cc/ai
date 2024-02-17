@@ -62,20 +62,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Ohio Releases AI Toolkit for Schools"
-    excerpt: "A new online resource for Ohio schools, compiled by the state, includes sections for parents, teachers and school districts with sample lessons, discussions about ethics, safety policies and other topics."
-    publishedDateTime: 2024-02-15T22:33:00Z
-    webUrl: "https://www.govtech.com/education/k-12/ohio-releases-ai-toolkit-for-schools"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 39
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/825e1fc/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F1a%2F7f%2Fa922bfc24da1b401e38fbd37da04%2Fai-handwriting.jpg"
-        width: 1440
-        height: 700
-        isCached: true
 
 secured: "RGGLMpFyS0JXVDTfept3/s3e6Iw6RKluiCXJmKjF5jWB8awlIxgBziFPqCQ/9uUbk8hJOolk85sPdrokMpemFqjFpLPa7KivjuGkxXsZuZKQAJPlx2EjrvfsHL5dlJdkXTxgs9s5YMDtginflLOJ/ifjFbb5GcIw/+WN7SOX3C7TAJZWbqZNXyU9hSxb15RAGaZX/e91iLTq2mJ4/A7pRzdmNkxlt+PrbZVdOSvLdyxpFgvVecgjhikGGq/glIdNKMpdlya/RAYckgkDT9TjgO8VHYGHoT7gnPqrIWU4cXk4dxi6uSPdf7paV8IHHwaifkPLmOASlzrpFrEdNLnHO7k1hpHJj8TBJHvhJnVAyWHal5uSAT+zje4nmO2VZeTMpUgrxKM/lwJNPGZxbXN8eF2snkC7sw/Db4cCA9pf/82Kg1ydRvuAk4xJ+dCJzUTBB8OKfyoplC+iXe6rEVTtT+ody/bNzJzKog3cgVzyxzba4G+ufaGvnMkgAFm7wfY7APmtNrEyVw9vhL2VoQKRTg==;iLrY/D/2FzAAnXnv+Lk5wA=="
 ---

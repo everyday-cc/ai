@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia launches Ada Generation GPU with 19.9B transistors"
-    excerpt: "Nvidia unveiled its RTX 2000 Ada Generation GPU, a graphics processing unit designed to meet the demands of AI-based design and visualization."
-    publishedDateTime: 2024-02-12T16:00:00Z
-    webUrl: "https://venturebeat.com/ai/nvidia-launches-ada-generation-gpu-with-19-9b-transistors/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/RTX-2000-Ada-Generation-GPU.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card"
     excerpt: "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit"
     publishedDateTime: 2024-02-13T02:22:00Z
@@ -50,20 +36,6 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg"
         width: 696
         height: 496
-        isCached: true
-  - title: "RTX 2000 Ada GPU meets AI visualisation demands"
-    excerpt: "To meet the increased demand for generative AI in embedded and edge applications, Nvidia has released the RTX 2000 Ada Generation GPU. According to the"
-    publishedDateTime: 2024-02-12T16:11:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/bus-systems-sbcs/rtx-2000-ada-gpu-meets-ai-visualisation-demands-2024-02/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/12154645/Nvdia-RTX-2000-Ada-Generation-GPU-cropped-scaled.jpg"
-        width: 2560
-        height: 2143
         isCached: true
   - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
     excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
@@ -93,15 +65,15 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "Nvidia debuts RTX 2000 Ada Generation GPU for AI-accelerated design workloads"
-    excerpt: "Nvidia Corp. is packing more powerful generative artificial intelligence processors into “compact workstations” with today’s launch of its new Nvidia RTX 2000 Ada Generation GPU, enabling users to run advanced AI applications on device."
-    publishedDateTime: 2024-02-12T16:06:00Z
-    webUrl: "https://siliconangle.com/2024/02/12/nvidia-debuts-powerful-rtx-2000-ada-generation-gpu-ai-accelerated-design-workloads/"
+  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
+    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
+    publishedDateTime: 2024-02-16T07:54:00Z
+    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 31
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 30
   - title: "NVIDIA Unveils $625 RTX 2000 Ada Generation GPU With A VRAM Boost"
     excerpt: "Hot on the heels of NVIDIA's Geforce RTX 40 Super series refresh, team green has launched yet another graphics card, though this one takes aim at professionals."
     publishedDateTime: 2024-02-13T13:21:00Z

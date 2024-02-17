@@ -235,20 +235,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How many healthcare employees use generative AI at work"
-    excerpt: "Healthcare workers are increasingly using generative artificial intelligence on the job, though the industry's adoption of the technology still lags beyond other sectors, a new study found. Forty percent of \"pink-collar\" healthcare employees, such as ..."
-    publishedDateTime: 2024-02-12T16:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/rankings-and-ratings/how-many-healthcare-employees-use-generative-ai-at-work.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "R.AI.SE Summit 2024: Enterprise Gateway to Generative AI’s Future"
     excerpt: "The R.AI.SE Summit, a global reunion of 1,500 global leaders and Generative AI pioneers, is set to take place on April 8th, 2024, at the prestigious Westin Paris Vendôme, Paris, France. The landmark conference will bring together the corporate world and the top artificial intelligence builders to share first-hand insights on using Generative AI to address essential business and societal challenges."
     publishedDateTime: 2024-02-14T14:19:00Z
@@ -370,6 +356,20 @@ related:
         width: 1529
         height: 1038
         isCached: true
+  - title: "More money, more new models for AI, while weak guidance plagues enterprise earnings"
+    excerpt: "Also late-breaking Friday: OpenAI completes deal that values the company at $80 billion, according to the New York Times. Venture capital may be in the doldrums in other areas of tech, but AI doesn’t seem to care about interest rates or profits."
+    publishedDateTime: 2024-02-17T00:18:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
+        isCached: true
   - title: "Aviz gives its enterprise SONiC offering an AI boost"
     excerpt: "“Customers can create a data lake with all of the normalized data they are familiar with – that’s data coming from any switch vendor, ASIC or network operating system, as well as data from AWS, Azure and GCP – and build AI-based applications to ..."
     publishedDateTime: 2024-02-14T00:00:00Z
@@ -424,15 +424,6 @@ related:
       name: Android Police
       domain: androidpolice.com
     quality: 11
-  - title: "Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy AI Infrastructure Solutions for the Data Center"
-    excerpt: "Cisco and NVIDIA are partnering on plans to deliver AI infrastructure solutions for the data center that are easy to deploy and manage, enabling the massive computing power that enterprises need to succeed in the AI era."
-    publishedDateTime: 2024-02-12T14:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Cisco-and-NVIDIA-to-Help-Enterprises-Quickly-and-Easily-Deploy-AI-Infrastructure-Solutions-for-the-Data-Center-162540.aspx"
-    type: article
-    provider:
-      name: dbta
-      domain: dbta.com
-    quality: 0
 
 secured: "6cwFM1y89vrAE6+zzYPFiTq44Fej+zEpZI/F6nQr4RwD2i4mt7a7yLY7c/ntm8A6L2MLZAw7k3mLuxSaSGp7X6m7xHJp5bpeQPvEg7J6j88O+HEmugNBban//Xg39ctPug76xjhlqyU6jxlGEzfMso9dGpxlasduCZWlhrbO/OMNJo/yJicg0Eq50DMUWk25Qt+wcHgPL93U7JgvwDP3X/4P/qgOdUF4XNW59et2+OpMVeCjglaHz/4/slCmX/FyXDbsSW7P1w9msYxyZw423VKtmVUN97YuDR7uYikQkY45EFdLuY5ySB+MesZsBolLIL2iGsrs4LGbZXqBTpo6tGvGsLA4/Msomig35lLKoiNgcbdKzoIhc3bB6fRP0jX2Zm47OnvinFaqXbfj3Rd6eJMrYP7yn7OksHhh9tpt+yFHtHM0mtVGyavGfS3eU470hTkyK6llLxOXMbjUWdtq4EAswZ+l1y28XrexyXGG584BqMqx2ql3Zl0xDcu9pi/T5eBTl/DXcmngaKQK+fJfPQ==;k9JFAejpDo9igyRtJGOm/A=="
 ---

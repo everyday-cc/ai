@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "7 customer experience trends in 2024"
-    excerpt: "Explore seven customer experience trends that can help business leaders elevate their companies and improve their CX strategies in 2024.\nThe post 7 customer experience trends in 2024 appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-12T16:48:29Z
-    webUrl: "https://www.ibm.com/blog/customer-experience-trends/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1155295707.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
   - title: "Customer service vs customer experience: Key differentiators"
     excerpt: "What is customer service vs customer experience? Here are the key differences, and why your business needs to excel at both.\nThe post Customer service vs customer experience: Key differentiators appeared first on IBM Blog.\n"
     publishedDateTime: 2024-02-16T18:00:00Z

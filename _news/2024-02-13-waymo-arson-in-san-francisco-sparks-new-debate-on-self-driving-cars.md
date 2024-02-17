@@ -46,19 +46,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WATCH: Angry Mob Lights Self-Driving Car On Fire In San Francisco"
-    excerpt: "Autonomous vehicles have become a fairly hot topic of discussion in recent years, and the fleet of cars Waymo is using to hone its technology on the"
-    publishedDateTime: 2024-02-12T14:10:00Z
-    webUrl: "https://brobible.com/culture/article/mob-attacks-torches-self-driving-waymo-car-san-francisco/"
+  - title: "San Francisco crowd sets self-driving car on fire"
+    excerpt: "Video shows a self-driving taxi burning in San Francisco on Feb. 10. The vehicle had its windows broken and a firework was thrown inside of it, officials said. (Video: Alex Ulanch via Storyful ..."
+    publishedDateTime: 2024-02-12T22:16:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2024/02/12/waymo-set-on-fire-san-francisco/"
     type: article
     provider:
-      name: BroBible
-      domain: brobible.com
+      name: The Washington Post
+      domain: washingtonpost.com
     quality: 24
     images:
-      - url: "https://brobible.com/wp-content/uploads/2024/02/waymo-self-driving-car.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-12-2024/t_0854f802dec64fd5ae274fc01c4bed8d_name_20240212_Self_Driving_Fire_00_01_00_27_Still016.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
     excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."

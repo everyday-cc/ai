@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI frenzy puts Nvidia briefly ahead of Amazon in market value"
-    excerpt: "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data."
-    publishedDateTime: 2024-02-12T13:35:00Z
-    webUrl: "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 87
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781"
-        width: 4000
-        height: 2662
-        isCached: true
   - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
     excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
     publishedDateTime: 2024-02-16T02:44:00Z
@@ -53,43 +37,40 @@ related:
         width: 1280
         height: 680
         isCached: true
-  - title: "Nvidia, AMD, Broadcom Among Biggest Beneficiaries Of AI Explosion To $400B Market: Analysts"
-    excerpt: "Mizuho predicts a market estimate of $400 billion for AI by 2027. One analyst said this company will likely win the AI race."
-    publishedDateTime: 2024-02-13T17:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-amd-broadcom-among-biggest-beneficiaries-of-ai-explosion-to-400b-market-analysts-1033062540"
+  - title: "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade"
+    excerpt: "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs."
+    publishedDateTime: 2024-02-15T08:54:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37151354"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Hands-In-Gloves-Hold-Chip-Testing-Microe_0.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop"
+        width: 864
+        height: 576
         isCached: true
-  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
-    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
-    publishedDateTime: 2024-02-16T19:33:00Z
-    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
+  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
+    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
+    publishedDateTime: 2024-02-17T15:26:00Z
+    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
     type: article
     provider:
       name: TechSpot
       domain: techspot.com
     quality: 45
-  - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
-    excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
-    publishedDateTime: 2024-02-15T12:29:00Z
-    webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
+  - title: "Nvidia's investment in SoundHound sends shares of the AI voice company soaring 55%"
+    excerpt: "Nvidia revealed a stake in the AI company in a new regulatory filing, as well as an investment in Arm, which went public last September."
+    publishedDateTime: 2024-02-15T14:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/soundhound-stock-price-nvidia-investment-artificial-intelligence-ai-stock-market-rally-2024-2"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/15/image/jpeg/zmdNHJGapezEozHxNrJjljcuS9lgnyoTBjNjNIEk.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
   - title: "Nvidia's investments in these AI companies sent their stocks soaring"
     excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
     publishedDateTime: 2024-02-15T18:54:00Z
@@ -104,20 +85,6 @@ related:
         width: 1200
         height: 791
         isCached: true
-  - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
-    excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
-    publishedDateTime: 2024-02-13T23:31:00Z
-    webUrl: "https://insidehpc.com/2024/02/vast-data-and-runai-announce-ai-solution-with-nvidia-accelerated-computing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
-        width: 714
-        height: 422
-        isCached: true
   - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
     excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
     publishedDateTime: 2024-02-13T10:21:00Z
@@ -127,15 +94,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 34
-  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
-    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 19
 
 secured: "66ce5Fxt/aLT0htrR3zt1AwnITrv4qZjaRmK54y5/DzQs47F0Oc++56kqUHbj+7u1+cMgfzyx8TYDhw6rx9m4ybFZ88oFox7k8jB6QCH5+RguUvdXu03Nha1AO7HROFlLHoQIE3+0L+Z3xsac+4l4/3mcMM6RuhjpTq3yPbeZv3breleO9YJWkTFMmsTPyRYXkAo4cEbwu5GZKgQzHO71aZDDqKpoNxCD1KjxYmO3P63FXHQgfYQISQCnO1IJHZPXX5Omi2eMdsA8HB4y/Yl6Optig5b+aQTLYGrXTsW7tsgd6/+5dALch3gU6Mwc01dz5sMFCGA1v+Nt9pq6mLVEgR/+uTY6WrlqqLvQFYESMg=;3NwppFNWDCcaVl0FNwF+dg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/maximizing-your-event-driven-architecture
 webUrl: "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/"
 type: article
 quality: 79
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 2400
     height: 1260
     isCached: true
+
+related:
+  - title: "Unleashing the Potential: Harnessing the Power of AI in Digital Marketing Strategies"
+    excerpt: "Introduction: In the ever-evolving landscape of digital marketing, staying ahead of the curve is not just an advantage but a necessity. One of the pivotal factors driving this evolution is the integration of Artificial Intelligence (AI) into digital marketing strategies."
+    publishedDateTime: 2024-02-12T17:20:00Z
+    webUrl: "https://techbullion.com/unleashing-the-potential-harnessing-the-power-of-ai-in-digital-marketing-strategies/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 49
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/Unleashing-the-Potential-Harnessing-the-Power-of-AI-in-Digital-Marketing-Strategies.jpg"
+        width: 650
+        height: 450
+        isCached: true
 
 secured: "XKHB4SVDyYWxuqpJCLqFHtSOpMmZK0ThOZaErwjqGl6csqrzAMNULQHix9OFA50uIlopxPnTOT+Hh95AD9iXTavXrEouVVR2rb+NAtsvtUD2skTB6UXsU+M8vTIkwIN8mekFUXY6l/tLeHIHmnwyiDc7zwgPHdgQlVhtKr6TjA3Xrvo1G1dh00Aq8WnvtqDIFSjbgM5V5y0wOMKtes3jAKWDHBTOMP9Xvm5U/1NdoSklhap+fiSRlttlXDB+qQYpMY6iU9/X3WlL5uWSkgfuyx2vT1GPo4DK3RwcvY1rAMUbwLwLz8vbMH5xZyVEXBc2ZVJI6o5XaJgoXoq5UFmcQGCHR3Ml3wI6ep6a+t2RcWw=;7szX7KhxaHwf65iElF10dQ=="
 ---

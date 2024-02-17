@@ -35,20 +35,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "How French Fintech Pennylane Reached Unicorn Status"
-    excerpt: "Pennylane, based in Paris, has been valued at more than US$1bn after raising US$43m from existing investors Sequoia Capital and DST Global at Series C"
-    publishedDateTime: 2024-02-12T16:29:00Z
-    webUrl: "https://fintechmagazine.com/tech-ai/french-fintech-pennylane-unicorn-status"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1200/236dcb444f9708c318a0ad650a0c1016:465deb789a1cef3d55b630eea63f0e35/arthur-waller.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Carbon acquires Nigerian fintech Vella Finance"
     excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and ... The digital bank is aiming to leverage Vella Finance’s AI-powered SME banking feature that helps users get actionable ..."
     publishedDateTime: 2024-02-14T00:00:00Z

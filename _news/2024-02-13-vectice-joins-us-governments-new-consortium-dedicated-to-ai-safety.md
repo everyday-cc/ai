@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new
 webUrl: "https://venturebeat.com/business/vectice-joins-u-s-governments-new-consortium-dedicated-to-ai-safety/"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
   - AI Ethics
   - Microsoft AI
-
-related:
-  - title: "University of Oklahoma Joins National Artificial Intelligence Safety Consortium"
-    excerpt: "The University of Oklahoma has joined a newly formed U.S. Artificial Intelligence Safety Institute Consortium led by the U.S. Department of Commerce's National Institute of Standards and Technology. This consortium aims to bring together the largest group of AI developers,"
-    publishedDateTime: 2024-02-12T16:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/12/9960946.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://mma.prnewswire.com/media/2338689/The_University_of_Oklahoma_has_joined_a_newly_formed_US_Artificial_Intelligence_Safety_Institute.jpg"
-        width: 400
-        height: 267
-        isCached: true
 
 secured: "SApLGrDgHdmfw/QGbjdTI6oBk90LZnQJMy3Dx06FMuorb7L6FpVjMCS3KxTGt01GebLr9aH7wCyeE0LB3GU1kS5f6NW5/wlTQISP5GMc9P/kvr/xUYbru4XC5Hh5UMO+Ri0TtylKPjOQo8WA6HPkMv7A2pwmDGtF/Ft28sxFTDfWTU20XzEz4lrtQe8mELWC2m3+6QiSUVd55ZOpBFpH5iodM4BM604+DRqtnT+xFz2uetEdW1WkvqYscdKJ6RcpubGYiKtcxVDRfpC57YIMfbFOJHfQjgACN6gOj5/tJPdsVFAsDMPlRbezRO4Ef1+bZzgRrKLcyKM5n1Fn1GSXsu2GCw5se08RrS9BdtzUPjs=;5C1eh5K0p8j64TA2DBJIkw=="
 ---
