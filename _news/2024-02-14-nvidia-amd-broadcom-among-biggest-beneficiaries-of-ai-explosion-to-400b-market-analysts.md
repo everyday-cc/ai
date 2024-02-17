@@ -133,20 +133,6 @@ related:
         width: 714
         height: 422
         isCached: true
-  - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
-    excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
-    publishedDateTime: 2024-02-12T04:55:00Z
-    webUrl: "https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 36
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hTqnRPDNbs8jT8x7QGNwbW-1200-80.jpg"
-        width: 536
-        height: 301
-        isCached: true
   - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
     excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
     publishedDateTime: 2024-02-13T10:21:00Z

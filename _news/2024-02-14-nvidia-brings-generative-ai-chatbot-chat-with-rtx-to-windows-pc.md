@@ -39,20 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
-    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
-    publishedDateTime: 2024-02-12T03:25:00Z
-    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
     excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
     publishedDateTime: 2024-02-15T22:17:00Z

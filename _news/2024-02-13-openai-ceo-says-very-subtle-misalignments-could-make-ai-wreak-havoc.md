@@ -8,7 +8,7 @@ webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalig
 ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"

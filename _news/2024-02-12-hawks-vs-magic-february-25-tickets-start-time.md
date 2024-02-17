@@ -92,20 +92,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
-    excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-12T04:20:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/02/25/green-bay-vs-youngstown-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blues vs. Maple Leafs February 13 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Mitchell Marner and Pavel Buchnevich are two of the best players to keep an eye on when the Toronto Maple Leafs meet the St. Louis Blues at Scotiabank Arena on Tuesday, February 13 at 7:00 PM ET. Robert Thomas is a top ..."
     publishedDateTime: 2024-02-12T22:23:00Z

@@ -43,20 +43,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Google Gemini vs ChatGPT: Which is the better and smarter AI chatbot?"
-    excerpt: "Google's chatbot promises to outperform the competition, but is that true in the real world? Find out in this Gemini vs ChatGPT comparison."
-    publishedDateTime: 2024-02-12T03:25:00Z
-    webUrl: "https://www.androidauthority.com/gemini-vs-chatgpt-3413420/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 84
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-app-AI-assistant-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’"
     excerpt: "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card."
     publishedDateTime: 2024-02-13T15:44:00Z

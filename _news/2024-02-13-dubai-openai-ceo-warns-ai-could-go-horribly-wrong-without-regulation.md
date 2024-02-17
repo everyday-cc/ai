@@ -75,7 +75,7 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 39
+    quality: 41
   - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
     excerpt: "DUBAI, United Arab Emirates (AP) — The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
     publishedDateTime: 2024-02-12T16:31:00Z

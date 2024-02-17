@@ -75,7 +75,7 @@ related:
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 39
+    quality: 41
   - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
     excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
     publishedDateTime: 2024-02-13T09:54:00Z

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Machine learning can predict eyes at risk for diabetic retinopathy progression"
+title: "Machine Learning Can Predict Eyes at Risk for Diabetic Retinopathy Progression"
 excerpt: "Automated machine learning models may help identify eyes at risk for diabetic retinopathy (DR) progression based on ultra-widefield retinal images, according to a study published online Feb. 8 in JAMA Ophthalmology."
-publishedDateTime: 2024-02-13T19:13:00Z
-originalUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
-webUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.html"
-ampWebUrl: "https://medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-machine-eyes-diabetic-retinopathy.amp"
+publishedDateTime: 2024-02-14T06:30:00Z
+originalUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
+webUrl: "https://www.physiciansweekly.com/machine-learning-can-predict-eyes-at-risk-for-diabetic-retinopathy-progression/"
 type: article
-quality: 55
-heat: 55
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Too Old to Operate
+  domain: physiciansweekly.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2024/machine-learning-can-p.jpg"
-    width: 1280
-    height: 784
+  - url: "https://cdn.shortpixel.ai/spai2/q_lossy+ret_img+to_webp/www.physiciansweekly.com/wp-content/uploads/2023/12/Liver-damage-Fatty-liver-Fibrosis-Cirrhosis-Liver-cancer-oncology.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
-secured: "hJBlqSEN++wtd6isRZ4PoKqtM9pYFin99nlIGFOm9UEvWn0D4Mx00buh9RLxAn00Gpg51JjVtWeHRJ0Q5/C8Qyo9JYk0NgXOyqKPPbFor/fnRoM2z9YqGD7szGOh3n8hDCIp+u//mDpVOGzWIVNeGyZS3SMQLg8fK3Bi3pWXoJwBTxBwR5N7Mm/fjRXL2w5J/XHouc82WFmoPjz2y1qsso/N+wM2dzCgabrAKLA+AqDLLzWnIwSo9RYylGzT3TFTMzYIiiTB1H1ZLRZYEiYGDh8Wt74j/8fY7Jk1P/6x78RD4lWXBR8cxcEwS/0F4EYNnjo82sUJlNG0ZoVQqhPaAX81azk+xlw++6j467gONz0=;iyj8VEaXcTm3DUqSNfjLWA=="
+secured: "UvJlTIcyToCET9PwUl7tTuuXJKRKSZGUVWjOFQjfC7bnWuHGkDWjQumvL9/kEa8GgHfzL5mDo85qaTNboltDWHHW7Qp34Rpn+LUTgUlp37JvYbzZMaMZ4K/7cmxJMRJCnEn4VQgfEMjIvqwJ81Col1Zf2S891bRcLu1p7aHNtRRHUiHUS5HYXYIF/sU5Fkpgafef0RiwtEWnwqJw1/dNKdHsr/b1uovM3yLbRn5kDKRPIZLGPCxuSzQd856R339FHSHflBU6Me9XNnDMjPcf4WLLK1AMte/Fa3FnS3pByLExSV8R9h38z5skVKbX+lqAqqnU+54N13WyKpDnnKbmqZv3i5pqvva+sWLdJ7KvBR8=;/BaPFwUc5hvKL6Kta6+JcA=="
 ---
 

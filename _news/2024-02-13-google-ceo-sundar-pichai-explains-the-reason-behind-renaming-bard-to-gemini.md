@@ -9,8 +9,8 @@ ampWebUrl: "https://www.timesnownews.com/technology-science/google-ceo-sundar-pi
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/google-ceo-sundar-pichai-explains-the-reason-behind-renaming-bard-to-gemini-article-107655236/amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: timesnownews
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why did Google rename Bard to Gemini? Sundar Pichai said ‘Really made sense to…’"
-    excerpt: "Google CEO Sundar Pichai revealed the reason behind renaming the Bard AI chatbot to Gemini, stating that it reflects Google's approach to building its AI models. The name change allows users to directly interact with the underlying Gemini model."
-    publishedDateTime: 2024-02-12T04:37:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to-11707709119623.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to/amp-11707709119623.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/why-did-google-rename-bard-to-gemini-sundar-pichai-said-really-made-sense-to/amp-11707709119623.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 54
-    images:
-      - url: "https://www.livemint.com/lm-img/img/2024/02/12/1600x900/GEMINI-AI-13_1707709895119_1707710256711.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Sundar Pichai: AI can strengthen cyber defences, not just break them down"
     excerpt: "The new FT Digital Edition: today’s FT, cover to cover on any device. This subscription does not include access to ft.com or the FT App."
     publishedDateTime: 2024-02-15T17:31:00Z

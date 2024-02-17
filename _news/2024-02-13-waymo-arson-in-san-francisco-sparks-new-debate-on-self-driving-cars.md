@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/san-francisc
 webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
+    excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
+    publishedDateTime: 2024-02-13T06:07:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Waymo self-driving taxi vandalized and set ablaze by San Francisco crowd"
     excerpt: "The attack took place at approximately 9 pm on Saturday, February 10th. The Waymo vehicle was navigating Jackson Street in Chinatown when it was surrounded by people."
     publishedDateTime: 2024-02-12T12:13:00Z

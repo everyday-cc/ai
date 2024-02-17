@@ -1,10 +1,10 @@
 ---
 category: news
 title: "This Overlooked AI Stock Pick Is Still Surprisingly Cheap"
-excerpt: "Charting, Price Performance, News & Related Contracts."
-publishedDateTime: 2024-02-09T15:19:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+excerpt: "Real-time index price for TSX Composite Index (TXCX), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+publishedDateTime: 2024-02-09T15:31:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/"
 type: article
 
 provider:
@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "tgCvQdrFvSl9T9mP/5w6MxIxDxdsklJHbXnER/uak5070nCYSg90SEgCDWRu1I7p6Y7RULSdcyCrJpK0xCtZ075cBNeh+s2qza3SzF+27YPLNgs4+PTakXJmHM4m/clSN1Ym+4YXC5s37R56UXJGG6MSYAKIIv78cZsuz71lWcAYtRBODIbjXfUuqDx94oTSRfqIlnoqVpn2BGjgOPZQFrQZnsrVrwLhG5x95YgkPOraxi4NSBOoHmsAXHEb9dOxHIUyLi5Wtdc67FkmPQ4bWdmVu4yLwiaihpdwQNLXlk5t4y0QDQrYOJDE37lOfE7Xae2VcSeh0UBIoy0YBROjAiG/arDRviHHOKwyLrqeYf0=;pNV9enp2fwy4w0fM1r4JmA=="
+images:
+  - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png"
+    width: 1875
+    height: 792
+    isCached: true
+
+secured: "DARuOFF+3HJFHBLmHZBIOpFKwIcWXjeys8TuTRd1b1Njh43CKyuWyVyiahHkpcTALmwHa4yWlM/d7CNHosxYXrmaYeuN5GemrmdJ95pZE4g1JA14qCns7xz7NVbvEWSCjNr3ffK4AzDeYTuj4gaKUlgvbfgSK6Rqo3O7Q7FH1/uYU8q/CNucbHguQPvPOxgUpAal4ckcsVwdrk6gLhXNsO1TjU/HiVUV69NY+vy2sV3R6j/EUpVIRstBggMdiRp/CSTmBdHkrPRv+Lmfqy0VOz9rZ14KZED5svqYEE2gKr09PE5k1Joc6pnuXxYSlq5K4vEv5Om9AXgthy1FJQsOU5RM7PzYZg4bhX/oTjTv1Xw=;xDe65Hlyrum832nWxVrhkA=="
 ---
 

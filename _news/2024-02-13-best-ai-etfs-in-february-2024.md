@@ -79,20 +79,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Green Bay vs. Youngstown State February 25 Tickets & Start Time"
-    excerpt: "Green Bay Phoenix vs. Youngstown State Penguins game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-12T04:20:00Z
-    webUrl: "https://www.wbay.com/sports/betting/2024/02/25/green-bay-vs-youngstown-state-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WBAY
-      domain: wbay.com
-    quality: 22
-    images:
-      - url: "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/v2/6J3IZANFSZJQLLZYO5VOG24QPA.jpg?auth=d19b43a6758ce69894dc6c589a070257e93b71c459978ab5d1a013b111f8f3b2&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hawks vs. Magic February 25 Tickets & Start Time"
     excerpt: "Southeast Division foes meet when the Atlanta Hawks (24-29) welcome in the Orlando Magic (29-24) at State Farm Arena, tipping off on Sunday, February 25, 2024 at 7:00 PM ET. It's the fourth matchup between the squads this year."
     publishedDateTime: 2024-02-12T12:18:00Z

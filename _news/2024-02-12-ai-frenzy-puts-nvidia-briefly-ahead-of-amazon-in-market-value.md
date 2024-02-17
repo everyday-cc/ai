@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ah
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html"
 type: article
 quality: 87
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -131,20 +131,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
         width: 714
         height: 422
-        isCached: true
-  - title: "As if it didn't dominate the AI market already, Nvidia is gearing up to go after the custom AI chip market"
-    excerpt: "But while its H100 and A100 families of mega processors generate the big bucks, there's an emerging demand for custom AI processing. According to a report from Reuters, Nvidia is putting together a new business unit focused on custom solutions, allowing customers access to its growing portfolio of intellectual property."
-    publishedDateTime: 2024-02-12T04:55:00Z
-    webUrl: "https://www.pcgamer.com/as-if-it-didnt-dominate-the-ai-market-already-nvidia-is-gearing-up-to-go-after-the-custom-ai-chip-market/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 36
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hTqnRPDNbs8jT8x7QGNwbW-1200-80.jpg"
-        width: 536
-        height: 301
         isCached: true
   - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
     excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
