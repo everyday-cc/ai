@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyf
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/the-rise-of-ai-boyfriends-why-chinese-women-are-opting-for-virtual-connections/amp_articleshow/107649314.cms"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
-    excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
-    publishedDateTime: 2024-02-12T18:49:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/08/AI-Artificial-Intelligence-©AFP-1K-01-e1693102717754.jpg"
-        width: 1024
-        height: 612
-        isCached: true
   - title: "'Better than real men': Young Chinese women turn to AI boyfriends"
     excerpt: "Users say they are driven by a desire for companionship because China's fast pace of life and urban isolation make loneliness an issue for many."
     publishedDateTime: 2024-02-13T06:53:00Z

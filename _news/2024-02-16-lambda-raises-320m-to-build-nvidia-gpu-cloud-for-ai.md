@@ -80,15 +80,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 19
-  - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
-    excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
-    publishedDateTime: 2024-02-12T18:03:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-launches-follow-up-gpu-to-rtx-a2000-for-workstations-edge-computers"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 14
 
 secured: "98dT5dTaPSmSaE4GnVuju9oDJdKoNpwT2KhQBUMzXtlTDktBa2+wPFli7FS3o+DLIwh8JATJPjqcaKSNT2Prm7VtugBAM0l5LJ+DTZSv6y68GMXJ2lgXf5+qhmmz/JkVm9lbPcJHH5fezGxfser2jpgCT16Tp/CWrJtUzaOPf3Ph3UwzflPutoOYMuhqCx/p4pZIYJcmKzcNNEGCwpRBDVtVh/3A2kKxKq5QD4NFOecReE/lToknlQmo3K4pjxgBbrrxqPGkr+vHmmIoZmqEHbyHlIV04NKyvKvslBwl0lY6fKS0rKi55rg+NykyYivblLyDTXlqlX86v5JVRSjeOlxF6MGs4hvGAKzxjXwGnHB6COMk6nWONxta7T8t7pFTIymQu0xbwznbLW6bRJMEevB/KtkPvo2v9/Mwl8iKk3DFftad84yN5phfFHEYnoRJmj7nz1rlAO2H+S8LQ73aBtQtnpfxctDc0oFHIUorGRGX99C1ph3ZF0ENnp9DbPtt5r0xoJSR2oX4cKD8/J5rKA==;CUXbFYquqA2/4dEopYu/Hg=="
 ---

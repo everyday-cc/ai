@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chinese-driverless-car-companies-sto
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bringing AI up to speed – autonomous auto racing promises safer driverless cars on the road"
+    excerpt: "Imagine that scene, but without the driver – the car alone, guided by the invisible hand of artificial intelligence ... autonomous vehicle technology as driverless cars begin to hit the streets."
+    publishedDateTime: 2024-02-14T13:24:00Z
+    webUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/575049/original/file-20240212-18-4epn1w.jpg?ixlib=rb-1.1.0&rect=217%2C307%2C1712%2C854&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Mob attacks driverless car in San Francisco"
     excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
     publishedDateTime: 2024-02-13T01:19:00Z

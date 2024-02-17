@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chi
 webUrl: "https://www.digitimes.com/news/a20240216PD204/sk-hynix-tsmc-ai-chip-alliance.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Digi Times
@@ -38,20 +38,6 @@ related:
       - url: "https://static.tweaktown.com/news/9/6/96135_98_tsmc-rumored-to-be-teaming-with-sk-hynix-on-next-gen-hbm-memory-for-ai-gpus_full.jpg"
         width: 1500
         height: 857
-        isCached: true
-  - title: "South Korea’s SK Hynix Going All-in on AI Memory"
-    excerpt: "SK Hynix, the world's second-largest memory chip maker, announced that it will become a total AI memory provider by 2024. The company will"
-    publishedDateTime: 2024-02-12T17:50:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/02/south-koreas-sk-hynix-going-all-in-on-ai-memory.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 41
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/02/Screen-Shot-2024-02-12-at-9.25.32-AM-1024x709.jpg"
-        width: 1024
-        height: 709
         isCached: true
 
 secured: "X06kbuuRY75pBf/QTkH8zgoJRO5Fs7oEhSScT1tIyTLMM9IencMoDVHu6LiYlNonOf4PKU26vUyLzi2b4mUlHGTmUbDWUmnLTO+CKl01kUYpduymU9c6VEiLbRt2GXI0R9FWesu43HkxsREcpG8jaJl6lhNT7lsWUQV/wiHn5WmS9tzdD5ocdSqNYCFrkAwKZE1qxL9U3mvaRdIRVZj/4QogTpvOEaEjF6D4QnbgLjVSjcY4shvSH2A65CsGO6bYVEOvMlsRyc3xYlRNxyYF9PBjmkXagY6p/1EEboWJEx0k4deauyrN7qxB/+SjiPeMgB6hTtxtxR3UncH4mHYquYTRs274XNY1GWwNs6lvd7AtNsW3OK55kt4tZgYL9SZY9br0vQpku8McjfA8gfbztqGsZBmVmvbY68zBaLjMVG4pl/m2KLyFC2obXiZDhSpW4eTi3SWIcwhjzP2cRw/z6CEldSiBumqvhHGYhlamj/123DD9OjLjKQ3f9+NIoruYMr3SojqdPDD7CY7TlSbWhA==;Jo3QdAcyOXSMgErs0+PrrQ=="

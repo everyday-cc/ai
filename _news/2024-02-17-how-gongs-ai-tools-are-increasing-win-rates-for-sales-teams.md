@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-16T21:00:00Z
 originalUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 type: article
-quality: 84
-heat: 154
+quality: 86
+heat: 156
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Sales
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all"
@@ -127,6 +128,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ghpa6fIta3tZpLPVflKGbYQZEVNKSH1PI5gUNMd9Mx2Mm3re7h0FQtPNjpnDPm2rGF6CHI64ErR5jYggKIOoV8YWrgUJJjU/obmWXc0dHM3UuND47YaBvXP37sNkzfHfiihgw+o00te6rPZ+w8k7yamZMQFkH5F0sAFUn6bTMH/rBVeU9iKxmubPijrv28Z9Y4WKnEaoI2hfBpBlqSCG0iHrMO0XdURcRawTQ2foZF0dGAHQj86cFJVs4Iewrp0d/iTPs/rOOtWVKEIww/baS94Jdq+kYqZqmtVm0kyAONlfQsaZI2rV0TftyFAbsbxnkk/pW1H5UoNbfhuWibENqI6gE9ZmidpSudU4v6e9BNg=;LmINMbfjtyozVLhBpZQtTw=="
+secured: "iBQqOM5nYY+Z4k7RVyZ7nuJx2bCJHNSPFO0Vrz83GHlWynANAKy5pMCqxozvktcbXE+AfZjobHGgnq+mEzZ65+4+/hd5LVZ/2k6Oo+vXvWQrfByrOatiOoX/Artzcme8KO9PVzEzwG5zHIn+xSDhMrGnehKbW6R0pyHWP3P4N1HdiPftVbriGIgl0OXgenfGhXTdi0gPgGzj03+N0bQQWXLZgUpL8+19nI1asRsoIJzRYVxbmtiEiSj69DBR2UjrYwFDuzSKolLivC2U8xbp/6qO0Js7t877+MMMoWwqgdWSdsN4U5WRQNJcRE6IHt9MkL2pdgqlHftgQJ84Vp+GP2nPG34n4+0hlEqpznNDG/GC/nHvLSOHCRjVrZ6XH1T4vsw1amupT4o7TpYzwNlg1nQPTv2KRR8ebxO2JqYwq5L+U4HhQxH3evSXQPI3mxAlJZ2M6WqAcahUaVNP0U9EQE9ZHxEBo8Zxz04obcj3LUsLtP4bdEhnjz+2MPKOuHohzaW2CIRbTV9C++3496xx/w==;Yy2hvuHEDFoqCzDbLipYUA=="
 ---
 

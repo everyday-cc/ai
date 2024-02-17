@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
 type: article
 quality: 96
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/04fc097/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe6b%2F45bf940c346f431c9be273b8942ab6eb%2Fe6b7a26d62644eeebc848a59b1eb55c8%2Fposter_906bccf9973d4e97bc21e778876d8908.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
         isCached: true
   - title: "3 Ways We're Already Using AI in Mental Health Care"
     excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."

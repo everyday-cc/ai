@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 webUrl: "https://www.ibm.com/blog/generative-ai-use-cases/"
 type: article
 quality: 99
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -326,20 +326,6 @@ related:
       - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1169108667_537270_rilaf0.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "How generative AI is a game-changer for communications in today’s workplace"
-    excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."
-    publishedDateTime: 2024-02-12T17:21:00Z
-    webUrl: "https://www.benefitspro.com/2024/02/12/how-generative-ai-is-a-game-changer-for-communications-in-todays-workplace/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 35
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2024/01/Artificial-Intelligence-Article-202401191252.jpg"
-        width: 620
-        height: 372
         isCached: true
   - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
     excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."

@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
   - title: "3 Ways We're Already Using AI in Mental Health Care"
     excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
     publishedDateTime: 2024-02-16T23:16:00Z

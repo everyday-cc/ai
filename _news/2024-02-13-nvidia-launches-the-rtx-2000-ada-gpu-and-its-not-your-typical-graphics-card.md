@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-laun
 webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -84,15 +84,6 @@ related:
       name: HotHardware
       domain: hothardware.com
     quality: 19
-  - title: "Nvidia Launches $625 Follow-Up To RTX A2000 GPU For Workstations, Edge Computers"
-    excerpt: "Nvidia has launched the RTX 2000 Ada as a follow-up to the affordable RTX A2000 GPU for workstations and edge computers."
-    publishedDateTime: 2024-02-12T18:03:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/2024/nvidia-launches-follow-up-gpu-to-rtx-a2000-for-workstations-edge-computers"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 14
 
 secured: "hwFP1CXaM25hhExWB6QLUW6jtjnjeLg6DfjOIWeh5lP6Ow8RMQao3Z53zV5rqn4y+k4ZjdI1VeilXYnaBXhNHNp14cACFsELv6xMAt46o0k00EijfgnEQ7fce56/AGuHvSJzbwiDZUSzoWdJXenzspTbA4T8+FcGhsFIjEXNa4CZqVTtVZcb3usV4uQkR2efbKWEhiCADrdaUyspFTKCGiZxpifXPYBXfqrRe2o98LImanzJSRput8xcVHy7w5JMCQwR3W8lb1QYqTUcou3fYaWsSoRoWlMnH09pDWgwxW+MYJ3CLJSlZLigYyCQD+XW3wLGaeY0jiWIlfHCvzsKse6MgzCEGGQ9NB3ERauF9YFz+CbvLcn+bbtWjeGsQC7kW1L0XmCeJp3Xa/cTzmLtS1bUH69PZSHiNhJvkgo7+C0QkHLCjxC4baAPqqEuRCjfHS//8ZrHgCKHlTja9Ume7HTvh89/irRIdOynbNadp8d0r3M03CATixi+ZygMkoQq9ODT3av0W7c810WZy2BmWw==;OQhkN+EQfPXfIOgItGEFEg=="
 ---

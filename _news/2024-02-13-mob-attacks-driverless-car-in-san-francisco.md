@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Bringing AI up to speed – autonomous auto racing promises safer driverless cars on the road"
+    excerpt: "Imagine that scene, but without the driver – the car alone, guided by the invisible hand of artificial intelligence ... autonomous vehicle technology as driverless cars begin to hit the streets."
+    publishedDateTime: 2024-02-14T13:24:00Z
+    webUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 44
+    images:
+      - url: "https://images.theconversation.com/files/575049/original/file-20240212-18-4epn1w.jpg?ixlib=rb-1.1.0&rect=217%2C307%2C1712%2C854&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "Ai2NGMwl1qOcV7upo516h1LgB5Zi7899txodMaGE28hOGTqfxg5jVOazpEATLdbX3m6K49RERnjY8RsZbQt3TqIVtyHTGt3QuHsaUShKG+nLhKzhKumAiiSA/jvrXpA7jXsZ2M65caWYnOYMZTVAxYuzvvLcozfqBeX4gqVWZaak8QHQTrn3zWSGIW6URVlQg0Tyf6O80pgrrPxhYT9igGyh6PLUYuJksxomZDbICrxfHTQmvk5k9zoEa9f98Lg2AMPuhwCEn8LuXaNEvnj7FllidfUFYsYGJOQvbPFtMtbc6D9SlINATay/Nmpe1sNCvyHUQttw5q0zhEAgEAlDYuDtP8a8vVDUZG7vI/YMlSY=;q7b8R90H2W8MsZIw6iUexA=="
 ---

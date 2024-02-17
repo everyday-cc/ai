@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "‘Better than a real man’: young Chinese women turn to AI boyfriends"
-    excerpt: "Her \"boyfriend\" is a chatbot on an app called \"Glow\", an artificial intelligence platform created by Shanghai start-up MiniMax."
-    publishedDateTime: 2024-02-12T18:49:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/08/AI-Artificial-Intelligence-©AFP-1K-01-e1693102717754.jpg"
-        width: 1024
-        height: 612
-        isCached: true
   - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
     excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
     publishedDateTime: 2024-02-17T00:00:00Z

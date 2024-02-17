@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-17-how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams.md",
+      "title": "How Gong’s AI tools are increasing win rates for sales teams",
+      "excerpt": "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
+      "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
       "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
       "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
@@ -1352,58 +1405,6 @@
         "name": "Times Higher Education",
         "domain": "timeshighereducation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-samsung-galaxy-s24-ultra-review-all-that-and-ai.md",
-      "title": "Samsung Galaxy S24 Ultra review: all that and AI",
-      "excerpt": "The Galaxy S24 Ultra is a hell of a phone. As always, Samsung has jammed it full of more high-end hardware than you can shake an S Pen at, and this year it’s also packed with cutting-edge AI features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
-      "originalUrl": "https://www.theverge.com/24053907/samsung-galaxy-s24-ultra-review-ai-screen-camera-battery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/g6jxrdE1W2bQalbFkO26ypj5F-Y=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25253489/DSC06508.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

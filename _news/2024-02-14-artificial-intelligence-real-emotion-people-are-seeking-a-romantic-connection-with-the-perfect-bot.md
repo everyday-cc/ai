@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot"
+    excerpt: "An AI avatar generated on Luka Inc.’s Replika mobile phone app ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these aspects of what it ..."
+    publishedDateTime: 2024-02-17T00:00:00Z
+    webUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot"
+    ampWebUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
+    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
+    type: article
+    provider:
+      name: The Times Leader
+      domain: timesleader.com
+    quality: 44
+    images:
+      - url: "https://s24526.pcdn.co/wp-content/uploads/2024/02/130388284_web1_130388284-089914121c3045ecaeb300c2e9d2eac7.jpg.optimal.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "People find romance with AI"
     excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
     publishedDateTime: 2024-02-17T06:05:00Z
@@ -38,34 +54,6 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "AI and dating: Survey examines how people are finding love with the help of artificial intelligence"
-    excerpt: "It seems AI has made its way into the dating realm, helping people find their matches online.A survey conducted by Hearst-owned Cosmopolitan magazine in partnership with Bumble included responses from 5,"
-    publishedDateTime: 2024-02-13T19:43:00Z
-    webUrl: "https://www.nbc-2.com/article/ai-and-dating-survey-examines-how-people-are-finding-love-with-the-help-of-artificial-intelligence/46772068"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 38
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-spring2024-issuepages-ai-dating-page-1-65cbd1aebfda2.jpg?crop=1.00xw:0.804xh;0,0.163xh&resize=1200:*"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "AI-generated girlfriend helps ease loneliness of man with disability and millions more"
-    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://thegrio.com/2024/02/14/ai-generated-girlfriend-helps-ease-loneliness-of-man-with-disability-and-millions-more/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 31
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2024/02/AdobeStock_624701332.jpeg?resize=428,285"
-        width: 428
-        height: 285
         isCached: true
   - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
     excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"

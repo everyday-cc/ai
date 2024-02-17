@@ -7,7 +7,7 @@ originalUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-d
 webUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning solution to transform ore sorting technology"
-    excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
-    publishedDateTime: 2024-02-14T13:36:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/deep-learning-solution-to-transform-ore-sorting-technology-2024-02-14"
+  - title: "NLP Evolution: Changes Coming To The Ways We Interact With Technology"
+    excerpt: "As NLP technology continues to evolve, experts expect it to play a role in everything from Web surfing to business automation (and much, much more)."
+    publishedDateTime: 2024-02-15T13:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/nlp-evolution-changes-coming-to-the-ways-we-interact-with-technology/"
     type: article
     provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "71dSfFk7FBT5sagQhsOPYfwucRR3lDDOX2Bai7oV2IXUzmmUxa37PL57xXobiMag97HnyG8QjPpThTQfLcg54MBrBaAga0M+2/piS1VUjBsor0Cnd2shxtHTroDdpJOZ4Z97lrk51E99Ri3Hn2YSgN7RoyJspH0i0mm8ZBzzGnZ702mhkRdbMeEPeCB3sO8hXlR2iQ19DslbiCEJ4WnECLvIfeQB4ELg0fFDHar6uKbGF43kJVdu0ZCoCO8fds7SjI3255dW6Ki/otXUz8JFB5dsUxPPaxEYIiGLlVuTVlWbCNAAkd9cO+86Fvh9qOTHj7jEzYvboZTf658rFEU1wLBMWguudTpyRG3V7NemITskQU1j9mpZlVUtojpMczTDnuyILmKfprI4iS4ke+fK/TqXIztNU5hs1zCT02d/nKVXoZ6qXhKl9E8OtQKUVpcmqoOIxG6M57SfWJr4d4RY4cqRSIKPKDapDzMH/i+2Rh9tvcfsUHQCB0ZwuAdUhBXjKBhK74AHso/3ofbTX1A6Hw==;g0HwnTl2ttKqum8assmErw=="
 ---

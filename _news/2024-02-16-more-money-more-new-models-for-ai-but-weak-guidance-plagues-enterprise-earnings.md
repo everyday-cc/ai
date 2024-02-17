@@ -338,20 +338,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How generative AI is a game-changer for communications in today’s workplace"
-    excerpt: "Generative AI can work behind the scenes providing personalized coaching communications and ensure that interactions are smoother, inclusive, and, ultimately, more effective."
-    publishedDateTime: 2024-02-12T17:21:00Z
-    webUrl: "https://www.benefitspro.com/2024/02/12/how-generative-ai-is-a-game-changer-for-communications-in-todays-workplace/"
-    type: article
-    provider:
-      name: Benefits Pro
-      domain: benefitspro.com
-    quality: 35
-    images:
-      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2024/01/Artificial-Intelligence-Article-202401191252.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "More money, more new models for AI, while weak guidance plagues enterprise earnings"
     excerpt: "Also late-breaking Friday: OpenAI completes deal that values the company at $80 billion, according to the New York Times. Venture capital may be in the doldrums in other areas of tech, but AI doesn’t seem to care about interest rates or profits."
     publishedDateTime: 2024-02-17T00:18:00Z

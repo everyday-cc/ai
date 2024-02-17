@@ -102,6 +102,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
   - title: "3 Ways We're Already Using AI in Mental Health Care"
     excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
     publishedDateTime: 2024-02-16T23:16:00Z
@@ -214,6 +230,6 @@ related:
       domain: tmcnet.com
     quality: 6
 
-secured: "X5ux79ZOQ8lqtgZQ2nXvVk5VCeUeS1uNmkTsrctsz/cv9t2R96UwE2zhlDlDkggY0cU+gqxFubo6JuK4YeEaFohccgd+suEau8NKS24VXQ4FaIfA5eZLvpaUWvszQuB/PrLzQZp9/IkZqTaM2nuTfP7bb8WkGnj0k94bzL2En3sUj54rWByjbxn8W422fjzgQvRPTk2QgvaxBbPhMubgH6gyqqofH78vpqCVsn5LX7tF4AJtZsLnuC0so9zl/9sHhVFmqRVjS/Cxlkz2F/mPtyXBi05i0ZrFhZd1WTKBFM1UBWp8KqGFDipCnsMSjsLD6eJIxUtCGFP/xyur7YYk83tFRMtN0FaIX3+kALYJC68=;cULNX98J0dk/44j48Qez5A=="
+secured: "3ywYE+gCdyMa+2mhqWosRax+YkSSR9q7U0XzVQDhnfGCmY5VRzdekDiDQeF6wjZ5PCCU+FTPRFVvC47uZbIE2NoltWFhYDAqABBW0Q594cXR/VoTLKBuyuhxk/X0PkEeQ+h4yhylA+HPFhLLO7KsM8giehK7rehoxPKy8b1rc2JMrxcf7lG2B1qeD9TY1zqeMIzCsgVa1Q3SrVadQgrgHBM3k7lNvOeOz955kMQXM420V8jSyWwpdvtQlnEvl7ciVt2LhXHhSL73fwRLT1PC/2bWu2Ne7Htoiakpuz+TKuckFfOmKrXdqHwVdhTTs/NqXQ1N43Fp+PzRlLcMoqlB5fqeqA7msx4tzegaWyRLsyqR+Tp4IpITewJ0MSOpDT7E/lCT8cJNGqkNF9FIXBSLOG4l9aIyYMaVHRa7kJU/P+O9RmpLFWgppNlD5cYoMSUaCx1y/qDXA7FZUJ7KeYCygHEiTVGkB5Gy8Mef9xFK6bjm4J9bVmejJtBnGMeQ27cx55Om2JvgN/tD25+wk8zwuw==;aTkLHSnAjirndJEkJKJSIQ=="
 ---
 
