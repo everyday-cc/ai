@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgp
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -52,22 +52,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-107639040,width-1280,height-720,resizemode-4/107639040.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Google Rolls Out Gemini to Replace Bard Chatbot"
-    excerpt: "Google has replaced its artificial intelligence (AI) chatbot platform Bard to Gemini, making it the tech company's most advanced AI model family."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.viva.co.id/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
-    ampWebUrl: "https://www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
-    cdnAmpWebUrl: "https://www-viva-co-id.cdn.ampproject.org/c/s/www.viva.co.id/amp/english/1686544-google-rolls-out-gemini-to-replace-bard-chatbot"
-    type: article
-    provider:
-      name: viva
-      domain: viva.co.id
-    quality: 44
-    images:
-      - url: "https://thumb.viva.co.id/media/frontend/thumbs3/2023/12/08/6572a07ba12f5-google-rilis-gemini-ai_665_374.jpg"
-        width: 665
-        height: 374
         isCached: true
   - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
     excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."

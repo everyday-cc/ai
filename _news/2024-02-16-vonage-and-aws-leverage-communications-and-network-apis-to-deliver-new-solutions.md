@@ -1,28 +1,22 @@
 ---
 category: news
-title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
-excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
-publishedDateTime: 2024-02-13T16:07:00Z
-originalUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
-webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
+excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
+publishedDateTime: 2024-02-15T16:28:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
 type: article
-quality: 16
+quality: 14
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - AWS AI
   - AI
-
-images:
-  - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
-    width: 1100
-    height: 550
-    isCached: true
 
 related:
   - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
@@ -157,6 +151,20 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 25
+  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
+    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
+    publishedDateTime: 2024-02-13T16:07:00Z
+    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 16
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
+        width: 1100
+        height: 550
+        isCached: true
   - title: "Eyefactive announces touchscreen, software, PCAP, object recognition solutions"
     excerpt: "Hamburg, Germany-based digital signage and software solutions provider eyefactive GmbH has announced the debut of touchscreen, software and object recognition solutions as part of its product announcements at ISE 2024 in Barcelona,"
     publishedDateTime: 2024-02-12T19:59:00Z
@@ -166,15 +174,6 @@ related:
       name: KIOSK marketplace
       domain: kioskmarketplace.com
     quality: 15
-  - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
-    excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
-    publishedDateTime: 2024-02-15T16:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
   - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
     excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
     publishedDateTime: 2024-02-14T14:39:00Z
@@ -185,6 +184,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "bGsGtZ796j/QuSgxX1/T60Vt6T9sI5Pwl/+9jH8h5m5SwjnMinfZ2a+uOZ3RKNa7Vu27w4xR6YngIz0d9RABo2VmMM079O6i50TysqKOMpECp+rbJyMkhtiEVpzrXCCVNJ7HaATUnBIoSQS5p+Ok+cC7jrtEKvkhNCdyXNiAhE65W3SS5DYxg3F2edfzcOqZRdLF9J9GcLKrnp45veM49HmD6kgoPGl3srWSLGee8Ewcr88arDMF4czSSIeXOAaqZzKdz/T5VcO2LDC48EfjMA69N/73pii1nOMLL6B1QrAZ4BQIKx80gNtU3xT8Y3MOtqtF8pZa+5God7Ev+mrC/N6zFlnJPoMNEnuAmhwDkZx5/sUV3hTeGSGpnEF0hyhvKMvHa4TdFHFGm+lilaVZQwlcF3JZp/hi/JXFwAj+cjJwv4WY5FTakjJ4gRxY8DtD3ursfnXcnRSGr1eYOD2Sxsj/7TZgUqcGe+bF7As3ti5SwmSQn9jtnQaf1WCATe5CO8pYyrUN40/qYF49lMBM8A==;uJmplxZEzUUCQqKvPZDSNA=="
+secured: "EHgG3Esd0xwphdT6jvC/8CZFK8SsDF5gyTfrwdCxswL4zgbyAbqy8IA6rbS7UCZaF1BKL3sntalk/1oJAObalLhkyEcFf9PKQrtStHtViWlYkKRyzUGeIT7r1pVXmZv08sehWZ5gScOtYSZw2jB34UrC/unAo2PiESfaoegBuu2VGki70Pv9TZaoBuCqjmP0kRFeWEU8LwllTPOq7hrI5uI6gSWRtoK660d6dP0jgYDQLQE+zbRsaQMCWgusNP/KNXjQADJ83CSz5Jri91m776rDzyQ+s7ZIPzGNY/uui8nds5lf+cT4jsMLEU0TXS6UYjzJCtjPjZXAENj+d0pM7H57k0qo6T8PG11kwrDMrG7Vt1+w9put69MoDtt/Z2XUBlFNLi/+BbNw4VC0SqRdGjuBZpAneJ5VaUVV9bOnrgufU59+jcANayVYMr1uI/W/l1zO4z+nfwO4VDREV9lzORnzK0du3jXnD7vnJG8Vt/S/6vVrRR756q3oazUnLmV0xGjT9HpwJSjIZzDGnjcoZA==;drdF7K8GLwjbImJvWMkANA=="
 ---
 

@@ -46,20 +46,6 @@ related:
         width: 1406
         height: 900
         isCached: true
-  - title: "The Lithuanian cybersecurity start-up developing interactive, AI-driven solutions for SMEs"
-    excerpt: "Cyber Upgrade, a Lithuanian cybersecurity start-up helmed by former Paysolut co-founders, is developing interactive, AI-driven cybersecurity solutions for SMEs, with a focus on inclusivity and accessibility."
-    publishedDateTime: 2024-02-12T08:14:00Z
-    webUrl: "https://emerging-europe.com/made-in-emerging-europe/the-lithuanian-cybersecurity-start-up-developing-interactive-ai-driven-solutions-for-smes/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 29
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2024/02/adi-goldstein-eusvweosble-unsplash.jpg"
-        width: 1360
-        height: 908
-        isCached: true
   - title: "Dubai Future Foundation announces 10 global trends: Robots, $265bn cybersecurity threat, next-generation energy and the end of disease"
     excerpt: "Nanoscale printing, biomaterials, explainable AI (XAI) and next-gen climate technologies are also among the potentially world-changing megatrends identified in the second edition of Dubai Future Foundation’s annual report published on Monday."
     publishedDateTime: 2024-02-12T12:18:00Z

@@ -61,20 +61,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Don’t count on watermarking to prevent artificial intelligence deepfake election chaos"
-    excerpt: "Tagging artificial intelligence-generated images with invisible markers may not be the airtight solution the federal government wants."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2847496/ai-watermarking-identifying-deepfakes/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 29
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24016827535780.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
     excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
     publishedDateTime: 2024-02-16T20:04:00Z

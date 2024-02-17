@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Voice of Diversity: Vernacular.ai's Advancement in Local Language AI Accessibility"
-    excerpt: "In the evolving landscape of artificial intelligence (AI), one domain that's making significant strides is voice AI, specifically in making technology accessible across diverse linguistic landscapes."
-    publishedDateTime: 2024-02-14T07:19:00Z
-    webUrl: "https://yourstory.com/2024/02/voice-diversity-vernacularai-revolution"
+  - title: "Catholic church on artificial intelligence"
+    excerpt: "Artificial intelligence (AI ... and AI-driven medical diagnostics could improve healthcare access in underserved communities. b) Enhancing human capabilities: AI could assist humans in various fields, from scientific research to education."
+    publishedDateTime: 2024-02-17T00:00:00Z
+    webUrl: "https://www.monitor.co.ug/uganda/oped/letters/catholic-church-on-artificial-intelligence-4527522"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 33
+      name: Daily Monitor
+      domain: monitor.co.ug
+    quality: 39
     images:
-      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1323-1707847664576.jpg?fm=png&auto=format"
-        width: 1792
-        height: 1024
+      - url: "https://www.monitor.co.ug/resource/blob/4527526/8554b13adf82a68d03afae80731ddfa0/letter01pix-data.jpg"
+        width: 500
+        height: 335
         isCached: true
 
 secured: "EC6l+dVOeVXli7+bkHHgvQ6FvGmVY4Sd7x3hBHU1YP7WL9P57wEC6Y9OCnMy1F5hys+Hqina/EB7lePCj2Cw1ndhFXgUr2WbZC9uYzYbX9JCzqY8shKCvwipLa2WaGz2WYK7vUvOYTobNK0rkwyMEsSYA6yi3cSxlGSe2Sfxlbef4VIw1OfHOEdhOlSdbmn87smpy8DbZWMMxHwRBevCOwht3T1mr1GOUlJIg5QU6uO02+t+mBoAj5eGW+kl6VGq0FEogl89z3o9dVBOEQq3QIvjmycHFkHOZ4sn4kr583iavU8gdiB4/H0owszNj1KixeuJyP99EYqluWpx7BwifKs/HzgOT0Q7L3WIC9SB4UQ=;zI2CPrNpuS/v3lVqz7laYg=="

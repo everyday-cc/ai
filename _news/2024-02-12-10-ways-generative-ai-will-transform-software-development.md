@@ -39,20 +39,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 114
-  - title: "Artificial intelligence is transforming business life"
-    excerpt: "Interactive AI, including chatbots and intelligent assistants such as Siri, Cortana and Google Assistant, is widely adopted and frequently used by 41% of professionals. Popular examples of functional AI tools that include data analysis, cloud security, and breach prevention tools include IBM Watson, Salesforce Einstein, and Azure Machine Learning."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.bthaber.com/artificial-intelligence-is-transforming-business-life/"
-    type: article
-    provider:
-      name: bthaber.com
-      domain: bthaber.com
-    quality: 39
-    images:
-      - url: "https://www.bthaber.com/wp-content/uploads/2024/02/denizcakirgilsezen.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "uvZdBIRLEf1dAwbNxFRpghuiM2q0BzCxqayC/ANTCOQJx4mvXOAg6xqX4GVkznNp6hYX9Kr2klmM4XUjdyJt9xmqek/t1mZUW/NUWK3vFkEuLWwItv2iYhNg2/+mr7wkLJBiJWF3830tD0lTS5VgGvvFDuIMkJsiPDvzlvu2H8IcRvEzRN5AcdowM8LDU8AcJZtYGPYU0NrBIakDZTOEzYETDZNQxqn5HqdE1NFsWD5IxCvp5jIfSjcVcbQmFteF1q2nVl1A7cZ0NS2uFYLASaan3wyWFw52L5i4aIJMB7BPe7alCZg9RZ/FTmN3hrCADYH1IuwopOia7qAWzwGnLCZCD5u0lnLL1B8NR5ap/Ao=;EspT3vPhuzdM4WHvFhTcWQ=="
 ---

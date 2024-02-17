@@ -83,20 +83,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Watch Google's self-driving unit Waymo's car set ablaze in one of the most-destructive attack ever"
-    excerpt: "Read about the most destructive attack on a Waymo self-driving car in San Francisco. Witness accounts and details of the incident."
-    publishedDateTime: 2024-02-12T08:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/watch-googles-waymo-self-driving-car-set-ablaze-most-destructive-attack/articleshow_new/107623393.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 25
-    images:
-      - url: "https://static.toiimg.com/photo/107623393.cms"
-        width: 2200
-        height: 1238
-        isCached: true
   - title: "Self-driving taxi company recalls software after crashes in Phoenix"
     excerpt: "A driving technology company voluntarily recalled its self-driving car software after two of its robotaxis hit a towed vehicle in Phoenix at the end of last year. Waymo, a subsidiary of Google's parent company Alphabet,"
     publishedDateTime: 2024-02-14T23:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/artificial-intelligence-maps-the-contours
 webUrl: "https://scitechdaily.com/artificial-intelligence-maps-the-contours-of-climate-change-skepticism-in-america/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "America falls out of love with Tesla and electric vehicles"
+    excerpt: "NEWS ANALYSIS. The US automaker's shares have lost more than a quarter of their value since the start of the year. Tesla is not quite the futuristic company it used to be, dedicated to artificial intelligence and robotics."
+    publishedDateTime: 2024-02-17T01:23:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2024/02/17/america-falls-out-of-love-with-tesla-and-electric-vehicles_6533006_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2024/02/15/0/0/6000/4000/1440/960/60/0/18052cb_1708018442639-063-1958117451.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "GM’s Super Drive self-driving tech now covers over 750,000 miles of roads in North America"
     excerpt: "GM has expanded its Super Cruise hands-free driving experience to over 750,000 miles across the United States and Canada."
     publishedDateTime: 2024-02-15T20:45:00Z

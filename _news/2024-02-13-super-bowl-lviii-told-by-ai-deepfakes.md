@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851
 webUrl: "https://gizmodo.com/super-bowl-lviii-58-football-ai-deepfakes-1851249522"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Don’t count on watermarking to prevent artificial intelligence deepfake election chaos"
-    excerpt: "Tagging artificial intelligence-generated images with invisible markers may not be the airtight solution the federal government wants."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2847496/ai-watermarking-identifying-deepfakes/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 29
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP24016827535780.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
     excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."

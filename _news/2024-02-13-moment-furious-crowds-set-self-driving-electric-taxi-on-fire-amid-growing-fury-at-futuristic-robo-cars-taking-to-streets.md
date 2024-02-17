@@ -93,15 +93,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Using generative AI to improve existing content: Top tips + sample prompts"
-    excerpt: "Generative AI tools like ChatGPT can help you rewrite sections of old posts to bring them back to relevance while ensuring they meet current SEO standards. Start by feeding your old content into the AI tool. It will review what you have, looking at ..."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://searchengineland.com/generative-ai-improve-existing-content-437376"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 15
 
 secured: "PF0UGy6vJEFKCrhsFtv4R/8wICa/QH6Ip0ZOwfuQc8t29FAahiQWr/0pQXHd1Pt5EesLi6mJIhFwp9aHzgOcS3JTV/beqJM/q1KNrvoWWKbsDr9jZ+9jLbqESHk4qX1YL2qiU58/19pvube6M9WgPbWF/+opulPMEUJ0dRnB3AfY7yPE866AAKyf+CKmW3ABXWvenTibLCVf6RpkWgbTTskLwp+bhcOtFGL48LwH8sPv53femZIM5bnmSO8Rb2nop/nXfTi3u7SSOtDcmLh6k8BcfoGinwFwTMtwyd1SgwHIX39waRpsXTMP6BJAqOMP1bRSmwlHvNTGmhRwU/C2okd9dmCIHJks9Qez2Sv191Y7F7VoHmKawO4k3+PErD3oplt12cDHTnx/VwDMlf4q4uwMhrqWiUjKGxfYzivTtziLiVfXPvrxAlEyUjjKCpmNtzN1HRbQ7tU2A4b8yFGi22EUW0v+kk7/IOLU9MTHbTrYlVHA2D4xlSKBHHZFr6noBjLiYHp9HEm216jiqRn9Uw==;4QqgLBF/tYXBN+pMsc125g=="
 ---

@@ -26,24 +26,6 @@ images:
     height: 558
     isCached: true
 
-related:
-  - title: "Navigating the intersection of financial services and technology: Robert King, Acuity Knowledge Partners"
-    excerpt: "Acuity Knowledge Partners aims to assist clients in leveraging emerging and modern technologies to make better and faster decisions with deeper insights, ultimately enhancing operational efficiency an"
-    publishedDateTime: 2024-02-12T09:00:00Z
-    webUrl: "https://www.dqindia.com/interview/navigating-the-intersection-of-financial-services-and-technology-robert-king-acuity-knowledge-partners-3691143"
-    ampWebUrl: "https://www.dqindia.com/interview/navigating-the-intersection-of-financial-services-and-technology-robert-king-acuity-knowledge-partners-3691143"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/interview/navigating-the-intersection-of-financial-services-and-technology-robert-king-acuity-knowledge-partners-3691143"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 27
-    images:
-      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/8Ny5LpYLbjiNdGOeXV5z.jpg"
-        width: 1200
-        height: 480
-        isCached: true
-
 secured: "kmBMKbK+nbBGgGSMD0ywPlre7FN9FbjL8BfiN3Or5zcP+xA5fFFFwTJcx4GeY7Nl8cib3pb5KDiuCl2TC1RCIs+BGMnbLL0IDMPZL2/ogrA7Gxz0ylob6b6jnEmHbg9kas855gjXoGhXwyghWqNFzl7FzXFHN3u2KW8thLcFEbL5xuacxHK6tB1wYNMTs8dmKzHdqOAMROO03+e1pksZXFnLXsnp7bObLISZ/j7Hek9NPxKyTID1UBEsYwVp509qBRfQN8qh3Ju9gJxKhjtboNCKO6WHrTYVwJGA+MSvFqR5zvygHL65SIF5ewoOJwZ0Zi5fevGf416RwYIdAYZsNOyBqrCvhq+NURbxc6RXmzo=;s/TTbga9DWjOe2AMMJDQ+A=="
 ---
 

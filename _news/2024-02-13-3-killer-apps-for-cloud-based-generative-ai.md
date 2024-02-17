@@ -49,22 +49,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "Is Generative AI Overshadowing The Proven Workhorses Of Modern Tech?"
-    excerpt: "The rise of generative AI has indeed shifted the technological focus, overshadowing some of the core technologies that have been instrumental in our digital progress."
-    publishedDateTime: 2024-02-12T07:30:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/12/is-generative-ai-overshadowing-the-proven-workhorses-of-modern-tech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65c9c8af2a997a698a8ac4b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "The 2024 Buyer’s Guide To Industrial Generative AI"
     excerpt: "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science."
     publishedDateTime: 2024-02-15T14:30:00Z

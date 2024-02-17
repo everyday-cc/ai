@@ -227,15 +227,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "SA fintech develops AI-powered fintech apps"
-    excerpt: "South African fintech consultancy firm Elenjical Solutions (ES) has developed three proof-of-concept AI apps focusing on using proprietary information for rapid information retrieval, code generation,"
-    publishedDateTime: 2024-02-12T07:10:00Z
-    webUrl: "https://it-online.co.za/2024/02/12/sa-fintech-develops-ai-powered-fintech-apps/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Mass Fintech Hub adds members"
     excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
     publishedDateTime: 2024-02-13T15:33:00Z

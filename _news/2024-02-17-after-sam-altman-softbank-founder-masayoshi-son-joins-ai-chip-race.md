@@ -1,27 +1,29 @@
 ---
 category: news
-title: "After Sam Altman, Softbank Founder Masayoshi Son Joins AI Chip Race"
-excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion"
-publishedDateTime: 2024-02-17T05:14:00Z
-originalUrl: "https://menafn.com/1107863278/After-Sam-Altman-Softbank-Founder-Masayoshi-Son-Joins-AI-Chip-Race"
-webUrl: "https://menafn.com/1107863278/After-Sam-Altman-Softbank-Founder-Masayoshi-Son-Joins-AI-Chip-Race"
+title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
+excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
+publishedDateTime: 2024-02-17T06:41:00Z
+originalUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
+webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
+ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2024-02/17/I_9a3a1image_story.jpg"
-    width: 328
-    height: 400
+  - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -118,6 +120,6 @@ related:
       domain: geeky-gadgets.com
     quality: 11
 
-secured: "pRX9ky9u7cxG6Q/4bPGkcHGyfNmj36tFC+CaV21PwzgxCAYBvc4rG6mpRd7AgBDX4JOm+LgEwrysVI/Y/etEKagSOF3K8DaMK6NZUZcykTlExqH5b0Tey1Qhnvj4n6cvpd7P3mIpX/Cz951AdVP31yp+j7YqUbK+4BnK9+btEtsz4VLz2RJV7zqfqVOXXU1duCL10zB5aHth0R6TwpnkwWX2yiLwjJkrbpbWQfzDnglX9rb2rOgfBamFOx1SgusIQn7wpKUerhPAu12L6u8VFgaNzhnj5NoJY26MNmfSO8QpA7p+aQ8nbpCk74p5Oe2C2cSqEe+B8OYV8Ov7dADdoMZLetJqbblBhg1wUE5o6YI=;oiv2+bhhB3npwer/j1tqQA=="
+secured: "Gi6K2mLm5f7eugG0cbA3xOvJ37qACScyvdBy35+lT10Fw4P3ednhk3gQvKbXSSdBfQd83Bcjc7VcZQxpVoo8G5UtaMnY+d+SwNLt3DEjGbbDey+Bp4a0gMxIjewHc55zgalokQFYgTvVU0FsFoV9PMaYIPw+IRPDArLTBMFLRj2f0uvb67IfqwaTvcYk3+jz4yasGq+l+MvvZFLwnV6is7xDPGGalABNS4KLBBEySGq87QvqJifcVyvmMwKlfrYvs5zat9yhYzasQ2kxppTgOJCIve16mntSI59pADL8+eV2ArYqfN7REAZ00udYv47JhSTKyTGtcI35JddTmQaPw5IDc6x5TZ/x/k44f7upN1c=;fMq/TqrKj0QaKQk7xMZ1oQ=="
 ---
 

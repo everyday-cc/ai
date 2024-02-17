@@ -168,6 +168,15 @@ related:
       name: KIOSK marketplace
       domain: kioskmarketplace.com
     quality: 15
+  - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
+    excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
+    publishedDateTime: 2024-02-15T16:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
   - title: "Newsprint Expands AI-Powered News Curation Capabilities with Acquisition of French-Based Daily Nugt"
     excerpt: "Newsprint, an AI-powered media monitoring and news aggregation startup, today announced the acquisition of Daily Nugt ( the innovative AI newsletter platform founded by French entrepreneur Tibo Louis-Lucas."
     publishedDateTime: 2024-02-14T14:39:00Z

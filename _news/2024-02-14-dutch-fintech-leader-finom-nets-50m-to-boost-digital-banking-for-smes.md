@@ -217,15 +217,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "SA fintech develops AI-powered fintech apps"
-    excerpt: "South African fintech consultancy firm Elenjical Solutions (ES) has developed three proof-of-concept AI apps focusing on using proprietary information for rapid information retrieval, code generation,"
-    publishedDateTime: 2024-02-12T07:10:00Z
-    webUrl: "https://it-online.co.za/2024/02/12/sa-fintech-develops-ai-powered-fintech-apps/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
     excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
     publishedDateTime: 2024-02-16T11:49:00Z

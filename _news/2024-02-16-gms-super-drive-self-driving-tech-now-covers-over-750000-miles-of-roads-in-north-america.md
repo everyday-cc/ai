@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "America falls out of love with Tesla and electric vehicles"
+    excerpt: "NEWS ANALYSIS. The US automaker's shares have lost more than a quarter of their value since the start of the year. Tesla is not quite the futuristic company it used to be, dedicated to artificial intelligence and robotics."
+    publishedDateTime: 2024-02-17T01:23:00Z
+    webUrl: "https://www.lemonde.fr/en/economy/article/2024/02/17/america-falls-out-of-love-with-tesla-and-electric-vehicles_6533006_19.html"
+    type: article
+    provider:
+      name: Le Monde.fr
+      domain: lemonde.fr
+    quality: 39
+    images:
+      - url: "https://img.lemde.fr/2024/02/15/0/0/6000/4000/1440/960/60/0/18052cb_1708018442639-063-1958117451.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Artificial Intelligence Maps the Contours of Climate Change Skepticism in America"
     excerpt: "Nearly 15% of Americans deny climate change is real, according to an AI study. Public figures such as former President Donald Trump play an outsized role in influencing beliefs. Using social media data and artificial intelligence in a comprehensive national assessment,"
     publishedDateTime: 2024-02-15T04:32:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/cyber-risk/what-using-security-to-regu
 webUrl: "https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "We have to regulate Artificial Intelligence in the U.S."
-    excerpt: "There is no benefit to allow this to influence our elections, to destroy reputations, to promote misinformation."
-    publishedDateTime: 2024-02-12T08:05:00Z
-    webUrl: "https://www.northjersey.com/story/opinion/readers/2024/02/12/artificial-intelligence-regulation-must-happen/72521398007/"
-    type: article
-    provider:
-      name: NorthJersey.com
-      domain: northjersey.com
-    quality: 17
 
 secured: "VWVcsGazkGYI+//swo0CHZKWInzVeqaWM9aRfobpSE2G2X9zHfHUhOqoDNTQ8jUNQfwCd9GB5HLh0GQ/rTlaFtfjscPmxEtobF/Y2s4qruPX2FzbYLcWEwT8SmwJfjJmV/FnMJu8gqg2NgzhSMmTQVP84+w/Owwx22yhsfLJcUan9JLPbiuAegqsw4TWP83zC1TDbu6z+I3k/LHdIrwSf2zsn/JKf/doJK4gKo0DwO7xdy37rUjFIcAkNEUKHtZcF8YUoPf18h1OMaaZV5HvAZfc91Lry255QRNFFaWiNb+b2LjlPMjltWiLUAs41urvx+Ap79NOdDMtE3AstbaZX1F8KyhOB2/9yB5j0KhmAU0=;P7k7NG+ms8Zp2jrmiFV5KA=="
 ---

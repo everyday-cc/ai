@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using generative AI to improve existing content: Top tips + sample prompts"
-    excerpt: "Generative AI tools like ChatGPT can help you rewrite sections of old posts to bring them back to relevance while ensuring they meet current SEO standards. Start by feeding your old content into the AI tool. It will review what you have, looking at ..."
-    publishedDateTime: 2024-02-12T08:00:00Z
-    webUrl: "https://searchengineland.com/generative-ai-improve-existing-content-437376"
-    type: article
-    provider:
-      name: Search Engine Land
-      domain: searchengineland.com
-    quality: 15
   - title: "Moment furious crowds set self-driving electric taxi on FIRE amid growing fury at futuristic robo-cars taking to streets"
     excerpt: "THIS is the shocking moment a large crowd furiously sets a self-driving electric taxi on fire in the middle of the street. The crowd smashed the car to pieces before leaving it a burning wreckage"
     publishedDateTime: 2024-02-12T18:25:00Z
