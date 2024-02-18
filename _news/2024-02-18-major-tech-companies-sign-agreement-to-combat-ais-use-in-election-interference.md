@@ -51,6 +51,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
+    excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
+    publishedDateTime: 2024-02-18T16:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
+  - title: "Tech companies axe 34,000 jobs since start of year in pivot to AI"
+    excerpt: "Companies are reshuffling resources to invest in new areas such as generative AI while also showing shareholders a focus on cost discipline © FT montage/Getty Images ..."
+    publishedDateTime: 2024-02-18T16:06:00Z
+    webUrl: "https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
   - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
     excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
     publishedDateTime: 2024-02-16T20:04:00Z

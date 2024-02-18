@@ -59,22 +59,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How Google's Waymo car fire shows one of the biggest problems with self-driving cars"
-    excerpt: "The article discusses a recent incident in San Francisco where a Waymo self-driving car was attacked and set on fire during the Chinese New Year celebrations. The incident highlights the challenges faced by robotic cars in making judgment calls and the need for more regulation."
-    publishedDateTime: 2024-02-13T16:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/articleshow/107667661.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/how-googles-waymo-car-fire-reveals-a-major-challenge-for-self-driving-cars/amp_articleshow/107667661.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 52
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107667652,width-1280,height-720,resizemode-4/107667652.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Waymo recalls software after self-driving taxis crash in December"
     excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
     publishedDateTime: 2024-02-14T17:37:00Z

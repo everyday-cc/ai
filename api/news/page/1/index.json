@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
+      "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
+      "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d2341d5d5e9962346adb36/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/18/ethiopias-250-million-tech-expansion-in-bitcoin-and-ai/amp/",
+      "publishedDateTime": "2024-02-18T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-insights-from-the-2023-fintech-index.md",
+      "title": "Insights From The 2023 Fintech Index",
+      "excerpt": "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
+      "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1430,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/",
+      "publishedDateTime": "2024-02-18T15:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-startup-launches-ai-backed-education-health-and-edutainment-content-service.md",
       "title": "Startup launches AI-backed education, health, and edutainment content service",
       "excerpt": "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence.The start-up platform called Ascend, which is backed by the Accolade Group,",
@@ -42,58 +145,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-can-ai-porn-be-ethical.md",
-      "title": "Can AI porn be ethical?",
-      "excerpt": "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "publishedDateTime": "2024-02-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     },
     {
@@ -157,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -201,20 +252,20 @@
       ]
     },
     {
-      "path": "_news/2024-02-18-with-elections-in-at-least-83-countries-will-2024-be-the-year-of-ai-freak-out.md",
-      "title": "With elections in at least 83 countries, will 2024 be the year of AI freak-out?",
-      "excerpt": "Regulatory panic could do more harm than good. Rather than poor risk management today, rules should anticipate the greater risks that lie ahead.",
+      "path": "_news/2024-02-18-generative-urban-ai-is-here-are-cities-ready.md",
+      "title": "Generative Urban AI Is Here. Are Cities Ready?",
+      "excerpt": "Generative urban AI, an emerging and transformative technology poised to radically change urban planning, design, and city management.",
       "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/",
-      "originalUrl": "https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/",
+      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
+      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://images.indianexpress.com/2024/02/artificial-intelligence.jpg",
-          "width": 1600,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -223,14 +274,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/",
-      "publishedDateTime": "2024-02-18T06:38:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
+      "publishedDateTime": "2024-02-18T07:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -239,7 +299,59 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-british-business-needs-ai-workers-and-fintechs-are-no-different.md",
+      "title": "British Business Needs AI Workers And Fintechs Are No Different",
+      "excerpt": "Scott Galloway said \"you are not going to lose your job to AI, you are going to lose your job to someone who uses AI better than you do\" and this is true in fintech too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d0e9645eedf8898b975311/0x0.jpg?format=jpg&crop=2911,1636,x31,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "publishedDateTime": "2024-02-17T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -736,7 +848,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -944,7 +1056,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/16/animoca-brands-yat-siu-sees-nfts-as-a-way-to-protect-ownership-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -995,7 +1107,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1035,7 +1147,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1047,7 +1160,7 @@
       "originalUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1140,110 +1253,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
-      "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
-      "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf86014c1349603be73537/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1333,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
-      "publishedDateTime": "2024-02-16T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-supermicro-cooling-the-ai-boom.md",
-      "title": "Supermicro: Cooling The AI Boom",
-      "excerpt": "Supermicro’s stock has gone off the handle because anyone planning to run AI needs the sort of systems it produces to cool their country’s worth of electric space heaters down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
-      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf5c2b87d81eacee1f70c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
-      "publishedDateTime": "2024-02-16T14:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

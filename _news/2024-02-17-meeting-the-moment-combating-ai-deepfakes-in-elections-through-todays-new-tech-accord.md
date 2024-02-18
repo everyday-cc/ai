@@ -60,6 +60,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
+    excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
+    publishedDateTime: 2024-02-18T16:15:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
+  - title: "Tech companies axe 34,000 jobs since start of year in pivot to AI"
+    excerpt: "Companies are reshuffling resources to invest in new areas such as generative AI while also showing shareholders a focus on cost discipline © FT montage/Getty Images ..."
+    publishedDateTime: 2024-02-18T16:06:00Z
+    webUrl: "https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0?sharetype=gift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "306nTd+mQtEAxIy+SK/ZWEuQOYcvlw5tlzSI/3VPhJz7ALJ2gKR09rpYcPL5ul0rMokSdXiYFgqSDS3POMB8MgFufNRVOwt62yOMH1gy4ByunYDctWEkx/GTb/AdV3caBF3NrNFJ+s6Vp4dv1r4/REQSECkNcyX4MoR5psO4s0q9OHdK61EtT8UkA8vCWA07bq2xU6LjC7f3c2FyPXaflEyetM3/1wpBkLfS62TBDELzUV4Z0uAmN8uG/OSFck30W8QiRh/iVk5UwPlSNuO9SaXA4v9EmuQ3s42Szs+7xLdLtE6XiRvZKAzD8flxq296ymM9ZEX6jwIlMYmKohkE+q5PcX71qFODwOfW1dJM1R2QJRVFdhw2uvMsenHldIt6K86xy9slJW1rn8mdg8OJaiJTG+MjUlUmA9XTm/l0gNDynNzprfj+a0UU0tJK3g9wXVFU+P7WKdTSMtKWQPmkIRoJ8PD+4WgdKfgPKUqOJoXqYRaerdouCQdhlHjNO705WmngZUpT5rA94uesPKRk5Q==;I48joC8Ud9MjRjphgSKZ7Q=="
 ---

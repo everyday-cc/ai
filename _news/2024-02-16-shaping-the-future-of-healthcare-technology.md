@@ -131,22 +131,6 @@ related:
         width: 361
         height: 203
         isCached: true
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/ai-7111802_1280.jpg?itok=THAhA6gt"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
     excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
     publishedDateTime: 2024-02-13T17:18:00Z
@@ -203,6 +187,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "3 Ways We're Already Using AI in Mental Health Care"
+    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
+    publishedDateTime: 2024-02-16T23:16:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "OvaRhaUEWR6Z0QIFqTsueY3jKAfBZkUS5wYJt6g4p/XVXj1WN8lcpWajvToTugwzIwEd39xknUxmuef6qKfMQrIXPTpAhB0hyv09QyJ40N3ijhcifLeizbb/jcp0KP24avOoS6wbV8so0iBQfekyfVLZ8txHzAEd8EflQnGShzj2La7Na5cXU57unI6nvpxUsFtXBa01M2Jh8/ioYQmYogRnHK09UfNZxAF+d3LHF2HnqE2RhG+uNVF/c407aYowxHOdGMl6BlfR83aUIzBxlEniVJ0RarWXOPZL5y20/LGhDrdxAYozo/UiRggWiI9ETbJQbRO7udFiVNNDLBTQQe5IC/hZPfPnecrrbSvOisI=;b2YvbnKK5i27Zuteff3ktA=="
 ---

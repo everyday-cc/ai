@@ -48,6 +48,20 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "UPenn becomes first Ivy League school to offer Artificial Intelligence degree"
+    excerpt: "The Ivy League is taking a step into the future thanks to a new degree being offered by the University of Pennsylvania in Philadelphia."
+    publishedDateTime: 2024-02-14T17:19:00Z
+    webUrl: "https://www.aol.com/news/upenn-becomes-first-ivy-league-151914965.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KFUVO.UYvuMO7mRkGkYQDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/cdf0f5aebfe28c2f2df9022e2e1b104e"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Penn Engineering Launches First Ivy League Undergraduate Degree in Artificial Intelligence"
     excerpt: "The University of Pennsylvania School of Engineering and Applied Science has announced the launch of a Bachelor of Science in Engineering in Artificial Intelligence (AI) degree."
     publishedDateTime: 2024-02-15T18:18:00Z
@@ -86,6 +100,6 @@ related:
       domain: freep.com
     quality: 23
 
-secured: "Lp2O0MibgV1867VnPFVSVepOW11E5fWVlWeUabjly+dSDk+wqrzdDkIZlArEhIzX57M1HjQwaGo7gawArcVtEeiu8MKkLV5Z6W09LtHqV7rLTJK45XFIrqfQDzr4ZYJX1yAvt9MjAO7baGisU6i4K91B7riae65bpJ5CmQWibwcDOgZqoRblv+5LLug29KJmA0WsxhTpJYteHadr1X/8lrc2lruXi44G7GyGSBtRWqZrNyW8XBmyXdfTftLBfl3L/MVGpHnD7fZu9npizx0fx+sMzT4pGxDVJqQFFLtC8ksHQhnn+mhhSINj5g2pLpPgTPcRi+KSS1uBwXXD2qmiSwgn3Q0iYHdq282K64GaQlk=;I3sJzocYLSxbCu9yCzKF+A=="
+secured: "DcEkVo1g23xPGQfXNuRbC8QBAIO+iVtg/DFa0J+udH+ddlZchib2QBq09amJ3jSUjxqMw5+jOZS/Q+EjQ66+k4F7+Ava5yVKUuohXy0CU+orrk4V+5IMIy48kfzkmPswxsxPOmTJ09vPE+WYC2KycYl6IdSvsI1IKp3KWP72giJTRqiYb0QWX7Zfn49i21QEh497GTB7E5XJXE6Gs4WzWBqWYnWJN3sBagW86r7feH5hOviD0qB63EgG5wJbO/In3yx8uQhkHcATlOm79oagyhwGBNK2qyIMtm7wEL+hg1g1usz++9ZE8tTwOT7PwozSxPXTyR7wDMTOmCUAEB4IuB+TW70Waxk1LC91VYyQX/wha2WHMXPuqn4YOLsn0JScNGYvosGs08RZkDr8ENaNN13rAVhDu7ce9zQMHLyZbcgWocAZBclE7nuwb2VdTldmXrrZVXv0WN7/C2Sku8OMXNoRWOXuNfAHBfxZE/wmxkuAGXZvDxX9nWkFWiejpJZk4E8n8L/VnKqwQVVf3OyLYA==;AN6F0QAvkrdkHVImRACgKA=="
 ---
 

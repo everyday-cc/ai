@@ -47,20 +47,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "A New GPU and Now, a New AI Chatbot? Nvidia is on a Roll, Launches ‘Chat with RTX’"
-    excerpt: "The company has just come out with a new app called Chat with RTX, and it's pretty exciting for anyone with a newer Nvidia graphics card."
-    publishedDateTime: 2024-02-13T15:44:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-new-ai-chatbot-reveal/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 78
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1.jpg"
-        width: 1280
-        height: 680
-        isCached: true
   - title: "New AI-video Tool By Maker Of ChatGPT Worries Media Creators"
     excerpt: "A new artificial intelligence tool that promises to create short videos from simple text commands has raised concerns along with questions from artists and media professionals."
     publishedDateTime: 2024-02-17T01:30:00Z
@@ -90,20 +76,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?w=1200&strip=all"
         width: 1200
         height: 637
-        isCached: true
-  - title: "Hands On With Nvidia's Chat With RTX: Leverage Your GeForce Card for Local AI"
-    excerpt: "Got the yen to fashion your own personalized chatbot? Chat With RTX is an easy-to-use generative AI tool for your PC, using the GPU you may already own."
-    publishedDateTime: 2024-02-13T14:22:00Z
-    webUrl: "https://www.pcmag.com/news/hands-on-with-nvidias-chat-with-rtx-leverage-your-geforce-card-for-local"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 66
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01i8ZFXPENHode1ttcvLH0k-1.fit_lim.size_1200x630.v1707777510.png"
-        width: 726
-        height: 408
         isCached: true
   - title: "NVIDIA's Chat with RTX is an AI chatbot that runs offline on your personal files"
     excerpt: "NVIDIA has released Chat with RTX, an AI chatbot that is run locally on your PC and on your own files. Read on to know more!"
@@ -237,15 +209,6 @@ related:
         width: 1024
         height: 833
         isCached: true
-  - title: "Get Early Access to NVIDIA's Generative AI Chat With RTX"
-    excerpt: "Users can now have their own personalized chatbot that can run locally on their Windows PCs to experience generative AI today, powered and accelerated by TensorRT-LLM on RTX."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://worthplaying.com/article/2024/2/13/news/140802-get-early-access-to-nvidias-generative-ai-chat-with-rtx/"
-    type: article
-    provider:
-      name: Worth Playing
-      domain: worthplaying.com
-    quality: 19
 
 secured: "Dv/iCWK9B50/cpRX0jT1Z98ED1A2c1B81RHxXNXm1gLNPUBBkpluUV7//vgzhjsvZtC44DyJhRZSuk88UqPM/pp3xIvtrACNexA1JPs2sCXye5NCVfjmcpZ81nrXUVkMBK9ulJdZzw2JDrvU/ApRAGdIMNysfKGyET+cpTmnkT42tb47J4mCOiE8pbQTih0jyjrn/E69gLujq87N1kExXzgQBjG7ViHKvXLPsM/oCSbTpJtgCtyIPoBuZU4g+J/DQ8ZVoXS068uy5vnOMRVY5ltrjdAzP5KGL6nBCaMbsifQoesHD6hdZVXM9AjsWusGA45gfLT4abRn/+Z+MZ81lzi2PhQKdHP16Fokfxj87aBGMmod9gZHg18rm5hqhhPy3jvz5xVFkTYmtSxQQy9t280Saq9c1hg2zpoqBdalchslSDsJw6B7SiVTmG8rCHTttt2V2Od/KlG6P0q64H8qShp8rRh75B49nR4SmBJd5c1Yd49jotX4PUExC8hLqT0US7YQkZ+MsFQG2p341y9tUA==;2TGQh+ORda0fNjxmt51oLw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://tech.co/news/ai-replacing-jobs"
 webUrl: "https://tech.co/news/ai-replacing-jobs"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     height: 960
     isCached: true
 
-secured: "HlUNosSkJwhK8WV4sq6B9ZZqW6HPBGDu/F8Hmz8HuDRP/SDZV43CPPwAeS9NLBo2LnJog9mIxysKJhmbthQpztSGTKwiDbtfhHlO7cAS/OiyAyIWDcE7polX259K2UBfDYP8x8lJHgzzzRufzMarQF3BeYt6jTkbw7qoPKGHt0XwsS6ygX7j/pqWGMH0wozB5ySCZXaHIEfZcInBleFXKjF7dKycss52EF9oh/gBo9a28YCndhUx7Qhxgq1e19EbiAVlrvcxMiNvFL2+68L8QrzDqyrlMOzSIhFyB7gC70Vh7S/+La5VJ+xob36fAc+WKeOCHnKFgZYB1iMPiiLv2Yv3PHRxBmMgRN5fSZnASkI=;+XQObxDBcAlrhEjwscX75g=="
+related:
+  - title: "How Teachers Are Pondering the Ethics of AI"
+    excerpt: "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at"
+    publishedDateTime: 2024-02-13T21:07:00Z
+    webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
+    type: article
+    provider:
+      name: EdSurge
+      domain: edsurge.com
+    quality: 54
+    images:
+      - url: "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
+        width: 1024
+        height: 512
+        isCached: true
+  - title: "Can AI porn be ethical?"
+    excerpt: "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI"
+    publishedDateTime: 2024-02-18T11:00:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 34
+
+secured: "65p4lqOJxNLA7jON5t9M6iiWvLZpOteBfasYKRZxhe3Jkr3G2MnzEZ9iKBx4d0sObt/ZqSilxb0tFz7PfbSEM1O56M+Fu1KGLJ6XLnQc1PpcAqPqw+vw8xYjYkAPqv/K5TmxXwurnn509T4iSBA6F5NA3kT/RngS5TgprDvClFirHBSEbWcILo+Cx3jHQ4ExhUai3WLVkkUpS+jtQAjikRXm4I3h6ABwen2TBd9IocWk91PF8NVqMd5u1rZFjqUpNQXbuArVV5u43Y+V++xajbWb8bURQDlhkYWItwqC7GBkE7mYuyrjSQJJXiGTuD3KyaCxIV7rkI1uHHFUwZ7K6zOoD18RqCBgqv90rUU7wNfimgWJJF4hlZucFFzvthXK35i1C/DOVME76TNGIue3dw0GCyeM7fxYW2EXsr2ylTuCQ90bJA3zNRIeKyOtUBmaEjtLWaOd8/jXIorqMsCScL0tvo1x2/4IftHWP1ZwkcvxRivljO92AZfYHhhoTLtLfJbJeT46WJ7Ws78F8hcvoQ==;SBJMtMQUWpod0xhs8StZhQ=="
 ---
 

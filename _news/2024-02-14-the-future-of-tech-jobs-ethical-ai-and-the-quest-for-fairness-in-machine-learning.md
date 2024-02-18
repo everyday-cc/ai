@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2816540-the-future-o
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Rise Of AI-Enhanced Learning: Education For The Digital Age"
-    excerpt: "AI significantly enhances students' educational experiences by offering unprecedented, personalized support and innovative features. Here’s how."
-    publishedDateTime: 2024-02-13T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/the-rise-of-ai-enhanced-learning-education-for-the-digital-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "The Future of EdTech: Paul Showemimo’s Journey Integrating AI in Learning"
     excerpt: "EdTech – educational technology – is a rapidly growing field. In 2021, the worldwide market for EdTech was estimated at 115,022.22 million USD. It is projected to grow at a compound annual growth rate (CAGR) of 26."
     publishedDateTime: 2024-02-17T10:36:00Z

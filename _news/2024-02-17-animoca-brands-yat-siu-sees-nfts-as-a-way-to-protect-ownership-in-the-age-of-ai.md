@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/16/animoca-brands-yat-siu-sees-nfts-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/16/animoca-brands-yat-siu-sees-nfts-as-a-way-to-protect-ownership-in-the-age-of-ai/amp/"
 type: article
 quality: 82
-heat: 84
+heat: 82
 published: true
 
 provider:

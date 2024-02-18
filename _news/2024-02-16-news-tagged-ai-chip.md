@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Next Chapter of Artificial Intelligence"
-    excerpt: "Artificial intelligence (AI) has become the primary driver of the stock market surge in 2023, despite worries and anxieties on Capitol Hill about the technology’s unregulated status. The fear that it will turn us into prey for _Terminator_-style robots has faded,"
-    publishedDateTime: 2024-02-13T15:56:00Z
-    webUrl: "https://www.hudson.org/information-technology/next-chapter-artificial-intelligence-arthur-herman"
-    type: article
-    provider:
-      name: Hudson Institute
-      domain: hudson.org
-    quality: 41
-    images:
-      - url: "https://www.hudson.org/sites/default/files/2024-02/GettyImages-1430921659.jpg"
-        width: 5700
-        height: 3800
-        isCached: true
   - title: "Department of Justice announces new AI initiative"
     excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
     publishedDateTime: 2024-02-15T21:55:00Z

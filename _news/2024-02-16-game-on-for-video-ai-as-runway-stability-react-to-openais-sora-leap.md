@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -103,6 +103,29 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
+        isCached: true
+  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
+    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "EkEW6ZbJFMyaa/mA1bMl3flT1ZoWZHO9Y8KSSPM2Ph6M+WQJ3q4o2naY+1ASIfITXaIiQc4YwIN0B+PT2AQMWBu2INy/y4Dj/49zAXmADcCO/OSA65dL37qBQyjEEWlG1ZoC8aVdl9ZHvhFm78NHXGgOKT8OPK+5yM9LaEJzS4AMn8OEayIl6Wv+VqiDAjmD5a7WNYr0ZJ1MvBfuOqPzF8e+hDjEzeYVcGMhr0x4VwExKIt1Vf6ILPmchuAKz9Y1AeNzveMvbRfAil0Hy8WyruDvNAqK+MJI/C2k3NW2XUvq5XZJEzybwJDxaL4xP1R4yOs+3vRxEp0CngnL2cDq6kVQHQUVZvKqGpXtpoVxZCg=;v1CcnILEE3c6YCABoBP9Rg=="
 ---

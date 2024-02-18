@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "10 AI Tools For Australian Businesses In 2024"
+    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
+    publishedDateTime: 2024-02-14T03:07:00Z
+    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess"
+    excerpt: "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
     excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
     publishedDateTime: 2024-02-14T00:17:00Z
@@ -34,19 +62,19 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 46
-  - title: "Govt panel to consider restrictions on high-risk AI technology"
-    excerpt: "The government’s interim report recommended mandatory rules around the use of AI in settings “where harms could be difficult to reverse”, which could include compulsory testing, public transparency, and a certification process. Husic said the group had a diverse set of skills that would be needed to meet the task."
-    publishedDateTime: 2024-02-13T22:29:00Z
-    webUrl: "https://www.indaily.com.au/news/national/2024/02/14/govt-panel-to-consider-restrictions-on-high-risk-ai-technology"
+  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
+    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
+    publishedDateTime: 2024-02-16T15:33:00Z
+    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
     type: article
     provider:
-      name: indaily.com.au
-      domain: indaily.com.au
-    quality: 39
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://wp.indaily.com.au/wp-content/uploads/2024/02/custom-image-262.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
 
 secured: "iA3+g/9mChssMMX5nUmWPZBMMEqd1J8z/DKbe6/ZRfJUrb5h+GTIeotJObamQMChQ1gfeKpaOzHNtLdfVEjH4RErrW+oCVIpxUphx99zwkdkS6R5ZTIVZ7E52Fk2IUrYlce3kAGzunT/4ISk216HagGHqLbLQeR1Ro4UVo8t7x/9oAdq2zEj08kpVW59GRjgOMV2IoqOwzWU3bGCVLe+QulgDr9Ay2aE7Nok7oBnMCRecrXLEdozRDStuh0sXhG7rHGeLMRyz5z2zOXm347QXEL/XXX02/lujGuS4txjV2Hy44y4D+80+InUldcepvIaUKQxun9tsW/0iy+4iYCVxtigSTbb4SnIFYCFuu4Higs=;rZX5uAFa+r+dYGCfMKQ7sg=="

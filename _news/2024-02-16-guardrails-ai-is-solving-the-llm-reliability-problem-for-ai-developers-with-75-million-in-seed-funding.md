@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/guardrails-ai-is-s
 webUrl: "https://markets.businessinsider.com/news/stocks/guardrails-ai-is-solving-the-llm-reliability-problem-for-ai-developers-with-7-5-million-in-seed-funding-1033073087"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,31 @@ provider:
 topics:
   - Meta AI
   - AI
+
+related:
+  - title: "Kong Open Sources New AI Gateway to Help Developers Easily Build Multi-LLM Apps"
+    excerpt: "Kong Inc., a leading developer of cloud API technologies, today announced a suite of open-source AI plugins for Kong Gateway 3.6 that can turn any Kong Gateway deployment into an AI Gateway, offering unprecedented support for multi-Language Learning Models (LLMs) integration."
+    publishedDateTime: 2024-02-15T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2341020/Kong_Gateway.jpg"
+        width: 348
+        height: 400
+        isCached: true
+  - title: "Easily build full stack AI apps using Gradient"
+    excerpt: "Developers can sign up for an account and start using the accelerator blocks right away, taking advantage of the opportunity to enhance their projects with advanced AI capabilities. For engineers and developers eager to push the boundaries of AI in their ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-full-stack-ai-apps/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "JeRj7p0pVPXEQcyBykkLrXIB92/3P19vApgKphhQ56I/syJUyQOOtYXVa2h+/F7Sj+MabXrF13I50zo6ABzYwvLhE0UOpqa2XYH6y2rqzAWZetYC6lc+J2RDygkcsDUw1DcWtYgeiNInES4dt8fQpcMR1Z9aGLl5ocbvYJaFPLOVZuiOHLqH2pnDsGFuLcY9oM3pDtntp9vgz/UYyUc9Z7rjR3AfeVUbuCXmYlma7Hlu+cGgniz5hk2ByBr2Dj6XaP9eShB7lzismykLfKn+55NIdu6e2RWh7PqjUSxVjWNGgm7+tDysi0DRqCKoTUpowZJ/d33j7Eu2yJgHQbaSaDnARcU0yjh7ND99TrOhl/k=;/NB2PLyHxvxXpd1fprVuhw=="
 ---

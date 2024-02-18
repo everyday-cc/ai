@@ -9,8 +9,8 @@ ampWebUrl: "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/
 cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/"
 type: article
 quality: 71
-heat: 151
-published: true
+heat: -1
+published: false
 
 provider:
   name: Beebom
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The iPhone 16's chip could get a big AI upgrade for generative AI features"
+    excerpt: "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower."
+    publishedDateTime: 2024-02-15T07:39:00Z
+    webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 82
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "The iPhone 16 could feature major Neural Engine upgrade for on-device generative AI tasks"
     excerpt: "Apple's future generation of iPhone, iPad, and MacBook chips, the M4 and A18, will have an increased number of cores in their improved Neural Engines, writes"
     publishedDateTime: 2024-02-16T11:55:00Z

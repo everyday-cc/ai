@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,62 +24,24 @@ images:
     isCached: true
 
 related:
-  - title: "Cohere for AI launches open source LLM for 101 languages"
-    excerpt: "Cohere For AI launched an open source LLM covering 101 languages — more than double the number covered by existing open source models."
-    publishedDateTime: 2024-02-13T13:52:00Z
-    webUrl: "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/"
+  - title: "Guardrails AI is Solving the LLM Reliability Problem for AI Developers With $7.5 Million in Seed Funding"
+    excerpt: "Today Guardrails AI, the open and trusted AI assurance company, formally launched during the opening keynote at the AI in Production conference. The company also introduced Guardrails Hub, an open source product that lets developers build,"
+    publishedDateTime: 2024-02-15T17:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/guardrails-ai-is-solving-the-llm-reliability-problem-for-ai-developers-with-7-5-million-in-seed-funding-1033073087"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-21.26.49-A-creative-representation-of-a-large-language-model-that-covers-over-100-languages.-The-image-should-depict-a-futuristic-digital-brain-like-structure.webp?w=1200&strip=all"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "Open Source AI Software Maker LangChain Launches First Paid Product — With A Massive Waitlist"
-    excerpt: "CEO Harrison Chase confirmed a $20 million funding round led by Sequoia and said his one-year-old startup already had a waitlist of 80,000 for its new tools."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/15/open-source-ai-startup-langchain-launches-langsmith/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+  - title: "Easily build full stack AI apps using Gradient"
+    excerpt: "Developers can sign up for an account and start using the accelerator blocks right away, taking advantage of the opportunity to enhance their projects with advanced AI capabilities. For engineers and developers eager to push the boundaries of AI in their ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-build-full-stack-ai-apps/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ce1fbc9ea69baa635ac5a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
-    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
-    publishedDateTime: 2024-02-18T00:59:00Z
-    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
-    type: article
-    provider:
-      name: The Daily Hodl
-      domain: dailyhodl.com
-    quality: 39
-    images:
-      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
-        width: 1365
-        height: 800
-        isCached: true
-  - title: "Cohere for AI unveils Aya, a multilingual open-source AI with 101 languages"
-    excerpt: "Cohere for AI, the non-profit research lab run by the artificial intelligence startup Cohere Inc., today introduced a “massively multilingual” open-source artificial intelligence large language model called Aya that can operate in 101 different ..."
-    publishedDateTime: 2024-02-13T18:30:00Z
-    webUrl: "https://siliconangle.com/2024/02/13/cohere-ai-unveils-aya-multilingual-open-source-ai-101-languages/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
-        width: 1280
-        height: 741
-        isCached: true
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 17
 
 secured: "4ZoHtD8UuoljTAdZnZac/Uh20DLDKgD9egFvcPkvO/A8bFJQ+PaQcU/u41nO4ke/GXy5fRcegVJmlZtCbDIihlbXsjMiNtFyDW4An1bin018raxMrZSYx1g6RX1WufC+xsmpIkB088ZPkZJIMEiAp2wmT7tQmSi3kDekXXl8cPVQKw6+QTnNbHCK670agXRe2SjkHn+bYByz05Ic8fHd3x30937hV9U8okwoTsg1ymgwQpFsxtD7WyVMP6q0rfQHsxORuSIrFc+Uk6QRDFcNaYWvwUXde9rRwg7cUiHTNVfF7hBqF7fXjje/BIk5wk+pKMtB69j4qqfpdklJJu8MA8Fu7gxdt6pihfubt3jlhuI=;4MeTlgfEIYl+Aj1wApo4sQ=="
 ---

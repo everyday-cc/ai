@@ -35,17 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026"
-    excerpt: "The Seattle-based battle for dominance of the cloud services industry has been personal for a long time. After all, Amazon CEO Andy Jassy helped create the cloud services business by launching Amazon Web Services and Microsoft CEO Satya Nadella started and led Azure — AWS’s biggest rival."
-    publishedDateTime: 2024-02-13T15:09:00Z
-    webUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/"
-    ampWebUrl: "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
   - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
     excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
     publishedDateTime: 2024-02-16T00:01:00Z
@@ -259,15 +248,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
-  - title: "Nerdio Adds Partner Resources, AI To Its Microsoft Cloud Management Suite"
-    excerpt: "Nerdio, a vendor for Microsoft cloud technologies management software, has added artificial intelligence capabilities to its products and is investing in more partner resources after growing the base by 150 percent."
-    publishedDateTime: 2024-02-13T14:36:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/nerdio-brings-ai-to-its-microsoft-cloud-management-suite"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 33
 
 secured: "Uo2SyDy4awB5srMWkRt+1QjuJI4XKj7ohrPDRoVXBb0P8vOJ6ExYrG/1aVjEAbNdT3LrPMIbpEZsIvc877JagX8zGOePPLXHf1qHkfZNDuk/2c3mNhaAv/w8iiCcEX5PKXOS7nLN8CUTp3P+ghBeBQ4C/L0CUuQoEdCHe9On5iEXczGGs6qij89/eKOcUv9w3IauBwZye7AaUNw+U4mET0Mp5l89PZ50Uz4kgiXhDo7t70gICgilbYICO1wvqK0EI5RsW6+6LEo+GSSANPfVeaYRxYFAPho5SQYg9NeEl3uDpd+9d9ip26F84crWwiGZXBZHgqouhvb7QzRYOWAGXjZPph9BxqZZEmwkTj4KVLgM0pqeeqbvGTvYHuKWLtPiv/is98S1rb7X5QW4xobzKYVF8oFvgvSUieg9mc5t5bbT15Us6o0QAYTCKI5XIshdRFirlgjbVebpWzjfRNwA0uwcxew1p00wKG4hxlHLe3XgE79IB/UeL0KHXGjZ/1kRx3e5csPxRG2XMIBF4plxgw==;I0YcgHCfZs8QhIHS8WFcmA=="
 ---

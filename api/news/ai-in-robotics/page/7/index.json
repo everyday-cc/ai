@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-13-health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants.md",
+      "title": "Health Plan: A snake-like robot, real-time heart health and soft robotic implants",
+      "excerpt": "In the final part of our Health Plan series, we see how a snake-like robot developed for remote inspection has been adapted for use in throat cancer surgery, look at a wearable ECG monitor, hear how soft robotic implants could be used for drug delivery, and speak to the company behind a device that continually monitors IV therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
+      "originalUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/jj_viscero_ecg-vest_context_podaqua.jpg?sfvrsn=2b754411_0&size=705",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-the-best-self-emptying-robot-vacuums-that-save-you-time-and-effort.md",
+      "title": "The Best Self-Emptying Robot Vacuums That Save You Time and Effort",
+      "excerpt": "Keep in mind that while there are varying self-emptying robot ... That way you don't need to memorize a precise and often longwinded set of voice control commands. All robot vacs perform initial, usually non-cleaning, runs around your home to create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/lifestyle/best-self-emptying-robot-vacuums-171200669.html",
+      "originalUrl": "https://www.aol.com/lifestyle/best-self-emptying-robot-vacuums-171200669.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/A3eXoAYEjjux28q_.t9tKA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_popular_mechanics_812/fa16e35b81b6eded7b5eb2fc93a4dbb7",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T09:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-ezviz-now-offers-consumers-a-full-smart-home-solution-with-the-introduction-of-its-affordable-yet-feature-packed-re4-and-re4-plus-smart-robot.md",
       "title": "Ezviz Now Offers Consumers a Full Smart Home Solution With the Introduction of Its Affordable Yet Feature Packed RE4 and RE4 Plus Smart Robot Vacuums",
       "excerpt": "EZVIZ, a global leader in smart home technology, known previously for its indoor and outdoor security cameras, is now set to offer consumers a fully comprehensive smart home solution.",
@@ -1187,83 +1273,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-04-robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study.md",
-      "title": "Robot chemist powered by artificial intelligence could create oxygen needed for humans colonising Mars: study",
-      "excerpt": "A robot chemist powered by artificial intelligence could solve the puzzle of providing oxygen to humans on Mars, according to the results of a new study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
-      "originalUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
-      "cdnAmpWebUrl": "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/world-news/robot-chemist-powered-by-artificial-intelligence-could-create-oxygen-needed-for-humans-colonising-mars-study/news-story/48bba79253158e6802b6570faff5703c?amp",
-      "publishedDateTime": "2023-12-04T00:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky News Australia",
-        "domain": "skynews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-03-a-glimpse-of-a-better-world-through-artificial-intelligence-in-the-creator.md",
-      "title": "A glimpse of a better world through artificial intelligence in 'The Creator'",
-      "excerpt": "The artificially-intelligent world director Gareth Edwards paints in \"The Creator\" — of vibrant, sprawling cities side by side with preserved natural beauty and a rural way of life — is one we should not fear but rather aspire to achieve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dukechronicle.com/article/2023/12/the-creator-review",
-      "originalUrl": "https://www.dukechronicle.com/article/2023/12/the-creator-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://snworksceo.imgix.net/dtc/2b4da04c-2a31-4a5d-a8dd-a45fe08afde4.sized-1000x1000.jpg?w=1000&ar=16%3B9&fit=crop&crop=faces&facepad=3&auto=format",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-03T14:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Chronicle",
-        "domain": "dukechronicle.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-r
 webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -82,20 +82,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/825e1fc/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F1a%2F7f%2Fa922bfc24da1b401e38fbd37da04%2Fai-handwriting.jpg"
         width: 1440
         height: 700
-        isCached: true
-  - title: "Job seekers say they are using AI tools in the job hunt"
-    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
-    publishedDateTime: 2024-02-13T16:37:00Z
-    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
         isCached: true
   - title: "This Startup Aims to Make It Easier for Retailers to Create Their Own Custom AI Tools"
     excerpt: "XGen AI, which came out of stealth mode this week, says that its technology has helped beta testers like Golden Goose and Sonos to increase conversion."

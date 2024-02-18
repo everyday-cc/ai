@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/finance/analysis-why-openais-chairman-betting-
 webUrl: "https://www.aol.com/finance/analysis-why-openais-chairman-betting-173108344.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
-    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
-    publishedDateTime: 2024-02-13T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
+  - title: "From Algorithm To Analysis: How AI Is Shaping The Future Of Cryptocurrency"
+    excerpt: "AI, with its ability to process vast amounts of data, analyse patterns, and make predictions, has become a game-changer in the realm of cryptocurrency investing."
+    publishedDateTime: 2024-02-14T20:56:00Z
+    webUrl: "https://news.abplive.com/business/crypto/how-ai-is-shaping-the-future-of-cryptocurrency-abpp-1664403"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
+      name: abp LIVE
+      domain: abplive.com
+    quality: 17
 
 secured: "xN589SJoQqKOK4nv21CTJ6w2aMjuYSAKrslyFm4SSFT5AP/7JCUiJOS1mx2vS5CMH2ML6M0WaVWz4l2rzPHUsXEKV11E56earu0dSS6IFTSCIX1q8E8u5ENDlImLWGssr5JNQFYSxSE7QAeYzfFJLXMUvRML/jyGChB/4GtQeUPEEmN9LIoR8Su2lpFln5L94IzQU6yBQ29MpD8Vyxa8JngPnVcbAbAELJMnU9+NOWxjHKHrzqgmxGMMLQxmrPzygKEt+n3SfxSe3fSE6x8sqaVCMPf4mtVeEc+9aVexnrZq7RWup3d8iHPzOQDm2mc5JXdVw5G3ktSzl/8NXdde6tvxLfLZxeTmQfcKTx0Tq2lsJSRijmfmp5RtPrwgAvPcpuRBOwQhBZx/Hyr/PXeA/tsN9ikR3zRjTKNTwh1rDo2dyeAxLn527Q5Yvnlg0QA8RCerpK6UYd8f3seF29k+ULZZ+oxrvj1oWU6pj5VGLESfZt3R1kNJbOUW/rgmFkwf90+ax4crP7QJO/YhupWdmg==;iGpo1h7mzHZPy33SuuMt5Q=="
 ---

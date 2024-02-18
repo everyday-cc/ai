@@ -49,6 +49,20 @@ related:
         width: 1440
         height: 700
         isCached: true
+  - title: "UPenn becomes first Ivy League school to offer Artificial Intelligence degree"
+    excerpt: "The Ivy League is taking a step into the future thanks to a new degree being offered by the University of Pennsylvania in Philadelphia."
+    publishedDateTime: 2024-02-14T17:19:00Z
+    webUrl: "https://www.aol.com/news/upenn-becomes-first-ivy-league-151914965.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 36
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/KFUVO.UYvuMO7mRkGkYQDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/cdf0f5aebfe28c2f2df9022e2e1b104e"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Penn to become first Ivy League school to offer undergraduate degree in artificial intelligence"
     excerpt: "Students and faculty expressed excitement for the new engineering degree in AI, which will be available to students next school year."
     publishedDateTime: 2024-02-14T04:22:00Z

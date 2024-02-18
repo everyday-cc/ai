@@ -43,6 +43,22 @@ related:
         width: 1260
         height: 451
         isCached: true
+  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
+    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
+    publishedDateTime: 2024-02-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
     excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
     publishedDateTime: 2024-02-14T23:18:00Z
@@ -57,19 +73,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "JioGenNext Introduces New Startup Cohort with Generative AI Focus"
-    excerpt: "The cohort consists of ten dynamic startups spanning diverse sectors such as healthcare, banking, legal services, entertainment, and agriculture."
-    publishedDateTime: 2024-02-13T15:11:00Z
-    webUrl: "https://analyticsindiamag.com/jiogennext-introduces-new-startup-cohort-with-generative-ai-focus/"
+  - title: "How Fractal is Leveraging Generative AI for Insurance"
+    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
+    publishedDateTime: 2024-02-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
-      - url: "https://8f430952.rocketcdn.me/wp-content/uploads/2024/02/JioGenNext-Generative-AI-startups-.jpeg"
-        width: 2048
-        height: 1138
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "GAO Utilizes Artificial Intelligence to Enhance Efficiency and Effectiveness"
     excerpt: "Artificial intelligence (AI) continues to revolutionize various sectors, offering solutions to complex problems and tasks traditionally requiring human intelligence. Recognizing its potential, the Government Accountability Office (GAO) has embarked on an ..."

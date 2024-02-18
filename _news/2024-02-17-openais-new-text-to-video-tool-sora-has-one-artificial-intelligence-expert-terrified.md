@@ -98,6 +98,29 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
+        isCached: true
+  - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
+    excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://www.seattletimes.com/business/sora-is-chatgpt-maker-openais-new-text-to-video-generator-heres-what-we-know-about-the-new-tool/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 20
 
 secured: "WDAzFfwzTKug2n3UxU0Xm3zsD0PLXxV17fK1C6CHapMOsgrEFHCqJZDCKqgUIy07zXdU17wDX/NIFdG3QmNcSwYb1b0v1ERkxw/QFgpZ6v0R1+RsYRYxpCOR0a2e7b+0s0HoqvqQ6Hn4RjzB4dfvppXPdhG0ZBrI99c1JjtYsHC/NuyXz24FjuhfdSO0McPN/iqcKjftocnnNuGXVXTEKxte/mKoMyWj/LP3RjOAC7KY9zo9IlZI4wdSr1ExJ23Oxpq+MeAXWZzdWiGwhSBy3mAXjKwF6XEMtlhHiGiK9JRUIk/Iok0GcI83/HxsNFETdk/16UMpeZQ7mWU7WZFdTueFTavH3vSzhiMFYCZ431w=;SRRkU/Pv7a4F1QMgh+hCtg=="
 ---

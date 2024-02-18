@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
-  - title: "A new way to let AI chatbots converse all day without crashing"
-    excerpt: "When a human-AI conversation involves many rounds of continuous dialogue, the powerful large language machine-learning models that drive chatbots like ChatGPT sometimes start to collapse, causing the bots' performance to rapidly deteriorate."
-    publishedDateTime: 2024-02-13T14:44:00Z
-    webUrl: "https://techxplore.com/news/2024-02-ai-chatbots-converse-day.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 17
 
 secured: "vgInZOU9KAhGbJQNHBgXz1C1XQzsWm349rkBoz4d56dufvJjqwlw00xb57BFbBe0bA45ao5VeaFY7MHTt6SI/RGz2UfukhJuMJt5hkCyWJiToAFEJl+Y2AIycB9B5D9pmSuifqEC7JdWRdEOzeAimqZ9t6xx5RDMC96UHty4kMQnEWcFZHiqZ5qJbtZcJ6/ROzBwqUqDIuQNQUSwv9PcRGB4ZKwGMTxeo9DzGPfaSXtyVDxZMKHv7SP22LlEP52liwSHhEk1sMhQ4hAI2yPBsJxt/1a9aeUonSEHl8Mro/uRcm6Lte8ELdP370ZxVyY6Y4nINi41UCnzp4Dve99QZ2f+I3/f64QR3aQIDA+iB48=;xnbKdqmBZ1ZcdI+xdw7U8w=="
 ---

@@ -57,15 +57,15 @@ related:
         width: 1508
         height: 782
         isCached: true
-  - title: "India's first AI-enabled education tablet launched: Details"
-    excerpt: "Aimed at playing an active enabler of digital learning, the education tablet is the first of its kind to come integrated with the BharatGPT virtual assistant and will highlight AI/ML-based inter-lingual translation for Indian languages (Voice-2-Voice,"
-    publishedDateTime: 2024-02-13T14:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/india-s-first-ai-enabled-education-tablet-launched-details-2024-02-13-916709"
+  - title: "Startup launches AI-backed education, health, edutainment content service"
+    excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
+    publishedDateTime: 2024-02-18T14:18:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/startup-launches-ai-backed-education-health-edutainment-content-service-124021800332_1.html"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 36
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
 
 secured: "6A/+trqwYrEgt6j08cXiK4PkVs2QDfU9L9w1tLlzkg6wze3hVn5Q/prkZpIS4zQ74TKwDLrAHomaSqtUarAByW5U3zK1+TCo/OO4BUOSkTEmFoujwi6ota5zyP63ifgakMGhKL2YxEvFg+uYPY0C05Xzai90TknD8fokBNvM9pBG42Uu3pRJh8zGt5dZRmz2+FLXe/Dk6bDsX1YgR4nDmPsWoIhP+BVOrmx+PKWfWLvFzmH6ZmobXyh6h1Fa0YgseyW83wW1u/SIygK1nAG+7FS3bmcPL0MVip9QSRj7kKzaGwVtTRvQu6LT31lVABqByB8hMs4f2G5TJx5V/k2V+s7gP1+mvZdcQ3SdFRTdndI=;B2IGFKz6HY/DooE1aRrc5w=="
 ---

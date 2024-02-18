@@ -57,16 +57,16 @@ related:
         width: 1508
         height: 782
         isCached: true
-  - title: "India's first AI-enabled education tablet launched: Details"
-    excerpt: "Aimed at playing an active enabler of digital learning, the education tablet is the first of its kind to come integrated with the BharatGPT virtual assistant and will highlight AI/ML-based inter-lingual translation for Indian languages (Voice-2-Voice,"
-    publishedDateTime: 2024-02-13T14:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/india-s-first-ai-enabled-education-tablet-launched-details-2024-02-13-916709"
+  - title: "Startup launches AI-backed education, health, edutainment content service"
+    excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
+    publishedDateTime: 2024-02-18T14:18:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/startup-launches-ai-backed-education-health-edutainment-content-service-124021800332_1.html"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 36
+      name: Business Standard
+      domain: business-standard.com
+    quality: 33
 
-secured: "U8QX493zVAij1IdJfNrpxJtuPArus1Csok9ddOBGZsYGS6OSnWGbuxt8N35l5FxHRJKLruMVoyk24BuumdfwBihfFLfZe46Mv8cSRdwlyHqMutxbuZs4iPuBEdtbSTr//m+na5Oa2dFt52bAwnyfsixgqp/QUnOh9QskijlaHA9bvmiWerdew+YQBpT2uYlod6nAm2/pKIcsBZ25jG7ZX/bxSCOE9rblB5pZUxxRrmT/0YNRMsqNeUqUd40MX9uPQgIIUNcMGzJPRC8F5ZGNK6jFjIfcYck0DoHa/EMr75uCGN2q1+etNrrNYoCbwiZBOuQ3GgxcCy9OeQGqXzT6GzN4SfFoRgTJ+4d8yvbgkBE=;2Sbv4Ar/XdXcKryYvc114g=="
+secured: "Zd8nsRQ6Km5AjYDcpV9GV+wfG4VtK2hfuKT/776/nHZ3s0nM0xo6Rul1bldcfUQqaNEibK9ra0MiD5z6J92ZaFNI39AorMOhmBbkPdBO5tLUepZB9GcpFD2yP6UXtis+ggD+IdRydnH2q/8YGYR/cmW+Vl/HzP6foC+mnS2wTR4HLMjkwgUDO/wJcBsnNW3C55VyFussMwg4gFkZnisFahr6wqCgAYMQnhg3/d7c6L2dYnb3YhvdKC7fbAmrlD7r1ocCzQU8AVD/j2ThRV7510Dq+NXs0dnURDNHbsF7g8IDKF9BxQ+lS9N2Sugokkaua5OSGkIt6Awd+RTE5fTNMXfgTw2wEySPOB5GQYxc7WA=;84vbxqcX7W+niSIw0JD09A=="
 ---
 

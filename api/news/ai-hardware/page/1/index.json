@@ -287,7 +287,7 @@
       "originalUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -434,7 +434,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 257,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -540,7 +540,7 @@
       "originalUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -584,21 +584,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-15-nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company.md",
-      "title": "Nvidia passes Google’s market cap, now world’s fourth most valuable company",
-      "excerpt": "Nvidia used to be a gaming GPU company, but the company's value has absolutely skyrocketed thanks to the AI craze and a GPU's value in accelerating AI workloads. A few purpose-built chips later ...",
+      "path": "_news/2024-02-15-the-iphone-16s-chip-could-get-a-big-ai-upgrade-for-generative-ai-features.md",
+      "title": "The iPhone 16's chip could get a big AI upgrade for generative AI features",
+      "excerpt": "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/",
+      "webUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
+      "originalUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 172,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg",
-          "width": 760,
-          "height": 380,
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -608,14 +608,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T11:09:00Z",
+      "publishedDateTime": "2024-02-15T07:39:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -623,49 +623,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-a18-chip-in-iphone-16-to-get-a-powerful-neural-engine-for-ai-features-report.md",
-      "title": "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report",
-      "excerpt": "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance.",
-      "sourceUrl": null,
-      "webUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
-      "originalUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beebom.com/wp-content/uploads/2024/01/iPhone-Motherboard-.jpg",
-          "width": 1250,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
-      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/a18-16-powerful-neural-engine-ai-features-report/amp/",
-      "publishedDateTime": "2024-02-14T23:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Beebom",
-        "domain": "beebom.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -740,7 +697,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 141,
       "tags": null,
       "images": null,
       "content": "",
@@ -1457,6 +1414,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
+      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
+      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T01:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

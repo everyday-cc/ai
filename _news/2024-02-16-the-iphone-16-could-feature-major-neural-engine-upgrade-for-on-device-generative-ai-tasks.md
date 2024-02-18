@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The iPhone 16's chip could get a big AI upgrade for generative AI features"
+    excerpt: "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower."
+    publishedDateTime: 2024-02-15T07:39:00Z
+    webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 82
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A18 Chip in iPhone 16 to Get a Powerful Neural Engine for AI Features: Report"
     excerpt: "According to a report by Economic Daily News, next-gen A18 and M4 chipsets will get upgraded neural engine for AI performance."
     publishedDateTime: 2024-02-14T23:22:00Z

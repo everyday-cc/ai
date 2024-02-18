@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -159,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-15-the-2024-buyers-guide-to-industrial-generative-ai.md",
+      "title": "The 2024 Buyer’s Guide To Industrial Generative AI",
+      "excerpt": "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cd014ed2449794cb1106a1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/",
+      "publishedDateTime": "2024-02-15T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know.md",
       "title": "Samsung AI-powered Live Translate is coming to these Galaxy Buds — what we know",
       "excerpt": "AI translation is one of the big features in the Galaxy AI suite, which debuted on the Galaxy S24. But it sounds like you won’t be restricted to translating foreign languages through your phone, because Galaxy AI's Live Translation will be coming to various Galaxy Buds as well.",
@@ -227,6 +279,58 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
       "publishedDateTime": "2024-02-14T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
+      "title": "10 AI Tools For Australian Businesses In 2024",
+      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T03:07:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1065,6 +1169,83 @@
       ]
     },
     {
+      "path": "_news/2024-02-05-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
+      "title": "Successfully implementing natural language processing and GenAI with knowledge management",
+      "excerpt": "Specifically, the integration of natural language processing via large language models (LLMs) and AI with private knowledge platforms poses significant value. Experts from Datavid joined KMWorld’s webinar, Integrating LLMs With a Private Knowledge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
+      "originalUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-ai-learns-language-like-a-child.md",
+      "title": "AI Learns Language Like a Child",
+      "excerpt": "Researchers made a significant breakthrough by training a multimodal AI system using only the input one child received from birth through their second birthday, challenging the notion that AI requires vast data to learn language.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/ai-child-language-25551/",
+      "originalUrl": "https://neurosciencenews.com/ai-child-language-25551/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2024/02/ai-child-language-neurosicnce.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-01-deep-learning-for-natural-language-processing.md",
       "title": "Deep Learning for Natural Language Processing",
       "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
@@ -1213,199 +1394,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-we-have-nothing-to-fear-from-ai-incorporating-deep-learning.md",
-      "title": "We Have Nothing To Fear From AI: Incorporating Deep Learning",
-      "excerpt": "You will often hear people talking about deep learning as part of the AI conversation; this term can sound sinister when in fact it is the opposite. Deep learning needs lots of data. But it also needs people to harness and turn it into a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b95eb8733af1e6e57f2995/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/31/we-have-nothing-to-fear-from-ai-incorporating-deep-learning/amp/",
-      "publishedDateTime": "2024-01-31T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-genai-is-moving-to-your-smartphone-pc-and-car-heres-why.md",
-      "title": "GenAI is moving to your smartphone, PC and car — here’s why",
-      "excerpt": "Generative AI tools, apps and services that use the processing power on edge devices can access data locally, return faster results, and they're more secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html",
-      "originalUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/01/shutterstock_2298851863-100957012-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712601/genai-is-moving-to-your-smartphone-pc-and-car-heres-why.amp.html",
-      "publishedDateTime": "2024-01-30T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-semron-raises-79m-for-ai-chips-with-3d-packaging.md",
-      "title": "Semron raises $7.9M for AI chips with 3D packaging",
-      "excerpt": "Semron has raised $7.9 million (7.3 million euros) for AI chips with 3D packaging for mobile devices. Dresden, Germany-based Semron said its goal is to set a new standard for AI chips in mobile devices, addressing the evolving needs of the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/",
-      "originalUrl": "https://venturebeat.com/ai/semron-raises-7-9m-for-ai-chips-with-3d-packaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/semron-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-summer-internship-in-speech-recognition-research-group.md",
-      "title": "Summer Internship in Speech Recognition Research Group",
-      "excerpt": "The Department of lnformation and Communications Engineering is offering a summer job in the research group: We are now looking for 1-2 Aalto University MSc or BSc students in Finland as summer interns in the Automatic Speech Recognition research group at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/minisites/aalto-university/listing/363354/summer-internship-in-speech-recognition-research-group/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/minisites/aalto-university/listing/363354/summer-internship-in-speech-recognition-research-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/eb84715f-64e6-499f-ad80-cbd1dd74a37a/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

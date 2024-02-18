@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
-      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
-      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-14-gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai.md",
       "title": "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI",
       "excerpt": "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate.",
@@ -98,57 +46,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-14-5-generative-ai-video-tools-everyone-should-know-about.md",
-      "title": "5 Generative AI Video Tools Everyone Should Know About",
-      "excerpt": "While last year was all about chatbots and image generators, this year, generative AI tools that help us create and edit videos are all the rage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc5f9e92dce2942f51519c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/",
-      "publishedDateTime": "2024-02-14T05:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-14-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape.md",
       "title": "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape",
       "excerpt": "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,",
@@ -157,7 +54,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -200,7 +97,7 @@
       "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -295,7 +192,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -383,6 +280,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
+      "title": "10 AI Tools For Australian Businesses In 2024",
+      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-jumping-onto-artificial-intelligence-bandwagon-heres-how-to-name-your-ai-chatbot.md",
       "title": "Jumping Onto Artificial Intelligence Bandwagon? Here’s How to Name Your AI Chatbot",
       "excerpt": "All these thoughts were presumably reverberating around Google's Mountain View headquarters recently when the company decided it would ditch “Bard,” the name it had given its ChatGPT competitor, and instead bring together all of its AI tools under the name “Gemini.”",
@@ -391,7 +340,7 @@
       "originalUrl": "https://tech.hindustantimes.com/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -631,7 +580,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 314,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -777,6 +726,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-how-teachers-are-pondering-the-ethics-of-ai.md",
+      "title": "How Teachers Are Pondering the Ethics of AI",
+      "excerpt": "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai",
+      "originalUrl": "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T21:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-akamai-extends-its-edge-computing-platform-as-it-looks-to-challenge-aws-azure-and-gcp.md",
       "title": "Akamai extends its edge-computing platform as it looks to challenge AWS, Azure and GCP",
       "excerpt": "Akamai today announced the launch of its Gecko \"Generalized Edge Compute\" platform. This new initiative will increase the company's cloud-computing",
@@ -827,6 +819,58 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-pioneering-ais-next-phase-insights-from-mits-venture-studio-course.md",
+      "title": "Pioneering AI’s Next Phase: Insights From MIT’s Venture Studio Course",
+      "excerpt": "Ramesh Raskar gave us some insights into what's happening with AI, talking about a sea change toward models that are going to be more powerful than what we've seen to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbb912303e79e010e6ee1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1352,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "publishedDateTime": "2024-02-13T18:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1163,58 +1207,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to.md",
-      "title": "ChatGPT will now remember its past conversations with you (if you want it to)",
-      "excerpt": "ChatGPT is getting the ability to recall snippets of information you ask it to remember. Here's how the feature works and how to opt in (or out!).",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "originalUrl": "https://www.zdnet.com/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0158482f6f193a8a559fa7321f542920f39da6ab/2024/02/09/898f9e84-a9f2-4253-bf86-0010c41b58d4/chatgpt1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chatgpt-will-now-remember-its-past-conversations-with-you-if-you-want-it-to/",
-      "publishedDateTime": "2024-02-13T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

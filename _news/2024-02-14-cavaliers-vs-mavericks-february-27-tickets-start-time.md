@@ -51,15 +51,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "OSS to Showcase Specialized High-Performance AI Computing Solutions at WEST 2024 on February 13-15"
-    excerpt: "In February, OSS won a $1.3 million contract from the U.S. Army for the design, development and prototypes for a vehicle mounted 360-degree situational awareness system using OSS PCIe Gen 4 switched fabric technology and market leading embedded GPU system on modules."
-    publishedDateTime: 2024-02-13T14:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/oss-to-showcase-specialized-high-performance-ai-computing-solutions-at-west-2024-on-february-13-15-1033060893"
+  - title: "Get Rich Quick With These 3 Machine Learning Stocks to Buy Now"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is a branch of artificial intelligence (AI) that is red hot"
+    publishedDateTime: 2024-02-14T19:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/get-rich-quick-with-these-3-machine-learning-stocks-to-buy-now-1033068065"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 35
+    quality: 49
   - title: "5 Undervalued Stocks To Buy In February 2024"
     excerpt: "One way to find investments is to identify stocks that are undervalued but have strong fundamentals and growth prospects. Here are five that fit the bill."
     publishedDateTime: 2024-02-14T19:25:00Z
@@ -69,34 +69,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Kansas State vs. West Virginia February 26 Tickets & Start Time"
-    excerpt: "Kansas State Wildcats vs. West Virginia Mountaineers game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-13T16:19:00Z
-    webUrl: "https://www.kwch.com/sports/betting/2024/02/26/kansas-state-vs-west-virginia-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWCH
-      domain: kwch.com
-    quality: 22
-    images:
-      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/OFB3WN3UQNPU7DJMZJVNNELI5A.jpg?auth=ef6b384a05e1be14f428c37c9029799a872f32c067067638c4e68a164b831f40&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Lamar vs. McNeese February 26 Tickets & Start Time"
-    excerpt: "The Lamar Cardinals (13-11, 7-4 Southland) face the McNeese Cowboys (22-3, 11-1 Southland) in a matchup of Southland squads at 8:00 PM ET on Monday. The game will be available on ESPN+. If you're looking to attend this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-13T16:19:00Z
-    webUrl: "https://www.kwtx.com/sports/betting/2024/02/26/lamar-vs-mcneese-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: KWTX
-      domain: kwtx.com
-    quality: 22
-    images:
-      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/ZQUBC7Z6JFJQXGIRRY6465ZWZA.jpg?auth=a37b10d86f292dc406d692002ad52c53a85d6d4b3233905f96ed6003edd1f745&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Blues vs. Oilers February 15 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. When the Edmonton Oilers face the St. Louis Blues at Enterprise Center on Thursday (starting at 8:00 PM ET), Leon Draisaitl and Jordan Kyrou will be two of the most exciting players to keep an eye on. Robert Thomas is a ..."
     publishedDateTime: 2024-02-14T22:04:00Z

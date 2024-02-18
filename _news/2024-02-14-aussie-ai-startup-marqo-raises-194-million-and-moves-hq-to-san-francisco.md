@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startu
 webUrl: "https://www.smartcompany.com.au/startupsmart/news/aussie-ai-startup-marqo-raises-20-million-moves-hq-san-francisco/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
-    excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
-    publishedDateTime: 2024-02-13T14:25:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
 
 secured: "ZLNK8/cs6bKi8W/HoCAU4hAfNrtE3vA8ZiM+fQZZUELwJX/VxALeQfLzkyDPO4R/oTOWsJDw94x6SbWP7pp7QvI+ztKG/+YEmNxat2+LSsF8RffSK9Zg/4uw2t+2Nve/GTAWZv6SPwLq4ebadTSa+qP+8ylYJ7fDGDFAFhOFNGjZ7VmWP4s4yt5E+0Zs3/iLK+OMWRdgNL+ldsUbm/5irBH/T2hsX7Ro0A/MUCkKFU7A/7NqDfq6cIz0zv8X0YuMBHwUo1aG+epAc3dCQH2qIeCCHKAv60PORvVsvmOgFryYBPZ/n8/V/0+yjNVH9qXgCyaxeqWuFv7fcCbxsiy1BH9GIESUCSw7tmD/JozCbfb42hiYKJRCw2oojf71or8/ahnYJBvecyARn+3af/1qG6wcTnWEP3HE7PWnyrrjp7jXp1iFNa/Ke+aWOmqTTgzPwAQ2nMdpSpYLs9XDL31dHA6IHbH8gZrLrbZfSlg1mu9CoVb5qM/6OjPjCAOB4VV0VnHkJ+OzawJe5iz3hO9uPg==;6FTdlrZefMrSPIdv4tw61g=="
 ---

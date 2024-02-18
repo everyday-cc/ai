@@ -89,15 +89,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 48
-  - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
-    excerpt: "Evergreen, Colo. - Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
-    publishedDateTime: 2024-02-13T16:15:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2024/02/13/tesla-worker-killed-in-fiery-crash-may-be-first-full-self-driving-fatality/72583572007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 16
 
 secured: "aW5ICbNTKXgcbrjGbYmpEuNCUyp3kpgpimotNvvrlzlOazjGP8gsJkm7bGMbKxdopL5loRmuH60f+XZQOKSFZmJQRsU9+YNap45aBJXkS9fuqShPlT/y2rwq1wMkZKEWCdVtncDwbjP3bevFnKBNvlaPenMegZPYf5XP80Jc0YtD+QDiiyFizlN2A4p4mZajqb8YI8IGhrQKRUQUSGb02w0o3vhA3fYFYXD59od/lWieQV3txtB1l5uV1yAB3NrCMbGOTqsQIGdWPXJ8IVsdJDKBbhKecAADhSDgl85K6dOLPTxrVqwIRr/TjQL7Msa80Ou50401IG4WwrW24lvAxSk0npaPzX62EFLKKxkaPIZjT55iArvohrE+MGP7ya1pZ9JdxD2Iy+wkuGLz13pISrJY4XXLYMMGomIX2y4URxhPhQzb6I3vp1FEJrYH0sTCgPHnDlc/8MtiNUQHAqkjLx4TYfmuGn0Bv0GxKD9Ax3+V5ydt8v/5+oxCvxGizIEMbu8CAq+lry1F2wYZsCe+3g==;gVTYna0Q9O1IoYpf5e8tUg=="
 ---

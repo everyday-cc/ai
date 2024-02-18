@@ -39,15 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Nvidia Overtakes Amazon in Market Value: ETFs to Tap"
-    excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
-    publishedDateTime: 2024-02-13T16:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-overtakes-amazon-in-market-value:-etfs-to-tap"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "S3LPVesVmSzmDC3Ry7AtbckTKRMWqybz/0tqvLH9dE3dBtoNmYWsNajyxYzodl0+mlSufs9qAL5DDQ3k6NThhtAv4h3WOXQDdqtcxiWH5v1ulAaU/0C3jr3c+tHFmdMxbUZYZxx0Ynu3Z+Rct0u2mcCJOYS9EbcVFknwr9PkGRfB7/zUk1K9/vaWfAiam6GBPY1CtYXGyvLobvyHStzsv/6JxasJT1Oz5GUNeNh332ywAwH0rvaFZwLxKJ4BlJYV+gXFy7JqR72D7Ewnm5hBXfhA5zNNSmqmf9VGQdj9hX2mJSFR6IYwHAlytuStAaBNhjhkmS8Hf2BaTuXrLQJ3e0uCsdAObknxxE8xdW5ebko=;ArOCxP2VDN5XfSFygYd2UA=="
 ---

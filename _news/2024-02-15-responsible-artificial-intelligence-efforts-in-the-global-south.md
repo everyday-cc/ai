@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-15T15:09:00Z
 originalUrl: "https://www.newamerica.org/planetary-politics/policy-papers/responsible-ai-efforts-in-the-global-south/"
 webUrl: "https://www.newamerica.org/planetary-politics/policy-papers/responsible-ai-efforts-in-the-global-south/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Screen_Shot_2024-02-09_at_10.02.3.2e16d0ba.fill-1200x630.png"

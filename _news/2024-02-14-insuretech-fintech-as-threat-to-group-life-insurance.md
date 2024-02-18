@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Insights From The 2023 Fintech Index"
+    excerpt: "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index."
+    publishedDateTime: 2024-02-18T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1430
+        height: 782
+        isCached: true
   - title: "Dutch fintech leader Finom nets €50M to boost digital banking for SMEs"
     excerpt: "Dutch fintech Finom has raised €50mn ... a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! “We aimed to give them more time to focus and reach their full potential.”"
     publishedDateTime: 2024-02-14T15:23:00Z
@@ -41,21 +57,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Fintech bets on AI to improve loan offerings"
-    excerpt: "Carbon has announced the acquisition of Vella Finance and aims to leverage the fintech’s artificial intelligence (AI)-powered"
-    publishedDateTime: 2024-02-15T10:21:00Z
-    webUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/"
-    ampWebUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
+  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
+    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
+    publishedDateTime: 2024-02-14T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
     type: article
     provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
     images:
-      - url: "https://cdn.businessday.ng/2023/04/AI-in-entertainment-.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
+        width: 1080
+        height: 810
         isCached: true
   - title: "Carbon acquires Nigerian fintech"
     excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
@@ -73,19 +89,35 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "What made Srikanth Nadhamuni build banking fintech firm Trustt"
-    excerpt: "One of the architects of Aadhaar, Srikanth Nadhamuni is now creating new-age banking solutions leveraging AI at Trustt. In an interaction with YourStory, he discusses his vision for the company, his take on Gen AI,"
-    publishedDateTime: 2024-02-15T00:30:00Z
-    webUrl: "https://yourstory.com/2024/02/aadhaar-founder-cto-srikanth-nadhamuni-banking-fintech-company-trustt"
+  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
+    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
+    publishedDateTime: 2024-02-15T03:27:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
+        width: 800
+        height: 527
+        isCached: true
+  - title: "Velmie Introduces Business Banking Platform to Assist Fintech Platforms"
+    excerpt: "Velmie has reportedly introduced its business banking platform intended to assist financial services providers and Fintech platforms with enhancing their core product offerings. As noted in the update from Velmie, the Fintech platform allows firms to ..."
+    publishedDateTime: 2024-02-18T09:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221626-velmie-introduces-business-banking-platform-to-assist-fintech-platforms/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 39
     images:
-      - url: "https://images.yourstory.com/cs/2/a0bad530ce5d11e9a3fb4360e4b9139b/NadhamuniFeatureImage-1707921553003.jpg?fm=png&auto=format"
-        width: 3334
-        height: 1667
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/09/Europe-Map.jpeg"
+        width: 1280
+        height: 866
         isCached: true
   - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
     excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
@@ -102,6 +134,48 @@ related:
       - url: "https://images.hindustantimes.com/tech/img/2024/02/14/1600x900/IMG-20230204-WA0011_1676537454810_1707882286694.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Fintech In The UAE Will Contribute $900 Per Capita By 2030"
+    excerpt: "Analysts of UnaFinancial have assessed the contribution of fintech to the well-being of the GCC region. By 2030, the UAE's fintech will add the highe"
+    publishedDateTime: 2024-02-13T21:05:00Z
+    webUrl: "https://menafn.com/1107848297/Fintech-In-The-UAE-Will-Contribute-900-Per-Capita-By-2030"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/13/M_ded1dimage_story.jpg"
+        width: 940
+        height: 559
+        isCached: true
+  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
+    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
+    publishedDateTime: 2024-02-15T04:02:00Z
+    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES FEBRUARY EDITION OF FINTECH MAGAZINE"
+    excerpt: "LONDON, Feb. 15, 2024 /PRNewswire/ -- BizClik, the UK's fastest-growing publishing company, has published the latest edition of FinTech Magazine. This publication is a highly regarded voice within the Financial Sector for its in-depth reports and interviews with prominent figures in the industry."
+    publishedDateTime: 2024-02-15T21:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Carbon acquires fintech firm to empower SMEs"
     excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
@@ -168,24 +242,20 @@ related:
       name: The Punch Newspapers
       domain: punchng.com
     quality: 19
-  - title: "Mass Fintech Hub adds members"
-    excerpt: "Today, the Mass Fintech Hub, a public-private partnership dedicated to making the state a global leader in fintech, announced expansion of its membership, adding four new organizations."
-    publishedDateTime: 2024-02-13T15:33:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99655/mass-fintech-hub-adds-members"
+  - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
+    excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
+    publishedDateTime: 2024-02-16T11:49:00Z
+    webUrl: "https://techbullion.com/intersphere-enterprises-and-icarus-labs-a-fintech-partnership-redefining-the-future/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Mass Fintech Hub Welcomes Four New Members"
-    excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
-    publishedDateTime: 2024-02-13T14:28:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61393216-mass-fintech-hub-welcomes-four-new-members-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/ICA0018-media-banner-02.jpg"
+        width: 720
+        height: 455
+        isCached: true
   - title: "Forbes honors Sure on its Fintech 50 list for the second year in a row"
     excerpt: "Sure's second consecutive year on the Fintech 50 follows launch of industry-disrupting innovations to unlock the potential of digital insurance. LOS ANGELES, Feb. 13, 2024 /PRNews"
     publishedDateTime: 2024-02-13T20:54:00Z
@@ -204,6 +274,24 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 3
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
+    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
+    publishedDateTime: 2024-02-15T19:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "PROVEX Fintech Limited Boosts Technological Innovation With Significant R&D Investment"
+    excerpt: "In a bold move that underscores its commitment to leading the fintech industry, PROVEX Fintech Limited today announced a substantial increase in its"
+    publishedDateTime: 2024-02-18T14:24:00Z
+    webUrl: "https://menafn.com/1107867271/PROVEX-Fintech-Limited-Boosts-Technological-Innovation-With-Significant-RD-Investment"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 0
 
 secured: "FCYMM66UGwQWCpZgRfcrs8ou5yTTGwGmoI7XmYCBN95E2wt1HfFnfKsLzR65vLjjjqrgHRKRyUCAvjz/My+7QZYGo2a38SJZap7OWyDMagEm/lI47p92VD/BRtbzkCH6snWBseVOy8tPjQwjwyRweeBBTt9SMvNJxqn/NiA7HmUYMQVZ3kjsZ7rK7ekjcjpnn803dYQh4+g8es/QSqOw9gVfbMRo4gFeWRI9N58KIMx8DRD3PBxB4TDgJ+Wi2H+cb/mnN+/f0gWolBsnbQjN0mtZu7hx9Sm2wMa3Wj14VszWKURvha49U46s6JL/qIzxlx2/fA61SfqIdQmYGvs496PsQ030iuVFwHmw58hLXQs=;6CfQtG1LVeTXEke8VVsSqA=="
 ---

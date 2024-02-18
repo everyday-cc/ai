@@ -9,7 +9,7 @@ ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need
 cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2024_13_52_37_7751892.png?width=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
+    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
+    publishedDateTime: 2024-02-18T11:24:00Z
+    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "Ys4eUiSpkJX3TrRSkmC76LdahsHPXxkaQaRop5GPJcf5ldY2aG/Ohhg4uvXNCVzzVjwEVkNfCCAubl7k0OZeNSwd/1ZP2rVvtAhF82v6d19VXYaO76/mNeeu4lDPYq69oO5MTbY9t9ACXqsF8aA+R37vmXwRtG2vmbyKfBJ/FCCCxyD6NaaUDEA8v2Rvev/FnT+RrsbYXvbWxyvYe0YtB3cUd4U0Ea9qKp9FVv2ncxQTlAmoL4Bj1e06nD0+U3DQrGOkg5r19EQMoOPkADmRwMVB2BLVP3J5AdzVhue0zvnlt3Z6Otk3xkTEM8LNUqHGQjeCjE2IinGWWu4TElAPR5dQzfyQppCtuPaTQXsxRtw=;TdGSS3O9p7blj02fXjPE2w=="

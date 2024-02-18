@@ -33,7 +33,7 @@ related:
     provider:
       name: New America
       domain: newamerica.org
-    quality: 37
+    quality: 39
     images:
       - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Screen_Shot_2024-02-09_at_10.02.3.2e16d0ba.fill-1200x630.png"
         width: 646

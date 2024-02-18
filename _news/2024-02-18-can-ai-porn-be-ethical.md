@@ -3,14 +3,12 @@ category: news
 title: "Can AI porn be ethical?"
 excerpt: "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI"
 publishedDateTime: 2024-02-18T11:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news"
-webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news"
-ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
+originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
+webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -21,14 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
   - AI
-
-images:
-  - url: "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810"
-    width: 620
-    height: 372
-    isCached: true
+  - AI Ethics
 
 related:
   - title: "How Teachers Are Pondering the Ethics of AI"
@@ -45,7 +37,21 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
+    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
+    publishedDateTime: 2024-02-18T12:00:00Z
+    webUrl: "https://tech.co/news/ai-replacing-jobs"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
+        width: 1920
+        height: 960
+        isCached: true
 
-secured: "E4/a2jeumjHdCD5sG4ZytEFVFNns+wV3RHEE2MwDPZqoScOyoWPr5IkkuyJbNT6YPW+wS1erWrhOSxOYorKKtylpDfxXCobdmQ32bV7m/z8rkd6tvqhm2RTtA7cic67JOrnY0miPweqGAkZoXvTHR5IpNTbn4IShL1oBU2WBE3xRv74sc62QyZHA7+RKLjr7shbhNm/9DmXc0wWSI2J8Ojg6YtwVRgFQcbPJrej70kIPH+Oo9Fd9dxHUZ5uHRNhTXTXWhUTWfEQXzETVN4UZ7YtFSsPXYwrHwPTpuBbD1r4UqjbtL2ZjquhLk72v1t7UiYFnYcbECrsKsoycL8SuFtKDsK+A7TwT+pZhpUkkmTw=;o+4sTQ/IIn1i8ahH+39mWg=="
+secured: "iO5BdrTXxnK+jUVWrDtr9fJgBx0f0zscIf3arH1akI0zNYSDJSQbQWfHUfwYA9sQUt+oZUsiWFaLDWwZ4Sx0Aao346Dx3YeC/bKV2JxUJT10ElTiZQygRyaK/nnesMdmeP3Jz9xR5GJqVoyx8mpKlcLAogdp7BErkao6nLlwKD8YR5JoDDxhSt+gn/VRAd+vtWEv8eNdSQLj3RH1BPYPtcA0VCABF0WJ7X+GL3Na6aypNe/ggiuXesVm5Tw6kZL4586v8XpoKIfa0psKTFblqkGUkAH7fY87glbYuoyAe6fJur7tVd8WSIYiAZOqVG/A5MbKNuFWh9q9v1o83Hx0x4uqVLKOGtrXI8Uh1xZcXGcyiYHpwnTkzVOHLRy/uzcbGFbyIAxfJKnQZ5FDgiPAxHHEwxQNHl7RiAOgmlWrbngtLo1z08yP/aB/9Q9MfmoM+SfieEdzoXQlB4h4syDwWSca/5E7evMk555XWRTQviPTW74OugH0Z24YS37oq+tC7VPJbbYbhPbimEpm6aWcuA==;gELW4vvQcjE3So3hErdV4A=="
 ---
 

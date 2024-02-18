@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Altman urges collaborative regulation of artificial intelligence"
-    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
-    publishedDateTime: 2024-02-13T13:50:00Z
-    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-
 secured: "UAHeBRXbFBRe08kmGfk9vrrBHgpjIpNt1H5yfJdFZfByRxszZJCbtY0I6szZ3O5Zad5DKBch77yyqvPDI69ctOTCSuWVbs5WBDzgAp6rGIkLoMf9RaXh43YsT2SNjtJEMm0i3Y7x0z5mIw6q8lfpvHuJS6BygJrDbGyZTp/TnwYc84JW6p3AXGAgAlFJKHvz0fn6RHmeYuQ6VQgtSOimbB/sUcGuRBkvljbM8jBieL0+WykDkVHncdUCw7iPES+wSI3gI3y4jv4ChHMxsQy0HrUVfHVAjDTDiyhxRWNEH8G4QeRZhoIssAPeQ3sFhtZa/lY98gv9VbVZrzGebc5HMESR6vqMpqG1YLJuVmosZITmB0VUZ9mPxNOkGTCOh+4lLWTr+uLpJwSaGjXgVRorqFVxUeKEUXV6IsGykgwqBsfNbtgHyRyBlnknZXpdxzyBDH8Nn6BqyLaqkf4rCCrXdwYK4mTEfsD/PqcFw/WfnXFm8N58vb9EzmGzNesAbD8PdOJ1lYwm4OH2lSOIrtIYJQ==;lZUrcXAL1AOngYh/W246kA=="
 ---
 

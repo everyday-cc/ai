@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/revolutionizing-cxm-with-generative-ai-insigh
 webUrl: "https://www.unite.ai/revolutionizing-cxm-with-generative-ai-insights-from-everest-groups-enterprise-readiness-report/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 400
     height: 240
     isCached: true
+
+related:
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-16T12:12:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
+    excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
+    publishedDateTime: 2024-02-16T04:43:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
+        isCached: true
 
 secured: "HZjkczG9LcspY1IbpeX2vAhrvmPybXVdAN/V1wSADq68epbOTW007matuEeeBVgegsb2iqxy/x9jlwag22WeQ1pmYV0DC2AsiyaJjq/ITEmalFxBFpWD1Ub24e03Y3L15ysf5GgPreMmcMHGtReHQ8NovMZTi9qLP1m9OU9cBxubO4JZ5ghzsWXHyXTVpvG5yarqRN5oIiFdwh6gxhqrR8pNIIzvPWRrE7EP3xl4/RV7qZa5DSi7nKaNd/AY8aW6c7hZskaTi351tqffRYHsFlyJ2c3EnUi58uNKaadBKVzLxqUmDQm1KAojmm+Bnf+F16dU0SvrtK5EzZe1fk1Zwvp2cYeO/Xq/dldaxyXiZ50=;WKsyd6ZOknUaEmstfNe9UA=="
 ---

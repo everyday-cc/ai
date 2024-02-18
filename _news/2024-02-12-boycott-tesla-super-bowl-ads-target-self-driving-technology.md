@@ -1,81 +1,22 @@
 ---
 category: news
 title: "‘Boycott Tesla’ Super Bowl ads target self-driving technology"
-excerpt: "(The Hill) – A pair of Super Bowl ads went after Tesla’s self-driving technology on Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a 2023 Super Bowl ad campaign, which featured ..."
-publishedDateTime: 2024-02-11T20:59:00Z
-originalUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/"
-webUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/"
-ampWebUrl: "https://www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
-cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/business/boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+excerpt: "A pair of Super Bowl ads went after Tesla’s self-driving technology Sunday, asking viewers to boycott the company and claiming that its vehicles are unsafe. The Dawn Project’s ads follow a ..."
+publishedDateTime: 2024-02-12T10:59:00Z
+originalUrl: "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/"
+webUrl: "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/"
+ampWebUrl: "https://thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4462211-boycott-tesla-super-bowl-ads-target-self-driving-technology/amp/"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
-  name: ksn.com
-  domain: ksn.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.ksn.com/wp-content/uploads/sites/13/2024/02/657a5044890126.50541840-e1707735341246.jpeg?w=1280"
-    width: 1200
-    height: 800
-    isCached: true
-
-related:
-  - title: "Tech CEO calls for Tesla boycott over self-driving capabilities in Super Bowl ad campaign"
-    excerpt: "Tech entrepreneur Dan O’Dowd, a fierce critic of Tesla, isn’t pumping the brakes on his campaign against the automaker’s self-driving software."
-    publishedDateTime: 2024-02-12T15:03:00Z
-    webUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/"
-    ampWebUrl: "https://www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/02/12/tech-ceo-calls-for-tesla-boycott-over-self-driving-capabilities-in-super-bowl-ad-campaign/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 65
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2024/02/Tech_CEO_calls_for_Tesla_boycott_over_self-driving_capabilities_in_Super_Bowl_ad_campaign1-1.jpg?w=1024&h=679"
-        width: 1024
-        height: 679
-        isCached: true
-  - title: "Elon Musk's Tesla slammed for dangerous self-driving software after accidents"
-    excerpt: "The Dawn Project claims to have brought attention to the risks associated with Tesla's self-driving software with the release of their new \"Boycott Tesla Now\" adverts, which were shown before last night's Super Bowl LVIII. After several accidents ..."
-    publishedDateTime: 2024-02-11T23:59:00Z
-    webUrl: "https://www.thenews.com.pk/latest/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    ampWebUrl: "https://www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    cdnAmpWebUrl: "https://www-thenews-com-pk.cdn.ampproject.org/c/s/www.thenews.com.pk/amp/1156988-elon-musks-tesla-slammed-for-dangerous-self-driving-software-after-accidents"
-    type: article
-    provider:
-      name: The News International
-      domain: thenews.com.pk
-    quality: 56
-    images:
-      - url: "https://www.thenews.com.pk/assets/uploads/updates/2024-02-12/l_1156988_084110_updates.jpg"
-        width: 700
-        height: 390
-        isCached: true
-  - title: "Safety Group Urges Tesla Boycott With Super Bowl Ads, Targeting Self-Driving Software's Safety Issues: 'Deny Them Your Money'"
-    excerpt: "The Dawn Project's ads call out Tesla's inaction following fatal crashes on roads where the company acknowledges its software isn't safe to engage."
-    publishedDateTime: 2024-02-12T05:10:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37062459/safety-group-urges-tesla-boycott-with-super-bowl-ads-targeting-self-driving-softwares-safety-issues"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37062459"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37062459"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Tesla-CEO-Elon-Musk_9.jpeg?width=1200&height=800&fit=crop"
-        width: 926
-        height: 617
-        isCached: true
-
-secured: "h27DVdhHEdHaOn2sEj1/YufGYJ2kx1xSOBfR4Tpg12r9BIBHu23ctljASGqYA1o40O6YiqHCCp+QpLPCsndcAOookytXgEmOmG4jj4wyE4T/IcL9L3KZzlUgbRBjLBa7kVHlcr8zubPCBCJTpJMoCiCfGTEKBIlHt/nn1QIrLEA2EjhaMKRoN7LoA47uhI4GiXKemxqAnLl+OV4e0hK4TsLpX+7E4npKiltMJsOOYSHocTASJ0v2dddv2n6bRSkIASjVijnCQwoWTiJ6QJOjpwFIo9TJdr6QJuJqQj7QcwP8ek4+TRopBZUrcds2jr1NoALwkVP4RG2GgQa7oXo8FUeV4MpaC9OQ77CDAIH06c0=;BS+nic+yZCRzbjGi05bM1w=="
+secured: "cmUvcKg2LkubiKW4CmeLb0GNxGRF5CtrfIGAUO09QbiUd6TlOu8fo38hwK8TsxbVqgg4TKKfommhpfc8TtvAqJ1Sz0ulTiG+R0ZDV+T+qZFy09d+BuU/Cwb2xX+cSsL0EscdKvj+sl6xLT8dViVxX11YmlXNa/r+5iozoD314y+iEJvTCbfTfSBOyrwYPruDS0qphKZ/09CMqQWks5tCo0jCeP87cPbEPpNQY/E57vyi1N4I237cjlFluhPKUfxRVpprewqZD+1km1T5JnqiRoYVPLBuPkYgZjemJd88FZ1nRLqa+K1jyluWGDL0Lo+XZRLhmHt1TpKDHHxWpDPwAlaaUvrVqvhFgwVYC08/830=;HM0cLM78HS5OIPaDF5gwbA=="
 ---
 

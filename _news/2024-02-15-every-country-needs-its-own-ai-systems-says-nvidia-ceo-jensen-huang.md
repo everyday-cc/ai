@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-ne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO calls for “Sovereign AI” as his firm overtakes Amazon in market value"
-    excerpt: "On Monday, Nvidia CEO Jensen Huang said that every country should control its own AI infrastructure so it can protect its culture, Reuters reports. He called this concept \"Sovereign AI,\" which an Nvidia blog post defined as each country owning \"the production of their own intelligence.\""
-    publishedDateTime: 2024-02-13T16:41:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/nvidia-ceo-calls-for-sovereign-ai-as-his-firm-overtakes-amazon-in-market-value/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
     excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
     publishedDateTime: 2024-02-16T17:32:00Z

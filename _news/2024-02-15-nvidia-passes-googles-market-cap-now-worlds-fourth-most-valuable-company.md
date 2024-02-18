@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-mark
 webUrl: "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Ars Technica
@@ -43,15 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Nvidia Overtakes Amazon in Market Value: ETFs to Tap"
-    excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
-    publishedDateTime: 2024-02-13T16:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-overtakes-amazon-in-market-value:-etfs-to-tap"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 34
 
 secured: "a/tlYI0zkpZJolimG/UxrIakAoylAhnHqq8udy17ALo+N3RIKzVzisk7tK1kUP1F1VBIQeuX/EY3vA9l5dHfbArRn3+47yqWjecT7n10Jac4WxXaSAZchY5PXrc0ODLtY+1Qi2K0uNzOxi1MFfENFH1BarrbDFbni9KHZE2WUq1OaL5wysQMuzAzG5a9PP9ehsRN/pEDlXVQB/UxaCvHccNMCbFULuHKcGnOX4SvGGByVzXK2kK5Pokbl1TE4C27W6mmzbsq8gfdfrHdnsgBdyQFdsG/yf1ivVPwcZkic9O9b4YJKI42E0jL4Z1IOaCYcpyulhCsqM5AHiLGwRACiqLXibd4w6Irw/976tn7dig=;o5QIYqQDci9FIK8Et9vmVg=="
 ---

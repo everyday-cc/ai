@@ -7,7 +7,7 @@ originalUrl: "https://fedscoop.com/mitre-air-traffic-conversation-ai-tool-faa-do
 webUrl: "https://fedscoop.com/mitre-air-traffic-conversation-ai-tool-faa-dot/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -24,56 +24,6 @@ images:
     width: 505
     height: 337
     isCached: true
-
-related:
-  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
-    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
-    publishedDateTime: 2024-02-14T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
-        width: 1080
-        height: 810
-        isCached: true
-  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
-    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
-    publishedDateTime: 2024-02-15T04:02:00Z
-    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Sibli raises $4.5m for AI-powered investment research"
-    excerpt: "Sibli, a startup using AI to help asset managers in the investment research process, has raised $4.5 million in seed funding."
-    publishedDateTime: 2024-02-13T13:19:00Z
-    webUrl: "https://www.finextra.com/newsarticle/43690/sibli-raises-45m-for-ai-powered-investment-research"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 17
-  - title: "Australia Fintech Activity Declines Amidst Global Slowdown – Research Report"
-    excerpt: "Australia saw a 76% drop in fintech deal value \"in 2023 to US$587.5 million, while the deal count fell by a third to 95 transactions.\""
-    publishedDateTime: 2024-02-16T18:17:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221470-australia-fintech-activity-declines-amidst-global-slowdown-research-report/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 1
 
 secured: "B7J9+tvEWWqrpffmTo7VziVgAQZPWDskWOor4I0rF8kaYmo4FjgfmXIRWfIGsyFDmePwVJiMWsQxRdtUcaoeuJ8JSod8jYgOiIpQ4LihgkfX0HCbHYFt2KiWxdKnBYrqmbxF55D2A9K9+xE2UWx6vYg1IJ+ifBXy5y8+JGRaDEPDxtHmmM3QA5nlNG7W9q86Gb8wrwIige+OASC9gsbq6VpncRWmxSzT9uovAlE7JADs6EWumIzk4pkMpNkKrrSJKBfTGhXrMwTCuJmZmez4kHU8bH0le4lzNCp0jBbtvKjflKNb33gnF7DLhCgJ3wHR0tKk25NiFX1rfO6SoZIuUGeQgem6aRbBikjcNMZzocSa4IAemQf4+MGEoamgQPZ7W66sbwi40uYPDS2eucdcVE0HIvmhg+E8W0J/b64SBc+L8inUayGF4QMmE35MKnDrYUFciRAWBK3HKTrpXvj66Qlft1F/fAGJyJyg92P8IFYZdGbcnbaCP9mQ1BDoVV94AgXmDuyfkPMTCy9rv0cvAg==;BZS5XsmJPSrdB8bwnpTrKg=="
 ---

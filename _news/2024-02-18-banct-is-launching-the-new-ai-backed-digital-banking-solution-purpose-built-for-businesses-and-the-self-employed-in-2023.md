@@ -25,95 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Cementing The AI Business Model Foundation"
-    excerpt: "Technology business leaders need to reassess their approach to AI and focus on building a solid foundation for their business’s future."
-    publishedDateTime: 2024-02-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
+  - title: "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape"
+    excerpt: "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,"
+    publishedDateTime: 2024-02-14T04:47:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 64
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "10 AI Tools For Australian Businesses In 2024"
-    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
-    publishedDateTime: 2024-02-14T03:07:00Z
-    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Navigating the ethical challenges of artificial intelligence"
-    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
-    publishedDateTime: 2024-02-13T23:16:00Z
-    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
-    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: OPB
-      domain: opb.org
-    quality: 54
-  - title: "A look at Dubai’s focus on infrastructure and capacity building for businesses of the future"
-    excerpt: "The Dubai government has been supporting experimental initiatives that aim to foster an environment where businesses of the future can thrive., Leaders of Tomorrow News, Times Now"
-    publishedDateTime: 2024-02-16T06:03:00Z
-    webUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571"
-    ampWebUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 48
-    images:
-      - url: "https://static.tnn.in/thumb/msid-107743729,thumbsize-135486,width-1280,height-720,resizemode-75/107743729.jpg"
-        width: 1279
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
-    excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
-    publishedDateTime: 2024-02-16T15:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
+  - title: "Tech spending shifts to meet AI demand, forces a 'reshuffling of skills' for workers"
+    excerpt: "With AI 'sucking the air out of almost non-AI investments in the whole tech world,' companies are cutting what they believe are unnecessary jobs — and replacing them with AI-skilled workers."
+    publishedDateTime: 2024-02-14T07:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 48
+      name: Computerworld
+      domain: computerworld.com
+    quality: 52
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Artificial-Intelligence-767x633-1.jpg"
-        width: 767
-        height: 633
+      - url: "https://images.idgesg.net/images/article/2024/02/shutterstock_1469452646-100960338-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Otter AI Knows What You Missed On Boring Business Calls"
-    excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2024/02/13/otter-ai-knows-what-you-missed-on-boring-business-calls/"
+  - title: "Revolutionizing Cityscapes: The Power of Tech in Unveiling Urban Decay"
+    excerpt: "Exploring the innovative intersection of technology and urban planning, this blog delves into how object detection models are revolutionizing the way we measure and understand urban quality by identifying signs of physical decay in our cities."
+    publishedDateTime: 2024-02-14T04:22:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Integrators sound off on RMR, artificial intelligence, scaling up the business"
-    excerpt: "Four integrators sat down with SIW during the Cloud Security Summit in Austin to talk about the breakneck pace of technology innovation and how they’re balancing growth with"
-    publishedDateTime: 2024-02-13T20:40:00Z
-    webUrl: "https://www.securityinfowatch.com/integrators/article/53096413/integrators-sound-off-on-rmr-artificial-intelligence-scaling-up-the-business"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 13
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 44
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2024_13_52_37_7751892.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "luEsTHlaVC9d9ZnZNyu+ScTI7egMbzcAfRis22blgf9qm3Yev7X4mcS+A32ZvzbsSSElE7/hU3dwh2ZE9ZcHY1q2VA3g8Kwmdkvcbkhi/AH1oViFF1xe/3fp9AGmZibBFOUga82LgjP22XxQj9cMwAkUgwVadu+MvLbCZ+csjAndG0VDuaPFgzWj+4AOe+4v/GBx8sliTOQkHz9FH3WyKcRqrS/Q0yBAYl1UQa1wuZpMS/iz50zk8mgG7n8P7COz8cE1xI9qeqmFYhJItkPapJ2k6ttkB7cWMCPaXRVvJ1vf8GpdFhyW3vjfdZd45XDTuHp+0KcIpSWl6b89Ox0m5ouKYxYyAYIX1FCudqibEW8=;pxp+WT6vRExpTwrLjy5FeQ=="
 ---

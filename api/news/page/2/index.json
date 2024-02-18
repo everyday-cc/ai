@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
+      "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
+      "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf86014c1349603be73537/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1333,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/16/lex-friedman-weighs-in-on-the-future-of-ai-language--and-existential-self-reflection/amp/",
+      "publishedDateTime": "2024-02-16T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-supermicro-cooling-the-ai-boom.md",
+      "title": "Supermicro: Cooling The AI Boom",
+      "excerpt": "Supermicro’s stock has gone off the handle because anyone planning to run AI needs the sort of systems it produces to cool their country’s worth of electric space heaters down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf5c2b87d81eacee1f70c4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/",
+      "publishedDateTime": "2024-02-16T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-reducing-defects-and-downtime-with-ai-enabled-automated-inspections.md",
       "title": "Reducing defects and downtime with AI-enabled automated inspections",
       "excerpt": "IBM harnesses the power of data and AI to drive real-time, predictive business insights to help clients make intelligent decisions.\nThe post Reducing defects and downtime with AI-enabled automated inspections appeared first on IBM Blog.\n",
@@ -210,7 +314,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -408,7 +512,7 @@
       "originalUrl": "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -962,7 +1066,7 @@
       "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1141,112 +1245,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu.md",
-      "title": "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU",
-      "excerpt": "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-ai-chip-tags-can-fight-espionage-from-hostile-states-report-says.md",
-      "title": "AI chip tags can fight espionage from hostile states, report says",
-      "excerpt": "A new report from Cambridge University warns that AI regulators are overlooking hardware. They advise a firm focus on AI chips",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
-      "originalUrl": "https://thenextweb.com/news/artificial-intelligence-safety-report-ai-chips-hardware",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F08%2FUntitled-design-7.jpg&signature=ed5fd8439b7f9bad42f23c6236f0987a",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T16:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

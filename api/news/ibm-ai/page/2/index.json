@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-02-examples-of-sustainability-how-new-efforts-are-shaping-the-environmental-future.md",
+      "title": "Examples of sustainability: How new efforts are shaping the environmental future",
+      "excerpt": "With new tools and technologies in hand, organizations can find new ways to use it to reach their own goals—and a more sustainable future.\nThe post Examples of sustainability: How new efforts are shaping the environmental future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/sustainability-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T18:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-how-the-recording-academy-uses-ibm-watsonx-to-enhance-the-fan-experience-at-the-grammys.md",
       "title": "How the Recording Academy uses IBM watsonx to enhance the fan experience at the GRAMMYs®",
       "excerpt": "Through the GRAMMYs&#174;, the Recording Academy&#174; seeks to recognize excellence in the recording arts and sciences and ensure that music remains an indelible part of our culture. When the world&#8217;s top recording stars cross the red carpet at the 66th Annual GRAMMY Awards, IBM will be there once",
@@ -1276,48 +1318,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-01-25T20:39:42Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-mro-spare-parts-optimization.md",
-      "title": "MRO spare parts optimization",
-      "excerpt": "MRO processes increase service levels, function safely and sustainably, operate efficiently and reduce unplanned and costly downtime.\nThe post MRO spare parts optimization appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "originalUrl": "https://www.ibm.com/blog/mro-spare-parts-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T16:45:34Z",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",

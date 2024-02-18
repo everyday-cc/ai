@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autop
 webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 48
-  - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
-    excerpt: "Evergreen, Colo. - Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
-    publishedDateTime: 2024-02-13T16:15:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2024/02/13/tesla-worker-killed-in-fiery-crash-may-be-first-full-self-driving-fatality/72583572007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 16
 
 secured: "Qv6cvr52GyKFiv8RHVjeqsWKq3AM6kPr24BILdYgIkniLuOM/CXNfrdb4BbOmC8pWDLsscQMixCPRbr29yuW8Dl3zc0hyfP4Pcv8SxQbndUKiOPi+kLFCYyWqtfoZPERMs0cF3O31eqbyZui982XPHHhNOQfwRX/2vj0LHkh+ApNx21tmy4cXkC1a1YBWjp8FlKf5KYqPM0ermd/LOAO0GvhtocC5HRluL9L8EMDxh1oLBz2+H8K38Z70au9enMWwI8zFkKx9K6uzmsmarXkMNKbu0LIRV0OaOiiicivpYZQI4D4dCSSKtQ7GatXp64hBLqZGKijwcfyUWDI8W4Ymm239/8Q4cj7iUR+X5EP8B3SKZrOda8zNA6je8hhrv6CpoIyUgL9SKB+aYxiiVAayppQdIApUXgkk/Sbioyg7pPcC9XCcwwgUM9JdUhYcTO37c7xvCRTfwhc3MoK1wRQfxIfbUpsyeofDzSjc3UkoNW3N8RHJSA0TNDY7qKg7BCUm62HcaM9bMiDCULhQLYWqQ==;c8i2xn9yRRWHDmxpQwWmOA=="
 ---

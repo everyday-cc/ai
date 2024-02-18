@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Nvidia CEO calls for “Sovereign AI” as his firm overtakes Amazon in market value"
-    excerpt: "On Monday, Nvidia CEO Jensen Huang said that every country should control its own AI infrastructure so it can protect its culture, Reuters reports. He called this concept \"Sovereign AI,\" which an Nvidia blog post defined as each country owning \"the production of their own intelligence.\""
-    publishedDateTime: 2024-02-13T16:41:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/nvidia-ceo-calls-for-sovereign-ai-as-his-firm-overtakes-amazon-in-market-value/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 64
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/nvidia_flag_2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
     excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
     publishedDateTime: 2024-02-14T04:35:00Z

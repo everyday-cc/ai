@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -114,7 +115,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -166,7 +167,7 @@
       "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {

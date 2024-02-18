@@ -41,15 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Rise Of AI-Enhanced Learning: Education For The Digital Age"
-    excerpt: "AI significantly enhances students' educational experiences by offering unprecedented, personalized support and innovative features. Here’s how."
-    publishedDateTime: 2024-02-13T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/13/the-rise-of-ai-enhanced-learning-education-for-the-digital-age/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
   - title: "Artificial Intelligence And The Future Of Creativity"
     excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
     publishedDateTime: 2024-02-17T10:10:00Z

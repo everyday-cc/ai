@@ -9,8 +9,8 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/elections-83-count
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: The Indian Express
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Bots Could Sabotage 2024 Elections around the World"
-    excerpt: "AI-generated disinformation will target voters on a near-daily basis in more than 50 countries, according to a new analysis"
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-ai-bots-could-sabotage-2024-elections-around-the-world/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/189AEB75-F1C0-4F86-AF02FD6E8BBE270A_source.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How AI deepfakes threaten the 2024 elections"
     excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
     publishedDateTime: 2024-02-16T19:04:00Z

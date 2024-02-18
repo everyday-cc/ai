@@ -21,51 +21,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Cementing The AI Business Model Foundation"
-    excerpt: "Technology business leaders need to reassess their approach to AI and focus on building a solid foundation for their business’s future."
-    publishedDateTime: 2024-02-14T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
+  - title: "Navigating The AI Wave: A Strategic Approach To Adoption"
+    excerpt: "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption."
+    publishedDateTime: 2024-02-16T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
         height: 900
-        isCached: true
-  - title: "10 AI Tools For Australian Businesses In 2024"
-    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
-    publishedDateTime: 2024-02-14T03:07:00Z
-    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "A look at Dubai’s focus on infrastructure and capacity building for businesses of the future"
-    excerpt: "The Dubai government has been supporting experimental initiatives that aim to foster an environment where businesses of the future can thrive., Leaders of Tomorrow News, Times Now"
-    publishedDateTime: 2024-02-16T06:03:00Z
-    webUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571"
-    ampWebUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 48
-    images:
-      - url: "https://static.tnn.in/thumb/msid-107743729,thumbsize-135486,width-1280,height-720,resizemode-75/107743729.jpg"
-        width: 1279
-        height: 720
         isCached: true
   - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
     excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
@@ -81,38 +51,15 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Otter AI Knows What You Missed On Boring Business Calls"
-    excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
-    publishedDateTime: 2024-02-13T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/barrycollins/2024/02/13/otter-ai-knows-what-you-missed-on-boring-business-calls/"
+  - title: "Navigating the AI Career Maze"
+    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
+    publishedDateTime: 2024-02-16T20:18:00Z
+    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
-    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
-    publishedDateTime: 2024-02-18T11:24:00Z
-    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
-        width: 333
-        height: 250
-        isCached: true
-  - title: "Integrators sound off on RMR, artificial intelligence, scaling up the business"
-    excerpt: "Four integrators sat down with SIW during the Cloud Security Summit in Austin to talk about the breakneck pace of technology innovation and how they’re balancing growth with"
-    publishedDateTime: 2024-02-13T20:40:00Z
-    webUrl: "https://www.securityinfowatch.com/integrators/article/53096413/integrators-sound-off-on-rmr-artificial-intelligence-scaling-up-the-business"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 13
+      name: HHS
+      domain: govinfosecurity.com
+    quality: 17
 
 secured: "32cB4Oftkx8DSkVCqkThHDR0Z9TcNBq19D5gto0KOCi/5LFvjWHLef+UAOok581dqWtkA8pyd8P/EkyEn2e8P8SXvsP0BjnMjrLv+8pfmzfWz5ainyFJGeInRpJvEqHEVB2/6bKKaG4IwkX1Ja+R43DsbP8e3yg48tLgX/DTKACpE27m4F0FwDZpjKYkjuQc06EHHQr3W7SDYM2+TbVZA7OQBDiT6lTf+gcWtYP/mz6A/0BGrN4p7dIpgTRXM+haoCGylJbvccEC5TI6fW8s1lro30/ySrDQMOecb+S+OIUeip/L1A9VavOmgCT2eXaj9aggGrQy9Z0VlcVQo6T1GGrC9LDSl297MvJt00lakVpK8BvF3Eo5cIYL1dlC+NkofQfyHRdaL74fyeTSFwghw3qZ/0OD8JzQ1izbq54Rh6EsX0FrIrJLVOUbX7uzVg6jivLKPnWLu9i9ROrDmGbEBicVGrs6SLGc9KRd+wQ9yPzmjrQvm7KYRksBT5kWMoPMTYYvZRSLy2Qek8U2XvqObA==;qqTiIhzZMuRD+ox9j44dIA=="
 ---

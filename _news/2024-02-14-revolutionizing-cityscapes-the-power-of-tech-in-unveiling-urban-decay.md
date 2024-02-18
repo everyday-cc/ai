@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
+    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
+    publishedDateTime: 2024-02-18T11:24:00Z
+    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "te8dq1pqe8NwrZEZF7+c7qggDP3HKMyRsgEe8mAH6xUk1twu8wLA2qZnup9mT8N9dl8jThq5893eet60H1Rz8eCPCuroAkUICY8O61JOftzBqjN6d5eFDLCypARvvKZuniqhN6/KYGnVJGbY7y6lkQme65IRO+4PiXGXBa8nPZmqKea2/FAJQSHudRMmW/o40mIPPAgCfCwREXkYk5tPkwOI/WLB9L9WbMJOijLTVIrPR9O5zZBZkFF44F/jyGP8xIc9b+MxBv6SgfSNeY/c9zGZzWVPbFvvBWl703ZHkI//Jty8kmc4SKEIJHFIbbir1FNX0FC8ZJWHIPR+O9k1pMPcSxp7e25zaIXPORCX8cA=;3D4gu2CmQ4sSbfgqNRk8qg=="
 ---

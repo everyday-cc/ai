@@ -55,20 +55,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS"
-    excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics. A Data Governance and Acceleration engine backs it with a choice of using Industry Leading LLMs and a consulting framework to enable effective adoption and faster time to market."
-    publishedDateTime: 2024-02-13T14:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961283.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
     excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
     publishedDateTime: 2024-02-14T05:43:00Z
@@ -125,20 +111,15 @@ related:
         width: 714
         height: 422
         isCached: true
-  - title: "VAST Data and Run:ai Revolutionize AI Operations with Full-Stack AI Solution Powered by NVIDIA Accelerated Computing"
-    excerpt: "VAST Data, the AI data platform company, today announced a groundbreaking partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration marks a monumental step in redefining AI operations at scale,"
-    publishedDateTime: 2024-02-13T16:07:00Z
-    webUrl: "https://insidebigdata.com/2024/02/13/vast-data-and-runai-revolutionize-ai-operations-with-full-stack-ai-solution-powered-by-nvidia-accelerated-computing/"
+  - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
+    excerpt: "Alteryx, Inc., a leader in AI for enterprise analytics, today announced its expanded partnership and product integrations"
+    publishedDateTime: 2024-02-14T19:40:00Z
+    webUrl: "https://www.datanami.com/this-just-in/alteryx-and-databricks-fast-track-ai-for-enterprises-with-deepened-integration/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 16
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2024/02/AI_shutterstock_2255757301_special.png"
-        width: 1100
-        height: 550
-        isCached: true
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
   - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
     excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
     publishedDateTime: 2024-02-15T16:28:00Z

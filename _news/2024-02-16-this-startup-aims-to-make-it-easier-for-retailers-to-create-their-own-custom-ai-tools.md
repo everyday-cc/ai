@@ -92,20 +92,6 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "Job seekers say they are using AI tools in the job hunt"
-    excerpt: "In particular, job seekers said they already use or plan to use AI to review or enhance their resume or cover letter, match their skills to potential job opportunities, research prospective employers, receive interactive career coaching and automatically apply for jobs or manage their applications."
-    publishedDateTime: 2024-02-13T16:37:00Z
-    webUrl: "https://www.hrdive.com/news/job-seekers-ai-tools-job-hunt/707368/"
-    type: article
-    provider:
-      name: HR Dive
-      domain: hrdive.com
-    quality: 37
-    images:
-      - url: "https://www.hrdive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
 
 secured: "M8/ge8Z/vrVJzOuUrmBj4rwCdpl5q0EX3KOHtkhLRRJ4uZ/2zSWbqVNWUCKTmMV2TzgMSt6XowmL+Nv5/V7ZDsY5KHHCUoVY+s2sJuPAoCO6C4yxnC1wP6s0y8AuBYfnU1DwQ39TeMZBlkq1vT2iLU8cAUwefCNUQlmu3VYs0RFz6mMyrmeu9jU7yisJvrri4VsNeefRu/9WDjvjwOtBsowotcimI/XpYRud0y0a05gykkoRcxwZFM+pWydinQPiJ6XraY4qVxc+CTHg5cB3ETYK5fRNH/omG7rbMPQpYO1QLz8xde+oIhFCblqLA3HHf5LLAwz4awINLHyri5ip2kfYIP5yWAMxVQ5MCgkI3pLprrezomufE83+ZP8e00gCTSZvKt9o/FWwMXFfIgH7rro63fcQJLz6/kDY6h1Cn/v6y4tUYcylPsvTYqJQVg81rGTLk2iuVk+Ni63r/5Em5KvhdGg3Uc1TSGqNeKhKENL1bzcu6APHSaECHxDmCUt29C9EyQ4zSV9+2aabBYzRFQ==;+GfAo1jQXN6Ng42GSz20UA=="
 ---
