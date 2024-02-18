@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 559
         isCached: true
-  - title: "Elon Musk Brags That Tesla Is \"Very Close\" to Full, Level 5 Self Driving"
-    excerpt: "The artificial intelligence systems used in self-driving technologies do have limitations — and not just related to software, but hardware as well. According to Musk, Tesla is working on heat ..."
-    publishedDateTime: 2024-02-13T21:53:00Z
-    webUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 53
-    images:
-      - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
     excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
     publishedDateTime: 2024-02-14T19:18:00Z

@@ -130,20 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
-    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T20:39:00Z
-    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "J0AL2kyTBGB4T4jm5u2hFoFBC7/nxtQtHYvnEMcJpbaLebg4oZuBmYwLPLkcp8aBPtGBCQw+jlXdg88n8xEBWr9RWDaVrfMwcRWWjUzY4rA5B2E2NBGHJvwlvXzX/Oi49dR9AO9eMGHM3PwG/FNfcU1k2X0Oon4K9zbbV7NpM7bydJ+787k3bt4pI6+Dk7mhuXRqhjsdViufOU4N30DRHorMV33IN8HkRwKYzWD2iZ5HtCC9A7Db4DgX9WGrQDEMOV3Mcm6p1gLOAsrXgeIMFfHk9Kzon4E5CiayUBWsEYYCo1viKEqoqb9eadh0Vsu0roae388JdDTz6XuUvh99RU9HKVfm42hVdNIeKstPI4M=;VohHmDgG8SH0qC80NerXQQ=="
 ---

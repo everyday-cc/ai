@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://edsurge.imgix.net/uploads/post/image/15736/AI_disrupting_jobs-1707829795.png?auto=compress%2Cformat&w=1024&h=512&fit=crop"

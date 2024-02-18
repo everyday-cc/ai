@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Florida vs. Auburn March 3 Women's Basketball Tickets & Start Time"
+    excerpt: "Florida Gators vs. Auburn Tigers women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-18T22:22:00Z
+    webUrl: "https://www.wjhg.com/sports/betting/2024/03/03/florida-vs-auburn-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WJHG
+      domain: wjhg.com
+    quality: 22
+    images:
+      - url: "https://gray-wjhg-prod.cdn.arcpublishing.com/resizer/v2/47FYBVGD25KPZOU53IZCTZOZXU.jpg?auth=c22ae29183af43bc56724972c2c7a7d28a8cb86f11e59760c1ca9286ae959041&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Marquette vs. Creighton March 2 Tickets & Start Time"
     excerpt: "Saturday's Big East slate includes the Creighton Bluejays (19-7, 10-5 Big East) against the Marquette Golden Eagles (19-6, 10-4 Big East), at 2:30 PM ET on FOX. If you're looking"
     publishedDateTime: 2024-02-18T16:20:00Z

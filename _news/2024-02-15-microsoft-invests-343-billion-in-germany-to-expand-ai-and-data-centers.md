@@ -19,221 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft Cloud For Sustainability Gains Data & AI Capabilities"
-    excerpt: "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress."
-    publishedDateTime: 2024-02-13T21:46:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
+  - title: "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation"
+    excerpt: "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries"
+    publishedDateTime: 2024-02-15T11:02:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Zawya
+      domain: zawya.com
+    quality: 53
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZmVlMGNkODgtNGUzYi00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 601
         isCached: true
-  - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
-    excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
-    publishedDateTime: 2024-02-16T00:01:00Z
-    webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
+  - title: "UiPath announces new developer features at DevCon 2024 to bring latest in AI-powered productivity to developer community"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced at the UiPath DevCon 2024 event a host of new features in its platform designed to enable developers to build, test, and accelerate implementation of automations."
+    publishedDateTime: 2024-02-18T22:13:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-announces-new-developer-features-at-devcon-2024-to-bring-latest-in-ai-powered-productivity-to-developer-community.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 100
+      name: ITWire
+      domain: itwire.com
+    quality: 14
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 750
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
         isCached: true
-  - title: "Microsoft and Google are proud AI is helping you (other companies not so much)"
-    excerpt: "Google, too, showed an exceptionally touching example of AI overtly improving someone's life. Here, the company revealed how, with the new AI-powered Pixel 8, those with blindness or low vision can now frame photographs beautifully, as the phone's AI assistant guides them to the optimum framing."
-    publishedDateTime: 2024-02-18T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-google-are-proud-ai-is-helping-you-other-companies-not-so-much/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New report sheds light on Apple's upcoming AI features that will rival Microsoft's Copilot"
-    excerpt: "Apple has plans to launch an AI coding tool to developers as early as this year, per Bloomberg."
-    publishedDateTime: 2024-02-15T22:53:00Z
-    webUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/65ce8b2a6fcb546d2d50738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
-    excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
-    publishedDateTime: 2024-02-14T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/64765a1052b8527239cc8dfdf11cce380332116d/2024/02/13/71989f29-053d-450b-a7a5-228abcfd7a9d/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AMD’s Instinct MI300 series AI chips aim to redefine AI computing for Microsoft"
-    excerpt: "In a bid to revolutionize the AI computing landscape, AMD is set to introduce its latest innovation, the Instinct MI300 series accelerator. Reports from Windows Report suggest that AMD is poised to supply this cutting-edge technology to Microsoft at a reduced price,"
-    publishedDateTime: 2024-02-14T04:44:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/14/amds-instinct-mi300-series-ai-chips-aim-to-redefine-ai-computing-for-microsoft/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 77
-  - title: "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks"
-    excerpt: "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and"
-    publishedDateTime: 2024-02-14T20:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-  - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
-    excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
-    publishedDateTime: 2024-02-15T10:25:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
-  - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
-    excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
-    publishedDateTime: 2024-02-15T18:50:00Z
-    webUrl: "https://www.techspot.com/news/101896-microsoft-vision-net-9-development-framework-all-about.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
-  - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
-    excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
-    publishedDateTime: 2024-02-15T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
-    excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://redmondmag.com/Articles/2024/02/16/AI-Election-Pact.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 56
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
-        width: 647
-        height: 450
-        isCached: true
-  - title: "Microsoft to inject €3B into Germany AI, cloud"
-    excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."
-    publishedDateTime: 2024-02-15T16:38:00Z
-    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-to-inject-e3b-in-germany-ai-cloud/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/15160342/MWL_Microsoft_Germany_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
-  - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
-    excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
-    publishedDateTime: 2024-02-16T00:11:00Z
-    webUrl: "https://www.sdxcentral.com/articles/feature/ai-security-initiatives-comparison-microsoft-and-openai-vs-google/2024/02/"
-    type: article
-    provider:
-      name: SDxCentral
-      domain: sdxcentral.com
-    quality: 51
-  - title: "Microsoft reveals what’s to come in .NET 9"
-    excerpt: "We’re also turning our focus to delivering paved paths to popular production infrastructure and services, for example running in Kubernetes and using managed database and caching services like Redis,” the .NET team at Microsoft wrote in a blog post."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/microsoft-reveals-whats-to-come-in-net-9/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 49
-  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
-    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
-    publishedDateTime: 2024-02-16T12:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
-    excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
-    publishedDateTime: 2024-02-14T22:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23899803/micron-could-be-a-big-winner-as-intel-and-microsoft-push-the-ai-pc/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
-  - title: "Microsoft and Google invest in AI in Europe"
-    excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
-    publishedDateTime: 2024-02-15T14:58:00Z
-    webUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
-  - title: "North Korea and Iran using AI for hacking, Microsoft says"
-    excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
-    publishedDateTime: 2024-02-14T18:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/14/north-korea-iran-ai-hacking-microsoft"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "Uo2SyDy4awB5srMWkRt+1QjuJI4XKj7ohrPDRoVXBb0P8vOJ6ExYrG/1aVjEAbNdT3LrPMIbpEZsIvc877JagX8zGOePPLXHf1qHkfZNDuk/2c3mNhaAv/w8iiCcEX5PKXOS7nLN8CUTp3P+ghBeBQ4C/L0CUuQoEdCHe9On5iEXczGGs6qij89/eKOcUv9w3IauBwZye7AaUNw+U4mET0Mp5l89PZ50Uz4kgiXhDo7t70gICgilbYICO1wvqK0EI5RsW6+6LEo+GSSANPfVeaYRxYFAPho5SQYg9NeEl3uDpd+9d9ip26F84crWwiGZXBZHgqouhvb7QzRYOWAGXjZPph9BxqZZEmwkTj4KVLgM0pqeeqbvGTvYHuKWLtPiv/is98S1rb7X5QW4xobzKYVF8oFvgvSUieg9mc5t5bbT15Us6o0QAYTCKI5XIshdRFirlgjbVebpWzjfRNwA0uwcxew1p00wKG4hxlHLe3XgE79IB/UeL0KHXGjZ/1kRx3e5csPxRG2XMIBF4plxgw==;I0YcgHCfZs8QhIHS8WFcmA=="
 ---

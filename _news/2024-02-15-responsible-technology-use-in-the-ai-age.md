@@ -51,15 +51,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Responsible Use of Artificial Intelligence"
-    excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
-    publishedDateTime: 2024-02-13T22:21:00Z
-    webUrl: "https://www.databreachtoday.com/blogs/responsible-use-artificial-intelligence-p-3561"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 17
 
 secured: "EDspYSi/CAwwY/qm6o5bn4QkEbBlgv1sF4D8d/ng4xRr9SEERbO6z1CvGp+G3aGwMEnHpEjPBOnMCRVDCH2KTbBRIpG8l0upcZgdapBNW1uoUzq1X3RVEJckSmPuyEZW2l4XAWow7mNoMw5nJqzhzxZzBqfPv7Jr04w9WIyqkKTeoOcVigqe+8wSy/JVQNxYo4Ri81C/EjaWJfYvPy+kYRQv8Cnf+9wF0mHV80nn/oYgo8VK9LWl5Iz7d953WG1ccj5mo9M10S82anr6TSLHPRBYgYZv1O67uLPlunM94ndZT7EkEl9wP9mC93rjmm9gU98ij2XSgMSONDrk2w5MXC6pJGeZQxxkHDf8ZP+2LK2Vw6L2+aNJKwq0e5lTQoH3AfsnyAQcr/9egioV1oosRylcJbUBDM2lk9E3FgL+98Lemc8AdpEhNWdsjTuJtt4T/r8zCbwmIF9wEUy7dycPBA6Q6YB/3WmmAAgz9m26+XWBttcvWwiX1wxL7DozAeI/sRcA5b55CLNNfh68RleNMA==;YoKl9nsQ7rkTtgvniDt0jg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Can generative AI answer advisors’ call for personalization?"
+    excerpt: "A new survey from Totumai, a technology firm dedicated to enhancing advisor-client communications, offers a fresh perspective on the shifting financial advisory landscape, particularly with ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://www.investmentnews.com/fintech/news/can-generative-ai-answer-advisors-call-for-personalization-249477"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/08/Tech-AI_900x630.jpg.optimal.jpg"
+        width: 900
+        height: 630
+        isCached: true
   - title: "Cloud optimization wanes as AI slowly lifts off"
     excerpt: "Though cloud optimization is less of a factor, we think the macro will still drive consumption trends. Optimization remains a feature of cloud and cuts both ways – what goes up can still come down. That’s not a bug, it’s a benefit, but won’t always accrue to the cloud vendor. That’s OK – they’re doing just fine :-)"
     publishedDateTime: 2024-02-17T18:19:00Z

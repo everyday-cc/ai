@@ -111,20 +111,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "What comes after Stable Diffusion? Stable Cascade could be Stability AI’s future text-to-image generative AI model"
-    excerpt: "Stable Cascade uses somewhat of a different architecture than SDXL to generate images that Stability AI researchers hope will be more efficient."
-    publishedDateTime: 2024-02-13T21:22:00Z
-    webUrl: "https://venturebeat.com/ai/what-comes-after-stable-diffusion-stable-cascade-could-be-stability-ais-future-text-to-image-generative-ai-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image_437058.png?resize=667%2C659&#038;strip=all"
-        width: 667
-        height: 659
-        isCached: true
   - title: "One Year After GPT-4: What Generative AI Means to Lawyers"
     excerpt: "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field."
     publishedDateTime: 2024-02-14T21:38:00Z

@@ -24,22 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft Cloud For Sustainability Gains Data & AI Capabilities"
-    excerpt: "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress."
-    publishedDateTime: 2024-02-13T21:46:00Z
-    webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/"
-    ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbe197e0981b2a50f2c0f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference"
     excerpt: "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI."
     publishedDateTime: 2024-02-16T00:01:00Z
@@ -102,15 +86,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks"
-    excerpt: "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and"
-    publishedDateTime: 2024-02-14T20:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
     excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
     publishedDateTime: 2024-02-15T10:25:00Z
@@ -129,6 +104,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
+  - title: "Google unveils a more capable Gemini Pro AI as it seeks an edge against OpenAI and other rivals in tech’s hottest battlefield"
+    excerpt: "Demis Hassabis heads Google DeepMind, Alphabet's advanced AI research lab. The lab has helped to develop Google's Gemini AI models. The company has unveiled its latest, a more capable Gemini Pro called 1.5 Pro, that can process more data in one go than any ..."
+    publishedDateTime: 2024-02-15T09:05:00Z
+    webUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/"
+    ampWebUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 62
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1760047727-e1707947499536.jpg?w=840"
+        width: 840
+        height: 561
+        isCached: true
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
@@ -142,6 +133,22 @@ related:
       - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "OpenAI introduces AI model that turns text into video"
+    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
+    publishedDateTime: 2024-02-16T10:05:00Z
+    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
+    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
+    type: article
+    provider:
+      name: Ariana News
+      domain: ariananews.af
+    quality: 59
+    images:
+      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
+        width: 999
+        height: 599
         isCached: true
   - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
     excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
@@ -189,19 +196,19 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 49
-  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
-    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
-    publishedDateTime: 2024-02-16T12:20:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
+  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
+    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
+    publishedDateTime: 2024-02-16T03:24:00Z
+    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
     type: article
     provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 46
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
     images:
-      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
     excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
@@ -230,15 +237,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 34
-  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
-    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
-    publishedDateTime: 2024-02-15T09:52:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 33
 
 secured: "poS18/vuD4WCVD/fRcxwe5RmIG5Mr3vqKicBJZM985tkV3HRW7JVGXpPniJPkAFoTqtPuyqQU5jHrTt6JGDYFTG2wowY1C6EeSzBqP2Xfv9H4jbE12iR3k7xe1SqLZ507c0aGPi5smWILbydnK+QondFSJ3OV6YaKnkLh4NgZiPhgrikn6ZoizLsLUwgcDooELoIF9d9292Al9IBXNDmabhoUUTtW+5qdns6NQH3Osz6EY0maxjwCB1Eyy2ii4axYP7Fj+67hDkCjzLCIesj15YXbGQPe9+SUIC5oMkqgSDBssgy8UrZmW+brVLv4TW8dDHiW64aJXw0U5/QIvOZrqrjcvDBNUiVG7dcaCSWpbumWSU+Ux3hPv5AblxOP4+CCaA8mhc5sMZTapV1TPK22Lol1gP793GbYxVIphD6cL4Ys/ImkFUijKMR4w+a2bdyhYVJ329U63fmcDntx6YR02wepXduRo1TICdPCGjJ6M05borATCWWH+bCMrE242cVOC5DBvvDkr/fL3WOGZAF/Q==;QavPXqN6pxsK66YPJvhlqw=="
 ---

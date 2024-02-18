@@ -55,6 +55,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily"
+    publishedDateTime: 2024-02-18T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "Chicago startup Hackerverse selected for Google AI cybersecurity accelerator"
     excerpt: "A Chicago startup combining AI and cybersecurity was just named to a Google for Startups program. Learn more here."
     publishedDateTime: 2024-02-15T18:37:00Z

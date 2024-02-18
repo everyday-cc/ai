@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google unveils a more capable Gemini Pro AI as it seeks an edge against OpenAI and other rivals in tech’s hottest battlefield"
-    excerpt: "Demis Hassabis heads Google DeepMind, Alphabet's advanced AI research lab. The lab has helped to develop Google's Gemini AI models. The company has unveiled its latest, a more capable Gemini Pro called 1.5 Pro, that can process more data in one go than any ..."
-    publishedDateTime: 2024-02-15T09:05:00Z
-    webUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/"
-    ampWebUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 62
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1760047727-e1707947499536.jpg?w=840"
-        width: 840
-        height: 561
-        isCached: true
-  - title: "Google Rolls Out Updated AI Model Capable of Handling Longer Text, Video"
-    excerpt: "Gemini 1.5 can process far more data compared with what the latest AI models from OpenAI can handle, Google says."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/google-rolls-out-updated-ai-model-capable-of-handling-longer-text-video"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
   - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
     excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
     publishedDateTime: 2024-02-15T15:00:00Z
@@ -64,34 +39,15 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "Google Rolls Out Gemini AI On Ios, Android Outside Of US"
-    excerpt: "Google has started to roll out its AI service Gemini AI (formerly Bard) in English to more countries on iOS and Android."
-    publishedDateTime: 2024-02-14T10:57:00Z
-    webUrl: "https://menafn.com/1107850608/Google-Rolls-Out-Gemini-AI-On-Ios-Android-Outside-Of-US"
+  - title: "Google Assistant is a mess, but is Gemini really the answer?"
+    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
+    publishedDateTime: 2024-02-15T13:00:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_7.jpg?936495"
-        width: 560
-        height: 250
-        isCached: true
-  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
-    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
-    publishedDateTime: 2024-02-16T03:24:00Z
-    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Android Police
+      domain: androidpolice.com
+    quality: 4
 
 secured: "JSCrkFJyXErKzjGk4saUUtCWGC7kFh3c/nV16wjUj1IdBRk+jE0h0T0yHahWyQm4ujpSHA+knrgLA2VeJVGahPEJdgf04ugoFCyFLBbYsO88GJg6Ch06dLeXeB7H88XtJEVEfUaMxaSs4Zevi+pgTdDEY7vrurykYxr3lcRxOmtqTDgp6VLisHdPN9PQI7bKe8YRcK9cEErFKfgcY4Dmf6td2GzVJg6G1gqi3HdvGc4QlBxUEJYls9RjdotdH9eQyMn7zbieh9HVTAvKuQgl6xsme5jJqcVYTz0KdqxRZVUThgfzyAMzIS2oNiIqD7F+1GZLYdp1Mr67jkNbtWT/EPLAjr4qD2tlRt26Ji5aKVo=;fIF1jRLC8RBrtqKU5Uqgxw=="
 ---

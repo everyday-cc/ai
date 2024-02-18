@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Sunday, February 18"
+    excerpt: "See how to watch the 2024 DAYTONA 500 on Sunday, February 18 live streaming or on TV, with channel info, start time and more."
+    publishedDateTime: 2024-02-18T22:32:00Z
+    webUrl: "https://www.wrdw.com/sports/betting/2024/02/18/daytona-500-nascar-live-stream-tv/"
+    type: article
+    provider:
+      name: WRDW
+      domain: wrdw.com
+    quality: 12
+    images:
+      - url: "https://gray-wrdw-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "wFPKv2JJPd4zTSkYYrlZr/cBz0m5VshLQHqsJ05guoc4KBUIia7GwVp6ocyYfLoZ5SnJ1oM7TDQE+jsi6owXCBLwv3ZRZ0meEPz9b5CzVPdwnAy/HFW2WS73kcRuJkA7qzN8mz56Q4vUy1a9EFHZvdAfUGtUi6E5vWm/g60CRzqNvdnuBsaRTVWP2MzxX22vWbygIzvDdTkWJ3TU1OuFT1BwLxjqJqBlK/UHlFTo34ensH4dGkKlRAKPRMIJKsmZ0QWD3bP4pYlxbYit1c6ZzH4SJZXqPuOpxWsJCUCWeBJzRu9CQb9HGOrjh0v5kK477kB5j4GRuDUmHF1ESs3heybmhbzdMXQDPflsodV2iZg=;qfRu1/5T383kzY+aBMcr7g=="
 ---

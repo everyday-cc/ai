@@ -139,20 +139,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Fintech In The UAE Will Contribute $900 Per Capita By 2030"
-    excerpt: "Analysts of UnaFinancial have assessed the contribution of fintech to the well-being of the GCC region. By 2030, the UAE's fintech will add the highe"
-    publishedDateTime: 2024-02-13T21:05:00Z
-    webUrl: "https://menafn.com/1107848297/Fintech-In-The-UAE-Will-Contribute-900-Per-Capita-By-2030"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2024-02/13/M_ded1dimage_story.jpg"
-        width: 940
-        height: 559
-        isCached: true
   - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
     excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
     publishedDateTime: 2024-02-15T04:02:00Z
@@ -260,15 +246,6 @@ related:
         width: 720
         height: 455
         isCached: true
-  - title: "Forbes honors Sure on its Fintech 50 list for the second year in a row"
-    excerpt: "Sure's second consecutive year on the Fintech 50 follows launch of industry-disrupting innovations to unlock the potential of digital insurance. LOS ANGELES, Feb. 13, 2024 /PRNews"
-    publishedDateTime: 2024-02-13T20:54:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961635.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
     excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
     publishedDateTime: 2024-02-15T19:49:00Z

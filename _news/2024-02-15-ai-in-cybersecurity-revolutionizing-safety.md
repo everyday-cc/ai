@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily"
+    publishedDateTime: 2024-02-18T20:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 55
   - title: "Deep Dive into the Complexities of Modern Cybersecurity"
     excerpt: "In the unspoken conflict that unfolds within the digital realms of our world, experts like Senthilkumar Chandrasekaran stand vigilant. These guardians confront formidable foes armed with the predictive might of artificial intelligence (AI) and the analytical capabilities of machine learning (ML)."
     publishedDateTime: 2024-02-16T15:03:00Z

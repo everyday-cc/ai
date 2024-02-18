@@ -19,12 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg"
-    width: 3840
-    height: 2160
-    isCached: true
-
-secured: "xybo9XLrYvYXnseGMS5uxQGcB93AT1SSVcIOMc9dHWZdcg7NAPwHzI/rM+dMr70fh7fypqeDrjzquhknSyd+mdVgpU/cIVuM/7Dg9aLemMWHvI8KjQFFde7e0p0eo4PJSZlh9/+/0kLGLDVDhmhAkdJwyNnciKpTCTQx/4w6KTyFcuvXc/VyozowSw7gq2Cy4EXfuQrDSQYod7Wu6OEDVrFaVw3xc9YopcbpOdGdRZDn5hKOWwJ6bTj/qOgu6xw9QTHmPs5DIHl8GSzhZ0d3fnJU5tJJInzvUjTsQLzLa4Nu/Si9IOpUmxOa1OqNZk21fD7QHCQeoZP2WvFXhvVlWaW1Xe4oc2SxEHMbkP1bASU=;jDXxuue/9SSoR1h7LV9A2g=="
+secured: "K/79jzBOQvk3aF9nxEkQ2676gJ7FQ+HyUr+n6+dUxnAw1XO+fqvtofxfWZnL2Khq0qje3Cx8gpN0Mgb9gdB7J46ocXirsJSBVAUPffQFMT8GkClqhlNaTUJ1gIKV3fiDR8xdC7ft5+V60OfT72H812KP6ema/j59BpCrDl3TvAdFo8MC2fBnop7rFD2izBeEVAbWvsQJVQEr9NuE1B9A4I8/stpsrBWwDVhQ0SXLSTQaTU+E9MnSBdo6CZrIc828bQrQipjkvb0ciVGTjt/Q7Q3uwHAmPjENR7Xmz+noer1xZU4ObBW98pn++yWYVG1RUkTOkan02gWoFovOHR9iFi4HOb0KGjf9nHtAdQKiMLo=;9SH9yRf2X+n8z8SB68aYQg=="
 ---
 

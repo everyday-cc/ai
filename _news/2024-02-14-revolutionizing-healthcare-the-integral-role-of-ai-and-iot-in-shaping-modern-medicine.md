@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
 type: article
 quality: 96
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -177,6 +177,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Fighting Fraud and Financial Crimes in the Generative AI age"
+    excerpt: "Generative AI also holds the potential to transform fraud and financial crime compliance. By incorporating machine learning and network analytics into anti-fraud and anti-money laundering systems, organizations can significantly reduce the number of false negatives and positives, thereby enhancing transaction monitoring efficiency."
+    publishedDateTime: 2024-02-14T09:40:00Z
+    webUrl: "https://za.investing.com/news/fighting-fraud-and-financial-crimes-in-the-generative-ai-age-3010607"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 19
   - title: "3 Ways We're Already Using AI in Mental Health Care"
     excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
     publishedDateTime: 2024-02-16T23:16:00Z

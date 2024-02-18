@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/artificial-intelligence-use-cases/"
 webUrl: "https://www.ibm.com/blog/artificial-intelligence-use-cases/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Responsible Use of Artificial Intelligence"
-    excerpt: "Beyond the hype, AI is transforming cybersecurity by automating threat detection, streamlining incident response and predicting attacker behaviors. Organizations are increasingly deploying AI to protect their data,"
-    publishedDateTime: 2024-02-13T22:21:00Z
-    webUrl: "https://www.databreachtoday.com/blogs/responsible-use-artificial-intelligence-p-3561"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 17
 
 secured: "wwYOGdKlS5Qvq3OjqTxKgIiJYt58w9EaZ8iP86SIguABy1rDAD5LT5SBoEglPkxDH+y7oHD4KX4YxZx5LyGEk7kNs9w3Ymq29ryBSBzRA0+I05oJM8HlloMeaSg8LFFWqiiowVhNzz9dyG4r3pw+s97+izJWwL0ZLOxOHSPMOcvxsYCtDjZJD9eWabOcPDtwkUgp7fD8eHXWyjIbKw/e3Hs4uqAPT11EB0DXFG1HGi9tEt3o9szHDGWGbPNPdgO3fRq96LB6N44xGeFvGjEttif9N048Oy3STUFoaT3Fh/w/YJTidqaZiesCqqOiZ7yc5oCQIu8ZBmZa9Ll8CXAG7lacKQMk1wFkHUwujI4JT94=;fAtP3xss5eCXfhpSo1hKgw=="
 ---

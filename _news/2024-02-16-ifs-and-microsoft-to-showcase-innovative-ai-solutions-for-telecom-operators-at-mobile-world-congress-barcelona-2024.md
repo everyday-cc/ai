@@ -27,21 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation"
-    excerpt: "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries"
-    publishedDateTime: 2024-02-15T11:02:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
+  - title: "Microsoft Says Foreign Adversaries Are Using Generative AI For Cyberattacks"
+    excerpt: "Microsoft Co. (MSFT) and OpenAI recently disclosed that cybercriminals are utilizing large language models like ChatGPT to refine and"
+    publishedDateTime: 2024-02-14T20:27:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
+    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
+    publishedDateTime: 2024-02-14T18:20:00Z
+    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
+    type: article
+    provider:
+      name: Tech.co
+      domain: tech.co
+    quality: 54
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZmVlMGNkODgtNGUzYi00/0/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 601
+      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
+        width: 1920
+        height: 960
         isCached: true
 
 secured: "rtIrt2py7xSl0ylEVT++7Go6qGz3k3W5EtI0u1uh+t0PkaNJ7x6Jj/ESxfeeT1qieov8Twum+OjhS16iZk4Ivwh5b5Cg5jJlbR7vzJ1tf9UaJFulUwhVijEjpjvI45Z+dOp5xomsFuT1XG6dLG9jE/2u+iJMV/4ISIm8jqR93a4Z8/xxeccoho+tUl+x2L3XlYV7QujejtH596CwAXsetqLEgSE6YTBBzTX5Or+rNUNZHSbS3KS6nOxzKzc+UugwG3qDUEfgQyJXHn/CJvLtnQ9KTdF5FddmLKEGo8O2ODWaUeHa3Kjb+W4Vwa0tddRLLpNS0dmo8tmZI5Iy8HdI7AhsgSfHi+60NThz7J3VHM0=;8LyvTVlVbBpqaY1AmEFThg=="

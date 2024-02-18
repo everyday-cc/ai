@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autop
 webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 2250
         height: 1265
         isCached: true
-  - title: "Elon Musk Brags That Tesla Is \"Very Close\" to Full, Level 5 Self Driving"
-    excerpt: "The artificial intelligence systems used in self-driving technologies do have limitations — and not just related to software, but hardware as well. According to Musk, Tesla is working on heat ..."
-    publishedDateTime: 2024-02-13T21:53:00Z
-    webUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 53
-    images:
-      - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
     excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
     publishedDateTime: 2024-02-14T19:18:00Z
@@ -76,6 +62,6 @@ related:
       domain: carscoops.com
     quality: 48
 
-secured: "Qv6cvr52GyKFiv8RHVjeqsWKq3AM6kPr24BILdYgIkniLuOM/CXNfrdb4BbOmC8pWDLsscQMixCPRbr29yuW8Dl3zc0hyfP4Pcv8SxQbndUKiOPi+kLFCYyWqtfoZPERMs0cF3O31eqbyZui982XPHHhNOQfwRX/2vj0LHkh+ApNx21tmy4cXkC1a1YBWjp8FlKf5KYqPM0ermd/LOAO0GvhtocC5HRluL9L8EMDxh1oLBz2+H8K38Z70au9enMWwI8zFkKx9K6uzmsmarXkMNKbu0LIRV0OaOiiicivpYZQI4D4dCSSKtQ7GatXp64hBLqZGKijwcfyUWDI8W4Ymm239/8Q4cj7iUR+X5EP8B3SKZrOda8zNA6je8hhrv6CpoIyUgL9SKB+aYxiiVAayppQdIApUXgkk/Sbioyg7pPcC9XCcwwgUM9JdUhYcTO37c7xvCRTfwhc3MoK1wRQfxIfbUpsyeofDzSjc3UkoNW3N8RHJSA0TNDY7qKg7BCUm62HcaM9bMiDCULhQLYWqQ==;c8i2xn9yRRWHDmxpQwWmOA=="
+secured: "TkMMkO+0CatY95ZhmVcmSLSdeFu6atuU/ZifVR/I9sS1KGjcdjpCxuAhDNzq75VuyYeBn0pdDe3rbUcM2DpE31BG02rojPMQ4kS54ZfIHBVRtBHL8hJbC5TN8IyS++07G/I+HioQsjZ+pUXY31zDzalYpuc6iZhq0VMx1xiFlmMc6m2RbeYwv1r5hF3JYSPyQ6DGn0+E49oC39R3o4jv40awcAOYfPsdAj81kh0DiLf9hT64ufGC0jKDh33FAXrVL37tH1uF6sFSY7g+HfBdUQQFW6PMxebGfSAx2FevK2pAET5xV3zhD3slY9+PIxmxKTZb7mo4Hwj5RIMIb/BvNqOfIS1qHvEHmQkaU9yIPm0lgFRTQwJUdT6b1Xus2XDsENDMfZCmXce5SzJO6aOT4MYoHHuFzu4oHplH0kb3HyX1qmRU5zgqxSaDADXGRJfVpqIShrcGQqmngi7tk1l2pFAoIOb8r/Z79ivIgXgbyjTT/y7p1kBWFTX5plc07zfx4PEzH3mdjRlSUgBY3XKJdw==;YZKdoID0kGo7/YYihC3T2Q=="
 ---
 

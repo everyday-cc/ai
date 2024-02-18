@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Schools: Revolution or Risk for Black Students?"
-    excerpt: "By Joseph Williams Originally appeared in Word in Black Hailed as cutting-edge technology that will revolutionize teaching, next-generation artificial intelligence is coming to a classroom near you — if it"
-    publishedDateTime: 2024-02-13T22:00:00Z
-    webUrl: "https://dallasweekly.com/2024/02/ai-in-schools-revolution-or-risk-for-black-students/"
-    type: article
-    provider:
-      name: The Dallas Weekly
-      domain: dallasweekly.com
-    quality: 39
-    images:
-      - url: "https://dallasweekly.com/wp-content/uploads/2022/01/classroom-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Aroostook educator says teachers need to learn how to use AI in schools"
     excerpt: "Presque Isle schools Curriculum Director Jennifer Bourassa talked about AI’s potential uses and problems for educators during an SAD 1 board meeting this week, and ended with recommending teachers communicate with an AI entity known as ChatGPT to better understand how it works."
     publishedDateTime: 2024-02-15T16:10:00Z

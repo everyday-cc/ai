@@ -48,20 +48,6 @@ related:
       name: Cleveland.com
       domain: cleveland.com
     quality: 44
-  - title: "AI in Schools: Revolution or Risk for Black Students?"
-    excerpt: "By Joseph Williams Originally appeared in Word in Black Hailed as cutting-edge technology that will revolutionize teaching, next-generation artificial intelligence is coming to a classroom near you — if it"
-    publishedDateTime: 2024-02-13T22:00:00Z
-    webUrl: "https://dallasweekly.com/2024/02/ai-in-schools-revolution-or-risk-for-black-students/"
-    type: article
-    provider:
-      name: The Dallas Weekly
-      domain: dallasweekly.com
-    quality: 39
-    images:
-      - url: "https://dallasweekly.com/wp-content/uploads/2022/01/classroom-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "RGGLMpFyS0JXVDTfept3/s3e6Iw6RKluiCXJmKjF5jWB8awlIxgBziFPqCQ/9uUbk8hJOolk85sPdrokMpemFqjFpLPa7KivjuGkxXsZuZKQAJPlx2EjrvfsHL5dlJdkXTxgs9s5YMDtginflLOJ/ifjFbb5GcIw/+WN7SOX3C7TAJZWbqZNXyU9hSxb15RAGaZX/e91iLTq2mJ4/A7pRzdmNkxlt+PrbZVdOSvLdyxpFgvVecgjhikGGq/glIdNKMpdlya/RAYckgkDT9TjgO8VHYGHoT7gnPqrIWU4cXk4dxi6uSPdf7paV8IHHwaifkPLmOASlzrpFrEdNLnHO7k1hpHJj8TBJHvhJnVAyWHal5uSAT+zje4nmO2VZeTMpUgrxKM/lwJNPGZxbXN8eF2snkC7sw/Db4cCA9pf/82Kg1ydRvuAk4xJ+dCJzUTBB8OKfyoplC+iXe6rEVTtT+ody/bNzJzKog3cgVzyxzba4G+ufaGvnMkgAFm7wfY7APmtNrEyVw9vhL2VoQKRTg==;iLrY/D/2FzAAnXnv+Lk5wA=="
 ---

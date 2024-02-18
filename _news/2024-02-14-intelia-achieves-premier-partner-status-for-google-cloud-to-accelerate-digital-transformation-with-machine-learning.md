@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-14T01:32:00Z
 originalUrl: "https://itwire.com/guest-articles/company-news/intelia-achieves-premier-partner-status-for-google-cloud-to-accelerate-digital-transformation-with-machine-learning.html"
 webUrl: "https://itwire.com/guest-articles/company-news/intelia-achieves-premier-partner-status-for-google-cloud-to-accelerate-digital-transformation-with-machine-learning.html"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://itwire.com/media/k2/items/cache/291ec1406e1018ca67d25fe8654c1249_M.jpg"

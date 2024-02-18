@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4670013-smh-etf-bemefitting-speci
 webUrl: "https://seekingalpha.com/article/4670013-smh-etf-bemefitting-specialized-ai-chips-demand-but-also-at-risk"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 509
     height: 339
     isCached: true
+
+related:
+  - title: "This ASX 200 share is predicted to benefit from AI demand for years"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Of course, no company is guaranteed to do well just because it has a connection to AI. For example ..."
+    publishedDateTime: 2024-02-18T21:59:00Z
+    webUrl: "https://www.fool.com.au/2024/02/19/this-asx-200-share-is-predicted-to-benefit-from-ai-demand-for-years/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 19
 
 secured: "oXbXPpxsJTrNAXF93XDT917BwhMqlv0sK4lRlz5TY1Gnud7RZQTOFB76Z5PBgqw7KU0minw8alPNBXs8JcLskqhkhKXm4HLCWmQr0JaJ7/99cBihu0DN4B/dYqynQLHI1nnpIaqCo3f6EQKAEj/9LjRi2cDqLfxfCUuqRtRnhbrU9eN5w2At8hEtr/mRqALeZDh0Q1+WNWjZNmdmeng2wZPiZGtkCqlTxBczM8IURoNOYQmICkOMvYmHV4jd+bhzK4Y3+smrCnfDHm9tyL0cLTZl5Pp5qJzNAH67VPPvaN/Ig01SczTkiA+C3QGUbyp2tWa1vZuHVrsDhYP9Vue2t7oiryjO7lrsVkZu9OvD07pOZLESwWyXeu+0VkvnP1ueSSBJd/zIHX/+vum6RrKHaO6prHyz16c7lkkWySlapCr2yKj3gUu8b7OrO2vIl4HMZHfXvTiwk6NUnrqXgGSxnxF7OfVZyBgnhDrbmAlUTZXW7qMSFH2htlymNH2vFjqEEYOUMBV62GveFDiIlgMPNw==;U62AgD/z6IPbfmx8orIruA=="
 ---

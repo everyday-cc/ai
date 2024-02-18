@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI introduces AI model that turns text into video"
-    excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
-    publishedDateTime: 2024-02-16T10:05:00Z
-    webUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/"
-    ampWebUrl: "https://www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    cdnAmpWebUrl: "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/openai-introduces-ai-model-that-turns-text-into-video/amp/"
-    type: article
-    provider:
-      name: Ariana News
-      domain: ariananews.af
-    quality: 59
-    images:
-      - url: "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2024/02/openAI.jpg"
-        width: 999
-        height: 599
-        isCached: true
   - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
     excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
     publishedDateTime: 2024-02-15T20:35:00Z

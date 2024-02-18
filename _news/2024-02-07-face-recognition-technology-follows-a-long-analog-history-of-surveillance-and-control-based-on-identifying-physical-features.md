@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://technical.ly/wp-content/uploads/2024/02/acp-digitalnavigators-423.197492163x300.jpeg"

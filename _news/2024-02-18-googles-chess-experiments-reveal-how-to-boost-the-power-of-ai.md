@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
 webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Wired
@@ -28,22 +28,6 @@ images:
     height: 670
     isCached: true
 
-related:
-  - title: "How Teachers Are Pondering the Ethics of AI"
-    excerpt: "When Chat GPT-4 came out, Cory Kohn was itching to bring it into the classroom. A biology laboratory coordinator in an integrated science department at"
-    publishedDateTime: 2024-02-13T21:07:00Z
-    webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 54
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/15738/shutterstock_2244549565-1707848924.jpg?auto=compress%2Cformat&w=1024&h=512&fit=crop"
-        width: 1024
-        height: 512
-        isCached: true
-
-secured: "J+Lr13D0r1yAbR2VCtK5YwOTZrpKzndog8Z7jSxsyo158j7xnJA+Uv7ghCcL/xBdUUDBkqTZwTWm4N2IZ8pwkicgNp0trGJaEmsTOOKHj6qVOil0plzI7/I+asQgsJ76ZhGnxuK4CFm+isab9U4G4DEAMX6GwdUlbB7DyNojNjE98I0Jh2sg0sChwbN3AylpgluvmjizuSpRR+ZguWSdBf7q3pIVa+umJYsDmhhEFrmRV2CnBdXQ4A9893DZEfhHoTEXbo4vhoEtnF8KqzPaWVoC0nNCUI/lNVhamFhF8h3d03jsPIHRt6N0+qZq7G5Xl4zttqHjAI7tnwlAina3DlqX6tDs5dYz2VsdrCVHvXo=;F6Vo6RHQ2hKv9umEmGYxpA=="
+secured: "WW6zBMgCNhW6xjwX3GeylHcwAzMDBmNlsb/l5xMWjU5jVNZJ5k5B08JT4nvlTUtX6XnQtxHD3b6fxOgVDYe4vTNxjPGQWrd/DLPzAX1lRFOcE76Au0LYixu76SqWrqblXNRjGc+VKjg1Nd5wwbih7Fp9VWOe8wd5qif3kTd0dBSVEZiTDOg/vtbPVcwb4QDn1ZobOMX6CxuF4OAnEpVh+6SSLgGLqtPaluOZXpLYatGx45aAVEmFwX16BmB5p9zO+8tOo6eIsloXSOXpPOOww9XpuJid65bpE8hppJZpzCLyPGKoRYELPprvXWXVSLml2Qj3DMqXg0ZUichsYQ6yMw/PY5nrCo/28EqWLBP12eWvCqjQqMRBHr8dqu633aMcccO94XN/hFLvQJWWw3wLyRT34NhFCplql0f48L0UwBhDWsBfKexlp9Mp52Nd2s5iFkooc1IAaGOZuZzigNOyxIf+H1nhE9zCZ7SuLch59IdkEPGr2MP0a1DCnwyNXzn3dcmDJHEiqo0pyDWxSk+l2w==;nB0MZ/+ADwYswQBQQfJSCA=="
 ---
 

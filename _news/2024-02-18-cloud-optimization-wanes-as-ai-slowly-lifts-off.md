@@ -41,6 +41,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Can generative AI answer advisors’ call for personalization?"
+    excerpt: "A new survey from Totumai, a technology firm dedicated to enhancing advisor-client communications, offers a fresh perspective on the shifting financial advisory landscape, particularly with ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://www.investmentnews.com/fintech/news/can-generative-ai-answer-advisors-call-for-personalization-249477"
+    type: article
+    provider:
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 39
+    images:
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2023/08/Tech-AI_900x630.jpg.optimal.jpg"
+        width: 900
+        height: 630
+        isCached: true
   - title: "Smartling’s AI Translation Drives 40% Growth – a Leap Forward for Enterprise Localization"
     excerpt: "Smartling grew its Translation business 40% as a result of AI Translation and is reshaping the industry by delivering human-quality translation for a fraction of the cost and up to 10 times faster."
     publishedDateTime: 2024-02-15T01:07:00Z

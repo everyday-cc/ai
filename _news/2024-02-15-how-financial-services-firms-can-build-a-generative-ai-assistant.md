@@ -103,20 +103,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "What comes after Stable Diffusion? Stable Cascade could be Stability AI’s future text-to-image generative AI model"
-    excerpt: "Stable Cascade uses somewhat of a different architecture than SDXL to generate images that Stability AI researchers hope will be more efficient."
-    publishedDateTime: 2024-02-13T21:22:00Z
-    webUrl: "https://venturebeat.com/ai/what-comes-after-stable-diffusion-stable-cascade-could-be-stability-ais-future-text-to-image-generative-ai-model/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/image_437058.png?resize=667%2C659&#038;strip=all"
-        width: 667
-        height: 659
-        isCached: true
   - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
     excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
     publishedDateTime: 2024-02-17T19:01:00Z

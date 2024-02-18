@@ -70,20 +70,6 @@ related:
         width: 1320
         height: 742
         isCached: true
-  - title: "Chat With RTX brings custom local chatbots to Nvidia AI PCs"
-    excerpt: "Nvidia said that Chat with RTX is more than a mere chatbot; it’s a personalized AI companion that users can customize with their own content. By leveraging the capabilities of local GeForce-powered Windows PCs, users can accelerate their experience and enjoy the benefits of generative AI with unprecedented speed and privacy, the company said."
-    publishedDateTime: 2024-02-13T21:00:00Z
-    webUrl: "https://venturebeat.com/ai/chat-with-rtx-brings-custom-local-chatbots-to-nvidia-ai-pcs/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?w=1200&strip=all"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "NVIDIA's Chat with RTX is an AI chatbot that runs offline on your personal files"
     excerpt: "NVIDIA has released Chat with RTX, an AI chatbot that is run locally on your PC and on your own files. Read on to know more!"
     publishedDateTime: 2024-02-14T09:58:00Z
@@ -98,15 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s Chat with RTX lets you run an AI chatbot on your GPU"
-    excerpt: "Chat with RTX is entirely text-based, and it comes “trained” on a large database of public text documents owned by Nvidia itself. In its raw form the model can “write” well enough, but its actual knowledge appears to be extremely limited."
-    publishedDateTime: 2024-02-13T20:29:00Z
-    webUrl: "https://www.pcworld.com/article/2235062/nvidias-chat-with-rtx-lets-you-run-an-ai-chatbot-on-your-gpu.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 64
   - title: "Nvidia Releases Chat With RTX, an AI Chatbot That Runs Locally on Windows PC"
     excerpt: "To run Nvidia’s Chat with RTX, a Windows PC with RTX 30 or 40 series GPU with a minimum of 8GB VRAM is required."
     publishedDateTime: 2024-02-14T11:59:00Z
@@ -137,15 +114,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Nvidia launches a chatbot that can run on your PC's GeForce RTX GPU"
-    excerpt: "You can also feed it videos from the web, including clips from YouTube. Simply plug in the URL of the source video, then ask the chatbot"
-    publishedDateTime: 2024-02-13T19:04:00Z
-    webUrl: "https://www.techspot.com/news/101872-nvidia-launches-local-chatbot-runs-geforce-rtx-gpus.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
     excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."
     publishedDateTime: 2024-02-14T02:52:00Z

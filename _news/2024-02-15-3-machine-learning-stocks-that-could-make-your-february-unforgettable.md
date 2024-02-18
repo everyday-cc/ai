@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "3 AI Stocks That Could Make Your February Unforgettable"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The U.S. economy is on a positive trajectory under the Biden"
-    publishedDateTime: 2024-02-13T22:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-could-make-your-february-unforgettable-1033063156"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Get Rich Quick With These 3 Machine Learning Stocks to Buy Now"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is a branch of artificial intelligence (AI) that is red hot"
     publishedDateTime: 2024-02-14T19:40:00Z
@@ -84,6 +75,48 @@ related:
     quality: 22
     images:
       - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/B37SHQVYA5LHRALLGB32GR2I2Q.jpg?auth=99440935a5c96641eb51c34aff2062011e3ba94f83926cd2129fa4009fca4573&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wild vs. Canucks February 19 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
+    publishedDateTime: 2024-02-18T08:01:00Z
+    webUrl: "https://www.kcrg.com/sports/betting/2024/02/19/wild-vs-canucks-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 22
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/KUPQAZZM3JJMTANWHE6WHS2HE4.jpg?auth=698eaa9b25ac2d9e0bc28e6bd8fa73be9e424b1ee9c93525b3ae96b4a8a69cda&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "2024 DAYTONA 500 Odds, Favorites & Start Time - Sunday, February 18"
+    excerpt: "Everything you need to know to bet on the 2024 DAYTONA 500 on Sunday, February 18 with odds, favorites and race information."
+    publishedDateTime: 2024-02-18T22:29:00Z
+    webUrl: "https://www.ky3.com/sports/betting/2024/02/18/daytona-500-nascar-betting-preview/"
+    type: article
+    provider:
+      name: KY3
+      domain: ky3.com
+    quality: 22
+    images:
+      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/v2/34X7SYZ72NOSXJ6D6STIG5XEWU.jpg?auth=b26adc392f151dcee5763accad37f58cdd0dfd0d1ace7fdc7e2030cf7e4d99ad&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Blues vs. Maple Leafs February 19 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Toronto Maple Leafs' Mitchell Marner and the St. Louis Blues' Pavel Buchnevich are two of the most exciting players to keep an eye on when these squads face off on Monday at 1:00 PM ET, at Enterprise Center."
+    publishedDateTime: 2024-02-18T22:00:00Z
+    webUrl: "https://www.wowt.com/sports/betting/2024/02/19/blues-vs-maple-leafs-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WOWT.com
+      domain: wowt.com
+    quality: 22
+    images:
+      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/K4WJTUFITROB5LBYTCBH36ARIQ.jpg?auth=a0d4d160b6b677dec062e46591e7b10df2687a086a60144562ac1824ddc78232&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
