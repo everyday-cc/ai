@@ -40,22 +40,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "Otter.ai adds AI meeting features at no additional cost across all plans"
-    excerpt: "Meeting GenAI and its feature set is available starting today across all plans, including the free Otter Basic plan, at no additional cost. This addition is part of Otter AI's commitment to improve how its users meet and collaborate."
-    publishedDateTime: 2024-02-13T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/otter-ai-launches-new-ai-meeting-features-at-no-additional-cost-to-users-including-the-free-plann/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/aac5a1233ac3187d0e535142ecbea07c1a386d9e/2024/02/12/57566d6e-c7bc-4372-bf8b-9daa40a2aebf/meeting-genai-banner.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "+EA2Etrs+3sZU0J83/50SEBryf4nr8iXnzIc8JoN9m5SDiOz/P+k2wMzecxo+JZAhPQHJjFZJcgNJa0GQHjyudTwM/SVsILskD31GYT4g1zEdPRXK4qeN5R5HzmrUFBnOxIqOXInXeduihAS5/9uqxXBMuJHdwkeeFM2kAcqT/S+k1PDSuXBOB0utj1Chu1Lx/aIN8Nra7+b7yNuTwvdiI/v4Plf5z0vzdzMh7+vsQEvQYT+yEM11hNFsBTlAP9HvKwTeq4yPCot8Ekn8Svfg9DAxyLQCQl1lTcCpj5LwDrD7ACmem5AMJOBEZonnySpgwYvCcMYkQWYVXL95nY8GM57dW3asaqHDH9Q8jiL2TQ=;V4EWA9vijQcHAyB64LV7yQ=="
 ---

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
-    excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
-    publishedDateTime: 2024-02-13T06:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Waymo arson in San Francisco sparks new debate on self-driving cars"
     excerpt: "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year."
     publishedDateTime: 2024-02-13T14:25:00Z

@@ -56,22 +56,6 @@ related:
         width: 860
         height: 573
         isCached: true
-  - title: "HR-X annual conference begins with focus on AI impact"
-    excerpt: "Muscat: The annual conference (HR-X), organized by the Oman Society for Human Resources Management (OSHRM), in cooperation with the Ministry of"
-    publishedDateTime: 2024-02-13T06:06:00Z
-    webUrl: "https://www.omanobserver.om/article/1149561/oman/community/hr-x-annual-conference-begins-with-focus-on-ai-impact"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1149561"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1149561"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/13/2578781.jpg"
-        width: 1000
-        height: 586
-        isCached: true
 
 secured: "WuOmX0kjwz1hFAR9BPQyhQkTdLP187oEBwFI9Ko4xo2YJsJLhj/NN76k4xkTK2AT7AU6LUpjjvpewykWfESCUWnTNuGLh9jvseJ7xBIdyj9taypA3IkcMGmK6AfG9T6K4ua/RF1hBZBpwG41UWIbLFtMZlU4gsStwRNf7pF0cZRJyqvQJA0QPE1zPAXUeC8yUsKjrHGUTNNT6TYunrjolyJPNlEuWky6lTWn3/xkBY2fGkcSIr73SX6dNOE6Ka0BkwL7FLiCRLcnDQF+TCcCpk2O/cifcMWivMGeiIVUkLzGhLpcX63TYQECx5XvvrRUHqoH+h1k0kIsPqP7vHmgQt1HrcNNDZ/wHYnD010u/ukyHG6MHZGN3cQvwnaYJPZmEV3KZkt6L+nNcpgIqOOjiBr6hjBzKQrn4FPXJoHKKkReBEv6bGMaOpiqmacK15T9UNGuaua5ZkopRCXlz6gbDXoY8F0RmCk8l150jWUVeeqjBvBLWEoOqzNaZHnE9akEPdspg9+GJy1WaIqeDhfbIg==;QhwPgg4YGNd7vzK9VjHdvg=="
 ---

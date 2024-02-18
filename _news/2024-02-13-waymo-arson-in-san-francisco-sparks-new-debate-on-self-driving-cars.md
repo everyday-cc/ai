@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/san-francisc
 webUrl: "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/?ref=upstract.com"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars"
-    excerpt: "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ..."
-    publishedDateTime: 2024-02-13T06:07:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Aussie AI startup Marqo raises $19.4 million and moves HQ to San Francisco"
     excerpt: "Australian startup Marqo has secured US$12.5 million ($19.4 million) in Series A funding as it prepares to shift its headquarters to California."
     publishedDateTime: 2024-02-13T23:14:00Z

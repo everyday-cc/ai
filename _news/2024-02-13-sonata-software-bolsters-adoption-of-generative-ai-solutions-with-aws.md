@@ -55,22 +55,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "The AI companions you can have conversations with"
-    excerpt: "Tech firms are now racing to release their own conversational AI companions. Google has Vertex AI Conversation, Microsoft has Azure AI, and there are now a host of start-ups in the sector. Meanwhile, Amazon is sticking with Alexa, but planning to add ..."
-    publishedDateTime: 2024-02-13T06:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/business-68165762?at_medium=RSS&"
-    ampWebUrl: "https://www.bbc.co.uk/news/business-68165762.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68165762.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/73BA/production/_132562692_prof1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Sonata Software bolsters adoption of GenAI solutions with AWS"
     excerpt: "Sonata's Harmoni.AI, the Responsible-first AI for Enterprise scale, is designed to ensure trust, privacy, security, compliance, and uncompromising ethics."
     publishedDateTime: 2024-02-14T05:43:00Z

@@ -23,52 +23,51 @@ topics:
   - AI
 
 related:
-  - title: "Major tech companies sign agreement to combat AI's use in election interference"
-    excerpt: "This year will be a big year for elections worldwide. An estimated 40 countries and 4 billion people will head to the polls to vote for"
-    publishedDateTime: 2024-02-17T16:15:00Z
-    webUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agreement-combat-ai-use.html"
+  - title: "New Era of AI Deepfakes Complicates 2024 Elections"
+    excerpt: "The explosion of artificial-intelligence technology makes it easier than ever to deceive people on the internet, and is turning the 2024 U.S. presidential election into an unprecedented test on how to police deceptive content."
+    publishedDateTime: 2024-02-16T08:50:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824"
+    ampWebUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
+    cdnAmpWebUrl: "https://www-theaustralian-com-au.cdn.ampproject.org/c/s/www.theaustralian.com.au/business/the-wall-street-journal/new-era-of-ai-deepfakes-complicates-2024-elections/news-story/3408b75e4c325cbf20727bce0f45e824?amp"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
-  - title: "Tech companies sign accord to combat AI-generated election trickery"
-    excerpt: "Major technology companies signed a pact Friday to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to disrupt democratic elections around the world"
-    publishedDateTime: 2024-02-16T11:24:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2024/02/16/ai-generated-election-deepfakes-munich-accord-meta-google-microsoft-tiktok-x/9fe5a30c-ccef-11ee-aa8e-1e5794a4b2d6_story.html"
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 39
+  - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
+    publishedDateTime: 2024-02-16T17:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/tech-executives-sign-new-voluntary-pact-respond-ai-107296692"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 37
+      name: ABC
+      domain: abcnews.go.com
+    quality: 32
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TQ45YCWM54I65KUODZLZJJFS2Y.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/International/alexei_navalny_file_nr_240216_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Tech giants pledge action against deceptive AI in elections"
-    excerpt: "Fears over how AI could be used to mislead voters are escalating in a year that will see hundreds of millions of people around the world cast ballots. As a result, tech giants are pledging action."
-    publishedDateTime: 2024-02-17T00:15:00Z
-    webUrl: "https://www.kalw.org/npr-news/2024-02-16/tech-giants-pledge-action-against-deceptive-ai-in-elections"
+  - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
+    excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
+    publishedDateTime: 2024-02-15T17:42:00Z
+    webUrl: "https://www.scmagazine.com/news/hackers-steal-your-face-to-create-deepfakes-that-rob-bank-accounts"
     type: article
     provider:
-      name: KALW
-      domain: kalw.org
-    quality: 37
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a1254d4/2147483647/strip/true/crop/1491x783+0+354/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F16%2Fap24023546723486_sq-ce850be914858df4a22203961b9dc8774c03c8fd.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tech Industry Sheds 34,250 Jobs as Companies Embrace AI Innovation"
-    excerpt: "The rapid growth of AI is reshaping the landscape of the tech industry, ushering in unprecedented levels of innovation and efficiency."
-    publishedDateTime: 2024-02-13T12:28:00Z
-    webUrl: "https://www.coinspeaker.com/tech-industry-34250-jobs-ai/"
+      name: SC Media
+      domain: scmagazine.com
+    quality: 21
+  - title: "How This VC-Backed Startup Is Fighting Deepfakes"
+    excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
+    publishedDateTime: 2024-02-16T19:40:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/how-this-vc-backed-startup-is-fighting-deepfakes.html"
     type: article
     provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 19
+      name: Inc
+      domain: inc.com
+    quality: 2
 
 secured: "xeebSW0i15z9i16Nt98aVSSb/RBkcHGYYi0oPOkegGoqDbizd3g/WjZglc+JR/71erPTByBq3SIxA2BfkgNe+1dywV4pR8gkAJbb9yP4p0SaTw2pEGZ/O50cMW57VQtHBA9D/4GuYsyEaQwPfmi+UjHcijSxPVLJu4k4Nt+a6tXuWivxGMKEJ4GFJ9/r9k02P29JgC7cAtOHCsuobxVfUrUqO56q1R57RjhVGS0jznZE59vfcHvM4dnmkMZKvVaQ2eA8yIgByC6Mm3X/ag9LjovnFmQI3HmAeH1H+U6eFadruo8teLrH/K2T+UVrRn5BsAu1G2TxWEAUyPo7okVD7oQ0TttR9QkSiBTSNaTLaiQ=;t89my12xhV6Up6ww6pl8MQ=="
 ---

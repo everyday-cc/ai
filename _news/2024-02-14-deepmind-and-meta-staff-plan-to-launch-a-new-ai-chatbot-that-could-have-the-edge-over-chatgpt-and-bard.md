@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What the EU’s tough AI law means for research and ChatGPT"
+    excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00497-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The Human Perils of Giving ChatGPT More Memory"
     excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
     publishedDateTime: 2024-02-14T15:13:00Z

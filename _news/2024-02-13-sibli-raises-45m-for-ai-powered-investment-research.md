@@ -62,17 +62,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Global fintech investment drops to 5-year low, India funding halves to $3 bn"
-    excerpt: "Geopolitics conflicts, the high interest rate environment, and the barren exit environment across regions saw fintech investors holding onto their cash throughout much of the year."
-    publishedDateTime: 2024-02-13T06:49:00Z
-    webUrl: "https://www.business-standard.com/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/finance/personal-finance/global-fintech-investment-drops-to-5-year-low-in-2023-here-are-the-top-deals-124021300554_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 21
   - title: "Australia Fintech Activity Declines Amidst Global Slowdown – Research Report"
     excerpt: "Australia saw a 76% drop in fintech deal value \"in 2023 to US$587.5 million, while the deal count fell by a third to 95 transactions.\""
     publishedDateTime: 2024-02-16T18:17:00Z

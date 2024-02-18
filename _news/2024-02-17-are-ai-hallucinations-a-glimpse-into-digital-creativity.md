@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ar
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/are-ai-hallucinations-a-glimpse-into-digital-creativity?amp"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,47 @@ images:
     width: 320
     height: 323
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Content Creation"
+    excerpt: "Greetings, curious minds! Today, let's dive into the realm of Artificial Intelligence in Content Creation. Imagine an artist that isn't human but can paint words, pictures, and ideas. Intrigued?"
+    publishedDateTime: 2024-02-14T15:31:00Z
+    webUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/slidelist/107678218.cms"
+    ampWebUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 59
+    images:
+      - url: "https://www.businessinsider.in/thumb/msid-107678236,width-500,resizemode-4,imgsize=6987/Unveiling-AI-Creativity.jpg"
+        width: 500
+        height: 625
+        isCached: true
+  - title: "Major tech companies sign agreement to combat AI's use in election interference"
+    excerpt: "This year will be a big year for elections worldwide. An estimated 40 countries and 4 billion people will head to the polls to vote for"
+    publishedDateTime: 2024-02-17T16:15:00Z
+    webUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agreement-combat-ai-use.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
+  - title: "Fanvue, an OnlyFans competitor, is betting big on AI-generated adult content. But some creators question its approach."
+    excerpt: "Fanvue is investing heavily in AI-generated influencers, particularly for adult content. Some creators question the platform's growth strategies."
+    publishedDateTime: 2024-02-16T17:41:00Z
+    webUrl: "https://www.businessinsider.com/onlyfans-rival-fanvue-bets-on-ai-content-creators-have-concerns-2024-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/65ccdfaff533b039a8838154?width=700"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "9LYebHGdLMvXtKrnUsmsDFfGhnI5ZkegiyrRAU87oaBoDpCPXr7wIAr6IekHDSEdnPHXwntIn/w4yni1w3Sak6v+0BXqbVB1CPkBJYxpNA2jPitdBoBu7rb3O6sIANDOhkuZXjMKYMNNmXM6u1x+a9f+6UF4COa52IEUnz8R9KMddngimgxihILEFurO7FDH53LKdw8QSKK0OcbvEF4iuq74A+ms5Lqy+m4ZeBEqgJV95y1jfAf2mj9p1D2O378U++VWweHUOOjtdsfMgLRPlz9dPFgzzDKzLQzX4IQoHt+M8d9yQ2/q3oUAyN92X91z2T3ZwSxDXcCgBHaejs2BnXxI2ipVZHmu83M+NnE7sceqaKm0kaRT9rwKb6d3+YBxeyqLA6T95smicsK3V7+Jogv2UuI3BIhJTqJuN2AwVt1KedCPXLux5quXYj7wNRMU2LY2fKHQjIVdNYuW0Hw36jSD0J65H7oXWDpvGJps0hkj77H/SQy9eo6YCr2IOAnxU5VOj7q2o+Ox0G6bEO/grA==;2/ycVLLyVCq94NsQDGuAxg=="
 ---

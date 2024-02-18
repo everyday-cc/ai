@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-impact-of-arti
 webUrl: "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/02/14/2021-20.jpg"
         width: 860
         height: 573
-        isCached: true
-  - title: "HR-X annual conference begins with focus on AI impact"
-    excerpt: "Muscat: The annual conference (HR-X), organized by the Oman Society for Human Resources Management (OSHRM), in cooperation with the Ministry of"
-    publishedDateTime: 2024-02-13T06:06:00Z
-    webUrl: "https://www.omanobserver.om/article/1149561/oman/community/hr-x-annual-conference-begins-with-focus-on-ai-impact"
-    ampWebUrl: "https://www.omanobserver.om/ampArticle/1149561"
-    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1149561"
-    type: article
-    provider:
-      name: omanobserver
-      domain: omanobserver.om
-    quality: 59
-    images:
-      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/13/2578781.jpg"
-        width: 1000
-        height: 586
         isCached: true
   - title: "Exploring the Impact of Artificial Intelligence on Everyday Life"
     excerpt: "Welcome to the future! From self-driving cars to voice-activated virtual assistants, it’s becoming evident that artificial intelligence (AI) is reshaping the world as we know it. But what exactly is AI,"

@@ -142,6 +142,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-artificial-intelligence-in-content-creation.md",
+      "title": "Artificial Intelligence in Content Creation",
+      "excerpt": "Greetings, curious minds! Today, let's dive into the realm of Artificial Intelligence in Content Creation. Imagine an artist that isn't human but can paint words, pictures, and ideas. Intrigued?",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/slidelist/107678218.cms",
+      "originalUrl": "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/slidelist/107678218.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-107678236,width-500,resizemode-4,imgsize=6987/Unveiling-AI-Creativity.jpg",
+          "width": 500,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms",
+      "publishedDateTime": "2024-02-14T15:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
       "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
       "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
@@ -282,17 +325,17 @@
     {
       "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
       "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
-      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists",
       "sourceUrl": null,
-      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
-      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "webUrl": "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://mltnews.com/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://myedmondsnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
+          "url": "https://mltnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
           "width": 1024,
           "height": 575,
           "title": null,
@@ -307,8 +350,8 @@
       "publishedDateTime": "2024-02-12T17:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "My Edmonds News",
-        "domain": "myedmondsnews.com",
+        "name": "Mountlake Terrace News",
+        "domain": "mltnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1306,49 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-new-ai-model-designs-proteins-to-deliver-gene-therapy.md",
-      "title": "New AI model designs proteins to deliver gene therapy",
-      "excerpt": "Researchers have used an artificial intelligence (AI) model to redesign a crucial protein involved in the delivery of gene therapy, a technique that employs genes to treat, prevent or cure diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
-      "originalUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/gene-therapy-chromosome-genetic-brain-disorder-x-y-chromosome-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/health/2024/01/31/-new-ai-model-designs-proteins-to-deliver-gene-therapy.amp.html",
-      "publishedDateTime": "2024-01-31T07:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

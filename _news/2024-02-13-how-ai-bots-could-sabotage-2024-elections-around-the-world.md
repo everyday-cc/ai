@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/how-ai-bots-could-sabot
 webUrl: "https://www.scientificamerican.com/article/how-ai-bots-could-sabotage-2024-elections-around-the-world/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "With elections in at least 83 countries, will 2024 be the year of AI freak-out?"
+    excerpt: "Regulatory panic could do more harm than good. Rather than poor risk management today, rules should anticipate the greater risks that lie ahead."
+    publishedDateTime: 2024-02-18T06:38:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 55
+    images:
+      - url: "https://images.indianexpress.com/2024/02/artificial-intelligence.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How AI deepfakes threaten the 2024 elections"
     excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
     publishedDateTime: 2024-02-16T19:04:00Z

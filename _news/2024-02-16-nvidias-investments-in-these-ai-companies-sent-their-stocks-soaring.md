@@ -40,16 +40,16 @@ related:
         height: 680
         isCached: true
   - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-    excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+    excerpt: "SAN JOSE, Feb. 15, 2024 — Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital, SK Telecom, funds and accounts advised by T. Rowe Price Associates, Inc., and existing investors Crescent […]"
     publishedDateTime: 2024-02-15T20:29:00Z
-    webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+    webUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
     type: article
     provider:
       name: insideHPC
       domain: insidehpc.com
     quality: 54
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/AMD-MI300-1023-1024x512.png"
+      - url: "https://insidehpc.com/wp-content/uploads/2023/10/HPE-Nvidia-logo-2-1-1123-1024x512.png"
         width: 1024
         height: 512
         isCached: true

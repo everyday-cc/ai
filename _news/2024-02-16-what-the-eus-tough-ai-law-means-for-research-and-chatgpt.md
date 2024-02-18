@@ -1,26 +1,28 @@
 ---
 category: news
-title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
-excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
-publishedDateTime: 2024-02-13T18:15:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
-webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
+title: "What the EU’s tough AI law means for research and ChatGPT"
+excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
+publishedDateTime: 2024-02-16T00:00:00Z
+originalUrl: "https://www.nature.com/articles/d41586-024-00497-8"
+webUrl: "https://www.nature.com/articles/d41586-024-00497-8"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg L.P.
-  domain: bloomberg.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nature
+  domain: nature.com
 
 topics:
-  - Microsoft AI
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
+    width: 1024
+    height: 576
+    isCached: true
 
 related:
   - title: "ChatGPT's been acting weird — and it's probably our fault"
@@ -62,6 +64,15 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 67
+  - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
+    excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
+    publishedDateTime: 2024-02-13T18:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
     excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
     publishedDateTime: 2024-02-14T05:47:00Z
@@ -75,20 +86,6 @@ related:
       - url: "https://images.deccanherald.com/deccanherald%2F2023-09%2Fca6187b5-343a-457b-b748-667b9060a567%2FChatGPT.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
         width: 1200
         height: 630
-        isCached: true
-  - title: "What the EU’s tough AI law means for research and ChatGPT"
-    excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00497-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 54
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "The Human Perils of Giving ChatGPT More Memory"
     excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
@@ -109,6 +106,6 @@ related:
       domain: mensjournal.com
     quality: 34
 
-secured: "sfi/AD/ZP9aotFhtJ4Cb83EG/59CTNi4ZLXJwoKakw4RI2vGCiqHEpF+6Iqa/nahisn5VctVzvj3hCR5ZK+iU+7IpBXRL03XzqcE2hvy32L+vu3geFMleXOA5sC/Cwf5L4O7LafMF7xa9c7Q4QiNoU6Hjh4qQzacgRPNY0uxh0Q7hVjejMVrmJxf3Ei54Mn+hJQEzdwH65DMz27/WJOPqaEGo7O+fyYYVwZ6IxDOqRxB+Dlqrpgq2OcRujodt+wo3DgwiSg393yAeU+KqeO/AjJYSmQQwIa9M97Na8wEPT5Ez3MKMO+j3ai+/vgdytla7sxuOfQMv9bjSI7ggRF195IJBZCSf/ucWr01WouTt5dvJlpY1GQ5uW7QTGeHM/jR7z8s+7j/1ooWp0d+bTc39nbxI9ZQCo3NqUjikppq064qC8BQ8CfFT+7/jKTrQyv3/lxUUK//a2BjoIPneuOBMJzWANetG1AY3poum0E80CxQsa23pfV7evAg1q6gfOOK6z1uB8WAQhE9yirT9e/Suw==;pPWJcLwbTtQ9zIKIQjDLug=="
+secured: "/EAX0Se0rLZeReX+BG9Y6v6EdS0HeCODfpsGg6GEYbOAn3b+9kfVGZi/hjxpe/xgfFJmql2Dh4+0aXe1iA4Sy22YCjixzCzr8C9LPqUwB/4NqtlgryXDHpSVSQW+s8uYTZquP3AE/7jUDHIFqYWYrl4HFWcSeyR6ITdyhqxVS+gkaT3j/IxrhlDLW+0nuwY7/wiUn/TF43i0GPjOiYPDOf9XbIiMWZAJ+b563IXtJTVqJEgmsr6Z/vzGwnikGiFoJVQnbsf9560Pxh077q6sm/RDiaaAwfC3HYCq9gwoZdT6FRb20UT1HAIAJ93NFaKUNpt1gigoYthzMBUOY4UtvcKXJjP88byizAPMDZzCXww=;RVRWrVkmmOuh6xValc9H9g=="
 ---
 

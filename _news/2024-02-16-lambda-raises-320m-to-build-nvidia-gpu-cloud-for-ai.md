@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
+excerpt: "SAN JOSE, Feb. 15, 2024 — Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital, SK Telecom, funds and accounts advised by T. Rowe Price Associates, Inc., and existing investors Crescent […]"
 publishedDateTime: 2024-02-15T20:29:00Z
-originalUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
-webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+originalUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
+webUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2023/10/AMD-MI300-1023-1024x512.png"
+  - url: "https://insidehpc.com/wp-content/uploads/2023/10/HPE-Nvidia-logo-2-1-1123-1024x512.png"
     width: 1024
     height: 512
     isCached: true
@@ -106,6 +106,6 @@ related:
       domain: siliconindia.com
     quality: 34
 
-secured: "98dT5dTaPSmSaE4GnVuju9oDJdKoNpwT2KhQBUMzXtlTDktBa2+wPFli7FS3o+DLIwh8JATJPjqcaKSNT2Prm7VtugBAM0l5LJ+DTZSv6y68GMXJ2lgXf5+qhmmz/JkVm9lbPcJHH5fezGxfser2jpgCT16Tp/CWrJtUzaOPf3Ph3UwzflPutoOYMuhqCx/p4pZIYJcmKzcNNEGCwpRBDVtVh/3A2kKxKq5QD4NFOecReE/lToknlQmo3K4pjxgBbrrxqPGkr+vHmmIoZmqEHbyHlIV04NKyvKvslBwl0lY6fKS0rKi55rg+NykyYivblLyDTXlqlX86v5JVRSjeOlxF6MGs4hvGAKzxjXwGnHB6COMk6nWONxta7T8t7pFTIymQu0xbwznbLW6bRJMEevB/KtkPvo2v9/Mwl8iKk3DFftad84yN5phfFHEYnoRJmj7nz1rlAO2H+S8LQ73aBtQtnpfxctDc0oFHIUorGRGX99C1ph3ZF0ENnp9DbPtt5r0xoJSR2oX4cKD8/J5rKA==;CUXbFYquqA2/4dEopYu/Hg=="
+secured: "/tFLRCGrX7A/2jJHq5eMN8gV4+kbAFNZ1Vq/3XWti04dUlqLq+84BODW7O2se+86UDcONyjhmbKKpvff/+UsFo0fGoehFsmNM2rHqpNZzCzhLey995dQrVoqC66VBtPXHFn5RhtfJkDucbe4+PiQXm+aHuz5bCZRbr1SxW8ujowg3sdcQ7JU9NhWcJECpb3VlfWO4Dn/tn9JOffaE6HNwQVYODpS//96W4cp55Niui8gnVLjRctRRq5yr9d7ZW89zNnoKz/ulsM5QJ+VSm6rJQgjZlzsEJMYY3HOedq5w+t2PX3t/1UBwGYBC5hoqEs3C92TKlFvS/RrRx7gmkwzwHmsaxmXwovvhuq8KTV71tk=;pR49juVjDajN+FoXyrO89A=="
 ---
 
