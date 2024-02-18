@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
+    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
+    publishedDateTime: 2024-02-15T19:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "sbuT/Z4ePgyBzz4u7dPk90vs06pkX3RhPyrI1I9eXKXNBsMlPGOGxWVjznYQquFyWDklDdeNQ6UK6zMypoBa3Bb17pRWhFumEOMhsPquCmjhFiBanj5JMXFD9/xFZsLDL8urcOhuHO7mcIkDXJoFJQM7vv3m0djlVlQlJPwXZ73qkRJB0lppIekN4hoNTx+9PG8mbBuH2h7IHp1q4VFuDHpow5raqFm2vgEptOwBrYOhXL+FD20dD4RULB8F6zBnYXSt2GwyPD4PZpqEeSryoRvW6MZCxadxSpFzdpwQSjMF6EyGbLmhCkFAk6Bu53nxxLO296O/FictigA92Ncwx4+CP2Uxsw8fFwN6T44JhPM=;Rlz1xhaGafQ44TccMkqKoQ=="
 ---

@@ -76,6 +76,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "A degree in artificial intelligence: Penn becomes first Ivy to offer AI major for undergrads"
+    excerpt: "Students pursuing the B.S.E will take high-level courses from topics like computing algorithms, machine learning, data analytics and advanced robotics, the university said. Intro courses include \"Introduction to Artificial Intelligence\" and \"Data ..."
+    publishedDateTime: 2024-02-15T23:28:00Z
+    webUrl: "https://www.freep.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 23
 
 secured: "5YA6DE93KuoF2U56APqLYPmO8nIZlcOXEcNE5BSoYz9JRrSKF0WsLTijU4C96tYeN4FLsHK8sYjKt8G+RsNzk8GbSSO+FZtXXBvuGMVMRm7Ke43MlqQr1jipBTEMFmVABOZzPoiXHJ5dAMAZBfDJ0vFhxLUaPFcGV0yuEbXgRaKIjeCWVBFwA8ssyEcXfS18dmjkvyA6+3jgJ1aDkSIqAv6MXVC2QAu1dP79Fm7bwMLwilJAAN6mnmVnM/NUIx+EiA0VrgCkXWNCX6gi4A+0I2VG7HW0w1ffWTibSL3No7U9Mw3DyyeBo0s6oTiVXE3KcfbZJthISK4ztbGBpK0kn1EWbb5OLqjcexdluZQHJWw=;wHD7kG5EVL4uShsT0FC4TA=="
 ---

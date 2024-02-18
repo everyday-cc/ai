@@ -59,15 +59,6 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 28
-  - title: "Jive co-founder Bill Lynch on his new AI-backed health care startup"
-    excerpt: "Jive co-founder Bill Lynch is back with a new startup exploring the use of artificial intelligence tools, specifically generative AI, in health care. The new company is called HumanTrue and Lynch is chief technology officer."
-    publishedDateTime: 2024-02-13T11:44:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/inno-insights/2024/02/13/jive-co-founder-new-startup-humantrue-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "6/0QbalMpot2aT4dDJjbS/zEF2QT4pwFwIIGm7nimnixQ765FanwLfVioNFEnRHunI7oy+HdiWShwWklNGHYgyvCekJS6i7SoHGBPB41pLyfzgdQHXSn5OhIVWEMdVYqbd+z3nGTI63uUM4FrM8X1nXlJtH+WwtqVw8MDEYCU0m3vzJ55sYrM9iIb/3KHsIMuU7yC5ma5ewnehqtQUBh905SsguRpGm9Rv3yo1iJ7510V653uWYMHt2LCO2eH7Tdh3Y9obYOLyFUn1rzTj5y0XMUEbMzRYpDwJSg07tXvwDASKf7B+2jy8/Ic8UUuOtjth59Lmnn5BmPrjh9wgusGVkZCvbaM1OQObDnE6SmF5k=;JeLfVOUABNDakATOona3MQ=="
 ---

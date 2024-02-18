@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,60 @@ images:
     isCached: true
 
 related:
-  - title: "How To Use AI To Help Your Business"
-    excerpt: "From the financial sector to the automotive industry to healthcare to language models like ChatGPT and beyond, it seems that everywhere you look, you can see evidence of AI advancements. The business world is no exception."
-    publishedDateTime: 2024-02-13T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/"
+  - title: "10 AI Tools For Australian Businesses In 2024"
+    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
+    publishedDateTime: 2024-02-14T03:07:00Z
+    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/656614e32643c2fb4761e838/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 54
+  - title: "A look at Dubai’s focus on infrastructure and capacity building for businesses of the future"
+    excerpt: "The Dubai government has been supporting experimental initiatives that aim to foster an environment where businesses of the future can thrive., Leaders of Tomorrow News, Times Now"
+    publishedDateTime: 2024-02-16T06:03:00Z
+    webUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571"
+    ampWebUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 48
+    images:
+      - url: "https://static.tnn.in/thumb/msid-107743729,thumbsize-135486,width-1280,height-720,resizemode-75/107743729.jpg"
+        width: 1279
+        height: 720
+        isCached: true
+  - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
+    excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
+    publishedDateTime: 2024-02-16T15:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 48
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Artificial-Intelligence-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
   - title: "Otter AI Knows What You Missed On Boring Business Calls"
     excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
@@ -55,38 +94,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Artificial Intelligence Can Now Help You Buy Your Dream Home"
-    excerpt: "With plans to expand operations to respond to Nashville's affordability and inventory crunch, with a milestone of delivering a thousand homes in the next three to four years, Legacy South sees AI integration as a crucial tool to capture valuable data, understand buyer profiles, and inform new construction decisions that will shape future growth."
-    publishedDateTime: 2024-02-15T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963301.htm"
+  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
+    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
+    publishedDateTime: 2024-02-18T11:24:00Z
+    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
+        width: 333
+        height: 250
         isCached: true
-  - title: "How health insurers use AI to streamline operations"
-    excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
-    publishedDateTime: 2024-02-15T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-operations-unitedhealth-aetna-oscar-health"
+  - title: "Integrators sound off on RMR, artificial intelligence, scaling up the business"
+    excerpt: "Four integrators sat down with SIW during the Cloud Security Summit in Austin to talk about the breakneck pace of technology innovation and how they’re balancing growth with"
+    publishedDateTime: 2024-02-13T20:40:00Z
+    webUrl: "https://www.securityinfowatch.com/integrators/article/53096413/integrators-sound-off-on-rmr-artificial-intelligence-scaling-up-the-business"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
-  - title: "What you need to know about AI corn"
-    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
-    publishedDateTime: 2024-02-14T20:08:00Z
-    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 19
+      name: Security
+      domain: securityinfowatch.com
+    quality: 13
 
 secured: "uzWxImU2UY13QLIcJYy0ReMQFFnnour8b61YitffBoU5TN74nQGA3el/NnVfjE4H7Zci/7bQIDP3EbKyYb4mv4JlBWk9euWxXicciWuA8EWTv4PkODEMN1HFnP9uOPWaQz6bkvpEox3hwT4zxDRADfF50Ul5TfCQdGHHnI2ckv6JXYm2MDzwNB8PgygiPfoES+D1hoHo/SoWL3rj/PJ0Wjo828KEX4Ts01nUDgObFT6j2wllAC9JrySD2DubA6Jop2o51irYYZD78M5nJHkC8NkNOVyIxgXHGrOVOCiiAAKGnzTD2NZki/a2sVbHsKwB+br22qU2uTV7kdm51Z3vT5/dyy4AolcQQCkxhg9gjmI=;pOu+2Y+awf/QHxPx7Cbjwg=="
 ---

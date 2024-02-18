@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-foun
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
         width: 880
         height: 587
+        isCached: true
+  - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
+    excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
+    publishedDateTime: 2024-02-18T12:32:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/project-izanagi-masayoshi-son-plans-100bn-ai-chip-venture/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
     excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
 webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
 type: article
 quality: 69
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,57 +29,95 @@ images:
     isCached: true
 
 related:
-  - title: "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess"
-    excerpt: "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ..."
-    publishedDateTime: 2024-02-15T00:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605"
+  - title: "Cementing The AI Business Model Foundation"
+    excerpt: "Technology business leaders need to reassess their approach to AI and focus on building a solid foundation for their business’s future."
+    publishedDateTime: 2024-02-14T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/cementing-the-ai-business-model-foundation/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65b285f2feeb66880211ff53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
-    excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
-    publishedDateTime: 2024-02-14T00:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
+  - title: "Navigating the ethical challenges of artificial intelligence"
+    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
+    publishedDateTime: 2024-02-13T23:16:00Z
+    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
+    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
-  - title: "Australia’s Craggle releases AI tool for refinancing home loans"
-    excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
-    publishedDateTime: 2024-02-14T09:22:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99659/australias-craggle-releases-ai-tool-for-refinancing-home-loans"
+      name: OPB
+      domain: opb.org
+    quality: 54
+  - title: "A look at Dubai’s focus on infrastructure and capacity building for businesses of the future"
+    excerpt: "The Dubai government has been supporting experimental initiatives that aim to foster an environment where businesses of the future can thrive., Leaders of Tomorrow News, Times Now"
+    publishedDateTime: 2024-02-16T06:03:00Z
+    webUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571"
+    ampWebUrl: "https://www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/leaders-of-tomorrow/a-look-at-dubais-focus-on-infrastructure-and-capacity-building-for-businesses-of-the-future-article-107743571/amp"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 48
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://static.tnn.in/thumb/msid-107743729,thumbsize-135486,width-1280,height-720,resizemode-75/107743729.jpg"
+        width: 1279
+        height: 720
         isCached: true
-  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
-    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
-    publishedDateTime: 2024-02-16T15:33:00Z
-    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
+  - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
+    excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
+    publishedDateTime: 2024-02-16T15:09:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
+      name: Law
+      domain: law.com
+    quality: 48
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Artificial-Intelligence-767x633-1.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "Otter AI Knows What You Missed On Boring Business Calls"
+    excerpt: "A new Otter AI assistant is making it easier than ever to skip business meetings and catch up on what you missed."
+    publishedDateTime: 2024-02-13T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/barrycollins/2024/02/13/otter-ai-knows-what-you-missed-on-boring-business-calls/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
+    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
+    publishedDateTime: 2024-02-18T11:24:00Z
+    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
+        width: 333
+        height: 250
+        isCached: true
+  - title: "Integrators sound off on RMR, artificial intelligence, scaling up the business"
+    excerpt: "Four integrators sat down with SIW during the Cloud Security Summit in Austin to talk about the breakneck pace of technology innovation and how they’re balancing growth with"
+    publishedDateTime: 2024-02-13T20:40:00Z
+    webUrl: "https://www.securityinfowatch.com/integrators/article/53096413/integrators-sound-off-on-rmr-artificial-intelligence-scaling-up-the-business"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 13
 
 secured: "BZx//AD5yXRo+6Z9V00Vo3KBi791vBPd+uk7UNjOnBYfk12QCjWcS1vopQGKUWSP0rcYQvQZMPW5kA51tDTrG7ARG5UwNLj91bQ4slFM+OwuoL3K88HYj+sUAz66dKFMPvsfvHqL5hXUidRjn8CAH12IbzJLJM9Z49yv34x/0SQlfjQv6UCK16YO7nGzGKa6xd7b1+Qxj/rR1uh7tU0GeGVKI7x1OQ93J7qRtCMVaHKFApvKLDlrz+pqgkMbNDM9Xx7XKc3RNJKCV0fFyjtvot/owsgQk8r/rPCGnXiv0yWsKGV6f+qvZe0kPRMTtdf9VP9SEdOvCwofmgvrDjHLPvIEMVeI0P6P9fQxlcnPMmg=;JuKkVPhOZPmEoVJYdg/P6g=="
 ---

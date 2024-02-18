@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia passes Google’s market cap, now world’s fourth most valuable company"
+    excerpt: "Nvidia used to be a gaming GPU company, but the company's value has absolutely skyrocketed thanks to the AI craze and a GPU's value in accelerating AI workloads. A few purpose-built chips later ..."
+    publishedDateTime: 2024-02-15T11:09:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 52
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "AI-power: NVIDIA value surpasses Google-parent Alphabet, Amazon in days"
     excerpt: "NVIDIA’s shares went up 2.5% on Wednesday, making the company worth about $1.83 trillion, more than Alphabet's $1.82 trillion, reported Bloomberg. Microsoft, Apple, and Saudi Aramco are ahead in the first, second, and third positions, respectively. Alphabet has assumed fifth place after NVIDIA's surge."
     publishedDateTime: 2024-02-15T12:29:00Z

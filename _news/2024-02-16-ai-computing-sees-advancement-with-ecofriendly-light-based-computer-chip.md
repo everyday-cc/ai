@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "New computer chip enables AI computing at the speed of light"
+    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
+    publishedDateTime: 2024-02-16T21:17:00Z
+    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 54
+    images:
+      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
+        width: 2500
+        height: 1756
+        isCached: true
   - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
     excerpt: "An innovative new chip uses light for fast, efficient AI computations, promising a leap in processing speeds and privacy. Penn Engineers have developed a new chip that uses light waves, rather than electricity,"
     publishedDateTime: 2024-02-16T10:01:00Z
@@ -33,33 +47,19 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Remote Sensing Software Market Report: Harnessing AI And Machine Learning For Enhanced Insights"
-    excerpt: "Remote Sensing Software Market Advancements in remote sensing technologies & data in various defense applications drive the growth of the"
-    publishedDateTime: 2024-02-15T06:40:00Z
-    webUrl: "https://menafn.com/1107854618/Remote-Sensing-Software-Market-Report-Harnessing-AI-And-Machine-Learning-For-Enhanced-Insights"
+  - title: "US researchers develop 'unhackable' computer chip that works on light"
+    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
+    publishedDateTime: 2024-02-16T10:01:00Z
+    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 42
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?982562"
-        width: 399
-        height: 250
-        isCached: true
-  - title: "Can I Protect Something That I Created Using Artificial Intelligence?"
-    excerpt: "The USPTO has also published information about current technologies and their impact on copyrighted works and is conducting a study regarding copyright issues raised by AI. Based on public information through December of 2023,"
-    publishedDateTime: 2024-02-16T14:54:00Z
-    webUrl: "https://www.law.com/dailybusinessreview/2024/02/16/can-i-protect-something-that-i-created-using-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/392/2024/02/William-Trueba-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "+qQL+5nk8LaL2mqOlz9QmPMhSlnWH/2OGwGskQ3RUDEYYXAS6sSYb6rWcxzFxffa/Zp3eQ/603Q/3aaNOhXe5yPlmJU6H0fU+kcxAfrCqCCbzYS8RViJnLxqD8n2LQqCltYlxaDpmTX5qXTNgvxixfE2oVQx3Qowpvo8t72FNf6oXD5kmDIqmz7HakJnJi5lgHLZ5YX46iJ9EN9Gv9wl9XPgSrjcb7HopDOj/EkktBwVQiLULkWpsf9j9DNJGLmKevskbg4Ypd8NpBJAOVnjZddHB6j4vlBlnkW3pMijlAl9axY/ePzXTsLCL4SVB8Z66p7f5wC56MOcVg1cq8Qlmr68IfgZ+42kFw6eBrrxQ7U=;qpLn1x6/CrX4nwhIb4N0Tw=="

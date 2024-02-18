@@ -19,73 +19,71 @@ topics:
   - AI
 
 related:
-  - title: "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech"
-    excerpt: "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy."
-    publishedDateTime: 2024-02-13T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/"
+  - title: "Penn is the first Ivy League to offer a degree in AI"
+    excerpt: "Penn is the first Ivy League to offer an undergrad AI degree. The new program will be available this fall."
+    publishedDateTime: 2024-02-14T17:56:00Z
+    webUrl: "https://www.businessinsider.com/penn-students-can-major-in-ai-fall-2024-2024-2"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "UPenn to Launch Bachelor's Degree in Artificial Intelligence"
+    excerpt: "The University of Pennsylvania will offers coursework in topics including machine learning, computing algorithms, data analytics, and advanced robotics, with electives in AI ethics and trustworthy AI."
+    publishedDateTime: 2024-02-16T18:06:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/upenn-to-launch-bachelors-degree-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 43
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64a57380e07eea1def9805d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/6d588da/2147483647/strip/true/crop/1000x486+0+90/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2Fcd%2F01%2F5f898d9b4d8fb7064e830695e97c%2Funiversity-of-pennsylvania.jpg"
+        width: 1440
+        height: 700
         isCached: true
-  - title: "New computer chip enables AI computing at the speed of light"
-    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
-    publishedDateTime: 2024-02-16T21:17:00Z
-    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
+  - title: "Penn Engineering Launches First Ivy League Undergraduate Degree in Artificial Intelligence"
+    excerpt: "The University of Pennsylvania School of Engineering and Applied Science has announced the launch of a Bachelor of Science in Engineering in Artificial Intelligence (AI) degree."
+    publishedDateTime: 2024-02-15T18:18:00Z
+    webUrl: "https://www.automation.com/en-us/articles/february-2024/penn-engineering-first-ivy-league-degree-ai"
     type: article
     provider:
-      name: earth
-      domain: earth.com
-    quality: 54
+      name: Automation
+      domain: automation.com
+    quality: 31
     images:
-      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
-        width: 2500
-        height: 1756
+      - url: "https://www.automation.com/getmedia/8b2a1848-31d1-473e-b5dc-1fd9b763f99e/Penn-state-news-Feb-15-2024-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
-  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
-    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
-    publishedDateTime: 2024-02-14T23:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
+  - title: "Penn to become first Ivy League school to offer undergraduate degree in artificial intelligence"
+    excerpt: "Students and faculty expressed excitement for the new engineering degree in AI, which will be available to students next school year."
+    publishedDateTime: 2024-02-14T04:22:00Z
+    webUrl: "https://www.thedp.com/article/2024/02/penn-new-major-engineering-degree-artificial-intelligence"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
+      name: The Daily Pennsylvanian
+      domain: thedp.com
+    quality: 27
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://snworksceo.imgix.net/dpn/bfde7347-ba41-45ed-8b4d-e5956c98b894.sized-1000x1000.jpg?w=800"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Inviting The AI-Powered 5G Era, GIGABYTE Will Present Next-Gen Servers For AI/HPC, Telecom, And Green Computing Solution..."
-    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming t"
-    publishedDateTime: 2024-02-16T09:28:00Z
-    webUrl: "https://menafn.com/1107860492/Inviting-The-AI-Powered-5G-Era-GIGABYTE-Will-Present-Next-Gen-Servers-For-AIHPC-Telecom-And-Green-Computing-Solution"
+  - title: "Penn to become first Ivy League to offer AI degree, looks to ‘train the leaders’ in emerging field"
+    excerpt: "Along with those required courses, students will also have to learn the ethics of AI and what it can be used for. “There’s a couple of different courses that students could choose from ranging from ethical algorithm design to a course that’s taught ..."
+    publishedDateTime: 2024-02-16T10:30:00Z
+    webUrl: "https://www.wesa.fm/education/2024-02-16/university-pennsylvania-artificial-intelligence-degree"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 13
+      name: WESA
+      domain: wesa.fm
+    quality: 25
     images:
-      - url: "https://menafn.com/updates/pr/2024-02/16/A_517bdimage_story.jpg"
+      - url: "https://npr.brightspotcdn.com/dims4/default/76192b4/2147483647/strip/true/crop/5692x2988+0+52/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F6a%2F3b5553e44945bd04125427d99740%2Fap23349839650541.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
-    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"
-    publishedDateTime: 2024-02-15T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "vNgJ0rGULnfwvjv4cMkBkLLR+e1q011mE9u1EycreE7SvFyP36VcHxD8oXaL+BawEyRb/IN9vBMQF1w7gl18FnYDv8Ytibd5Yo50tZosBO7FgE25FwoMQFv3MSWsogdhX0Ga8Dj5gnNOl43F4edoTSIBhSxBzJH1ZXpiE2h4w4KyGnzNPrPNGEfgzdB9riigmvKsPqhsVuDqFrkUhBHv1ObPxqWsTxFfDpW7QzVsxvQjg+RelA/JwXLcpezBjQYfP2D1EDfROVEM1I5x2HOFOEqCUaIApY6KDiKxqALnHH4Y0DuMm/0JPPlkVatCWPiVsyW86IFChKCWt+bCnq4XmMUi0rWL/zK1hbK8Rpb4xjUlsVZQQsGZSsHd+CU8/kisveoyXxpZBKOqzqlOkv2PWtmF0zVm0gWyzknNWK715XSu0IcsCWOh9Lgr5x2UK+LsvDO4L7RrWZBBF9HnO6rqrXI18uQhkM9chmowP5fk1H/SjJNdLsbxY/CL9ffcDJcTU8KBQo95X8pDKLz5Xpuq/w==;4QCWOGpl1knBVo67oRcVfQ=="
 ---

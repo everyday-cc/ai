@@ -85,20 +85,6 @@ related:
         width: 2560
         height: 1336
         isCached: true
-  - title: "Ex-Amazon duo’s AI startup raises US$12.5 million in Series A funding"
-    excerpt: "Find out more about subscription packages here. ARTIFICIAL intelligence (AI) startup Marqo raised US$12.5 million in a round led by Lightspeed Venture Partners, gaining funds to develop its technology that helps companies search the vast amounts of ..."
-    publishedDateTime: 2024-02-13T11:41:00Z
-    webUrl: "https://www.businesstimes.com.sg/startups-tech/ex-amazon-duos-ai-startup-raises-us125-million-series-funding"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 37
-    images:
-      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/13/email-32490621920.jpg"
-        width: 880
-        height: 587
-        isCached: true
   - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
     excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
     publishedDateTime: 2024-02-16T19:20:00Z

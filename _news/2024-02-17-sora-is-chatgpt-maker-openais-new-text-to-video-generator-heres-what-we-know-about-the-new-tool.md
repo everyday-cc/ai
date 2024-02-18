@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "What you need to know about AI corn"
+    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
+    publishedDateTime: 2024-02-14T20:08:00Z
+    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "3fcuMuGizhzDCvBL+rmgiszf7NCMABgldh3edZ+izdbvNzxNZSMqUZsyWOpNj56lTBw78NWOqT0zpPDlcOkBf4ph97pT2u3nebXA/JCSQmS0vaM7bpaiabUQ2W1uQlNzJIMCD689+doMDR4mXotjIPKNS6+QzSnThi9afFdygW5a7+ZiZBQ6R78vyKJD7NmWxlHsRTD5ml8qIGpawt5Til4zr90BXdPl5wUkDPvtR3oDVDa+mKHjSIgtdtgzFUGNxlt+Cu/rjHdbHHm3hYcYgbGoGz443yXYbEQ4jVKMC3b6P+9KmhIUDJZI8JtNRhGVeNNLudj8Py75/olPTMeiluGhep0yhd/gbWr/Y3y3Q1CMnMTobcel1tLz083kmZrCf7KMIt4HFT8hEMjWwyITgGEGhhDX4sCERGzRC0o3auyuOUnTNZYi9qNbVhf254Pq6tMxDvhQdcQD5FHDEmWs/udZSn8Bk74e8IEQpMlj2PjqHBhNgComZF/aE6tlyZHqltCSYOzzL7JQz/ZH68/1sw==;D8N9Hc5OFrr90d5nWswbyA=="
 ---

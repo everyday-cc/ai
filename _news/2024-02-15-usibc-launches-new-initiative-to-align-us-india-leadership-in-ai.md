@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "India's first AI-enabled education tablet launched: Details"
-    excerpt: "Aimed at playing an active enabler of digital learning, the education tablet is the first of its kind to come integrated with the BharatGPT virtual assistant and will highlight AI/ML-based inter-lingual translation for Indian languages (Voice-2-Voice,"
-    publishedDateTime: 2024-02-13T14:33:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/india-s-first-ai-enabled-education-tablet-launched-details-2024-02-13-916709"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 36
-
 secured: "38iJ+GsPZuzBIri6s8Bd11NY3EoRk6mgdMH5leDJiqv3WGemJszWn/reA+bw60PHpbtvB5IysDpPKxVQaMvCEpMvjq0u0scecEO1iGhdCD7orBOyS1ldyaYz8uNmja2tskI67+EOjaf5+0jxb3W/bPjQitgQJ33Ww368H+LLYpL3payWhhHMbCVmH5DseYbn2AWctH0vrFO8MpkqELzoGQ5Cni/VE7ei0Cxsx6mjp4GDGHKBewR0b4LBp8I5w23gQBD0fjqD/j2CDPuIBik+NAp10t5X3KCQc/Blwqe5v19LhnifCFK7siydeHc48SE8sLBvVYYqPjlfuLuywBkXux04qgI1nEEi48478/144V+JWRsAncgFWDkug/mXOytF+dSBD/Dn0e9n7jmQd0ANKxXzeIUmkU17ens+O9vXxDn7XbyXmFrvmmFRIWz6cDlkBRKc6yXIM07GMuzKMweNdOWQYCKVTuZLlMjJiU3rrsghLzgw5qG5pYfA+z+Rcr5D9hodU4xv1i6495Gyv8SD2w==;iC3vR2ZNnG0xpBWD6Uag4g=="
 ---
 

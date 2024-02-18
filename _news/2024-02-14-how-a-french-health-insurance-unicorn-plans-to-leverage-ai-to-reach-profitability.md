@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/14/after-raising-massive-funding-roun
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 811
     isCached: true
+
+related:
+  - title: "How health insurers use AI to streamline operations"
+    excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
+    publishedDateTime: 2024-02-15T09:00:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-operations-unitedhealth-aetna-oscar-health"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 19
 
 secured: "9HRHndzURwBlQn33AewX2qead4QPI296ji3DS6WdtcoEorDZmN1N37QJy5KBmdefFk1rhN1VGHlhixWb1lOanB4tUI1ov1bF3+e71A/fwMNYh71e4y+FdbsE/6N8A3Kt+x9CB/Ne51e3ldcPGcrXQzXqwPcRkXzi307l3hE5wBjH1poycbHAmalT4Vv+2wbzTgZdI0szfGHdQjlKyIBCfwbvCTDdCrq1oKSLCVd9xnuETCY/CQwkJy2au6P9ekVz7D/qUXQUNPB6Hq6EvRHkCSrqTKMH3nFlDW3tdiMtQ4cdb+j0rTeJwKDiXtvmbVVOawXdlvemyVcXK9nfVdNrNubB5IcFLwuAydUfiQ2t0sM=;cTXQ8+vqe2saY0ksnN7vRQ=="
 ---

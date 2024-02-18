@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 20
+  - title: "What you need to know about AI corn"
+    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
+    publishedDateTime: 2024-02-14T20:08:00Z
+    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 19
 
 secured: "k47scQ2M096LmDkf2UFpBJb4giR3wM5/y7Rn47SgTDgHG+/c5FrznjkNFEOrpS7OiQz6sZK9hi/gklGNjBsPakfGm9ufpv73u8s3vOIT4JKNr/IcFFTLGQOmvGsJEXEaCaF/p7xKFp2YkY5bAONfZLfTQGe2K8CFFuOKynt70lLnGBO8ad/KZGnqedM7oUD5G06xKkUcJg5YERNw61JQdB2upSYr7UDEpNGqsmdcj+go130671R4HrP3zpT8GtHyuZmV0a+rPcTyGObBDhQpm/3PXF3HFC59nj0h2NMwE1R+dMEflTqv2NJMxb88EDZdf0DMW/hARsX7T1c2MY6960LaZK+ZWCkW3eMuddodjq8=;EdZm9XbeXEatGbZMelkmHA=="
 ---

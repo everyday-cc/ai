@@ -115,6 +115,20 @@ related:
         width: 2000
         height: 1125
         isCached: true
+  - title: "Yet another report suggests iPhone 16 is being built with AI in mind with a surprise Neural Engine update"
+    excerpt: "While generative AI remains controversial for leveraging existing assets to produce something 'new', a new report from Taiwan (thanks, GSMArena) suggests that the iPhone 16 will lean into it with a new Neural Engine that packs \"significantly\" more cores."
+    publishedDateTime: 2024-02-18T11:20:00Z
+    webUrl: "https://www.imore.com/ios/yet-another-report-suggests-iphone-16-is-being-built-with-ai-in-mind-with-a-surprise-neural-engine-update"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 22
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/hn6aCdsyc2zhXMWcENZRkM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
     excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"
     publishedDateTime: 2024-02-14T19:22:00Z

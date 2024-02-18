@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-conne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
         width: 936
         height: 598
+        isCached: true
+  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
+    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
+    publishedDateTime: 2024-02-14T23:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "JioGenNext Introduces New Startup Cohort with Generative AI Focus"
     excerpt: "The cohort consists of ten dynamic startups spanning diverse sectors such as healthcare, banking, legal services, entertainment, and agriculture."

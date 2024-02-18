@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
-excerpt: "SAN JOSE, Feb. 15, 2024 — Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital, SK Telecom, funds and accounts advised by T. Rowe Price Associates, Inc., and existing investors Crescent […]"
+excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
 publishedDateTime: 2024-02-15T20:29:00Z
-originalUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
-webUrl: "https://insidehpc.com/tag/lambda-gpu-cloud/"
+originalUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
+webUrl: "https://insidehpc.com/2024/02/lambda-raises-320m-to-build-nvidia-gpu-cloud-for-ai/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://insidehpc.com/wp-content/uploads/2023/10/HPE-Nvidia-logo-2-1-1123-1024x512.png"
+  - url: "https://insidehpc.com/wp-content/uploads/2023/12/Ayar-Labs-feature-image-1223-1024x512.jpg"
     width: 1024
     height: 512
     isCached: true
@@ -97,6 +97,6 @@ related:
         height: 791
         isCached: true
 
-secured: "/tFLRCGrX7A/2jJHq5eMN8gV4+kbAFNZ1Vq/3XWti04dUlqLq+84BODW7O2se+86UDcONyjhmbKKpvff/+UsFo0fGoehFsmNM2rHqpNZzCzhLey995dQrVoqC66VBtPXHFn5RhtfJkDucbe4+PiQXm+aHuz5bCZRbr1SxW8ujowg3sdcQ7JU9NhWcJECpb3VlfWO4Dn/tn9JOffaE6HNwQVYODpS//96W4cp55Niui8gnVLjRctRRq5yr9d7ZW89zNnoKz/ulsM5QJ+VSm6rJQgjZlzsEJMYY3HOedq5w+t2PX3t/1UBwGYBC5hoqEs3C92TKlFvS/RrRx7gmkwzwHmsaxmXwovvhuq8KTV71tk=;pR49juVjDajN+FoXyrO89A=="
+secured: "zDBwy6/9Lycce07/fdUOEm++wWcZuUN9VBdDWzes65TZBUMQaoe8DkDzgt/4xLHUyHTsSBCO9YOIzHPn/BovemkNY1s0xlrTltiZDiHo2e6ORSPyK3a7UO3KTEFoKhVaFPKQ5EUmegKIZLg7IYNAkvixMNOqmdFGLo5pZNlzVmsS3MPLdrDYebMpYxm1RHoL5SzarXZs/dEErhJZpwKTcxl46CatC39N47SFTmrdKGhzOpdI6E5B4tDHc6KM+uRMCp0PnHgOlFoltgejxL5D/yf5+IhaHoRQ2ORW+LeF3jtyex4rQeYL3twcwYFghfcJkXOXWMa1CeuSqQK9BxAClmau4ujTrwAKO3wm4flwbic=;s9TiIXi/9TY6T1THWkF1rw=="
 ---
 

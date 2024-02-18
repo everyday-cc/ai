@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves
 webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -22,34 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "10 AI Tools For Australian Businesses In 2024"
-    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
-    publishedDateTime: 2024-02-14T03:07:00Z
-    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess"
-    excerpt: "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ..."
-    publishedDateTime: 2024-02-15T00:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-    images:
-      - url: "https://lh7-us.googleusercontent.com/rsrNqmLgv6QYrLC_zKQc5SV6DuEfxp8G1E2hyyhvqv4qCEbH8xe22ZvxlXyeJPYwQs6MMkOrxFW1gzkGo8-8pSO1Yqoid99IAn7QHZd-E78PYu2Exs9I2m5gG82oGgz3YIbvnMoQ0CxTXxA02dBhDQ"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Australia’s Craggle releases AI tool for refinancing home loans"
     excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
     publishedDateTime: 2024-02-14T09:22:00Z
@@ -64,19 +36,19 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
-    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
-    publishedDateTime: 2024-02-16T15:33:00Z
-    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
+  - title: "Govt panel to consider restrictions on high-risk AI technology"
+    excerpt: "The government’s interim report recommended mandatory rules around the use of AI in settings “where harms could be difficult to reverse”, which could include compulsory testing, public transparency, and a certification process. Husic said the group had a diverse set of skills that would be needed to meet the task."
+    publishedDateTime: 2024-02-13T22:29:00Z
+    webUrl: "https://www.indaily.com.au/news/national/2024/02/14/govt-panel-to-consider-restrictions-on-high-risk-ai-technology"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
+      name: indaily.com.au
+      domain: indaily.com.au
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
-        width: 2048
-        height: 1366
+      - url: "https://wp.indaily.com.au/wp-content/uploads/2024/02/custom-image-262.jpeg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "YWZ8PZZHgLNcuZ88HAmvmjbHqNi0pgasDr+5Msasx/AsYq5SnLTdoaQ0nIdqdeEDg1zt3dhhI0+jTHvTfi8cXj1OfMFsnZrxcqiUfESpBYsVsMXNb6CxJW8/maocoU1SQwy/Ed3AtZ4SazWYx/oEj0gSAP0yPH8nug209j/t+Pq/F5Z/g0vOf23LNComeB/L/3KnQLGp6ZzGyrhO7k66i9EG8Du/aO5mMSV1P9rBA0Gfj1efjzovIcbwn9JihmtDmluhZE/gbPZ+SM3j4lLz0xMXqHbkBK3lNtz1mmaWot+FcoNV/QAjlaUDP3Unz9zCdFmBWb6BttK8Pkx568DoytnkXBG3mNrdBdVYYa9GHGZmoYA7ULxrZIwgYupdtcgPIM0KE96InNrJFin3Mtqxp2U/kLusj9P0lMOfnEuVYpV13yZWqfsNB4BOMvaX+I3h2mMGRG2fKDfK3CjiClqZbY//wil7EIGvz0gOOpaM23KahV+19iWC4WcizEyr0KbjRbmMKbb671cD+wSd4Je7hw==;SBebBELXUbHR9lwxhsJnJA=="

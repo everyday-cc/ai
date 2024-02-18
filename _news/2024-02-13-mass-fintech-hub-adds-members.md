@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Business To Business Banking: Fintech 50 2024"
-    excerpt: "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49c9ad26e48437eb62c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Dutch fintech leader Finom nets €50M to boost digital banking for SMEs"
     excerpt: "Dutch fintech Finom has raised €50mn ... a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! “We aimed to give them more time to focus and reach their full potential.”"
     publishedDateTime: 2024-02-14T15:23:00Z
@@ -63,76 +49,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Eight CEOs Making Their Debut On The Fintech 50"
-    excerpt: "Their companies do everything from taking some of the drudge work out of accounting to helping Americans maximize their credit card rewards. Seven are founders."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/eight-ceos-making-their-debut-on-the-fintech-50/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65caddf750700ab9ac25fb49/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Newcomers To The Fintech 50 2024"
-    excerpt: "The 13 fintech startups making their debut on our ninth annual Fintech 50 list are proving that despite a challenging funding environment, innovation is alive and well."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/newcomers-to-the-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa1c68c2bb76dd88fe0b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Future Of Insurance: Fintech 50 2024"
-    excerpt: "From two startups protecting against hackers to a small business insurer using AI to process applications quickly, six insurtech businesses made our Fintech 50."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/jeffkauflin/2024/02/13/the-future-of-insurance-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa5c47d3d2cb63e760ff9/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The Future Of Payments: Fintech 50 2024"
-    excerpt: "From startups enabling in-game and international payments to payment processing giant Stripe, nine payments companies made our ninth annual Fintech 50 list this year."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/emilymason/2024/02/13/the-future-of-payments-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65caa0ad00dfab63d16ef4f6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Future Of Wall Street And Enterprise: Fintech 50 2024"
-    excerpt: "Nine startups are on this year’s Fintech 50 Wall Street and Enterprise category, including longtime regulars Addepar and Trumid and four fraud prevention firms."
-    publishedDateTime: 2024-02-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/hanktucker/2024/02/13/the-future-of-wall-street-and-enterprise-fintech-50-2024/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ca49fc9a66d41bfb129e98/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Insuretech, Fintech as Threat to Group Life Insurance"
     excerpt: "The Key Man Insurance policy or Key person insurance on the other hand is a life insurance policy which a company buys on the life of a top executive or another critical individual. Such insurance cover is needed if that person’s death would be devastating to the future of the company."
     publishedDateTime: 2024-02-14T00:02:00Z
@@ -148,6 +64,22 @@ related:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/0-1-32.png"
         width: 785
         height: 530
+        isCached: true
+  - title: "Carbon acquires Nigerian fintech"
+    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
+    publishedDateTime: 2024-02-15T02:37:00Z
+    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
+    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "What made Srikanth Nadhamuni build banking fintech firm Trustt"
     excerpt: "One of the architects of Aadhaar, Srikanth Nadhamuni is now creating new-age banking solutions leveraging AI at Trustt. In an interaction with YourStory, he discusses his vision for the company, his take on Gen AI,"
@@ -193,6 +125,20 @@ related:
         width: 700
         height: 350
         isCached: true
+  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
+    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
+    publishedDateTime: 2024-02-16T11:58:00Z
+    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
+    type: article
+    provider:
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 24
+    images:
+      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
+        width: 620
+        height: 372
+        isCached: true
   - title: "How the UAE is cementing its fintech hub status"
     excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
     publishedDateTime: 2024-02-16T06:28:00Z
@@ -221,20 +167,15 @@ related:
         width: 509
         height: 339
         isCached: true
-  - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
-    excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
-    publishedDateTime: 2024-02-16T11:49:00Z
-    webUrl: "https://techbullion.com/intersphere-enterprises-and-icarus-labs-a-fintech-partnership-redefining-the-future/"
+  - title: "Carbon acquires Nigerian fintech Vella Finance"
+    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and ... The digital bank is aiming to leverage Vella Finance’s AI-powered SME banking feature that helps users get actionable ..."
+    publishedDateTime: 2024-02-14T00:00:00Z
+    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech-vella-finance/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 17
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/ICA0018-media-banner-02.jpg"
-        width: 720
-        height: 455
-        isCached: true
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 19
   - title: "Mass Fintech Hub Welcomes Four New Members"
     excerpt: "Additions range from a fintech startup to academic institutions to a large nonprofit corporation, providing different insights and perspectives to aid in the organization's missionBOSTON, MA / ACCESSW"
     publishedDateTime: 2024-02-13T14:28:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-
 webUrl: "https://interestingengineering.com/culture/nvidia-ai-power-excels-alphabet-amazons"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia passes Google’s market cap, now world’s fourth most valuable company"
+    excerpt: "Nvidia used to be a gaming GPU company, but the company's value has absolutely skyrocketed thanks to the AI craze and a GPU's value in accelerating AI workloads. A few purpose-built chips later ..."
+    publishedDateTime: 2024-02-15T11:09:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/02/nvidia-passes-googles-market-cap-now-worlds-fourth-most-valuable-company/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 52
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Nvidia Overtakes Amazon in Market Value: ETFs to Tap"
     excerpt: "It trades in an average daily volume of 2,000 shares. Global X Robotics & Artificial Intelligence ETF (BOTZ) Global X Robotics & Artificial Intelligence ETF follows the Indxx Global Robotics ..."
     publishedDateTime: 2024-02-13T16:05:00Z

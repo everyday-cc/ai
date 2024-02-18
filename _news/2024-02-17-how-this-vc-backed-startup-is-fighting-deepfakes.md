@@ -54,15 +54,6 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 21
-  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
-    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
-    publishedDateTime: 2024-02-16T20:04:00Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "WxL2vSbr/FdWb2REwNWuoKzZn0azX0fjR9LAmqVY9ctzceToaQWP1WDfiEK20SwnED3z6BLjpbT/KcSbucPrH/50zkVIaBjMZROTu8DMUfbAfn2wgCkyhSA/728bZccxWniJakrkYCLwBRp00MhsO9uFmZ2+w0K/ChRh/+6kFku/Ajrp1kiRj/yYruTbngrnvbnWI3mjX/jPxkRHPeRYgc8efb/2Bod28z3HByX/MNLneBIelUF9LT3qccw7p/9w6kjRfNMib+LLpbQXrg+eVvCVNiJARdIvrsfuaDuvCNUGAmV1RAEvUDAhFHo73uWF2NML5yQVd4f46ExJQRIDjhR9esDp7EQIKwId1nET+eE=;H3WUUa/Bw5LVVCvXv8++2w=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 936
         height: 598
         isCached: true
+  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
+    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
+    publishedDateTime: 2024-02-14T23:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "GAO Utilizes Artificial Intelligence to Enhance Efficiency and Effectiveness"
     excerpt: "Artificial intelligence (AI) continues to revolutionize various sectors, offering solutions to complex problems and tasks traditionally requiring human intelligence. Recognizing its potential, the Government Accountability Office (GAO) has embarked on an ..."
     publishedDateTime: 2024-02-14T00:00:00Z

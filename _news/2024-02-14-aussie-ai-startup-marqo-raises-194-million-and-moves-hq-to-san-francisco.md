@@ -33,20 +33,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
-    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
-    publishedDateTime: 2024-02-16T11:58:00Z
-    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
-    type: article
-    provider:
-      name: GlobeSt.com
-      domain: globest.com
-    quality: 24
-    images:
-      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "ZLNK8/cs6bKi8W/HoCAU4hAfNrtE3vA8ZiM+fQZZUELwJX/VxALeQfLzkyDPO4R/oTOWsJDw94x6SbWP7pp7QvI+ztKG/+YEmNxat2+LSsF8RffSK9Zg/4uw2t+2Nve/GTAWZv6SPwLq4ebadTSa+qP+8ylYJ7fDGDFAFhOFNGjZ7VmWP4s4yt5E+0Zs3/iLK+OMWRdgNL+ldsUbm/5irBH/T2hsX7Ro0A/MUCkKFU7A/7NqDfq6cIz0zv8X0YuMBHwUo1aG+epAc3dCQH2qIeCCHKAv60PORvVsvmOgFryYBPZ/n8/V/0+yjNVH9qXgCyaxeqWuFv7fcCbxsiy1BH9GIESUCSw7tmD/JozCbfb42hiYKJRCw2oojf71or8/ahnYJBvecyARn+3af/1qG6wcTnWEP3HE7PWnyrrjp7jXp1iFNa/Ke+aWOmqTTgzPwAQ2nMdpSpYLs9XDL31dHA6IHbH8gZrLrbZfSlg1mu9CoVb5qM/6OjPjCAOB4VV0VnHkJ+OzawJe5iz3hO9uPg==;6FTdlrZefMrSPIdv4tw61g=="
 ---

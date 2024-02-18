@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-ar
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 28
-  - title: "Jive co-founder Bill Lynch on his new AI-backed health care startup"
-    excerpt: "Jive co-founder Bill Lynch is back with a new startup exploring the use of artificial intelligence tools, specifically generative AI, in health care. The new company is called HumanTrue and Lynch is chief technology officer."
-    publishedDateTime: 2024-02-13T11:44:00Z
-    webUrl: "https://www.bizjournals.com/portland/inno/stories/inno-insights/2024/02/13/jive-co-founder-new-startup-humantrue-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "WDJkW2zNTtGk7qX2GOiW7cR0wCrmZWK0wqoYYsFdg6FgQnrVmDOumhzkbMQaiHyeKJEeVoITXlvTzSg/Eo1BgtZKbi1+utJzYExRUnILXkI5Tnse2IHJKb6hm1gyGTVOAsH+xdyL7KTC5cvRlYp0c8ci+UvBmHiVXwsZwPS6mWmIMC+IGQ2se883AtcDhdHMqetaFJ3n4RnnkLDYWrKgQFX9igF3+zPN6vbI+Qp2/byfUAl6EQsMwcT4MHNfA7lGGOic8SwUU9j9VjzZeG+6FB1ceKTGdfpLQlHstRcuD970wNXL0ixgyqLfxWJTfqIn9ZT+8i6zbWcsTfYRR1ymDR9saElPb3mfEWTQND6svK4KSY+P7fubXoB1EKKSQtDzRm7u9bVvLtN8FYjFJLJcGHm45HVWDFrTedmZkeo3NaQ0xnVTJuidYFGkPpkiFc0ErdXrIUne3bi5KGCluXSJBM6nXFe5h0d+Tre0jij3V9KsGJ7X323iEWgiNxC+/AUytM0ReZNNbv9I88pMQH7z+A==;EP4uej6ikGa25sZou1CbVw=="
 ---

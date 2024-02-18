@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/uts-australian-art
 webUrl: "https://markets.businessinsider.com/news/stocks/uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess-1033068605"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Business Insider
@@ -29,43 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 AI Tools For Australian Businesses In 2024"
-    excerpt: "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,"
-    publishedDateTime: 2024-02-14T03:07:00Z
-    webUrl: "https://www.forbes.com/advisor/au/business/software/ai-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
-    excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
-    publishedDateTime: 2024-02-14T00:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
-  - title: "Australia’s Craggle releases AI tool for refinancing home loans"
-    excerpt: "Craggle, a fintech company aimed at helping Australians negotiate a better rate for their home loan, has launched an AI-powered tool aimed at removing all the friction of refinancing and enacting all the basic tasks of a mortgage broker."
-    publishedDateTime: 2024-02-14T09:22:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99659/australias-craggle-releases-ai-tool-for-refinancing-home-loans"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
     excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
     publishedDateTime: 2024-02-16T15:33:00Z

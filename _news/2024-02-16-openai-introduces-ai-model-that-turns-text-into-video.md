@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI chief says 'misalignments' could cause artificial intelligence to 'wreak havoc'"
-    excerpt: "Sam Altman said the dangers that keep him awake at night regarding artificial intelligence are the \"very subtle societal misalignments\" that could make the systems wreak havoc OpenAI's chief executive officer, Sam Altman, has warned of the potential ..."
-    publishedDateTime: 2024-02-13T12:17:00Z
-    webUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756"
-    ampWebUrl: "https://www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
-    cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/money/openai-chief-says-misalignments-could-32113756.amp"
-    type: article
-    provider:
-      name: The Mirror
-      domain: mirror.co.uk
-    quality: 66
-    images:
-      - url: "https://i2-prod.mirror.co.uk/incoming/article32113815.ece/ALTERNATES/s1200/0_JS305368878.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "OpenAI board chairman launches AI agent startup to elevate customer experiences"
-    excerpt: "an AI agent startup for businesses. Founded with Google’s former head of VR Clay Bavor, Sierra aims to empower enterprises with their own AI agents. This will enable them to take their digital operations to a whole new level. The company has already ..."
-    publishedDateTime: 2024-02-13T11:58:00Z
-    webUrl: "https://venturebeat.com/ai/openai-board-chairman-launches-ai-agent-startup-to-elevate-customer-experiences/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/happy_robot_wearing_headphones_and_handling_cust-1-e1707845401633.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
     excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
     publishedDateTime: 2024-02-15T20:35:00Z

@@ -23,17 +23,6 @@ images:
     height: 1701
     isCached: true
 
-related:
-  - title: "AI chatbots should pay for news, bipartisan Senate group says"
-    excerpt: "Lawmakers are rallying to protect journalism from the potentially fatal blow of generative artificial intelligence."
-    publishedDateTime: 2024-02-13T12:00:00Z
-    webUrl: "https://rollcall.com/2024/02/13/ai-chatbots-should-pay-for-news-bipartisan-senate-group-says/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 17
-
 secured: "4ivLaSZNBIssx5Xmnjp1Mz4Da5nOSt28MMLDJVsKbCsQ8DGrvwKYLqHsAxL6KtIrZsThlCsvgnytj7UtFoLsj9hbUURQQQBCtLHIuFEyJvPguUf3klu1JCmpzovvIFhvlDewRdphtMEGC9rMbej4jEaLKf4WpC/iUGSp+W4imlq2lPtFMMscGPQUkdAd5itDT3krYulNOCJSTgbEaK4s7d54XUYHdhSfgGzgr9RmmHFZja6Opf9hMVAN4Bw7I27LD5LUHB6zZdbhhyPTMy4wJISJWHMgxdejk2jkMS3t/Pp7y+/Ulu2h17NoKJAFL2LbJGVy4+unHJUd/cnrCRB0pGyN3SyoLEFgLw7neeRWQH0=;MnZLopWAy8L+v0HTeHzzJw=="
 ---
 
