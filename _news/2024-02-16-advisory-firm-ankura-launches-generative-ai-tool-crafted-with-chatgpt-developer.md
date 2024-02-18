@@ -39,19 +39,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
-    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
-    publishedDateTime: 2024-02-13T07:29:00Z
-    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
+  - title: "5 Awesome ChatGPT Side Hustles: Make Money with AI"
+    excerpt: "The rise of AI tools has opened up new pathways for individuals ... ChatGPT’s capabilities in understanding and generating language make it a valuable asset for translation tasks. When venturing into this service, it’s crucial to input clear, simple ..."
+    publishedDateTime: 2024-02-18T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/5-awesome-chatgpt-side-hustles-make-money-with-ai/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 41
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
     images:
-      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
-        width: 1792
-        height: 1024
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/side-hustle.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
     excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"

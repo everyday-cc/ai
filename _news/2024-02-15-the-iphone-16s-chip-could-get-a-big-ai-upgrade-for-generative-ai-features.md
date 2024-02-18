@@ -143,6 +143,22 @@ related:
         width: 1559
         height: 900
         isCached: true
+  - title: "Generative Urban AI Is Here. Are Cities Ready?"
+    excerpt: "Generative urban AI, an emerging and transformative technology poised to radically change urban planning, design, and city management."
+    publishedDateTime: 2024-02-18T07:00:00Z
+    webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/"
+    ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
+        isCached: true
   - title: "5 Principles To Make Generative AI Your New Work Buddy"
     excerpt: "Today, “how” we work and “who” we work with are the defining transformations in the workplace. Soon, every team member will have their own GenAI work buddy, or co-pilot."
     publishedDateTime: 2024-02-13T15:00:00Z
@@ -202,22 +218,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2687315,msid-107732143/government-working-groups-may-submit-ai-framework_generative-artificial-intelligence_thumb_image_ettech.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Otter.ai adds transcription archiving and recall across the enterprise"
-    excerpt: "A transcription and notetaking service that can save, archive, and recall all meetings, including in-person meetings, phone conversations, and video calls, is a huge step forward in a marketplace dominated by large companies with AI tools that can transcribe one meeting at a time, with no way to connect them, Liang said."
-    publishedDateTime: 2024-02-13T07:33:00Z
-    webUrl: "https://www.computerworld.com/article/3712689/otter-ai-adds-transcription-archiving-and-recall-across-the-enterprise.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712689/otter-ai-adds-transcription-archiving-and-recall-across-the-enterprise.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712689/otter-ai-adds-transcription-archiving-and-recall-across-the-enterprise.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2022/03/home-feed-and-meeting-gems-panel-100923010-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Responsible technology use in the AI age"
     excerpt: "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption."

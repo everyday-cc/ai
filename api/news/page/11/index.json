@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2024-02-06-forget-nvidia-these-2-artificial-intelligence-ai-stocks-are-still-historically-cheap.md",
+      "title": "Forget Nvidia: These 2 Artificial Intelligence (AI) Stocks Are Still Historically Cheap",
+      "excerpt": "Artificial intelligence (AI) could add $15.7 trillion ... For now, Meta's social media sites are its bread and butter. Facebook, Instagram, WhatsApp, and Facebook Messenger are consistently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/06/forget-nvidia-2-ai-stocks-still-historically-cheap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T04:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-singapore-ai-fintech-investment-surges-in-h2-despite-global-funding-winter-kpmg.md",
       "title": "Singapore AI fintech investment surges in H2 despite global funding winter: KPMG",
       "excerpt": "FUNDING for artificial intelligence (AI) technologies in Singapore’s fintech sector surged 77 per cent in the second half of 2023, despite a global decline in fintech investments amid economic uncertainties.",
@@ -1042,58 +1085,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent.md",
-      "title": "Facebook rules allowing fake Biden “pedophile” video deemed “incoherent”",
-      "excerpt": "A fake video manipulated to falsely depict President Joe Biden inappropriately touching his granddaughter has revealed flaws in Facebook's \"deepfake\" policies, Meta's Oversight Board concluded Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/02/facebook-rules-allowing-fake-biden-pedophile-video-deemed-incoherent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-870668326-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T18:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

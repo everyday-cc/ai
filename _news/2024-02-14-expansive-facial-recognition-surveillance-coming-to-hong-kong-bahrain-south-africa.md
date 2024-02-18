@@ -24,17 +24,6 @@ images:
     height: 1333
     isCached: true
 
-related:
-  - title: "South Africa Playing A Leading Role In Africa’s FinTech Revolution"
-    excerpt: "With continued investment, South Africa is well positioned to maintain its leading role as the regional driver of fintech innovation, reshaping digital financial services across the continent while contributing positively to financial inclusion and economic growth in the country."
-    publishedDateTime: 2024-02-13T08:16:00Z
-    webUrl: "https://za.investing.com/news/south-africa-playing-a-leading-role-in-africas-fintech-revolution-3009135"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 4
-
 secured: "8whR9lZBzvhCqAOVKCeOXCgM6BPMPw6qt1C0o5Dmn+RZybxUF9WbEdgHRwSBXv9brOP93WZw1+GYOtr8kJRbOhoczePd/shQLEtRCv30jX6UG/7cTcTC/6/2Y+AREdX0vRTiigvdxKFPKvSaAZAcQXSiqTqq+KasP80i0YHWXUqq5su/QLDLuPDDiwhCSl3ZyUI/mKlemLHdpWJ5rWCBoAtAApyBD5Jbm/ae7TZKifvYAPUdHjEJlZdv/BDG00mdGeIF45IBsD5NOklfUpOqYsy9OVeBI2ZNJkkyUDlAr1EedJ7b6NvYrtI7thi5+pAW7IyejiP95s4McEr4D5sLkl8La9W4uJp6QpJVYe7/9T4=;eQFt8O4fXY4xeY3Vcp7pLg=="
 ---
 

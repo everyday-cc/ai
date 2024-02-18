@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-01-31-jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services.md",
+      "title": "Jio Brain is a new platform that uses AI and machine learning to create new 5G services",
+      "excerpt": "Jio Brain is a new AI powered platform that uses machine learning and offers services like image, text and video generation. Here's what we know so far about the newly announced service.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2024/01/Jio-Brain.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/jio-brain-is-a-new-platform-that-uses-ai-and-machine-learning-to-create-new-5g-services-9136148/lite/",
+      "publishedDateTime": "2024-01-31T05:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-gopi-krishnaswamy-founder-ceo-llama-author-teacher-google-leadership-institute-to-conduct-session-on-mindfulness-for-sustained-success.md",
       "title": "Gopi Krishnaswamy, Founder & CEO, Llama, Author, Teacher - Google Leadership Institute to conduct session on ‘Mindfulness for Sustained Success’",
       "excerpt": "Gopi Krishnaswamy, a Zen practitioner, teacher, and author, is a senior executive turned Mindfulness Meditation teacher who walked away from conventional corporate success into Zen.",
@@ -1162,49 +1205,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-artificial-intelligence-is-it-a-tool-a-threat-or-an-artform.md",
-      "title": "Artificial Intelligence: Is it a tool, a threat or an artform?",
-      "excerpt": "MINNEAPOLIS — Artificial Intelligence is coming at us fast and furious. It's on our phones, it's in our classrooms, and it's changing businesses and lives. There is little that isn't or won't be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "originalUrl": "https://www.kare11.com/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.kare11.com/assets/KARE/images/31c8ab27-2bf5-472d-a218-33a5964005dc/31c8ab27-2bf5-472d-a218-33a5964005dc_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/entertainment/artificial-intelligence-tool-threat-artform/89-294fc0c5-fa25-4928-b7e5-7aad5d7e9152",
-      "publishedDateTime": "2024-01-30T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KARE 11",
-        "domain": "kare11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

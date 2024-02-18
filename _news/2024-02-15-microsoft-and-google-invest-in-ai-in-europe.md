@@ -225,15 +225,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
-  - title: "Amazon and Microsoft in Tight Race as AI Accelerates Cloud Growth"
-    excerpt: "The battle for supremacy in cloud computing heats up as Microsoft’s Azure gains ground against Amazon Web Services, fueled by AI."
-    publishedDateTime: 2024-02-13T07:58:00Z
-    webUrl: "https://www.coinspeaker.com/amazon-microsoft-ai-cloud/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 34
   - title: "North Korea and Iran using AI for hacking, Microsoft says"
     excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
     publishedDateTime: 2024-02-14T18:52:00Z

@@ -223,15 +223,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
-  - title: "Amazon and Microsoft in Tight Race as AI Accelerates Cloud Growth"
-    excerpt: "The battle for supremacy in cloud computing heats up as Microsoft’s Azure gains ground against Amazon Web Services, fueled by AI."
-    publishedDateTime: 2024-02-13T07:58:00Z
-    webUrl: "https://www.coinspeaker.com/amazon-microsoft-ai-cloud/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 34
   - title: "Microsoft and Google invest in AI in Europe"
     excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
     publishedDateTime: 2024-02-15T14:58:00Z

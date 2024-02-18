@@ -119,15 +119,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Bruins vs. Lightning February 13 Tickets & Start Time"
-    excerpt: "The Boston Bruins' David Pastrnak and the Tampa Bay Lightning's Nikita Kucherov will be two of the most exciting players to watch when these squads play on Tuesday at 7:00 PM ET, at TD Garden. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-13T09:01:00Z
-    webUrl: "https://www.westernmassnews.com/sports/betting/2024/02/13/bruins-vs-lightning-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Western Mass News
-      domain: westernmassnews.com
-    quality: 2
   - title: "Ohio vs. Akron February 27 Tickets & Start Time"
     excerpt: "Tuesday's MAC schedule includes the Ohio Bobcats (13-11, 7-4 MAC) against the Akron Zips (18-6, 10-1 MAC), at 7:00 PM ET on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-14T14:22:00Z

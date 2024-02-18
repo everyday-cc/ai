@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 121
+heat: 119
 published: true
 
 provider:

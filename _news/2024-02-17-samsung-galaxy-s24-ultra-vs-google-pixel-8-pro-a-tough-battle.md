@@ -5,10 +5,12 @@ excerpt: "Beyond photographic features, the Pixel 8 Pro also includes built-in p
 publishedDateTime: 2024-02-17T06:01:00Z
 originalUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/"
 webUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/"
+ampWebUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: Digital Trends
@@ -22,6 +24,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "16qu7flypyHC/yPvqnZjG8IvrIFCuv0Iq9R9e+122rfkQkMdheZdqd0dioflHgF+XM1QDc9U6x9uWSuWygIfGIht/9TDx1VON00Pc8j4qTzzRl4lUMF5JG2v5U/REj3J5x8z2yoDtbz2meonkz5AUA8xOzwkWswE/Vivubc8uyRLOCGoVOruCsx9EuMdkOcNAmqrfFwhkzk3hyl5U8p+7vVKLHKsv8fsQBQh+mef0KEuFBYyFKeL+x1g8jL4U1mNrHEZKfYe2KCwHrXQQGFcaypTTv9eIKURrwsdUhp4UYYqEuLjb1cAf3MV10xvo1jMaAtQLKsdxytI15XB5C3ZA+26JiQrP4C4Y6cnHh/Amxc=;cEGsvCaqqt4A+A+9Z44fyg=="
+images:
+  - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/pixel-8-pro-and-galaxy-s24-ultra.jpg?resize=1200%2C630&p=1"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "8v7OtYDzW4SnZpgjmro4dyul6+PZgktPlTw/MVHcfAxG2tqKcuLYG43GlT1qLhJMh7DmVNTIAeczCZqnCTKyMuTYbCzGVfhqXDzYsOS9FKIzMAGDsy9xnZVTJxU3I5Lu4IAkfIsQH4LvU+Au5KMy/Ks2EzPm3Eizvp4pZZBUrPnFOWT0wVzLeCRavhlWIWVru3gwuf0I7dXBJcQnt1DdUsfIUDzn8RQW3XWlNByAe3hjjRXW7WVdbvT902bkUahgIehM2sbgghuTiY0oJ4WCsRxff8uW55HTQLOgxpNTkC09e7erx1glbxaoXVCFBH2pBxoGxgQ3qhN3TZ4De6sWV5EwaTsI1zxppxuZXCxqTG8=;JEcuR/eCiQ+kw42/cVMkFw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/uipath-announces-new-develop
 webUrl: "https://www.datanami.com/this-just-in/uipath-announces-new-developer-features-at-devcon-2024-to-bring-latest-in-ai-powered-productivity-to-developer-community/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "UiPath Unveils New Developer Features at DevCon 2024, Two Data Centres Announced in India"
+    excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
+    publishedDateTime: 2024-02-17T20:02:00Z
+    webUrl: "https://www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    ampWebUrl: "https://www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 35
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/12/Cloud.jpg"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "UiPath Announces New Developer Features at DevCon 2024, Two Data Centres Announced"
     excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
     publishedDateTime: 2024-02-17T20:02:00Z

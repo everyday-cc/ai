@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "UiPath Unveils New Developer Features at DevCon 2024, Two Data Centres Announced in India"
+    excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
+    publishedDateTime: 2024-02-17T20:02:00Z
+    webUrl: "https://www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    ampWebUrl: "https://www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/uipath-announces-new-developer-features-at-devcon-2024-two-data-centres-announced-3836189"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 35
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/post_banners/wp-content/uploads/2023/12/Cloud.jpg"
+        width: 1200
+        height: 672
+        isCached: true
   - title: "UiPath Announces New Developer Features at DevCon 2024 to Bring Latest in AI-powered Productivity to Developer Community"
     excerpt: "UiPath, a leading enterprise automation software company, announced at the UiPath DevCon 2024 event a host of new"
     publishedDateTime: 2024-02-16T19:37:00Z

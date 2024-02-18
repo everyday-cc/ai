@@ -52,19 +52,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
-    excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
-    publishedDateTime: 2024-02-13T07:29:00Z
-    webUrl: "https://yourstory.com/2024/02/chatgpt-interviews-googles-gemini"
+  - title: "5 Awesome ChatGPT Side Hustles: Make Money with AI"
+    excerpt: "The rise of AI tools has opened up new pathways for individuals ... ChatGPT’s capabilities in understanding and generating language make it a valuable asset for translation tasks. When venturing into this service, it’s crucial to input clear, simple ..."
+    publishedDateTime: 2024-02-18T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/5-awesome-chatgpt-side-hustles-make-money-with-ai/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 41
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
     images:
-      - url: "https://images.yourstory.com/cs/2/e35953e0c10a11eeaef14be6ff40ae87/DALLE2024-02-1223-1707761693685.jpg?fm=png&auto=format"
-        width: 1792
-        height: 1024
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/side-hustle.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "1iJgBUislUg+2ZwQkRm/oVqE19AryvK4NZleLxS5tt+kLhXqdMyuXdqlteKcr5nVdB/SR41GLVcR3xyM7E6CvGnNDHRTLA/EstJGy/9fP/h3MK+nFUS99kqcXMq3hFI0sCWL3MSiXTnyycYcI0OAxF4wKb/EwTS7N4rf38DnJzJijpIdeDEvDeL4YIJ3giLSBMEsssEZfjdHYRnzGf0WoXNYvFMn0gfA4Vu799yloUGC2SxvQJHVPB/C4If9EeP1wCSur0XcTDkXJ3RL01++HwGiP9Ur3hwef38odXngu1CM6P7cPbw+kgeX681WSiS27UXV2SCnJEg8ZRbi7bP2DdQfEh0RVPZ8SttoFR+VTBI=;k6MXMyTRFx5Ww8KZShtoVA=="

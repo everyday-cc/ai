@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-12-13-meet-the-researcher-building-real-robots-for-real-household-chores.md",
+      "title": "Meet the Researcher Building Real Robots for Real Household Chores",
+      "excerpt": "If you wonder what is the robotics equivalent of ChatGPT, \"there are not many answers\", believes Lerrel Pinto, a robotics researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
+      "originalUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/analyticsindiamag.com/wp-content/uploads/2023/12/Meet-the-Roboticist-Who-is-Solving-Household-Issues-with-Robots.jpg?fit=1920%2C1080&ssl=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T11:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants.md",
       "title": "Health Plan: A snake-like robot, real-time heart health and soft robotic implants",
       "excerpt": "In the final part of our Health Plan series, we see how a snake-like robot developed for remote inspection has been adapted for use in throat cancer surgery, look at a wearable ECG monitor, hear how soft robotic implants could be used for drug delivery, and speak to the company behind a device that continually monitors IV therapy.",
@@ -1101,49 +1144,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-lego-fortnite-how-to-find-loot-llamas.md",
-      "title": "LEGO Fortnite: How to Find Loot Llamas",
-      "excerpt": "In LEGO Fortnite, you can explore a vast world that sometimes offers surprises, such as treasures and supply drops, but if you're lucky, you'll come across a Loot Llama. If you are having problems ...",
-      "sourceUrl": null,
-      "webUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
-      "originalUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/lego-fortnite-loot-llamas.jpg",
-          "width": 1800,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Game Rant",
-        "domain": "gamerant.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],
