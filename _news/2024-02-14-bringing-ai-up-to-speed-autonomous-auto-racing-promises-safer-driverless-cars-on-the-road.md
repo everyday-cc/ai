@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mob attacks driverless car in San Francisco"
-    excerpt: "“At approximately 9pm on Saturday, 10 February, a fully autonomous Waymo vehicle was navigating on Jackson Street in San Francisco when a crowd surrounded and vandalised the vehicle, breaking the window and throwing a firework inside, which set the vehicle on fire,” the spokesperson said."
-    publishedDateTime: 2024-02-13T01:19:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/791196-Mob-attacks-driverless-car-in-San-Francisco"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 39
-    images:
-      - url: "https://img.dunyanews.tv/news/2024/February/02-13-24/news_big_images/791196_29926189.jpg"
-        width: 752
-        height: 423
-        isCached: true
 
 secured: "ZiYV8GTT3qYv9iq5Mah/+b7Huim1WHW1qVHWYigeElwuobCndoyvHoML9mwiGn75a+/aGmAclYjgZEWytTf9fJzy1eZP1tN7KmC6wL73D0Sh9mD5NljuTqY2iBnXDyo2s6MHXv6n+qhwgCdx2JRh6ZIRzo+yge6aiY/wuJWXYOgTcaTuXvNivyrszgbMMZxkwaSiBtV5Mfuw7bryJlliobLjF6XUpDSnKif48Mz5FvOLincjMXrUk2jwSjcpqPV8u+BFxWJErlLzJqgNC7+C1eFH+Zc8uc3JiuR/NVgYOGkyAHceyONT0AKdV+O4xQ3xb41upEaHg9KHSGPdgyA8YNl5LYLvYdQTZjdLSHtsEOw=;qCHRRSEdRxRaIg9uCN39OA=="
 ---

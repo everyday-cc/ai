@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Feeding the hunger for Nvidia GPU access is big business"
+    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
+    publishedDateTime: 2024-02-15T16:34:00Z
+    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
     excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
     publishedDateTime: 2024-02-16T19:33:00Z

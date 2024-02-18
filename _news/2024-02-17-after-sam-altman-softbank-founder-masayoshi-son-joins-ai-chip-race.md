@@ -9,8 +9,8 @@ ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-foun
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: glamsham.com
@@ -27,109 +27,63 @@ images:
     isCached: true
 
 related:
-  - title: "Sam Altman and the $7T geopolitics of AI chips | The AI Beat"
-    excerpt: "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl."
-    publishedDateTime: 2024-02-13T01:44:00Z
-    webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
+  - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
+    excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
+    publishedDateTime: 2024-02-17T09:50:00Z
+    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
+    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
+    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: ET Auto
+      domain: indiatimes.com
+    quality: 66
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg"
         width: 1200
-        height: 685
+        height: 765
         isCached: true
-  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
-    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
-    publishedDateTime: 2024-02-17T21:42:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+  - title: "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News"
+    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T18:56:00Z
+    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 61
+  - title: "SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports"
+    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T20:02:00Z
+    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
+  - title: "SoftBank's Son Is Seeking About $100 Billion for AI Chip Venture - Bloomberg News"
+    excerpt: "(Reuters) - SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp, Bloomberg News reported on Friday, citing people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T19:56:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/softbanks-son-is-seeking-about-100-billion-for-ai-chip-venture-bloomberg-news"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 59
+  - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
+    excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
+    publishedDateTime: 2024-02-16T23:08:00Z
+    webUrl: "https://www.businesstimes.com.sg/international/global/softbanks-founder-son-seeks-build-us100-billion-ai-chip-venture"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 54
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
+        width: 880
+        height: 587
         isCached: true
-  - title: "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing"
-    excerpt: "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures."
-    publishedDateTime: 2024-02-17T22:35:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 63
-  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
-    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
-    publishedDateTime: 2024-02-13T17:00:00Z
-    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 57
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
-    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
-    publishedDateTime: 2024-02-15T09:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
-    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T20:39:00Z
-    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 39
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
-    publishedDateTime: 2024-02-16T16:20:00Z
-    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 34
-  - title: "Altman urges collaborative regulation of artificial intelligence"
-    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
-    publishedDateTime: 2024-02-13T13:50:00Z
-    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
-    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
-    publishedDateTime: 2024-02-13T09:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 11
 
 secured: "Gi6K2mLm5f7eugG0cbA3xOvJ37qACScyvdBy35+lT10Fw4P3ednhk3gQvKbXSSdBfQd83Bcjc7VcZQxpVoo8G5UtaMnY+d+SwNLt3DEjGbbDey+Bp4a0gMxIjewHc55zgalokQFYgTvVU0FsFoV9PMaYIPw+IRPDArLTBMFLRj2f0uvb67IfqwaTvcYk3+jz4yasGq+l+MvvZFLwnV6is7xDPGGalABNS4KLBBEySGq87QvqJifcVyvmMwKlfrYvs5zat9yhYzasQ2kxppTgOJCIve16mntSI59pADL8+eV2ArYqfN7REAZ00udYv47JhSTKyTGtcI35JddTmQaPw5IDc6x5TZ/x/k44f7upN1c=;fMq/TqrKj0QaKQk7xMZ1oQ=="
 ---

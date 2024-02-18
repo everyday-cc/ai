@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-nar
 webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "Feeding the hunger for Nvidia GPU access is big business"
+    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
+    publishedDateTime: 2024-02-15T16:34:00Z
+    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 49
   - title: "NVIDIA's Latest GPU Driver Spreads DLSS To More Games Just In Time For Skull And Bones"
     excerpt: "Get Day-1 ray tracing and DLSS support in Skull and Bones with NVIDIA's 'Game Ready' 551.52 WHQL driver release."
     publishedDateTime: 2024-02-13T14:05:00Z

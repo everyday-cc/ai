@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
+    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
+    publishedDateTime: 2024-02-17T06:41:00Z
+    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
+    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
     publishedDateTime: 2024-02-17T09:50:00Z

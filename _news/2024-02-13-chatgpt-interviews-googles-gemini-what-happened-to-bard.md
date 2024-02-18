@@ -51,22 +51,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
-    excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
-    publishedDateTime: 2024-02-13T01:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/articleshow/107639046.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107639040,width-1280,height-720,resizemode-4/107639040.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
     excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
     publishedDateTime: 2024-02-15T01:02:00Z

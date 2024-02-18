@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-
 webUrl: "https://venturebeat.com/ai/cohere-for-ai-launches-open-source-llm-for-101-languages/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ce1fbc9ea69baa635ac5a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
         isCached: true
   - title: "Cohere for AI unveils Aya, a multilingual open-source AI with 101 languages"
     excerpt: "Cohere for AI, the non-profit research lab run by the artificial intelligence startup Cohere Inc., today introduced a “massively multilingual” open-source artificial intelligence large language model called Aya that can operate in 101 different ..."

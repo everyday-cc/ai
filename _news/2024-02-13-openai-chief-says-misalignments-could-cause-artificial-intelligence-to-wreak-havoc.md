@@ -68,6 +68,15 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 47
+  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
+    publishedDateTime: 2024-02-16T16:20:00Z
+    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 34
 
 secured: "roASUSxJkc7HMaDHRsXXhF9od8V5LB2erBOIOpIlr5N3uEevEdpeA9P8jjep4iNEFhcG3n5+kVnUC2cd5YNl3gR1li1S5Q8/CpLkx8VtfkQC3sjwVvQWVb81ruOo8Q9O+6N7Yssvsx6e+nSmXQOYp2ejgvVbD6nSMc3PRfz3db7xPGhY+KcIRtkZcSkoVfCmuMOsJMBnNYUB47VbawNKIhIIKLRxTj6/byUNX0/QuKomPm3d6o71ntfTLznz2hGFj80uzOeLlNPB4/YWa1MnvUWevF4TFiyxzwbikEcL97B66K70Wsl/36fk2hrMdp4qmnZH1BemWoMns7f2gm/reczc3khknTTa7Ilhkzh0wY0=;XWhtHu6qgUbYo7vIAAtVOA=="
 ---

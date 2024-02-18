@@ -35,6 +35,45 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
+    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
+    publishedDateTime: 2024-02-17T21:42:00Z
+    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
+    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 74
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing"
+    excerpt: "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures."
+    publishedDateTime: 2024-02-17T22:35:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 63
+  - title: "Why OpenAI’s Sam Altman And Investor Lachy Groom Are Doubling Down On This Internet Startup"
+    excerpt: "While AI companies amass vast sums of money and computing power ... Director of technology Evan Jackson said that working with the startup saved him about $200,000 in up-front costs to update a system stitched together from five different vendors ..."
+    publishedDateTime: 2024-02-13T17:00:00Z
+    webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 57
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cb95d05fef260bca655f1d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
     excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
     publishedDateTime: 2024-02-13T21:18:00Z
@@ -60,6 +99,29 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 41
+  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
+    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T20:39:00Z
+    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
+    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
+    publishedDateTime: 2024-02-13T09:35:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 11
 
 secured: "kh9LyAs9Khu/lR321ybPIWtYj94EQyn3jifmNQ4/sQm5/fgpI9k3WeZtaeFNDX1JwKJYJpslZJ+ZDMl/xqDrsTKnoPfGzaPweKMgHBdbVjsayY3InK5s4sy4IzmEnHAeXJ/yxfO90SL6ujbdSJL86j5aL3iD7m4Af0K5hxLB6mFuab31UZIEV03j6aYM8cv9+R6zRYUTg0iGa0uBeGekdkJUCNkAN0RQneZQ0uhHtP8X7V0RWrCf6QuCxRiAecIRerCukKTP3vH3ZSLL6XBXUdyYVrcsYjk1nXwyd4yfu+GRHI5Zp6tseHJzmYldo9W+F4n2YWPAMlQbjrrPn1wFX5+xqRaC2eyl6cqKB1vVZcz73eZZi4IiJJBEjiYllD/IC/JU7wd9mh5hETNvcjUi6XnMkPAh2HrdN00i1fBMrzCdU7FhGcjQHDLrtUkw8wuDynxACM8joMK8G0cBi8yfnQr0jv71AYrIyvMi7KqdvjChNZUesnhOG46ZB1wsCLIX2B41MQ98jeOYhay80Jp62Q==;TjqPqmQLVEoqHhIz5hQAig=="
 ---

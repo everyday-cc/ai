@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgp
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Google CEO Sundar Pichai on why the company renamed Bard to Gemini"
-    excerpt: "Gemini Advanced, powered by Ultra 1.0, is Google's most capable model and offers advanced features such as excellent image and query integration, maki"
-    publishedDateTime: 2024-02-13T01:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/articleshow/107639046.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/google-ceo-sundar-pichai-on-why-the-company-renamed-bard-to-gemini/amp_articleshow/107639046.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107639040,width-1280,height-720,resizemode-4/107639040.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ChatGPT interviews Google's Gemini! What happened to Bard?"
     excerpt: "In an unprecedented dialogue between AI giants, ChatGPT sits down with Google's Gemini for an illuminating conversation that bridges the gap between human curiosity and artificial intelligence. This exclusive interview unveils the intricacies of Gemini's ..."
     publishedDateTime: 2024-02-13T07:29:00Z

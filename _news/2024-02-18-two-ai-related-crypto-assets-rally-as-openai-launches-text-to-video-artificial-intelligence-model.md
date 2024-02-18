@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Kong Open Sources New AI Gateway to Help Developers Easily Build Multi-LLM Apps"
-excerpt: "Kong Inc., a leading developer of cloud API technologies, today announced a suite of open-source AI plugins for Kong Gateway 3.6 that can turn any Kong Gateway deployment into an AI Gateway, offering unprecedented support for multi-Language Learning Models (LLMs) integration."
-publishedDateTime: 2024-02-15T16:27:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
+title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+publishedDateTime: 2024-02-18T00:59:00Z
+originalUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
 type: article
-quality: 33
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: The Daily Hodl
+  domain: dailyhodl.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2341020/Kong_Gateway.jpg"
-    width: 348
-    height: 400
+  - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+    width: 1365
+    height: 800
     isCached: true
 
 related:
@@ -52,20 +52,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
-    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
-    publishedDateTime: 2024-02-18T00:59:00Z
-    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
-    type: article
-    provider:
-      name: The Daily Hodl
-      domain: dailyhodl.com
-    quality: 39
-    images:
-      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
-        width: 1365
-        height: 800
-        isCached: true
   - title: "Cohere for AI unveils Aya, a multilingual open-source AI with 101 languages"
     excerpt: "Cohere for AI, the non-profit research lab run by the artificial intelligence startup Cohere Inc., today introduced a “massively multilingual” open-source artificial intelligence large language model called Aya that can operate in 101 different ..."
     publishedDateTime: 2024-02-13T18:30:00Z
@@ -80,7 +66,21 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "Kong Open Sources New AI Gateway to Help Developers Easily Build Multi-LLM Apps"
+    excerpt: "Kong Inc., a leading developer of cloud API technologies, today announced a suite of open-source AI plugins for Kong Gateway 3.6 that can turn any Kong Gateway deployment into an AI Gateway, offering unprecedented support for multi-Language Learning Models (LLMs) integration."
+    publishedDateTime: 2024-02-15T16:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963104.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2341020/Kong_Gateway.jpg"
+        width: 348
+        height: 400
+        isCached: true
 
-secured: "4ZoHtD8UuoljTAdZnZac/Uh20DLDKgD9egFvcPkvO/A8bFJQ+PaQcU/u41nO4ke/GXy5fRcegVJmlZtCbDIihlbXsjMiNtFyDW4An1bin018raxMrZSYx1g6RX1WufC+xsmpIkB088ZPkZJIMEiAp2wmT7tQmSi3kDekXXl8cPVQKw6+QTnNbHCK670agXRe2SjkHn+bYByz05Ic8fHd3x30937hV9U8okwoTsg1ymgwQpFsxtD7WyVMP6q0rfQHsxORuSIrFc+Uk6QRDFcNaYWvwUXde9rRwg7cUiHTNVfF7hBqF7fXjje/BIk5wk+pKMtB69j4qqfpdklJJu8MA8Fu7gxdt6pihfubt3jlhuI=;4MeTlgfEIYl+Aj1wApo4sQ=="
+secured: "vdLAJgWOpllu28HScHB9fh2pJu0QwJy3R+OwYTIhogEkHTi5nU32G4zNZMZB9SC66+5bmzRheFGUS/oPvD2HpQvUbfuiENOdnG2jymkQEXfc6QOfDDRMLF6oxv3ZhQ+KRQC/JBHfVfaErmXHMWlp8sgKbKUoOXOdWxSyJpG/cwnE+5yfLh+AFE4dKwzHWxz/e3js2oHfEVrZ2mniSSpAjndaDPSiikrYXdWA5TCi2FdnuvwjZkVJ3wD5DN4F46J4p17fodrJKUl7hZnfSh2/2yfVSjIQ40HvWTZXGRuLl9AGcVjNfvUkOBIA0RI/X7FSLqSl888BBpcrWOW4Ct9mB3y7CRpsoGguX2yWAXE7W8M=;KHnz5FBpkRsd8OiqRZEqoQ=="
 ---
 

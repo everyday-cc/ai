@@ -52,6 +52,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
+        isCached: true
   - title: "Kong Open Sources New AI Gateway to Help Developers Easily Build Multi-LLM Apps"
     excerpt: "Kong Inc., a leading developer of cloud API technologies, today announced a suite of open-source AI plugins for Kong Gateway 3.6 that can turn any Kong Gateway deployment into an AI Gateway, offering unprecedented support for multi-Language Learning Models (LLMs) integration."
     publishedDateTime: 2024-02-15T16:27:00Z

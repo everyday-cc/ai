@@ -23,35 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Sam Altman and the $7T geopolitics of AI chips | The AI Beat"
-    excerpt: "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl."
-    publishedDateTime: 2024-02-13T01:44:00Z
-    webUrl: "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/"
+  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
+    publishedDateTime: 2024-02-13T10:55:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 77
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all"
-        width: 1200
-        height: 685
-        isCached: true
-  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
-    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
-    publishedDateTime: 2024-02-17T06:41:00Z
-    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
-    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
-    images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
-        width: 1200
-        height: 675
+      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
     excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
@@ -83,15 +69,31 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
-    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
-    publishedDateTime: 2024-02-15T09:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
+  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
+    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T21:18:00Z
+    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
     type: article
     provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 44
+    images:
+      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
+        width: 506
+        height: 337
+        isCached: true
+  - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
+    excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
+    publishedDateTime: 2024-02-13T15:11:00Z
+    webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/"
+    ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 41
   - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
     excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
     publishedDateTime: 2024-02-13T20:39:00Z
@@ -106,19 +108,10 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
-    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
-    publishedDateTime: 2024-02-16T16:20:00Z
-    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
-    type: article
-    provider:
-      name: news.bloomberglaw
-      domain: bloomberglaw.com
-    quality: 34
-  - title: "Altman urges collaborative regulation of artificial intelligence"
-    excerpt: "During a recent address at the World Governments Summit in Dubai, OpenAI CEO Sam Altman delved into his concerns regarding the potential dangers of a"
-    publishedDateTime: 2024-02-13T13:50:00Z
-    webUrl: "https://menafn.com/1107846228/Altman-urges-collaborative-regulation-of-artificial-intelligence"
+  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
+    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
+    publishedDateTime: 2024-02-13T09:54:00Z
+    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
     type: article
     provider:
       name: Mena FN

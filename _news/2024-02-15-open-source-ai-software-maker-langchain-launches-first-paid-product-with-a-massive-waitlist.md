@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 685
         isCached: true
+  - title: "Two AI-Related Crypto Assets Rally As OpenAI Launches Text-to-Video Artificial Intelligence Model"
+    excerpt: "Two artificial intelligence (AI)-focused altcoins are surging as AI research firm OpenAI rolls out its new text-to-video project."
+    publishedDateTime: 2024-02-18T00:59:00Z
+    webUrl: "https://dailyhodl.com/2024/02/17/two-ai-related-crypto-assets-rally-as-openai-launches-text-to-video-artificial-intelligence-model/"
+    type: article
+    provider:
+      name: The Daily Hodl
+      domain: dailyhodl.com
+    quality: 39
+    images:
+      - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
+        width: 1365
+        height: 800
+        isCached: true
   - title: "Cohere for AI unveils Aya, a multilingual open-source AI with 101 languages"
     excerpt: "Cohere for AI, the non-profit research lab run by the artificial intelligence startup Cohere Inc., today introduced a “massively multilingual” open-source artificial intelligence large language model called Aya that can operate in 101 different ..."
     publishedDateTime: 2024-02-13T18:30:00Z

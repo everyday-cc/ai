@@ -3,10 +3,10 @@ category: news
 title: "3 Ways We're Already Using AI in Mental Health Care"
 excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
 publishedDateTime: 2024-02-16T23:16:00Z
-originalUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-webUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-ampWebUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+originalUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
 type: article
 quality: 59
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - AI Ethics
   - AI
 
 images:
@@ -220,6 +220,6 @@ related:
         height: 367
         isCached: true
 
-secured: "uY/r5m17KOXvYShyAWHeHlMCNPYKfkV5cm/kPEqPY7OTTki+SljvOU49FUXAPa9JjDI/P4n1/FrXfk8B6l3ZIdeh9G9SStwoBPkUbMkFxTdu2cBop/kWwRzVXcx++5b7QwXsKZ1cswj7OLwhPbJUm2ggIhQTk0PAg8jGNBObBZdgfWehxukkM/IKjAPY+YxWf5c3wVvaGNB7vI9bJAmRBtDdZYeqzFXB/Nrye8I4NdS1dT1+vXCt9zCCWMaFXO6gZK0SwKG401Ozu81eDNYNNd/x9iRjvQ1nZyX2uT3BkS8TJV0TNfOUjpqGrDexSS5N+j6QH+hEeXni/jk6nzJVYK6+aHvHDYwJ9zdxEmIJYc4=;VDSeZWa/KUsxItyRK0Q7xQ=="
+secured: "3oDpy7LGl3X/IFnk8Q/ciSNA8Je3kf9jF3Lns7FnsZOZlCQaDoKvHlOpGS7tk0miBAkCvvgCHNRVsUFc75TixCrIeppKSNWPPhZXaI+BuCR22H5phch398suGbiOOpn4oVIzQUAD/f70dSEONzTQnM2SaPnN2BhC9wqOFSMCIE1nTgx9SL0MNruGciDioQsu9XhlXYeWoaM4pww2+yAjnR39mCIzHkZyEPw9NBIrg7083FrN9jmj8qzhCXPtnE0igi9EIMtJRwJLqfwpome7a9w9mt16AKLj7tiOQQeDS939VY36Fl1msiDt75ZN50IDi9Y6ySdLuwdJdLkCjpYoQkZfiQqo2QkcRKoSz6aXDgc=;K7mPcFTPmYqkv7cNyh1MKA=="
 ---
 

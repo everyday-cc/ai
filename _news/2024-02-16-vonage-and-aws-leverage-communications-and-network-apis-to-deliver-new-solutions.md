@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
-excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
-publishedDateTime: 2024-02-15T16:28:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
+excerpt: "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of ..."
+publishedDateTime: 2024-02-15T17:06:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61418954-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-new-solutions-004.htm"
 type: article
 quality: 14
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AWS AI
@@ -173,6 +173,6 @@ related:
       domain: tmcnet.com
     quality: 3
 
-secured: "EHgG3Esd0xwphdT6jvC/8CZFK8SsDF5gyTfrwdCxswL4zgbyAbqy8IA6rbS7UCZaF1BKL3sntalk/1oJAObalLhkyEcFf9PKQrtStHtViWlYkKRyzUGeIT7r1pVXmZv08sehWZ5gScOtYSZw2jB34UrC/unAo2PiESfaoegBuu2VGki70Pv9TZaoBuCqjmP0kRFeWEU8LwllTPOq7hrI5uI6gSWRtoK660d6dP0jgYDQLQE+zbRsaQMCWgusNP/KNXjQADJ83CSz5Jri91m776rDzyQ+s7ZIPzGNY/uui8nds5lf+cT4jsMLEU0TXS6UYjzJCtjPjZXAENj+d0pM7H57k0qo6T8PG11kwrDMrG7Vt1+w9put69MoDtt/Z2XUBlFNLi/+BbNw4VC0SqRdGjuBZpAneJ5VaUVV9bOnrgufU59+jcANayVYMr1uI/W/l1zO4z+nfwO4VDREV9lzORnzK0du3jXnD7vnJG8Vt/S/6vVrRR756q3oazUnLmV0xGjT9HpwJSjIZzDGnjcoZA==;drdF7K8GLwjbImJvWMkANA=="
+secured: "4a0lPYcJga+GbVRqB4QBj6fMPofsdI9zAIb043j7fRvShWy9o8K8qtN3WJ9Q9j88aFwuD5ZIB/zj+Yzoo3wqQ8fIXSYR8vWqPRFeAj9KT+eqvY+9m6J8s3IANHT0Iv45O2iV3nQ48JtKH8QVsowfWVRrLl1A+80G65MKncFDHJuKPCafeUT9oQexdAKv6sllPXrf5WbksXx3QblLyu7qcQLCByP3VT3Y/cxTY3lZoW4geD7NXLyN+6A6tnYMf1tRQLZuTjmZI0UJGIg7rYXBOJ3EdUZQkme6SF8rVjPJi2OOhxkx59/7fg7A7RIc40c7n4UQD0xh8OkqNgJV+ZPozSqoh0ePqnqlBT+dVU/YTmY=;gtToERBYX4fE+fZ1kkI+Vw=="
 ---
 

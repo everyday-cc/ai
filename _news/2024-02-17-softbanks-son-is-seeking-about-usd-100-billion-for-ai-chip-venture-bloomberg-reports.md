@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-components/s
 cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
 type: article
 quality: 66
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: ET Auto
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
+    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
+    publishedDateTime: 2024-02-17T06:41:00Z
+    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
+    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+    type: article
+    provider:
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
+    images:
+      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News"
     excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
     publishedDateTime: 2024-02-16T18:56:00Z

@@ -25,47 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Launches the RTX 2000 Ada GPU, and It’s Not Your Typical Graphics Card"
-    excerpt: "It's strengths lie in bringing AI inference and advanced graphics capabilities to settings where larger, more power-hungry GPUs can't fit"
-    publishedDateTime: 2024-02-13T02:22:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/13/nvidia-rtx-2000-ada-gpu-launched/"
+  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
+    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
+    publishedDateTime: 2024-02-16T02:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
     type: article
     provider:
       name: Gizmochina
       domain: gizmochina.com
-    quality: 66
+    quality: 61
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-RTX-2000-Ada-Generation-Cover-696x496-1.jpg"
-        width: 696
-        height: 496
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
+        width: 1280
+        height: 680
         isCached: true
-  - title: "Feeding the hunger for Nvidia GPU access is big business"
-    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
-    publishedDateTime: 2024-02-15T16:34:00Z
-    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+  - title: "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade"
+    excerpt: "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs."
+    publishedDateTime: 2024-02-15T08:54:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/02/37151354/key-apple-suppliers-stock-soars-to-all-time-high-fueled-by-ai-demand-and-nvidia-upgrade"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37151354"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37151354"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/TSMC-stock_1.jpeg?width=1200&height=800&fit=crop"
+        width: 864
+        height: 576
+        isCached: true
+  - title: "AI Boom Drives Nvidia To Overtake Alphabet In Market Value"
+    excerpt: "Chipmaker Nvidia (NVDA) surpassed Alphabet Inc. (GOOG) to become the third most valuable company in the U.S. on Wednesday, trailing"
+    publishedDateTime: 2024-02-15T21:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-boom-drives-nvidia-to-overtake-alphabet-in-market-value-1033073406"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
-  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
-    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
-    publishedDateTime: 2024-02-16T07:54:00Z
-    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
+  - title: "Nvidia reveals its Eos supercomputer for AI processing sporting 4,608 H100 GPUs"
+    excerpt: "Nvidia has given enthusiasts their first look at Eos, a data-center scale supercomputer designed for AI applications. It first introduced Eos at the Supercomputing Conference in"
+    publishedDateTime: 2024-02-17T15:26:00Z
+    webUrl: "https://www.techspot.com/news/101926-nvidia-finally-reveal-specs-eos-supercomputer-ai-processing.html"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
-    quality: 30
-  - title: "NVIDIA Unveils $625 RTX 2000 Ada Generation GPU With A VRAM Boost"
-    excerpt: "Hot on the heels of NVIDIA's Geforce RTX 40 Super series refresh, team green has launched yet another graphics card, though this one takes aim at professionals."
-    publishedDateTime: 2024-02-13T13:21:00Z
-    webUrl: "https://hothardware.com/news/nvidia-unveils-rtx-2000-ada-generation-gpu-vram-boost"
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
+  - title: "Nvidia's investment in SoundHound sends shares of the AI voice company soaring 55%"
+    excerpt: "Nvidia revealed a stake in the AI company in a new regulatory filing, as well as an investment in Arm, which went public last September."
+    publishedDateTime: 2024-02-15T14:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/soundhound-stock-price-nvidia-investment-artificial-intelligence-ai-stock-market-rally-2024-2"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
+    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
+    publishedDateTime: 2024-02-15T18:54:00Z
+    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
+        width: 1200
+        height: 791
+        isCached: true
+  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
+    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
+    publishedDateTime: 2024-02-13T10:21:00Z
+    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 34
 
 secured: "98dT5dTaPSmSaE4GnVuju9oDJdKoNpwT2KhQBUMzXtlTDktBa2+wPFli7FS3o+DLIwh8JATJPjqcaKSNT2Prm7VtugBAM0l5LJ+DTZSv6y68GMXJ2lgXf5+qhmmz/JkVm9lbPcJHH5fezGxfser2jpgCT16Tp/CWrJtUzaOPf3Ph3UwzflPutoOYMuhqCx/p4pZIYJcmKzcNNEGCwpRBDVtVh/3A2kKxKq5QD4NFOecReE/lToknlQmo3K4pjxgBbrrxqPGkr+vHmmIoZmqEHbyHlIV04NKyvKvslBwl0lY6fKS0rKi55rg+NykyYivblLyDTXlqlX86v5JVRSjeOlxF6MGs4hvGAKzxjXwGnHB6COMk6nWONxta7T8t7pFTIymQu0xbwznbLW6bRJMEevB/KtkPvo2v9/Mwl8iKk3DFftad84yN5phfFHEYnoRJmj7nz1rlAO2H+S8LQ73aBtQtnpfxctDc0oFHIUorGRGX99C1ph3ZF0ENnp9DbPtt5r0xoJSR2oX4cKD8/J5rKA==;CUXbFYquqA2/4dEopYu/Hg=="
 ---
