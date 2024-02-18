@@ -7,8 +7,8 @@ originalUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering
 webUrl: "https://www.edsurge.com/news/2024-02-13-how-teachers-are-pondering-the-ethics-of-ai"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: EdSurge
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
-    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
-    publishedDateTime: 2024-02-18T12:00:00Z
-    webUrl: "https://tech.co/news/ai-replacing-jobs"
+  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
+    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
-        width: 1920
-        height: 960
+      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Can AI porn be ethical?"
-    excerpt: "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI"
-    publishedDateTime: 2024-02-18T11:00:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "GCkyEI2Bqf0clNLcX7Z8IrwqD2a8lojZr1jeP7md8mosAnb5MMjh+xT0iXQc0kd2gI10IBTbIOuTP73CGRjhK0oQQpV5qNFvH29Pyf1G/riTzc+rLwA+AMHFUdtP6ztixKzLxMzhQYnEY7AzCnZF1Y4Wu9qlP9kaGZcI9sOHXd4+45lFRjW1JpCXkuzyZJIkG5xZ8uiDhnwF4BOYeCVEBYCMYx0pNUyxmT4n7yu6+h1R30f8bRxwpcM/BVmihnYTcmuUhbGGulWZbTuNUiR6IX2aFgiTNX6MQuc1GyfHXhEnAVy9dMzQKDQyp+iBaeah94YwqZLVmBSAmQ2XvPIXxvyeTtQmVtIHU3CmuiTcGopvHYfsvTXzcff5Ewx3hJ35OKYsKiu4iEwNyf7cd0vpKsXv3VIZgdnrBSWvxnnFVX8AiUnmWEYuO9tocvnArWPl3PyKmdDrpKxqOzUcyQ/lGGwyO3bj3Q90mzFGurP7I7WFoHeVh+dEpvmE7XP1C9dZaGCk04DP0OSpohYi6kKh2g==;vh93Uj/xIGRnrFbdgThazg=="
 ---

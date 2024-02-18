@@ -159,20 +159,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
-    excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
-    publishedDateTime: 2024-02-13T17:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96183/ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
-        width: 1323
-        height: 744
-        isCached: true
   - title: "NVIDIA Debuts ‘Chat with RTX’—AI Chatbot for the PC under Free Demo"
     excerpt: "NVIDIA is joining the other Big Tech companies in the world that offer their take on AI chatbots, centering on the latest release of \"Chat with RTX,\" made specifically for computers. This version of Chat with RTX is only in its free demonstration version,"
     publishedDateTime: 2024-02-14T02:20:00Z
@@ -201,15 +187,6 @@ related:
         width: 1024
         height: 833
         isCached: true
-  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
-    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
-    publishedDateTime: 2024-02-13T18:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "rUG6UrzWcgfrEmHL01c4HOpr2IavU+1fX2bsNRQS+XuD57+fcMRWjl0b8LZd6Pm27c5ug/iIAmCzqx0hLy7A5EFola9P0Y/RHChwzA+zR0T8xiH5j1tRWVBxE2hK0SvvUUn6PrFtvEygGYePGqJjMEoGUQX2qW/mjHwpu0TcOC941t17guiyQmLUzxnTunyk+KOiJdtJCC6oqpBQZas/1W/EbtvQx/CIwYQJQ3xeG4qbpIS+o+dV2FlgQKz3ab3xk1lq4mF7DPzdAuuNAsJDvZUVtc2L8M9QFuj0II5ygDOXpvSrh6ig3JjR1/ICefdSFUf2Q2GM/JvlI2yzzgOaJlYauzcjj8q5I7XOZf2+TK4=;etL5YBYsCbnAzYi1H0XheA=="
 ---

@@ -2,6 +2,144 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
+      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.md",
+      "title": "Waymo issues a voluntary recall on its self-driving vehicle software",
+      "excerpt": "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947",
+          "width": 3200,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
+      "publishedDateTime": "2024-02-14T23:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
+      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-tesla-fsd-is-still-a-work-in-progress-amid-tech-challenges-lawsuits.md",
       "title": "Tesla FSD is still a work in progress amid tech challenges, lawsuits",
       "excerpt": "Entrepreneurs like Tesla CEO Elon Musk have said self-driving cars will make regular vehicles obsolete, but most Americans are wary. A recent survey found that three out of every four Americans ...",
@@ -930,7 +1068,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1066,162 +1204,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-chinese-tech-startups-quietly-stop-testing-driverless-cars-on-californian-roads.md",
-      "title": "Chinese tech startups quietly stop testing driverless cars on Californian roads",
-      "excerpt": "Chinese autonomous vehicle companies have scaled back testing of driverless cars in California, a BI analysis found. These companies face growing scrutiny from US lawmakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
-      "originalUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cb4d046fcb546d2d4eee2d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp",
-      "publishedDateTime": "2024-02-14T10:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
-      "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
-      "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc89284db5e2fad8876e8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 966,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "publishedDateTime": "2024-02-14T09:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-girlfriends-are-a-privacy-nightmare.md",
-      "title": "‘AI Girlfriends’ Are a Privacy Nightmare",
-      "excerpt": "Romantic chatbots collect huge amounts of data, provide vague information about how they use it, use weak password protections, and aren’t transparent, new research from Mozilla says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "originalUrl": "https://www.wired.com/story/ai-girlfriends-privacy-nightmare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65cbc66ab0ff8b95cb358d5c/191:100/w_1280,c_limit/security_ai_girlfriends_privacy_data.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

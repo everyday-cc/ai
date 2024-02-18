@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-18-googles-chess-experiments-reveal-how-to-boost-the-power-of-ai.md",
+      "title": "Google’s Chess Experiments Reveal How to Boost the Power of AI",
+      "excerpt": "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-artificial-intelligence-chess/",
+      "originalUrl": "https://www.wired.com/story/google-artificial-intelligence-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
       "title": "DeepMind uses AI to tackle neglected deadly diseases",
       "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
@@ -62,7 +114,7 @@
       "originalUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1378,58 +1430,6 @@
       "ampWebUrl": "https://blog.google/products/search/how-to-use-circle-to-search-google/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/search/how-to-use-circle-to-search-google/amp/",
       "publishedDateTime": "2024-01-31T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-an-ai-opportunity-agenda-for-asean.md",
-      "title": "An AI opportunity agenda for ASEAN",
-      "excerpt": "We’re publishing an AI Opportunity whitepaper to help ASEAN governments tap into AI’s vast potential.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
-      "originalUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2024-01-29_at_11.12.38.width-1300.png",
-          "width": 978,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/an-ai-opportunity-agenda-for-asean/amp/",
-      "publishedDateTime": "2024-01-29T11:56:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Google",

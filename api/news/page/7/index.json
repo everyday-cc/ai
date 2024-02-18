@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
+      "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
+      "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/amv-textilebusinessa141011.blog-lead-space-40x21-1-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:46:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-customer-experience-evolution-todays-data-driven-real-time-discipline.md",
+      "title": "The customer experience evolution: Today’s data-driven, real-time discipline",
+      "excerpt": "The future of customer experience is bright. Providing a positive customer experience can become a competitive advantage.\nThe post The customer experience evolution: Today’s data-driven, real-time discipline appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:32:36Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
+      "title": "The rise of the bank chief AI officer",
+      "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "originalUrl": "https://www.americanbanker.com/news/the-rise-of-the-bank-chief-ai-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/48d7485/2147483647/strip/true/crop/600x315+0+12/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F02%2Fe1%2Ff57a9b8b40cb9b303029d0308944%2Fventuro-dominic-us-bank.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-the-australian-government-sees-ai-accelerating-productivity.md",
       "title": "How the Australian Government Sees AI Accelerating Productivity",
       "excerpt": "Regulation could inhibit the productivity gains of AI, according to the Australian Productivity Commission in a new, lengthy and wide-ranging research report.",
@@ -1076,153 +1213,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
-      "title": "6 AI Apps For Android That Are Actually Useful",
-      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T12:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
-      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
-      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "publishedDateTime": "2024-02-11T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-up-154-this-magnificent-artificial-intelligence-ai-stock-is-a-screaming-buy-before-it-skyrockets.md",
-      "title": "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets",
-      "excerpt": "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/764004/gettyimages-1399446122-1200x800-5b2df79.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

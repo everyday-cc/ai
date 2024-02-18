@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-08-gpu-prices-and-availability-q1-2024-how-much-are-gpus-today.md",
+      "title": "GPU prices and availability (Q1 2024): How much are GPUs today?",
+      "excerpt": "The only current-gen GPU that suffers from some stock and pricing issues is the RTX 4090. Due to the high demand for AI chips, as well as scalpers buying the card out to export to China ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "originalUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/02/amd-radeon-rx-6500-xt-review-10.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/gpu-price-tracking/?amp",
+      "publishedDateTime": "2024-02-08T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-daedalus-which-is-building-precision-manufacturing-factories-powered-by-ai-raises-21m.md",
+      "title": "Daedalus, which is building precision-manufacturing factories powered by AI, raises $21M",
+      "excerpt": "A fledgling startup founded by one of OpenAI’s first engineering hires is looking to “redefine manufacturing,” with AI-powered factories ... “At one point, the robot hand broke down ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "originalUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/62d95484b9c434922879bf26_A6_00110_05-07-22_Daedalus_F2-p-1600-e1707214708909.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/08/daedalus-manufacturing-jonas-schneider-openai-robotics-raises-21-million/amp/",
+      "publishedDateTime": "2024-02-08T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
       "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
       "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
@@ -172,6 +320,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-hhs-addresses-the-growing-influence-of-artificial-intelligence-in-health-care.md",
+      "title": "HHS Addresses the Growing Influence of Artificial Intelligence in Health Care",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "originalUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Telemedicine%20Mobile%20Health%20Apps%20Tech.jpg?h=0b7f3b1a&itok=fP20sSCO",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hhs-addresses-growing-influence-artificial-intelligence-health-care?amp",
+      "publishedDateTime": "2024-02-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -941,194 +1132,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says.md",
-      "title": "Facebook and Instagram to label all images on their platforms created by AI, Meta says",
-      "excerpt": "Meta, which owns Facebook, Instagram and Threads ... will help make it clearer what images are AI generated and which aren't. But several research teams have shown that digital watermarking ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
-      "originalUrl": "https://news.sky.com/story/facebook-and-instagram-to-label-all-images-on-its-platforms-created-by-ai-meta-says-13064855?dcmp=snt-sf-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/23/12/1600x900/skynews-ai-fake-donald-trump_6390696.jpg?20231213064536",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855",
-      "publishedDateTime": "2024-02-06T17:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-instagram-threads-and-facebook-will-start-labeling-ai-generated-content.md",
-      "title": "Instagram, Threads, and Facebook will start labeling AI-generated content",
-      "excerpt": "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3411262/",
-      "originalUrl": "https://www.androidauthority.com/p-3411262/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-microsofts-ai-engine-powering-hr-blocks-tax-filing-assistance-product.md",
-      "title": "Microsoft's AI engine powering H&R Block's tax filing assistance product",
-      "excerpt": "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "publishedDateTime": "2024-02-06T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
-      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
-      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

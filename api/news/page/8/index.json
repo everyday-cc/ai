@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
+      "title": "6 AI Apps For Android That Are Actually Useful",
+      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T12:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
+      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
+      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
+      "publishedDateTime": "2024-02-11T12:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-up-154-this-magnificent-artificial-intelligence-ai-stock-is-a-screaming-buy-before-it-skyrockets.md",
+      "title": "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets",
+      "excerpt": "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/764004/gettyimages-1399446122-1200x800-5b2df79.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-facial-recognition-technology-could-be-used-in-hong-kong-to-fight-crime-maintain-national-security-police-chief-raymond-siu-says.md",
       "title": "Facial recognition technology could be used in Hong Kong to fight crime, maintain national security, police chief Raymond Siu says",
       "excerpt": "Hong Kong authorities have not ruled out the use of facial recognition technology to fight crime and maintain national security, but the city’s police chief promised that guidelines will be drawn up for the use of personal information gathered by a new ...",
@@ -1045,146 +1192,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-a-guide-to-liveness-detection-enhancing-facial-recognition-security.md",
-      "title": "A Guide To Liveness Detection: Enhancing Facial Recognition Security",
-      "excerpt": "Ever since companies started implementing contactless verification systems, facial recognition technology has held great potential. Now, with a global market share of over $4.9 billion, the technology has proven to be game-changing. While I see the shift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c4ee7864919a2388225d25/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/09/a-guide-to-liveness-detection-enhancing-facial-recognition-security/amp/",
-      "publishedDateTime": "2024-02-09T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-startups-pursue-gpu-alternatives-for-ai.md",
-      "title": "Startups pursue GPU alternatives for AI",
-      "excerpt": "That decision has played out well for Nvidia. In its most recent quarter, Nvidia posted record-high data center revenue of $14.5 billion, which is up 41% from the prior quarter and 279% from the year-ago quarter. Its GPUs are now the standard in AI processing, even more so than they are in gaming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "originalUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/02/shutterstock_2284126663-100943536-orig-1.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1306554/startups-pursue-gpu-alternatives-for-ai.html/amp/",
-      "publishedDateTime": "2024-02-09T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-aiml-based-precision-medicine.md",
-      "title": "Owkin Partners With AWS, Leverages Cloud Computing to Fuel Innovation In AI/ML-Based Precision Medicine",
-      "excerpt": "Owkin is working with Amazon Web Services (AWS) to transform drug discovery, de-risk and accelerate clinical trials, and develop AI diagnostics",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/34921-owkin-partners-with-aws-leverages-cloud-computing-to-fuel-innovation-in-ai-ml-based-precision-medicine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/3841a1b210f6fed1504afe0ced9b6797.jpg?t=20240209_090213",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

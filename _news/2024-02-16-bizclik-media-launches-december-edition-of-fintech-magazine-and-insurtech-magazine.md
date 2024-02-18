@@ -273,15 +273,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
-    excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
-    publishedDateTime: 2024-02-13T18:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/25680/use-next-gen-fintech-to-encrypt-your-digital-payments-instead-of-the-otp"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 3
   - title: "PROVEX Fintech Limited Boosts Technological Innovation With Significant R&D Investment"
     excerpt: "In a bold move that underscores its commitment to leading the fintech industry, PROVEX Fintech Limited today announced a substantial increase in its"
     publishedDateTime: 2024-02-18T14:24:00Z

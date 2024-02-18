@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-cha
 webUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
 type: article
 quality: 87
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
-    excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
-    publishedDateTime: 2024-02-13T17:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96183/ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
-        width: 1323
-        height: 744
-        isCached: true
   - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
     excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."
     publishedDateTime: 2024-02-14T02:52:00Z
@@ -207,15 +193,6 @@ related:
         width: 1024
         height: 833
         isCached: true
-  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
-    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
-    publishedDateTime: 2024-02-13T18:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "itWQTTpbUuODCq+LdhZujJTEfEgf/TyaugxsHMnsdBn0qxcrfDj8ssnOXdBEKGjJEDHs7gLUbgKv101zpYyMDBP+GoNiO4fzKb1VJJ2dMihtuV8eo8N+gLYVK+dYOL86WYUAtGjwQBjaGJ26jVDBfar7XNFUntqwZO0OuM5UfchxgznCY2s7+iQom1n/sODt8yoLX/i24btIb6hGLBZGiv8mnTZNniFCmJzr/1IqIlO9fDZ/9+H+Jt6Ipo65G8UZDE7akDumywh/9z6pKtbwtarE57FEI0/NbI4jVwEEoTP88UuE28mzm2u/L6+BnlCPC5F6xfBaQg/lONbSptHzTLz0P6zw4QyiNRAZxwhjatyyTa5Yx4KempifZVGUNv5ukCAYWSM5LfSqOxJk3yY+d2R5U1Dsidj7faevMVNgaMozB0qIl5ZUIf5LItVbjIaH0juTm8CEfFnELioOapZNwkgsWlXAfYi8N9YkKDfCbqs+782cNVJu2ddB/gh3/rMSzvIn4H5g/Fufhzgpp+wigw==;sa3wpgOFtbXE/P0X9KfK9w=="
 ---

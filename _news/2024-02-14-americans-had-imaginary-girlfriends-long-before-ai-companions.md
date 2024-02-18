@@ -7,7 +7,7 @@ originalUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
 webUrl: "https://time.com/6694247/ai-companions-dead-maidens/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "American Management Association Introduces Artificial Intelligence Learning Resources To Help Organizations Prepare For AI's Impact"
-    excerpt: "According to AMA President & Chief Executive Officer Manny Avramidis, \"If you haven't developed a leadership strategy to help your team understand and leverage AI, to put fears they may have about it in proper perspective, and to recognize the potential around it-then today is the time to start.\""
-    publishedDateTime: 2024-02-13T18:31:00Z
-    webUrl: "https://menafn.com/1107847050/American-Management-Association-Introduces-Artificial-Intelligence-Learning-Resources-To-Help-Organizations-Prepare-For-AIs-Impact"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?795801"
-        width: 253
-        height: 250
-        isCached: true
   - title: "GM brings hands free driving to rural American"
     excerpt: "Unlike more controversial fully-autonomous self-driving cars, GM’s Super Cruise systems require drivers to keep their eyes on the road."
     publishedDateTime: 2024-02-15T20:00:00Z

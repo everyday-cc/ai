@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "OpenAI Gives ChatGPT a Better ‘Memory’"
-    excerpt: "The A.I. start-up is releasing a new version of ChatGPT that stores what users say and applies it to future chats."
-    publishedDateTime: 2024-02-13T18:23:00Z
-    webUrl: "https://www.nytimes.com/2024/02/13/technology/openai-gives-chatgpt-a-better-memory.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/images/2024/02/13/business/13chatgpt-memory/13chatgpt-memory-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
     excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
     publishedDateTime: 2024-02-14T14:23:00Z
@@ -64,15 +50,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 67
-  - title: "OpenAI Gives ChatGPT the Ability to Remember Facts From Your Chats"
-    excerpt: "The next time you tell ChatGPT that you’re allergic to avocados or prefer all meeting notes to be formatted in bullet points, the chatbot might be able to remember those details indefinitely. OpenAI is testing an option for users to ask the popular chatbot to retain specific information from one exchange to the next,"
-    publishedDateTime: 2024-02-13T18:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/openai-gives-chatgpt-the-ability-to-remember-facts-from-your-chats"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 64
   - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
     excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
     publishedDateTime: 2024-02-14T05:47:00Z

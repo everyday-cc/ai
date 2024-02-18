@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/sonata-software-bolsters-adop
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-107680253,imgsize-178644,width-1200,height=765,overlay-etcio/artificial-intelligence/sonata-software-bolsters-adoption-of-genai-solutions-with-aws.jpg"
         width: 1200
         height: 765
-        isCached: true
-  - title: "Sonata Software collaboration with AWS on Gen AI"
-    excerpt: "Sonata Software collaboration with AWS on Gen AI - Sonata Software , a leader in Modernization Engineering, today announced the integration of Amazon Bedrock"
-    publishedDateTime: 2024-02-13T18:36:00Z
-    webUrl: "https://www.siliconindia.com/news/general/sonata-software-collaboration-with-aws-on-gen-ai-nid-227860-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 54
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/438a7PGM.jpg"
-        width: 570
-        height: 367
         isCached: true
   - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
     excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"

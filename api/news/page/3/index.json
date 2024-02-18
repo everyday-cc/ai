@@ -2,6 +2,146 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
+      "title": "Hartford Healthcare launches new AI center to help with operations",
+      "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "cdnAmpWebUrl": "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
+      "publishedDateTime": "2024-02-15T17:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox61",
+        "domain": "fox61.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
+      "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
+      "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/APPROVED_NZ7_0176.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai/amp/",
+      "publishedDateTime": "2024-02-15T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-15-unveiling-the-transformative-ai-technology-behind-watsonx-orders.md",
+      "title": "Unveiling the transformative AI technology behind watsonx Orders",
+      "excerpt": "With IBM® watsonx™ Orders, we have created an AI-powered voice agent to take drive-thru orders without human intervention.\nThe post Unveiling the transformative AI technology behind watsonx Orders appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "originalUrl": "https://www.ibm.com/blog/unveiling-the-transformative-ai-technology-behind-watsonx-orders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T17:10:28Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu.md",
       "title": "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU",
       "excerpt": "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them.",
@@ -10,7 +150,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -558,7 +698,7 @@
       "originalUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -713,7 +853,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -765,7 +905,7 @@
       "originalUrl": "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1065,144 +1205,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
-      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
-      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.md",
-      "title": "Waymo issues a voluntary recall on its self-driving vehicle software",
-      "excerpt": "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947",
-          "width": 3200,
-          "height": 2400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html",
-      "publishedDateTime": "2024-02-14T23:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Robotics & Automation Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips In the bustling realm of forward-looking investments, robotics stocks stand",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

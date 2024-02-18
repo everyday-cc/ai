@@ -2,6 +2,212 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2023-12-28-ai-will-savenot-killproject-management.md",
+      "title": "AI Will Save—Not Kill—Project Management",
+      "excerpt": "AI is just the tool to give project managers the data they need to anticipate problems early on, set appropriate budgets and accurately set deadlines and timelines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
+      "originalUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658c543a15cd011325b90e61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
+      "publishedDateTime": "2023-12-27T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage.md",
+      "title": "Personal AI: The Technology Has Hit Its ‘High-Tech High-Touch’ Stage",
+      "excerpt": "Technology doesn’t really take off until it reaches its ‘high-tech high-touch” stage — that is, it becomes accessible, friendly, and yes, fun, to users in a big way. That concept, spun by late author and futurist John Naisbitt in his seminal work Megatrends back in the 1980s,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658c502c7675026abb56f36a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
+      "publishedDateTime": "2023-12-27T16:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
+      "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
+      "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
+      "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/658c4651ab6f2ebb11f71246?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
+      "publishedDateTime": "2023-12-27T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-27-us-sanctioned-chinese-chip-start-up-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card.md",
+      "title": "US-sanctioned Chinese chip start-up Moore Threads unveils GPU-based computing centre, AI graphics card",
+      "excerpt": "Moore Threads Intelligent Technology, a Beijing-based designer of GPUs tailored for AI training, said the new GPU will be found on its KUAE Intelligent Computing Centre, which is aimed at serving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2023/12/20/7246be65-c6ea-473f-b275-39e35141736d_06dd8399.jpg?itok=obd0zFrW&v=1703059591",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3245739/us-sanctioned-chinese-chip-start-moore-threads-unveils-gpu-based-computing-centre-ai-graphics-card",
+      "publishedDateTime": "2023-12-27T15:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-27-five-ways-artificial-intelligence-is-improving-health-care-in-canada.md",
       "title": "Five ways artificial intelligence is improving health care in Canada",
       "excerpt": "Hospitals are starting to implement artificial intelligence (AI) to help save lives – one of many advances in the controversial technology that entered our consciousness in 2023. There are wearables that track your heart rate,",
@@ -1031,190 +1237,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-embracing-ai-in-communications-strategies-for-successful-agency-adoption.md",
-      "title": "Embracing AI In Communications: Strategies For Successful Agency Adoption",
-      "excerpt": "Employing these strategies can transform AI from a daunting concept to an everyday tool, enabling you to achieve more than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/26/embracing-ai-in-communications-strategies-for-successful-agency-adoption/amp/",
-      "publishedDateTime": "2023-12-26T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-is-artificial-intelligence-transforming-the-healthcare-industry-robotics-automation-news.md",
-      "title": "How Is Artificial Intelligence Transforming The Healthcare Industry? Robotics & Automation News",
-      "excerpt": "The integration of Artificial Intelligence in the field of healthcare has been massively transforming and reformulating the way we identify, examine,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "originalUrl": "https://menafn.com/1107657035/How-Is-Artificial-Intelligence-Transforming-The-Healthcare-Industry-Robotics-Automation-News",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2023-12/26/R&AN_6c365image_story.png",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-26T09:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution.md",
-      "title": "5 stages of AI maturity in marketing: A blueprint for the marketing revolution",
-      "excerpt": "In the digital economy, data is the lifeblood of successful marketing strategies. As technology and AI continue to advance, businesses are increasingly turning to data-driven marketing to gain deeper",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "originalUrl": "https://www.forbesindia.com/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2023/Dec/img_225345_aiandmarketing_bg.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/darden-school-of-business/5-stages-of-ai-maturity-in-marketing-a-blueprint-for-the-marketing-revolution/90515/1",
-      "publishedDateTime": "2023-12-26T05:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-how-artificial-intelligence-is-snatching-away-our-jobs.md",
-      "title": "How Artificial Intelligence Is Snatching Away Our Jobs",
-      "excerpt": "It's happening, the worst nightmare for anyone working in the corporate world is becoming true. Artificial Intelligence is slowly taking away jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "originalUrl": "https://www.oneindia.com/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.oneindia.com/img/2023/12/artificial-intelligence-1703561220.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "cdnAmpWebUrl": "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/feature/how-artificial-intelligence-is-snatching-away-our-jobs-3713005.html",
-      "publishedDateTime": "2023-12-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oneindia",
-        "domain": "oneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

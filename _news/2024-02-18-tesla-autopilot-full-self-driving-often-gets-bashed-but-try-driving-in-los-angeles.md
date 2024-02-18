@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autop
 webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
 type: article
 quality: 78
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
-    excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
-    publishedDateTime: 2024-02-13T17:14:00Z
-    webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 62
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Musk Says 2022 Tesla Crash Driver Didn’t Have Full-Self Driving Tech"
     excerpt: "CEO’s tweet contradicts report from Washington Post suggesting Tesla employee Hans von Ohain was first FSD-related fatality"
     publishedDateTime: 2024-02-15T20:35:00Z

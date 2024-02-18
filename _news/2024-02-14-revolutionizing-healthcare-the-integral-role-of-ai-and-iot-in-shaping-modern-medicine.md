@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
 type: article
 quality: 96
-heat: 216
+heat: 206
 published: true
 
 provider:
@@ -120,20 +120,6 @@ related:
       - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
         width: 361
         height: 203
-        isCached: true
-  - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
-    excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
-    publishedDateTime: 2024-02-13T17:18:00Z
-    webUrl: "https://techbullion.com/the-role-of-artificial-intelligence-in-enhancing-healthcare-a-promising-future/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI.jpg"
-        width: 1000
-        height: 500
         isCached: true
   - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
     excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."

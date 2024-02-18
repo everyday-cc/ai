@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 559
         isCached: true
-  - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
-    excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
-    publishedDateTime: 2024-02-13T17:14:00Z
-    webUrl: "https://electrek.co/2024/02/13/tesla-worker-died-horrible-crash-full-self-driving-beta-but-drunk/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 62
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk Brags That Tesla Is \"Very Close\" to Full, Level 5 Self Driving"
     excerpt: "The artificial intelligence systems used in self-driving technologies do have limitations — and not just related to software, but hardware as well. According to Musk, Tesla is working on heat ..."
     publishedDateTime: 2024-02-13T21:53:00Z

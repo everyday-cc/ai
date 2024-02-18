@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-clou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/13/microsoft-cloud-for-sustainability-gains-data--ai-capabilities/amp/"
 type: article
 quality: 104
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -202,20 +202,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Drive sustainability transformation faster with new data and AI capabilities"
-    excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
-    publishedDateTime: 2024-02-13T17:35:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/sustainability/2024/02/13/drive-sustainability-transformation-faster-with-new-data-and-ai-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 36
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/02/GettyImages-1437931505-social.jpg"
-        width: 1191
-        height: 628
         isCached: true
   - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
     excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."

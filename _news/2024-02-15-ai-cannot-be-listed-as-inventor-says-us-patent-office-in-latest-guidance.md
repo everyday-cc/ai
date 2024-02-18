@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-
 webUrl: "https://www.techspot.com/news/101892-ai-cannot-listed-inventor-us-patent-office-latest.html"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 860
         height: 484
         isCached: true
-  - title: "Only 'Natural Persons' Can Patent Things in the U.S., as Ruling Leaves AI Inventors Out in the Digital Cold"
-    excerpt: "The three pounds of brain matter between your human ears is the ultimate source of truly patentable ideas, the U.S. Patent Office says, not an AI-powered concept."
-    publishedDateTime: 2024-02-13T18:04:00Z
-    webUrl: "https://www.inc.com/kit-eaton/only-natural-persons-can-patent-things-in-us-as-ruling-leaves-ai-inventors-out-in-digital-cold.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 0
 
 secured: "bykOMDMfCgddfpsEaCZ9f6ogidBT+lmU3dH6tn5Hg62q4EHRW8KezzjT5P3a2KC6glX9K8c1it9pR9U18wXmzfb1d3fFB7O2ULFAh9ch5iOyDZSCihTUaz8wVaDHBgNHRV6COn64zYGdoooSzYIjShoVNBHlrgys4rhGKbQQOdABhFppB87HSOZO7Ueo1jq/INgYB4N8ZafZT3+uAC76Hor1gsGz5Fo0dxkltIR1We8gECwpQLURlwt/YVXrUJbgeQZX1C7K6pOAhtVi2dGtBpv8/HqaiNZtyOWwUYghRlcj1E6B8BmfornRuXpS0/fqXsT74EzKcM2K/EQhGp6fw446kiKu5OLt/rVGz/t8rfkSCNoTV7GFFi15YwMMqluq0tV69Vfuc3Vke+/cHZhgWpfpiProuseGvT7DSi0fXE7S4nd+eH72zclIIPoBGTUR2xFwsHpWNAAfkV/CkxudFi+jRbiMaCjY6ZXuLa06+3gCgWEYyLJsRwYoslmi6TWp7wldgm7P1HwEhg5vNrWuOA==;4yqk90HqxRrhb2Ow0Cbx5w=="
 ---

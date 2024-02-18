@@ -57,20 +57,6 @@ related:
         width: 875
         height: 630
         isCached: true
-  - title: "Amazon SageMaker Feature Store now supports cross-account sharing, discovery, and access"
-    excerpt: "Amazon SageMaker Feature Store is a fully managed, purpose-built repository to store, share, and manage features for machine learning (ML) models. Features are inputs to ML models used during training and inference. For example, in an application that recommends a music playlist, features could include"
-    publishedDateTime: 2024-02-13T17:36:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-now-supports-cross-account-sharing-discovery-and-access/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14966-image001.jpg"
-        width: 727
-        height: 431
-        isCached: true
 
 secured: "tmJ/Q8xCfp3Tlj+uLmo1UP/3n0k+VFBcJWwcbgueVQl8iGQeoW70MB93MF1T3JB6BMnljn+yrpNY2AXrcAm4I8emDLRE3oadMPuQyTx3/eK+XkIv4KsSeycNyg8ReqX8ct93w241EnxPk+lLqZeoijDpUQtZTQ2VqY1+0Xi1sWBoq/lyODKRJRGqWMk9WwAvQ2N1yDsNz0wsl30ZMcIR2lVGwg3O9uJiV+QOFDxYXR5B41zHkkLf+rCrQHvLHmoGT+dI5FyaWWxSbHkonADWUW7UY8R/wWhUQnPdLa+YvAqfyUdx6UACygGr7HbD7bbnSuOiPbF5kDCTr3mSoTQQZxr0AcW8fyuw3CO6dPwyINk=;hsOwWWqogx6oBG7NX02LDA=="
 ---

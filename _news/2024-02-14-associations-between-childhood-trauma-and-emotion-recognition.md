@@ -126,15 +126,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Ireland to hear from stakeholders on police facial recognition bill"
-    excerpt: "Ireland's Joint Committee on Justice will meet in a pair of sessions today to scrutinize the draft Garda Síochána (Recording Devices) (Amendment) bill."
-    publishedDateTime: 2024-02-13T18:22:00Z
-    webUrl: "https://www.biometricupdate.com/202402/ireland-to-hear-from-stakeholders-on-police-facial-recognition-bill"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
     excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."
     publishedDateTime: 2024-02-15T18:29:00Z

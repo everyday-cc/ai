@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-19-dor-brothers-rock-cinematic-ai.md",
+      "title": "Dor Brothers Rock Cinematic AI",
+      "excerpt": "His comapny, Dor Brothers, developed deep expertise in generative AI by using it for the production of more than 200 music videos. One of the things I’ve been tracking for Forbes is the rapid development of cinematic AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d237e271930a6d4d000a98/0x0.jpg?format=jpg&crop=1280,720,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/amp/",
+      "publishedDateTime": "2024-02-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-ethiopias-250-million-tech-expansion-in-bitcoin-and-ai.md",
       "title": "Ethiopia's $250 Million Tech Expansion In Bitcoin And AI",
       "excerpt": "Aiming to become a global digital economy leader, Ethiopia is leveraging its renewable energy sources to power the advancement of bitcoin mining and AI development.",
@@ -53,6 +104,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-18-paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week.md",
+      "title": "PayPal Ventures’ first AI investment, a credit-based dating app and Robinhood’s good week",
+      "excerpt": "FlowFi, a startup creating a marketplace of finance experts for entrepreneurs ... Rasa, an enterprise-focused conversational generative AI platform with financial services companies as clients, raised $30 million in a Series C round co-led by StepStone ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
+      "originalUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2014/04/shutterstock_161008784-e1409098226238.jpg?resize=1200,582",
+          "width": 1200,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/",
+      "publishedDateTime": "2024-02-18T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-insights-from-the-2023-fintech-index.md",
       "title": "Insights From The 2023 Fintech Index",
       "excerpt": "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index.",
@@ -61,7 +163,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -105,6 +207,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-18-googles-chess-experiments-reveal-how-to-boost-the-power-of-ai.md",
+      "title": "Google’s Chess Experiments Reveal How to Boost the Power of AI",
+      "excerpt": "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-artificial-intelligence-chess/",
+      "originalUrl": "https://www.wired.com/story/google-artificial-intelligence-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-startup-launches-ai-backed-education-health-and-edutainment-content-service.md",
       "title": "Startup launches AI-backed education, health, and edutainment content service",
       "excerpt": "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence.The start-up platform called Ascend, which is backed by the Accolade Group,",
@@ -113,7 +267,7 @@
       "originalUrl": "https://www.devdiscourse.com/article/technology/2832555-startup-launches-ai-backed-education-health-and-edutainment-content-service",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -156,7 +310,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -208,7 +362,7 @@
       "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1096,163 +1250,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market.md",
-      "title": "The impact of Artificial Intelligence on the global economy and job market",
-      "excerpt": "In an increasingly connected world, artificial intelligence (AI) is emerging as a catalyst for change, revolutionizing sectors and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-impact-of-artificial-intelligence-on-the-global-economy-and-job-market-1033076951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1708097809119.png",
-          "width": 1597,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T17:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-what-is-a-long-context-window.md",
-      "title": "What is a long context window?",
-      "excerpt": "Gemini 1.5 Pro brings big improvements to speed and efficiency, but one of its innovations is its long context window, which measures how many tokens that the model can …",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
-      "originalUrl": "https://blog.google/technology/ai/long-context-window-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Long_Context_Window_SocialShare_9.width-1300.jpg",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/long-context-window-ai-models/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/long-context-window-ai-models/amp/",
-      "publishedDateTime": "2024-02-16T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart.md",
-      "title": "Code Llama 70B is now available in Amazon SageMaker JumpStart",
-      "excerpt": "Today, we are excited to announce that Code Llama foundation models, developed by Meta, are available for customers through Amazon SageMaker JumpStart to deploy with one click for running inference. Code Llama is a state-of-the-art large language model (LLM) capable of generating code and natural language",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/ML-16262-image005-1137x630.jpg",
-          "width": 1137,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T16:32:49Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

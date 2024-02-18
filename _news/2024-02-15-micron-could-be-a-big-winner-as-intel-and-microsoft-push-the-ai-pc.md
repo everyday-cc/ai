@@ -208,20 +208,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Drive sustainability transformation faster with new data and AI capabilities"
-    excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
-    publishedDateTime: 2024-02-13T17:35:00Z
-    webUrl: "https://www.microsoft.com/en-us/industry/blog/sustainability/2024/02/13/drive-sustainability-transformation-faster-with-new-data-and-ai-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 36
-    images:
-      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/02/GettyImages-1437931505-social.jpg"
-        width: 1191
-        height: 628
-        isCached: true
   - title: "Microsoft and Google invest in AI in Europe"
     excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
     publishedDateTime: 2024-02-15T14:58:00Z

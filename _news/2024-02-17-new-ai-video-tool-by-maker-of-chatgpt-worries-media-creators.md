@@ -145,20 +145,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
-    excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
-    publishedDateTime: 2024-02-13T17:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96183/ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
-        width: 1323
-        height: 744
-        isCached: true
   - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
     excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."
     publishedDateTime: 2024-02-14T02:52:00Z
@@ -201,15 +187,6 @@ related:
         width: 1024
         height: 833
         isCached: true
-  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
-    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
-    publishedDateTime: 2024-02-13T18:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "I723OGJgJpqD2oeOnBcbBtisxMtLOywNusUa0PVq2G0HOMdyi588L8pbrvVGOyut1J/Zko2SY96RaVPsKAJO/FOkZPbKsOfSNp+unGBL5zz7MUtY/0FjWmblk/es7mk2/IlGeYGcwMGippJAp3zqkRygMMq79ZaUB1iS5Tcc6n1RuSd+Chq7Ij2UBmklHEphrWWU5g0lk58PDc6fcL8YJM8B3DkP36Q0mNJNWKz6SABEInKOwPl+TyuanVtGpl1/CzMDU2DYXunBRxZknMqJEp8p9HDkgUbiMKYlS8vDy319M85UVcCQGe42T6rR20O6NJSXScAUbB8i+x5ibKQUL3rCPe9C9qFTeGEJkU8Pm4M=;JCmB0WcCM+D+aYbhsExaCQ=="
 ---

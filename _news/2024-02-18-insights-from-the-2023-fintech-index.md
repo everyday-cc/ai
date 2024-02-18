@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -269,15 +269,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Use Next-Gen FinTech to encrypt your digital payments instead of the OTP"
-    excerpt: "Multi-Factor Authentication (MFA): MFA uses two or more distinct authentication factors, like passwords, fingerprints, and device tokens, to validate users' identities. MFA greatly increases security by requiring multiple kinds of authentication,  as an attacker must compromise numerous factors in order to get unauthorised access."
-    publishedDateTime: 2024-02-13T18:27:00Z
-    webUrl: "https://www.finextra.com/blogposting/25680/use-next-gen-fintech-to-encrypt-your-digital-payments-instead-of-the-otp"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 3
   - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
     excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
     publishedDateTime: 2024-02-15T19:49:00Z
@@ -297,6 +288,6 @@ related:
       domain: menafn.com
     quality: 0
 
-secured: "9kK0zUbE5NProEzWOrTzkDmH0Vss1TpWwG6VqqWZV37BEhLuxE+pGj+PB221olUl8L730bk5Gqjly+frC+PAuH9QInSO5M4JENKh8dGk26oM9PmiImH/Zw82bsf99cFif3p0/JzaqIWnGD+lsaTJBfzP+ws1ziOOgxZAUtZaOjfnY5f4yPL1O/lTaU2cctfvJVP9AmUjM2WGLeWeuA934H708HSeEnEOTWN0b/T6SqAQ2pptvf/6V6qrGTXB1FsP08OoRPEGlYauFFJRvK3KhhANovtxdx1BMULI1sNjij3ZzGvuEqmSYFFXjjc6Ox6zEwC3y+adZifYMAOkumc96URQ1OhI1UlRRuDcyr4mxzA=;a4LFpXpq4AGPqi5Zf569LQ=="
+secured: "fwIy3G08ckVXHFssz8ZY7Dfi2x68/GfAfJrx1j+OTXkibhOpmqWIDWM9oC2M7qLotZkn5PYAKM2EhKkr8ZOiYdMCHhAVNQVDlCsdaKzogdDQgt8zMVmTmrTL9ZeQCkFqdje6Y/kKEi/YzwRHXSC5vXyvNR5Clzk53icRu7q6UybqtvJTzc7JAngL7TjvqrpYMf9XL2H18rq6Tih5mtv+BWyrd7td5MUdQlCvrVrJnE1W75kr5C2eqHelhwayR4fZYvGg3lMr6tR6upD4JMbuh8l49qmKcGNplQY/RWScZXX3IDbbkarAdRt9JzR+xlHQXP+o6dI30Pykorql2ia5bq67xuRSXShgDQwi42plizY=;p5JgDQag9ykEYKUewUYTAA=="
 ---
 

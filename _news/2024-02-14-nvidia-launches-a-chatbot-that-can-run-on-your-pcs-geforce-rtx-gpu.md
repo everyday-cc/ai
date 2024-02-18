@@ -148,20 +148,6 @@ related:
         width: 1640
         height: 924
         isCached: true
-  - title: "Ever wanted to chat to your GPU? NVIDIA's new RTX-powered AI chatbot is fast, local and private"
-    excerpt: "NVIDIA's 'Chat with RTX' app is a new AI innovation: a personal chatbot on your PC, providing fast responses via Tensor cores, but it's Windows 11-only."
-    publishedDateTime: 2024-02-13T17:32:00Z
-    webUrl: "https://www.tweaktown.com/news/96183/ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 42
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96183_01_ever-wanted-to-chat-your-gpu-nvidias-new-rtx-powered-ai-chatbot-is-fast-local-and-private_full.jpg"
-        width: 1323
-        height: 744
-        isCached: true
   - title: "Nvidia Brings Generative AI Chatbot, Chat With RTX, To Windows PC"
     excerpt: "Nvidia, the company that’s best known for its chips, is now venturing into the world of generative AI with its new chatbot for Windows PC. The announcement came on Tuesday, February 13, shortly before it released an early version of the chatbot called ..."
     publishedDateTime: 2024-02-14T02:52:00Z
@@ -204,15 +190,6 @@ related:
         width: 1024
         height: 833
         isCached: true
-  - title: "RTX: Nvidia unveils AI chatbot — can be fed your PC's docs and videos"
-    excerpt: "If you're equipped with an RTX 30 or 40 series GPU, embark on an immersive AI journey. Learn how these innovations are poised to set new benchmarks."
-    publishedDateTime: 2024-02-13T18:53:00Z
-    webUrl: "https://interestingengineering.com/innovation/rtx-nvidia-ai-chatbot-pc"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 19
 
 secured: "6sOVoPJUW2kgHSxWgBCPn03KXnvX//FIzu9L0Ustif9EdeICC4SQEDcSM/m1YHpLbHZ6mLD9Pn7lshjwrgatStdqXUVDGwTBLSuqXyMnBQqjqNu9ljhC1AWB47VvdSoG/uLqG9/Th4Gor0YMl9W1q4Hl4DwFsQ1WOCqPKNJ4Yi8hd7yyf5KvEuE0YWu6qZs90lWhnozZT8NSQCUXHrq0i4ripGa0ORtwV+oseQx3xhqvIBsH2384EBjGx4080PCeoDCsDbir3ong++HrNGp3yHKng/cF/+fObtx3b/T8QnEXsweAo+/FRPVFI3ywcrASg/58EaF2ZczHM2RzT++A7AFZBgfTyrPRE4vCYcchrKZxps8777YbTPu8VyPNxj798RTuYHIzeFGs02V0MNFGETncRzT9raRTq19uk901txNBl71ZGskk6fLD+6ztzNTg/dKqtUlOyY/P9dSu2rLV1m8jeNCi3OcnMyYj+BeVsdaCVyRjn2ANouGoxSNqG+iYjm1WJR1LLDvBBZmXYKpwnw==;loc19dEo/3HJuKnk6WIVbg=="
 ---

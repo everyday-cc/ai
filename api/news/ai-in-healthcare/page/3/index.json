@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-10-skeptical-about-ai-in-healthcare-heres-how-some-doctors-and-hospitals-are-using-it.md",
+      "title": "Skeptical about AI in healthcare? Here's how some doctors and hospitals are using it",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and ...",
+      "sourceUrl": null,
+      "webUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "originalUrl": "https://eu.usatoday.com/story/news/health/2024/01/10/hospitals-ai-chatgpt-doctors/72167449007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T15:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-cincinnati-hospitals-say-artificial-intelligence-like-chatgpt-can-help-patients-doctors.md",
       "title": "Cincinnati hospitals say artificial intelligence like ChatGPT can help patients, doctors",
       "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Healthcare has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and Epic ...",
@@ -1302,49 +1336,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know.md",
-      "title": "The Artificial Intelligence (AI) hit list: Six menacing threats you need to know",
-      "excerpt": "By the end of this year already, the market for artificial intelligence (AI) in South Africa is projected to reach a size of $2.4 billion, showing an annual growth rate of 21% between now and 2030. Locally,",
-      "sourceUrl": null,
-      "webUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
-      "originalUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pctechmag.com/wp-content/uploads/2023/12/AI.jpg",
-          "width": 990,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
-      "cdnAmpWebUrl": "https://pctechmag-com.cdn.ampproject.org/c/s/pctechmag.com/2023/12/the-artificial-intelligence-ai-hit-list-six-menacing-threats-you-need-to-know/",
-      "publishedDateTime": "2023-12-19T14:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Tech Magazine",
-        "domain": "pctechmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

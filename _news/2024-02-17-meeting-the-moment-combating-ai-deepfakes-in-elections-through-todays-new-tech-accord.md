@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tech companies sign accord to combat AI-generated election trickery"
+    excerpt: "By Matt O’Brien and Ali SwensonThe Major technology companies signed a pact Feb. 16 to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to […]"
+    publishedDateTime: 2024-02-18T17:15:00Z
+    webUrl: "https://afro.com/tech-companies-sign-accord-to-combat-ai-generated-election-trickery/"
+    type: article
+    provider:
+      name: Afro
+      domain: afro.com
+    quality: 37
+    images:
+      - url: "https://afro.com/wp-content/uploads/2024/02/ai-technology-microchip-background-digital-transformation-concept-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
     excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
     publishedDateTime: 2024-02-18T16:15:00Z

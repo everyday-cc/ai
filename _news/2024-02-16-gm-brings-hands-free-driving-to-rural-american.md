@@ -33,20 +33,6 @@ related:
         width: 1024
         height: 699
         isCached: true
-  - title: "American Management Association Introduces Artificial Intelligence Learning Resources To Help Organizations Prepare For AI's Impact"
-    excerpt: "According to AMA President & Chief Executive Officer Manny Avramidis, \"If you haven't developed a leadership strategy to help your team understand and leverage AI, to put fears they may have about it in proper perspective, and to recognize the potential around it-then today is the time to start.\""
-    publishedDateTime: 2024-02-13T18:31:00Z
-    webUrl: "https://menafn.com/1107847050/American-Management-Association-Introduces-Artificial-Intelligence-Learning-Resources-To-Help-Organizations-Prepare-For-AIs-Impact"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 22
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?795801"
-        width: 253
-        height: 250
-        isCached: true
 
 secured: "mcoh5OEl/LpmdooWZAx63xJc5z0pp3ww4fGETaQRA+LxWGPqvtlzBC6zzxfjBYNZAeDo6YGNXqQtcYOrXzMr2D7VJVHCuDnOr/o4+KBC0dlcp96dzLePjHcQA/XxIyzbHNzHgLSKC4imVvOciEAfZw1Ek/RH9b89BMiI1XOBGoQmyTxVZnV6jusUpEOoPvoOZ1xvstDvqbTjE87DTw1806dYkmYKUTHiQnuA3sJ3Dxfqc8GsbGz8KiP9Wca7N0dvw47Fenz6I2CDeKoUONqDinlacyOZMImrRDjSAyRvzaPjPpEjvQMThnKmF5vXGlsGeP1oNfCD3Z/jZrbW+YZwsIVLRCVGaI8PHt4mQ1rY4ziNlq/+xDJoXstG5rxmGXNdejTv/Uw1QpkLjE6c71wBH983qgNeI/xcTGt7csb2rkFIU9SqX4br43yNeTfJibV5on8DTCUBEGGLUeXp901gwgdXzguC6VrAf66cFxMe1bkw1H+cTWn2aog7je7PO8L+L7cxm+jeZSIb5QES0OoXxg==;A57cf5+EYtr4nTbRiH6j/A=="
 ---

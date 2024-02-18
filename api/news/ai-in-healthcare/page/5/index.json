@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-06-rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence.md",
+      "title": "Rejoy Health is revolutionizing back and joint pain care with Artificial Intelligence",
+      "excerpt": "In an era where technological advancements continue to reshape the landscape of healthcare, Rejoy Health has emerged as a pioneer with its",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh7-us.googleusercontent.com/H3tVBQ8eYTfncfBbpMqhAKirLIh1Z62xUkB8z80Mmlp_EqXLAYIp3ez5l5jN0-4bXl7Y2oi-tDX8CKfALBLf910zlhkIeHkBl_DAn65odV-afwM3UZTdcyennZq_uGb2uzzjpR-MTNxJJdEMW2nYCVQ",
+          "width": 1600,
+          "height": 914,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T16:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-marylands-new-artificial-intelligence-advisor-starts-as-legislator-calls-for-privacy-law.md",
       "title": "Maryland’s new Artificial Intelligence advisor starts as legislator calls for privacy law",
       "excerpt": "A veteran in the field of artificial intelligence over parts of four decades pointed to several everyday uses of the technology already — from use in Apple’s Siri voice recognition system to GPS navigation systems, even to robotic vacuum cleaners like ...",
@@ -1249,52 +1301,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031.md",
-      "title": "Cloud Artificial Intelligence (AI) Solutions Market Size, Trend And Forecast To 2031",
-      "excerpt": "Cloud Artificial Intelligence (AI) Solutions Market By Technology (Deep ... The availability of cloud infrastructure and platforms from key providers such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud has contributed significantly to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/11/ab35908820/cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/ab35908820/cloud-artificial-intelligence-ai-solutions-market-size-trend-and-forecast-to-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/35908820",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35908820",
-      "publishedDateTime": "2023-11-21T18:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

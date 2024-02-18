@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-no
 webUrl: "https://aws.amazon.com/blogs/machine-learning/code-llama-70b-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/ML-14933_football_player_2-875x630.png"
         width: 875
         height: 630
-        isCached: true
-  - title: "Amazon SageMaker Feature Store now supports cross-account sharing, discovery, and access"
-    excerpt: "Amazon SageMaker Feature Store is a fully managed, purpose-built repository to store, share, and manage features for machine learning (ML) models. Features are inputs to ML models used during training and inference. For example, in an application that recommends a music playlist, features could include"
-    publishedDateTime: 2024-02-13T17:36:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-now-supports-cross-account-sharing-discovery-and-access/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 80
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14966-image001.jpg"
-        width: 727
-        height: 431
         isCached: true
 
 secured: "lTDa+XJadBV2AXk16LT7W4TMaJy/JEL9D80Dy+xcNukMNjBdT206HTKei3een9lmWwwC9nL+MUIlwEV4djRUqEOGCCfhStEQkrDTuzd/+rjUvaO6yOtlj440tN+hbYMohoLTgvmPt0SVIWMxc+VvtQR5LHCIhI0vTXUj1FqMnpWETVSWxIJCbaV9ZkU4Tn37Hq8+bR4e1BFA9qOqfDcuGrVhdJ0mftVXK99dO64DdkAv/rYvtY1H2sRa3bzzPbxiOFZXy3r9g5JkqxSxBP2lP3+ykHYcJ9oXkVIyPNKZ5aik5OpmZO4a2+WxKGxcldyzuHNXKD5Xo2jb7BOt3b91L4ppnhB5I2BZQHuxgmdpPV4=;raJxQAeLJCTbwDVXQ8v12Q=="
