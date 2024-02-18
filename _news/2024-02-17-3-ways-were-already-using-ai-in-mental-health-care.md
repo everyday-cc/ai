@@ -3,10 +3,10 @@ category: news
 title: "3 Ways We're Already Using AI in Mental Health Care"
 excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
 publishedDateTime: 2024-02-16T23:16:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+webUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
 type: article
 quality: 59
 heat: -1
@@ -17,7 +17,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI Ethics
+  - AI in Healthcare
   - AI
 
 images:
@@ -133,22 +133,6 @@ related:
         width: 361
         height: 203
         isCached: true
-  - title: "AI for Social Good: Revolutionising lives through operational excellence"
-    excerpt: "The transformative potential of AI for social good is intricately tied to operational excellence. Collaborative, sustainable and personalised AI efforts present strategies to showcase the broad impact"
-    publishedDateTime: 2024-02-13T10:20:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 58
-    images:
-      - url: "https://www.forbesindia.com/media/images/2024/Feb/img_228401_artificialintelligence.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
     excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
     publishedDateTime: 2024-02-13T17:18:00Z
@@ -220,6 +204,6 @@ related:
         height: 250
         isCached: true
 
-secured: "8rDtVO44xP086QUxoeTHRvAlFuMlF2lW7QsMMwG+ZYExgzWloXQW/mqUSnLKHkIsupqBS1fkO0aWPJO+jLwDOC1rjmYEOOWK42MHod+m1QPYbhQHitvpOuYbkYQvKXlvvoTBQHXzzyupjuusBZi7HX32h6+yJk8GjpqTstyj1GylfuEpsl7WaoJHgGnMwU9bgCiaYKyxMrzNmsbIzBbejxkEymZ6IzqazBeOp9Gr9nJJnZ1potXhMr+fPQ8hYVYwwhISo666cW6BDDvuLjr7X1qCj68SlWQ5oSwgskYM/Y2HOptShBeBmWS7CFTJ/gPfCFZQ6aUcbduB9ELNHh72ktq7YWL5TgVEJ/Fb615wl72PVrzhj/CFfDKOlVHWzzszkbqs0zQYu5/3JkUSE9K2YLXd+Nk4rOK1FfzoKgxvX44GNXWl7z1lsZLXLnxWCyrUUR9NkUf8AXZ4WlPenFIlcG86Dv9lMq5Gmhs9hvTZCbBU53prosT7zFj+9OZmWr2XL8BAZR11yAQd3yAEn+lJtw==;sCJYP8lqVOnwJHJzZO848A=="
+secured: "vkrgLogcTFfjv3+JKM6JDIuLc7jWWYNbZCZbrvxDpOMsDmG9t2B53orFeahiAjwi/WJ+QltNSSaGgruHN/DoSrPowYzQKzgPwWZ/c+jGRZpqkZt/h4WdCZ9U2kklenSK9Ll0EG13eeIdvCb6/OOW6nx1DCQ9yEY0b2QpkrLf4koEkkG8Mx5dl2iO3q27H4yuaTQ3bCOtY8ItxkasgBxXIopAGj4VI4lAdRhb/mDhRVlaR3W2mHbsiaTiWHQUAcVjWf/J6spF0qCUbW9097Egc7ca+IYlBZl5Qi8Al+xMlwLOm0w8RD8SPB6Xv++iSJ3Zb+q/xfVlAGm/Pftx2Xpc6EFZQ4GLE2MP8XIY7ulzv3s=;yYA/4kJKvk7i7mWhMaLdkg=="
 ---
 

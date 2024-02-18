@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
+    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
+    publishedDateTime: 2024-02-17T21:42:00Z
+    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
+    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 74
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
     publishedDateTime: 2024-02-17T09:50:00Z
@@ -100,7 +116,21 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
+    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T20:39:00Z
+    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "ccC7Voxb4zD/T7eMfowLA5mNJ4NuSeEzjnkxNeDlsWoXY6c7EjfsLCwOKP/UJoW+uApuSHzYD1WuXiaaz6JL7Kuv2tLMj44oQSQSf0046kOSJdzyOSx+eEqEvQNxTIBvL400PDFwW/WVEmmt1mRKQzu+YgsiNOvum8P3ATZs9uSFugp0GcsomhqJkt2rzOeei5wsWVbRAovEk/paHeeEugY9Z2+KjiJM0IfImygQlToGAUaw1I7b06sUcDpJS7HYgXpW78ReCQ87P42Zt5xY5NpMS1mTnp+ACwnVgJX0Z83awgfEgveC7CuldABX8iKN8kPfRhybaDTSVzpkf8gX/pcucd4ymDbjkBactA+XIiQ=;dCgDR+XAzWnVSzUczUqCzQ=="
+secured: "MQKo4G+LGeD1AEERXUjqbdG0TWHKsdQql+D7E4mX+0JLAQhIL6fLnHfbm0JgAhIJ4RBZmMi4fIjKDG0wc8nGHMEpKy4GwNjCqPNOVdHFHQUS4ZkDayVcrHCbZ0oZZIeu92rNsuE2eUprI+XVGIzDI1h0Yuw/v1NmLVBqIX0U9b1KiPSb9DkIgU30y44Wa/vx7iup1T0VTf08uclOiWmYmkp5l89rUt/eL8NoIW5lm3r6PNSnn+7J/wOrzWkD2RDL2xUmCtKMZ6DO7FFTXUjuIXfZu47yqdfZZMRF5IXYQHoR4TSorG0W79zu3ceRGyZQK/mlEn187TmDrVfHu7uz0I8N/mt1NQJzikvm1EKJufnHLbFe/9B1P4a2KssKjfiRIiaPp3xyVZEk6DkXQ7skTku+HiWYQFZRD3xQc0cSJFDVHvkE638zDBmdUGL8tQ2IX5JNgimryNg2+02ul4ICqxWq8So1+lbF84dRi/7xfc+NaHHb/FqQEwGcMl83mwVqARg9tDTKVyCvyQloSaPp9g==;XApbyutqapXzaz6A6ZvASA=="
 ---
 

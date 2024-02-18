@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/saas-startup-partners-bost
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/saas-startup-partners-boston-dynamics-to-deploy-humanoid-robot-at-construction-sites/amp_articleshow/107693758.cms"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Indiatimes
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Boston startup is using AI to address malnutrition in hospitals"
-    excerpt: "The technology could help reduce length of hospital stays, improve surgical outcomes, and reduce readmissions, its CEO said."
-    publishedDateTime: 2024-02-13T10:18:00Z
-    webUrl: "https://www.bizjournals.com/boston/inno/stories/news/2024/02/13/hologram-sciences-nutrition.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "dxGs57jcjr+SGBlGJeCSR3xha/tRlP1+OMD1lqgIswxT/eTHaIkD/+i+m9Y3kWSIILkqpo+LuB3ZERdwecUf1VcOL4FtE+pA5nYzt7QLx/6NoVYvk/Oa47kDuRRouQsGBQIE37YKbZmd7D1OupiM3UiskdP57XymsP3XxSckC9EOyFaRZRy/DPAOIJQ/AI5o6r0A76fQ8zytyVKygpgCuOTvLZAZKAWSITdP+KXty4ll3seAnRnQHFSY4NhjAz2GKww188y6keV1yn2Ltz6kmDrNkIkd4T+L9vInh7YC+rymeRzIsdvY3y7zouQ9Ozw35n6t22euAW3H/LQ4DCK3gU5y5mW3+Gqk4RW6tUtxTloviujP8uOw2E2nnH/sfPdqqyrVnX9ksPaqF5eWfc3BuI32wZSArE9M8h7vnk177o4qYKWnCXNglo/FJFOHXJeGoEu0aOc8C6eRGPSew4mr39mk1bv8K/tGSp52UAnwxoHXtIypTDkAq71mNbYcWCVvVpt19A67Be7Zfb6HaXU42A==;KpntAub5m571ZxtSAFeLPA=="
 ---

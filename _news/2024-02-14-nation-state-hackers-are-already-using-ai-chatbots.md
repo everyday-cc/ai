@@ -44,15 +44,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 17
-  - title: "‘Better than a real man’: Young Chinese women turn to AI boyfriends on chatbot"
-    excerpt: "Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: he’s kind, empathetic, and sometimes they talk for hours. Except he isn’t real."
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://manilastandard.net/news/314416322/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends-on-chatbot.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 15
 
 secured: "fx++7WzNkQGskEh+pkrkuglAbVYDHKVCfnboBZPIIv+uT2oIty5grPk/Hb2QeW5uZKyyimwAuglHXZjmMtTdEE3EA1UUR4++BMO/oGMJDFxhXbdVVTDjiO4M3v0WKxtbFVcVyCOKmlMAQW5xbGvX/Im2X4QSahKaAcPWhT+PgCcgjF+9aciFOxjbNxzPo74wuL/j9atG0FFz6AaC5DIkhzziJrC5IqvsroNHQjikiGu6GzdKWTYMeT2rzUfd/fGwX+Iw4JV6JKtN7J24RT5UcGhSromxHnHPFkoOJCW8r4E/XpNVUahosKTl76V+qF58g/soJf1R1/INCp7WfcQ+Cm3uTv0N6uGNZvf5cx1GvwSHPwBJk+SlPvhNdOgJ+/BrOp8SCHOVPJZYp4gUSOej/vJtHetHaUP8+ISY9OEG+QH4fazt6CWsngWlzK03HtQO+pVYno/3VruzP4ULG+GonPWa51hxE4XuCBC8Rs9ydyvFM8ieFdKeAK+c/PPJMuemxWa4AFK61KcxcZWyJuzLhA==;M9gatFuy8Cn0vcqH1SzR9A=="
 ---

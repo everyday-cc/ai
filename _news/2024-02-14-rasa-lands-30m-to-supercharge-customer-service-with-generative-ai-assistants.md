@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-
 webUrl: "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Use AI to Personalize Customer Experience and Build Trust with Customers"
+    excerpt: "Heather Kurzenski, CX program specialist, Intelisys, offered strategies to use AI and build trust and understanding with customers."
+    publishedDateTime: 2024-02-13T23:41:00Z
+    webUrl: "https://www.tmcnet.com/voip/news/articles/458687-use-ai-personalize-customer-experience-build-trust-with.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-feb/6214588199-NEW-2024_collocated_ITEXPO_PR_1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots"
     excerpt: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots - SiliconANGLE"
     publishedDateTime: 2024-02-14T14:00:00Z

@@ -96,15 +96,6 @@ related:
         width: 1200
         height: 791
         isCached: true
-  - title: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand"
-    excerpt: "Nvidia Briefly Overtakes Amazon in Market Value Amid AI Chip Demand - Nvidia Corporation temporarily surpassed Amazon.com Inc. in market value, marking a milestone in its"
-    publishedDateTime: 2024-02-13T10:21:00Z
-    webUrl: "https://www.siliconindia.com/news/general/nvidia-briefly-overtakes-amazon-in-market-value-amid-ai-chip-demand-nid-227848-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 34
 
 secured: "/tFLRCGrX7A/2jJHq5eMN8gV4+kbAFNZ1Vq/3XWti04dUlqLq+84BODW7O2se+86UDcONyjhmbKKpvff/+UsFo0fGoehFsmNM2rHqpNZzCzhLey995dQrVoqC66VBtPXHFn5RhtfJkDucbe4+PiQXm+aHuz5bCZRbr1SxW8ujowg3sdcQ7JU9NhWcJECpb3VlfWO4Dn/tn9JOffaE6HNwQVYODpS//96W4cp55Niui8gnVLjRctRRq5yr9d7ZW89zNnoKz/ulsM5QJ+VSm6rJQgjZlzsEJMYY3HOedq5w+t2PX3t/1UBwGYBC5hoqEs3C92TKlFvS/RrRx7gmkwzwHmsaxmXwovvhuq8KTV71tk=;pR49juVjDajN+FoXyrO89A=="
 ---

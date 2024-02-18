@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35
 webUrl: "https://www.forbes.com/sites/alexkonrad/2024/02/13/meter-raises-35-million-sam-altman-lachy-groom/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -28,104 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc."
-    publishedDateTime: 2024-02-13T10:55:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html"
+  - title: "Analysis: Why OpenAI's chairman is betting big on this AI frontier"
+    excerpt: "OpenAI chairman Bret Taylor knows a thing or two about spotting the next big thing in tech. So when Taylor — whom I got to know during his time as co-CEO of Salesforce ( CRM) — decides to give me a few minutes, let's just say I pick up the phone."
+    publishedDateTime: 2024-02-15T17:31:00Z
+    webUrl: "https://www.aol.com/finance/analysis-why-openais-chairman-betting-173108344.html"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 77
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
-    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
-    publishedDateTime: 2024-02-17T21:42:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing"
-    excerpt: "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures."
-    publishedDateTime: 2024-02-17T22:35:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 63
-  - title: "OpenAI CEO warns that ‘societal misalignments’ could make artificial intelligence dangerous"
-    excerpt: "Sam Altman reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI, which is likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T21:18:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/13/business/openai-ceo-warns-that-societal-misalignments-could-make-artificial-intelligence-dangerous/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 44
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/_PgIG8FDcR9uob3AOX6X0kZNwOE=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/443UY4TSTIG7IGA4F5O6X36CU4.jpg"
-        width: 506
-        height: 337
-        isCached: true
-  - title: "OpenAI CEO says ‘very subtle’ misalignments could make AI wreak havoc"
-    excerpt: "OpenAI CEO Sam Altman on Tuesday warned the “very subtle societal misalignments” within artificial intelligence could cause things to “go horribly wrong,” while still"
-    publishedDateTime: 2024-02-13T15:11:00Z
-    webUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/"
-    ampWebUrl: "https://thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4464982-openai-ceo-subtle-misalignments-ai-wreak-havoc/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 41
-  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
-    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
-    publishedDateTime: 2024-02-13T20:39:00Z
-    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
+      name: AOL
+      domain: aol.com
     quality: 39
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
-        width: 1024
-        height: 576
+      - url: "https://s.yimg.com/ny/api/res/1.2/IFWluR.kbmtTZs_VOHl4OQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/3ffe427c86332fe46d5256e949b63763"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Dubai: Openai CEO Warns AI Could 'Go Horribly Wrong' Without Regulation"
-    excerpt: "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the“very subtle soc"
-    publishedDateTime: 2024-02-13T09:54:00Z
-    webUrl: "https://menafn.com/1107845259/Dubai-Openai-CEO-Warns-AI-Could-Go-Horribly-Wrong-Without-Regulation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-  - title: "OpenAI CEO Sam Altman raising $7 trillion to build a network of fabs for AI processors"
-    excerpt: "Sam Altman, the visionary head of OpenAI,, is spearheading an ambitious initiative poised to revolutionize the technology landscape. His goal is to"
-    publishedDateTime: 2024-02-13T09:35:00Z
-    webUrl: "https://www.geeky-gadgets.com/openai-ai-processors/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 11
 
 secured: "9jVbwXICEQHOXf9P4/AETw8CXiffSAf1ZWJ4WQONCfqBgReaN6FPKDt/69zezJLctwTvu0hNDqSPN+EMBWDENm0qpYGDQBsSfnSzQNbksxboeLQwIymP/eWI0m/XDnnvOBb33d7HPkBDoxmZ0Xju1DSFN2qKKN4W8qYI3Px3vu68Er1Vo57NbLJjdAf0+H7T6ch9kWCQXeY54S1L8ndq5NLeXsFZTWnRjR/gxSY5gQcz3FV1ctm3gj3C7IWVmERMhDontVz/c+2uwbsKQaG5nDvOnq1GdV52aw1oU9WRfvGRyH2DfV6srpbDOXnDc/BhMVZEaNxljr1DGWiMmnTAfBO9zUyAVlY9YhMgvfJo/7s=;gxUTUkPhNZ7qwn2+yjQnoQ=="
 ---

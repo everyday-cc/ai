@@ -7,7 +7,7 @@ originalUrl: "https://www.wmbfnews.com/sports/betting/2024/02/28/wofford-vs-samf
 webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/28/wofford-vs-samford-buy-college-basketball-tickets/"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,17 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Mississippi Valley State vs. Prairie View A&M February 26 Women's Basketball Tickets & Start Time"
-    excerpt: "Mississippi Valley State Delta Devils vs. Prairie View A&M Panthers women's basketball game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-02-13T10:21:00Z
-    webUrl: "https://www.wlox.com/sports/betting/2024/02/26/mississippi-valley-state-vs-prairie-view-a-m-buy-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WLOX
-      domain: wlox.com
-    quality: 4
 
 secured: "Davq46rMO1bQhlNe+VkZyLdiusduAJFuZOVHdX1DTzIrqofjW4h92RxIpuxy3xdEUMbAKkyTLFHRR7aFmaQTH4JpRRuJkvjGMlFX4GgiDxLFt5glCyZTzvH8uXCFRzrnfpmlPBVuBlgtLYkl/PeROrOXorR4tcMKREP/FDu/Y2ImCdfT2Y6TQhk9p4fPKdm2Zli6EEwMPXHHRBRjK9zoRfbVGj46ghJsam5eNq3PQ3Vb29RUNJLqXzgf0Irmz+7i3RytUkQjy+s4dgZFhZIcP5XPOFDck2TGFlJNBOe6vUM9NHb3TrndBeB4fUC7uwgTuBFh2EbhvT1i4LseZQ91w8CDtm5e9CK+7ferqiZv+DbO+wg4K1v40dRdfVfuR4oBakyleJqJW0YTQeYIXl02W6+XMdacLnUqhqwgDJv4Uw6L80slhp9OKGELY8JSOxxSKIBnDNgsNxsLbJvVxsl9iMCt2ptU6x2vE7+H2jIbHKaU1z9HR0HU900egQLt08QYX7VPcWnxvz34IMvKIL44bg==;+dU92HN5GV7M29Egxyi2eQ=="
 ---

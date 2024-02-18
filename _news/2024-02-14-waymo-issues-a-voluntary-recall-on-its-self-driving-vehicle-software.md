@@ -122,15 +122,6 @@ related:
         width: 2560
         height: 1403
         isCached: true
-  - title: "Vandals set fire to Waymo self-driving taxi in San Francisco"
-    excerpt: "Over the weekend in San Francisco, a self-driving taxi operated by Waymo, a subsidiary of Alphabet, fell victim to vandalism and arson. The incident"
-    publishedDateTime: 2024-02-13T10:24:00Z
-    webUrl: "https://menafn.com/1107845287/Vandals-set-fire-to-Waymo-self-driving-taxi-in-San-Francisco"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
   - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
     excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
     publishedDateTime: 2024-02-16T20:28:00Z

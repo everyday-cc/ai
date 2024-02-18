@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
       name: techxplore
       domain: techxplore.com
     quality: 17
-  - title: "‘Better than a real man’: Young Chinese women turn to AI boyfriends on chatbot"
-    excerpt: "Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: he’s kind, empathetic, and sometimes they talk for hours. Except he isn’t real."
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://manilastandard.net/news/314416322/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends-on-chatbot.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 15
 
 secured: "vgInZOU9KAhGbJQNHBgXz1C1XQzsWm349rkBoz4d56dufvJjqwlw00xb57BFbBe0bA45ao5VeaFY7MHTt6SI/RGz2UfukhJuMJt5hkCyWJiToAFEJl+Y2AIycB9B5D9pmSuifqEC7JdWRdEOzeAimqZ9t6xx5RDMC96UHty4kMQnEWcFZHiqZ5qJbtZcJ6/ROzBwqUqDIuQNQUSwv9PcRGB4ZKwGMTxeo9DzGPfaSXtyVDxZMKHv7SP22LlEP52liwSHhEk1sMhQ4hAI2yPBsJxt/1a9aeUonSEHl8Mro/uRcm6Lte8ELdP370ZxVyY6Y4nINi41UCnzp4Dve99QZ2f+I3/f64QR3aQIDA+iB48=;xnbKdqmBZ1ZcdI+xdw7U8w=="
 ---

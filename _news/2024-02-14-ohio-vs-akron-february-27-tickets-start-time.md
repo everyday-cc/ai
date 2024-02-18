@@ -119,15 +119,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Predators vs. Devils February 13 Tickets & Start Time"
-    excerpt: "The Nashville Predators' Ryan O'Reilly and the New Jersey Devils' Tyler Toffoli will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Bridgestone Arena. If you're looking to go to this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://www.wkyt.com/sports/betting/2024/02/13/predators-vs-devils-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WKYT
-      domain: wkyt.com
-    quality: 2
   - title: "Florida vs. Missouri February 28 Tickets & Start Time"
     excerpt: "Wednesday's SEC slate includes the Florida Gators (17-7, 7-4 SEC) versus the Missouri Tigers (8-16, 0-11 SEC) at 6:30 PM ET on SEC Network. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-15T14:19:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "This iOS Trojan Is Harvesting Facial-Recognition Data"
-    excerpt: "GoldPickaxe' malware circulating in Southeast Asia is designed to steal facial recognition data, likely because banks and government agencies there are adopting biometric scans."
-    publishedDateTime: 2024-02-15T08:01:00Z
-    webUrl: "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 54
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04w7ZWlTRSx6ST7kQDWum6A-1.fit_lim.size_1200x630.v1707947992.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "First ever iOS trojan discovered and can steal Face ID data"
     excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
     publishedDateTime: 2024-02-16T14:19:00Z

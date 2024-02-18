@@ -24,17 +24,6 @@ images:
     height: 300
     isCached: true
 
-related:
-  - title: "Groq® LPU™ Inference Engine Leads in First Independent LLM Benchmark"
-    excerpt: "The LPU Inference Engine is available through the Groq API. For access, please complete the request form at https://groq.link/contact."
-    publishedDateTime: 2024-02-13T10:42:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/13/9961176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-
 secured: "MFgnbzkkek4yQjoENWsKK7KI13+mDdik/HAxNaVrpWaadpMb5K/BXlN6rRrkkp+M2IfsrKgKHYtzGqW23lVd0SgO20vkV3r5E4gp6j6xNY5wZhWihOYp+sA3uh2oo/kUpWHoOyPVSpSOlA+fU9EqRqEI62Pxu0tn3Pi0eOeABPJF50KMqiC2ps6kDLxj/Nxp3lBBwELpj4fMdjuIxJI9m0hN7Lu7XhY+7eZjrhSsQkh5N1XWGVRBVPuuQ4Js90bdwvt8RzRLX3ZFUSenX8ghxQWzE1pUdgBTWWrI/0dwsUmTpdpXl4bR3buKZQcqT8zh/FefI0CmT+QEzN6o5eTWFwxUFObgbbmqu3QDCN+RmwG937XQ2MBqe6Rkx6ZwsonQLKdRVslGyOVr8hqBcAX2GNCYTcD4PQkk5BMO4XVaKReymmC+abG4Xj2BIE8Jjsn3VH9dfUinwgmDUpeMFSIdn0apj24q/96A73W7on5A0SJKubx/rL6iS4wYm9JX/WusDjLCUnh1DLP5MvmPq+UsAA==;ftbi0g/Hqyqg+dkjNhN4FQ=="
 ---
 

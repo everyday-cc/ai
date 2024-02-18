@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'"
-    excerpt: "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature."
-    publishedDateTime: 2024-02-14T04:45:00Z
-    webUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
+  - title: "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles"
+    excerpt: "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers."
+    publishedDateTime: 2024-02-18T09:04:00Z
+    webUrl: "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk claims fatal crash was not on ‘Full Self-Driving Beta’ after Tesla said the logs were lost"
-    excerpt: "Elon Musk has claimed that a fatal crash reported by The Washington Post yesterday was not on ‘Full Self-Driving"
-    publishedDateTime: 2024-02-14T14:38:00Z
-    webUrl: "https://electrek.co/2024/02/14/elon-musk-claims-fatal-crash-not-on-full-self-driving-beta-after-tesla-logs-lost/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 69
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/05/Elon-Musk-hero-Tesla-shareholder-meeting.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 559
         isCached: true
   - title: "Tesla worker died in horrible crash on Full Self-Driving beta, but he was also drunk"
     excerpt: "The horrible fatal crash of a Tesla employee using Full Self-Driving Beta has been reported in detail for the first time to highlight responsibility in those accidents. The Washington Post released a new report on the crash today, which happened back in 2022."
@@ -68,6 +52,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Elon Musk Brags That Tesla Is \"Very Close\" to Full, Level 5 Self Driving"
+    excerpt: "The artificial intelligence systems used in self-driving technologies do have limitations — and not just related to software, but hardware as well. According to Musk, Tesla is working on heat ..."
+    publishedDateTime: 2024-02-13T21:53:00Z
+    webUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 53
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
     excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
@@ -87,20 +85,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 48
-  - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
-    excerpt: "Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
-    publishedDateTime: 2024-02-13T10:55:00Z
-    webUrl: "https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 36
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQHOS2X2YYTD6U3FRX2JIFMYQQ.jpg&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality"
     excerpt: "Evergreen, Colo. - Hans von Ohain and Erik Rossiter were on their way to play golf one afternoon in 2022 when von Ohain’s Tesla suddenly swerved off Upper Bear Creek Road. The car’s driver-assistance software, Full Self-Driving, was struggling to navigate the mountain curves, forcing von Ohain repeatedly to yank it back on course."
     publishedDateTime: 2024-02-13T16:15:00Z

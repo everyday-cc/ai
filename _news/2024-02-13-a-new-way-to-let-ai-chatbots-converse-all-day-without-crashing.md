@@ -43,15 +43,6 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
-  - title: "‘Better than a real man’: Young Chinese women turn to AI boyfriends on chatbot"
-    excerpt: "Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: he’s kind, empathetic, and sometimes they talk for hours. Except he isn’t real."
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://manilastandard.net/news/314416322/better-than-a-real-man-young-chinese-women-turn-to-ai-boyfriends-on-chatbot.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 15
 
 secured: "WWBHiE/+mDlBJ1mJorlGj1/DXKyPyJFy8QXb6cWt8VSiSkdBBYdrretcIXO0xgOH6me8FCpQuLUZWKjnrPvzfLLtfuKIsJm7lP8XHLr/AARuFPFzZtkJ3jBwhmRKoEkGev5aV8JjQsDSfCGzD6JuGqN6hSa4gCyZ/n6/BD32wVOsexTFw1o0zYuGxNBkNBCwBrhuukWONFOPHE2YmnrfpjZXA0mOvUkyrso8rZVLecZGsf1DTaF2nRldnLSQ29OZrxebSVjdfrQ+xsLluwqJyqXvT7VMHpXIxlV4Is06+zrWzd9bxMfFHMyDu+b5rNSc/zqdt/IToO+f1uBLr9MMkTRhub+95YlzfMxN63OekVo=;Z6OUfQ/G/XYY470aGPNSIQ=="
 ---

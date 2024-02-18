@@ -115,15 +115,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Predators vs. Devils February 13 Tickets & Start Time"
-    excerpt: "The Nashville Predators' Ryan O'Reilly and the New Jersey Devils' Tyler Toffoli will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Bridgestone Arena. If you're looking to go to this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-13T10:01:00Z
-    webUrl: "https://www.wkyt.com/sports/betting/2024/02/13/predators-vs-devils-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: WKYT
-      domain: wkyt.com
-    quality: 2
   - title: "Ohio vs. Akron February 27 Tickets & Start Time"
     excerpt: "Tuesday's MAC schedule includes the Ohio Bobcats (13-11, 7-4 MAC) against the Akron Zips (18-6, 10-1 MAC), at 7:00 PM ET on ESPN+. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-14T14:22:00Z

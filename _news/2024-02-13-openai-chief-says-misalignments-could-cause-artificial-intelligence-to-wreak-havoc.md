@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI board chairman launches AI agent startup to elevate customer experiences"
+    excerpt: "an AI agent startup for businesses. Founded with Google’s former head of VR Clay Bavor, Sierra aims to empower enterprises with their own AI agents. This will enable them to take their digital operations to a whole new level. The company has already ..."
+    publishedDateTime: 2024-02-13T11:58:00Z
+    webUrl: "https://venturebeat.com/ai/openai-board-chairman-launches-ai-agent-startup-to-elevate-customer-experiences/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/happy_robot_wearing_headphones_and_handling_cust-1-e1707845401633.jpg?w=1200&strip=all"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "OpenAI introduces AI model that turns text into video"
     excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
     publishedDateTime: 2024-02-16T10:05:00Z

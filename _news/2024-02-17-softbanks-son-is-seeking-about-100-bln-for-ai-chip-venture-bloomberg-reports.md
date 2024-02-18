@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
+    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
+    publishedDateTime: 2024-02-17T21:42:00Z
+    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
+    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 74
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
     excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
     publishedDateTime: 2024-02-18T08:26:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
         width: 880
         height: 587
+        isCached: true
+  - title: "Sam Altman Says AI Could Make 'Things Go Horribly Wrong'"
+    excerpt: "Sam Altman, speaking at the World Governments Summit in Dubai via a video call, reiterated his call for a body like the International Atomic Energy Agency to be created to oversee AI that's likely advancing faster than the world expects."
+    publishedDateTime: 2024-02-13T20:39:00Z
+    webUrl: "https://www.inc.com/associated-press/sam-altman-says-ai-could-make-things-go-horribly-wrong.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/sam-altman-inc-1851134953_537378_vkob0k.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "PgqVhhu6DPqJ8392B2qI7KHj3M6/pJScO3x21SmpKKFkQBnv7irQkvU+AjV/vodZQGnty1adx+EsbIDo2//vxoQjeZzP7xS7jjtUVhJobVbYVLFUfJbuznMW3mQ8U88Wdv5CIUDfV5GlAXsI+egWBsFDqYqW8hFS3ObQstaMYQBwptqU9HmiPWQ4cLTdFrEMpUI/PklCSjiPO3TVc5o3UvGl7ofJxxoxmUO1zrAA8yoqyrKbrtdpBp29BtI7p/ir1fGd3geS2ATWaGdqH/ERSJyE2oXY3TBquITgH8lIzVBDeok2tdV2vE5c7QC3CdrfhidnYS1OiQfVq2B4f1/BIC8LuhUdPX1ZH3K3IVNQCHYGLavHqRhy6x69eo6tHJThbne3BcR35npPds4HH4sjAoivsnGO3qEBGGtClAfwa11LLT58q93qfEIIJLGYifkY23dOVVY+8gIV0uMoyQn95w8fkXLGXH5eFBhIpBD3nl4X8t533kksfBvApSl5Gm3AtMh4uqb3p3Zg5XPsc06sLA==;oGqsDaohT8+gEsG+h42u+A=="

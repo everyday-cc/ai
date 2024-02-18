@@ -53,15 +53,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "AI Technology: Pros and Cons as Shared by Experts"
-    excerpt: "Some tech giants such as Netflix, Meta, and Amazon may now be offering around $900,000 for workers to develop AI models."
-    publishedDateTime: 2024-02-13T10:19:00Z
-    webUrl: "https://www.coinspeaker.com/ai-technology-pros-cons-experts/"
-    type: article
-    provider:
-      name: coinspeaker
-      domain: coinspeaker.com
-    quality: 19
 
 secured: "3Rwg+O7yPNf7t1yJISDpQmLN9O9OQz3UEedVDOK6xpaFRJQNBvzyI9SZk1rVt/ArEhP2WGajTLmdc+5YgULIJkmGppIb/cWMIhn2g70BSO2e2dK+R7FzqVukDIJWPFmO5eBt1gWBfRDLGr4NxLiO43OM7N5d2geWVqablpQXd+Xk2htmluqkhrP0/Va4ul3+4jbxl0ilUrSDFOhsHUSJ8IpaEJMCY48cKzt1Bjp19tX08OIZ+rpmxANTMkpqdJ02mffM3Dnp+beh8unlJE5mL/ubnDn/UrxPwVkuAyoBtOOksB7N6ijcmsoSdLPKfjriJ0x46jsGMTqAwYscVgVfEkrv+I4MVxQgEIyqYCNK76o=;JqIieRlfLM0gF/ucDRyYhg=="
 ---

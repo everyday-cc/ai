@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-ur
 ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -48,22 +49,6 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
-  - title: "3 killer apps for cloud-based generative AI"
-    excerpt: "Natural language generation, recommendation systems, and anomaly detection are good opportunities to create strong business value with genAI."
-    publishedDateTime: 2024-02-13T10:13:00Z
-    webUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712687/3-killer-apps-for-cloud-based-generative-ai.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/lightbulbs_innovation_leader_standout-winner-100746942-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The 2024 Buyer’s Guide To Industrial Generative AI"
     excerpt: "Christopher Savoie, PhD, is the CEO & founder of Zapata AI. He is a published scholar in medicine, biochemistry and computer science."
     publishedDateTime: 2024-02-15T14:30:00Z
@@ -410,6 +395,6 @@ related:
       domain: androidpolice.com
     quality: 11
 
-secured: "G94Q41Hcxv5zPfl8LyCRQ7DDbYtI0hugtD5t3wEpdWdZMe/2wnldjaImbeBqd59OSk/ZODzJDUthA7YRXtneAVtOeE0wmBlXTVTvvuANB89UBxvRLzi/8CWlIeBTlwhUNAq/hishS+YN1OzL+an8RoXJJUUkGahMibBRbI1DBqNSqqLT0S2tCJ4B2aYEm4xr/4QUjZCl4dGTt6ofUlnKsEFd9Tdd0ZYxefYSJETtAAi7G6x33uW9rwxoM73R7dsCJVWpwm3YYXHooK3cumZkexhHzuIAdP3bZfcOfUS8B5T3MlCs9/y7yDMDGjCGNcabxij/PxGJJIEvfH+wl9L4LrXfG+XsqFGP20b0qhl+bk0=;JPNAZvm0Kfpdna1lOZaBew=="
+secured: "BVAC3rQompMM5rs+xf4SRvnhSo1cGYfDLwqNhcYmlhFHGClmD+VcDdATMQoiVjvc3TDuAazeRVYTZYcSBxaxHW8BR9AHwdQ0z6chHTiC7pxLhsyguBE3U2tGo/uaWzXjxHsSWsnqh8bG7VItE6uo0R3tuVwYsvE4b02Uke8MbOEPUXzy3XjcOIXMIDITa0pFtvzZUBt6wu8TlBxz1S3n8pZ/7IdBeGrlvLiEUGdH4yFu2LiVOQPugFo9FxkXC6LL71yjyP0RdzlfN/shIPFKVrKTdyygSvRA6MTI1W1AOR7HlS2s7OdpuvcT5ysfTmdgI9Wf1Mkka7ktZtgL3kntgEJ450x4tWvyl8l/BxDKKnYiQUsuA2skkGIWQtVxgxTcakJix0gbEDadGGnlPUrMX2kMUn9a3zmmHEEDZ316nPRU9Sqk7FwCgn2J4kUumzL6neJEjeMBkf9sruJoEWA6PntC8tpXVooYgUO1uZ6U8OMKXuRmIv44kqlYDhYCAyUhl/Cql/c7CE9h0bcSK5Bcyg==;ZT5iYu+UAhdtScfQWAhHDw=="
 ---
 

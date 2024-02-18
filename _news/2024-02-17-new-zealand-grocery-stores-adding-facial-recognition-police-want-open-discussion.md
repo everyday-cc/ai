@@ -24,17 +24,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Ireland to hear from stakeholders on police facial recognition bill"
-    excerpt: "Ireland's Joint Committee on Justice will meet in a pair of sessions today to scrutinize the draft Garda Síochána (Recording Devices) (Amendment) bill."
-    publishedDateTime: 2024-02-13T18:22:00Z
-    webUrl: "https://www.biometricupdate.com/202402/ireland-to-hear-from-stakeholders-on-police-facial-recognition-bill"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
-
 secured: "JwAAMn8xdKU/qXEjppM/VJ056+flKTWLe8/efap5ZACfdTXn422CXHI2Apm04vlJ7Mt3N+z90OA8P/c+iOAwOIfwFCKPr+vEDYu7wjta7ju04sOwuC6Dgg+iW2COYq1Nr5bLyVh8e6wK3MLZkeOfFqVnxZyBSdLJ3UGYEys0ximcRDMCDOpDw0BJONwxFa8W5oqbjYiBD2fry/bp/6DjLOiy6kLM/CZpVv9ebAdcti7GgZvF49uyT2JobUwVCQliME/ExvTSq5f8bDPhIQQOvT9zj4EN6aictMAt+8t6g2JoEabH5buJoSBErGUmFi7k9eUydabDc9swT7y0aD3zeOa5uy2s3qhsFa+N44He61wNE8cZAcepeVySMfQcBqu7bYaJ3p0ihgPKXmH4kLJJDYi1skz10J9phlCvEkgITp+lLriVEoHtlZE16TbMa36CpJlD4t47uunWO4WQm0Yuq2u4v/hkqBW/O8vEmZpH2iHqF73O+luVpgSlQc6yY4BNZeKaJ7BkwiuaJrpVkBOT+A==;Fa7pnqRJsPsIPqDJUZinXQ=="
 ---
 

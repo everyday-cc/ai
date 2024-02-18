@@ -24,49 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Meets Customer Experience: How AI Is Reshaping CX"
-    excerpt: "Technological advancements are changing almost every aspect of our lives, including how businesses interact with customers."
-    publishedDateTime: 2024-02-13T10:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/655516d102d93493722f7f19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Customer service vs customer experience: Key differentiators"
-    excerpt: "What is customer service vs customer experience? Here are the key differences, and why your business needs to excel at both.\nThe post Customer service vs customer experience: Key differentiators appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-02-16T18:00:00Z
-    webUrl: "https://www.ibm.com/blog/customer-service-vs-customer-experience/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
-    images:
-      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/02/gettyimages-1448005049.blog-lead-space-40x21-1.jpg"
-        width: 2400
-        height: 1260
-        isCached: true
-  - title: "OpenAI board chairman launches AI agent startup to elevate customer experiences"
-    excerpt: "an AI agent startup for businesses. Founded with Google’s former head of VR Clay Bavor, Sierra aims to empower enterprises with their own AI agents. This will enable them to take their digital operations to a whole new level. The company has already ..."
-    publishedDateTime: 2024-02-13T11:58:00Z
-    webUrl: "https://venturebeat.com/ai/openai-board-chairman-launches-ai-agent-startup-to-elevate-customer-experiences/"
+  - title: "Rasa lands $30M to supercharge customer service with generative AI assistants"
+    excerpt: "San Francisco-based Rasa, a startup working to streamline enterprise customer service with generative AI, has raised $30 million in a series C round of funding, co-led by StepStone Group and PayPal Ventures. Andreessen Horowitz (a16z), Accel and Basis Set ..."
+    publishedDateTime: 2024-02-14T15:55:00Z
+    webUrl: "https://venturebeat.com/ai/rasa-lands-30m-to-supercharge-customer-service-with-generative-ai-assistants/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 63
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/happy_robot_wearing_headphones_and_handling_cust-1-e1707845401633.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-26-11.48.35-Photo-of-a-robot-resembling-a-friendly-assistant-seated-at-a-spacious-desk-in-a-well-lit-room.-The-robots-metallic-arms-move-with-precision-as-it-t.png?w=1200&strip=all"
+        width: 1199
+        height: 685
+        isCached: true
+  - title: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots"
+    excerpt: "Conversational AI startup Rasa Technologies raises $30M to combine LLMs with traditional chatbots - SiliconANGLE"
+    publishedDateTime: 2024-02-14T14:00:00Z
+    webUrl: "https://siliconangle.com/2024/02/14/draft-conversational-ai-startup-rasa-technologies-raises-30m-combine-llms-traditional-chatbots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/image_2024-02-09_081644969.png"
+        width: 793
+        height: 457
         isCached: true
 
 secured: "zndsb5gTE+K71O1zGLu7DQ7ljdOqZHqj+/c2yFIOao5D0ljXCCrWhLqG51StUA9YVuXZqa1Q+JGYg0/jyY/zuVKboXhbCbCWO4H9EjC2gxD/qX/Q7B36Jgz/wR387WF/OsXgaeC2yQteCUkEijPD1f2POCxfN7rqozast9/Go8cHBMl5WGqcyQd2ViMGGxvulVaYOnbosEJP4NO4g4t8z3DyFKGJU+B/V5vNIwd3D/YR4LhbPLppMjZAEQJv+mA6T0M8cAPkXckf2QMLkUqc1/CtZ+yJhDwnvSU0rOFGTwJDO85DOGXYNj0ZkIrehv8lQFYdm6y/+IFvihMAammgoxNJj4xZYSJmPQR/o5+Ie3Y=;JWNH1+gldthBdljVQsJQcA=="

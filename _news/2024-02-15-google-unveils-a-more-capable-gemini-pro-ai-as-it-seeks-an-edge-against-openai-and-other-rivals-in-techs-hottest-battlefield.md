@@ -9,8 +9,8 @@ ampWebUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/
 cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 112
+published: true
 
 provider:
   name: Fortune
@@ -31,21 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Don't tell your AI anything personal, Google warns in new Gemini privacy notice"
-    excerpt: "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting."
-    publishedDateTime: 2024-02-13T09:50:00Z
-    webUrl: "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/"
+  - title: "Google Rolls Out Updated AI Model Capable of Handling Longer Text, Video"
+    excerpt: "Gemini 1.5 can process far more data compared with what the latest AI models from OpenAI can handle, Google says."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/google-rolls-out-updated-ai-model-capable-of-handling-longer-text-video"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 46
+  - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
+    excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/14/google-deepmind-gemini/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
     images:
-      - url: "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd60e78d0b0630549429ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
   - title: "Google Rolls Out Gemini AI On Ios, Android Outside Of US"
     excerpt: "Google has started to roll out its AI service Gemini AI (formerly Bard) in English to more countries on iOS and Android."
@@ -61,33 +68,19 @@ related:
         width: 560
         height: 250
         isCached: true
-  - title: "Google claims AI advances with Gemini LLM"
-    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
-    publishedDateTime: 2024-02-16T06:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
+  - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
+    excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
+    publishedDateTime: 2024-02-16T03:24:00Z
+    webUrl: "https://interestingengineering.com/innovation/googles-new-ai-model-is-700x-more-powerful-than-openais-flagship"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
+      name: Interesting Engineering
+      domain: interestingengineering.com
     quality: 39
     images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
-    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 809
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
     excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
@@ -103,15 +96,6 @@ related:
         width: 3874
         height: 2583
         isCached: true
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
 
 secured: "eLQODqUn5wj6bIOUF/LgUcIvx8mclca64ONOunol9p541BcYPbqL9H59mgUbpwnPQGzIHgP40QivlI92lrtDpfn6M4bs1a6nDPB2u3/P30yqaweSyP6eJwAr1DgQGz3lL/UKRi7iLRsfl/qzDV9wTw3+TPAgTezHW9rpGpbJ41yHbe2VGidMe78iOYJrnZNbE/gXcmJFAZUwZZoaQqlOTbLqQM605edRj9l9wMfaz9fnp+DZCoHpdwFp4mGunjzmRZoHD803HbXDUmEhCBqNO8fw6BzQ72g9tB/vUj1tH0jZMutWD7mHBLWF9qpm9xI/SIjDHgJhjEIXdLNytmhp5Te+2bQ7kZaDQu456Rht3r4=;L2iOFlsr3cpPnAcq9yXcpw=="
 ---

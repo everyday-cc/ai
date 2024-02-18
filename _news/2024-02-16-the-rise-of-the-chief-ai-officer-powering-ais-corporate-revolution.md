@@ -125,9 +125,9 @@ related:
   - title: "3 Ways We're Already Using AI in Mental Health Care"
     excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
     publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+    webUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
     type: article
     provider:
       name: Psychology Today
@@ -137,22 +137,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/ai-7111802_1280.jpg?itok=THAhA6gt"
         width: 1528
         height: 800
-        isCached: true
-  - title: "AI for Social Good: Revolutionising lives through operational excellence"
-    excerpt: "The transformative potential of AI for social good is intricately tied to operational excellence. Collaborative, sustainable and personalised AI efforts present strategies to showcase the broad impact"
-    publishedDateTime: 2024-02-13T10:20:00Z
-    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 58
-    images:
-      - url: "https://www.forbesindia.com/media/images/2024/Feb/img_228401_artificialintelligence.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
     excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"

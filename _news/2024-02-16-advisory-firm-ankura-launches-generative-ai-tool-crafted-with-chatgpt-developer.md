@@ -69,6 +69,43 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Google claims AI advances with Gemini LLM"
+    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
+    publishedDateTime: 2024-02-16T06:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
+        isCached: true
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
 secured: "AMHTLPfKReI8I3L22x3CWZweXCA7rZtcJBkkmB2GFwOKYHBH8sFFDW9ySeBQcOa4ZNddXpwY6ok8n45/pkOWIdoPvIwWLDUyYujM+hi9mzzKBrsyt5lV9MT83cGFXczgTTvA/7A2rjsrT/6gPzJ3atVe/VTPbCOcJTDxQqf9n8SAXGNJGZIPXA0Eq/exWQ3qBd5BrMJyAbYlRHwRC002wDmMDgJPlu00485zopPRJuZUxJJqFgRPztouSb/nWDY7NCkhwBervxEzfMhfBxkuSfLEP3Rw5tVWuwMDIh/LG5tV28xxwe3WAa8PhTJOT5uH+srdDHhMCg+BUOgEKM5r40ijZhBKHEkGAgKZbLjvq3I=;5bs/a/NBDPynNG5EaWSBXw=="
 ---

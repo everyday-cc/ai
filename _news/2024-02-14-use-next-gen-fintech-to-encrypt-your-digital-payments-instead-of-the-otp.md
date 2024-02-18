@@ -207,6 +207,20 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
+    excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
+    publishedDateTime: 2024-02-18T10:15:00Z
+    webUrl: "https://seekingalpha.com/article/4671238-baron-fintech-fund-q3-2023-shareholder-letter"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://media.gettyimages.com/id/1717393421/photo/digital-finance-evolution-innovative-fintech-technology-visualizing-financial-investment.jpg?b=1&s=170667a&w=0&k=20&c=b_e98EuBq62IQEgFsb7d01Ahi0ji8qlvbePlrHlAIJI="
+        width: 509
+        height: 339
+        isCached: true
   - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
     excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
     publishedDateTime: 2024-02-16T11:49:00Z
