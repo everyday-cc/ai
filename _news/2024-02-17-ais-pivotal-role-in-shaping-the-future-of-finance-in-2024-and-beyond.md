@@ -74,6 +74,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
+    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
+    publishedDateTime: 2024-02-18T04:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
     excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
     publishedDateTime: 2024-02-14T11:51:00Z
@@ -205,20 +219,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
         width: 444
         height: 250
-        isCached: true
-  - title: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry"
-    excerpt: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry - As adoption of Artificial Intelligence has grown over the last decade, new untouched avenues are being"
-    publishedDateTime: 2024-02-13T04:22:00Z
-    webUrl: "https://www.siliconindia.com/news/general/role-of-artificial-intelligence-in-shaping-broadcast-antenna-industry-nid-227845-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/U583M2F6.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "F6lrGRhJIiISw+IEyWd2cZIFBOPRvPuPRD3RSjiRnuB8rr6nrYqo4zfJxqIixbFZyDd0Wukl+is63IPyDqrasFSAoRWGQVCsvCPU2MKOz4oDT1jny1qXgz3LKofak7cmTuZ6Y8e7xh322r05jAdBWIht+JMolOAFuuUqS8WmRw0HCLhj5lI5A7VOelNpXZqWLugE1tm1wv6KRReNQB0DP8/ipU28E0fqM7ZoDGxAsMlwc1gF0+seRlBzfDUh1Il1VhNHpFAPbuWv2ixZZjECjbdmyB37jWO3FXa6JVxr2+L6AcZvJT70M7ivSVJeIWis0tKT9zj+ahrOX+TG5kPY9EwRQ/O3HVP54aeRhWtBrKU=;mpQec+Pe4dOpoa8nMMn2jQ=="

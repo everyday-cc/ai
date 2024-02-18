@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
+    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
+    publishedDateTime: 2024-02-18T04:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
     excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
     publishedDateTime: 2024-02-17T16:00:00Z
@@ -204,20 +218,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
         width: 444
         height: 250
-        isCached: true
-  - title: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry"
-    excerpt: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry - As adoption of Artificial Intelligence has grown over the last decade, new untouched avenues are being"
-    publishedDateTime: 2024-02-13T04:22:00Z
-    webUrl: "https://www.siliconindia.com/news/general/role-of-artificial-intelligence-in-shaping-broadcast-antenna-industry-nid-227845-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/U583M2F6.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "YtwsHFZhVYZEOMz7/lnE8Sy/SeCeKBns5vXgGDCOnRFgbHJOdXqo4LKWBpCK4iwWtossCWkg2pkrTTw6vcrxS9z3SK9mqvnRdpl5XuSAanzCTpU7hr0WL19LyThNipyIXr4xF27JqtCqwlqX4TZUExZYBkORhonJcSVRzIPtEJiTvhY7D/luhoUJjMJtr+aQTIYVxtkibR2YVHUUzt7fT2eTNFdKyOaUiqBsp4hQ72pYnAwJJQUslBNxE8pIUd7ptk2w+KxyV04YiD84yK7O4BDUaUF/W9tJyR7omzJLLDTQG04kloykb1Ww3YkRIiyvW29cYkUMeCX/639f5KoMHM1AZJsDYnoQTZewnq+Kp8FlzHrFhzKUekT2vU4tgxsctb4Xa4WaCbJS9zINhXzsOr1scFnuVRQLKT04dNYDaLLBijC2ZMQRdDAR/x5ddBIyT/36zqaTKoMsLHCayJJMyowKhOHYHqriVN1nhmXJeS3qQqAyKYlz06zU91pC+WwaAcqw7Mng4KMB+3noUSR61g==;PwGPcchSNybCS0gOvN16Vw=="

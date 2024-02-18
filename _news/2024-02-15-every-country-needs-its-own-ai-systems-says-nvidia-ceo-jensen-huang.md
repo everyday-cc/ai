@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-ne
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "AI chips don’t need trillion-dollar investments: Nvidia CEO"
-    excerpt: "Jensen Huang remarked on OpenAI CEO Sam Altman’s plan to raise up to $7 trillion for an AI chip initiative, saying the amount assumes that computers won’t get faster."
-    publishedDateTime: 2024-02-13T04:48:00Z
-    webUrl: "https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
   - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
     excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
     publishedDateTime: 2024-02-14T04:35:00Z

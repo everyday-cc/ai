@@ -2,12 +2,12 @@
 category: news
 title: "Trump rails ‘fake news used artificial intelligence’ images of him golfing that show him putting on the pounds"
 excerpt: "Former President Donald Trump railed against the “fake news” industry on Friday, claiming they used AI to add extra pounds to images of him playing golf."
-publishedDateTime: 2024-02-17T14:45:00Z
-originalUrl: "https://www.washingtonexaminer.com/news/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
-webUrl: "https://www.washingtonexaminer.com/news/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
+publishedDateTime: 2024-02-17T19:30:00Z
+originalUrl: "https://www.washingtonexaminer.com/news/campaigns/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
+webUrl: "https://www.washingtonexaminer.com/news/campaigns/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -26,8 +26,8 @@ images:
 related:
   - title: "Trump rails ‘fake news used artificial intelligence’ images of him golfing that show him putting on the pounds"
     excerpt: "Former President Donald Trump railed against the “fake news” industry on Friday, claiming they used AI to add extra pounds to images of him playing golf."
-    publishedDateTime: 2024-02-17T19:30:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/campaigns/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
+    publishedDateTime: 2024-02-17T14:45:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/2862442/trump-rails-fake-news-used-artificial-intelligence-images-of-him-golfing-show-him-putting-pounds/"
     type: article
     provider:
       name: Washington Examiner
@@ -39,6 +39,6 @@ related:
         height: 1520
         isCached: true
 
-secured: "6IHPKhEUdDBtRaauMlfAfDmajALbjg3EAcyzZ4JRyPJbE78ylv72sXM7eMjHgcJ4M9D6p6s/Mz8yh5uoLq6J1rnX4PjZ2bK7PyD9Aw0Oomjkfc2v1x1Mjfw5TLpJ0kMfzBgvw5rRWlkfsIJBT5q7U4nAlTnMzvBRsbvkCZCPki9zoWdGmaLnHMqGLu+nG3KJQWFqUqKJ2+4I0owv7lrNryyUhqPOoHP5hZ25rNsB+eZSdt9D11wmh/fubUV6euflY6PAH7WElqmDj6XdWGpQrj7fa7Td0CFmOCXbScuF2nUBUsJD8Pxn0joVp3vsRxEYd5FLp1ltzVnBAIwMZb6YmFt4HjHFQJiqOsB65zjtFd0CyZjIXhPnLM2hB5L9LbfqgAoZ6Ft5PwIlGoVpzv471lrR/3sXSoLJFWPT6bLEK030MyXyupZ6lxRo3nwgxvXkYVWTo8PXyKtNQCofsz9k1uqbFdOgipSsjHkyspBQ+MyQzmQIS2PYJZe089vJlpmVUt9TpV8eXEqdkYRKu9ph+A==;k/Ol1EEQkzhD0TfXBzqxfw=="
+secured: "dAwQV4xo6Ij0EOJ3a6gLZno0NdOtlo6PwR51V4iPWkJiaqT8BedhAFr0X9NFQW9xZC9f8wp37WunQKx+WEpPPF+AJ3Ah9UkfyjFXyujBoZbASTnIuP80aLtdZNQwsGynzZvY8feUVWFLL194Osl4fJKZijnJb6pubosrND7yJyfg2FXDLjglFJyUIJF6GoDD+qMPAJ/JednwyIyz+d7najdMFvT6fTujVvplcJiB00LVaCtf1iECI5/wiqbrqVHySJYhrw9/2bDWnsSmTImz5wsyXNhETY30qNQ0eIz7XV5YlfA89c4rJ9oCyys782jV+i9Oq8/2J8Kj6/MsefH3psNRwRi+JESYQOoth5NGRXY=;JIbOPfTDvZvUaeYoC9+WwQ=="
 ---
 

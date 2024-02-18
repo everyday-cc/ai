@@ -76,20 +76,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Penn Engineering joins international alliance to promote open, responsible artificial intelligence"
-    excerpt: "The AI Alliance is a community of researchers, companies, universities, and other institutions working to address safety concerns as AI technology advances."
-    publishedDateTime: 2024-02-13T03:18:00Z
-    webUrl: "https://www.thedp.com/article/2024/02/penn-engineering-joins-new-artificial-intelligence-alliance"
-    type: article
-    provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/9f1a645a-40f3-4f3a-955c-9344321c64eb.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "5YA6DE93KuoF2U56APqLYPmO8nIZlcOXEcNE5BSoYz9JRrSKF0WsLTijU4C96tYeN4FLsHK8sYjKt8G+RsNzk8GbSSO+FZtXXBvuGMVMRm7Ke43MlqQr1jipBTEMFmVABOZzPoiXHJ5dAMAZBfDJ0vFhxLUaPFcGV0yuEbXgRaKIjeCWVBFwA8ssyEcXfS18dmjkvyA6+3jgJ1aDkSIqAv6MXVC2QAu1dP79Fm7bwMLwilJAAN6mnmVnM/NUIx+EiA0VrgCkXWNCX6gi4A+0I2VG7HW0w1ffWTibSL3No7U9Mw3DyyeBo0s6oTiVXE3KcfbZJthISK4ztbGBpK0kn1EWbb5OLqjcexdluZQHJWw=;wHD7kG5EVL4uShsT0FC4TA=="
 ---

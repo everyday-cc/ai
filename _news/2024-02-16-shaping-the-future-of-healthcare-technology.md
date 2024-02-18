@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
+    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
+    publishedDateTime: 2024-02-18T04:04:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 70
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
     excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
     publishedDateTime: 2024-02-14T11:51:00Z
@@ -204,20 +218,6 @@ related:
       - url: "https://images.yourstory.com/cs/21/98e25df018b511e988ceff9061f4e5e7/Imagesjlw-1628749303332.jpg?fm=png&auto=format"
         width: 800
         height: 400
-        isCached: true
-  - title: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry"
-    excerpt: "Role of Artificial Intelligence in shaping Broadcast Antenna Industry - As adoption of Artificial Intelligence has grown over the last decade, new untouched avenues are being"
-    publishedDateTime: 2024-02-13T04:22:00Z
-    webUrl: "https://www.siliconindia.com/news/general/role-of-artificial-intelligence-in-shaping-broadcast-antenna-industry-nid-227845-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/U583M2F6.jpg"
-        width: 570
-        height: 367
         isCached: true
 
 secured: "OvaRhaUEWR6Z0QIFqTsueY3jKAfBZkUS5wYJt6g4p/XVXj1WN8lcpWajvToTugwzIwEd39xknUxmuef6qKfMQrIXPTpAhB0hyv09QyJ40N3ijhcifLeizbb/jcp0KP24avOoS6wbV8so0iBQfekyfVLZ8txHzAEd8EflQnGShzj2La7Na5cXU57unI6nvpxUsFtXBa01M2Jh8/ioYQmYogRnHK09UfNZxAF+d3LHF2HnqE2RhG+uNVF/c407aYowxHOdGMl6BlfR83aUIzBxlEniVJ0RarWXOPZL5y20/LGhDrdxAYozo/UiRggWiI9ETbJQbRO7udFiVNNDLBTQQe5IC/hZPfPnecrrbSvOisI=;b2YvbnKK5i27Zuteff3ktA=="

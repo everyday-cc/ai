@@ -24,6 +24,34 @@ images:
     isCached: true
 
 related:
+  - title: "Baylor vs. Kansas March 2 Tickets & Start Time"
+    excerpt: "Saturday's Big 12 slate includes the Baylor Bears (18-6, 7-4 Big 12) against the Kansas Jayhawks (19-6, 7-5 Big 12) at 1:00 PM ET on ABC. If you're looking to go to this matchup i"
+    publishedDateTime: 2024-02-18T04:25:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/03/02/baylor-vs-kansas-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/TI65MHRSENKDPBGGVAYWLAN2LI.jpg?auth=9213cb296d2115596a9d2ef9424d29c72350fa2bcab9e894c127c566451148ab&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Kansas vs. Baylor March 2 Tickets & Start Time"
+    excerpt: "The Baylor Bears (18-6, 7-4 Big 12) play the Kansas Jayhawks (19-6, 7-5 Big 12) in a matchup of Big 12 squads at 1:00 PM ET on Saturday. The game will be available on ABC. If you're looking to catch this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
+    publishedDateTime: 2024-02-18T04:25:00Z
+    webUrl: "https://www.kwch.com/sports/betting/2024/03/02/kansas-vs-baylor-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KWCH
+      domain: kwch.com
+    quality: 22
+    images:
+      - url: "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/GNU6RHTRDZNAVME4OADBDFRM3E.jpg?auth=5c47db9e9907d1e2cfbb515abf18b5184797dca2a4680062ed6b0cad93bac982&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
   - title: "South Florida vs. Charlotte March 2 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The Charlotte 49ers (16-8 ... Grambling March 2 Tickets & Start Time Florida A&M vs. Alabama A&M February 26 Tickets & Start Time Florida A&M vs. Alabama State February 24 Tickets & Start Time UCF vs."
     publishedDateTime: 2024-02-17T23:27:00Z

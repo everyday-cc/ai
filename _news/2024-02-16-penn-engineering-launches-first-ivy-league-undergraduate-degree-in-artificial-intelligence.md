@@ -63,20 +63,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Penn Engineering joins international alliance to promote open, responsible artificial intelligence"
-    excerpt: "The AI Alliance is a community of researchers, companies, universities, and other institutions working to address safety concerns as AI technology advances."
-    publishedDateTime: 2024-02-13T03:18:00Z
-    webUrl: "https://www.thedp.com/article/2024/02/penn-engineering-joins-new-artificial-intelligence-alliance"
-    type: article
-    provider:
-      name: The Daily Pennsylvanian
-      domain: thedp.com
-    quality: 25
-    images:
-      - url: "https://snworksceo.imgix.net/dpn/9f1a645a-40f3-4f3a-955c-9344321c64eb.sized-1000x1000.jpg?w=800"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Penn to become first Ivy League to offer AI degree, looks to ‘train the leaders’ in emerging field"
     excerpt: "Along with those required courses, students will also have to learn the ethics of AI and what it can be used for. “There’s a couple of different courses that students could choose from ranging from ethical algorithm design to a course that’s taught ..."
     publishedDateTime: 2024-02-16T10:30:00Z

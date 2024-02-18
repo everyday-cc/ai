@@ -64,15 +64,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "AI chips don’t need trillion-dollar investments: Nvidia CEO"
-    excerpt: "Jensen Huang remarked on OpenAI CEO Sam Altman’s plan to raise up to $7 trillion for an AI chip initiative, saying the amount assumes that computers won’t get faster."
-    publishedDateTime: 2024-02-13T04:48:00Z
-    webUrl: "https://www.computerworld.com/article/3712693/ai-chips-don-t-need-trillion-dollar-investments-nvidia-ceo.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
 
 secured: "XlMq4oUrWTg0KoNIt4dArVAfWHboOyAb/4Ca34M1br4eZJr6NMgtNgn0VNpspiwDcxmbabxXdTAS+s9hweBJcQTofezVA9k5j5P/HTNVMPY/symJIpUlLHVJ1xCRyQP1eoVg9tQ6bps2B1LwozklEGABVlHMP+SVrON+fnlg6+gY90BkQPzzK4loN+bBCkNjrWyzphhMJoEiCLB5sH5YFtc9qy7yNLq8qLoANEy6HOLKBnUQOgX82oJE7Gpo/4lVn3JWrPiKgXeAZASy4s0d+mZgZ0LQBN3V5aCIHvqrHS0Vzzb9iYMint7Jiu8wnix5YxVe9Ywe71JQPDiB4aF/xQLRflmy4YJpu4O8QyhCAHZNTHCgJkkXQleLMEoJ6k64ztOls9ltJyuBVhK12xRuoa5Dzk7L1L0d21y/AqgxFqZnMK0Xiux4NzugWbDm+4blicwHrpOyEz5LhCLHmPI7vZ3cLhMfw3MfaJVpqtcNjfqu417enJZgz4cEqNZXo+zxWrQx1oWNPlZPv1vM+Oe8cw==;IKXkKhjji42mdkxKU3OdMA=="
 ---

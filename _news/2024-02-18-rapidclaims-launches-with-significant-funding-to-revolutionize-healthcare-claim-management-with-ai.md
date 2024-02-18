@@ -1,29 +1,31 @@
 ---
 category: news
-title: "AI for Social Good: Revolutionising lives through operational excellence"
-excerpt: "The transformative potential of AI for social good is intricately tied to operational excellence. Collaborative, sustainable and personalised AI efforts present strategies to showcase the broad impact"
-publishedDateTime: 2024-02-13T10:20:00Z
-originalUrl: "https://www.forbesindia.com/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-webUrl: "https://www.forbesindia.com/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
-cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
+title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
+excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
+publishedDateTime: 2024-02-18T04:04:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
+webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
 type: article
-quality: 58
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Forbes India
-  domain: forbesindia.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://www.forbesindia.com/media/images/2024/Feb/img_228401_artificialintelligence.jpg"
-    width: 900
-    height: 600
+  - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -89,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
-    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
-    publishedDateTime: 2024-02-18T04:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
     excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
     publishedDateTime: 2024-02-14T11:51:00Z
@@ -148,6 +136,22 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/ai-7111802_1280.jpg?itok=THAhA6gt"
         width: 1528
         height: 800
+        isCached: true
+  - title: "AI for Social Good: Revolutionising lives through operational excellence"
+    excerpt: "The transformative potential of AI for social good is intricately tied to operational excellence. Collaborative, sustainable and personalised AI efforts present strategies to showcase the broad impact"
+    publishedDateTime: 2024-02-13T10:20:00Z
+    webUrl: "https://www.forbesindia.com/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-for-social-good-revolutionising-lives-through-operational-excellence/91413/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 58
+    images:
+      - url: "https://www.forbesindia.com/media/images/2024/Feb/img_228401_artificialintelligence.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "The Role of Artificial Intelligence in Enhancing Healthcare: A Promising Future"
     excerpt: "Welcome to the future of healthcare, where artificial intelligence is poised to revolutionize the way we diagnose, treat, and even prevent diseases. From robots performing surgeries with unparalleled precision to algorithms that can predict outbreaks before they happen,"
@@ -220,6 +224,6 @@ related:
         height: 250
         isCached: true
 
-secured: "BkVjH41bwPyifFRSDQ6cjrl8gcXVuOuBTg8N+ntMuR09i6eESCn3Pxwj8cz7v/uo76oiEAGfiMGN7EH6jRRqEXnj+4prVuvJmmxarCQEuZY8HKY8woXoiXPqOgUsOBPHmi0IyDOez6GftvzQInme2ao63qoG5IYkHqhKIUaKM7XS1vtu9y8FRsqYsB6cmXxL0LEd9eUrcHbRnu1BwewdhCOYKfd4TFMFi8qpnjeSo+LLWfGOio7RuetjICfZvg9ibbvuK8Aw1HZGwdreeGuwObtQvZHTZdjVnWMVgE1PDAQwfBN/xI/vrdv5sljkuRPGGsapgRdIM0B4HhjDPnrLC4ft9rPaiyd1vZy18sCi68k=;bd/eVQ5QwI1Q9s38+7E5AA=="
+secured: "2m5A7M38z4PQn++oUsSBgoWXe0nL/pTAKu9HoTVqlmIWLqsdw0fVyLotBnOFFaw5d5i3cNvOkoDnPEXx9N3a8m0o1UqUL+dRKMjexKuIiBuKTm1McpBcPr/msiXqLFsaCe/mY0DphZktG7OfeWGVyyVofw3UjOjyORLV7A5jOmYJ443x7HRZ33tCjwqgL+Ucgfw3t23yTN0duLeKo6eYA9mFS61zaF9OpN0vKmOBHiAR5HY/Q41kCxuYShzt7ddy9aVXb3JfbTLS2Ja6wE5RxL+L9lwhEoR5zgqRdW3KiT99xh4Kc5q1EDSJSmd5Pz4RcY6RxSFobr8XGggLrZaUaGRBR73jL88/IdMTHo/ysN8=;gZmG/8dJYyQcy5cpjlhpNA=="
 ---
 
