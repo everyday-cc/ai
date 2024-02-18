@@ -375,50 +375,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-14-meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024.md",
-      "title": "Meet a humanoid robot, explore impact of AI on workplace at ST Education Forum 2024",
-      "excerpt": "A report in March 2023 by Goldman Sachs suggested that about 18 per cent of work globally could be automated by AI, and 300 million full-time jobs could be lost to generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024",
-      "originalUrl": "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/02/14/2021-20.jpg",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T04:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
       "path": "_news/2024-02-13-14-best-robotics-stocks-to-buy-now.md",
       "title": "14 Best Robotics Stocks To Buy Now",
       "excerpt": "The robotics market’s expansion is attributed to significant technological advancements in artificial intelligence and machine learning, a surge in demand for automation due to increasing labor shortages and rising labor costs, government initiatives and ...",
@@ -805,17 +761,17 @@
       "title": "A tiny robot on the space station will simulate remote-controlled surgery up there",
       "excerpt": "Over the next few weeks, the robotic assistant will practice operating in zero gravity. Developers plan to use MIRA to conduct a surgical simulation via remote-controlled technology, with a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery",
-      "originalUrl": "https://www.mprnews.org/story/2024/02/10/npr-space-station-robot-remote-controlled-surgery",
+      "webUrl": "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
+      "originalUrl": "https://www.kuow.org/stories/a-tiny-robot-on-the-space-station-will-simulate-remote-controlled-surgery-up-there",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.npr.org/assets/img/2024/02/10/20240129-miramain-02_wide-271e2c37c0248888d9e595d273e223b17e03375b.jpg?s=800",
-          "width": 739,
-          "height": 416,
+          "url": "https://kuow-prod.imgix.net/store/3027e8178cb986b4feb8b79e9b912c3d.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+          "width": 657,
+          "height": 492,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -825,11 +781,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T13:30:00Z",
+      "publishedDateTime": "2024-02-10T11:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
+        "name": "KUOW",
+        "domain": "kuow.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1343,6 +1299,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-01-combining-robotics-and-ai-to-create-humanoid-robots.md",
+      "title": "Combining robotics and AI to create humanoid robots",
+      "excerpt": "The fusion of robotics and artificial intelligence (AI) to create humanoid robots represents a frontier of innovation that captivates both the imagination",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
+      "originalUrl": "https://www.geeky-gadgets.com/ai-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/plugins/wp-youtube-lyte/lyteCache.php?origThumbUrl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQ5MKo7Idsok%2F0.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-01T11:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

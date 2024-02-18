@@ -3,12 +3,12 @@ category: news
 title: "3 Ways We're Already Using AI in Mental Health Care"
 excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
 publishedDateTime: 2024-02-16T23:16:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+webUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care?amp"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI
-  - AI Ethics
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-02/ai-7111802_1280.jpg?itok=THAhA6gt"
@@ -221,6 +220,6 @@ related:
         height: 367
         isCached: true
 
-secured: "bYjhPbHzRrC/TWv/Bmmj+oq/iAhV6zqR0M98EzLuBAtjxv9/l/piYp4irBG9cHn6hYo08fgzV0BPO9aHsPA2+WZ1oihAhsGSBcIJYjpPvQDJS7szMe/UEPvtpS3qyTYplzQ+huhxWA/Izp9xtt+pBQgV0xCHjZjiv2/08bLzS3H0T93uV2+beKYg/U/UqnIKb2I92e68sidb6yiiVXE4ajiO7DvL7KHxnoMxdZUhTqlEogYGCZ98wglWP99C9+vqClZNjGQIRrLU14WxuhPWJHAM0/kk7v3jOXbsE9nHTpgjSKWVmnJiWckw1MZq/0u5wcJPTw8PjvsCzVNaNMnH2a+XlgHMszVwQ1sSpgc7SujWJMK+wy2FSns8vULU9oKb5to+/WxSXGGLEifVn5KN83xTXLTCDUTv6u2APZ+ZitYxwiaLE8NnH8czjsnAhlgIFe415k/3a+hr26bAuvTeienKuIMgaCHqDyQfKq2wXwQFCeruIfZM+XLLXa0fXSdHmZyn4R0AsbWrLIPxozWGvw==;laOBBb3mHzFYh1+ZiPwLnA=="
+secured: "uY/r5m17KOXvYShyAWHeHlMCNPYKfkV5cm/kPEqPY7OTTki+SljvOU49FUXAPa9JjDI/P4n1/FrXfk8B6l3ZIdeh9G9SStwoBPkUbMkFxTdu2cBop/kWwRzVXcx++5b7QwXsKZ1cswj7OLwhPbJUm2ggIhQTk0PAg8jGNBObBZdgfWehxukkM/IKjAPY+YxWf5c3wVvaGNB7vI9bJAmRBtDdZYeqzFXB/Nrye8I4NdS1dT1+vXCt9zCCWMaFXO6gZK0SwKG401Ozu81eDNYNNd/x9iRjvQ1nZyX2uT3BkS8TJV0TNfOUjpqGrDexSS5N+j6QH+hEeXni/jk6nzJVYK6+aHvHDYwJ9zdxEmIJYc4=;VDSeZWa/KUsxItyRK0Q7xQ=="
 ---
 

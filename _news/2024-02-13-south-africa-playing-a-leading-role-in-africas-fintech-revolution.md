@@ -33,17 +33,6 @@ related:
         width: 2048
         height: 1333
         isCached: true
-  - title: "Study Suggests Existing Laws Sufficient for Regulating Live Facial Recognition in Public Spaces"
-    excerpt: "New research from Brunel University London explains why the use of live facial recognition (LFR) technology by law enforcement authorities does not require new legislation. It outlines the UK laws, po"
-    publishedDateTime: 2024-02-13T00:30:00Z
-    webUrl: "https://indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
-    ampWebUrl: "https://indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/study-suggests-existing-laws-sufficient-for-regulating-live-facial-recognition-in-public-spaces/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 27
 
 secured: "fK78naCCoc8Z+ge8jmaDVwPxSKXalVi5Z4bPQf0gpCMwcBNbMHcdZuG+M6EWvmHOaZMyuucAk62YmFDhALwQ3WhIdLUIY1itU4t5om9P6u9HUc31Ec6bKTI+jpGu6gIBVLIUIwQM3AL5L7FjTVWdKRDU3w9QQKdw/uu0id+fWdePN93XdozSAhicX1ASo900PsANTPW2iPfBXs5ploG11dPjJyU2J0oTh2bVgonvrrvAwkXQiPwlAP1OornsgM9IYK+YijRAoY8UewLDrNWzAxb0f+HZqoGv4K7p7vYjBHcPzfxxQBVcab5UDIo0uOalUrTciCNEF6brEMdYGnFTuExmanvUynDTWK4VKk5tUpM=;Vp5/43jwJ7HS4sA1wMXTMw=="
 ---

@@ -39,20 +39,6 @@ related:
         width: 1080
         height: 962
         isCached: true
-  - title: "Samsung Galaxy Buds 2, Buds 2 Pro, and Buds FE are finally getting AI translation"
-    excerpt: "With Live Translate, users can receive real-time call translations on their screen while using Galaxy Buds, but may need to download additional language packs to access certain languages. If you’re still not convinced by some of the advantages of AI ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.androidpolice.com/samsung-galaxy-buds-ai-translation-s24/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 34
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/08/samsung-galaxy-buds-2-pro-everyday-carry.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
 
 secured: "xcQcRI+z2TuD5E3d4cRpfJVhBSJ1uIyCS4YQ1IgcMRQobY3yTANyELJGsGuilWlQ0O4YZb8BKsvlBGJ3PeiL6p9+iDje9zo7vFVuQ8Yxc4qz/Bsm/R0/MofTmbG8nEosC9YPGdf/0MAOmTCQcFoKmvjasrM2d8Ij46LwOOFcH/cm8FQgESwHoAWvkuwaBeXleBqDEGtv5XfBzi43MHI6SYs0B1hl2uyu9JjvQ31pk2CnPZyM0gps70OT0AyQd0JdNkudI5Chgxlc31l+E7jOzVBs8zbWrvqvpCdbVqqw1RXLhEqW6SsJeMXLLIQ+YDM864HURmWSIv5CbeENnY3NHz5tsWL1edW2VoDepqo85xxM5ZOZo7uN05a1+MGTBfQbT7mxL2pceyo+M0iqE/M1HE7BjeimR/voRKbICDzfeHqcSEHOY/PIfg9DYxpJ+CBk5wIQGDugzBBXghr59oUWmnFpUDwSxuOscmPStuqXVcL2W/2WosSQtsIcZJfRPJqrpeaXODmuWO+9/CymCTlIVA==;pFUcab62JVT0JjKbtpdgxQ=="
 ---

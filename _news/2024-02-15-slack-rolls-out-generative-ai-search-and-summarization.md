@@ -44,20 +44,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
-    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
-    publishedDateTime: 2024-02-13T00:37:00Z
-    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "The AI companions you can have conversations with"
     excerpt: "Tech firms are now racing to release their own conversational AI companions. Google has Vertex AI Conversation, Microsoft has Azure AI, and there are now a host of start-ups in the sector. Meanwhile, Amazon is sticking with Alexa, but planning to add ..."
     publishedDateTime: 2024-02-13T06:01:00Z

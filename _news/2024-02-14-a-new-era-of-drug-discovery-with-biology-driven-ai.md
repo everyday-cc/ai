@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Traversing the AI era of digital discovery and brand growth"
-    excerpt: "HiveMinds, a digital marketing agency under Madison World, partners with brands like BigBasket and Domino’s The founder and CEO credits the company’s growth to its initial focus on startups Eyeing global expansion,"
-    publishedDateTime: 2024-02-12T23:40:00Z
-    webUrl: "https://www.afaqs.com/news/digital/traversing-the-ai-era-of-digital-discovery-and-brand-growth"
-    type: article
-    provider:
-      name: AFAQS
-      domain: afaqs.com
-    quality: 39
-    images:
-      - url: "https://gumlet-images.assettype.com/afaqs%2F2024-02%2F7a05f862-16ee-4b11-ab75-59cd9438cf4d%2FJyothirmayee_JT.png?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "s68qU6PbVXW0O4zdTMhU2BmhU+HoTeB4imsG0nFnVY1tdTajjSmM9xbRBGEuZluK75pyDwHZ0JFLLuvPvw2EHhq8AhRDxJcWOSvq4jZsWkfI+wyo0rZpC+e05IhWDkKDp3zYLx1QqTFBpj6Q7mhnnHn4Imd267xqPt49XzCR3ZxkMKRGLHKMD7fvEP3oHjR1U5a7LyZagx1/mo/+MS6Ngrq99WBzwNhyoiGMUjEjFHe49yRMpzuAKK1xpDCtMeuly48g0FUUnfB2MATwTrJQYY/gUFm1seUKc/PHEjNUioyAWrQ2COWETs5ZI+DHdxh+2Nw9eC3ONtZkqPgoIzStqKASSUXbNgB3VDb0ypTdXI9uq9ZW0JHy5wQh5n6Wo6CmvprYxegIB+OpxVJBwcS/fbqWonSzFlYrBoC8h6jAvdur+n6xxQJwtnB1hEojmEAL4SGXKFQe9nEPqW1MjqqqDAZGba3tEFMaDdPPxJ9y/2EFI6SWxOMutlJ8y5xAFt+Jty93P9d39FTHuSt1HxEeKg==;+1L8xEj1WGrJ6xxU5f0axg=="
 ---

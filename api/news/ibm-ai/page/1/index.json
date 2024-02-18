@@ -10,7 +10,7 @@
       "originalUrl": "https://www.ibm.com/blog/breach-attack-simulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -450,7 +450,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -906,10 +906,10 @@
     {
       "path": "_news/2024-02-09-this-overlooked-ai-stock-pick-is-still-surprisingly-cheap.md",
       "title": "This Overlooked AI Stock Pick Is Still Surprisingly Cheap",
-      "excerpt": "Charting, Price Performance, News & Related Contracts.",
+      "excerpt": "Real-time index price for TSX Composite Index (TXCX), along with buy or sell indicators, analysis, charts, historical performance, news and more",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/indices/TXCX/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -928,7 +928,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T15:19:00Z",
+      "publishedDateTime": "2024-02-09T15:31:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The Globe and Mail",

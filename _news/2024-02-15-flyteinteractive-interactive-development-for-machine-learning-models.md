@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3712922/flyteinteractive-interacti
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712922/flyteinteractive-interactive-development-for-machine-learning-models.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

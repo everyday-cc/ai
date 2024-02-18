@@ -68,15 +68,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 59
-  - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
-    excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
-    publishedDateTime: 2024-02-13T00:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "J0AL2kyTBGB4T4jm5u2hFoFBC7/nxtQtHYvnEMcJpbaLebg4oZuBmYwLPLkcp8aBPtGBCQw+jlXdg88n8xEBWr9RWDaVrfMwcRWWjUzY4rA5B2E2NBGHJvwlvXzX/Oi49dR9AO9eMGHM3PwG/FNfcU1k2X0Oon4K9zbbV7NpM7bydJ+787k3bt4pI6+Dk7mhuXRqhjsdViufOU4N30DRHorMV33IN8HkRwKYzWD2iZ5HtCC9A7Db4DgX9WGrQDEMOV3Mcm6p1gLOAsrXgeIMFfHk9Kzon4E5CiayUBWsEYYCo1viKEqoqb9eadh0Vsu0roae388JdDTz6XuUvh99RU9HKVfm42hVdNIeKstPI4M=;VohHmDgG8SH0qC80NerXQQ=="
 ---

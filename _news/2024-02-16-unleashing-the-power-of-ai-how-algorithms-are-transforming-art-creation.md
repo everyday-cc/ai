@@ -33,20 +33,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "AI Translation For Central Stations"
-    excerpt: "The company’s software, VerbumCall, can enable live, on-the-fly translation between caller and central station operator. LAS VEGAS – Imagine you are a security call center operator. You receive an alarm signal and start calling the customer’s phone tree."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.securityinfowatch.com/alarms-monitoring/central-station-alarm-monitoring/article/53096429/ai-translation-for-central-stations"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65cbe7a803402c001efdede4-saul_leal.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tulsa Organization To Host Educational Event On Artificial Intelligence"
     excerpt: "Greenwood\" is taking place on February 22 and 23 at the Greenwood Cultural Center. It is open to anyone who wants to learn about artificial intelligence."
     publishedDateTime: 2024-02-16T10:23:00Z

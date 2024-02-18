@@ -71,15 +71,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
-    excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
-    publishedDateTime: 2024-02-13T00:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "PgqVhhu6DPqJ8392B2qI7KHj3M6/pJScO3x21SmpKKFkQBnv7irQkvU+AjV/vodZQGnty1adx+EsbIDo2//vxoQjeZzP7xS7jjtUVhJobVbYVLFUfJbuznMW3mQ8U88Wdv5CIUDfV5GlAXsI+egWBsFDqYqW8hFS3ObQstaMYQBwptqU9HmiPWQ4cLTdFrEMpUI/PklCSjiPO3TVc5o3UvGl7ofJxxoxmUO1zrAA8yoqyrKbrtdpBp29BtI7p/ir1fGd3geS2ATWaGdqH/ERSJyE2oXY3TBquITgH8lIzVBDeok2tdV2vE5c7QC3CdrfhidnYS1OiQfVq2B4f1/BIC8LuhUdPX1ZH3K3IVNQCHYGLavHqRhy6x69eo6tHJThbne3BcR35npPds4HH4sjAoivsnGO3qEBGGtClAfwa11LLT58q93qfEIIJLGYifkY23dOVVY+8gIV0uMoyQn95w8fkXLGXH5eFBhIpBD3nl4X8t533kksfBvApSl5Gm3AtMh4uqb3p3Zg5XPsc06sLA==;oGqsDaohT8+gEsG+h42u+A=="
 ---

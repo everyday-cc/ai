@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Digit
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-02/SisAI.png.jpg?itok=m8wqexSK"
         width: 1528
         height: 800
-        isCached: true
-  - title: "Best AI stocks in 2024 for performance"
-    excerpt: "MicroStrategy is investing in enhancing the AI capabilities of its MicroStrategy ... the company’s advanced analytics capabilities into Azure OpenAI Service, which will help businesses maximize ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://www.usatoday.com/money/blueprint/investing/best-ai-stocks/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 41
-    images:
-      - url: "https://www.usatoday.com/money/blueprint/images/uploads/2023/06/09065849/GettyImages-1494623409-scaled-e1686293964309.jpg"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "lpwMSqvN1nb22yyJigD4KeNYHhl13fSY9cR2FN2ogydQw6eLC/uVjMUpadllCkM71uuMVkL7cArR9MgonP2czq40jkhu2tVCzgalCLFBqGpMjJ5NtCGR5rJTBjEicHr3/XUEJA+g8EAGiA5JccuIhrOASw10SW3V4SBSpW3B+9byp9UYbx+IuBdrjv4AydH9I4OQnCy5i9vzfr2o2oXsktCn+LoOlISO67/PF8TVRyvGPaXlv61O1WnzjcI24VzdxiNauRlJuwW1MXl65vSG+t0HtjqqksvYCOTrzNHQUKwOrCYRERbvvopBOvwIVHt62KUO46D7qeysXbHnsBz2yAyJIXQvnqsyaAr4RnF8SU8=;QKuCfgxJtAgOWhEmPIdHIQ=="

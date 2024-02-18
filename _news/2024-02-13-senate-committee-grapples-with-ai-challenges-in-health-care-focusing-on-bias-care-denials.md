@@ -26,17 +26,6 @@ images:
     height: 372
     isCached: true
 
-related:
-  - title: "Singapore becoming AI hub with commercial models in local languages"
-    excerpt: "paving the way for more advanced and efficient natural language processing models in the future.” Teo added that SEA-LION is open and can be used by companies seeking to do business and reach the Southeast Asia region. According to data from KPMG ..."
-    publishedDateTime: 2024-02-13T00:00:00Z
-    webUrl: "https://cointelegraph.com/news/singapore-ai-hub-local-languages"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 19
-
 secured: "WOFE70mu+aimwFlNN85bI8aLdMqdox9PG6fCisSFZWnDvrcUagkF5gmudC88UPaJapnZFbi/OghGIrXAS/RQGKoQEYKBwncCztAa5Nmfk8yUcrJXB7A45WxtoBbHC20QWBa6FWG4QxCg69wDP9gUAdRrZwOMxA0+IYDfm4TKkX3yX68cVhu1BO1cVxPLZ48qogIN2985LMyfroSxADb15rErgKuyXxK/46+pG4SekI6Vzc50RYQSj19ox2mdLRpIsZYlZxUXPDXuiCQPEjLZGUVNGAd8CNiwsBhNBtG0utUs7A8mtJiD+MzM4iAArlqBhd3/wmMCxggZWWLHJ3cr7vcZJ9u0I7rEOX+fICaLnvsx7TvYXPUucZ1bhlreD4+v8NhFMQwHLnqZEDBz3AhUf4pwuazkOy8zB9muGzOwToAFqRWKKCR7S92R0YVHtjfiKuESLjZpRoKKniF5AoweaYEALzsV/1IbJqtUGjXuo/nI6Fb5DKpxo/NYEdscCzQWveY5ME+nezbwdIc96aj37Q==;VGjaM6wrqCo3Ien0FL/mbA=="
 ---
 

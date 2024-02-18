@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/breach-attack-simulation/"
 webUrl: "https://www.ibm.com/blog/breach-attack-simulation/"
 type: article
 quality: 102
-heat: 105
+heat: 108
 published: true
 
 provider:

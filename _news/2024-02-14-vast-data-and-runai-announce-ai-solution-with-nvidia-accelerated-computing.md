@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Thanks to AI, Azure is Closing the Gap with AWS"
-    excerpt: "Microsoft's embrace of AI is closing the revenue gap between Azure and Amazon AWS as the two firms battle for supremacy in cloud computing."
-    publishedDateTime: 2024-02-13T00:37:00Z
-    webUrl: "https://www.thurrott.com/a-i/297715/thanks-to-ai-azure-is-closing-the-gap-with-aws"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 71
-    images:
-      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/2021/08/azure-logo.jpg"
-        width: 1066
-        height: 600
-        isCached: true
   - title: "Slack Rolls Out Generative AI Search and Summarization"
     excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
     publishedDateTime: 2024-02-14T16:51:00Z

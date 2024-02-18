@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
+    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
+    publishedDateTime: 2024-02-17T23:06:00Z
+    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
+    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 57
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
+        width: 720
+        height: 405
+        isCached: true
   - title: "OpenAI debuts Sora, a tool to make instant videos from written prompts"
     excerpt: "The maker of ChatGPT on Thursday unveiled its next leap into generative artificial intelligence with a tool that instantly makes short videos in response to written commands."
     publishedDateTime: 2024-02-16T03:38:00Z

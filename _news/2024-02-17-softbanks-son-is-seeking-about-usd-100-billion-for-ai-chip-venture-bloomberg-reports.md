@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-components/s
 cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 880
         height: 587
         isCached: true
-  - title: "SoftBank Shares Climb Again With Arm’s Explosive AI Rally"
-    excerpt: "SoftBank Group Corp. shares surged for a third day on the explosive rally of its Arm Holdings Plc., the chip designer that has almost doubled in value since making the case last week for how it will benefit from the artificial intelligence boom."
-    publishedDateTime: 2024-02-13T00:18:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-13/softbank-shares-climb-again-with-arm-s-explosive-ai-rally"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "JrqpAVz6zy6I0M7vKJDruuCGriVnrg/vXhr1ouDjZzDzESkhYB4U1b/qFCU1QCBt5o+jX35WnMzo0hM9XBHyZlopMWlNSoAoH3oJGPkItT35QFMAudpDEeOEMzHyIXAQN4KxKZlt3TkPR78m0pcBO5Nr1DD7SzQBf8DnuRm7cPPfkNC34aGUCnrn7SdKWpjUkTjDp1tqG4lcGIE3ypDXl6OtUf8BOEYczRv1etKYHVZjF96uB1UU3itNUPa9kzz8btj2dLRMRo8l+tS4bUZg3LflRL7w8xjwpnNaUby6mPz1ZW/U4B+gzZ1XqJTewtNeJ9dsqHqXbHZTxhHz19RSmU7ZIrdoXXK1NY3ZnfapO+c=;wq19RgFBQGCWEW53/oARag=="
 ---

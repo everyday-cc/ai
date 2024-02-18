@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
+    excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
+    publishedDateTime: 2024-02-17T23:06:00Z
+    webUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/"
+    ampWebUrl: "https://www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/ai-tools-openai-reveals-sora/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 57
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/Sora-home-Cropped-trim-sm2.gif"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
     excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
     publishedDateTime: 2024-02-16T16:14:00Z

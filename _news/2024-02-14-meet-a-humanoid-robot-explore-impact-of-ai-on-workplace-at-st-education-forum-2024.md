@@ -7,8 +7,8 @@ originalUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explo
 webUrl: "https://www.straitstimes.com/singapore/meet-a-humanoid-robot-explore-impact-of-ai-on-workplace-at-st-education-forum-2024"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Straits Times
@@ -34,11 +34,27 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 67
     images:
       - url: "https://storage.googleapis.com/mmstudio-images/gallery/JWCf3hd96gY1gRkT5qBPAQm2QWo1/1708097809119.png"
         width: 1597
         height: 1060
+        isCached: true
+  - title: "HR-X annual conference begins with focus on AI impact"
+    excerpt: "Muscat: The annual conference (HR-X), organized by the Oman Society for Human Resources Management (OSHRM), in cooperation with the Ministry of"
+    publishedDateTime: 2024-02-13T06:06:00Z
+    webUrl: "https://www.omanobserver.om/article/1149561/oman/community/hr-x-annual-conference-begins-with-focus-on-ai-impact"
+    ampWebUrl: "https://www.omanobserver.om/ampArticle/1149561"
+    cdnAmpWebUrl: "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1149561"
+    type: article
+    provider:
+      name: omanobserver
+      domain: omanobserver.om
+    quality: 59
+    images:
+      - url: "https://www.omanobserver.om/omanobserver/uploads/images/2024/02/13/2578781.jpg"
+        width: 1000
+        height: 586
         isCached: true
   - title: "Exploring the Impact of Artificial Intelligence on Everyday Life"
     excerpt: "Welcome to the future! From self-driving cars to voice-activated virtual assistants, it’s becoming evident that artificial intelligence (AI) is reshaping the world as we know it. But what exactly is AI,"

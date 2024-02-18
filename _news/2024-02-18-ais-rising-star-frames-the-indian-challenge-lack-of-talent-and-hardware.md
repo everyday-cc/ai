@@ -1,0 +1,31 @@
+---
+category: news
+title: "AI’s rising star frames the Indian challenge: lack of talent and hardware"
+excerpt: "As India looks at unlocking opportunities around generative artificial intelligence (AI) with plans of setting up computing clusters domestically, the country and its start-ups face two key challenges: the lack of “hardware accelerators” — hardware that specifically handles AI requirements — and a shortage of talent."
+publishedDateTime: 2024-02-17T23:00:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
+type: article
+quality: 58
+heat: 58
+published: false
+
+provider:
+  name: The Indian Express
+  domain: indianexpress.com
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://images.indianexpress.com/2024/02/perp.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "0buLxpp3h6i3a1TKlviVU2C7aas0grO1EGcnOuJJ6cxvfmOSRcOCb18dkZdsQqaSWws9JhE9gJfHhd5Wd2HcCa9rcmcxNQeBPX/zFLRcDfdDJOl9Y7g6dd4ybZm1jrY3q44hCBa4zUQEi80LSwoqXYROmlgeZwmUEEdjacOgKvxnSTG0XMhYS4J5PiFE7DjN09QUCtZ+kXSV4HdaP+Xw/slPNQjgyFmMfyCc1TkZGadHc7qR4rAopR5jiffwhR87svtWj1NhPdoOhBbOJljiP2hwqZ478NRHcSR1oSwJVgIQr9E0PSOAhuQuaTrCLXk6qCnMfJ1EMUaDxke4VYa+Yp+yChmg4E3OorSosNIvc2o=;5xhKXI5IMxglO+bYV+CcAw=="
+---
+

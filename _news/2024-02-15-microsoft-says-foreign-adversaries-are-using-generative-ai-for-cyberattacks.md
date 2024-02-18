@@ -198,20 +198,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Copilot Studio Enables AI-Driven Conversational Interfaces for Business Applications"
-    excerpt: "Microsoft recently announced the low-code tool Microsoft Copilot Studio at Ignite 2023. Copilot Studio users can both build standalone copilots and customize Microsoft Copilot for Microsoft 365 — thus using AI-driven conversational capabilities for ad-hoc enterprise use cases."
-    publishedDateTime: 2024-02-12T23:53:00Z
-    webUrl: "https://www.infoq.com/news/2024/02/copilot-studio-powerva-available/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 42
-    images:
-      - url: "https://res.infoq.com/news/2024/02/copilot-studio-powerva-available/en/headerimage/generatedHeaderImage-1707698005856.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Drive sustainability transformation faster with new data and AI capabilities"
     excerpt: "Announcing new data solutions and generative AI advancements with Copilot in Microsoft Sustainability Manager. Learn more."
     publishedDateTime: 2024-02-13T17:35:00Z

@@ -56,20 +56,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 49
-  - title: "NVIDIA's new RTX 2000 Ada: entry-level workstation GPU, with small form factor design"
-    excerpt: "The new NVIDIA RTX 2000 Ada workstation GPU features the AD107 GPU with 2816 CUDA cores, 16GB of GDDR6 ECC memory on a 128-bit memory bus and PCIe 4.0 x8 lanes. Not bad, considering NVIDIA is charging $625 (before taxes) for the workstation GPU."
-    publishedDateTime: 2024-02-12T23:14:00Z
-    webUrl: "https://www.tweaktown.com/news/96134/nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 32
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96134_81_nvidias-new-rtx-2000-ada-entry-level-workstation-gpu-with-small-form-factor-design_full.jpg"
-        width: 1500
-        height: 843
-        isCached: true
   - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
     excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
     publishedDateTime: 2024-02-16T07:54:00Z
