@@ -59,6 +59,20 @@ related:
         width: 1347
         height: 900
         isCached: true
+  - title: "This iOS Trojan Is Harvesting Facial-Recognition Data"
+    excerpt: "A cybersecurity company has spotted what might be the first iOS Trojan that’s designed to steal facial-recognition data from users. The iOS malware, dubbed GoldPickaxe, has been targeting ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://au.pcmag.com/security/103863/this-ios-trojan-is-harvesting-facial-recognition-data"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/t/this-ios-t/this-ios-trojan-is-harvesting-facial-recognition-data_1ymz.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New iPhone Malware Steals ‘Facial Recognition’ Data—Report"
     excerpt: "Yes, your iPhone is more secure than Android devices, but no, it’s not impervious to attack. A new report has suddenly warned Apple users that a dangerous trojan is stealing facial recognition data from iPhones to target users’ bank accounts."
     publishedDateTime: 2024-02-15T22:46:00Z

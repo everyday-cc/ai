@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all"
         width: 1200

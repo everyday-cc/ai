@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -117,7 +117,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -266,7 +266,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-robotics-automation-companies-the-ai-bot-thinks-have-10x-potential-1033068561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "",
@@ -742,6 +742,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
+      "title": "Microsoft: Preparing For A Quantum Leap",
+      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace",
       "excerpt": "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p",
@@ -1055,6 +1098,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-dhs-is-recruiting-techies-for-the-ai-corps.md",
+      "title": "DHS Is Recruiting Techies for the AI Corps",
+      "excerpt": "The U.S. Department of Homeland Security is recruiting dozens of artificial intelligence experts to integrate AI abilities into government work such as defending",
+      "sourceUrl": null,
+      "webUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
+      "originalUrl": "https://www.govinfosecurity.com/dhs-recruiting-techies-for-ai-corps-a-24297",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/dhs-recruiting-techies-for-ai-corps-showcase_image-10-a-24297.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T22:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HHS",
+        "domain": "govinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-microsoft-ceo-satya-nadella-in-india-to-meet-with-villagers-helping-develop-microsoft-ai-tools.md",
       "title": "Microsoft CEO Satya Nadella in India, to meet with villagers helping develop Microsoft AI tools",
       "excerpt": "Microsoft CEO Satya Nadella is in India to meet with villagers helping develop Microsoft AI tools. Learn how he aims to provide skilling opportunities and make technology accessible in under-resourced languages.",
@@ -1322,93 +1408,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-makes-azure-openai-service-available-in-government-cloud-platform.md",
-      "title": "Microsoft makes Azure OpenAI service available in government cloud platform",
-      "excerpt": "The service is live on Azure Government Tuesday while the agency pursues FedRAMP authorization for high-impact data.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "originalUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2021/09/Microsoft-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.md",
-      "title": "Microsoft, Lenovo, Big Tech Companies Sign UNESCO AI Ethics Recommendation",
-      "excerpt": "The tech giants will be required to safeguard human rights in all stages of AI development, design, acquisition, sale, and usage under the terms of a new agreement signed by the tech corporations GSMA, INNIT, Lenovo Group, LG AI Research, Mastercard, Microsoft, Salesforce, and Telefonica.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "originalUrl": "https://www.techtimes.com/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435738/unesco-unveils-first-ever-global-guidance-on-generative-ai-in-education-research.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301367/20240205/microsoft-lenovo-big-tech-companies-sign-unesco-ai-ethics-recommendation.htm",
-      "publishedDateTime": "2024-02-06T03:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

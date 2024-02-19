@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-18T19:14:00Z
 originalUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/"
 webUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all"
@@ -90,6 +91,6 @@ related:
         height: 300
         isCached: true
 
-secured: "gWLddAk7H2ZhS6R06lYy4zDtmZpB3AYCsLDStA2HJH6wkoRBXLP1R3oxaXQJaFZVpMSTMIf52bHJgHJyJTvg5SHdfKSXEKOk4TrWmlRw5n8YHzX61zulQQ9TGvYTTNwiobyg9YW1VqjMLhzmwpU4m93m+qWP1oTNVtbH3yy7F+X9qoc4+fXoiKyxqXxM/fNhcCYlklWVPta2LhN7ZNNDKPzdbarkZkVBnMBCW9PQj04gVFPHQ069nwkzDrOLDuLhhundA/9MdcNa4MWQpwoS54L1GNmSPQ41JvCfY29BFTrLnMSihaMLHR8XaW8GVzelOEn49MRu1UR0C2QCkvKDPusm0mHlWhttDQCqLB9bQFk=;IMwNgNM3LSZLRI3sZwL7Kw=="
+secured: "Oc/CPo54Mf56mydNLIl1DdrRp8aGetCRYXnREAOYYfOkkHAXty9DfENyhRUJTHxZW2aVG+zqM5u6ZnU4uS3pFS36yAkaTok2MZaGaP+edxVP3C8IkFrm15703GxXdG264holfxgDFMS3mFxml2lHBRdziPvAqZWqqOtiOZ0Ez8sj238IljBz4Z0VnHTIMEoCH+4fAxdAMO3c6hmDkVq1JqGy3KvjgUhb5A8K1zSR3PedxXd+lmnt25Z5hHgRZ5mqVtDRBiImLHwBqPl+pBLpXz+Lxf/kdmPSzwrppGL179ziy7fCzAH5s5xbuSAhUtAS8RF+/tAP+DCw6wmnVoeNOlxsv7nnAMPs1WKIgX0qpJNkldjgdLs7LI8tOP9HChjuJwGGV44bglHZJZnqDXu5X0Css21a3zoCqD1TD9fIUyYZMZnYGcMm/BXSpHy9IueprADymX1qCW7HLs20TtmTidAlDpfB15lGwMbpRCNhVsbCdUFkRgDg7KsWKR3xBSoZ2AFDdCQWmr0kWX4ydPapgQ==;dwXxzRGWvTr5N9Ed8YMAiQ=="
 ---
 

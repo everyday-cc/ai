@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft kicks off .NET 9"
+    excerpt: "Major update to Microsoft’s development platform, now available in a first preview, will focus on the development of cloud-native and AI-powered applications."
+    publishedDateTime: 2024-02-14T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.html"
+    ampWebUrl: "https://www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/shutterstock_402603583-100960903-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AMD’s Instinct MI300 series AI chips aim to redefine AI computing for Microsoft"
     excerpt: "In a bid to revolutionize the AI computing landscape, AMD is set to introduce its latest innovation, the Instinct MI300 series accelerator. Reports from Windows Report suggest that AMD is poised to supply this cutting-edge technology to Microsoft at a reduced price,"
     publishedDateTime: 2024-02-14T04:44:00Z

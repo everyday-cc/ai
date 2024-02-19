@@ -3,12 +3,14 @@ category: news
 title: "Can AI porn be ethical?"
 excerpt: "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI"
 publishedDateTime: 2024-02-18T11:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
-webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
+originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=upstract.com"
+webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=upstract.com"
+ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Guardian
@@ -22,6 +24,12 @@ topics:
   - AI
   - AI Ethics
 
-secured: "iO5BdrTXxnK+jUVWrDtr9fJgBx0f0zscIf3arH1akI0zNYSDJSQbQWfHUfwYA9sQUt+oZUsiWFaLDWwZ4Sx0Aao346Dx3YeC/bKV2JxUJT10ElTiZQygRyaK/nnesMdmeP3Jz9xR5GJqVoyx8mpKlcLAogdp7BErkao6nLlwKD8YR5JoDDxhSt+gn/VRAd+vtWEv8eNdSQLj3RH1BPYPtcA0VCABF0WJ7X+GL3Na6aypNe/ggiuXesVm5Tw6kZL4586v8XpoKIfa0psKTFblqkGUkAH7fY87glbYuoyAe6fJur7tVd8WSIYiAZOqVG/A5MbKNuFWh9q9v1o83Hx0x4uqVLKOGtrXI8Uh1xZcXGcyiYHpwnTkzVOHLRy/uzcbGFbyIAxfJKnQZ5FDgiPAxHHEwxQNHl7RiAOgmlWrbngtLo1z08yP/aB/9Q9MfmoM+SfieEdzoXQlB4h4syDwWSca/5E7evMk555XWRTQviPTW74OugH0Z24YS37oq+tC7VPJbbYbhPbimEpm6aWcuA==;gELW4vvQcjE3So3hErdV4A=="
+images:
+  - url: "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "rB4azI3LTeNA9VThSMuCDfbmuWZklCT01iZ88HbHRVSITobg9gKs9LQpWTz2FeqcAUKE0z1PcR+OlvlUnYQ6g+/674FLU1tB+eNmT5OaDmI/Gl+11G4hq4A7NLc+aG8bfYquk/Ss0QIM2LbODDLCoEIkEejoFS5qYET6c3uVY+IrgcrkESeY6l2PVBnxv57T7yZmY+HAi54zNCmkkrU+fkEQcO3gsTB6PV3NBPOmdwCtPtuUdtWyXX/4AnsCBgIyJHZcL6kG7aI9IR8vchH6dWuGx4YS1/Xay7+na6L7GdvGeA1HFcrsBJLyZPgsnzLskF13+0WwlNtIiCkHIeWQPLXEYsWLlHER3q6PCJWZQyE=;ydUBK64U/LgEGU5oixGdAQ=="
 ---
 

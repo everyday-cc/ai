@@ -28,6 +28,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Top IT Skills Trends in the UK for 2024"
+    excerpt: "Discover the latest IT skills trends in the UK for 2024. Gain insights into the in-demand technologies and skills that will shape the future of the tech industry."
+    publishedDateTime: 2024-02-16T01:16:00Z
+    webUrl: "https://www.techrepublic.com/article/tech-skills-trends-uk-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240215-tech-skills-trends-uk-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "pU8e0BhgtOGAsxOxsG0Gh4+lzJ+mUmocPRdw5X8vk1efQOfld4kI+bwFFJkdtS5gGXOVFZZqZ4MVL8u25fmZFXD+k/xf7O65J9VD8Bv+qVFDxUkOzeu5zy6doW9jyHgWTUBQ/PyMtWajJIlOyes/4ErKsPn3xhIFKbprHTi30trGQ73KigHY62nQefTLBFU6t+I3GINfZYG62YnZ9jP1n1lDdwaQX5AIXyxnMYSEWtRei1YdXIfzvKoUbZeMts06giuqa8CHuqbiy+4SLz3WGlmhCQpeduR7SnxbYaa3J9v/MxjzCqRWQxE6ciZXVxNmRojCrjvxwG0WHiJyE4UjxO3BISb6zVbcPPZCaK9rdJSkqBfDx+eytmsb5nXBUFD3gXtxx4xoRsQXE8FJAvIPaKZa71/7gpX+NSKL/xkzy6423tsJYgJLh+I4vi1SaXfDcgblg61ExrvNIZuXGazfQA+3679oCChaRpdaMX8VVVQ3K3Clnk6w8xB+djy7vWrVdwK7zeMCe/HgMrY/Tljeig==;2a2LcA8rmbc12zny295uSQ=="
 ---

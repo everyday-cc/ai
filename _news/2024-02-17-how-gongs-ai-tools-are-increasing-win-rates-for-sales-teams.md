@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-r
 webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 type: article
 quality: 86
-heat: 138
+heat: 136
 published: true
 
 provider:

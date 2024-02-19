@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 226
 published: true
 
 provider:

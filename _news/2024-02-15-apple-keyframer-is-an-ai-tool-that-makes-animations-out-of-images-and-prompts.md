@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs"
-    excerpt: "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences."
-    publishedDateTime: 2024-02-14T01:05:00Z
-    webUrl: "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 61
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Apple's Latest AI Tool Can Animate an Image Based on Your Description"
     excerpt: "Apple has made another addition to its growing AI repertoire with the creation of a tool that leverages large language models (LLMs) to"
     publishedDateTime: 2024-02-14T09:07:00Z

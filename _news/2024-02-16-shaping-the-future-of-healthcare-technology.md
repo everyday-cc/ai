@@ -159,20 +159,6 @@ related:
         width: 646
         height: 250
         isCached: true
-  - title: "How challenges in AI, cloud computing integration can be addressed"
-    excerpt: "The various benefits of AI cloud computing integration outweigh the challenges. Though issues like data privacy, cost management, model training, talent shortage, and observability persist, solutions are available."
-    publishedDateTime: 2024-02-14T02:30:00Z
-    webUrl: "https://yourstory.com/2024/02/challenges-in-ai-cloud-computing-integration-saas-data-governance"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 39
-    images:
-      - url: "https://images.yourstory.com/cs/21/98e25df018b511e988ceff9061f4e5e7/Imagesjlw-1628749303332.jpg?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Fighting Fraud and Financial Crimes in the Generative AI age"
     excerpt: "Generative AI also holds the potential to transform fraud and financial crime compliance. By incorporating machine learning and network analytics into anti-fraud and anti-money laundering systems, organizations can significantly reduce the number of false negatives and positives, thereby enhancing transaction monitoring efficiency."
     publishedDateTime: 2024-02-14T09:40:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ce8fd198b0a0a8507ed794/0x0.jpg?format=jpg&crop=1703,1138,x762,y425,safe&height=900&width=1600&fit=bounds"
         width: 1347
         height: 900
+        isCached: true
+  - title: "This iOS Trojan Is Harvesting Facial-Recognition Data"
+    excerpt: "A cybersecurity company has spotted what might be the first iOS Trojan that’s designed to steal facial-recognition data from users. The iOS malware, dubbed GoldPickaxe, has been targeting ..."
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://au.pcmag.com/security/103863/this-ios-trojan-is-harvesting-facial-recognition-data"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/t/this-ios-t/this-ios-trojan-is-harvesting-facial-recognition-data_1ymz.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "iPhone Devices Under Threat as New iOS Trojan That Targets Facial Recognition Data Reported"
     excerpt: "The trojan affecting iPhone devices was discovered by cybersecurity firm Group-IB, which also named the malware."

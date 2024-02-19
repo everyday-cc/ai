@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Weekly AI recap: OpenAI unveils Sora, ChatGPT now has a ‘memory’"
     excerpt: "Altman has long floated the idea of starting his own GPU venture amid chip scarcity and cost. The market is currently dominated by US chip manufacturer Nvidia, which is both credited with inventing the term “GPU” and has seen its market value skyrocket in recent years as demand for its chips has steadily increased."
     publishedDateTime: 2024-02-16T16:14:00Z

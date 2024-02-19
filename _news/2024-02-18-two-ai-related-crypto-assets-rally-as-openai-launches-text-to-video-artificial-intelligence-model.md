@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
     excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
     publishedDateTime: 2024-02-17T23:06:00Z
@@ -122,6 +136,6 @@ related:
       domain: seattletimes.com
     quality: 20
 
-secured: "vdLAJgWOpllu28HScHB9fh2pJu0QwJy3R+OwYTIhogEkHTi5nU32G4zNZMZB9SC66+5bmzRheFGUS/oPvD2HpQvUbfuiENOdnG2jymkQEXfc6QOfDDRMLF6oxv3ZhQ+KRQC/JBHfVfaErmXHMWlp8sgKbKUoOXOdWxSyJpG/cwnE+5yfLh+AFE4dKwzHWxz/e3js2oHfEVrZ2mniSSpAjndaDPSiikrYXdWA5TCi2FdnuvwjZkVJ3wD5DN4F46J4p17fodrJKUl7hZnfSh2/2yfVSjIQ40HvWTZXGRuLl9AGcVjNfvUkOBIA0RI/X7FSLqSl888BBpcrWOW4Ct9mB3y7CRpsoGguX2yWAXE7W8M=;KHnz5FBpkRsd8OiqRZEqoQ=="
+secured: "umIyg9pH1yE7Isth7Pe+yzUaovSYgRsf9V0nJo2x6QXGQvBUF11i1z7OO4Iqp7zgOAU4xqqx4Vc2bJ6nGkEmG8l9CXjApuEB17PlpzDLeDtGV6mOqXxfo1xacOq1TJg67PSqH2ja+9mdTCatEscxgcqbRYGujkGJL1H6sMWYD4XM1vtOQJBBREJluj8dJ1zcGUenKkgrtyzsCkGW6tgO3WE3r/vRRXGx+aTd5+EFUPW+arJO3fL+z5w3fIr3M+aNO8lrEt+iIWYxbLbRYKeOCFGHKu/qniBEMGRx1AhPTiZMcaWA0Mc9JNJXTvaKHnWH9MVRXv0gMRrxELOYlgT9SjC/NePwfw44bIQWYwIR8610OCdtlnO50uCvSUkMRmNdOpTTpM647OcVUHbSvtVoCDIIqGvy6hJ/fEOqdw1JREiDFm+3nBqyIfR4Fm+xa9d7uFv0onn7XjRxW9+/u6nsR5lr0UKN7QPcbB8iGm4RSkkivRA8vM5ZDAAFQm1MOmHVrtd5x/2ZzxxaLS0BQ3+uFw==;6/Sbu0tAIIDjoysKlfkIEQ=="
 ---
 

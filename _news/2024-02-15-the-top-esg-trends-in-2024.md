@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/the-top-esg-trends-in-2024/"
 webUrl: "https://www.ibm.com/blog/the-top-esg-trends-in-2024/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - IBM AI
 
 related:
+  - title: "Top IT Skills Trends in the UK for 2024"
+    excerpt: "Discover the latest IT skills trends in the UK for 2024. Gain insights into the in-demand technologies and skills that will shape the future of the tech industry."
+    publishedDateTime: 2024-02-16T01:16:00Z
+    webUrl: "https://www.techrepublic.com/article/tech-skills-trends-uk-2024/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 54
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240215-tech-skills-trends-uk-2024.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "Top Technology Trends Shaping the Future of Business in 2024"
     excerpt: "Introduction: In the dynamic landscape of business, staying ahead of technological trends is crucial for sustained growth and competitiveness. As we step into 2024, the intersection of innovation and business is marked by transformative technologies that promise to reshape industries and redefine the way organizations operate."
     publishedDateTime: 2024-02-18T13:46:00Z

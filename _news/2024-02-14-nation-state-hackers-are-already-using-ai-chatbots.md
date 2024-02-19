@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Jumping Onto Artificial Intelligence Bandwagon? Here’s How to Name Your AI Chatbot"
-    excerpt: "All these thoughts were presumably reverberating around Google's Mountain View headquarters recently when the company decided it would ditch “Bard,” the name it had given its ChatGPT competitor, and instead bring together all of its AI tools under the name “Gemini.”"
-    publishedDateTime: 2024-02-14T01:38:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/jumping-onto-artificial-intelligence-bandwagon-here-s-how-to-name-your-ai-chatbot-71707843285791.html"
+  - title: "Chatbot formerly known as Bard shares free AI image capabilities like it’s 1999"
+    excerpt: "Google's chatbot, Gemini (formerly Bard), is offering a free AI image generation upgrade."
+    publishedDateTime: 2024-02-16T04:37:00Z
+    webUrl: "https://www.digitimes.com/news/a20240216PD210/google-gemini-google-bard-ai-ai-image-generation.html"
     type: article
     provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 68
+      name: Digi Times
+      domain: digitimes.com
+    quality: 35
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/14/1600x900/artificial-intelligence-3382507_960_720_1670237306003_1707874451756.jpg"
-        width: 1600
-        height: 900
+      - url: "https://img.digitimes.com/newsshow/20240216pd210_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "fx++7WzNkQGskEh+pkrkuglAbVYDHKVCfnboBZPIIv+uT2oIty5grPk/Hb2QeW5uZKyyimwAuglHXZjmMtTdEE3EA1UUR4++BMO/oGMJDFxhXbdVVTDjiO4M3v0WKxtbFVcVyCOKmlMAQW5xbGvX/Im2X4QSahKaAcPWhT+PgCcgjF+9aciFOxjbNxzPo74wuL/j9atG0FFz6AaC5DIkhzziJrC5IqvsroNHQjikiGu6GzdKWTYMeT2rzUfd/fGwX+Iw4JV6JKtN7J24RT5UcGhSromxHnHPFkoOJCW8r4E/XpNVUahosKTl76V+qF58g/soJf1R1/INCp7WfcQ+Cm3uTv0N6uGNZvf5cx1GvwSHPwBJk+SlPvhNdOgJ+/BrOp8SCHOVPJZYp4gUSOej/vJtHetHaUP8+ISY9OEG+QH4fazt6CWsngWlzK03HtQO+pVYno/3VruzP4ULG+GonPWa51hxE4XuCBC8Rs9ydyvFM8ieFdKeAK+c/PPJMuemxWa4AFK61KcxcZWyJuzLhA==;M9gatFuy8Cn0vcqH1SzR9A=="

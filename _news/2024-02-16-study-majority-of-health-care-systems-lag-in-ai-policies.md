@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Temple Health Joins U.S. Study Of Artificial Intelligence Diagnostic System For DVT Detection"
-    excerpt: "Temple Health is partnering with ThinkSono, a UK-based AI company, to study a new artificial intelligence (AI)-powered ultrasound technolog"
-    publishedDateTime: 2024-02-14T01:38:00Z
-    webUrl: "https://menafn.com/1107848604/Temple-Health-Joins-US-Study-Of-Artificial-Intelligence-Diagnostic-System-For-DVT-Detection"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?353744"
-        width: 361
-        height: 249
-        isCached: true
   - title: "Health Systems Prioritize Artificial Intelligence Governance, Oversight"
     excerpt: "New Center for Connected Medicine report highlights that oversight of artificial intelligence tools is of growing interest to healthcare executives."
     publishedDateTime: 2024-02-15T13:00:00Z

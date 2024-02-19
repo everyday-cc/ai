@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
     excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"
     publishedDateTime: 2024-02-17T23:06:00Z

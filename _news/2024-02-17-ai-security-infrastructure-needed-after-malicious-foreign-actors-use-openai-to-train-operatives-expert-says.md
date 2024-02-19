@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
 type: article
 quality: 84
-heat: 116
+heat: 114
 published: true
 
 provider:

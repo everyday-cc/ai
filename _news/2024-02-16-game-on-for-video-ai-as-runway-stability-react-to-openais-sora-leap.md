@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/02/16/06bdbde2-d331-421b-9b02-dfcb40887307/thumbnail/1200x630/68b8f18388648d7a0794e56790213d64/gettyimages-2006246488.jpg?v=2a01790210e495d24a119503c08f840d"
         width: 1200
         height: 630
+        isCached: true
+  - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
+    excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
+    publishedDateTime: 2024-02-17T19:01:00Z
+    webUrl: "https://gizmodo.com/open-ai-sora-apple-vision-pro-cybertruck-1851264576"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 62
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8dc4004c26a81bbaca534bc11abc9231.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "AI Tools: OpenAI Reveals Sora and Shocks the AI Video Industry"
     excerpt: "Sam Altman, CEO of OpenAI (ChatGPT, DALL-E) released a sneak peek into our not-to-distant future of realistic AI generated text-to-video content with the announcement of their new model, Sora on a “Xitter” post: here is sora,"

@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-29-the-future-of-algorithmic-warfare-part-iv-promise-fulfilled.md",
+      "title": "The Future of Algorithmic Warfare Part IV: Promise Fulfilled",
+      "excerpt": "What follows is an excerpt from the authors’ new book, Information in War: Military Innovation, Battle Networks, and the Future of",
+      "sourceUrl": null,
+      "webUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
+      "originalUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://warontherocks.com/wp-content/uploads/2023/11/image1-1.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "War on the Rocks",
+        "domain": "warontherocks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-guildford-ice-rink-used-to-test-anti-skidding-on-ai-car.md",
+      "title": "Guildford: Ice rink used to test anti-skidding on AI car",
+      "excerpt": "An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI). University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
+      "originalUrl": "https://www.bbc.com/news/uk-england-surrey-67555425",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12FE1/production/_131839777_aicar.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-surrey-67555425.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-surrey-67555425.amp",
+      "publishedDateTime": "2023-11-29T06:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
       "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
       "excerpt": "But a series of mishaps for Cruise's fleet of self-driving Chevrolet Bolt EV prototypes have not only prevented the start of Origin production, but have also set back the company's entire ...",

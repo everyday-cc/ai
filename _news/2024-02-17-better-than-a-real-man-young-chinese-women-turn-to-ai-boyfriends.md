@@ -24,6 +24,17 @@ images:
     height: 676
     isCached: true
 
+related:
+  - title: "Chinese AI groups use cloud services to evade US chip export controls"
+    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 5,748 kr. 3,425 kr. for 1 year 285.42 kr. monthly equivalent Then 739 kr ..."
+    publishedDateTime: 2024-02-19T01:47:00Z
+    webUrl: "https://www.ft.com/content/9706c917-6440-4fa9-b588-b18fbc1503b9?_hsenc=p2ANqtz-_O7jzuUM2GswA4pqUdHJGw605HfbEkT_nKT3wem5rQ-ZIPu3ilowf56qBjs1I-CUZSUWCO"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 34
+
 secured: "66mcCHSPKxYu4mk7QY3u2vvGK1iuB/qvCuv62nv4KXMLrRBC1kMey5h0N0U305T3xD4BD7DH6w0nvcFRo3RSLaVTVUcFIM7wDJl3l0gDUJbJoKc8h1qpqKEq/lADD/+iSDjPRM8MCg+4w1iT7b5f2IDOhG+GbcjWNRZKBqq4GVbVtrweYkJ5rHOxvmNQpdVnhhRY2dqL5iEo2O/qIFDWu84yh/lXhXR6PTmwuwth7KQbqQopIKzwquklBOk8WnrDrYceJPcKjyMS+ONzH6qFPcTeiLkAx8wwKQIySyBJhTY+Y1ICVmZDn8DaiF5Rq/LwiB/6FERM032Oz6+MFu94+/dLobwYBeP5Eo4LSMHNS5E=;BYfXWnK3lxzQBrVqtID4jQ=="
 ---
 

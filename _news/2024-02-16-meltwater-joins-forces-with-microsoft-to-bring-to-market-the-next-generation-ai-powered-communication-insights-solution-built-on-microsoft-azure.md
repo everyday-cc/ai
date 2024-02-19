@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "VAST Data and Run:ai Unveil Full-Stack Solution for Next-Gen AI Workloads"
-    excerpt: "VAST Data today announced a partnership with Run:ai, a leader in compute orchestration for AI workloads. This collaboration"
-    publishedDateTime: 2024-02-14T01:15:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-and-runai-unveil-full-stack-solution-for-next-gen-ai-workloads/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 38
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2020/11/VAST-logo-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
     excerpt: "Alteryx, Inc., a leader in AI for enterprise analytics, today announced its expanded partnership and product integrations"
     publishedDateTime: 2024-02-14T19:40:00Z
