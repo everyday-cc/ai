@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-r
 webUrl: "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/"
 type: article
 quality: 86
-heat: 136
+heat: 128
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       - url: "https://s.abcnews.com/images/US/wirestory_d238df6f1c7bce4b8e7be7214c5266f4_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "How financial institutions are using AI tools"
-    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
-    publishedDateTime: 2024-02-14T15:00:00Z
-    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
-    type: article
-    provider:
-      name: BUSINESSJOURNALISM
-      domain: businessjournalism.org
-    quality: 39
-    images:
-      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
-        width: 1280
-        height: 714
         isCached: true
   - title: "Ohio Releases AI Toolkit for Schools"
     excerpt: "A new online resource for Ohio schools, compiled by the state, includes sections for parents, teachers and school districts with sample lessons, discussions about ethics, safety policies and other topics."

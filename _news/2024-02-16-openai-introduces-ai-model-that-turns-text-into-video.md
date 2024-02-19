@@ -73,22 +73,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft kicks off .NET 9"
-    excerpt: "Major update to Microsoft’s development platform, now available in a first preview, will focus on the development of cloud-native and AI-powered applications."
-    publishedDateTime: 2024-02-14T10:00:00Z
-    webUrl: "https://www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712764/microsoft-kicks-off-net-9.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/02/shutterstock_402603583-100960903-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
     excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
     publishedDateTime: 2024-02-19T05:00:00Z

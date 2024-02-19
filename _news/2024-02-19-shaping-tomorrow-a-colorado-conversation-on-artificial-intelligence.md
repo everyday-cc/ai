@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-19T06:00:00Z
 originalUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-conversation-on-artificial-intelligence/article_ef87b044-cd2b-11ee-958b-b38db754b987.html"
 webUrl: "https://gazette.com/news/local/shaping-tomorrow-a-colorado-conversation-on-artificial-intelligence/article_ef87b044-cd2b-11ee-958b-b38db754b987.html"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/8/ab/8abbb8c4-5d3a-586f-a29c-1157a85da412/624626c1c63dd.image.png?crop=1366%2C717%2C0%2C25&resize=1200%2C630&order=crop%2Cresize"
@@ -40,6 +41,6 @@ related:
         height: 500
         isCached: true
 
-secured: "DX3lG99pITdG9iibw+UzMgZeWBTlkGgcW/WcADp87ouW/Ctibthm4ScnD4iF7RICY+G3ekQXzh4K0KyDMqDUR/RYPquAFavBiCMu4zTiUoMJwBJeEo+7xPVfBI1CFONuuySU9RS0bumdKgFKdNlWAIsSGIbyGOWfprlwjeTNkQvs08aRNcxaxILh/o1vctgaY3jCWd2icL+/44A/KeRxzJHvM81txMRktIZmfDu2mcutjB2hAe3l5Zwx4PBrCA4tYMxHXYYm48iQDHv8s+FvTcFN7aEPF6BxcGo2pbokkZyeloT5UDSZQQnr5eu+82BY9xJBWmYYrLJ4bM70I0qleXDs9W7lqvgRW5L7E8BuwCE=;JhH+xkE80agXotQ9WWDbzA=="
+secured: "1O6jxdMDz2RfbeQ6rZSYpMgqOltTA/BljjNv5KvnSd81HJTvKXXQfJAepV1c0g7cAjpCv7klR+y517+Fwar/BWI3jo27gHp48f59xvqYdcE3Xws6PlnZUxI5dB5vjetyiGLxtpQHDMkqUcrB2E88HFIyEKFIZQU5Tjq5xEj9mC3dRXtC5lohZwJIxJnwHNtMCBpLTNb5VVIISgCD54hVSuomJTHgfVVrcHaliWHqijz+ui3LbbZ8thjdocZNJvIqbYRPYirtWfQv0UtqiAKVUgSvBZExuAsyx4R6ymhOnmP6TmcMO0yITEpvQ/+zJ46JSJOLAz2c5XEozQNcPHWLDeguZlmnx1fOd8z/WO0Ywz9A3BgfB7NNRs8WPoRXxRvmrWgadBiqUoHzz0ClYHYFLZnN/6o4t9KIMFL7gFewl2XGUJq+pKeWGnCPRpvGGWGIUFd6m0D2WIAZsEtP+lb4QAqNg2gLSsMgFJn0GV8tpW40UGGY4w3c6Wlbp41c1iswGzwyGxGTg1SBPRs41FgpdQ==;cRzxZmuSmd8PGR6nNUKbag=="
 ---
 

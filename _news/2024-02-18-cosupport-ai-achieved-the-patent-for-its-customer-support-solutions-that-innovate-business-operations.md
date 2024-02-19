@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/cosupport-ai-achie
 webUrl: "https://markets.businessinsider.com/news/stocks/cosupport-ai-achieved-the-patent-for-its-customer-support-solutions-that-innovate-business-operations-1033077939"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 800
     height: 535
     isCached: true
+
+related:
+  - title: "Support builds for Hochul's artificial intelligence consortium"
+    excerpt: "To support the initiative, Hochul is asking the state legislature for 250 million dollars in funds to support it. SUNY Chancellor John B. King Jr. has previously expressed support for the initiative, stating:"
+    publishedDateTime: 2024-02-18T19:39:00Z
+    webUrl: "https://www.wicz.com/story/50466471/support-builds-for-hochuls-artificial-intelligence-consortium"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 17
 
 secured: "KTmxivlOrDq950nBLdjZBFioy3RPhbcQXq8l3faXDM0t3BHL0x7jTX6uXR5+bEQ2LLrWKjCuIkyh/lTxX7Sx+IAwgHCQiHbaNFhUFIosB5U4WsAz+w3+rCS1pcKYHHW8mw/OPjwsXPUB9VmoMpg07Q2HCjH79UZxq3ib7bfLw/eOc4zB/PkKq57ieU53Imtw3hstjZWfqrofks4MzAb7+oGOwQUVWfLUm/tWMjil20ei6Dk+kJ5g1xorBBVsarr9mrddQFpYFfaon5lGJA8p0UZM1Q7f/RFdEKxP0fEbLH7Ga8b3+Ts3GCCm2D+p1jRRQ1XzgwEdHuEh/ebtC35gK5fh34dSIoMIIxsUoQkha/IQyt1K6JB3rn7MbpDLxyfVovdMVJbjxZ+OQTF4CQVw8AIAg0uMfnsG+4+NAi5m81cNwChGb53ph706tjlIH5Hek+KgYHp6GrVDiotlSMDh9PRkO4w9Au+5kLmQVF2LECza3syoyjubfv8/UtyDmZnjkYn8z/mNLlWwm8vpTc/ddQ==;x16JlL8Zyn9B4BgcRVGUkA=="
 ---

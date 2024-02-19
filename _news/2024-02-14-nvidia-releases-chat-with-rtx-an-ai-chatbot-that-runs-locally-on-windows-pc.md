@@ -71,20 +71,6 @@ related:
         width: 1320
         height: 742
         isCached: true
-  - title: "NVIDIA's Chat with RTX is an AI chatbot that runs offline on your personal files"
-    excerpt: "NVIDIA has released Chat with RTX, an AI chatbot that is run locally on your PC and on your own files. Read on to know more!"
-    publishedDateTime: 2024-02-14T09:58:00Z
-    webUrl: "https://www.androidauthority.com/nvidia-chat-with-rtx-offline-ai-chatbot-3414523/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 64
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/NVIDIA-Chat-with-RTX.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
     excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."
     publishedDateTime: 2024-02-15T23:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-ena
 webUrl: "https://www.ibm.com/blog/reducing-defects-and-downtime-with-ai-enabled-automated-inspections/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://img.ksl.com/slc/2970/297043/29704311.jpg?filter=kslv2/responsive_story_lg"
         width: 1228
         height: 690
+        isCached: true
+  - title: "Easily build no-code AI Agent automations using drag-and-drop with Flowise"
+    excerpt: "Flowise lets you easily build no code AI agent automations using its drag-and-drop user interface. Connect open source LLMs to your app."
+    publishedDateTime: 2024-02-19T10:40:00Z
+    webUrl: "https://www.geeky-gadgets.com/no-code-ai-agent-automations/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 35
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/create-AI-Agent-automations-using-no-code-building-platform.jpg"
+        width: 1280
+        height: 717
         isCached: true
   - title: "With AI Big in Construction, Don’t Skimp on Respect and Ethics"
     excerpt: "In the face of massive demand for new physical construction and amid the tantalizing benefits that early adoption may offer, it’s critical that the industry’s embrace of AI is done strategically, ethically, and with a healthy respect for both the technology and the people it will impact."

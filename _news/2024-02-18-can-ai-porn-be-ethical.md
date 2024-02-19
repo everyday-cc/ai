@@ -3,13 +3,13 @@ category: news
 title: "Can AI porn be ethical?"
 excerpt: "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI"
 publishedDateTime: 2024-02-18T11:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=upstract.com"
-webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news"
+webUrl: "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news"
 ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 type: article
 quality: 74
-heat: 74
+heat: 80
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "z3Xlnbqtk3NPEZ5qhZDRGNsqxeHCig0Vbc4Qbo7XJ/EqL2JHmVQoB5L/hzLbT9pPrmma5kq4A0+803tw2dCJqq/55hGRP602ukyeexUPUMdtLK2OR7zvH1V2VM1BLmQB6lo3fQwcVCc4cMR9kD8uxZtTE9mOh00ENlQQ/z5S33LADzY9qkxeHOJ8pCrCG161r9jF3fFvZBRyHi9SlDRvFWGw7VHY2e9EBZHEeeBfrqKczW3etHA53FIkokZ6tAmfH0fORymK0KE1yq9zDSsHueQuN4DT860A17UHV0UefilHzsnlunwItA4uoYOMaCG1f2PTol7I/qOmKh5RZUx7SWihT5QRFB+3FN9TeE0WqIR3Rlbi27q7hvre2vG+8+N0ZTVRvK/0oaWeVg4XG3npkM561S3R9OzA0egxGSzMvL6Pc1ZJjvovh0bXDepZB4eWHUhMSQKP/GiAyK7Bw+WzkMAO6NgoCsRV9yFP57quyiQaYVK7Qo/0o4By8Pzy3k5BqE4tdVr8ehWZ7t/TbEGtVg==;hacpgUpwuLZPf93o0QWqxA=="
+secured: "HpWw56n3uverBxyqBNwdsf1rT4H6ivoCW9QOcD+MHleHYOgnWwVKti1jmBoIFnerA2GEQ/OsX3mjrkTZRmrAp6DjtOckWnYN7JGRWcib3zcftWtRn5/sc6FYamHSWSfje/9J2dNPymcD9VI4H+RVbj7SwAm1OzHV9rM3dlc6OdhBDPqpH0ZxOP3ToiBUhtvtMuVwpsP8bMndIoY7/Ps6u9W9diqyQdhJ+lTuUBgIRnGcCylSIqv5p/og6BVtlQWONsSsHnC02szpIKkbTOvXfQzcFLS6fMBKrKoo3eR8aJ4Igs0JjHdBxecdkptWQOI9EoSd5CEfrktVBL9kio2UDr9WCcjj/42UtpVXk8qYCZY=;Fscg4aCDt7N4OFnFev6Tow=="
 ---
 

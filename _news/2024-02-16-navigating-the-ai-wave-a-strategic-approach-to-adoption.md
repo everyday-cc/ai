@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "Navigating the AI Career Maze"
-    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
-    publishedDateTime: 2024-02-16T20:18:00Z
-    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 17
 
 secured: "9tb4sIriJ980csv6gh2Dt0Q+/Kh/S1+HXZNQ6RePAyhnse8jU8D9XTtKaTlvMQxun/ef+VGInQm1wF7HJfZYvH6mtzFXMBemJ6o/FUVhEELz23TxIxuG+sDM35361YWmoff5EOgxL0c2/1/2B9UoCdYA+fg6F4r8JKmf71mYsXa8QILJhgEW/TRY+AE9jkBo+5OtPlgvI6NZxNaG8dBdbL5998+k3Y7rImprXKSaP3gUxLIGjwq48+vu+BsDuvO3cNsKNamikTQThUnyZQC8fThqKJ7LxvHwy7R0zkOnf6RXjDbxTlG23pUkI+ZwhD5ARQwuk3tiPcmt0Ai+o4Rn2iSalMUqy8sNke5+dE+TmZA=;E+wS6fsoBcfIQzQGIjjm7Q=="
 ---

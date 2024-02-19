@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/hr-companies-find-many-g
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/hr-companies-find-many-genai-use-cases-to-raise-efficiency/amp_articleshow/107732127.cms"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Fighting fraud and financial crimes in the GenAI age"
+    excerpt: "Supervised machine learning algorithms can self-learn from target variables ... and cyber events. Given how financial services organisations are using big data analytics to consolidate data across siloed functions, it makes sense to combine these for ..."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://it-online.co.za/2024/02/19/fighting-fraud-and-financial-crimes-in-the-genai-age/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
 
 secured: "Ut7mekKzmXNKMNdC6gtvqj9oXeDm0bQA0ul7mUGGmNStfDC+18QJrp0p5AVP74Z/13ADdmBdeheM/fMnNhgLbPXN4NHYMGnqJbJLvSN8/zGDyM2gHErXN2KFButKZ9VeYBNd7BSVw8Z9SY+lh/8qHzwhpzHoKIy/JYWG9iYNTQUnWa4gqp0TEhpld1q48BWj1tKAja9uloiZowRLozzv5MwXlCqL6COUlsn7oS8RwcwI3fpH/bA37FhsUbDug7XE0LKz8hRYS2iHxl4CzMzMAtoZhsD/9hNdsyatuHQ9YYjt1LWR/AMangPmZe7fw8XsRmTp0G2kOjjXtLuixd90vkuiY3gqRNm/h3+QKNV3pho=;HaxqSvfH6/mktv9hX0/M9A=="
 ---

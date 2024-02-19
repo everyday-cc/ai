@@ -47,6 +47,20 @@ related:
         width: 1228
         height: 690
         isCached: true
+  - title: "Easily build no-code AI Agent automations using drag-and-drop with Flowise"
+    excerpt: "Flowise lets you easily build no code AI agent automations using its drag-and-drop user interface. Connect open source LLMs to your app."
+    publishedDateTime: 2024-02-19T10:40:00Z
+    webUrl: "https://www.geeky-gadgets.com/no-code-ai-agent-automations/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 35
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/create-AI-Agent-automations-using-no-code-building-platform.jpg"
+        width: 1280
+        height: 717
+        isCached: true
   - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
     excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
     publishedDateTime: 2024-02-16T18:53:00Z

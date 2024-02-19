@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "2024 The Genesis Invitational Schedule: Thursday Start Time, How to Watch Live Stream, Tee Times & Pairings"
-    excerpt: "Get up-to-date information on the 2024 The Genesis Invitational tee times, schedule, pairings and all the info you need to watch live online."
-    publishedDateTime: 2024-02-14T10:36:00Z
-    webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/15/the-genesis-invitational-pga-round-1-live-stream-tee-times/"
-    type: article
-    provider:
-      name: Hawaii News Now
-      domain: hawaiinewsnow.com
-    quality: 19
-    images:
-      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/VOQPP66ICNPFFMYBNVMLMBMJ5A.jpg?auth=13dd870cdfba301d560f08ae65aaa9a7098c33889d6a898115591c1dbae3d620&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Sunday, February 18"
     excerpt: "See how to watch the 2024 DAYTONA 500 on Sunday, February 18 live streaming or on TV, with channel info, start time and more."
     publishedDateTime: 2024-02-18T22:32:00Z

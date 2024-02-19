@@ -7,7 +7,7 @@ originalUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-aut
 webUrl: "https://theconversation.com/bringing-ai-up-to-speed-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road-214208"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Chinese tech startups quietly stop testing driverless cars on Californian roads"
-    excerpt: "Chinese autonomous vehicle companies have scaled back testing of driverless cars in California, a BI analysis found. These companies face growing scrutiny from US lawmakers."
-    publishedDateTime: 2024-02-14T10:22:00Z
-    webUrl: "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-driverless-car-companies-stop-reduce-testing-california-roads-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 85
-    images:
-      - url: "https://i.insider.com/65cb4d046fcb546d2d4eee2d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "ZiYV8GTT3qYv9iq5Mah/+b7Huim1WHW1qVHWYigeElwuobCndoyvHoML9mwiGn75a+/aGmAclYjgZEWytTf9fJzy1eZP1tN7KmC6wL73D0Sh9mD5NljuTqY2iBnXDyo2s6MHXv6n+qhwgCdx2JRh6ZIRzo+yge6aiY/wuJWXYOgTcaTuXvNivyrszgbMMZxkwaSiBtV5Mfuw7bryJlliobLjF6XUpDSnKif48Mz5FvOLincjMXrUk2jwSjcpqPV8u+BFxWJErlLzJqgNC7+C1eFH+Zc8uc3JiuR/NVgYOGkyAHceyONT0AKdV+O4xQ3xb41upEaHg9KHSGPdgyA8YNl5LYLvYdQTZjdLSHtsEOw=;qCHRRSEdRxRaIg9uCN39OA=="
 ---

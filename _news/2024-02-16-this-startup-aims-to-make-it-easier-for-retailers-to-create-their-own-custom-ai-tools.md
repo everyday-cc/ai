@@ -64,20 +64,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "How financial institutions are using AI tools"
-    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
-    publishedDateTime: 2024-02-14T15:00:00Z
-    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
-    type: article
-    provider:
-      name: BUSINESSJOURNALISM
-      domain: businessjournalism.org
-    quality: 39
-    images:
-      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "Ohio Releases AI Toolkit for Schools"
     excerpt: "A new online resource for Ohio schools, compiled by the state, includes sections for parents, teachers and school districts with sample lessons, discussions about ethics, safety policies and other topics."
     publishedDateTime: 2024-02-15T22:33:00Z

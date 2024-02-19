@@ -42,15 +42,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Navigating the AI Career Maze"
-    excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
-    publishedDateTime: 2024-02-16T20:18:00Z
-    webUrl: "https://www.govinfosecurity.com/blogs/navigating-ai-career-maze-p-3564"
-    type: article
-    provider:
-      name: HHS
-      domain: govinfosecurity.com
-    quality: 17
 
 secured: "SG0uzjKfMlixf6KosupKWyoCS90ZFy3ttB6OAfjQPobEDVCegy3EXBwzXCBsNRrH7h4NAyztWUXqsFMfocGnFaDBK81YKzGBjr8Xhi0nziEXXXeWiEOzAcasE03Cc36iLOKJrOqUQMmIdlNsgYwKrKG37PAXm6OTsJY+Lml7gLmcPdyvn5McUnKP9T9cbh2DnonitFPrUK+0wiRC4az9NeiGinAcITHoB42/kR74XImCcIP5BF3FHf3Rtyjeud+CCK0uaO4iFOPssTgA7SXFwi07Y58ChMj9/kFix/pMZM9+beH17yYYw1KQjUVcTGzceD40EuisrgBLkfvsBSujQXQCqZAOJ6Tepbdt9hrqZzTzfTX0E8RtD3KWOLjSmyzfAehmZPd0kRFVmz2j8m31EYoLpLEXOyzHx41T8E8o++6evBSauaz+JBmWCGjhrrfkE5lVdDW/kKR9hYPjD0+U0jrmLRQxDnzl2qPo6UUGUWYI8gk6EKGjr8np95pPNAR89mGsvnqeVlByahJ/b/53Eg==;zJgpljYrGuBwuLSutVDPMA=="
 ---

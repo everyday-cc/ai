@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-19T07:23:00Z
 originalUrl: "https://techbullion.com/understanding-the-machine-learning-behind-slack-ai-search/"
 webUrl: "https://techbullion.com/understanding-the-machine-learning-behind-slack-ai-search/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2024/02/Artificial-Intelligence-and-Machine-Learning-made-simple-1.jpg"

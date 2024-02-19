@@ -3,16 +3,13 @@ category: news
 title: "TOMRA unveils revolutionary deep learning solution, aims to transform ore sorting technology"
 excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
 publishedDateTime: 2024-02-14T09:19:00Z
-originalUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
-webUrl: "https://www.miningweekly.com/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+originalUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
+webUrl: "https://www.engineeringnews.co.za/article/tomra-unveils-revolutionary-deep-learning-solution-aims-to-transform-ore-sorting-technology-2024-02-12"
 type: article
-quality: 43
-heat: -1
-published: false
 
 provider:
-  name: Mining Weekly
-  domain: miningweekly.com
+  name: Engineering News
+  domain: engineeringnews.co.za
 
 topics:
   - Machine Learning
@@ -24,17 +21,6 @@ images:
     height: 575
     isCached: true
 
-related:
-  - title: "NLP Evolution: Changes Coming To The Ways We Interact With Technology"
-    excerpt: "As NLP technology continues to evolve, experts expect it to play a role in everything from Web surfing to business automation (and much, much more)."
-    publishedDateTime: 2024-02-15T13:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/nlp-evolution-changes-coming-to-the-ways-we-interact-with-technology/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-
-secured: "71dSfFk7FBT5sagQhsOPYfwucRR3lDDOX2Bai7oV2IXUzmmUxa37PL57xXobiMag97HnyG8QjPpThTQfLcg54MBrBaAga0M+2/piS1VUjBsor0Cnd2shxtHTroDdpJOZ4Z97lrk51E99Ri3Hn2YSgN7RoyJspH0i0mm8ZBzzGnZ702mhkRdbMeEPeCB3sO8hXlR2iQ19DslbiCEJ4WnECLvIfeQB4ELg0fFDHar6uKbGF43kJVdu0ZCoCO8fds7SjI3255dW6Ki/otXUz8JFB5dsUxPPaxEYIiGLlVuTVlWbCNAAkd9cO+86Fvh9qOTHj7jEzYvboZTf658rFEU1wLBMWguudTpyRG3V7NemITskQU1j9mpZlVUtojpMczTDnuyILmKfprI4iS4ke+fK/TqXIztNU5hs1zCT02d/nKVXoZ6qXhKl9E8OtQKUVpcmqoOIxG6M57SfWJr4d4RY4cqRSIKPKDapDzMH/i+2Rh9tvcfsUHQCB0ZwuAdUhBXjKBhK74AHso/3ofbTX1A6Hw==;g0HwnTl2ttKqum8assmErw=="
+secured: "4E6ZopaVCnvpEaHjFY5UUndCB4TiEAZbipqn/L8cHsE1oa+vIY1ItzSUR6ROMBMdedM6X9MLO7yTUioZMyA0stf26ocs0mR+yCIX2v70R//VHa7L8xIy8NOCOtE9AgJlLXwDtL9Nu9jXCbKkFVrzQfNjxo4Hv49aRQOqg9kEeuC1xoXJUEjo3nZBcu7dSItryWbwZhUVvu2EQM41X0RYqnz6Tmy95D5f7xsLNG5qsOhB2IRAGkoHOow2HIVzdD5FznKMJkkeb0ntWbzr7PQLz3iO6PTrCZ4xnPxQu2Ea2xImeZBA7n14ebdk47Y2pcH37PoGUg/LDfYRSgPDhnnhjAO/0wbr44TRwBQByTYbYwk=;NM7ua2F9Fua7M/5q6XODOw=="
 ---
 

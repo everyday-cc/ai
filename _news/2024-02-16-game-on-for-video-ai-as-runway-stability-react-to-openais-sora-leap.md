@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -144,6 +144,20 @@ related:
       - url: "https://dailyhodl.com/wp-content/uploads/2024/02/two-rally-text-video.jpg"
         width: 1365
         height: 800
+        isCached: true
+  - title: "Sora's AI-generated video reaches scary levels of realism - and this is just the start"
+    excerpt: "Will we soon be watching AI-generated movies? Looking at these new videos made by Sora, it's only a matter of time!"
+    publishedDateTime: 2024-02-19T10:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/soras-ai-generated-video-reaches-scary-levels-of-realism-and-this-is-just-the-start"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/saj5mXt5zp6UBeKygyazDE-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
     excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."

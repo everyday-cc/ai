@@ -59,6 +59,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Self-Driving Car Company Waymo Issues First-Ever Recall After Two Phoenix Crashes"
+    excerpt: "Self-driving car company Waymo issued its first-ever recall over a software issue after two of its cars in Phoenix collided with a pickup truck being towed backward. Alphabet-owned Waymo said it ..."
+    publishedDateTime: 2024-02-14T18:34:00Z
+    webUrl: "https://www.wsj.com/business/autos/waymo-issues-recall-self-driving-cars-crashes-caf17ebe"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 44
   - title: "Waymo recalls software after self-driving taxis crash in December"
     excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
     publishedDateTime: 2024-02-14T17:37:00Z

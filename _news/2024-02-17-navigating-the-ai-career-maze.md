@@ -18,35 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Navigating The AI Wave: A Strategic Approach To Adoption"
-    excerpt: "While the adoption of AI continues to evolve, strategically building AI solutions incrementally facilitates smoother user adoption."
-    publishedDateTime: 2024-02-16T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
+  - title: "The New Era Of Financial Freedom: AI Disruption Of Mortgage Lending"
+    excerpt: "AI has taken this relationship to new heights by enabling personalized customer service. Through machine learning and data analysis ... Whether it's through personalized communication or tailored financial advice, AI fosters a deeper connection between ..."
+    publishedDateTime: 2024-02-16T04:22:00Z
+    webUrl: "https://www.forbes.com/sites/neilsahota/2024/02/15/the-new-era-of-financial-freedom-ai-disruption-of-mortgage-lending/"
+    ampWebUrl: "https://www.forbes.com/sites/neilsahota/2024/02/15/the-new-era-of-financial-freedom-ai-disruption-of-mortgage-lending/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/15/the-new-era-of-financial-freedom-ai-disruption-of-mortgage-lending/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6172b77891b88a52e85adc7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd91f61fd5a012d60553ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1556
         height: 900
         isCached: true
-  - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
-    excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
-    publishedDateTime: 2024-02-16T15:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/16/ethical-considerations-for-litigators-navigating-the-artificial-intelligence-landscape/"
+  - title: "How financial institutions are using AI tools"
+    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
+    publishedDateTime: 2024-02-14T15:00:00Z
+    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
     type: article
     provider:
-      name: Law
-      domain: law.com
-    quality: 48
+      name: BUSINESSJOURNALISM
+      domain: businessjournalism.org
+    quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Artificial-Intelligence-767x633-1.jpg"
-        width: 767
-        height: 633
+      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
+        width: 1280
+        height: 714
         isCached: true
 
 secured: "elFL2EeteWdGgQTw2iy1Oj7YaloH9u10dvSylviOpHAq2d/sRh0qNC9NLQED96dWnd1Wpkb/ToaI7owyrlWHcT8gx0KkReTSNGuemZdVRHPbNFRhlEnqRqxtoA29PEfDVY0VlnNvqkCjXQMiXgsKO1fUHPUvfVHunZQN/XlwfGRnfe0W3HltqRYT/1qkbtPjiJBfgdbCVdCPUlKdDKe9cEVURODY08U/9wSyzK2I8i+6Wye9A2NsNJCoPEgJUbhnkFCaS5TCYuQ3nLq+T/ldz9uDVhjHR92zTJNmBnJYfQekoIqRDnjrA7ZP0gswoDCz61sqWfCsVTuJJ47DzuvdvKae36p/L1uXr/auYUx/x/8=;d97o8fArLdyuF998d/RLOA=="

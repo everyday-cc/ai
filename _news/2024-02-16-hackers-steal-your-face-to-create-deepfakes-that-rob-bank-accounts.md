@@ -31,6 +31,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "How AI deepfakes threaten the 2024 elections"
+    excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
+    publishedDateTime: 2024-02-16T19:04:00Z
+    webUrl: "https://journalistsresource.org/home/how-ai-deepfakes-threaten-the-2024-elections/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 39
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2024/02/artificial-intelligence-4115193_1920-1.jpg"
+        width: 1920
+        height: 1082
+        isCached: true
   - title: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
     excerpt: "Tech executives sign new voluntary pact for how they'll respond to AI-generated deepfakes that deliberately trick voters"
     publishedDateTime: 2024-02-16T17:18:00Z

@@ -170,6 +170,15 @@ related:
         width: 300
         height: 215
         isCached: true
+  - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
+    excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
+    publishedDateTime: 2024-02-19T08:10:00Z
+    webUrl: "https://slator.com/google-ai-chief-touts-ultra-low-resource-machine-translation-gemini-1-5-pro-launch/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 27
   - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
     excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
     publishedDateTime: 2024-02-16T14:03:00Z

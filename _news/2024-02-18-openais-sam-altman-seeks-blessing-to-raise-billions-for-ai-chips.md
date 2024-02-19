@@ -130,6 +130,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
+    excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
+    publishedDateTime: 2024-02-19T09:45:00Z
+    webUrl: "https://analyticsindiamag.com/softbank-bets-100-billion-on-ai-chips-takes-aim-at-nvidia/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-Most-Powerful-5-AI-Chips-Released-in-2023.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "SoftBank founder looks to create $100B AI chip venture"
+    excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.mobileworldlive.com/softbank/softbank-founder-looks-to-create-100b-ai-chip-venture/"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 54
+    images:
+      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2019/12/16120627/SoftBank_Masayoshi_Son_SS-e1576572684844.jpg"
+        width: 650
+        height: 399
+        isCached: true
   - title: "Softbank to put $100bn into AI chips"
     excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
     publishedDateTime: 2024-02-19T06:29:00Z
@@ -157,6 +185,20 @@ related:
       - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
+    excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
+    publishedDateTime: 2024-02-19T10:36:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58472-zuck-backs-altman-s-5-5-trillion-ai-chip-plan"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "8k/qNWGoNemUkLS87M8elUNWoM/6mInnYviZVRz2TtdG1Zws5NcYWLYRjDbuKC363RXmZd85H+GZp11KpOlfs05a4d0nF5PNj82hrwasbIFwc610RBk2OKcSfKGK4JCIU4umAGh6QFJIORV7wVRfL9vDPXZi1SWT+TGHlbb+u7GcFdqnK7ahkBCZ8zQBzkMkVhGe/gsWdrCUwYzJFyrZ9DQwb7/hnuQg1IWYE9kBKVPuZ6+MyLGf5BBqLZVoUAcccIo9HCZBKNB+suLAtIBtm8m6AlvigZV1y5wuERAFDYXn6OWdS3MyDdFgpv5sZFbTswBRr6hXG5tDFMhD56zXLVX8DLomG4LY3+1saW9Z6wLd5BPogVfSGVvFPfcaBlAlwh6ipx21k0Y+Wi8zeF8A1Bam9cRQLf7ehbU5aML0ZRpgLcMHPW/SkcJSyeqjA4eL+CozNOjrCiscZPMdxMGiWxvSSMS8YVEFQx0+ZLOfSHhV5O2tv/c1eO51PrGsxjtGOJYtslGNMdj52+P0NjLVew==;gs8whhWIYi6jpp4RzLWucQ=="

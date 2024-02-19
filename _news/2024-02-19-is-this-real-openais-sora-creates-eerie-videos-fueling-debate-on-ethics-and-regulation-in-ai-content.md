@@ -141,6 +141,20 @@ related:
         width: 1365
         height: 800
         isCached: true
+  - title: "Sora's AI-generated video reaches scary levels of realism - and this is just the start"
+    excerpt: "Will we soon be watching AI-generated movies? Looking at these new videos made by Sora, it's only a matter of time!"
+    publishedDateTime: 2024-02-19T10:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/soras-ai-generated-video-reaches-scary-levels-of-realism-and-this-is-just-the-start"
+    type: article
+    provider:
+      name: digitalcameraworld
+      domain: digitalcameraworld.com
+    quality: 29
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/saj5mXt5zp6UBeKygyazDE-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
     excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
     publishedDateTime: 2024-02-16T17:54:00Z
@@ -151,6 +165,6 @@ related:
       domain: seattletimes.com
     quality: 20
 
-secured: "IQnAoIu3Tz5asvKKWb9iDv05dKgFfE+IuFhK+3uVvtJN6whtLx6w+IX0iLcAA1nKCUAhvRG58CU4lHbGftqw1riY+g7VcqQy77qN3V3bfUk3neDhmy17Q+aW0lrSY7fsFQtu4GA8aGixuZEev3G8Ml2uE7+vL8U9iyXk9r5jltM6PNr0SY3cth6sNN71J2dtns23a7GP5LY77PiVepuRSK8hgMVvodB9e33AUxFg4EjQDQrlt2qceiJkvLDg1HE21Lv2TGeCZTA8JBqKUGzt33AROvmzWQXSlR13B1I/dPd0Mc3TQipa8Kz542BGaDh/5u5QBtwEl+nZ93BXvoSq4MPCr0i/x88pYmo5MWvYfdQ=;BOKQexR0inar44IxRwEErA=="
+secured: "O1Kgf7Vtpc/50iLPCVy4ejYtg7ysFlZkgQdn+hjmyo9z0JcsnyOsuiyxNdjk4XpWUpsXcNXklcL24d+Lakn8VP8GK4dj09hapSod8hs3NntyllOysRjrpirRW4YKhaNlZrPvDDk1GANaitc0gf1ktF8IKpIcMK1Me3mORDiCZ2l28UAQ1TMcjJ7/fQOYgaf8pgUT7xQM4YteqEuI2jZhjWtQsqMspi91gFAOntoCU3kdQYg9E8hNogKAVBJvA7d4silAVBv4ReFrLCaT60y7/oLsrm6sH1xAKeKBqeQV98XNk5N+CZe8UGLIbQRpY97F6LrLvk6bCC+bgalQrL6Y1268aaIHOIHP+8F3A3XD+Hm96/4jvL50PNvRmz13hOHHkSeFBrC/IcyP7/9O4oG8beEkm96hEDzkKwq1yDTBkc47PwakFRnkKH7HX2ukKNw0A+3No0vCJLAw8g3BjwAxUZeZFxXu3mXeyiJK5dB1h4nJemNXUwKeN2JjZTQAurU+4sUIjn3sXIQMP+0aVdPZYw==;73ZuzKUozvjiXMLJaAZzHw=="
 ---
 

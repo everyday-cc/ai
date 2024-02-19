@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/opinion/columns/elections-83-count
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/elections-83-countries-2024-ai-freak-out-9167479/lite/"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI deepfakes threaten the 2024 elections"
-    excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
-    publishedDateTime: 2024-02-16T19:04:00Z
-    webUrl: "https://journalistsresource.org/home/how-ai-deepfakes-threaten-the-2024-elections/"
+  - title: "2024 will be AI’s breakout year"
+    excerpt: "Despite all the artificial intelligence (AI) hype we saw last year, Stephen McBride believes 2024 will be AI’s breakout year. According to Stephen, two things will wash away the AI skepticism this"
+    publishedDateTime: 2024-02-19T09:59:00Z
+    webUrl: "https://www.mauldineconomics.com/editorial/2024-will-be-AIs-breakout-year"
+    ampWebUrl: "https://www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year"
+    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/editorial/amp/2024-will-be-AIs-breakout-year"
     type: article
     provider:
-      name: Journalist's Resource
-      domain: journalistsresource.org
-    quality: 39
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 59
     images:
-      - url: "https://journalistsresource.org/wp-content/uploads/2024/02/artificial-intelligence-4115193_1920-1.jpg"
-        width: 1920
-        height: 1082
+      - url: "https://images.mauldineconomics.com/uploads/newsletters/Joltmauldin_20240216_feature.jpg"
+        width: 725
+        height: 363
         isCached: true
 
 secured: "Z3Pyzkrpqb/YVr9k1YYFFtIUepNMoPf7q/LiEY+DhOSVj4lr/jYHYzBzGIx+rmvk/xHwtOwUzxdhOzFUDvTz6q/wniFh/qBDV7SjnaG1/cCUDSp8Rm9RAIhAG3D6uDEiUOEWR76e9GWdntqAdzTtkhb6wXYC9OZOkynSpMUEjpp52FHbK+JfeS7u+br+8TMrz5IaW2+ysw8n4WIYq+o9Wz/y822Y1NshwmecZky26qztqgXKldbtmunPMWnEaB8ziczcVARVyUSzsi/VvOEFRn5Gl9a2WPB82z7qrA3Lr47yLH0J3UtOVxIK0qvRAf91USq0wXLPMzyLQJIj0kfopR6P/ftsTPBeg3t7m/qB2I0=;kYXVaG6/vF2easiuGNZUMw=="

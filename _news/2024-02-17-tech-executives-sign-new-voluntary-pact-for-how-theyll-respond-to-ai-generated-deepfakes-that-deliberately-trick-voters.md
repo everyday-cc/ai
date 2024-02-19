@@ -37,6 +37,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 39
+  - title: "How AI deepfakes threaten the 2024 elections"
+    excerpt: "It may be the narrative around deepfakes -- rather than the deepfakes themselves -- that most undermines election integrity."
+    publishedDateTime: 2024-02-16T19:04:00Z
+    webUrl: "https://journalistsresource.org/home/how-ai-deepfakes-threaten-the-2024-elections/"
+    type: article
+    provider:
+      name: Journalist's Resource
+      domain: journalistsresource.org
+    quality: 39
+    images:
+      - url: "https://journalistsresource.org/wp-content/uploads/2024/02/artificial-intelligence-4115193_1920-1.jpg"
+        width: 1920
+        height: 1082
+        isCached: true
   - title: "Hackers ‘steal your face’ to create deepfakes that rob bank accounts"
     excerpt: "As hacking techniques evolve to capture video recognition data, security pros say the industry will need more AI-based tools that focus on zero-trust, threat detection, and MFA."
     publishedDateTime: 2024-02-15T17:42:00Z

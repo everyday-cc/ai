@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-cha
 webUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg"
         width: 1320
         height: 742
-        isCached: true
-  - title: "NVIDIA's Chat with RTX is an AI chatbot that runs offline on your personal files"
-    excerpt: "NVIDIA has released Chat with RTX, an AI chatbot that is run locally on your PC and on your own files. Read on to know more!"
-    publishedDateTime: 2024-02-14T09:58:00Z
-    webUrl: "https://www.androidauthority.com/nvidia-chat-with-rtx-offline-ai-chatbot-3414523/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 64
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/NVIDIA-Chat-with-RTX.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia Releases Chat With RTX, an AI Chatbot That Runs Locally on Windows PC"
     excerpt: "To run Nvidia’s Chat with RTX, a Windows PC with RTX 30 or 40 series GPU with a minimum of 8GB VRAM is required."

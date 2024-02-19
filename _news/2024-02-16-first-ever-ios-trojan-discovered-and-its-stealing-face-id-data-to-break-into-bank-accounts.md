@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "iOS Trojan Collects Face and Other Data for Bank Account Hacking"
+    excerpt: "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts."
+    publishedDateTime: 2024-02-19T10:10:00Z
+    webUrl: "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/"
+    ampWebUrl: "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 61
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/03/spyware.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "First ever iOS trojan discovered and can steal Face ID data"
     excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
     publishedDateTime: 2024-02-16T14:19:00Z

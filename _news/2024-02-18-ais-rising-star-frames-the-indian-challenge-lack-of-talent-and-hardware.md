@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ai
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "AI’s rising star, Perplexity AI founder Aravind Srinivas, frames the Indian challenge: Lack of talent and hardware"
+    excerpt: "That’s Aravind Srinivas, founder and CEO of Perplexity AI, an IIT Madras graduate who’s making waves in Silicon Valley pitted in a David vs. Goliath slugfest against titans Microsoft and Google."
+    publishedDateTime: 2024-02-19T09:23:00Z
+    webUrl: "https://indianexpress.com/article/long-reads/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/"
+    ampWebUrl: "https://indianexpress.com/article/long-reads/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/long-reads/ais-rising-star-frames-the-indian-challenge-lack-of-talent-and-hardware-9167131/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 37
+    images:
+      - url: "https://images.indianexpress.com/2024/02/perplexity-ai_1698af.jpg?w=389"
+        width: 389
+        height: 218
+        isCached: true
 
 secured: "0buLxpp3h6i3a1TKlviVU2C7aas0grO1EGcnOuJJ6cxvfmOSRcOCb18dkZdsQqaSWws9JhE9gJfHhd5Wd2HcCa9rcmcxNQeBPX/zFLRcDfdDJOl9Y7g6dd4ybZm1jrY3q44hCBa4zUQEi80LSwoqXYROmlgeZwmUEEdjacOgKvxnSTG0XMhYS4J5PiFE7DjN09QUCtZ+kXSV4HdaP+Xw/slPNQjgyFmMfyCc1TkZGadHc7qR4rAopR5jiffwhR87svtWj1NhPdoOhBbOJljiP2hwqZ478NRHcSR1oSwJVgIQr9E0PSOAhuQuaTrCLXk6qCnMfJ1EMUaDxke4VYa+Yp+yChmg4E3OorSosNIvc2o=;5xhKXI5IMxglO+bYV+CcAw=="
 ---

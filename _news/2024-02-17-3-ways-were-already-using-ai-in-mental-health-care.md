@@ -183,15 +183,6 @@ related:
         width: 444
         height: 250
         isCached: true
-  - title: "Fighting Fraud and Financial Crimes in the Generative AI age"
-    excerpt: "Generative AI also holds the potential to transform fraud and financial crime compliance. By incorporating machine learning and network analytics into anti-fraud and anti-money laundering systems, organizations can significantly reduce the number of false negatives and positives, thereby enhancing transaction monitoring efficiency."
-    publishedDateTime: 2024-02-14T09:40:00Z
-    webUrl: "https://za.investing.com/news/fighting-fraud-and-financial-crimes-in-the-generative-ai-age-3010607"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 19
 
 secured: "UNterfnkRWOgQXH3Vrf+FsIxVQiJ1oWb6WkOF9NMS/hvGZXqp0heOW5DwjHkdLUfK+ioNCXGi/6ti14QDJWFvYIBWe/w1QC+5fy88Z5fQIH2abmEpm1rmmZzD4HimdPslCADwbfTJTUTB0wUM4ZdVF/Ocz97ZEYcvXbtlJJIxLno2j7RMxOd6y0rBSHSb6eQ0x2ClByuRQvSptXQAuiYdrfFFMB9GPc2YKBaRg2QGjUxh0FpX6v1YqQ66kFSjN7xNmoTazVFkJ1PdZX5eDlykrlHVUZXnChUJdn1guNkgT8HZ02OQ3T0X0DNabV8cq1fiYjr0GbGcnJJ6KyosIMx8sXne1Om6qcUnvXniPTruNs0zfNgIl0SEXMJUf06LlQBhVfrmypA1AreaZNQHswP0NmeIcUALEEQTxQjuv7hk7FkA1ZeZJ8uDD3kN8I10hXA2X3yebtaMpti6t5pcMR0BDEDKJFE8bR9ld3gko9TimApTbrmW82Y5Fw7QsU2CBVq3KkI7XIJzAJPjNuB6rIliA==;kl60dUUR+FXf75k67rOheg=="
 ---
