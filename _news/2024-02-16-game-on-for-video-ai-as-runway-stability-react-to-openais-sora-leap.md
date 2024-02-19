@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stabilit
 webUrl: "https://venturebeat.com/ai/game-on-for-video-ai-as-runway-stability-react-to-openais-sora-leap/"
 type: article
 quality: 69
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
+    excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
+    publishedDateTime: 2024-02-19T17:26:00Z
+    webUrl: "https://newatlas.com/technology/elevenlabs-sound-effects-ai-audio/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 69
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/7df3253/2147483647/strip/true/crop/1903x999+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc0%2F79%2F292b13454764b891a7d395388ef8%2F01.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Is This Real? OpenAI's Sora Creates Eerie Videos, Fueling Debate On Ethics And Regulation In AI Content"
     excerpt: "OpenAI's latest creation, Sora, is causing quite a stir among creators and tech enthusiasts alike. Announced by CEO Sam Altman, Sora marks a significant advancement in artificial intelligence, particularly in the realm of video generation."

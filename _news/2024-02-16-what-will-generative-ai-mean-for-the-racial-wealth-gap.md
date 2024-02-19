@@ -57,6 +57,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
+    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
+    publishedDateTime: 2024-02-15T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Generative AI Will Redefine The Workplace For All Organizations"
     excerpt: "Artificial Intelligence, or AI, is like a highly specialized tool in a corporate setting, adept at performing specific tasks such as analyzing data, predicting patterns or automating routine processes."
     publishedDateTime: 2024-02-15T05:08:00Z
@@ -72,22 +88,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65cd2c393d95b3ba590c00d0/0x0.jpg?format=jpg&crop=2377,1336,x0,y0,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 899
-        isCached: true
-  - title: "How Financial Services Firms Can Build A Generative AI Assistant"
-    excerpt: "This article simplifies a complex topic in order to give you and your organization a high-level outline of how to build a generative AI assistant."
-    publishedDateTime: 2024-02-14T17:13:00Z
-    webUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/"
-    ampWebUrl: "https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ccb37a19195fa2262fe7d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1559
-        height: 900
         isCached: true
   - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
     excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
@@ -112,6 +112,20 @@ related:
         width: 716
         height: 372
         isCached: true
+  - title: "How Fractal is Leveraging Generative AI for Insurance"
+    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
+    publishedDateTime: 2024-02-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How Generative AI Is Reshaping Online Trading"
     excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
     publishedDateTime: 2024-02-19T02:30:00Z
@@ -123,15 +137,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
-  - title: "Stability AI: Everything you need to know about the open source, generative AI company"
-    excerpt: "Stability AI has quickly become an AI leader. The company funded Stable Diffusion, an open source, text-to-image AI platform launched in 2022. In addition to Stable Diffusion, Stability AI also creates open source music, image, and video generation models."
-    publishedDateTime: 2024-02-14T18:40:00Z
-    webUrl: "https://www.androidpolice.com/stability-ai-guide/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 11
 
 secured: "M8sXQCx/IankpiEmet50+/2VCT6JHbQMQ/VQKBZeG09sTWOWzRjPdah7oiFwA0sTcYj0rcQQbi8fQ9zkL83TeuzI9GhVlypTSrfJTJYbF8/aS0UXKwcgNZumWRxFr/i0XCUYRBqQ8NVB9fRO0ZNppUh/ZINW4dTgN4Ga0sZazD9hHO8KP2cscUCzMRDhIYNP7X8DotqgUTk8dnSTiRudZrZNMbfn2tmNKOlmM1K+8ZGCcccAimp+40cCDnVCFR/p4Jz1X4A7Uz+t9V4GOSE7LnRVqC7q/HI7GiPbwzGHKWs3oBSFofQOSsNboVHwwoqEbK4/6N7OXuDsqQK6AynQRhLuyB2vLb+sL8hpSOsj1uQ=;rlzu4Y+J5clR12L2vCQl1w=="
 ---

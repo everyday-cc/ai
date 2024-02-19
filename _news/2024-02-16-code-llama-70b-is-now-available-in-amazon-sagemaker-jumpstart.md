@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints"
+    excerpt: "Amazon SageMaker multi-model endpoints (MMEs) are a fully managed capability of SageMaker inference that allows you to deploy thousands of models on a single endpoint. Previously, MMEs pre-determinedly allocated CPU computing power to models statically regardless the model traffic load, using Multi Model"
+    publishedDateTime: 2024-02-19T18:13:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ML-15023-image001-1260x460.png"
+        width: 1260
+        height: 460
+        isCached: true
   - title: "Detect anomalies in manufacturing data using Amazon SageMaker Canvas"
     excerpt: "With the use of cloud computing, big data and machine learning (ML) tools like Amazon Athena or Amazon SageMaker have become available and useable by anyone without much effort in creation and maintenance. Industrial companies increasingly look at data analytics and data-driven decision-making to increase"
     publishedDateTime: 2024-02-15T15:54:24Z
@@ -41,20 +55,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ml-14561-image006-e1706807831681-1249x630.png"
         width: 1249
-        height: 630
-        isCached: true
-  - title: "Skeleton-based pose annotation labeling using Amazon SageMaker Ground Truth"
-    excerpt: "Pose estimation is a computer vision technique that detects a set of points on objects (such as people or vehicles) within images or videos. Pose estimation has real-world applications in sports, robotics, security, augmented reality, media and entertainment, medical applications, and more. Pose estimation"
-    publishedDateTime: 2024-02-14T17:29:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/skeleton-based-pose-annotation-labeling-using-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/31/ML-14933_football_player_2-875x630.png"
-        width: 875
         height: 630
         isCached: true
 

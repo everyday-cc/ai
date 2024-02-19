@@ -45,6 +45,22 @@ related:
         isCached: true
   - title: "The women in AI making a difference"
     excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
+    publishedDateTime: 2024-02-19T17:38:00Z
+    webUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/"
+    ampWebUrl: "https://techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/19/the-women-in-ai-making-a-difference/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/women-in-ai-cover.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The women in AI making a difference"
+    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
     publishedDateTime: 2024-02-17T15:23:00Z
     webUrl: "https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/"
     type: article

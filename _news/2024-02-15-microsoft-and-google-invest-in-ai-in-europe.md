@@ -226,15 +226,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
-  - title: "North Korea and Iran using AI for hacking, Microsoft says"
-    excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
-    publishedDateTime: 2024-02-14T18:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/14/north-korea-iran-ai-hacking-microsoft"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "65mbA3zlsOE1SrCp9uZMwDI3TUrB3EQtWmnl1jEu0A+T7mTgJC1HXF4UrQbqmlWH0MrDxzxtZh8+mzESl+CQdeglrxNDH9oOST4tIHwA50FbyRAUuQ9hawU4ItBeF1klnZN+kjvrZPoLqVD9OHl7TirIBLNJj1DV6Nsl4SuDYYtvVMLWcy+5BfIjy1wspa7rvkyq0wOJhXE3tQB7X+RwoRl0wATVRXxGrjPljgJbM9wwCmYoxPmsr4Brc0bxKsLNb3JiUrl4h4/B6W3WUDjQ9dLT9InHns+n7gR0rj3SXKkSsy9X3yU7jJJSpmwHDyaJ6R8sq6eB//kQTft0bNhfixRoM4l8nwGiJxLLB8U1+/U=;KbgrnApxU5cRjhwkjxnX4A=="
 ---

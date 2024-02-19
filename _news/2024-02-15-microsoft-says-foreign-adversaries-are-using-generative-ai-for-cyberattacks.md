@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-for
 webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-says-foreign-adversaries-are-using-generative-ai-for-cyberattacks-1033068154"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
-    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
-    publishedDateTime: 2024-02-14T18:20:00Z
-    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "IFS and Microsoft to showcase innovative AI solutions for telecom operators at Mobile World Congress Barcelona 2024"
     excerpt: "IFS and Microsoft will highlight the unique value that their IFS.ai solutions on Azure deliver to help support operators’ network transformations, monetization of 5G services, and leveraging of indust"
     publishedDateTime: 2024-02-16T07:59:00Z

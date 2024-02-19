@@ -37,6 +37,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
+  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
+    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
+    publishedDateTime: 2024-02-19T15:55:00Z
+    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
+    type: article
+    provider:
+      name: IGN
+      domain: ign.com
+    quality: 34
+    images:
+      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gkTN/wWquMwsokvZ+RVgTpekKtCtqgAYRoisfxHs9JM8gfYDv/tJ2HzNRmE5EblKL1vPg+PhiaAb/UoeqBXEX/ejdKnRFnkUM2zfEXRFjG5QfeR/FOPEzSrs0iL6pY2b4NL9iJWO6ZcB6NqtE9g9/gfpbJUentw3KIPe6h4r3sxK/9xerVn/ujZ/DZ46LSSg/sDE8Jb/ZLZLhgvcnLOVjjeYiHWvcNejQ4re1OKIQlw13dQvF8jliMUnkgaGcYZWlkiKR3NcRJMLthup6955IqJOhjaXeXKaYdbflTMYagNDREHq+bdYZ1Ndw96SAZvS+PN9Sk2TbRsI0N1uHEUrAt2spmMQ1l8/FBrPS7HaSNO551Sj3b3LfyVSDqUitpbEme0uhV4x78LNZQjIQvu24GLS0foh0Bcrq00N3sGVT2ssjJfatgH53KgjouZloq3tCP0D8roEm5a1qcfuXeDGSmG5WWVV0RIIGfg6C3ayN7GZHMyc4QfIWBYQthaRT7TC5Qc4/XdOhed4irl1nIkiVg==;O0Yi2xm23mbNrckq76lH9A=="
 ---

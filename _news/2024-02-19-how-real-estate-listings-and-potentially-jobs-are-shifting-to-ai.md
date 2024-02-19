@@ -3,25 +3,25 @@ category: news
 title: "How real estate listings and potentially jobs are shifting to AI"
 excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
 publishedDateTime: 2024-02-19T15:30:00Z
-originalUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
-webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
-ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
-cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+originalUrl: "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+webUrl: "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+ampWebUrl: "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+cdnAmpWebUrl: "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Orange County Register
-  domain: ocregister.com
+  name: The San Bernardino Sun
+  domain: sbsun.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
+  - url: "https://www.sbsun.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
     width: 1024
     height: 642
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 960
         isCached: true
 
-secured: "XB3bE64RlHcN+hdhCiJYVnQJocxjqtOUiVqDDItb6Ey5G4rXDVdnLi+HRY9H09tZZENK8g5RLUTfmPLFmWILa0Y1bU6SkSkMp12WEYPWhTZ0XO+WRI/VxZWIAPmP99BR4kA4iNywfB4t/PyL9JuvR0IisInJmM3Q+hhm4TF51vv6dVjZ+2+TKikB+0GjW1DxoAf5Sa3N+ofB4PaSB/xqHvk1lMCeQpjlwzGtc85jcSYJuuuhLyYko/OWI9LoOtt8M9M8iOcrF79Uc5adJU7zjAk4MY40BiiT1qdHjoGQHpjk2Q6MYL4O/byHJXYo8jWplfqeg1MA3qWFflzN7LQRMiIyucACqcF6HF+HdFzPb/Q=;WQAA2xsMxfvbLuPYKbFwZg=="
+secured: "4PgLsyhOd3OlxoyaW9nnloWr1GNtOQi1aaIIl7C5zA0XKDncUn5k75KCAIxlkPCGa5YjtAs3ebHwP9PzrrQXFviSgySKFeUcQOeuRTsbSu7mc35No+E0CA+17hQt98u+qC70/pAAO/wIEHBRme/Ro8HWP/TWnmtIaa5sHz240QgUJRtmcib2r5FM/7b49RJaT3z55YQh6QLDRWuGNmx1bpsqNqF4fGdVf9dRmEoLHRPbYnCzizn2StAPhjY1ZY6gwTces51DgG8+28EeTviuwAYu5F+vNUUalMJYfU6a2tSQe1lWVPNkSTIyCcOAHxMJlRSqQWisYsUgnWZpbg9Gihb1HHkuzBlpYsxKZPGLQ4Y=;zLlCQXeoQqx+TY65BWCyuw=="
 ---
 

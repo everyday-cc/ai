@@ -231,15 +231,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 34
-  - title: "North Korea and Iran using AI for hacking, Microsoft says"
-    excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
-    publishedDateTime: 2024-02-14T18:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/14/north-korea-iran-ai-hacking-microsoft"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 34
 
 secured: "LBYqS5d0FLlTQSQIpD2MmmipebHpcm+4mXFrpknEI0Rk9/17Ed4GziIUllhh2Zb12AHIBo2VPntI7lBoRS4Cp+W5t0Ivsq2HiZ/Ms1g04HrbpvetstKZwpXTNXv0wKu2BSWKlK0Xkr35pV5WIXbw7oyGBuWrduJgiUBm4mG9S+OqhDRXwZeURh5BgCF63in2Oe4gtLy2iYUoAc7kR52dJjNUBnnT8VMNrP+JYFfe7GauCht1GhQnwXK6BithN7dbHDiU/RHLZbfb57KMBiFjVBuuq6MX6T72MbYnds6sSIuutrrP5szZ2a0Zivd2opK9uLpJUWY/E875OwnGQXElW1Zvpr1k60p6l6Ec9xBGhLc=;duQCLYFvHhbSG1RIm313Vw=="
 ---

@@ -67,6 +67,34 @@ related:
         width: 1529
         height: 1038
         isCached: true
+  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
+    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
+    publishedDateTime: 2024-02-14T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-16T02:01:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4671"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 8
+    images:
+      - url: "https://img.digitimes.com/ad/en_20240130_asia_bigbutton.jpg"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "HZjkczG9LcspY1IbpeX2vAhrvmPybXVdAN/V1wSADq68epbOTW007matuEeeBVgegsb2iqxy/x9jlwag22WeQ1pmYV0DC2AsiyaJjq/ITEmalFxBFpWD1Ub24e03Y3L15ysf5GgPreMmcMHGtReHQ8NovMZTi9qLP1m9OU9cBxubO4JZ5ghzsWXHyXTVpvG5yarqRN5oIiFdwh6gxhqrR8pNIIzvPWRrE7EP3xl4/RV7qZa5DSi7nKaNd/AY8aW6c7hZskaTi351tqffRYHsFlyJ2c3EnUi58uNKaadBKVzLxqUmDQm1KAojmm+Bnf+F16dU0SvrtK5EzZe1fk1Zwvp2cYeO/Xq/dldaxyXiZ50=;WKsyd6ZOknUaEmstfNe9UA=="
 ---

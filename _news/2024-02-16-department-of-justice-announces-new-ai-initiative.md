@@ -67,6 +67,34 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
+    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
+    publishedDateTime: 2024-02-14T21:01:00Z
+    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 12
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
+        isCached: true
+  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
+    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
+    publishedDateTime: 2024-02-16T02:01:00Z
+    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4671"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 8
+    images:
+      - url: "https://img.digitimes.com/ad/en_20240130_asia_bigbutton.jpg"
+        width: 336
+        height: 280
+        isCached: true
 
 secured: "71AgWBMV7dWwr6EYq1DSmu8fX32kdRL9HaR361ZauRI0pbVAN4lsLxPGKEjGmEPwU2x5mFPV/Gy7kVdr/LVR+Z6mkmUsFRyBgH1WsfMkIKZwAj8/+ziCNOTh7ULug2uz1RFRqH+LXdokxSaAO1mDUzqiWj/qnByDja3uIiWrHfHzcX9qjt18fcOnAPPF10mYUMewaF07lu4fbaERshHIzWaUyksm4gvTAADv0XU9NbioqXoiW+EtRCFWydCJmEXaaRmVsQ6JywFj3RRuUAeDEuaQhY6oRortY70RKHew2dDZ/vyqeujQIxlNDT4bKsEEZ0PL8FDpCwj3dt1wNuDdnuwH7Se1HRF2w0q6ftExGcN/qV6CDMIFWXHVekkrAWqN72t8+niHuxkhvbba6/7JqmN7PSFI2IDk1D9Did3A5XNP3oaGIL1Cxxna3OoUyM9lHRQHbsGDLgMAwO9F8+53mdxRA6QdFqszWZYaz0CtFs2x/QZVNNVAJ/RmYIjrT0ClGeyOpYewIDjQAB8d88sr5w==;llgexkHvGLKKWtArfvBCYw=="
 ---

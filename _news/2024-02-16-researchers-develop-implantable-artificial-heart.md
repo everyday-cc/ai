@@ -7,7 +7,7 @@ originalUrl: "https://www.bioworld.com/articles/705903-researchers-develop-impla
 webUrl: "https://www.bioworld.com/articles/705903-researchers-develop-implantable-artificial-heart"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Researcher receives Naval Research Laboratory grant to develop more sophisticated sensor array"
+    excerpt: "RIT researcher Xudong Zheng gets a Naval Research Laboratory grant to develop a sophisticated sensor array to improve object identification and monitoring."
+    publishedDateTime: 2024-02-19T17:49:00Z
+    webUrl: "https://www.rit.edu/news/researcher-receives-naval-research-laboratory-grant-develop-more-sophisticated-sensor-array"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 12
+    images:
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2024-02/WEB-Xudongzheng_Team_TDL.jpg?itok=H3LR1J9O"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "b2dnjujuIxykYUSAByo5yXavlSHDv7TqJ1vxpudFdXDck7WDRmXkjzmdiJms8npZat7ivXJZLv97nG7MHHsLdl6Ik1kDI1YpQHDzd+aQ9NR70emL8wyGk83xwE0Y2yzV8M+LEBsMw6dMSsVhuDwbS8ptBiz/Yjwpd4YxJ+PcmmyjagH9scM9IRWMqL82YZMJUMv3G56KzCFsfkdMRrfGGCiZHgfdHzhIjEowQ/xz86spRSFEiuH/MCEbhTNnuUK1pHv4oUG1gFJyOo086oNGW8Q/gwHcqnbLeFUxeZdlpthzwqX0JCe6mehIXIJrMGzQWniufoFaEmdremvI9XBV6kHN8gT+3O4ZzJCS6z22ydw=;35LaiUAD5cI4g9LOcbcHYA=="
 ---

@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Penn is the first Ivy League to offer a degree in AI"
-    excerpt: "Penn is the first Ivy League to offer an undergrad AI degree. The new program will be available this fall."
-    publishedDateTime: 2024-02-14T17:56:00Z
-    webUrl: "https://www.businessinsider.com/penn-students-can-major-in-ai-fall-2024-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "UPenn to Launch Bachelor's Degree in Artificial Intelligence"
     excerpt: "The University of Pennsylvania will offers coursework in topics including machine learning, computing algorithms, data analytics, and advanced robotics, with electives in AI ethics and trustworthy AI."
     publishedDateTime: 2024-02-16T18:06:00Z
@@ -48,19 +39,19 @@ related:
         width: 1440
         height: 700
         isCached: true
-  - title: "UPenn becomes first Ivy League school to offer Artificial Intelligence degree"
-    excerpt: "The Ivy League is taking a step into the future thanks to a new degree being offered by the University of Pennsylvania in Philadelphia."
-    publishedDateTime: 2024-02-14T17:19:00Z
-    webUrl: "https://www.aol.com/news/upenn-becomes-first-ivy-league-151914965.html"
+  - title: "John Brown University adds bachelor’s degree in artificial intelligence"
+    excerpt: "John Brown University in Siloam Springs will offer a bachelor’s degree in artificial intelligence (AI) beginning in the fall 2024 semester. College officials shared the details Monday (Feb. 19)"
+    publishedDateTime: 2024-02-19T17:19:00Z
+    webUrl: "https://talkbusiness.net/2024/02/john-brown-university-adds-bachelors-degree-in-artificial-intelligence/"
     type: article
     provider:
-      name: AOL
-      domain: aol.com
-    quality: 36
+      name: Talk Business
+      domain: talkbusiness.net
+    quality: 39
     images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/KFUVO.UYvuMO7mRkGkYQDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_aggregated_articles_807/cdf0f5aebfe28c2f2df9022e2e1b104e"
+      - url: "https://talkbusiness.net/wp-content/uploads/2020/07/John-Brown-University.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Penn Engineering Launches First Ivy League Undergraduate Degree in Artificial Intelligence"
     excerpt: "The University of Pennsylvania School of Engineering and Applied Science has announced the launch of a Bachelor of Science in Engineering in Artificial Intelligence (AI) degree."

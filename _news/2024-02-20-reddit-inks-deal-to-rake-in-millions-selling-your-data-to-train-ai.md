@@ -1,0 +1,44 @@
+---
+category: news
+title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
+excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."
+publishedDateTime: 2024-02-19T17:05:00Z
+originalUrl: "https://hothardware.com/news/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai"
+webUrl: "https://hothardware.com/news/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: HotHardware
+  domain: hothardware.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/63935/content/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai.jpg"
+    width: 708
+    height: 398
+    isCached: true
+
+related:
+  - title: "Reddit Is Licensing Content to an Unnamed AI Company"
+    excerpt: "The moves comes after Reddit irked developers by charging for access to its API, in part because large language models were scraping its content."
+    publishedDateTime: 2024-02-17T18:57:00Z
+    webUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03Hyh2PyimAsnt28T5jQSB3-1.fit_lim.size_1200x630.v1708196194.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+
+secured: "rwN42Ub7q7DKkeGXAhvLXprslilOcjloTamfJBpvYdbnF91xwbJQA2yxphB8x7DGdJXIni45lpu0X/1HFQDe+mx16WB6WlNnbzkEEeMpa9+6bbyZ/kXbVOJTkYzLjCuSYToyRqgG+HtUe02Pt7Vir659MWA5o4WREWCHLB1rIjxt+REzrGHNGX3LHOf97skZB52iofqPfKUOAiPEBQu49tktBcVymoMjZJsZV2jFbTNjUpmzBvzKHTnujPKh1tF4aR8/XzcORtxsxH7j1g3QkyuyCCUMufQFHiJRDIbRcdTtW+a/2k58LpZhSIDYWQ4USJ9W7cPL2e1jOiQqi7+izIP1IDOmgq/QJ8GtL7/fKpk=;/WJFebyf40FLTzGnCfBl/A=="
+---
+

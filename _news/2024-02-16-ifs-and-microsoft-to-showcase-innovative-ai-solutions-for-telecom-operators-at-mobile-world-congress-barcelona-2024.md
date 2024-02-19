@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 64
-  - title: "Microsoft: Hackers Are Using AI to Improve Cyberattacks"
-    excerpt: "Under this strategy, Microsoft is building a new GPT-4 AI assistant, Security Copilot. The tool is being designed to better detect cyberthreats and security risks before they cause harm, by summarizing vast data signals. It will then be able to reinforce the appropriate security accordingly."
-    publishedDateTime: 2024-02-14T18:20:00Z
-    webUrl: "https://tech.co/news/hackers-ai-cyberattacks-microsoft"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 54
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2022/04/08130348/computer-hacked-e1649437459192.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
     excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
     publishedDateTime: 2024-02-15T17:00:00Z

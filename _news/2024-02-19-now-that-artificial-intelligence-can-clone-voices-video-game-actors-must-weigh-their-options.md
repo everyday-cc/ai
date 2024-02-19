@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-v
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1383909511-e1708346325898.jpg?w=840"
         width: 840
         height: 472
+        isCached: true
+  - title: "Some Video Game Actors Allow AI to Clone Their Voices. They Just Don't Want It to Replace Them"
+    excerpt: "Game makers say AI clones could save time and money, and some performers are giving it a shot, as long as they're fairly paid."
+    publishedDateTime: 2024-02-19T17:31:00Z
+    webUrl: "https://www.inc.com/associated-press/some-video-game-actors-allow-ai-to-clone-their-voices-they-just-dont-want-it-to-replace-them.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 25
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1353302248_wf7a0q.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
     excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"

@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "What Are the Best AI Stocks in February 2024? Our Top 3 Picks"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024."
+    publishedDateTime: 2024-02-19T16:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "5 Undervalued Stocks To Buy In February 2024"
     excerpt: "One way to find investments is to identify stocks that are undervalued but have strong fundamentals and growth prospects. Here are five that fit the bill."
     publishedDateTime: 2024-02-14T19:25:00Z

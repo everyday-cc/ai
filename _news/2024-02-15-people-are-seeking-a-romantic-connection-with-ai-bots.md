@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "With AI Big in Construction, Don’t Skimp on Respect and Ethics"
-    excerpt: "In the face of massive demand for new physical construction and amid the tantalizing benefits that early adoption may offer, it’s critical that the industry’s embrace of AI is done strategically, ethically, and with a healthy respect for both the technology and the people it will impact."
-    publishedDateTime: 2024-02-14T17:59:00Z
-    webUrl: "https://commercialobserver.com/2024/02/ai-construction-ethics/"
-    type: article
-    provider:
-      name: Commercial Observer
-      domain: commercialobserver.com
-    quality: 34
   - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
     excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
     publishedDateTime: 2024-02-16T18:53:00Z

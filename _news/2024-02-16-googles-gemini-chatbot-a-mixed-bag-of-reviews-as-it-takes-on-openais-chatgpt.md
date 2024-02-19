@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good"
+    excerpt: "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test."
+    publishedDateTime: 2024-02-19T08:40:00Z
+    webUrl: "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 95
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/1ccf148eef076cac3e9b8d3a9942ad0f45134b0b/2024/02/19/91f4a2a2-3674-4726-9ea0-825a6c9f6629/gettyimages-699283090.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT's been acting weird — and it's probably our fault"
+    excerpt: "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says."
+    publishedDateTime: 2024-02-15T12:49:00Z
+    webUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2"
+    ampWebUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU"
     excerpt: "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them."
     publishedDateTime: 2024-02-15T16:54:00Z
@@ -70,36 +102,96 @@ related:
         width: 1320
         height: 742
         isCached: true
-  - title: "'Look What's Happened': Elon Musk Questions OpenAI's Path After Nvidia's AI Supercomputer Donation To ChatGPT-Maker In 2016"
-    excerpt: "Elon Musk criticized OpenAI's shift from its original open-source, non-profit mission to a closed-source, profit-oriented company, reflecting on the past donation of Nvidia's first AI supercomputer and questioning the ethics of accepting shares."
-    publishedDateTime: 2024-02-19T11:03:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37198979/look-whats-happened-elon-musk-questions-openais-path-after-nvidias-ai-supercomputer-donation-to-chat"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37198979"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37198979"
+  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
+    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
+    publishedDateTime: 2024-02-16T06:50:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
+  - title: "5 Awesome ChatGPT Side Hustles: Make Money with AI"
+    excerpt: "The rise of AI tools has opened up new pathways for individuals ... ChatGPT’s capabilities in understanding and generating language make it a valuable asset for translation tasks. When venturing into this service, it’s crucial to input clear, simple ..."
+    publishedDateTime: 2024-02-18T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/5-awesome-chatgpt-side-hustles-make-money-with-ai/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/side-hustle.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "What the EU’s tough AI law means for research and ChatGPT"
+    excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00497-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
+    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
+    publishedDateTime: 2024-02-15T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 48
+    quality: 41
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Paris--France---June-16--2023-Elon-Musk-_31.jpeg?width=1200&height=800&fit=crop"
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
         width: 1000
         height: 667
         isCached: true
-  - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
-    excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."
-    publishedDateTime: 2024-02-15T05:52:00Z
-    webUrl: "https://www.ibtimes.co.uk/chat-rtx-here-nvidias-offline-ai-chatbot-ready-talk-1723438"
+  - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
+    excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
+    publishedDateTime: 2024-02-16T05:30:00Z
+    webUrl: "https://www.geeky-gadgets.com/google-gemini-ultra-1-0-vs-chatgpt-4/"
     type: article
     provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 39
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1722987/nvidia.jpg"
-        width: 1024
-        height: 833
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Google-Gemini-Ultra.png"
+        width: 1280
+        height: 712
         isCached: true
+  - title: "ChatGPT vs. Google Gemini"
+    excerpt: "The landscape of large language models (LLMs) is heating up, with titans like Google and OpenAI throwing their hats into the ring. Google’s latest iteration, Gemini, formerly known as Bard, promises to challenge the reigning champion,"
+    publishedDateTime: 2024-02-16T20:38:00Z
+    webUrl: "https://techbullion.com/chatgpt-vs-google-gemini/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 41
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/WhatsApp-Image-2024-02-16-at-11.07.52-AM-1-1000x600.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
+    excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."
+    publishedDateTime: 2024-02-19T13:35:00Z
+    webUrl: "https://cointelegraph.com/news/groq-ai-model-viral-rivals-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 35
 
 secured: "Nnfi3XKolIb+jYY1pBlQKH5/gqeiFnGa7y0MuraVF7RZ6qFslFBi89w2hvPagaQTFtnmh1cvtaEoBnNOLcFB75ib110IAnI1A7FnQ+ncUEXpzaCJSokEC2q5J2tNyM/7nuR6LqHLzF6Oh8TqS9PwJ0k1UuxN4k7fV9Ly+HLlAueeDpaTbF6lgOTYJjw7tP3dFiCvtliTYHcAOJ6dx1FfM+uSqpWUL+VRl6lbONu/dw8d+byjtWNfcu7IudmlZZy+87kZa6fOoFGd1nf1XwCbaDniv/gve8/e9rDsBshg2Pr3lrhbG04D9sctYBbM3gBhvXMGUQieOopybuXCI+PXcubmQQ1pZSlyHfxhjrK/xyo=;PrnBSOBt5u6/PdK6otsKmg=="
 ---

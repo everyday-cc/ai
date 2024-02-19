@@ -56,6 +56,20 @@ related:
         width: 840
         height: 472
         isCached: true
+  - title: "Some Video Game Actors Allow AI to Clone Their Voices. They Just Don't Want It to Replace Them"
+    excerpt: "Game makers say AI clones could save time and money, and some performers are giving it a shot, as long as they're fairly paid."
+    publishedDateTime: 2024-02-19T17:31:00Z
+    webUrl: "https://www.inc.com/associated-press/some-video-game-actors-allow-ai-to-clone-their-voices-they-just-dont-want-it-to-replace-them.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 25
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1353302248_wf7a0q.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Vw+NyqSBewN3sqLtLkvYXmzBwfDoHZV8rT4D85F+XKRwEsTAuhXWxWgejZ/8AU+6VgEQqEvro+J/cl7AGEgRWa+gCCnR0u0RBtOkdJaKroeiYTNpDiCnDQ6ROH/P0M/83xObVjxlsfT6NMgGxN1JpyT0Va8nwVXxsj5dzbxI5PeWzLHuhRTIs1M6jRysfiWo3LAVjmyIWFOI/P+q3pbkaxz3wWmUUyYVd0EYIlFr6xes2t4dAfrrS9tn/WJVPzUfr8qMF0q38O7s4QJna4kTgIGwIT2MaBiqjk0hxUr6AAqJBQvUIElFQn5BZV/KqqEqJe6EabMHbnmThdIA/swz8efFwbQYl5BlIu7rGbM2BpU=;Q7kTXPzVAqXh8fPk1CcgpA=="
 ---

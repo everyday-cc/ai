@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-s
 webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
 type: article
 quality: 100
-heat: 270
+heat: 260
 published: true
 
 provider:
@@ -232,15 +232,6 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 34
-  - title: "North Korea and Iran using AI for hacking, Microsoft says"
-    excerpt: "US tech giant says it has detected threats from foreign countries that used or attempted to exploit generative AI it had developed US adversaries – chiefly Iran and North Korea, and to a lesser extent Russia and China – are beginning to use generative ..."
-    publishedDateTime: 2024-02-14T18:52:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/feb/14/north-korea-iran-ai-hacking-microsoft"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
     quality: 34
 
 secured: "8UY7t0Q0wrIDVcdOrXglj8HlI+GlkLPB3WPW1zYokEH7rCA0XiJDJ6WScCFfiKOulptIbgOgr31UIMdsY1nsZLnMRzYxnH/gtlB9jl0JAHSbnhrHXF26dWAG6B5z6QSe3Egxyx00SoMytD3j1kCGX+9zAVDPk44g8PffmWLbqIJpP/C7QXUxZEInwMBAAFgpAS8Qep4Esl9q7GzwwdHaoZTSQje7K77yl5OUikkg8pPpyEI3kijS2uh5gC2mWTeJuJ/gwu+q5vb8wuwMRc9pA+IV1es+GCJczg1rYRQSkKHhzkvydukAopPcLGKOLXD7wHc/MsP/l82Ztnl93jOclwy4TQEqraGUFOg8Q1mSWTqh2ReWO/kvwUba1LHlb+mWJFltGXovEv5N2WfSRudbvGfwFc+c+nU8JnLxfbGVMYJGaPx5lepyJ8iyY7uAZVlLRl0pWFL5JqTebujBFD8PC45qPnA87IjVB8o+t9NXZPZw/GWTOmMNLFm8NEuwJ/PZGOpZTnkMN4Eq170rSmxwfw==;9mPXlYvBZxL03/e4xkbhqQ=="

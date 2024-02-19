@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "AI Is Getting Boring, And That’s Pretty Exciting"

@@ -43,22 +43,6 @@ related:
         width: 3200
         height: 2400
         isCached: true
-  - title: "Waymo recalls software after two self-driving cars hit the same truck"
-    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart."
-    publishedDateTime: 2024-02-14T17:28:00Z
-    webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
     excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
     publishedDateTime: 2024-02-15T16:23:00Z
@@ -75,26 +59,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Self-Driving Car Company Waymo Issues First-Ever Recall After Two Phoenix Crashes"
-    excerpt: "Self-driving car company Waymo issued its first-ever recall over a software issue after two of its cars in Phoenix collided with a pickup truck being towed backward. Alphabet-owned Waymo said it ..."
-    publishedDateTime: 2024-02-14T18:34:00Z
-    webUrl: "https://www.wsj.com/business/autos/waymo-issues-recall-self-driving-cars-crashes-caf17ebe"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 44
-  - title: "Waymo recalls software after self-driving taxis crash in December"
-    excerpt: "Waymo has voluntarily recalled its driverless taxi technology after two of the company’s self-driving cars crashed into a pickup truck that was being towed in Phoenix, Ariz., in December.  This is"
-    publishedDateTime: 2024-02-14T17:37:00Z
-    webUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/"
-    ampWebUrl: "https://thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4468073-waymo-recalls-software-after-self-driving-taxis-crash-in-december/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
   - title: "Self-driving taxi company recalls software after crashes in Phoenix"
     excerpt: "A driving technology company voluntarily recalled its self-driving car software after two of its robotaxis hit a towed vehicle in Phoenix at the end of last year. Waymo, a subsidiary of Google's parent company Alphabet,"
     publishedDateTime: 2024-02-14T23:10:00Z

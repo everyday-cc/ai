@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnam
 webUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: PC Magazine
@@ -26,6 +26,22 @@ images:
     width: 1120
     height: 630
     isCached: true
+
+related:
+  - title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
+    excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."
+    publishedDateTime: 2024-02-19T17:05:00Z
+    webUrl: "https://hothardware.com/news/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 37
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/63935/content/reddit-inks-deal-to-rake-in-millions-selling-your-content-to-train-ai.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "KQqMHaShIOL2TMKnAu3lqhpooA3HVTJ+LD3R/bR3dPqRgcUskFbC44gmmoif8cHzWvXdhCFWMU8N6vCrw2t/PXA2R2U4S1ZQ1iPYxlKef65QOL/M4FFa4Ga05+xPwba72ym/z/k8fyYo8+HqFZoEDRjb7DisgbPofw2x5IjQLlKYyoc03Ydh5KHKXmc5bVxbmintxxIJVLPScanFoPCdQEyj6omb8+GFo2EKJj1Tkxv9uGjHrFuGi6izZ9UwDeBLRYjj5Y1x29yxSPNfHT0yx21KfLucoB0P3NTlvVg4SPmoivodyYkHmiy5y28W1vG8K0omWGNjhknw4heEDPI33lNmopxyZRY9FLiFG09jyHBPaswV8CvB+xKTDFyvvPBTqpzaIyNgknoHI/GwcVn5B1OJeAf6r6MrZHvgjyAWRSChbj8ImUstiGSDQBtAaddZLUtuqUETHIesWkzrcVux+jAeeC8iAX4tjVFFi/jBeO+smWwpV9doX5YnBOGibmhXjdDu8Ou9LwyhCsgf1yeYOg==;Fsp1gp6QQKm9rw/InxdZNA=="
 ---

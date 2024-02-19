@@ -67,15 +67,6 @@ related:
         width: 1280
         height: 717
         isCached: true
-  - title: "With AI Big in Construction, Don’t Skimp on Respect and Ethics"
-    excerpt: "In the face of massive demand for new physical construction and amid the tantalizing benefits that early adoption may offer, it’s critical that the industry’s embrace of AI is done strategically, ethically, and with a healthy respect for both the technology and the people it will impact."
-    publishedDateTime: 2024-02-14T17:59:00Z
-    webUrl: "https://commercialobserver.com/2024/02/ai-construction-ethics/"
-    type: article
-    provider:
-      name: Commercial Observer
-      domain: commercialobserver.com
-    quality: 34
 
 secured: "31tKRyiicpidUFnFbmazkunuBn83MU6l03pivsmYTRhwiauLzmDx+qNbavFVdxxzhyrkcytFyDmC862ZpuSBp6NTAKJar0E+bZ3F8T47zJzdJm6rTJeTBYqcbC6tVTD5AV3bzerJW2rm1zduRiezNN406ca+HbtyQDZhn9IeN0UuiXN8XjSsnY576tc84MYngKGbjmcwRpH4wbrtkL+L+Vig5S4KWMEPxN827ufhBzSRzyrvC5iElhUDxI9YPWvDnYxQX3YyRq7ajJDWZ97e5Z+muMcDib0RtBUXjbbDuDgXcYVQmRI5n7I/YkcYhPqdgGel7gWNPu3hmKLqn/2H9QPw95UifI4Xcr9q+vhNVrU=;XA3YrvevASzK/twd/kLkNg=="
 ---

@@ -23,35 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T17:59:00Z
-    webUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-    ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
+  - title: "AI-generated voices of gun violence victims are sending pleas to lawmakers"
+    excerpt: "The AI-generated voice messages from young people killed by gun violence are part of a new campaign launched last week by two groups to urge lawmakers to act on gun control."
+    publishedDateTime: 2024-02-19T13:57:00Z
+    webUrl: "https://www.abcactionnews.com/news/national/ai-generated-voices-of-gun-violence-victims-are-sending-pleas-to-lawmakers"
     type: article
     provider:
-      name: WUNC
-      domain: wunc.org
-    quality: 53
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 37
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Parents of gun violence victims use AI to bring kids’ voices to Capitol Hill"
-    excerpt: "At first, the parents were hesitant. Kristin and Mike Song hadn’t heard their 15-year-old son’s voice since Jan. 31, 2018, when he went to a friend’s house and accidentally killed himself with an unsecured gun."
-    publishedDateTime: 2024-02-14T17:33:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/14/nation/parents-gun-violence-victims-use-ai-bring-kids-voices-capitol-hill/"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 34
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Ew8AbcNpR5JpJm57Flw78mM2LVU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SZKQ24E6KTURNBDZKNRY22HSXE.jpg"
-        width: 506
-        height: 337
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/03fc98e/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc6%2F30%2Ff573a1a94b1b9e46f45b51af93d9%2Fcnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbhnyegxmnniwmdfxm2i2ahhwbmqwetrk-l19jb21wb25lbnrzl2fydgljbguvaw5zdgfuy2vzl2nsc3j3ymw3ntawmwn1zg5pag0zzwh4bxa.JPG"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Families advocate for artificial intelligence to restore voices of gun violence victims"
     excerpt: "If the idea of getting a call from someone killed in a mass shooting makes you uncomfortable, families across the U.S. say that's the point. Artificial intelligence is now restoring the voices of people lost to gun violence."
@@ -64,6 +48,15 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
+  - title: "AI Voice Cloning Plays an Emotionally Charged Role in Anti-Gun Violence Campaign"
+    excerpt: "The Shotline's use of the voices of children killed by guns raises profound questions about the use of this technology."
+    publishedDateTime: 2024-02-15T18:56:00Z
+    webUrl: "https://www.inc.com/kit-eaton/ai-voice-cloning-plays-an-emotionally-charged-role-in-anti-gun-violence-campaign.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 12
 
 secured: "wOFKZGH/vdW1/Dikg0VYAoIgFLGfCSJJsueeQ5NM0S4gm6QzG+M4dkwyOPQPpHJfCmSNEl/KNaFT/sFVRqeuLIs2bDeZ7tcrVThRQ81GDrbkJvgZmtDS2opmf3HsddvJWQyHAgnY4xCqm9EYxkDMUls4m8c8+xtD21pzuafLzTHIHlOUVq7tKtMzotqEBB6oyTw8y6KafauEcQX31hqQ/5b9JDet4ztLL9ZLE5mzeTJ4CdzTZfmkfzFfrzQOxU/gPT9iueN0ahXH4lr3jGiLILuOagfc1a15NpOiG7OECDHFDJC792zkuXvfVT4wi6RfhBPktIuOZH2rfLWUViWeAj7KyDz+JaWGIJXHNbtCqLh3XlQOmRnlvnyYde4/t9ccHMSHYTtbO2GBxDuNNEWpQSzHIOuz3SxpNe6EI4zHx4WA8uezN84zfALyhyosynnCYQypUl3y/ombxEmKqELNYsW7sN9zyzVOb6uTpjmZjCsXdPyXAMJVefHfMlyyw3LWclMSxcAEf2i7gYwD7/88Kg==;SfXEzA/JRFM0bNiwhn5Rlg=="
 ---

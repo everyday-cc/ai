@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Use Artificial Intelligence to Create Forms, Surveys, and Quizzes With involve.me"
+    excerpt: "Software as a service (SaaS) company involve.me is launching its innovative AI-powered form builder, allowing users to create business forms"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/use-artificial-intelligence-to-create-forms-surveys-and-quizzes-with-involve-me-1033080843"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/89121331-1708310952-1.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Wisconsin Assembly passes bills regulating AI use in elections and outlawing AI-produced child porn"
     excerpt: "Wisconsin lawmakers have passed bills designed to regulate artificial intelligence, joining a growing number of states grappling with how to control the technology as November’s elections loom"
     publishedDateTime: 2024-02-15T20:06:00Z

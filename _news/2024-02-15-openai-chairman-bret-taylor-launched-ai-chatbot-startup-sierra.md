@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
-    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
-    publishedDateTime: 2024-02-15T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
+  - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
+    excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."
+    publishedDateTime: 2024-02-15T05:52:00Z
+    webUrl: "https://www.ibtimes.co.uk/chat-rtx-here-nvidias-offline-ai-chatbot-ready-talk-1723438"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 39
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
+      - url: "https://d.ibtimes.co.uk/en/full/1722987/nvidia.jpg"
+        width: 1024
+        height: 833
         isCached: true
 
 secured: "v54WPdz2TwrVGQp4FKql2Jzfq5LhwalERU3s9XT7/ALAiG2RRUqQKSdS1utaTLdkTmZlS2UfHDh8Dx91cQsKih9b6Vg9szMhvoHb15xsvHe8t9037BzH7BI0pO0L2lP7o5Nh25tv4qycd0D/VRnP2R7iqWHo6ludlGH1kRu7rBbWsa7Jsd565wayoTu5YdeyKw8Rz9xhxk1cvEHxjjpsD/JimpBxiiq1KqCBvq8nXpwRr80bWvoUpYEF1EaVyjAQhwXOsezaag7J+zcefuTeLgP1roIk6l5mpTsBkiSHWw0pHrl79zOLX9JsxCwsqlrtvczVfgmn1KzwAljoSpSLRSVVFphvu4dAMre3CoQyazg=;oRA0dTZH9vrJ6OMVAMX71w=="

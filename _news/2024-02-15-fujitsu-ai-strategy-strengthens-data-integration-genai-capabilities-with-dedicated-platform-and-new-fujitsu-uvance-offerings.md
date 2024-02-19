@@ -25,63 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Enhance Amazon Connect and Lex with generative AI capabilities"
-    excerpt: "Effective self-service options are becoming increasingly critical for contact centers, but implementing them well presents unique challenges. Amazon Lex provides your Amazon Connect contact center with chatbot functionalities such as automatic speech recognition (ASR) and natural language understanding"
-    publishedDateTime: 2024-02-14T17:43:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-16T12:12:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ML-15687_1_image1-2-1260x451.png"
-        width: 1260
-        height: 451
+      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
-    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
-    publishedDateTime: 2024-02-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+  - title: "Department of Justice announces new AI initiative"
+    excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
+    publishedDateTime: 2024-02-15T21:55:00Z
+    webUrl: "https://fedscoop.com/justice-ai-doj-new-ai-initiative/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Fractal is Leveraging Generative AI for Insurance"
-    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
-    publishedDateTime: 2024-02-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: FedScoop
+      domain: fedscoop.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2020/06/26011734845_e8cfcc6b44_o.jpg"
         width: 1920
-        height: 1080
+        height: 1024
         isCached: true
-  - title: "Interoperability is not AI"
-    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
-    publishedDateTime: 2024-02-19T04:57:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
+  - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
+    excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
+    publishedDateTime: 2024-02-16T04:43:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
     type: article
     provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
-        width: 1200
-        height: 743
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
+        isCached: true
+  - title: "Revolutionizing CXM with Generative AI: Insights from Everest Group’s Enterprise Readiness Report"
+    excerpt: "The integration of generative AI into Customer Experience Management (CXM) is heralding a new era of digital transformation. Everest Group's extensive report, “Generative AI in CXM: Assessing Enterprise Readiness for this Disruptive Transformation,"
+    publishedDateTime: 2024-02-15T16:32:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-cxm-with-generative-ai-insights-from-everest-groups-enterprise-readiness-report/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 26
+    images:
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/wfm-400x240.png"
+        width: 400
+        height: 240
         isCached: true
   - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
     excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
