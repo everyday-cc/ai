@@ -2,6 +2,298 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2024-01-12-ces-2024-older-seniors-are-happily-living-with-aiin-the-form-of-chatty-robot-elliq.md",
+      "title": "CES 2024: Older seniors are happily living with AI—in the form of chatty robot ElliQ",
+      "excerpt": "But it's probably not the generation that would first come to mind. ElliQ, a voice-operated, AI-enabled care companion robot, is gaining traction with ... This is primarily used to better control the context and flow of the conversation, decide when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "originalUrl": "https://www.fiercehealthcare.com/ai-and-machine-learning/ces-2024-older-seniors-are-happily-living-ai-form-chatty-robot-elliq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20D.jpg?VersionId=MA8l7w6puA0nUMFm4f41g8svtQC1uMoa",
+          "width": 2835,
+          "height": 1890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-how-beamr-technology-can-boost-machine-learning.md",
+      "title": "How Beamr Technology Can Boost Machine Learning",
+      "excerpt": "Beamr BMR is advancing on a new front and reveals its capability to boost Machine Learning for video. Machine Learning and Artificial Intelligence for video have demonstrated immense achievements and have even more tremendous potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "originalUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/12/screenshot_2024-01-12_at_7.02.46_pm.png?width=1200&height=800&fit=crop",
+          "width": 1005,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/markets/penny-stocks/24/01/36609969/how-beamr-technology-can-boost-machine-learning",
+      "publishedDateTime": "2024-01-12T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-ai-powered-humanoid-robots-soon-to-enter-the-consumer-market.md",
+      "title": "AI-powered Humanoid Robots Soon to Enter the Consumer Market",
+      "excerpt": "X, an AI and robotics company, announced it had secured $100 million in Series B funding to develop humanoid robots for consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://realtybiznews.com/ai-powered-humanoid-robots-soon-to-enter-the-consumer-market/98780850/",
+      "originalUrl": "https://realtybiznews.com/ai-powered-humanoid-robots-soon-to-enter-the-consumer-market/98780850/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://realtybiznews.com/wp-content/uploads/2022/07/banner-2.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T12:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "realtybiznews",
+        "domain": "realtybiznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
+      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
+      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/wirestory_8bd3fd4f404a0cda90e69e539a19fb01_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/robot-baristas-ai-chefs-caused-stir-ces-2024-106334129",
+      "publishedDateTime": "2024-01-12T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC News",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-what-are-the-best-paying-tech-jobs-to-have-in-2024.md",
+      "title": "What are the best paying tech jobs to have in 2024?",
+      "excerpt": "A complete list of the highest paying roles to go for in your field: software development, cybersecurity, data science, cloud, SDLC, leadership, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
+      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-startups-to-watch-rain-ai-want-to-make-ai-chips-more-like-the-human-brain.md",
+      "title": "Startups to Watch: Rain AI want to make AI chips more like the human brain",
+      "excerpt": "This startup is building AI chips that are designed like the human brain and can be installed directly in autonomous drones and smart devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2024/01/12/rain-ai-startups.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2024/01/12/rain-ai-startups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12666929/img6512*1200xx1200-673-0-236.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-the-age-of-the-cognitive-credit-union.md",
+      "title": "The age of the cognitive credit union",
+      "excerpt": "Credit unions are known for their meticulous, personalized care of members. Their smaller size, attentive service and community involvement set them apart",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/the-age-of-the-cognitive-credit-union/",
+      "originalUrl": "https://www.cuinsight.com/the-age-of-the-cognitive-credit-union/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T07:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-slew-of-deepfake-video-adverts-of-sunak-on-facebook-raises-alarm-over-ai-risk-to-election.md",
       "title": "Slew of deepfake video adverts of Sunak on Facebook raises alarm over AI risk to election",
       "excerpt": "Research finds more than ... Sunak were paid to be promoted on Facebook in the last month alone, according to research that has raised alarm about the risk AI poses before the general election.",
@@ -738,299 +1030,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
-      "title": "ABB Acquires AI-Based Navigation Startup",
-      "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "originalUrl": "https://www.manufacturing.net/artificial-intelligence/news/22883741/abb-acquires-aibased-navigation-startup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2024/01/ABB_Sevensense_I.65a00cd4d0ff2.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C200%2C2249%2C1265&w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T15:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning-techniques-for-financial-data-streams.md",
-      "title": "Rigetti Computing Awarded Innovate UK Grant to Develop Quantum Machine Learning Techniques for Financial Data Streams",
-      "excerpt": "Rigetti will be joined by Amazon Web Services (AWS), Imperial College London, and Standard Chartered to develop quantum machine learning techniques designed to enable financial institutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
-      "originalUrl": "https://www.nasdaq.com/press-release/rigetti-computing-awarded-innovate-uk-grant-to-develop-quantum-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-24-best-ai-tools-for-2024-optimize-entrepreneurial-success.md",
-      "title": "24 Best AI Tools For 2024: Optimize Entrepreneurial Success",
-      "excerpt": "Jasper AI is an advanced writing assistant leveraging AI models for efficient content creation, language translation, and diverse creative outputs. In development, it proves valuable for crafting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "originalUrl": "https://www.ibtimes.com/best-ai-tools-optimize-entrepreneurial-success",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/4501328/chatgpt-became-fastest-adopted-app-history-since-taken-over-metas-threads-users-marveled.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-this-openai-backed-startup-builds-humanoid-robots-it-just-raised-100-million-with-this-13-slide-pitch-deck.md",
-      "title": "This OpenAI-backed startup builds humanoid robots. It just raised $100 million with this 13-slide pitch deck.",
-      "excerpt": "Norwegian startup 1X, which has raised funds from EQT Ventures, wants to tackle labor shortages with robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
-      "originalUrl": "https://www.businessinsider.com/1x-openai-robotics-startup-raises-100-million-from-eqt-ventures-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/659fe638dcdb354a9856a3d1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-united-imaging-intelligence-highlights-dedications-to-advancing-intelligent-healthcare-at-rsna-conference-2023.md",
-      "title": "United Imaging Intelligence Highlights Dedications to Advancing Intelligent Healthcare at RSNA Conference 2023",
-      "excerpt": "The Radiological Society of North America (RSNA) has concluded its annual meeting in Chicago, IL, serving as a platform for revolutionary advancements in the field of radiology. United Imaging Intelligence (UII),",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
-      "originalUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/image_5006315_6860386_0.jpg?h=252f27fa&itok=WXDb_m7W",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-brainbox-ai-joins-the-aws-partner-network-to-bring-its-ai-driven-emissions-reduction-technology-to-aws-real-estate-retail-customers.md",
-      "title": "BrainBox AI Joins the AWS Partner Network to Bring its AI-driven Emissions Reduction Technology to AWS Real Estate & Retail Customers",
-      "excerpt": "\"With AWS at the core of our AI-driven solutions and technology infrastructure, BrainBox AI is honored to join the APN,\" said Jean-Simon Venne, Co-founder and Chief Technology Officer at BrainBox AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/11/9944883.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/11/9944883.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-how-generative-ai-is-accelerating-automotive-transformation-microsoft-azures-impact-on-the-future-of-mobility.md",
-      "title": "How generative AI is accelerating automotive transformation: Microsoft Azure's impact on the future of mobility",
-      "excerpt": "The mobility landscape is evolving at an exciting pace. Automotive, transportation, and logistics companies worldwide have a renewed sense of urgency today to embrace transformation and drive innovation in the movement of people and goods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
-      "originalUrl": "https://www.autonews.com/sponsored/generative-ai-accelerating-automotive-transformation-microsoft-azures-impact-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

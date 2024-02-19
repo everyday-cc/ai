@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stoc
 webUrl: "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558"
 type: article
 quality: 51
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Machine learning is a branch of artificial intelligence (AI) that is red hot"
     publishedDateTime: 2024-02-14T19:40:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/get-rich-quick-with-these-3-machine-learning-stocks-to-buy-now-1033068065"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Exit Now! 7 Blue-Chip Stocks to Sell in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chips, or shares in established companies with long track records of"
+    publishedDateTime: 2024-02-19T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-7-blue-chip-stocks-to-sell-in-february-2024-1033079793"
     type: article
     provider:
       name: Business Insider

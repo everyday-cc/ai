@@ -55,22 +55,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "Nvidia Releases Chat With RTX, an AI Chatbot That Runs Locally on Windows PC"
-    excerpt: "To run Nvidia’s Chat with RTX, a Windows PC with RTX 30 or 40 series GPU with a minimum of 8GB VRAM is required."
-    publishedDateTime: 2024-02-14T11:59:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/nvidia-chat-with-rtx-ai-chatbot-released-runs-locally-on-windows-pc-5056727/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 56
-    images:
-      - url: "https://i.gadgets360cdn.com/large/nvidia_chat_with_rtx_1707911795224.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
     excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."
     publishedDateTime: 2024-02-15T23:37:00Z
@@ -84,6 +68,22 @@ related:
       - url: "https://img.hoodline.com/2024/2/googles-gemini-chatbot-a-mixed-bag-of-reviews-as-it-takes-on-openais-chatgpt.webp"
         width: 1640
         height: 924
+        isCached: true
+  - title: "'Look What's Happened': Elon Musk Questions OpenAI's Path After Nvidia's AI Supercomputer Donation To ChatGPT-Maker In 2016"
+    excerpt: "Elon Musk criticized OpenAI's shift from its original open-source, non-profit mission to a closed-source, profit-oriented company, reflecting on the past donation of Nvidia's first AI supercomputer and questioning the ethics of accepting shares."
+    publishedDateTime: 2024-02-19T11:03:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37198979/look-whats-happened-elon-musk-questions-openais-path-after-nvidias-ai-supercomputer-donation-to-chat"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37198979"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37198979"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Paris--France---June-16--2023-Elon-Musk-_31.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
     excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."

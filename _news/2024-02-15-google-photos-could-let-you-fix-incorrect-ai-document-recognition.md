@@ -55,6 +55,20 @@ related:
         width: 922
         height: 624
         isCached: true
+  - title: "This iOS Trojan Is Harvesting Facial-Recognition Data"
+    excerpt: "GoldPickaxe' malware circulating in Southeast Asia is designed to steal facial recognition data, likely because banks and government agencies there are adopting biometric scans."
+    publishedDateTime: 2024-02-15T08:01:00Z
+    webUrl: "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04w7ZWlTRSx6ST7kQDWum6A-1.fit_lim.size_1200x630.v1707947992.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Croydon support for Met Police facial recognition operation"
     excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
     publishedDateTime: 2024-02-16T05:00:00Z

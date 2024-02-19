@@ -35,20 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Super Micro: Riding The AI Revolution"
-    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
-    publishedDateTime: 2024-02-19T00:02:00Z
-    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 37
-    images:
-      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
-        width: 640
-        height: 358
-        isCached: true
   - title: "Vapor IO and Supermicro Unveil Zero Gap AI, Leveraging NVIDIA GH200 Grace Hopper Superchip for Enhanced AI Services"
     excerpt: "Vapor IO and Supermicro are today announcing a new collaboration called Zero Gap AI, powered by the NVIDIA MGX platform"
     publishedDateTime: 2024-02-15T22:03:00Z

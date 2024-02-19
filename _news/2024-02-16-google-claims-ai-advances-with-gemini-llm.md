@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
-    excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/14/google-deepmind-gemini/"
+  - title: "Google Lengthens, Mixes, Broadens AI With Gemini Toolset"
+    excerpt: "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment."
+    publishedDateTime: 2024-02-19T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 45
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd60e78d0b0630549429ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1484
         height: 900
+        isCached: true
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
         isCached: true
   - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
     excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
@@ -53,15 +69,15 @@ related:
         width: 3874
         height: 2583
         isCached: true
-  - title: "Google Assistant is a mess, but is Gemini really the answer?"
-    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
-    publishedDateTime: 2024-02-15T13:00:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
 secured: "kOkwpyTOLSjYcGvo0v5DuINk9LcT7XER+05N1v96I+5+yRx+LMDq2R7UUuu2ps4cq5zvz/ch0Np6MQ62MdGYcnXikyveurLyZV5JSH6CsaFpgfDJXm6EhWjEx7wSXT5lq0fH7f4En8EACpIAz5vWQPwBRQZ0xs4gOxOoyQlNLLPldEMuwuXvOAP88THDqH8lePVfd8YQvgWaLzC95cCUyipHesEEbyGirxcL+KmoEjFjgGCZnOD4pYpQB4m+JYzh0k+JlSL+iKMshMTn2OQDYMUWJPJyYAZVkj1ulio2j0BeC4TLtEIr8ZHSqued9fY7TFBMxAdQxh0Lg2rzBtvJXxiHu41pT99Qe/9n2Lw3k11RwO0LsZZKgZf9Oa79J2GMndP8xIkVCCpAui9U9ApR0imrI8KEY5/f072LE7YeIF+ZGJzG5C0RhdJd1RTeKfdsq//vo+IDBmoqWAxfScFLzF/Cg8Bh4nrhTDycIZIsbnOTbNrRrHOH82G9pZcx/OfrgmN3VFgEfgd/5LBfiAnneg==;2UEkJBd5UBsEwgJprCCsQQ=="
 ---

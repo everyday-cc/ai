@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-19-voice-actors-face-a-reckoning-in-the-age-of-aibut-some-are-leaning-into-the-technology-to-give-themselves-an-edge.md",
+      "title": "Voice actors face a reckoning in the age of AI—but some are leaning into the technology to give themselves an edge",
+      "excerpt": "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/",
+      "originalUrl": "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1383909511-e1708346325898.jpg?w=840",
+          "width": 840,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/",
+      "publishedDateTime": "2024-02-19T12:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-google-lengthens-mixes-broadens-ai-with-gemini-toolset.md",
+      "title": "Google Lengthens, Mixes, Broadens AI With Gemini Toolset",
+      "excerpt": "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1484,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/",
+      "publishedDateTime": "2024-02-19T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
       "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
       "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
@@ -54,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -97,6 +202,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run.md",
+      "title": "Kakao Ventures Backs Korean Startup That Makes AI Models Faster And Cheaper To Run",
+      "excerpt": "Two-year-old startup SqueezeBits recently raised a $2 million pre-Series A round from investors including Kakao Ventures, Samsung Next and Posco Venture Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/02/19/kakao-ventures-backs-korean-startup-that-makes-ai-models-faster-and-cheaper-to-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1fd7d30c64345a507f9d3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T05:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-dor-brothers-rock-cinematic-ai.md",
       "title": "Dor Brothers Rock Cinematic AI",
       "excerpt": "His comapny, Dor Brothers, developed deep expertise in generative AI by using it for the production of more than 200 music videos. One of the things I’ve been tracking for Forbes is the rapid development of cinematic AI,",
@@ -105,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/charliefink/2024/02/18/dor-brothers-rock-cinematic-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -259,7 +416,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -406,7 +563,7 @@
       "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -510,7 +667,7 @@
       "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -551,6 +708,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai.md",
+      "title": "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI",
+      "excerpt": "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T04:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -658,6 +867,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
+      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
+      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
+      "publishedDateTime": "2024-02-17T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-ai-security-infrastructure-needed-after-malicious-foreign-actors-use-openai-to-train-operatives-expert-says.md",
       "title": "AI security infrastructure needed after 'malicious' foreign actors use OpenAI to train operatives, expert says",
       "excerpt": "OpenAI named five hacker groups affiliated with governments in China, Russia, North Korea and Iran who used their artificial intelligence tools for training and research purposes.",
@@ -666,7 +919,7 @@
       "originalUrl": "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1001,249 +1254,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-monumental-raises-25m-for-bricklaying-robots.md",
-      "title": "Monumental raises $25M for bricklaying robots",
-      "excerpt": "Monumental said its robots can move freely around building sites to help contractors address labor shortages and rising costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
-      "originalUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/monumental-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-new-computer-chip-enables-ai-computing-at-the-speed-of-light.md",
-      "title": "New computer chip enables AI computing at the speed of light",
-      "excerpt": "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development.",
-      "sourceUrl": null,
-      "webUrl": "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/",
-      "originalUrl": "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg",
-          "width": 2500,
-          "height": 1756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "earth",
-        "domain": "earth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams.md",
-      "title": "How Gong’s AI tools are increasing win rates for sales teams",
-      "excerpt": "Gong's proprietary AI for sales is driving transformative growth, with data showing teams using features like Smart Trackers and Ask Anything achieve over 25% higher win rates.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
-      "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-ux6NpxqlJ-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-the-ai-alliance-how-to-make-friends-and-influence-ai-policy.md",
-      "title": "The AI Alliance: How To Make Friends And Influence AI Policy",
-      "excerpt": "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 870,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "publishedDateTime": "2024-02-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-take-a-look-at-innovative-applications-of-computer-vision.md",
-      "title": "Take A Look At Innovative Applications Of Computer Vision",
-      "excerpt": "Computer vision has the potential to streamline business functions, support environmental stewardship and make our day-to-day lives as consumers a little bit easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/take-a-look-at-innovative-applications-of-computer-vision/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/take-a-look-at-innovative-applications-of-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cf77412cbb20b0b84d603b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 586,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/take-a-look-at-innovative-applications-of-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/take-a-look-at-innovative-applications-of-computer-vision/amp/",
-      "publishedDateTime": "2024-02-16T18:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

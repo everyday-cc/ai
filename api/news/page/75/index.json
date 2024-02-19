@@ -2,6 +2,332 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2023-12-09-tuis-ai-chatbot-puts-experiences-first.md",
+      "title": "TUI’s AI Chatbot Puts Experiences First",
+      "excerpt": "CIO of Analytics and Artificial Intelligence, give a detailed presentation at the AWS re:Invent 2023 conference.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/",
+      "originalUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T83aTmVpfzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2023/12/08/tuis-ai-chatbot-puts-experiences-first/amp/",
+      "publishedDateTime": "2023-12-08T16:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-how-to-build-a-successful-risk-mitigation-strategy.md",
+      "title": "How to build a successful risk mitigation strategy",
+      "excerpt": "Here are five key steps to building a strong risk mitigation strategy that can successfully work for your unique business needs.\nThe post How to build a successful risk mitigation strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/risk-mitigation-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T16:29:23Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-xenons-345-million-public-offering-eyepoint-pharmaceuticals-trial-success-gene-therapy-found-to-reduce-liver-cancer.md",
+      "title": "Xenon’s $345 million public offering; EyePoint Pharmaceuticals’ trial success; gene therapy found to reduce liver cancer",
+      "excerpt": "What's been going on in the world of biotech of late? Find out with Labiotech’s weekly roundup of the latest biotech news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
+      "originalUrl": "https://www.labiotech.eu/weekly-roundup/biotech-news-roundup-december-8-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.labiotech.eu/wp-content/uploads/2023/12/Biotech-news.jpg",
+          "width": 1200,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T15:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "labiotech",
+        "domain": "labiotech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-google-deepmind-at-neurips-2023.md",
+      "title": "Google DeepMind at NeurIPS 2023",
+      "excerpt": "The Neural Information Processing Systems (NeurIPS) is the largest artificial intelligence (AI) conference in the world. NeurIPS 2023 will be taking place December 10-16 in New Orleans, USA.Teams from across Google DeepMind are presenting more than 150 papers at the main conference and workshops.",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
+      "originalUrl": "https://deepmind.google/discover/blog/google-deepmind-at-neurips-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/MDme_Q62zVqvTUs5uwaI3Ggy2rWIujPt2elkusnUuCA4wEo79V9mabIg66j9cr9zMso-LObOVcj6_ZnrgSMUKn6fl52kxOUEjcigXtDZ2UMuosX3-2s=w1200-h630-n-nu",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc.md",
+      "title": "How To Seize The Moment In Artificial Intelligence By Embracing GRC",
+      "excerpt": "Instead of becoming involved at a later stage, when decisions may be hard to reconsider or reverse, compliance officers should step in and lead these conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657226793e5c11e468743a62/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2023/12/08/how-to-seize-the-moment-in-artificial-intelligence-by-embracing-grc/amp/",
+      "publishedDateTime": "2023-12-08T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-projections-aieee-robots-comes-to-the-coolidge-in-2024.md",
+      "title": "PROJECTIONS: AIEEE! ROBOTS! Comes to the Coolidge in 2024",
+      "excerpt": "Robots! Artificial intelligence is no longer the high-concept villain of some far-off future, but a major player in modern daily life and discourse. This January, we're taking a look at how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "originalUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudimages.broadwayworld.com/columnpiccloud/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-1702029305.jpg",
+          "width": 1250,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BroadwayWorld",
+        "domain": "broadwayworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-apple-offers-developers-mlx-framework-for-machine-learning.md",
+      "title": "Apple Offers Developers MLX Framework for Machine Learning",
+      "excerpt": "While mostly staying out of the generative AI competition, Apple has released an open source array framework on GitHub for building machine learning transformer language models and text generation AI on the company’s own silicon. Jump to: MLX is a set of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/",
+      "originalUrl": "https://www.techrepublic.com/article/apple-mlx-framework-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/macbook-pro-2-dec-23.jpg",
+          "width": 1400,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-08T14:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-former-microsoft-product-leader-to-help-launch-verses-ai-developer-platform.md",
       "title": "Former Microsoft Product Leader to Help Launch VERSES AI Developer Platform",
       "excerpt": "VERSES AI Inc. (CBOE:VERS) (OTCQX:VRSSF) (\"VERSES'' or the \"Company”), a cognitive computing company specializing in next-generation of intelligent software systems, welcomes",
@@ -836,288 +1162,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial.md",
-      "title": "Allergy Drug Added to Immunotherapy Benefits Lung Cancer Therapy in Small Trial",
-      "excerpt": "IL-4 blockade using dupilumab enhanced lung cancer response to checkpoint blockade in mice and in lung cancer patients with treatment-resistant disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
-      "originalUrl": "https://www.genengnews.com/topics/cancer/allergy-drug-added-to-immunotherapy-benefits-lung-cancer-therapy-in-small-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-driverless-cars-were-once-the-future-now-they-are-on-the-road-to-nowhere.md",
-      "title": "Driverless cars were once the future, now they are on the road to nowhere",
-      "excerpt": "Developing driverless cars has been artificial intelligence’s (AI) greatest test. Today, we can say it has failed miserably, despite the expenditure of tens of billions of dollars in attempts to produce a viable commercial vehicle. Moreover, the recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
-      "originalUrl": "https://www.taipeitimes.com/News/editorials/archives/2023/12/08/2003810303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.taipeitimes.com/images/2023/12/08/p09-231208-gp.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Taipei Times",
-        "domain": "taipeitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-french-ai-start-up-mistral-secures-2bn-valuation.md",
-      "title": "French AI start-up Mistral secures €2bn valuation",
-      "excerpt": "French artificial intelligence start-up Mistral has been valued at €2bn in a blockbuster funding round set to close as early as Friday, becoming the latest beneficiary of the investor frenzy to buy into the world’s hottest AI companies. The Paris-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb?trk=public_post_comment-text",
-      "originalUrl": "https://www.ft.com/content/ea29ddf8-91cb-45e8-86a0-f501ab7ad9bb?trk=public_post_comment-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-investors-have-piled-into-ai-startups-following-the-launch-of-chatgpt-here-are-32-pitch-decks-used-by-ai-founders-to-win-over-vcs.md",
-      "title": "Investors have piled into AI startups following the launch of ChatGPT. Here are 32 pitch decks used by AI founders to win over VCs.",
-      "excerpt": "Generative AI, media, and design This startup uses generative AI to speed up the property-buying process. Check out the 14-slide pitch deck Orbital Witness used to raise $9 million. Kinnu helps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
-      "originalUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6572fced0ec98e92f74d67d3?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-startup-pitch-decks-used-to-raise-millions-from-vcs-2023-2?amp",
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-llama-antibodies-could-pave-the-way-for-new-norovirus-treatments.md",
-      "title": "Llama Antibodies Could Pave the Way for New Norovirus Treatments",
-      "excerpt": "The unexpected findings reveal that nanobodies could be developed as a therapeutic agent against human norovirus. Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
-      "originalUrl": "https://www.technologynetworks.com/tn/news/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/381824/llama-antibodies-could-pave-the-way-for-new-norovirus-treatments-381824-640x360.jpg?cb=20231208",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-news-tagged-with-neural-networks.md",
-      "title": "News tagged with neural networks",
-      "excerpt": "Prof. Jiang Bin's research team at the University of Science and Technology of China (USTC) have developed a universal field-induced recursively embedded atom neural network (FIREANN) model ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/tags/neural+networks/",
-      "originalUrl": "https://phys.org/tags/neural+networks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-using-ai-to-transform-discoverability-at-germanys-oldest-news-publisher.md",
-      "title": "Using AI to transform discoverability at Germany’s oldest news publisher",
-      "excerpt": "The answer lay in artificial intelligence, and in particular natural language processing or NLP, Gerber said. Before approaching iMatrics, the company was already experimenting with using AI in ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressgazette.co.uk/platforms/natural-language-processing-and-seo/",
-      "originalUrl": "https://pressgazette.co.uk/platforms/natural-language-processing-and-seo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/11/imatrics-scaled-e1700816603139-800x418.jpg?1702513777",
-          "width": 800,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Press Gazette",
-        "domain": "pressgazette.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

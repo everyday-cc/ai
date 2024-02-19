@@ -2,6 +2,259 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-16-ai-computing-firm-lambda-raises-320-million-in-fresh-funding.md",
+      "title": "AI computing firm Lambda raises $320 million in fresh funding",
+      "excerpt": "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban.",
+      "sourceUrl": null,
+      "webUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-107736843,imgsize-183154,width-1200,height=765,overlay-ettelecom/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843",
+      "publishedDateTime": "2024-02-16T02:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telecom.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-google-microsoft-openai-make-ai-pledges-ahead-of-munich-security-conference.md",
+      "title": "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference",
+      "excerpt": "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
+      "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-how-ai-can-strengthen-digital-security.md",
+      "title": "How AI can strengthen digital security",
+      "excerpt": "We’re launching the AI Cyber Defense Initiative to help transform cybersecurity and use AI to reverse the dynamic known as the “Defender’s Dilemma”",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/",
+      "originalUrl": "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MSC_Keyword_Cover_3.width-1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-working-together-to-address-ai-risks-and-opportunities-at-msc.md",
+      "title": "Working together to address AI risks and opportunities at MSC",
+      "excerpt": "For 60 years, the Munich Security Conference has brought together world leaders, businesses, experts and civil society for frank discussions about strengthening and safe…",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/",
+      "originalUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Shield.width-1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/safety-security/working-together-to-address-ai-risks-and-opportunities-at-msc/amp/",
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article.md",
+      "title": "Scientists aghast at bizarre AI rat with huge genitals in peer-reviewed article",
+      "excerpt": "The article in question is titled \"Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway,\" which was authored by three researchers in China, including the corresponding author Dingjun Hao of Xi’an Honghui Hospital. It was published online Tuesday in the journal Frontiers in Cell and Developmental Biology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-644049138-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T23:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-dangerous-new-iphone-attack-steals-facial-recognition-data.md",
       "title": "Dangerous New iPhone Attack Steals Facial Recognition Data",
       "excerpt": "Yes, your iPhone is more secure than Android devices, but no, it’s not impervious to attack. A new report has suddenly warned Apple users that a dangerous trojan is stealing facial recognition data from iPhones to target users’ bank accounts.",
@@ -10,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/02/15/apple-iphone-15-iphone-16-upgrade-warning-faceid-ios-17-and-ios-18/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -114,7 +367,7 @@
       "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -321,7 +574,7 @@
       "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -601,6 +854,50 @@
       ]
     },
     {
+      "path": "_news/2024-02-15-senate-finance-committee-holds-hearing-on-use-of-ai-in-healthcare.md",
+      "title": "Senate Finance Committee Holds Hearing on Use of AI in Healthcare",
+      "excerpt": "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "originalUrl": "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American College of Radiology",
+        "domain": "acr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-our-next-generation-model-gemini-15.md",
       "title": "Our next-generation model: Gemini 1.5",
       "excerpt": "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities.",
@@ -609,7 +906,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -914,297 +1211,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology.md",
-      "title": "How Kubota is changing the status quo in agriculture and sustainability with technology",
-      "excerpt": "“It is no exaggeration to say that this initiative has just begun. With IBM, we hope to develop it into a standard in Japan and globally.\"\nThe post How Kubota is changing the status quo in agriculture and sustainability with technology appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
-      "originalUrl": "https://www.ibm.com/blog/how-kubota-is-changing-the-status-quo-in-agriculture-and-sustainability-with-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-retail-technology-and-frontline-workers-delivering-unforgettable-customer-experiences.md",
-      "title": "Retail technology and frontline workers: Delivering unforgettable customer experiences",
-      "excerpt": "The retail industry employs millions of people, and next-generation retail employees will be impacted by the rise of generative AI.\nThe post Retail technology and frontline workers: Delivering unforgettable customer experiences appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
-      "originalUrl": "https://www.ibm.com/blog/retail-technology-and-frontline-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-chatgpts-been-acting-weird-and-its-probably-our-fault.md",
-      "title": "ChatGPT's been acting weird — and it's probably our fault",
-      "excerpt": "OpenAI relies on interactions with users to train ChatGPT; their responses could be causing the chatbot to change in unpredictable ways, an AI researcher says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2",
-      "originalUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65573f134ca513d8242b3050?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp",
-      "publishedDateTime": "2024-02-15T12:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-dataiku-defines-development-routes-to-user-centric-ai.md",
-      "title": "Dataiku Defines Development Routes To User-Centric AI",
-      "excerpt": "We need to consider how an AI service will be actually be used by users and then construct and feed it with the ingredients it needs to suit the exact recipe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce0435bb2cb21ce46b67d1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1543,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/15/dataiku-defines-development-routes-to-user-centric-ai/amp/",
-      "publishedDateTime": "2024-02-15T12:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-every-country-needs-its-own-ai-systems-says-nvidia-ceo-jensen-huang.md",
-      "title": "Every country needs its own AI systems, says Nvidia CEO Jensen Huang",
-      "excerpt": "Jensen Huang said nations should work toward building \"sovereign AI\" to control the intelligence and data produced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2",
-      "originalUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65cded4ca610a9069d59295d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ceo-jensen-huang-countries-need-own-ai-systems-2024-2?amp",
-      "publishedDateTime": "2024-02-15T11:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-ai-in-cybersecurity-revolutionizing-safety.md",
-      "title": "AI In Cybersecurity: Revolutionizing Safety",
-      "excerpt": "With AI emerging as both a protector and a possible disruptor in our era, it's crucial to reevaluate our strategies for the future of cybersecurity and data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62dafcb86452099050d194ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1406,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/ai-in-cybersecurity-revolutionizing-safety/amp/",
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,281 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-14-dxc-appoints-ex-pwc-partner-kylie-watson-to-head-up-anz-security.md",
+      "title": "DXC appoints ex-PwC partner Kylie Watson to head up A/NZ security",
+      "excerpt": "DXC Technology has appointed ex-PwC partner Kylie Watson to head up security for Australia and New Zealand (A/NZ). Watson will be based in Canberra and responsible for assisting DXC customers enhance their cyber security standings and protect them from attacks through advisory and managed security services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/710073/dxc-appoints-ex-pwc-partner-kylie-watson-head-up-nz-security/",
+      "originalUrl": "https://www.reseller.co.nz/article/710073/dxc-appoints-ex-pwc-partner-kylie-watson-head-up-nz-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/kylie_watson_dxc_technology_head_of_security_for_anz.jpeg",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T01:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms.md",
+      "title": "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs",
+      "excerpt": "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
+      "originalUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T01:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-robotics-and-artificial-intelligence-revolutionizing-energy-infrastructure-maintenance.md",
+      "title": "Robotics and artificial intelligence revolutionizing energy infrastructure maintenance",
+      "excerpt": "the University of Houston is offering a timely micro-credential course focused on artificial intelligence and robotics for energy integrity and maintenance. The course, titled \"AI & Robotics for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1034485",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1034485",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
+      "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
+      "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
+      "sourceUrl": null,
+      "webUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
+      "originalUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/HTQ124_Feature_Gimbel_Hero.jpg?itok=aixW-18e",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
+      "publishedDateTime": "2024-02-13T23:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge.md",
+      "title": "Airbnb plans to use AI, including its GamePlanner acquisition, to create the ‘ultimate concierge’",
+      "excerpt": "In November, Airbnb acquired a stealth AI firm launched by Siri’s co-founder, called GamePlanner.AI. The deal valued the secretive startup at around $200 million, according to reports. Though the hosting company didn’t telegraph its plans for ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
+      "originalUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/13/airbnb-plans-to-use-ai-including-its-gameplanner-acquisition-to-create-the-ultimate-concierge/amp/",
+      "publishedDateTime": "2024-02-13T22:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-sadiq-khan-says-fake-ai-audio-of-him-nearly-led-to-serious-disorder.md",
+      "title": "Sadiq Khan says fake AI audio of him nearly led to serious disorder",
+      "excerpt": "London Mayor Sadiq Khan says deepfake audio of him supposedly making inflammatory remarks before Armistice Day almost caused \"serious disorder\". Mr Khan says the law is not \"fit for purpose\" in tackling AI fakes, as the audio creator \"got away with it\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-68146053",
+      "originalUrl": "https://www.bbc.com/news/uk-68146053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/30FF/production/_132634521_promo_ep02_976x549.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-68146053.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-68146053.amp",
+      "publishedDateTime": "2024-02-13T22:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-microsoft-cloud-for-sustainability-gains-data-ai-capabilities.md",
       "title": "Microsoft Cloud For Sustainability Gains Data & AI Capabilities",
       "excerpt": "Microsoft introduced new data and AI solutions for its Cloud for Sustainability to assist organizations transitioning from pledges to progress.",
@@ -938,311 +1213,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-edge-of-network-computing-and-ai-how-ai-may-fill-gaps-in-5g-tech.md",
-      "title": "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech",
-      "excerpt": "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a57380e07eea1def9805d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
-      "publishedDateTime": "2024-02-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-to-use-ai-to-help-your-business.md",
-      "title": "How To Use AI To Help Your Business",
-      "excerpt": "From the financial sector to the automotive industry to healthcare to language models like ChatGPT and beyond, it seems that everywhere you look, you can see evidence of AI advancements. The business world is no exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/656614e32643c2fb4761e838/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2024/02/13/how-to-use-ai-to-help-your-business/amp/",
-      "publishedDateTime": "2024-02-13T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-the-future-of-business-to-business-banking-fintech-50-2024.md",
-      "title": "The Future Of Business To Business Banking: Fintech 50 2024",
-      "excerpt": "Compared with other fintech segments, business to business banking had a pretty good 2023–thanks in part to the failure of a conventional bank.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
-      "originalUrl": "https://www.forbes.com/sites/rinatorchinsky/2024/02/13/the-future-of-business-to-business-banking-fintech-50-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca49c9ad26e48437eb62c8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
-      "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
-      "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
-      "publishedDateTime": "2024-02-13T10:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-machine-learning-meets-customer-experience-how-ai-is-reshaping-cx.md",
-      "title": "Machine Learning Meets Customer Experience: How AI Is Reshaping CX",
-      "excerpt": "Technological advancements are changing almost every aspect of our lives, including how businesses interact with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655516d102d93493722f7f19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/machine-learning-meets-customer-experience-how-ai-is-reshaping-cx/amp/",
-      "publishedDateTime": "2024-02-13T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice.md",
-      "title": "Don't tell your AI anything personal, Google warns in new Gemini privacy notice",
-      "excerpt": "AI apps like Gemini come with a risk, which Google's new privacy warning illustrates perfectly. Here's the information Google is collecting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "originalUrl": "https://www.zdnet.com/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5a403441036ea3857a6a84f1c6db005438ecbf9f/2024/02/08/52d7fe00-8b52-4e52-9214-96dd0222cb60/gemini.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dont-tell-your-ai-anything-personal-google-warns-in-new-gemini-privacy-notice/",
-      "publishedDateTime": "2024-02-13T09:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

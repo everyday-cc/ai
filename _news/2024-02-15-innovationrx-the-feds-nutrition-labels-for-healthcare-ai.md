@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
   - title: "Hartford HealthCare launches Center for Artificial Intelligence Innovation in Healthcare"
     excerpt: "Hartford HealthCare launched a new Center for AI Innovation in Healthcare, the first of its kind in New England."
     publishedDateTime: 2024-02-15T17:23:00Z

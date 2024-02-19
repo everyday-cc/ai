@@ -594,6 +594,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
+      "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
+      "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1033714",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1033714",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/20857a89-7101-4bcf-9bae-68f2c5aeb7ec/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-d-wave-and-zapata-ai-announce-strategic-technical-and-commercial-collaboration-to-advance-quantum-enabled-machine-learning.md",
       "title": "D-Wave and Zapata AI Announce Strategic Technical and Commercial Collaboration to Advance Quantum-Enabled Machine Learning",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS) (“D-Wave”), a leader in quantum computing systems, software, and services and the world’s first commercial supplier of quantum computers, and Zapata Computing, Inc. (operating as Zapata AI ),",
@@ -723,49 +766,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
-      "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
-      "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/predictive-model-of-ox.jpg",
-          "width": 1772,
-          "height": 1348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

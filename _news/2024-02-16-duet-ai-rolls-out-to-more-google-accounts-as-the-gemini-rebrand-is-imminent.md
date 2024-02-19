@@ -25,18 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
-    excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/14/google-deepmind-gemini/"
+  - title: "Google Lengthens, Mixes, Broadens AI With Gemini Toolset"
+    excerpt: "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment."
+    publishedDateTime: 2024-02-19T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 45
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd60e78d0b0630549429ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1484
         height: 900
         isCached: true
   - title: "Google claims AI advances with Gemini LLM"
@@ -53,15 +55,29 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "Google Assistant is a mess, but is Gemini really the answer?"
-    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
-    publishedDateTime: 2024-02-15T13:00:00Z
-    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 4
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
+        isCached: true
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
 secured: "JSCrkFJyXErKzjGk4saUUtCWGC7kFh3c/nV16wjUj1IdBRk+jE0h0T0yHahWyQm4ujpSHA+knrgLA2VeJVGahPEJdgf04ugoFCyFLBbYsO88GJg6Ch06dLeXeB7H88XtJEVEfUaMxaSs4Zevi+pgTdDEY7vrurykYxr3lcRxOmtqTDgp6VLisHdPN9PQI7bKe8YRcK9cEErFKfgcY4Dmf6td2GzVJg6G1gqi3HdvGc4QlBxUEJYls9RjdotdH9eQyMn7zbieh9HVTAvKuQgl6xsme5jJqcVYTz0KdqxRZVUThgfzyAMzIS2oNiIqD7F+1GZLYdp1Mr67jkNbtWT/EPLAjr4qD2tlRt26Ji5aKVo=;fIF1jRLC8RBrtqKU5Uqgxw=="
 ---

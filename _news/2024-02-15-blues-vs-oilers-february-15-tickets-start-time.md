@@ -51,6 +51,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Exit Now! 7 Blue-Chip Stocks to Sell in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chips, or shares in established companies with long track records of"
+    publishedDateTime: 2024-02-19T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-7-blue-chip-stocks-to-sell-in-february-2024-1033079793"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "5 Undervalued Stocks To Buy In February 2024"
     excerpt: "One way to find investments is to identify stocks that are undervalued but have strong fundamentals and growth prospects. Here are five that fit the bill."
     publishedDateTime: 2024-02-14T19:25:00Z

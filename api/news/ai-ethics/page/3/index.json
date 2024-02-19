@@ -2,6 +2,169 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-17-leadership-around-tech-and-ethics.md",
+      "title": "Leadership Around Tech and Ethics",
+      "excerpt": "Father Paolo Benanti, an expert on AI and ethics in Rome, is coming to Seattle University as a distinguished visiting professor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "originalUrl": "https://www.seattleu.edu/newsroom/stories/2024/leadership-around-tech-and-ethics-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.seattleu.edu/media/newsroom/EthicsAndTech_yk_002-1130x631.jpg",
+          "width": 1130,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle University",
+        "domain": "seattleu.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-the-top-12-people-in-artificial-intelligence-policy-ethics-and-research.md",
+      "title": "The top 12 people in artificial-intelligence policy, ethics, and research",
+      "excerpt": "Before getting his Ph.D. in math and artificial intelligence, Legg briefly studied finance in Switzerland. Since 2021, Mitchell has worked as a researcher and the chief ethics scientist at Hugging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
+      "originalUrl": "https://www.businessinsider.in/slidelist/106798600.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-106798600,width-500,resizemode-4/The-top-12-people-in-artificial-intelligence-policy-ethics-and-research.jpg",
+          "width": 500,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-top-12-people-in-artificial-intelligence-policy-ethics-and-research/amp_slidelist/106798600.cms",
+      "publishedDateTime": "2024-01-15T15:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity.md",
+      "title": "AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.",
+      "excerpt": "the IMF has developed an AI Preparedness Index that measures readiness in areas such as digital infrastructure, human-capital and labor-market policies, innovation and economic integration, and regulation and ethics. The human-capital and labor-market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "originalUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Monetary Fund",
+        "domain": "imf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
+      "title": "Educators raise concerns over the ethics of AI in the classroom",
+      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security.md",
       "title": "Striking the Right Balance: Navigating Ethics and Trust in AI and Commercial Data for Homeland Security",
       "excerpt": "In the realm of homeland security, the marriage of artificial intelligence (AI) and commercial data holds immense potential but comes with ethical considerations and trust implications that demand careful consideration. While these technologies promise ...",
@@ -1238,199 +1401,6 @@
         "AI",
         "AI in Education",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-florida-legislature-considers-creating-artificial-intelligence-advisory-council.md",
-      "title": "Florida Legislature Considers Creating 'Artificial Intelligence Advisory Council'",
-      "excerpt": "Florida Senator Joe Gruters (R) has filed a bill that would create an ‘Artificial Intelligence Advisory Council’ within Florida’s state government.  T",
-      "sourceUrl": null,
-      "webUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
-      "originalUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://floridianpress.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-20-at-10.55.01-AM-e1626792947894.png",
-          "width": 1200,
-          "height": 868,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
-      "cdnAmpWebUrl": "https://floridianpress-com.cdn.ampproject.org/c/s/floridianpress.com/2023/12/florida-legislators-consider-creating-artificial-intelligence-advisory-council/amp/",
-      "publishedDateTime": "2023-12-15T22:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Floridian",
-        "domain": "floridianpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-experts-call-for-more-diversity-to-combat-bias-in-artificial-intelligence.md",
-      "title": "Experts call for more diversity to combat bias in artificial intelligence",
-      "excerpt": "He encourages employing sociologists, lawyers, political scientists and other types of humanities-oriented academics to help contribute to the conversation around AI and ethics. Lombana-Bermudez said his hope is that future generations may alleviate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
-      "originalUrl": "https://www.cnn.com/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231214172420-person-working-at-computer-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/15/us/diversity-artificial-intelligence-bias-reaj/index.html",
-      "publishedDateTime": "2023-12-15T14:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-what-businesses-should-know-about-data-privacy-and-ai-younger-consumers-lead-the-way.md",
-      "title": "What Businesses Should Know About Data Privacy And AI — Younger Consumers Lead The Way",
-      "excerpt": "Artificial Intelligence (AI) is not new, but the launch of Generative AI (Gen AI) tools like ChatGPT in 2022 brought AI to millions of new users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579e9e572d21fb9f7c932ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
-      "publishedDateTime": "2023-12-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
-      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
-      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
-          "width": 1262,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "publishedDateTime": "2023-12-15T11:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

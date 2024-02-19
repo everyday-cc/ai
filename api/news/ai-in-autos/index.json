@@ -850,6 +850,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
+      "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
+      "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
+      "sourceUrl": null,
+      "webUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
+      "originalUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2024/02/iStock-1437737518.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Repairer Driven News",
+        "domain": "repairerdrivennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-70-fascinating-baidu-statistics-and-facts-2024-trends.md",
       "title": "70+ Fascinating Baidu Statistics and Facts [2024 Trends]",
       "excerpt": "Instead of relying on Google and other foreign solutions, the government provided Baidu for its citizens to help them navigate the Chinese web. The question in your mind will probably be ...",
@@ -1304,59 +1347,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-its-time-for-a-chief-ai-officer.md",
-      "title": "Why It’s Time For A Chief AI Officer",
-      "excerpt": "Does your company need a CAIO? Artificial intelligence has the potential to impact every areas of business. Early adopters include the Mayo Clinic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "originalUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbf5bbdc2b3980a75d196e/0x0.jpg?format=jpg&crop=2151,1210,x0,y146,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogerdooley/2024/02/01/the-caio-its-time-for-a-chief-artificial-intelligence-officer/amp/",
-      "publishedDateTime": "2024-02-01T19:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -36,6 +36,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "3 Ways Top Marketers Are Putting AI Into Action"
+    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
+    publishedDateTime: 2024-02-19T08:36:00Z
+    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "BEzdwURMmqBBuZ/dN8+Or7al787iyqhpNS38gb7amgAPXUNxct9L6sKNPPheo49v37fKEXhBz5b8DRM4NPHOLrS6pXPdEdWsSXzDbGLxYnXi56pEfB7zxBH8OgqAb2+1asu9ozwLaj7K9DbU1VwBEhrhYeN1g8yxYM03z8/RPYxHi05EKI4FdmPzDAPOIWEFcZNubTo9qiHogfimnDUix45itQmN965Qd7OE/2TWuD3OT+5kdbW/1wh+2ReDQCudMFoFPty9lGyBZIwC1hgf3FCTOUxdUUKanX4lZkMXTaLVM204cnNkiYhwspqUcBk2VxRFu+5e0vCoxWSHPlv2cvW8QeEjcGddVPHjlV4zHira7OvHRWtjtqQS3YXlmSMxkLrn41oVMITpkr0wDc8EgmKzd9SKN2yY8ujxPNPV4pDIT7G1K9uw48HWUIDLhIH86oxqcKbIY/QUOTaXuoussfJkZnvKM4z5DUlUrlV4y4XxjgB8jZrFXqTaP3cr50XTyDYWsXXxSywLpt6UFK0H2w==;oWZioPQTDGgwBPb9AtQPgw=="
 ---

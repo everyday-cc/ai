@@ -56,50 +56,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-16-va-can-be-a-leader-in-healthcare-ai-lawmakers-say.md",
-      "title": "VA Can Be a Leader in Healthcare AI, Lawmakers Say",
-      "excerpt": "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/washington-watch/washington-watch/108771",
-      "originalUrl": "https://www.medpagetoday.com/washington-watch/washington-watch/108771",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2024-02-16-hartford-healthcare-launches-new-ai-center-to-help-with-operations.md",
       "title": "Hartford Healthcare launches new AI center to help with operations",
       "excerpt": "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said.",
@@ -108,7 +64,7 @@
       "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -303,7 +259,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-ai-stocks-to-buy-in-february-2024-1033067558",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": null,
       "content": "",
@@ -1411,6 +1367,49 @@
         "AI Hardware",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-meta-released-a-specialized-version-of-llama-2-for-code-generation.md",
+      "title": "Meta Released a Specialized version of Llama 2 for Code Generation",
+      "excerpt": "Based on the open-source Llama 2, one of the largest LLMs in the world, with 175 billion parameters, Code Llama is a collection of pre-trained and fine-tuned generative text models ranging in scale from 7 billion to 70 billion parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/meta-released-an-improved-version-of-its-open-source-code-llama-70b/",
+      "originalUrl": "https://iblnews.org/meta-released-an-improved-version-of-its-open-source-code-llama-70b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2024/01/llama2-696x407.jpg",
+          "width": 696,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     }
   ],

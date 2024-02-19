@@ -178,6 +178,15 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google’s Next-Gen LLM Gemini 1.5 Takes the Token Race to ChatGPT"
+    excerpt: "Google announces the launch of Gemini 1.5, an AI model that can process up to 1 million tokens in a single prompt."
+    publishedDateTime: 2024-02-19T10:30:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
   - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
     excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
     publishedDateTime: 2024-02-16T14:03:00Z

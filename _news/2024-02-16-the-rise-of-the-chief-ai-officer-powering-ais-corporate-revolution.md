@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
 type: article
 quality: 91
-heat: -1
-published: false
+heat: 201
+published: true
 
 provider:
   name: Forbes
@@ -32,163 +32,154 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine"
-    excerpt: "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans."
-    publishedDateTime: 2024-02-14T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
+  - title: "Fox News AI Newsletter: New AI-powered glasses a tenth the price of Apple's"
+    excerpt: "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future."
+    publishedDateTime: 2024-02-14T17:44:00Z
+    webUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples"
+    ampWebUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbc583a7ebceedfab53229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
-    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
-    publishedDateTime: 2024-02-17T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/bobak-tavangar-brilliant-labs.jpg?ve=1&tl=1"
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
-    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
-    publishedDateTime: 2024-02-15T15:11:00Z
-    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
+  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
+    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
     type: article
     provider:
-      name: American College of Radiology
-      domain: acr.org
-    quality: 71
-    images:
-      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
-    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
-    publishedDateTime: 2024-02-18T04:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
-    excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
-    publishedDateTime: 2024-02-14T11:51:00Z
-    webUrl: "https://www.abcactionnews.com/morning-blend/ai-doctor-the-rise-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
+      name: Wired
+      domain: wired.com
     quality: 69
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/04fc097/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe6b%2F45bf940c346f431c9be273b8942ab6eb%2Fe6b7a26d62644eeebc848a59b1eb55c8%2Fposter_906bccf9973d4e97bc21e778876d8908.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+  - title: "The Intersection of Artificial Intelligence and Society"
+    excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
+    publishedDateTime: 2024-02-18T15:52:00Z
+    webUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/"
+    ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
-  - title: "Apple's Vision Pro and the coming healthcare revolution"
-    excerpt: "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery."
-    publishedDateTime: 2024-02-15T12:27:00Z
-    webUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Daily Times
+      domain: dailytimes.com.pk
     quality: 61
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2024/02/15/13/apple-vision-pro-100961260-large.jpg?auto=webp&quality=85,70"
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
+    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
+    publishedDateTime: 2024-02-14T23:18:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 675
+        height: 627
         isCached: true
-  - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
-    excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
-    publishedDateTime: 2024-02-15T18:07:00Z
-    webUrl: "https://www.news-medical.net/news/20240214/Insights-into-how-AI-and-wearable-technologies-are-impacting-the-future-of-healthcare.aspx"
+  - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
+    excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
+    publishedDateTime: 2024-02-18T23:49:00Z
+    webUrl: "https://siliconangle.com/2024/02/18/graphcore-reportedly-explores-sale-amid-tough-competition-ai-chip-market/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 47
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/graphcore.jpg"
+        width: 500
+        height: 261
         isCached: true
-  - title: "The Role of “Fintech” in Healthcare in 2024"
-    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
-    publishedDateTime: 2024-02-17T15:56:00Z
-    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
+  - title: "Chief Technology Officer appointed to advance Q-Bot’s use of robotics and AI in social and private housing"
+    excerpt: "John Burley joins Q-Bot from CMR Surgical to advance the use of robotics, digital and AI in the retrofit and construction sectors Q-Bot, the technology compa"
+    publishedDateTime: 2024-02-15T09:54:00Z
+    webUrl: "https://bdcmagazine.com/2024/02/chief-technology-officer-appointed-to-advance-q-bots-use-of-robotics-and-ai-in-social-and-private-housing/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 41
+      name: bdcmagazine.com
+      domain: bdcmagazine.com
+    quality: 51
     images:
-      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
-        width: 646
-        height: 250
+      - url: "https://bdcmagazine.com/wp-content/uploads/2024/02/John-Burley-Q-Bot-CTO-scaled-e1707990805587.jpg"
+        width: 1920
+        height: 1390
         isCached: true
-  - title: "Shaping The Future Of Healthcare Technology"
-    excerpt: "Is your company positioned as a trailblazer in shaping the future of healthcare technology? In the face of disruptive technologies and shifting b"
-    publishedDateTime: 2024-02-16T04:48:00Z
-    webUrl: "https://menafn.com/1107859577/Shaping-The-Future-Of-Healthcare-Technology"
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 39
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
-        width: 444
-        height: 250
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
         isCached: true
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+  - title: "AI Firms Are Hunting for A Lot of Office Space"
+    excerpt: "And the second-largest was the AI startup Anthropic taking 230,315 square feet at 500 Howard Street in the city’s South Financial District. Anthropic describes itself on its website as a company that produces “AI research and products that put safety ..."
+    publishedDateTime: 2024-02-19T06:00:00Z
+    webUrl: "https://commercialobserver.com/2024/02/ai-firms-office-leasing/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 37
+    images:
+      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/02/Ai_Office_Commercial_Observer_illo_web.jpg?quality=80&w=768\t"
+        width: 768
+        height: 521
+        isCached: true
+  - title: "Super Micro: Riding The AI Revolution"
+    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
+    publishedDateTime: 2024-02-19T00:02:00Z
+    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
+        width: 640
+        height: 358
+        isCached: true
+  - title: "NEWS TAGGED AI CHIP"
+    excerpt: "are trying to find ways to cut dependency on its AI chips. While specialists have pointed out that Altman's lack of understanding... Tuesday 6 February 2024 SMIC reportedly building 5nm capacities ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.digitimes.com/tag/ai_chip/00111338.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 34
+  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
+    publishedDateTime: 2024-02-16T16:20:00Z
+    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 34
 
 secured: "NEbutDGhq5omF8HZnWvJCM5hJZI+a5eFzr6DP/nMENmsrb3ZGb/8w3omtNVIihbGJDcMz4TZPGoiO/eErrKj0gZ9wid8o75/Tcw8nFFMqMIaANyWiyKqOGnYeALIPh3Y0PeFIYAq45FObIF5tUJRP8Mmp8s3Mv/AG/mAaMBTSJuwGfyVmZ8WU4OoA+7VULUA0bdCuFhQgz4aF/uaVw3kMyxoXMYeI12oXymYIZSjDM0of6/CPLTh87fDyuEGG4inLO+5ubCaEWkiE/4L2V5G+zJC/YLYPaXpLPIzm5Gy+jadS7l8Uz1nFEVoE2fSLd/fIR7cBy1zrpCSDhKggRPnWU+sAFhfxfC6B0A0NvXLEEmHCWxPORBAcmQB2JQRnHNW4/sDNF+iLze9roSeXibxc2wNk41bF6eqxSay9d8y5RsaZEZksCbL8aPAEN26Zs+gFgksCKWZ5CBKAMgJ43I8tbevebgvb7TstXEOGqlPQpI0ik/A20yYC0EyIBuNZWKbSCCwbjVY1IBeKHjJBNzdKQ==;Q7wEIlf3QScjRQDVeeRm/w=="
 ---

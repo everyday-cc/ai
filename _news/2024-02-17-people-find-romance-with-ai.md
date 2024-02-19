@@ -25,35 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot"
-    excerpt: "An AI avatar generated on Luka Inc.’s Replika mobile phone app ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these aspects of what it ..."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot"
-    ampWebUrl: "https://www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
-    cdnAmpWebUrl: "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/business/1645682/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/amp"
+  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
+    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
+    publishedDateTime: 2024-02-17T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
     type: article
     provider:
-      name: The Times Leader
-      domain: timesleader.com
-    quality: 44
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
     images:
-      - url: "https://s24526.pcdn.co/wp-content/uploads/2024/02/130388284_web1_130388284-089914121c3045ecaeb300c2e9d2eac7.jpg.optimal.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
-    excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"
-    publishedDateTime: 2024-02-15T15:46:00Z
-    webUrl: "https://www.pilotonline.com/2024/02/15/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/"
+  - title: "Investors Share Predictions for Artificial Intelligence in 2024 and Beyond"
+    excerpt: "Entrepreneurs and venture capitalists shared predictions for the year ahead in a at the World Governments Summit."
+    publishedDateTime: 2024-02-15T13:59:00Z
+    webUrl: "https://time.com/6694680/ai-predictions-investors-world-governments-summit/"
     type: article
     provider:
-      name: The Virginian-Pilot
-      domain: pilotonline.com
-    quality: 24
+      name: Time
+      domain: time.com
+    quality: 47
+  - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
+    excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
+    publishedDateTime: 2024-02-15T18:07:00Z
+    webUrl: "https://www.news-medical.net/news/20240214/Insights-into-how-AI-and-wearable-technologies-are-impacting-the-future-of-healthcare.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
     images:
-      - url: "https://www.pilotonline.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Shaping The Future Of Healthcare Technology"
+    excerpt: "Is your company positioned as a trailblazer in shaping the future of healthcare technology? In the face of disruptive technologies and shifting b"
+    publishedDateTime: 2024-02-16T04:48:00Z
+    webUrl: "https://menafn.com/1107859577/Shaping-The-Future-Of-Healthcare-Technology"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
+        isCached: true
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "no0CLo4bLwUTgmSdpu/0qhAjgK6SdDmmJ5MckYIjy9WQmJeh549Cyf/xh9gw7iYmTarUH+0Uu6ySIs+MEVFNyEOUs2XlbI5NbwTkmStE3zvVwzLH9z74Fm1KiSNaCWDpBno3wf//7Frk3TbalsYXd02NiP3fQPO8GXKJsUAK/8VNeHCtPHDAIOoSA1VRHJo11zGRM1H4iXGmwqffDBHWPU6IQFByYsNxqH5uIf2hk4uf2vVcvrL/317awbxIUKiGyoSPAF9SFwbjRdkOWaAyT+G9DGuANfVq4mviluddYmTS/yoO1EfkqcGi1wfLM/FkECV8E6/I24KvY3eyAbsSA2rpWIskcRSfg9yRq0TtS3E=;oXyuF9Zuf8FcxszBe0t9yA=="

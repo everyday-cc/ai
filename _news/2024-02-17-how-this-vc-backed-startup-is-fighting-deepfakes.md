@@ -68,6 +68,15 @@ related:
       name: SC Media
       domain: scmagazine.com
     quality: 21
+  - title: "Could AI sway the 2024 election? Here's what's being done nationally to stop deepfakes."
+    excerpt: "Craig Holman, a Capitol Hill lobbyist who works in governmental ethics for the nonprofit Public Citizen, believes 2024 will become the first deepfake election cycle, where AI will influence voters and impact election results. “Artificial intelligence has ..."
+    publishedDateTime: 2024-02-19T10:06:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 11
 
 secured: "WxL2vSbr/FdWb2REwNWuoKzZn0azX0fjR9LAmqVY9ctzceToaQWP1WDfiEK20SwnED3z6BLjpbT/KcSbucPrH/50zkVIaBjMZROTu8DMUfbAfn2wgCkyhSA/728bZccxWniJakrkYCLwBRp00MhsO9uFmZ2+w0K/ChRh/+6kFku/Ajrp1kiRj/yYruTbngrnvbnWI3mjX/jPxkRHPeRYgc8efb/2Bod28z3HByX/MNLneBIelUF9LT3qccw7p/9w6kjRfNMib+LLpbQXrg+eVvCVNiJARdIvrsfuaDuvCNUGAmV1RAEvUDAhFHo73uWF2NML5yQVd4f46ExJQRIDjhR9esDp7EQIKwId1nET+eE=;H3WUUa/Bw5LVVCvXv8++2w=="
 ---

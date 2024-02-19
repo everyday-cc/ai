@@ -41,6 +41,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "This iOS Trojan Is Harvesting Facial-Recognition Data"
+    excerpt: "GoldPickaxe' malware circulating in Southeast Asia is designed to steal facial recognition data, likely because banks and government agencies there are adopting biometric scans."
+    publishedDateTime: 2024-02-15T08:01:00Z
+    webUrl: "https://www.pcmag.com/news/this-ios-trojan-is-harvesting-facial-recognition-data"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 54
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04w7ZWlTRSx6ST7kQDWum6A-1.fit_lim.size_1200x630.v1707947992.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google Photos could let you fix incorrect AI document recognition"
     excerpt: "Google Photos categorizes images of documents automatically, but sometimes it misidentifies them, hamstringing the user experience. A feature in development will allow users to manually recategorize images in the Documents section of Google Photos. Manual correction could contribute to improving Google's automatic categorization system too."
     publishedDateTime: 2024-02-15T11:43:00Z

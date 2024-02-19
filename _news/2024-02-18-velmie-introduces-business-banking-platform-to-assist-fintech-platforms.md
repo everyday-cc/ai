@@ -103,6 +103,20 @@ related:
         width: 800
         height: 527
         isCached: true
+  - title: "The Role of “Fintech” in Healthcare in 2024"
+    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
+    publishedDateTime: 2024-02-17T15:56:00Z
+    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 41
+    images:
+      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
+        width: 646
+        height: 250
+        isCached: true
   - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
     excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
     publishedDateTime: 2024-02-15T04:02:00Z

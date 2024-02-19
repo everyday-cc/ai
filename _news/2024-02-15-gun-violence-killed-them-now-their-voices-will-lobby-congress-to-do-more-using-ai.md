@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-v
 cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
+    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
+    publishedDateTime: 2024-02-19T12:30:00Z
+    webUrl: "https://edition.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 46
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242699530.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
     excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
     publishedDateTime: 2024-02-14T14:25:00Z
@@ -68,20 +82,6 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"
-    publishedDateTime: 2024-02-19T04:43:00Z
-    webUrl: "https://www.washingtonpost.com/business/2024/02/19/aigenerated-voice-clones-video-game-actors-replica-studios-sagaftra/b88abcd2-cf13-11ee-ac8b-765284b5203e_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSMEONGPCMI65LELOZJIJNJAHY_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
     excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
     publishedDateTime: 2024-02-14T14:00:00Z
@@ -91,15 +91,6 @@ related:
       name: WFAE
       domain: wfae.org
     quality: 13
-  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
-    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
-    publishedDateTime: 2024-02-14T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 12
 
 secured: "IpBR0l/eQT3W/lsXluLzqnz1qF6daIjT68jXHVnAfdGc8/38Vin37CjpA8WgZCEiWeHhEX3P2MxmPkLNHyLa/F7cmmQxT1LpfyNk+JTHEV5Wj7ETzAITnpYTZY+giJdypNHUw9H2qs00cXikleDOYK27JKrJZ2ngj9PuOyz/hyI2+NwJ5xl8VnOO9HxO3gfchNme62pzZhzNVjiiQnCuaFNsD8dnb/nLAgN7IOXTQrDvmfgjA6H0aCIiQ0PT3bIdiroyRBUUT3SIChbI4zqttvyXJySiX+/wp4GFLpJ/ODuv8u+y2GSTb7FpUi0S9SkwuEJlj68TbL9AWmszOnNpZ8rbJk+mqeZwVdPq+UXMK97JGuXFVEa7fn5DixgMpxmosZgSXdg/O7G2aFTnfJjEJAwSKy9InWYENTH78pXCm3iKKSmkIPm13r9BjPKqYADHBWgyN83qb8d7fBmCjUGRnOEnpn2Zsb9xkRCgAqwnwC5m6NGpn2TqIaGqwGiL/iXmDYM57z0c9ZvPktPkMyamdw==;87DFpAesUgTjrAz5ayGCGQ=="
 ---

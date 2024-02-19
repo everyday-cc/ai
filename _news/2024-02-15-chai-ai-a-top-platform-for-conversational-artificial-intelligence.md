@@ -24,129 +24,156 @@ images:
     isCached: true
 
 related:
-  - title: "Enhance Amazon Connect and Lex with generative AI capabilities"
-    excerpt: "Effective self-service options are becoming increasingly critical for contact centers, but implementing them well presents unique challenges. Amazon Lex provides your Amazon Connect contact center with chatbot functionalities such as automatic speech recognition (ASR) and natural language understanding"
-    publishedDateTime: 2024-02-14T17:43:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ML-15687_1_image1-2-1260x451.png"
-        width: 1260
-        height: 451
-        isCached: true
-  - title: "Bringing Generative AI To The Enterprise With Safety And Trust"
-    excerpt: "Few technologies have caught the imagination of people worldwide like what generative AI has done in the recent past."
-    publishedDateTime: 2024-02-15T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/bringing-generative-ai-to-the-enterprise-with-safety--trust/amp/"
+  - title: "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution"
+    excerpt: "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge"
+    publishedDateTime: 2024-02-16T04:22:00Z
+    webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/"
+    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 91
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64cd63cbe166a4a6d9f2b75b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
         height: 900
         isCached: true
-  - title: "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock"
-    excerpt: "With the advent of generative AI solutions, organizations are finding different ways to apply these technologies to gain edge over their competitors. Intelligent applications, powered by advanced foundation models (FMs) trained on huge datasets, can now understand natural language, interpret meaning"
-    publishedDateTime: 2024-02-14T16:56:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
+  - title: "Fox News AI Newsletter: New AI-powered glasses a tenth the price of Apple's"
+    excerpt: "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future."
+    publishedDateTime: 2024-02-14T17:44:00Z
+    webUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples"
+    ampWebUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-ai-powered-glasses-tenth-price-apples.amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
+      name: Fox News
+      domain: foxnews.com
+    quality: 85
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
-        width: 936
-        height: 598
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/bobak-tavangar-brilliant-labs.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How Fractal is Leveraging Generative AI for Insurance"
-    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
-    publishedDateTime: 2024-02-16T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
+  - title: "Google’s Chess Experiments Reveal How to Boost the Power of AI"
+    excerpt: "By rewarding computers that combined different approaches to solve chess puzzles, Google created an enhanced AI that could defeat its existing champion, AlphaZero."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://www.wired.com/story/google-artificial-intelligence-chess/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 69
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+      - url: "https://media.wired.com/photos/65cf8b0dbdfe2a615c153428/191:100/w_1280,c_limit/Quanta-CreativeChess-byNashWeerasekera-Lede-scaled.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "The Intersection of Artificial Intelligence and Society"
+    excerpt: "AI won’t replace people; instead, people with AI will replace people without AI. According to experts, the increasing prevalence of artificial intelligence is expected to improve the lives of the majority of people in the next decade."
+    publishedDateTime: 2024-02-18T15:52:00Z
+    webUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/"
+    ampWebUrl: "https://dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/1171663/the-intersection-of-artificial-intelligence-and-society/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 61
+    images:
+      - url: "https://dailytimes.com.pk/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
+    excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
+    publishedDateTime: 2024-02-18T23:49:00Z
+    webUrl: "https://siliconangle.com/2024/02/18/graphcore-reportedly-explores-sale-amid-tough-competition-ai-chip-market/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/graphcore.jpg"
+        width: 500
+        height: 261
+        isCached: true
+  - title: "Chief Technology Officer appointed to advance Q-Bot’s use of robotics and AI in social and private housing"
+    excerpt: "John Burley joins Q-Bot from CMR Surgical to advance the use of robotics, digital and AI in the retrofit and construction sectors Q-Bot, the technology compa"
+    publishedDateTime: 2024-02-15T09:54:00Z
+    webUrl: "https://bdcmagazine.com/2024/02/chief-technology-officer-appointed-to-advance-q-bots-use-of-robotics-and-ai-in-social-and-private-housing/"
+    type: article
+    provider:
+      name: bdcmagazine.com
+      domain: bdcmagazine.com
+    quality: 51
+    images:
+      - url: "https://bdcmagazine.com/wp-content/uploads/2024/02/John-Burley-Q-Bot-CTO-scaled-e1707990805587.jpg"
         width: 1920
-        height: 1080
+        height: 1390
         isCached: true
-  - title: "Interoperability is not AI"
-    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
-    publishedDateTime: 2024-02-19T04:57:00Z
-    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
     type: article
     provider:
-      name: WatersTechnology
-      domain: waterstechnology.com
+      name: Mena FN
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
-        width: 1200
-        height: 743
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
         isCached: true
-  - title: "Soluna Ventures into AI Hosting with Co-location Agreement"
-    excerpt: "Soluna's co-location service offering comes at a pivotal moment as the company prepares to launch its own AI Cloud business. Leveraging its expertise in renewable energy, data center operations, and strategic partnerships, Soluna is poised to provide AI customers with Renewable Computing at a fraction of the cost of traditional data centers."
-    publishedDateTime: 2024-02-14T13:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962210.htm"
+  - title: "AI Firms Are Hunting for A Lot of Office Space"
+    excerpt: "And the second-largest was the AI startup Anthropic taking 230,315 square feet at 500 Howard Street in the city’s South Financial District. Anthropic describes itself on its website as a company that produces “AI research and products that put safety ..."
+    publishedDateTime: 2024-02-19T06:00:00Z
+    webUrl: "https://commercialobserver.com/2024/02/ai-firms-office-leasing/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
-    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
-    publishedDateTime: 2024-02-14T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 12
+      name: Commercial Observer
+      domain: commercialobserver.com
+    quality: 37
     images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
+      - url: "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2024/02/Ai_Office_Commercial_Observer_illo_web.jpg?quality=80&w=768\t"
+        width: 768
+        height: 521
         isCached: true
-  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
-    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
-    publishedDateTime: 2024-02-14T11:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-ai-strategy-strengthens-data-integration-generative-ai-/2024/02/14/9962047.htm"
+  - title: "Super Micro: Riding The AI Revolution"
+    excerpt: "Super Micro Computer is experiencing significant growth in sales, with a surge of over 100% reported recently. The company is forecasting EPS growth of ~250% in the current quarter, driven by increased demand for infrastructure solutions, warranting the ..."
+    publishedDateTime: 2024-02-19T00:02:00Z
+    webUrl: "https://seekingalpha.com/article/4671278-super-micro-riding-ai-revolution"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
+      - url: "https://static.seekingalpha.com/uploads/2024/2/17/234751-17082323014345374.png"
+        width: 640
+        height: 358
         isCached: true
-  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
-    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
-    publishedDateTime: 2024-02-16T02:01:00Z
-    webUrl: "https://www.digitimes.com/biz/news.asp?feed=4671"
+  - title: "NEWS TAGGED AI CHIP"
+    excerpt: "are trying to find ways to cut dependency on its AI chips. While specialists have pointed out that Altman's lack of understanding... Tuesday 6 February 2024 SMIC reportedly building 5nm capacities ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.digitimes.com/tag/ai_chip/00111338.html"
     type: article
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 8
-    images:
-      - url: "https://img.digitimes.com/ad/en_20240130_asia_bigbutton.jpg"
-        width: 336
-        height: 280
-        isCached: true
+    quality: 34
+  - title: "OpenAI’s Altman Seeks US Blessing to Raise Billions for AI Chips"
+    excerpt: "OpenAI Chief Executive Officer Sam Altman is working to secure US government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national security and antitrust concerns in Washington,"
+    publishedDateTime: 2024-02-16T16:20:00Z
+    webUrl: "https://news.bloomberglaw.com/antitrust/openais-altman-seeks-us-blessing-to-raise-billions-for-ai-chips"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 34
 
 secured: "BQuscXGaQuW3UvEjrUeM4bJcGArYcpTznM2pTIxecc1l/sPlCceJGew3FFGnqx/Z2tX5EkKQI2VxB0W7dB3V4AQhwyjA86pmZvPWUNmUW48RlmzrMS7MfRY6zKAEtZPyh3RpuJaBX7WX5RBODik2fZvcLbx8M/+k0mgHtIx/gk3AiGbAkqMQJLdCpOFwkS0BNHchlgAdhRRFQ3u4eG5g3TeMVDGGbksTt9y/ouYtj4SqQHLiB9rYt9nktKGtqIb2RAqekmMcAFjXRUL0bVUOkG8QMpqGRGSyDKM0/0FWnJoBS1WeZRAsrZxDiy75pSEyIJSoto1ifIPHLANR+Ks1nPZZ8r301DiCGuhlvhq8DHw=;bABdmC73KTOFuJ39WXLF0Q=="
 ---

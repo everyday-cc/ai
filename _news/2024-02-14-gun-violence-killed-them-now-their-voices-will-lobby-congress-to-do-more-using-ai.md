@@ -35,6 +35,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
+    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
+    publishedDateTime: 2024-02-19T12:30:00Z
+    webUrl: "https://edition.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 46
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242699530.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
     excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
     publishedDateTime: 2024-02-14T14:25:00Z
@@ -76,29 +90,6 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"
-    publishedDateTime: 2024-02-19T04:43:00Z
-    webUrl: "https://www.washingtonpost.com/business/2024/02/19/aigenerated-voice-clones-video-game-actors-replica-studios-sagaftra/b88abcd2-cf13-11ee-ac8b-765284b5203e_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSMEONGPCMI65LELOZJIJNJAHY_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
-    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
-    publishedDateTime: 2024-02-14T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 12
 
 secured: "Lk5kY4E0PjPESpktRV+Nj2NsG+xRbp9sDVHCi++hn2QwTgadozmYyk/Q58XrhGs2tLbkINrtnb0cDHlG1cTYVtVuKRvM0HIYgU0D/xK3rM3eAWDK7w5H0LK8/vDq90ohCbzPijF3J8KiCahm2L/5t+3oyo3cDegZBLxz07KqX3BramQngWBOLChW1JffDvvlHMstl+1faLkWHZ6iyeh0k5SAmClsqfIDwTP3vcbHPps49HIxmhtdrHsO/0dyJQ1v3mKc/KgWGClK+iH5beufSvfVs4CDhCy70KtUNbzVTTwlfQ5vVkTFb4JssNg1UF7x50fTLGUglv7O5EJ2XH2APCzfYh8YkYm7T7yk9TZ29yHBGH0WNNHVo7IxIihkauYn3KwkzXb1s0835H6ggw5IuAgOKRmkQkRaQIj62ntNK4UHZjRSP+NytFOZpO9HilZQC6Niy0NX6xXa4vddeefuXCcVpHlOOeSd6gl+GdF14DM/bpuX5/94sVVPSZmiX2XRNKhLQxuONza/Xrm4gB9tNw==;9IN/ay0Win+KFJsBJ0XrHA=="
 ---

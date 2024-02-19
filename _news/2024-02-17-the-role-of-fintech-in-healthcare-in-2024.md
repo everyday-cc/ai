@@ -26,165 +26,214 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine"
-    excerpt: "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans."
-    publishedDateTime: 2024-02-14T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
+  - title: "Insights From The 2023 Fintech Index"
+    excerpt: "Much ink has been spilled about where fintech is going. It is refreshing to ground this in a retrospective. In this vein, I wanted to deep dive on three reflections from this excellent report by F-Prime: The 2023 Fintech Index."
+    publishedDateTime: 2024-02-18T15:29:00Z
+    webUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/"
+    ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 96
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbc583a7ebceedfab53229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cccfddcfc776b96c7ac6f9/0x0.png?format=png&height=900&width=1600&fit=bounds"
+        width: 1430
+        height: 782
         isCached: true
-  - title: "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution"
-    excerpt: "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge"
-    publishedDateTime: 2024-02-16T04:22:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
+  - title: "Dutch fintech leader Finom nets €50M to boost digital banking for SMEs"
+    excerpt: "Dutch fintech Finom has raised €50mn ... a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! “We aimed to give them more time to focus and reach their full potential.”"
+    publishedDateTime: 2024-02-14T15:23:00Z
+    webUrl: "https://thenextweb.com/news/fintech-finom-funding-digital-banking-smes"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
-    excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
-    publishedDateTime: 2024-02-17T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
-    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
-    publishedDateTime: 2024-02-15T15:11:00Z
-    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
-    type: article
-    provider:
-      name: American College of Radiology
-      domain: acr.org
-    quality: 71
-    images:
-      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
-    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
-    publishedDateTime: 2024-02-18T04:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
-    excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
-    publishedDateTime: 2024-02-14T11:51:00Z
-    webUrl: "https://www.abcactionnews.com/morning-blend/ai-doctor-the-rise-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
+      name: The Next Web
+      domain: thenextweb.com
     quality: 69
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/04fc097/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe6b%2F45bf940c346f431c9be273b8942ab6eb%2Fe6b7a26d62644eeebc848a59b1eb55c8%2Fposter_906bccf9973d4e97bc21e778876d8908.jpg"
+      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-1-2.jpg&signature=d51704b3b76e03c05f73a3a38dee1540"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
+    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
+    publishedDateTime: 2024-02-14T21:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 54
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
+        width: 1080
+        height: 810
+        isCached: true
+  - title: "Carbon acquires Nigerian fintech"
+    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
+    publishedDateTime: 2024-02-15T02:37:00Z
+    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
+    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
+    type: article
+    provider:
+      name: The Punch Newspapers
+      domain: punchng.com
+    quality: 44
+    images:
+      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
+    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
+    publishedDateTime: 2024-02-15T03:27:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 44
+    images:
+      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
+        width: 800
+        height: 527
+        isCached: true
+  - title: "Velmie Introduces Business Banking Platform to Assist Fintech Platforms"
+    excerpt: "Velmie has reportedly introduced its business banking platform intended to assist financial services providers and Fintech platforms with enhancing their core product offerings. As noted in the update from Velmie, the Fintech platform allows firms to ..."
+    publishedDateTime: 2024-02-18T09:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221626-velmie-introduces-business-banking-platform-to-assist-fintech-platforms/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/09/Europe-Map.jpeg"
+        width: 1280
+        height: 866
+        isCached: true
+  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
+    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
+    publishedDateTime: 2024-02-15T04:02:00Z
+    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
+        width: 1024
+        height: 567
+        isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES FEBRUARY EDITION OF FINTECH MAGAZINE"
+    excerpt: "LONDON, Feb. 15, 2024 /PRNewswire/ -- BizClik, the UK's fastest-growing publishing company, has published the latest edition of FinTech Magazine. This publication is a highly regarded voice within the Financial Sector for its in-depth reports and interviews with prominent figures in the industry."
+    publishedDateTime: 2024-02-15T21:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
         width: 1200
-        height: 630
+        height: 627
         isCached: true
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+  - title: "Carbon acquires fintech firm to empower SMEs"
+    excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
+    publishedDateTime: 2024-02-16T08:36:00Z
+    webUrl: "https://businessday.ng/companies/article/carbon-acquires-fintech-firm-to-empower-smes/"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
+      name: businessday
+      domain: businessday.ng
+    quality: 24
     images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
+      - url: "https://cdn.businessday.ng/2023/09/nigerian-fintechs-1.jpeg"
+        width: 700
+        height: 350
         isCached: true
-  - title: "Apple's Vision Pro and the coming healthcare revolution"
-    excerpt: "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery."
-    publishedDateTime: 2024-02-15T12:27:00Z
-    webUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
+  - title: "Fintech Firm to Lease San Francisco Space Vacated by Pinterest"
+    excerpt: "In 2022, when Pinterest announced that it was adopting a hybrid work model the company called “PinFlex” that permitted its employees to “choose where they work best,” the tech company vacated a SoMa building at 410 Townsend, where the lease on two floors it was occupy was expiring, the Chronicle reported."
+    publishedDateTime: 2024-02-16T11:58:00Z
+    webUrl: "https://www.globest.com/2024/02/16/fintech-firm-to-lease-san-francisco-space-vacated-by-pinterest/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
+      name: GlobeSt.com
+      domain: globest.com
+    quality: 24
     images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2024/02/15/13/apple-vision-pro-100961260-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
-    excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
-    publishedDateTime: 2024-02-15T18:07:00Z
-    webUrl: "https://www.news-medical.net/news/20240214/Insights-into-how-AI-and-wearable-technologies-are-impacting-the-future-of-healthcare.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 47
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+      - url: "https://images.globest.com/contrib/content/uploads/sites/296/2023/07/San-Francisco-Skyline-Article-202307210817.jpg"
         width: 620
-        height: 480
+        height: 372
         isCached: true
-  - title: "Shaping The Future Of Healthcare Technology"
-    excerpt: "Is your company positioned as a trailblazer in shaping the future of healthcare technology? In the face of disruptive technologies and shifting b"
-    publishedDateTime: 2024-02-16T04:48:00Z
-    webUrl: "https://menafn.com/1107859577/Shaping-The-Future-Of-Healthcare-Technology"
+  - title: "How the UAE is cementing its fintech hub status"
+    excerpt: "Jason Hughes, senior executive officer of eToro Middle East tells us that the UAE offers a supportive business ecosystem that drives growth."
+    publishedDateTime: 2024-02-16T06:28:00Z
+    webUrl: "https://gulfbusiness.com/how-the-uae-is-fostering-fintech-innovation/"
+    type: article
+    provider:
+      name: Gulf Business
+      domain: gulfbusiness.com
+    quality: 24
+    images:
+      - url: "https://gulfbusiness.com/wp-content/uploads/2024/02/GettyImages-1231917794-e1708064794310.jpg"
+        width: 930
+        height: 620
+        isCached: true
+  - title: "Baron FinTech Fund Q4 2023 Shareholder Letter"
+    excerpt: "[1]The FactSet Global FinTech Index™ is an unmanaged and equal-weighted index ... well positioned to capitalize on increasing adoption of artificial intelligence ('AI') given its vast data sets. The company recently launched Intuit Assist, a generative ..."
+    publishedDateTime: 2024-02-18T10:15:00Z
+    webUrl: "https://seekingalpha.com/article/4671238-baron-fintech-fund-q3-2023-shareholder-letter"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://media.gettyimages.com/id/1717393421/photo/digital-finance-evolution-innovative-fintech-technology-visualizing-financial-investment.jpg?b=1&s=170667a&w=0&k=20&c=b_e98EuBq62IQEgFsb7d01Ahi0ji8qlvbePlrHlAIJI="
+        width: 509
+        height: 339
+        isCached: true
+  - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
+    excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
+    publishedDateTime: 2024-02-16T11:49:00Z
+    webUrl: "https://techbullion.com/intersphere-enterprises-and-icarus-labs-a-fintech-partnership-redefining-the-future/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 17
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/02/ICA0018-media-banner-02.jpg"
+        width: 720
+        height: 455
+        isCached: true
+  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
+    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
+    publishedDateTime: 2024-02-15T19:49:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "PROVEX Fintech Limited Boosts Technological Innovation With Significant R&D Investment"
+    excerpt: "In a bold move that underscores its commitment to leading the fintech industry, PROVEX Fintech Limited today announced a substantial increase in its"
+    publishedDateTime: 2024-02-18T14:24:00Z
+    webUrl: "https://menafn.com/1107867271/PROVEX-Fintech-Limited-Boosts-Technological-Innovation-With-Significant-RD-Investment"
     type: article
     provider:
       name: Mena FN
       domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
+    quality: 0
 
 secured: "3ywYE+gCdyMa+2mhqWosRax+YkSSR9q7U0XzVQDhnfGCmY5VRzdekDiDQeF6wjZ5PCCU+FTPRFVvC47uZbIE2NoltWFhYDAqABBW0Q594cXR/VoTLKBuyuhxk/X0PkEeQ+h4yhylA+HPFhLLO7KsM8giehK7rehoxPKy8b1rc2JMrxcf7lG2B1qeD9TY1zqeMIzCsgVa1Q3SrVadQgrgHBM3k7lNvOeOz955kMQXM420V8jSyWwpdvtQlnEvl7ciVt2LhXHhSL73fwRLT1PC/2bWu2Ne7Htoiakpuz+TKuckFfOmKrXdqHwVdhTTs/NqXQ1N43Fp+PzRlLcMoqlB5fqeqA7msx4tzegaWyRLsyqR+Tp4IpITewJ0MSOpDT7E/lCT8cJNGqkNF9FIXBSLOG4l9aIyYMaVHRa7kJU/P+O9RmpLFWgppNlD5cYoMSUaCx1y/qDXA7FZUJ7KeYCygHEiTVGkB5Gy8Mef9xFK6bjm4J9bVmejJtBnGMeQ27cx55Om2JvgN/tD25+wk8zwuw==;aTkLHSnAjirndJEkJKJSIQ=="
 ---

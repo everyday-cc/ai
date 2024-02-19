@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-conne
 webUrl: "https://aws.amazon.com/blogs/machine-learning/enhance-amazon-connect-and-lex-with-generative-ai-capabilities/"
 type: article
 quality: 89
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
         width: 936
         height: 598
         isCached: true
-  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
-    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
-    publishedDateTime: 2024-02-14T23:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "How Fractal is Leveraging Generative AI for Insurance"
     excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
     publishedDateTime: 2024-02-16T08:30:00Z
@@ -123,20 +109,6 @@ related:
       - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
         width: 2560
         height: 1336
-        isCached: true
-  - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
-    excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate thetesting and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."
-    publishedDateTime: 2024-02-14T11:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fujitsu-ai-strategy-strengthens-data-integration-generative-ai-/2024/02/14/9962047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Fujitsu AI strategy strengthens data integration, generative AI capabilities with dedicated platform and new Fujitsu Uvance offerings"
     excerpt: "Fujitsu will further commercialize Fujitsu Kozuchi, Fujitsu's dedicated AI platform that allows users to accelerate the testing and deployment of advanced AI technologies, as one of its key AI commercial offerings and will focus on the integration of AI capabilities into solutions for the four cross-industry vertical areas of Fujitsu Uvance."

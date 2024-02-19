@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine"
-    excerpt: "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans."
-    publishedDateTime: 2024-02-14T12:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cbc583a7ebceedfab53229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "The Rise Of The Chief AI Officer: Powering AI’s Corporate Revolution"
-    excerpt: "Explore the critical role of Chief AI Officers (CAIO) in steering companies through the AI revolution, transforming strategies, and securing a competitive edge"
-    publishedDateTime: 2024-02-16T04:22:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cee0a23b56402c7e6cf6fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
   - title: "AI’s pivotal role in shaping the future of finance in 2024 and beyond"
     excerpt: "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points"
     publishedDateTime: 2024-02-17T10:45:00Z
@@ -73,80 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
-    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
-    publishedDateTime: 2024-02-15T15:11:00Z
-    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
+  - title: "Investors Share Predictions for Artificial Intelligence in 2024 and Beyond"
+    excerpt: "Entrepreneurs and venture capitalists shared predictions for the year ahead in a at the World Governments Summit."
+    publishedDateTime: 2024-02-15T13:59:00Z
+    webUrl: "https://time.com/6694680/ai-predictions-investors-world-governments-summit/"
     type: article
     provider:
-      name: American College of Radiology
-      domain: acr.org
-    quality: 71
-    images:
-      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "RapidClaims Launches with Significant Funding to Revolutionize Healthcare Claim Management with AI"
-    excerpt: "RapidClaims launches with significant funding to utilize AI in tackling healthcare claim denials, aiming to streamline medical coding and"
-    publishedDateTime: 2024-02-18T04:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/rapidclaims-launches-with-significant-funding-to-revolutionize-healthcare-claim-management-with-ai-1033077945"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1708041132826-0.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Doctor: The Rise of Artificial Intelligence in Healthcare"
-    excerpt: "We're talking to Dr. Ronald Razmi, co-founder and managing director at Zoi Capital, about his new book -- AI Doctor: The Rise of Artificial Intelligence in Healthcare."
-    publishedDateTime: 2024-02-14T11:51:00Z
-    webUrl: "https://www.abcactionnews.com/morning-blend/ai-doctor-the-rise-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 69
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/04fc097/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fause%2Fslices%2Fe6b%2F45bf940c346f431c9be273b8942ab6eb%2Fe6b7a26d62644eeebc848a59b1eb55c8%2Fposter_906bccf9973d4e97bc21e778876d8908.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
-    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
-    publishedDateTime: 2024-02-17T16:00:00Z
-    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
-    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 67
-    images:
-      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
-        width: 361
-        height: 203
-        isCached: true
-  - title: "Apple's Vision Pro and the coming healthcare revolution"
-    excerpt: "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery."
-    publishedDateTime: 2024-02-15T12:27:00Z
-    webUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html"
-    ampWebUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 61
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2024/02/15/13/apple-vision-pro-100961260-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Time
+      domain: time.com
+    quality: 47
   - title: "Insights into how AI and wearable technologies are impacting the future of healthcare"
     excerpt: "Imagine a world in which the digital watch on your wrist tracks not only your step count, but also your blood sugar, heart rate, blood pressure and respiration."
     publishedDateTime: 2024-02-15T18:07:00Z
@@ -161,29 +64,43 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "The Role of “Fintech” in Healthcare in 2024"
-    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
-    publishedDateTime: 2024-02-17T15:56:00Z
-    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
+  - title: "The Future Of AI Might Not Be Chat-Based"
+    excerpt: "Businesses will need to soon start looking beyond the appeal of conversational interfaces and understand how task-oriented models can be integrated into their operations."
+    publishedDateTime: 2024-02-16T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/16/the-future-of-ai-might-not-be-chat-based/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 41
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "People find romance with AI"
+    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
+    publishedDateTime: 2024-02-17T06:05:00Z
+    webUrl: "https://www.columbian.com/news/2024/feb/17/people-find-romance-with-ai/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 39
     images:
-      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
-        width: 646
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
         height: 250
         isCached: true
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 19
 
 secured: "OvaRhaUEWR6Z0QIFqTsueY3jKAfBZkUS5wYJt6g4p/XVXj1WN8lcpWajvToTugwzIwEd39xknUxmuef6qKfMQrIXPTpAhB0hyv09QyJ40N3ijhcifLeizbb/jcp0KP24avOoS6wbV8so0iBQfekyfVLZ8txHzAEd8EflQnGShzj2La7Na5cXU57unI6nvpxUsFtXBa01M2Jh8/ioYQmYogRnHK09UfNZxAF+d3LHF2HnqE2RhG+uNVF/c407aYowxHOdGMl6BlfR83aUIzBxlEniVJ0RarWXOPZL5y20/LGhDrdxAYozo/UiRggWiI9ETbJQbRO7udFiVNNDLBTQQe5IC/hZPfPnecrrbSvOisI=;b2YvbnKK5i27Zuteff3ktA=="
 ---

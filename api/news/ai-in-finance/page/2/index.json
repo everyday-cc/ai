@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-01-metronomes-usage-based-billing-software-finds-hit-in-ai-as-the-startup-raises-43m-in-fresh-capital.md",
+      "title": "Metronome’s usage-based billing software finds hit in AI as the startup raises $43M in fresh capital",
+      "excerpt": "Metronome, a startup which helps software companies offer usage-based billing, has raised $43 million in a Series B funding round led by NEA.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
+      "originalUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Metronome_founders.jpg?resize=1200,793",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/31/metronomes-usage-based-billing-software-finds-hit-in-ai-raises-43m-in-fresh-capital/amp/",
+      "publishedDateTime": "2024-01-31T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-building-gen-ai-literacy-at-hbcus-to-future-proof-black-families.md",
+      "title": "Building Gen AI Literacy At HBCUs To Future-Proof Black Families",
+      "excerpt": "Today’s Black undergraduates keen on building generational wealth might consider this a “future problem,” but it demands their immediate attention.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "originalUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b97c08e6d3b73cdce01372/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinecarter/2024/01/30/building-gen-ai-literacy-at-hbcus-to-future-proof-black-families/amp/",
+      "publishedDateTime": "2024-01-30T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-block-becomes-the-latest-fintech-to-lay-off-workers.md",
       "title": "Block becomes the latest fintech to lay off workers",
       "excerpt": "Block, whose subsidiaries include Cash App and Square, is laying off employees, according to an internal memo.",
@@ -1280,95 +1385,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions.md",
-      "title": "How AI and machine learning solutions drive value for financial institutions",
-      "excerpt": "In an era where technology is reshaping industries, BMO is making waves in the financial sector through its robust artificial intelligence (AI) initiatives and machine learning technologies. A recent interview with Eric Morrow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "originalUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/09/GettyImages-994786384-1.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
-      "publishedDateTime": "2024-01-08T14:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona.md",
-      "title": "The Future of Education: Exploring the Benefits of a Hybrid MS in Machine Learning at the University of Arizona",
-      "excerpt": "In the era of technological advancements and educational innovation, the University of Arizona is pioneering a new path with its Hybrid MS in Machine Learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "originalUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_1766553103.jpg",
-          "width": 655,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "publishedDateTime": "2024-01-08T13:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
       ]
     }
   ],

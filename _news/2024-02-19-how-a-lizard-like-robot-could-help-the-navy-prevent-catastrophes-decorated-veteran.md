@@ -1,27 +1,45 @@
 ---
 category: news
-title: "How a lizard-like robot could help the Navy 'prevent catastrophes': decorated veteran"
-excerpt: "A lizard-like robot and other devices relying on artificial intelligence could soon be major military game changers, according to a defense expert investing in the tech. The devices include a drone that can operate even in warzones with jammed ..."
-publishedDateTime: 2024-02-18T19:30:00Z
-originalUrl: "https://www.foxnews.com/tech/lizard-like-robot-help-navy-prevent-catastrophes-decorated-veteran"
-webUrl: "https://www.foxnews.com/tech/lizard-like-robot-help-navy-prevent-catastrophes-decorated-veteran"
+title: "How a lizard-like robot could help the Navy ‘prevent catastrophes’: decorated veteran"
+excerpt: "A lizard-like robot and other devices relying on artificial intelligence could soon be major military game changers, according to a defense expert investing in the tech. The devices include a drone that can operate even in warzones with jammed communications,"
+publishedDateTime: 2024-02-19T12:30:00Z
+originalUrl: "https://1010wcsi.com/fox-technology/how-a-lizard-like-robot-could-help-the-navy-prevent-catastrophes-decorated-veteran/"
+webUrl: "https://1010wcsi.com/fox-technology/how-a-lizard-like-robot-could-help-the-navy-prevent-catastrophes-decorated-veteran/"
 type: article
-quality: 42
-heat: 42
+quality: 32
+heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WCSI
+  domain: 1010wcsi.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "2Xw4b1yi7tbXX8L1oJ4CgKbWU4jxzdY63n6TWYJ4NOz0F2fb+NGA3swnStXpdD9h4pNg+kJWrOaYbvAOuqOXcT2t8y6xxYmrWqtD9vW6vIJLkhpZhC3K/BEz8WvO6VjX0KXJJs2fpUCbC0Ni+MZRy7bCInvOZtDKtFmBGVDy+rsAAVPGFoiy5lCKpZ2XDI9NLmpUtWwv/+GYkbPpA3uXO7FqJdbxvzRbsJtSuUrpetHtYi5ze8BTMawJ52mcF96+BvsEJQFaYkVSjjj0VLDRHSqhOBBHKugFKYgmT97QpwwbW/tIubKdw5zNZba1v68mBohSyH4OLoOLIT2ZBdPMIRIjYH1tpXkcFazwuuBDuJEvQkSVDUuYCF6srqFZeVaSGzWDMnWydFmpwRyRSVRge+0r8oVG6T62n4uGNwyQluT5U5ATjVZeiLsXwlSZK3NqYs9DuKJppDei5Yxo9903rWxRwc7zqSQLBrs/nejAWZYqod6ROoPKPlpvOlO8nwgfyTyled4wRBXJZ4juNjgfzQ==;1ZX5+hF8xexv2LUG4FPwFA=="
+images:
+  - url: "https://mediaassets.theindychannel.com/weatherimages/WEB_Planner_Scripps.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Lizard-like robots could help 'prevent catastrophes' in US Navy, says expert"
+    excerpt: "Wall climbing, AI-powered lizard-like robots could help give the United States Navy a huge military edge, a venture capitalist explained to Fox News."
+    publishedDateTime: 2024-02-19T12:23:00Z
+    webUrl: "https://interestingengineering.com/military/lizard-like-robots-help-prevent-catastrophes"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 36
+    images:
+      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/19/image/jpeg/Uiz2qidYMmYhHM6adu5ijYH3xNmAomIYU1qoYS5f.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "jLfVn6xLa6SLV7wYEDblljbwlgMzUefQuMCzn1Yuj8M4v0Y83Xr6wJ6F88wThFnKtiSzciY4RYWzUuYDYB+G9o6iKaF7WekXiQDm4la9dRlUJ3UlppCxYK8lIWw0uAJ1ifhPBGhrI8tdr2sP0Ih7/TvznK6Z6YBgHgRFDdMf53UT4+mHc9MxmU5ItNp8f3R2GyFmyTgKSGiGoDfIyl7a6JW3gUzryafq5LUS0s+y9O+mnPInYrTzw5a9X8ipJQOscqcUszHq7CrJ7Wo8Kni6KCBBTwMDyx+31zDOFa+jTy+ra9ZbpJd4mj5kR8Q2loAB7f0uFZL8giSWZNlio2qgdgr69zJEZTU3cDGDLQpllgM=;gq0td3OIMBLOknC4DkSK6w=="
 ---
 

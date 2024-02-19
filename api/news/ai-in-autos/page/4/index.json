@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-14-new-laws-to-curb-danger-of-high-risk-artificial-intelligence.md",
+      "title": "New laws to curb danger of high-risk artificial intelligence",
+      "excerpt": "Legislative controls on the use of AI will form part of the federal government’s first major response to regulating the rapidly advancing technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "originalUrl": "https://www.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/politics/federal/new-laws-to-curb-danger-of-high-risk-artificial-intelligence-20240111-p5ewnu.html",
+      "publishedDateTime": "2024-01-13T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
       "title": "Autonomous Driving innovation: ‘Slower than Expected’",
       "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
@@ -1239,49 +1273,6 @@
       "provider": {
         "name": "Independent.ie",
         "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-profits-up-at-tuam-firm-developing-driverless-technology.md",
-      "title": "Profits up at Tuam firm developing driverless technology",
-      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "originalUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/00042444-1600.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T15:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

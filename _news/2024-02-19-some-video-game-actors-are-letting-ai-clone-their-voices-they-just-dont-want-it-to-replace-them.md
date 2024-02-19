@@ -24,81 +24,56 @@ images:
     isCached: true
 
 related:
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T17:59:00Z
-    webUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-    ampWebUrl: "https://www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
-    cdnAmpWebUrl: "https://www-wunc-org.cdn.ampproject.org/c/s/www.wunc.org/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai?_amp=true"
+  - title: "Voice actors face a reckoning in the age of AI—but some are leaning into the technology to give themselves an edge"
+    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/"
+    ampWebUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
+    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
     type: article
     provider:
-      name: WUNC
-      domain: wunc.org
-    quality: 53
+      name: Fortune
+      domain: fortune.com
+    quality: 67
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg"
-        width: 480
-        height: 270
+      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1383909511-e1708346325898.jpg?w=840"
+        width: 840
+        height: 472
         isCached: true
-  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
-    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
-    publishedDateTime: 2024-02-14T14:25:00Z
-    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
+  - title: "Responsible technology use in the AI age"
+    excerpt: "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/"
+    ampWebUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 42
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
     images:
-      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Thoughtworks_image_2_1200x630px.jpg?w=1200"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Parents of gun violence victims use AI to bring kids’ voices to Capitol Hill"
-    excerpt: "At first, the parents were hesitant. Kristin and Mike Song hadn’t heard their 15-year-old son’s voice since Jan. 31, 2018, when he went to a friend’s house and accidentally killed himself with an unsecured gun."
-    publishedDateTime: 2024-02-14T17:33:00Z
-    webUrl: "https://www.bostonglobe.com/2024/02/14/nation/parents-gun-violence-victims-use-ai-bring-kids-voices-capitol-hill/"
+  - title: "Where companies have adopted AI—and where they are planning to do so in the near future"
+    excerpt: "On Nov. 30, 2022, OpenAI launched ChatGPT, a chatbot driven by artificial intelligence. The app spread like wildfire. Not only did it provide an entertaining companion to chat with, but it also showed promise as a piece of productivity software."
+    publishedDateTime: 2024-02-16T18:10:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/where-companies-have-adopted-ai-and-where-they-18672230.php"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 34
-    images:
-      - url: "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/Ew8AbcNpR5JpJm57Flw78mM2LVU=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/SZKQ24E6KTURNBDZKNRY22HSXE.jpg"
-        width: 506
-        height: 337
-        isCached: true
-  - title: "Families advocate for artificial intelligence to restore voices of gun violence victims"
-    excerpt: "If the idea of getting a call from someone killed in a mass shooting makes you uncomfortable, families across the U.S. say that's the point. Artificial intelligence is now restoring the voices of people lost to gun violence."
-    publishedDateTime: 2024-02-15T23:18:00Z
-    webUrl: "https://www.fox32chicago.com/video/1411844"
-    ampWebUrl: "https://www.fox32chicago.com/video/1411844.amp"
-    cdnAmpWebUrl: "https://www-fox32chicago-com.cdn.ampproject.org/c/s/www.fox32chicago.com/video/1411844.amp"
+      name: Times Union
+      domain: timesunion.com
+    quality: 11
+  - title: "Moving into the next phase for voice-activated technology accessibility"
+    excerpt: "An additional $5 million award will continue the second phase of their work over the next three years, says WMU's Dr. Hope Gerlach-Houck, assistant professor of speech, language and hearing sciences and co-principal investigator for the project, which received its first NSF grant in 2022."
+    publishedDateTime: 2024-02-15T18:24:00Z
+    webUrl: "https://wmich.edu/news/2024/02/74666"
     type: article
     provider:
-      name: FOX 32
-      domain: fox32chicago.com
-    quality: 29
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://www.wfae.org/united-states-world/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 13
-  - title: "Voices of the dead: shooting victims plead for gun reform with AI-voice messages"
-    excerpt: "The voices of several people who lost their lives to gun violence have been recreated using AI to call for action in innovative online campaign"
-    publishedDateTime: 2024-02-14T13:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2024/feb/14/ai-shooting-victims-calls-gun-reform"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 12
+      name: Western Michigan University
+      domain: wmich.edu
+    quality: 4
 
 secured: "Vw+NyqSBewN3sqLtLkvYXmzBwfDoHZV8rT4D85F+XKRwEsTAuhXWxWgejZ/8AU+6VgEQqEvro+J/cl7AGEgRWa+gCCnR0u0RBtOkdJaKroeiYTNpDiCnDQ6ROH/P0M/83xObVjxlsfT6NMgGxN1JpyT0Va8nwVXxsj5dzbxI5PeWzLHuhRTIs1M6jRysfiWo3LAVjmyIWFOI/P+q3pbkaxz3wWmUUyYVd0EYIlFr6xes2t4dAfrrS9tn/WJVPzUfr8qMF0q38O7s4QJna4kTgIGwIT2MaBiqjk0hxUr6AAqJBQvUIElFQn5BZV/KqqEqJe6EabMHbnmThdIA/swz8efFwbQYl5BlIu7rGbM2BpU=;Q7kTXPzVAqXh8fPk1CcgpA=="
 ---

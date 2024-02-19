@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Department of Justice announces new AI initiative"
+    excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
+    publishedDateTime: 2024-02-15T21:55:00Z
+    webUrl: "https://fedscoop.com/justice-ai-doj-new-ai-initiative/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2020/06/26011734845_e8cfcc6b44_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
     excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
     publishedDateTime: 2024-02-16T04:43:00Z
@@ -53,15 +67,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
 
 secured: "fT1KsdbyBbD1SJz3dWc5qja7uCeGASLFXbO5989d6vjPkmgvlizGB9Wu1+/h6nonGXDTjdTDzgg4+3FlYSdG8kpmnuFo4RI0Jm4Fewb123/ali370hZdxAsfp9oI+TFCFmS7nzfhS2aC1LCEUb16KVeNzNj97ZxZjnHsjzhALAyMgtPfI54IHodlOKFLI16PZyeBm5byAsx08pVEOBqe2cJtEwW/YPN8tq/3mEXLbXOi7elnnJRojV0rKCNemRb/h/TZ/uHJeVQuCOZP9P4bd6gkjS3OTb4wCV8pHJiXPkGOiG2OntxVwIPmHmJwPHpZHo9X0tWGNETsJZCRxyAEYcT8RfaSSAzaiSKfR0agqDo=;rPVWmKCZ/uf7N3D0uwTw+A=="
 ---

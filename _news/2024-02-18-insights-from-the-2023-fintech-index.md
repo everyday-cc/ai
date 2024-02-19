@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
         width: 800
         height: 527
+        isCached: true
+  - title: "The Role of “Fintech” in Healthcare in 2024"
+    excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
+    publishedDateTime: 2024-02-17T15:56:00Z
+    webUrl: "https://financialit.net/blog/role-fintech-healthcare-2024"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 41
+    images:
+      - url: "https://financialit.net/sites/all/themes/fin/img/android-btn.png"
+        width: 646
+        height: 250
         isCached: true
   - title: "Velmie Introduces Business Banking Platform to Assist Fintech Platforms"
     excerpt: "Velmie has reportedly introduced its business banking platform intended to assist financial services providers and Fintech platforms with enhancing their core product offerings. As noted in the update from Velmie, the Fintech platform allows firms to ..."

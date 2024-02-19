@@ -61,6 +61,15 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Could AI sway the 2024 election? Here's what's being done nationally to stop deepfakes."
+    excerpt: "Craig Holman, a Capitol Hill lobbyist who works in governmental ethics for the nonprofit Public Citizen, believes 2024 will become the first deepfake election cycle, where AI will influence voters and impact election results. “Artificial intelligence has ..."
+    publishedDateTime: 2024-02-19T10:06:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 11
   - title: "How This VC-Backed Startup Is Fighting Deepfakes"
     excerpt: "The artificial intelligence-powered cybersecurity startup Clarity just raised $16 million to fight back against deepfakes."
     publishedDateTime: 2024-02-16T19:40:00Z

@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 553
         isCached: true
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
 
 secured: "eyv68eBFhVaeVSP9pLupwxTvXjEKVRwmJHbOuhkylxKRGqg2KdcgiYA65iu9IYH2icarQ7F1KeCbzkwOjUgVHw7eCY2gAQoFeUtYJUdq3Qais6FiHWTN7d/m8hbo3Z1KvTE4ZmqARCxQyxK1PzwgX+8fTx++nvjJdZnKInFFGTF1HJaDO+YSRJXIIpgm1Sll9Da01mBVDq4eEJFHUUIQR8pU5+qOopfE1Jk0KFyXy/Q3TKlw0hQgfED756HUbTYGUpCA6D7XB0Mw1j+zOFl9nxvOvQI5mfT2thWG2pemv3OIcpVRP3mHzJUFRHUqT/KO6a4nwtwUi3bA5f/a8RlpMPVAYZeCIKfHO0jJMbE7cu4=;iQXED2GoniXXe48V+5yDNA=="
 ---

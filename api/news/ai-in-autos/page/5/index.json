@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-03-profits-up-at-tuam-firm-developing-driverless-technology.md",
+      "title": "Profits up at Tuam firm developing driverless technology",
+      "excerpt": "Pre-tax profits at the Tuam firm at the cutting edge of driverless car technology almost doubled to €46.25m in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
+      "originalUrl": "https://www.rte.ie/news/business/2024/0103/1424642-profits-up-at-firm-developing-driverless-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/00042444-1600.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
       "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
       "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
@@ -1383,49 +1426,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
-      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
-      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

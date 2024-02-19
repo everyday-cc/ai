@@ -39,6 +39,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Department of Justice announces new AI initiative"
+    excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
+    publishedDateTime: 2024-02-15T21:55:00Z
+    webUrl: "https://fedscoop.com/justice-ai-doj-new-ai-initiative/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 39
+    images:
+      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2020/06/26011734845_e8cfcc6b44_o.jpg"
+        width: 1920
+        height: 1024
+        isCached: true
   - title: "Revolutionizing CXM with Generative AI: Insights from Everest Group’s Enterprise Readiness Report"
     excerpt: "The integration of generative AI into Customer Experience Management (CXM) is heralding a new era of digital transformation. Everest Group's extensive report, “Generative AI in CXM: Assessing Enterprise Readiness for this Disruptive Transformation,"
     publishedDateTime: 2024-02-15T16:32:00Z
@@ -53,15 +67,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
 
 secured: "I4MVhZR5QYXIU2xmwKsyzIwPHjpOOK8K44zt+vJBeFKgCA9dhNVJUlCkr7tyqhy80ZQOeL5pbIa3O8METS+aBjSjBAQdlgtpl9CHS2PJf0GJELOk8HJLs74n1w+Puk+PLjruepxxyLM0hAqYDXXDz+3E45PRgC14xEUqNfHVw5cj9HSE28rwzxp6bL2npkvQWSXzcEp0vYquFLIyrfBritG9me48kib9pdZwRv8C1btHyoec61ooy+gA5KIhVF1EEX+dSlr8SGRCURBeRw1FNkCW0sBJVN1uCtqpWU7v2ykuHo47jESehHaN3U7fItG7U+yyCxgRBp4rKxnFavvZoZGLeL9fQTn6tkf1lqhN53M=;Ep5HcqsSMs89Tfi3tMJoIg=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "People find romance with AI"
-    excerpt: "Similar to general-purpose AI chatbots, companion bots use vast amounts of training ... how to get along with people that are different from us,” said Dorothy Leidner, professor of business ethics at the University of Virginia. “And so, all these ..."
-    publishedDateTime: 2024-02-17T06:05:00Z
-    webUrl: "https://www.columbian.com/news/2024/feb/17/people-find-romance-with-ai/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 39
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
     excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"
     publishedDateTime: 2024-02-15T15:46:00Z

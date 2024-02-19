@@ -187,6 +187,15 @@ related:
         width: 2096
         height: 1182
         isCached: true
+  - title: "Google’s Next-Gen LLM Gemini 1.5 Takes the Token Race to ChatGPT"
+    excerpt: "Google announces the launch of Gemini 1.5, an AI model that can process up to 1 million tokens in a single prompt."
+    publishedDateTime: 2024-02-19T10:30:00Z
+    webUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
   - title: "Google turbocharges its genAI engine with Gemini 1.5"
     excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
     publishedDateTime: 2024-02-15T20:41:00Z
