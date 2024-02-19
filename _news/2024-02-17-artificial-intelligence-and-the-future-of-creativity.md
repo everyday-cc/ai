@@ -24,35 +24,28 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning"
-    excerpt: "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,"
-    publishedDateTime: 2024-02-14T04:35:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp"
+  - title: "The future of renewable energy"
+    excerpt: "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-14T13:00:00Z
+    webUrl: "https://www.ibm.com/blog/future-of-renewable-energy/"
     type: article
     provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 85
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The Future of EdTech: Paul Showemimo’s Journey Integrating AI in Learning"
-    excerpt: "EdTech – educational technology – is a rapidly growing field. In 2021, the worldwide market for EdTech was estimated at 115,022.22 million USD. It is projected to grow at a compound annual growth rate (CAGR) of 26."
-    publishedDateTime: 2024-02-17T10:36:00Z
-    webUrl: "https://techbullion.com/the-future-of-edtech-paul-showemimos-journey-integrating-ai-in-learning/"
+      name: IBM
+      domain: ibm.com
+    quality: 82
+  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
+    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
+    publishedDateTime: 2024-02-15T23:01:00Z
+    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 38
+      name: Mena FN
+      domain: menafn.com
+    quality: 35
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/Paul-Showemimo-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "Bhb8UICZKV+PO5Tda1vIB4mhfDY4SERxst0oUIJERQoj//cyRRdpeTFIXezHF5wPO3ipfmkal+DHU7A88pEMWeNMFGZ5y5xbTH0vs/DN/teIznO4C7TzslkJSVHYAkAbC8OSx39SnXicLG+6OdZa33XlnudhjYt65+bh4CjAK/Z6BEoXPyifFWBS0dE82k/bh26OjtZV3RVlGEWWWqX9TGFZ2CbGcDlJe6Z2A4XAqBXr4BhyD40vJe+Hi4CyTNDJT7kAzQr7omgXttRMrIEpQsK/CaEB5xZdNqbLPzqWGnmel1j7nPvQ4oHkYovfy8dGUzQxZ6gaTT0o0JoEn4GP2B12HxVoH6STKOQJp0JN/wQ=;waYO0DPvxJzsYVT0Ibv14A=="

@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia’s New Perk for GPU Owners is An AI Chatbot"
-    excerpt: "Nvidia has released a demo 'Chat With RTX' AI bot, that leverages your local word documents to give you answers to queries."
-    publishedDateTime: 2024-02-14T04:42:00Z
-    webUrl: "https://gizmodo.com.au/2024/02/chat-with-rtx-nvidia/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2024/02/gizmodo-6.png?quality=75"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Chat With RTX Is Here: Nvidia's Offline AI Chatbot Is Ready To Talk"
     excerpt: "You'd need a Windows PC with RTX 30 or 40 series GPU and at least 8GB VRAM to run Nvidia's Chat with RTX offline chatbot."
     publishedDateTime: 2024-02-15T05:52:00Z

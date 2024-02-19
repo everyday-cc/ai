@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-cha
 webUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/nvidia_chat_with_rtx_1707911795224.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Nvidia’s New Perk for GPU Owners is An AI Chatbot"
-    excerpt: "Nvidia has released a demo 'Chat With RTX' AI bot, that leverages your local word documents to give you answers to queries."
-    publishedDateTime: 2024-02-14T04:42:00Z
-    webUrl: "https://gizmodo.com.au/2024/02/chat-with-rtx-nvidia/"
-    type: article
-    provider:
-      name: gizmodo
-      domain: gizmodo.com.au
-    quality: 54
-    images:
-      - url: "https://gizmodo.com.au/wp-content/uploads/2024/02/gizmodo-6.png?quality=75"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
     excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."

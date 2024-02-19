@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-01-05-google-bard-advanced-tipped-to-arrive-as-paid-subscription-might-be-linked-to-google-one.md",
+      "title": "Google Bard Advanced Tipped to Arrive as Paid Subscription, Might Be Linked to Google One",
+      "excerpt": "Bard Advanced is scheduled to arrive in early 2024 and is expected to be powered by Google's advanced Gemini Ultra AI model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
+      "originalUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/google_bard_unsplash_mojahid-mottakin_1689225787604.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/internet/news/google-bard-advanced-one-paid-subscription-trial-4805808/amp",
+      "publishedDateTime": "2024-01-05T12:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-neurons-and-networks-how-ai-networks-are-like-neurodiverse-brains.md",
       "title": "Neurons and networks: How AI networks are like neurodiverse brains",
       "excerpt": "Neural networks mimic the structure of a human brain. But as Connective3’s Tom Lanaway argues, not all human brains are ‘structured’ the same. So what happens when AI meets neurodiversity?",
@@ -1031,40 +1074,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-02-unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services.md",
-      "title": "Unlocking the Power of Privacy-Enhancing Technologies in Financial Services",
-      "excerpt": "Banks depend on data throughout their operations, but when it falls into the wrong hands, the results are catastrophic. Protecting data is a crucial but complicated task. Privacy-enhancing technologies (PETs) meet this challenge by specifically and efficiently safeguarding data,",
-      "sourceUrl": null,
-      "webUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
-      "originalUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Banker",
-        "domain": "internationalbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

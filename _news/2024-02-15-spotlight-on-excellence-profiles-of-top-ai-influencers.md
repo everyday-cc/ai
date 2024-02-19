@@ -41,20 +41,6 @@ related:
         width: 870
         height: 580
         isCached: true
-  - title: "Privacy Governance and Artificial Intelligence"
-    excerpt: "Against this backdrop, artificial intelligence systems, trained on vast amounts of data, continue to advance without a clear consensus on principles or a process to assess and mitigate AI risk. However, state and federal governments around the world are ..."
-    publishedDateTime: 2024-02-14T03:49:00Z
-    webUrl: "https://www.law.com/legaltechnews/2024/02/13/privacy-governance-and-artificial-intelligence/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/02/Data-protection-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
 
 secured: "TTtnHHOGL0RcRZW6r0JpZuBvcJSSI9V7wpbapmEGPdAc2wjzS+/4DX37h9ZGDHKhNG5vfXhMhLMb0kiUahLec1NkszeSpQnz486/ROyF9QAH2T7YDiovzxcg4G3YCNRRKReW970xiUpvbq9CEriA/4dkEgwIY1GFcwJ/43IR3skWr51O4eVdxba+nOGB+JSc9pfbUiIsA+LzRo0tAC0rBlbXy3e/As/EH5wWGSKILwvQusvLFHO+CFe6fVY44BqleuT//xZgH/lE0QgzisA03xx8tpdXUCja0KALvNgp2UooAb7/ITwQu5PqTTeLjFmsJsslwHfYII5qcCitAGChoeiCi7NRJqV7eyB7Ac7luLE=;hbplz5DBYQTt+DDOUoi6oQ=="
 ---

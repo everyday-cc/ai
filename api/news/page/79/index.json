@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2023-12-06-undersea-robot-startup-founded-by-nasa-engineer-ejects-clo.md",
+      "title": "Undersea-Robot Startup Founded by NASA Engineer Ejects CLO",
+      "excerpt": "The chief legal and administrative officer for an undersea robotics company founded by a NASA robotics engineer is one of two executives the company recently dismissed, according to a regulatory filing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "originalUrl": "https://www.law.com/texaslawyer/2023/12/04/undersea-robot-startup-founded-by-nasa-engineer-terminates-clo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/390/2023/12/Oil-rigs-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-ai-technique-designed-to-advance-understanding-of-neural-circuits.md",
       "title": "AI Technique Designed to Advance Understanding of Neural Circuits",
       "excerpt": "The new method is able to identify neurons whether they are represented in images as individual points or as 3D volumes.",
@@ -1051,49 +1094,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcaseor-a-rocket-to-mars.md",
-      "title": "AI Teaches Robots the Best Way to Pack a Car, a Suitcase—Or a Rocket to Mars",
-      "excerpt": "Robots that can fit multiple items into a limited space could help pack a suitcase or a rocket to Mars",
-      "sourceUrl": null,
-      "webUrl": "https://www.scientificamerican.com/article/ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcase-or-a-rocket-to-mars/",
-      "originalUrl": "https://www.scientificamerican.com/article/ai-teaches-robots-the-best-way-to-pack-a-car-a-suitcase-or-a-rocket-to-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/9AD7F16C-DC19-47F7-A36DBB24474F14B7_source.jpg?w=1200",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

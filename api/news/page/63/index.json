@@ -2,6 +2,50 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2023-12-18-artificial-intelligence-what-teachers-and-students-need-to-know.md",
+      "title": "Artificial Intelligence: What teachers and students need to know",
+      "excerpt": "It is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence combines the intellectual knowledge of different fields such as computer science, physiology ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/",
+      "originalUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thenationonlineng.net/wp-content/uploads/2023/09/26030926/AI-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/",
+      "cdnAmpWebUrl": "https://thenationonlineng-net.cdn.ampproject.org/c/s/thenationonlineng.net/artificial-intelligence-what-teachers-and-students-need-to-know/amp/",
+      "publishedDateTime": "2023-12-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Nation Newspaper",
+        "domain": "thenationonlineng.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-cognitive-function-news-and-research.md",
       "title": "Cognitive Function News and Research",
       "excerpt": "Researchers from the University of Michigan have connected two blood biomarkers to changes in cognitive function in women in midlife, opening a potentially powerful path to noninvasive ...",
@@ -1087,58 +1131,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-this-artificial-intelligence-ai-stock-looks-dirt-cheap-heres-why.md",
-      "title": "This Artificial Intelligence (AI) Stock Looks Dirt Cheap. Here's Why.",
-      "excerpt": "This is not entirely unreasonable, though, as artificial intelligence (AI) will have myriad applications in the metaverse. In a way, while owning Meta stock for the highly profitable advertising business warrants merit, a position in the company could represent a hedge to other AI plays you might own.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/15/why-this-ai-stock-looks-dirt-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/757919/social-media-networking-likes-facebook-meta-instagram-1.jpg",
-          "width": 5184,
-          "height": 3456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T22:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
       ]
     }
   ],

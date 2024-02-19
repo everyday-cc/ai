@@ -7,7 +7,7 @@ originalUrl: "https://electrek.co/2024/02/14/elon-musk-claims-fatal-crash-not-on
 webUrl: "https://electrek.co/2024/02/14/elon-musk-claims-fatal-crash-not-on-full-self-driving-beta-after-tesla-logs-lost/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'"
-    excerpt: "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature."
-    publishedDateTime: 2024-02-14T04:45:00Z
-    webUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "rBrYm8OO9upU6QF2e6Av4Ey2+QxRWb1HTIhklXHLerYxQal5Hcib8+9zvVuIiDyHdXl75e/KjItXQbQmAgFkIBgjELY32YTz0uy/F93haALtgsFyeRnbkkeAfIZQzVPsAxrZ7oUTaEsIiQIOM1VSviFTrsumbMzAAbxSQvjkfc/i+IEZtQNS4TRV7VRIpGO7CjF6sSpxhc8qSZ4dCAgqRMLxdb94c8hm3LnKv8Ivp3WfU6INxFVIXQ42YEXOghK86ffjgyrOL0KYKFldbg/vHv3FmH2Kd5+TSVGndLCj1wB1xo1LbezaNjAHIN8KFFT/Paw6YkHzR/khIDM6TZB399Babxx+vke4oYMV9C/wnAaBSMA+auBsWIMhWHhaClEo6ABMrzv5Fq9kAw6thU/YwtgOTq5f6rTcOF6t+LBaskfDTlhPRXm0v5BPk9h4qTSTyibu454wsXAhC1KtU590QNykw6x3YqbyAqM+KudQAweef1YqZaSDt/1uLEcrAF7tSJrXJaHeE7j2LDBeODaZPA==;By5nHg2Lzzyvc35Y9IxiYw=="
 ---

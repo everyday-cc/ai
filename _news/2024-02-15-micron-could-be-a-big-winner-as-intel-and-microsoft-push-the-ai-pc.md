@@ -66,22 +66,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft and OpenAI identify and disrupt nation-state cyber threats that use AI, new report shows"
-    excerpt: "On Wednesday, Microsoft published its Cyber Signals 2024 report, which details nation-state attacks it has detected and disrupted alongside Open AI from Russian, North Korean, Iranian, and Chinese-backed adversaries, as well as the actions that individuals and organizations can take to prepare for potential attacks ."
-    publishedDateTime: 2024-02-14T04:00:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-and-openai-identify-and-disrupt-nation-state-cyber-threats-that-use-ai-new-report-shows/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/64765a1052b8527239cc8dfdf11cce380332116d/2024/02/13/71989f29-053d-450b-a7a5-228abcfd7a9d/gettyimages-1437761046.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft kicks off .NET 9"
     excerpt: "Major update to Microsoft’s development platform, now available in a first preview, will focus on the development of cloud-native and AI-powered applications."
     publishedDateTime: 2024-02-14T10:00:00Z
@@ -98,15 +82,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AMD’s Instinct MI300 series AI chips aim to redefine AI computing for Microsoft"
-    excerpt: "In a bid to revolutionize the AI computing landscape, AMD is set to introduce its latest innovation, the Instinct MI300 series accelerator. Reports from Windows Report suggest that AMD is poised to supply this cutting-edge technology to Microsoft at a reduced price,"
-    publishedDateTime: 2024-02-14T04:44:00Z
-    webUrl: "https://www.gizmochina.com/2024/02/14/amds-instinct-mi300-series-ai-chips-aim-to-redefine-ai-computing-for-microsoft/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 77
   - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
     excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
     publishedDateTime: 2024-02-15T10:25:00Z
@@ -221,6 +196,20 @@ related:
       - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/Zjg0jX8diJJZkpICBBYzySEP3oHJTc4fQqUHGyg7.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "101 on OpenAI's new text to video AI model, Sora"
+    excerpt: "Sora is OpenAI's newest AI model that can create realistic and imaginative scenes simply with text instructions. Here's a breakdown of exactly what you need to know about Sora and how it can help industry professionals in the space."
+    publishedDateTime: 2024-02-19T03:43:00Z
+    webUrl: "https://www.marketing-interactive.com/101-sora-openai-video-text"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 39
+    images:
+      - url: "https://marketing-interactive-assets.b-cdn.net/article_images/101-sora-openai-video-text/1708314097_artificial%20intelligence%20%281%29.png?auto_optimize=medium"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Microsoft and Google invest in AI in Europe"
     excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."

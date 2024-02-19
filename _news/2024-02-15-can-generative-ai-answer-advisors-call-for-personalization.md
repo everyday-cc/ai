@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Slack Rolls Out Generative AI Search and Summarization"
+    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
+    publishedDateTime: 2024-02-14T16:51:00Z
+    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 67
+    images:
+      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
+        width: 1400
+        height: 900
+        isCached: true
   - title: "AI as a Catalyst for Self-Actualization"
     excerpt: "Iteration, Cognitive Intimacy, and a Path to Self-Actualization Across history, each age has been marked by distinct technological advancements that have fundamentally altered the human experience. As we transitioned from the industrial to the information age,"
     publishedDateTime: 2024-02-14T19:11:00Z
@@ -41,29 +55,15 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Cloud optimization wanes as AI slowly lifts off"
-    excerpt: "Though cloud optimization is less of a factor, we think the macro will still drive consumption trends. Optimization remains a feature of cloud and cuts both ways – what goes up can still come down. That’s not a bug, it’s a benefit, but won’t always accrue to the cloud vendor. That’s OK – they’re doing just fine :-)"
-    publishedDateTime: 2024-02-17T18:19:00Z
-    webUrl: "https://siliconangle.com/2024/02/17/cloud-optimization-wanes-ai-slowly-lifts-off/"
+  - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
+    excerpt: "Alteryx, Inc., a leader in AI for enterprise analytics, today announced its expanded partnership and product integrations"
+    publishedDateTime: 2024-02-14T19:40:00Z
+    webUrl: "https://www.datanami.com/this-just-in/alteryx-and-databricks-fast-track-ai-for-enterprises-with-deepened-integration/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Big-3-Clouds.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Smartling’s AI Translation Drives 40% Growth – a Leap Forward for Enterprise Localization"
-    excerpt: "Smartling grew its Translation business 40% as a result of AI Translation and is reshaping the industry by delivering human-quality translation for a fraction of the cost and up to 10 times faster."
-    publishedDateTime: 2024-02-15T01:07:00Z
-    webUrl: "https://slator.com/smartlings-ai-translation-drives-40-growth-a-leap-forward-for-enterprise-localization/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 10
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
 
 secured: "yCpuXu1rWiOLLTDTzLNKx7F6rY8xl38ZDdewMtVjAzZTwQUyVa2GKtwNU7GvNTB9Y+4+Ma9pCwoPN9f0TAiMOCUIlP5KzU++NJ+RKv+xa/+az7LcoWilKf9a9F+IF9PU4Lzzhh1ON3CxGg1PfkNDw7pTigClZ2BMPKew1xZKy9LKaK0xdhjlsr6bWRw03vO4FONT1zSKJnaR3TPbZjyX+sLdDnx/eFvtGhirtVXSCZA0LJU79Odd9MZHynvcWF9nx8jGXOy4WWJiL915PYoR7cmON0NkuKJTVrqypncjHY76461F3NNwzgak73ALIFemVzCUib2mIkxuXrFDAQrvAD+fb0udnCt2i+MMzuwLmPI=;y1wypukfOBlfpXiMHw7J/A=="
 ---

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-08-uk-ipos-new-direction-on-ai-neural-networks.md",
+      "title": "UK IPO’s New Direction On AI Neural Networks.",
+      "excerpt": "UK IPO’s New Direction On AI Neural Networks. Legal News and Analysis - United Kingdom - Intellectual Property, Telecommunications, Media & Technology -",
+      "sourceUrl": null,
+      "webUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
+      "originalUrl": "https://conventuslaw.com/report/uk-ipos-new-direction-on-ai-neural-networks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://conventuslaw.com/wp-content/uploads/2022/04/CH-asset-UnitedKingdomv2_l2r_main.jpg",
+          "width": 1140,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T10:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Conventus Law",
+        "domain": "conventuslaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-how-do-we-make-money-with-generative-ai.md",
       "title": "How do we make money with generative AI?",
       "excerpt": "Succeeding with generative AI requires the expertise to design new use cases and the ability to develop and operationalize genAI models. These are major challenges.",
@@ -1277,40 +1320,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence.md",
-      "title": "Tomra improving efficiency in packinghouses with artificial intelligence",
-      "excerpt": "TOMRA Food has been utilizing artificial intelligence since 2019 to make sorting and grading solutions more accurate than traditional techniques. The deployment of AI-powered technology in the food production industry will continue to accelerate into the future. Some of the areas it will impact are below:",
-      "sourceUrl": null,
-      "webUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
-      "originalUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fresh Fruit Portal",
-        "domain": "freshfruitportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

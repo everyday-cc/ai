@@ -145,6 +145,17 @@ related:
         width: 2560
         height: 1350
         isCached: true
+  - title: "How Generative AI Is Reshaping Online Trading"
+    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
+    publishedDateTime: 2024-02-19T02:30:00Z
+    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
+    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
 
 secured: "Y4JbLs10tPW9cW3TH3paS3cL8Xmoe6vYj4EgzCTmzllg35yVqkx8SFM8aIfU9OMTa7RnRu5kxLPxIegP5t65/jjuvGt9fVgIeVofRsFN5nVqunvQDQe22n1xg3J0WgLj87cZ6aaVCEsaLuWKQpdeB1LL/VMkj9sOQv+HzDqofE6DOM2oeZLKmMJncHKuKpUNOCaPmsIbJc7Qpp2BQ8i0T6JkVugbbVlb7PLHyYgaFhSCOCV1d6VZEal/vOW6RQdJrS59fc58lbn4AZNBbjrCiy4TfxRBh9sP9bG5YIawjRW3+Oc1y5EIlwAcj3r4FDu4BUwytYy/e7JYMW4PjTKUSV9f0q0ikFkWxRGQEU9xUNMDlliwLYQsHF8J3u4vMPsMn//qvO2Inj/zYJXM3e0KC5fXed8L+GI346OYXsCNRlwxCB6CaLt770QfpvFNlaBwmZ+mi8IiI+fRR505vWh29+TOuF0IQp+0aTIoZdbKbR0sG/DCW8usxzyX7P0zvJk8OyzUvTXezHuePu/wbOogPA==;Jwb+HL3UW36CjppDgKNPRw=="
 ---

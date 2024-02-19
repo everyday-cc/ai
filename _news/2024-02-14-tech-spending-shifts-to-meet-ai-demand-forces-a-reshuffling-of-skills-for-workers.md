@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3712686/tech-spending-shifts-t
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712686/tech-spending-shifts-to-meet-ai-demand-forces-a-reshuffling-of-skills-for-workers.amp.html"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -25,54 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape"
-    excerpt: "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,"
-    publishedDateTime: 2024-02-14T04:47:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 64
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Revolutionizing Cityscapes: The Power of Tech in Unveiling Urban Decay"
-    excerpt: "Exploring the innovative intersection of technology and urban planning, this blog delves into how object detection models are revolutionizing the way we measure and understand urban quality by identifying signs of physical decay in our cities."
-    publishedDateTime: 2024-02-14T04:22:00Z
-    webUrl: "https://www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay"
-    ampWebUrl: "https://www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay?amp"
-    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2817249-revolutionizing-cityscapes-the-power-of-tech-in-unveiling-urban-decay?amp"
-    type: article
-    provider:
-      name: devdiscourse
-      domain: devdiscourse.com
-    quality: 44
-    images:
-      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/13_02_2024_13_52_37_7751892.png?width=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Banct Is Launching The New AI-Backed Digital Banking Solution Purpose Built For Businesses And The Self-Employed In 2023"
-    excerpt: "The digital banking platform – built with industry-leading AI and automation technology – is the latest challenger to the high street ba"
-    publishedDateTime: 2024-02-18T11:24:00Z
-    webUrl: "https://menafn.com/1107866842/Banct-Is-Launching-The-New-AI-Backed-Digital-Banking-Solution-Purpose-Built-For-Businesses-And-The-Self-Employed-In-2023"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?948252"
-        width: 333
-        height: 250
-        isCached: true
 
 secured: "Lwv60zqTAFoMq/iz8aLcitmWD/jurGreXU4jbIxQcKBwvjD+XVxhSZZJ9SEmTNibPVgzItOKKoMNWmaFqtUCnKPisixRtWOsH8zRDt0rdRbFONsmhm6nMdIiMsOhPBY+/djqeEhTPQvDfEi4bGvcucq6bdXu0r7Wukjo4paclKRArXodjSqluciX1C8nxbU472eSw73FaNm0LeoMlLTaYZGRXMRLPIuwz7yUNS/DK153brja1K22cGEfSuVyece7mTbACXWwBE3J7eVeFI+vr+m1yrhUK7qzl+Nuvl1axtAoVD3mQlCDVeIhayAc7D85udxahjtmKqQ52vJ03vJ27PIwZmt4zHItNDLbdVCZoq5iA8aElNL82/0yHIyDyVcbRxSVd8LAOc/fWYpJhwMbbSfbLi3lPo+FJgwOf3DFZXSrCTy3u208r44GWQgX11qvtC107y8Zd5T8x4uhaCGOpovt7spcpccm4d3hvW6Ab6iBnn7HYw1rffdcByLOfmmfU5eAMS3LCJMeXlVdaed1Uw==;CaOiZwbCAbxriRqX0V3njQ=="
 ---

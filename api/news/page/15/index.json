@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-02-05-elon-musks-neuralink-implanted-its-first-brain-chip-in-a-humans-skull-heres-what-we-know-about-the-surgery.md",
+      "title": "Elon Musk's Neuralink implanted its first brain chip in a human's skull. Here's what we know about the surgery.",
+      "excerpt": "The billionaire said the company's first product will be called Telepathy and will allow users to control their phone ... That's where a robot comes in. The device can only be inserted into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11",
+      "originalUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65bbf2426fcb546d2d4b3f1c?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11?amp",
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future.md",
       "title": "Roblox adds instantaneous text translation, plans to translate voices using AI in future",
       "excerpt": "Roblox is today introducing a new AI feature that will translate a user's real-time text into other languages. Following this, the Roblox team has plans for a feature which will translate voices ...",
@@ -1089,58 +1142,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-03-apple-vision-pro-review-spatial-computings-promise-is-fulfilled.md",
-      "title": "Apple Vision Pro Review: Spatial Computing’s Promise Is Fulfilled",
-      "excerpt": "The Apple Vision Pro launched today across the U.S. The era of spatial computing is just starting, but for many in the tech industry this day was years in the making.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
-      "originalUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd28caf8b9ff93af825a5b/0x0.jpg?format=jpg&crop=720,947,x0,y76,safe&height=900&width=1600&fit=bounds",
-          "width": 684,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2024/02/02/apple-vision-pro-review-spatial-computings-promise-is-fulfilled/amp/",
-      "publishedDateTime": "2024-02-02T17:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

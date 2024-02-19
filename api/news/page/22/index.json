@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-01-30-how-ai-can-enhance-your-resume-in-2024.md",
+      "title": "How AI Can Enhance Your Résumé In 2024",
+      "excerpt": "Clarissa Windham-Bradstock is CEO/Chief People Officer of Any Lab Test Now, a leading national retail healthcare and lab testing franchise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7cd1c8231c891e67c960b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1355,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
+      "publishedDateTime": "2024-01-30T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing.md",
       "title": "AI And EI: Balancing Empathy And Artificial Intelligence In Marketing",
       "excerpt": "2. Ensure that you have a seasoned team that knows how to be judicious and scrutinize when and how much to use your AI tools and when to balance that with human intelligence, forethought and empathy. Integrating AI effectively can and should be a means to ...",
@@ -1163,49 +1214,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes.md",
-      "title": "Nala Robotics incorporates generative AI into restaurant robot recipes",
-      "excerpt": "Nala Robotics said it is looking at how AI can help robots create recipes with the ingredients at hand, reducing food waste.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "originalUrl": "https://www.therobotreport.com/nala-robotics-incorporates-generative-ai-into-restaurant-robot-recipes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/nala_robotics_inc_cover.jpeg",
-          "width": 770,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

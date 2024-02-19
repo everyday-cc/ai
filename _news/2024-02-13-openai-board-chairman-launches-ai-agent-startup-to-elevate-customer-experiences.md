@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/02/happy_robot_wearing_headphones_and_handling_cust-1-e1707845401633.jpg?w=1200&strip=all"

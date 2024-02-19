@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2023-12-21-myntras-myfashiongpt-predicts-the-clothes-you-need-runs-on-microsoft-azure.md",
+      "title": "Myntra’s MyFashionGPT predicts the clothes you need, runs on Microsoft Azure",
+      "excerpt": "Since launch, MyFashionGPT has already changed how people search and shop on Myntra, according to the platform. Queries have broadened as the AI assistant interprets the intent behind vague search strings instead of relying on matching keywords. This opens up new product discovery opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/myntra-fashion-gpt-featured.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/myntra-microsoft-collaboration-myfashiongpt-azure-9074891/lite/",
+      "publishedDateTime": "2023-12-21T04:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-21-ai-and-the-entrepreneurial-spirit-perfect-together.md",
       "title": "AI And The Entrepreneurial Spirit: Perfect Together",
       "excerpt": "Venture capitalists and business leaders are finding AI is opening up opportunities for innovation beyond what anyone could imagine even just a couple of years ago.",
@@ -1115,58 +1158,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-23-of-our-most-helpful-tips-from-2023.md",
-      "title": "23 of our most helpful tips from 2023",
-      "excerpt": "A roundup of Google’s best tips from 2023 for saving time and money, being more creative and putting AI to work in the New Year.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/google-most-helpful-tips-2023/",
-      "originalUrl": "https://blog.google/inside-google/google-most-helpful-tips-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G_Tips_Roundup_Hero.width-1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

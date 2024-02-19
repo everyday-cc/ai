@@ -50,6 +50,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "9q2ZCNoJPyPRQDaQyXiXwEWieaFMtOlWiP4rUk8XLksAPixe15cGMa9lbhHWEZ6CS2DYrhl79n3appaMAuhvq2koXr5XA0R9iJI8KWJ/9rVEBv4rC76RY3rThj1da0aGal1tj+IqzwMqa/+j1YCTAjEoI5u0ePEiis6QFRZaLQ0NbHtieNlB2ZNxviQfLc22cC3pe7yU6pgWUg90hIPVTlY8E++h/w8rvCxugT+e++AwAXcKCt/5YmO0DaqbWtvoPRl48jWIQJIDsIxl09MsNkrBCXuwYZyEHCubZCgmVqY5Z17HPT8S867CZxMio0XNoFAPLiIeogEh2/Rtz2myPwznpICjLuMJ1jyU4w3Pr1FZ1PLmMiQEAC2BO1W6HXDy7Hxspcadq3q8l8Wd7+fNECeTGom5mzn0MYd7qKtDKN6+a3mHNCyT/tTlGoAcnPs57XPrhkg3WnBnNmsCc+Ne1QuxWnseVFzeaKAJ58Di4ktqO5+grUAmz49x1DGHpykD0N9hEQtrWJIn8Iwz/28ToQ==;zNoMUkqEMjTPX9VEQ02e7w=="
 ---

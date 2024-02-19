@@ -103,22 +103,6 @@ related:
         width: 800
         height: 527
         isCached: true
-  - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
-    excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
-    publishedDateTime: 2024-02-14T03:57:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 35
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/14/1600x900/IMG-20230204-WA0011_1676537454810_1707882286694.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
     excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
     publishedDateTime: 2024-02-15T04:02:00Z

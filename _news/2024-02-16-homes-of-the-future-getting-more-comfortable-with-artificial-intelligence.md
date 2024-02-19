@@ -33,6 +33,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
+        isCached: true
 
 secured: "J95mzmK4HLGd7Qb5HN/boEbgQHl98oIyBigMDVQx8AHqzeBDMdhgjzgVnMCwdFiWK8UZp9lw5Ptz5I98rnTuc3CK8fLN6yD6WoGHOpLM8DF0odk6vlRYvKDBKcTRDH7IDU7yzuusETBgQdu7o+zc6QP2XeMsFLi0agFwsPdeSRIp3XKUDxbpGkgObWMW5moE3DttF2sMABzcKtgh2sXK85szvY5fmxZOQupEylIPIlCWAtiWw7ttw3tVled2De7SXm7kmJoVlNzPqZ1KGzkVlMKLZDZIuu+UkJhm/SvBnNdEK88vBO/wg9wFcNDX9jHgZF8h9FZGQ0CoNOpIypoqEPnC5US1+KNO+FXypIboU4g=;r9n7yNoTs+vIf2K7syWRJw=="
 ---

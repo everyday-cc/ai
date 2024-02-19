@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "K/79jzBOQvk3aF9nxEkQ2676gJ7FQ+HyUr+n6+dUxnAw1XO+fqvtofxfWZnL2Khq0qje3Cx8gpN0Mgb9gdB7J46ocXirsJSBVAUPffQFMT8GkClqhlNaTUJ1gIKV3fiDR8xdC7ft5+V60OfT72H812KP6ema/j59BpCrDl3TvAdFo8MC2fBnop7rFD2izBeEVAbWvsQJVQEr9NuE1B9A4I8/stpsrBWwDVhQ0SXLSTQaTU+E9MnSBdo6CZrIc828bQrQipjkvb0ciVGTjt/Q7Q3uwHAmPjENR7Xmz+noer1xZU4ObBW98pn++yWYVG1RUkTOkan02gWoFovOHR9iFi4HOb0KGjf9nHtAdQKiMLo=;9SH9yRf2X+n8z8SB68aYQg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/763067/cruise-first-riders-cheddar.jpg"
+    width: 3840
+    height: 2160
+    isCached: true
+
+secured: "5Caqj3VgyP68wUF9A9q12R0nXdtl2l6meYDJh8iqwkb9tA01z86i8Pbex6otCJPlO8VIN2tEcXfQpuAd0inh8q+YxDmLy+YCrJXV3z9axTxtjsrbgbUtIo/0jNRaDA2kd3ShzRWImdlMShSW8pyIof4A63cH1Ab254vI2eljDE9n5P508ohpj8aJnV+x2/rpbfLRlkRgMrnqJPKqj/mknMZXLxRftu32Yr0hscr//ld99Wa0EJzBfYNX2ambjxUkymt+s0W5xk/WqKis/7W4jK7G9VjAB2SuzaQONese39OPScb0tn/cSlAB4rvSVpHMQCv+Vz9xLl/crF9LR9lPXZbD6g+oADJXCL93AxGO+kI=;jRfl/4uxehZlL68hPWyOwQ=="
 ---
 

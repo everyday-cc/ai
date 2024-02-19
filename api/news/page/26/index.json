@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2024-01-26-how-indigenous-perspectives-can-guide-climate-innovation-for-a-just-transition-ibm-teams-up-with-net-zero-atlantic-in-canada.md",
+      "title": "How Indigenous perspectives can guide climate innovation for a just transition: IBM teams up with Net Zero Atlantic in Canada",
+      "excerpt": "IBM joined forces with nonprofit Net Zero Atlantic to empower participation in the clean energy transition for Indigenous communities.\nThe post How Indigenous perspectives can guide climate innovation for a just transition: IBM teams up with Net Zero Atlantic in Canada appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-net-zero-atlantic/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-net-zero-atlantic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/01/dji_0692.blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-qlik-launches-inaugural-ai-council-to-elevate-data-ethics-and-governance.md",
       "title": "Qlik launches inaugural AI Council to elevate data ethics and governance",
       "excerpt": "With great data power comes great data responsibility. Qlik's initiative of an AI Council adds weight to it's traditional mission of trust.",
@@ -1116,57 +1167,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-kirsty-gilmour-working-with-ai-firm-in-bid-to-end-online-threats.md",
-      "title": "Kirsty Gilmour working with AI firm in bid to end online threats",
-      "excerpt": "Scotland's Kirsty Gilmour says she is still receiving death threats and abusive messages on social media despite using AI to block out trolls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/badminton/68100383",
-      "originalUrl": "https://www.bbc.com/sport/badminton/68100383",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/576E/production/_132428322_gettyimages-1473746886.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/badminton/68100383.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/badminton/68100383.amp",
-      "publishedDateTime": "2024-01-25T18:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

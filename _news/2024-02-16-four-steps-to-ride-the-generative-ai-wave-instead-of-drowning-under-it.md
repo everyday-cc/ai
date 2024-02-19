@@ -141,6 +141,17 @@ related:
         width: 2560
         height: 1350
         isCached: true
+  - title: "How Generative AI Is Reshaping Online Trading"
+    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
+    publishedDateTime: 2024-02-19T02:30:00Z
+    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
+    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
   - title: "Stability AI: Everything you need to know about the open source, generative AI company"
     excerpt: "Stability AI has quickly become an AI leader. The company funded Stable Diffusion, an open source, text-to-image AI platform launched in 2022. In addition to Stable Diffusion, Stability AI also creates open source music, image, and video generation models."
     publishedDateTime: 2024-02-14T18:40:00Z

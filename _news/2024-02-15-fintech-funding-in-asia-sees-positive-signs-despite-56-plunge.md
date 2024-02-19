@@ -117,22 +117,6 @@ related:
         width: 1280
         height: 866
         isCached: true
-  - title: "Bridging the financial inclusion divide: Bringing Fintech to everyday customers in India"
-    excerpt: "Fintech holds the promise of transforming how people manage their finances by reaching every corner of the country. However, is India there yet? Challenges abound, but, complex as they are, financial systems of the country can push to bridge the financial inclusion gap."
-    publishedDateTime: 2024-02-14T03:57:00Z
-    webUrl: "https://tech.hindustantimes.com/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/bridging-the-financial-inclusion-divide-bringing-fintech-to-everyday-customers-in-india-71707882143537.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 35
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2024/02/14/1600x900/IMG-20230204-WA0011_1676537454810_1707882286694.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "BIZCLIK MEDIA LAUNCHES FEBRUARY EDITION OF FINTECH MAGAZINE"
     excerpt: "LONDON, Feb. 15, 2024 /PRNewswire/ -- BizClik, the UK's fastest-growing publishing company, has published the latest edition of FinTech Magazine. This publication is a highly regarded voice within the Financial Sector for its in-depth reports and interviews with prominent figures in the industry."
     publishedDateTime: 2024-02-15T21:21:00Z

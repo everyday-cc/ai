@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2023-12-15-tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence.md",
+      "title": "Tomra improving efficiency in packinghouses with artificial intelligence",
+      "excerpt": "TOMRA Food has been utilizing artificial intelligence since 2019 to make sorting and grading solutions more accurate than traditional techniques. The deployment of AI-powered technology in the food production industry will continue to accelerate into the future. Some of the areas it will impact are below:",
+      "sourceUrl": null,
+      "webUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
+      "originalUrl": "https://www.freshfruitportal.com/news/2023/12/15/tomra-improving-efficiency-in-packinghouses-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fresh Fruit Portal",
+        "domain": "freshfruitportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
       "title": "How Machine Learning is Boosting Businesses",
       "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
@@ -1276,40 +1310,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer.md",
-      "title": "Deep Learning Model Flags Non-Smokers at Increased Risk for Lung Cancer",
-      "excerpt": "A new model has shown that among non-smokers, there is a 2.1 times greater risk of developing lung cancer for those in high-risk groups compared to their peers.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "originalUrl": "https://healthitanalytics.com/news/deep-learning-model-flags-non-smokers-at-increased-risk-for-lung-cancer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

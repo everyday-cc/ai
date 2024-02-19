@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "NVIDIA CEO Jensen Huang: AI market could be worth $2 trillion in the next 5 years"
-    excerpt: "NVIDIA CEO Jensen Huang believes we'll see $2 trillion worth of data centers powering the next-generation of AI over the next 4-5 years."
-    publishedDateTime: 2024-02-14T04:35:00Z
-    webUrl: "https://www.tweaktown.com/news/96192/nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
-    images:
-      - url: "https://static.tweaktown.com/news/9/6/96192_35_nvidia-ceo-jensen-huang-ai-market-could-be-worth-2-trillion-in-the-next-5-years_full.jpg"
-        width: 1500
-        height: 857
-        isCached: true
 
 secured: "B24SaP7Jt7jfLqtMfzGh9g8j+a2exiIfpBhNun0EIBqEzwq8I5eneWRVAS8SjbTT/rtdPiAz7sIX60/mNQOxaqFKx9DVeepL8kKzESrcV4V6uj7pK7wZ/4BxM7r0+6mKXA3rHtTDWLhtR7i4zp5KCoRVUaqFCrdi60VQr3U+J7YFm+TEo9uAg4Y/BSux3X0wy2pcTtixCsdtdcBSK7+0ZyrSC5SR4W2hSjkgES3PvWPmtZ1kgXZjVEhrK3JNgef3UdwsXxLVF5GqB54oAcWD1tEwqGz6DJI0HPuLXSNESvClTQnXUunssk5sz946BlqpkrJbNl5vkukcIhmvwCAo3O1I3Ln2TGDTkzx2Hjg0N+c=;luEMhq1YaqfhrgfP9ExEhg=="
 ---

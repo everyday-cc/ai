@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2024-01-19-nokia-to-invest-nearly-400m-in-european-chips-ai.md",
+      "title": "Nokia to invest nearly $400m in European chips, AI",
+      "excerpt": "The investment will be funded by Nokia, the German Federal Ministry of Economics and Climate Protection (BMWK) and two German states",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "originalUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2023/02/Screen-Shot-2023-02-27-at-10.24.28-PM.png",
+          "width": 1620,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "cdnAmpWebUrl": "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240118/5g/nokia-invests-advance-europe-capabilities-6g-ai/amp",
+      "publishedDateTime": "2024-01-18T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-chatgpts-hunger-for-energy-could-trigger-a-gpu-revolution.md",
       "title": "ChatGPT's Hunger for Energy Could Trigger a GPU Revolution",
       "excerpt": "With AI projects booming and the physical limits of silicon looming, some startups are challenging Nvidia's dominance and say it’s time to reinvent the computer chip entirely.",
@@ -1115,40 +1158,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-artificial-intelligence-ai-in-fintech-market-2024-global-share-analysis-strategic-stakeholder-insights.md",
-      "title": "Artificial Intelligence (AI) in Fintech Market 2024 Global Share Analysis: Strategic Stakeholder Insights",
-      "excerpt": "The Global Artificial Intelligence (AI) in Fintech market is poised for significant growth between 2023 and 2031, with a positive outlook for 2023 and beyond. As key players in the industry adopt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
-      "originalUrl": "https://www.digitaljournal.com/pr/news/prwirecenter/artificial-intelligence-ai-fintech-market-1593460437.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

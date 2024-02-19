@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/future-of-renewable-energy/"
 webUrl: "https://www.ibm.com/blog/future-of-renewable-energy/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - IBM AI
 
 related:
+  - title: "Artificial Intelligence And The Future Of Creativity"
+    excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"
+    publishedDateTime: 2024-02-17T10:10:00Z
+    webUrl: "https://menafn.com/1107863606/Artificial-Intelligence-And-The-Future-Of-Creativity"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/17/DNE_b7162image_story.jpeg"
+        width: 715
+        height: 429
+        isCached: true
   - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
     excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
     publishedDateTime: 2024-02-15T23:01:00Z
