@@ -26,6 +26,17 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "OpenAI Chairman Bret Taylor launched AI Chatbot Startup Sierra"
+    excerpt: "OpenAI has encountered scrutiny regarding conflicts of interest among its board members, including the resignation of Reid Hoffman due to his investments in AI companies, while Adam D'Angelo remains despite his ties to Quora,"
+    publishedDateTime: 2024-02-15T10:40:00Z
+    webUrl: "https://thesiliconreview.com/2024/02/openai-bret-taylor-startup-sierra"
+    type: article
+    provider:
+      name: thesiliconreview
+      domain: thesiliconreview.com
+    quality: 17
+
 secured: "1iJgBUislUg+2ZwQkRm/oVqE19AryvK4NZleLxS5tt+kLhXqdMyuXdqlteKcr5nVdB/SR41GLVcR3xyM7E6CvGnNDHRTLA/EstJGy/9fP/h3MK+nFUS99kqcXMq3hFI0sCWL3MSiXTnyycYcI0OAxF4wKb/EwTS7N4rf38DnJzJijpIdeDEvDeL4YIJ3giLSBMEsssEZfjdHYRnzGf0WoXNYvFMn0gfA4Vu799yloUGC2SxvQJHVPB/C4If9EeP1wCSur0XcTDkXJ3RL01++HwGiP9Ur3hwef38odXngu1CM6P7cPbw+kgeX681WSiS27UXV2SCnJEg8ZRbi7bP2DdQfEh0RVPZ8SttoFR+VTBI=;k6MXMyTRFx5Ww8KZShtoVA=="
 ---
 

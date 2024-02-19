@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Leaders, What Are You Doing About AI Fatigue?"
-    excerpt: "In a world where digital transformation is as crucial as the air we breathe, there’s a quieter, more insidious transformation happening within our organizations."
-    publishedDateTime: 2024-02-14T15:39:00Z
-    webUrl: "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/"
-    ampWebUrl: "https://www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sherzododilov/2024/02/14/leaders-what-are-you-doing-about-ai-fatigue/amp/"
+  - title: "Does your next laptop really need to be an AI PC?"
+    excerpt: "AI PCs aren’t what they sound like — not at the start of 2024, anyway. We dig into what you need to know about the hottest computing trend of 2024."
+    publishedDateTime: 2024-02-15T11:30:00Z
+    webUrl: "https://www.pcworld.com/article/2236372/does-your-next-laptop-really-need-to-be-an-ai-pc.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: PC World
+      domain: pcworld.com
+    quality: 69
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ccdd42394810960907e940/0x0.jpg?format=jpg&crop=2929,1372,x0,y41,safe&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 749
+      - url: "https://www.pcworld.com/wp-content/uploads/2024/02/0-ai-pc.png?w=1024"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "NYe1dTENm3zt6x+aDpVMqpNRG0+Pqjp97rQved7IANqaIQOndUt+k8Z6+KKDKkiPzeLSoWKy6kAlGtQu5qV4aXXpodWvVMhjH/7UXh6Z/aSa1xwPSIBps3eJ8EoUXIEn0lT1cLXodtWnW+UjWWwQtc/zFBRRfmNlqNidRCr3uCNHJguLCSjgwupebpN/TJ5jVo6Y5redXsFnqxDoz/klkOwMxgAyjPskWgMve5KFfXBfPbVOtFa2+FigWmSoUkRq4X9RYy8IClWz+evJ4Rudx9z8PfCVSZAXdqi0zFOEqrB1ayRWxhUJk/Fszx3YHHIGNpy39hh78UzIhMfsNJdyo7cVgHD5dCjsIHIkk+fV7D2ZGh/BFQUs/YfwkacywHwx53HgHP4/g1jH4eZtgQZRWMk0yOc/c24lHjseeEdpHGnEjCqMmGG51L5XIV2gsFFV/JZVd4lT1caYxGF/5jhmQA6dsV58pm12hauVgrzXTNY/GQR8BzhbApb/Xm3GOKH6qUP3tepBXCP/wDKdidHEcw==;CEoZRc1XGvS6ftp2u89V5A=="

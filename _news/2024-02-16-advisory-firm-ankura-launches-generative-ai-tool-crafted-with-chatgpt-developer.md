@@ -7,7 +7,7 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisor
 webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
+    excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."
+    publishedDateTime: 2024-02-19T13:35:00Z
+    webUrl: "https://cointelegraph.com/news/groq-ai-model-viral-rivals-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 35
 
 secured: "AMHTLPfKReI8I3L22x3CWZweXCA7rZtcJBkkmB2GFwOKYHBH8sFFDW9ySeBQcOa4ZNddXpwY6ok8n45/pkOWIdoPvIwWLDUyYujM+hi9mzzKBrsyt5lV9MT83cGFXczgTTvA/7A2rjsrT/6gPzJ3atVe/VTPbCOcJTDxQqf9n8SAXGNJGZIPXA0Eq/exWQ3qBd5BrMJyAbYlRHwRC002wDmMDgJPlu00485zopPRJuZUxJJqFgRPztouSb/nWDY7NCkhwBervxEzfMhfBxkuSfLEP3Rw5tVWuwMDIh/LG5tV28xxwe3WAa8PhTJOT5uH+srdDHhMCg+BUOgEKM5r40ijZhBKHEkGAgKZbLjvq3I=;5bs/a/NBDPynNG5EaWSBXw=="
 ---

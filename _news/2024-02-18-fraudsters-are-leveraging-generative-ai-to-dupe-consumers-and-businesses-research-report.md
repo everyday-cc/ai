@@ -26,17 +26,6 @@ images:
     height: 876
     isCached: true
 
-related:
-  - title: "How quickly are consumers and businesses adopting AI tools compared to past technologies?"
-    excerpt: "Verbit analyzed data from Our World in Data and other sources to see how quickly AI is being adopted and how it compares with past technologies."
-    publishedDateTime: 2024-02-14T13:43:00Z
-    webUrl: "https://www.sacbee.com/news/business/article285469822.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 10
-
 secured: "3bDuHhJE/IMhi6+AL1+4xVRUS9dl+gfefK73Kuw+g+2tJdtTQfSJtEaCeTKGcW2oPYLnF6jBUHCx/05WKixSMuPrTiFCoO4E5gwh/8wtLT+K9kLQvZRi9knwRK8epV/JW3Q7E3NhMxPKdt1ao+XaNv5GKtY1DXDVl317ApJ21eSYQ1s4xsha0plWC7N/dlIdki6YPriZJZmaXbEgzMrAHDUFVrjPgstLHP8crxSenvtLhgAjCCC5dhiE1Q03lNOO7noMSq4TYokgdeo+niWN4TIKW1B/Dz03d63ST9taS9/RMOpgcoQWVKES9v58fk8cbv0DTLiCbfhJ5V3TnZhkX+fmidzapkT6+X0n4lWp8O9pNq44EJSEGufiwptqYSFdqtn9txReg91K4sLgTD7vvtbp8bJpA2nnBVUY8CZpvjL/hgx9yYml/e3kCPNRHjHUGMNCjXZQx4OdJBqwpfh0VKN+I3BvI1lSNSrwE3Mvk5ruLTAZMpTw4Z+KVrVO6kQz1ogJXSSnJRSIIxoiQ8KwBg==;BIYph8k+hlt3gKIYHOvYZQ=="
 ---
 

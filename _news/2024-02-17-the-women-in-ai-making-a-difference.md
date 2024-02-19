@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-17T15:23:00Z
 originalUrl: "https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/"
 webUrl: "https://techcrunch.com/2024/02/17/the-women-in-ai-making-a-difference/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "The Biggest AI Trends In The 10 Years"

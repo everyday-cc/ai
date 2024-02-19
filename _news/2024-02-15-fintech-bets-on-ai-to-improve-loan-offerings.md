@@ -43,6 +43,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "akGW/S5i+gXL8eGzUEMcjJ205zvHpnRjo/kEed0r2dZbSiycNtF9sGNFxOeXGJgowp9IOH5Wnt/6Owz8v+BoGB1F8sFWLg5RNU4ZJOD6CYAzamAbSG8U5HeS70iLK01W+MP9LHfy7H3+VRaPvSUt9WtFeAL2UC9pp+rQf6HeIU0Fths/r2kaK0iwkUDakKspvB8d3nAxQvOMmmJK7RJEqr3UsjeNO7n+MmUflkqpsATiy9IWr/1+n+M3V3SC3eo9FHP4yBrN3JpIJopKYIAAW3Js9Irii6lKyuRHpf59q/DiKpnVGbZu28wLaUaza2udrSHGxdXaDajIngBTK6HMworCc4oiQPd7j8QXsnBlYz8A68uIghaZtlLlmGUAxQcEuGe3ftCirsoj1uzO148GH6fGknOciV07wxJedG9KhkohqOV6hAh9y5YKq1WcNjxL8nrCKvDjOSy/WBqaG+X24j4iwCrIdwFyB3ZHewofbGG3d81RBvZwP4zgLq3BB7PgT40TMyk+07Eo/tBw3uwfqQ==;S55arq8tqbmX3NYzsPAbPQ=="
 ---

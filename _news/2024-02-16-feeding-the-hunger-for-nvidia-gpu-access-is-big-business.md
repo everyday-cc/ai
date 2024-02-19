@@ -32,6 +32,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
+  - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
+    excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
+    publishedDateTime: 2024-02-19T14:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-chat-bot-rtx-ai-pcs/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
 
 secured: "tbHTyumd9mh6UaBiFjlw0bKLY8HBiEt8tajMS9Q/QFXLcB+mO0qBTRHZJMziSRgr1yErdB2nEI1NQIuR+1tMCJWpFHEH0KMiboi3R3No6+dYtpeNpuKKbVr7T5kEGQ8Ue1SmZNmSgvrzDwfWQ7TE6ERPdGWwnAUQHOfqsiGe+3bT4WbvmkSY8st2oOm5MT515AG+IwSnyQ0kMeJzDb5ynfwCBPo9EgxVLHwaGN8xlOZcudL6Dz0vHpLBb7FxkwkFeTb4lSmbvbCWBiX0PLVRKaRp/RXyFwrXBkgJJk77RPwRoGjG11xfzxzC/faaghfr7pozg1wNE8OAVqPHErKPrOxdFIMfx+cGGMAbv5Cea2U=;ujFHddK25kU++zJ7oFiRKA=="
 ---

@@ -88,6 +88,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 64
+  - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
+    excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
+    publishedDateTime: 2024-02-19T15:23:00Z
+    webUrl: "https://venturebeat.com/ai/with-sora-openai-highlights-the-mystery-and-clarity-of-its-mission-the-ai-beat/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 64
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-18-at-7.20.26-PM.png?w=1200&strip=all"
+        width: 1199
+        height: 674
+        isCached: true
   - title: "Google unveils a more capable Gemini Pro AI as it seeks an edge against OpenAI and other rivals in tech’s hottest battlefield"
     excerpt: "Demis Hassabis heads Google DeepMind, Alphabet's advanced AI research lab. The lab has helped to develop Google's Gemini AI models. The company has unveiled its latest, a more capable Gemini Pro called 1.5 Pro, that can process more data in one go than any ..."
     publishedDateTime: 2024-02-15T09:05:00Z

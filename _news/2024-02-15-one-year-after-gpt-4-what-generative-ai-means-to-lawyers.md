@@ -89,15 +89,6 @@ related:
         width: 1559
         height: 900
         isCached: true
-  - title: "R.AI.SE Summit 2024: Enterprise Gateway to Generative AI’s Future"
-    excerpt: "The R.AI.SE Summit, a global reunion of 1,500 global leaders and Generative AI pioneers, is set to take place on April 8th, 2024, at the prestigious Westin Paris Vendôme, Paris, France. The landmark conference will bring together the corporate world and the top artificial intelligence builders to share first-hand insights on using Generative AI to address essential business and societal challenges."
-    publishedDateTime: 2024-02-14T14:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/r-ai-se-summit-2024-enterprise-gateway-to-generative-ai-s-future-1033066830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "What Are AI Text Generators? 8 Best Tools To Improve Writing"
     excerpt: "Learn the various types of AI text generators and how they are transforming content creation. Unleash the potential of AI text generators in automating crafting copy."
     publishedDateTime: 2024-02-17T19:01:00Z

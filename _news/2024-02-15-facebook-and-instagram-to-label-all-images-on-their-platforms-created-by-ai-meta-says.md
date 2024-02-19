@@ -9,7 +9,7 @@ ampWebUrl: "https://news.sky.com/story/amp/facebook-and-instagram-to-label-all-i
 cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/facebook-and-instagram-to-label-all-images-on-their-platforms-created-by-ai-meta-says-13064855"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1600
     height: 900
     isCached: true
-
-related:
-  - title: "Facebook And Instagram Flooded With Hundreds Of AI Spies Made By Italian Surveillance Dealers, Meta Warns"
-    excerpt: "Nearly 1,000 AI-generated fake profiles have been posing as protesters, journalists and young women, Meta warns, and they appeared to be targeted at reporters and political activists."
-    publishedDateTime: 2024-02-14T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/thomasbrewster/2024/02/14/ai-spies-on-facebook-instagram-meta-warns/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 30
 
 secured: "ka7rgrvuonUAu/RPVbxYfyTJJ40Xc/XiCI+Rj8NstAa3JTc409MfUhW4rZlOyMpGh0Xsw3qYRhd1RyvQQoTJHmPg4nBDLciWVQzh7Z7b5bzsSpRA0AAd4Nd2XJxho853n3Kpx2CsofjUbhQDNC4kV13sHFUf7OukcNgQTIHyEDz9REcBWZ6/YoVJfek5bAXfOVlWG115LYt6x0PNJUcHth37kp/DlsMtGt9FHi5jTgmjmw64Pf76cBRSwXV6nhdyyTyRlXjkZPvYDWkG1U5pvqQYN4GLRuqvnaA7AFVEzf3wmeeB5/3nT5QHsSdYMaF4aUB78behtKdll9meAbtkIGYsGQLqQLkthp/HX/P6N1I=;cogDXGgLvnujqAs8/kRLWA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/neilsahota/2024/02/15/the-new-era-of-fi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/15/the-new-era-of-financial-freedom-ai-disruption-of-mortgage-lending/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How financial institutions are using AI tools"
-    excerpt: "Consumers are increasingly turning to AI for money management and investment decisions. While finances were long considered personal, and people relied on advice from trusted advisors, 40% of Americans believe Generative AI to be a useful tool for managing finances, according to a survey by Intuit Credit Karma."
-    publishedDateTime: 2024-02-14T15:00:00Z
-    webUrl: "https://businessjournalism.org/2024/02/financial-ai-tools/"
-    type: article
-    provider:
-      name: BUSINESSJOURNALISM
-      domain: businessjournalism.org
-    quality: 39
-    images:
-      - url: "https://businessjournalism.org/wp-content/uploads/2024/02/pexels-expect-best-351264.jpg"
-        width: 1280
-        height: 714
-        isCached: true
   - title: "Navigating the AI Career Maze"
     excerpt: "Recent college graduates who missed the AI revolution need to start over before they've even begun and acquire additional knowledge, training and education. Established professionals who work in a field ripe for AI disruption need to adapt, compete and ..."
     publishedDateTime: 2024-02-16T20:18:00Z

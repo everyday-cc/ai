@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
+    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
+    publishedDateTime: 2024-02-19T16:18:00Z
+    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
+    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 74
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
+        width: 640
+        height: 360
+        isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
     publishedDateTime: 2024-02-17T09:50:00Z
@@ -200,6 +216,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
+    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
+    publishedDateTime: 2024-02-19T14:41:00Z
+    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 29
 
 secured: "MQKo4G+LGeD1AEERXUjqbdG0TWHKsdQql+D7E4mX+0JLAQhIL6fLnHfbm0JgAhIJ4RBZmMi4fIjKDG0wc8nGHMEpKy4GwNjCqPNOVdHFHQUS4ZkDayVcrHCbZ0oZZIeu92rNsuE2eUprI+XVGIzDI1h0Yuw/v1NmLVBqIX0U9b1KiPSb9DkIgU30y44Wa/vx7iup1T0VTf08uclOiWmYmkp5l89rUt/eL8NoIW5lm3r6PNSnn+7J/wOrzWkD2RDL2xUmCtKMZ6DO7FFTXUjuIXfZu47yqdfZZMRF5IXYQHoR4TSorG0W79zu3ceRGyZQK/mlEn187TmDrVfHu7uz0I8N/mt1NQJzikvm1EKJufnHLbFe/9B1P4a2KssKjfiRIiaPp3xyVZEk6DkXQ7skTku+HiWYQFZRD3xQc0cSJFDVHvkE638zDBmdUGL8tQ2IX5JNgimryNg2+02ul4ICqxWq8So1+lbF84dRi/7xfc+NaHHb/FqQEwGcMl83mwVqARg9tDTKVyCvyQloSaPp9g==;XApbyutqapXzaz6A6ZvASA=="
 ---

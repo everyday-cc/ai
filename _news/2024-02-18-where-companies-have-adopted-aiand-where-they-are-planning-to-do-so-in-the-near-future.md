@@ -7,7 +7,7 @@ originalUrl: "https://www.miamiherald.com/news/business/article285579412.html"
 webUrl: "https://www.miamiherald.com/news/business/article285579412.html"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Where companies have adopted AI—and where they are planning to do so in the near future"
+    excerpt: "On Nov. 30, 2022, OpenAI launched ChatGPT, a chatbot driven by artificial intelligence. The app spread like wildfire. Not only did it provide an entertaining companion to chat with, but it also showed promise as a piece of productivity software."
+    publishedDateTime: 2024-02-16T18:10:00Z
+    webUrl: "https://www.timesunion.com/personal-finance/article/where-companies-have-adopted-ai-and-where-they-18672230.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 11
 
 secured: "BFqlQbgHLUNGWKbnUnzisv780rLR0WBKqQ8uM0qxzjBn8anyuXq72HiNc2aUusfL96uMnH6uIzmKId2yR5YN+wVvk9rd/8zH06d/RK4YapdbPhYTzihjfVUDInUpF8MHiwfDT+6rqmk10UHIRed3KRWb+kBvK2XA+RNG3gdi/em/yHVyYCnfG0LE+mp+TLDdQncd5kJEeikK3mksFooClYhRv+CKIQjdl6GKoIXdkXAPBI71XhLetDc5fYycoU7ImrtPbCy+J3m37dTx6haz5miBolWa0icEpMgGBcwxeLyMO7Rwkr/ySwfb0QmB/gevWYpYBOsRtFo59s+N5nGwT3Zuv/9uSHpvbK3uEaAMsZa6QupvbzU8IYjOlRKjAm9Ou3SX/dWTjkgvKayjfgWuVSWZeue2/O9ELCs7JgGjwgRZm0JJRIppV6g0S+htR4hU/dryyWZuJCvBY5zKnKoMKHdHJJdSVDeZzTE5vcMiviJPyhmoAIkLjYmvrQgC+gfwxu7ohdPBdnyhosweCYRrQA==;1pE3sv7HB+tXW/1JyADbiA=="
 ---

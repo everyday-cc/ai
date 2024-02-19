@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-leng
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -32,6 +32,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google Teases Innovative New Android Abilities With Gemini AI"
+    excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
+    publishedDateTime: 2024-02-19T13:06:00Z
+    webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/02/19/google-gemini-ai-android-pixel-8-pro-feature/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google claims AI advances with Gemini LLM"
     excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
     publishedDateTime: 2024-02-16T06:15:00Z
@@ -84,6 +93,6 @@ related:
       domain: tomsguide.com
     quality: 8
 
-secured: "YoPOqop0f415WbzVQVQvNrYjRXML0atomKmowf5z/R0tnsWz7XCMjqbunmT390seA1IbO8GYAk2MuORrvLdzH2Wgay5L/WRSXxWs+MyiOvxQVY8SgJe81fa94tD+DYhVVGdkmuWk95cvkYlWLOy7x65Bg2iPPNOTx+B1Hu8+vcIvz8cNu6j9/GD+o6/CNDAf8LVyLumdG05wyzZCYkVWUKxwfomoG6/kwqq1v4fpNFsIk/kdOPG4lZma9JT245cp3s162D0GamR5SkI4RMM2xkX2yqsHXtYuITI7CLQ3PzwykchvwT8WOBtSAzHiyTBSpieIdxaxLJxkHLx/Fh8ixtWTG6lru649PT+/wA8qYAA=;YFcaqM4RpfT+9ncee5q1Xg=="
+secured: "7lZNHMPMEeDx8fLfWNd15KW7dh2xb3EjRh1QyPHMd8gUrfck0TyPWlKUfU7XNWxBKu58gyRgvKQPYk8EO3XPClIL/eivkXm0gbGVtH9k2cQBWHSG9ASk+hTSJiVaBAknNsiQkNo/oP9JxwB3gz5MP81ukMCfwOu8udL7xha0b2+8++lL6gZM9dy4sO7q7hADA10Zr1mvEcDQ3ubM3L2UPPAb506jixu0IAncAOmKy7fwsXuPKyrGFy7DWp3RM+VhW5DjJ1lZ8zq9dvOkzFNH93/QUQwyomqD4JXX80O9UKmIZNUDrVT9dcRXaQj5PCrSa8nvVuRzfjxrlGpIJb6ICURdXeY+UWunIs9d61CbHYm8tQXRn8aLNHFGt1rZ3KD7BH3lGweMFu001nTDVQOul4ZTTJlc3L7LtAlCQQnIp8LHCKi7fltTpQ2GgUwyIr+gjoCmsAkc3+odMwdcLZ3mz6W0KOrqg5oTQajvsqtYSV249+RJKI4oOqzuhLLancmaacqBujKa4LkfbXhmbEw8qg==;ueDzjpwqifZSDyt0/Z+Vcg=="
 ---
 

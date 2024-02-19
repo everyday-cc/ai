@@ -38,16 +38,7 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Y Combinator puts out a new call for startups in areas like AI, spatial computing, climate tech and more"
-    excerpt: "Spatial computing, climate tech, and applications of AI technology join the newly announced list of startup incubator Y Combinator's newest request for"
-    publishedDateTime: 2024-02-14T14:51:00Z
-    webUrl: "https://techcrunch.com/2024/02/14/y-combinator-puts-out-a-new-call-for-startups-in-areas-like-ai-spatial-computing-climate-tech-and-more/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 30
 
-secured: "olz2mrt/KHzU3SsfeziusNPFCt0t90vfVDmQq26Y7KMZ4YU65hJV1ktdK1MCtrPMlURGEqco40ZdzeOLR7teQEQJXtH+De+1CwNlX7/7k3RKqYh4/pjRdY2hPq+BRFHc/Iny82Rvf3Qv3Ba9C5kTdGhZkjNCkyB2bhstv3hbDQhHfKrhHkEwuFhhLXOMMasVClRKrMPS5zJjuPO+INGWs0AKoOwpboSLBjRxDx6UBKSu2eUFi49LM98rHGSRTkAsQo3cUEgmcc/CygmJmda53IQW+jxJGGv3FITjDeyCbIqk2o5W0rTbIPN5kbLfavNdc/qvQrfOPIKKmQUhu2h+qnXAouPmFWKcZlVbJMvJcGo=;+2edmK6/gn5WPr5+zCEoEQ=="
+secured: "akJCOLjjLMtdqG6AjE4qa5r86j/yr/6DuzuJtjmrapCLTImnav3Ht/8qERrxSDVk7cnfR4mebytXM9bjroq5oeFAOpp8Gy7L5fWnhHO0vrbOgkjAkM7393R1Xt4HXn5gbicsHVxT6RsC45lN+Swy9vnbfB269CSeestx+4WYeglqGELzhGA2B1Je98eTEY/xQEM2Rk1TYCjU8V4B/RV3m/q6zY6txHZQwRFxfeYJVNHh8BZhBtL4s5ViV0WKbD8o4PVgha5GQU9C+boUkoh96cye1b4BrozFN4FRN5WieP4ArAs2AR78AD2lQ1F42h+/chPOnEYeglI71htOP1LVky5raD7pyaDN0s6AXSrUAcdN+kALcKMAOltmnOFwN8Qp4Bw6HgftjIdDQYkzE2YVOhte8hyCqwQMicR+sAwdguBhePIRRmR8RreVJ65XJ+HJt4PqFISAL9D55xrBtaRtTE/K+ujekECkeeYu7XsAmVvbgNN8/mr0871oVK2HxRunSAUoC469sRCO5IU0Oj713w==;wlLljLSmENLddUoXEzzzOg=="
 ---
 

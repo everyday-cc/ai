@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-tech
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: MIT Technology Review
@@ -26,54 +26,73 @@ images:
     isCached: true
 
 related:
-  - title: "Voice actors face a reckoning in the age of AI—but some are leaning into the technology to give themselves an edge"
-    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
-    publishedDateTime: 2024-02-19T12:39:00Z
-    webUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/"
-    ampWebUrl: "https://fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/19/voice-actors-ai-jobs-sagaftra/amp/"
+  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
+    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
+    publishedDateTime: 2024-02-16T23:02:00Z
+    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
+    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
     type: article
     provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 67
+      name: MassLive
+      domain: masslive.com
+    quality: 47
     images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1383909511-e1708346325898.jpg?w=840"
-        width: 840
-        height: 472
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
-    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"
-    publishedDateTime: 2024-02-19T04:43:00Z
-    webUrl: "https://www.washingtonpost.com/business/2024/02/19/aigenerated-voice-clones-video-game-actors-replica-studios-sagaftra/b88abcd2-cf13-11ee-ac8b-765284b5203e_story.html"
+  - title: "Responsible Artificial Intelligence Efforts in the Global South"
+    excerpt: "The promise and peril of artificial intelligence (AI) dominated the global agenda in 2023 and will be an even more pressing concern in 2024. This Global Futures Bulletin considers the global AI regulatory landscape—asking where AI safety and alignment policies are produced and how they differ across regions."
+    publishedDateTime: 2024-02-15T15:09:00Z
+    webUrl: "https://www.newamerica.org/planetary-politics/policy-papers/responsible-ai-efforts-in-the-global-south/"
     type: article
     provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 24
+      name: New America
+      domain: newamerica.org
+    quality: 39
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WSMEONGPCMI65LELOZJIJNJAHY_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Screen_Shot_2024-02-09_at_10.02.3.2e16d0ba.fill-1200x630.png"
+        width: 646
+        height: 341
         isCached: true
-  - title: "Where companies have adopted AI—and where they are planning to do so in the near future"
-    excerpt: "On Nov. 30, 2022, OpenAI launched ChatGPT, a chatbot driven by artificial intelligence. The app spread like wildfire. Not only did it provide an entertaining companion to chat with, but it also showed promise as a piece of productivity software."
-    publishedDateTime: 2024-02-16T18:10:00Z
-    webUrl: "https://www.timesunion.com/personal-finance/article/where-companies-have-adopted-ai-and-where-they-18672230.php"
+  - title: "Acquiring Workplace Safety in the Data Age Via AI Innovations"
+    excerpt: "Chatbots, equipped with natural language processing and trained on safety procedures and manuals, serve as invaluable tools for addressing employees' safety inquiries. These intelligent systems can understand and interpret natural language, enabling ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://ohsonline.com/Articles/2024/02/16/Acquiring-Workplace-Safety-in-the-Data-Age-Via-AI-Innovations.aspx"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 11
-  - title: "Moving into the next phase for voice-activated technology accessibility"
-    excerpt: "An additional $5 million award will continue the second phase of their work over the next three years, says WMU's Dr. Hope Gerlach-Houck, assistant professor of speech, language and hearing sciences and co-principal investigator for the project, which received its first NSF grant in 2022."
-    publishedDateTime: 2024-02-15T18:24:00Z
-    webUrl: "https://wmich.edu/news/2024/02/74666"
+      name: Ohsonline.com
+      domain: ohsonline.com
+    quality: 39
+    images:
+      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2024/02/02,-d-,16,-d-,24aidata.jpg"
+        width: 650
+        height: 300
+        isCached: true
+  - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
+    excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
+    publishedDateTime: 2024-02-15T14:20:00Z
+    webUrl: "https://www.law.com/2024/02/15/protecting-technology-assisted-works-and-inventions-where-does-smart-technology-end-and-ai-begin/"
     type: article
     provider:
-      name: Western Michigan University
-      domain: wmich.edu
-    quality: 4
+      name: Law
+      domain: law.com
+    quality: 25
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/292/2024/02/artificial_intelligence7_767.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "How artificial intelligence influences technological innovation"
+    excerpt: "With artificial intelligence (AI) becoming massively entrenched in everyday life, enterprises are using the emerging technology to foster innovation."
+    publishedDateTime: 2024-02-19T08:55:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/752767/how-artificial-intelligence-influences-technological-innovation/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 19
 
 secured: "EDspYSi/CAwwY/qm6o5bn4QkEbBlgv1sF4D8d/ng4xRr9SEERbO6z1CvGp+G3aGwMEnHpEjPBOnMCRVDCH2KTbBRIpG8l0upcZgdapBNW1uoUzq1X3RVEJckSmPuyEZW2l4XAWow7mNoMw5nJqzhzxZzBqfPv7Jr04w9WIyqkKTeoOcVigqe+8wSy/JVQNxYo4Ri81C/EjaWJfYvPy+kYRQv8Cnf+9wF0mHV80nn/oYgo8VK9LWl5Iz7d953WG1ccj5mo9M10S82anr6TSLHPRBYgYZv1O67uLPlunM94ndZT7EkEl9wP9mC93rjmm9gU98ij2XSgMSONDrk2w5MXC6pJGeZQxxkHDf8ZP+2LK2Vw6L2+aNJKwq0e5lTQoH3AfsnyAQcr/9egioV1oosRylcJbUBDM2lk9E3FgL+98Lemc8AdpEhNWdsjTuJtt4T/r8zCbwmIF9wEUy7dycPBA6Q6YB/3WmmAAgz9m26+XWBttcvWwiX1wxL7DozAeI/sRcA5b55CLNNfh68RleNMA==;YoKl9nsQ7rkTtgvniDt0jg=="
 ---

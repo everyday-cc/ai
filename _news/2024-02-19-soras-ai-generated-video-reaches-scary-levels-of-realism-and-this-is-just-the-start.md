@@ -154,6 +154,20 @@ related:
         width: 1365
         height: 800
         isCached: true
+  - title: "OpenAI begins testing its text-to-video AI Sora with creatives"
+    excerpt: "OpenAI has unveiled its latest AI model, although it's not being released to the public just yet. Sora is a text-to-video model."
+    publishedDateTime: 2024-02-19T14:55:00Z
+    webUrl: "https://musically.com/2024/02/19/openai-begins-testing-its-text-to-video-ai-sora-with-creatives/"
+    type: article
+    provider:
+      name: Music Ally
+      domain: musically.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/musically.com/wp-content/uploads/2024/02/Screenshot-2024-02-19-at-11.38.08.png?fit=739%2C397&ssl=1"
+        width: 739
+        height: 397
+        isCached: true
   - title: "Sora is ChatGPT maker OpenAI’s new text-to-video generator. Here’s what we know about the new tool"
     excerpt: "Meet Sora — OpenAI’s new text-to-video generator. The tool, which the San Francisco company unveiled Thursday, uses generative artificial intelligence to instantly create short videos based on written commands."
     publishedDateTime: 2024-02-16T17:54:00Z

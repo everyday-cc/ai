@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
 type: article
 quality: 87
-heat: 120
+heat: 121
 published: true
 
 provider:
@@ -54,7 +54,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 47
+    quality: 49
   - title: "Artificial Intelligence | Worrisome trends in election campaigning"
     excerpt: "JOHANNESBURG - The emergence of artificial intelligence-generated content is changing the landscape of election campaigns. Artificial intelligence programs can produce realistic images and voices in a matter of few minutes and people have long tried to misrepresent media to influence an election."
     publishedDateTime: 2024-02-17T20:06:00Z

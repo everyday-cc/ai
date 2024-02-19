@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-cyber-def
 webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cybersecurity Threats: How To Fight AI With AI"
-    excerpt: "There are also innovative startups using AI for cybersecurity in new ways. BioCatch, for example, uses ML to analyze human digital, physical and cognitive behavior. Its AI platform allows financial and other institutions to risk-score sessions—which often include transactions—when anomalies suggest account takeover or other kinds of fraud."
-    publishedDateTime: 2024-02-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cybersecurity-threats-how-to-fight-ai-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Index reflects nation's strength in AI governance"
     excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
     publishedDateTime: 2024-02-16T23:38:00Z

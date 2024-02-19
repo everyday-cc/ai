@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Build generative AI chatbots using prompt engineering with Amazon Redshift and Amazon Bedrock"
-    excerpt: "With the advent of generative AI solutions, organizations are finding different ways to apply these technologies to gain edge over their competitors. Intelligent applications, powered by advanced foundation models (FMs) trained on huge datasets, can now understand natural language, interpret meaning"
-    publishedDateTime: 2024-02-14T16:56:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-generative-ai-chatbots-using-prompt-engineering-with-amazon-redshift-and-amazon-bedrock/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 78
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/14/bdb-3842Picture1-1.png"
-        width: 936
-        height: 598
-        isCached: true
   - title: "How Fractal is Leveraging Generative AI for Insurance"
     excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
     publishedDateTime: 2024-02-16T08:30:00Z
@@ -97,15 +83,6 @@ related:
         width: 1200
         height: 743
         isCached: true
-  - title: "Soluna Ventures into AI Hosting with Co-location Agreement"
-    excerpt: "Soluna's co-location service offering comes at a pivotal moment as the company prepares to launch its own AI Cloud business. Leveraging its expertise in renewable energy, data center operations, and strategic partnerships, Soluna is poised to provide AI customers with Renewable Computing at a fraction of the cost of traditional data centers."
-    publishedDateTime: 2024-02-14T13:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962210.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
     excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
     publishedDateTime: 2024-02-14T21:01:00Z

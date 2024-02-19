@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
+    excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
+    publishedDateTime: 2024-02-19T12:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/02/221671-fintech-ma-activity-declines-yoy-as-acquisitions-favor-enterprise-fintechs-report/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "Qb2AP7NSsSpSYrpJzQUVjfgltGBiZt3QQTBz/sNQ5IisTk0zNOgrZwHa3hkTXqa+CUen/cnBpBbXoaEY8iySXm7b3ihO7VeoMh8XEuu2TUebBPMOH1iMqYUkReRki7obX1pncSabjJ7WdKyXfguKEWZs9kdvlsDBGYdASpJlQXd5EpDnhJxTtRGv80Y2xqtyzkAwm9Zv+MmvrhRl4rBQZ0IyLFucbMKiB2fC1YHzX16uZfIw5gwmm9GOWqaezX+AWpX/XCsteDWtim9IY/6G4ZY2szITOkXXGR63DKKPMDuHfxOY/5a5tclgc61Yb6DhltBbeaydsmxckF5Ovw/3ayHnnh9AG5hBZkTyNj9jqLw=;lbaJo6LamNmfcgcFReExiw=="
 ---

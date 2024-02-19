@@ -40,36 +40,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
-    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-    publishedDateTime: 2024-02-19T12:30:00Z
-    webUrl: "https://edition.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 46
-    images:
-      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242699530.jpg?c=16x9&q=w_800,c_fill"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
-    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
-    publishedDateTime: 2024-02-14T14:25:00Z
-    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 42
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Families advocate for artificial intelligence to restore voices of gun violence victims"
     excerpt: "If the idea of getting a call from someone killed in a mass shooting makes you uncomfortable, families across the U.S. say that's the point. Artificial intelligence is now restoring the voices of people lost to gun violence."
     publishedDateTime: 2024-02-15T23:18:00Z
@@ -81,15 +51,15 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://www.wfae.org/united-states-world/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
+  - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
+    excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
+    publishedDateTime: 2024-02-19T12:30:00Z
+    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
     type: article
     provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 13
+      name: CNN
+      domain: cnn.com
+    quality: 26
 
 secured: "slZl5LKlXHGgWgrGz/ZnXUSoLJkIrpmdAtRdeG4kKlthSdBfJhc6cd0MmyabPBB9oLMQbWR6Wn9QGvDM49Dd9VYjVUMtRCmBZ/3WH8fRSb0g+avyFXWdxZtXxkK0LwDysy2tVg/gYpiDTvDOHJEW8Qc5TXJ32oE4SnG9nGJXRN7GPpXk62teqLZoQKayrwnaHc0xPkJCtl9eLrw5vstUOuaSQZBlDvk0h8/IQb79F5XSFzjAjq78yMd0BlrfCFRi1JmReyisPA1OMG6RAt4ZY0fKJSUvFBK64d7ft19UpWAgs3CSznZCBMT6dYo08Sxx9ErrnB2ZRFU8XZlB7GZGMUWJked6fArKbztKqjra5ho=;vcVjZ+HN0OUbuaUVU5olEg=="
 ---

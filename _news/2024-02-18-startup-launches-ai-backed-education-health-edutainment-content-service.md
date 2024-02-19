@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Artificial Intelligence in Content Creation"
-    excerpt: "Greetings, curious minds! Today, let's dive into the realm of Artificial Intelligence in Content Creation. Imagine an artist that isn't human but can paint words, pictures, and ideas. Intrigued?"
-    publishedDateTime: 2024-02-14T15:31:00Z
-    webUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/slidelist/107678218.cms"
-    ampWebUrl: "https://www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/insider-explainers/artificial-intelligence-in-content-creation/amp_slidelist/107678218.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 59
-    images:
-      - url: "https://www.businessinsider.in/thumb/msid-107678236,width-500,resizemode-4,imgsize=6987/Unveiling-AI-Creativity.jpg"
-        width: 500
-        height: 625
-        isCached: true
   - title: "Startup launches AI-backed education, health, and edutainment content service"
     excerpt: "It is projected that there will be a lot of job redundancy due to the deployment of AI by corporates and businesses."
     publishedDateTime: 2024-02-19T04:57:00Z

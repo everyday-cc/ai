@@ -35,6 +35,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
+  - title: "Groq AI model goes viral and rivals ChatGPT, challenges Elon Musk’s Grok"
+    excerpt: "Groq AI model goes viral on social media after public demos emerge showcasing its rapid computation speed, outperforming ChatGPT and sparking discussions about its potential to revolutionize AI applications."
+    publishedDateTime: 2024-02-19T13:35:00Z
+    webUrl: "https://cointelegraph.com/news/groq-ai-model-viral-rivals-chat-gpt"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 35
 
 secured: "w9F4fTdmCHfXLj+vw3yTUmyBVvYExqRIqN7UUUAHmdNFSX1QUkZITT/XHFllHRPciaE+iP2jRr4I4j48Sy7hKY/8eFRJXrfKa8cH6VMa0CW/vlRBB3YQ4JrwqdKM7gYBkpxChFw7xRoKQqoZtKzZtI4j/xrZMO+SqZeWQQMEF6kgYy6qi9k5XPQYsuSjbVXlUspGTvkxR2lK+OfLEpN59jVyuIcdqw/OxMe2ThzgvSHFcDHIzXKTjkZ198r2R9KiSRuPIfUfldS+RSVkQfuaNyQbn+A8IhHbyqHM5jyhI7od+nDWnvXhHn9hLT1bx2Fm9cAGYE5BKIcGVY1UmVfge9WTKf7DbTJgdfBoxdCmN0E=;EBscIOzUY4BIAt1JdTAnCQ=="
 ---

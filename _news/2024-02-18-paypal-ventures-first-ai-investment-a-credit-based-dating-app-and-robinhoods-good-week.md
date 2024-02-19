@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investmen
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:

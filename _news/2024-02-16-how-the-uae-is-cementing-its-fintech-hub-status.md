@@ -41,20 +41,6 @@ related:
         width: 1430
         height: 782
         isCached: true
-  - title: "Dutch fintech leader Finom nets €50M to boost digital banking for SMEs"
-    excerpt: "Dutch fintech Finom has raised €50mn ... a story from our wise ol' founder Boris, and some questionable AI art. It's free, every week, in your inbox. Sign up now! “We aimed to give them more time to focus and reach their full potential.”"
-    publishedDateTime: 2024-02-14T15:23:00Z
-    webUrl: "https://thenextweb.com/news/fintech-finom-funding-digital-banking-smes"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 69
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-1-2.jpg&signature=d51704b3b76e03c05f73a3a38dee1540"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
     excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
     publishedDateTime: 2024-02-14T21:55:00Z
@@ -131,6 +117,15 @@ related:
         width: 1280
         height: 866
         isCached: true
+  - title: "Why Fintech In The Nordics Takes Some Finding"
+    excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
+    publishedDateTime: 2024-02-19T12:34:00Z
+    webUrl: "https://www.forbes.com/sites/sarahkocianski/2024/02/19/why-fintech-in-the-nordics-takes-some-finding/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
   - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
     excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
     publishedDateTime: 2024-02-15T04:02:00Z

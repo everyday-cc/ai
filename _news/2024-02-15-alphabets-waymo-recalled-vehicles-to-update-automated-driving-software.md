@@ -43,6 +43,22 @@ related:
         width: 3200
         height: 2400
         isCached: true
+  - title: "Waymo recalls software after two self-driving cars hit the same truck"
+    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart."
+    publishedDateTime: 2024-02-14T17:28:00Z
+    webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
     excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
     publishedDateTime: 2024-02-15T16:23:00Z
@@ -79,20 +95,6 @@ related:
       name: The Hill
       domain: thehill.com
     quality: 39
-  - title: "Waymo recalls software after two self-driving cars hit the same truck"
-    excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
-    publishedDateTime: 2024-02-14T19:29:00Z
-    webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Self-driving taxi company recalls software after crashes in Phoenix"
     excerpt: "A driving technology company voluntarily recalled its self-driving car software after two of its robotaxis hit a towed vehicle in Phoenix at the end of last year. Waymo, a subsidiary of Google's parent company Alphabet,"
     publishedDateTime: 2024-02-14T23:10:00Z

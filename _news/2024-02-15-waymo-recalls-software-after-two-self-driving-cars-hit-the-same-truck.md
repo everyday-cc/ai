@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Waymo recalls software after two self-driving cars hit the same truck"
-excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its cars hit the same truck minutes apart."
-publishedDateTime: 2024-02-14T19:29:00Z
-originalUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
-webUrl: "https://www.aol.com/finance/waymo-recalls-software-two-self-172829817.html"
+excerpt: "Waymo, the self-driving car division of Google’s parent company, Alphabet, issued a recall for its own self-driving car software after two of its vehicles hit the same truck minutes apart."
+publishedDateTime: 2024-02-14T17:28:00Z
+originalUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+webUrl: "https://www.cnn.com/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/02/14/business/waymo-recalls-software-after-two-self-driving-cars-hit-the-same-truck/index.html"
 type: article
-quality: 39
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_cnn_business_articles_764/98db47dbaaef5ff06ab7ec4fffea4215"
-    width: 960
-    height: 540
+  - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1470596477.jpg?c=16x9&q=w_800,c_fill"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -117,6 +123,6 @@ related:
       domain: bizjournals.com
     quality: 14
 
-secured: "n9VounloeWlemrOK1L0GLOpCEUSyI8mzIIhpBnSYE9BbXG6mkM8KUEGQGM5fhYwmBjYAVlBUlO7rV9lPIroBPvZaM1OJohSKOopEesxZdCMon61LNqe5BisBmz0hWaMToShQhhE/RWpK48JoWAwsPUKTGwSiTOWlUTIyHBVMva9Pu7JymzMROT5ejRoMTTSreg+jIEqCRQ0nLXxwzJ3vV5EIA5ydls58RpsOpeSr75p0poXa/3WRnMKc+cvBrXPejH8Sa2s1yOSexM3TjQddxaPBTYpONzqxTnFu0erUAU2zW76s/kw3eGs94jmJL5iPwDKiLb7VtGa4bWCQEhhl4zYbvG87f4Xx7SqUF74EcdU=;ATWuS4PgldqChEthS2jYdg=="
+secured: "XFIoTCr4zwxMll5TWs2shJ7R32fZSA53+Xd0KNiYd+CTfIYwOBFDn8YfVeTvp7m2FRojTg9ltZfSxYVStUFrsstDI1ACKC9mhX6vhcD6Xvt4lNC2qlEDr/D7TY9l0Ck84iwgzDCKaKee3pvcG8ayyURY4Ajq1bap42BFA5y33hP19fbpEZC6JzdUSneYdZCzy2yCLjw4faU6Av/nrIUbfLIwfM33CRD24DE6PnSYfynuMF9OPAHaqyJPUtWJ7CFpeX9eb4wsH9m/HyxSKFUvZrx5mrZtMIxWJN3lSwDwZ/RWogHashQwDgJEzg13XkPGt8O4O32W2GPGtyVkdk1wtpNXzJn14e5qAur4svxH+7I=;c/ria9kQDiHKUSDFd663TA=="
 ---
 

@@ -41,24 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepMind and Meta staff plan to launch a new AI chatbot that could have the edge over ChatGPT and Bard"
-    excerpt: "Reka Flash also boasts 21 billion parameters, with the company stating that the model could have a competitive edge with Google Gemini Pro and OpenAI’s ChatGPT 3.5 across multiple AI benchmarks. According to TechInAsia,"
-    publishedDateTime: 2024-02-14T14:23:00Z
-    webUrl: "https://www.techradar.com/computing/artificial-intelligence/deepmind-and-meta-staff-plan-to-launch-a-new-ai-chatbot-that-could-have-the-edge-over-chatgpt-and-bard"
+  - title: "OpenAI gives ChatGPT a better ‘memory’ but it can also forget, mess up"
+    excerpt: "SAN FRANCISCO — OpenAI is giving ChatGPT a better memory. The San Francisco artificial intelligence startup said Tuesday it was releasing a new version of its chatbot that would remember what users said so it could use that information in future chats."
+    publishedDateTime: 2024-02-19T13:00:00Z
+    webUrl: "https://www.seattletimes.com/business/openai-gives-chatgpt-a-better-memory-but-it-can-also-forget-mess-up/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 67
-  - title: "The Human Perils of Giving ChatGPT More Memory"
-    excerpt: "Here’s another unintended consequence that has echoes of Facebook: a memory-retentive ChatGPT that’s more personalized could reinforce the filter bubbles people find themselves in, thanks to social feeds that for years have fed them a steady diet of content confirming their cultural and political biases."
-    publishedDateTime: 2024-02-14T15:13:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-14/the-human-perils-of-giving-chatgpt-more-memory"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 34
 
 secured: "4Rj6RsvArOA0SLObw+TSp4XwHL2wdnPB0Jc5RRZp6cawEaqRrUN/Y1QV+YOA4B9mP88x1uZLO9OZql24GlqDiwncjzDjo0o3FJL/hTx71wcY7n4rcSZVmqDufHXVI5jPDQZ8+4ud/hEl0zGaLZ+8HGdAGljEim7F3rbJQmr7xXlhCO1Wr6Y3lcLFcqsK0conTcuhiTwA9nn2R/5Y7Qh3wORbwO2kvbOXXVBLlfZFLpIBaU5JpzLZJleo1O+1Gxad1WDUSnKkfqdFbhyNuxQK0MAL8TSWauQmIlQGCa7hnmKIdtS4yv2aoW3qwNgGTRpsC3FWuY2iK3KyX2ziWTb42uPcOk1CpsSR0gGiJNPLJkMIPMeD8S4qXN/YO9rHtKOQdjl92RAxj6IlheONE/7lrtEnzEajeGSc8qjeZFfJJgW170sVSU4yNG0YEgB8LHnTidqO9fNl7exHduLhOdRY5NIuNjIV3rwr4glCTD6km0IEvkk6YLtkVdIXd5tclReX/WZsN6OnFfBj48ox2CHykg==;qct28a1Zbh9C0UchIvX4Eg=="
 ---

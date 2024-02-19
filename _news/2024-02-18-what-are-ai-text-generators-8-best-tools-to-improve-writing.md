@@ -86,15 +86,6 @@ related:
         width: 1559
         height: 900
         isCached: true
-  - title: "R.AI.SE Summit 2024: Enterprise Gateway to Generative AI’s Future"
-    excerpt: "The R.AI.SE Summit, a global reunion of 1,500 global leaders and Generative AI pioneers, is set to take place on April 8th, 2024, at the prestigious Westin Paris Vendôme, Paris, France. The landmark conference will bring together the corporate world and the top artificial intelligence builders to share first-hand insights on using Generative AI to address essential business and societal challenges."
-    publishedDateTime: 2024-02-14T14:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/currencies/r-ai-se-summit-2024-enterprise-gateway-to-generative-ai-s-future-1033066830"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "One Year After GPT-4: What Generative AI Means to Lawyers"
     excerpt: "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field."
     publishedDateTime: 2024-02-14T21:38:00Z

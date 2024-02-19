@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-foun
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
 quality: 74
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/18/sam_altman.jpg"
         width: 750
         height: 393
+        isCached: true
+  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
+    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
+    publishedDateTime: 2024-02-19T16:18:00Z
+    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
+    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 74
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
+        width: 640
+        height: 360
         isCached: true
   - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
     excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
@@ -200,6 +216,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
+    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
+    publishedDateTime: 2024-02-19T14:41:00Z
+    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 29
 
 secured: "Gi6K2mLm5f7eugG0cbA3xOvJ37qACScyvdBy35+lT10Fw4P3ednhk3gQvKbXSSdBfQd83Bcjc7VcZQxpVoo8G5UtaMnY+d+SwNLt3DEjGbbDey+Bp4a0gMxIjewHc55zgalokQFYgTvVU0FsFoV9PMaYIPw+IRPDArLTBMFLRj2f0uvb67IfqwaTvcYk3+jz4yasGq+l+MvvZFLwnV6is7xDPGGalABNS4KLBBEySGq87QvqJifcVyvmMwKlfrYvs5zat9yhYzasQ2kxppTgOJCIve16mntSI59pADL8+eV2ArYqfN7REAZ00udYv47JhSTKyTGtcI35JddTmQaPw5IDc6x5TZ/x/k44f7upN1c=;fMq/TqrKj0QaKQk7xMZ1oQ=="
 ---

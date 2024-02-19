@@ -35,6 +35,15 @@ related:
         width: 1484
         height: 900
         isCached: true
+  - title: "Google Teases Innovative New Android Abilities With Gemini AI"
+    excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
+    publishedDateTime: 2024-02-19T13:06:00Z
+    webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/02/19/google-gemini-ai-android-pixel-8-pro-feature/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google claims AI advances with Gemini LLM"
     excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
     publishedDateTime: 2024-02-16T06:15:00Z

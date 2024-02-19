@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agr
 webUrl: "https://www.techspot.com/news/101927-major-tech-companies-sign-agreement-combat-ai-use.html"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ topics:
   - AI
 
 related:
+  - title: "Tech giants promise to combat fraudulent AI content in mega elections year"
+    excerpt: "Tech companies like Google, Meta, and OpenAI have signed an accord to filter through deceptive AI-generated content in 2024, a year with more elections than any other in history."
+    publishedDateTime: 2024-02-19T07:41:00Z
+    webUrl: "https://www.zdnet.com/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-giants-promise-to-combat-fraudulent-ai-content-in-mega-elections-year/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/75dbdf1f3a53cc19d05a2a68eed3479af024822e/2024/02/19/063d36af-d818-451b-8d0a-916c7feb57f1/gettyimages-1415754429.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tech firms sign pact to counter AI deepfakes as elections near"
+    excerpt: "Companies that signed the Tech Accord to Combat Deceptive Use of AI at the Munich Security Conference on 16 February include Google, IBM, Amazon, Microsoft, Facebook and Instagram’s parent company Meta, OpenAI, and X (formerly Twitter)."
+    publishedDateTime: 2024-02-19T15:31:00Z
+    webUrl: "https://www.globalgovernmentforum.com/tech-firms-sign-pact-to-counter-ai-deepfakes-as-elections-near/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 39
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/Untitled-1240-x-828-px-1-620x414.png"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Tech companies sign accord to combat AI-generated election trickery"
     excerpt: "Major technology companies signed a pact Friday to voluntarily adopt “reasonable precautions” to prevent artificial intelligence tools from being used to disrupt democratic elections around the world"
     publishedDateTime: 2024-02-16T11:24:00Z
@@ -65,35 +95,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Tech firms sign effort to fight artificial intelligence's poll interference"
-    excerpt: "Signatories of the tech accord, which was announced at the Munich Security Conference, include companies that are building generative AI models used to create content, including OpenAI"
-    publishedDateTime: 2024-02-18T16:15:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/tech-firms-sign-effort-to-fight-artificial-intelligence-s-poll-interference-124021800554_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 35
-  - title: "Tech companies axe 34,000 jobs since start of year in pivot to AI"
-    excerpt: "Companies are reshuffling resources to invest in new areas such as generative AI while also showing shareholders a focus on cost discipline © FT montage/Getty Images ..."
-    publishedDateTime: 2024-02-18T16:06:00Z
-    webUrl: "https://www.ft.com/content/9bace2e9-3ecb-4651-a6c0-b16f0226c0e0?sharetype=gift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 17
-  - title: "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord"
-    excerpt: "Today, the tech sector has come together at the Munich Security Conference to take a vital step forward in combating video, audio, and images that fake or alter the appearance, voice, or actions of political candidates and election officials."
-    publishedDateTime: 2024-02-16T20:04:00Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 11
 
 secured: "6AUr95VchDXkClmO9GqVeaQAY0/ola14izI1XjGhi+fVLzkgzwyy98UVI0e50aWFq+gcbjq88+sEtMdGOonP10ipo7eJVBtTjFIeyup3zClESesyVPv7uhuao1DBdVbOuyBaAbFYXkkvS6LBcohbl12HaHpvy9OLX9WdagL+2Z3ELOWfiDtSBbk5eOQofyRKPsfmk+oYMcx0yPKPi8/gIch1So64ZdFUDA3/9cHshnYnbhd8jrW7WCUOKhUiMddX5BvTTPj7ecfr2Lfi5S6WQJW0WaYpEygx5/4k/zSR+blRTBnfYELKt826xZEAIChVioYe0NcF+R2ERJ2cNF7mAgzXf1gqV7ZPOSOy4rKbRb4=;JUX1YGhVSPF5+f08Uc+9VQ=="
 ---

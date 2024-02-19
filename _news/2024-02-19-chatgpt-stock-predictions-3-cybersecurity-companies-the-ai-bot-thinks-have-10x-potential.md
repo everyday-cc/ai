@@ -39,20 +39,6 @@ related:
         width: 1406
         height: 900
         isCached: true
-  - title: "Microsoft Detects Russian, Chinese AI Hackers: Is It Time To Add Cybersecurity To Your Portfolio?"
-    excerpt: "AI-driven cybercriminals targeting government and corporate records are pushing for increased AI deployment. Companies like Microsoft and OpenAI are detecting and banning state-backed hacking groups."
-    publishedDateTime: 2024-02-14T16:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/etf/microsoft-detects-russian-chinese-ai-hackers-is-it-time-to-add-cybersecurity-to-your-portfolio-1033067556"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/hacker-shutter3.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Deep Dive into the Complexities of Modern Cybersecurity"
     excerpt: "In the unspoken conflict that unfolds within the digital realms of our world, experts like Senthilkumar Chandrasekaran stand vigilant. These guardians confront formidable foes armed with the predictive might of artificial intelligence (AI) and the analytical capabilities of machine learning (ML)."
     publishedDateTime: 2024-02-16T15:03:00Z

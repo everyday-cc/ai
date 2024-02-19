@@ -7,8 +7,8 @@ originalUrl: "https://interestingengineering.com/innovation/new-ai-powered-waste
 webUrl: "https://interestingengineering.com/innovation/new-ai-powered-waste-sorting-robot-identifies-over-500-waste-categories"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Interesting Engineering
@@ -33,15 +33,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 34
-  - title: "ZenRobotics launches fourth generation of waste sorting robots"
-    excerpt: "The company has introduced the Heavy Picker 4.0, a multipurpose waste sorting robot for bulky material, and the Fast Picker 4.0, a high-speed robot ideal for lightweight material."
-    publishedDateTime: 2024-02-14T16:03:00Z
-    webUrl: "https://www.recyclingtoday.com/news/zenrobotics-launches-fourth-generation-waste-sorting-robots/"
-    type: article
-    provider:
-      name: Recycling Today
-      domain: recyclingtoday.com
     quality: 34
 
 secured: "etO/VqTSOxL0T8c83kth80qUtlmYN+uywUgZDHWBFM2ApNQOHLBztYczYtQ/KiqIJaEtTiFPWe2i8fqUdxhyNbxSGpTVntz1dNCPEWzTWMwD8X0whNxx/sST0DuHxr3xPyoSwyocfyxi7rFPdvoXVWDu22tVBm43TrJtFRATFrrc+TkrwmaZt7yw2vVxln3TsDO3matQdRooDUS5GyKzRgImKz832w6gngSmtf31WfGTM9lbIRBojieIIxpIB00eqOumJIpUC9ML17Vat/kGuiZI7EkA1JpFOxogfbgloEYyS5XaBL/x0MjUDuUXFyCDr7suo6cNMMlssn4y7esAooezJHvZkGjKaWlBz8i+UJ1lOwykZPTF1vMHCTzRJB+DuO8i61QduEjaEeJsSogkn5Ba2a/kAJf0n/K6gVNDdQe4RyV2MTQs7ZMJwf0HokiFN3bHQaRdIbP1N+2uAMZmjj4LmOM86ZIZzXofjO5J7tXGEPFLEAY6E9nKovxM5GNmup4ToT8vmrC0zcR2D9qOGg==;FA5SQWNnhwNUzVEo8g68iw=="

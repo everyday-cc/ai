@@ -7,7 +7,7 @@ originalUrl: "https://www.wrdw.com/sports/betting/2024/02/18/daytona-500-nascar-
 webUrl: "https://www.wrdw.com/sports/betting/2024/02/18/daytona-500-nascar-live-stream-tv/"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "2024 DAYTONA 500 Odds, Favorites & Start Time - Sunday, February 18"
+    excerpt: "Everything you need to know to bet on the 2024 DAYTONA 500 on Sunday, February 18 with odds, favorites and race information."
+    publishedDateTime: 2024-02-18T22:29:00Z
+    webUrl: "https://www.ky3.com/sports/betting/2024/02/18/daytona-500-nascar-betting-preview/"
+    type: article
+    provider:
+      name: KY3
+      domain: ky3.com
+    quality: 22
+    images:
+      - url: "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/v2/34X7SYZ72NOSXJ6D6STIG5XEWU.jpg?auth=b26adc392f151dcee5763accad37f58cdd0dfd0d1ace7fdc7e2030cf7e4d99ad&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "How to Watch the Fresh From Florida 250: TV Schedule, Live Stream and Start Time - Friday, February 16"
     excerpt: "See how to watch the 2024 Fresh From Florida 250 on Friday, February 16 live streaming or on TV, with channel info, start time and more."
     publishedDateTime: 2024-02-16T02:31:00Z
@@ -38,6 +52,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Wofford vs. Samford February 28 Tickets & Start Time"
+    excerpt: "The Wofford Terriers (15-11, 8-5 SoCon) face the Samford Bulldogs (23-3, 12-1 SoCon) in a clash of SoCon teams at 7:00 PM ET on Wednesday. The game is available on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-15T14:20:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/28/wofford-vs-samford-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 2
 
 secured: "kPzF1vDRd5fY6qjD18Szq6iimu8QNeum0/DTixesQsVnT1ufVgSUUtnUBZRIa/ilQDxN0b8YuU0rJHAAZjGmMQNZ1jcXuB1PHoV9zyEm54l/bWrVsAR7oOH0fAqz4g9HHCqfulL2I/6a/beziidmmzg+hopFmwbwn1bt7xwldBLET4LpB2US+/rb7z925AnW+VDW0Q8oglsSb+MvE98KdsY9xKUP6pOqty8JBv3CgNHHfBkpa22t+5WyX7SGTEOeS3qdDkJMLe9e9f27OqCaFL0qTH/6edypep6eg/d6TMdXa03FteE6ON9jqDRjLr1RaFpJ3htPBruoyHduhJq25pNDkIzF9DEeHQboONY1a7U=;w2nAqScIH74mYCmyqsOu7g=="
 ---

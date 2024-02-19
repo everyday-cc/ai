@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cybersecurity Threats: How To Fight AI With AI"
-    excerpt: "There are also innovative startups using AI for cybersecurity in new ways. BioCatch, for example, uses ML to analyze human digital, physical and cognitive behavior. Its AI platform allows financial and other institutions to risk-score sessions—which often include transactions—when anomalies suggest account takeover or other kinds of fraud."
-    publishedDateTime: 2024-02-14T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/cybersecurity-threats-how-to-fight-ai-with-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
   - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
     excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
     publishedDateTime: 2024-02-15T08:01:00Z

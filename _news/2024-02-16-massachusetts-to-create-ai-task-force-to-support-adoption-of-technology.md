@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
-    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
-    publishedDateTime: 2024-02-16T23:02:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
+  - title: "Gov. Healey executive order creates artificial intelligence task force; will advise on state government use"
+    excerpt: "Gov. Maura Healey signed an executive order Wednesday to create a task force meant to study artificial intelligence and to advise her administration on the state's role in implementing and"
+    publishedDateTime: 2024-02-15T00:00:00Z
+    webUrl: "https://www.berkshireeagle.com/state/gov-healey-executive-order-creates-artificial-intelligence-task-force-will-advise-on-state-government-use/article_7fb07ad0-cb9b-11ee-8914-dfc1fb4c17fa.html"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 21
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Prohibitions on Artificial Intelligence Use by State Agencies Explored"
-    excerpt: "A plan by a former Dartmouth computer science professor to regulate state agencies’ use of artificial intelligence met opposition from the head of the state information technology department saying more flexibility is needed."
-    publishedDateTime: 2024-02-14T22:43:00Z
-    webUrl: "https://indepthnh.org/2024/02/14/prohibitions-on-artificial-intelligence-use-by-state-agencies-explored/"
-    type: article
-    provider:
-      name: indepthnh
-      domain: indepthnh.org
-    quality: 39
-    images:
-      - url: "https://indepthnh.org/wp-content/uploads/2024/02/Screen-Shot-2024-02-14-at-11.33.37-AM-771x482.png"
-        width: 771
-        height: 482
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/2/96/2965cfee-cb9c-11ee-b058-af5bf74d83cd/659452e394caa.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vyI486bkQDiKDYD9KsgCdu0qVr+0/cv6VL3pvc91l6Q3KwgO+6A3SJ+qr2en+yAifT7qSRL8evNMVJaweDAMVmGKY8QCiSJFbqivVB0FBdqSSuwC3CA8nwg0wWVk13pUMk0zeLjNhKUndU8BR5OW/n1Wd8Y93HJl/qEgjbPfCPn0iYGMOuqV1vwvsPMdz1G3I80XqGB242uXz74/1sgTSOwoixeP10504FQrOcba6bkus7gEXOTJcMGY86KLxQcHNtCRl9UU84wNKCxmwS2U3/6o9XVV5zNiS96zaXnqETo95ye3UgRNMZkd5PNU5ACtcI2lSLRd3QPZVqOedUxEtAi0CikdyFMWmCvrzVjkcbTgL1iKo7r1EDB1HUE1T3XnSgbIgshZ9ye0hDipmQyz/1N7oxd8tXUbEWhpCFXFg7h7gEizXUcK9mJ0xt809yvx50nvdrT2ka5iwvbWa9uluXJArWQtHtCByYCdOl+kTGxDi6wATf4jbCvGk/sXkZvp19tThRPiVRqsmgyzeV+MnA==;YwFO1mT7FTarm7fUDoHqTw=="

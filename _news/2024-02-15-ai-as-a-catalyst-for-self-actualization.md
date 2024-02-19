@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202402/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202402/ai-as-a-catalyst-for-self-actualization?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Psychology Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Slack Rolls Out Generative AI Search and Summarization"
-    excerpt: "Summarization digests and Einstein Copilot integration for Salesforce CRM are on the Slack roadmap. Slack announced in September 2023 its intent to add generative AI features, and today the messaging application company rolled out its AI assistance."
-    publishedDateTime: 2024-02-14T16:51:00Z
-    webUrl: "https://www.techrepublic.com/article/slack-generative-ai-search/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 67
-    images:
-      - url: "https://assets.techrepublic.com/uploads/2024/02/tr_20240214-slack-generative-ai-search.jpg"
-        width: 1400
-        height: 900
-        isCached: true
   - title: "Can generative AI answer advisors’ call for personalization?"
     excerpt: "A new survey from Totumai, a technology firm dedicated to enhancing advisor-client communications, offers a fresh perspective on the shifting financial advisory landscape, particularly with ..."
     publishedDateTime: 2024-02-15T00:00:00Z
@@ -55,15 +41,29 @@ related:
         width: 900
         height: 630
         isCached: true
-  - title: "Alteryx and Databricks Fast-Track AI for Enterprises with Deepened Integration"
-    excerpt: "Alteryx, Inc., a leader in AI for enterprise analytics, today announced its expanded partnership and product integrations"
-    publishedDateTime: 2024-02-14T19:40:00Z
-    webUrl: "https://www.datanami.com/this-just-in/alteryx-and-databricks-fast-track-ai-for-enterprises-with-deepened-integration/"
+  - title: "Cloud optimization wanes as AI slowly lifts off"
+    excerpt: "Though cloud optimization is less of a factor, we think the macro will still drive consumption trends. Optimization remains a feature of cloud and cuts both ways – what goes up can still come down. That’s not a bug, it’s a benefit, but won’t always accrue to the cloud vendor. That’s OK – they’re doing just fine :-)"
+    publishedDateTime: 2024-02-17T18:19:00Z
+    webUrl: "https://siliconangle.com/2024/02/17/cloud-optimization-wanes-ai-slowly-lifts-off/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/Big-3-Clouds.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Smartling’s AI Translation Drives 40% Growth – a Leap Forward for Enterprise Localization"
+    excerpt: "Smartling grew its Translation business 40% as a result of AI Translation and is reshaping the industry by delivering human-quality translation for a fraction of the cost and up to 10 times faster."
+    publishedDateTime: 2024-02-15T01:07:00Z
+    webUrl: "https://slator.com/smartlings-ai-translation-drives-40-growth-a-leap-forward-for-enterprise-localization/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 10
 
 secured: "rcRYRcY0ayjcOMcQyCjoCf1qkaPfxJEDFstA76DjxzuXYI8d1mCbajXH6Qo3Iud94kFJLqJoegbOyTHJRGtFYAcR1L2a+ZsHuONPDQoTjLI5PREciwrbLXTTZRWIbhtZCmAZhOr6P1Uh6a4TTOxpnw8RsV0vw8+VcXHNaNoReB/kFQoCuJ6zJev3YvUsccqTKLfbSe6gmrd1PImYgao7mKmtZv5eHxcjhaHiDP11QFtt52YIV531D+AGbfH58uGznDv1+ETjgp17ztYSCweL0pkw4SLAEDVrLnYx5YjRm391dC6E64sab8dgfLUckuuwgW6bR5RyjUWoS284OJ0I577D+4zLl9Rnw2nVi0phhOMafDVZlEi5gAnN5FQTgRX/EfJYIannVaBdldXqStLIlziKBNhVrq0aYqik8yMW3Jb/q3Jc4VUkeF9z7Ps2Os2hijqTdzmhYcDzq4r+Af+zR9TboQVAjWCdpUrhR9nYqWtTZWumqujzZ5jix236HOIUZz/NMTCEdCGeAkvMQ3jF3g==;3rybHCH3cO+mrI2+WoTXSA=="
 ---

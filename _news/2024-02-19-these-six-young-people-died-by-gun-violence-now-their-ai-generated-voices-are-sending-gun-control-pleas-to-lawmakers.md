@@ -3,10 +3,10 @@ category: news
 title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
 excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
 publishedDateTime: 2024-02-19T12:30:00Z
-originalUrl: "https://edition.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
-webUrl: "https://edition.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+originalUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
 type: article
-quality: 46
+quality: 26
 heat: -1
 published: false
 
@@ -21,12 +21,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-images:
-  - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242699530.jpg?c=16x9&q=w_800,c_fill"
-    width: 800
-    height: 450
-    isCached: true
 
 related:
   - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
@@ -44,22 +38,6 @@ related:
       - url: "https://npr.brightspotcdn.com/dims4/default/5349bf3/2147483647/strip/true/crop/5220x2936+0+1142/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2024%2F02%2F14%2Fgettyimages-1924333642_sq-f80ce43845f0599889a4b8ea1560c25af683d71b.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "Families of school shooting victims use artificial intelligence to send gun law messages to Congress"
-    excerpt: "BROWARD COUNTY, Fla. — Families of shooting victims across the U.S. are coming together to send a message to Congress about gun control and they're doing it using artificial intelligence. \"Hi. This is Uzi Garcia. I'm a fourth grader at Robb Elementary ..."
-    publishedDateTime: 2024-02-14T14:25:00Z
-    webUrl: "https://www.khou.com/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    ampWebUrl: "https://www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/national/ai-school-shooting-victim-voice-messages/285-3a27cd2d-36aa-4090-8468-6fcc0417a196"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 42
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0/ba1e0f53-3d64-4e0b-86d6-f38b9f30bcd0_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Parents of gun violence victims use AI to bring kids’ voices to Capitol Hill"
     excerpt: "At first, the parents were hesitant. Kristin and Mike Song hadn’t heard their 15-year-old son’s voice since Jan. 31, 2018, when he went to a friend’s house and accidentally killed himself with an unsecured gun."
@@ -86,16 +64,7 @@ related:
       name: FOX 32
       domain: fox32chicago.com
     quality: 29
-  - title: "Gun violence killed them. Now, their voices will lobby Congress to do more using AI"
-    excerpt: "On the 6th anniversary of the mass shooting in Parkland, Fla., gun control advocates experiment with AI-generated audio messages of recreated voices of victims of gun violence pleading for change."
-    publishedDateTime: 2024-02-14T14:00:00Z
-    webUrl: "https://www.wfae.org/united-states-world/2024-02-14/gun-violence-killed-them-now-their-voices-will-lobby-congress-to-do-more-using-ai"
-    type: article
-    provider:
-      name: WFAE
-      domain: wfae.org
-    quality: 13
 
-secured: "dPnJPv2HMZszlioo3N6GG4rZPeM4PFoGwKPVK6DVo+YQJ4hld6Hp4GXUMsfRyDOgplN5C8i2J92w19KAc4hRjznT0ogiQMQ3Cayon6ztuF9DVk6GijzSq8PpdFtW8z+LrEalmoywqqWiRMWNl/CCiDADbHZtcLskvUSVTAEm6T0CYHbbxA/ahMDBp4CWlVR4CLQzfhh+BFQJBsRQFzC6CVoA8M/kN5uzSjG9NY9JQZbEF7mpeiG87peEYa7MhqO4gryAMqpE9jY9cTor6SEetHtNtGb/QePaLLQ7WU+GTcC92lky6ti3LMSQpXWQT66icpog/b1LJ9e1OHuMmZg7R9vxZbsNdSlKmUkdSbvKeZQ=;jYsuVKmYWbwy4j3kpcZv+g=="
+secured: "wOFKZGH/vdW1/Dikg0VYAoIgFLGfCSJJsueeQ5NM0S4gm6QzG+M4dkwyOPQPpHJfCmSNEl/KNaFT/sFVRqeuLIs2bDeZ7tcrVThRQ81GDrbkJvgZmtDS2opmf3HsddvJWQyHAgnY4xCqm9EYxkDMUls4m8c8+xtD21pzuafLzTHIHlOUVq7tKtMzotqEBB6oyTw8y6KafauEcQX31hqQ/5b9JDet4ztLL9ZLE5mzeTJ4CdzTZfmkfzFfrzQOxU/gPT9iueN0ahXH4lr3jGiLILuOagfc1a15NpOiG7OECDHFDJC792zkuXvfVT4wi6RfhBPktIuOZH2rfLWUViWeAj7KyDz+JaWGIJXHNbtCqLh3XlQOmRnlvnyYde4/t9ccHMSHYTtbO2GBxDuNNEWpQSzHIOuz3SxpNe6EI4zHx4WA8uezN84zfALyhyosynnCYQypUl3y/ombxEmKqELNYsW7sN9zyzVOb6uTpjmZjCsXdPyXAMJVefHfMlyyw3LWclMSxcAEf2i7gYwD7/88Kg==;SfXEzA/JRFM0bNiwhn5Rlg=="
 ---
 
