@@ -105,20 +105,6 @@ related:
         width: 629
         height: 419
         isCached: true
-  - title: "Facial recognition service says it is for suspicious lovers, not stalking"
-    excerpt: "The service can help you track down Tinder, Hinge or Bumble profiles using facial recognition. There is scant assurance, however, that it will not be abused."
-    publishedDateTime: 2024-02-14T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202402/facial-recognition-service-says-it-is-for-suspicious-lovers-not-stalking"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14164647/suspicious-not-stalking-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "isdTWW2kHIJZsar4Fh48ULtUciXkUrrUGR4ENUzfpMXMnIqPEF5eTyz5UaqRBlhoqYk55sHazZd8XAKIs5J5yNb2jC5U1absKeG4mGqfKpbhKI6BTr/DRAUf3gfQwNPvPY/kYpPxMzOWZQBe1oOpFTfu0q4M7HZWNkzd0OFgWnYg2H8ldw0ndQeEdguHUS3tqWiadeV71VvtNRDD6LQIuqJv6g6RFYCTLSvAg/WWvpRYA16EoVjIujEs4gHf2jc9GXI2p0oiUMzEkBKQPbwtexNcGDkfAylgPTwgn2FbtXUJzLHSlIozH3kVfhxZuQ6XCvveikoUgSQ+/xkn/X2xG8Qts4MzaYAzUGbUFz+Y9ClFs6u+zKVFfuJoiUwWNFUMVy5KPgY8+cHVvFxIXolWzpjKEmjSOtW34hEWYfHckVWy/Woq810e++Rie6YQdK2kPRTvdcmZuAlbvwXLYMSbX9OyqfGvce2gNjNqWF9s5QG4BdH03/tznw1qU0XKrwmCfxloDUilDu5T7YzRneqo1w==;iwg5aUpwxNA+Lz9NZC2Vtg=="
 ---

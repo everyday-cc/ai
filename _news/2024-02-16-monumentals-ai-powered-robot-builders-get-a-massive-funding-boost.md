@@ -53,6 +53,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Monumental raises funding to scale its robotics technology"
+    excerpt: "Robotics startup firm Monumental has raised $25 million in funding, led by Plural and Hummingbird Ventures, with participation from Northzone, Foundamental, NP-Hard Ventures, as well as high-profile angel investors."
+    publishedDateTime: 2024-02-19T20:51:00Z
+    webUrl: "https://www.imveurope.com/article/monumental-raises-funding-scale-its-robotics-technology"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 49
 
 secured: "WeXd+kXyk/CYqCYRFdvCNvk7sZZ4B/LlR/WpG7/byFzvTS2SlXmZXU97qpLI9/R0AUcL9iDkTczW1JO82ixXXfJn7+CmykIFYyty09In4vAz7m3FSqNTtMYXJvEE2KA0Eu+JsDpzN028G8B15T8wcNZgP6wcqN+E46Oof7u5JMcRCcCNJOPfEztJeky0jlpekoIIxX2sQDsTSXFg4CSGinvIMJqImm+0o9WAoW3YR0/iKKH9z5MFhw3ANCc20rTLjqOqRk37MWjmzwRZdoyDeXrxOmx1cIkMu1pc4+GfVFH320f9EZjxeQSyThfRia0H00hpLj86KZKGjhLqCEwJ0qa5zhxpCHJXAcHO+N6N49ZgMNJeFbLiCg0shlcYQAJtpBLDGn2xp4LMWTWQ9mj1P6Hmjlrtl2rkaXdJvvkboBsIE2IaZbrXPoArvLYeFAC+IBZP8jf8rxTDo9kD0e/sTOfAOIs3gMNdka+3GgqMG/0gBRZycXhEwGZ8tWAwu/ifUAt2COjyItqi4BmutNxshw==;reNKZB3HK9X3bXmG3VmU0Q=="
 ---

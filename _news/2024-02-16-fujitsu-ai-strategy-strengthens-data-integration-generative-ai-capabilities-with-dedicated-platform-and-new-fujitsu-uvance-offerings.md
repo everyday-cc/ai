@@ -81,20 +81,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
-    excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
-    publishedDateTime: 2024-02-14T21:01:00Z
-    webUrl: "https://www.datanami.com/this-just-in/fujitsu-ai-strategy-strengthens-data-integration-genai-capabilities-with-dedicated-platform-and-new-fujitsu-uvance-offerings/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 12
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
 
 secured: "5NhTG5RtgXHJpqhs4L/hXfG/UCk3l5VT0fmQATzfvpgcE8bjRnnGR9O5R/QySbz6IjhyzGjdNDiZyqFcsgrXfrmKo9DtbZFo3U8uDEi29hhM+w8H9Rjjnmk43xGvPRDy8uoL3lUsneWRB4Ci9GGTSV+9oGiMSkWNY66Nh8BHJAI3ANb5JHTd47YTmuUBwQaQiH9QstQdO26Vx42IuudlqdGqmm9OmkETKEOC7xZjn39Vl29WEU1/LIvT9ocJO7Lain6oRA4Y2jyu7VV8KKbFNeL5RgVEVc/zgUGb5aAeXaeU851lWj58yeEpZHmoRL5kIOdsVy1czpDyEgE86AnvKsXN5wYu4Y0KQQGC1PE4sAw=;PsYMalmgrncRWXX4qwuJ6A=="
 ---

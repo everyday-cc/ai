@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
+      "title": "Laboratory Automation Leverages Artificial Intelligence",
+      "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
+      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GEN",
+        "domain": "genengnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-united-imaging-intelligence-highlights-dedications-to-advancing-intelligent-healthcare-at-rsna-conference-2023.md",
       "title": "United Imaging Intelligence Highlights Dedications to Advancing Intelligent Healthcare at RSNA Conference 2023",
       "excerpt": "The Radiological Society of North America (RSNA) has concluded its annual meeting in Chicago, IL, serving as a platform for revolutionary advancements in the field of radiology. United Imaging Intelligence (UII),",
@@ -1272,40 +1307,6 @@
       "provider": {
         "name": "medtechintelligence",
         "domain": "medtechintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-in-2024.md",
-      "title": "AI trends: What experts, execs think artificial intelligence will look like in 2024",
-      "excerpt": "Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
-      "originalUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-20T17:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

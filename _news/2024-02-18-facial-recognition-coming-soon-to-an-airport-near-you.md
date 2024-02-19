@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airpo
 webUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://focus.independent.ie/thumbor/bgo0eKlMkxl1FxX9fb9gD6sk-o0=/0x66:3046x2096/629x0/prod-mh-ireland/655ecaf1-278a-40b3-95f2-709c1749ebf4/5ac5d98f-23fa-45ae-aac3-dc097167e31d/tyImages_1189384731.jpg"
         width: 629
         height: 419
-        isCached: true
-  - title: "Facial recognition service says it is for suspicious lovers, not stalking"
-    excerpt: "The service can help you track down Tinder, Hinge or Bumble profiles using facial recognition. There is scant assurance, however, that it will not be abused."
-    publishedDateTime: 2024-02-14T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202402/facial-recognition-service-says-it-is-for-suspicious-lovers-not-stalking"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14164647/suspicious-not-stalking-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
     excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."

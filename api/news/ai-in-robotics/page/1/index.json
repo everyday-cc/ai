@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
-      "title": "How real estate listings and potentially jobs are shifting to AI",
-      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "originalUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
-          "width": 1024,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "publishedDateTime": "2024-02-19T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-roboguide-robot-dog-uses-ai-to-assist-the-visually-impaired.md",
       "title": "RoboGuide robot dog uses AI to assist the visually impaired",
       "excerpt": "Technologies such as RoboGuide could enable people with visual impairments to more fully navigate and interact with the world.",
@@ -182,7 +139,7 @@
       "originalUrl": "https://www.therobotreport.com/monumental-raises-25m-for-bricklaying-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -225,7 +182,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1295,6 +1252,49 @@
         "name": "Supply Chain",
         "domain": "supplychainbrain.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
+      "title": "Best Robot Mops of 2024",
+      "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
+      "originalUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

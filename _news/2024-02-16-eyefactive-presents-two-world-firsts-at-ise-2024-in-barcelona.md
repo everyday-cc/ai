@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107856091/Eyefactive-Presents-Two-World-Firsts
 webUrl: "https://menafn.com/1107856091/Eyefactive-Presents-Two-World-Firsts-At-ISE-2024-In-Barcelona"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 428
     height: 250
     isCached: true
+
+related:
+  - title: "IFS and Microsoft to showcase innovative AI solutions for telecom operators at Mobile World Congress Barcelona 2024"
+    excerpt: "IFS and Microsoft will highlight the unique value that their IFS.ai solutions on Azure deliver to help support operators’ network transformations, monetization of 5G services, and leveraging of indust"
+    publishedDateTime: 2024-02-16T07:59:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 52
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/NWUxZDU0ZjgtZmUzZC00/0/markuspersson-telecommunicationsglobalindustrydirector-ifs-png.jpeg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
+    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"
+    publishedDateTime: 2024-02-15T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "CZmYcATE2m2kDWwIOp1X8M7Hsy38bT6HIcDLJC1idE3cOb8B0t5y3/whMehHxvoNz2NgtwfKuonrni8/lJuaDV6W2/lc/SQTQSodcifFqyTzP4v3SMVWVFjSxll5/AoBgkyNIe/C5SHGlc75KDFFeM/eLjBnjXy1WDE1SseHUDumU2XQj2Lg+b6XESFnDUJbggioeK05lvo0hlpPxd+DyVJDHlOB/iayx4cuaJV5cjTSoWA1oxkbB5XH5fZmCZWHBRxNjbF/33OZvWyAuKxA6bb6XWcPRveSIlxI5eE4nmLfRWjwh7rmB1lU38zCpKzujApyS7ygE1GF4PAnY0psuzohqZHCTPKLPkc3rb97eBc=;xIVBXchwAYWPvWdQDTcGUQ=="
 ---

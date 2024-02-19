@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-29-microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.md",
+      "title": "Microsoft CEO responds to AI-generated Taylor Swift fake nude images",
+      "excerpt": "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571",
+          "width": 4523,
+          "height": 3047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "publishedDateTime": "2024-01-29T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt.md",
+      "title": "Italy Regulator Notifies OpenAI of Privacy Breaches in ChatGPT",
+      "excerpt": "It added that OpenAI has 30 days to present defence arguments. The Italian data authority briefly banned ChatGPT last year over the alleged breach of EU privacy rules. Copyright 2024 Thomson Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-01-29/italy-regulator-notifies-openai-of-privacy-breaches-in-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T10:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard.md",
+      "title": "Elon Musk's xAI may look for $6 billion to take on ChatGPT, Google Bard",
+      "excerpt": "Elon Musk's xAI, aiming to compete with OpenAI's ChatGPT, is reportedly seeking $6 billion in funding to reach a $20 billion valuation. xAI has alread",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/articleshow/107223996.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107223996,width-1280,height-720,resizemode-4/107223996.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/elon-musks-xai-may-look-for-6-billion-to-take-on-chatgpt-google-bard/amp_articleshow/107223996.cms",
+      "publishedDateTime": "2024-01-29T07:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-revealing-the-dark-side-the-top-6-problems-with-chatgpt-and-generative-ai-in-2024.md",
       "title": "Revealing The Dark Side: The Top 6 Problems With ChatGPT And Generative AI In 2024",
       "excerpt": "Despite its spectacular potential, generative AI isn’t without its shortcomings. In fact, you could argue that its arrival has rather made a mess of things for now.",
@@ -1309,145 +1448,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management.md",
-      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management",
-      "excerpt": "We’re honored to announce that Microsoft has been named a Leader in the 2023 Gartner® Magic Quadrant™ for Container Management*. We believe that this recognition validates our end-to-end approach for developing and deploying enterprise-grade, cloud-native apps that run on Azure, in datacenters, or at",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-container-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/01/MSFT_Azure_JAN15_Blog_240115_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-8-best-ai-data-analytics-software-tools-of-2024.md",
-      "title": "8 Best AI Data Analytics Software & Tools of 2024",
-      "excerpt": "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

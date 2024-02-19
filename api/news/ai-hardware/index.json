@@ -530,58 +530,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-15-does-your-next-laptop-really-need-to-be-an-ai-pc.md",
-      "title": "Does your next laptop really need to be an AI PC?",
-      "excerpt": "AI PCs aren’t what they sound like — not at the start of 2024, anyway. We dig into what you need to know about the hottest computing trend of 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2236372/does-your-next-laptop-really-need-to-be-an-ai-pc.html",
-      "originalUrl": "https://www.pcworld.com/article/2236372/does-your-next-laptop-really-need-to-be-an-ai-pc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2024/02/0-ai-pc.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-15-the-iphone-16s-chip-could-get-a-big-ai-upgrade-for-generative-ai-features.md",
       "title": "The iPhone 16's chip could get a big AI upgrade for generative AI features",
       "excerpt": "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower.",
@@ -590,7 +538,7 @@
       "originalUrl": "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1464,6 +1412,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
+      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
+      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T01:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

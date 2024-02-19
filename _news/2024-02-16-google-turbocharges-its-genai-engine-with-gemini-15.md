@@ -177,15 +177,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Google warns users not to share personal information with Gemini"
-    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
-    publishedDateTime: 2024-02-14T20:19:00Z
-    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
 
 secured: "Xpxp9QOJ0kznRonwFTUcUw1ccFs+XzRSrl3KqagLJBbX8E/y2MX5EWIRFRwg4dn9ezr606gMCfBgDUnWBk4NKO0ecfGXJXHuEspwY0Ll1Hf3u53UI8ufG70inCnSwTIllpuZzxynG3jPmMwhpuuFUl/kuUe/V/9H0ZlPyhnzpB8SopaqGZcLeUIo4F5wHCQs0jC3hPAdbS6pfH0G0jSLVZEH8iUezDs5AdSyqdECSHupBeOj6WWct7KIqWJ7aYVm5jjOtHPDcaYMTkfIWJge0uzpUvuba5/1k/ZpJm29F/UOZKwmROBNOgCEDWFJI7FkCYQlCDec3SRjIIPdztulwj+fcl8VcltiiJYl83r+CcY45mhCBef1wDucpFPUvKGD1QAW9GACDMX1fNO3pjadVHON4WWGz6I9iXXPYEriHwP//VuE9/Cl6WE5kY/Af8Af25uv90aL/mt5bWTFdVDN76NUWOkMG+Nai2IKhDNuT3s4ZowjMLakWCvC4qOQc79vq6wd1lNPpLpGyL69po7DqQ==;86jLJD8wemo0QEdg+aAp5w=="
 ---

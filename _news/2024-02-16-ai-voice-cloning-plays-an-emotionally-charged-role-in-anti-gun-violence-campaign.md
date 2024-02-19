@@ -52,6 +52,15 @@ related:
       name: CNN
       domain: cnn.com
     quality: 26
+  - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
+    excerpt: "\"It does seem to kind of straddle the line between a good use of AI and something that's questionable,\" says Robert Wahl, an associate professor of computer science at Concordia University Wisconsin and an expert on the ethics of AI technology. Creating AI ..."
+    publishedDateTime: 2024-02-19T12:14:00Z
+    webUrl: "https://www.ksl.com/article/50882104/these-6-young-people-died-by-gun-violence-now-their-ai-generated-voices-are-sending-gun-control-pleas-to-lawmakers"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 8
 
 secured: "v6o2n3MIUZUB8aMoN3ig0zMOat+nm561R1Wn4x4ACjdgjJGdNTq8yeNZV5REz89UvCiS9RZ/KHJrn/Ay8vrGSkgmaX1afSXx7MZERgkkEkoejp8Qi+g6OuJUv4gAh+ejgVg5WaCIOShPVIoSDwvLLBN7t7HwJuimY/wX57/7zus6groQnVKnVfWjcNiBnsNxCc1ThSCm8uoCJguSAX4Gr8NLZsYkitelnNG2Stmh+4xGppzb+BU3TeZj54adHI7myX8gS4siVQxcTVO+mkONV6rrqW/NYnXqyYgOby53bStx+F9AmpDDRu7zleQmDcDVjtuQhS5YMcDfUAGVeUCpVlUYUJVhQ1irpygz2a6306RgOvaMbOp7vFnxUmrZb9gGYqXPBjatzQO4bGTzc1CAB/VRrEMTF+xZNAtUe/TVPo0glm3clecTrBLTTIGUCctEyhJl87q0PlZ3m2SrjJqXaXLO8p1dSmswAdiMdRNFj88smkwLwRO0ilw3QPpn328gkKR8igY4X/U4eJUCx3C9uw==;d0SlRd2LI3wnKdodJylGRw=="
 ---

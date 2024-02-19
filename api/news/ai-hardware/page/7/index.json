@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-11-25-the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way.md",
-      "title": "The Future Of AI Is At The Edge: Cloudflare Leads The Way",
-      "excerpt": "Cloudflare is one of the first CDN and edge network providers to enhance its edge network with AI capabilities through GPU-powered Workers AI, vector database and an AI Gateway for AI deployment management. Partnering with tech giants like Meta and Microsoft, it is offering a wide model catalog and ONNX Runtime optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6561a49bf54b53c9e3639ee2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2023/11/25/the-future-of-ai-is-at-the-edge-cloudflare-leads-the-way/amp/",
-      "publishedDateTime": "2023-11-25T07:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2023-11-25-nvidia-delays-launch-of-ai-chip-for-china-amid-export-compliance-challenges-nvda-stock-1-down.md",
       "title": "Nvidia Delays Launch of AI Chip for China amid Export Compliance Challenges, NVDA Stock 1% Down",
       "excerpt": "Nvidia Corp (NASDAQ: NVDA), the California-based AI chip giant, has notified its Chinese customers of a delay in the launch of its new artificial intelligence chip, H20, designed to comply with the latest United States export regulations, Reuters reported Friday, citing two sources familiar with the matter.",

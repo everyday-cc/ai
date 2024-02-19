@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
+    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
+    publishedDateTime: 2024-02-19T22:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation"
     excerpt: "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries"
     publishedDateTime: 2024-02-15T11:02:00Z
@@ -35,19 +44,33 @@ related:
         width: 900
         height: 601
         isCached: true
-  - title: "UiPath announces new developer features at DevCon 2024 to bring latest in AI-powered productivity to developer community"
-    excerpt: "UiPath, a leading enterprise automation software company, today announced at the UiPath DevCon 2024 event a host of new features in its platform designed to enable developers to build, test, and accelerate implementation of automations."
-    publishedDateTime: 2024-02-18T22:13:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/uipath-announces-new-developer-features-at-devcon-2024-to-bring-latest-in-ai-powered-productivity-to-developer-community.html"
+  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
+    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
+    publishedDateTime: 2024-02-16T12:20:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 14
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
     images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
         width: 600
-        height: 260
+        height: 316
         isCached: true
 
 secured: "Uo2SyDy4awB5srMWkRt+1QjuJI4XKj7ohrPDRoVXBb0P8vOJ6ExYrG/1aVjEAbNdT3LrPMIbpEZsIvc877JagX8zGOePPLXHf1qHkfZNDuk/2c3mNhaAv/w8iiCcEX5PKXOS7nLN8CUTp3P+ghBeBQ4C/L0CUuQoEdCHe9On5iEXczGGs6qij89/eKOcUv9w3IauBwZye7AaUNw+U4mET0Mp5l89PZ50Uz4kgiXhDo7t70gICgilbYICO1wvqK0EI5RsW6+6LEo+GSSANPfVeaYRxYFAPho5SQYg9NeEl3uDpd+9d9ip26F84crWwiGZXBZHgqouhvb7QzRYOWAGXjZPph9BxqZZEmwkTj4KVLgM0pqeeqbvGTvYHuKWLtPiv/is98S1rb7X5QW4xobzKYVF8oFvgvSUieg9mc5t5bbT15Us6o0QAYTCKI5XIshdRFirlgjbVebpWzjfRNwA0uwcxew1p00wKG4hxlHLe3XgE79IB/UeL0KHXGjZ/1kRx3e5csPxRG2XMIBF4plxgw==;I0YcgHCfZs8QhIHS8WFcmA=="

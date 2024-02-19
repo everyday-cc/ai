@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-15-uspto-warns-against-blind-reliance-on-artificial-intelligence.md",
+      "title": "USPTO Warns Against Blind Reliance on Artificial Intelligence",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "originalUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/AI%20as%20business%20person%20lawyer.jpg?h=c4779ecb&itok=-TWDsoa7",
+          "width": 602,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/uspto-warns-against-blind-reliance-artificial-intelligence?amp",
+      "publishedDateTime": "2024-02-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-15-uts-australian-artificial-intelligence-institute-aaii-and-vadr-media-collaborate-to-combat-cheating-in-online-chess.md",
       "title": "UTS Australian Artificial Intelligence Institute (AAII) and VADR Media Collaborate to Combat Cheating in Online Chess",
       "excerpt": "The University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and VADR Media are excited to announce a new research and development partnership aimed at combating cheating in online chess. This collaboration follows VADR ...",
@@ -961,6 +1003,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
+      "title": "Neural prosthetic device can help humans restore memory",
+      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-the-future-of-renewable-energy.md",
       "title": "The future of renewable energy",
       "excerpt": "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n",
@@ -1093,110 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
-      "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
-      "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbc583a7ebceedfab53229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/amp/",
-      "publishedDateTime": "2024-02-14T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-a-new-era-of-drug-discovery-with-biology-driven-ai.md",
-      "title": "A New Era Of Drug Discovery With Biology-Driven AI",
-      "excerpt": "The AI and computing revolution is ushering in a new era of drug development that is poised to be better, faster and cheaper.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cb78ca62e34c5e08f238c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
-      "publishedDateTime": "2024-02-14T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

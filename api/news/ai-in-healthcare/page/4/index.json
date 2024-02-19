@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-21-ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-in-2024.md",
+      "title": "AI trends: What experts, execs think artificial intelligence will look like in 2024",
+      "excerpt": "Though artificial intelligence has been around for decades, the introduction of ChatGPT — a consumer-facing AI chatbot — in late 2022 brought the technology to the forefront throughout 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "originalUrl": "https://www.thestreet.com/technology/ai-trends-what-experts-execs-think-artificial-intelligence-will-look-like-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T17:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-artificial-intelligence-experts-share-6-of-the-biggest-ai-innovations-of-2023-a-landmark-year.md",
       "title": "Artificial intelligence experts share 6 of the biggest AI innovations of 2023: 'A landmark year'",
       "excerpt": "If you received medical care any time this year, there’s a good chance you had a close encounter with artificial intelligence. Widely regarded as the breakout year for AI, 2023 ushered in a ...",
@@ -1346,58 +1380,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-4-ai-therapy-options-reviewed-do-they-work.md",
-      "title": "4 AI Therapy Options Reviewed: Do They Work?",
-      "excerpt": "An increasingly hot topic, artificial intelligence, or AI, is being added to various processes across industries, from creative ventures to manufacturing. Health care is no exception, as AI therapy apps enter the space. Below, we cover what AI therapy is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/health/mind/ai-therapy/",
-      "originalUrl": "https://www.forbes.com/health/mind/ai-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/health/wp-content/uploads/2023/12/AI-therapy.jpeg",
-          "width": 958,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T11:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

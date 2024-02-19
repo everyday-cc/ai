@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32b
 webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,56 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
+    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
+    publishedDateTime: 2024-02-19T22:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
+  - title: "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation"
+    excerpt: "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries"
+    publishedDateTime: 2024-02-15T11:02:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp"
+    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 53
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZmVlMGNkODgtNGUzYi00/0/1-jpg.jpeg?f=3%3A2"
+        width: 900
+        height: 601
+        isCached: true
+  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
+    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
+    publishedDateTime: 2024-02-15T09:52:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
+    type: article
+    provider:
+      name: UPI
+      domain: upi.com
+    quality: 33
+  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
+    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
+    publishedDateTime: 2024-02-15T17:00:00Z
+    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 32
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "8M3EU82Nfxkmu87JwWeyaIwiMKBY1+dR8YHlBHAvrIFH/VVNCzL3bnPtSzwHz2bF5bOVZAFAOmAk6Ay5px1v31bU+MHCQQjuMIPvPsgmDvNExv3iPSDvrx/J0+IoCnyswj46xYDxLndtBVhpSlI4RNAV/8NnsB2XmcOeBDvYnn2V9gjNpt2eWpajsWKpzHLogwkZfpbojP2AM29x/0YlHv4tVCLGNrNPMYgujdmhMnl2Zcp1y/GMkS7eTR/v1BpoYsfdgF3TrARZlvsYN34PXdvKhGlGIAcBKZttmfYJnO0NJ1/nFXrE5VE6psY8FPrScC1BovbBCqNMdLao/oSW/I7sQuALCfoTPrk8ao6benU=;la7hIb7udnmxKLU41i94LA=="
 ---

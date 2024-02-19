@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-mode
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
 type: article
 quality: 94
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -182,15 +182,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
-  - title: "Google warns users not to share personal information with Gemini"
-    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
-    publishedDateTime: 2024-02-14T20:19:00Z
-    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
 
 secured: "FPv3XdWSWtqbYCHXELFgA8FzfiWcUOPvSb2gCB9Ug6tDnLDEpMe/JVk1VLv25csIdW7S27AqDYmK9vAxyJwKVde5FfRwMYGUuDUypBg+Q23N3PR3cjzHIyjUftoqrTGt1iQxEPfQK4AA2CTZPfQaiHaw9S0/M61IMPPUqqS/vZZVtFkoFLHBQmjUADzPtUMrKVZGG0rtml0R2m0vgfjhDZNMPf/8eIrtCuPURVSbU6GIPO9QvYySq7e5ijM6AoTBSlQ8kgaqlp+fHkqb9E8e4hK8YlLQHrVEB0dGkKRJ9758JmPCKaWC7YUujdtPXU7opO8VMv93KVIDOwyCP8I4nUEhhbWZDAWjDcYmQ8T20xc=;5zeyJ8nE1jq8Cm6spcAokQ=="
 ---

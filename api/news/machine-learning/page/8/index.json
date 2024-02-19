@@ -2,6 +2,103 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-23-fluency-and-amazon-to-work-on-ai-and-machine-learning.md",
+      "title": "Fluency and Amazon to work on AI and machine learning",
+      "excerpt": "Fluency, the data and technology division of M&C Saatchi Group, has partnered with Amazon Web Services on scaling artificial intelligence, machine learning and generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "originalUrl": "https://www.research-live.com/article/news/fluency-and-amazon-to-work-on-ai-and-machine-learning/id/5119763",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5119763&name=fluency-and-amazon-to-work-on-ai-and-machine-learning",
+      "publishedDateTime": "2023-11-23T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023.md",
+      "title": "Your guide to generative AI and ML at AWS re:Invent 2023",
+      "excerpt": "Yes, the AWS re:Invent season is upon us and as always, the place to be is Las Vegas! You marked your calendars, you booked your hotel, and you even purchased the airfare. Now all you need is some guidance on generative AI and machine learning (ML) sessions to attend at this twelfth edition of re:Invent.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-generative-ai-and-ml-at-aws-reinvent-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/22/featured-images-ML-16024-1120x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T22:47:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-how-ai-robotics-and-machine-learning-can-improve-food-traceability.md",
       "title": "How AI, Robotics and Machine Learning Can Improve Food Traceability",
       "excerpt": "Advanced artificial intelligence (AI), robotics and machine learning technologies can help manufacturers improve food traceability, ensure the safety of their products and build trust with customers.",

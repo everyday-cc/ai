@@ -43,22 +43,6 @@ related:
         width: 1430
         height: 782
         isCached: true
-  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
-    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
-    publishedDateTime: 2024-02-14T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
-        width: 1080
-        height: 810
-        isCached: true
   - title: "Carbon acquires Nigerian fintech"
     excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
     publishedDateTime: 2024-02-15T02:37:00Z

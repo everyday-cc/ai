@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/why-the-debate-about-artificial-general-intelligence-misses-the-point/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -244,6 +244,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
+      "title": "Neural prosthetic device can help humans restore memory",
+      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -678,6 +721,41 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
+      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
+      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1229,92 +1307,6 @@
       "provider": {
         "name": "Mena FN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila.md",
-      "title": "Bell to Deploy Deep Learning AI on Systems and Data in 18-Month Partnership With Mila",
-      "excerpt": "Mila and Bell are pleased to announce an 18-month collaborative project to apply deep learning neural network algorithms to Bell's systems and data",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/15ff7f43bd0cc2d1cd56f576e4b3d532.jpg?t=20240205_014804",
-          "width": 753,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T01:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-use-ai-to-investigate-structure-and-long-term-behavior-of-galaxies.md",
-      "title": "Scientists use AI to investigate structure and long-term behavior of galaxies",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "originalUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-use-artific.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

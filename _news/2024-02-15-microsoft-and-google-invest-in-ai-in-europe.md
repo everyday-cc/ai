@@ -217,15 +217,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
-    excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
-    publishedDateTime: 2024-02-14T22:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23899803/micron-could-be-a-big-winner-as-intel-and-microsoft-push-the-ai-pc/"
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
+      name: Midland Daily News
+      domain: ourmidland.com
+    quality: 34
 
 secured: "65mbA3zlsOE1SrCp9uZMwDI3TUrB3EQtWmnl1jEu0A+T7mTgJC1HXF4UrQbqmlWH0MrDxzxtZh8+mzESl+CQdeglrxNDH9oOST4tIHwA50FbyRAUuQ9hawU4ItBeF1klnZN+kjvrZPoLqVD9OHl7TirIBLNJj1DV6Nsl4SuDYYtvVMLWcy+5BfIjy1wspa7rvkyq0wOJhXE3tQB7X+RwoRl0wATVRXxGrjPljgJbM9wwCmYoxPmsr4Brc0bxKsLNb3JiUrl4h4/B6W3WUDjQ9dLT9InHns+n7gR0rj3SXKkSsy9X3yU7jJJSpmwHDyaJ6R8sq6eB//kQTft0bNhfixRoM4l8nwGiJxLLB8U1+/U=;KbgrnApxU5cRjhwkjxnX4A=="
 ---

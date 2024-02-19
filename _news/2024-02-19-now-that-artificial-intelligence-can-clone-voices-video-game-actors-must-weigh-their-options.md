@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/artificial-intelligence-clone-voices-v
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Some video game actors are letting AI clone their voices, with positive results"
+    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
+    publishedDateTime: 2024-02-19T15:27:00Z
+    webUrl: "https://www.pennlive.com/entertainment/2024/02/some-video-game-actors-are-letting-ai-clone-their-voices-with-positive-results.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 15
 
 secured: "99vcL5g/OfANJQwRkKHENRTy+KLaG+bq4yKutBod/w6tMEC2xsglbvRLg7wSs8gSYwMz4FeBzVB01F92e/b/gNJKuYchTCQkrMs5mtWkSvGerhl1AchnOBqOV1MciZblG+sFSDlsZqi4bYSR43sYKVclHq8JJ2XdrxKbLzCLk44gm/p9OZPjVZ+0CP+wAiX3xooUqDO0FG37twO81G6XHfXBvLxcTVIC12rBUA89jgwv1BGe3/57rOMe0VX5vZy+fqgWAA11jJs+5SjrnN+CJoW08yrFKYKGVEgp/hN8nYP++fryrzrUEvfiP8shDwBe0lkNmgj6Xt9qIUSzP8nT1hb0R1abFsKNK6Juzi8S7Ow=;ixzsPGQDaH9OpubZCAlefQ=="
 ---

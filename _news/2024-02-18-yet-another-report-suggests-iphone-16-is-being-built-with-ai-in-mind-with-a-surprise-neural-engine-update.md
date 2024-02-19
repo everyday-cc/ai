@@ -153,15 +153,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "iPhone 16 Rumored to Feature 'Significantly' Upgraded Neural Engine for iOS 18's Generative AI Features"
-    excerpt: "Apple's next-generation A18 and M4 chips for future iPhone and Mac models will feature an upgraded Neural Engine with"
-    publishedDateTime: 2024-02-14T19:22:00Z
-    webUrl: "https://www.macrumors.com/2024/02/14/iphone-16-upgraded-neural-engine-rumor/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 3
 
 secured: "VEZVd2RPZd72hQa/xIs2hFwqP858YsVoE5dviWPJOP0QPNrU/DiLPlig5OZReNZPBr/Pi7g1a/kHrq6L85juq+5rAIPwXGHnhDVgH72tpS/8X1Sw1yeqAByIZ+4awnw8CiwjK4HF5Ibln052n+F3e2V2AQQdxC+7Fw2/gyt2fzd7p4tJlNhEYEDdeKYsGvCZTltCrbQ7VoCAaO1JJt/fC6xK0fOx3btqFieHKo13FGVFq1Mf83BGLnR5JPXzHnDKvxc0y4vRIrpGZHJSG45AfhReIeUE64tkVK0ilt3ARyOaFrNsZ041kTW26zgJKe9MAGaKBPELqpbFVGB4/2eZgUn/v+e8DOhWam/jVa5URYw=;ugMwRLUXjGRv1idC5mRBJg=="
 ---

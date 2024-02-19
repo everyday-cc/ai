@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Push for Recognition of Palestinian Arab State Widens as UN Court Looks Set To Rule Against Israel"
+    excerpt: "As America and others contemplate unilateral recognition of a Palestinian Arab state ... a representative of which is scheduled to make a speech on Tuesday, likely in opposition to a negative court decision. We are “deeply disappointed in the Palestinian ..."
+    publishedDateTime: 2024-02-19T16:02:00Z
+    webUrl: "https://www.nysun.com/article/push-for-recognition-of-palestinian-arab-state-widens-as-un-court-looks-set-to-rule-against-israel"
+    type: article
+    provider:
+      name: New York Sun
+      domain: nysun.com
+    quality: 25
+    images:
+      - url: "https://wp.nysun.com/wp-content/uploads/2023/12/south-africa-israel.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Netanyahu: Recognition of Palestinian State Would Reward Terrorism"
     excerpt: "Israel asked the World Court to reject South Africa's request, which was filed Tuesday. In that filing, South Africa said there had been a \"significant development\" since the court's January ruling, meaning Israeli Prime Minister Benjamin Netanyahu's announced offensive on Rafah."
     publishedDateTime: 2024-02-16T11:28:00Z

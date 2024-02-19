@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnam
 webUrl: "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,29 @@ images:
     isCached: true
 
 related:
+  - title: "Your Reddit posts may train AI models following new $60 million agreement"
+    excerpt: "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month."
+    publishedDateTime: 2024-02-19T21:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Reddit signs lucrative AI content licensing deal in anticipation of IPO"
+    excerpt: "Sources familiar with the matter told Bloomberg that Reddit has been sharing the news with prospective investors ahead of its IPO. The deal is said to"
+    publishedDateTime: 2024-02-19T19:51:00Z
+    webUrl: "https://www.techspot.com/news/101940-reddit-signs-lucrative-ai-content-licensing-deal-anticipation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Reddit Inks Deal To Rake In Millions Selling Your Data To Train AI"
     excerpt: "This is evidently what Reddit is doing now with its user-generated content data, as it has reportedly penned a $60 million deal with an AI startup. Earlier this week, reports surfaced which explained that Reddit purportedly signed an agreement with an ..."
     publishedDateTime: 2024-02-19T17:05:00Z

@@ -39,15 +39,6 @@ related:
         width: 1600
         height: 559
         isCached: true
-  - title: "Tesla Full Self-Driving Beta saved me once and tried to kill me twice"
-    excerpt: "Instead, Tesla delivered Full Self-Driving (FSD) Beta. The feature enables the vehicle to control itself through intersections, city streets, and highways. The vehicle virtually drives itself. However, Tesla doesn’t take responsibility for it. The driver is always responsible and has to be ready to take control at all times."
-    publishedDateTime: 2024-02-14T19:18:00Z
-    webUrl: "https://electrek.co/2024/02/14/tesla-full-self-driving-beta-saved-me-once-tried-to-kill-me-twice/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 49
 
 secured: "OsAKqm6reuYQTF+K08vaaIDl8LH1Y2typTXAv0hTRjVyN6+zqUP05RV/fyUPLlNxUyvIyEow8Qfw5HIBE9sTKyUq/dRkHUGKOEZkDaMRybU/BgTF8muJ7zoX2eHrhaZ583YH+JT8ock05VXIRX64EeYPeI5dDAtScCyGXWMysVDn56hvyATFJyZfDHF7lquzUBmA1MetVyqg76+OU2ozr5fx71XBrJOB3klNH6FKyqN/f5586/+dqS702oAtOxoWelB5uxzCunbLhGY9D33tJvfybZD8P8u3aXQgWeWy2If7mLmWchBtbII7WilVtMMuiIf1woX37JngSM3Zl3Ow3PK4iPfhH4LuYHpOLh2qyT0JZ/1XUGdmIM4bjIe1n4xZw6la5SHS5gTtsWLBY6FxNV7/Ouk2WmgX9QbTdZn/hbtQ2uOBR56JLJZ3BTBwsd3/QPtORgGCRyyW8lBW0g3XLanEZG+aX9m5+yDkMIWDpKlhl/tVdCL5EasjoLcUEnZPugKwk6dyn1GzjdunEvqyeA==;yLXaY15cgKZbIUaNQB4pGw=="
 ---

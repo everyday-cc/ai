@@ -3,16 +3,16 @@ category: news
 title: "Could AI sway the 2024 election? Here's what's being done nationally to stop deepfakes."
 excerpt: "Craig Holman, a Capitol Hill lobbyist who works in governmental ethics for the nonprofit Public Citizen, believes 2024 will become the first deepfake election cycle, where AI will influence voters and impact election results. “Artificial intelligence has ..."
 publishedDateTime: 2024-02-19T10:06:00Z
-originalUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
-webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
+originalUrl: "https://www.statesman.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
+webUrl: "https://www.statesman.com/story/news/politics/elections/2024/02/19/ai-deepfakes-2024-election/72486000007/"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Palm Beach Post
-  domain: palmbeachpost.com
+  name: Austin American-Statesman
+  domain: statesman.com
 
 topics:
   - AI Ethics
@@ -88,6 +88,6 @@ related:
       domain: inc.com
     quality: 2
 
-secured: "BWHdq3RAi70uD10+Jx7oTGFTyUFsw+xAMXArnFMyC6Q2kdaLYnHjx8rNyVz8Uwh/DW8fDsWWtsXRzXkKgxW8sx30vYk0TWAo3ooIocl5X9lg6aHgvBw1+ZVXm6Hrmmx71FKPxZQnnLhgwotYH3DqqMR4rNdkus70w1JoByg3Y2k6ruvSd7PpTBwOCSM1ZgD/K423Mvlc9W+H4gIERfjyhfMzS38nR0sG/px4nJ0a+A4B2d3FV1zg2SKH5sYI1AuRW+sKvGy0w5luCkslVPtZ9kCqJ5i8jD0RvibYtWmFV0dq5B1TlgWQtUkO4xAmISOqiC0rXLRcuSceGJTwiUOzytqlnab16ss93sivmViRxRpQwofPjXQj4QgZC69cRJrlPeP34ATdebaLEAO6/nn17a/ahGc5CsuPJ8bnSEVvviwhSSuWanXfh/ulvOr0rQ8CWn6PThdDTcr9QUpFF37UaY4WJ9aB6TL0CPEGsS91E7EkyJ1qomIRZocPvw12JtXn+UHlAmtJ2F3zM02YwLKFIA==;l64NLu1VG36gE7uukhx01A=="
+secured: "yIOJ7PUUQJLgwH9haPfqpQMOxSA/w9tHA0WbJBWKX09EGhguO2Ht6mcJbF4596lw6Dq+fe7M+StOip+gH4TpCdbR6+NuBvSXnM/dxTRyILwGWIaXcnP00KYtXUWIDtn63eMn5SQN+MWJHd2FsWLA0b8UHPi6z7B8YB4nh09wR/T/2Eya+wVEJ7gPLLdLQmZj4ZEzrF7qhr8kIGkd/8pjsDASTWcfHsHNVBksWEo5SEPFD3j8OBdPethhz7hwR5On7dOg1dzxcGWezBg+3FAnYQVh5n99deyKI52sqtMwl8vzYRYzdugpSGCx6rz+1Kffr1XngBj0GVSVXn5UoZ+cm9HFhf9NmRpjuU4ahoRabDymC8kEBhmy6L+V+HigiUZEZpwshvkDPKRlLl5pgdwZQfWONSyhS9lQK1BYiW3UYGrBcFfq9qmUgyH6XJ6Q00yCvgAu72fgbCxyC3Kc+SuNKA9itiG5aaVv7bTMPUdqgTmubbN1NlTFXMGK5iY/GXcH8mUXhmgh3BTa6v4MQSwuwA==;tfR6UXxGN7ijodVDZg8KoA=="
 ---
 

@@ -2,6 +2,212 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-07-3-health-systems-share-their-apple-vision-pro-plans.md",
+      "title": "3 health systems share their Apple Vision Pro plans",
+      "excerpt": "Cedars-Sinai Medical Center, Boston Children’s Hospital and Sharp Healthcare are testing Apple's virtual and augmented reality set.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
+      "originalUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth.md",
+      "title": "New Zealand telco 2degrees selects Totogi Charging-as-a-Service to expedite market growth",
+      "excerpt": "Totogi’s Charging-as-a-Service platform will enable the mobile operator to accelerate revenue growth in the MVNO wholesale segment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
+      "publishedDateTime": "2024-02-07T08:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-meta-to-label-ai-generated-images-from-google-openai-and-adobe.md",
+      "title": "Meta to label AI-generated images from Google, OpenAI and Adobe",
+      "excerpt": "Meta has also added a feature for people to disclose when they share AI-generated video or audio and failing to do so would attract penalties, the company said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
+      "originalUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/03/shutterstock_2259188619-100938589-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712821/meta-to-label-ai-generated-images-from-google-openai-and-adobe.amp.html",
+      "publishedDateTime": "2024-02-07T05:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates.md",
+      "title": "Village by village, creating the building blocks for AI tools with work that also educates",
+      "excerpt": "Karya is employing rural Indians to build AI datasets for low-resourced languages in India, verified with Microsoft's Azure OpenAI Service.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
+      "originalUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T05:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-biden-administration-names-a-director-of-the-new-ai-safety-institute.md",
+      "title": "Biden administration names a director of the new AI Safety Institute",
+      "excerpt": "The Biden administration on Wednesday plans to name a top White House aide as the director of the newly established safety institute for artificial intelligence, according to an administration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
+      "originalUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcbayarea.com/2024/02/GettyImages-1983623721.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/national-international/biden-administration-names-a-director-of-the-new-ai-safety-institute/3446176/?amp=1",
+      "publishedDateTime": "2024-02-07T03:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Bay Area",
+        "domain": "nbcbayarea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
       "title": "Bell, Mila to embark on joint deep learning AI initiative",
       "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
@@ -885,212 +1091,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studies-show.md",
-      "title": "AI is the most promising tech for businesses but a skills shortage stands in the way, studies show",
-      "excerpt": "Artificial intelligence (AI) brings with it a wealth ... Another report by Amazon Web Services (AWS) found that AI adoption is forecast to unleash €600 billion growth in Europe's economy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
-      "originalUrl": "https://www.euronews.com/next/2024/02/06/ai-is-the-most-promising-tech-for-businesses-but-a-skills-shortage-stands-in-the-way-studi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/08/22/03/56/1200x675_cmsv2_bc17e7f8-39b4-5b46-8b0a-b24a2f054a6d-8220356.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-teens-need-protection-from-harmful-content-on-social-media-can-ai-help-bridge-the-gap.md",
-      "title": "Teens need protection from harmful content on social media. Can AI help bridge the gap?",
-      "excerpt": "The CEOs of Meta, X, TikTok, Snap and Discord testified before the Senate Judiciary Committee about protecting teens online. Artificial intelligence might be a tool to block harmful content without invading privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
-      "originalUrl": "https://chicago.suntimes.com/2024/2/6/24059329/online-safety-social-media-teens-bullying-mental-health-predators-exploitation-pornography",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cst.brightspotcdn.com/dims4/default/484c593/2147483647/strip/true/crop/1920x1096+0+92/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F36%2F88%2F9875a58058bf62b7a61b1fadbe29%2Ffile-20240129-15-6x4k1s.jpg",
-          "width": 1461,
-          "height": 834,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-jay-zs-grammys-speech-about-beyonce-reiterates-an-ongoing-issue-with-the-awards.md",
-      "title": "Jay-Z's Grammys speech about Beyoncé reiterates an ongoing issue with the awards",
-      "excerpt": "Jay-Z called out the Recording Academy's snubs against his wife, Beyoncé, during the Grammys on Sunday in a speech that drew attention to the lack of recognition Black artists have endured at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/music/2024/02/06/jay-z-grammys-speech-beyonce-calls-out-racial-bias/72484135007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T10:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes.md",
-      "title": "Voice-based conversational artificial intelligence may improve insulin management for diabetes",
-      "excerpt": "This randomized clinical trial demonstrated that compared with the standard of care, voice-based conversational artificial intelligence (VBAI) improved time to optimal insulin dosing, insulin adherence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "originalUrl": "https://www.physiciansweekly.com/voice-based-conversational-artificial-intelligence-may-improve-insulin-management-for-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.physiciansweekly.com/wp-content/uploads/2024/02/image1707213623.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Too Old to Operate",
-        "domain": "physiciansweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-meta-will-label-ai-generated-images-on-instagram-and-facebook.md",
-      "title": "Meta will label AI-generated images on Instagram and Facebook",
-      "excerpt": "The labels, set to roll out in the coming months, will identify AI-generated images posted on Facebook, Instagram and Threads, Clegg said. Images created by a Meta's own tool will also be labeled ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "originalUrl": "https://abcnews.go.com/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Business/meta-1-gty-bb-240206_1707233037996_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/meta-label-ai-generated-images-instagram-facebook/story?id=106984228",
-      "publishedDateTime": "2024-02-06T08:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

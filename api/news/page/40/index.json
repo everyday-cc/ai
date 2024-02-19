@@ -2,6 +2,248 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
+      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
+      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
+          "width": 2500,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium.md",
+      "title": "Fine-tune and deploy Llama 2 models cost-effectively in Amazon SageMaker JumpStart with AWS Inferentia and AWS Trainium",
+      "excerpt": "Today, we’re excited to announce the availability of Llama 2 inference and fine-tuning support on AWS Trainium and AWS Inferentia instances in Amazon SageMaker JumpStart. Using AWS Trainium and Inferentia based instances, through SageMaker, can help users lower fine-tuning costs by up to 50%, and lower",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tune-and-deploy-llama-2-models-cost-effectively-in-amazon-sagemaker-jumpstart-with-aws-inferentia-and-aws-trainium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/17/fine-tune-deploye-llama-2.jpg",
+          "width": 1022,
+          "height": 511,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:46:02Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities.md",
+      "title": "Use mobility data to derive insights using Amazon SageMaker geospatial capabilities",
+      "excerpt": "Geospatial data is data about specific locations on the earth’s surface. It can represent a geographical area as a whole or it can represent an event associated with a geographical area. Analysis of geospatial data is sought after in a few industries. It involves understanding where the data exists from",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-mobility-data-to-derive-insights-using-amazon-sagemaker-geospatial-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/17/ml-15318-image004-1138x630.png",
+          "width": 1138,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:38:49Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-galaxy-ai-3-samsung-galaxy-s24-features-for-monolingual-travelers.md",
+      "title": "Galaxy AI: 3 Samsung Galaxy S24 features for monolingual travelers",
+      "excerpt": "Galaxy AI frees you from needing a third-party app to communicate with others who don't speak your language. Translations and transcriptions happen right on the device, the new Galaxy S24 series to be precise, so you can enjoy a native experience without cluttering your home screen with various apps.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "originalUrl": "https://mashable.com/article/galaxy-ai-5-features-that-breaks-language-barriers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04lR797zwN3HWWHcL9znOEh/hero-image.fill.size_1200x675.v1705518088.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T19:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-utas-opts-for-isesco-research-chair-in-ai-ethics.md",
+      "title": "UTAS opts for ISESCO research chair in AI ethics",
+      "excerpt": "JEDDAH: The University of Technology and Applied Sciences (UTAS) on Wednesday signed a cooperation agreement with the Islamic World",
+      "sourceUrl": null,
+      "webUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "originalUrl": "https://www.omanobserver.om/article/1148403/oman/utas-opts-for-isesco-research-chair-in-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.omanobserver.om/omanobserver/uploads/images/2024/01/17/2553251.jpg",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.omanobserver.om/ampArticle/1148403",
+      "cdnAmpWebUrl": "https://www-omanobserver-om.cdn.ampproject.org/c/s/www.omanobserver.om/ampArticle/1148403",
+      "publishedDateTime": "2024-01-17T18:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "omanobserver",
+        "domain": "omanobserver.om",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-circle-or-highlight-or-scribble-to-search.md",
       "title": "Circle (or highlight or scribble) to Search",
       "excerpt": "Circle to Search is a new way to search what’s on your screen without switching apps, available on select premium Android smartphones.",
@@ -923,229 +1165,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models.md",
-      "title": "Tokyo startup Sakana AI lands $30M to forge new path with compact AI models",
-      "excerpt": "Sakana AI, a Tokyo-based startup founded by former Google researchers, raises $30 million to develop smaller, efficient AI models inspired by natural swarm intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "originalUrl": "https://venturebeat.com/ai/tokyo-startup-sakana-ai-lands-30m-to-forge-new-path-with-compact-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_school_of_koi_fish_c9def417-ac41-4805-82ab-766ca22287c7.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T04:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-deep-learning-in-science.md",
-      "title": "Deep Learning in Science",
-      "excerpt": "Browne, Andrew W. Deyneka, Ekaterina Ceccarelli, Francesco To, Josiah K. Chen, Siwei Tang, Jianing Vu, Anderson N. Baldi, Pierre F. and Lewin, Alfred S 2022. Deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/deep-learning-in-science/5A620F1E5DB54A7FB1D3E3C1A80E0860",
-      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-in-science/5A620F1E5DB54A7FB1D3E3C1A80E0860",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T02:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-google-might-rebrand-assistant-with-bard-before-launch.md",
-      "title": "Google might rebrand ‘Assistant with Bard’ before launch",
-      "excerpt": "Before Assistant with Bard launches on Android, Google might be dropping the \"Assistant\" moniker and rebrand to just \"Bard.\"",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
-      "originalUrl": "https://9to5google.com/2024/01/16/google-assistant-bard-rebrand/?extended-comments=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/01/assistant-with-bard-cover.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-16-vcs-funding-disruptive-tech-in-entertainment-from-ai-to-blockchain-based-games.md",
-      "title": "16 VCs funding disruptive tech in entertainment, from AI to blockchain-based games",
-      "excerpt": "Accel most recently led Assembly's $50 million Series C in December. Two-year-old Aperture is interested in the intersection of fintech and AI with entertainment, along with other industries. It recently co-led a $1 million seed round in Conduiit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vcs-funding-startups-disrupt-future-entertainment-generative-ai-tech-2024-1",
-      "originalUrl": "https://www.businessinsider.com/vcs-funding-startups-disrupt-future-entertainment-generative-ai-tech-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65a0811ddcdb354a9856f80a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-fowl-language-ai-is-learning-to-analyze-chicken-communications.md",
-      "title": "Fowl language: AI is learning to analyze chicken communications",
-      "excerpt": "Our research at Dalhousie University applies artificial intelligence (AI) to decode the language of chickens ... endeavor is like having a universal translator for chicken speech.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.html",
-      "originalUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/chickens.jpg",
-          "width": 2880,
-          "height": 1921,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-fowl-language-ai-chicken-communications.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-fowl-language-ai-chicken-communications.amp",
-      "publishedDateTime": "2024-01-17T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

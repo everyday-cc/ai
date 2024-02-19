@@ -7,8 +7,8 @@ originalUrl: "https://www.pcworld.com/article/2236372/does-your-next-laptop-real
 webUrl: "https://www.pcworld.com/article/2236372/does-your-next-laptop-really-need-to-be-an-ai-pc.html"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: PC World
@@ -27,17 +27,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "What you need to know about AI corn"
-    excerpt: "An October 2023 report from the UK-based watchdog, Internet Watch Foundation, exposes how artificial intelligence can be used for sexual abuse through the use of AI to create child sexual abuse imagery (AI CSAM)."
-    publishedDateTime: 2024-02-14T20:08:00Z
-    webUrl: "https://www.oregonlive.com/reckon/2024/02/what-you-need-to-know-about-ai-corn.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 19
 
 secured: "R6zVOPwfyt6HaucTcpriP0QIJgH8yoKvALyqX5SO8wql/zVcNexPocXJ/Upimfkafu24R8a4u46HQx9L9HGSZf5b9ytJARBgXIgmoOvouzByvj53YapvipSLyrhlQ86J69HqTlVwRkz2pXv2hCXd2OqIMCE4avzpWK5hczv2lpHv1UdJpbsWVHG3qJTZHQ7pzMf4EycLlhgnqmqwMq+rtjxf1RTpvu1lonQ1lhZS25UY2YotqIU4veCviHq/MQF3SHsTFcKnms5yuQwiFs3/fF8ZLNViVNa4dWLKcAfK3EyCOz+tvh3ai4YHb0nW3YIMBEzRqGEj4oR9dd9i0JxY98LkfwG7tuUSvi9Og+BEll4=;zkT8hVHLozRdpfWQaFt6qQ=="
 ---

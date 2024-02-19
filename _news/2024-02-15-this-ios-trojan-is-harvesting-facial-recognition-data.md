@@ -101,20 +101,6 @@ related:
         width: 629
         height: 419
         isCached: true
-  - title: "Facial recognition service says it is for suspicious lovers, not stalking"
-    excerpt: "The service can help you track down Tinder, Hinge or Bumble profiles using facial recognition. There is scant assurance, however, that it will not be abused."
-    publishedDateTime: 2024-02-14T21:53:00Z
-    webUrl: "https://www.biometricupdate.com/202402/facial-recognition-service-says-it-is-for-suspicious-lovers-not-stalking"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14164647/suspicious-not-stalking-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
     excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."
     publishedDateTime: 2024-02-15T18:29:00Z

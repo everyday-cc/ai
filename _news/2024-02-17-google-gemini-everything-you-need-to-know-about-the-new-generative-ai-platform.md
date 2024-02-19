@@ -182,15 +182,6 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
-  - title: "Google warns users not to share personal information with Gemini"
-    excerpt: "Google warns on the Gemini Apps Privacy Hub that it retains data from conversations with the AI for up to three years."
-    publishedDateTime: 2024-02-14T20:19:00Z
-    webUrl: "https://bgr.com/tech/google-warns-users-not-to-share-personal-information-with-gemini/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 4
 
 secured: "RlmnoO1Ve1BE18nEGTxSPgCtDxVPnvcyiSfWrlBG67Md9dCL/QloEnIEOeDCvWJ9WW/4W9C981yMxoKuNfTgcJTCnbSzC1lylFEboG8XVuE5A6sWfFvM8nf0TFPGh+eSJVk5A69cl01++8YGZkVtZ9WBMQ79kZlBtUdC0a6sLlyGlwlp0doMp67Vu8VWfwr+gh6E6/qGJnKzXNAaxtJnVhX4tqy5lWF2qvLnDR4975un0s8Jiu+AZIgmmUHBySMllsluOmZgupUFNGKIZxluZe0+HlRxCU2xBwuTbAfP6Js30m9OXUr3r7bZhNdVqesb9OaBC9JCH3YT8tylO0K8GCTfvmB+gkvysQCEmLHxgo8=;/IP3gnv4hIAROEII8Lz5UA=="
 ---

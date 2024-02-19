@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/ai/if-you-thought-sora-was-impressive-no
 webUrl: "https://www.tomsguide.com/ai/if-you-thought-sora-was-impressive-now-watch-it-with-ai-generated-sound-from-elevenlabs"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 426
     height: 240
     isCached: true
+
+related:
+  - title: "Hear your imagination: ElevenLabs to launch model for AI sound effects"
+    excerpt: "After mastering the art of machine learning (ML) based voice cloning and synthesis, ElevenLabs, the two-year-old AI startup founded by former Google and Palantir employees, is moving to expand its portfolio with a new text-to-sound model."
+    publishedDateTime: 2024-02-19T19:12:00Z
+    webUrl: "https://venturebeat.com/ai/hear-your-imagination-elevenlabs-to-launch-model-for-ai-sound-effects/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
 secured: "9wgvUj24NUXV6r6yEifqHyn3g4vOIsxYMbSaGHnX4rFReEOoEyizZCUJiqNRjPuZwCyjHHVnEbnHmpLITXHhxDgb/hYLNbSq5hiWce4Mi9JTnnRnHO0OFWCGYqGwJfaXBcJwO9SQYJ+g1Hr7O/fCMX9jd0hDA7nw100opGST+amJ1olxbGxNfiBp2xAIJRazVEvMUts9Urtezrx37wjMkPLjIjE4K991VdisxfDytnnXQDmhvZN9VzMLzzOXPvPYN+BicBJmq4zS0nP/WjlcWXG31oXsnMzqjfS026Tm+b8JRA3Yi6Y1etVKQWTrNXZN3DBpD7zAc2g7Z74O+15NATjuQj1o75tAfCuDgdPtBDumf57sKTOA+hogUK/iZgg3M0W6iH1x8eBeosTHICdescw7A/jKM7HaiyL7KJr1k0p+5V12nKBSE7zqCAMSbGXwj3FK+kksYn7ArxOeZbyT7vXV3LP2X3FP3Cg1oJTyfhBWXQAZ3K8Q5VSDVopaYdsQpmI+IcDIc7mWa1qhPiI2zQ==;IU5b7mkRFSHOhol2oh5XLQ=="
 ---

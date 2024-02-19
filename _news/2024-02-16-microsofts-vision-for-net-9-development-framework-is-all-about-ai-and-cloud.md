@@ -213,15 +213,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
-    excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
-    publishedDateTime: 2024-02-14T22:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23899803/micron-could-be-a-big-winner-as-intel-and-microsoft-push-the-ai-pc/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
   - title: "Microsoft and Google invest in AI in Europe"
     excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
     publishedDateTime: 2024-02-15T14:58:00Z
@@ -230,6 +221,15 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
+    quality: 34
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+    type: article
+    provider:
+      name: Midland Daily News
+      domain: ourmidland.com
     quality: 34
 
 secured: "2SuIZUxiTagQqV6oWGCC6UlfYMcnTmW6GLCLMgTtKBTUNFQccrwnrf3WKOL/1lMo8U45HCFRdclx4D7K8Kv4LYlaPYwAFU+qgJSefZBESaStsS46wLPV+8mWr171dI4qqXipVf/p5f2YYUFzQjTfOneaAnbSlwUMJrXpBWI/dkwuBvdl0GEt2WuAjP/rIn5WjRRjC6ZyvlHDjgD8cZgY19VJ/swJfMmDLQIurJFGQ02BX5xM23GeBFBZlOb9g2ysnUadvbVH67lP29LFBE2Ie4/AXhc8I9AzH9FCFRzG1DXah1SfhhQkQBIYoKeGUZw6LlVMcmkVnWUt6PGgSAuBRE36tpaGuFQCBKdFA5a1pum13gJAj012iclWsyYvDGMarc+B5WmRyq37W9u2U/xjMyybp2Ke+dRtoTxloyKPKM8Zr6FbdClOZqESc5sxyXMpSWnDWgxd7cdcO/AoGZvPxVlxFeVvImGpABCEnsXJoO5Xi3x9u6TWlXmZqQLQ4P5tEGz5FZjSofVWN8DWLAJuvQ==;F32tAzHhPVT4TvIO/18HXg=="

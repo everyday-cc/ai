@@ -39,20 +39,6 @@ related:
         width: 2400
         height: 1260
         isCached: true
-  - title: "People are seeking a romantic connection with AI bots"
-    excerpt: "Carrier wasn't looking to develop a relationship with something that wasn't real, nor did he want to become the brunt of online jokes. But he did want a romantic partner he'd never had, in part because of a genetic disorder called Marfan syndrome that makes traditional dating tough for him."
-    publishedDateTime: 2024-02-14T19:38:00Z
-    webUrl: "https://www.ksl.com/article/50877210/people-are-seeking-a-romantic-connection-with-ai-bots"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 39
-    images:
-      - url: "https://img.ksl.com/slc/2970/297043/29704311.jpg?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "Easily build no-code AI Agent automations using drag-and-drop with Flowise"
     excerpt: "Flowise lets you easily build no code AI agent automations using its drag-and-drop user interface. Connect open source LLMs to your app."
     publishedDateTime: 2024-02-19T10:40:00Z

@@ -35,6 +35,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Push for Recognition of Palestinian Arab State Widens as UN Court Looks Set To Rule Against Israel"
+    excerpt: "As America and others contemplate unilateral recognition of a Palestinian Arab state ... a representative of which is scheduled to make a speech on Tuesday, likely in opposition to a negative court decision. We are “deeply disappointed in the Palestinian ..."
+    publishedDateTime: 2024-02-19T16:02:00Z
+    webUrl: "https://www.nysun.com/article/push-for-recognition-of-palestinian-arab-state-widens-as-un-court-looks-set-to-rule-against-israel"
+    type: article
+    provider:
+      name: New York Sun
+      domain: nysun.com
+    quality: 25
+    images:
+      - url: "https://wp.nysun.com/wp-content/uploads/2023/12/south-africa-israel.jpg?w=1200&h=630&fit=fill&fm=jpg&fl=progressive"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "pHBeSRYG3+swfWuAK8OnvSrCVWW6jcq/g0XGtTnpsqhIaorevn+MXXWUO24gd9Y9HLlvBhg3g7hkjRjNHUnjCvn2hNyzKuYvz9S1lO9GfAqJaTJvc/4d/M+R392STjDJubDU2ceKR4A4yHKVwc5YEaZH6Rl/Xo5rNO6ibVV5gnmr1mEhkbSMKfhuGmh0AZZpdIejQwXh3IN8hJ2BuOjYU1ROLjWVZSvhWgkq1zlC0Lq/RlzFxempQ5nwrHyjE0sdQqb6iTOPaOVmJe6B3WH2j3wNnDkiuAKMbNCJ9xqGjGBs+1ESygm9VomJ6AnENfP5GTsW4R7Kpfq5PQt6DuNl245NHDRuq/aYpx1MqVhqSCIiZQv1o2jsrHRknMtwx5wVc6eXpl+zcuuEvQkJDQBtj7JRScOIXDbGNvqALuEzs+oCtNhCsW9+Z430kyaTAEJrBQP5vKbCN5bYZe0fAMjA0LMEJnhZPhUeJqbyrcwe8oZzP7pMM35lbyAe/579lNW6GueLRb2ZuzltTA0eX5H2zg==;putX2AD9DAGfbUVKKsRAUA=="
 ---

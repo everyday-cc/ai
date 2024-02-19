@@ -2,6 +2,195 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2023-11-30-the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio.md",
+      "title": "The 3 Best Voice Recognition Stocks to Speak New Profits Into Your Portfolio",
+      "excerpt": "Voice recognition tech has existed for decades, but it’s finally getting its moment in the sun. As we increasingly move towards mobile optimization, users want tools that help on the go without having to stare down at a screen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
+      "originalUrl": "https://www.nasdaq.com/articles/the-3-best-voice-recognition-stocks-to-speak-new-profits-into-your-portfolio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T15:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-ibb-law-selects-intapp-documents-for-matter-centric-document-management.md",
+      "title": "IBB Law selects Intapp Documents for matter-centric document management",
+      "excerpt": "PALO ALTO, Calif., Nov. 30, 2023 (GLOBE NEWSWIRE) -- Intapp (NASDAQ: INTA), a leading provider of cloud software for the global professional and financial services industry, today announced that IBB Law LLP has selected Intapp Documents to transform Microsoft SharePoint into a purpose-built document management system.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibb-law-selects-intapp-documents-for-matter-centric-document-management-1032862642",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models.md",
+      "title": "AWS Announces 5 New Amazon SageMaker Capabilities for Scaling with Models",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS) announced five new capabilities within Amazon SageMaker to help accelerate",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
+      "originalUrl": "https://www.datanami.com/this-just-in/aws-announces-5-new-amazon-sagemaker-capabilities-for-scaling-with-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T14:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
+      "title": "Lenovo's AI-Powered Sign Language Translation Solution Empowers Signers In Brazil",
+      "excerpt": "A camera captured the precise movements of Gabriel's hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107517274/Lenovos-AI-Powered-Sign-Language-Translation-Solution-Empowers-Signers-In-Brazil",
+      "originalUrl": "https://menafn.com/1107517274/Lenovos-AI-Powered-Sign-Language-Translation-Solution-Empowers-Signers-In-Brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?645368",
+          "width": 266,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T14:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-30-first-switch-with-on-chip-neural-network.md",
+      "title": "First switch with on-chip neural network",
+      "excerpt": "Broadcom Inc. has introduced what it claims is the first switch with an on-chip, neural network inference engine. Called Trident 5-X12, the software-programmable switch uses the networking general-purpose neural-network traffic analyzer (NetGNT) to double bandwidth and reduce power by 25% compared to previous devices.",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/20463/first-switch-with-on-chip-neural-network",
+      "originalUrl": "https://electronics360.globalspec.com/article/20463/first-switch-with-on-chip-neural-network",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-30T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "electronics360.globalspec",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-11-30-deepminds-ai-has-found-more-new-materials-in-a-year-than-scientists-have-in-centuries.md",
       "title": "DeepMind’s AI has found more new materials in a year than scientists have in centuries",
       "excerpt": "Google DeepMind researchers have trained a deep learning model to predict the structure of over 2.2 million crystalline materials.",
@@ -904,212 +1093,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-next-google-glass-could-be-the-ultimate-smart-home-controller.md",
-      "title": "Next Google Glass could be the ultimate smart home controller",
-      "excerpt": "and then identifies it using an object recognition model. Google writes: “The method includes obtaining a position of the first controllable device in a physical space based on visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
-      "originalUrl": "https://www.wareable.com/ar/next-google-glass-could-be-the-ultimate-smart-home-controller",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wareable.com/assets/images/7756-wearable-tech-news-next-google-glass-could-be-the-ultimate-smart-home-controller-image3-i2wsyrjawh.jpg",
-          "width": 1269,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wareable",
-        "domain": "wareable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-senators-raise-alarm-over-facial-recognition-screening.md",
-      "title": "Senators raise alarm over facial recognition screening",
-      "excerpt": "Plus: Musk says ‘go f— yourself’ to advertisers boycotting X{beacon} Technology Technology   The Big Story Senators push to end involuntary TSA facial recognition",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
-      "originalUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4334347-senators-raise-alarm-over-facial-recognition-screening/amp/",
-      "publishedDateTime": "2023-11-29T22:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-gms-self-driving-cruise-origin-indefinitely-delayed-amid-major-setbacks.md",
-      "title": "GM's Self-Driving Cruise Origin Indefinitely Delayed Amid Major Setbacks",
-      "excerpt": "Myriad issues led California to revoke Cruise's self-driving permits, with the company subsequently suspending all operations for the foreseeable future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
-      "originalUrl": "https://www.aol.com/gms-self-driving-cruise-origin-204500293.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/owzwGbw6bAC6EyHmmIYqng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_car_and_driver_636/9e8018fd858cb43b25d87aa03fde7161",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-airport-facial-recognition-faces-senate-ban-over-privacy-concern.md",
-      "title": "Airport Facial Recognition Faces Senate Ban Over Privacy Concern",
-      "excerpt": "Biometric screening at airports would be prohibited under bipartisan legislation two senators are proposing, citing privacy concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/privacy-and-data-security/airport-facial-recognition-faces-senate-ban-over-privacy-concern",
-      "originalUrl": "https://news.bloomberglaw.com/privacy-and-data-security/airport-facial-recognition-faces-senate-ban-over-privacy-concern",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://db0ip7zd23b50.cloudfront.net/dims4/default/02f3d53/2147483647/crop/7888x3040%2B27%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F85%2F55%2Fcb3cea404c8086e5b8bae590a59c%2Ffacial-rec334879311-1-16.jpg",
-          "width": 1920,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T22:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.bloomberglaw",
-        "domain": "bloomberglaw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-30-setting-guardrails-for-ai-research.md",
-      "title": "Setting guardrails for AI research",
-      "excerpt": "A Yamhill County Sheriff’s Office deputy has been charged with 12 misdemeanor counts related to exposing his genitals and performing sexual acts in public, according to court documents. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
-      "originalUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kptv-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fdo0bihdskp9dy.cloudfront.net%2F12-19-2023%2Ft_c737743c93c5445bbe6679331d91ffbe_name_YT_THUMBNAIL___2023_12_19T071706_059.jpg?auth=2aa769262d83acf8aff8a78385c0f46c48eeb0b03e7cea02235995d11b000c52&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kptv-com.cdn.ampproject.org/c/s/www.kptv.com/video/2023/11/29/setting-guardrails-ai-research/?outputType=amp",
-      "publishedDateTime": "2023-11-29T21:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 12 Oregon",
-        "domain": "kptv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

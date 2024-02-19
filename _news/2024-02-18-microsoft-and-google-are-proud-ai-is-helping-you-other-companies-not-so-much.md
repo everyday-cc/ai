@@ -213,15 +213,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
-    excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
-    publishedDateTime: 2024-02-14T22:57:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23899803/micron-could-be-a-big-winner-as-intel-and-microsoft-push-the-ai-pc/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 36
   - title: "Microsoft and Google invest in AI in Europe"
     excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
     publishedDateTime: 2024-02-15T14:58:00Z
@@ -230,6 +221,15 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
+    quality: 34
+  - title: "Opinion: Google, Microsoft will dominate AI as computing costs surge"
+    excerpt: "Technology writer Parmy Olson says Google and Microsoft will dominate artificial intelligence as computing costs surge"
+    publishedDateTime: 2024-02-19T18:30:00Z
+    webUrl: "https://www.ourmidland.com/opinion/voices/article/opinion-google-microsoft-dominate-artificial-18676153.php"
+    type: article
+    provider:
+      name: Midland Daily News
+      domain: ourmidland.com
     quality: 34
 
 secured: "rPdrECLqDxtZZtywbAYATO4uGrS3rq/uOV/KLgWKnFrPCYB81Hdd/gxzkedS1oGIi+Vicz/0UJ9G9s9F9jRtMDRVlc7NZFG8OM6NM3z1zP7Lz5bYcJNRYpcc+COOo23DfN8d6e3A0oqiogg7//SKZF0VjxNS8FxIOmy1ZySuu7l4+Gi632ZKKw5fNhEskdMMFwYivf32nLdlxQkf3ZtQCz7XL15zuVWuTkw/U298Cyda5WVJ7Wf7yKM+D797AhrCxBiw3qLS35g9HUg/DWTUtlnj4uugsE0hSCDbSwvTwluiojGFp41LP2+djEqbifN4zk5zsKB9MwdvbsJypLjKVPlTXA0wUhERJZfaRz0wWJg=;INUBnfzWNHWt7Isq0cN+9w=="

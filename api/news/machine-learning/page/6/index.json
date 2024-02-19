@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-07-cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation.md",
+      "title": "CEA-Leti Paper Reports Memristor-Based Bayesian Neural Network Implementation",
+      "excerpt": "GRENOBLE, France – Dec. 7, 2023 – A team comprising CEA-Leti, CEA-List and two CNRS laboratories has published a paper in Nature Communications presenting what the authors said is the first complete memristor-based Bayesian neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
+      "originalUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2023/12/CEA-Leti-logo-2-1-1223.png",
+          "width": 419,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-training-algorithm-breaks-barriers-to-deep-physical-neural-networks.md",
+      "title": "Training algorithm breaks barriers to deep physical neural networks",
+      "excerpt": "Mar. 22, 2021 — Researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231207161444.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
       "title": "Is Machine Learning Random? And Why Should You Care?",
       "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
@@ -1164,92 +1250,6 @@
       "provider": {
         "name": "Nature",
         "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-when-deep-learning-meets-active-learning-in-the-era-of-foundation-models.md",
-      "title": "When deep learning meets active learning in the era of foundation models",
-      "excerpt": "A Chinese research team wrote a review article on deep active learning, an increasingly popular method of combining active learning with deep learning for sample selection in the training of neural networks for artificial intelligence tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "originalUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/when-deep-learning-mee.jpg",
-          "width": 1280,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-deep-era-foundation.amp",
-      "publishedDateTime": "2023-12-01T16:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel.md",
-      "title": "‘AI safety is imperative:’ Triangle thought leaders talk artificial intelligence with Senate panel",
-      "excerpt": "The seventh and final planned session of the Senate's AI Forum included two representatives from the Triangle: Howso's Mike Capps, and Duke Computer Science Professor, Cynthia Rudin. Check out what they discussed.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
-      "originalUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/11/WRAL-Featured-Image-Template-71.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/01/ai-safety-is-imperative-triangle-thought-leaders-talk-artificial-intelligence-with-senate-panel/?amp=1",
-      "publishedDateTime": "2023-12-01T16:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
         "images": null,
         "publishers": null,
         "authors": null

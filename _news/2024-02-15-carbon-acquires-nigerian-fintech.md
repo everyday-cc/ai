@@ -43,22 +43,6 @@ related:
         width: 1430
         height: 782
         isCached: true
-  - title: "Sibli, a Fintech Targeting Investment Research via AI, Reports New Funding Round"
-    excerpt: "Sibli (formerly Responsibi), a company transforming the investment research process using AI, announced it has closed a $4.5M US Seed round."
-    publishedDateTime: 2024-02-14T21:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/02/221478-sibli-a-fintech-targeting-investment-research-via-ai-reports-new-funding-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 54
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Benjamin-Money-Dollar-Decentralize-Splinter-Break.jpg"
-        width: 1080
-        height: 810
-        isCached: true
   - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
     excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
     publishedDateTime: 2024-02-15T03:27:00Z

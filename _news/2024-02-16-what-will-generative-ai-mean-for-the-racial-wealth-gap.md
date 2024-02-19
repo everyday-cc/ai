@@ -98,20 +98,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "One Year After GPT-4: What Generative AI Means to Lawyers"
-    excerpt: "Dr. Lingfei Wu is a distinguished engineer and entrepreneur known for his contributions in artificial intelligence, machine learning, and natural language processing. He is the Co-founder and CEO of Anytime.AI, a generative AI startup that aims to boost efficiency and effectiveness in the legal field."
-    publishedDateTime: 2024-02-14T21:38:00Z
-    webUrl: "https://www.law.com/2024/02/14/one-year-after-gpt-4-what-generative-ai-means-to-lawyers/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://www.law.com/assets/css/stylesheets/images/social-share-law-716x372.png"
-        width: 716
-        height: 372
-        isCached: true
   - title: "How Fractal is Leveraging Generative AI for Insurance"
     excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
     publishedDateTime: 2024-02-16T08:30:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-20-microsoft-to-expand-its-ai-infrastructure-in-spain-with-21-billion-investment.md",
+      "title": "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment",
+      "excerpt": "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good.md",
       "title": "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good",
       "excerpt": "Meta CEO Mark Zuckerberg recently unveiled Code Llama, a 70B parameter AI designed for coding. But how does it stack up against giants like ChatGPT? I put it to the test.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -52,6 +95,49 @@
         "Meta AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024.md",
+      "title": "IFS and Microsoft to showcase innovative AI solutions for telecom operators at Mobile World Congress Barcelona 2024",
+      "excerpt": "IFS and Microsoft will highlight the unique value that their IFS.ai solutions on Azure deliver to help support operators’ network transformations, monetization of 5G services, and leveraging of indust",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NWUxZDU0ZjgtZmUzZC00/0/markuspersson-telecommunicationsglobalindustrydirector-ifs-png.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1",
+      "publishedDateTime": "2024-02-16T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -159,49 +245,6 @@
         "Microsoft AI",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation.md",
-      "title": "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation",
-      "excerpt": "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/ZmVlMGNkODgtNGUzYi00/0/1-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1",
-      "publishedDateTime": "2024-02-15T11:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -636,6 +679,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-how-can-businesses-empower-employees-for-innovation.md",
+      "title": "How Can Businesses Empower Employees for Innovation?",
+      "excerpt": "How Can Businesses Empower Employees for Innovation? In the quest to foster a culture of innovation, we’ve gathered insights from CEOs and founders on empowering employees to be the catalysts for change.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
+      "originalUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T22:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
       "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
       "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
@@ -1044,6 +1121,41 @@
       ]
     },
     {
+      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
+      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
+      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T12:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-pune-woman-53-teaches-marathi-to-microsoft-ai-tools-earns-400-an-hour.md",
       "title": "Pune Woman, 53, Teaches Marathi To Microsoft AI Tools, Earns ₹400 An Hour",
       "excerpt": "At the core of this initiative lies Karya, an organisation born as a Microsoft Research Project in Bengaluru back in 2017. Karya focusses on creating datasets in various Indian languages to train AI models and conduct research, while also generating employment opportunities for Indians, particularly in rural regions.",
@@ -1249,146 +1361,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates.md",
-      "title": "Village by village, creating the building blocks for AI tools with work that also educates",
-      "excerpt": "Karya is employing rural Indians to build AI datasets for low-resourced languages in India, verified with Microsoft's Azure OpenAI Service.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "originalUrl": "https://news.microsoft.com/source/asia/features/village-by-village-creating-the-building-blocks-for-ai-tools-with-work-that-also-educates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T05:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system.md",
-      "title": "The end of Windows Hello, or a new biometric dawn? — Microsoft unveils a new facial recognition security system",
-      "excerpt": "Microsoft has unveiled a new facial recognition security tool aimed at helping businesses ensure their systems remain safe and protected. The company says its new Face Check tool for Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "originalUrl": "https://www.techradar.com/pro/the-end-of-windows-hello-or-a-new-biometric-dawn-microsoft-unveils-a-new-facial-recognition-security-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qBBvy9hdwM2eB7W8QDE535-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-servicenow-reports-fourth-quarter-and-full-year-2023-financial-results.md",
-      "title": "ServiceNow Reports Fourth Quarter And Full-Year 2023 Financial Results",
-      "excerpt": "Industry analyst Melody Brue breaks down ServiceNow's latest earnings call and assesses its ambitions for expansion in the CRM market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/06/servicenow-reports-fourth-quarter-and-full-year-2023-financial-results/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/06/servicenow-reports-fourth-quarter-and-full-year-2023-financial-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T21:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

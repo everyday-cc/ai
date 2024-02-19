@@ -2,6 +2,143 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-20-microsoft-to-expand-its-ai-infrastructure-in-spain-with-21-billion-investment.md",
+      "title": "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment",
+      "excerpt": "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X.",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment",
+      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T22:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-qloo-leading-ai-advances-culture-and-taste-intelligence.md",
+      "title": "Qloo Leading AI Advances Culture And Taste Intelligence",
+      "excerpt": "3. Rigorous Legal Compliance: Qloo engages external legal counsel to review all its data practices, ensuring they align with the highest standards of intellectual property laws and data privacy regulations. This guarantees that all of their AI development processes are legally sound and ethically responsible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3d38b3a691de5c282c09f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/",
+      "publishedDateTime": "2024-02-19T21:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-streamlining-supply-chain-management-strategies-for-the-future.md",
+      "title": "Streamlining supply chain management: Strategies for the future",
+      "excerpt": "Here’s how companies are using different strategies to address supply chain management and meet their business goals.\nThe post Streamlining supply chain management: Strategies for the future appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/supply-chain-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/supply-chain-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-use-amazon-titan-models-for-image-generation-editing-and-searching.md",
       "title": "Use Amazon Titan models for image generation, editing, and searching",
       "excerpt": "Amazon Bedrock provides a broad range of high-performing foundation models from Amazon and other leading AI companies, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, searching, chat, reasoning and acting agents, and",
@@ -10,7 +147,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -148,49 +285,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
-      "title": "How real estate listings and potentially jobs are shifting to AI",
-      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "originalUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
-          "width": 1024,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "publishedDateTime": "2024-02-19T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
       "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
       "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
@@ -199,7 +293,7 @@
       "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -281,6 +375,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-how-artificial-intelligence-is-affecting-social-media.md",
+      "title": "How Artificial Intelligence is affecting social media",
+      "excerpt": "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/",
+      "originalUrl": "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/",
+      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/",
+      "publishedDateTime": "2024-02-19T14:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFLA News Channel 8",
+        "domain": "wfla.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -561,7 +697,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -924,7 +1060,7 @@
       "originalUrl": "https://techcrunch.com/2024/02/18/paypal-ventures-first-ai-investment-a-credit-based-dating-app-and-robinhoods-good-week/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -976,7 +1112,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1060,162 +1196,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-can-ai-porn-be-ethical.md",
-      "title": "Can AI porn be ethical?",
-      "excerpt": "As demand for responsive sexbots grows, some developers are trying to thread the needle between fully neutered and fully uncensored AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/technology/2024/feb/18/ethics-ai-porn?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e1f0c65bfdf81f113d5dfea096747039fd9f29a9/13_0_2667_1600/master/2667.jpg?width=620&quality=85&auto=format&fit=max&s=10ec8daedbde6f1ba1f256a0aebef810",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn",
-      "publishedDateTime": "2024-02-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-facial-recognition-coming-soon-to-an-airport-near-you.md",
-      "title": "Facial Recognition: Coming Soon to an Airport Near You",
-      "excerpt": "This passenger screening using facial recognition software and made available to select travelers at La Guardia by Delta Air Lines and the Transportation Security Administration, is just one example of how biometric technology, which uses an individual’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/19/travel/18Travel-biometrics/18Travel-biometrics-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles.md",
-      "title": "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles",
-      "excerpt": "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

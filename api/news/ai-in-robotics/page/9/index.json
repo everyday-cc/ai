@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2023-11-27-ai-powered-robot-figures-out-how-to-make-oxygen-on-mars.md",
-      "title": "AI-Powered Robot Figures Out How to Make Oxygen on Mars",
-      "excerpt": "A new study recently published in Nature Synthesis details the steps taken for the aforementioned robot to come up with a process to make oxygen out of materials readily available on Mars. Using meteorites scientists think come from the Red Planet, the \"robotic chemist\" has able to create the primary element necessary for human life.",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "originalUrl": "https://comicbook.com/irl/news/mars-oxygen-created-ai-robot-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sportshub.cbsistatic.com/i/2023/02/28/4b1b5e2a-4ba6-49e2-a0b8-b0b56dca730e/wendys-sign.jpg?width=568&height=320",
-          "width": 568,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/mars-oxygen-created-ai-robot-study/",
-      "publishedDateTime": "2023-11-27T04:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-11-25-paralysed-man-moves-in-mind-reading-exoskeleton.md",
       "title": "Paralysed man moves in mind-reading exoskeleton",
       "excerpt": "Mind-controlled exoskeleton allows paralysed ... Paralysed woman's thoughts control robotic arm Thibault does need to be attached to a ceiling-harness in order to minimise the risk of him falling ...",

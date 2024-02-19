@@ -70,6 +70,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Some video game actors are letting AI clone their voices, with positive results"
+    excerpt: "“Everyone says they’re doing it with ethics in mind,” but most are not and some are training their AI systems with voice data pulled off the internet without the speaker’s permission, said Replica Studios CEO Shreyas Nivas. Nivas said his company ..."
+    publishedDateTime: 2024-02-19T15:27:00Z
+    webUrl: "https://www.pennlive.com/entertainment/2024/02/some-video-game-actors-are-letting-ai-clone-their-voices-with-positive-results.html"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 15
 
 secured: "zacHJLBehAS6ghndzNjEUqX2MfFNH4ESRR6PCQW1dNclEPlUKWbXt5UZLSfdrtvaO3SXkSBwAf8z4c+XNV6wUB8wUx65/Smj6v73lalsS/1hK+zxe6BRyx+P55K647AHnZ7VTdf7j4IxFfskngAZ4d1Ah8LANdsjTgPhYP5tIeNoxzOc3d3LmzXjYTextnjcPB55WZayAD2L9Fgd+Td6RKfmwYVW0yWCq9DZBo9gNTeMKd/ccUTq6Ywye1t1vcWJuEQalmpa1U0XkmOflwD8QI1s6gTvW+/eo/BLJrN7ROxpxzqBtW+XN3TubSUL6nIRDLL+wbvjrb8FvBgNA1Tg9uO4xtZB1rFaGYgz31N7ZSs=;YPojsQkc85XmHXCmjL1SGw=="
 ---

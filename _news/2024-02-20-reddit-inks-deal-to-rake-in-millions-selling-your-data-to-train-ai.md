@@ -38,6 +38,29 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Your Reddit posts may train AI models following new $60 million agreement"
+    excerpt: "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month."
+    publishedDateTime: 2024-02-19T21:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 66
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Reddit signs lucrative AI content licensing deal in anticipation of IPO"
+    excerpt: "Sources familiar with the matter told Bloomberg that Reddit has been sharing the news with prospective investors ahead of its IPO. The deal is said to"
+    publishedDateTime: 2024-02-19T19:51:00Z
+    webUrl: "https://www.techspot.com/news/101940-reddit-signs-lucrative-ai-content-licensing-deal-anticipation.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "rwN42Ub7q7DKkeGXAhvLXprslilOcjloTamfJBpvYdbnF91xwbJQA2yxphB8x7DGdJXIni45lpu0X/1HFQDe+mx16WB6WlNnbzkEEeMpa9+6bbyZ/kXbVOJTkYzLjCuSYToyRqgG+HtUe02Pt7Vir659MWA5o4WREWCHLB1rIjxt+REzrGHNGX3LHOf97skZB52iofqPfKUOAiPEBQu49tktBcVymoMjZJsZV2jFbTNjUpmzBvzKHTnujPKh1tF4aR8/XzcORtxsxH7j1g3QkyuyCCUMufQFHiJRDIbRcdTtW+a/2k58LpZhSIDYWQ4USJ9W7cPL2e1jOiQqi7+izIP1IDOmgq/QJ8GtL7/fKpk=;/WJFebyf40FLTzGnCfBl/A=="
 ---
