@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup launches AI-backed education, health, and edutainment content service"
-    excerpt: "Vc Ananth: \"We are the world's first knowpedia and, currently, focused on health, education, and edutainment. We are using AI and human intervention to provide targeted, curated services and content for individual requirements,"
-    publishedDateTime: 2024-02-18T16:24:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 71
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107800611,imgsize-37184,width-1200,height=765,overlay-ethealth/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "Artificial Intelligence in Content Creation"
     excerpt: "Greetings, curious minds! Today, let's dive into the realm of Artificial Intelligence in Content Creation. Imagine an artist that isn't human but can paint words, pictures, and ideas. Intrigued?"
     publishedDateTime: 2024-02-14T15:31:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://www.businessinsider.in/thumb/msid-107678236,width-500,resizemode-4,imgsize=6987/Unveiling-AI-Creativity.jpg"
         width: 500
         height: 625
+        isCached: true
+  - title: "Startup launches AI-backed education, health, and edutainment content service"
+    excerpt: "It is projected that there will be a lot of job redundancy due to the deployment of AI by corporates and businesses."
+    publishedDateTime: 2024-02-19T04:57:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/startup-launches-ai-backed-education-health-and-edutainment-content-service/107810176"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-107810176,imgsize-37184,width-1200,height=765,overlay-etcio/artificial-intelligence/startup-launches-ai-backed-education-health-and-edutainment-content-service.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Startup launches AI-backed education, health, edutainment content service"
     excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."

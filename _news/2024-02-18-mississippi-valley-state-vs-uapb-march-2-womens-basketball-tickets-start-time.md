@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Charleston (SC) vs. William & Mary March 3 Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Charleston (SC) Cougars (17-6) face the William & Mary Tribe (12-11) in a clash of CAA teams at 2:00 PM ET on Sunday. Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.wmbfnews.com/sports/betting/2024/03/03/charleston-sc-vs-william-mary-buy-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WMBF News
+      domain: wmbfnews.com
+    quality: 16
+    images:
+      - url: "https://gray-wmbf-prod.cdn.arcpublishing.com/resizer/v2/K5T2JXJHDVJYLLTWJYCWIEABOQ.jpg?auth=b50e9e4b4c892495e14fc3c22213f9f2e7a9513b7cf27b2b2ed7a3bf2359a23b&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Presbyterian vs. Charleston Southern March 2 Tickets & Start Time"
     excerpt: "Presbyterian Blue Hose vs. Charleston Southern Buccaneers game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T14:19:00Z

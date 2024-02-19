@@ -60,20 +60,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Cavaliers vs. Mavericks February 27 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The Dallas Mavericks (31-23) will lean on Luka Doncic (first in NBA, 34.3 points per game) when they square off against Donovan Mitchell (fourth in league, 28.3) and the Cleveland Cavaliers (35-17) on Tuesday, February 27 ..."
-    publishedDateTime: 2024-02-14T05:04:00Z
-    webUrl: "https://www.13abc.com/sports/betting/2024/02/27/cavaliers-vs-mavericks-buy-nba-tickets/"
-    type: article
-    provider:
-      name: 13abc
-      domain: 13abc.com
-    quality: 22
-    images:
-      - url: "https://gray-wtvg-prod.cdn.arcpublishing.com/resizer/v2/KSGFKARZRBMZNLCAZMEYLYSSQE.jpg?auth=65a1185b61e07cd9873b8425378e73184e534186c6fa782cc271ea6ca01500ab&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Wild vs. Canucks February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
     publishedDateTime: 2024-02-18T08:01:00Z

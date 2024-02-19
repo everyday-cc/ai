@@ -39,6 +39,20 @@ related:
         width: 1353
         height: 900
         isCached: true
+  - title: "Google claims AI advances with Gemini LLM"
+    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
+    publishedDateTime: 2024-02-16T06:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "Google Assistant is a mess, but is Gemini really the answer?"
     excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
     publishedDateTime: 2024-02-15T13:00:00Z

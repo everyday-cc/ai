@@ -36,6 +36,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "This ASX 200 share is predicted to benefit from AI demand for years"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Of course, no company is guaranteed to do well just because it has a connection to AI. For example ..."
+    publishedDateTime: 2024-02-18T21:59:00Z
+    webUrl: "https://www.fool.com.au/2024/02/19/this-asx-200-share-is-predicted-to-benefit-from-ai-demand-for-years/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 19
 
 secured: "zCALwP1VwR11EDoVRN3B852MUCCIlelsYha4z0S9oHaNSnl+YAg1wwxeksEy+ROyhLcOAJzc9pBEAFQP68lc6eAOOw9Uf975DnFd3aLRxwIdpVUUen9y0YToC65RIuJw8wxT8+aF3nS0FPOrAY7uWrUbpmnqdkiQEur0SgEs+X7qtJ3TEtMpn1rn6vLgO3rhe2TeX7Yo8hDTK8ogch4pujdFHakEKY+AIrBm1F+qu+PZf8BZlBxRvGdncAkQoMUTgm5zIZdYTbGep1dey6NgM54xCxP4tZNsI6YjxG8AEmUcat8fbzZD2RKQbczibLqxSc12SbaAB/xMfaGCiKTqcWInWooaihjT6CC6MRc3QyA=;JXeCTiCjCIiVv6GtL+DGhg=="
 ---

@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-02-14-ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024.md",
+      "title": "AI Chip Vendors: A Look At Who’s Who In The Zoo In 2024",
+      "excerpt": "Intel Gaudi3 is starting to look like a late-2024 event, which will virtually assure AMD a strong 2nd place in the market. Meanwhile, Intel still enjoys a significant advantage over AMD in the AI performance of its Xeon server CPUs for inference processing, a gap AMD will likely attempt to close later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3dc989cb174ce82b81de6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1542,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
+      "publishedDateTime": "2024-02-13T18:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-pioneering-ais-next-phase-insights-from-mits-venture-studio-course.md",
+      "title": "Pioneering AI’s Next Phase: Insights From MIT’s Venture Studio Course",
+      "excerpt": "Ramesh Raskar gave us some insights into what's happening with AI, talking about a sea change toward models that are going to be more powerful than what we've seen to",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbb912303e79e010e6ee1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1352,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
+      "publishedDateTime": "2024-02-13T18:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
       "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
       "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
@@ -1104,92 +1208,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat.md",
-      "title": "Sam Altman and the $7T geopolitics of AI chips | The AI Beat",
-      "excerpt": "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
-      "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T01:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops.md",
-      "title": "The Best Presidents' Day Roomba Deals at Amazon: Save Up to 50% on Robot Vacuums and Mops",
-      "excerpt": "Right now, highly-rated iRobot Roomba robot vacuums and Braava mops are up to 50% off at Amazon. There are even vacuum and mop bundles, including the Roomba i5 and the Roomba j7+, to tackle two chores at the same time. Some models have even been marked down to their lowest prices of the year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
-      "originalUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T23:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entertainment Tonight",
-        "domain": "etonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

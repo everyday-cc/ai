@@ -25,84 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
-    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
-    publishedDateTime: 2024-02-14T06:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+  - title: "Google Unveils Gemini 1.5, But Only Developers And Enterprise Clients Have Access For Now"
+    excerpt: "Google DeepMind unveiled the latest version of its large language model, called Gemini 1.5, on Thursday. This is the technology underpinning its chatbot rival to OpenAI’s ChatGPT."
+    publishedDateTime: 2024-02-15T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/02/14/google-deepmind-gemini/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 75
+      name: Forbes
+      domain: forbes.com
+    quality: 45
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd60e78d0b0630549429ac/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1353
+        height: 900
         isCached: true
-  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
-    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
-    publishedDateTime: 2024-02-16T06:50:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
+  - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
+    excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
+    publishedDateTime: 2024-02-16T01:47:00Z
+    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "5 Awesome ChatGPT Side Hustles: Make Money with AI"
-    excerpt: "The rise of AI tools has opened up new pathways for individuals ... ChatGPT’s capabilities in understanding and generating language make it a valuable asset for translation tasks. When venturing into this service, it’s crucial to input clear, simple ..."
-    publishedDateTime: 2024-02-18T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/5-awesome-chatgpt-side-hustles-make-money-with-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/side-hustle.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-4.jpg"
+        width: 3874
+        height: 2583
         isCached: true
-  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
-    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
-    publishedDateTime: 2024-02-15T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
+  - title: "Google Assistant is a mess, but is Gemini really the answer?"
+    excerpt: "Now, nearly eight years after Google Assistant was released, Google is offering up another AI tool for users in Gemini, formerly called Bard. Obviously, Google didn't just suddenly decide that it was going to create a new digital product."
+    publishedDateTime: 2024-02-15T13:00:00Z
+    webUrl: "https://www.androidpolice.com/google-gemini-answer-for-assistant/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
-    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 809
-        isCached: true
-  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
-    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
-    publishedDateTime: 2024-02-16T12:15:00Z
-    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 8
+      name: Android Police
+      domain: androidpolice.com
+    quality: 4
 
 secured: "kOkwpyTOLSjYcGvo0v5DuINk9LcT7XER+05N1v96I+5+yRx+LMDq2R7UUuu2ps4cq5zvz/ch0Np6MQ62MdGYcnXikyveurLyZV5JSH6CsaFpgfDJXm6EhWjEx7wSXT5lq0fH7f4En8EACpIAz5vWQPwBRQZ0xs4gOxOoyQlNLLPldEMuwuXvOAP88THDqH8lePVfd8YQvgWaLzC95cCUyipHesEEbyGirxcL+KmoEjFjgGCZnOD4pYpQB4m+JYzh0k+JlSL+iKMshMTn2OQDYMUWJPJyYAZVkj1ulio2j0BeC4TLtEIr8ZHSqued9fY7TFBMxAdQxh0Lg2rzBtvJXxiHu41pT99Qe/9n2Lw3k11RwO0LsZZKgZf9Oa79J2GMndP8xIkVCCpAui9U9ApR0imrI8KEY5/f072LE7YeIF+ZGJzG5C0RhdJd1RTeKfdsq//vo+IDBmoqWAxfScFLzF/Cg8Bh4nrhTDycIZIsbnOTbNrRrHOH82G9pZcx/OfrgmN3VFgEfgd/5LBfiAnneg==;2UEkJBd5UBsEwgJprCCsQQ=="
 ---

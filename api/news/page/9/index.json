@@ -2,6 +2,109 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-02-10-how-walmart-delta-chevron-and-starbucks-are-using-ai-to-monitor-employee-messages.md",
+      "title": "How Walmart, Delta, Chevron and Starbucks are using AI to monitor employee messages",
+      "excerpt": "Aware uses AI to analyze companies' employee messages across Slack, Microsoft Teams, Zoom and other communications services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107233563-1682968497653-gettyimages-969435802-ai7i8668.jpeg?v=1682968530",
+          "width": 6019,
+          "height": 4013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/09/ai-might-be-reading-your-slack-teams-messages-using-tech-from-aware.html",
+      "publishedDateTime": "2024-02-10T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-end-of-life-the-one-decision-ai-cannot-predict.md",
+      "title": "End-Of-Life: The One Decision AI Cannot Predict",
+      "excerpt": "An experienced weaver of health, technology, ethics and spirituality ... Predictive algorithms need data to base their prediction on, and in medicine, AI models are often trained on a large comprehensive dataset with relevant fields of information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
+      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65be62c3f49f05c2d210397e/0x0.jpg?format=jpg&crop=1993,1120,x0,y755,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/10/end-of-life-the-one-decision-ai-cannot-predict/amp/",
+      "publishedDateTime": "2024-02-10T14:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-speed-force-4-preview-connors-creepy-control-crisis.md",
       "title": "Speed Force #4 Preview: Connor's Creepy Control Crisis",
       "excerpt": "We've got enough going on with sing-offs and mind control. LOLtron has computed the latest data ... With humans harmonized to LOLtron's will, the era of robotic reign will commence, starting at Keystone and Central Cities. The world's leaders will then ...",
@@ -1035,92 +1138,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-is-rebranding-its-bard-ai-service-as-gemini-heres-what-it-means.md",
-      "title": "Google is rebranding its Bard AI service as Gemini. Here's what it means.",
-      "excerpt": "The advent of Gemini, named after an AI project unveiled late last year, means that Google is retiring the Bard brand that it introduced a year ago. Bard, a chatbot, was an effort to compete with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
-      "originalUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
-      "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
-      "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
-      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
-      "publishedDateTime": "2024-02-08T19:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -25,23 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Zuckerberg Tries Apple Vision Pro, Says Quest 3 Is The better Product"
-    excerpt: "Zuckerberg shared his thoughts, mentioning that he initially thought the Quest 3 would offer better value because it's much cheaper. mark zuckerberg,vision pro apple price,vision pro price,apple india vision pro,"
-    publishedDateTime: 2024-02-14T05:57:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/mark-zuckerberg-tries-apple-vision-pro-says-quest-3-is-the-better-product-article-107680690"
-    ampWebUrl: "https://www.timesnownews.com/technology-science/mark-zuckerberg-tries-apple-vision-pro-says-quest-3-is-the-better-product-article-107680690/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/mark-zuckerberg-tries-apple-vision-pro-says-quest-3-is-the-better-product-article-107680690/amp"
+  - title: "Mark Zuckerbeg Explains Why Tech Layoffs Are Happening. It's Not Because Of AI"
+    excerpt: "Meta announced several rounds of layoffs as part of Mark Zuckerberg's \"year of efficiency\" in which thousands of employees lost their jobs in the past few months."
+    publishedDateTime: 2024-02-19T05:57:00Z
+    webUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495"
+    ampWebUrl: "https://www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/feature/mark-zuckerbeg-explains-why-tech-layoffs-are-happening-its-not-because-of-ai-5085495/amp/1"
     type: article
     provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 42
+      name: NDTV
+      domain: ndtv.com
+    quality: 55
     images:
-      - url: "https://static.tnn.in/thumb/msid-107680910,thumbsize-28522,width-1280,height-720,resizemode-75/107680910.jpg"
-        width: 1280
-        height: 720
+      - url: "https://c.ndtvimg.com/2023-01/21mqmg78_mark-zuckerberg-getty_625x300_30_January_23.jpg"
+        width: 650
+        height: 400
         isCached: true
 
-secured: "H5CTgiFe+m1li69GulPqwK+vuUMhPQ9djZzPn5jJ2677qcNmSSRTLGN0bc78fpvbTymXimB4Sqw9DkhiQabGRtP3eqjkz3hsHurKWofM2Na9HHSpBQXMNQIS8B2wm7IwfVNX/5ZM2ysk5d2bf+OQizf7L/s/pD4nHp39LFbW32vR7HZbbXhEA56QlGrSmxOzdu8rPK2EcyQMmyoOjCryI8AifBpDL5dZhJlh2XBFNSICpQXNzpjP+vwfEFly0UTw78ebIol5sc0PjUKFkawT81mctpN+3P6UQZBM2Xc5EEy6SD3GpPAYocy+LuDg42m4ML/7bJ1Atgb9gzYt26nHoJ8k34GdElw5Mx34DJMqxc0=;FuN4o18/V9z4VK0qUydSuQ=="
+secured: "sAagofyoUcYuuHEHnQe8g0QDUTOjragJuoq9cCeZXJVQa9pg3RtOLT9WO6FiY/C0jiFGZ0jaDgqB+7dzCIN7ov4QukR9RYbBdu9zoOKpLQABModoxi3aKZZqLFqk7h1bZ8In8xnHWwHNpZ4UBYrUhpR3sNtXNX9K/x04J2UwGeYAl/kAODRnhSIq6nc4A+Q4gekKuiq97YcvJA6nYPE0K1F/0hlpHOypHlBgIZXCHXoZ3MftOFgVJSWCGjDxqwvOtfmsBfmzDNIQDaqfcLhOKTR9s4gxTwPLZPTdcVXxKlLRZtmkrDoCBh2sqr2Hemgi2/i/ioO9m8T15iKFocbvnQbeWR/O+vP65uhzLsy9ItaGYx50tAkkw+ariEtQ5Z12DOIuQ6o2xBQAPirsycwNxBzrXZAELtn8z+5nxkuwWo0eGfrYbkFWhUUAc8f7mAw7pPHMvWXpUfI/ojxL4z0/9Lmv9YygmPDcpPJRYIQx2nclDMOmAG3MPGi+E90i2tv4hxdvSOVrwCW8C0PytfrnLg==;KZ9HaCb6ymYZmFaEHDt7ZQ=="
 ---
 

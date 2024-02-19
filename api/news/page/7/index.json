@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-02-13-sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat.md",
+      "title": "Sam Altman and the $7T geopolitics of AI chips | The AI Beat",
+      "excerpt": "Silicon Valley was arguably more captivated this weekend by OpenAI CEO Sam Altman's fundraising efforts for AI chips than the Super Bowl.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "originalUrl": "https://venturebeat.com/ai/sam-altman-and-the-7t-geopolitics-of-ai-chips-the-ai-beat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-12-13.34.25-A-futuristic-tech-inspired-image-depicting-an-airplane-trip-around-the-globe-focusing-on-geopolitics-in-a-16_9-aspect-ratio.-The-image-features-a-s.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T01:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops.md",
+      "title": "The Best Presidents' Day Roomba Deals at Amazon: Save Up to 50% on Robot Vacuums and Mops",
+      "excerpt": "Right now, highly-rated iRobot Roomba robot vacuums and Braava mops are up to 50% off at Amazon. There are even vacuum and mop bundles, including the Roomba i5 and the Roomba j7+, to tackle two chores at the same time. Some models have even been marked down to their lowest prices of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "originalUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entertainment Tonight",
+        "domain": "etonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai.md",
       "title": "Would you be happy to be operated on by a surgical robot controlled by AI?",
       "excerpt": "Would you be happy to be operated on by a surgical robot, being controlled solely by artificial intelligence (AI)? Or, how would you feel being stitched up by a robot, which is remotely operated ...",
@@ -1045,100 +1131,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-microsoft-preparing-for-a-quantum-leap.md",
-      "title": "Microsoft: Preparing For A Quantum Leap",
-      "excerpt": "Microsoft has launched Azure Quantum, a cloud-based platform for researchers to learn quantum programming. Read why I rate MSFT stock a strong buy.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "originalUrl": "https://seekingalpha.com/article/4669491-microsoft-preparing-for-a-quantum-leap",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gettyimages.com/id/1241725400/photo/quantum-leap-a-portrait-for-troian-february-7-1971-episode-2-pictured-deborah-pratt-as-troian.jpg?b=1&s=594x594&w=0&k=20&c=B-k-GdCjYCVtWpFQWAmebAax0AM1ghxnG2Sb933vek0=",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-is-ai-making-our-code-stupid.md",
-      "title": "Is AI making our code stupid?",
-      "excerpt": "AI-generated code has transformed software development forever. That’s not necessarily good. A solid review process can shrink bloat and attack surfaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.html",
-      "originalUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/04/bloated-puffer-fish-by-brian-yurasits-via-unsplash-100940180-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712685/is-ai-making-our-code-stupid.amp.html",
-      "publishedDateTime": "2024-02-12T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

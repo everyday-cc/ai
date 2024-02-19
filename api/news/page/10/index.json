@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-09-google-is-rebranding-its-bard-ai-service-as-gemini-heres-what-it-means.md",
+      "title": "Google is rebranding its Bard AI service as Gemini. Here's what it means.",
+      "excerpt": "The advent of Gemini, named after an AI project unveiled late last year, means that Google is retiring the Bard brand that it introduced a year ago. Bard, a chatbot, was an effort to compete with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "originalUrl": "https://www.cbsnews.com/news/google-gemini-ai-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-google-bard-transitions-to-gemini-what-to-know-about-the-ai-upgrade.md",
+      "title": "Google Bard transitions to Gemini: What to know about the AI upgrade",
+      "excerpt": "\"It’s a moment of maturation for our approach to AI.\" But the name change is the \"least important part,\" according to Krawczyk, as Google announced that Gemini will also be released as an app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "originalUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/340/340/stabile.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/google-bard-transitions-gemini-what-know-ai-upgrade.amp",
+      "publishedDateTime": "2024-02-08T19:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far.md",
       "title": "Not Science Fiction Anymore: What Happens When Machine Learning Goes Too Far?",
       "excerpt": "Every piece of fiction carries a kernel of truth, and now is about the time to get a step ahead of sci-fi dystopias and determine what the risk in machine sentience can be for humans. Although people have long pondered the future of intelligent machinery,",
@@ -41,6 +127,40 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-3-dow-stocks-to-buy-for-the-next-bull-run-february-2024.md",
+      "title": "3 Dow Stocks to Buy for the Next Bull Run: February 2024",
+      "excerpt": "Microsoft Cloud revenue surged to $33.7 billion compared to $27.1 billion in the same period last year. Clearly, cloud revenues are accelerating with growth at 24% YOY compared to 22% in Q2 FY2023. Azure AI suite of cloud-based AI services and cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
+      "originalUrl": "https://www.nasdaq.com/articles/3-dow-stocks-to-buy-for-the-next-bull-run%3A-february-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T17:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1011,127 +1131,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-ethics-and-ai-in-education-self-efficacy-anxiety-and-ethical-judgments.md",
-      "title": "Ethics and AI in Education: Self-Efficacy, Anxiety, and Ethical Judgments",
-      "excerpt": "This is what a recent study titled “AI in K-12 Classrooms: Ethical Considerations and Lessons Learned” hopes to address and is one of three studies published in the \"Critical Thinking and Ethics in the Age of Generative AI in Education” report by the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/26640/ethics-ai-education-self-efficacy-anxiety-ethical-judgments-2/amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-gemini.md",
-      "title": "Google Bard Is Now 'Gemini'",
-      "excerpt": "Bard is no more. No, Google isn't tanking its AI department; rather, it's getting a refresh. Starting today, Bard is now simply called \"Gemini,\" the name Google originally gave to its suite of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://lifehacker.com/tech/google-bard-is-now-gemini",
-      "originalUrl": "https://lifehacker.com/tech/google-bard-is-now-gemini",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lifehacker.com/imagery/articles/01HP2N3896ZSJG1T0982ZT6K0V/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lifehacker",
-        "domain": "lifehacker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-is-now-google-gemini.md",
-      "title": "Google Bard is now Google Gemini",
-      "excerpt": "Say goodbye to Google Bard, and say hello to Google Gemini. On Thursday, Alphabet and Google CEO Sundar Pichai announced the company will be rebranding its AI model Bard as Gemini. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
-      "originalUrl": "https://mashable.com/article/google-gemini-bard-rebrand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04299uXv4EIXIoGiOs2KOLz/hero-image.fill.size_1200x675.v1707401073.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

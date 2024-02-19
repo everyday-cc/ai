@@ -88,6 +88,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
   - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
     excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
     publishedDateTime: 2024-02-15T10:25:00Z

@@ -40,6 +40,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 32
+  - title: "This ASX 200 share is predicted to benefit from AI demand for years"
+    excerpt: "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Of course, no company is guaranteed to do well just because it has a connection to AI. For example ..."
+    publishedDateTime: 2024-02-18T21:59:00Z
+    webUrl: "https://www.fool.com.au/2024/02/19/this-asx-200-share-is-predicted-to-benefit-from-ai-demand-for-years/"
+    type: article
+    provider:
+      name: Motley Fool Australia
+      domain: fool.com.au
+    quality: 19
 
 secured: "A9j+V3EiomyfCKMWDqsLImCwkcIOQ6tSkSNnFm+bmx9Mde1VPbInZXI3V67GGETXdaP1H9ykWqZ8c2Mg37s9jssOGPmJkJSQ6F7dfk5VE/fTVvM6mIP2Mf3+n1CTydt7WHM25BB0p3/ZQkNXOfrU5k61esrrj8Q2IVPDSRy9dCdX081AGLg05uveGfuhY1h3o1z7old5MLR7+bDIDfmys1J4F3COfBEwEV7tygMt8b6zjMuSMtzPyV+RleMNNMCymVOpdZeRxdaJBiSaBchOHlgI52eDEdZXV6NgCH+/lkHv0uu1EDMc+HAkgvkwZbj7r1wFzS8aQUHqGqXENMihZOgDmB1xztRtZtgDHfh8sjOVksbwXdsEhrjnkVzDo0ntEwNrKaq3V1AGlzlynHA8fkaGWPJHkNBNzVB61ZyEWfqD5SqrKopgHfB8BfYnb+9YjvCkAmv1teiZiO7A1szAGCoZUZCZIxWiUqpZXxpaxR0cMnn+5SEY93yfMjeO/gf15ELsL9Ug0viYlUbnf0KbPg==;QqDBK86IQRz7X82qiW58AA=="
 ---

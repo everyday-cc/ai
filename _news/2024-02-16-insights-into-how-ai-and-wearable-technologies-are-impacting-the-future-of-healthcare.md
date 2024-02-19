@@ -131,6 +131,22 @@ related:
         width: 361
         height: 203
         isCached: true
+  - title: "Apple's Vision Pro and the coming healthcare revolution"
+    excerpt: "Spatial computing will usher in 'transformative change' across multiple industries, with special implications for medical care and delivery."
+    publishedDateTime: 2024-02-15T12:27:00Z
+    webUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.html"
+    ampWebUrl: "https://www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3712882/apple-wants-your-body-digital-health-and-vision-pro.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 61
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2024/02/15/13/apple-vision-pro-100961260-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Role of “Fintech” in Healthcare in 2024"
     excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
     publishedDateTime: 2024-02-17T15:56:00Z

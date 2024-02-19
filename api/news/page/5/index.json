@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-14-the-most-valuable-ai-use-cases-for-business.md",
+      "title": "The most valuable AI use cases for business",
+      "excerpt": "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-how-a-french-health-insurance-unicorn-plans-to-leverage-ai-to-reach-profitability.md",
+      "title": "How a French health insurance unicorn plans to leverage AI to reach profitability",
+      "excerpt": "Alan’s meteoric rise in the French tech ecosystem has been both figurative and literal. A few years ago, the startup’s office was limited to one floor in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "originalUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/83ef56a7-9318-4a1f-9f0f-cbde328cef0e_MOORE-Alan-BD_D3A8123copie.jpg?resize=1200,811",
+          "width": 1200,
+          "height": 811,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/14/after-raising-massive-funding-rounds-health-insurance-startup-alan-expects-to-reach-profitability-thanks-to-ai/amp/",
+      "publishedDateTime": "2024-02-14T12:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine.md",
       "title": "Revolutionizing Healthcare: The Integral Role Of AI And IoT In Shaping Modern Medicine",
       "excerpt": "In the realm of diabetes management, the transformative power of AI and IoT is equally evident. An AI-powered mobile application, integrated with a continuous glucose monitoring system, has revolutionized treatment strategies, resulting in markedly improved patient outcomes through highly personalized care plans.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/02/14/revolutionizing-healthcare-the-integral-role-of-ai-and-iot-in-shaping-modern-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1114,110 +1208,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024.md",
-      "title": "AI Chip Vendors: A Look At Who’s Who In The Zoo In 2024",
-      "excerpt": "Intel Gaudi3 is starting to look like a late-2024 event, which will virtually assure AMD a strong 2nd place in the market. Meanwhile, Intel still enjoys a significant advantage over AMD in the AI performance of its Xeon server CPUs for inference processing, a gap AMD will likely attempt to close later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c3dc989cb174ce82b81de6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1542,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/02/13/ai-chip-vendors-a-look-at-whos-who-in-the-zoo-in-2024/amp/",
-      "publishedDateTime": "2024-02-13T18:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-pioneering-ais-next-phase-insights-from-mits-venture-studio-course.md",
-      "title": "Pioneering AI’s Next Phase: Insights From MIT’s Venture Studio Course",
-      "excerpt": "Ramesh Raskar gave us some insights into what's happening with AI, talking about a sea change toward models that are going to be more powerful than what we've seen to",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cbb912303e79e010e6ee1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1352,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/13/thoughts-from-first-mit-ai-venture-studio-class-this-semester/amp/",
-      "publishedDateTime": "2024-02-13T18:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

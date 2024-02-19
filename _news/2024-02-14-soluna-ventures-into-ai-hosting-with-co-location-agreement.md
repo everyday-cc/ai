@@ -91,6 +91,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Interoperability is not AI"
+    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
+    publishedDateTime: 2024-02-19T04:57:00Z
+    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
+    type: article
+    provider:
+      name: WatersTechnology
+      domain: waterstechnology.com
+    quality: 37
+    images:
+      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
+        width: 1200
+        height: 743
+        isCached: true
   - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
     excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
     publishedDateTime: 2024-02-14T21:01:00Z

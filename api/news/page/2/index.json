@@ -315,6 +315,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-16-ai-hiring-tools-may-be-filtering-out-the-best-job-applicants.md",
+      "title": "AI hiring tools may be filtering out the best job applicants",
+      "excerpt": "As firms increasingly rely on artificial intelligence-driven hiring platforms, many highly qualified candidates are finding themselves on the cutting room floor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+      "originalUrl": "https://www.bbc.com/worklife/article/20240214-ai-recruiting-hiring-software-bias-discrimination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ychef.files.bbci.co.uk/624x351/p0hbx9q4.jpg",
+          "width": 624,
+          "height": 351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-the-role-of-vector-databases-inside-the-ai-factory.md",
       "title": "The Role Of Vector Databases Inside The ‘AI Factory’",
       "excerpt": "To achieve the performance necessary to industrialize AI-based decision-making, companies should first think about laying down the requisite data services infrastructure.",
@@ -565,6 +616,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-16-advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer.md",
+      "title": "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer",
+      "excerpt": "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T06:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-sk-backed-sapeon-to-develop-on-device-ai-chip.md",
       "title": "SK-backed Sapeon to develop on-device AI chip",
       "excerpt": "Sapeon, a fabless startup backed by South Korean telecom-to-chip conglomerate SK Group, said Friday it would develop a new semiconductor optimized for on-device artificial intelligence as the market has been witnessing significant growth in recent years.",
@@ -762,7 +856,7 @@
       "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 260,
+      "heat": 270,
       "tags": null,
       "images": [
         {
@@ -1160,109 +1254,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use.md",
-      "title": "This German nonprofit is building an open voice assistant that anyone can use",
-      "excerpt": "Collabora is working pro bono to adapt its open source speech recognition and text-to-speech models, WhisperLive and WhisperSpeech, for BUD-E. “Building the text-to-speech and speech recognition solutions ourselves means we can customize them to a degree ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/",
-      "originalUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/10/voice-assistants.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/15/this-german-nonprofit-is-building-an-open-voice-assistant-that-anyone-can-use/amp/",
-      "publishedDateTime": "2024-02-15T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-16-palantir-stock-surges-from-artificial-intelligence-platform.md",
-      "title": "Palantir Stock Surges From Artificial Intelligence Platform",
-      "excerpt": "Palantir’s stock surged after Q4 earnings confirmed an acceleration in its US commercial business, driven by its AI platform. This is the major story for 2024 and 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ce48fe323023c5a055af97/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2024/02/15/palantir-stock-surges-from-artificial-intelligence-platform/amp/",
-      "publishedDateTime": "2024-02-15T20:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

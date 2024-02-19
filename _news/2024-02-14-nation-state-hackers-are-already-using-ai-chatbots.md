@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Chatbot formerly known as Bard shares free AI image capabilities like it’s 1999"
-    excerpt: "Google's chatbot, Gemini (formerly Bard), is offering a free AI image generation upgrade."
-    publishedDateTime: 2024-02-16T04:37:00Z
-    webUrl: "https://www.digitimes.com/news/a20240216PD210/google-gemini-google-bard-ai-ai-image-generation.html"
+  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
+    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
+    publishedDateTime: 2024-02-15T01:02:00Z
+    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 35
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
     images:
-      - url: "https://img.digitimes.com/newsshow/20240216pd210_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "fx++7WzNkQGskEh+pkrkuglAbVYDHKVCfnboBZPIIv+uT2oIty5grPk/Hb2QeW5uZKyyimwAuglHXZjmMtTdEE3EA1UUR4++BMO/oGMJDFxhXbdVVTDjiO4M3v0WKxtbFVcVyCOKmlMAQW5xbGvX/Im2X4QSahKaAcPWhT+PgCcgjF+9aciFOxjbNxzPo74wuL/j9atG0FFz6AaC5DIkhzziJrC5IqvsroNHQjikiGu6GzdKWTYMeT2rzUfd/fGwX+Iw4JV6JKtN7J24RT5UcGhSromxHnHPFkoOJCW8r4E/XpNVUahosKTl76V+qF58g/soJf1R1/INCp7WfcQ+Cm3uTv0N6uGNZvf5cx1GvwSHPwBJk+SlPvhNdOgJ+/BrOp8SCHOVPJZYp4gUSOej/vJtHetHaUP8+ISY9OEG+QH4fazt6CWsngWlzK03HtQO+pVYno/3VruzP4ULG+GonPWa51hxE4XuCBC8Rs9ydyvFM8ieFdKeAK+c/PPJMuemxWa4AFK61KcxcZWyJuzLhA==;M9gatFuy8Cn0vcqH1SzR9A=="

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2023-12-11-why-generative-ai-makes-sense-for-edge-computing.md",
+      "title": "Why Generative AI Makes Sense For Edge Computing",
+      "excerpt": "Many industry analysts and pundits now predict that generative AI will be the next significant AI application to make an impact at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648334bbb7a645bee5fbe46d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/11/why-generative-ai-makes-sense-for-edge-computing/amp/",
+      "publishedDateTime": "2023-12-11T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2023-12-09-how-this-retailer-uses-machine-learning-and-computer-vision-to-keep-its-shelves-full.md",
       "title": "How this retailer uses machine learning and computer vision to keep its shelves full",
       "excerpt": "Yet The Home Depot is meeting this test head-on by using a mix of machine learning (ML) and computer vision technology to help staff find products for customers quickly and effectively.",
@@ -1274,49 +1327,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-ai-facial-recognition-tech-use-will-be-approved-by-government-within-weeks.md",
-      "title": "AI facial recognition tech use will be approved by Government 'within weeks'",
-      "excerpt": "The Government says it will enable the use of facial recognition technology 'within weeks'. It says this is facilitate the prosecution of offenders for riot and violent disorder, after the violence and looting in Dublin on Thursday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
-      "originalUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.irishmirror.ie/incoming/article31515103.ece/ALTERNATES/s1200/1_dublin-unrest.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
-      "cdnAmpWebUrl": "https://www-buzz-ie.cdn.ampproject.org/c/s/www.buzz.ie/news/irish-news/ai-facial-recognition-tech-use-31532681.amp",
-      "publishedDateTime": "2023-11-26T17:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "buzz.ie",
-        "domain": "buzz.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

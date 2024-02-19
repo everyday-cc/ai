@@ -87,6 +87,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
   - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
     excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
     publishedDateTime: 2024-02-15T10:25:00Z
@@ -230,6 +239,6 @@ related:
       domain: theguardian.com
     quality: 34
 
-secured: "RweHwxoA01NrXCeAtqtNvU6W7Zyh6FJ4BcW0Ne0PgYYu3uXT0pAgcJrJipnCq2wtb9dJn72TJKlW7toMNbW5BHzRi2Juld0TCIF5pnfXnbwz/AZF/14UZKS8GGcoOSoXNKh695aAJY9SKsYl0Lw3xgyQeEyEyzMn6vP8PK/Jvmu9avv12R+WeOP4tWMdjYEDA+aajzySkjNemWtZtAv9Q1g1ETTwzFlLKDraCT8yUWOiIa0DkoVuv3jH0Oxn60wj0iOYLjrHEbLPQmpJQbER7e1Rl3QkzQsFnIKsCIq3OOIcIeay0mYW7wmpthNFelRcX+nqX2M5vuoA3i/Qu3q+KtI3eXW+on/ukZRAxgvALCs=;iAkRyQgdoQMoL4ExJj6zJg=="
+secured: "XePY9wt/9mYw0NiUnLmmkWF8qEhClg2ydxE67+jyZw0eaZrAocGwnrNAP6Twn7Qf/l6mcmja98diQcW6ppUfjTIGIrkDfButBfvqZ0iQknLvqbqQdC1+YSsEVAGVdpq79gJcSqWIlA0WcWNoPUJBOU83wjT4TDJOrPvHPe5ZueE59Fl4V4L4Q0D2gp5wh5wfOgJEdxUkcx59wZVJjB6hLUlOah7JamMwGcn4vnFWR6rrMn6WkLj1AwtYSOoiAkVUbjBzBC5KL18jgoWarn6XQSB1/QhvfW6BTmDSAvABp7Z4jlq7MMe47lN8JKixxCrmJnWix6z6u8xIYKY1l8sewD5XNnGngYUNcv/VA1SJzxTVoqvlo1RasCKBDKIBHWS3EA+wmMfsNaS6gmhFf8FintzWlYHCotIUsVBcdaxpdXci9YdwgZjvBk9GYYDY2UnupCpFhZx3nSfZWcO5HmmZLgb18pU9sb67WdfYMAufcgGiSyhfjIQAkbY3FUh6qzc8txrJNjMZ3urmMKETx6ZAEQ==;nDU671GLzZU95PToNipqQg=="
 ---
 

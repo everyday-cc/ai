@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Chinese EV Maker Xpeng to Hire 4,000, Invest in AI"
+    excerpt: "SHANGHAI/BEIJING (Reuters) - Chinese electric vehicle maker Xpeng said it would hire 4,000 this year and invest millions in artificial intelligence, as it seeks to survive what it describes as a \"bloody sea\" of competition in the world's largest auto market."
+    publishedDateTime: 2024-02-19T06:48:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/chinese-ev-maker-xpeng-to-hire-4-000-invest-in-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
     excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
     publishedDateTime: 2024-02-17T00:00:00Z

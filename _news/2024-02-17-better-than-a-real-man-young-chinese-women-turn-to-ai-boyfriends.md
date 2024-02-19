@@ -7,7 +7,7 @@ originalUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-wo
 webUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-women-turn-ai-boyfriends-2361986"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese EV Maker Xpeng to Hire 4,000, Invest in AI"
+    excerpt: "SHANGHAI/BEIJING (Reuters) - Chinese electric vehicle maker Xpeng said it would hire 4,000 this year and invest millions in artificial intelligence, as it seeks to survive what it describes as a \"bloody sea\" of competition in the world's largest auto market."
+    publishedDateTime: 2024-02-19T06:48:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/chinese-ev-maker-xpeng-to-hire-4-000-invest-in-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
   - title: "Chinese AI groups use cloud services to evade US chip export controls"
     excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 5,748 kr. 3,425 kr. for 1 year 285.42 kr. monthly equivalent Then 739 kr ..."
     publishedDateTime: 2024-02-19T01:47:00Z

@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Startup launches AI-backed education, health, and edutainment content service"
-excerpt: "Vc Ananth: \"We are the world's first knowpedia and, currently, focused on health, education, and edutainment. We are using AI and human intervention to provide targeted, curated services and content for individual requirements,"
-publishedDateTime: 2024-02-18T16:24:00Z
-originalUrl: "https://health.economictimes.indiatimes.com/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-webUrl: "https://health.economictimes.indiatimes.com/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
-cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service/107800611"
+excerpt: "It is projected that there will be a lot of job redundancy due to the deployment of AI by corporates and businesses."
+publishedDateTime: 2024-02-19T04:57:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/startup-launches-ai-backed-education-health-and-edutainment-content-service/107810176"
+webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/startup-launches-ai-backed-education-health-and-edutainment-content-service/107810176"
 type: article
-quality: 71
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: health.economictimes.indiatimes
+  name: cio.economictimes.indiatimes
   domain: indiatimes.com
 
 topics:
@@ -21,7 +19,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-107800611,imgsize-37184,width-1200,height=765,overlay-ethealth/industry/startup-launches-ai-backed-education-health-and-edutainment-content-service.jpg"
+  - url: "https://etimg.etb2bimg.com/thumb/msid-107810176,imgsize-37184,width-1200,height=765,overlay-etcio/artificial-intelligence/startup-launches-ai-backed-education-health-and-edutainment-content-service.jpg"
     width: 1200
     height: 765
     isCached: true
@@ -69,6 +67,6 @@ related:
       domain: business-standard.com
     quality: 33
 
-secured: "L/eLV+b1BvCzwYq52xve6FuZE6KoVo4bsdWCO3PJidq4BFxphzuax55drbCx+bVgV6kR2cL0Ja3ioXeeHQ9RL+w6npkqiA9fJjADtAfXQqLAIIgKOcUbwm9xjKqFeWJFkMIZBXuBbFJNYcog3LymgGcP1kmd32qNZerxClnenD2/ien7J8reO3Pc1p1sVfAPohdWCn/0DT0IQlWXpXEAOVfSmnIWdPAPlY0DKd9k0bJmUUYq9ogV+5UCOzFARDGLDJLPownYUiOXMEHy3FKnzSul44eTNDnQ2TY+L5APGeSQ0yIRBWNgDIlg3/Yv6et6HNal3IxesFftPLbChxkDabffDYSeDXsuk88QVSyLhz0=;a8KGtjRzm8DPrLIWppEaGQ=="
+secured: "5/qN6ZX9PPM+xTnJ0EZAZhAxfsEYuUSGi07+Mh14o7Kpj9Z4WQ94DVywJ6tSoGCC6c6dnInUyK6VyccLh2elUwb4dznU/sEo3gkhXCur1/HvSroGWp85414n9ZB64XPT4aBcn4NhQxGMcWiM02eLaLoKd/BewWr9eyjniPDuEWZjK52DOm+8LsNkTPgmieCRZDF4GfVLoEA75pAgVokgiLpO5AKNoQnrAQ9kOkLWQBDyGhU5zsYquCTIideAe1VpVVlZK/LktJzZHO2izdn/EQm3sYzDGwJOIUB6KCX0HFWpTgtpCSW2oXBV49brKYyqqSio+6gEytPqT4vJolytYd2gHOqzopUhNkIKQog8RHA=;uAfqJYeU0SXhWmtg+w2K0Q=="
 ---
 

@@ -62,22 +62,6 @@ related:
         width: 1351
         height: 900
         isCached: true
-  - title: "5 Generative AI Video Tools Everyone Should Know About"
-    excerpt: "While last year was all about chatbots and image generators, this year, generative AI tools that help us create and edit videos are all the rage."
-    publishedDateTime: 2024-02-14T05:37:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/14/5-generative-ai-video-tools-everyone-should-know-about/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cc5f9e92dce2942f51519c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Generative AI Will Redefine The Workplace For All Organizations"
     excerpt: "Artificial Intelligence, or AI, is like a highly specialized tool in a corporate setting, adept at performing specific tasks such as analyzing data, predicting patterns or automating routine processes."
     publishedDateTime: 2024-02-15T05:08:00Z

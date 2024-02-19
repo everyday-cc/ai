@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
+    excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
+    publishedDateTime: 2024-02-19T05:00:00Z
+    webUrl: "https://www.bloomberg.com/opinion/articles/2024-02-19/artificial-intelligence-microsoft-google-nvidia-win-as-computing-costs-surge"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 66
   - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
     excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
     publishedDateTime: 2024-02-15T18:50:00Z

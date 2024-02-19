@@ -48,20 +48,6 @@ related:
       name: TechRadar
       domain: techradar.com
     quality: 67
-  - title: "There’s an art to naming your AI, and it’s not using ChatGPT"
-    excerpt: "Similar thinking had a hand in the naming of one of the early pioneering AI systems, IBM’s Watson. Ahead of its 2011 unveiling, company executives had considered naming the project “Sherlock” but felt it important to emphasize that Watson’s ..."
-    publishedDateTime: 2024-02-14T05:47:00Z
-    webUrl: "https://www.deccanherald.com/opinion/theres-an-art-to-naming-your-ai-and-its-not-using-chatgpt-2893788"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 56
-    images:
-      - url: "https://images.deccanherald.com/deccanherald%2F2023-09%2Fca6187b5-343a-457b-b748-667b9060a567%2FChatGPT.jpg?rect=0%2C0%2C1280%2C672&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "What the EU’s tough AI law means for research and ChatGPT"
     excerpt: "The EU AI Act is the world’s first major legislation on artificial intelligence and strictly regulates general-purpose models."
     publishedDateTime: 2024-02-16T00:00:00Z

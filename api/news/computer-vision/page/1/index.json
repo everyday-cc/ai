@@ -1004,6 +1004,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-02-a-sleeker-facial-recognition-technology-tested-on-michelangelos-david.md",
+      "title": "A sleeker facial recognition technology tested on Michelangelo’s David",
+      "excerpt": "New facial recognition technology replaces lenses with a metallic surface for simple, compact and cost-effective identification systems. During a demonstration, the technology correctly identified Michelangelo’s David,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "originalUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david/_jcr_content/image.scale.small.jpg/1706895432431.jpg",
+          "width": 600,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-i-just-tried-apple-vision-pro-heres-what-i-think-of-this-3500-headset-so-far.md",
       "title": "I just tried Apple Vision Pro — here’s what I think of this $3,500 headset so far",
       "excerpt": "The Apple Vision Pro offers some truly impressive entertainment and multitasking capabilities, but will it be worth $3,500? Here’s what we think after going hands-on.",
@@ -1453,49 +1496,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
-      "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
-      "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
-      "originalUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg",
-          "width": 526,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T18:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aclu.org",
-        "domain": "aclu.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

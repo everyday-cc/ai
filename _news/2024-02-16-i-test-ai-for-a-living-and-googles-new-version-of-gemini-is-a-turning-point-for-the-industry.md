@@ -19,88 +19,47 @@ topics:
   - AI
 
 related:
-  - title: "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI"
-    excerpt: "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate."
-    publishedDateTime: 2024-02-14T06:09:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp"
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-16T12:12:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 75
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg"
-        width: 1280
-        height: 720
+      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
-    excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
-    publishedDateTime: 2024-02-16T06:50:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/advisory-firm-ankura-launches-generative-ai-tool-crafted-with-chatgpt-developer"
+  - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
+    excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
+    publishedDateTime: 2024-02-16T04:43:00Z
+    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "5 Awesome ChatGPT Side Hustles: Make Money with AI"
-    excerpt: "The rise of AI tools has opened up new pathways for individuals ... ChatGPT’s capabilities in understanding and generating language make it a valuable asset for translation tasks. When venturing into this service, it’s crucial to input clear, simple ..."
-    publishedDateTime: 2024-02-18T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/5-awesome-chatgpt-side-hustles-make-money-with-ai/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/side-hustle.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
+        width: 1529
+        height: 1038
         isCached: true
-  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
-    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
-    publishedDateTime: 2024-02-15T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
+  - title: "Revolutionizing CXM with Generative AI: Insights from Everest Group’s Enterprise Readiness Report"
+    excerpt: "The integration of generative AI into Customer Experience Management (CXM) is heralding a new era of digital transformation. Everest Group's extensive report, “Generative AI in CXM: Assessing Enterprise Readiness for this Disruptive Transformation,"
+    publishedDateTime: 2024-02-15T16:32:00Z
+    webUrl: "https://www.unite.ai/revolutionizing-cxm-with-generative-ai-insights-from-everest-groups-enterprise-readiness-report/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
+      name: unite
+      domain: unite.ai
+    quality: 26
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Google claims AI advances with Gemini LLM"
-    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
-    publishedDateTime: 2024-02-16T06:15:00Z
-    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-    images:
-      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
-    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
-    publishedDateTime: 2024-02-16T17:54:00Z
-    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 39
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
-        width: 1600
-        height: 809
+      - url: "https://www.unite.ai/wp-content/uploads/2023/12/wfm-400x240.png"
+        width: 400
+        height: 240
         isCached: true
 
 secured: "wTQk0bV/y+HEaguVByQ4BwIg7Au3MLJFjeMmiomJplmHb+pj1nFHX5f3Dx4iCdfArJOLO4sgF6rqT5FNK/QiVZoP3+XAyl9clXIJQzJM1O4fOJ/5fzxNZ/b7vjvtiqwQADMhNXtiYEHOvjwud/5XU4/jovYqAa5ecmWXt0vrQ3JlzrjJX+kMYK9RKc14F9pyc5k0k49CZ4BCKQ7kYXFRr5MdFjXI4FTR1mVA6IQYQzZHpYjeBl6qpkpAn5RG9ozyc5spptqDVr2eRouUV8ERydkMlIMF9YDhSRmZIUfBjl7CfIVRQVNfydomHUzYDLJVMol9YuHRHiaTfnRQbQQCLE9TZ6pF0db+dSaKyEdsa2OlrEotbcjuc9sSzpBKKr1lPZoj0FLmyiFrfu3y8Z0A3UJhVfagbVQbKkqZ+fSRACIYR6L3aT9PUmGn/S5D+i4ct4apI+wTlIH11lYn5n/sbUXITt1qCY+NngV5CEJq30hX34cltMUIbgt1DxrBvLo+6f2WJvehZjlrWgbG6lQSlw==;dd2IUcDchfm/CEmQ1qsQag=="

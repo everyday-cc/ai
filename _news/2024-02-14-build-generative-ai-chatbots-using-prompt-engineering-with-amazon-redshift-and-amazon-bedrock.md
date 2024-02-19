@@ -87,6 +87,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Interoperability is not AI"
+    excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
+    publishedDateTime: 2024-02-19T04:57:00Z
+    webUrl: "https://www.waterstechnology.com/emerging-technologies/7951677/interoperability-is-not-ai"
+    type: article
+    provider:
+      name: WatersTechnology
+      domain: waterstechnology.com
+    quality: 37
+    images:
+      - url: "https://www.waterstechnology.com/sites/default/files/styles/metatag_image_large/public/2024-02/GettyImages-1220591821.jpg?h=bb652acd&itok=PCEglsgX"
+        width: 1200
+        height: 743
+        isCached: true
   - title: "Soluna Ventures into AI Hosting with Co-location Agreement"
     excerpt: "Soluna's co-location service offering comes at a pivotal moment as the company prepares to launch its own AI Cloud business. Leveraging its expertise in renewable energy, data center operations, and strategic partnerships, Soluna is poised to provide AI customers with Renewable Computing at a fraction of the cost of traditional data centers."
     publishedDateTime: 2024-02-14T13:36:00Z
