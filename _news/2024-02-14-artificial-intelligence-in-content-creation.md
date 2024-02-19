@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Startup pitches AI tool to prevent Pentagon procurement blunders"
-    excerpt: "This creates opportunities for AI startups like Virtualitics, which has won Air Force and Space Force research contracts and is offering an AI tool that could identify vulnerabilities in procurement programs by analyzing historical data and predicting ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://spacenews.com/startup-pitches-ai-tool-to-prevent-pentagon-procurement-blunders/"
-    type: article
-    provider:
-      name: SpaceNews
-      domain: spacenews.com
-    quality: 37
-    images:
-      - url: "https://spacenews.com/wp-content/uploads/2024/02/Screenshot-2024-02-14-at-5.46.50 PM.png"
-        width: 1508
-        height: 782
-        isCached: true
   - title: "Startup launches AI-backed education, health, edutainment content service"
     excerpt: "A start-up has recently announced that it will provide curated education, health, and edutainment services targeting specific needs using artificial intelligence."
     publishedDateTime: 2024-02-18T14:18:00Z

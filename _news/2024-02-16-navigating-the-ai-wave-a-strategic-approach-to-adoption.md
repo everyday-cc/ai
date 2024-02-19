@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/navigating-the-ai-wave-a-strategic-approach-to-adoption/amp/"
 type: article
 quality: 87
-heat: 121
+heat: 107
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the ethical challenges of artificial intelligence"
-    excerpt: "They both study the ethics of artificial intelligence and join us to talk about the challenges it poses. If you’d like to comment on any of the topics in this show or suggest a topic of your own, please get in touch with us on Facebook,"
-    publishedDateTime: 2024-02-13T23:16:00Z
-    webUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/"
-    ampWebUrl: "https://www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2024/02/13/navigating-the-ethical-challenges-of-artificial-intelligence/?outputType=amp"
-    type: article
-    provider:
-      name: OPB
-      domain: opb.org
-    quality: 54
   - title: "Ethical Considerations for Litigators Navigating the Artificial Intelligence Landscape"
     excerpt: "With AI, the ability to drive massively greater levels of productivity is within reach, but there are risks if the technology is not used properly."
     publishedDateTime: 2024-02-16T15:09:00Z

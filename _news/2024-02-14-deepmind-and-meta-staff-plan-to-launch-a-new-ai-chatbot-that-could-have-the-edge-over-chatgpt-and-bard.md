@@ -78,15 +78,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
-  - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
-    excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
-    publishedDateTime: 2024-02-14T00:33:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/chatgpt-gets-scary-update-as-ai-becomes-more-human"
-    type: article
-    provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 34
 
 secured: "gH0FUZGpzuIMSFgdMcaxY64F1rvLYRibHshz6W+EhZgfiBU3CAJyvlEd8JgvrQGgJ7m4hwgCMqSmveZZpfYpE+r2FuXlRayyF47Ahnh5Zrtp86TJXnujEbCerutdNTGLTW4oxAVlcl1HSXhl5lupLwUobuSvwZQBCpO90wMBrIegk00O7e53mp9XA1aFxgPSmhkmwvtOrt5c5fjZdZ6cwHsY/So35yQZcZBFt5pDiStTS07dkynkuhtDi778nvMpeaU2et4BPPyVUUAyCcpnFGrs/9ADI0e+UXay2GNuekP8s8N3JJXfG3+aADZNiZ4V0hWpg1dpUhLki6BWafT+0mag17rpIygv9jJScSWf0bkJoMgqqAiRw/MjIo+hmG8pxOQEVEpcUp7Pj329GlGuU5LqkHx1+tuKtDQQNYyG8oFr0cvME0up1k+BO/cCf09IKXLnZaCHt23srmToKeauINi/YEGZkJ7Laci89wx2hP8nHC2MMSGs83+jIm2TBktGoVl5xkKwXkBzzM/j/xCBLw==;vTxbK0gHE1c45bmWanZLkg=="
 ---

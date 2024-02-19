@@ -72,20 +72,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "VAST Data and Run:ai Announce AI Solution with NVIDIA Accelerated Computing"
-    excerpt: "VAST Data, the AI data platform company, today announced a partnership with Run:ai, a company focused on compute orchestration for AI workloads. This collaboration offers a full-stack AI solution encompassing compute,"
-    publishedDateTime: 2024-02-13T23:31:00Z
-    webUrl: "https://insidehpc.com/2024/02/vast-data-and-runai-announce-ai-solution-with-nvidia-accelerated-computing/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/Vast-logo-2-1-0124.png"
-        width: 714
-        height: 422
-        isCached: true
   - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
     excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
     publishedDateTime: 2024-02-15T17:00:00Z

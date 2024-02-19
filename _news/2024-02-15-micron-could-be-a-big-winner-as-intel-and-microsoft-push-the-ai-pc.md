@@ -192,15 +192,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "Microsoft reveals what’s to come in .NET 9"
-    excerpt: "We’re also turning our focus to delivering paved paths to popular production infrastructure and services, for example running in Kubernetes and using managed database and caching services like Redis,” the .NET team at Microsoft wrote in a blog post."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/microsoft-reveals-whats-to-come-in-net-9/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 49
   - title: "Google's new AI model is 700x more powerful than OpenAI's flagship"
     excerpt: "Google claims that Gemini 1.5 can handle up to 1 million tokens of input, equivalent to about 4 million characters or 800,000 words."
     publishedDateTime: 2024-02-16T03:24:00Z

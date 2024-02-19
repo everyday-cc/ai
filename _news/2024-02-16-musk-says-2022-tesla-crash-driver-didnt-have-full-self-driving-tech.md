@@ -48,15 +48,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 49
-  - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
-    excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
-    publishedDateTime: 2024-02-13T23:07:00Z
-    webUrl: "https://www.carscoops.com/2024/02/tesla-employee-killed-in-crash-had-full-self-driving-on-claims-passenger/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 48
 
 secured: "OsAKqm6reuYQTF+K08vaaIDl8LH1Y2typTXAv0hTRjVyN6+zqUP05RV/fyUPLlNxUyvIyEow8Qfw5HIBE9sTKyUq/dRkHUGKOEZkDaMRybU/BgTF8muJ7zoX2eHrhaZ583YH+JT8ock05VXIRX64EeYPeI5dDAtScCyGXWMysVDn56hvyATFJyZfDHF7lquzUBmA1MetVyqg76+OU2ozr5fx71XBrJOB3klNH6FKyqN/f5586/+dqS702oAtOxoWelB5uxzCunbLhGY9D33tJvfybZD8P8u3aXQgWeWy2If7mLmWchBtbII7WilVtMMuiIf1woX37JngSM3Zl3Ow3PK4iPfhH4LuYHpOLh2qyT0JZ/1XUGdmIM4bjIe1n4xZw6la5SHS5gTtsWLBY6FxNV7/Ouk2WmgX9QbTdZn/hbtQ2uOBR56JLJZ3BTBwsd3/QPtORgGCRyyW8lBW0g3XLanEZG+aX9m5+yDkMIWDpKlhl/tVdCL5EasjoLcUEnZPugKwk6dyn1GzjdunEvqyeA==;yLXaY15cgKZbIUaNQB4pGw=="
 ---

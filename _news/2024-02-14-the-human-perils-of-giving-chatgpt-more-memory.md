@@ -76,15 +76,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
-    excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
-    publishedDateTime: 2024-02-14T00:33:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/chatgpt-gets-scary-update-as-ai-becomes-more-human"
-    type: article
-    provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 34
 
 secured: "IuP5KhzAcalmMJXswhH7CMVU9wVpyKrY2H+L9KIAYBKC8EUI3MG+wy9en9Ou+xfQgwar89v7TE/pnlDIft7vHeWqFG0auJfxBGvr8QCszmKSQlBFXbMjDHFXHr7yHFsA8Sxyu1gy7goMFR22ZwkG08qmRWlTjxdxGvOb/rUDL8K4OXEcRpdNChJTI/xgHHMJmexo+vJbzx4yiEI1NLtHggFljWp8Hq+YQmNUCktXSb3hheTZDPOptFkSP02cRVfIDhJZPmSHiOKc4wccMrWKTfzJcTucuk/+D9wqtj/bL/r6umRP4ZJUS6XMW7syGOoU2JMlA390JXVzCrEt/TJJhjZXR9W4Nov6woPoILocLlWgo5klWbj99fUj5ujCjnV8iO82WyHb0rwEBTh4gMnmWqFX+pYMPhiP2WTjgfqMdE/lfgfz7GPdF0W0laPi2Im5XLemkbYN7pZFcF7oCu9xNJeCB17dFblw2ved2zjC13ZcXoMCX4zrm9wHnaULrncS2MHeebCEHJuDumRbGnb1UA==;ykTNVRzUJ0taby1pt3W93Q=="
 ---

@@ -2,6 +2,168 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2023-12-14-aws-rolls-out-amazon-q-an-ai-assistant-for-businesses.md",
+      "title": "AWS rolls out Amazon Q, an AI assistant for businesses",
+      "excerpt": "Amazon Web Services (AWS) is rolling out a new generative artificial intelligence (AI) assistant called Amazon Q that is built for businesses to help boost their efficiency. AWS announced Amazon Q at its recent re:Invent conference and has begun the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/finance/aws-rolls-amazon-q-ai-140038731.html",
+      "originalUrl": "https://www.aol.com/finance/aws-rolls-amazon-q-ai-140038731.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/bN7g0esGxR1PXq9E9aXmwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_fox_business_239/58836082e0516b9f3d79e4b008fefb2d",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition.md",
+      "title": "Scientists Combine Lab-Grown Brain Tissues With Computer, Test Speech Recognition",
+      "excerpt": "This research paves the way for potential advancements in bio-computing, hinting at the prospect of more efficient systems compared to traditional computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "originalUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ndtvimg.com/i/2016-01/brain-generic_650x400_51453283827.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/scientists-combine-lab-grown-brain-tissues-with-computer-test-speech-recognition-4671577/amp/1",
+      "publishedDateTime": "2023-12-14T06:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-gpai-meet-adopts-new-delhi-ai-declaration.md",
+      "title": "GPAI meet adopts New Delhi AI declaration",
+      "excerpt": "Further, the declaration also saw participating nations agree upon using the GPAI platform to create a global framework on AI trust and safety, and make AI solutions and benefits available for all. India also pitched to host a GPAI Global Governance Summit to finalize the proposed framework, in six months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html",
+      "originalUrl": "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration-11702487342900.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/12/13/1600x900/GPAI_2023_full_delegation_1702487461909_1702487466925.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/gpai-meet-adopts-new-delhi-ai-declaration/amp-11702487342900.html",
+      "publishedDateTime": "2023-12-14T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-chinese-ai-startup-01ai-looks-to-raise-200-million-sources.md",
+      "title": "Chinese AI startup 01.AI looks to raise $200 million -sources",
+      "excerpt": "BEIJING/HONG KONG (Reuters) -Beijing-based AI startup 01.AI is raising up to $200 million in fresh capital, two sources familiar with the matter said, building on a valuation of $1 billion reached last month on the back of surging global interest in open ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/chinese-ai-startup-01-ai-092630675.html",
+      "originalUrl": "https://www.aol.com/chinese-ai-startup-01-ai-092630675.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T04:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-police-suggest-facial-recognition-cameras-to-discourage-bank-robbers.md",
       "title": "Police suggest facial recognition cameras to discourage bank robbers",
       "excerpt": "The Ho Chi Minh City police want cameras installed at all banks to recognize the faces of visitors to dissuade robbers.",
@@ -972,194 +1134,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-how-to-build-a-successful-procurement-strategy.md",
-      "title": "How to build a successful procurement strategy",
-      "excerpt": "Here are ten steps for building a procurement strategy to achieve operational efficiency, faster procurement cycles and greater cost savings.\nThe post How to build a successful procurement strategy appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "originalUrl": "https://www.ibm.com/blog/procurement-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:17:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-the-three-main-types-of-cryptography.md",
-      "title": "The three main types of cryptography",
-      "excerpt": "A look at three main categories of encryption—symmetric cryptography algorithms, asymmetric cryptography algorithms, and hash functions.\nThe post The three main types of cryptography appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T15:14:26Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-gemini-pro-api-and-more-new-ai-tools-for-developers-and-enterprises.md",
-      "title": "Gemini Pro API and more new AI tools for developers and enterprises",
-      "excerpt": "Launching Gemini Pro API and four more AI tools: Imagen 2, MedLM, and Duet AI for Developers and Duet AI in Security Operations.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/",
-      "originalUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiProAPI.width-1300.jpg",
-          "width": 1201,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/",
-      "publishedDateTime": "2023-12-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-google-debuts-imagen-2-with-text-and-logo-generation.md",
-      "title": "Google debuts Imagen 2 with text and logo generation",
-      "excerpt": "Called Imagen 2, Google’s enhanced model — which was quietly launched in preview at the tech giant’s I/O conference in May — was developed using technology from Google DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
-      "originalUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-944347618.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
-      "publishedDateTime": "2023-12-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

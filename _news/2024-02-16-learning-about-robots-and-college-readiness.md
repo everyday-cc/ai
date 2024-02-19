@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-16T00:00:00Z
 originalUrl: "https://news.uchicago.edu/story/learning-about-robots-and-college-readiness"
 webUrl: "https://news.uchicago.edu/story/learning-about-robots-and-college-readiness"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "mEz9Mqa8sb6AhXVqEmZ8PzpP0UHuy8H5qHNS/1fsa54w4gjIEArkC8UdydEPr1cdHeeBfnb7ulUEmJN14JonY3AANDKCYCdKzAuY1dBc2kTXWktkODYTmQMWhK+7lJPekR/nLJdJZDmvVOAv0uUaYO96JEWnZahC8QbbxJ+yiK0UtZLoBSXj2tFDXW+POcMv3DevYkOtXgk9Ks9w0taPMty2kPLAP8gXv777YldzLqaEI6PC3O2ReYsfb/+iCpASz0AZtu01zL3Z8XfDNxkvWJRz5dF6pmP0MJZwvbEXzOp42A3mEEpf+tzLXkgmUeu/W2v+YtkjfUp98LgRLmW6QqPCzZ7rzd1Du95/Jxci6X0=;r+5lSh/aEZe+vydZXS9zKQ=="
+images:
+  - url: "https://news.uchicago.edu/sites/default/files/images/2024-02/Collegiate-Scholars-Program-Robotics.jpg"
+    width: 1380
+    height: 776
+    isCached: true
+
+secured: "bfQo4WbFjAxOZVeTt+woMzZWvvtYBdqUK5I/g5WzdfOcYulVKfStWMWZjIrYhzwndMspcpzrO5q/ZnQuivzJmWC94HI/3dg4d0A7ItIXbMrsrCfoz/ttKsOlArVBIrCQcyjRZmamysJEwuy+a1Z5c2ZicZeXXAehCOXRCsU13A+v44Sfzgk/wxW7ViEbaODu5Gq8LnYtcWhYGWT7TPdk0Jx5quMIHhqwsF5498Mrmj+5wK/SYb9baDee3nnPVUkG1YzjAvapWcrnJNhPpZioqwM3YT8DJPcM/ezk3zrRuP93BZfZcT35QTIviQUewfWqG76biUknzEzR14sCn8oqdb00nVoqlxMOf6TXF4drSIg=;ecOKuntTFEduyL1Agb6Cpg=="
 ---
 

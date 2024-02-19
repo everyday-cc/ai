@@ -197,15 +197,6 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 51
-  - title: "Microsoft reveals what’s to come in .NET 9"
-    excerpt: "We’re also turning our focus to delivering paved paths to popular production infrastructure and services, for example running in Kubernetes and using managed database and caching services like Redis,” the .NET team at Microsoft wrote in a blog post."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://sdtimes.com/msft/microsoft-reveals-whats-to-come-in-net-9/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 49
   - title: "Micron Could Be a Big Winner as Intel and Microsoft Push the AI PC"
     excerpt: "Chip giant Intel and software titan Microsoft are each working to bring artificial intelligence to the personal computer. Intel is betting that integrating dedicated AI hardware into its CPUs will give it an edge and boost demand for PCs, while Microsoft ..."
     publishedDateTime: 2024-02-14T22:57:00Z

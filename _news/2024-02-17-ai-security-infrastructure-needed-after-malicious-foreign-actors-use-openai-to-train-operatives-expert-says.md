@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
 type: article
 quality: 84
-heat: 104
+heat: 116
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "What to Know About OpenAI’s New AI Video Generator Sora"
+    excerpt: "Now you can. OpenAI’s latest generative artificial intelligence offering, Sora, can generate breathtakingly realistic videos that are up to a minute long from text prompts. OpenAI CEO Sam Altman announced the model’s creation on X on Thursday."
+    publishedDateTime: 2024-02-16T16:10:00Z
+    webUrl: "https://time.com/6695938/sora-openai-video-generator-ai/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 67
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2006246625.jpg?quality=85"
+        width: 4000
+        height: 3000
+        isCached: true
   - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
     excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
     publishedDateTime: 2024-02-15T20:35:00Z

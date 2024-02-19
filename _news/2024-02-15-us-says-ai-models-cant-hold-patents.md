@@ -36,20 +36,6 @@ related:
         width: 2560
         height: 1696
         isCached: true
-  - title: "Only real people can patent inventions — not AI — US government says"
-    excerpt: "(CNN) — Artificial intelligence promises to supercharge scientific research and entrepreneurial innovation, helping researchers and inventors make new discoveries and creations. But how will patent protections apply to inventions made with the help of AI ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://keyt.com/news/money-and-business/cnn-business-consumer/2024/02/14/only-real-people-can-patent-inventions-not-ai-us-government-says/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 39
-    images:
-      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
-        width: 860
-        height: 484
-        isCached: true
 
 secured: "AYIAfddd97JO/WUG67dvLisPeyZRmQj/93527zeh13KAd1Leg9qQk4/1NpLUIRZxpMQWSN77XsUBgmC5zlA1AOjDnkCZ7Uec90uHgIAK1VOFxB9xuyF8JT2YF+jQx8U5EBuGRHOwheTMpT1PXI2wOwtLDtDK9rZk69dG92XG9V+vr5oiG/wwMIqtgNEAypRTgknfJ0rAG9ZcqiSkH7Arnq7xTTcF6UIK6jleZt7aCZg/HKxcj+Bl1toU9ECNmH8cOctQroEay9106HVZNVO0ERc+XbBe5hzNTFZqkchB84FrsygWQHIevEBeANvY/V3j248QyVyHD6Z/UtJGPLMMQRdDCNoX0poEd290AAccjDGvvXpowLh422VzEhCwz3qc0fVWkuMvlqSTIdGtO79/mlcA5aHHk/yBPBfYYNHzgnscqRfOKYsJM6VRJ5LwCBuzYDHQMxZgCf2WObdeW1kK7dcs00q2aCWyhOWPOCbHRtB6LoOdPZtf0hsy5PJ6tKxDfGAlSHkPRCIOxaBrLnh5Ug==;ZT86C0WDOzVQrxnKU285AA=="
 ---

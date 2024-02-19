@@ -38,20 +38,6 @@ related:
         width: 1199
         height: 685
         isCached: true
-  - title: "Use AI to Personalize Customer Experience and Build Trust with Customers"
-    excerpt: "Heather Kurzenski, CX program specialist, Intelisys, offered strategies to use AI and build trust and understanding with customers."
-    publishedDateTime: 2024-02-13T23:41:00Z
-    webUrl: "https://www.tmcnet.com/voip/news/articles/458687-use-ai-personalize-customer-experience-build-trust-with.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2024-feb/6214588199-NEW-2024_collocated_ITEXPO_PR_1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "yzC/skyHPMDIZJjr7p3uxnM63fj1NI4gfaXYiTm19wJ1IQtCvhFsgL/yi5B2rJWK3Li1bFYgJqI1HTfSpP7bYZToIgQLZAXYmMgp3xyU87kfTTvHf32f1B5K4OXI6tNE6IuEzSLI/z4mR7Ecjj9u1N8C05XN0qunFqs0lX/r+tzT4L67H8u4RO3P9xugaSFHdhNOPJ+0XMFWsC9L2H5FzeQEVSLxVtS/fHGoL/LAIcm+QjDSftse9yqN6WrlVf88jAlillhVwZnFuqdqmWgMOQq8KuBjWfdD75IadreP0fe6JGwjuTJ5WPWcKS8FqBoiLIpnHC6nEHb+VhXPyia/AhKy/Kh57GBfrVhxyCUzMMs=;BPPbDWnKHtYzcehRjVBWAA=="
 ---

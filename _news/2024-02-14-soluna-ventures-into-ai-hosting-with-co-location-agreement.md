@@ -91,20 +91,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "GAO Utilizes Artificial Intelligence to Enhance Efficiency and Effectiveness"
-    excerpt: "Artificial intelligence (AI) continues to revolutionize various sectors, offering solutions to complex problems and tasks traditionally requiring human intelligence. Recognizing its potential, the Government Accountability Office (GAO) has embarked on an ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.hstoday.us/industry/latest-from-gao/gao-utilizes-artificial-intelligence-to-enhance-efficiency-and-effectiveness/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 34
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2024/02/iStock-1488283230.jpg"
-        width: 775
-        height: 450
-        isCached: true
   - title: "Fujitsu AI Strategy Strengthens Data Integration, GenAI Capabilities with Dedicated Platform and New Fujitsu Uvance Offerings"
     excerpt: "Fujitsu today announced details of a new company-wide AI strategy that focuses on deepening human – AI collaboration, presenting a"
     publishedDateTime: 2024-02-14T21:01:00Z

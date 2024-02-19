@@ -41,6 +41,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "Why artificial general intelligence lies beyond deep learning"
+    excerpt: "Many believe deep learning will continue to advance and play a crucial role in achieving AGI — but it does have its limitations."
+    publishedDateTime: 2024-02-18T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 750
+        isCached: true
   - title: "Can machines think? All about the race to achieve artificial general intelligence."
     excerpt: "From mythical robots to game-playing AIs, the mankinds pursuit of artificial intelligence spans millennia. While Leonardo da Vinci's sketches fuelled the flames, and the ‘Turing Test sparked the fire,"
     publishedDateTime: 2024-02-14T23:00:00Z
@@ -56,20 +70,6 @@ related:
       - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-100452,msid-107697505/.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "SPIN artificial intelligent AI synthesizer"
-    excerpt: "The turntable component, a modified Numark PT-01, uses a dummy record for time code tracking to manipulate the playback of the AI-synthesized music. Beyond its functionality, SPIN also serves as a conversation piece on the ethics of AI-generated art and ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-synthesizer/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/SPIN-AI-synthesizer.jpg"
-        width: 1280
-        height: 846
         isCached: true
   - title: "Understanding Artificial Versus Human Intelligence"
     excerpt: "What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s University’s Daniel Ernst explains. What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s ..."

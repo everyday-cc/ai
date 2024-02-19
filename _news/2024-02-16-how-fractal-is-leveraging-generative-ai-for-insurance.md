@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "GAO Utilizes Artificial Intelligence to Enhance Efficiency and Effectiveness"
-    excerpt: "Artificial intelligence (AI) continues to revolutionize various sectors, offering solutions to complex problems and tasks traditionally requiring human intelligence. Recognizing its potential, the Government Accountability Office (GAO) has embarked on an ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.hstoday.us/industry/latest-from-gao/gao-utilizes-artificial-intelligence-to-enhance-efficiency-and-effectiveness/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 34
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2024/02/iStock-1488283230.jpg"
-        width: 775
-        height: 450
-        isCached: true
   - title: "Soluna Ventures into AI Hosting with Co-location Agreement"
     excerpt: "Soluna's co-location service offering comes at a pivotal moment as the company prepares to launch its own AI Cloud business. Leveraging its expertise in renewable energy, data center operations, and strategic partnerships, Soluna is poised to provide AI customers with Renewable Computing at a fraction of the cost of traditional data centers."
     publishedDateTime: 2024-02-14T13:36:00Z

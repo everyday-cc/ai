@@ -51,15 +51,6 @@ related:
         width: 2250
         height: 1265
         isCached: true
-  - title: "Tesla Employee Killed In Crash Had Full-Self Driving On, Claims Passenger"
-    excerpt: "Tesla likes to boast about FSD's safety, but a report about a fatal crash in 2022 raises concerns about how drivers interact with the system"
-    publishedDateTime: 2024-02-13T23:07:00Z
-    webUrl: "https://www.carscoops.com/2024/02/tesla-employee-killed-in-crash-had-full-self-driving-on-claims-passenger/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 48
 
 secured: "A5q4f3p6/rFWnleh81qf7qipxRbiJf1O8n2ywHNsTm2TTrXOXDuJo3OX81NcU2F6Vq8iLtgWEBG1GysqRQY5VDvQ4UzpYvHm0Gr/VCJSPUIkRSYQQGhC+MoyHOmug/wQykHQRtRCLSL3d29fwYib92i2FJFG62vh7qnYjxeA6I8jqZwhABPhcyqXAWw11F2aeg+aiWd6vABogjV8HMLoPUCX/yBnCxhdtq+Fl+8h65pZGJM48+4JnRFbpMZQ354pHX41WWfp1IBuirsQS4IbNiMQjEVxHU4Hks1SpiAH1XJiSvwWIZNlojyRobikdpJklW+ckBQTZsGoqtjvCyxlzj09pU6Z/aSofFj8GKwUAzPlsBnx0svlv+tzKTRpFF3jKiTRv2tpx8jHFwt9GjQrAmxY8SrusPxuKQAYwUCyNqQjaAL40FaghL/8+NJ8K2TYgBmiCECOGtiP0ftqcbEs1CLRZfe4XH3UMekTq1/vKsc5x9NMsy03TUXOg/IzrtBuS7k8n6ZUnqnMpZtfghss0Q==;CQF9Tn2sWCJvqGSqtqVrtQ=="
 ---

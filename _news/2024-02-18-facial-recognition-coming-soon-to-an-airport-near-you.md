@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airpo
 webUrl: "https://www.nytimes.com/2024/02/18/travel/facial-recognition-airports-biometrics.html"
 type: article
 quality: 84
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -114,20 +114,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/02/14164647/suspicious-not-stalking-scaled.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Associations between childhood trauma and emotion recognition"
-    excerpt: "Accurate recognition of emotions is advantageous ... intensity of stimuli, or modality (audiovisual, face, or voice). Participants aged 18 or older, with normal or corrected-to-normal vision and without significant hearing loss, were recruited from ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20240214/Associations-between-childhood-trauma-and-emotion-recognition.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_771851_17079175296992853.jpg"
-        width: 2000
-        height: 1332
         isCached: true
   - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
     excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."

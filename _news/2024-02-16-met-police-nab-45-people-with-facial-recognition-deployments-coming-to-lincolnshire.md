@@ -119,20 +119,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "Associations between childhood trauma and emotion recognition"
-    excerpt: "Accurate recognition of emotions is advantageous ... intensity of stimuli, or modality (audiovisual, face, or voice). Participants aged 18 or older, with normal or corrected-to-normal vision and without significant hearing loss, were recruited from ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.news-medical.net/news/20240214/Associations-between-childhood-trauma-and-emotion-recognition.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_771851_17079175296992853.jpg"
-        width: 2000
-        height: 1332
-        isCached: true
 
 secured: "isdTWW2kHIJZsar4Fh48ULtUciXkUrrUGR4ENUzfpMXMnIqPEF5eTyz5UaqRBlhoqYk55sHazZd8XAKIs5J5yNb2jC5U1absKeG4mGqfKpbhKI6BTr/DRAUf3gfQwNPvPY/kYpPxMzOWZQBe1oOpFTfu0q4M7HZWNkzd0OFgWnYg2H8ldw0ndQeEdguHUS3tqWiadeV71VvtNRDD6LQIuqJv6g6RFYCTLSvAg/WWvpRYA16EoVjIujEs4gHf2jc9GXI2p0oiUMzEkBKQPbwtexNcGDkfAylgPTwgn2FbtXUJzLHSlIozH3kVfhxZuQ6XCvveikoUgSQ+/xkn/X2xG8Qts4MzaYAzUGbUFz+Y9ClFs6u+zKVFfuJoiUwWNFUMVy5KPgY8+cHVvFxIXolWzpjKEmjSOtW34hEWYfHckVWy/Woq810e++Rie6YQdK2kPRTvdcmZuAlbvwXLYMSbX9OyqfGvce2gNjNqWF9s5QG4BdH03/tznw1qU0XKrwmCfxloDUilDu5T7YzRneqo1w==;iwg5aUpwxNA+Lz9NZC2Vtg=="
 ---

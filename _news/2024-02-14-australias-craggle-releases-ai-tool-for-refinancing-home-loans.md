@@ -53,15 +53,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Australia Moves Closer to Mandatory Artificial Intelligence Restrictions"
-    excerpt: "The Australian government has named a panel of legal and scientific experts to advise on potential guardrails for the research, development and use of artificial intelligence, its latest step toward mandatory regulation of the rapidly evolving technology."
-    publishedDateTime: 2024-02-14T00:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-14/australia-moves-closer-to-mandatory-artificial-intelligence-restrictions"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 46
   - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
     excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
     publishedDateTime: 2024-02-16T15:33:00Z

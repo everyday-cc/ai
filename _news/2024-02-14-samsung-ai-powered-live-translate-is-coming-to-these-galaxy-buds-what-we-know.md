@@ -7,8 +7,8 @@ originalUrl: "https://www.tomsguide.com/audio/earbuds/samsung-ai-powered-live-tr
 webUrl: "https://www.tomsguide.com/audio/earbuds/samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Tom's Guide
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Smart TVs set to lose even more Google features — see if yours is on the list"
-    excerpt: "The loss of these Google Apps on Samsung TVs could also pertain to Google’s improvements on its large language model (LLM), Bard, which is set to see an integration with Google Assistant in March. This integration will supposedly herald far more advanced ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.tomsguide.com/tvs/samsung-smart-tvs-set-to-lose-even-more-google-features-see-if-yours-is-on-the-list"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 17
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9QQPqVEq4zu3JbQNmiMtKm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Anvil Unveils AI Webform Translations, Empowering Product Teams to Supercharge Software Development for Seamless Document Integration"
     excerpt: "SAN FRANCISCO, Feb. 14, 2024 /PRNewswire/ -- A nvil, a SaaS platform that enables businesses working with documents to be data-first and AI-ready, announced the release of its latest AI powered tool, \"AI-powered Webform Translations\" which enables anyone to instantly translate online webforms into multiple languages."
     publishedDateTime: 2024-02-14T14:29:00Z

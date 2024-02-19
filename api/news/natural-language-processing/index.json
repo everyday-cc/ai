@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-gongs-ai-tools-are-increasing-win-rates-for-sales-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -211,49 +211,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-14-samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know.md",
-      "title": "Samsung AI-powered Live Translate is coming to these Galaxy Buds — what we know",
-      "excerpt": "AI translation is one of the big features in the Galaxy AI suite, which debuted on the Galaxy S24. But it sounds like you won’t be restricted to translating foreign languages through your phone, because Galaxy AI's Live Translation will be coming to various Galaxy Buds as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/audio/earbuds/samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know",
-      "originalUrl": "https://www.tomsguide.com/audio/earbuds/samsung-ai-powered-live-translate-is-coming-to-these-galaxy-buds-what-we-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HfpDsihZb4TQNs7P69Zhm7-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
       "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
       "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
@@ -314,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -878,6 +835,49 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat.md",
+      "title": "Roblox adds instant text translation using AI, plans to apply the tech to voice chat",
+      "excerpt": "Immensely popular sandbox game Roblox has added real-time text translation to its in-game chat, powered by AI. Its developers are already looking at applying the tech to other multilingual elements in the game, including voice chat that mimics the speaker’s tone and expression.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "originalUrl": "https://www.rockpapershotgun.com/roblox-adds-instant-text-translation-using-ai-plans-to-apply-the-tech-to-voice-chat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsio.reedpopcdn.com/roblox-text-translation.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T18:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rock Paper Shotgun",
+        "domain": "rockpapershotgun.com",
         "images": null,
         "publishers": null,
         "authors": null

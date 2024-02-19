@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Samsung Smart TVs set to lose even more Google features — see if yours is on the list"
-    excerpt: "The loss of these Google Apps on Samsung TVs could also pertain to Google’s improvements on its large language model (LLM), Bard, which is set to see an integration with Google Assistant in March. This integration will supposedly herald far more advanced ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.tomsguide.com/tvs/samsung-smart-tvs-set-to-lose-even-more-google-features-see-if-yours-is-on-the-list"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 17
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/9QQPqVEq4zu3JbQNmiMtKm-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "L3/nSgKsimLMJbhKSn8nK5bsolhCCvQggp7QqAe2p2mLz7O1CuQQYcyjMoVTkbNjFPT1w+26dB9tZ/LOHiGjTLepJ7j5oOB4rNf41KHXqTCN11Kf5pce5alzuVmxIWodJ3VMol+KiIi/R7/MBwkzGmFBxeY/8l2rUG5pzOQxvMrA6WRzB6F9S5cnxHyu811Xgn4p1as6k4L1DalbMhyR/3nA41gHZbPG1/8lJiB9HzLGwVG89nx1+fk+vsdFERXBbeNQR4MJTCqMOPQ50G+GRA/ffeTmf6vopI01C3lJXAbwSR/6DsvfQfBQVJOmhqxR8p1vyCmETlBMx3YK6H2QIVR9U5tTKrWM4ZoOM8TVjWw=;JiFxdQrRM8PXZcpkV2a/Bw=="
 ---

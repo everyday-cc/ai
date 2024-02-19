@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/chatgpt-acting-weird-ai-researcher-s
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-acting-weird-ai-researcher-says-users-could-be-blame-2024-2?amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
-  - title: "ChatGPT Gets Scary Update As AI Becomes More Human"
-    excerpt: "In a recent development, ChatGPT is set to revolutionize its interaction dynamics by remembering users' preferences and interests, hinting at a future where AI"
-    publishedDateTime: 2024-02-14T00:33:00Z
-    webUrl: "https://www.mensjournal.com/gear/the-guide/chatgpt-gets-scary-update-as-ai-becomes-more-human"
-    type: article
-    provider:
-      name: Men's Journal
-      domain: mensjournal.com
-    quality: 34
 
 secured: "R+bx3VPGNWleUUhl/iHoMqzoZ5LOnqlkuZiWKo+6PUz6S20YZNgwsdXsnxYYeoK8lHfTCegWDsiOW9G9NqySaCPxK92bBPDGJ0/AFOR3IQky7N9wH4ZTrQ7K/PwfVtjS3kQ2h4vzRCCSBPCMahF1gkPW5sRDiTw//Dlw1UiSYEG9RbSygJdhiFMZxsZWdXKOKDPzVpk1Ruo1wdV5kCftI8csmwyXOl2usu+H8mexqLxkx591myZzQF5wfhkeVwbD4E1By+Q+GNhqkjpv8oVwzzgs6P0x3OoJhzTW9FILksCtkkOuSc+cBdCnl67ccBOBtCgqXJg4caMy+NC0JhWljNTddHv54N2HPHlXT1GeUJ3NgSZNj5rq0SGfOvBT/Ll6nWhIPTj2yNknjze+hQaY/mBfSBDSPWEfif+4VnY1ipvmZDua363UWQMJUxzdcAOFQHlyzVOv3waBgyH2EqlrFIxXJ90jr+ODubi8bjshg4vHpWQa5HLdPfvRdjb6BuOAcUhqe8WPJn5V1BLkSfYA7Q==;uhOgaiIHAueU0C5zguqMrQ=="
 ---

@@ -44,19 +44,19 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "SPIN artificial intelligent AI synthesizer"
-    excerpt: "The turntable component, a modified Numark PT-01, uses a dummy record for time code tracking to manipulate the playback of the AI-synthesized music. Beyond its functionality, SPIN also serves as a conversation piece on the ethics of AI-generated art and ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-synthesizer/"
+  - title: "Why artificial general intelligence lies beyond deep learning"
+    excerpt: "Many believe deep learning will continue to advance and play a crucial role in achieving AGI — but it does have its limitations."
+    publishedDateTime: 2024-02-18T19:14:00Z
+    webUrl: "https://venturebeat.com/ai/why-artificial-general-intelligence-lies-beyond-deep-learning/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/SPIN-AI-synthesizer.jpg"
-        width: 1280
-        height: 846
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/an_artificial_intelligence_brain_vibrant_3d_re-transformed.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 750
         isCached: true
   - title: "Understanding Artificial Versus Human Intelligence: Academic Minute"
     excerpt: "Today on the Academic Minute: Daniel Ernst, assistant professor of English at Texas Woman’s University, explains what a platypus has to do with artificial intelligence. Learn more about the Academic Minute here."

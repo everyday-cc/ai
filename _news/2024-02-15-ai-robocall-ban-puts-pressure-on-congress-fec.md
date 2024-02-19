@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/newsletters/technology/4468794-ai-robocall-ban-p
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/newsletters/technology/4468794-ai-robocall-ban-puts-pressure-on-congress-fec/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "FCC Requires Consent for AI-Generated Cloned Voice Calls"
-    excerpt: "The FCC clarifies that voice cloning enabled by AI technologies are within ... it was also interested in using AI to help with pattern recognition in order to detect illegal robocalls before they reach consumers. While the FCC confirms the inclusion ..."
-    publishedDateTime: 2024-02-14T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/fcc-requires-consent-for-ai-generated-4970882/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 39
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.5223_1814.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "VJ0ibbsBh9OGCmdSo7rHXytnxPAQ6BODSF0NSpTLLceZ5Dd+4IaVkcsQviw2DuUV5O005+Gk/2tIZDJ7spUOX+nGCt5YgbMZhQHewb7BvExfYAIKL4v9e3fO4kmGEJgp45oIrhAJPbOmPERjBMKw5GH65DYzUD5a5Zk2qcg9DvJoneOHl/aDvs4S5Lrm3ZFphbcXmjEBlvUlF1y5exRxxJAiFKrvDPMqKZShF2BpRdYkQ3woKBbNntqV2LPCm4Epgl/nl5ZOfDuIVsuHT1aUUIYdkCCnBKBafJNSgF42+vJxla4OZCsra5kK/1SM/gDdRIQ9yTlD2k3j7/DsiqF9lX6X4SNFCeTujzDcxHKuUuUHOcWPfNn++l9fc493hkqFko+mZTguyEnZYN2Cj8LHMYwb4UMiqaM8S9sUfKCRM+hDGxv2ffCKE3a4w+EqzkozcfnwwBAr0GKLCUhOEhC/9OT6sLTD9S4PFZdEk3CcDJ4hioPB7Q/ItU7qHa/heGAgrT7B0LwXAknt9TY8QkqX8w==;1b7jm10DGRMLc16ZIGireQ=="
 ---
