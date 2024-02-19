@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108
 webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://www.militarytimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
         width: 1024
         height: 632
-        isCached: true
-  - title: "AI not ready for prime time in mental health care, experts say"
-    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
-    publishedDateTime: 2024-02-14T08:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/national_world_news/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_31988137-aebe-595d-8304-943d4a9f6029.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
-        width: 400
-        height: 391
         isCached: true
   - title: "Lawmakers explore how artificial intelligence can boost care for vets"
     excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."

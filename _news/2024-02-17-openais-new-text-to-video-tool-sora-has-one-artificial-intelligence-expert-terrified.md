@@ -54,6 +54,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Is This Real? OpenAI's Sora Creates Eerie Videos, Fueling Debate On Ethics And Regulation In AI Content"
+    excerpt: "OpenAI's latest creation, Sora, is causing quite a stir among creators and tech enthusiasts alike. Announced by CEO Sam Altman, Sora marks a significant advancement in artificial intelligence, particularly in the realm of video generation."
+    publishedDateTime: 2024-02-19T08:39:00Z
+    webUrl: "https://in.mashable.com/tech/69881/is-this-real-openais-sora-creates-eerie-videos-fueling-debate-on-ethics-and-regulation-in-ai-content"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 68
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/6cover_3kry.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "OpenAI Sora's Breaks Our Brains, Vision Pro Loses Its Luster, and More Big Tech News"
     excerpt: "Apple Vision Pro was supposed to be that reality-changing tech but instead, tech bros wanted to return the headset before the return policy expired. Check out the rest of this week’s biggest tech news stories."
     publishedDateTime: 2024-02-17T19:01:00Z

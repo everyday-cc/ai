@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-34
 webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
 type: article
 quality: 82
-heat: 172
+heat: 182
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "iOS 18 To Bring Major AI Features to the iPhone"
+    excerpt: "Apple is set to elevate the iPhone experience with the launch of iOS 18, a landmark update that integrates advanced artificial intelligence technologies"
+    publishedDateTime: 2024-02-19T08:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/ios-18-to-bring-major-ai-features-to-the-iphone-19-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/iOS-18-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
     excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."

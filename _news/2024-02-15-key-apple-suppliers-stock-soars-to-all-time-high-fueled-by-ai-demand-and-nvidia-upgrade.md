@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
+    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
+    publishedDateTime: 2024-02-19T07:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
+        width: 1280
+        height: 841
+        isCached: true
   - title: "Lambda Raises $320M to Build NVIDIA GPU Cloud for AI"
     excerpt: "Lambda, the GPU cloud company powered by NVIDIA GPUs, today announced it has raised a $320 million Series C led by Thomas Tull’s US Innovative Technology with participation from new investors B Capital,"
     publishedDateTime: 2024-02-15T20:29:00Z

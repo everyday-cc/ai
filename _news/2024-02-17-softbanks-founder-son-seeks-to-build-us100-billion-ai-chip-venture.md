@@ -130,6 +130,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Softbank to put $100bn into AI chips"
+    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
+    publishedDateTime: 2024-02-19T06:29:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
+        width: 592
+        height: 1307
+        isCached: true
+  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
+    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
+    publishedDateTime: 2024-02-19T08:12:00Z
+    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 54
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "J0AL2kyTBGB4T4jm5u2hFoFBC7/nxtQtHYvnEMcJpbaLebg4oZuBmYwLPLkcp8aBPtGBCQw+jlXdg88n8xEBWr9RWDaVrfMwcRWWjUzY4rA5B2E2NBGHJvwlvXzX/Oi49dR9AO9eMGHM3PwG/FNfcU1k2X0Oon4K9zbbV7NpM7bydJ+787k3bt4pI6+Dk7mhuXRqhjsdViufOU4N30DRHorMV33IN8HkRwKYzWD2iZ5HtCC9A7Db4DgX9WGrQDEMOV3Mcm6p1gLOAsrXgeIMFfHk9Kzon4E5CiayUBWsEYYCo1viKEqoqb9eadh0Vsu0roae388JdDTz6XuUvh99RU9HKVfm42hVdNIeKstPI4M=;VohHmDgG8SH0qC80NerXQQ=="
 ---

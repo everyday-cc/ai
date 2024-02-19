@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experien
 webUrl: "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - IBM AI
 
 related:
+  - title: "How Simplyhealth cut customer response time from 12 minutes to one with Salesforce AI"
+    excerpt: "Simplyhealth is using Einstein and a range of other Salesforce products to power its business processes with AI so staff can answer customer queries quickly and effectively."
+    publishedDateTime: 2024-02-19T07:57:00Z
+    webUrl: "https://diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai"
+    ampWebUrl: "https://diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-05%20at%2008.36.36.png"
+        width: 1282
+        height: 734
+        isCached: true
   - title: "Together AI set to receive $100m in funding round led by Salesforce Ventures"
     excerpt: "AI cloud firm Together AI is set to raise more than $100 million in a new funding round, bringing the not-yet two-year-old company’s valuation to over $1 billion. According to a report in The Information, the round will be led by Salesforce Ventures, with participation from hedge fund Coatue Management."
     publishedDateTime: 2024-02-15T14:57:00Z

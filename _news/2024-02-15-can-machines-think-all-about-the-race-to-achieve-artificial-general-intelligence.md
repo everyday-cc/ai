@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "OpenAI artificial general intelligence (AGI) developments"
+    excerpt: "OpenAI has reportedly made a significant breakthrough in artificial general intelligence (AGI) development, which has been somewhat obscured"
+    publishedDateTime: 2024-02-19T08:28:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-artificial-general-intelligence-agi-developments/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-AGI-advancements.jpg"
+        width: 1280
+        height: 818
+        isCached: true
   - title: "Understanding Artificial Versus Human Intelligence: Academic Minute"
     excerpt: "Today on the Academic Minute: Daniel Ernst, assistant professor of English at Texas Woman’s University, explains what a platypus has to do with artificial intelligence. Learn more about the Academic Minute here."
     publishedDateTime: 2024-02-15T08:04:00Z

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 680
         isCached: true
+  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
+    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
+    publishedDateTime: 2024-02-19T07:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
+        width: 1280
+        height: 841
+        isCached: true
   - title: "Key Apple Supplier's Stock Soars To All-Time High, Fueled By AI Demand And Nvidia Upgrade"
     excerpt: "Nvidia, a major player in the AI sector, is expected to benefit significantly from the AI boom that began in 2022. The increased interest in generative AI, sparked by the launch of OpenAI’s ChatGPT, has led to a surge in demand for Nvidia’s GPUs."
     publishedDateTime: 2024-02-15T08:54:00Z

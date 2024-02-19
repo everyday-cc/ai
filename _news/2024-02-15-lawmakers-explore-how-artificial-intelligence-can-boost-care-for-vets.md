@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI not ready for prime time in mental health care, experts say"
-    excerpt: "Although several uses of artificial intelligence in mental health are showing some success, experts say the jury is still out on its capabilities for wider use."
-    publishedDateTime: 2024-02-14T08:00:00Z
-    webUrl: "https://www.gloucestertimes.com/news/national_world_news/ai-not-ready-for-prime-time-in-mental-health-care-experts-say/article_31988137-aebe-595d-8304-943d4a9f6029.html"
-    type: article
-    provider:
-      name: Gloucester Daily Times
-      domain: gloucestertimes.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/gloucestertimes.com/content/tncms/assets/v3/editorial/5/57/5577f155-18ba-55bd-af6f-e825bdeda4dc/650b357d3acee.image.jpg?resize=400%2C391"
-        width: 400
-        height: 391
-        isCached: true
   - title: "Lawmakers explore how artificial intelligence can boost care for vets"
     excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
     publishedDateTime: 2024-02-15T19:00:00Z

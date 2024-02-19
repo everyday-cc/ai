@@ -46,6 +46,20 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "OpenAI artificial general intelligence (AGI) developments"
+    excerpt: "OpenAI has reportedly made a significant breakthrough in artificial general intelligence (AGI) development, which has been somewhat obscured"
+    publishedDateTime: 2024-02-19T08:28:00Z
+    webUrl: "https://www.geeky-gadgets.com/openai-artificial-general-intelligence-agi-developments/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-AGI-advancements.jpg"
+        width: 1280
+        height: 818
+        isCached: true
   - title: "Can machines think? All about the race to achieve artificial general intelligence."
     excerpt: "From mythical robots to game-playing AIs, the mankinds pursuit of artificial intelligence spans millennia. While Leonardo da Vinci's sketches fuelled the flames, and the ‘Turing Test sparked the fire,"
     publishedDateTime: 2024-02-14T23:00:00Z

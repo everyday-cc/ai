@@ -22,20 +22,47 @@ topics:
   - AI
 
 related:
-  - title: "US worry about AI inciting violence and sowing chaos"
-    excerpt: "US Deputy Attorney General Lisa Monaco tells the BBC about the potential for AI to \"supercharge\" disinformation."
-    publishedDateTime: 2024-02-14T17:14:00Z
-    webUrl: "https://www.bbc.com/news/uk-politics-68298466"
+  - title: "The Biggest AI Trends In The 10 Years"
+    excerpt: "Let’s look ahead just 10 years to 2034. Halfway through the next decade, a lot will have changed, but what will AI look like? Here’s what I think!"
+    publishedDateTime: 2024-02-19T06:01:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13C81/production/_132652018_p0hbw97l.jpg"
-        width: 1024
-        height: 576
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d2fc479802aab1c9b744d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Best AI gaming laptops"
+    excerpt: "The ROG Zephyrus G14 is a compact powerhouse. There's no other words to describe it really. It comes with a top-of-the-line Ryzen AI powered AMD Ryzen 9 7940HS processor which is paired with an NVIDA RTX 4080 Laptop GPU."
+    publishedDateTime: 2024-02-16T05:39:00Z
+    webUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html"
+    ampWebUrl: "https://www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/top-products/best-ai-gaming-laptops.html/amp/"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 59
+    images:
+      - url: "https://static.digit.in/Best-AI-gaming-laptops.jpeg"
+        width: 1280
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence | Worrisome trends in election campaigning"
+    excerpt: "JOHANNESBURG - The emergence of artificial intelligence-generated content is changing the landscape of election campaigns. Artificial intelligence programs can produce realistic images and voices in a matter of few minutes and people have long tried to misrepresent media to influence an election."
+    publishedDateTime: 2024-02-17T20:06:00Z
+    webUrl: "https://www.enca.com/videos/artificial-intelligence-worrisome-trends-election-campaigning"
+    type: article
+    provider:
+      name: eNCA
+      domain: enca.com
+    quality: 32
 
 secured: "d1bh/VChCfOYKBv5MXtONZszUnskHnoKCw4mM0vx5GMfNVBr1G5ZxIPXDtDsiru1g0l59WnzfRzsMc5E6on6nF9CDS7TIykX9lMN1bDDaHRhbTbgYYR146qliCTJpchOfYuCI+Rq339jZ0K4AkLE2b31FyAzuWm8ncsdgi2Acn4/gpL+fbVHobzHVNsTpRCJsSmxydcFBiSKkTyRm0Jcb9b0zSC9ky2OVlNHGh6w4fuKwwno0ihUSlv7OSoW0JEvf1AeDjDzRkw79ERstj0E6L91c5uiqUfJHkz1tJSpxVGoHdehUfc48f++hduVCCszmtGskAC7Ik7bRzb3dBCTov461+p3RAYwtNm1sw1kBgE=;P7J8wsMa38AE2Ct0WFxnow=="
 ---

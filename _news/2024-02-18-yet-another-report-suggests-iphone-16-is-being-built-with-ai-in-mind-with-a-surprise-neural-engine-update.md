@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "iOS 18 To Bring Major AI Features to the iPhone"
+    excerpt: "Apple is set to elevate the iPhone experience with the launch of iOS 18, a landmark update that integrates advanced artificial intelligence technologies"
+    publishedDateTime: 2024-02-19T08:01:00Z
+    webUrl: "https://www.geeky-gadgets.com/ios-18-to-bring-major-ai-features-to-the-iphone-19-02-2024/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/iOS-18-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "iOS 18 might bring AI to the iPhone search and I’m ready for it"
     excerpt: "A report says that the iPhone's Spotlight search will get AI features like ChatGPT, and I hope it'll happen in time for the iOS 18 release."
     publishedDateTime: 2024-02-16T11:50:00Z

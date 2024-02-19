@@ -130,6 +130,34 @@ related:
         width: 880
         height: 587
         isCached: true
+  - title: "Softbank to put $100bn into AI chips"
+    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
+    publishedDateTime: 2024-02-19T06:29:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
+        width: 592
+        height: 1307
+        isCached: true
+  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
+    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
+    publishedDateTime: 2024-02-19T08:12:00Z
+    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 54
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "lyTrePjiGk3K2FL+XurdogfSNbZs7S8CX8RyXvzNaggZpmOllkxa39n3OxNUO5ZtDCG7y7ebTD0KnNftEPEcu9d0O6gY1z7hNr50z5KpMz60RrEW9ZVy5Bh9fIMVDqRAw6cNIu7fUp53dTx+8kfbkPZgVcBui6EdBHjxXeIQ79C/fETOYwxxFAwhTo5VUXE7pQshNAx4EUorBMeN/gVAfQo7dP3J+bXTTDntCHMRFtF5rQMWiPDuFyI8nIHpxOzK/TuQj2uy7kspublIjeRqMQqxXQgRzonYwHK3mfQjiPPJwCiSl58whpNDcSrYndOyznjhlkfYTUb25NkY/l8N3fO2eTKIpK4UDOO1/ZhkbASjX7Ii00oKj7eFYMjzni1DGBrPV0d1wplDucj5xGJ06BP0fu63S4krHpmyvcqnUcjQoZosS6mWH7S4P+EWyPCm2gjvSaJyjlJmQysMiihIuMTV8EYMuqQP4cFTJRmKASYhtUVqz7HrgpAz+NYyUz8segiw1h1A8cTJkD/BKR1Zzg==;toGvC68L2jZCj29PDWjCyg=="
 ---

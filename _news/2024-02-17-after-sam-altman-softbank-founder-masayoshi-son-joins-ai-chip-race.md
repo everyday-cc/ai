@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-foun
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
 quality: 74
-heat: 154
+heat: 174
 published: true
 
 provider:
@@ -129,6 +129,34 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Softbank to put $100bn into AI chips"
+    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
+    publishedDateTime: 2024-02-19T06:29:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 54
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
+        width: 592
+        height: 1307
+        isCached: true
+  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
+    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
+    publishedDateTime: 2024-02-19T08:12:00Z
+    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 54
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "Gi6K2mLm5f7eugG0cbA3xOvJ37qACScyvdBy35+lT10Fw4P3ednhk3gQvKbXSSdBfQd83Bcjc7VcZQxpVoo8G5UtaMnY+d+SwNLt3DEjGbbDey+Bp4a0gMxIjewHc55zgalokQFYgTvVU0FsFoV9PMaYIPw+IRPDArLTBMFLRj2f0uvb67IfqwaTvcYk3+jz4yasGq+l+MvvZFLwnV6is7xDPGGalABNS4KLBBEySGq87QvqJifcVyvmMwKlfrYvs5zat9yhYzasQ2kxppTgOJCIve16mntSI59pADL8+eV2ArYqfN7REAZ00udYv47JhSTKyTGtcI35JddTmQaPw5IDc6x5TZ/x/k44f7upN1c=;fMq/TqrKj0QaKQk7xMZ1oQ=="

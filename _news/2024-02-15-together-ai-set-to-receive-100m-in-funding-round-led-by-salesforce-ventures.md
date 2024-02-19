@@ -28,6 +28,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 82
+  - title: "How Simplyhealth cut customer response time from 12 minutes to one with Salesforce AI"
+    excerpt: "Simplyhealth is using Einstein and a range of other Salesforce products to power its business processes with AI so staff can answer customer queries quickly and effectively."
+    publishedDateTime: 2024-02-19T07:57:00Z
+    webUrl: "https://diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai"
+    ampWebUrl: "https://diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-simplyhealth-cut-customer-response-time-12-minutes-one-salesforce-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 52
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-05%20at%2008.36.36.png"
+        width: 1282
+        height: 734
+        isCached: true
 
 secured: "0DsBJAYrlmC+TY2QkhTdiqtagr+o8AB+xpczYzEGsJh6o2Eqa2vKCQJ8/PiagPFyV080gvXOYNOQqaERowEkb0B/I5R1nJk496fFQdKaTwjsASM7+Y5P07THTlLxfxrGEaaqrhLL22WV5eLe3vR06UXtXDWiAhTiputRcB9gazAtTU26/uvJdwwjPNDqRwD2FKprPkYM8OYTttMpP7hyaNDf/1GvSFu5m4JzayrqPjQNkEuB0SaphDG1Fzhk7t17J8S1ALMr5vJYofFVERzMsJMjCCjX0iMQef7wm07SVFQaRyM16M9OVUIsafzTOqj2WwosBo7gdDeBXyRjXw5NBwPTvmINciezz+ROv2sn2sfzxsLj7z3zxzq67xw1lBTmFwZRi4JrnU7QT+deWl2n+N86d1JT3xJF7mc7TWzWSqlBxRLxuFNvwrJi0G2qike6QREqQdfuPef+4kc20KA/4LGvEdaVJ0r1BSj9eEk8EeDNBOuB9qV1jL/S7bilL5WQiwQsd5fPeOy39CZZhubZTg==;q9YvAishc4fyJpgvSxHZ7Q=="
 ---
