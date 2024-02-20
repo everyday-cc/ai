@@ -39,20 +39,6 @@ related:
         width: 2500
         height: 1756
         isCached: true
-  - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
-    excerpt: "An innovative new chip uses light for fast, efficient AI computations, promising a leap in processing speeds and privacy. Penn Engineers have developed a new chip that uses light waves, rather than electricity,"
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://scitechdaily.com/at-the-speed-of-light-unveiling-the-chip-thats-reimagining-ai-processing/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 52
-    images:
-      - url: "https://scitechdaily.com/images/Photonic-Processor-Chip-Art-Concept.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "US researchers develop 'unhackable' computer chip that works on light"
     excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
     publishedDateTime: 2024-02-16T10:01:00Z

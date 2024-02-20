@@ -256,24 +256,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Florida vs. Missouri February 28 Tickets & Start Time"
-    excerpt: "Wednesday's SEC slate includes the Florida Gators (17-7, 7-4 SEC) versus the Missouri Tigers (8-16, 0-11 SEC) at 6:30 PM ET on SEC Network. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
-    publishedDateTime: 2024-02-15T14:19:00Z
-    webUrl: "https://www.mysuncoast.com/sports/betting/2024/02/28/florida-vs-missouri-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WWSB
-      domain: mysuncoast.com
-    quality: 2
-  - title: "Winthrop vs. High Point February 28 Tickets & Start Time"
-    excerpt: "Wednesday's Big South slate includes the High Point Panthers (21-6, 10-2 Big South) against the Winthrop Eagles (15-11, 6-5 Big South) at 7:00 PM ET on ESPN+. If you're looking to go to this game in person, head to StubHub or Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-02-15T14:20:00Z
-    webUrl: "https://www.wmbfnews.com/sports/betting/2024/02/28/winthrop-vs-high-point-buy-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WMBF News
-      domain: wmbfnews.com
-    quality: 2
   - title: "Charleston (SC) vs. Hofstra March 2 Tickets & Start Time"
     excerpt: "Saturday's CAA schedule includes the Charleston (SC) Cougars (19-7, 10-3 CAA) meeting the Hofstra Pride (16-11, 9-5 CAA) at 2:00 PM ET on FloHoops. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to buy your tickets!"
     publishedDateTime: 2024-02-18T14:23:00Z

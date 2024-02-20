@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhar
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
+    images:
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
+        isCached: true
+  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
+    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 56
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "5s19s7Ab6Dai8d0Q/nJq9WSHSMG2pPDJZCjMN0IM+kY2goqMSG8AtXp8OwiJV9z/7m50SGe1eiuQMbpUP5oy8DGhjzaI401VVBs+YBxaeaKqo50ip1tMIHd4GrIogB1hJxyYQgtvTRt8BJe8JsDXU17zaUM6yeohTO8AyZSX7nQOrfAhl4D2yGkWbTMdlLyinATfhPsa643cEA+siVwz4O0C/D88EQyfMVvFsM4PbmiFg+NIZ3weTp8I4dnagERhEUGgrd3iXUdTON36Mu+Lt6nXQBaZAJwgXIy6RE7V95CfRhMGiXdzSnYNZTQF3eY7yYD05HIZOagprcUz6rl3m+IXg6ErjNWOH0UBXlRFU1Q=;0fe+asUG+Ue8jWZFYgbK6Q=="
 ---

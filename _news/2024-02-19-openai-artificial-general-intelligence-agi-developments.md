@@ -64,7 +64,7 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-Artificial-General-Intelligence-AGI.jpg"
         width: 1280

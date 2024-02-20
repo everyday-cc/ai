@@ -34,20 +34,50 @@ related:
         height: 550
         isCached: true
   - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
-    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
-    publishedDateTime: 2024-02-20T10:19:00Z
-    webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-    ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
-    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: winnipegsun
-      domain: winnipegsun.com
-    quality: 74
+      name: Financial Post
+      domain: financialpost.com
+    quality: 76
     images:
       - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Self-Driving Firm Recogni Nabs $102 Million to Make AI Chip"
+    excerpt: "But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector. U.S. autonomous vehicle startups raised $1 billion in 2023, down from $11.2 billion two ..."
+    publishedDateTime: 2024-02-20T15:21:00Z
+    webUrl: "https://www.ttnews.com/articles/recogni-102-million-ai-chip"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 56
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/2024-02/Chips-manufacturing-1200.jpg"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Where do I know you from? How your brain goes from recognition to recollection"
+    excerpt: "As familiarity increases, the patterns of neural activity in the CA2 region and the mathematical models that describe it become increasingly complex. | Neuroscience"
+    publishedDateTime: 2024-02-20T16:00:00Z
+    webUrl: "https://www.labroots.com/trending/neuroscience/26697/from-brain-goes-recognition-recollection"
+    ampWebUrl: "https://www.labroots.com/trending/neuroscience/26697/from-brain-goes-recognition-recollection/amp"
+    cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/neuroscience/26697/from-brain-goes-recognition-recollection/amp"
+    type: article
+    provider:
+      name: Labroots
+      domain: labroots.com
+    quality: 55
+    images:
+      - url: "https://assets.labroots.com/_public/_files/system/ck/trending/Friendly%20Butcher%20Meat_Co.,%20Minneapolis,%20MN%201955_798e4c58d74e83ab15679ad748db2e15.jpg"
+        width: 1280
+        height: 871
         isCached: true
   - title: "Croydon support for Met Police facial recognition operation"
     excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
@@ -77,6 +107,15 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "More airports are using facial recognition technology"
+    excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2024/02/20/facial-recognition-airports"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 34
   - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
     excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
     publishedDateTime: 2024-02-20T10:00:00Z

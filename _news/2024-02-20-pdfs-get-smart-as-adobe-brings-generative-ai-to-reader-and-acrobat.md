@@ -1,0 +1,60 @@
+---
+category: news
+title: "PDFs get smart as Adobe brings generative AI to Reader and Acrobat"
+excerpt: "and has been developed in line with the vendor’s AI Ethics processes. The assistant currently uses the Microsoft Azure OpenAI Service but Adobe insists it is not tied to any specific LLM, and will use a selection of technologies as needed to address a ..."
+publishedDateTime: 2024-02-20T00:00:00Z
+originalUrl: "https://diginomica.com/pdf-smart-adobe-generative-ai-reader-acrobat"
+webUrl: "https://diginomica.com/pdf-smart-adobe-generative-ai-reader-acrobat"
+type: article
+quality: 21
+heat: -1
+published: false
+
+provider:
+  name: Diginomica
+  domain: diginomica.com
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI Ethics
+
+related:
+  - title: "This new AI Assistant from Adobe lets you chat with your PDFs at no additional cost"
+    excerpt: "Getting started is easy. All Acrobat and Reader users will have to do is open the applications, where they will find the AI Assistant in beta, which they can then use for a range of tasks, including providing answers to recommended or user-generated questions through a chatbot."
+    publishedDateTime: 2024-02-20T06:01:00Z
+    webUrl: "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/0551db9716d6cec71a6e47019995b146b120ebd6/2024/02/19/66af0daa-4e89-472c-92ff-221a0f127dba/a249585c-e21d-4694-bd61-6384a61dfe26.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
+    excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
+    publishedDateTime: 2024-02-20T14:20:00Z
+    webUrl: "https://www.inc.com/ben-sherry/adobes-new-ai-assistant-is-designed-to-read-pdfs-for-you.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 17
+  - title: "Adobe Brings Conversational AI to Trillions of PDFs with the New AI Assistant in Reader and Acrobat"
+    excerpt: "AI Assistant leverages the same artificial intelligence and machine learning models behind Acrobat Liquid Mode, the award-winning technology that supports responsive reading experiences for PDFs on mobile."
+    publishedDateTime: 2024-02-20T15:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-adobe-brings-conversational-ai-trillions-pdfs-with-new-/2024/02/20/9964741.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 5
+
+secured: "ki2wtQO0Y6fw8ISbaZdu7ULS9IQUf1D4F6cLJZTQYp1gPi2Pxep0y6mnkmfHHsCmLEEiAHQSO1hOjDH1qoMgOBH6kDFon9V/LVOsalgHGsFR4aEYyjYsW2WjzIF/levMRAh1J9b9+zvYFd/qGpsA+nNpatY68Czzn3XsEy6iZM4Mry3TLc0u/nJr+imED6a6GZ4xfVdNzIKJfv4fY74qbFHVIxcDz+tm1vAiRy0AUzPV25nnMlqHb23Z43zz834ylzqkyn72JM80OKFG2N2kUNK9c3dI0VAUWcWAiWOvigzf0ly8RZNaiPIihsmxKkVDLDIIp0H47c3pILZ1lboSw1XkMTfWwFzTl//T4enykRAW82P0RnWcEoUVW5NpZsQooBNNr4rkBwH5dyjwrmI4Z+M85wRhb8G7dw2VQb6x4ueNxdFqJs1LtxppFBQ1sWqmaiCXDesojldvvlZjNNAt6eDYzG6W3oRuhDqC7GLes7oAappVlT2TZ5k3oqEscyT1Oo0U7puBRjXQoM70qH9Rlg==;YT1hiL5FoemS64u4v7cEBQ=="
+---
+

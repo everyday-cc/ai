@@ -45,19 +45,21 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Deep learning solution to transform ore sorting technology"
-    excerpt: "Sensor-based ore sorting technology provider TOMRA has unveiled its latest innovation for high-capacity ore sorting at the Investing in African Mining Indaba exhibition in Cape Town, South Africa. This ground-breaking software,"
-    publishedDateTime: 2024-02-15T14:03:00Z
-    webUrl: "https://www.miningweekly.com/article/deep-learning-solution-to-transform-ore-sorting-technology-2024-02-14"
+  - title: "How AI Is Infused Into Everything From Screening Candidates To Managing Staff And Making Hiring And Firing Decision"
+    excerpt: "Artificial intelligence is becoming ubiquitous in the interviewing and hiring process. It carries out the initial screening of applicants to the final stage of decision making. Managers can now make better and more informed decisions about their staff and promotions."
+    publishedDateTime: 2024-02-20T15:53:00Z
+    webUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/"
+    ampWebUrl: "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-is-infused-into-everything-from-screening-candidates-to-managing-staff-and-making-hiring-and-firing-decision/amp/"
     type: article
     provider:
-      name: Mining Weekly
-      domain: miningweekly.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 65
     images:
-      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0001114718_resized_tomracomxrt21200withswitchboardwithobtain1022.jpg"
-        width: 1022
-        height: 575
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1036
+        height: 691
         isCached: true
   - title: "Rethinking AI: From playing around to strategic business transformation"
     excerpt: "leveraging platforms like Microsoft Azure, facilitates swift, scalable and cost-effective solutions. Integration into workflow: Identifying workflows for AI implementation is pivotal. Opt for use-cases with ample data available for machine learning and ..."
@@ -72,20 +74,6 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2023/06/Hennie-Fouche-02June2023.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Unleashing the Power of AI: How Algorithms Are Transforming Art Creation"
-    excerpt: "Are you ready to witness the remarkable fusion of creativity and technology? Look no further than Artificial Intelligence (AI) algorithms, revolutionizing the very essence of art creation. Step into a world where Picasso’s brushstrokes meet mathematical genius,"
-    publishedDateTime: 2024-02-15T16:06:00Z
-    webUrl: "https://techbullion.com/unleashing-the-power-of-ai-how-algorithms-are-transforming-art-creation/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 36
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/02/AI-in-art-creation.jpg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "muojlg0Qv/Fke6hEHS1WT9gW4EnX3TwIdQLnEhuogXfcfiGBdbhOXWJ8xDKCXi+cO1FM9KJd42HFlqik1QgrDwNuZErYYH4jBO/vE7nsjHEbPpT4RDeKOkJ7wbeztK8I17XV3p/vMcy9jsnUOcOtZnU3kO7irOY6VuJxlIdnSwGIA2AWd5Ej9f46LxYYyIvxOtb/1kbqrjUznkaSZxeet10NEyiOgaeI8XupGM+s1U9b0a4pirtw3dsDmgtymDm67n8RQxXOCeKQREfpdvFcw8XEd8vRQGAy5sKXCr/a9oQ67Hp+3u4+XrBRsTkSlbqTtj/7O86s/6FbynpABhSFszyTrf2UQstqCqqsa9y5jiY=;j521kcqM2qNvwdR8g6l8IA=="

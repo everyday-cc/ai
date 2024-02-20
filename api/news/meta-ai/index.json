@@ -2,31 +2,22 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-02-20-open-ai-powered-web3-app-agii-to-support-sora-ai-text-to-video-model-integration.md",
-      "title": "Open AI powered Web3 App AGII To Support Sora AI Text to Video Model Integration",
-      "excerpt": "February 20, 2024) - AGII, the Open AI powered Web3 application, announces the integration of Sora AI's advanced video modeling capabilities into its platform. Powering the next generation of AI innovation!",
+      "path": "_news/2024-02-20-microsoft-to-invest-21-bln-in-spain-to-expand-ai-infrastructure.md",
+      "title": "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure",
+      "excerpt": "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/open-ai-powered-web3-app-agii-to-support-sora-ai-text-to-video-model-integration-1033081651",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/open-ai-powered-web3-app-agii-to-support-sora-ai-text-to-video-model-integration-1033081651",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 106,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.newsfilecorp.com/files/8833/198415_77_550.jpg",
-          "width": 550,
-          "height": 309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T06:46:00Z",
+      "publishedDateTime": "2024-02-20T14:13:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -50,7 +41,8 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -62,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/soulaimagourani/2024/02/19/embracing-ai-transforming-fear-into-opportunity-for-your-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -114,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -168,7 +160,7 @@
       "originalUrl": "https://www.zdnet.com/article/i-tested-metas-code-lama-with-3-ai-coding-challenges-that-chatgpt-aced-and-it-wasnt-good/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -274,7 +266,7 @@
       "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 250,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -328,7 +320,7 @@
       "originalUrl": "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {

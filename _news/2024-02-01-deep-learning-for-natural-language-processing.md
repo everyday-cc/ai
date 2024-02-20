@@ -2,9 +2,9 @@
 category: news
 title: "Deep Learning for Natural Language Processing"
 excerpt: "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ..."
-publishedDateTime: 2024-02-01T02:07:00Z
-originalUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/preface/3709BEFA4EB5CE92F541AB3D50B1FD1F"
-webUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/preface/3709BEFA4EB5CE92F541AB3D50B1FD1F"
+publishedDateTime: 2024-02-01T02:40:00Z
+originalUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA"
+webUrl: "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/contents/97E4B73A906829547FA99687331552EA"
 type: article
 
 provider:
@@ -16,12 +16,6 @@ topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg"
-    width: 600
-    height: 600
-    isCached: true
-
-secured: "qu/oZvBCFQ1zvLd7bAjZoVhqG/HTNmNibLoXtrxrQAaIjpCITUKd0je9/uj2xk7Esc9Y2+7i4VEd/z6GwrTCILYtWJGppxMGm+oilM3soJVhYYHlm6+boNsXqnM4OLJR06/Ars8jVrtwuYYA8cAlzJLJ3TjmKal5MsMLTfk3F1PfrOHplYOmxz+K1ClJt0kTkJkF8WXOYXwArj2+kSdc3RJSy7P/35zEM3zK+ZuvG3toV9TV+bPwEiwv31tFvtR3u/LQfX2IUBOZk5uXftYHvczga1S5vfhYJD6x9LMDY72wdCrIMLbrWambpyDka9dnGfG8fN7yG4U4nZPxWJqhLT3MIbI+Wwq5A5ODz5RtBVY=;zdrS7ePF3t6yDEmPSe574w=="
+secured: "NNt2czASeZaQtXq30S58/7C9nP1tlIGRgy7BIRozaXsTqfQ+X1WP62sGt6DjZmbaFEtIgCulfAD7R7qCaYY8tnb+7ApoC3J3vSXijskrwnSOIx4eWkIKRCOygg6dH3iUWTEo6ydjZAy06jC6QWqr2gPq7nTvst9Nkw5e9r5+hEFgtVhttTgKbcT9puJEiqj7/f0vol3tw0ubWDDd1foHGwLxny2URIn9keatqPIlVy6sOxzjq7xtJf9KE9PgMy/F9PczYcjBeWisLSx0qdQ9ylXEt7RnrhWroCOl8/Y0eJbIYTQedIJfM6IcJBfTwzLhm8QAbszfTVGfEyv7LBNj2A9qCSi/G1STqUWuCjSagXI=;g0IuBzJFB9StshWo5pgYOw=="
 ---
 

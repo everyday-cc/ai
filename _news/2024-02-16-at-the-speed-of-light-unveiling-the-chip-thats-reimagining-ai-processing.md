@@ -25,57 +25,118 @@ images:
     isCached: true
 
 related:
-  - title: "New computer chip enables AI computing at the speed of light"
-    excerpt: "Engineers have introduced a novel computer chip that could redefine the landscape of artificial intelligence (AI) development."
-    publishedDateTime: 2024-02-16T21:17:00Z
-    webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
+  - title: "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It"
+    excerpt: "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission."
+    publishedDateTime: 2024-02-16T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
     type: article
     provider:
-      name: earth
-      domain: earth.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://cff2.earth.com/uploads/2024/02/16140217/AI-computing_new-computer-chip_speed-of-light_1m.jpg"
-        width: 2500
-        height: 1756
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
-    excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
-    publishedDateTime: 2024-02-20T06:23:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2024/02/20/3042075/penn-engineers-develop-chip-that-uses-light-to-power-ai"
+  - title: "How to stand out from the crowd when everyone uses generative AI"
+    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
     type: article
     provider:
-      name: Tasnim News Agency
-      domain: tasnimnews.com
-    quality: 54
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
     images:
-      - url: "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1402/12/01/1402120109340937829427454.jpg"
-        width: 800
-        height: 557
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "US researchers develop 'unhackable' computer chip that works on light"
-    excerpt: "Researchers at the University of Pennsylvania have developed a new computer chip that uses light instead of electricity. This could improve the training of artificial intelligence (AI) models by improving the speed of data transfer."
+  - title: "AI Is Already Making Us More Productive"
+    excerpt: "Instead, the productivity winners will be the companies that deeply integrate customized AI into their enterprise software and business systems, pairing it with automation whenever possible. Despite all the chatter, Nitin Mittal and Thomas H. Davenport note in their book All in on AI that only a handful of major companies have already done this."
     publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://interestingengineering.com/innovation/unhackable-computer-chip-works-on-light"
+    webUrl: "https://www.mauldineconomics.com/global-macro-update/ai-is-already-making-us-more-productive"
+    ampWebUrl: "https://www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
+    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
+      name: MauldinEconomics.com
+      domain: mauldineconomics.com
+    quality: 59
+    images:
+      - url: "https://images.mauldineconomics.com/uploads/newsletters/FEATURE_20240216_GMU.jpg"
+        width: 825
+        height: 413
+        isCached: true
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-16T12:12:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "How Fractal is Leveraging Generative AI for Insurance"
+    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
+    publishedDateTime: 2024-02-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://dnd2oi6izkvoi.cloudfront.net/2024/02/16/image/jpeg/OMlBQFqjPN0Q0G1EdsoOtoOjLydOMngbsllhZnR1.jpg"
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI computing sees advancement with ecofriendly light-based computer chip"
-    excerpt: "(CN) — A silicon-photonic chip that leverages light rather than electricity would ... especially in reducing the energy consumption associated with AI's training processes. \"By utilizing light for computations, we can achieve a substantial reduction ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.courthousenews.com/ai-computing-sees-advancement-with-ecofriendly-light-based-computer-chip/"
+  - title: "How Generative AI Is Reshaping Online Trading"
+    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
+    publishedDateTime: 2024-02-19T02:30:00Z
+    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
+    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 33
+      name: inc42
+      domain: inc42.com
+    quality: 39
+  - title: "How RAG makes generative AI tools even better"
+    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
+    publishedDateTime: 2024-02-20T11:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 21
+  - title: "How to prepare for generative AI and the future of work"
+    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
+    publishedDateTime: 2024-02-20T15:48:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 19
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
+    quality: 19
 
 secured: "0P5Qwpx4+Xp8Mfg2bEIALddlJF0gUA/Fe9AcKECcOzb88NayJnwTcUeSD+mUoFCePu2GzDhu4TgT9gl3xRVKtF2t25B2f/H2RcbvouGZHwDLTrluLfLcbOsXkDb+RYdA8dzetkS+hOpfJIz2kBmISfJw2Wz6f4WUYI3W9wfB51jMg5aw3U9Ok0Tni3/099P8Q6kvMMvf/Ts1P3JX6dSkBxg8zsRvnPVOhVCCpIfatDaE9pQ2vLJ503Gn9Sdy7nvkzoeYw8FtpxofiOuQo9kM3nB+fB1d0+ycu7nVn4yu/JA6dXOcE9WHbg4yORpgGimzFEfvH7V3IhfYziJ9W+0KqT3V1DfChZkucwRpppCsMmU=;R7xZXH9YoQ4KwWfRAh5Kbw=="
 ---

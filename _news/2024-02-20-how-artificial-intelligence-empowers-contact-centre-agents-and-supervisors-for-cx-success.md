@@ -24,6 +24,17 @@ images:
     height: 260
     isCached: true
 
-secured: "NJzdKRZPXer0gca90ZJ1bytwjbHrjxEOvayOF6BSP7LbIySAmmPz3u9CV0wbVb+iRZryOrr+cRF88x2eSB6p8jVXMC+6xNSwfHHeFtg3/lSclcYHNNhn5+LBhdiVmr6vbXdtx8UDeUwD0hX9NYPvC77r4xIeZpD/KfaiPGeuxxPMPN1DLDzey3Y5YDjUh1FLa4kwKlrfteLFiZzQOruInXF90kilFzTE52znyS/ujewE3CXW10cLiE9Iz2ej32au7ZRcbrNP7+mfiC6gCi501R3uB1cgHcY/d76bi8S7guLHE/2JzQkpVzOd5Xvk9fNBbW6HPdq3JdtOCh0+vg+gcj7zbmg5PIFf3HCcB+ygyhc=;K3H5H0C6pp9EzRZMxN1RYA=="
+related:
+  - title: "IAEA Designates First Collaborating Centre on Artificial Intelligence for Nuclear Power"
+    excerpt: "The IAEA has designated the Center for Science of Information at Purdue University in the United States of America as the first IAEA Collaborating Centre to support the Agency’s activities on artificial intelligence (AI) for nuclear power applications, including reactor design, plant operations, and training and education."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.iaea.org/newscenter/news/iaea-designates-first-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
+    type: article
+    provider:
+      name: iaea.org
+      domain: iaea.org
+    quality: 9
+
+secured: "iriUCAE1DT1WbTPiNv4xqV6OUcpwleHhpPCyLQNOX6EV328DPbo2n6ReRmyDMlREqMxmq0AfyjJZU7brUqn/OHBeXFWKf77oXMj4MGeVF7N5qvkrDfA7XXEJOW/0RkvKAqhikSwQ5C62TCs9SS2dZZn0dpRBeT87b9eWFtqQFz4w2YwGivMUnj7Q9dZ73ibCgQNuulF2nedIcdtjb6GE3/s+XeOUsKPwctKJdBgfZiCoPaEdRxYN0L3WSwekQ2JhLaNIiQZeMnrKlqelndg6Vtq/i/cZvbAL5Qq3A1F1yg+30zZca1CMwVsYiHDwLjl3nMfgtRcwEb+vGz1crW6373DIcBXIrjcJs3pAJfkcZySPHczEWAluKfffoI4AVsYc22QAlxe5Ku60zgJOqXAbNVeJRMKFDnc1vUZDmkucVqK55uuAkARSwT7pfODaMT2+Tn8FhU/idkKkY1Euy/M9Fsj+m87E+076WalOuAqVQSBL+MZD7FlkcoyT6d3ARXpMLC7mJmldtbuR4wdNwc/lvQ==;tJdYuAz76VElhb051zOTjw=="
 ---
 

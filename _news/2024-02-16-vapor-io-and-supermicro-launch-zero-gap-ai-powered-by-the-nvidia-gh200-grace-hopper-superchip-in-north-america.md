@@ -58,15 +58,6 @@ related:
       name: CRN
       domain: crn.com
     quality: 19
-  - title: "Vapor, Supermicro, Nvidia, and Comcast offer AI Edge services on private networks"
-    excerpt: "A group led by Edge data center player Vapor IO is offering AI services on private wired and wireless Edge networks. Zero Gap AI aims to make AI more cost-effective by offering it on demand over private networks."
-    publishedDateTime: 2024-02-15T14:09:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/vapor-supermicro-nvidia-and-comcast-offer-ai-edge-services-on-private-networks/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 14
 
 secured: "S6MrhN6zbbM+RMfr7CGj0WoIFLblgJ0fN0KfAqJQX7epBbWjm0JZCTMO9JvyJlddeudnF+fCQxT698TylGpT+n+CWlj9kHd0TW6rrmYBBaenMrSn+rVgBKQbFx9EVkrPWUzDUyJDPO11fQ6rUxV7M8VPMnMG7GCyluEnKXatNuuGVA8kmWVv7eQSHA4lh5d0stk4y30+qVixpQaYWADMD5gA4UQ3JMxg+R+JMhl3X8INR0hZ0KczJ0gmWKuEKIsPavUxK7Qf+AkOBSydRKvxk0qu4xaCRhA6y0zZcDys3Tg4JrE1LPMl0dEbjKdPDo1iWm7avRqu5R/Byjut5UL6AUpbW2CHNxqCpU+RK8SvhAE=;qpLoFEKlOT6O5HO+75up0g=="
 ---

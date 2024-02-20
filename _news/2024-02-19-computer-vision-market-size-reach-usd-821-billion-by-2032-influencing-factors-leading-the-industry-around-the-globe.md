@@ -24,22 +24,6 @@ images:
     height: 249
     isCached: true
 
-related:
-  - title: "Communication Platform As A Service Market To Reach USD 95 Million By 2032, Says Global Market Insights Inc."
-    excerpt: "(MENAFN- GlobeNewsWire - Nasdaq) Communication Platform as a Service Industry size is expected to register 25% CAGR between 2023 and 2032 propelled by the increasing adoption of Artificial Intelligence (AI) and Machine Learning (ML) Selbyville, Delaware ..."
-    publishedDateTime: 2024-02-19T18:15:00Z
-    webUrl: "https://menafn.com/1107872088/Communication-Platform-As-A-Service-Market-To-Reach-USD-95-Million-By-2032-Says-Global-Market-Insights-Inc"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?233265"
-        width: 409
-        height: 250
-        isCached: true
-
 secured: "qrx3FQQWUYzJbY0e0ehof3+JoA7Kirw807E6hZo2p3WCOU16L4minyd43HWbuO1qILIvg7NeN4Cb5FSIpVDV8603crRByAySkKA0frAvGqnXstmfxujfmjbTdnqhArMPbywGX0ZYQMCDuRKdfa+KCMNmnZtxXePBbiFs7JR5uGT7bnil/oHFk2sQqrREjBk30o6P6Qs0Bix4O8yZeODFspYAZBP1TUlxRbyBdEp+rVihqeKJbTdleKKcd/YVGmweXEQJ5HG4yFeEKbvXTb7ch251OT9rUWs1C8BIcEzZIFpwPrDEPEEx6KqQePDO1EctTrnoZ7+Oy9v/z+KTLOgU2TRI6tsZDE/lPszFjPSEYtw=;kLtThuROHwoWlWNN8QowkA=="
 ---
 

@@ -108,15 +108,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
-  - title: "Nvidia's investment in SoundHound sends shares of the AI voice company soaring 55%"
-    excerpt: "Nvidia revealed a stake in the AI company in a new regulatory filing, as well as an investment in Arm, which went public last September."
-    publishedDateTime: 2024-02-15T14:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/soundhound-stock-price-nvidia-investment-artificial-intelligence-ai-stock-market-rally-2024-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
 
 secured: "pX49pVoZ0EMjNkGJw9zUdyga2J3HRCL+OVxU3ZohAXEhq2luFQJAt2/roDl4UI3mKq3rPre1SHySxQYE1AH37l0o/6Vs8H97GMiPOhd2WAZiGvt2GbQkXONNkfUfuc1Vbt3LEc7OrYMGbPaVM2/M5eJVRO4aUrpi9raEW6SjnXFUQibg2c0rY6myWj/bYX8LMsitjVH+3EaRcrQlvsoQ1ke3tL+QRLLb1hfsLY+fLwH76USilngtcjOppnyEq4pQH0yPLjmB38dbIipt+YexrPXShbJdiTXpYxBMIMJW9sT+G5ySFXJxxGyZBPsSv4B27Wx+KFFHL+YA0f/Higq1jX4BfRrvx08RsUeyfDQaKD4=;4Nw/iH7I33bu1rNAeVbuzQ=="
 ---

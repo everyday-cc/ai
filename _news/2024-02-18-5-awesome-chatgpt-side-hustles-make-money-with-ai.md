@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia’s “Chat With RTX” is a ChatGPT-style app that runs on your own GPU"
-    excerpt: "On Tuesday, Nvidia released Chat With RTX, a free personalized AI chatbot similar to ChatGPT that can run locally on a PC with an Nvidia RTX graphics card. It uses Mistral or Llama open-weights LLMs and can search through local files and answer questions about them."
-    publishedDateTime: 2024-02-15T16:54:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/02/nvidias-chat-with-rtx-is-a-chatgpt-style-app-that-runs-on-your-own-gpu/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 87
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/02/studio-chat-with-rtx-blog-1280x680-1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "ChatGPT vs Gemini: Which AI Chatbot Subscription Is Right for You?"
     excerpt: "Everyone wants your $20 per month for access to their best AI chatbot. Who gets it depends on what features are important to you."
     publishedDateTime: 2024-02-15T22:17:00Z
@@ -155,6 +141,29 @@ related:
         width: 1640
         height: 924
         isCached: true
+  - title: "Forget ChatGPT — Groq is the new AI model to beat with blistering computation speed"
+    excerpt: "Groq (not to be confused with Elon Musk’s Grok chatbot — and no they aren’t too happy with the similar names) specializes in developing high-performance processors and software solutions for AI, machine learning (ML), and high-performance computing applications."
+    publishedDateTime: 2024-02-20T15:54:00Z
+    webUrl: "https://www.tomsguide.com/ai/forget-chatgpt-groq-is-the-new-ai-model-to-beat-with-blistering-computation-speed"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xXxEjXREsFJxKk7bjXZPfn-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Scientists Are Putting ChatGPT Brains Inside Robot Bodies. What Could Possibly Go Wrong?"
+    excerpt: "As a dinner-handling robot formulates its “policy”—the plan of action it will follow to fulfill its instructions—it will have to be knowledgeable about not just the partic"
+    publishedDateTime: 2024-02-20T14:22:00Z
+    webUrl: "https://www.scientificamerican.com/article/scientists-are-putting-chatgpt-brains-inside-robot-bodies-what-could-possibly-go-wrong/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 44
   - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
     excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
     publishedDateTime: 2024-02-16T05:30:00Z

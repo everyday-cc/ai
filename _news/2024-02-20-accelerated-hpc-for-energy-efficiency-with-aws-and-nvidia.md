@@ -39,15 +39,6 @@ related:
         width: 1410
         height: 806
         isCached: true
-  - title: "Vonage and AWS Leverage Communications and Network APIs to Deliver New Solutions"
-    excerpt: "New Vonage Fraud Protection Solution using AWS services and Vonage APIs to be made available in AWS Marketplace HOLMDEL, N.J., Feb. 15, 2024 /PRNewswire/ -- Vonage, a global leader in cloud communications helping businesses accelerate their digital transformation and a part of Ericsson (NASDAQ: ERIC),"
-    publishedDateTime: 2024-02-15T16:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963305.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 14
 
 secured: "WM9qyhL4j+2WA+4LVYkb8SkkPArAUl0kvuT5nimRzCAT2aPNkBdNml63GFbzmFLsFUvQb3nRFFy2ih3V08kZh7UWqTWVe5Sm5fCvht+O0D4OQK9YGFfgtV4J1/HPzT1lo3gubpQ+XEboMODm658KVkke22Co5g2frfxF+ZB6RE942Bf4xVGXvQSvfxLCsrDXQkQpcpVBmgaLVziDmo5G9tP614tNzWJdYrsbjbFcw5RCtwu0Vy25WTOLqtv0OPZA1W6VK/z6Xn9IUWN+PbsTDSmrUx1Tb7ur8i3mjnWjySpf9Ej4+Xx2vH7a8yOyJ7S18Brph05SZEf3EUS1y9gochIjjVZYThvRA3ZoMpgoONs=;6whbPemCP3V/Jillikck7Q=="
 ---

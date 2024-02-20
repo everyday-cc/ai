@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T10:36:00Z
 originalUrl: "https://coloradosun.com/2024/02/20/colorado-ai-artificial-intelligence-schools/"
 webUrl: "https://coloradosun.com/2024/02/20/colorado-ai-artificial-intelligence-schools/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/AI-st-vrain-schools-eb-14.jpg?fit=2203%2C1466&ssl=1"

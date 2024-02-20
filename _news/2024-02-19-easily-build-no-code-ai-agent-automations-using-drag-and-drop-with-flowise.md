@@ -38,6 +38,20 @@ related:
         width: 2400
         height: 1260
         isCached: true
+  - title: "Galaxy Buds update brings live translation with AI and Android’s auto switching for calls"
+    excerpt: "Samsung’s Galaxy Buds series has been a go-to for Galaxy users because they simply work better within the ecosystem."
+    publishedDateTime: 2024-02-20T15:44:00Z
+    webUrl: "https://9to5google.com/2024/02/20/galaxy-buds-ai-update/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 30
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/10/samsung-galaxy-buds-fe-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UiPath Debuts Expansive Updates for Developer-Centered Automations"
     excerpt: "UiPath, the enterprise automation software company, is announcing a variety of new features for its Business Automation Platform, designed to enhance developer productivity in the realm of building and testing automations."
     publishedDateTime: 2024-02-16T18:53:00Z

@@ -44,20 +44,6 @@ related:
         width: 1137
         height: 630
         isCached: true
-  - title: "Detect anomalies in manufacturing data using Amazon SageMaker Canvas"
-    excerpt: "With the use of cloud computing, big data and machine learning (ML) tools like Amazon Athena or Amazon SageMaker have become available and useable by anyone without much effort in creation and maintenance. Industrial companies increasingly look at data analytics and data-driven decision-making to increase"
-    publishedDateTime: 2024-02-15T15:54:24Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-anomalies-in-manufacturing-data-using-amazon-sagemaker-canvas/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/01/ml-14561-image006-e1706807831681-1249x630.png"
-        width: 1249
-        height: 630
-        isCached: true
 
 secured: "IxYyYqjoufEwrUnXr95kk9w6fcnv7M6gut9vZjY9sC2Y6SxGrd9LB/h9xOx5bNQDBwW4ywg9gyX0pwgTU/Ed5RoICW7PmWg4teu2J/eTVM58iUDigaI8H0OmB10t2KR5EJpMq4Sjj2UVbvrtZHTXHjc4aGRhhXA9ZLMvIdoELZpNmANkD7CXW8rQTgA69nm5dlnOceBAzxG/mTmWcPFf4t2YxGkMZRecKv3TNg2cCA5ng9A4MyNfxkneQ7cEFC6QQ893gZcBC2p/MV0ur28zP2tM2eik7avS2jodYakozThUX3U6m1vMKbd+9ULrULdOTTZOUSahtt7+ur33SsaPGlRlGG5wSHQWqCSLJ43bT+w=;+pXpyqVhT42VhfjUQF3hPw=="
 ---

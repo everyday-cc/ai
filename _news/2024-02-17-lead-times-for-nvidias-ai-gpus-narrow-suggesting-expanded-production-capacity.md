@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-nar
 webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,28 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Feeding the hunger for Nvidia GPU access is big business"
-    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
-    publishedDateTime: 2024-02-15T16:34:00Z
-    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
-    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
-    publishedDateTime: 2024-02-19T15:55:00Z
-    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 34
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
     images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
         isCached: true
   - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
     excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
@@ -55,20 +46,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
-    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
-    publishedDateTime: 2024-02-20T10:00:00Z
-    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
+  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
+    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
+    publishedDateTime: 2024-02-16T07:54:00Z
+    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 19
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
-        isCached: true
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 30
 
 secured: "uOBryiBtp9hK6Y5di0WpnEPULwwdrQ3IwNHiLLm7DbtLkRc2FocfdN+osBIJDYte3CqKk64Cs8Kbt4TVEv+pT1Qrz/5uWh9YcAsxg/a2UXnREkEOKISz8OTeA6UPXOqVWE/4NHS57pFQMThszjaLdMV8ozM3vHU9GB0nqQhlE0xYWlPb14zQiowh6yc+OaZUYwvPyAU8mzlVK4zfI7vJVYR1WaRwA8+LIZVFrcawepLEOoEDck9amOusDbnW0mN+fXlDfkveaDlYAx/ylFbs8N46YdRdAz7JRdts2Y5iyCbwn3JTRSWRsBmHA7912ucJ4bxISm/EnAO1QyAYSaZB50tE2GoOOqCQ8l21pgk6sKGzvq88Xf4bIMTaj1PK9wehUQEdgOPnfOs+rpQLmZQosUXoyEx0ZmO6I2QrQ1g1pJvqUN31LsO7Magyw76ZFFuNUG3YJ+Ndm90Tu8HgvJMYgz+CN+WUQlNDIiyzVgV4heSAqrwzwlVCd63v9TiJivHkxxiiWmt53qt858HThlHKXg==;4Zwr/7ldtFbDRpYL2/exag=="
 ---

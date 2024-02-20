@@ -9,8 +9,8 @@ ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-a
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Los Angeles Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
-    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
-    publishedDateTime: 2024-02-15T15:11:00Z
-    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
-    type: article
-    provider:
-      name: American College of Radiology
-      domain: acr.org
-    quality: 71
-    images:
-      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
     excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
     publishedDateTime: 2024-02-16T00:01:00Z
@@ -55,15 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "UB to hold research symposium on AI in health care"
-    excerpt: "The role of artificial intelligence in improving all aspects of health care is the theme of a research symposium to be held from 1:30-6 p.m. Feb. 27 at the Jacobs School of Medicine and Biomedical Sciences at UB. The event will kick off a new initiative at ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/briefs/2024/02/ai-health-care-symposium.html"
+  - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
+    excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
     type: article
     provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=1fc03114-b3ba-58cf-b72e-bae2c1b7a24e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96983&width=1200&height=675&x=1.0E-5&y=0.01509.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mmhLa19ZL0ukRzKVldT+mlxRqzF9ul48D6/m78z08T1IsSYc2t+j+Nzo2v8fhRT+3SgHv4afHJJLH9ZapI1VErOvq6TtKuA6tAn4gUg3y2/h+xx3bHm474Gh5FF/fZZokZFOrDxfMYh43t2CiwlBTCOphcbS5apzkV9JXn7FTCBfoWgDtWVB9iwFsJealfv5PZNGh7tBUuqvCWEBrqvgoJJWuGDAxgMDpT0B4ImhNdClW8lRD+Z0cji+wK5/OjvKozDleidfrmafC2HJUIaAjePC4Nj01BP/c6vpDrudLVhBnbpKjO856MOMsgdLZtcE0Qu67iZp7ciA2P6JFQdwEfbDbEgDdwyBFOYg+sjAtFg=;RsvUKAkT5ttr1dIWYrUkag=="
 ---

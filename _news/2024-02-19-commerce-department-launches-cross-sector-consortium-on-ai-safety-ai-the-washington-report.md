@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/commerce-department-launches-cro
 webUrl: "https://www.jdsupra.com/legalnews/commerce-department-launches-cross-3265822/"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "'Behind the times': Washington tries to catch up with AI's use in health care"
-    excerpt: "Lawmakers and regulators in Washington are starting to puzzle over how to regulate artificial intelligence in health care—and the AI industry thinks there's a good chance they'll mess it up."
-    publishedDateTime: 2024-02-15T13:37:00Z
-    webUrl: "https://techxplore.com/news/2024-02-washington-ai-health.html"
+  - title: "AI: EU agrees landmark deal on regulation of artificial intelligence"
+    excerpt: "EU Commissioner Thierry Breton said the agreement was \"historic\" European Union officials have reached a provisional deal on the world's first comprehensive laws to regulate the use of artificial intelligence. After 36 hours of talks, negotiators agreed ..."
+    publishedDateTime: 2024-02-20T14:31:00Z
+    webUrl: "https://www.bbc.com/news/world-europe-67668469?euph=1&channel=prseo#!/Platform"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 16
+      name: BBC
+      domain: bbc.com
+    quality: 62
+  - title: "Australia takes new step towards AI regulation, EU inches closer to AI Act"
+    excerpt: "Australia has this week established a new AI Expert Group gathering scientists alongside legal, ethics and governance experts."
+    publishedDateTime: 2024-02-16T15:33:00Z
+    webUrl: "https://www.biometricupdate.com/202402/australia-takes-new-step-towards-ai-regulation-eu-inches-closer-to-ai-act"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/06/30185300/algorithms-facial-recognition-bias-crowd-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
 
 secured: "ByST+Fm6f+fZFYI/wvRx2dV8SLhhSRVcnd6MjUMJGxsKGmxwLj07gMxrRKEZbUKHKZvbrInpIW0orZDWbB1tmNXB1VVt7VWCSOliVukQ82GDEnrsVjrPBL2cd45+vxEz2a+PMf/goFCTy8Plkr01OA6WRapu73311mOhdoUudHIl9CyQVqaEf+7AEyYvUkGPuUoi/KpR3Nx5UkpDJKT71raloygFWmQJyePMb4+8f0riH2/8BlEx/xlOmYOgvTj5IBRrPyN/8+R8uZqvBHRCnmxb4Hfn0TUSiuEJZqPtiiVNi4bXN0/QxLEcjD7cUXhXtLdA4UM4n9OuZQd0v0C2loDPOOUxPAlqZJ0SLTVLURg=;kybrsTeLMG0RtowNR7la4A=="
 ---

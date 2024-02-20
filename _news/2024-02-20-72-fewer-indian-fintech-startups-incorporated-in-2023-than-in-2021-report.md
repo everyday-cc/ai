@@ -37,6 +37,15 @@ related:
         width: 1430
         height: 782
         isCached: true
+  - title: "India finance ministry to meet fintech startups next week, source says"
+    excerpt: "India's finance ministry will hold meetings with the country's fintech startups next week to urge them to comply with regulations and hear their concerns, a source familiar with the matter told Reuters on Tuesday."
+    publishedDateTime: 2024-02-20T03:41:00Z
+    webUrl: "https://www.reuters.com/world/india/india-finance-ministry-meet-fintech-startups-next-week-source-says-2024-02-20/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
   - title: "The Role of “Fintech” in Healthcare in 2024"
     excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
     publishedDateTime: 2024-02-17T15:56:00Z
@@ -167,6 +176,24 @@ related:
         width: 720
         height: 455
         isCached: true
+  - title: "Why KYB Should Be a Priority for Fintech Startups Right From the Start"
+    excerpt: "Fintech startups are disrupting the financial services industry in exciting new ways. However, with innovation comes risk. As fintech companies enable speedy, paperless transactions and expand access to financial services,"
+    publishedDateTime: 2024-02-20T13:55:00Z
+    webUrl: "https://techbullion.com/why-kyb-should-be-a-priority-for-fintech-startups-right-from-the-start/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
+  - title: "F|T: The FinTech Times – Float expands with $50M debt financing from SVB"
+    excerpt: "Finom, a European challenger bank aimed at SMEs (small and medium-sized enterprises) and freelancers, has raised €50 million ($54 million) in a Series B equity round of funding. Finom lets businesses open up an online bank account in minutes and receive an IBAN (international bank account number) to support cross-border transactions."
+    publishedDateTime: 2024-02-20T14:24:00Z
+    webUrl: "https://betakit.com/ft-the-fintech-times-float-expands-with-50m-debt-financing-from-svb/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 3
   - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
     excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
     publishedDateTime: 2024-02-15T19:49:00Z

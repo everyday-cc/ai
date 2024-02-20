@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/features/avangrid-introduces-robot
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/features/avangrid-introduces-robot-to-help-with-electrical-substation-inspections/520-bbbe67cb-b598-4ba7-80b4-77590bd79a6a"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1140
     height: 641
     isCached: true
+
+related:
+  - title: "'Sparky the robot dog' is the newest employee at Avangrid's east shore substation in New Haven"
+    excerpt: "Sparky is the newest employee at the substation. Part of a pilot program between Boston Dynamics and Levatas, it has been conducting tasks like reading analog gauges and recording thermal images. Marco Hernandez, principal maintenance engineer at Avangrid, is part of the team that is responsible for keeping the robot dog on task."
+    publishedDateTime: 2024-02-19T22:48:00Z
+    webUrl: "https://www.fox61.com/article/features/avangrid-introduces-robot-to-help-with-electrical-substation-inspections/520-bbbe67cb-b598-4ba7-80b4-77590bd79a6a"
+    type: article
+    provider:
+      name: fox61
+      domain: fox61.com
+    quality: 7
 
 secured: "3+rNGpwW63f0SlAz0R/gmFW1nmJ6kSoeZsOLd4CGMbtRITdA4MgONwyLFvsYeo3EhSw5er03WHzZtCdQJRP2gikiLFHd64P5itHYq94ENxjqfvfoGNm5submP5/nusOZbDy4cKR2rjZ4D3BcskquxOk/K+fxsOgR8YoiBqotpnAKxllPiSi9DGAj0tuMeIfklXZiEIzPg7gxNhl1ls3/zHS8oekiFRUi5dddTbmTJiNSv0Wd4JZagOTM3dkLFoJvJKhjyV8kgsGKp6927QTW/jgvfvlNt72XrQyUH3IYU3NRqgKhx2KabRzfAV+v54XiPWlXMdErgcR5bm1LaMnrclrzsFThKmb2BqF1G7UejlltqS7TS5/WMsg7NteWT44Lwm2asrz/+k1ejY32+2dtLyFc10jSUv6GtHDem7OFOzcMuy3yDgPHm8riVhTzIWZH4Wxiht7gqnBH/6X6k4qNhdgHgwWcDc4qW/z2qgpEal54vBZZZG6lPaJCqAnkGZGxe2IwR4sbIgOWffrU7VNR9g==;gg3fLROhM+W+aguPGfWMzQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-13088161/amp/waymo-i
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-13088161/amp/waymo-issues-recall-self-driving-cars-collide.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo issues recall after 2 of its self-driving vehicles strike the same pickup truck in Arizona"
-    excerpt: "In December, a Waymo vehicle struck a pickup truck being towed. A few minutes after the crash, another Waymo vehicle struck the same pickup."
-    publishedDateTime: 2024-02-15T16:23:00Z
-    webUrl: "https://www.newscentermaine.com/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
-    ampWebUrl: "https://www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
-    cdnAmpWebUrl: "https://www-newscentermaine-com.cdn.ampproject.org/c/s/www.newscentermaine.com/amp/article/news/nation-world/waymo-issues-recall-driverless-cars/507-a99bf220-9a75-4253-ba1e-cb5fd5744610"
-    type: article
-    provider:
-      name: newscentermaine.com
-      domain: newscentermaine.com
-    quality: 46
-    images:
-      - url: "https://media.newscentermaine.com/assets/CCT/images/d1ebbb21-7507-4b4f-8345-451edd7ba817/d1ebbb21-7507-4b4f-8345-451edd7ba817_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
     excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."
     publishedDateTime: 2024-02-16T20:28:00Z

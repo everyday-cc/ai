@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-me
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/15/nvidia-acciones-mercados-aumentan-inteligencia-artificial-cnn-dinero-tv.cnn"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nvidia holdings disclosure pumps up shares of small AI companies"
-    excerpt: "Nvidia acquired its stake in biotech company Recursion more recently. Like TuSimple, Recursion went public in 2021, but Nvidia bought in two years later through what’s called a private investment in public equity (PIPE). Nvidia bought $50 million worth of shares in 2023 and now has an investment worth $76 million, according to its filing."
-    publishedDateTime: 2024-02-15T16:53:00Z
-    webUrl: "https://www.cnbc.com/2024/02/15/nvidia-holdings-disclosure-pumps-up-shares-of-small-ai-companies.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 47
 
 secured: "H09kTY4GpWU9Z5GJo1QAxNxNT1t0sUWgVt2nOus46MV6fmyLBdfXV47uaN+EJUY2ghP1WASDGUrVCv8zHH318VxPlTuloZquoTLKuAUp8XqHc/fWroCeJnFzVwCaUDQOeJIgy6BYJQOwLGC5QN8931FDCKG/Vx2oOIHYRBjlkiSLRgU2Nn4rBj2Zzr+rA/hm4tr+ktCkEbOi4JV6wNwdDalbwKolYECU+a1iTPXA63+dStcLQtlYJTcMX2x8XlRa2z+UlrHAbWfWgGO5JxBB67Tit/mGOly1sKx4i/VnSGoJzXgbgzIrxXbihGTn1jHALkGh9AdyZI+vkzQ0eX4l1Ali5hHOZfEYp/jmP5u9qJk=;39NmaQflF+Nr0HGKa2ERYg=="
 ---

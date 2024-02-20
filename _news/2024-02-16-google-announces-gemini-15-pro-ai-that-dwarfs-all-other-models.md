@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Our next-generation model: Gemini 1.5"
-    excerpt: "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities."
-    publishedDateTime: 2024-02-15T15:00:50Z
-    webUrl: "https://deepmind.google/discover/blog/our-next-generation-model-gemini-15/"
-    ampWebUrl: "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-next-generation-model-february-2024/amp/"
+  - title: "Google Lengthens, Mixes, Broadens AI With Gemini Toolset"
+    excerpt: "The need to mix, broaden and lengthen our use of AI with fluid tokenization control and Mixture-of-Experts (MoE) architectures is very of the moment."
+    publishedDateTime: 2024-02-19T12:20:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/02/19/google-lengthens-mixes-broadens-ai-with-gemini-toolset/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 94
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_gemini_1.5_blog_social_share_800x418.width-1300.png"
-        width: 800
-        height: 418
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d3469af364a6540e831a99/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1484
+        height: 900
         isCached: true
   - title: "Google Gemini: Everything you need to know about the new generative AI platform"
     excerpt: "Google, proving once again that it lacks a knack for branding, didn’t make it clear from the outset that Gemini is separate and distinct from the Gemini apps on the web and mobile (formerly Bard). The Gemini apps are simply an interface through which ..."
@@ -51,52 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google unveils Gemini 1.5, a next-gen AI model with million-token context window"
-    excerpt: "Google unveils Gemini 1.5, a next-generation AI model with a million-token context window for dramatically improved long-form reasoning."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/google-unveils-gemini-1-5-a-next-gen-ai-model-with-million-token-context-window/"
+  - title: "Google Teases Innovative New Android Abilities With Gemini AI"
+    excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
+    publishedDateTime: 2024-02-19T13:06:00Z
+    webUrl: "https://www.forbes.com/sites/jaymcgregor/2024/02/19/google-gemini-ai-android-pixel-8-pro-feature/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 66
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Vector_art_of_a_brain_with_Googles_multi-colored_logo_ebed8fc5-410e-4075-a948-57a9ee6955fa-transformed.webp?w=1200&strip=all"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "Google Unveils Gemini 1.5, Meta Introduces Predictive Visual Machine Learning Model V-JEPA"
-    excerpt: "Google and Meta made notable artificial intelligence (AI) announcements on Thursday, unveiling new models with significant advancements. The search giant unveiled Gemini 1.5, an u"
-    publishedDateTime: 2024-02-16T08:28:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemini-1-5-meta-v-jepa-predictive-visual-machine-learning-model-5068613/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 49
-    images:
-      - url: "https://i.gadgets360cdn.com/large/google_gemini_15_1708071970272.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Google’s new version of Gemini can handle far bigger amounts of data"
-    excerpt: "Google DeepMind today launched the next generation of its powerful artificial intelligence model Gemini, which has an enhanced ability to work with large amounts of video, text, and images."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/"
-    ampWebUrl: "https://www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1088367/googles-new-version-of-gemini-can-handle-far-bigger-amounts-of-data/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 44
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Screenshot-2024-02-15-080149.png?w=1920"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
     excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
     publishedDateTime: 2024-02-20T07:46:00Z
@@ -111,6 +74,48 @@ related:
         width: 1280
         height: 723
         isCached: true
+  - title: "Google claims AI advances with Gemini LLM"
+    excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
+    publishedDateTime: 2024-02-16T06:15:00Z
+    webUrl: "https://www.computerweekly.com/news/366570152/Google-claims-AI-advances-with-Gemini-LLM"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+    images:
+      - url: "https://cdn.ttgtmedia.com/rms/onlineimages/cloud_g1251263502.jpg"
+        width: 1200
+        height: 400
+        isCached: true
+  - title: "A new Gemini AI shortcut was just found hiding in Google Chrome"
+    excerpt: "If you buy through a BGR link, we may earn an affiliate commission, helping support our expert product labs. Google gave Bard an official upgrade and rebrand to Gemini, its most powerful ChatGPT rival so far. Gemini is available for free online."
+    publishedDateTime: 2024-02-16T17:54:00Z
+    webUrl: "https://bgr.com/tech/a-new-gemini-ai-shortcut-was-just-found-hiding-in-google-chrome/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 39
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/google-gemini-1.jpg?quality=82&strip=all"
+        width: 1600
+        height: 809
+        isCached: true
+  - title: "Duet AI rolls out to more Google accounts as the Gemini rebrand is imminent"
+    excerpt: "Duet AI offers features like reply suggestions and summarization, which vary depending on the Google product you are using. Google is still figuring out how to introduce Gemini to the world, but it is expanding access outside of the US and plans to explain its capabilities as it rolls out."
+    publishedDateTime: 2024-02-16T01:47:00Z
+    webUrl: "https://www.androidpolice.com/duet-ai-google-gemini-rebrand-workspace/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 37
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/02/google-gemini-google-assistant-lifestyle-4.jpg"
+        width: 3874
+        height: 2583
+        isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
     publishedDateTime: 2024-02-19T08:10:00Z
@@ -120,29 +125,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 27
-  - title: "Gemini 1.5 is much more than a new foundation model"
-    excerpt: "The pace is on at Google Deepmind, it is already coming out with Gemini 1.5 within months of the launch of Gemini 1.0. It sounds like a new version of an"
-    publishedDateTime: 2024-02-15T16:15:00Z
-    webUrl: "https://www.techzine.eu/news/analytics/116521/gemini-1-5-is-much-more-than-a-new-foundation-model/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 24
-    images:
-      - url: "https://www.techzine.eu/wp-content/uploads/2024/02/gemini-1.5.jpg"
-        width: 2096
-        height: 1182
-        isCached: true
-  - title: "Google’s Next-Gen LLM Gemini 1.5 Takes the Token Race to ChatGPT"
-    excerpt: "Google announces the launch of Gemini 1.5, an AI model that can process up to 1 million tokens in a single prompt."
-    publishedDateTime: 2024-02-19T10:30:00Z
-    webUrl: "https://www.techopedia.com/google-gemini-1.5-tokens-race"
-    type: article
-    provider:
-      name: Techopedia
-      domain: techopedia.com
-    quality: 21
   - title: "Google turbocharges its genAI engine with Gemini 1.5"
     excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
     publishedDateTime: 2024-02-15T20:41:00Z
@@ -152,6 +134,15 @@ related:
       name: Computerworld
       domain: computerworld.com
     quality: 19
+  - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
+    excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
+    publishedDateTime: 2024-02-16T12:15:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-test-ai-for-a-living-and-googles-new-version-of-gemini-is-a-turning-point-for-the-industry"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 8
 
 secured: "Lzljlg8R6bPVZe/2fMZtx3tVh5JNAvaK/RzV9Giv7ZaTvb/R4F3JrhPU1ry1P9FjFjM8+zPQvwmEZfyUnKlPH8yObdqN0toumasSeqUXC7EjMezdWZUpUevDTdfplW6oTR55Qw36ak0YTRXmo0FPD0ubW4p+VTpRJ2wfRcyRKrHseUVinZvWJZ+aWro78p791BAfvRPeaKdUBowEFqFSAixAOyDCBLT3pjU9hhtj4jxEQdOC8pJZeYLzy65OiivBWl2FCFjbpnklVbvsX5DC+IjEzPFgctR9ArhnV1ueotvwdXOlxuhtR1Cdf8kUC2Ch8D75ZRvNkQhqHiLdkc3uScuAXZbeCGsSbU7Gr3R35Xk=;FNnIvDFB5BiPCLMW67M0/Q=="
 ---

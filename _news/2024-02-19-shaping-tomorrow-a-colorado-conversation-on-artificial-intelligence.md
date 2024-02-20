@@ -34,7 +34,7 @@ related:
     provider:
       name: coloradosun
       domain: coloradosun.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://i0.wp.com/newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2024/02/AI-st-vrain-schools-eb-14.jpg?fit=2203%2C1466&ssl=1"
         width: 2203

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
+    excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
+    publishedDateTime: 2024-02-20T14:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-hallucinations-will-largely-be-eliminated-by-next-year-says-deepminds-mustafa-suleyman-12315081.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 24
 
 secured: "r0nyM9CxraNsLRf99c2eWFoD9bmLN0Q9XsMJ29fT1vtbHRriFYH3gTXCKZpaxbn/X2RobS8y0x5Q56RZHpYXEvIyXEHafd0Snq8TnJa8jcQ8tbdwKGkt0/kKvldW5nsyWyDg6wWKhbqySSLJ2Pfthbp/dyoRZh8E4d8vO8pV1IGmKLp2SMXtQLHwP8pkKLKAO888O19SPam8TPiQsAaem9ZkeLn54VMi2X8l4ijujL+D6jlhMKLz0Uglhh/mM09uKKmevsP0/LSA4xKLtVNQI9KscIzOEDlEIudlL/LZ/SpRig+rJAOVlqo2BNupf2JOjsz2XsFZE40ELogWrQQcm1umLipz+8dRXtmuypq7G3JkBaSSgfeM6W2mqby/QV6YNqEhE9jBexySMtTsg0R2aMHJAcByfL4dSO2zmSe7U7yfd47321yZrJ+ECjiZ60ufRSdvTSTiaGl8/4lU9yaO1kchBZZafSWZg8teVlp2SWZ6z9GJ2+iAr03r81JCrZK+uZEOehnobjCa/UklYoYBdg==;eNgi0n3/LXb8R29CjA/h6g=="
 ---

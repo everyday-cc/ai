@@ -35,22 +35,6 @@ related:
         width: 1353
         height: 900
         isCached: true
-  - title: "AI Is Already Making Us More Productive"
-    excerpt: "Instead, the productivity winners will be the companies that deeply integrate customized AI into their enterprise software and business systems, pairing it with automation whenever possible. Despite all the chatter, Nitin Mittal and Thomas H. Davenport note in their book All in on AI that only a handful of major companies have already done this."
-    publishedDateTime: 2024-02-16T10:01:00Z
-    webUrl: "https://www.mauldineconomics.com/global-macro-update/ai-is-already-making-us-more-productive"
-    ampWebUrl: "https://www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
-    cdnAmpWebUrl: "https://www-mauldineconomics-com.cdn.ampproject.org/c/s/www.mauldineconomics.com/global-macro-update/amp/ai-is-already-making-us-more-productive"
-    type: article
-    provider:
-      name: MauldinEconomics.com
-      domain: mauldineconomics.com
-    quality: 59
-    images:
-      - url: "https://images.mauldineconomics.com/uploads/newsletters/FEATURE_20240216_GMU.jpg"
-        width: 825
-        height: 413
-        isCached: true
 
 secured: "UNterfnkRWOgQXH3Vrf+FsIxVQiJ1oWb6WkOF9NMS/hvGZXqp0heOW5DwjHkdLUfK+ioNCXGi/6ti14QDJWFvYIBWe/w1QC+5fy88Z5fQIH2abmEpm1rmmZzD4HimdPslCADwbfTJTUTB0wUM4ZdVF/Ocz97ZEYcvXbtlJJIxLno2j7RMxOd6y0rBSHSb6eQ0x2ClByuRQvSptXQAuiYdrfFFMB9GPc2YKBaRg2QGjUxh0FpX6v1YqQ66kFSjN7xNmoTazVFkJ1PdZX5eDlykrlHVUZXnChUJdn1guNkgT8HZ02OQ3T0X0DNabV8cq1fiYjr0GbGcnJJ6KyosIMx8sXne1Om6qcUnvXniPTruNs0zfNgIl0SEXMJUf06LlQBhVfrmypA1AreaZNQHswP0NmeIcUALEEQTxQjuv7hk7FkA1ZeZJ8uDD3kN8I10hXA2X3yebtaMpti6t5pcMR0BDEDKJFE8bR9ld3gko9TimApTbrmW82Y5Fw7QsU2CBVq3KkI7XIJzAJPjNuB6rIliA==;kl60dUUR+FXf75k67rOheg=="
 ---

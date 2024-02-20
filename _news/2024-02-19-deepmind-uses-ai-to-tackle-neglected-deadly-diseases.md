@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI hallucinations will largely be eliminated by next year, says DeepMind’s Mustafa Suleyman"
+    excerpt: "Suleyman said eliminating hallucination would have a dramatic impact on education because these conversational AI's are friendly and fluent."
+    publishedDateTime: 2024-02-20T14:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/ai-hallucinations-will-largely-be-eliminated-by-next-year-says-deepminds-mustafa-suleyman-12315081.html"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 24
 
 secured: "u8aktbCGjCqb4tGLbECOa19kDBwr9wgAA471z5eyXHktDvAuZH1pShiSNLxGDsLlqpQla40sYRl4k9QEFF+izjiWtOWHOlvbQfFYTThO+u1GVtomjgJ26UIFqs0Fz7hXLx7Jdsp0DyAb7e2PCPC2d1913tzinjkkNHCe+cnU3CKGhehbR3TLzZR3F3nACUECVAkvx+tLwZwJhKmo5X5mus3Fk1Aaz1IcwlqPdAkgupZqHaRUuMAVsbCWXO3IqhZT/jRt9Rism5gfvV7iSnD4FwLZTn6bJcbp5tkv24+z/f+J6h4pWXyBJkRzGbZy7w05FsK2hxC7KzUUAE0CL5V4RVG8GM/BHLp9OsY6auLMwCnJhuAdrxzktlpCHKdBAoOlq3MIJjD5Opg7Mn+VhP52W6Jzzlx2abaA1cEu2pOlaMJ94xxivWvW6dpXe3jUVl60IZDkOCOvq24HBpipd4J5QUx9xrkBCsUruuHZecHtb2b9C/XoEr8TSxg2HmJ2ePYC3U4OnfmSvcnacK3QeUpulg==;yV5qfq8f2vSSthfz6iEt0Q=="
 ---

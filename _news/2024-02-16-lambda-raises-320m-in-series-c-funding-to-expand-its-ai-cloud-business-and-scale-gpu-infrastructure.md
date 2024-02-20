@@ -25,77 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI computing firm Lambda raises $320 million in fresh funding"
-    excerpt: "Lambda: \"This AI rollout is going to require a lot of Graphics Processing Unit (GPUs). This latest financing supports our mission to make GPU compute as ubiquitous as electricity,\" said CEO and Co-founder Stephen Balaban."
-    publishedDateTime: 2024-02-16T02:22:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding/107736843"
+  - title: "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure"
+    excerpt: "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an"
+    publishedDateTime: 2024-02-20T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107736843,imgsize-183154,width-1200,height=765,overlay-ettelecom/internet/ai-computing-firm-lambda-raises-320-million-in-fresh-funding.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "AI Computing Firm Lambda Raises $320 Million in Fresh Funding"
-    excerpt: "(Reuters) - Lambda, an artificial intelligence computing firm, said on Thursday it has raised $320 million in a new funding round led by billionaire Thomas Tull's US Innovative Technology to expand its AI cloud business."
-    publishedDateTime: 2024-02-15T14:40:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-15/ai-computing-firm-lambda-raises-320-million-in-fresh-funding"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+  - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
+    excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
+    publishedDateTime: 2024-02-19T22:31:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
-  - title: "AI cloud compute startup Lamba raises $320M at $1.5B valuation"
-    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
-    publishedDateTime: 2024-02-15T17:00:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lamba-raises-320m-1-5b-valuation/"
+    quality: 60
+  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
+    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
+    publishedDateTime: 2024-02-20T09:35:00Z
+    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
-        width: 1280
-        height: 741
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "AI cloud compute startup Lambda raises $320M at $1.5B valuation"
-    excerpt: "Lambda Inc., a startup that operates an on-demand public cloud for training and deploying artificial intelligence models, today announced it has raised $320 million in a new funding round increasing the company’s valuation to $1.5 billion."
-    publishedDateTime: 2024-02-15T17:10:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/ai-cloud-compute-startup-lambda-raises-320m-1-5b-valuation/"
+  - title: "Microsoft to invest €3.2bn in doubling AI infrastructure and cloud capacity in Germany"
+    excerpt: "Microsoft has committed to investing €3.2 billion ($3.44bn) to double its AI infrastructure and cloud computing capacity in Germany. The investment will span the next two years and focus on the expansion of Microsoft's cloud region in Frankfurt and newly planned infrastructure in North Rhine-Westphalia."
+    publishedDateTime: 2024-02-16T12:20:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-32bn-in-doubling-ai-infrastructure-and-cloud-capacity-in-germany/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 46
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
-        width: 1280
-        height: 741
+      - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
-    excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
-    publishedDateTime: 2024-02-16T19:20:00Z
-    webUrl: "https://www.nextplatform.com/2024/02/16/lambda-snags-320-million-to-grow-its-rent-a-gpu-cloud/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 19
-  - title: "AI Compute Startup Lambda Hits $1.5B Valuation After Massive $320M Raise"
-    excerpt: "In a round that marks the largest by an AI startup this year, cloud computing services and hardware for training artificial intelligence software provider Lambda hit unicorn status after a $320 million Series C."
-    publishedDateTime: 2024-02-15T18:33:00Z
-    webUrl: "https://news.crunchbase.com/ai/ai-compute-startup-lambda-unicorn-nvda/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 16
 
 secured: "krmTNmHE0YOJ9QESn7m/6TXxFNkKA3DdesoIn/Ih7JR9m9BHUumIHTy0Rq9rm6ra9fQbvCcYUO0Q7miCl9YVBb7+F++V01GmoJPNvzp658n9JscqYJsBI5beE0683o/DPGoREAf4eGVsfKZ2MM4HK/zMWB+gCCdvLugQJCwpqlrF8flO6NGD7Jnjg3Ttcj0H5Sh49CUFY1Avqk7kwXoBPYA/7dA3fm6GJj+iui0rVLBxMp5LU/qYKvrbnlovyAKdVJhPx9sd2NrENsTTVdGJBd8tFo81QCvwrgsYKa59G7WqUqvI5JjwoTFgzEzP5XP2beOFjRtQXjhIpx4+fi+HxsgfK3q9VjShpRxGPw3yVL5a3BBEr0xZz2leRkvA39KPHaVAgX5Ax9vI/70ZytddoS4wpeBG3wOAS6pjB3szEh/Br5h3Wt8RvysjDspgTWXwZoRP9dhAMFSeh+TF4wYpCSG6dPJ6K0f3qQorIRdysDu20ihcLyegjW6tNhIhEtowW5J/ZV2ZCDDWA0ccGGQ4Dg==;kgxIZzcUbdnYfSNs1pe3YA=="
 ---

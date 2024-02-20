@@ -25,47 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Feeding the hunger for Nvidia GPU access is big business"
-    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
-    publishedDateTime: 2024-02-15T16:34:00Z
-    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
+  - title: "Chinese EV Maker Xpeng to Hire 4,000, Invest in AI"
+    excerpt: "SHANGHAI/BEIJING (Reuters) - Chinese electric vehicle maker Xpeng said it would hire 4,000 this year and invest millions in artificial intelligence, as it seeks to survive what it describes as a \"bloody sea\" of competition in the world's largest auto market."
+    publishedDateTime: 2024-02-19T06:48:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/chinese-ev-maker-xpeng-to-hire-4-000-invest-in-ai"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
-  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
-    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
-    publishedDateTime: 2024-02-16T19:33:00Z
-    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
+    excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
+    publishedDateTime: 2024-02-17T00:00:00Z
+    webUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-women-turn-ai-boyfriends-2361986"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 45
-  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
-    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
-    publishedDateTime: 2024-02-19T15:55:00Z
-    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
-    type: article
-    provider:
-      name: IGN
-      domain: ign.com
-    quality: 34
+      name: TODAYonline
+      domain: todayonline.com
+    quality: 39
     images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--WN-9H-ul--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2024/02/13/20240213_afp_ai_boyfriend.jpg?itok=zzY4QWFh"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
-    excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
-    publishedDateTime: 2024-02-19T14:15:00Z
-    webUrl: "https://www.geeky-gadgets.com/nvidia-chat-bot-rtx-ai-pcs/"
+  - title: "Chinese AI groups use cloud services to evade US chip export controls"
+    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 5,748 kr. 3,425 kr. for 1 year 285.42 kr. monthly equivalent Then 739 kr ..."
+    publishedDateTime: 2024-02-19T01:47:00Z
+    webUrl: "https://www.ft.com/content/9706c917-6440-4fa9-b588-b18fbc1503b9?_hsenc=p2ANqtz-_O7jzuUM2GswA4pqUdHJGw605HfbEkT_nKT3wem5rQ-ZIPu3ilowf56qBjs1I-CUZSUWCO"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: The Financial Times
+      domain: ft.com
     quality: 34
+  - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
+    excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
+    publishedDateTime: 2024-02-19T13:14:00Z
+    webUrl: "https://europe.autonews.com/automakers/xpeng-boost-workforce-25-invest-ai-driving-tech"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 17
 
 secured: "43yclK32x8UZcykr4aSsiS5bPpctM8E0SKnZ46hfVV2VDxnX/qkZB+dz7imYEkeq9elODTBtVw01FpsbFyocX+VsOO/8gN8bHAuDnZU+B/RA4l4tZbmphcM6fe5ni2IicKTZ04YqSMjbYYxKZ7F/+lVsPQXZvbnWJZH9lBqantuSpfgdRcTDQrgYN5HL+/04jZ82OA36N3ZghDTz3hQT65CbyI+/AH/0KTKRdwgmAoLobyzpJSQzMx2f5WbWWqpm4yovnt/arZdo6lBwQ07uVs78Kj+fYD4A2dXYREjaD6h+MgOHGghOeJoZ761ULr2yRSv6hyDMvvifRcjIl0NEBPaTIl/RnmFihjoPoQHyfCc=;7UGOXemRjcYNpNwJYd+YiQ=="
 ---

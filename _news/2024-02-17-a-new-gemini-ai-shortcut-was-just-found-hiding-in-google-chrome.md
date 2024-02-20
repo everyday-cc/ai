@@ -41,6 +41,22 @@ related:
         width: 1484
         height: 900
         isCached: true
+  - title: "Google Gemini: Everything you need to know about the new generative AI platform"
+    excerpt: "Google, proving once again that it lacks a knack for branding, didn’t make it clear from the outset that Gemini is separate and distinct from the Gemini apps on the web and mobile (formerly Bard). The Gemini apps are simply an interface through which ..."
+    publishedDateTime: 2024-02-16T18:25:00Z
+    webUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/"
+    ampWebUrl: "https://techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/16/what-is-google-gemini-ai/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2023/12/google-bard-gemini-v2.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Teases Innovative New Android Abilities With Gemini AI"
     excerpt: "Update February 19th: Google could be building a new Chromebook with a built-in Assistant hardware key according to a new report by Chrome Unboxed. The site discovered a file in the Chromium Repositories that references an Assistant key for a yet-be-released Chromebook codenamed “Xol.”"
     publishedDateTime: 2024-02-19T13:06:00Z
@@ -50,6 +66,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
+    excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
+    publishedDateTime: 2024-02-20T07:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-use-gemini-1-5-pro-ai-for-video-analysis/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/video-analysis-using-Google-Gemini-1.5-Pro-AI-model-.jpg"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Google claims AI advances with Gemini LLM"
     excerpt: "Code analysis, understanding large volumes of text and translating a language by learning from one read of a book are among the breakthroughs of Gemini 1.5."
     publishedDateTime: 2024-02-16T06:15:00Z
@@ -78,6 +108,33 @@ related:
         width: 3874
         height: 2583
         isCached: true
+  - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
+    excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
+    publishedDateTime: 2024-02-19T08:10:00Z
+    webUrl: "https://slator.com/google-ai-chief-touts-ultra-low-resource-machine-translation-gemini-1-5-pro-launch/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 27
+  - title: "Google Announces Gemini 1.5 Pro AI That Dwarfs All Other Models"
+    excerpt: "Google only just announced Gemini as its new AI branding, rolling out models in several sizes and levels of complexity. Gemini 1.0 Pro, the mid-tier version of the model, is already being replaced. Google says Gemini 1."
+    publishedDateTime: 2024-02-16T14:03:00Z
+    webUrl: "https://www.extremetech.com/computing/google-announces-gemini-15-pro-ai-that-dwarfs-all-other-models"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 19
+  - title: "Google turbocharges its genAI engine with Gemini 1.5"
+    excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
+    publishedDateTime: 2024-02-15T20:41:00Z
+    webUrl: "https://www.computerworld.com/article/3712961/google-turbocharges-its-genai-engine-with-gemini-15.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
   - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
     excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
     publishedDateTime: 2024-02-16T12:15:00Z

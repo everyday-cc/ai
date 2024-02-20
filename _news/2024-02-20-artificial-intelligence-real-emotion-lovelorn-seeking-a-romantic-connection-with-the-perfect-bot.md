@@ -41,20 +41,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot."
-    excerpt: "The generative artificial intelligence boom has led to the emergence of more companion chatbots. Similar to general-purpose AI chatbots that answer typical questions, companion bots use vast"
-    publishedDateTime: 2024-02-15T15:46:00Z
-    webUrl: "https://www.pilotonline.com/2024/02/15/artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot/"
-    type: article
-    provider:
-      name: The Virginian-Pilot
-      domain: pilotonline.com
-    quality: 24
-    images:
-      - url: "https://www.pilotonline.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908.jpg?w=1024&#038;h=682"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "yFn9kWdzHc1YGLrjAKYmcI2L0H4OoSgaFFKjRtakmWVj1NPB5xXokwo5YRsSTkJryrrSzbp4fewQs4a7hGXLtdU54ItImhe10Kh3n6W9e9Iu3J2hR8f5AfrTc+8XrD437qxhly1TVXhcP9JA9SpHUvXLeYb/BtO5+9uvbpdD/Ju5B2HwldwGPAXS7M9nDrTfAjOjzAUuxKFGCp1w7mmz82q8Q9YJitCMJz1W2wmft1dtqRY0Qmrd7oIUovxRmPJG3E32BjIN33AeEkH4kWL6KGK426a097p+PzeX0b6UZyFaBias2wlbdBUgi/OX+XfaKCPWUN6VMudlkj5lidBVwdU0wx8z3118QFdLYwVUlZkS1IsTdeATcFxz8fkb6ZCSdmJ0a5eW13jUnlK3jYti2dcpKeK99ac9SCoRH5xlMvDVMjumA1sB2rSnS6bUXO07XDlY0mU54MmgWebIRlqRFggB2bdrPoP5vlycvaVE8E7odZI4RPUEepGkwmJrBA/BV3HKR+lc9cx37A54Py4HEQ==;g6ajtD1M2RT30iD5D9Q5yA=="
 ---

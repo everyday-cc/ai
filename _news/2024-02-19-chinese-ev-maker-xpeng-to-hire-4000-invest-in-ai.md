@@ -45,6 +45,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
+  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
+    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 19
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
+        width: 2560
+        height: 1680
+        isCached: true
   - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
     excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
     publishedDateTime: 2024-02-19T13:14:00Z

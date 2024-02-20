@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft to invest $2.1bn in cloud and AI infrastructure in Spain"
+    excerpt: "Microsoft has committed to investing $2.1 billion in cloud computing and artificial intelligence (AI) infrastructure in Spain over the next two years. The planned investment was shared by the vice chair and president of Microsoft Brad Smith via a post on X following a meeting with the Prime Minister of Spain, Pedro Sanchez."
+    publishedDateTime: 2024-02-20T14:56:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/microsoft-to-invest-21bn-in-cloud-and-ai-infrastructure-in-spain/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
 
 secured: "NeRuHvPve/SyWiFxZoZLzuK40JNFwzoqByUu8vzD9ygEoOaFe63kZzhFYBoeQdhweGth3FwBV/sm1DpfzJLbTL3yB7dBE2rNPzzLQXCxiKI1VutWjUkEIV8tBHR9twOi3GfbSKEx0rWPM3PGnzK3MMAVwHCCZdgqbeyzyt1s/MjhsAp3GCZjMQ8PlxhlGBBE+cnNhwE3+hKEuZH9OKvQB1gxBqa6tP5oc8dBwja4JxnwYJiQyc+AF05EEHkVy+g8mKzpXoOMem9ZGdN46ijwL7tnfqkYqYgkiyaNfuqyD6B2IT4ByswBk0KRDt4qbHV/YST9Lam6lB4K0kKSC76YlXX+1zMpH47iU+bX29rNqCwaRTzfCwhN55YX/wosmz6k68WqNekUtheTUF7ZeG5ld+M2g6quPIKj65pzNPUaX6RtooITece/u794CkIUV/Iu48B5CfB6BgcHDoHYaPVwIzgR+uzZI4Di5eIsXsNUQT55NqLvWzPC172oR0JT5n4aTKHIX1mPWuk4fQldtNEnYQ==;nvQSdyOlVjPS1BM9Q1bwlw=="
 ---

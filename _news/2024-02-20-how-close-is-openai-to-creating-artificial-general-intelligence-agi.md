@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T10:33:00Z
 originalUrl: "https://www.geeky-gadgets.com/when-will-agi-arrive/"
 webUrl: "https://www.geeky-gadgets.com/when-will-agi-arrive/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/OpenAI-Artificial-General-Intelligence-AGI.jpg"
@@ -69,6 +70,6 @@ related:
         height: 818
         isCached: true
 
-secured: "D59UQDiv5YJ2RAvlpFmBKZkPxeRhOSHnc/dZ/Phe8mlL2DtsnlzZh7I9ko5PVg5Phiptk12YnD3Fe1WMxS7YXHLgaO0wJh3eKs69On7ggcYouUscacKmDQCWeR7yjiV3hobujieZA5VNa6DAxBa5zGcbbOiwI+TyETniOCYsH/d6JCItLDNVPmtyPIriIw0i0bWDMOun5PqkGrV04/mjk2vlYqh5UEZdlonSHmcsZZ8n5BlKl0Nvm7K2KbnB74GQaU3DHtJZCGv9WenrBkGyA8VOjhg7L01qK3nx/OELNarCX3/7YczJEHCI1ftqZhLh7mtQFa7qBRgTZuWvE5D/0cOyV85JSzLBS56jC8Mz+/E=;NpuWE7BmmT/r0sJ/m0R8xQ=="
+secured: "UH/vt0X+UieFF5iSaCm8Q8K8hoVdcQSIfMKL0Ej6A5hSCVWaU5a0lfrlVhR0HwbqhrumF1v8pKUcpJ7ZcaocHMmjrgwogcMW2CPmR4rWRT3md0c1k6P+8HXLzjo7IyE3udJ1Sx/tRwYQG0OLFg6K7t6O6RMRDS5ogVnk6Z1Bh+KhY4B49tEL+7z9yh3jJQqbQPU6UbZtB63jLyI4CWQTJ1uPr64BMXdrZIJ8QxhCwRj8jQYzG+tC7shw7qgCUDT2eSFXi1W1fDQw5+UYr9pszjy4fh8aMbUoiE4EqRGtMjD7X519s4Z53ZoV17X7guXF8LjRLU+yddlzu9RqZe26sEqqGsy0R7fBcT1GPTEy3DyjX2pogfYd1tN7FpsrL+lEgHy4JvqmBjWE7CKbjEHiD/ZwJO/JREJBW9Sw7mXq7cO3rxuORTMZmldXV/MGonByNj95o8xNInAAG3Sy7b7odoxludZtcHAi31JlwgCHpKhdDLxHWzh+olJKIxF0YSO2Jc/yFVNqWgnuI7ZEAkOJpQ==;0i+HGwEho0OJYq4cX6l+eg=="
 ---
 

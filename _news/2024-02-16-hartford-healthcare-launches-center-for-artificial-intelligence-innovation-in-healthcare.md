@@ -52,6 +52,15 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
+  - title: "Hartford HealthCare launches Center for AI Innovation in Healthcare"
+    excerpt: "HARTFORD, Conn., Feb. 19, 2024 /PRNewswire/ -- Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare. The Center is the first of its kind in New England, and one of only a few in the United States."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hartford-healthcare-launches-center-ai-innovation-healthcare-/2024/02/20/9964521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Hartford HealthCare launches new center to use artificial intelligence in hospitals"
     excerpt: "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays."
     publishedDateTime: 2024-02-16T18:17:00Z

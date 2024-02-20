@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
-    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
-    publishedDateTime: 2024-02-15T15:11:00Z
-    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
-    type: article
-    provider:
-      name: American College of Radiology
-      domain: acr.org
-    quality: 71
-    images:
-      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
     excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
     publishedDateTime: 2024-02-17T16:00:00Z
@@ -56,15 +42,22 @@ related:
         width: 361
         height: 203
         isCached: true
-  - title: "UB to hold research symposium on AI in health care"
-    excerpt: "The role of artificial intelligence in improving all aspects of health care is the theme of a research symposium to be held from 1:30-6 p.m. Feb. 27 at the Jacobs School of Medicine and Biomedical Sciences at UB. The event will kick off a new initiative at ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.buffalo.edu/ubnow/briefs/2024/02/ai-health-care-symposium.html"
+  - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
+    excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
     type: article
     provider:
-      name: Medicine Buffalo
-      domain: buffalo.edu
-    quality: 19
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=1fc03114-b3ba-58cf-b72e-bae2c1b7a24e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96983&width=1200&height=675&x=1.0E-5&y=0.01509.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dr4SpZe1eo5zv03OJpKhTHVq/8q6AyCXgPIUpp3zcBJ6cDeqVJ0sksddX10TJOT/9gAWVW2it7T7m/21JhNCMqWUIJFEeQLSZb6vyy7Ig2JY9HFbchmxEDyU9MYpmAXXDWhfo3+tMdzYyUJggopDIAEO2VbS5exLBLm4Z1DKNk8npgM/M/VQOnJNK6105a+HSe8g1iGjzyWHCDTCsNTtmm/gI/Un3E4NKcXu7AlsHDdoMogbTWD2mM5S1uxJn1bOkTJrwshzHKa9NJBWO0LrKzkyMHastHrZvp8muNu/JDyZrAPpiQnFqiPPMXqDv0QuWevCMD3FaEYLXcJv3dl0xoMMt8x7xHEQNCRa1X1KFE59YzyeiGzjIp4KDvDgSwvOxWamjUZ37O2Gj5dh1dNrvVKiM2Es9ifc9JaezrGZRwaoKWYymjvnjIT1xZ+6vTSAldJ1/x1qdaJzr7+lUuHQ2wnGjefnxT2CV3kov1ZZr6SkQrpoIs80dSsxHs53GNENQUQc7kbzdpCWuDmZymScHQ==;wgZYWzB2VaZ6zI8BgGKLRw=="
 ---

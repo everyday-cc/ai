@@ -41,29 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Eyefactive Presents Two World Firsts At ISE 2024 In Barcelona"
-    excerpt: "Eyefactive Presents Two World Firsts at ISE 2024 in Barcelona eyefactive, a leading provider of touchscreen software and technologies, is"
-    publishedDateTime: 2024-02-15T17:11:00Z
-    webUrl: "https://menafn.com/1107856091/Eyefactive-Presents-Two-World-Firsts-At-ISE-2024-In-Barcelona"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?135795"
-        width: 428
-        height: 250
-        isCached: true
-  - title: "Inviting the AI-powered 5G Era, GIGABYTE will Present Next-Gen Servers for AI/HPC, Telecom, and Green Computing Solutions at MWC 2024"
-    excerpt: "GIGABYTE Technology, an IT pioneer whose focus is to advance global industries through cloud and AI computing systems, is coming to MWC 2024 with its"
-    publishedDateTime: 2024-02-15T16:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20240215917651/en/Inviting-the-AI-powered-5G-Era-GIGABYTE-will-Present-Next-Gen-Servers-for-AIHPC-Telecom-and-Green-Computing-Solutions-at-MWC-2024"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "b/PphZIB1A7HZ73PAjfxRkTcnqnPy0WyU4x25EKUUBY0MT2Mmi0fT5Dvg4Wp3xvJ3ujH/Xu/+4kz+fTQzOnn1gF53F+5wfqjxOOIbVp0uI/pPEAwsCIPQrIakPdaM9AhUWRtJRe8GmrxOzktmGqjxA3TG4Gx186GiWaukeexjmgLLDuDgDIBTnnxbUrI9TZzt0999AmqaqWMpXZoNL4GQhBOvkMiDkCHpavOVW3iVyRGbP297rvD7dgVfO0CLc5YPLabSy/H5IJSetaAhthXFJQkZHE280eWurLvQCIXPOpv+gXT9AauZcCpFTUwSNoS5SZ6x8yodO39jJeZnZxB8bMcVwIf1O2Wmf/OBV8ZHP60NG+qsOSnHLJ8cAmyGHOaJlhKbWgDhcwsCgkPbNpci/aGc6MuME6tSLktezIN1ya5w5Pg99tLTau0zkxPAmlAzAJUqGlYi7OYDzyfR/eGe8dgY6cM2U+Y/Ah2OzYCEcZPzZ771sSMgHyDlFdk5Db0+AvbGrEqqiqcYJmEmU+hmA==;obgLE6sCQJOmvsAvOefGbA=="
 ---

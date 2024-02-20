@@ -34,20 +34,6 @@ related:
       name: Cleveland.com
       domain: cleveland.com
     quality: 44
-  - title: "Aroostook educator says teachers need to learn how to use AI in schools"
-    excerpt: "Presque Isle schools Curriculum Director Jennifer Bourassa talked about AI’s potential uses and problems for educators during an SAD 1 board meeting this week, and ended with recommending teachers communicate with an AI entity known as ChatGPT to better understand how it works."
-    publishedDateTime: 2024-02-15T16:10:00Z
-    webUrl: "https://www.bangordailynews.com/2024/02/15/aroostook/aroostook-educator-lays-out-the-risks-and-rewards-of-using-ai-in-schools/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 39
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2024/02/SH_JenniferBourassaChatGPT_021324-1-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "oNC6Ln3BUoKE+N6cUewEMaVWwF2MzRPTXDeEWwFv7v+Fpeb+Ov1iq17tEpNwdhNjxos0pnkmuZiScY1HsybkGXFJQfOf2Kkyrx4Vjgqc5cP+G4KWIBYYplGxf5E/b7jzV7fZxA6RfIb3xVOBcA+RqTnh0Yjn0XAevNat/Dr4YnxxMVk6xO945fdfLx8XxH/DUWKMikOe/ajb9658eYTOYFeiy0EhQ2SUk6Ydg4xxwsDtZJRyKW6Piq4r3iVVRZf4C8iu2zOX1quC86mTsLMnXJkQwSeVlsp8O4z9R//W8/ahv5ZQQbp3MIVtjf4cREN5Rf1AiFkz9ZtG1o07a9bcgsH8zgZNYny/de1hf08c1pw=;5XmDeTeLiKOS67jZUeYUIg=="
 ---

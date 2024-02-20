@@ -97,20 +97,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
-  - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
-    excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
-    publishedDateTime: 2024-02-15T13:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963037.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 62
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "OpenAI introduces AI model that turns text into video"
     excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
     publishedDateTime: 2024-02-16T10:05:00Z
@@ -155,20 +141,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "Microsoft to inject €3B into Germany AI, cloud"
-    excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."
-    publishedDateTime: 2024-02-15T16:38:00Z
-    webUrl: "https://www.mobileworldlive.com/microsoft/microsoft-to-inject-e3b-in-germany-ai-cloud/"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2024/02/15160342/MWL_Microsoft_Germany_650.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "AI security initiatives comparison: Microsoft and OpenAI vs. Google"
     excerpt: "The principles are built on Microsoft’s Responsible AI practices and the Azure OpenAI Code of Conduct. Google introduced its Secure AI Framework last June, which is a conceptual framework for secure AI systems. The framework includes six core ..."
     publishedDateTime: 2024-02-16T00:11:00Z
@@ -206,15 +178,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Microsoft and Google invest in AI in Europe"
-    excerpt: "The big investments by big tech could be intended to reshape their AI infrastructure ahead of new legislation from Brussels."
-    publishedDateTime: 2024-02-15T14:58:00Z
-    webUrl: "https://www.computerworld.com/article/3712941/microsoft-and-google-invest-in-ai-in-europe.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
 
 secured: "2AYbN91bYpbeS3ml5JZqGkGsQnv2xazhyw1qENhpPKDkOM+u/x6HIztEPtRX9YdjlaUrhGhGJMWGqZojK3D3Bo+EDoNl18FuYg++jzqx5OAg3Vj+4I90FIb/bIYR9QxYdooNeYzAZiRCmefv9TuIVpjqR8egbrFukXjIEjO47Yq5MIBpjTfX4flTJZZr3zFNaj/IJcNQrlivN2xkrk8tb4XokDFpSHlJqzFFpqV3QnpW9HqwzHazbG9+t0T6L3fUmZSQ16pl+fHTHax286x5e/sws6nFvhC9m3vHIXli8BQcGw8XEl7wgioRrDoTXwou8V+a+3DWWgr9M/BxBYvWhe3Vaau17ijbjoYMrSQ8mgc=;2HEX2dX/hAosHX8hb7GgtQ=="
 ---

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure"
+    excerpt: "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an"
+    publishedDateTime: 2024-02-20T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft to Expand Its AI Infrastructure in Spain With $2.1 Billion Investment"
     excerpt: "U.S. software giant Microsoft will expand its artificial intelligence (AI) and cloud infrastructure in Spain through an investment of $2.1 billion in the next two years, the company's Vice Chair and President Brad Smith said in a post on social media site X."
     publishedDateTime: 2024-02-19T22:31:00Z
@@ -47,6 +56,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
+    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
+    publishedDateTime: 2024-02-16T12:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
         isCached: true
 
 secured: "8M3EU82Nfxkmu87JwWeyaIwiMKBY1+dR8YHlBHAvrIFH/VVNCzL3bnPtSzwHz2bF5bOVZAFAOmAk6Ay5px1v31bU+MHCQQjuMIPvPsgmDvNExv3iPSDvrx/J0+IoCnyswj46xYDxLndtBVhpSlI4RNAV/8NnsB2XmcOeBDvYnn2V9gjNpt2eWpajsWKpzHLogwkZfpbojP2AM29x/0YlHv4tVCLGNrNPMYgujdmhMnl2Zcp1y/GMkS7eTR/v1BpoYsfdgF3TrARZlvsYN34PXdvKhGlGIAcBKZttmfYJnO0NJ1/nFXrE5VE6psY8FPrScC1BovbBCqNMdLao/oSW/I7sQuALCfoTPrk8ao6benU=;la7hIb7udnmxKLU41i94LA=="

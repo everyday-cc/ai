@@ -25,61 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
-    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
-    publishedDateTime: 2024-02-16T12:12:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
+  - title: "Fujitsu Data Science Interview and Hiring Process in 2024"
+    excerpt: "Fujitsu's focus currently lies in covering computing, network, AI, data and security, and convergent technologies."
+    publishedDateTime: 2024-02-20T12:53:00Z
+    webUrl: "https://analyticsindiamag.com/fujitsu-data-science-hiring-process/"
     type: article
     provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 44
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Department of Justice announces new AI initiative"
-    excerpt: "Justice AI will bring together experts to speak about the relationship between artificial intelligence and the criminal justice system."
-    publishedDateTime: 2024-02-15T21:55:00Z
-    webUrl: "https://fedscoop.com/justice-ai-doj-new-ai-initiative/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2020/06/26011734845_e8cfcc6b44_o.jpg"
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/dtaa-science-hiring-.jpg"
         width: 1920
-        height: 1024
-        isCached: true
-  - title: "More money, more new models for AI, but weak guidance plagues enterprise earnings"
-    excerpt: "This week saw even more money pouring into artificial intelligence-related companies, including some perhaps lesser-known ones such as Lambda and Together that are providing much-needed and very lucrative access to data centers full of Nvidia’s graphics processing units critical to AI training."
-    publishedDateTime: 2024-02-16T04:43:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/money-new-models-ai-weak-guidance-plagues-enterprise-earnings/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/aibraindollars.jpeg"
-        width: 1529
-        height: 1038
-        isCached: true
-  - title: "Revolutionizing CXM with Generative AI: Insights from Everest Group’s Enterprise Readiness Report"
-    excerpt: "The integration of generative AI into Customer Experience Management (CXM) is heralding a new era of digital transformation. Everest Group's extensive report, “Generative AI in CXM: Assessing Enterprise Readiness for this Disruptive Transformation,"
-    publishedDateTime: 2024-02-15T16:32:00Z
-    webUrl: "https://www.unite.ai/revolutionizing-cxm-with-generative-ai-insights-from-everest-groups-enterprise-readiness-report/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 26
-    images:
-      - url: "https://www.unite.ai/wp-content/uploads/2023/12/wfm-400x240.png"
-        width: 400
-        height: 240
+        height: 1080
         isCached: true
 
 secured: "5NhTG5RtgXHJpqhs4L/hXfG/UCk3l5VT0fmQATzfvpgcE8bjRnnGR9O5R/QySbz6IjhyzGjdNDiZyqFcsgrXfrmKo9DtbZFo3U8uDEi29hhM+w8H9Rjjnmk43xGvPRDy8uoL3lUsneWRB4Ci9GGTSV+9oGiMSkWNY66Nh8BHJAI3ANb5JHTd47YTmuUBwQaQiH9QstQdO26Vx42IuudlqdGqmm9OmkETKEOC7xZjn39Vl29WEU1/LIvT9ocJO7Lain6oRA4Y2jyu7VV8KKbFNeL5RgVEVc/zgUGb5aAeXaeU851lWj58yeEpZHmoRL5kIOdsVy1czpDyEgE86AnvKsXN5wYu4Y0KQQGC1PE4sAw=;PsYMalmgrncRWXX4qwuJ6A=="

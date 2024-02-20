@@ -7,8 +7,8 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/micros
 webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
 type: article
 quality: 60
-heat: 80
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,15 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Microsoft To Invest $2.1 Bln In Spain To Expand AI Infrastructure"
+    excerpt: "Tech major Microsoft Corp. announced its plans to expand its artificial intelligence or AI and cloud infrastructure in Spain with an"
+    publishedDateTime: 2024-02-20T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-to-invest-2-1-bln-in-spain-to-expand-ai-infrastructure-1033083457"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
     excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
     publishedDateTime: 2024-02-20T09:35:00Z
@@ -50,6 +59,20 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/Microsoft_Azure.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lambda Raises $320M in Series C Funding to Expand Its AI Cloud Business and Scale GPU Infrastructure"
+    excerpt: "Lambda, the GPU cloud company founded by AI engineers and powered by NVIDIA GPUs, has announced it has raised a $320"
+    publishedDateTime: 2024-02-16T12:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/lambda-raises-320m-in-series-c-funding-to-expand-its-ai-cloud-business-and-scale-gpu-infrastructure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
         isCached: true
 
 secured: "UUVQjSJd7HJmxgB0yyXxIHFwFIpTbTMnEwP1fGE04bF05p1rsj2TG+XZVmtNJnTE75ss/Cp0P5X4PS4/LeiWJBi2wIp1lRdjSjPQDnHE469CvIF60+AH22GoyXFNVDECHPjmuvmCSsHB8WdDYznluTxZBZ8H6NrjVXxA/BmBCYKPWGH7ZlmLyXyGmd6VIK6GdUY3HpP19XPNxFZuAgMAHic3k1UacK1GW0Rg5ERibDPUa1/YuOc1oMMyiWHXez6zKZxCylZgnf6P9syEC3hvqYL9dH+yk05mcDUAkx/8S8Klw6dCD10UboCmJb/yP6h4Ehvcfm7nTa/zOS7l8XNUAk2SwdnDKLFO4doZO7glb8WPXAc9NY6jVt6RAHXuyqyoEyZpl/hOAuLQQEhd0gzkrjqs2rZt6Rl8byUfrJDYc42vMvtEsZNiAfZLgL+g/KAL0E8lvtRt11SOay9OsYAJeBVLMYzrBE6WwBD4YeDV5frwpFd34Qo8sml7+nyzTs/vwnIo9/35wdSGjN8wct69BA==;NmvyqjvCwTDfGUF9rWXvqg=="

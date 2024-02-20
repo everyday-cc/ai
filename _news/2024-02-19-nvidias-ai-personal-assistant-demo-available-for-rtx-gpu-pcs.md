@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Feeding the hunger for Nvidia GPU access is big business"
-    excerpt: "Feeding the widespread hunger for Nvidia GPU access is big business — minting new unicorns and even inspiring a new Craiglist for clusters."
-    publishedDateTime: 2024-02-15T16:34:00Z
-    webUrl: "https://venturebeat.com/ai/feeding-the-hunger-for-nvidia-gpu-access-is-big-business/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
   - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
     excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
     publishedDateTime: 2024-02-16T19:33:00Z
@@ -37,34 +28,29 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
-  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
-    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
-    publishedDateTime: 2024-02-19T15:55:00Z
-    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
     type: article
     provider:
-      name: IGN
-      domain: ign.com
-    quality: 34
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
     images:
-      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
-        width: 1280
-        height: 720
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
         isCached: true
-  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
-    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
-    publishedDateTime: 2024-02-20T10:00:00Z
-    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
+  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
+    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
+    publishedDateTime: 2024-02-16T07:54:00Z
+    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 19
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
-        isCached: true
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 30
 
 secured: "gkTN/wWquMwsokvZ+RVgTpekKtCtqgAYRoisfxHs9JM8gfYDv/tJ2HzNRmE5EblKL1vPg+PhiaAb/UoeqBXEX/ejdKnRFnkUM2zfEXRFjG5QfeR/FOPEzSrs0iL6pY2b4NL9iJWO6ZcB6NqtE9g9/gfpbJUentw3KIPe6h4r3sxK/9xerVn/ujZ/DZ46LSSg/sDE8Jb/ZLZLhgvcnLOVjjeYiHWvcNejQ4re1OKIQlw13dQvF8jliMUnkgaGcYZWlkiKR3NcRJMLthup6955IqJOhjaXeXKaYdbflTMYagNDREHq+bdYZ1Ndw96SAZvS+PN9Sk2TbRsI0N1uHEUrAt2spmMQ1l8/FBrPS7HaSNO551Sj3b3LfyVSDqUitpbEme0uhV4x78LNZQjIQvu24GLS0foh0Bcrq00N3sGVT2ssjJfatgH53KgjouZloq3tCP0D8roEm5a1qcfuXeDGSmG5WWVV0RIIGfg6C3ayN7GZHMyc4QfIWBYQthaRT7TC5Qc4/XdOhed4irl1nIkiVg==;O0Yi2xm23mbNrckq76lH9A=="
 ---

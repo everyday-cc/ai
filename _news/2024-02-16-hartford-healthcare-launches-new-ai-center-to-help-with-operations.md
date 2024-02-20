@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-ar
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
     provider:
       name: Modern Healthcare
       domain: modernhealthcare.com
+    quality: 34
+  - title: "Hartford HealthCare launches Center for AI Innovation in Healthcare"
+    excerpt: "HARTFORD, Conn., Feb. 19, 2024 /PRNewswire/ -- Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare. The Center is the first of its kind in New England, and one of only a few in the United States."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hartford-healthcare-launches-center-ai-innovation-healthcare-/2024/02/20/9964521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
   - title: "Hartford HealthCare launches new center to use artificial intelligence in hospitals"
     excerpt: "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays."

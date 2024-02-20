@@ -27,30 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "Generative Urban AI Is Here. Are Cities Ready?"
-    excerpt: "Generative urban AI, an emerging and transformative technology poised to radically change urban planning, design, and city management."
-    publishedDateTime: 2024-02-18T07:00:00Z
-    webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/"
-    ampWebUrl: "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/"
+  - title: "Four Steps To Ride The Generative AI Wave, Instead Of Drowning Under It"
+    excerpt: "Finally, there is one element that underpins all four of these steps and is a huge factor in successful GAI deployment—executive sponsorship. Business leaders must be committed to embracing change at an organizational level while ensuring objective measurement processes are embedded and that they do not lose sight of the company mission."
+    publishedDateTime: 2024-02-16T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/16/four-steps-to-ride-the-generative-ai-wave-instead-of-drowning-under-it/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1353
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65a95c17e3fb61b42aff12c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
         height: 900
         isCached: true
-  - title: "3 Ways We're Already Using AI in Mental Health Care"
-    excerpt: "The use of Artificial Intelligence is inevitable in healthcare, including mental health. AI is now being used as an adjunct to assist clinicians in more effective treatment. Several technologies currently exist, but come with their own concerns and considerations."
-    publishedDateTime: 2024-02-16T23:16:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/a-different-kind-of-therapy/202402/3-ways-were-already-using-ai-in-mental-health-care"
+  - title: "How to stand out from the crowd when everyone uses generative AI"
+    excerpt: "The way to do this is by transforming your proprietary data — structured and unstructured — into vector embeddings, which capture the semantic meaning and contextual information of data, making them suitable for various tasks like text classification, machine translation, sentiment analysis, and more."
+    publishedDateTime: 2024-02-20T16:48:00Z
+    webUrl: "https://www.infoworld.com/article/3713060/how-to-stand-out-from-the-crowd-when-everyone-uses-generative-ai.html"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 69
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/02/istock-1886529055-100961409-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
+    excerpt: "An innovative new chip uses light for fast, efficient AI computations, promising a leap in processing speeds and privacy. Penn Engineers have developed a new chip that uses light waves, rather than electricity,"
+    publishedDateTime: 2024-02-16T10:01:00Z
+    webUrl: "https://scitechdaily.com/at-the-speed-of-light-unveiling-the-chip-thats-reimagining-ai-processing/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 52
+    images:
+      - url: "https://scitechdaily.com/images/Photonic-Processor-Chip-Art-Concept.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Ai for Alpha Integrates New Generative Artificial Intelligence into Its Investment Process"
+    excerpt: "Ai for Alpha, a leading fintech company specializing in leveraging machine learning for advanced investment strategies, announces the integration of Gen AI into its asset management models. “We are excited by this innovative approach as it represents a significant advancement in optimizing investment processes through the application of generative AI technologies,"
+    publishedDateTime: 2024-02-16T12:12:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/ai-alpha-integrates-new-generative-artificial-intelligence-its"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 44
+    images:
+      - url: "https://financialit.net/sites/default/files/ai-for-alpha.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "How Fractal is Leveraging Generative AI for Insurance"
+    excerpt: "The global insurance industry is undergoing a profound transformation powered by a cutting-edge technology: generative AI."
+    publishedDateTime: 2024-02-16T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-fractal-is-leveraging-generative-ai-for-insurance/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/02/Fractal_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "How Generative AI Is Reshaping Online Trading"
+    excerpt: "Generative AI empowers traders to stay ahead of the curve and make informed decisions in a dynamic market environment"
+    publishedDateTime: 2024-02-19T02:30:00Z
+    webUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/"
+    ampWebUrl: "https://inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/how-generative-ai-is-reshaping-online-trading/amp/"
+    type: article
+    provider:
+      name: inc42
+      domain: inc42.com
+    quality: 39
+  - title: "How RAG makes generative AI tools even better"
+    excerpt: "Patrick Lewis, a natural language processing research scientist with start-up Cohere, originally coined the term RAG in a paper published in 2020. Lewis pointed out that LLMs cannot easily expand or revise their memory, and they can’t straightforwardly ..."
+    publishedDateTime: 2024-02-20T11:00:00Z
+    webUrl: "https://www.computerworld.com/article/3712789/how-rag-makes-generative-ai-tools-even-better.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 21
+  - title: "How to prepare for generative AI and the future of work"
+    excerpt: "Tony Holmes explains how generative AI will transform the workplace and provides tips to prepare employees and use AI for collaboration and innovation."
+    publishedDateTime: 2024-02-20T15:48:00Z
+    webUrl: "https://www.pluralsight.com/resources/blog/data/generative-ai-future-of-work"
+    type: article
+    provider:
+      name: Pluralsight
+      domain: pluralsight.com
+    quality: 19
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
     quality: 19
 
 secured: "1lKDxBWyKNaww/UM4ZXSUlzx8u07APYWa+GlBtxaWeUXQDZcMfIG3tGeiE7BvuWysSYJnMJtSzcCGnbpXwRNxIJp/g0H4AwdaSsJYueS9ybFrzdYKJLIMtxp/+BuKGeYbRc81voSiT5S0pRjspCvmbM+vKvJZ2hhoWcXHqnROWncRAqZRjWRnFJNoaQ2CPdQv9bbQFRi8Li37rlOxb9FOpzILR5XZi0rqetvmffK+3PyD+eMPDo9oaEpR77aMvkr7DtVg6P4lsUswvCctiznc/oyc2SkU4WmgVhkXP4909rtYyGUIc0Wa09NQJro89x6RlZxG5z8dXNYHJYpjth1zLG/7cOZqx1wYx6aG8Z+Ue0=;RTZ9Ke4Y4quaJlnEzdLzQw=="
