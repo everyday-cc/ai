@@ -27,7 +27,7 @@ related:
     provider:
       name: CNN
       domain: cnn.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/still-20390859-1034-5420000000001-still.jpg?c=16x9&q=w_800,c_fill"
         width: 800

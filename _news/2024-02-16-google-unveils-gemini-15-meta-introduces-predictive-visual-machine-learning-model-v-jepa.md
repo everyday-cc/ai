@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet Gemini 1.5, Google's newest AI model with major upgrades from its predecessor"
-    excerpt: "On Thursday, Google unveiled its next-generation model, Gemini 1.5. Even though Gemini 1.0 just launched in December, the new model boasts massive upgrades from its predecessor, including a longer context window, better understanding, and an overall enhanced performance."
-    publishedDateTime: 2024-02-15T06:59:00Z
-    webUrl: "https://www.zdnet.com/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meet-gemini-1-5-googles-newest-ai-model-with-major-upgrades-from-its-predecessor/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/951386ad561df1f668e67d2614eceb1d655811c1/2024/02/14/bfae1e50-6018-4394-8cf6-3a1f356e6bf1/press-kit-gemini-lockup-16-9.png?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google unveils Gemini 1.5, a next-gen AI model with million-token context window"
     excerpt: "Google unveils Gemini 1.5, a next-generation AI model with a million-token context window for dramatically improved long-form reasoning."
     publishedDateTime: 2024-02-15T15:00:00Z
@@ -113,20 +97,6 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Screenshot-2024-02-15-080149.png?w=1920"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Google Introduces Gemini AI App to More Countries"
-    excerpt: "Google's advanced AI application, Gemini, has expanded its reach. It is now accessible to a broader audience across various countries."
-    publishedDateTime: 2024-02-15T06:20:00Z
-    webUrl: "https://techreport.com/news/google-introduces-gemini-ai-app-to-more-countries/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/02/malware-7020225_1280-1-300x215.png"
-        width: 300
-        height: 215
         isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."

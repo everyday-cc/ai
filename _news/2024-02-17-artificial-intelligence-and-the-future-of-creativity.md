@@ -98,6 +98,20 @@ related:
         width: 1920
         height: 1390
         isCached: true
+  - title: "China must embrace new era of AI revolution"
+    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
+    publishedDateTime: 2024-02-20T05:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
+        width: 1078
+        height: 718
+        isCached: true
   - title: "AI Firms Are Hunting for A Lot of Office Space"
     excerpt: "And the second-largest was the AI startup Anthropic taking 230,315 square feet at 500 Howard Street in the city’s South Financial District. Anthropic describes itself on its website as a company that produces “AI research and products that put safety ..."
     publishedDateTime: 2024-02-19T06:00:00Z

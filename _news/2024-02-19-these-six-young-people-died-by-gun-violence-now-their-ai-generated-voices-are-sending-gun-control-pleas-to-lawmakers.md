@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-19T10:57:00Z
 originalUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
 webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.cnn.com/api/v1/images/stellar/prod/still-20390859-1034-5420000000001-still.jpg?c=16x9&q=w_800,c_fill"

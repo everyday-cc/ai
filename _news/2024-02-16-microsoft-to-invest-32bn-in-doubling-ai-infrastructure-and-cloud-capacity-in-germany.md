@@ -59,20 +59,6 @@ related:
       name: UPI
       domain: upi.com
     quality: 33
-  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
-    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
-    publishedDateTime: 2024-02-15T17:00:00Z
-    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 32
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "8M3EU82Nfxkmu87JwWeyaIwiMKBY1+dR8YHlBHAvrIFH/VVNCzL3bnPtSzwHz2bF5bOVZAFAOmAk6Ay5px1v31bU+MHCQQjuMIPvPsgmDvNExv3iPSDvrx/J0+IoCnyswj46xYDxLndtBVhpSlI4RNAV/8NnsB2XmcOeBDvYnn2V9gjNpt2eWpajsWKpzHLogwkZfpbojP2AM29x/0YlHv4tVCLGNrNPMYgujdmhMnl2Zcp1y/GMkS7eTR/v1BpoYsfdgF3TrARZlvsYN34PXdvKhGlGIAcBKZttmfYJnO0NJ1/nFXrE5VE6psY8FPrScC1BovbBCqNMdLao/oSW/I7sQuALCfoTPrk8ao6benU=;la7hIb7udnmxKLU41i94LA=="
 ---

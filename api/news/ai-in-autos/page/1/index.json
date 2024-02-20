@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2024-02-17-openai-completes-deal-that-values-the-company-at-80-billion.md",
-      "title": "OpenAI Completes Deal That Values the Company at $80 Billion",
-      "excerpt": "OpenAI has completed a deal that values the San Francisco artificial intelligence company at $80 billion or more, nearly tripling its valuation in less than 10 months, according to three people with knowledge of the deal.",
+      "path": "_news/2024-02-16-openai-unveils-ai-that-instantly-generates-eye-popping-videos.md",
+      "title": "OpenAI Unveils A.I. That Instantly Generates Eye-Popping Videos",
+      "excerpt": "The start-up is sharing the new technology, called Sora, with a small group of early testers as it tries to understand the potential dangers.",
       "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/16/technology/openai-artificial-intelligence-deal-valuation.html",
+      "webUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/15/technology/openai-sora-videos.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/16ai-tender-twmv/16ai-tender-twmv-facebookJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2024/02/15/autossell/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3/115632_1_15OPENAI-VIDEO-4_wg_1080p_v3-facebookJumbo.jpg",
           "width": 1050,
-          "height": 550,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-16T23:05:00Z",
+      "publishedDateTime": "2024-02-15T18:30:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "The New York Times",

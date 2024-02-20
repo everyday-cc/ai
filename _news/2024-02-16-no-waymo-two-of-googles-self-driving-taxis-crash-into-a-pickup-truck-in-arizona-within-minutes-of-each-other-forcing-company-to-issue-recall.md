@@ -26,22 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Self-driving Cruise vehicle accused of nearly hitting kids in two separate close calls one day apart"
-    excerpt: "Cruise, the driverless car company owned by General Motors, is back in the spotlight after another close call with a pedestrian."
-    publishedDateTime: 2024-02-15T05:10:00Z
-    webUrl: "https://www.aol.com/news/self-driving-cruise-vehicle-accused-215028882.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 9
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/MPGKfz339Ws94.QRXtl4ng--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_nbc_universal_184/28979a3cd4a04c92e645224750bba1b2"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "OlWdQGbFfTglyzke3y8nSVK6iZYt6hgrpHXCKSVCY12xn4S/ClRJ4umW9+eGIhdudDjxMlE/TDpgWZDlM9iOOtH9yWyOvPYUmNP/VBJjEMeOv4l6x5HkqzxFgPHmxIcdZ+GnaV3HRmGJBDJQEkRBXG7nt7SDMxyHkSYFewj5LrnxP8luHbgTxvVHHxALH/PIMOfjA7mx3d6DL6yjcqiIMMVOmjzvebIKAAVUXDQ9R2NdtWqQ/lm9Tizd7BBFTDqzSOiuZPs8eTInQJ4l8elYF/+uUBtw7OCFWmzkZmiLYqKI8WaEVWEiKkmL9XVQo5gebI8pMIMOShsrrJ7BJlJmo4IigtGPfMdn17Y2nlXysNk=;784g9+1KQ7BPtMS/oI2SAw=="
 ---
 

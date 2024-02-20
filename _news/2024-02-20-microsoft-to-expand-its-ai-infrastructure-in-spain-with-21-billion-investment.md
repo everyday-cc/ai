@@ -7,7 +7,7 @@ originalUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/micros
 webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/microsoft-to-expand-its-ai-infrastructure-in-spain-with-2-1-billion-investment"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       name: UPI
       domain: upi.com
     quality: 33
-  - title: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure"
-    excerpt: "Meltwater joins forces with Microsoft to bring to market the next-generation, AI-powered communication insights solution built on Microsoft Azure GlobeNewswire February 15, 2024 SAN FRANCISCO, Feb. 15,"
-    publishedDateTime: 2024-02-15T17:00:00Z
-    webUrl: "https://www.asiaone.com/business/meltwater-joins-forces-microsoft-bring-market-next-generation-ai-powered-communication"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 32
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Feb2024/Notified-GlobeNewswire-Color-Large_486.jpg?h=10d202d3&itok=vOUwVALp"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "UUVQjSJd7HJmxgB0yyXxIHFwFIpTbTMnEwP1fGE04bF05p1rsj2TG+XZVmtNJnTE75ss/Cp0P5X4PS4/LeiWJBi2wIp1lRdjSjPQDnHE469CvIF60+AH22GoyXFNVDECHPjmuvmCSsHB8WdDYznluTxZBZ8H6NrjVXxA/BmBCYKPWGH7ZlmLyXyGmd6VIK6GdUY3HpP19XPNxFZuAgMAHic3k1UacK1GW0Rg5ERibDPUa1/YuOc1oMMyiWHXez6zKZxCylZgnf6P9syEC3hvqYL9dH+yk05mcDUAkx/8S8Klw6dCD10UboCmJb/yP6h4Ehvcfm7nTa/zOS7l8XNUAk2SwdnDKLFO4doZO7glb8WPXAc9NY6jVt6RAHXuyqyoEyZpl/hOAuLQQEhd0gzkrjqs2rZt6Rl8byUfrJDYc42vMvtEsZNiAfZLgL+g/KAL0E8lvtRt11SOay9OsYAJeBVLMYzrBE6WwBD4YeDV5frwpFd34Qo8sml7+nyzTs/vwnIo9/35wdSGjN8wct69BA==;NmvyqjvCwTDfGUF9rWXvqg=="
 ---

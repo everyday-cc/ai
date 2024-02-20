@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
 type: article
 quality: 91
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://bdcmagazine.com/wp-content/uploads/2024/02/John-Burley-Q-Bot-CTO-scaled-e1707990805587.jpg"
         width: 1920
         height: 1390
+        isCached: true
+  - title: "China must embrace new era of AI revolution"
+    excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."
+    publishedDateTime: 2024-02-20T05:37:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202402/20/WS65d42bf2a31082fc043b81cf.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 41
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202402/20/65d446c8a31082fc2b68d6a0.jpeg"
+        width: 1078
+        height: 718
         isCached: true
   - title: "Artificial Intelligence And The Future Of Creativity"
     excerpt: "Artificial intelligence (AI) is making rapid advances in the field of art, creating new possibilities and challenges for artists and audiences alike"

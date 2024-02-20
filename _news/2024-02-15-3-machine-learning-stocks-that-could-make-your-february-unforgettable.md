@@ -69,6 +69,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Avalanche vs. Canucks February 20 Tickets & Start Time"
+    excerpt: "The Colorado Avalanche's Cale Makar and the Vancouver Canucks' Quinn Hughes are two of the most exciting players to keep an eye on when these squads play on Tuesday at 9:00 PM ET, at Ball Arena. If you're looking to go to this matchup in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-20T06:01:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/02/20/avalanche-vs-canucks-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 22
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/U4LK6BI2MVL3JHU6NY7GK27C24.jpg?auth=c891a7573bc973f061eb23438138ffb1be08ed94762211612c1cb26ecd1e2971&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wild vs. Jets February 20 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Winnipeg Jets' Sean Monahan and the Minnesota Wild's Joel Eriksson Ek will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Canada Life Centre. Minnesota's Kirill ..."
+    publishedDateTime: 2024-02-20T06:23:00Z
+    webUrl: "https://www.wowt.com/sports/betting/2024/02/20/wild-vs-jets-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WOWT.com
+      domain: wowt.com
+    quality: 22
+    images:
+      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/CC6I6CFUKBMNPF7KJQKKEUON4E.jpg?auth=0f872b2e08e562a6ee990d121dd0bf5097964a41ed3f35dbf9116214b7a62765&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "PkfBKcLxRE3BUUaYYb7R6hozYu5QGgE7IWzdcZbUucFMNETruZEtFLcxShJDrQvkM46QKfNeXkyfQg33eFKmMuLN/pGolll6vHGHQiWhr0RVyokajKn2ye5an+3guQJgnxvwkdfEdoNWI+HMZgX0q12xvE7dDLsig1xwHSWdh0JiYMzF+tARQ9I9kItZOcEoi+logRpu2H922sZ/+UqxYEl5vKO5DMnMuriSinphGt31hBT5h4PZdxxM1csHmLvebrSGjfupBGCObAWtnWPYllBJJ+QPzVCRh8WY6lzQMylCwrbStO27Tag47zpJT8VdEVDsJlr3J8UgsScqszq4eT7b7fDNE1dE4h1iC7QHYSfWqhyrIQ2AQqukhX7w4pFc9geYnfliRO2RUCYjC8HQZuBXFFCH1Qb0rmHeZ6AtozGhWaBwg8CawydSHUEfoc4e/3btFQQzJDOT5mLG8sb3FfuOGPC75vkiENTelVOC798eJoS84CU+JwVxZDGvHNUGaMeNIbz4TEd1FwE0tQOBSg==;B49prsIOuWs7/+C7NT20tg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-
 webUrl: "https://www.earth.com/news/new-computer-chip-enables-ai-computing-at-the-speed-of-light/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Penn Engineers Develop Chip That Uses Light to Power AI"
+    excerpt: "University of Pennsylvania engineers have developed a new chip that uses light waves, rather than electricity, to perform the complex math essential to training AI."
+    publishedDateTime: 2024-02-20T06:23:00Z
+    webUrl: "https://www.tasnimnews.com/en/news/2024/02/20/3042075/penn-engineers-develop-chip-that-uses-light-to-power-ai"
+    type: article
+    provider:
+      name: Tasnim News Agency
+      domain: tasnimnews.com
+    quality: 54
+    images:
+      - url: "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1402/12/01/1402120109340937829427454.jpg"
+        width: 800
+        height: 557
+        isCached: true
   - title: "At the Speed of Light: Unveiling the Chip That’s Reimagining AI Processing"
     excerpt: "An innovative new chip uses light for fast, efficient AI computations, promising a leap in processing speeds and privacy. Penn Engineers have developed a new chip that uses light waves, rather than electricity,"
     publishedDateTime: 2024-02-16T10:01:00Z

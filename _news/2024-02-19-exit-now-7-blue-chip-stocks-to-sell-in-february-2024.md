@@ -69,6 +69,34 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Avalanche vs. Canucks February 20 Tickets & Start Time"
+    excerpt: "The Colorado Avalanche's Cale Makar and the Vancouver Canucks' Quinn Hughes are two of the most exciting players to keep an eye on when these squads play on Tuesday at 9:00 PM ET, at Ball Arena. If you're looking to go to this matchup in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-20T06:01:00Z
+    webUrl: "https://www.kktv.com/sports/betting/2024/02/20/avalanche-vs-canucks-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: KKTV11
+      domain: kktv.com
+    quality: 22
+    images:
+      - url: "https://gray-kktv-prod.cdn.arcpublishing.com/resizer/v2/U4LK6BI2MVL3JHU6NY7GK27C24.jpg?auth=c891a7573bc973f061eb23438138ffb1be08ed94762211612c1cb26ecd1e2971&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wild vs. Jets February 20 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The Winnipeg Jets' Sean Monahan and the Minnesota Wild's Joel Eriksson Ek will be two of the top players to keep an eye on when these squads play on Tuesday at 8:00 PM ET, at Canada Life Centre. Minnesota's Kirill ..."
+    publishedDateTime: 2024-02-20T06:23:00Z
+    webUrl: "https://www.wowt.com/sports/betting/2024/02/20/wild-vs-jets-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WOWT.com
+      domain: wowt.com
+    quality: 22
+    images:
+      - url: "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/v2/CC6I6CFUKBMNPF7KJQKKEUON4E.jpg?auth=0f872b2e08e562a6ee990d121dd0bf5097964a41ed3f35dbf9116214b7a62765&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Tcq2vgi4GT5o+b1BHLhudsdlCKLNMbtsAA/eDh2ob/gLQbWhSLF5Z5zolQj2Z7sKFz8lcBZklYncuNC2izEsX8xADh/fUSp/UaVDQ4jZKp6hTsnkfFj2J+pEBUlvEOQ2eXEDNktVXkY5wDOj8q5kaYEwMYjnefKcDMBXILDpysEjdSyFQFfDeF2ia4Ix+5QR0azQbH7zh2NWGD8tD/SaZObwUsybEwPEKb7wd/FvH2o17iFpI22RDH7yTmpFaUZ7rO/e/mATnh4ky3HwMeDXIrHN3cqr/czxSA3vefiL66zgMU7tZ7e+zRiDigIvjPK58qq2C8NXq9QufYqFcJkAF2pHg9FHETJNXGxe/PqrCT4=;lcIBPfA/AqTqR0tvvmacyw=="
 ---

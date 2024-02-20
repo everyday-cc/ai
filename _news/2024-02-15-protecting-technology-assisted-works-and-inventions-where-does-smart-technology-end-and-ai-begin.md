@@ -85,6 +85,20 @@ related:
         width: 650
         height: 300
         isCached: true
+  - title: "AI and the classroom"
+    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
+    publishedDateTime: 2024-02-20T04:58:00Z
+    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
+    type: article
+    provider:
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 39
+    images:
+      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "How artificial intelligence influences technological innovation"
     excerpt: "With artificial intelligence (AI) becoming massively entrenched in everyday life, enterprises are using the emerging technology to foster innovation."
     publishedDateTime: 2024-02-19T08:55:00Z

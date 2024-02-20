@@ -38,6 +38,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Reddit sells training data to unnamed AI company ahead of IPO"
+    excerpt: "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month."
+    publishedDateTime: 2024-02-19T21:10:00Z
+    webUrl: "https://arstechnica.com/information-technology/2024/02/your-reddit-posts-may-train-ai-models-following-new-60-million-agreement/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1232875671-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Your Reddit posts may train AI models following new $60 million agreement"
     excerpt: "On Friday, Bloomberg reported that Reddit has signed a contract allowing an unnamed AI company to train its models on the site's content, according to people familiar with the matter. The move comes as the social media platform nears the introduction of its initial public offering (IPO), which could happen as soon as next month."
     publishedDateTime: 2024-02-19T21:10:00Z

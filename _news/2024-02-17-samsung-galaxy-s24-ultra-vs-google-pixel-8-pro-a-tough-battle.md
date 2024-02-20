@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-goo
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Samsung Galaxy AI for Business is here"
+    excerpt: "The AI future we’ve long been promised is within reach ... The feature can also extract and summarise text straight from physical books and papers and can translate notes into other languages, while its Browsing Assist capabilities can turn long ..."
+    publishedDateTime: 2024-02-20T06:02:00Z
+    webUrl: "https://www.iol.co.za/business-report/companies/samsung-galaxy-ai-for-business-is-here-db309a5a-470f-42a4-82f8-4b010534a055"
+    type: article
+    provider:
+      name: Independent Online
+      domain: iol.co.za
+    quality: 19
 
 secured: "4Zo2VxhLz7cS5HBhG9LlFPoYFXmQwITXGPhnv72VyE+ElvzIWfNdnXgGUdCo0oACbX80HS/JEZudsSdJQkpPX91G8QbwUIYcNYtUCDu5micNZZEh8M7kQnpSeb49gTM8SVQRrj8uxkrUrwSdmffDHI1/r6Fil3MArCQ7T/MWgggr4FET5GdMbtjNvg5fcSgd4aIa5XkCeT/uR1X09uLbUubztMwqB/iUz/rWxfrbKsVj/Mpjq1rsoQK2+Fa9jgufjJ2H+0+LeCG/rMpXKbQ9jGqJK23qrFI/g6lMGnvbkDE2VLiRNyysGWezrBB8akwf/x4UUtNMY538R41PfL7mg4+HtVvd4HDc9tr6YGrtJD3/v26IlIn4UgJQ/BIr461f1VPFMYE30CVwdEqG8jUZb2Nb7eV0kOz1SsWjyJDoEi/nlrZUs2uutvVdpcRyTerOroIJ3+Zd+ialbNAim9TiF5kw9KIyrtt6uCRLX0UXyxM5X80uDMp1k6pfPAQG1bzxQQK7T5XRXCyWkLsYASLmlg==;leF7RvmfcC4y85lykSH6BQ=="
 ---

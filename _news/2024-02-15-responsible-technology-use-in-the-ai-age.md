@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-tech
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2024/02/02,-d-,16,-d-,24aidata.jpg"
         width: 650
         height: 300
+        isCached: true
+  - title: "AI and the classroom"
+    excerpt: "The News spoke with members of the University’s English and Computer Science departments, along with faculty associated with Poorvu and the Executive Committee, to recap the University’s evolving response to the rise of artificial intelligence."
+    publishedDateTime: 2024-02-20T04:58:00Z
+    webUrl: "https://yaledailynews.com/blog/2024/02/19/ai-and-the-classroom/"
+    type: article
+    provider:
+      name: Yale Daily News
+      domain: yaledailynews.com
+    quality: 39
+    images:
+      - url: "https://yaledailynews.com/wp-content/uploads/2024/02/writingai_hm_SurbhiBharadwaj_SeniorPhotographer-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
     excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
