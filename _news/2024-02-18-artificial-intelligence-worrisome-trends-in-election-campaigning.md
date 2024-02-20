@@ -75,6 +75,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 49
+  - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
+    excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
+    publishedDateTime: 2024-02-20T00:58:00Z
+    webUrl: "https://siliconprairienews.com/2024/02/uptrends-ai-releases-ai-powered-platform-to-streamline-stock-market-news-monitoring/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
+    quality: 31
+    images:
+      - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "l0HR1fhGs2oQqwtMFIcIW8I4rSNNYY/bMSbQnIoC/hYd7q4Ni67Hp+mQnyA7vZOyRhieTCOQvKMO5zO4znHijKkaEV4QNkSVPWK3tRGk1JqPfI3dQAK+On7olvjDN3DRELt8vB0ZxBjVhDpihCdRQZqPUCSA2VaKKfrGKFdTaDxBVEMJ7eIPVISwuTZk/O4ZDeUgiSuTf4fiQThoLw8f4/ZqAaBplol68rteBeGPRLwh5ZHrDPRCIN5itJ/ah8B9Jww2+VjTCwfYtYcog1YVwqkQDV3lAEe5V+nwJnp2GwJ+xLIDcBYPi8ji8NO5cRGCjHBe8qaWbHgZJ+pGPrHbnDdMN+2meL2jLQXvH1ZJalFhRoURU+ICanyRS658MU9+ZyKDySnz9XJQIktHsmoW2ihLtbvAC/TtsreAMi0vHEPKKITSd5IbQ1MCxLik5Z+ZCcrZtGM8OWXZ4FkkrPx2aciM+OdYhxSSYXOqXnoXvr/y6znfEA+qWyDu2ZPMgnboUSUqZmsjNtKsWYUC8YX7nw==;sxraAq5+S/dNUEQg6SM4EA=="
 ---

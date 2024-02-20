@@ -77,6 +77,20 @@ related:
       name: eNCA
       domain: enca.com
     quality: 32
+  - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
+    excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
+    publishedDateTime: 2024-02-20T00:58:00Z
+    webUrl: "https://siliconprairienews.com/2024/02/uptrends-ai-releases-ai-powered-platform-to-streamline-stock-market-news-monitoring/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
+    quality: 31
+    images:
+      - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "lpwMSqvN1nb22yyJigD4KeNYHhl13fSY9cR2FN2ogydQw6eLC/uVjMUpadllCkM71uuMVkL7cArR9MgonP2czq40jkhu2tVCzgalCLFBqGpMjJ5NtCGR5rJTBjEicHr3/XUEJA+g8EAGiA5JccuIhrOASw10SW3V4SBSpW3B+9byp9UYbx+IuBdrjv4AydH9I4OQnCy5i9vzfr2o2oXsktCn+LoOlISO67/PF8TVRyvGPaXlv61O1WnzjcI24VzdxiNauRlJuwW1MXl65vSG+t0HtjqqksvYCOTrzNHQUKwOrCYRERbvvopBOvwIVHt62KUO46D7qeysXbHnsBz2yAyJIXQvnqsyaAr4RnF8SU8=;QKuCfgxJtAgOWhEmPIdHIQ=="
 ---

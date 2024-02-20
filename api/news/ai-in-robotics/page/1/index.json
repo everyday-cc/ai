@@ -174,6 +174,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-16-this-company-says-conversational-ai-will-kill-apps-and-websites.md",
+      "title": "This Company Says Conversational AI Will Kill Apps and Websites",
+      "excerpt": "I might have inadvertently insulted Bret Taylor and Clay Bavor when I interviewed them about their new AI startup last week. Their new company, Sierra, is developing AI-powered agents to “elevate the customer experience” for big companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/",
+      "originalUrl": "https://www.wired.com/story/plaintext-sierra-conversational-ai-will-kill-apps-and-websites/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65ce8e802d03fe069d2dde96/191:100/w_1280,c_limit/Sierra-AI-Plaintext-Business-CCarlos_Chavarria_Sierra_AI_Bret_Taylor_&_Clay_Bavor_091_296.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-why-the-debate-about-artificial-general-intelligence-misses-the-point.md",
       "title": "Why The Debate About Artificial General Intelligence Misses The Point",
       "excerpt": "The world will never achieve artificial general intelligence, but it won’t be due to technological limitations.",
@@ -1252,49 +1304,6 @@
         "name": "Supply Chain",
         "domain": "supplychainbrain.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
-      "title": "Best Robot Mops of 2024",
-      "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
-      "originalUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

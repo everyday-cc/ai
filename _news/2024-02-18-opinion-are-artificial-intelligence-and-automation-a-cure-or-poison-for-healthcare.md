@@ -27,36 +27,43 @@ images:
     isCached: true
 
 related:
-  - title: "InnovationRx: The Feds’ ‘Nutrition Labels’ For Healthcare AI"
-    excerpt: "To use generative AI to design what are called \"molecular glues.\" These glues bind to pathogens in the body, like cancer cells, connecting them to the protein degraders your cell uses to break down stuff it doesn't need anymore."
-    publishedDateTime: 2024-02-15T02:02:00Z
-    webUrl: "https://www.forbes.com/sites/katiejennings/2024/02/14/innovationrx-the-feds-nutrition-labels-for-healthcare-ai/"
+  - title: "Senate Finance Committee Holds Hearing on Use of AI in Healthcare"
+    excerpt: "The U.S. Senate Committee on Finance held a hearing Feb. 8 considering the use of artificial intelligence (AI) in healthcare, its promise and pitfalls. The hearing included a panel of witnesses that provided academic,"
+    publishedDateTime: 2024-02-15T15:11:00Z
+    webUrl: "https://www.acr.org/Advocacy-and-Economics/Advocacy-News/Advocacy-News-Issues/In-the-Feb-17-2024-Issue/Senate-Finance-Committee-Holds-Hearing-on-Use-of-AI-in-Healthcare"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: American College of Radiology
+      domain: acr.org
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65cd6e85e1831405583e345d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://www.acr.org/-/media/ACR/Images/Logos/ACR_logo_blue.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
+    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 56
+    images:
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
         width: 1600
-        height: 553
+        height: 900
         isCached: true
-  - title: "Hartford HealthCare launches Center for Artificial Intelligence Innovation in Healthcare"
-    excerpt: "Hartford HealthCare launched a new Center for AI Innovation in Healthcare, the first of its kind in New England."
-    publishedDateTime: 2024-02-15T17:23:00Z
-    webUrl: "https://www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/"
-    ampWebUrl: "https://www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/amp/"
+  - title: "UB to hold research symposium on AI in health care"
+    excerpt: "The role of artificial intelligence in improving all aspects of health care is the theme of a research symposium to be held from 1:30-6 p.m. Feb. 27 at the Jacobs School of Medicine and Biomedical Sciences at UB. The event will kick off a new initiative at ..."
+    publishedDateTime: 2024-02-16T00:00:00Z
+    webUrl: "https://www.buffalo.edu/ubnow/briefs/2024/02/ai-health-care-symposium.html"
     type: article
     provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 65
-    images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2024/02/Hartford-HealthCare-Feb-15-2023.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Medicine Buffalo
+      domain: buffalo.edu
+    quality: 19
 
 secured: "mmhLa19ZL0ukRzKVldT+mlxRqzF9ul48D6/m78z08T1IsSYc2t+j+Nzo2v8fhRT+3SgHv4afHJJLH9ZapI1VErOvq6TtKuA6tAn4gUg3y2/h+xx3bHm474Gh5FF/fZZokZFOrDxfMYh43t2CiwlBTCOphcbS5apzkV9JXn7FTCBfoWgDtWVB9iwFsJealfv5PZNGh7tBUuqvCWEBrqvgoJJWuGDAxgMDpT0B4ImhNdClW8lRD+Z0cji+wK5/OjvKozDleidfrmafC2HJUIaAjePC4Nj01BP/c6vpDrudLVhBnbpKjO856MOMsgdLZtcE0Qu67iZp7ciA2P6JFQdwEfbDbEgDdwyBFOYg+sjAtFg=;RsvUKAkT5ttr1dIWYrUkag=="
 ---

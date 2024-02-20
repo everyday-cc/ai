@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-15T07:02:00Z
 originalUrl: "https://www.siliconrepublic.com/machines/jerome-pesenti-ai-education-meta-ibm-sizzle"
 webUrl: "https://www.siliconrepublic.com/machines/jerome-pesenti-ai-education-meta-ibm-sizzle"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Education
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/portrait-jerome.jpeg"

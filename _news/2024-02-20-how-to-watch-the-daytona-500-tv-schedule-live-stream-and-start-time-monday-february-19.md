@@ -2,23 +2,23 @@
 category: news
 title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Monday, February 19"
 excerpt: "See how to watch the 2024 DAYTONA 500 on Monday, February 19 live streaming or on TV, with channel info, start time and more."
-publishedDateTime: 2024-02-20T00:30:00Z
-originalUrl: "https://www.kmvt.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
-webUrl: "https://www.kmvt.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
+publishedDateTime: 2024-02-20T02:29:00Z
+originalUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
+webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: KMVT News
-  domain: kmvt.com
+  name: Hawaii News Now
+  domain: hawaiinewsnow.com
 
 topics:
   - AI
 
 images:
-  - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
+  - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
     width: 1200
     height: 600
     isCached: true
@@ -76,6 +76,6 @@ related:
       domain: wmbfnews.com
     quality: 2
 
-secured: "vHl9ChNC9QIBU8R6VLIKu5jLtjcLzPnTiDoXGHg5UqdDBRC0FjklCu8ZmerFXMhFj4joZeAIXsl0JEVXx8lB6Mz70OtFXCQic6twFdRyl3T4pxVwyhEDdsXVqiHl/ilM39q2rQRRk941boaMxrCKrcLszcjLr4jliL5Rch1X8RNx+U9oWmi9wpr/b08Ay2K3lQxwVnD+7fpBM5ViKgWhw4UQL6cFElRV+acgBlUX7WDuPxSwXecfFiUinGaNDVFBWX1b+ERk4ksD7a8006g1jZjZ5BmvdjAHsJeBSbX7s4ft1UOB1bFnss81IkljtrMY448r7lOkSHWUz87HbKnfScsOpwu04uhH4z/JDcWnVNg=;UZGNArnpgtwyRBj+udsuJg=="
+secured: "FvhkBSVs4/hJsAcWszW/LHPTRIV0gtrG/K3q/VHDNoWcYnkE8eYRLa2sIPv/VBf3Vh/DOs591Z5KL3rpi2RqCQhQvYTpkBfo6UxDfSUV4TyZM7NMYc9pZfv8R73D5Tqwk5beIv5C6n+QTrselh80IXjf+0FIcQL/0fon94wqv2RQ6+8imnW2/RCI2JVmK2GsZLC7o972jHxjNymn8DgcNx+royn3lIoZAG0RT8gLB+pl3a3wqHDx/QdmC+XEH9lkK3AKOBk546y/MSYD75qvV13unAr8tN53PCq4T9OFosK+3D60d0ZLKrK3XvbdLL201qSgx6eV0fXwYa6augBxNIKmy4HWEGOguyffVrBduHY=;l6bZ0E8Ax37tmzo984AfSA=="
 ---
 

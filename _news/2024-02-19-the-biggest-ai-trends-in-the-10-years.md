@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/19/the-biggest-ai-trends-in-the-10-years/amp/"
 type: article
 quality: 87
-heat: 135
+heat: 146
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: eNCA
       domain: enca.com
     quality: 32
+  - title: "Uptrends.AI Releases AI-Powered Platform To Streamline Stock Market News Monitoring"
+    excerpt: "The Uptrends v3 release focuses on providing investors with actionable and personalized insights to help them make informed decisions sans information overload."
+    publishedDateTime: 2024-02-20T00:58:00Z
+    webUrl: "https://siliconprairienews.com/2024/02/uptrends-ai-releases-ai-powered-platform-to-streamline-stock-market-news-monitoring/"
+    type: article
+    provider:
+      name: Silicon Prairie News
+      domain: siliconprairienews.com
+    quality: 31
+    images:
+      - url: "https://siliconprairienews.com/wp-content/uploads/2024/02/Uptrends_AI.jpeg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "A5dCmMoZW6Nkn5lUg3R3sm/uS8rsnZ65/Dsn5u9aUlYJ/GOX8aDa/2upIpYWxL7KVBZH99dj6VmZFA+ZesgyMwOgKgISFD1wngeff7jpYUtDFbMXyDPrOiFc0I9gXCXFFnQ16cuptKP9o9ZVaKVnvt3/KJQVrFwXykk5oxxdriH+ZuCFcAWafmKOeE3OLutHE4IeQlG8FXNQPl8ZmB8pt8EZI8BCR+LH4meHxzy151+PnpUkfnm/b3MNGKpQ5KJQyS0Voxlbix/QWnFi7Hesoieze/HUroEpZ8547u2Vsj+EMQQyTgJSs/k2m/XAebhcNBaL+iG/XjQnwXnWrQaFgfjxnv3om4OEVvrosn+mzRmSkphVkGrPrx1M//ZGeimtCIvkpzq71UvyL1u+xchKM7z0uHfwi/rjPqaq7fyc/mZjTEqpvbOqvup1wQrM6IZyIEdqpp5i2a6N70tfPYiz6Y9wB0v+H9I+Supca2gD/iqR0aCLtW2GJVmQCZHESUTjnOS6JcYI5iQJlYiy2W+YMA==;oMv1tzTFaeUd2GgcsB8vvw=="
 ---

@@ -39,22 +39,6 @@ related:
         width: 1430
         height: 782
         isCached: true
-  - title: "Carbon acquires Nigerian fintech"
-    excerpt: "Digital financial services provider, Carbon, has acquired Vella Finance, a Nigerian fintech company with a focus on small and medium-sized enterprises."
-    publishedDateTime: 2024-02-15T02:37:00Z
-    webUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/"
-    ampWebUrl: "https://punchng.com/carbon-acquires-nigerian-fintech/?amp"
-    cdnAmpWebUrl: "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/carbon-acquires-nigerian-fintech/?amp"
-    type: article
-    provider:
-      name: The Punch Newspapers
-      domain: punchng.com
-    quality: 44
-    images:
-      - url: "https://cdn.punchng.com/wp-content/uploads/2023/07/16050427/Fintech.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
     excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
     publishedDateTime: 2024-02-15T03:27:00Z

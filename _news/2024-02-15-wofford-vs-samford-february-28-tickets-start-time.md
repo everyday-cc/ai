@@ -48,15 +48,15 @@ related:
         isCached: true
   - title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Monday, February 19"
     excerpt: "See how to watch the 2024 DAYTONA 500 on Monday, February 19 live streaming or on TV, with channel info, start time and more."
-    publishedDateTime: 2024-02-20T00:30:00Z
-    webUrl: "https://www.kmvt.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
+    publishedDateTime: 2024-02-20T02:29:00Z
+    webUrl: "https://www.hawaiinewsnow.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
     type: article
     provider:
-      name: KMVT News
-      domain: kmvt.com
+      name: Hawaii News Now
+      domain: hawaiinewsnow.com
     quality: 12
     images:
-      - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
+      - url: "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
