@@ -29,19 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "From code to conversation: Can AI teach robots Arabic?"
-    excerpt: "Computational language expert Nizar Habash discusses the prospects and challenges of building Arabic-language artificial intelligence systems and why an"
-    publishedDateTime: 2024-02-20T02:00:00Z
-    webUrl: "https://www.khaleejtimes.com/business/tech/from-code-to-conversation-can-ai-teach-robots-arabic"
-    ampWebUrl: "https://www.khaleejtimes.com/business/tech/from-code-to-conversation-can-ai-teach-robots-arabic?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/tech/from-code-to-conversation-can-ai-teach-robots-arabic?amp=1"
+  - title: "From Code To Conversation: Can AI Teach Robots Arabic?"
+    excerpt: "The problem is, you will get to the point where there is no more data that's naturally created and the moment we start generating artificial data and training AI systems on that, it's like creating monsters,” says Habash, previously a research scientist ..."
+    publishedDateTime: 2024-02-19T23:32:00Z
+    webUrl: "https://menafn.com/1107872689/From-Code-To-Conversation-Can-AI-Teach-Robots-Arabic"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
+      name: Mena FN
+      domain: menafn.com
+    quality: 56
     images:
-      - url: "https://image.khaleejtimes.com?uuid=6da465a7-2202-5444-a6bf-b767cca88023&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.87209&width=1200&height=675&x=1.0E-5&y=0.06395.jpg"
+      - url: "https://menafn.com/updates/pr/2024-02/19/KT_70ff5image_story.jpg"
         width: 1200
         height: 675
         isCached: true

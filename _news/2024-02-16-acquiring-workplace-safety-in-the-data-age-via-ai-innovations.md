@@ -71,20 +71,6 @@ related:
         width: 646
         height: 341
         isCached: true
-  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
-    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
-    publishedDateTime: 2024-02-18T12:00:00Z
-    webUrl: "https://tech.co/news/ai-replacing-jobs"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 39
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
     excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
     publishedDateTime: 2024-02-15T14:20:00Z

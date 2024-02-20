@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-mod
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/"
 type: article
 quality: 74
-heat: 84
+heat: 87
 published: true
 
 provider:

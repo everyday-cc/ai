@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Maps the Contours of Climate Change Skepticism in America"
-    excerpt: "Nearly 15% of Americans deny climate change is real, according to an AI study. Public figures such as former President Donald Trump play an outsized role in influencing beliefs. Using social media data and artificial intelligence in a comprehensive national assessment,"
-    publishedDateTime: 2024-02-15T04:32:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-maps-the-contours-of-climate-change-skepticism-in-america/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 32
-    images:
-      - url: "https://scitechdaily.com/images/Climate-Change-Skepticism-Art.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "GM’s Super Drive self-driving tech now covers over 750,000 miles of roads in North America"
     excerpt: "GM has expanded its Super Cruise hands-free driving experience to over 750,000 miles across the United States and Canada."
     publishedDateTime: 2024-02-15T20:45:00Z

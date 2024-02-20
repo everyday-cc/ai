@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/innovation/new-ai-powered-waste
 webUrl: "https://interestingengineering.com/innovation/new-ai-powered-waste-sorting-robot-identifies-over-500-waste-categories"
 type: article
 quality: 54
-heat: 66
+heat: 64
 published: false
 
 provider:

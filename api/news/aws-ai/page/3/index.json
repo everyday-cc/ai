@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
+      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
+      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T12:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-smart-construction-future-hd-hyundai-collaborates-with-aws-to-pioneer-unmanned-autonomous-sites.md",
+      "title": "Smart Construction Future: HD Hyundai Collaborates with AWS to Pioneer Unmanned Autonomous Sites",
+      "excerpt": "LAS VEGAS, Jan. 12, 2024 /PRNewswire/ -- HD Hyundai, a global leader in heavy industries, is teaming up with Amazon Web Services (AWS) to lead the innovation of future unmanned and autonomous construction sites. This collaboration was announced at Consumer Electronics Show (CES) 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2317101/image_123650291.jpg",
+          "width": 400,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T22:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-hpc-in-the-cloud-is-growing-ensure-your-organization-benefits.md",
+      "title": "HPC in the cloud is growing, ensure your organization benefits",
+      "excerpt": "This is driven partly by the demands of artificial intelligence (AI) and machine learning (ML ... infrastructure Featuring a technology spotlight on Amazon Web Services (AWS) and NVIDIA working together to provide performant and easy to use solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
+      "originalUrl": "https://insidehpc.com/white-paper/hpc-in-the-cloud-is-growing-ensure-your-organization-benefits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2024/01/AWS_Cover_72Ver3.jpg",
+          "width": 685,
+          "height": 886,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
       "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
       "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
@@ -1200,154 +1330,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator.md",
-      "title": "Driving advanced analytics outcomes at scale using Amazon SageMaker powered PwC’s Machine Learning Ops Accelerator",
-      "excerpt": "This post was written in collaboration with Ankur Goyal and Karthikeyan Chokappa from PwC Australia’s Cloud &amp; Digital business. Artificial intelligence (AI) and machine learning (ML) are becoming an integral part of systems and processes, enabling decisions in real time, thereby driving top and bottom-line",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/driving-advanced-analytics-outcomes-at-scale-using-amazon-sagemaker-powered-pwcs-machine-learning-ops-accelerator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/19/ML-4740_Figure1-final-1260x554.jpg",
-          "width": 1260,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T16:05:39Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-klika-tech-achieves-the-100-aws-certifications-distinction.md",
-      "title": "Klika Tech Achieves The 100 AWS Certifications Distinction",
-      "excerpt": "Klika Tech, a global technology solutions and consulting firm that specializes in delivering cutting-edge cloud computing, Internet of Things (IoT), artificial intelligence and machine learning (AI/ML),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/19/9936263.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T14:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai.md",
-      "title": "ISO 42001: A new foundational global standard to advance responsible AI",
-      "excerpt": "Artificial intelligence (AI) is one of the most transformational technologies of our generation and provides opportunities to be a force for good and drive economic growth. The growth of large language models (LLMs), with hundreds of billions of parameters, has unlocked new generative AI use cases to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/iso-42001-a-new-foundational-global-standard-to-advance-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/18/iso-42001-foundations.jpg",
-          "width": 1000,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:07:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

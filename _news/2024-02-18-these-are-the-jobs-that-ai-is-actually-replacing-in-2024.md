@@ -25,89 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Responsible technology use in the AI age"
-    excerpt: "AI presents distinct social and ethical challenges, but its sudden rise presents a singular opportunity for responsible adoption."
-    publishedDateTime: 2024-02-15T15:00:00Z
-    webUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/"
-    ampWebUrl: "https://www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/15/1087815/responsible-technology-use-in-the-ai-age/amp/"
+  - title: "How real estate listings and potentially jobs are shifting to AI"
+    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
+    publishedDateTime: 2024-02-19T15:30:00Z
+    webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+    ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 59
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "How Artificial Intelligence is affecting social media"
+    excerpt: "The transformative power of Artificial Intelligence (A.I.) is reshaping our world, offering both unprecedented benefits and complex challenges, particularly in the realm of"
+    publishedDateTime: 2024-02-19T14:54:00Z
+    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/"
+    ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
     quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2024/02/Thoughtworks_image_2_1200x630px.jpg?w=1200"
-        width: 1200
-        height: 630
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/02/B-Block-How-Artificial-Intelligence-is-affecting-social-media.jpg?w=1280"
+        width: 640
+        height: 360
         isCached: true
-  - title: "2 WMass experts on a new statewide task force to explore use of AI technology in all industries"
-    excerpt: "WNE President Robert Johnson and MassMutual's Sears Merritt among the 26 person task force that will tackle how industries can introduce artificial intelligence to their workforce."
-    publishedDateTime: 2024-02-16T23:02:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/02/2-wmass-experts-on-a-new-statewide-task-force-to-explore-use-of-ai-technology-in-all-industries.html?outputType=amp"
+  - title: "How real estate listings and potentially jobs are shifting to AI"
+    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
+    publishedDateTime: 2024-02-19T22:30:00Z
+    webUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+    ampWebUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 47
+      name: Pasadena Star-News
+      domain: pasadenastarnews.com
+    quality: 57
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BBRIVXTRZBH6ZN6VN2EYOYBC54.png"
-        width: 1000
-        height: 600
+      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
+        width: 1024
+        height: 642
         isCached: true
-  - title: "Responsible Artificial Intelligence Efforts in the Global South"
-    excerpt: "The promise and peril of artificial intelligence (AI) dominated the global agenda in 2023 and will be an even more pressing concern in 2024. This Global Futures Bulletin considers the global AI regulatory landscape—asking where AI safety and alignment policies are produced and how they differ across regions."
-    publishedDateTime: 2024-02-15T15:09:00Z
-    webUrl: "https://www.newamerica.org/planetary-politics/policy-papers/responsible-ai-efforts-in-the-global-south/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
-    quality: 39
-    images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/Screen_Shot_2024-02-09_at_10.02.3.2e16d0ba.fill-1200x630.png"
-        width: 646
-        height: 341
-        isCached: true
-  - title: "Acquiring Workplace Safety in the Data Age Via AI Innovations"
-    excerpt: "Chatbots, equipped with natural language processing and trained on safety procedures and manuals, serve as invaluable tools for addressing employees' safety inquiries. These intelligent systems can understand and interpret natural language, enabling ..."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://ohsonline.com/Articles/2024/02/16/Acquiring-Workplace-Safety-in-the-Data-Age-Via-AI-Innovations.aspx"
-    type: article
-    provider:
-      name: Ohsonline.com
-      domain: ohsonline.com
-    quality: 39
-    images:
-      - url: "https://ohsonline.com/-/media/OHS/OHS/Images/2024/02/02,-d-,16,-d-,24aidata.jpg"
-        width: 650
-        height: 300
-        isCached: true
-  - title: "Protecting Technology-Assisted Works and Inventions: Where Does Smart Technology End and AI Begin?"
-    excerpt: "At what point does a “smart” computing system, or advanced software program, qualify as AI in the eyes of pertinent regulatory or judicial authorities? When is an individual considered to have merely deployed an AI-based computing tool to assist with creating a work of art or conceiving of a technological innovation?"
-    publishedDateTime: 2024-02-15T14:20:00Z
-    webUrl: "https://www.law.com/2024/02/15/protecting-technology-assisted-works-and-inventions-where-does-smart-technology-end-and-ai-begin/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 25
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/292/2024/02/artificial_intelligence7_767.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "How artificial intelligence influences technological innovation"
-    excerpt: "With artificial intelligence (AI) becoming massively entrenched in everyday life, enterprises are using the emerging technology to foster innovation."
-    publishedDateTime: 2024-02-19T08:55:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/752767/how-artificial-intelligence-influences-technological-innovation/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 19
 
 secured: "65p4lqOJxNLA7jON5t9M6iiWvLZpOteBfasYKRZxhe3Jkr3G2MnzEZ9iKBx4d0sObt/ZqSilxb0tFz7PfbSEM1O56M+Fu1KGLJ6XLnQc1PpcAqPqw+vw8xYjYkAPqv/K5TmxXwurnn509T4iSBA6F5NA3kT/RngS5TgprDvClFirHBSEbWcILo+Cx3jHQ4ExhUai3WLVkkUpS+jtQAjikRXm4I3h6ABwen2TBd9IocWk91PF8NVqMd5u1rZFjqUpNQXbuArVV5u43Y+V++xajbWb8bURQDlhkYWItwqC7GBkE7mYuyrjSQJJXiGTuD3KyaCxIV7rkI1uHHFUwZ7K6zOoD18RqCBgqv90rUU7wNfimgWJJF4hlZucFFzvthXK35i1C/DOVME76TNGIue3dw0GCyeM7fxYW2EXsr2ylTuCQ90bJA3zNRIeKyOtUBmaEjtLWaOd8/jXIorqMsCScL0tvo1x2/4IftHWP1ZwkcvxRivljO92AZfYHhhoTLtLfJbJeT46WJ7Ws78F8hcvoQ==;SBJMtMQUWpod0xhs8StZhQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-
 cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-social-media/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: WFLA News Channel 8
@@ -28,6 +28,22 @@ images:
 related:
   - title: "How real estate listings and potentially jobs are shifting to AI"
     excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
+    publishedDateTime: 2024-02-19T15:30:00Z
+    webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+    ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 59
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
+        width: 1024
+        height: 642
+        isCached: true
+  - title: "How real estate listings and potentially jobs are shifting to AI"
+    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
     publishedDateTime: 2024-02-19T22:30:00Z
     webUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
     ampWebUrl: "https://www.pasadenastarnews.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
@@ -42,24 +58,20 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "How real estate listings and potentially jobs are shifting to AI"
-    excerpt: "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said."
-    publishedDateTime: 2024-02-19T15:30:00Z
-    webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
+    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
+    publishedDateTime: 2024-02-18T12:00:00Z
+    webUrl: "https://tech.co/news/ai-replacing-jobs"
     type: article
     provider:
-      name: Orange County Register
-      domain: ocregister.com
-    quality: 19
-  - title: "How Artificial Intelligence is affecting the college process"
-    excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
-    publishedDateTime: 2024-02-19T18:20:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-the-college-process/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 17
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
+        width: 1920
+        height: 960
+        isCached: true
 
 secured: "eGH8l7TU34u9wgYFsl6EpsKotDbf9YNSlAjt0XbWrQ/X2Wef9CiiVI+ODqjE1fUHH7Ym1+zFXtHGQ1HTEOg42WOGA0T4wfl76M7eY+nHrJ01NwnbpDD94Uf4tJyly6MrJJ7LcKpyQDdCHJpdPnxt8duze31SLCYKiXNsZoKD4j7Zfs0sk/crr605TMh5EERkwhbA096jCislcFOfJ6mi0YGwHkcC3oTh01sUcEK1SCSuVWTfIbzkkvBCIOgo85ORWbMD8CvDvrfVFvWiFLCpHC9TgR5SKM+e02EmVkItb7PU0AWy8lzMJS1ytgYunJeVxZsIAQ0hX4mqeH7GUzwFXSU2hM/HCwnWb1+HyJ0I4jojR2eIKCRUiI1K8OJxXiO90kfp+5ZMxtI8ZnP8V4bCjILa+vCadhWh0hee2rUEsbHelDm/0pI5jgfNLZzzJpZetQGo4wnlSuPKO+DtZ1d3ws1x6NzQgjEDwJ3rEpxtDz3e2dyhpBtQ88/ODmeSokdprftP2xXvTwuwX7mdLaXOBA==;ikb9h6cdp6Ul1dGqDiGxCA=="
 ---

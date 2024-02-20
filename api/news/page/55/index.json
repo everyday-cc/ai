@@ -2,6 +2,204 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2023-12-28-what-to-expect-from-europes-ai-startups-in-2024-according-to-vcs.md",
+      "title": "What to expect from Europe's AI startups in 2024, according to VCs",
+      "excerpt": "Startups using AI to tackle industry-specific issues are predicted to thrive while funding to more generalist AI startups is expected to taper off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
+      "originalUrl": "https://www.businessinsider.com/what-to-expect-from-europes-ai-startups-in-2024-vcs-2023-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/658405b0cefc010bea260ac0?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-after-a-year-of-breathless-hype-ai-will-face-reality-in-2024.md",
+      "title": "After a year of breathless hype, AI will face reality in 2024",
+      "excerpt": "In 2023, artificial intelligence went mainstream. In 2024, tech insiders expect dramatic changes in the AI landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-predictions-2024",
+      "originalUrl": "https://thenextweb.com/news/ai-predictions-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2FUntitled-design-3-1.jpg&signature=f81a672d7e134813a7cd5360ff676a15",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech.md",
+      "title": "Revolutionizing Sales: The Impact of Artificial Intelligence in Tech",
+      "excerpt": "Introduction: The advent of Artificial Intelligence (AI) has revolutionized various industries, and one of the most significant impacts has been witnessed in the realm of sales. As businesses strive to stay ahead in the competitive landscape,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "originalUrl": "https://techbullion.com/revolutionizing-sales-the-impact-of-artificial-intelligence-in-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2023/12/Revolutionizing-Sales-The-Impact-of-Artificial-Intelligence-in-Tech.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-asia-pacific-fintech-2024-a-balanced-vision.md",
+      "title": "Asia Pacific Fintech 2024: A Balanced Vision",
+      "excerpt": "As we look ahead to 2024, it's essential to explore the trends, challenges, and opportunities that are shaping the future of Asian FinTech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
+      "originalUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658ba84a0e014e31d7e4f47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1343,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zennonkapron/2023/12/27/asia-pacific-fintech-2024-a-balanced-vision/amp/",
+      "publishedDateTime": "2023-12-28T03:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-non-artificial-intelligence-stocks-making-new-highs.md",
       "title": "Non-Artificial Intelligence Stocks Making New Highs",
       "excerpt": "If you followed the financial/business media recently, you might think that only artificial intelligence-related stocks are hot, successful and worth covering.",
@@ -1044,205 +1242,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse.md",
-      "title": "Are You Doomscrolling Too Much? These Experts Say AI Will Make It Worse",
-      "excerpt": "Recently, two experts who have studied the \"attention economy\" (meaning, how social media monetizes our attention) have made the case that artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/",
-      "originalUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658aff40e3747edd366e4ddd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnbbrandon/2023/12/26/are-you-doomscrolling-too-much-these-experts-say-ai-will-make-it-worse/amp/",
-      "publishedDateTime": "2023-12-26T16:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-massive-breakthroughs-in-ai-expected-in-2024.md",
-      "title": "Massive breakthroughs in AI expected in 2024",
-      "excerpt": "Large Language Models (LLMs) and digital assistants will fundamentally reshape how people interact with software in their personal and professional lives.",
-      "sourceUrl": null,
-      "webUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/",
-      "originalUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://memeburn.com/gearburn/wp-content/uploads/sites/3/2023/06/Macbook-15-air.jpg",
-          "width": 956,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/?amp=1",
-      "cdnAmpWebUrl": "https://memeburn-com.cdn.ampproject.org/c/s/memeburn.com/gearburn/2023/12/massive-breakthroughs-in-ai-expected-in-2024/?amp=1",
-      "publishedDateTime": "2023-12-26T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Memeburn",
-        "domain": "memeburn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024.md",
-      "title": "Stage Is Set For Nvidia, AMD, Intel Shoot-Out At The AI Corral In 2024",
-      "excerpt": "Nvidia, AMD and Intel all announced the launch of next generation AI solutions as they set the stage for an epic generative AI shoot-out in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658afc3d21e13fea88a2e29c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1272,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2023/12/26/stage-is-set-for-nvidia-amd-intel-shoot-out-at-the-ai-corral-in-2024/amp/",
-      "publishedDateTime": "2023-12-26T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-mobileye-revs-up-innovation-in-autonomous-driving.md",
-      "title": "Mobileye Revs Up Innovation In Autonomous Driving",
-      "excerpt": "Mobileye's SuperVision product is the company's most advanced driver-assist system yet, while the Chauffeur product offers full eyes-off and hands-off functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658ae6626a41df918e76df32/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2023/12/26/mobileye-revs-up-innovation-in-autonomous-driving/amp/",
-      "publishedDateTime": "2023-12-26T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

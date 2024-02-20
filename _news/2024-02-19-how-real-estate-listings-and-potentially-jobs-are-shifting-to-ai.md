@@ -5,10 +5,12 @@ excerpt: "While your next real estate agent probably won’t be a robot, smart m
 publishedDateTime: 2024-02-19T15:30:00Z
 originalUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
 webUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/"
+ampWebUrl: "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
+cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/"
 type: article
-quality: 19
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
   name: Orange County Register
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643"
+    width: 1024
+    height: 642
+    isCached: true
 
 related:
   - title: "How Artificial Intelligence is affecting social media"
@@ -51,16 +59,21 @@ related:
         width: 1024
         height: 642
         isCached: true
-  - title: "How Artificial Intelligence is affecting the college process"
-    excerpt: "Artificial Intelligence is changing the world – and possibly the way your child attends college. Teen Life Coach Desiree Panlilio joins Gayle Guyardo the host of the"
-    publishedDateTime: 2024-02-19T18:20:00Z
-    webUrl: "https://www.wfla.com/bloom-tampa-bay/how-artificial-intelligence-is-affecting-the-college-process/"
+  - title: "These Are the Jobs That AI Is Actually Replacing in 2024"
+    excerpt: "The Impact of Technology on the Workplace study from Tech.co found which jobs and tasks were most at risk for AI replacement."
+    publishedDateTime: 2024-02-18T12:00:00Z
+    webUrl: "https://tech.co/news/ai-replacing-jobs"
     type: article
     provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 17
+      name: Tech.co
+      domain: tech.co
+    quality: 39
+    images:
+      - url: "https://images.tech.co/wp-content/uploads/2024/02/15110645/ai-jobs-1.jpg"
+        width: 1920
+        height: 960
+        isCached: true
 
-secured: "vpA+gjE6+F0fuukzAtvW966XMwn7bwpAiFGWLD1qxSnaMcQRbgqljY7vhisS2axuHJ5sLLH3R98RjpR6ajv4EfLKToyd+QQMBRSLuKJhK77AlR0tRS7aTLOW6fk9AQnRgH5fhc/OYACrJsrgcnl4y+NpeNgwfWZ/foGOuHjYvQbwDF0MR5/GcJSSjclMeVVtNJpfcle2pD0oWLWeS8+9565Lh03AqhTmO23I5f+bwns6jXiHTADsN5Us8r5Y/2lO8dUl9QsIRNwMUJWh5Vc6kOXBsJTWIO4tk2XBNYder9zTNmkcg/HnPeCz8l5CjkqqMJJiUrclTDW61/UnCOmQ1XMAHDwcZP8lHUMiQW0bydE=;WwUMi5YKhnXsPbEhptTIDQ=="
+secured: "wUbUzH6D6y0Fr3bmVxWsmIfu3SYBnunI68jOBscAMu7+MbJi+RadQJchl7v1EeBc+wYFO8N0xEhKLaxxYnfYdHsr7iEVx4aZuySel2HOICPzMeU29CD9HiEcmpzJwVx898OUFpdlQp8DgKsZ1LnqZB1BjzBo3zE/v+vW/fOeCwSzUQUZ24koOQAHgKO7QdvX47NzxWlHOAFV+X6LHf0nE+RsbPBCruO3VRs0Sl9ASubQAPT/a5KqULte+I1ArTbilVEaBBN3K4+hX3aKqEQhEkd3484TQr0H8NZ/+GzqFLQZli2/Z3DfUwmYWS5gn37iUaI1PatyS4wiXsil4oLKw/Be4kNAUVZYx3we7obLpiQ=;gZeukKpMp0BDAhUfU0UH7w=="
 ---
 

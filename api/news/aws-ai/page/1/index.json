@@ -10,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-titan-models-for-image-generation-editing-and-searching/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -532,6 +532,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-13-cloud-based-hpc-to-improve-performance-and-save-resources.md",
+      "title": "Cloud-Based HPC To Improve Performance And Save Resources",
+      "excerpt": "HPC users are adopting and integrating artificial intelligence (AI) and machine learning (ML ... With Amazon Web Services (AWS), organizations can overcome their HPC challenges by accessing flexible compute capacity and a variety of purpose-built tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2024/02/13/head-cloud-based-hpc-to-improve-performance-and-save-resources/",
+      "originalUrl": "https://www.nextplatform.com/2024/02/13/head-cloud-based-hpc-to-improve-performance-and-save-resources/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.nextplatform.com/wp-content/uploads/2024/02/nvidia-sc-image-1200x600-1.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2024/02/13/head-cloud-based-hpc-to-improve-performance-and-save-resources/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/02/13/head-cloud-based-hpc-to-improve-performance-and-save-resources/amp/",
+      "publishedDateTime": "2024-02-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-onetrust-enhancements-accelerate-ai-adoption-enable-responsible-data-use-and-automate-compliance.md",
       "title": "OneTrust Enhancements Accelerate AI Adoption, Enable Responsible Data Use, and Automate Compliance",
       "excerpt": "OneTrust, the market-defining leader for trust intelligence, today announced its newest platform features that make it easier for customers to govern their use of artificial intelligence (AI) and accelerate AI innovation,",
@@ -705,6 +748,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-09-identity-and-access-management-products.md",
+      "title": "Identity and access management products",
+      "excerpt": "The FBI has confirmed it is using Amazon’s Rekognition image and video analysis software, but Amazon says it is ‘false’ to suggest this violates the company’s self-imposed moratorium on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
+      "originalUrl": "https://www.computerweekly.com/resources/Identity-and-access-management-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
+          "width": 500,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
       "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
       "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
@@ -754,6 +840,58 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-amazons-cloud-boss-likens-generative-ai-hype-to-the-dotcom-bubble.md",
+      "title": "Amazon’s Cloud Boss Likens Generative AI Hype to the Dotcom Bubble",
+      "excerpt": "As CEO of Amazon's dominant cloud computing platform AWS, Adam Selipsky is one of ... the industry is racing to adopt generative artificial intelligence. Although a fan of the technology, he ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
+      "originalUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65c2ca0dbafb5fecca35880c/191:100/w_1280,c_limit/Adam-Selipsky-AWS-CEO-Business-1245214128.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1219,145 +1357,6 @@
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
-      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
-      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
-      "publishedDateTime": "2024-02-02T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-aiml-leadership.md",
-      "title": "Buy Rating Affirmed for Amazon on AWS Growth and Expanding AI/ML Leadership",
-      "excerpt": "Brian Pitz has given his Buy rating due to a combination of factors including the acceleration of Amazon Web Services (AWS) growth and the company’s significant advancements in artificial intelligence and machine learning. He recognizes AWS as a leader ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-affirmed-for-amazon-on-aws-growth-and-expanding-ai-ml-leadership-1033025803",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth.md",
-      "title": "AWS sees another record year for Amazon as AI push drives cloud growth",
-      "excerpt": "The division’s growth matched what analysts had expected, and is largely attributable to the increasing interest in artificial intelligence. Revenue driven by AWS was slightly under that of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
-      "originalUrl": "https://www.techradar.com/pro/aws-sees-another-record-year-for-amazon-as-ai-push-drives-cloud-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/qc7sXoqRTmM6d94LT6WPhm-1200-80.jpg",
-          "width": 971,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-01-30-apples-vision-pros-path-to-success.md",
+      "title": "Apple's Vision Pro's Path To Success",
+      "excerpt": "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8081c3e8172e6bfb9d845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
+      "publishedDateTime": "2024-01-30T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-outgoing-uk-surveillance-chief-cites-concerns-with-facial-recognition-plan.md",
       "title": "Outgoing U.K. Surveillance Chief Cites Concerns With Facial Recognition Plan",
       "excerpt": "The U.K.'s outgoing biometrics and surveillance commissioner and others highlight ethical and technical shortcomings in the government's plan to use the technology.",
@@ -1284,49 +1336,6 @@
       "provider": {
         "name": "Supermarket News",
         "domain": "supermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-should-retailers-use-facial-recognition-at-all.md",
-      "title": "Should retailers use facial recognition at all?",
-      "excerpt": "The FTC accused Rite Aid of misusing facial recognition technology - without informing customers or employees - which resulted in false positives. Learn more about their misuse here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
-      "originalUrl": "https://www.washingtonexaminer.com/opinion/2790407/should-retailers-use-facial-recognition-at-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2023/12/e5ad716f04bea2080efa6aad02fea87c-scaled.jpg",
-          "width": 2560,
-          "height": 1512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null

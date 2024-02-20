@@ -2,6 +2,101 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-11-6-ai-apps-for-android-that-are-actually-useful.md",
+      "title": "6 AI Apps For Android That Are Actually Useful",
+      "excerpt": "That means developers can integrate AI applications much deeper into your device, and we're already seeing prominent chip manufacturers like Qualcomm integrating AI cores into their most powerful Snapdragon chips to compliment those new functionalities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "originalUrl": "https://www.slashgear.com/1510320/ai-android-apps-useful-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/6-ai-apps-for-android-that-are-actually-useful/l-intro-1707186688.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-11T12:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
+      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
+      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
+      "publishedDateTime": "2024-02-11T12:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-up-154-this-magnificent-artificial-intelligence-ai-stock-is-a-screaming-buy-before-it-skyrockets.md",
       "title": "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets",
       "excerpt": "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ...",
@@ -1077,92 +1172,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-this-overlooked-ai-stock-pick-is-still-surprisingly-cheap.md",
-      "title": "This Overlooked AI Stock Pick Is Still Surprisingly Cheap",
-      "excerpt": "Charting, Price Performance, News & Related Contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/commodities/GDU22/pressreleases/23966397/this-overlooked-ai-stock-pick-is-still-surprisingly-cheap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/32ade0c7bf3356428e9be73445857021/cicy4cfrjvgmgrgo.png",
-          "width": 1875,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T15:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-should-ai-be-used-in-health-care-risks-regulations-ethics-and-benefits-of-ai-in-medicine.md",
-      "title": "Should AI be used in health care? Risks, regulations, ethics and benefits of AI in medicine",
-      "excerpt": "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about how is AI being used in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
-      "originalUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-020924.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ama-assn.org",
-        "domain": "ama-assn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

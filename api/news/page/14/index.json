@@ -2,6 +2,194 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-02-07-instagram-threads-and-facebook-will-start-labeling-ai-generated-content.md",
+      "title": "Instagram, Threads, and Facebook will start labeling AI-generated content",
+      "excerpt": "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/p-3411262/",
+      "originalUrl": "https://www.androidauthority.com/p-3411262/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T17:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-microsofts-ai-engine-powering-hr-blocks-tax-filing-assistance-product.md",
+      "title": "Microsoft's AI engine powering H&R Block's tax filing assistance product",
+      "excerpt": "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
+      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
+      "publishedDateTime": "2024-02-06T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
+      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
+      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-launches-real-time-ai-chat-translation-tool-will-support-16-languages.md",
+      "title": "Roblox Launches Real-Time AI Chat Translation Tool, Will Support 16 Languages",
+      "excerpt": "Announcing the new feature in a post, Roblox Chief Technology Officer Daniel Sturman said, “Using AI to automate real-time translations in text chat removes language barriers and brings more people together,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
+      "originalUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/roblox_translation_tool_1707232853992.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
+      "publishedDateTime": "2024-02-06T15:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-amazon-web-services-ceo-dishes-on-bostons-ai-scene-and-harvard-square-pizza.md",
       "title": "Amazon Web Services CEO dishes on Boston’s AI scene — and Harvard Square pizza",
       "excerpt": "senior vice president and head scientist for artificial general intelligence, and Raj Aggarwal, general manager of GenAI at AWS. But the area was also hit by deep layoffs in the company’s Alexa ...",
@@ -893,160 +1081,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-builds-in-house-llm-adds-real-time-ai-translation-to-metaverse.md",
-      "title": "Roblox builds in-house LLM, adds real-time AI translation to metaverse",
-      "excerpt": "According to a Feb. 5 statement by Roblox chief technology officer Dan Sturman, the new system required the firm to build its own in-house LLM to be able to translate text-based messages at a base latency of 100 milliseconds — making conversations feel instantaneous for users.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "originalUrl": "https://cointelegraph.com/news/roblox-ai-translation-llm-metaverse-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-nvidia-share-price-target-by-28.md",
-      "title": "NVIDIA AI GPU dominance sees Goldman Sachs increase NVIDIA share price target by 28%",
-      "excerpt": "Goldman Sachs research shows AI GPU demand is healthy, supply constraints for NVIDIA AI GPUs easing, so share price target for NVIDIA has been boosted 28%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/96022/nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/6/96022_96_nvidia-ai-gpu-dominance-sees-goldman-sachs-increase-share-price-target-by-28_full.jpg",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T01:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
-      "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
-      "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "originalUrl": "https://menafn.com/1107813089/PDI-LAUNCHES-AI-PLATFORM-FOR-RETAIL-TRANSFORMING-DATA-INTO-ACTIONABLE-INSIGHTS-BOOSTING-REVENUE-MARGIN-AND-AGILITY",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?758229",
-          "width": 445,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-a-tale-of-two-companies-can-boeing-cruise-rebuild-customer-confidence.md",
-      "title": "A tale of two companies: Can Boeing, Cruise rebuild customer confidence?",
-      "excerpt": "It may also make it harder for other tech companies to push innovations – from artificial intelligence to gene therapies to ... On Oct. 2, 2023, a driverless taxi owned by Cruise was moving through an intersection in San Francisco when another driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "originalUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Christian Science Monitor",
-        "domain": "csmonitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

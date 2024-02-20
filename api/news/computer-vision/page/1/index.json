@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
+      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
+      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T22:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-ios-trojan-collects-face-and-other-data-for-bank-account-hacking.md",
       "title": "iOS Trojan Collects Face and Other Data for Bank Account Hacking",
       "excerpt": "Chinese hackers use Android and iOS trojans to obtain information needed to steal money from victims’ bank accounts.",
@@ -1438,58 +1490,6 @@
         "AI",
         "Microsoft AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-apples-vision-pros-path-to-success.md",
-      "title": "Apple's Vision Pro's Path To Success",
-      "excerpt": "The success of Apple's hardware is directly related to the role of software. The combination of innovative hardware with creative software will drive Apple's Vision Pro to succeed in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b8081c3e8172e6bfb9d845/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/01/30/apples-vision-pros-path-to-success/amp/",
-      "publishedDateTime": "2024-01-30T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

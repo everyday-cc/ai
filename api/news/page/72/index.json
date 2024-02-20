@@ -2,6 +2,178 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2023-12-13-deep-neural-networks-show-promise-as-models-of-human-hearing.md",
+      "title": "Deep neural networks show promise as models of human hearing",
+      "excerpt": "In the largest study yet of deep neural networks trained to perform auditory tasks, researchers found most of these models generate internal representations that share properties of representations seen in the human brain when people are listening to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231213143706.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231213143706.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-how-the-eu-ai-act-regulates-artificial-intelligence-what-it-means-for-cybersecurity.md",
+      "title": "How the EU AI Act regulates artificial intelligence: What it means for cybersecurity",
+      "excerpt": "On December 8, 2023, after more than 36 hours of negotiations, European Union lawmakers agreed on the details of a new law to regulate artificial intelligence. The document, dubbed the AI Act, is one of the first attempts in the world to establish a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "originalUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.csoonline.com/wp-content/uploads/2023/12/hemicycle_of_louise_weiss_building_of_the_european_parliament_strasbourg-100624123-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1258597/how-the-eu-ai-act-regulates-artificial-intelligence-and-what-it-means-for-cybersecurity.html/amp/",
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-lego-fortnite-how-to-find-loot-llamas.md",
+      "title": "LEGO Fortnite: How to Find Loot Llamas",
+      "excerpt": "In LEGO Fortnite, you can explore a vast world that sometimes offers surprises, such as treasures and supply drops, but if you're lucky, you'll come across a Loot Llama. If you are having problems ...",
+      "sourceUrl": null,
+      "webUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
+      "originalUrl": "https://gamerant.com/lego-fortnite-how-find-loot-llama-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/lego-fortnite-loot-llamas.jpg",
+          "width": 1800,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Game Rant",
+        "domain": "gamerant.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-light-stimulated-adaptive-artificial-synapse-based-on-nanocrystalline-metal-oxide-film.md",
+      "title": "Light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film",
+      "excerpt": "A new publication from Opto-Electronic Science; DOI  <a href=\" target=\"_blank\">10.29026/oes.2023.230016  discusses light-stimulated adaptive artificial synapse based on nanocrystalline metal-oxide film.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1011030",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1011030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/77863e73-0c4c-435f-bf90-7acb9181cdf7/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-qualcomm-makes-its-push-for-pc-relevance-leading-with-ai.md",
       "title": "Qualcomm Makes Its Push For PC Relevance, Leading With AI",
       "excerpt": "Qualcomm gave us an end of year update on the new Snapdragon X Elite, the company’s bold effort to create an Arm-based ecosystem for PCs.",
@@ -979,203 +1151,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-promote-resilience-and-responsible-emissions-management-with-the-ibm-maximo-application-suite.md",
-      "title": "Promote resilience and responsible emissions management with the IBM Maximo Application Suite",
-      "excerpt": "Optimization can help you predict and prevent issues, reduce emissions, ensure compliance and create a safer and healthier work environment.\nThe post Promote resilience and responsible emissions management with the IBM Maximo Application Suite appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "originalUrl": "https://www.ibm.com/blog/promote-resilience-and-emissions-management-for-asset-management-operations-with-maximo-application-suite-mas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-hr-has-a-central-role-in-ais-impact-on-smes.md",
-      "title": "HR Has A Central Role In AI's Impact On SMEs",
-      "excerpt": "HR teams at small and medium-sized enterprises are well positioned to ensure AI technology is implemented successfully.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6514465e8d87e14a63636b0e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1233,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2023/12/12/hr-has-a-central-role-in-ais-impact-on-smes/amp/",
-      "publishedDateTime": "2023-12-12T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-china-chip-firms-vie-to-take-sales-from-nvidia.md",
-      "title": "China chip firms vie to take sales from Nvidia",
-      "excerpt": "Chinese chip designers including Tencent Holdings are aggressively pitching their AI chips as alternatives to Nvidia's, hoping U.S. export restrictions will prompt clients to switch, said four people familiar with such discussions. Julian Satterthwaite reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
-      "originalUrl": "https://www.reuters.com/video/watch/idRW515412122023RP1?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20231212&i=RW515412122023RP1&r=RW515412122023RP1&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T10:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-five-considerations-when-adopting-ai-an-executives-solid-compass.md",
-      "title": "Five Considerations When Adopting AI: An Executive's SOLID Compass",
-      "excerpt": "It’s crucial to discern which innovations truly matter and how to effectively navigate them without getting lost in jargon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/629a23ed5c778bcfbcf8de3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/12/five-considerations-when-adopting-ai-an-executives-solid-compass/amp/",
-      "publishedDateTime": "2023-12-12T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

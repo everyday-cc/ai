@@ -2,6 +2,178 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2023-12-14-futuristic-driverless-pods-could-ferry-people-to-hospital-from-bolton-town-centre.md",
+      "title": "Futuristic driverless pods could ferry people to hospital from Bolton town centre",
+      "excerpt": "Driverless pods could take people from ... Dromos say they will use artificial intelligence to ‘predict traffic volumes and patterns and develops alternative routings for the vehicles to allow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
+      "originalUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article28291266.ece/ALTERNATES/s1200/0_dromos-1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
+      "cdnAmpWebUrl": "https://www-manchestereveningnews-co-uk.cdn.ampproject.org/c/s/www.manchestereveningnews.co.uk/news/greater-manchester-news/futuristic-driverless-pods-could-ferry-28291301.amp",
+      "publishedDateTime": "2023-12-14T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manchester Evening News",
+        "domain": "manchestereveningnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-lilt-announces-enterprise-ai-controls-and-in-app-multimodal-translation.md",
+      "title": "LILT Announces Enterprise AI Controls and In-App Multimodal Translation",
+      "excerpt": "\"As organizations move beyond AI pilots into production ... and immediately submit it for translation into a target language. The new UI also provides increased user flexibility for text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/lilt-announces-enterprise-ai-controls-and-in-app-multimodal-translation/article_d14b7705-bb41-5140-a82a-74b7b60b9367.html",
+      "originalUrl": "https://www.victoriaadvocate.com/lilt-announces-enterprise-ai-controls-and-in-app-multimodal-translation/article_d14b7705-bb41-5140-a82a-74b7b60b9367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-how-andromeda-robotics-ai-powered-robot-abi-is-combating-loneliness.md",
+      "title": "How Andromeda Robotics’ AI-powered robot Abi is combating loneliness",
+      "excerpt": "The Andromeda Robotics team has built and assembled four Abi robots so far, each costing nearly $10,000 in hardware and consumables.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "originalUrl": "https://www.smartcompany.com.au/startupsmart/news/andromeda-robotics-ai-powered-robot-abi-combating-loneliness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2023/12/SMartCO-2023-12-14T103242.515.png?resize=1200,630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T23:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-heard-on-the-street-teslas-recall-highlights-the-limits-of-full-self-driving-tech.md",
+      "title": "Heard on the Street: Tesla’s Recall Highlights the Limits of ‘Full Self-Driving’ Tech",
+      "excerpt": "Tesla’s big recall hasn’t moved its shares much. That isn’t a surprise given the limited cost of the fix— but it isn’t the end of the story, either. On Wednesday, the National",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
+      "originalUrl": "https://www.wsj.com/livecoverage/fed-meeting-fomc-interest-rate-december-2023/card/heard-on-the-street-tesla-s-recall-highlights-the-limits-of-full-self-driving-tech-5t1wARKk5hZZYznApkee?mod=lctimeline_finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-899985/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T23:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-dropbox-spooks-users-with-new-ai-features-that-send-data-to-openai-when-used.md",
       "title": "Dropbox spooks users with new AI features that send data to OpenAI when used",
       "excerpt": "According to the FAQ, the third-party AI toggle in your account settings is turned on by default if \"you or your team\" are participating in the Dropbox AI alpha. Still, multiple Ars Technica staff who had no knowledge of the Dropbox AI alpha found the setting enabled by default when they checked.",
@@ -1004,194 +1176,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-13-ways-ai-can-help-accelerate-your-startup-part-ii.md",
-      "title": "13 Ways AI Can Help Accelerate Your Startup, Part II",
-      "excerpt": "Continuing our list of 13, here are five more ways AI can help you accelerate the growth of your business: Computationsometimes, I find working with a calculator or",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-ai-can-help-accelerate-your-startup-part-ii/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-ai-can-help-accelerate-your-startup-part-ii/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6577562a62787ff53c3d092a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-ai-can-help-accelerate-your-startup-part-ii/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2023/12/13/13-ways-ai-can-help-accelerate-your-startup-part-ii/amp/",
-      "publishedDateTime": "2023-12-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-seven-customer-service-types-that-organizations-should-provide.md",
-      "title": "Seven customer service types that organizations should provide",
-      "excerpt": "Done right, customer service can be a game changer. Explore these seven customer service types your company should offer today.\nThe post Seven customer service types that organizations should provide appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "originalUrl": "https://www.ibm.com/blog/customer-service-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/12/pi-1729842.blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-meet-the-researcher-building-real-robots-for-real-household-chores.md",
-      "title": "Meet the Researcher Building Real Robots for Real Household Chores",
-      "excerpt": "If you wonder what is the robotics equivalent of ChatGPT, \"there are not many answers\", believes Lerrel Pinto, a robotics researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
-      "originalUrl": "https://analyticsindiamag.com/meet-the-roboticist-who-is-solving-household-issues-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/analyticsindiamag.com/wp-content/uploads/2023/12/Meet-the-Roboticist-Who-is-Solving-Household-Issues-with-Robots.jpg?fit=1920%2C1080&ssl=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T11:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants.md",
-      "title": "Health Plan: A snake-like robot, real-time heart health and soft robotic implants",
-      "excerpt": "In the final part of our Health Plan series, we see how a snake-like robot developed for remote inspection has been adapted for use in throat cancer surgery, look at a wearable ECG monitor, hear how soft robotic implants could be used for drug delivery, and speak to the company behind a device that continually monitors IV therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
-      "originalUrl": "https://www.imeche.org/news/news-article/health-plan-a-snake-like-robot-real-time-heart-health-and-soft-robotic-implants",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imechewebresources.blob.core.windows.net/imeche-web-content/images/default-source/default-album/jj_viscero_ecg-vest_context_podaqua.jpg?sfvrsn=2b754411_0&size=705",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institution of Mechanical Engineers",
-        "domain": "imeche.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

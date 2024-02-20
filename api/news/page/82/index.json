@@ -2,6 +2,169 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2023-12-05-best-amazon-deals-in-december-2023-todays-best-sales.md",
+      "title": "Best Amazon deals in December 2023: Today's best sales",
+      "excerpt": "Amazon deals can be found any day of the week. Whether you're shopping for a new MacBook or our favorite pair of headphones, Amazon is renown for offering sitewide sales every day. With Black ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/best-amazon-deals",
+      "originalUrl": "https://www.tomsguide.com/news/best-amazon-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T15:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-elon-musks-ai-startup-xai-files-to-raise-1-billion-in-fresh-capital.md",
+      "title": "Elon Musk's AI startup — X.AI — files to raise $1 billion in fresh capital",
+      "excerpt": "X.AI, an artificial intelligence startup founded by Elon Musk, has filed with the SEC to raise up to $1 billion in an equity offering",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
+      "originalUrl": "https://www.nbcwashington.com/news/national-international/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcwashington.com/2023/12/107341579-1701376973392-gettyimages-1821107484-dsc_5130_j4s4ocdu.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/business/money-report/elon-musks-ai-startup-x-ai-files-to-raise-1-billion-in-fresh-capital/3487103/?amp=1",
+      "publishedDateTime": "2023-12-05T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC Washington",
+        "domain": "nbcwashington.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-daniel-dennett-calls-for-ethics-in-ai-development.md",
+      "title": "Daniel Dennett calls for ethics in AI development",
+      "excerpt": "It’s emerging, it’s everywhere. It’s going to be even more everywhere, … and it’s scary and inspiring at the same time,” Jad Oubala, president and founder of the Tufts Artificial Intelligence Society,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
+      "originalUrl": "https://www.tuftsdaily.com/article/2023/12/daniel-dennett-calls-for-ethics-in-ai-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://snworksceo.imgix.net/ttd/27ffa86e-ed04-4cc1-9df9-f3e7ae8e5231.sized-1000x1000.jpg?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T15:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tufts Daily",
+        "domain": "tuftsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-gecko-robotics-picks-up-100-million-investment-with-backing-from-thomas-tulls-5-billion-tech-fund.md",
+      "title": "Gecko Robotics picks up $100 million investment with backing from Thomas Tull's $5 billion tech fund",
+      "excerpt": "A local robotics startup has added a $100 million investment to its coffers thanks in part to the financial support from a $5 billion technology fund run by a Pittsburgh billionaire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2023/12/05/thomas-tull-gecko-robotics-100-million-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-microsoft-and-liverpool-hospital-use-generative-ai-to-break-down-large-volumes-of-cardiology-related-literature.md",
       "title": "Microsoft and Liverpool Hospital use generative AI to break down large volumes of cardiology-related literature",
       "excerpt": "Microsoft and Liverpool Hospital, one of the largest tertiary referral and teaching hospitals in Sydney, Australia, have partnered to develop a generative artificial intelligence solution to assist cardiologists working with large volumes of cardiology-related literature.",
@@ -840,178 +1003,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-nvidia-warned-redesign-a-gpu-for-ai-for-china-us-government-will-stop-them-the-next-day.md",
-      "title": "NVIDIA warned: redesign a GPU for AI for China, US government will stop them the next day",
-      "excerpt": "US Commerce Secretary Gina Raimondo has warned that we 'cannot' let China get the most powerful AI chips in the world, throws shade at NVIDIA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/94723/nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/4/94723_01_nvidia-warned-redesign-gpu-for-ai-china-us-government-will-stop-them-the-next-day_full.png",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-a-deep-learning-framework-for-drugdrug-interactions-and-drugtarget-interactions-prediction.md",
-      "title": "A deep-learning framework for drug–drug interactions and drug–target interactions prediction",
-      "excerpt": "Quantitative Biology has recently published an article titled \"DeepDrug: A general graph-based deep learning framework for drug–drug interactions and drug–target interactions prediction\" that shows DeepDrug learns the comprehensive structure-based and ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.html",
-      "originalUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/deepdrug-a-deep-learni.jpg",
-          "width": 1280,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-12-deep-learning-framework-drugdrug-interactions-drugtarget.amp",
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
-      "title": "Artificial intelligence makes gripping more intuitive",
-      "excerpt": "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-artificial-intelligence-who-are-the-leaders-in-supervised-neural-nets-for-the-automotive-industry.md",
-      "title": "Artificial intelligence: who are the leaders in supervised neural nets for the automotive industry?",
-      "excerpt": "Supervised neural nets involve training a neural network on a labeled dataset, where the algorithm learns to predict an output based on input data. The training is guided by a supervisor who provides the correct output for each input, allowing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
-      "originalUrl": "https://www.just-auto.com/data-insights/innovators-ai-supervised-neural-nets-automotive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/12/Automotive_AI_supervised-neural-nets.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

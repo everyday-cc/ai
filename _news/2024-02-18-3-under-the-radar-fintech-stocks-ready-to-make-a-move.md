@@ -39,22 +39,6 @@ related:
         width: 1430
         height: 782
         isCached: true
-  - title: "KPMG: Global Fintech Investment Dipped by 42% to $114bn in 2023"
-    excerpt: "Global investment in fintech nosedived in 2023, plunging to a five-year low of $113.7 billion from 4547 deals, international audit, tax and advisory services firm, KPMG has stated. This marked a 42 per cent decline from the $196."
-    publishedDateTime: 2024-02-15T03:27:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2024/02/15/kpmg-global-fintech-investment-dipped-by-42-to-114bn-in-2023?amp=1"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 44
-    images:
-      - url: "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/KPMG.png"
-        width: 800
-        height: 527
-        isCached: true
   - title: "The Role of “Fintech” in Healthcare in 2024"
     excerpt: "Technological advancements are rapidly transforming various sectors, including the healthcare industry. Since 2020, an astounding $53 billion has been invested in the healthcare industry related to fintech solutions."
     publishedDateTime: 2024-02-17T15:56:00Z
@@ -92,20 +76,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
-    excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
-    publishedDateTime: 2024-02-15T04:02:00Z
-    webUrl: "https://fintechnews.sg/84269/funding/fintech-funding-in-asia-sees-positive-signs-despite-56-plunge/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://fintechnews.sg/wp-content/uploads/2024/02/Fintech-Funding-Asia-2023-Decline.jpg"
-        width: 1024
-        height: 567
-        isCached: true
   - title: "BIZCLIK MEDIA LAUNCHES FEBRUARY EDITION OF FINTECH MAGAZINE"
     excerpt: "LONDON, Feb. 15, 2024 /PRNewswire/ -- BizClik, the UK's fastest-growing publishing company, has published the latest edition of FinTech Magazine. This publication is a highly regarded voice within the Financial Sector for its in-depth reports and interviews with prominent figures in the industry."
     publishedDateTime: 2024-02-15T21:21:00Z

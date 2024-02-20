@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-02-09-elon-musks-brother-kimbal-is-not-as-optimistic-about-teslas-full-self-driving.md",
+      "title": "Elon Musk’s brother Kimbal is not as optimistic about Tesla’s Full Self-Driving",
+      "excerpt": "Elon Musk’s brother Kimbal, who is also a board member at Tesla, is not as optimistic as his brother about Tesla delivering ‘Full Self-Driving’. He says: “maybe 5 years”. Virtually every year for the past five years, Tesla CEO Elon Musk has said that the company will achieve full self-driving capability by the end of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "originalUrl": "https://electrek.co/2024/02/08/elon-musk-brother-kimbal-not-as-optimistic-tesla-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Kimbal-Musk-self-driving-Tesla.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
+      "title": "Google Bard AI Officially Becomes Gemini",
+      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-08-ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers.md",
+      "title": "AI cannot be used to deny health care coverage, feds clarify to insurers",
+      "excerpt": "Health insurance companies cannot use algorithms or artificial intelligence to determine care or deny coverage to members on Medicare Advantage plans, the Centers for Medicare & Medicaid Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/ai-cannot-be-used-to-deny-health-care-coverage-feds-clarify-to-insurers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-1985565682-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
       "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
       "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the ...",
@@ -977,144 +1124,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn.md",
-      "title": "Don’t wear Apple Vision Pro while piloting a self-driving Tesla, officials warn",
-      "excerpt": "But, as The New York Times asks, are people legitimately attempting to use the headset while driving, or is it all a stunt? \"Several of the videos taken in cars appear staged, and in many, it is clear that someone other than the driver is recording,\" writes Jesus Jiménez for The New York Times. \"The videos are not widespread.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/02/dont-wear-apple-vision-pro-while-piloting-a-self-driving-tesla-officials-warn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/apple_vision_pro_driving_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T19:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-40-amazing-ibm-statistics-and-facts-for-2024.md",
-      "title": "40 Amazing IBM Statistics and Facts for 2024",
-      "excerpt": "Explore the dynamic realm of IBM statistics in 2024, revealing the latest in technology usage that redefine the industry landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "originalUrl": "https://techreport.com/statistics/ibm-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/01/IBM-Statistics-and-Facts.jpg?_t=1707330166",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-meet-tara-the-ai-digital-worker-whos-helping-financial-institutions-stop-the-bad-guys.md",
-      "title": "Meet Tara - the AI Digital Worker who's helping financial institutions \"stop the bad guys\"",
-      "excerpt": "To that end, towards the end of last year the firm announced the rollout of its no code Work.AI platform and a partnership deal with a legal software company Epiq. Based in New York, Epiq wanted to build its own legal Digital Workers and is now using WorkFusion’s no code Work.AI platform. Famularo comments:",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "originalUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-02/Screenshot%202024-02-07%20at%2010.41.02.png",
-          "width": 1422,
-          "height": 1014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/meet-tara-ai-digital-worker-whos-helping-financial-insitutions-stop-bad-guys?amp",
-      "publishedDateTime": "2024-02-07T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

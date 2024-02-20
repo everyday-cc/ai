@@ -101,6 +101,15 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "ChatGPT Stock Predictions: 3 Artificial Intelligence Companies the AI Bot Thinks Have 10X Potential"
+    excerpt: "Artificial intelligence (AI) stocks are a shining example of potential. They exist in the fast-paced world of finance. Here, data and insight are the driving forces behind the future. Today, we explore this possibility via AI stock forecasts. There is a ..."
+    publishedDateTime: 2024-02-19T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-artificial-intelligence-companies-the-ai-bot-thinks-have-10x-potential-1033080966"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
     excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
     publishedDateTime: 2024-02-16T06:50:00Z
@@ -137,6 +146,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00497-8/d41586-024-00497-8_26738548.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "I used ChatGPT to create AI images — this is how you can do it yourself"
+    excerpt: "Creating AI images with ChatGPT is quick and easy ... With ChatGPT 4 selected, you’ll see an option to start a new conversation or if you’re a returning user, you can resume one that’s already started. Creating images works with either option."
+    publishedDateTime: 2024-02-19T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/i-used-chatgpt-to-create-ai-images-this-is-how-you-can-do-it-yourself"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/UTmP5HMxmYERz3CxgNA467-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google's Gemini Chatbot, A Mixed Bag of Reviews as It Takes on OpenAI's ChatGPT"
     excerpt: "Google's Gemini chatbot receives mixed reviews, with noted limitations and integration into Google's product ecosystem."
