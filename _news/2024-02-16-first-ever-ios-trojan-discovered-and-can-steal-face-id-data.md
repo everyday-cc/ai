@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "First ever iOS trojan discovered — and it’s stealing Face ID data to break into bank accounts"
-    excerpt: "According to a new report from Group-IB, the Android trojan GoldDigger has now been modified with new capabilities that make it easier for this malware to drain victims’ bank accounts. First discovered last October, the trojan's new variation has been dubbed GoldPickaxe, with versions specifically designed for both Android and iOS devices."
-    publishedDateTime: 2024-02-15T18:35:00Z
-    webUrl: "https://www.tomsguide.com/computing/malware-adware/first-ever-ios-trojan-discovered-and-its-stealing-face-id-data-to-break-into-bank-accounts"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 30
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HpQRk3BGaJ7VCsCkAkEUw8-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "GoldPickaxe Mobile Trojan Malware Captures Facial Data, Intercepts Text Messages to Access Financial Accounts"
     excerpt: "The new GoldPickaxe evolution of the GoldDigger trojan malware takes things a step further, retaining the prior functionality but adding the ability to capture facial data for the purpose of creating a deepfake to defeat biometric logins."
     publishedDateTime: 2024-02-20T11:00:00Z

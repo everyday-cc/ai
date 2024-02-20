@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/"
 type: article
 quality: 81
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You"
+    excerpt: "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations."
+    publishedDateTime: 2024-02-20T17:53:00Z
+    webUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "PDFs get smart as Adobe brings generative AI to Reader and Acrobat"
     excerpt: "and has been developed in line with the vendor’s AI Ethics processes. The assistant currently uses the Microsoft Azure OpenAI Service but Adobe insists it is not tied to any specific LLM, and will use a selection of technologies as needed to address a ..."
     publishedDateTime: 2024-02-20T00:00:00Z

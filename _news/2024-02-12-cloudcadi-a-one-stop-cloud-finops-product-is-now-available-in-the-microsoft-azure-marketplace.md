@@ -1,26 +1,20 @@
 ---
 category: news
-title: "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace"
-excerpt: "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p"
-publishedDateTime: 2024-02-12T06:25:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace"
-webUrl: "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace"
+title: "CloudCADI-A One-Stop Cloud FinOps Product is Now Available in the Microsoft Azure Marketplace"
+excerpt: "Amadis specializes in Cloud FinOps, offering targeted solutions to optimize customers' cloud spend. Their product CloudCADI [Cognitive and Actionable Data Insights] enables enterprises to SPEND RIGHT on cloud with key features like, Cloud-Native Development using Platform-Based Observability Components."
+publishedDateTime: 2024-02-12T15:21:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://cdn.bignewsnetwork.com/M2ZlODBlZmQtNjY.jpg"
-    width: 630
-    height: 473
-    isCached: true
-
-secured: "LedoSr5gFBquXbkk1YzTB5VGlgccvMFilF9Ea3nX/5Yt+OhAIyzZz1bcgelluqvqPL/CBm3vcw8cdBaTgh/c8+XkgTvkbzgslDOGaYyXwwHL9A0sS/v31OLZ6pzjhevCI5AZHx9gwD9D6QbpCyumusH28fesjYtVdPDiVbTXaZdKfvKIztaX03D0Gv/KBxiie2Syt/edUMRxLI0OgJ4j+425HzDCa67UvwPm4GRsCd7Jcf3OVZnZ67GWioKrNlYg9QU+hbju8l04iLjn0sVjq92RG/cv9wHVp3pNEjXmgvn/EsJByAnueWUX7ZlU8r78O4DPrehQt9Ro9MprV+473zaF7ilBDbxpt7fvg9JpbrQ=;GTu25GhZO1P8Y1hFaeThLQ=="
+secured: "TTCOU7yWa8Y5TEaSbxa0C7B/hyZ/5DyUJmMWnyZQoAJJdngwuljEQt2gkoZviFTrwAmLHfHydt17H2v2NftctvoN9yEWMGjQQUbFKZtj0kw84xl30dxaG2arM4hdijZNH1QexzLiAyr5iMsmhgTv4iNQW3gJ3/a3z4ZcZjAQOuCahyOonqBFMr6vNcPV93g/iJQBpz6o8sJtOIYrOZev+I2z6XPA5wkN29zxPoNBg+danZYVwOXKlqd0MFKJfI/PVxboV2v37pBTf3wAhUbWYNUxgSuTo46OI0BpkTy6cBacyGqh2uNW/VapZ5Ttvna3Xbb3KmBdScTWoHN1QAsFMDrHbVR4Iwf04WbSkB1NhGM=;VWtzYCNy8al76pDOF+wynA=="
 ---
 

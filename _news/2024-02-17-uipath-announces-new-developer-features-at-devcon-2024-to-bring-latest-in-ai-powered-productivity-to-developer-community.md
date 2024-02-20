@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "UiPath announces new developer features at DevCon 2024 to bring latest in AI-powered productivity to developer community"
+    excerpt: "UiPath, a leading enterprise automation software company, today announced at the UiPath DevCon 2024 event a host of new features in its platform designed to enable developers to build, test, and accelerate implementation of automations."
+    publishedDateTime: 2024-02-18T22:13:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/uipath-announces-new-developer-features-at-devcon-2024-to-bring-latest-in-ai-powered-productivity-to-developer-community.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 14
+    images:
+      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
+        width: 600
+        height: 260
+        isCached: true
   - title: "UiPath Announces New Developer Features at DevCon 2024, Two Data Centres Announced"
     excerpt: "UiPath Automation Cloud goes global with India data centers by April 2024, providing strategic infrastructure placement for public and private sectors"
     publishedDateTime: 2024-02-17T20:02:00Z

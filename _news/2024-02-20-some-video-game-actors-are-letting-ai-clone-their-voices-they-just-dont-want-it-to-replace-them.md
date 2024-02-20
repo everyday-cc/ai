@@ -61,17 +61,15 @@ related:
         isCached: true
   - title: "Voice actors have mixed responses to AI clones of their voices"
     excerpt: "As video game worlds get larger, some game studios are experimenting with AI tools to give voice to a potentially unlimited number of characters and conversations."
-    publishedDateTime: 2024-02-20T16:29:00Z
-    webUrl: "https://www.9news.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
-    ampWebUrl: "https://www.9news.com/amp/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
+    publishedDateTime: 2024-02-20T17:44:00Z
+    webUrl: "https://www.ktvb.com/article/news/nation-world/voice-actors-video-games-ai/507-34a4d807-4e65-4562-bd03-8e8c93a37a4d"
     type: article
     provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 59
+      name: KTVB
+      domain: ktvb.com
+    quality: 39
     images:
-      - url: "https://media.9news.com/assets/CCT/images/da2901ff-b962-493f-bfd7-29302950fc2e/da2901ff-b962-493f-bfd7-29302950fc2e_1140x641.jpg"
+      - url: "https://media.ktvb.com/assets/CCT/images/da2901ff-b962-493f-bfd7-29302950fc2e/da2901ff-b962-493f-bfd7-29302950fc2e_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

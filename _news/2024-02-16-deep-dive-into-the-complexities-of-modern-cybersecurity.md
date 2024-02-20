@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
-  - title: "Chicago startup Hackerverse selected for Google AI cybersecurity accelerator"
-    excerpt: "A Chicago startup combining AI and cybersecurity was just named to a Google for Startups program. Learn more here."
-    publishedDateTime: 2024-02-15T18:37:00Z
-    webUrl: "https://www.bizjournals.com/chicago/inno/stories/news/2024/02/15/chicago-startup-hackerverse-google-ai-accelerator.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "YigpR89EETdfR4pFSgkqPlUAsSu1lehLOMxIgRXswgCIh6cxDCNccxb/NCNKRphDfXzHPt5AH57fmNoyRZrRUvm4dBWy4q8iLxrbNOGFCZb0rdEr4f0HxbdzpNXT9FvSVx1HQhmpJIPmQlZnCjZiCWbSmcVi+wOO7v77Prnq/uNKYvy6mm2rfADL6qBjI+1ZobwZaYePOpIKtlgJVg2X3fIcuHXgG2LCOckQ+oQm1J/9vhx0McShBFb7tBVkXaa/Ef17trlRUBJBlOwAbi5y7h/dD/hK7IucrJqO0OW2WxtPhQKqn+OHw2SlSfj4ydsgL7FfKNfjkDa1cdmwSDuwrogiz+VSVgTbKfmOMheBBpI=;WuxtNuc0dmXWWJ1tAcCI3g=="
 ---

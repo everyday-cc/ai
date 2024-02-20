@@ -34,15 +34,15 @@ related:
         height: 550
         isCached: true
   - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
-    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-    ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
+    publishedDateTime: 2024-02-20T10:19:00Z
+    webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
+      name: winnipegsun
+      domain: winnipegsun.com
     quality: 76
     images:
       - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
@@ -107,6 +107,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
+    excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
+    publishedDateTime: 2024-02-20T17:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
     excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
     publishedDateTime: 2024-02-20T10:00:00Z
@@ -121,15 +135,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
-    excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."
-    publishedDateTime: 2024-02-15T18:29:00Z
-    webUrl: "https://www.biometricupdate.com/202402/met-police-nab-45-people-with-facial-recognition-deployments-coming-to-lincolnshire"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 12
 
 secured: "wjIJf1ui9RwkH7aB0vbcxiASx08kiZ4x1T4tSIkjfEseiKzuvEJVUsAook+xet/2XRhAGqjXMtVwna/vkvrnTXyEvkNEYLkj3CjI/hxKLKMxpQnC9YSpSa+vxIXbmxYiEOXzwowGPuYDAnJOae2Rpe59nJEAiWvy1qhrwOsO/1zIdDvJmkZXShs6jU9pwc9zXle6GXzOTviJIo9o3+H2XZ3e71hftRHxt8Lsffkr1Qiv2e7xGdNh4gK9eXVWcNmJX9Nig42Z89njl3gImLMCQCYT53Q8/Y/dbrXxjkKhpJaAaFLTgRjxWyi7FD2uJONODjiMVuCNKIh5wxZ0kE8M8sI4ThEweCgYsPP8eBtbSJo=;kDZEqQM0/BsAHNtYSVA5mQ=="
 ---

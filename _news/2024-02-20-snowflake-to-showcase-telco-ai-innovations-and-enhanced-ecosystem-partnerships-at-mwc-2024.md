@@ -41,6 +41,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Microsoft develops AI server gear to lessen reliance on Nvidia, The Information reports"
+    excerpt: "Microsoft CEO Satya Nadella has tapped Pradeep Sindhu, who co-founded networking gear developer Juniper Networks, to spearhead the network card effort, the report said citing a person with knowledge of the matter."
+    publishedDateTime: 2024-02-20T18:30:00Z
+    webUrl: "https://www.aol.com/news/microsoft-develops-ai-server-gear-163026760.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 46
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/48d82f19bb621e96dabc6afe0e2885c1"
+        width: 800
+        height: 499
+        isCached: true
 
 secured: "b/PphZIB1A7HZ73PAjfxRkTcnqnPy0WyU4x25EKUUBY0MT2Mmi0fT5Dvg4Wp3xvJ3ujH/Xu/+4kz+fTQzOnn1gF53F+5wfqjxOOIbVp0uI/pPEAwsCIPQrIakPdaM9AhUWRtJRe8GmrxOzktmGqjxA3TG4Gx186GiWaukeexjmgLLDuDgDIBTnnxbUrI9TZzt0999AmqaqWMpXZoNL4GQhBOvkMiDkCHpavOVW3iVyRGbP297rvD7dgVfO0CLc5YPLabSy/H5IJSetaAhthXFJQkZHE280eWurLvQCIXPOpv+gXT9AauZcCpFTUwSNoS5SZ6x8yodO39jJeZnZxB8bMcVwIf1O2Wmf/OBV8ZHP60NG+qsOSnHLJ8cAmyGHOaJlhKbWgDhcwsCgkPbNpci/aGc6MuME6tSLktezIN1ya5w5Pg99tLTau0zkxPAmlAzAJUqGlYi7OYDzyfR/eGe8dgY6cM2U+Y/Ah2OzYCEcZPzZ771sSMgHyDlFdk5Db0+AvbGrEqqiqcYJmEmU+hmA==;obgLE6sCQJOmvsAvOefGbA=="
 ---

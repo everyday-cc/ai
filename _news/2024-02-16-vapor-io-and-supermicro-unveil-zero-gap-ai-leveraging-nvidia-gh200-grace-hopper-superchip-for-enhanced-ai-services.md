@@ -41,24 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Supermicro CEO: ‘We Are In What I Call An AI Revolution’"
-    excerpt: "Supermicro expects its total revenue to double in fiscal 2024 over fiscal 2023, but its AI revenue to grow even faster."
-    publishedDateTime: 2024-02-15T18:37:00Z
-    webUrl: "https://www.crn.com/news/data-center/2024/supermicro-ceo-we-are-in-what-i-call-an-ai-revolution"
+  - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
+    excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
+    publishedDateTime: 2024-02-20T11:09:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "Vapor IO and Supermicro Launch Zero Gap™ AI, Powered by the NVIDIA GH200 Grace Hopper Superchip, in North America"
-    excerpt: "Vapor IO and Supermicro are today announcing a groundbreaking collaboration called Zero Gap™ AI, powered by the NVIDIA MGX platform with the NVIDIA GH200 Grace Hopper Superchip. Zero Gap AI is a unique 5G- and AI-as-a-Service platform,"
-    publishedDateTime: 2024-02-15T17:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "47Nn6XAJgAYb7VYFrI+CArx6zLvz9hMipwyP+b4wVomLFK59DIChFOAkTP8v9tYOVBgV2W2ZV8SeapbSeyk2SENVEYMi3xUdFVuhjgJeVTTzzMh1C1UikYnMtEC4QvBAVEKrD1y37wFwtml0lH8U33q5TmH1oXi6YzaVkmXxoPIooAfJhayRDWw0FqjcMX2XJiDfE1zb2eAXqIAntwtRiwuYpT5pW60tPKPCqEnOu0f+RgstQKXCOvrKqgNSukVEC5J/nS5IktB3D90cvUn86l07IeAVEWYdLqWbbzmj7csHaba5a9SS8HJ7Tsz0rVJz9RCUC8cCrK1TEqTLsVQ/pAhkOruLIjvGtkXrDXIajVM=;7HBOyFN9VqvF5KlLBbzsrw=="
 ---

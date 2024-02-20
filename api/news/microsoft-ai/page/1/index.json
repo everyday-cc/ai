@@ -151,36 +151,36 @@
       ]
     },
     {
-      "path": "_news/2024-02-19-chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily",
+      "path": "_news/2024-02-16-ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024.md",
+      "title": "IFS and Microsoft to showcase innovative AI solutions for telecom operators at Mobile World Congress Barcelona 2024",
+      "excerpt": "IFS and Microsoft will highlight the unique value that their IFS.ai solutions on Azure deliver to help support operators’ network transformations, monetization of 5G services, and leveraging of indust",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 72,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NWUxZDU0ZjgtZmUzZC00/0/markuspersson-telecommunicationsglobalindustrydirector-ifs-png.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T20:26:00Z",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/ifs-and-microsoft-to-showcase-innovative-ai-solutions-for-telecom-operators-at-mobile-world-congress-barcelona-2024-kp9wfahk?amp=1",
+      "publishedDateTime": "2024-02-16T07:59:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -189,8 +189,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -202,7 +202,7 @@
       "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -766,6 +766,40 @@
       ]
     },
     {
+      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "CloudCADI-A One-Stop Cloud FinOps Product is Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Amadis specializes in Cloud FinOps, offering targeted solutions to optimize customers' cloud spend. Their product CloudCADI [Cognitive and Actionable Data Insights] enables enterprises to SPEND RIGHT on cloud with key features like, Cloud-Native Development using Platform-Based Observability Components.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
       "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
       "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
@@ -848,49 +882,6 @@
       "provider": {
         "name": "Seeking Alpha",
         "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/M2ZlODBlZmQtNjY.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
         "images": null,
         "publishers": null,
         "authors": null

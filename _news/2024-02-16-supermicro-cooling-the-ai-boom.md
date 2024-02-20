@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Supermicro Expands AI Solutions For Enhanced Edge Computing Powered By Nvidia GPUs"
+    excerpt: "Supermicro (SMCI) introduces cutting-edge AI solutions, enabling real-time decision-making at the edge with NVIDIA GPU support. The advanced edge servers, featuring dual socket CPUs and powerful GPUs, position Supermicro as a leader in AI-driven edge ..."
+    publishedDateTime: 2024-02-20T11:09:00Z
+    webUrl: "https://www.benzinga.com/top-stories/24/02/37216276/supermicro-expands-ai-solutions-for-enhanced-edge-computing-powered-by-nvidia-gpus"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37216276"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37216276"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 68
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vapor IO and Supermicro Unveil Zero Gap AI, Leveraging NVIDIA GH200 Grace Hopper Superchip for Enhanced AI Services"
     excerpt: "Vapor IO and Supermicro are today announcing a new collaboration called Zero Gap AI, powered by the NVIDIA MGX platform"
     publishedDateTime: 2024-02-15T22:03:00Z
@@ -45,24 +61,6 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "Supermicro CEO: ‘We Are In What I Call An AI Revolution’"
-    excerpt: "Supermicro expects its total revenue to double in fiscal 2024 over fiscal 2023, but its AI revenue to grow even faster."
-    publishedDateTime: 2024-02-15T18:37:00Z
-    webUrl: "https://www.crn.com/news/data-center/2024/supermicro-ceo-we-are-in-what-i-call-an-ai-revolution"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 19
-  - title: "Vapor IO and Supermicro Launch Zero Gap™ AI, Powered by the NVIDIA GH200 Grace Hopper Superchip, in North America"
-    excerpt: "Vapor IO and Supermicro are today announcing a groundbreaking collaboration called Zero Gap™ AI, powered by the NVIDIA MGX platform with the NVIDIA GH200 Grace Hopper Superchip. Zero Gap AI is a unique 5G- and AI-as-a-Service platform,"
-    publishedDateTime: 2024-02-15T17:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963094.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 13
 
 secured: "iLSReghei1yTxtitE0mCJFUI38XZ8zCGWD35D7gzWMIinkpQwu8CWa1xlJoEMRvq/bVFAbfGuvNHlbKeAEBvZD1JecnOtJsg7BWlR4tXDZYsnghBsTTc/ShV9utTiYAHqoAb1Q2G5/4MnJnwrRfS8HHOOFgwCvnqGuxtxg4Hv2iM/1xXxgq+x1PxzrE77YARntacm81coqhM/sZmEyFdbzHuMLr//hNovTMSL7WOrr3fU+SPaU4/6etmsPNygqVOwmicZlS6TANYn2Yz8PfJiWdg0yNAWrYu13KmUUwWZkZXQ4sxca0NsjNOC75F4VrSpmAwl8IfN5JXY2gcRwQTc4kXPqbbu0XUNY4yctdBTTppI4Cl2Oc2tL+7KwTL0p16GHEkGCNv0HDn8z0EHz2IbZ4aGCEZF/+0fHB33BwaCOd5928Hlrf0lb2yG4AyytJziTkCl7xGtw1gm1JT3JZw5xiGUR7VMwmCQzLCYKPxYv4j36uu5mYhHRmPWHaN1pZg6SH4XOHaqYlXgQNQk2SFjw==;6POdnXEKNfePiyUXxFbQmw=="
 ---

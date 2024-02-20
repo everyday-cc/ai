@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Massachusetts to create AI task force to support adoption of technology"
-    excerpt: "Gov. Maura Healey has signed an executive order to create a task force meant to study artificial intelligence and to advise her administration on the state’s role in implementing and encouraging private sector use of the new technology."
-    publishedDateTime: 2024-02-15T17:57:00Z
-    webUrl: "https://www.gazettenet.com/Massachusetts-to-create-an-artificial-intelligence-task-force-54059326"
+  - title: "Bipartisan task force to explore artificial intelligence"
+    excerpt: "House Speaker Mike Johnson, R-La., and Hakeem Jeffries, D-N.Y., minority leader of the House, unveiled efforts to develop a task force that will examine how the U.S. can lead in AI innovation while also keeping important guardrails to protect against cyberattacks, deep fakes and job replacement, according to the report."
+    publishedDateTime: 2024-02-20T16:15:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/bipartisan-task-force-to-explore-artificial-intelligence.html"
     type: article
     provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 19
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "C9FT0Y1WFy17P3nFQwXsZyEa/Lfq/6UAhoxv6PYjKDbtX0ogw3QpslkxRDWw7D2zqd3Jze74XOt/AlwJ7OA4YnGWtOEFPx2wz6q7Urqvv5LgDlhkxMmslA3/Nm9znxCQj0P9jfARSp/ikraBcUE7JhfXN+fJXbYu8QwhO1s3FZuvfOO9xCMIBKanRbMADNyEFnQ9OvwZ/JRJ8XsXf52TY97WWz/SfUdNl4Wov7TyoFKmo+Y6ox86dl6Y123mLOVUQsrYuoPSOg5njlW8COLPAIKU4EInFxiVlnmQgu+1QCNRKWGgvwKqzC8gjn0TSjgbM5A6nQYM7GJOakRl7rRa1GfL+Y2fdF1YmXcIoolMHThIq2EVKQofywjV/5uKpDPosZgZM9sJNjXTXPIFtXgPZgZle3f8aBOFyLrabE0A+WYlIxHgCbXf/sd7tiOJcys8cVpoAXfFYSZf6pfSejEenJksz4YLMpxrLiqpVO9y0DJXet5LpGrlPHhGjXEydEDF9ZTD3FijzT/UZoVr9yaMLg==;40jPgGYXRE7KNbhIdAtDBg=="
 ---

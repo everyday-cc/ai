@@ -97,20 +97,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
-  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
-    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
-    publishedDateTime: 2024-02-15T18:54:00Z
-    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
-        width: 1200
-        height: 791
-        isCached: true
 
 secured: "66ce5Fxt/aLT0htrR3zt1AwnITrv4qZjaRmK54y5/DzQs47F0Oc++56kqUHbj+7u1+cMgfzyx8TYDhw6rx9m4ybFZ88oFox7k8jB6QCH5+RguUvdXu03Nha1AO7HROFlLHoQIE3+0L+Z3xsac+4l4/3mcMM6RuhjpTq3yPbeZv3breleO9YJWkTFMmsTPyRYXkAo4cEbwu5GZKgQzHO71aZDDqKpoNxCD1KjxYmO3P63FXHQgfYQISQCnO1IJHZPXX5Omi2eMdsA8HB4y/Yl6Optig5b+aQTLYGrXTsW7tsgd6/+5dALch3gU6Mwc01dz5sMFCGA1v+Nt9pq6mLVEgR/+uTY6WrlqqLvQFYESMg=;3NwppFNWDCcaVl0FNwF+dg=="
 ---

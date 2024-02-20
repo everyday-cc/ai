@@ -9,7 +9,7 @@ ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-a
 cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
 type: article
 quality: 67
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress tiptoes toward healthcare AI legislation"
+    excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
+    publishedDateTime: 2024-02-15T19:19:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/congress-ai-legislation-healthcare-wyden-mcmorris-rodgers"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Hartford HealthCare launches Center for AI Innovation in Healthcare"
+    excerpt: "HARTFORD, Conn., Feb. 19, 2024 /PRNewswire/ -- Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare. The Center is the first of its kind in New England, and one of only a few in the United States."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hartford-healthcare-launches-center-ai-innovation-healthcare-/2024/02/20/9964521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "mmhLa19ZL0ukRzKVldT+mlxRqzF9ul48D6/m78z08T1IsSYc2t+j+Nzo2v8fhRT+3SgHv4afHJJLH9ZapI1VErOvq6TtKuA6tAn4gUg3y2/h+xx3bHm474Gh5FF/fZZokZFOrDxfMYh43t2CiwlBTCOphcbS5apzkV9JXn7FTCBfoWgDtWVB9iwFsJealfv5PZNGh7tBUuqvCWEBrqvgoJJWuGDAxgMDpT0B4ImhNdClW8lRD+Z0cji+wK5/OjvKozDleidfrmafC2HJUIaAjePC4Nj01BP/c6vpDrudLVhBnbpKjO856MOMsgdLZtcE0Qu67iZp7ciA2P6JFQdwEfbDbEgDdwyBFOYg+sjAtFg=;RsvUKAkT5ttr1dIWYrUkag=="
 ---

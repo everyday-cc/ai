@@ -2,6 +2,270 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-02-12-ai-will-boil-the-oceans.md",
+      "title": "AI Will Boil The Oceans",
+      "excerpt": "My article, “AMD And Nvidia Will Boil The Oceans ” got a lot of attention, and now Sam Altman, CEO of OpenAI, has confirmed that by reportedly looking for $7 trillion dollars to go to the next level in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "originalUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/637def592ce2893446588243/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/12/ai-will-boil-the-oceans/amp/",
+      "publishedDateTime": "2024-02-12T15:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire.md",
+      "title": "AI field trips and why we should stop setting self-driving cars on fire",
+      "excerpt": "This morning, we have an interesting mix of stories that bring technology, politics and AI together in unique ways that's well worth diving deep into.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "originalUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1497020096.jpg?resize=1200,741",
+          "width": 1200,
+          "height": 741,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/12/ai-field-trips-and-why-we-should-stop-setting-self-driving-cars-on-fire/amp/",
+      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "CloudCADI-A One-Stop Cloud FinOps Product is Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Amadis specializes in Cloud FinOps, offering targeted solutions to optimize customers' cloud spend. Their product CloudCADI [Cognitive and Actionable Data Insights] enables enterprises to SPEND RIGHT on cloud with key features like, Cloud-Native Development using Platform-Based Observability Components.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cloudcadi-a-one-stop-cloud-finops-product-now-/2024/02/12/9960895.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-non-disruptive-sap-erp-modernization-on-ibm-power.md",
+      "title": "Non-disruptive SAP ERP modernization on IBM Power",
+      "excerpt": "IBM® offers a choice of hybrid cloud options, and is the only IaaS provider offering SAP-certified instances on Power and Intel x86.\nThe post Non-disruptive SAP ERP modernization on IBM Power appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
+      "originalUrl": "https://www.ibm.com/blog/non-disruptive-sap-erp-modernization-on-ibm-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T14:42:46Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-onetrust-enhancements-accelerate-ai-adoption-enable-responsible-data-use-and-automate-compliance.md",
+      "title": "OneTrust Enhancements Accelerate AI Adoption, Enable Responsible Data Use, and Automate Compliance",
+      "excerpt": "OneTrust, the market-defining leader for trust intelligence, today announced its newest platform features that make it easier for customers to govern their use of artificial intelligence (AI) and accelerate AI innovation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/12/9960763.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.md",
+      "title": "AI frenzy puts Nvidia briefly ahead of Amazon in market value",
+      "excerpt": "At a record high of $734.96, Nvidia was worth $1.82 trillion in market value, compared to $1.81 trillion for retail giant Amazon.com and a few billions away from Google-owner Alphabet’s $1.87 trillion, according to LSEG data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104531689-GettyImages-466600564-jen-hsyn-huang.jpg?v=1707751781",
+          "width": 4000,
+          "height": 2662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/12/ai-frenzy-puts-nvidia-briefly-ahead-of-amazon-in-market-value.html",
+      "publishedDateTime": "2024-02-12T13:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-does-facebook-instagram-have-measures-against-ai-misuse-what-to-know-in-tennessee.md",
       "title": "Does Facebook, Instagram have measures against AI misuse? What to Know in Tennessee",
       "excerpt": "Last Tuesday, the social technology company announced it would begin labeling AI-generated images on Facebook, Instagram and Threads. Currently, if an image is generated using Meta's AI image generator, a watermark appears on the image signaling it has ...",
@@ -467,49 +731,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-12-cloudcadi-a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "CloudCADI- A One-Stop Cloud FinOps Product Is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "BusinessWire India Chennai Tamil Nadu [India] February 12 Amadis Technologies Pvt Ltd today announced the availability of CloudCADI in the Microsoft Azure Marketplace the Microsoft online store that p",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274123695/cloudcadi--a-one-stop-cloud-finops-product-is-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/M2ZlODBlZmQtNjY.jpg",
-          "width": 630,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
       "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
       "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
@@ -949,248 +1170,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-new-ai-feature-in-instagram-coming-soon-heres-what-it-will-do.md",
-      "title": "New AI feature in Instagram coming soon: Here’s what it will do",
-      "excerpt": "Discover the latest AI feature coming to Instagram and learn how it will enhance your experience on the platform. Find out everything you need to know about this exciting update.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/articleshow/107602791.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107602791,width-1280,height-720,resizemode-4/107602791.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/new-ai-feature-in-instagram-what-you-need-to-know/amp_articleshow/107602791.cms",
-      "publishedDateTime": "2024-02-11T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-up-154-this-magnificent-artificial-intelligence-ai-stock-is-a-screaming-buy-before-it-skyrockets.md",
-      "title": "Up 154%, This Magnificent Artificial Intelligence (AI) Stock Is a Screaming Buy Before It Skyrockets",
-      "excerpt": "The integration of AI into Meta's advertising tools could help ... instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More Faster growth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/11/up-154-this-magnificent-artificial-intelligence-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/764004/gettyimages-1399446122-1200x800-5b2df79.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-facial-recognition-technology-could-be-used-in-hong-kong-to-fight-crime-maintain-national-security-police-chief-raymond-siu-says.md",
-      "title": "Facial recognition technology could be used in Hong Kong to fight crime, maintain national security, police chief Raymond Siu says",
-      "excerpt": "Hong Kong authorities have not ruled out the use of facial recognition technology to fight crime and maintain national security, but the city’s police chief promised that guidelines will be drawn up for the use of personal information gathered by a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/11/facced09-a0d6-40e4-b90c-0d2fbb2aab69_249c8482.jpg?itok=21Wyz9XQ&v=1707641010",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "publishedDateTime": "2024-02-11T08:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-suffolk-expert-says-ai-will-replace-human-coders-in-ten-years.md",
-      "title": "Suffolk expert says AI will replace human coders in ten years",
-      "excerpt": "Mr Applegate works with young people across Suffolk to engage in technology-based activities A Suffolk computer expert is predicting that artificial intelligence (AI) will replace human coders in 10 years time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-england-suffolk-68228209",
-      "originalUrl": "https://www.bbc.com/news/uk-england-suffolk-68228209",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-england-suffolk-68228209.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-suffolk-68228209.amp",
-      "publishedDateTime": "2024-02-11T06:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade.md",
-      "title": "2 Artificial Intelligence (AI) Stocks You Can Buy and Hold for the Next Decade",
-      "excerpt": "The launch of OpenAI's ChatGPT in November 2022 reinvigorated interest in AI and highlighted just how far the technology had come. AI can bolster countless industries, among them healthcare, consumer tech, productivity software, cloud computing, and autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/INTC/pressreleases/23992445/2-artificial-intelligence-ai-stocks-you-can-buy-and-hold-for-the-next-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/c536e8261b08746be8d931c53801221c/%3Furl%3Dhttps%253a%252f%252fmedia.ycharts.com%252fcharts%252fb5123919e28c1adbbbed90b22f2c696f.png%26amp%3Bw%3D700",
-          "width": 720,
-          "height": 473,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T06:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

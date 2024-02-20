@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Penn Engineering Launches First Ivy League Undergraduate Degree in Artificial Intelligence"
-    excerpt: "The University of Pennsylvania School of Engineering and Applied Science has announced the launch of a Bachelor of Science in Engineering in Artificial Intelligence (AI) degree."
-    publishedDateTime: 2024-02-15T18:18:00Z
-    webUrl: "https://www.automation.com/en-us/articles/february-2024/penn-engineering-first-ivy-league-degree-ai"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 31
-    images:
-      - url: "https://www.automation.com/getmedia/8b2a1848-31d1-473e-b5dc-1fd9b763f99e/Penn-state-news-Feb-15-2024-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Penn to become first Ivy League to offer AI degree, looks to ‘train the leaders’ in emerging field"
     excerpt: "Along with those required courses, students will also have to learn the ethics of AI and what it can be used for. “There’s a couple of different courses that students could choose from ranging from ethical algorithm design to a course that’s taught ..."
     publishedDateTime: 2024-02-16T10:30:00Z

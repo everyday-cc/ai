@@ -165,6 +165,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
+      "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
+      "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d249717feeada5f565af34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1326,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "publishedDateTime": "2024-02-18T20:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-17-a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip.md",
       "title": "A robot sommelier spilled wine on my pants. Then it asked for a tip",
       "excerpt": "But, given the times in which we live, this particular inducement felt entirely irresistible: \"Wine Tasting With Robot Sommelier.\" Also: Worried about AI gobbling up your job? Start doing these 3 things now That's what the sign on the street said and it ...",
@@ -1251,49 +1303,6 @@
       "provider": {
         "name": "The Cullman Times",
         "domain": "cullmantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-best-robot-vacuums-for-pet-hair-in-2024-according-to-pet-owners.md",
-      "title": "Best robot vacuums for pet hair in 2024, according to pet owners",
-      "excerpt": "The iRobot Roomba j7+ is designed with dog owners in mind. This smart vacuum ... It can be controlled directly from your smartphone. Lefant's M210 robot vac features built-in, anti-collision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuums-for-pets/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuums-for-pets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png?v=2a01790210e495d24a119503c08f840d",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-09T10:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
-excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
-publishedDateTime: 2024-02-20T00:00:00Z
-originalUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
-cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
+publishedDateTime: 2024-02-20T10:19:00Z
+originalUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: winnipegsun
+  domain: winnipegsun.com
 
 topics:
   - AI in Autos
@@ -100,6 +100,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
+    excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
+    publishedDateTime: 2024-02-20T17:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -123,16 +137,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
-    excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."
-    publishedDateTime: 2024-02-15T18:29:00Z
-    webUrl: "https://www.biometricupdate.com/202402/met-police-nab-45-people-with-facial-recognition-deployments-coming-to-lincolnshire"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 12
 
-secured: "MMYKJ5p2/3jKhX8xfd7aE3F8NIwhiYH9DFNM/kClULOvCuebpaO969sQ88Rccv+nv+Jung1DPvnQEHDVsTGiIgw9KacJMkcYFl7MQXdJksIhUPyqr9JnRu+9g9HT28maF9VR+xa0hF3nISx7wjDdPOPEF9Uj5F/sjzPiklmPVakoxOdqy3xcF42GGqdmsyAHpA+I9dXuZ/BQOgxudgMcYU9BJkgug6BDKtuO2NPcapC5SPNbhp7/6HGWA8IVi9kFL+BuHqNMVv0Yuof0QDJIUGBirT6q1evLksYVESpbRk816GHXq04OK3/cFrck7CfX9qdcgh1QudfeYGm3DlQJQ7RXvvJEGI9yhb3OFjywTXE=;4AuDUTCiyIY8PWGbg/cwjg=="
+secured: "mF+qUhEp0fAGMtdRE1ZM10PFn4xhr3GgxZNPS2xXcUANUr9RduxuYxHBbqhEnowKEGS0VvwSRpGlfK36S1SoGv3nNsyjhJZzCEqIQliRMkpYiqHHBQxPtiRmfeoFpbX7Iw2Atgf4t5bdPa2a/BXYv400sfW9zoEeuC4lRwvcyrQnHm5XNJmD8btNjj6G7t8GWMCMMjxdhiJEZicAzk/cbWKW8TIPucjNL+2zW9OmvqrAytfaKsrXkUcg1cx0e2DUdZUYQU9LPxNmXl3ooFbU/qm8kDi1Z016bHZc5VTz78sqX/cRic37IENE0RDR1cluu/OLQ1WB4GA3x2guriZZfm8VzxC1QgHrgwVfD6aW7RA=;/jWoIckvo95EjN1NJpffJA=="
 ---
 

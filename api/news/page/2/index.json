@@ -2,6 +2,229 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
+      "title": "How real estate listings and potentially jobs are shifting to AI",
+      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
+      "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
+          "width": 1024,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
+      "publishedDateTime": "2024-02-19T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orange County Register",
+        "domain": "ocregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
+      "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
+      "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
+      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
+      "publishedDateTime": "2024-02-19T15:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs.md",
+      "title": "Empowering Small Dreams: The Essence Of A Great AI Solution For SMBs",
+      "excerpt": "For these smaller businesses, the right AI solution isn't merely a tool; it's a partner that helps them dream bigger and reach higher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ab0fa2b3d7aa6801dcd938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
+      "publishedDateTime": "2024-02-19T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
+      "title": "Employing your cloud data warehouse to scale up AI/ML",
+      "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
+      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg",
+          "width": 648,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
+      "publishedDateTime": "2024-02-19T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-19-roboguide-robot-dog-uses-ai-to-assist-the-visually-impaired.md",
+      "title": "RoboGuide robot dog uses AI to assist the visually impaired",
+      "excerpt": "Technologies such as RoboGuide could enable people with visual impairments to more fully navigate and interact with the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/roboguide-robot-dog-uses-ai-assist-visually-impaired/",
+      "originalUrl": "https://www.therobotreport.com/roboguide-robot-dog-uses-ai-assist-visually-impaired/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-massrobotics-returns-as-strategic-partner-for-2024-robotics-summit-expo.md",
       "title": "MassRobotics returns as strategic partner for 2024 Robotics Summit & Expo",
       "excerpt": "MassRobotics will announce Form & Function Challenge winners and host an engineering career fair at the 2024 Robotics Summit & Expo.",
@@ -149,7 +372,7 @@
       "originalUrl": "https://www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -446,29 +669,38 @@
       ]
     },
     {
-      "path": "_news/2024-02-19-chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential.md",
-      "title": "ChatGPT Stock Predictions: 3 Cybersecurity Companies the AI Bot Thinks Have 10X Potential",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With artificial intelligence becoming increasingly ingrained in our daily",
+      "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
+      "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
+      "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-cybersecurity-companies-the-ai-bot-thinks-have-10x-potential-1033078342",
+      "webUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
+      "originalUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 113,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d249717feeada5f565af34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1326,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T20:26:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/",
+      "publishedDateTime": "2024-02-18T20:07:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -484,8 +716,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -995,247 +1227,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-openai-hits-80-billion-valuation-ceo-altman-eyes-ai-chip-manufacturing.md",
-      "title": "OpenAI hits $80 billion valuation, CEO Altman eyes AI chip manufacturing",
-      "excerpt": "OpenAI hits $80B valuation, ventures into AI chips and unveils Sora, a video-gen service, amid AI tech exploration and safety measures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T22:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-reddit-is-licensing-content-to-an-unnamed-ai-company.md",
-      "title": "Reddit Is Licensing Content to an Unnamed AI Company",
-      "excerpt": "The moves comes after Reddit irked developers by charging for access to its API, in part because large language models were scraping its content.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company",
-      "originalUrl": "https://www.pcmag.com/news/reddit-is-licensing-content-to-an-unnamed-ai-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03Hyh2PyimAsnt28T5jQSB3-1.fit_lim.size_1200x630.v1708196194.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-17T18:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-british-business-needs-ai-workers-and-fintechs-are-no-different.md",
-      "title": "British Business Needs AI Workers And Fintechs Are No Different",
-      "excerpt": "Scott Galloway said \"you are not going to lose your job to AI, you are going to lose your job to someone who uses AI better than you do\" and this is true in fintech too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
-      "originalUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d0e9645eedf8898b975311/0x0.jpg?format=jpg&crop=2911,1636,x31,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
-      "publishedDateTime": "2024-02-17T17:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare.md",
-      "title": "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?",
-      "excerpt": "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,",
-      "sourceUrl": null,
-      "webUrl": "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/",
-      "originalUrl": "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1",
-          "width": 361,
-          "height": 203,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/",
-      "cdnAmpWebUrl": "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/",
-      "publishedDateTime": "2024-02-17T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip.md",
-      "title": "A robot sommelier spilled wine on my pants. Then it asked for a tip",
-      "excerpt": "But, given the times in which we live, this particular inducement felt entirely irresistible: \"Wine Tasting With Robot Sommelier.\" Also: Worried about AI gobbling up your job? Start doing these 3 things now That's what the sign on the street said and it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "originalUrl": "https://www.zdnet.com/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d80ab52e6141c7b07cad2aae7066d1c35a96baba/2024/01/22/b2a020a3-e581-499f-985f-ccd57c41352d/img-2350.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/",
-      "publishedDateTime": "2024-02-17T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

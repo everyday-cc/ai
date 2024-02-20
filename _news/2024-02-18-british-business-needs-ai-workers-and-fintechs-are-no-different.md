@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,34 @@ images:
     isCached: true
 
 related:
+  - title: "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing."
+    publishedDateTime: 2024-02-20T13:41:00Z
+    webUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 61
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg"
+        width: 2308
+        height: 1299
+        isCached: true
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
     excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
     publishedDateTime: 2024-02-19T12:39:00Z

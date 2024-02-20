@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Lawmakers explore how artificial intelligence can boost care for vets"
-    excerpt: "Lawmakers questioned VA officials on best practices for employing artificial intelligence technology to improve health care and benefits."
-    publishedDateTime: 2024-02-15T19:00:00Z
-    webUrl: "https://www.marinecorpstimes.com/news/your-military/2024/02/15/lawmakers-explore-how-artificial-intelligence-can-better-assist-vets/"
+  - title: "House Republican urges VA to get consent from veterans before using AI for health care"
+    excerpt: "Rep. Matt Rosendale urged the Department of Veterans Affairs on Thursday to obtain patient consent before using artificial intelligence as a clinical tool for the diagnosis and treatment of medical conditions."
+    publishedDateTime: 2024-02-15T23:08:00Z
+    webUrl: "https://www.stripes.com/veterans/2024-02-15/veterans-affairs artificial-intelligence health-care-13017012.html"
     type: article
     provider:
-      name: Marine Corps Times
-      domain: marinecorpstimes.com
-    quality: 39
+      name: Stars and Stripes
+      domain: stripes.com
+    quality: 33
     images:
-      - url: "https://www.marinecorpstimes.com/resizer/WkYlexKSR38mHYvfsYQguy886OY=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CXCQO4ZDXVBEFJZTMMPUVQ2KMQ.jpg"
-        width: 1024
-        height: 632
+      - url: "https://www.stripes.com/incoming/lm762g-va-health-records.jfif/alternates/LANDSCAPE_480/VA%20health%20records.jfif"
+        width: 480
+        height: 299
         isCached: true
 
 secured: "YmjYEtqG9H+xztw9p7qKTYN/VAWnJxq+ugnfPIYQFD8mPdTrLfFk0/RE+ykmHvQc0Wg1Jw4zTS/ecQt9t+qqkueuarsnmu5nvQzMcoM+NupB4aHEWAlV+7Fra+Dqvz25oja4hiUNVAJjJscCEyG0/1lXzelR5VmTAMQolvjhykQnItNOs9Az1MdzWSPOuX756IqZY+I232BOgUOXIFBZDHSa/suk3koZELKgcAvTMrkm/jFzW4fdc+kq9tETJ1dR8gQlseXsGfI1JTJeef4pzKstLyO2EIbcty0WvGWCWLPCh3gOqRXReT2fgQPBtAOc0L8/y1sn/dKZD9O85ogSN39Guh20j2Jt7kh8U7A+KnE=;62ktCjzdFGEYYqTDG28zhw=="

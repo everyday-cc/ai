@@ -25,6 +25,17 @@ images:
     height: 299
     isCached: true
 
+related:
+  - title: "Lawmakers urge VA to tread carefully with AI"
+    excerpt: "The Department of Veteran Affairs’ 2023 inventory of AI use cases listed 100 instances where VA is working to use emerging technologies, with at least 40 of those examples in an operational phase."
+    publishedDateTime: 2024-02-20T13:01:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2024/02/lawmakers-urge-va-tread-carefully-ai/394281/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 19
+
 secured: "FH0zYfqtFXZbOoeXy0GKi/kE5WJlp8E+TxG6sBppWSpoaPYnhaZSXBD7s+qrHhF3srXc4WaEt4yJIuaeOWcLQeEc3rM6uWvbJUEbTyhlQscmqcBAii63dcvVdvXFBJItcQ1ouryZTa21dDEs+HuPjc9fY376K9ZRocXH6NsiAbhWcJ/NHx5vgGarG5OoF2ax5CdJd6zIPbHK/zdOQXJ7sUYRdMurcX88ggmuswlyu2kKjP7HxcqbBn6kzlsiD+w9JaiySznYvPBjHHWTAKoYB5a1tJRssZBEAPBTf6vPiKGwKln3/88dsG+Zses85XRRCaE7haF4W+jw5kbQd1MAAdhmpLI4nB8/a+bXZl8PqVIrMD18VA8CqKoUwRqSTdIEidq8yici/Y4wqjUlA27OmrcmSJzCbH+ZYsjuBfgtVo0UBYDlpKg6iAWFwMBTRLNcDQ4Gf+qfsECn1wfB+Y+L/SHFMZ9EtxpiEvAvkzBmAiCY4otjZmxN4pgAzW5n+EPBodGJOkTKs/GfhXULetmjaw==;0gBbRG78tbmfkZmWXbMq+Q=="
 ---
 

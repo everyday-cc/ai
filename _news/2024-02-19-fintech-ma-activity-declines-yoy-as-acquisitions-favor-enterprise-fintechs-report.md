@@ -35,6 +35,34 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "British AI company Graphcore is trying to sell its accelerator business, perhaps to OpenAI"
+    excerpt: "TechSpot means tech analysis and advice you can trust. Read our ethics statement. The big picture: AI algorithms are spreading rapidly, and the demand for GPUs and other specialized chips designed to accelerate AI workloads is continuously increasing."
+    publishedDateTime: 2024-02-20T13:41:00Z
+    webUrl: "https://www.techspot.com/news/101948-british-ai-company-graphcore-trying-sell-accelerator-business.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 61
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-20-image-18.jpg"
+        width: 2308
+        height: 1299
+        isCached: true
+  - title: "Fin+AI Conference Announces A Groundbreaking Event Focused On The Convergence Of Fintech And AI"
+    excerpt: "Le Méridien, Dania Beach, FL is the Fin+AI 2024 Conference Host Hotel The Fin+AI 2024 Conference Is Redefining Financial Intelligence</"
+    publishedDateTime: 2024-02-20T18:23:00Z
+    webUrl: "https://menafn.com/1107875740/FinAI-Conference-Announces-A-Groundbreaking-Event-Focused-On-The-Convergence-Of-Fintech-And-AI"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145749"
+        width: 416
+        height: 250
+        isCached: true
 
 secured: "h5B4vrTF+lmmVAyODCb76NsKHvgySNXVtojoemiby4cv69DYYmHkLAgBn6btKaOHtoyuUR+W5UE+KSVcJ5alyzlrO8L1knE45Sf8WfCjmVJksqPuiHA3X/dE8LGyfsnI16nuHDuhoTswsjyqIgBGo3zDI97NG8uBibGPDtm3HvoKDsYBFRjNEOi9cfFNB66QGZtRUwT8JxozQYNR73K/wkkHnaJNVMtqFNfj5Hix2MD2egjl2XKJU+fOC2iG96r5+M9zwBqEBk1C5dIEDoNo8401ofm6aoSjGFTcj79n572i9aGzmaM7bnzSCDbyrf/H+H4rVqf55eNoLDzoOR1hfnDSlT34Ne1ObA0cMesocbFtzswpv+Cz3/resdODLbAorsH23fbVeZtqnbnqfQ8aWPCwKXLNfcMa7VDpqOQP4kanbSLyxIfD3T6ZtLUF3NNMQvuDD19Y0gFr9nXz1qzmlGAhujVJUN8NB5U2Va6FpJqLDD9d8GxiOiMracbVIg1IvWgoZiJuk18oIc8ofzAcUw==;R/jfJ3sBl6jG5bx8AC9tOA=="
 ---

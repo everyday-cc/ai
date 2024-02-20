@@ -96,15 +96,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
-    excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
-    publishedDateTime: 2024-02-15T18:50:00Z
-    webUrl: "https://www.techspot.com/news/101896-microsoft-vision-net-9-development-framework-all-about.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
   - title: "Microsoft, IBM, Meta and More Sign AI Election Pact"
     excerpt: "On Friday, 20 technology giants announced they have signed the \"Tech Accord to Combat Deceptive Use of AI in 2024 Elections\" as part of the Munich Security Conference. The accord, the signing of which appears to be a purely symbolic gesture so far ..."
     publishedDateTime: 2024-02-16T00:00:00Z

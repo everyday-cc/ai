@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 685
         isCached: true
-  - title: "OpenAI’s Sora Turns AI Prompts Into Photorealistic Videos"
-    excerpt: "We already know that OpenAI’s chatbots can pass the bar exam without going to law school. Now, just in time for the Oscars, a new OpenAI app called Sora hopes to master cinema without going to film school."
-    publishedDateTime: 2024-02-15T18:15:00Z
-    webUrl: "https://www.wired.com/story/openai-sora-generative-ai-video/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65ce4db5f6a6fe51748b141f/191:100/w_1280,c_limit/021524-business-open-ai-sora-text-to-video.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "OpenAI Sora video footage brought to life by AI-generated sounds"
     excerpt: "OpenAI released a new AI model called Sora that could generate high-resolution video clips from text prompts. But they're all essentially clever silent films. Now ElevenLabs has added background sounds to Sora-created footage."
     publishedDateTime: 2024-02-19T17:26:00Z

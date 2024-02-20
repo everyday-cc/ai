@@ -19,37 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Hartford Healthcare launches new AI center to help with operations"
-    excerpt: "The new artifical intelligence center will be used to improve patient experience and hospital operations, officials said."
-    publishedDateTime: 2024-02-15T17:37:00Z
-    webUrl: "https://www.fox61.com/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
-    ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
-    cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
+  - title: "Opinion: Are artificial intelligence and automation a cure or poison for healthcare?"
+    excerpt: "The allure of automation beckons like a modern-day Terminator saga - a narrative where artificial intelligence and mechanization dance on the precipice of reality and imagination. But amidst the temptation of automation,"
+    publishedDateTime: 2024-02-17T16:00:00Z
+    webUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/"
+    ampWebUrl: "https://highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
+    cdnAmpWebUrl: "https://highschool-latimes-com.cdn.ampproject.org/c/s/highschool.latimes.com/https-dhs-dublinusd-org/opinion-are-artificial-intelligence-and-automation-a-cure-or-poison-for-healthcare/amp/"
     type: article
     provider:
-      name: fox61
-      domain: fox61.com
-    quality: 76
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 67
     images:
-      - url: "https://media.tegna-media.com/assets/WTIC/images/a8f77546-f60e-4fdd-9688-7514cc5133aa/a8f77546-f60e-4fdd-9688-7514cc5133aa_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://i0.wp.com/highschool.latimes.com/wp-content/uploads/2023/08/ai-healthcarephoto.png?resize=361%2C203&ssl=1"
+        width: 361
+        height: 203
         isCached: true
-  - title: "Hartford HealthCare launches Center for Artificial Intelligence Innovation in Healthcare"
-    excerpt: "Hartford HealthCare launched a new Center for AI Innovation in Healthcare, the first of its kind in New England."
-    publishedDateTime: 2024-02-15T17:23:00Z
-    webUrl: "https://www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/"
-    ampWebUrl: "https://www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/news/health/hartford-healthcare-launches-center-for-artificial-intelligence-innovation-in-healthcare/amp/"
+  - title: "VA Can Be a Leader in Healthcare AI, Lawmakers Say"
+    excerpt: "Worthington outlined the VA's six principles for ensuring a measured approach to AI, including that any new AI tools are purposeful, effective, private, equitable, transparent, and accountable. Worthington also emphasized the department's history with technology in healthcare."
+    publishedDateTime: 2024-02-16T00:01:00Z
+    webUrl: "https://www.medpagetoday.com/washington-watch/washington-watch/108771"
     type: article
     provider:
-      name: WTNH
-      domain: wtnh.com
-    quality: 65
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 56
     images:
-      - url: "https://www.wtnh.com/wp-content/uploads/sites/100/2024/02/Hartford-HealthCare-Feb-15-2023.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://assets.medpagetoday.net/media/images/108xxx/108771.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
+    excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=1fc03114-b3ba-58cf-b72e-bae2c1b7a24e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96983&width=1200&height=675&x=1.0E-5&y=0.01509.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Congress tiptoes toward healthcare AI legislation"
     excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
@@ -60,15 +74,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
-  - title: "Hartford HealthCare launches new center to use artificial intelligence in hospitals"
-    excerpt: "Officials said the Center for AI Innovation in Healthcare is the first in CT and one of a few in the U.S., with it used now for scheduling and patient stays."
-    publishedDateTime: 2024-02-16T18:17:00Z
-    webUrl: "https://www.stamfordadvocate.com/recordjournal/article/hartford-healthcare-ai-artificial-intelligence-18668344.php?src=sthplocal"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 28
 
 secured: "/33uWqiP7MFfOSap3me92Lip8x9Wp2JluWH3rIe+R6avM6h9GyURU4D0omKsu/l5tkVzN9JjLf5BVkgZSuPAjI++8Me1m+slvi657OOKLDhNXZU0NwB9+Yy40vYI6dF//gBKJa8r1yPzmSMfb+LO3uvk2y3SsnDOYAKu84xNfWqGY+FeGEjqLPYLybFtOaLRLQ66DdS3hZiNwDrAGeDTJIdwnfQOH9gOtTXILjFJGx8caixtE76tHniMbW1KmJW8zmRV05dd16MY0FDPCCbd4obfnjqlgOVPPBk5tiLA1t18rMlh/j7IHKi+I/D/APmOqviNjIUWGwVsL5Gtxzt1BIXUpTXWOB+jVc7d1CKnueglbJ03N/JlIByL+pZtElDK4uBsuW8hOXeGGgQMA6VNUjMMB6SVfSqbGZgERMqUcgwtZursY6T++HFe4gCI+ndRnGlYhc9FnKO0ydHnjJ8RRrn1hGrq4KImOsfMBiwYz7bz1pd+KAA2ezjNMvyeP85RMEX/Beg6vGZ/JkCItTOddQ==;U4/4PB2jOR6DF+FjnXQABQ=="
 ---

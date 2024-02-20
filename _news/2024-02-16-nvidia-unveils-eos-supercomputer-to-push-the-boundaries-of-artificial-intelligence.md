@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-art
 webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
 type: article
 quality: 61
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -97,20 +97,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
-  - title: "Nvidia's investments in these AI companies sent their stocks soaring"
-    excerpt: "Nvidia shares are up nearly 50% since the start of 2024 and more than 220% in the past year. The company's market cap — which stood at $1.8 trillion as of Thursday midday — recently surpassed that of Amazon ( AMZN) and Alphabet ( GOOG, GOOGL ). Only Microsoft ( MSFT) and Apple ( AAPL) now have a higher valuation than Nvidia."
-    publishedDateTime: 2024-02-15T18:54:00Z
-    webUrl: "https://www.aol.com/nvidias-investments-ai-companies-sent-165359617.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/vxXQGv0fVuz2pCWitPIIig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTE-/https://media.zenfs.com/en/aol_yahoo_finance_433/ef6b94781523ee24d97f5f3afbec7550"
-        width: 1200
-        height: 791
-        isCached: true
 
 secured: "N3/iEJGYxMYYTYFZ1VZBE+lRV5hBwhJ/WFopid9VXxT4oXuBH4ZfdM4CxIja+FITnb6uVeyTk8OQxsHJt0NYepM7rq3Uzhr7ITAJGB1/KEQIMYMmk7hP0LOeduV1MlwN6rY1TE94DRwz6Bk3cwnvJlY+vL1wkrteMW8IaolgX3V5j5PH3IVc7G52k5iKh0HXLT2ON2nuUWGS+TtxGQyJP3MpTod8F/asv39bWRXc8GlUAi1S0kca2x9ZUTjDjoHYEcWzmBpFBBezV2u6iaJhZ+6BKXv/oct65/CdEuc815pHpJnKWDWtdBSxmyW173tpVzpkBSTyIE8zr/YtZPonnikBVwiJIn18/KDoYo6sj9Q=;Rh+yukouMMyU9sY8iOqMcQ=="
 ---

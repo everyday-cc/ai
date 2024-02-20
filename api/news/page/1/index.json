@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
+      "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
+      "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T18:18:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week.md",
+      "title": "Alex Wissner-Gross On The Origin Of AI In Our Venture Class This Week",
+      "excerpt": "In our MIT AI Venture Studio class this week, we had Alex Wissner-Gross, a computer scientist with a lot of experience in innovation who can claim MIT as his alma",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4e6ce6dbc4ba4fbb4a575/0x0.jpg?format=jpg&crop=959,539,x0,y192,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/amp/",
+      "publishedDateTime": "2024-02-20T17:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-retrieval-augmented-generation-rag-the-open-book-test-for-generative-ai.md",
       "title": "Retrieval augmented generation (RAG): The open-book test for generative AI",
       "excerpt": "The release of ChatGPT in November 2022 marked a groundbreaking moment for AI, introducing the world to an entirely new realm of possibilities created by the fusion of generative AI (genAI) and machine learning foundation models, or large language models (LLMs).",
@@ -54,6 +148,57 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions.md",
+      "title": "How AI Helps Employers Screen Candidates, Manage Staff And Make Hiring And Firing Decisions",
+      "excerpt": "Artificial intelligence is ubiquitous in the interviewing and hiring process, and managers can make better and more informed decisions about their staff and promotions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4ca166995204ec823cdea/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1036,
+          "height": 691,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2024/02/20/how-ai-helps-employers-screen-candidates-manage-staff-and-make-hiring-and-firing-decisions/amp/",
+      "publishedDateTime": "2024-02-20T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-availity-issues-statement-of-principles-on-artificial-intelligence-in-healthcare.md",
       "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
       "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
@@ -62,7 +207,7 @@
       "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -234,6 +379,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing.md",
+      "title": "Samsung and Arm's Latest AI Chip Collaboration: A New Era for Mobile Computing",
+      "excerpt": "Arm Holdings' value skyrockets to $130 billion amid AI boom, despite recent 8.39% share price dip. This partnership, built on a long history of millions of devices featuring Arm CPU intellectual property on Samsung’s process nodes, aims to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "originalUrl": "https://www.benzinga.com/news/24/02/37218987/samsung-and-arms-latest-ai-chip-collaboration-a-new-era-for-mobile-computing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/ARM_1.png?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37218987",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987",
+      "publishedDateTime": "2024-02-20T13:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity.md",
       "title": "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity",
       "excerpt": "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI.",
@@ -388,6 +576,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-20-ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman.md",
+      "title": "AI regulation will be required in 5-10 years: DeepMind's Mustefa Suleyman",
+      "excerpt": "Suleyman stressed the importance of regulating AI to prevent misuse of information and its impact on nation states.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/ai-regulation-will-be-required-in-5-10-years-deepminds-mustefa-suleyman/articleshow/107852032.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-9502,msid-107852095/mustefa-suleyman.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/policymakers-regulators-must-think-of-regulating-ai-in-5-10-years-deepminds-mustefa-suleyman/amp_articleshow/107852032.cms",
+      "publishedDateTime": "2024-02-20T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-making-cloud-infrastructure-programmable-for-developers.md",
       "title": "Making cloud infrastructure programmable for developers",
       "excerpt": "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes.",
@@ -490,7 +721,7 @@
       "originalUrl": "https://www.zdnet.com/article/this-new-ai-tool-from-adobe-lets-you-chat-with-your-pdfs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -960,229 +1191,6 @@
         "IBM AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai.md",
-      "title": "How real estate listings and potentially jobs are shifting to AI",
-      "excerpt": "While your next real estate agent probably won’t be a robot, smart machines “will likely revolutionize the back-end operations of the real estate market,” one observer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "originalUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2024/02/OCR-L-AI-realestate-0218-01.jpg?w=1024&h=643",
-          "width": 1024,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/02/19/how-real-estate-listings-and-potentially-jobs-are-shifting-to-ai/amp/",
-      "publishedDateTime": "2024-02-19T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-now-that-artificial-intelligence-can-clone-voices-video-game-actors-must-weigh-their-options.md",
-      "title": "Now that artificial intelligence can clone voices, video game actors must weigh their options",
-      "excerpt": "Some video game voice actors are willing to lend their voices to AI voice cloning technology, but concerns linger over fair compensation and fair use of their auditory likeness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
-      "originalUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451d7a28-5ceb-42ad-b0e1-c8f9bd7377b7/b53347c0-06fb-4863-9de7-c0ae58861e24/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/artificial-intelligence-clone-voices-video-game-actors-weigh-options.amp",
-      "publishedDateTime": "2024-02-19T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs.md",
-      "title": "Empowering Small Dreams: The Essence Of A Great AI Solution For SMBs",
-      "excerpt": "For these smaller businesses, the right AI solution isn't merely a tool; it's a partner that helps them dream bigger and reach higher.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ab0fa2b3d7aa6801dcd938/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2024/02/19/empowering-small-dreams-the-essence-of-a-great-ai-solution-for-smbs/amp/",
-      "publishedDateTime": "2024-02-19T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-employing-your-cloud-data-warehouse-to-scale-up-aiml.md",
-      "title": "Employing your cloud data warehouse to scale up AI/ML",
-      "excerpt": "AI can unlock the power of enterprise data, providing companies can get it to the right place in the right state",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
-      "originalUrl": "https://www.theregister.com/2024/02/19/employing_your_cloud_data_warehouse/?td=rt-9bq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/05/17/cloud_shutterstock.jpg",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2024/02/19/employing_your_cloud_data_warehouse/",
-      "publishedDateTime": "2024-02-19T14:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-roboguide-robot-dog-uses-ai-to-assist-the-visually-impaired.md",
-      "title": "RoboGuide robot dog uses AI to assist the visually impaired",
-      "excerpt": "Technologies such as RoboGuide could enable people with visual impairments to more fully navigate and interact with the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/roboguide-robot-dog-uses-ai-assist-visually-impaired/",
-      "originalUrl": "https://www.therobotreport.com/roboguide-robot-dog-uses-ai-assist-visually-impaired/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

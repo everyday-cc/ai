@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google DeepMind alumni unveil Bioptimus: Aiming to build first universal biology AI model"
+    excerpt: "Today the Paris-based Bioptimus, which plans to build the first universal AI foundation model for biology, emerged from stealth with $35M."
+    publishedDateTime: 2024-02-20T14:17:00Z
+    webUrl: "https://venturebeat.com/ai/google-deepmind-alumni-unveil-bioptimus-aiming-to-build-first-universal-biology-ai-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-08.57.21-A-panoramic-detailed-image-showcasing-the-different-scales-of-biology-in-a-seamless-transition.-The-image-begins-with-a-magnified-view-of-molecules-.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
   - title: "Google DeepMind Unveils Gemini 1.5: 5 Key Highlights the Latest LLM"
     excerpt: "Google's Gemini 1.5, the newest addition to its Large Language Models, brings enhanced processing capabilities and multimodal understanding."
     publishedDateTime: 2024-02-16T06:44:00Z

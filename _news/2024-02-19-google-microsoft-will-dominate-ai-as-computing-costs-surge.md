@@ -84,15 +84,6 @@ related:
         width: 1199
         height: 674
         isCached: true
-  - title: "Microsoft's vision for .NET 9 development framework is all about AI and cloud"
-    excerpt: "A few months after officially launching .NET 8, Microsoft is now preparing for the next generation of its open-source development platform. .NET 9, scheduled to arrive"
-    publishedDateTime: 2024-02-15T18:50:00Z
-    webUrl: "https://www.techspot.com/news/101896-microsoft-vision-net-9-development-framework-all-about.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 63
   - title: "OpenAI introduces AI model that turns text into video"
     excerpt: "Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday. The software, called Sora, is currently available for red teaming,"
     publishedDateTime: 2024-02-16T10:05:00Z

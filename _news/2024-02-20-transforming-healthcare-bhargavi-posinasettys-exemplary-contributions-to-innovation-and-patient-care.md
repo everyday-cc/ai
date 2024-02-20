@@ -57,6 +57,24 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Congress tiptoes toward healthcare AI legislation"
+    excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
+    publishedDateTime: 2024-02-15T19:19:00Z
+    webUrl: "https://www.modernhealthcare.com/politics-policy/congress-ai-legislation-healthcare-wyden-mcmorris-rodgers"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
+  - title: "Hartford HealthCare launches Center for AI Innovation in Healthcare"
+    excerpt: "HARTFORD, Conn., Feb. 19, 2024 /PRNewswire/ -- Seeking to harness the transformative power of Artificial Intelligence (AI) to safely enhance patient care, Hartford HealthCare has unveiled its Center for AI Innovation in Healthcare. The Center is the first of its kind in New England, and one of only a few in the United States."
+    publishedDateTime: 2024-02-20T13:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-hartford-healthcare-launches-center-ai-innovation-healthcare-/2024/02/20/9964521.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "5s19s7Ab6Dai8d0Q/nJq9WSHSMG2pPDJZCjMN0IM+kY2goqMSG8AtXp8OwiJV9z/7m50SGe1eiuQMbpUP5oy8DGhjzaI401VVBs+YBxaeaKqo50ip1tMIHd4GrIogB1hJxyYQgtvTRt8BJe8JsDXU17zaUM6yeohTO8AyZSX7nQOrfAhl4D2yGkWbTMdlLyinATfhPsa643cEA+siVwz4O0C/D88EQyfMVvFsM4PbmiFg+NIZ3weTp8I4dnagERhEUGgrd3iXUdTON36Mu+Lt6nXQBaZAJwgXIy6RE7V95CfRhMGiXdzSnYNZTQF3eY7yYD05HIZOagprcUz6rl3m+IXg6ErjNWOH0UBXlRFU1Q=;0fe+asUG+Ue8jWZFYgbK6Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964847.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study: Majority of health care systems lag in AI policies"
-    excerpt: "A new report from the Pittsburgh-based Center for Connected Medicine and KLAS Research finds that a majority of health care systems and hospitals have yet to develop detailed policies surrounding the use of artificial intelligence."
-    publishedDateTime: 2024-02-15T17:18:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2024/02/15/center-for-connected-medicine-ai-governance-policy.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-    images:
-      - url: "https://media.bizj.us/view/img/12692220/robertbartmd*1200xx2392-1348-0-483.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Interoperability is not AI"
     excerpt: "But interoperability is not AI. John Ameriks, head of Vanguard’s Quantitative Equity Group, explains the rationale behind dataset selection and how the group has been using machine learning. Research management system providers are building on their AI capabilities using LLMs to improve the research process, but challenges remain."
     publishedDateTime: 2024-02-19T04:57:00Z

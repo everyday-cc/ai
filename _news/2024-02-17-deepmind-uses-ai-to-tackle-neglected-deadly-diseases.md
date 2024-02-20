@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-57582183.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Google DeepMind alumni unveil Bioptimus: Aiming to build first universal biology AI model"
+    excerpt: "Today the Paris-based Bioptimus, which plans to build the first universal AI foundation model for biology, emerged from stealth with $35M."
+    publishedDateTime: 2024-02-20T14:17:00Z
+    webUrl: "https://venturebeat.com/ai/google-deepmind-alumni-unveil-bioptimus-aiming-to-build-first-universal-biology-ai-model/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/02/DALL·E-2024-02-20-08.57.21-A-panoramic-detailed-image-showcasing-the-different-scales-of-biology-in-a-seamless-transition.-The-image-begins-with-a-magnified-view-of-molecules-.webp?w=1200&strip=all"
+        width: 1200
+        height: 685
         isCached: true
   - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
     excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"

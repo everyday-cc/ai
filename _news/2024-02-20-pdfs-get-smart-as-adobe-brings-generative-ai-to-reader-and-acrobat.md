@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You"
+    excerpt: "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations."
+    publishedDateTime: 2024-02-20T17:53:00Z
+    webUrl: "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Adobe's New AI Assistant Is Designed to Read PDFs for You"
     excerpt: "Adobe is getting into the AI assistant game. The assistant, which is rolling out in beta today as a part of Adobe Acrobat and Adobe Reader, is a new tool that \"reads\" through documents and can answer questions related to their content,"
     publishedDateTime: 2024-02-20T14:20:00Z
