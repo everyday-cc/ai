@@ -106,6 +106,15 @@ related:
         width: 2560
         height: 1350
         isCached: true
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
+    quality: 19
 
 secured: "yewmk4gEaDBfqBSOdw6HnCN3OjnNU2GLSXEyr0KpKrx2NkkedbVLlONrP/2q8F5X2qu8ONhbV1Jsy6/+S9gDvoGLKIO0IGu0jd/w8gG5Flsn21sTli1qZvYZueWDCmVH6MBQ1TdSCsK0R7SH0V1ax2pwbkee/dXbnuI/5gs+uBeCTFxUEEFNvJPUtZNBx/cKNBeiCDWG3dvZv1MeXTR021kqGeGbJbpGvV5c3jM4+br1jNZI+wNVvsykyraHG0mjQ1jB2QlL8+PRZ6nF74ZzGOBMUArtpNnAO9TBcsdOUMmqprtt3btxUYEtqRNQkmY6Mi5VsrCf6hfSrXmtdQCWb2f7y2Be3V6Ova6lya2gZLvwGfmesn0Rk/O7S3GOHpExScrvyGEIUVf8yNL0BL/XvQCveVlkax1uctdu8s+suGv3scpvA4PWHLjA/7fSzacy/RCr3+K0KkNqh5XEaa4BOcZpmaGSfGYDnIxWAp1YJiQL9qb9YT36XcGWlzTJ1vdha9Pbd3yF5VOwiRK+5JGPkg==;EkDwq3CD+rjWSQBF9qfd3g=="
 ---

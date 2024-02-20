@@ -143,6 +143,17 @@ related:
         width: 930
         height: 620
         isCached: true
+  - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
+    excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
+    publishedDateTime: 2024-02-20T07:39:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 22
   - title: "Intersphere Enterprises and Icarus Labs: A Fintech Partnership Redefining the Future"
     excerpt: "The dynamic landscape of financial technology is witnessing a pivotal moment with the strategic partnership of Intersphere Enterprises (ISE) and Icarus Labs. This collaboration is an amalgamation of Intersphere’s extensive financial expertise and Icarus Labs’ groundbreaking technological innovation."
     publishedDateTime: 2024-02-16T11:49:00Z

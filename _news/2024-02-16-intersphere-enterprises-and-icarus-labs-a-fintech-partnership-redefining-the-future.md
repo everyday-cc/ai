@@ -157,6 +157,17 @@ related:
         width: 509
         height: 339
         isCached: true
+  - title: "72% fewer Indian fintech startups incorporated in 2023 than in 2021: Report"
+    excerpt: "There have been around 30 acquisition deals in the Indian fintech space in 2023 and 20 out of these were done by large companies with over 1,000 employees or funding of over $50 million"
+    publishedDateTime: 2024-02-20T07:39:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/72-fewer-indian-fintech-startups-incorporated-in-2023-than-in-2021-report-124022000376_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 22
   - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
     excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
     publishedDateTime: 2024-02-15T19:49:00Z

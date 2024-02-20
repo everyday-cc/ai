@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/15/the-2024-buyers-guide-to-industrial-generative-ai/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -111,6 +111,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
+    quality: 19
 
 secured: "6cwFM1y89vrAE6+zzYPFiTq44Fej+zEpZI/F6nQr4RwD2i4mt7a7yLY7c/ntm8A6L2MLZAw7k3mLuxSaSGp7X6m7xHJp5bpeQPvEg7J6j88O+HEmugNBban//Xg39ctPug76xjhlqyU6jxlGEzfMso9dGpxlasduCZWlhrbO/OMNJo/yJicg0Eq50DMUWk25Qt+wcHgPL93U7JgvwDP3X/4P/qgOdUF4XNW59et2+OpMVeCjglaHz/4/slCmX/FyXDbsSW7P1w9msYxyZw423VKtmVUN97YuDR7uYikQkY45EFdLuY5ySB+MesZsBolLIL2iGsrs4LGbZXqBTpo6tGvGsLA4/Msomig35lLKoiNgcbdKzoIhc3bB6fRP0jX2Zm47OnvinFaqXbfj3Rd6eJMrYP7yn7OksHhh9tpt+yFHtHM0mtVGyavGfS3eU470hTkyK6llLxOXMbjUWdtq4EAswZ+l1y28XrexyXGG584BqMqx2ql3Zl0xDcu9pi/T5eBTl/DXcmngaKQK+fJfPQ==;k9JFAejpDo9igyRtJGOm/A=="
 ---

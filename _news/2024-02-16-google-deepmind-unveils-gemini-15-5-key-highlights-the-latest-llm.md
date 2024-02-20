@@ -71,6 +71,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
+    excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
+    publishedDateTime: 2024-02-20T07:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 67
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Mustafa-Suleyman-Twitter-MustafaSuleyman.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "NFbJw/sZBvkpMJAf4nkXoyfYUyuk0rQBndjTQbgcGcGrdjzBVB5mcluaxSCQZqXmtFsHK2VXFxkKiQWQBLRpxFKdl7+lyrjoNqE2o+NXTnQUsAnQfmI6OjmHRPidT/DZXahc3cRcLmSNbdExEuti7zbuJI7qeMP7KZri0jJYhZMstwRSI4M2U6YmTLWzhNCzq89UBRlHQyipaB6jxfWvyHdtgZW/BWMdaDuGbu3JATiKjqw+QWMOav4WCugE9TpfpwLGb3hanecYAXUG7doQpy+6DoFEWBvWPI7sVqjRIJHTFIIs8uQGlLezHPCWmgHYT7AtsGeWbfA0kxFnDyZlV5W7Vrz6Z/Q1iin7FYyH8clagvl5HN1EzV1WglT1H8OQy1K39/nZSDZKx9mU7K3aAaFSRBZDNGXOYWlg7FA8O1pAadNMzAGCqcwecRT/Dc0hkVonOH7K7Vowqy93q31CTgk9I7jaWkf/jy3705jDCawN/OOBsbcGjunefGdrw6ueSR4X6nIFy3FENY/zvU9l7A==;s+h/GQUJ+8enxGJLf1g/JQ=="
 ---

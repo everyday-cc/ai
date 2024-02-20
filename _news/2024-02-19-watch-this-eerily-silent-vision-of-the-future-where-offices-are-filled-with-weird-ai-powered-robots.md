@@ -7,7 +7,7 @@ originalUrl: "https://www.livescience.com/technology/robotics/watch-this-eerily-
 webUrl: "https://www.livescience.com/technology/robotics/watch-this-eerily-silent-vision-of-the-future-where-offices-are-filled-with-weird-ai-trained-robots"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AZmed Secures €15 Million to Shape the Future of Medical Imaging with AI"
+    excerpt: "AZmed plans to help overcome the obstacles doctors encounter when managing increasing workloads and providing timely, accurate diagnoses. In 2019, AZmed's AI software became the first ever to obtain CE marking for fracture detection on X-rays."
+    publishedDateTime: 2024-02-20T08:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964232.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/2342628/AZmed_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Nsn7OJc9rgtQaa3/kvOSrJUKwJqx4mp56de68nmQppUXhe+5QyfsCc2ahywF8MSm+7oTnh6jiUAXlcEzStTo3k6fSwaRyonYQqzf4mU56scDzJeDzBiGx1omRnBXGJAW7zdLuSwMhLPj/jPb2j0nttT4+rWPacfv4I8McSju3vMsmAFtXdVMGAkEexsoHavruYKrvccNAUb1bPDizPqEQIwb2h3+ckNf/jqQqAZPKC4QEdaZ7o1UHuuagoY9ki+HjCF/ttw1FYe0SdsH2ngh7554GAMue8SXPdH7ErPR6ecEewKm7eBdK30+R6E+pblqXAM9N+9nx2a/0uVfJ2QmikYETWdgVTnAKU0TIazGrdi2EI8Fk//LFwmHPkbUTi4tK7NSsKOnBNCoQa8KqosbjhFDi5DeGeegbgVgVpZCHKTuSfpijlB/ecVh0ladmjuEGpAtX4RuM/Fs5n/XIO+VXBT5EGPWuJHvT4l67m9xfxOIhyYCfisTcPYuqLvsr8H76kLj39EHFS25m9ew+CSLHQ==;LksE56mK6tIlC21Ds2/OIw=="
 ---

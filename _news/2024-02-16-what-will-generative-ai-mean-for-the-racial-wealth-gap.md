@@ -107,6 +107,15 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
+  - title: "The Growing Environmental Footprint Of Generative AI"
+    excerpt: "AI runs on power-hungry equipment that uses millions of gallons of fresh water. Policymakers are weighing the costs."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://undark.org/2024/02/20/ai-environmental-footprint/"
+    type: article
+    provider:
+      name: Undark
+      domain: undark.org
+    quality: 19
 
 secured: "M8sXQCx/IankpiEmet50+/2VCT6JHbQMQ/VQKBZeG09sTWOWzRjPdah7oiFwA0sTcYj0rcQQbi8fQ9zkL83TeuzI9GhVlypTSrfJTJYbF8/aS0UXKwcgNZumWRxFr/i0XCUYRBqQ8NVB9fRO0ZNppUh/ZINW4dTgN4Ga0sZazD9hHO8KP2cscUCzMRDhIYNP7X8DotqgUTk8dnSTiRudZrZNMbfn2tmNKOlmM1K+8ZGCcccAimp+40cCDnVCFR/p4Jz1X4A7Uz+t9V4GOSE7LnRVqC7q/HI7GiPbwzGHKWs3oBSFofQOSsNboVHwwoqEbK4/6N7OXuDsqQK6AynQRhLuyB2vLb+sL8hpSOsj1uQ=;rlzu4Y+J5clR12L2vCQl1w=="
 ---

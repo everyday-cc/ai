@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/how-is-india-ramping-up-use-of-
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/how-is-india-ramping-up-use-of-ai-in-the-military-13739544.html/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,17 +38,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
-  - title: "USIBC Launches New Initiative To Align US, India Leadership In AI"
-    excerpt: "India and the US governments signed a pact to connect both countries’ startup ecosystems, particularly in critical and emerging technologies (CET)"
-    publishedDateTime: 2024-02-15T08:35:00Z
-    webUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/"
-    ampWebUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
   - title: "This Indian AI Startup is Bringing LLMs to Your Kitchen"
     excerpt: "India's AI-powered home appliance company that featured on Shark Tank India, recently secured a ₹34 crore seed round at a valuation of ₹143 crore."
     publishedDateTime: 2024-02-19T11:49:00Z

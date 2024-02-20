@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/101910-iphone-16-could-feature-major
 webUrl: "https://www.techspot.com/news/101910-iphone-16-could-feature-major-neural-engine-upgrade.html"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: TechSpot
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The iPhone 16's chip could get a big AI upgrade for generative AI features"
-    excerpt: "Apple's A18 processor, expected to power the iPhone 16 series, is tipped to arrive with a huge increase in AI horsepower."
-    publishedDateTime: 2024-02-15T07:39:00Z
-    webUrl: "https://www.androidauthority.com/apple-iphone-16-a18-ai-upgrade-3414984/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 82
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2023/09/Apple-iPhone-15-Pro-Max_Apple-A17-Pro.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI is the only reason I care about the iPhone 16’s huge A18 chip upgrade"
     excerpt: "A new report claims the A18 chips that will power the iPhone 16 phones will feature big Neural Engine upgrades - what you need to know."
     publishedDateTime: 2024-02-15T11:50:00Z

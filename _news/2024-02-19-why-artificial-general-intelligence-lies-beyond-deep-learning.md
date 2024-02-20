@@ -60,34 +60,6 @@ related:
         width: 1280
         height: 818
         isCached: true
-  - title: "Understanding Artificial Versus Human Intelligence: Academic Minute"
-    excerpt: "Today on the Academic Minute: Daniel Ernst, assistant professor of English at Texas Woman’s University, explains what a platypus has to do with artificial intelligence. Learn more about the Academic Minute here."
-    publishedDateTime: 2024-02-15T08:04:00Z
-    webUrl: "https://www.insidehighered.com/news/quick-takes/2024/02/15/understanding-artificial-versus-human-intelligence-academic-minute"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 24
-    images:
-      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Understanding Artificial Versus Human Intelligence"
-    excerpt: "What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s University’s Daniel Ernst explains. What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s ..."
-    publishedDateTime: 2024-02-15T08:03:00Z
-    webUrl: "https://www.insidehighered.com/podcasts/academic-minute/2024/02/14/understanding-artificial-versus-human-intelligence"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 22
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-05/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "Oc/CPo54Mf56mydNLIl1DdrRp8aGetCRYXnREAOYYfOkkHAXty9DfENyhRUJTHxZW2aVG+zqM5u6ZnU4uS3pFS36yAkaTok2MZaGaP+edxVP3C8IkFrm15703GxXdG264holfxgDFMS3mFxml2lHBRdziPvAqZWqqOtiOZ0Ez8sj238IljBz4Z0VnHTIMEoCH+4fAxdAMO3c6hmDkVq1JqGy3KvjgUhb5A8K1zSR3PedxXd+lmnt25Z5hHgRZ5mqVtDRBiImLHwBqPl+pBLpXz+Lxf/kdmPSzwrppGL179ziy7fCzAH5s5xbuSAhUtAS8RF+/tAP+DCw6wmnVoeNOlxsv7nnAMPs1WKIgX0qpJNkldjgdLs7LI8tOP9HChjuJwGGV44bglHZJZnqDXu5X0Css21a3zoCqD1TD9fIUyYZMZnYGcMm/BXSpHy9IueprADymX1qCW7HLs20TtmTidAlDpfB15lGwMbpRCNhVsbCdUFkRgDg7KsWKR3xBSoZ2AFDdCQWmr0kWX4ydPapgQ==;dwXxzRGWvTr5N9Ed8YMAiQ=="
 ---

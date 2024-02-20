@@ -98,6 +98,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google Gemini 1.5 Pro AI video analysis performance tested"
+    excerpt: "Google has committed to extensive ethics and safety testing in line with AI Principles and robust safety policies. This includes conducting evaluations on content safety, representational harms, and developing tests for the novel long-context capabilities ..."
+    publishedDateTime: 2024-02-20T07:46:00Z
+    webUrl: "https://www.geeky-gadgets.com/how-to-use-gemini-1-5-pro-ai-for-video-analysis/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 41
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/video-analysis-using-Google-Gemini-1.5-Pro-AI-model-.jpg"
+        width: 1280
+        height: 723
+        isCached: true
   - title: "Google AI Chief Touts Ultra Low Resource Machine Translation in Gemini 1.5 Pro Launch"
     excerpt: "Google promotes its latest large language model, Gemini 1.5 Pro, with a case study on low-resource translation using just one book."
     publishedDateTime: 2024-02-19T08:10:00Z

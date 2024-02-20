@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/safety-security/google-ai-cyber-def
 webUrl: "https://blog.google/technology/safety-security/google-ai-cyber-defense-initiative/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
-    excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
-    publishedDateTime: 2024-02-15T08:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/googles-latest-startup-growth-academy-aims-boost-ai-cybersecurity/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
-        width: 5071
-        height: 3381
         isCached: true
 
 secured: "B0Rku/Mo1H43wEJs8o4SnP6mvm4Ko/1a6eQZdQKnDa7ECVgo0PiBqMYoJxouin4jh+6AQpHP+a0b3dGTfJQ4/Rcnest3NbHkqGDjfhsmZ0dIhdJtBF37EK0BRn3JAZOg80aqIpXsnKq7TsBKxCLfAhq2mv1IcJfUH911JxbemXxHoG75PV7FwYcT10o/3DrzpLppaEouQEs5nH96r3N3D1suNlFGM/4qGtvokIM9mhrdqrPTxOgXRXYLUa1q9Wjd7QDdt7/M5za8iMSNZ3qOp8/9SHzvBwrR+76g1FFnIrLs37ahtr64dOMSR0XvLvtXXQEBEEYqPnRfiDiIkGyRjDZr1pLLsJcPJ18GtYZDaSI=;B70dKtlHBUknz5lHIeZM3g=="

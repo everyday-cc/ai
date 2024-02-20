@@ -51,17 +51,6 @@ related:
       name: inc42
       domain: inc42.com
     quality: 39
-  - title: "USIBC Launches New Initiative To Align US, India Leadership In AI"
-    excerpt: "India and the US governments signed a pact to connect both countries’ startup ecosystems, particularly in critical and emerging technologies (CET)"
-    publishedDateTime: 2024-02-15T08:35:00Z
-    webUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/"
-    ampWebUrl: "https://inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/usibc-launches-new-initiative-to-align-us-india-leadership-in-ai/amp/"
-    type: article
-    provider:
-      name: inc42
-      domain: inc42.com
-    quality: 37
 
 secured: "jf3fYsaWp26KU+uP189kvlEx1ERvAhexRifWsrR5rw3rOaTpcq6DOpnddpnsqMesDXa98jgLOmpxgFMlhHsxcNhd+cP1hmpArIzdDIGFoGw61vWR1y7hi8Hq3fk7SJAFiyTD8yJpslRWyvE9sp+vuDje7HX378PsjAajFlX71WlivPyBmdxpNDgmO/XT7oVYIRXwtlzWlIf7yve2oQxykqxkZeUdCOs3Uo8gNJ5/n036g5wviVkpI+GP3SPfeGba5RY9JtE/+cN/OilFGtYObiP/9MSJzXHE+k75QQIN1ePekJE1vOD8ahCEU1UNriSL8hgpQQk3hW8a2dN56fqW2xfRIKwcdTkgErKeONkmMZjdOpASy2XYciKxy08H6EiNFqFk4fneMjNuT7RY9GqFSlwGpKVTZWjJEADqmCyJWoKT89o5jWgqYqDbfD8TluX3PedU9Aa+WBVafq2fqTJuCNLpYE0YSWUfyABK7dZzikVzZYGvbwSKdwFQy/GzHlVI28qh5kptMO9RS/anXFlqcQ==;YjK+CrY/D0B/pT8FvmxC5Q=="
 ---

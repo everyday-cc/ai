@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Google’s latest startup growth academy aims to boost AI in cybersecurity"
-    excerpt: "Google LLC today announced its second growth academy for cybersecurity startups, with this year’s program taking in 17 promising startups across Europe and the U.S. that are using artificial intelligence technology to innovate in the cybersecurity market."
-    publishedDateTime: 2024-02-15T08:01:00Z
-    webUrl: "https://siliconangle.com/2024/02/15/googles-latest-startup-growth-academy-aims-boost-ai-cybersecurity/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/googleaicyberprogram.jpg"
-        width: 5071
-        height: 3381
-        isCached: true
 
 secured: "yiZL6aJfnNcU90AiMxz1srTmps7FrTbf5yxxJjzebaAvdyQfGVj1nEcppuYJuiwkIphugQkX3SUnVzRsW1Jocaei1dWWUd3gRbyIE5iVm+lFWRK19/z4Uo2gFauo3rI6EUeUZDWclI5Qw00THDWudIemBAPidQMZrGL3Z4PkIcTBFlACngU8B4O3k8ZqZI8KQswXKJLa99OUoQcSLWMWsG+lzq3AYSaDIdq0J+W3cmDCZLoikfhonoG66EmB5nbeT0qbm0y0tQIyAqXNlzpE3kurztDeZkW2C92O5myfAD2piYlVJIICX5n9CMjXEvhbL5HVAj/2jZUxurcpCenyzPkr89HiXYz6JScGSEnpafM=;dBsoZXT5QCGguYpOyvsjlg=="
 ---

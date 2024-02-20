@@ -56,34 +56,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Understanding Artificial Versus Human Intelligence: Academic Minute"
-    excerpt: "Today on the Academic Minute: Daniel Ernst, assistant professor of English at Texas Woman’s University, explains what a platypus has to do with artificial intelligence. Learn more about the Academic Minute here."
-    publishedDateTime: 2024-02-15T08:04:00Z
-    webUrl: "https://www.insidehighered.com/news/quick-takes/2024/02/15/understanding-artificial-versus-human-intelligence-academic-minute"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 24
-    images:
-      - url: "https://www.insidehighered.com/modules/custom/ihe_custom/img/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Understanding Artificial Versus Human Intelligence"
-    excerpt: "What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s University’s Daniel Ernst explains. What does a platypus have to do with artificial intelligence? In today’s Academic Minute, Texas Woman’s ..."
-    publishedDateTime: 2024-02-15T08:03:00Z
-    webUrl: "https://www.insidehighered.com/podcasts/academic-minute/2024/02/14/understanding-artificial-versus-human-intelligence"
-    type: article
-    provider:
-      name: Inside Higher Ed
-      domain: insidehighered.com
-    quality: 22
-    images:
-      - url: "https://www.insidehighered.com/sites/default/files/2023-05/ihe-logo-no-wordmark.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "mx0VTgZobU+AzHDLZIRC+rYGb62AHjtLR04ZWnHVsTz6vIvUUdjBQ8pTChh/XfUP4ij1iwIveZ+9eEH559XLWGz/rX8aV+cuyHjCGZbQU96mmy9U/Y/EZ4SF8dEX9BjxNGaKOTAzQM2aT1brEG7cXV86uRpextZDTyWoKZO+tb7UpwxEsd3X+vbCc9E2LfolyX2qK/0P9kwB1ELCj8e5Qp70Pv3Bv2IPvzFVXoYAEa4+GzEZBOWTviEC4E4sz/lACSpnb29ETdu3EoJvrNO8U8T9eHZY1SGYZ6MHdAGKe16NM/KwrXlL8S5hDenfyBlFpDOreAO7kkMau0aRNk/f4LtxEZNxuPlndlpYqtlYAIk=;Jktu0Y6QkS4EZbQL2jmNPg=="
 ---

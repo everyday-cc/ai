@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Nothing special about human mind that can't be reproduced by AI: DeepMind co-founder"
+    excerpt: "AI would be very useful without consciousness and not with it because it will be quite a slippery concept, said Mustafa Suleyman"
+    publishedDateTime: 2024-02-20T07:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/nothing-special-about-human-mind-that-cant-be-reproduced-by-ai-deepmind-co-founder-12310281.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 67
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2024/01/Mustafa-Suleyman-Twitter-MustafaSuleyman.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Google DeepMind Unveils Gemini 1.5: 5 Key Highlights the Latest LLM"
     excerpt: "Google's Gemini 1.5, the newest addition to its Large Language Models, brings enhanced processing capabilities and multimodal understanding."
     publishedDateTime: 2024-02-16T06:44:00Z

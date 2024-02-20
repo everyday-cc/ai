@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-ar
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 28
-  - title: "How health insurers use AI to streamline operations"
-    excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
-    publishedDateTime: 2024-02-15T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-operations-unitedhealth-aetna-oscar-health"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "WDJkW2zNTtGk7qX2GOiW7cR0wCrmZWK0wqoYYsFdg6FgQnrVmDOumhzkbMQaiHyeKJEeVoITXlvTzSg/Eo1BgtZKbi1+utJzYExRUnILXkI5Tnse2IHJKb6hm1gyGTVOAsH+xdyL7KTC5cvRlYp0c8ci+UvBmHiVXwsZwPS6mWmIMC+IGQ2se883AtcDhdHMqetaFJ3n4RnnkLDYWrKgQFX9igF3+zPN6vbI+Qp2/byfUAl6EQsMwcT4MHNfA7lGGOic8SwUU9j9VjzZeG+6FB1ceKTGdfpLQlHstRcuD970wNXL0ixgyqLfxWJTfqIn9ZT+8i6zbWcsTfYRR1ymDR9saElPb3mfEWTQND6svK4KSY+P7fubXoB1EKKSQtDzRm7u9bVvLtN8FYjFJLJcGHm45HVWDFrTedmZkeo3NaQ0xnVTJuidYFGkPpkiFc0ErdXrIUne3bi5KGCluXSJBM6nXFe5h0d+Tre0jij3V9KsGJ7X323iEWgiNxC+/AUytM0ReZNNbv9I88pMQH7z+A==;EP4uej6ikGa25sZou1CbVw=="
 ---

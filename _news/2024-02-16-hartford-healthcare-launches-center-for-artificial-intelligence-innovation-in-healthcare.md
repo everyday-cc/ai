@@ -61,15 +61,6 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 28
-  - title: "How health insurers use AI to streamline operations"
-    excerpt: "Health insurance companies such as UnitedHealthcare, Aetna and Oscar Health are utilizing generative AI to reduce administrative costs and improve customer service."
-    publishedDateTime: 2024-02-15T09:00:00Z
-    webUrl: "https://www.modernhealthcare.com/digital-health/generative-ai-operations-unitedhealth-aetna-oscar-health"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 19
 
 secured: "eyv68eBFhVaeVSP9pLupwxTvXjEKVRwmJHbOuhkylxKRGqg2KdcgiYA65iu9IYH2icarQ7F1KeCbzkwOjUgVHw7eCY2gAQoFeUtYJUdq3Qais6FiHWTN7d/m8hbo3Z1KvTE4ZmqARCxQyxK1PzwgX+8fTx++nvjJdZnKInFFGTF1HJaDO+YSRJXIIpgm1Sll9Da01mBVDq4eEJFHUUIQR8pU5+qOopfE1Jk0KFyXy/Q3TKlw0hQgfED756HUbTYGUpCA6D7XB0Mw1j+zOFl9nxvOvQI5mfT2thWG2pemv3OIcpVRP3mHzJUFRHUqT/KO6a4nwtwUi3bA5f/a8RlpMPVAYZeCIKfHO0jJMbE7cu4=;iQXED2GoniXXe48V+5yDNA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-
 webUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818"
 type: article
 quality: 51
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "My Top 5 AI Stocks"
+    excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
+    publishedDateTime: 2024-02-20T08:25:00Z
+    webUrl: "https://seekingalpha.com/article/4671505-my-top-five-ai-stocks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 37
+    images:
+      - url: "https://media.gettyimages.com/id/1778176333/photo/digital-eye.jpg?b=1&s=170667a&w=0&k=20&c=BWRANR8iHY3-bvgU3JwChDell5OR4izzYAwhiQKHQhY="
+        width: 509
+        height: 339
+        isCached: true
   - title: "Wild vs. Canucks February 19 Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. Quinn Hughes and Matthew Boldy will be two of the most exciting players to keep an eye on when the Vancouver Canucks face the Minnesota Wild at Xcel Energy Center on Monday, February 19 at 2:00 PM ET. Kirill Kaprizov is ..."
     publishedDateTime: 2024-02-18T08:01:00Z
@@ -99,6 +113,6 @@ related:
         height: 600
         isCached: true
 
-secured: "c28gMy0u2wIywJaVf3HGNGKPdBt+M5gdA4wXVk1cwvzA7+tfMSWNBfnISXPMzYdJXRagLNPwqiTnvdHeNy+FOWQa4y7qj3MhvakqhwffBrT/foxK+1Sbo8x1Il2QJAFaHlnGXVBK+LTyUwrxTKCjdrOgIbT4S8qDWS71sPtbO6HdmHnC4gw38ZV+SsUbLKGnGCR+sPUAaBx3E8zZbrj1Ayt/GJY4dksN4iwNCJDvZ3BA7zmnIC5K9UcnUdQl0oaPuzEPpKVK3tmFJAgfdS599eFmzkSUZofT5bfQuhDbesRrODu1fBMkrp6wbvlHRp3ygkmlC+fjd+QgZ9FxbkzKQMTftyd105T1SCSDr97DXfZl5OSqSTTBHewJV2uaHwADywChMSVR2TdgWiQhaHY5OvCrSzd5JgOeiZj3BkJCgnFAoCPr6TTgpO5NMiEvWMIZ6rMi75dX44RKDuIF8rSZ22M+cHcimD0EZUqat7APT2xYIm1z54PCsKa8xfxl4kLsB5XfMTxE9VeWHR2i2NbYrg==;iTqUX44Pua3u8GKp/McVhg=="
+secured: "3UuW7hjXlIysyCRymFl5WqBSKDVx4aylSUth5wSeNSrts8Xs0Xo5A8NDYHX4yb4/A6Y2f968uKUJuYzBcQYpe0dyZr3JQ1F6Erp15Rs/C8xGNqsISH/Dh2fIqLbXv7eibhNEyhxu8bnPdWSzvCcEsGMNzieDy42Vmrq+Qn+6O674mLg8JgJEUmSBrqbWT7bpeZABSzLAeg4ZsqW0uy0SxExFrlUoCyLzY1FtwRos8CluRzIz6dx1EppSD1d+BSjLVxCIVgTZvZ8R9r6SjchTtBq8RWso0FA2nFqGYictEolJgWASGba68EwuORzuFemwFqCAbQSCNKNAe1gwbqYE9p+kgG97bBxK8OSRo5XyXxlt2X5+nGD+PrKFhYzdo7GlOzw/MS937OT6t/uG0ZKpeuiSSidjiH7N6nTeM4Ff9x/FUpdL+/i5GxYj4R7FEtBEcDBkVUxJGT4wKG+S4OB+44yEityotkUJmlUkDh9Jv5ZR7HZu7AYDvvYGwoxq7kL8CNxweI8xFcGvWdrkCNvX1w==;9vwzghEUYQ5N1xEBw6QtvQ=="
 ---
 
