@@ -57,6 +57,38 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "This is when to expect Apple's next-generation Vision Pro 2 headset"
+    excerpt: "Apple's second-generation Vision Pro virtual and augmented reality headset is at least 18 months away from launch."
+    publishedDateTime: 2024-02-20T09:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/articleshow/107849397.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/amp_articleshow/107849397.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/amp_articleshow/107849397.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107849337,width-1280,height-720,resizemode-4/107849337.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
+    excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=1fc03114-b3ba-58cf-b72e-bae2c1b7a24e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96983&width=1200&height=675&x=1.0E-5&y=0.01509.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple Vision Pro: Returning $3,500 Device Over Comfort, Lack of Apps and Price"
     excerpt: "The Apple Vision Pro has now been available for two weeks — and some of Apple’s most dedicated customers are returning the device to get back their $3,500. Also: Apple’s longest-serving product designer retires,"
     publishedDateTime: 2024-02-18T13:45:00Z
@@ -81,6 +113,6 @@ related:
         height: 900
         isCached: true
 
-secured: "1HnKkueVm7cR4lT5WscMvE6BhffCO+aSgI4x/7GOftkiHiQRRJ+Hj20fEBmpUtymM5IH3fT9YKw6fwSYbkSfl7/SaMwip1281FUOCJryUSrP0332wH0aIZiwHQQwtylUlfhdHLzrYSL2G99zN2kFGSdbmAogpym3SWuWbsTy/rshXBKfi899ePrlj1lunvbRyBzbOv/OAtDhMlQFvQ5A5l9WaAXgaTx62YWMxQf3Xsf3kUK34An3t81sUn0lStvk0ftl/R8QBLwSBSk5dSeGLvA+TAIVsuZi28hpP9BoVojLa4y1brIidwi3F9csgDMmyMbZBzAk3DxMsQsTXROijw9UwvXdTeOnoZL661CaB1c=;/lRtnMvcIEjzq+Z7Pj7b0Q=="
+secured: "L7u/2OdglClDTK4uwdyjUcDRX9nUBs8p00sqM2mOJAHNdSLZ1Faj27OSDB3Rnmq1o5mZ0Oc6M8TUew9inI7yvLbPcNK1kme8exMkYvaMhjE7TZhYEVEn536VK6rFgpniSDRlXzrUWOdNvY2EVMknxck4sgZtKGCUAQkeD215jvHLcImslVJGBi996Py+6Tk/nscb4xJ/RO1bGnjm69J9Cl/3h27mSmymFBG3pmq5kbtbmPysNDoUDXOSoenpCiubXipueFx1miybI7k/umUmVELo4+NH0m9OfzoEX8xDIi1OwOJzFeROd4pdpwTLxs/QgzsZEHHHlUGstl+2RZsIukwGAPVK04Dj1uMh7/DkfatT6YvD4ixcMlPfw20pn6QYrprJ2iVsHIS8iQvTFvvs6tOnxvG5ZkThyCyRodqpcXx+009RRwQe5uNDuQtGnlBHB9u5nLzvI31PpN4PC19tq4ro/+BXHMr1fCu74gkNqHGPABv2kMUHCYaGoShfy8HagAf39HYWubvmt2HP61oHQw==;QYuBMkjy32mEjAEpUeOe0A=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-20T05:14:00Z
 originalUrl: "https://www.powermag.com/ais-paradox-in-the-power-sector-unleashing-potential-but-confronting-uncertainty/"
 webUrl: "https://www.powermag.com/ais-paradox-in-the-power-sector-unleashing-potential-but-confronting-uncertainty/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.powermag.com/wp-content/uploads/2024/02/fig3-gecko-robot-grant-town-ai.jpg"

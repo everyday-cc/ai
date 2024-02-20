@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/articles/revolut-launches-ai-feature-t
 webUrl: "https://fintechmagazine.com/articles/revolut-launches-ai-feature-to-protect-against-card-scams"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Revolut Launches AI Feature to Protect Customers from Card Scams and Break the Scammers \"Spell\""
-    excerpt: "Revolut, the UK’s leading fintech with more than 35 million customers worldwide, has today announced the launch of an advanced scam detection feature to help protect customers from card scams. Revolut customers can now experience an added layer of security protection,"
-    publishedDateTime: 2024-02-15T09:05:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/revolut-launches-ai-feature-protect-customers-card-scams-and-break"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 27
-    images:
-      - url: "https://financialit.net/sites/default/files/revolut_26.png"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "4+ksBmXmVSTdXMPWxU/UMZVFXyJ+ZzaSFqu4zmYA2DZn7vXlsOcPMpu3hc5ut7kmUCgq0VM4+BpIbsXy5OplLaB+MnEb3cOrGmE98lvE1CBNyJRUPwAvxvMGnASbuuxNUUrlrCEdVCmJmb5gEsH/jzIq5SdlAwt/MWu6fgXV5IJ08tAR6q1L8kmvaS3lfa1EsfbgUjM5Kx/6M+doEHezoyjbLpzqsmEt/HtAgjDIIe+ZH7qyLO8/8qbYLy9d4V/G8q3a69tp/XJbBXCQ+qAH7A8EEUQVNJuxhhA3vxNjXbZiqnXO/XmVTDAnn0/zyNwhCrYEBXjLbA0gr5oaeu8Scu0xN233Hqs5gix7seRDYTznHybtrW2QgnlxYx+TBmFPFyR+X0CnFIjExIYV6e/p3G90Q9mM+USypPmFN9oSqESZtiRvSnkPXqj9gFqeJ+6r1YZWDyJnYDGQE5OvohKBEFVSYRE4TSM2I9V+y0sAAq1gKKB+5XCvj+WTEKeTZWlAVI3nKJybiRsrWT22JMW2ag==;7ksF5JTsnhOA739VnOReXg=="
 ---

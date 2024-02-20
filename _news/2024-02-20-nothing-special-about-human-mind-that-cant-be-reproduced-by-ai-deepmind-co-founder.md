@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "DeepMind COO on building a responsible future for AI and humanity"
-    excerpt: "The AI community has an obligation to humanity to build AI responsibly. But what does that mean? DeepMind COO Lila Ibrahim shares 3 steps."
-    publishedDateTime: 2024-02-15T09:32:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-coo-on-building-a-responsible-future-for-ai-and-humanity"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F02%2FUntitled-design-3.jpg&signature=463d573ee9ee2d37c82274580114c348"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google DeepMind Unveils Gemini 1.5: 5 Key Highlights the Latest LLM"
     excerpt: "Google's Gemini 1.5, the newest addition to its Large Language Models, brings enhanced processing capabilities and multimodal understanding."
     publishedDateTime: 2024-02-16T06:44:00Z
@@ -88,6 +74,6 @@ related:
         height: 720
         isCached: true
 
-secured: "8LFtbnZZORu65mDqdh6qFPDQLx9kOrQKAx3UbmNANp2gguSomZiJoRvSzQwBSPRXAmOKyLBPyFbc/CvpcD8T1e8ihW4ZmAhH6yh/CYieHXCFZ9qOtMGQld0Gct0J+1AuLwcnuJOSsZGIhpmlq26BAzHe91R9tmpXBwklVxAMTv7v75OabVOlNB0MJxN2UkeC6rqp7RxDOPr81CA1eK63m51j/QFTHBZ4GJJhLp3QeFvJz5HWQn2PJPtC1dykj748wHhNMw5gNKowmUurCD8bWYKeu5YNeV22OgGT2O933/XTWozNidOJdvNx/xWxTd2JKWyPS+zrFLUQ1gu0KYI4nu7XLekKC+8n2a7laAEBmSM=;INTY1vTd3lVmTjfamyvUHw=="
+secured: "uQqktDlfOR0V5ANH+ux8Qb4WPXOdOb4FQcFfc7CHkFRv0EpXEsoEkrcD5ZD4TEVeN/iQli3IATWNRXBuZVSwqnzXHgXvSrOrR+hQIDjpXo9rGjrH/yu0ZtCoSIs87yaO+IOU2XdquUNnz5k2Kyb9YIYyOYIAOqpBdN6GUpHdzKe+JsprObLACr5/d5YtfD/5RuX3l510cW7bV0cP2eQ/liYn6Kt0Yhq2JUlRoylnUv9W6R3qj/8XkV0sDSUBO6nVS1BucSLHlw01HRMurgCdWfooZ23HBdTLkE68TKufv396Th3Qd91oPk9gY7uTUEQnDJFrRuS7OOmSQHPiGcWQD/rbuw/IJZi5YtLzFDQ9kcmN8yzjONIemnffNAx0ZlJp5sFvZ1+MXwQpvtMggfqJ9N6MJQ5zqjxneDqyTV8uvRrwAvEuYH8DN/CpR1KQLzKFGcwx7vJGUZdsh+F7U0ZMxFBxVrKtiA5NWyvS16nizxiuZHJU6QJbyPXecJukvVJ8FdvUh+vdHisnSIa6DtVMVg==;Ag2v7ORj7anGmRJwVkIz/Q=="
 ---
 

@@ -35,22 +35,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Fintech bets on AI to improve loan offerings"
-    excerpt: "Carbon has announced the acquisition of Vella Finance and aims to leverage the fintech’s artificial intelligence (AI)-powered"
-    publishedDateTime: 2024-02-15T10:21:00Z
-    webUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/"
-    ampWebUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 59
-    images:
-      - url: "https://cdn.businessday.ng/2023/04/AI-in-entertainment-.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "h5B4vrTF+lmmVAyODCb76NsKHvgySNXVtojoemiby4cv69DYYmHkLAgBn6btKaOHtoyuUR+W5UE+KSVcJ5alyzlrO8L1knE45Sf8WfCjmVJksqPuiHA3X/dE8LGyfsnI16nuHDuhoTswsjyqIgBGo3zDI97NG8uBibGPDtm3HvoKDsYBFRjNEOi9cfFNB66QGZtRUwT8JxozQYNR73K/wkkHnaJNVMtqFNfj5Hix2MD2egjl2XKJU+fOC2iG96r5+M9zwBqEBk1C5dIEDoNo8401ofm6aoSjGFTcj79n572i9aGzmaM7bnzSCDbyrf/H+H4rVqf55eNoLDzoOR1hfnDSlT34Ne1ObA0cMesocbFtzswpv+Cz3/resdODLbAorsH23fbVeZtqnbnqfQ8aWPCwKXLNfcMa7VDpqOQP4kanbSLyxIfD3T6ZtLUF3NNMQvuDD19Y0gFr9nXz1qzmlGAhujVJUN8NB5U2Va6FpJqLDD9d8GxiOiMracbVIg1IvWgoZiJuk18oIc8ofzAcUw==;R/jfJ3sBl6jG5bx8AC9tOA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech bets on AI to improve loan offerings"
-    excerpt: "Carbon has announced the acquisition of Vella Finance and aims to leverage the fintech’s artificial intelligence (AI)-powered"
-    publishedDateTime: 2024-02-15T10:21:00Z
-    webUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/"
-    ampWebUrl: "https://businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
-    cdnAmpWebUrl: "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/technology/article/fintech-bets-on-ai-to-improve-loan-offerings/?amp=1"
-    type: article
-    provider:
-      name: businessday
-      domain: businessday.ng
-    quality: 59
-    images:
-      - url: "https://cdn.businessday.ng/2023/04/AI-in-entertainment-.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Fintech M&A Activity Declines YoY as Acquisitions Favor Enterprise Fintechs – Report"
     excerpt: "An extensive report has been shared, entitled Financial Fusion: Fintech’s M&A Landscape Unveiled: A guide to fintech M&A and the next wave of deals,"
     publishedDateTime: 2024-02-19T12:39:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-
 webUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818"
 type: article
 quality: 51
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chips, or shares in established companies with long track records of"
     publishedDateTime: 2024-02-19T11:25:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-7-blue-chip-stocks-to-sell-in-february-2024-1033079793"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "3 AI Penny Stocks That Could Lead to a Life of Riches"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Following the meteoric rise of AI stocks in 2023, investors are searching for"
+    publishedDateTime: 2024-02-20T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-penny-stocks-that-could-lead-to-a-life-of-riches-1033082410"
     type: article
     provider:
       name: Business Insider

@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "3 AI Penny Stocks That Could Lead to a Life of Riches"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Following the meteoric rise of AI stocks in 2023, investors are searching for"
+    publishedDateTime: 2024-02-20T10:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-penny-stocks-that-could-lead-to-a-life-of-riches-1033082410"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "My Top 5 AI Stocks"
     excerpt: "2024 is getting off to a hot start. The major averages are up nicely, with the S&P 500 and the Nasdaq composite up by about 5%. Moreover, these advances were over significant gains last year. Thus, it should be a solid year for many high-quality stocks."
     publishedDateTime: 2024-02-20T08:25:00Z

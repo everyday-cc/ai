@@ -51,6 +51,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
+    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 19
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
+        width: 2560
+        height: 1680
+        isCached: true
 
 secured: "gkTN/wWquMwsokvZ+RVgTpekKtCtqgAYRoisfxHs9JM8gfYDv/tJ2HzNRmE5EblKL1vPg+PhiaAb/UoeqBXEX/ejdKnRFnkUM2zfEXRFjG5QfeR/FOPEzSrs0iL6pY2b4NL9iJWO6ZcB6NqtE9g9/gfpbJUentw3KIPe6h4r3sxK/9xerVn/ujZ/DZ46LSSg/sDE8Jb/ZLZLhgvcnLOVjjeYiHWvcNejQ4re1OKIQlw13dQvF8jliMUnkgaGcYZWlkiKR3NcRJMLthup6955IqJOhjaXeXKaYdbflTMYagNDREHq+bdYZ1Ndw96SAZvS+PN9Sk2TbRsI0N1uHEUrAt2spmMQ1l8/FBrPS7HaSNO551Sj3b3LfyVSDqUitpbEme0uhV4x78LNZQjIQvu24GLS0foh0Bcrq00N3sGVT2ssjJfatgH53KgjouZloq3tCP0D8roEm5a1qcfuXeDGSmG5WWVV0RIIGfg6C3ayN7GZHMyc4QfIWBYQthaRT7TC5Qc4/XdOhed4irl1nIkiVg==;O0Yi2xm23mbNrckq76lH9A=="
 ---

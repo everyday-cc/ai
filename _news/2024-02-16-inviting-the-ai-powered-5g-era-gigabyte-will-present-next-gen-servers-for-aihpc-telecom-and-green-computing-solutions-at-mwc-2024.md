@@ -35,6 +35,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Snowflake to showcase telco AI innovations and enhanced ecosystem partnerships at MWC 2024"
+    excerpt: "on Amazon SageMaker. Snowflake worked with AWS to build GenTwin, an innovative Network Operations solution blending private 5G, generative AI using Amazon Bedrock, and digital twins using AWS IoT TwinMaker to empower industries with unparalleled ..."
+    publishedDateTime: 2024-02-20T04:42:00Z
+    webUrl: "https://menafn.com/1107873730/Snowflake-to-showcase-telco-AI-innovations-and-enhanced-ecosystem-partnerships-at-MWC-2024"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2024-02/20/pr_13835_f8a80d87_image_story.jpg"
+        width: 1200
+        height: 1392
+        isCached: true
   - title: "Eyefactive Presents Two World Firsts At ISE 2024 In Barcelona"
     excerpt: "Eyefactive Presents Two World Firsts at ISE 2024 in Barcelona eyefactive, a leading provider of touchscreen software and technologies, is"
     publishedDateTime: 2024-02-15T17:11:00Z

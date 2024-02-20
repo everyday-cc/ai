@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Welcome to the Era of Mobile AI"
+    excerpt: "One of the most welcomed AI features is Circle to Search with Google, an incredible new tool for intuitive discovery. Our communication tools for removing language barriers, such as Live Translate, Chat Assist and Interpreter, have captured the imagination ..."
+    publishedDateTime: 2024-02-20T10:33:00Z
+    webUrl: "https://www.albawaba.com/business/pr/welcome-era-mobile-ai-1553928"
+    ampWebUrl: "https://www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/welcome-era-mobile-ai-1553928"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2024-02/TM%20Roh_Editorial.jpg?itok=Ir3q2Fow"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
     excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
     publishedDateTime: 2024-02-18T23:49:00Z
@@ -71,20 +87,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/graphcore.jpg"
         width: 500
         height: 261
-        isCached: true
-  - title: "Chief Technology Officer appointed to advance Q-Bot’s use of robotics and AI in social and private housing"
-    excerpt: "John Burley joins Q-Bot from CMR Surgical to advance the use of robotics, digital and AI in the retrofit and construction sectors Q-Bot, the technology compa"
-    publishedDateTime: 2024-02-15T09:54:00Z
-    webUrl: "https://bdcmagazine.com/2024/02/chief-technology-officer-appointed-to-advance-q-bots-use-of-robotics-and-ai-in-social-and-private-housing/"
-    type: article
-    provider:
-      name: bdcmagazine.com
-      domain: bdcmagazine.com
-    quality: 51
-    images:
-      - url: "https://bdcmagazine.com/wp-content/uploads/2024/02/John-Burley-Q-Bot-CTO-scaled-e1707990805587.jpg"
-        width: 1920
-        height: 1390
         isCached: true
   - title: "China must embrace new era of AI revolution"
     excerpt: "The artificial intelligence leader OpenAI has unveiled a new AI model named Sora, which it asserts can generate \"realistic\" and \"imaginative\" 60-second videos based on brief text prompts."

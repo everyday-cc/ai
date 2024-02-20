@@ -6,8 +6,8 @@ publishedDateTime: 2024-02-20T08:00:00Z
 originalUrl: "https://www.businessinsider.com/bioptimus-new-ai-powered-bioscience-startup-raises-cash-top-funds-2024-2"
 webUrl: "https://www.businessinsider.com/bioptimus-new-ai-powered-bioscience-startup-raises-cash-top-funds-2024-2"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://i.insider.com/65d36837a610a9069d5a6038?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "YPJLIc+dmMeUo0pGlVdgZQ2VlTKzH6cP9E902fx3NkdXuRWG2PUyqf6q5lxSlHqTEMzxzjnOVcrx1tzpvHYJEeA2b2ID5UAbee44huec30jDWMwQ2FkyYOy2VWtJOgPgbDMcKugqcgBmc3Te6eVMKgM6y63dyJEIbdMClez4hl0DAgiusblkgwn88O/enbEi34pWLwHrgMWUm3q7TLzerMj07ukMsKfsL4Ur60iZ0m7Lf5U1n7uvvAKgPsDSF/tpdtuYTbR+XR2x1f93fQ7WFPGDKCuJJnDzkHqRNK96GcKB2d+U8N+I9aVlx3uV4Q9KxoY60W2MICjHRP7xHxOsWHxYf9P3zBjPTwlVISWGxzg=;LSbb46cRKj3uLjlMlCCRNQ=="
+secured: "D7DqCvLyVsvyjoJjFj/VRKSGPHmR7mpdjpObhXt/+GlsFPrjmurmpTM61EXoeGopYdZM6AEZu5GJetopGnWRuo5tJypqOfQKabQ/tmDIIK/Sh2pP5QUp9ymB7CDdKcogOx68+fQJ2y1t8GaCh37vw9NuS8ZYINtIJzINDXPNjoCtY+bLrep0gL6Uw+kV+43UNlJFM/MqaaCI01FEv1gFXui3X5eL5tGHsP9fP6Tz3NJQlcFzNgJLcIzswVZ2TFHvU1d6ntsH/vbT17k4uRKKTr8zAdi6xbaPfJuNwx8OtCN2QFh6lqNgR/UufwjDFeCuF7HYAJpo+pP8xLPJEJrCkbDSfvvl9zJYPndCf1qcp06hzkVRniMgmE+yOhmVih39xN3fxXC1mOgyyaMDVNFPAIeETdR4b1MJRUTpAHAUH+vMZLIAhiObXdG42DwxFIKyrqXEslqubQVndo0xdZIuTmnkLqhhqB0stSz7593Y424o+pWhKPcM8eXXr2cLjnZvQenWinsol+Uyh9jvQxutjg==;Kf9lhDglDGl4RjdCCXzNlA=="
 ---
 

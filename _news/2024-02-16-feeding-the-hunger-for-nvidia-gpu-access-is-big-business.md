@@ -55,6 +55,20 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
+  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
+    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 19
+    images:
+      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
+        width: 2560
+        height: 1680
+        isCached: true
 
 secured: "tbHTyumd9mh6UaBiFjlw0bKLY8HBiEt8tajMS9Q/QFXLcB+mO0qBTRHZJMziSRgr1yErdB2nEI1NQIuR+1tMCJWpFHEH0KMiboi3R3No6+dYtpeNpuKKbVr7T5kEGQ8Ue1SmZNmSgvrzDwfWQ7TE6ERPdGWwnAUQHOfqsiGe+3bT4WbvmkSY8st2oOm5MT515AG+IwSnyQ0kMeJzDb5ynfwCBPo9EgxVLHwaGN8xlOZcudL6Dz0vHpLBb7FxkwkFeTb4lSmbvbCWBiX0PLVRKaRp/RXyFwrXBkgJJk77RPwRoGjG11xfzxzC/faaghfr7pozg1wNE8OAVqPHErKPrOxdFIMfx+cGGMAbv5Cea2U=;ujFHddK25kU++zJ7oFiRKA=="
 ---

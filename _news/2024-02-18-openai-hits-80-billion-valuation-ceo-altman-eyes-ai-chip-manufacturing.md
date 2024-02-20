@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-v
 webUrl: "https://www.gizmochina.com/2024/02/17/openai-hits-80-billion-usd-valuation/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
-    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
-    publishedDateTime: 2024-02-15T09:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Analysis: Why OpenAI's chairman is betting big on this AI frontier"
     excerpt: "OpenAI chairman Bret Taylor knows a thing or two about spotting the next big thing in tech. So when Taylor — whom I got to know during his time as co-CEO of Salesforce ( CRM) — decides to give me a few minutes, let's just say I pick up the phone."
     publishedDateTime: 2024-02-15T17:31:00Z

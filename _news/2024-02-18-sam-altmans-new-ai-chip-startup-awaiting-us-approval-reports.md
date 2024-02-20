@@ -225,6 +225,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 29
+  - title: "Masayoshi Son is 'thinking big for his next move' with AI chip venture - analysts"
+    excerpt: "Masayoshi Son, the founder of SoftBank Group Corp., is reportedly raising up to $100 billion for a new chip venture named Izanagi, aimed at rivaling Nvidia Corp . (NASDAQ: NVDA ) in the AI semiconductor arena, Bloomberg News reported on Friday"
+    publishedDateTime: 2024-02-20T10:35:00Z
+    webUrl: "https://za.investing.com/news/masayoshi-son-is-thinking-big-for-his-next-move-with-ai-chip-venture--analysts-432SI-3016162"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 29
 
 secured: "MQKo4G+LGeD1AEERXUjqbdG0TWHKsdQql+D7E4mX+0JLAQhIL6fLnHfbm0JgAhIJ4RBZmMi4fIjKDG0wc8nGHMEpKy4GwNjCqPNOVdHFHQUS4ZkDayVcrHCbZ0oZZIeu92rNsuE2eUprI+XVGIzDI1h0Yuw/v1NmLVBqIX0U9b1KiPSb9DkIgU30y44Wa/vx7iup1T0VTf08uclOiWmYmkp5l89rUt/eL8NoIW5lm3r6PNSnn+7J/wOrzWkD2RDL2xUmCtKMZ6DO7FFTXUjuIXfZu47yqdfZZMRF5IXYQHoR4TSorG0W79zu3ceRGyZQK/mlEn187TmDrVfHu7uz0I8N/mt1NQJzikvm1EKJufnHLbFe/9B1P4a2KssKjfiRIiaPp3xyVZEk6DkXQ7skTku+HiWYQFZRD3xQc0cSJFDVHvkE638zDBmdUGL8tQ2IX5JNgimryNg2+02ul4ICqxWq8So1+lbF84dRi/7xfc+NaHHb/FqQEwGcMl83mwVqARg9tDTKVyCvyQloSaPp9g==;XApbyutqapXzaz6A6ZvASA=="
 ---

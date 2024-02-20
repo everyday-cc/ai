@@ -53,34 +53,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "iPhone 16's massive AI upgrade leaked — A18 and M4 chips to give massive boost to Neural Engine"
-    excerpt: "Apple is widely expected to unveil its next best iPhone in September, complemented by significant AI upgrades to iOS 18 which should arrive at WWDC 2024. To power all those changes, Economic Daily News reports that Apple’s iPhones, iPads, and MacBooks “will be greatly upgraded.”"
-    publishedDateTime: 2024-02-15T10:58:00Z
-    webUrl: "https://www.imore.com/iphone/iphone-16/iphone-16s-massive-ai-upgrade-leaked-a18-and-m4-chips-to-get-massive-boost-to-neural-engine"
-    type: article
-    provider:
-      name: iMore
-      domain: imore.com
-    quality: 42
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ydPYNpWSkV8H9kf3eekM95-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "iPhone 16 AI could get a big boost from this performance upgrade"
-    excerpt: "The A18 chipset thought to be driving this year's new iPhones could feature an upgraded Neural Engine with more computing cores. This is Apple's label for its neural processing unit (or NPU), which is dedicated to tackling machine learning and AI tasks."
-    publishedDateTime: 2024-02-15T10:47:00Z
-    webUrl: "https://www.tomsguide.com/phones/iphones/iphone-16-ai-could-get-a-big-boost-from-this-performance-upgrade"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/hiLj9XCewu5Sx9NY2ZYKM9-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "iOS 18 To Bring Major AI Features to the iPhone"
     excerpt: "Apple is set to elevate the iPhone experience with the launch of iOS 18, a landmark update that integrates advanced artificial intelligence technologies"
     publishedDateTime: 2024-02-19T08:01:00Z

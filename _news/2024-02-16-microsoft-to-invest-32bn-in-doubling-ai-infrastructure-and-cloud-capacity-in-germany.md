@@ -34,31 +34,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Microsoft UAE to host exclusive ‘Build: AI Day’ event in Dubai to empower developers to accelerate AI innovation"
-    excerpt: "Event will provide attendees with insights on the latest AI developments to accelerate customer innovation, turbocharge developer productivity, and deliver value across industries"
-    publishedDateTime: 2024-02-15T11:02:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/microsoft-uae-to-host-exclusive-build-ai-day-event-in-dubai-to-empower-developers-to-accelerate-ai-innovation-h5f6jgcp?amp=1"
+  - title: "Microsoft will invest $2.1bn in Spain to expand cloud and AI"
+    excerpt: "The focus on AI helped Microsoft briefly hit the $3trn valuation and challenge Apple for the title of the most valuable company in the world. Revenue from the company’s Intelligent Cloud division – which includes Azure – grew by 20pc to $25.9bn."
+    publishedDateTime: 2024-02-20T09:35:00Z
+    webUrl: "https://www.siliconrepublic.com/business/microsoft-ai-investment-spain-cloud-infrastructure-europe"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 54
     images:
-      - url: "https://static.zawya.com/view/acePublic/alias/contentid/ZmVlMGNkODgtNGUzYi00/0/1-jpg.jpeg?f=3%3A2"
-        width: 900
-        height: 601
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-21.jpeg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Microsoft invests $3.43 billion in Germany to expand AI and data centers"
-    excerpt: "Feb. 15 (UPI) --Microsoft announced Thursday it will invest $3.43 billion over the next two years to expand cloud data centers and AI infrastructure in Germany. The funding -- Microsoft's largest investment in Germany to date -- will expand cloud services ..."
-    publishedDateTime: 2024-02-15T09:52:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2024/02/15/Microsoft-Germany-investment-AI-data-centers/5421708004493/"
-    type: article
-    provider:
-      name: UPI
-      domain: upi.com
-    quality: 33
 
 secured: "8M3EU82Nfxkmu87JwWeyaIwiMKBY1+dR8YHlBHAvrIFH/VVNCzL3bnPtSzwHz2bF5bOVZAFAOmAk6Ay5px1v31bU+MHCQQjuMIPvPsgmDvNExv3iPSDvrx/J0+IoCnyswj46xYDxLndtBVhpSlI4RNAV/8NnsB2XmcOeBDvYnn2V9gjNpt2eWpajsWKpzHLogwkZfpbojP2AM29x/0YlHv4tVCLGNrNPMYgujdmhMnl2Zcp1y/GMkS7eTR/v1BpoYsfdgF3TrARZlvsYN34PXdvKhGlGIAcBKZttmfYJnO0NJ1/nFXrE5VE6psY8FPrScC1BovbBCqNMdLao/oSW/I7sQuALCfoTPrk8ao6benU=;la7hIb7udnmxKLU41i94LA=="
 ---

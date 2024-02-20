@@ -55,6 +55,38 @@ related:
         width: 1312
         height: 738
         isCached: true
+  - title: "This is when to expect Apple's next-generation Vision Pro 2 headset"
+    excerpt: "Apple's second-generation Vision Pro virtual and augmented reality headset is at least 18 months away from launch."
+    publishedDateTime: 2024-02-20T09:28:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/articleshow/107849397.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/amp_articleshow/107849397.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/this-is-when-to-expect-apples-next-generation-vision-pro-2-headset/amp_articleshow/107849397.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-107849337,width-1280,height-720,resizemode-4/107849337.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Transforming healthcare: Bhargavi Posinasetty's exemplary contributions to innovation and patient care"
+    excerpt: "This isn't science fiction; it's the power of artificial intelligence (AI) and machine learning (ML) revolutionising healthcare. Exceptional minds like Bhargavi Posinasetty are behind in developing a few of the most technologically advanced and ..."
+    publishedDateTime: 2024-02-20T10:54:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca"
+    ampWebUrl: "https://www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/kt-network/transforming-healthcare-bhargavi-posinasettys-exemplary-contributions-to-innovation-and-patient-ca?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 43
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=1fc03114-b3ba-58cf-b72e-bae2c1b7a24e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.96983&width=1200&height=675&x=1.0E-5&y=0.01509.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple Vision Pro 2 could launch sooner than we all expected"
     excerpt: "With Vision Pro now available for a couple of weeks, the next iteration of Apple's spatial computer might launch sooner than we all realized."
     publishedDateTime: 2024-02-19T11:54:00Z

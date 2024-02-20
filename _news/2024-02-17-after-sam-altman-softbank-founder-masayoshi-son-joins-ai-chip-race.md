@@ -9,7 +9,7 @@ ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-foun
 cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
 type: article
 quality: 74
-heat: 224
+heat: 234
 published: true
 
 provider:
@@ -224,6 +224,15 @@ related:
     provider:
       name: Mint
       domain: livemint.com
+    quality: 29
+  - title: "Masayoshi Son is 'thinking big for his next move' with AI chip venture - analysts"
+    excerpt: "Masayoshi Son, the founder of SoftBank Group Corp., is reportedly raising up to $100 billion for a new chip venture named Izanagi, aimed at rivaling Nvidia Corp . (NASDAQ: NVDA ) in the AI semiconductor arena, Bloomberg News reported on Friday"
+    publishedDateTime: 2024-02-20T10:35:00Z
+    webUrl: "https://za.investing.com/news/masayoshi-son-is-thinking-big-for-his-next-move-with-ai-chip-venture--analysts-432SI-3016162"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
     quality: 29
 
 secured: "Gi6K2mLm5f7eugG0cbA3xOvJ37qACScyvdBy35+lT10Fw4P3ednhk3gQvKbXSSdBfQd83Bcjc7VcZQxpVoo8G5UtaMnY+d+SwNLt3DEjGbbDey+Bp4a0gMxIjewHc55zgalokQFYgTvVU0FsFoV9PMaYIPw+IRPDArLTBMFLRj2f0uvb67IfqwaTvcYk3+jz4yasGq+l+MvvZFLwnV6is7xDPGGalABNS4KLBBEySGq87QvqJifcVyvmMwKlfrYvs5zat9yhYzasQ2kxppTgOJCIve16mntSI59pADL8+eV2ArYqfN7REAZ00udYv47JhSTKyTGtcI35JddTmQaPw5IDc6x5TZ/x/k44f7upN1c=;fMq/TqrKj0QaKQk7xMZ1oQ=="

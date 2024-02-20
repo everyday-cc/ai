@@ -67,6 +67,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
+    excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://www.kcur.org/news/2024-02-20/wyandot-nation-of-kansas-renews-effort-to-to-win-federal-recognition-as-a-sovereign-tribe"
+    type: article
+    provider:
+      name: KCUR 89.3 FM
+      domain: kcur.org
+    quality: 15
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/bac6ea6/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F27%2F9587905e4b1e844e4b5eae499a78%2Fwyandot-judith.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Met Police nab 45 people with facial recognition, deployments coming to Lincolnshire"
     excerpt: "Police in the UK continue to double down on facial recognition use in line with plans to transform their work with the help of technology laid out in 2023."
     publishedDateTime: 2024-02-15T18:29:00Z

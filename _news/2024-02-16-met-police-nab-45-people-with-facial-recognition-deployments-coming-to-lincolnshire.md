@@ -75,6 +75,20 @@ related:
         width: 629
         height: 419
         isCached: true
+  - title: "Wyandot Nation of Kansas renews effort to to win federal recognition as a sovereign tribe"
+    excerpt: "Federal recognition entails the United States acknowledging a tribe as a separate government entity — denoting their right to self-governance. Currently, the U.S. recognizes 574 tribal nations. For the Wyandot Nation of Kansas to join them,"
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://www.kcur.org/news/2024-02-20/wyandot-nation-of-kansas-renews-effort-to-to-win-federal-recognition-as-a-sovereign-tribe"
+    type: article
+    provider:
+      name: KCUR 89.3 FM
+      domain: kcur.org
+    quality: 15
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/bac6ea6/2147483647/strip/true/crop/1920x1008+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F63%2F27%2F9587905e4b1e844e4b5eae499a78%2Fwyandot-judith.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "isdTWW2kHIJZsar4Fh48ULtUciXkUrrUGR4ENUzfpMXMnIqPEF5eTyz5UaqRBlhoqYk55sHazZd8XAKIs5J5yNb2jC5U1absKeG4mGqfKpbhKI6BTr/DRAUf3gfQwNPvPY/kYpPxMzOWZQBe1oOpFTfu0q4M7HZWNkzd0OFgWnYg2H8ldw0ndQeEdguHUS3tqWiadeV71VvtNRDD6LQIuqJv6g6RFYCTLSvAg/WWvpRYA16EoVjIujEs4gHf2jc9GXI2p0oiUMzEkBKQPbwtexNcGDkfAylgPTwgn2FbtXUJzLHSlIozH3kVfhxZuQ6XCvveikoUgSQ+/xkn/X2xG8Qts4MzaYAzUGbUFz+Y9ClFs6u+zKVFfuJoiUwWNFUMVy5KPgY8+cHVvFxIXolWzpjKEmjSOtW34hEWYfHckVWy/Woq810e++Rie6YQdK2kPRTvdcmZuAlbvwXLYMSbX9OyqfGvce2gNjNqWF9s5QG4BdH03/tznw1qU0XKrwmCfxloDUilDu5T7YzRneqo1w==;iwg5aUpwxNA+Lz9NZC2Vtg=="
 ---

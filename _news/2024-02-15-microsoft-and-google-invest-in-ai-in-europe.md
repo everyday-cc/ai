@@ -74,15 +74,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 66
-  - title: "Microsoft to invest 3.2 bln eur in Germany in AI push"
-    excerpt: "U.S. software giant Microsoft will invest 3.2 billion euros ($3.44 billion) in Germany in the next two years with a focus on artificial intelligence, Microsoft chairperson Brad Smith said at an event in the German capital on Thursday."
-    publishedDateTime: 2024-02-15T10:25:00Z
-    webUrl: "https://www.reuters.com/technology/microsoft-invest-32-bln-eur-germany-ai-push-2024-02-15/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 64
   - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
     excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
     publishedDateTime: 2024-02-19T15:23:00Z
@@ -106,22 +97,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 63
-  - title: "Google unveils a more capable Gemini Pro AI as it seeks an edge against OpenAI and other rivals in tech’s hottest battlefield"
-    excerpt: "Demis Hassabis heads Google DeepMind, Alphabet's advanced AI research lab. The lab has helped to develop Google's Gemini AI models. The company has unveiled its latest, a more capable Gemini Pro called 1.5 Pro, that can process more data in one go than any ..."
-    publishedDateTime: 2024-02-15T09:05:00Z
-    webUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/"
-    ampWebUrl: "https://fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
-    cdnAmpWebUrl: "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/02/15/google-gemini-pro-competition-openai/amp/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 62
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1760047727-e1707947499536.jpg?w=840"
-        width: 840
-        height: 561
-        isCached: true
   - title: "Itron to Integrate Microsoft Azure OpenAI Service to Empower Utility Decision-Making"
     excerpt: "By integrating Itron's DataHub with Azure OpenAI Service, Itron aims to provide its customers with a seamless and intuitive user experience. It will enable authorized utility users across the enterprise to access data and sophisticated AI analytics that span from DER data to transformer and feeder loading data. Utility users will be able to:"
     publishedDateTime: 2024-02-15T13:58:00Z
@@ -165,6 +140,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/AIElectionpact.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft tinkers with Windows for AMD AI"
+    excerpt: "Preparing Task Manager for the AI onslaught Software King of the World, Microsoft seems to be gearing up for the inevitable rise of hardware-accelerated local AI tools and is tinkering with Windows software to play nice with AMD’s AI chips."
+    publishedDateTime: 2024-02-20T09:06:00Z
+    webUrl: "https://www.fudzilla.com/news/58478-microsoft-tinkers-with-windows-for-amd-ai"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/bcdf324bedc9fc853b785e501196a623_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Microsoft to inject €3B into Germany AI, cloud"
     excerpt: "Microsoft revealed it will fork out €3.2 billion to expand its AI and cloud infrastructure in Germany over the next two years."

@@ -34,15 +34,6 @@ related:
       name: Gizmochina
       domain: gizmochina.com
     quality: 63
-  - title: "Minister Backs Altman’s Idea to Turn UAE into AI Testing Ground"
-    excerpt: "The United Arab Emirates will push to become a global leader in testing and regulating artificial intelligence technology, according to a top official, echoing remarks from OpenAI’s Chief Executive Officer Sam Altman earlier this week."
-    publishedDateTime: 2024-02-15T09:59:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-02-15/minister-backs-altman-s-idea-to-turn-uae-into-ai-testing-ground"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
 
 secured: "xN589SJoQqKOK4nv21CTJ6w2aMjuYSAKrslyFm4SSFT5AP/7JCUiJOS1mx2vS5CMH2ML6M0WaVWz4l2rzPHUsXEKV11E56earu0dSS6IFTSCIX1q8E8u5ENDlImLWGssr5JNQFYSxSE7QAeYzfFJLXMUvRML/jyGChB/4GtQeUPEEmN9LIoR8Su2lpFln5L94IzQU6yBQ29MpD8Vyxa8JngPnVcbAbAELJMnU9+NOWxjHKHrzqgmxGMMLQxmrPzygKEt+n3SfxSe3fSE6x8sqaVCMPf4mtVeEc+9aVexnrZq7RWup3d8iHPzOQDm2mc5JXdVw5G3ktSzl/8NXdde6tvxLfLZxeTmQfcKTx0Tq2lsJSRijmfmp5RtPrwgAvPcpuRBOwQhBZx/Hyr/PXeA/tsN9ikR3zRjTKNTwh1rDo2dyeAxLn527Q5Yvnlg0QA8RCerpK6UYd8f3seF29k+ULZZ+oxrvj1oWU6pj5VGLESfZt3R1kNJbOUW/rgmFkwf90+ax4crP7QJO/YhupWdmg==;iGpo1h7mzHZPy33SuuMt5Q=="
 ---

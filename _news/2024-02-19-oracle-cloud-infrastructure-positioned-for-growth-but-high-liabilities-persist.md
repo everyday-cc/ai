@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4671333-oracle-stock-cloud-infras
 webUrl: "https://seekingalpha.com/article/4671333-oracle-stock-cloud-infrastructure-positioned-for-growth-but-high-liabilities-persist-cautious-buy"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 594
     height: 395
     isCached: true
+
+related:
+  - title: "Making cloud infrastructure programmable for developers"
+    excerpt: "AWS CloudFormation and Azure Resource Management were two other top contenders ... As an industry, we’ve moved beyond single machine application servers and single machine operating systems to distributed computing in the cloud, orchestrated by Kubernetes."
+    publishedDateTime: 2024-02-20T10:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713000/making-cloud-infrastructure-programmable-for-developers.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/developer_programmer-100946133-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "NeRuHvPve/SyWiFxZoZLzuK40JNFwzoqByUu8vzD9ygEoOaFe63kZzhFYBoeQdhweGth3FwBV/sm1DpfzJLbTL3yB7dBE2rNPzzLQXCxiKI1VutWjUkEIV8tBHR9twOi3GfbSKEx0rWPM3PGnzK3MMAVwHCCZdgqbeyzyt1s/MjhsAp3GCZjMQ8PlxhlGBBE+cnNhwE3+hKEuZH9OKvQB1gxBqa6tP5oc8dBwja4JxnwYJiQyc+AF05EEHkVy+g8mKzpXoOMem9ZGdN46ijwL7tnfqkYqYgkiyaNfuqyD6B2IT4ByswBk0KRDt4qbHV/YST9Lam6lB4K0kKSC76YlXX+1zMpH47iU+bX29rNqCwaRTzfCwhN55YX/wosmz6k68WqNekUtheTUF7ZeG5ld+M2g6quPIKj65pzNPUaX6RtooITece/u794CkIUV/Iu48B5CfB6BgcHDoHYaPVwIzgR+uzZI4Di5eIsXsNUQT55NqLvWzPC172oR0JT5n4aTKHIX1mPWuk4fQldtNEnYQ==;nvQSdyOlVjPS1BM9Q1bwlw=="
 ---
