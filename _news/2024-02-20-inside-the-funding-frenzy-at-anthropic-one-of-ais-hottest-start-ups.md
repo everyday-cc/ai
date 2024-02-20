@@ -7,7 +7,7 @@ originalUrl: "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai
 webUrl: "https://www.nytimes.com/2024/02/20/technology/anthropic-funding-ai.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1050
     height: 549
     isCached: true
-
-related:
-  - title: "A Look Inside Anthropic Highlights the Crazy Growth of AI Tech"
-    excerpt: "Amid the explosive growth of AI tech, one of the buzziest in the headlines is among the least recognized: Anthropic. Founded 2021 in San Francisco by former team members of the other, super-buzzy artificial intelligence company OpenAI,"
-    publishedDateTime: 2024-02-20T16:51:00Z
-    webUrl: "https://www.inc.com/kit-eaton/a-look-inside-anthropic-highlights-crazy-growth-of-ai-tech.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1452604857_wvvmju.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "QZVuQfkfdyu6+3GY5hMp58K67TMH/om09LTE3b9NV3vgX5usMapLeRothtHVpk1IjM/A9YSQVQKQBYQ6RWLeWDIxxvO+zfSlsk9ezHlwPHswVJCYkk671W48YXjeXcLRrGu8K4oLugR/9EZ7SrBtcUqTTUjzJWt/w6ENdARbSCPICTcwymH/jxvk0eN0NZvNFqMNt7icAjADMkwzZ3dnM1PrZSghv00wO3Qij+P0R5N4tSBLx217wyZopddSUPqovvIfKeLow0giV1wK1xTW9G7ItZn9Eh696N84w5wKg2PNpfY4tO4C6qbh1VlWMmH4pilB8LgXo3PdLvaI+KS8TKnWO5+UFZ90r8AvAAPfB66upxYPTPa4fSY9AcDuP1tPSoVyIFH67Y9DVjlWntm8adbph5BUfMD81BEpYd7vT00r2P0B1ed6IQLzlvzZ8dxkG6jpAkVFlqn5VSr8Y8gtFPfaKxgC0IFV1bUNl5jd3hj8EGpEsVseRWZ8oeJsFqSc+IXEGSbT3HzuNEdDQoIbhw==;v9VL54L0iPP+NiKZC3sOsg=="
 ---

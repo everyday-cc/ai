@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T13:30:00Z
 originalUrl: "https://www.iaea.org/newscenter/news/iaea-designates-first-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
 webUrl: "https://www.iaea.org/newscenter/news/iaea-designates-first-collaborating-centre-on-artificial-intelligence-for-nuclear-power"
 type: article
-quality: 9
+quality: 11
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "How artificial intelligence empowers contact centre agents and supervisors for CX success"

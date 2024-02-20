@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-20T17:05:00Z
 originalUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
 webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
@@ -40,15 +41,15 @@ related:
         height: 550
         isCached: true
   - title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
-    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
-    publishedDateTime: 2024-02-20T10:19:00Z
-    webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-    ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
-    cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
+    publishedDateTime: 2024-02-20T00:00:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
     type: article
     provider:
-      name: winnipegsun
-      domain: winnipegsun.com
+      name: Financial Post
+      domain: financialpost.com
     quality: 76
     images:
       - url: "https://dcs-static.gprod.postmedia.digital/15.4.1/websites/images/canada/fallback.jpg"
@@ -137,6 +138,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vt7CxzSjrv523ZMr/t38Lnt7QMdGdqVP4MNV2w9bB45cdbv4VbAq9AGTlfJ8/sMpdI0ZF/zMhipBNYNudZWJONiZQgN5rPgomMMY7gm3TsMzN4wzolPQ91rvwdeghCu84nMnHcLMmKHlIQwAG3dTAgz4MMeivqeTy7VShKrXlzJom8kFUCDC5k5ARn7fJE/njawpVwnZy2p7rYi8x/wnZugzfLpMz5rW2uj0Od3iecd4fuzklpdb7qa9lauQAs1BliS+c+6q7l2YGE5w8JPxWYgurRsZjog0IJK2lAVurCpffQAkTk/RUhZfmBFfYPJPRPVbq3Gy6ddDQCepEiv5z5P/LKx6OeFymsx7REh1NnU=;6P5u8yhiX+EH/+ZTZwLKIg=="
+secured: "2Pp1NtuWFlGPf02UPP1S+sOWBCUFGSOa2WLKRFwI9619D6xrX81qICi4xgSDLIl5Ii5a/ev9+XE4XHD0oTURQhc/3M1XkrB5wRMo/gfrnyeC2VGysIOcaVeXuWj35PU5wJjGWMoEB9yU1mSfQM8Nrbe2uEpT22DQXCJx1jVppluct1qkPM5gLgIA3iYjFVXBWMIheNNGertB8Mdq6HGIvl/SPxWmvmS2hhtIcti4W6zBjzDyfOnYpKWtykyV6FZ5J64nyvLkmlAM1q6YGTsdP0TLgKJzY4iY6g6ABIbxQlL6i7yokg/Xuuq1uIqXmpvkE00a+RRo+WS933//cZDZQLukzTsqQYhcPrKi3c0/H16+8UeazmiJFHAFzsmHRd5mCeiH1Lnul26OrSyi/psZ2H9FRB+Rj/QHZH1ybU+SaYVXNxp7WVV8WYoUIFoLcI7MTUXm9S3z8GME5tFWiZv1en+I8OOKRW4Uuvvc/znpLOefvetguQ5qJrWpmgsD7MML1+gkvJS92zMHa+c6stIo4w==;PGsXocrELrshzffmIJdBLg=="
 ---
 

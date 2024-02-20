@@ -73,22 +73,6 @@ related:
         width: 750
         height: 393
         isCached: true
-  - title: "Softbank wants $100 billion to compete with Nvidia for AI chips"
-    excerpt: "SoftBank's Masayoshi Son aims to raise $100 billion for a chip venture named Izanagi, focused on AI computing and artificial general intelligence. The project plans to challenge Nvidia's dominance, collaborate with OpenAI, and achieve AGI through Arm's ..."
-    publishedDateTime: 2024-02-20T12:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/articleshow/107856097.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/softbank-wants-100-billion-to-compete-with-nvidia-for-ai-chips/amp_articleshow/107856097.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-107856061,width-1280,height-720,resizemode-4/107856061.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
     excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
     publishedDateTime: 2024-02-19T16:18:00Z
@@ -175,20 +159,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
-    excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
-    publishedDateTime: 2024-02-19T09:45:00Z
-    webUrl: "https://analyticsindiamag.com/softbank-bets-100-billion-on-ai-chips-takes-aim-at-nvidia/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/12/Top-Most-Powerful-5-AI-Chips-Released-in-2023.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Softbank to put $100bn into AI chips"
     excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"

@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-excerpt: "Microsoft has made Visual Studio 17.9 generally available and introduced a preview of Visual Studio 17.10. Both bring support for new GitHub Copilot capabilities."
-publishedDateTime: 2024-02-16T00:00:00Z
-originalUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.html"
-webUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.html"
-ampWebUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
-cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
+excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
+publishedDateTime: 2024-02-16T11:00:00Z
+originalUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
+webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
 type: article
-quality: 89
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70"
-    width: 1200
-    height: 800
+  - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
+    width: 505
+    height: 315
     isCached: true
 
 related:
@@ -60,6 +54,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SuT0mKARdKYxE8X2rkOsfKnEmH0K12GemMqL2V9OpwACEzPtR9xhRZzonQjg0AsjSbzqbukpDTdwTou+drMrXVm7NAnACIkwsIfd6Iag7An3WdPjcW+cdiobRT57PRcs3YCJuviJxPj/xcTE2HtguJsThvMYs7YXj5Y8eu+iyEvOlou93E3bfRuNMd/OYAkMeQTIePJAx7HjMoiqM86X8FRLiJ8ATxUPKoHNn5bxjSnpe1KTRQgiYQp8dez2tDIHfnkuLl/PtvgsZtbWsWFAgH6xUZ8ejVJiBJJ3NT9j8yO98vSYtuIz9EQ5Q/ALtMj8Lq7usw6uPw2/XZR5KyfKPDfKbG1q/67DMIn8zN8NPMGQLvpdz7SOZ2EgHSc5+jOjJ2bM5NKG85gKwFy6mkbZFRWtdsMP9CXf4a/XMQw8vV7yybfoVEvffxElA3UzhBf6u4xF9xjjpoEcW1IGGcrMI9fJhBpIWw81SlZtLI+Caco7ot1oiWgEX+yQZTs76iZZCWNTuk5TgL9X4zTUHNurdQ==;ygneabysSw742RR1vLOqGQ=="
+secured: "/2r9PMSZJm+cUNoVErAmumhL7AKRIQZhOI8RehOOo5cSgArs4jz/ZRS6XE30+HkF0/553ablfVgTb42MKRjcz3RODzqYqStUcQI2aLDixgLFlvY5rsBaROYhYRHYvPBUSnj9XOYCGJupUkINTZHMSS4zf7TZ490yhb5x1Ot/A+9r+TkJaGiHdikly8sCY8BDwD7uwW8Hju2S0gjBgLxb9qb4Ei84jnueHAFs+Cy2HbgDw/K5HppEa3cxMQhN/ZY/lI01iXnx7GJtQURtVIFgMq1fgAAItHilgAvEkygUbMbcbIHF1bCoITitvDawftF9zC3Reckve2Oi/k4TOShKP4UyJhrWEE8spgKGdvwf1Ro=;woHC3+5tbSSzvcI0kYqEQw=="
 ---
 

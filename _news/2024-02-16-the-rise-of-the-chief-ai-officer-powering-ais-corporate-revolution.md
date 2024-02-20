@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -166,6 +166,15 @@ related:
       name: news.bloomberglaw
       domain: bloomberglaw.com
     quality: 34
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "NEbutDGhq5omF8HZnWvJCM5hJZI+a5eFzr6DP/nMENmsrb3ZGb/8w3omtNVIihbGJDcMz4TZPGoiO/eErrKj0gZ9wid8o75/Tcw8nFFMqMIaANyWiyKqOGnYeALIPh3Y0PeFIYAq45FObIF5tUJRP8Mmp8s3Mv/AG/mAaMBTSJuwGfyVmZ8WU4OoA+7VULUA0bdCuFhQgz4aF/uaVw3kMyxoXMYeI12oXymYIZSjDM0of6/CPLTh87fDyuEGG4inLO+5ubCaEWkiE/4L2V5G+zJC/YLYPaXpLPIzm5Gy+jadS7l8Uz1nFEVoE2fSLd/fIR7cBy1zrpCSDhKggRPnWU+sAFhfxfC6B0A0NvXLEEmHCWxPORBAcmQB2JQRnHNW4/sDNF+iLze9roSeXibxc2wNk41bF6eqxSay9d8y5RsaZEZksCbL8aPAEN26Zs+gFgksCKWZ5CBKAMgJ43I8tbevebgvb7TstXEOGqlPQpI0ik/A20yYC0EyIBuNZWKbSCCwbjVY1IBeKHjJBNzdKQ==;Q7wEIlf3QScjRQDVeeRm/w=="
 ---

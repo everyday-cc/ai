@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-s
 webUrl: "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/"
 type: article
 quality: 100
-heat: 210
+heat: 200
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/06ade7ecff079e652b414b009a1ae646986bf62f/2024/02/13/42b45f78-34b0-4a2c-8453-3ce03951d473/screenshot-2024-02-13-at-3-13-34pm.png?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "New report sheds light on Apple's upcoming AI features that will rival Microsoft's Copilot"
-    excerpt: "Apple has plans to launch an AI coding tool to developers as early as this year, per Bloomberg."
-    publishedDateTime: 2024-02-15T22:53:00Z
-    webUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/65ce8b2a6fcb546d2d50738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
     excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"

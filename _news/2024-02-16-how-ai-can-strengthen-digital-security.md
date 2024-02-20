@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "Microsoft has made Visual Studio 17.9 generally available and introduced a preview of Visual Studio 17.10. Both bring support for new GitHub Copilot capabilities."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Index reflects nation's strength in AI governance"
     excerpt: "The AGILE Index score demonstrates a positive correlation with the per capita GDP of the evaluated countries. China's scores are significantly higher than its per capita GDP, thanks to its superior quality AI development and effective AI governance."
     publishedDateTime: 2024-02-16T23:38:00Z
@@ -59,6 +43,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202402/17/65cff2a4a31041d30dec454d.jpeg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
+    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
+    publishedDateTime: 2024-02-16T11:00:00Z
+    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
+        width: 505
+        height: 315
         isCached: true
 
 secured: "B0Rku/Mo1H43wEJs8o4SnP6mvm4Ko/1a6eQZdQKnDa7ECVgo0PiBqMYoJxouin4jh+6AQpHP+a0b3dGTfJQ4/Rcnest3NbHkqGDjfhsmZ0dIhdJtBF37EK0BRn3JAZOg80aqIpXsnKq7TsBKxCLfAhq2mv1IcJfUH911JxbemXxHoG75PV7FwYcT10o/3DrzpLppaEouQEs5nH96r3N3D1suNlFGM/4qGtvokIM9mhrdqrPTxOgXRXYLUa1q9Wjd7QDdt7/M5za8iMSNZ3qOp8/9SHzvBwrR+76g1FFnIrLs37ahtr64dOMSR0XvLvtXXQEBEEYqPnRfiDiIkGyRjDZr1pLLsJcPJ18GtYZDaSI=;B70dKtlHBUknz5lHIeZM3g=="

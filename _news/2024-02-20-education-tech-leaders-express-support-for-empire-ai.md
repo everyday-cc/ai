@@ -1,0 +1,42 @@
+---
+category: news
+title: "Education, Tech Leaders Express Support for Empire AI"
+excerpt: "\"Who better to be able to address questions of ethics, of any kind of misconduct with AI, than folks in academia, the objective researchers in that field,\" said Matos Rodríguez. \"This is an indispensable part of how we're going to have an ecosystem that ..."
+publishedDateTime: 2024-02-20T00:00:00Z
+originalUrl: "https://www.govtech.com/education/higher-ed/education-tech-leaders-express-support-for-empire-ai"
+webUrl: "https://www.govtech.com/education/higher-ed/education-tech-leaders-express-support-for-empire-ai"
+type: article
+quality: 36
+heat: -1
+published: false
+
+provider:
+  name: Government Technology
+  domain: govtech.com
+
+topics:
+  - AI Ethics
+  - AI
+  - AI in Education
+
+related:
+  - title: "An Approach For Leadership Teams To Balance AI Risk Versus Opportunity"
+    excerpt: "We all have a responsibility to ensure the responsible use of AI. Here's my advice on how to make strides towards responsible-by-design AI."
+    publishedDateTime: 2024-02-20T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/20/an-approach-for-leadership-teams-to-balance-ai-risk-versus-opportunity/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6037c3e74880e0aa679f79b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1045
+        height: 696
+        isCached: true
+
+secured: "2zixAyK6m+e2oGaHuLRGkgJD2jE6b0zBPfBTxyDeHxgcNvRx29WoH9R+/js54vy4DD64QzC3K7dIDk5per51sfpdWD37PMQpwrs+lJOTzNb/YnwSnyE4pQd9HmGquO3oPB0yryCeKzYmzQIL50JYn60R4oWb/DiClfjBSt90V6VMczSyvTpSDrsw20FbpXvi8QPRkIxs/Bhd9AKKBaCb5WZcSsNRIJc6U0WHLm/kX2gaYJw1A4IM7bYGnsVSUDovqozqn7sFrb5KsgtPz3zVhcRCM/9NVxIIBL2VWyMvEhtqDNx8IxygQXXArNJQGQJFnV24EbXBdqxj0BT4WlyvbTPUZrMx/NwJn4dJf8VktJo=;aZCIOK3bJqG5cJOAbOx3Fg=="
+---
+

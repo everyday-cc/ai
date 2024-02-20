@@ -56,15 +56,6 @@ related:
         width: 2560
         height: 1680
         isCached: true
-  - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
-    excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
-    publishedDateTime: 2024-02-19T13:14:00Z
-    webUrl: "https://europe.autonews.com/automakers/xpeng-boost-workforce-25-invest-ai-driving-tech"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
 secured: "KuJOGcmdhtAm3dMdVEs+MP0lMZ93TRo5mGpHQZjcE3+FT/kpZR8/kjf4qQwbmpYcHVf7ES0QjUhzDEsdgx6lttozNJhAfY6L+aisQr8umksjzTBKwDMsDwnD5oE9rjpuBhwBuzdTQewE8XqcK/ifjZ4QzljRHeeQ/9gH/mjRANGetJZ7qw4J+ROHrWsD7vwhYaYmDFxgTcP4XJlkiP2Ecpu4RQZ2oZXqfFC0YXebm93TrkbIU0mzYZB1WlryLXX6RCaVDaK9usrgWgQ7qHopRKYXDhVkGBRXRIi50/KRG9LNNDABReEOND6+u9U/xZhRJGwPxome9uOJe9RABUyJCoZlMSG3tMUwgZTK2smTsr8=;VQ8b3hG7tPUqYe9bfsAMGQ=="
 ---

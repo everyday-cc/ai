@@ -27,140 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "After Sam Altman, SoftBank founder Masayoshi Son joins AI chip race"
-    excerpt: "As the generative AI race heats up, SoftBank Founder and CEO Masayoshi Son is reportedly aiming to raise about $100 billion for his AI venture"
-    publishedDateTime: 2024-02-17T06:41:00Z
-    webUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race"
-    ampWebUrl: "https://glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
-    cdnAmpWebUrl: "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/after-sam-altman-softbank-founder-masayoshi-son-joins-ai-chip-race?amp"
+  - title: "How to use Nvidia’s new Chat with RTX AI bot"
+    excerpt: "Nvidia has a local AI chatbot called Chat with RTX, allowing you to use AI completely free from the cloud. Here's how to use it."
+    publishedDateTime: 2024-02-17T15:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-chat-with-rtx/?amp"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 74
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
     images:
-      - url: "https://glamsham.com/wp-content/uploads/2024/02/After-Sam-Altman-SoftBank-founder-Masayoshi-Son-joins-AI-chip-race_pic-courtesy-news-agency.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "OpenAI’s Sam Altman seeks blessing to raise billions for AI chips"
-    excerpt: "OpenAI’s CEO is working to secure U.S. government approval for a massive venture to boost global manufacturing of artificial intelligence chips, an effort that risks raising national"
-    publishedDateTime: 2024-02-17T21:42:00Z
-    webUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/"
-    ampWebUrl: "https://www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2024/02/17/openais-sam-altman-seeks-blessing-to-raise-billions-for-ai-chips/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 74
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2024/02/BIZ-CPT-ALTMAN-AI-CHIPS-GET.jpg?w=1024&h=683"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Sam Altman's new AI chip startup awaiting US approval: reports"
-    excerpt: "Sam Altman, CEO of OpenAI, the parent company of ChatGPT, is awaiting approval from the US government for his new AI chips startup, according to a recent report by Bloomberg News. The report suggests that this emerging venture has the potential to trigger concerns related to national security and antitrust issues."
-    publishedDateTime: 2024-02-18T08:26:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751"
-    ampWebUrl: "https://www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/news/sam-altmans-new-ai-chip-startup-awaiting-us-approval-reports-3546751?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/02/18/sam_altman.jpg"
-        width: 750
-        height: 393
-        isCached: true
-  - title: "Softbank’s Son reportedly seeks $100B for AI chip venture"
-    excerpt: "The venture, dubbed Project Izanagi, is reportedly aimed at setting up an AI chip company to complement Softbank's Arm and challenge Nvidia."
-    publishedDateTime: 2024-02-19T16:18:00Z
-    webUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture"
-    ampWebUrl: "https://www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20240219/ai-ml/softbanks-son-reportedly-seeks-100b-for-ai-chip-venture/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 74
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2023/07/wireless-AI-header-image.png"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "SoftBank's Son is seeking about USD 100 billion for AI chip venture, Bloomberg reports"
-    excerpt: "The company would inject USD 30 billion in the project, with an additional USD 70 billion potentially coming from Middle Eastern institutions, according to the report."
-    publishedDateTime: 2024-02-17T09:50:00Z
-    webUrl: "https://auto.economictimes.indiatimes.com/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
-    ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
-    cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports/107777123"
-    type: article
-    provider:
-      name: ET Auto
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-107777123,imgsize-190206,width-1200,height=765,overlay-etauto/auto-components/softbanks-son-is-seeking-about-usd-100-billion-for-ai-chip-venture-bloomberg-reports.jpg"
-        width: 1200
-        height: 765
-        isCached: true
-  - title: "SoftBank's Son is seeking about $100 Bln for AI chip venture - Bloomberg News"
-    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T18:56:00Z
-    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 61
-  - title: "SoftBank's Son is seeking about $100 bln for AI chip venture, Bloomberg reports"
-    excerpt: "SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp , Bloomberg News reported on Friday, citing people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T20:02:00Z
-    webUrl: "https://www.reuters.com/technology/softbanks-son-is-seeking-about-100-bln-ai-chip-venture-bloomberg-news-2024-02-16/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-  - title: "SoftBank's Son Is Seeking About $100 Billion for AI Chip Venture - Bloomberg News"
-    excerpt: "(Reuters) - SoftBank Group Chief Executive Officer Masayoshi Son is looking to raise up to $100 billion for a chip venture that will rival Nvidia Corp, Bloomberg News reported on Friday, citing people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T19:56:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-02-16/softbanks-son-is-seeking-about-100-billion-for-ai-chip-venture-bloomberg-news"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 59
-  - title: "Softbank’s founder Son seeks to build US$100 billion AI chip venture"
-    excerpt: "SOFTBANK Group founder Masayoshi Son is seeking as much as US$100 billion to bankroll a chip venture to compete with Nvidia and supply semiconductors essential for AI, according to people with knowledge of the matter."
-    publishedDateTime: 2024-02-16T23:08:00Z
-    webUrl: "https://www.businesstimes.com.sg/international/global/softbanks-founder-son-seeks-build-us100-billion-ai-chip-venture"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 54
-    images:
-      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/02/17/2024-02-08t033513z792143449rc2dl3ahz344rtrmadp3softbank-group-results_0.jpg"
-        width: 880
-        height: 587
-        isCached: true
-  - title: "Project Izanagi: Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "SoftBank founder Masayoshi Son hopes to raise $100 billion so that he can build an AI chip venture that can compete with Nvidia. Bloomberg reports that project 'Izanagi' could see $30bn invested by SoftBank, and $70bn put in by Middle Eastern investors."
-    publishedDateTime: 2024-02-18T12:32:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/project-izanagi-masayoshi-son-plans-100bn-ai-chip-venture/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/GettyImages-901847120_1.2e16d0ba.fill-1200x630.jpg"
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/02/Chat_with_RTX-Feb_13.jpg?resize=1200%2C630&p=1"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Nvidia Unveils Eos Supercomputer to Push the Boundaries of Artificial Intelligence"
+    excerpt: "Nvidia emphasizes that Eos is finely tuned for AI tasks, requiring ultra-low latency and high throughput in massive computing clusters"
+    publishedDateTime: 2024-02-16T02:44:00Z
+    webUrl: "https://www.gizmochina.com/2024/02/16/nvidia-supercomputer-eos-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 61
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2024/02/NVIDIA-Eos-Image.jpg"
+        width: 1280
+        height: 680
+        isCached: true
+  - title: "NVIDIA Eos DGX AI supercomputer designed for artificial intelligence"
+    excerpt: "In the fast-paced world of technology, NVIDIA has made a significant leap with the introduction of Eos, a new supercomputer that has quickly secured a"
+    publishedDateTime: 2024-02-19T07:48:00Z
+    webUrl: "https://www.geeky-gadgets.com/ai-supercomputer-nvidia-eos/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/NVIDIA-Eos-supercomputer-built-for-artificial-intelligence-applications.jpg"
+        width: 1280
+        height: 841
         isCached: true
   - title: "SoftBank Bets $100 Bn on AI Chips, Takes Aim at NVIDIA"
     excerpt: "Competing in the AI dominance race, SoftBank's CEO, Masayoshi Son, has announced a plan to gather a whopping $100 billion for his AI project."
@@ -176,80 +85,102 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SoftBank founder looks to create $100B AI chip venture"
-    excerpt: "Masayoshi Son, founder and CEO of SoftBank Group (pictured), laid out broad plans to create a $100 billion AI chip-manufacturing venture to complement its design unit Arm by attracting funds from investors in the Middle East, Bloomberg reported."
-    publishedDateTime: 2024-02-19T00:00:00Z
-    webUrl: "https://www.mobileworldlive.com/softbank/softbank-founder-looks-to-create-100b-ai-chip-venture/"
+  - title: "Nvidia Earnings Are Coming. Why It’s Time to Think About AI Chip Competition."
+    excerpt: "It’s not an exaggeration to say that the tech sector's recent rally might depend on Nvidia beating expectations for its earnings report this week. However, stockholders in the chip maker should be looking beyond the immediate horizon and particularly at potential competitive threats."
+    publishedDateTime: 2024-02-20T09:37:00Z
+    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-022024/card/nvidia-earnings-are-coming-why-it-s-time-to-think-about-ai-chip-competition--t3L1dFwwER6wORkYouvd"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
+      name: Barron's
+      domain: barrons.com
+    quality: 51
     images:
-      - url: "https://assets.mobileworldlive.com/wp-content/uploads/2019/12/16120627/SoftBank_Masayoshi_Son_SS-e1576572684844.jpg"
-        width: 650
-        height: 399
+      - url: "https://images.barrons.com/im-92074206/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Softbank to put $100bn into AI chips"
-    excerpt: "SoftBank is to put $100 billion into a project calked Izanagi to make AI chips designed by Arm. The plan is for SoftBank to put $30 billion of its own"
-    publishedDateTime: 2024-02-19T06:29:00Z
-    webUrl: "https://www.electronicsweekly.com/news/business/softbank-to-put-100bn-into-ai-chips-2024-02/"
+  - title: "High-Flying Nvidia’s Earnings Could Test US Stock Market’s AI Dreams"
+    excerpt: "Excitement over the business potential of AI has boosted Nvidia’s shares by more than 46% since Jan. 1. Its $570 billion increase in market capitalization is more than triple the market value of Intel. Shares of Nvidia, whose chips are considered the ..."
+    publishedDateTime: 2024-02-16T17:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-16/high-flying-nvidias-earnings-could-test-us-stock-markets-ai-dreams"
     type: article
     provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
+  - title: "Nvidia Just Bought This Under-the-Radar Artificial Intelligence (AI) Stock. Should You Buy It, Too?"
+    excerpt: "According to Nvidia 's 13F filing for the fourth quarter of 2023, it purchased 1,730,883 shares in SoundHound AI. It doesn't specify what price Nvidia paid, but the position is worth $6.5 million at SoundHound's current stock price of $3.76."
+    publishedDateTime: 2024-02-18T15:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/nvidia-just-bought-this-under-the-radar-artificial-intelligence-ai-stock.-should-you-buy"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Lead times for Nvidia's AI GPUs narrow, suggesting expanded production capacity"
+    excerpt: "In a note to investors, analysts with UBS said lead times – how long a customer has to wait for delivery after placing an order –"
+    publishedDateTime: 2024-02-16T19:33:00Z
+    webUrl: "https://www.techspot.com/news/101919-lead-times-nvidia-ai-gpus-narrow-suggesting-expanded.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 45
+  - title: "NVIDIA joins US Artificial Intelligence Safety Institute Consortium for safe and responsible AI"
+    excerpt: "U.S. AI Safety Institute Consortium (AISIC) announced by Biden-Harris administration earlier this month has over 200 members - including NVIDIA."
+    publishedDateTime: 2024-02-20T05:59:00Z
+    webUrl: "https://www.tweaktown.com/news/96310/nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 40
     images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2024/02/17120631/IMG_2799.jpeg"
-        width: 592
-        height: 1307
+      - url: "https://static.tweaktown.com/news/9/6/96310_01_nvidia-joins-us-artificial-intelligence-safety-institute-consortium-for-safe-and-responsible-ai_full.jpg"
+        width: 1500
+        height: 796
         isCached: true
-  - title: "Softbank’s Masayoshi Son plans $100bn AI chip venture"
-    excerpt: "In one scenario Son is considering, SoftBank would provide $30 billion, with $70 billion possibly coming from institutions in the Middle East SoftBank founder Masayoshi Son’s plans to create a $100 billion chip venture to supply AI-enabling semiconductors."
-    publishedDateTime: 2024-02-19T08:12:00Z
-    webUrl: "https://www.businesspost.ie/news/softbanks-masayoshi-son-plans-100bn-ai-chip-venture/"
+  - title: "Buy the New NVIDIA GeForce RTX 4070 Ti SUPER GPU, Get a Bonus $100 Dell Gift Card"
+    excerpt: "NVIDIA's new GeForce RTX 4070 Ti SUPER was recently released and Dell is already offering a great deal for President's Day. Right now, you can get a bonus $100 Dell promotiona; egift card when you purchase a PNY GEFORCE RTX 4070 Ti SUPER 16GB VERTO Overclocked Edition GPU for $849."
+    publishedDateTime: 2024-02-19T15:55:00Z
+    webUrl: "https://www.ign.com/articles/buy-the-new-nvidia-geforce-rtx-4070-ti-super-gpu-get-a-bonus-100-dell-gift-card"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 54
+      name: IGN
+      domain: ign.com
+    quality: 34
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=6333bf6a-b549-5589-8178-8668be8928ed&type=preview&function=original"
-        width: 1600
-        height: 1067
+      - url: "https://assets-prd.ignimgs.com/2024/02/19/pnyrtx4070tisuper-1708364158679.jpg?width=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Zuck backs Altman's £5.5 trillion AI chip plan"
-    excerpt: "It is not bonkers Meta Platforms boss Mark Zuckerberg gave his views on the £5.5 trillion AI chipmaking plan by OpenAI chief Sam Altman last week. .While he called the number \"sky-high\", Zuckerberg also said he believed in the need for such a plan for the future of artificial intelligence."
-    publishedDateTime: 2024-02-19T10:36:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58472-zuck-backs-altman-s-5-5-trillion-ai-chip-plan"
+  - title: "NVIDIA’s AI personal assistant demo available for RTX GPU PCs"
+    excerpt: "If your PC is running an RTX GPU you might be interested to know NVIDIA has released a tech demo of a new AI personal assistant or chatbot to"
+    publishedDateTime: 2024-02-19T14:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-chat-bot-rtx-ai-pcs/"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/fe80dc7fc24c7d1357f3aefa8ac33b93_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "SoftBank stock rises on CEO Masayoshi Son’s plan for $100 billion AI chip project"
-    excerpt: "Shares in the Tokyo-based tech investor SoftBank gained as much as 3.2% reports that 66-year-old billionaire CEO Masayoshi Son is seeking funding for a foray into AI chips to compete with Nvidia Corp."
-    publishedDateTime: 2024-02-19T14:41:00Z
-    webUrl: "https://www.livemint.com/companies/news/softbank-stock-rises-on-ceo-masayoshi-son-s-plan-for-100-billion-chip-project-11708305813911.html"
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 34
+  - title: "Second-Hand Nvidia RTX 2080 Ti GPU modded with 22GB VRAM for AI Market at $499"
+    excerpt: "The Nvidia RTX 2080 Ti graphics card, now with 22GB of video memory, is available for purchase on secondary markets like eBay, aimed primarily at the AI industry for a price of $499."
+    publishedDateTime: 2024-02-16T07:54:00Z
+    webUrl: "https://www.guru3d.com/story/secondhand-nvidia-rtx-2080-ti-gpu-modded-with-22gb-vram-for-ai-market-at/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 29
-  - title: "Masayoshi Son is 'thinking big for his next move' with AI chip venture - analysts"
-    excerpt: "Masayoshi Son, the founder of SoftBank Group Corp., is reportedly raising up to $100 billion for a new chip venture named Izanagi, aimed at rivaling Nvidia Corp . (NASDAQ: NVDA ) in the AI semiconductor arena, Bloomberg News reported on Friday"
-    publishedDateTime: 2024-02-20T10:35:00Z
-    webUrl: "https://za.investing.com/news/masayoshi-son-is-thinking-big-for-his-next-move-with-ai-chip-venture--analysts-432SI-3016162"
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 30
+  - title: "Nvidia’s Q4 earnings will be a referendum on the AI trade. Revenue expected to jump 234%"
+    excerpt: "Shares of the AI chip darling have skyrocketed 184% over the last 12 months, easily outpacing rivals AMD (AMD) and Intel (INTC), which saw their shares rise 91% and 67%, respectively. Nvidia’s incredible run briefly pushed its market capitalization past ..."
+    publishedDateTime: 2024-02-20T14:02:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-q4-earnings-referendum-ai-190148756.html"
     type: article
     provider:
-      name: Investing
-      domain: investing.com
-    quality: 29
+      name: AOL
+      domain: aol.com
+    quality: 10
 
 secured: "M74dLxE5cKGGaBafZyEiE7+mvUWYGRURuCWc/7xEZES3fofPYLtVohnkcSKkNd3fx627Yw5rCwMGZA2jjLpEhfXyB0wSIX/Tv9CCbAoMIUADapreqD+Q9C64RAFTXQ/+jnvWeNS5SIpo7jIA+e8IPX6yP4N4HvJSu0R87lDm7BC+saBsZmUrYtakiX0iw1plE70g4xyyMlw2AuPsqHtFFrgu9rom6YUYXYjcR/dMS5ZR271XR4vmnKQYWtXWjDMRlahDJt0CpbBDC1/9zlRZemcoGMkbXZXcMYUJjUrzZiauZE7FhMuqxZm96t8DnmL8RRkd1V52G6vxpaGBNN7ekLIbiFteWpXdDpfn89WHYnJcLU+x9dyJXg21wzEvS9/tt+0/+9Dz/V2gNi0ZPf8T/HfAHwgHguexCL7f1mCkqYcxmEADlZBt3un3kY5F+bNTAZc0O2/NaaQ4Um1M2AJaak7evHxK9jhfcZiivfSgwb6PqoYMopx8pnQyPHVU/5fuGfoidWBwW6LWYGQ5iBv0cA==;znjN5snOFW4Ko2UU+DuDdA=="
 ---

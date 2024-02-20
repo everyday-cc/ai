@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New report sheds light on Apple's upcoming AI features that will rival Microsoft's Copilot"
-    excerpt: "Apple has plans to launch an AI coding tool to developers as early as this year, per Bloomberg."
-    publishedDateTime: 2024-02-15T22:53:00Z
-    webUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/65ce8b2a6fcb546d2d50738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google, Microsoft Will Dominate AI as Computing Costs Surge"
     excerpt: "“The best analogy is electricity,” says Ronald Ashri, CEO of startup Dialogue.ai, which creates tailored chatbots for regulated industries. “You’re plugged into a foundation model and that is your electricity, and you are consuming it constantly. The consumption is the single highest cost in the solution that we deliver to clients.”"
     publishedDateTime: 2024-02-19T05:00:00Z

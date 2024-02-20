@@ -160,6 +160,15 @@ related:
       name: Digi Times
       domain: digitimes.com
     quality: 34
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "8HCSV9Xihx1ANHeD9GSLRgHfO6TB2xj+f43EatODbWKXxd+maAj48pjhR8Q5VjZxKgBhMvOS1YMnyLs6lcL8LnCYqpeidNIGMmhBX/+Mcsq/IZB1gOTWH5/MtS73gdHpQze1hyn6IFu6XltaJvZy+yW33HjPMmVgNtidlQcItWdOipkn4SaHoUFeY2/N/H//hTxOAsY4w9+lzSUY/tIuBfMPXl3xEMVTp3Z+6EobodD6wFoih/YAtchIP7QCDdpzZg9NrTYsGJ3+MNuk1K2IAaX0PpsK5x7kSKqU+9nra6FOKp2NRKy1GxemDRKN4aSXWEiignCxN9NNWnokJiFUi/0zQx3lat9ArlFvB2nCvc4=;OWaSCe7P5spfhzcjIl7zMQ=="
 ---

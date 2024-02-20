@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/google-launches-ai
 webUrl: "https://markets.businessinsider.com/news/stocks/google-launches-ai-cyber-defense-initiative-1033075605"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "New ‘Magic’ Gmail Security—Google’s Latest AI Defense Initiative"
-    excerpt: "Google wants AI to protect your networks and data. It's already starting with Gmail as the technology titan launches the AI Cyber Defense Initiative."
-    publishedDateTime: 2024-02-15T22:00:00Z
-    webUrl: "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/"
-    ampWebUrl: "https://www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveywinder/2024/02/15/new-google-security-includes-gmail-magic-protection--ai-cyber-defense-initiative/amp/"
+  - title: "Cyber Valley joins forces with Seoul AI Hub and AIIS in historic MOU signing"
+    excerpt: "Cyber Valley, Europe’s largest and leading center for excellence in artificial intelligence and modern robotics, proudly announces a historic collaboration with the Seoul AI Hub and the Artificial Intelligence Institute of Seoul National University (AIIS)."
+    publishedDateTime: 2024-02-16T14:12:00Z
+    webUrl: "https://idw-online.de/de/news828801"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64dcb864be8a2689643d5163/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
+      name: idw
+      domain: idw-online.de
+    quality: 16
 
 secured: "ixn5j9wZMXv8rpg5vInmRf+BnfKO6nMyqE8ccN35HNgP8R0Og+wszuKfp5pfe3tbYxDTsIVtsptDJMlavzowhg+N+e9K4sI75dJFxwyjuKHi60fLvWrbeo3L4I7AXQBn4tgKtUIfrs6nyUJ+6Ip3JYRtIrwQn4OjCYZ1ZFsutom2RA8+tYkeQStZ1I2+zBtdnwTGptlBxObRI6pC2Jkn7npbvr9ueME6wVZXM8ocIl7bHva+Ie54lKAYIflkpGnXQTNMC9GCXca67k9vl+Oh7KSVdQDT/TPqjDvDh4b9u7ZVj9IwVwic40YzHYIqvm5Bioht2J1lUpVQtqT1feECFZcpkkpYrI2pRlEk8zYaDkg=;Llic4tzsLmXwnZStpzJapA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/investor/2024/02/16/supermicro-cooling-the-ai-boom/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/Super-Micro-Computer_0.jpeg?width=1200&height=800&fit=crop"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Vapor IO and Supermicro Unveil Zero Gap AI, Leveraging NVIDIA GH200 Grace Hopper Superchip for Enhanced AI Services"
-    excerpt: "Vapor IO and Supermicro are today announcing a new collaboration called Zero Gap AI, powered by the NVIDIA MGX platform"
-    publishedDateTime: 2024-02-15T22:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vapor-io-and-supermicro-unveil-zero-gap-ai-leveraging-nvidia-gh200-grace-hopper-superchip-for-enhanced-ai-services/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 32
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/02/vapor-io-300x285.png"
-        width: 300
-        height: 285
         isCached: true
 
 secured: "iLSReghei1yTxtitE0mCJFUI38XZ8zCGWD35D7gzWMIinkpQwu8CWa1xlJoEMRvq/bVFAbfGuvNHlbKeAEBvZD1JecnOtJsg7BWlR4tXDZYsnghBsTTc/ShV9utTiYAHqoAb1Q2G5/4MnJnwrRfS8HHOOFgwCvnqGuxtxg4Hv2iM/1xXxgq+x1PxzrE77YARntacm81coqhM/sZmEyFdbzHuMLr//hNovTMSL7WOrr3fU+SPaU4/6etmsPNygqVOwmicZlS6TANYn2Yz8PfJiWdg0yNAWrYu13KmUUwWZkZXQ4sxca0NsjNOC75F4VrSpmAwl8IfN5JXY2gcRwQTc4kXPqbbu0XUNY4yctdBTTppI4Cl2Oc2tL+7KwTL0p16GHEkGCNv0HDn8z0EHz2IbZ4aGCEZF/+0fHB33BwaCOd5928Hlrf0lb2yG4AyytJziTkCl7xGtw1gm1JT3JZw5xiGUR7VMwmCQzLCYKPxYv4j36uu5mYhHRmPWHaN1pZg6SH4XOHaqYlXgQNQk2SFjw==;6POdnXEKNfePiyUXxFbQmw=="

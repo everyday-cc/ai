@@ -125,15 +125,6 @@ related:
       name: Slator
       domain: slator.com
     quality: 27
-  - title: "Google turbocharges its genAI engine with Gemini 1.5"
-    excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
-    publishedDateTime: 2024-02-15T20:41:00Z
-    webUrl: "https://www.computerworld.com/article/3712961/google-turbocharges-its-genai-engine-with-gemini-15.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
   - title: "I test AI for a living and Google’s new version of Gemini is a turning point for the industry"
     excerpt: "Google claims its new model is also more reliable, able to pick out specific moments and works across video, audio, images and text natively. This is a big deal as AI moves into the real world through AR interfaces like the Meta Quest, Apple Vision Pro or RayBan smart sunglasses."
     publishedDateTime: 2024-02-16T12:15:00Z

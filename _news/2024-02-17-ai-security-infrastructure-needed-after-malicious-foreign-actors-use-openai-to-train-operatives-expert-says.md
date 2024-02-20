@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/ai-security-infrastructure-needed-malicio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ai-security-infrastructure-needed-malicious-foreign-actors-use-openai-train-operatives-expert-says.amp"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 4000
         height: 3000
         isCached: true
-  - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
-    excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
-    publishedDateTime: 2024-02-15T20:35:00Z
-    webUrl: "https://www.pcmag.com/news/openai-unleashes-realistic-text-to-video-sora-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "K/4BYuAMbIVweW3M17St1uyUNLRpK3gTx+RsfCxRmHzKMlhAAowFQqb7JtTMO/DxzjXORGyo07n8frRIQHWvxkgij+XUKLExfVsAWMu0Z5s2e2hpnhu/7w9Dwzu2NbT1eXsXuOizERFC/J1jofSJwDIFNepZR3VLWcPaXrwqyhgUvf+Bnc4VMc8f+BTbi0eKlyP5XIHpGDotR7svCxJbRx1TpCeHAb2cJwXvIvBPggLiq/w02XSy5slalD/vu1TiKM4n8RbXqKuIgOcPHKtCulTqN1W+NDbVRJ3rZ5q/ogXOZTjoU3QlXQdaKooMg6ZVGA7fHfvRd0prKovk/8FDuDOfSR2Bbt5gO9YnaeHVlh3Eqb0ehBBgO6qBPIObKx4OQ7VLEfc5Zlz7T8dL721te7pMveCtdVRil5wzM7I9R919g9MUL2nrdebVi6UgR65LXdiKmNG4ZN6BWG1edM12B2rrVHIGcT0h7YYXQ5XwSECSgYFbzPbSZOcvtD7lYujGV3TGHWK9ZX0tyt/Xaz+Lqg==;TyDX4YVFp3tQ7G+zkbHUFQ=="
 ---

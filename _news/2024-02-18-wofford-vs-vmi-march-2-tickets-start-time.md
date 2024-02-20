@@ -283,6 +283,15 @@ related:
       name: Live 5 News
       domain: live5news.com
     quality: 2
+  - title: "Eastern Michigan vs. Miami (OH) March 2 Tickets & Start Time"
+    excerpt: "The Eastern Michigan Eagles (10-15, 3-9 MAC) meet the Miami (OH) RedHawks (12-13, 6-6 MAC) in a matchup of MAC teams at 1:00 PM ET on Saturday. The game airs on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-02-18T14:21:00Z
+    webUrl: "https://www.wilx.com/sports/betting/2024/03/02/eastern-michigan-vs-miami-oh-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 2
   - title: "Florida International vs. Western Kentucky March 2 Tickets & Start Time"
     excerpt: "Florida International Panthers vs. Western Kentucky Hilltoppers game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-02-18T14:24:00Z
@@ -300,6 +309,15 @@ related:
     provider:
       name: WTVM
       domain: wtvm.com
+    quality: 2
+  - title: "Western Michigan vs. Ball State March 2 Tickets & Start Time"
+    excerpt: "Western Michigan Broncos vs. Ball State Cardinals game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-02-18T14:21:00Z
+    webUrl: "https://www.wilx.com/sports/betting/2024/03/02/western-michigan-vs-ball-state-buy-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
     quality: 2
 
 secured: "vR3gE8A8Sk/61xJwKMtNaO4HpoGuSCLS7CgkmxYML6MP1Diw8H1CsJBvxxnpyjyU124hkRHtSTonntqDjiOKAlFUHBY/IoKDepst15Af1Z1HlhylR83W6qR0wLRVOmjckoJCuznDgOMIfQETyUeYQuv6xh8fLfawwequWyp6XSO12FP1oph2oV/g54ewcM3uIsFKPkWVqSjqHK5HA6s8lZjt8/53aEWPvyGmwYiEjs8uxMgl18qMD0G35oAutFBjx3UCtLdwFHe92ATF5HyVn+uPY8g2u2VzeArU0YJ35Qo37XDR3jXAUf3RKfKz/IyI8ju+VgFKhrBFp+LKVDjq5qwsKosCfh2X/h3TCFeW+WJ0xsmHxkD1Z+DOeRcRYn/Ag3C7KRW+U1iwB32gnf12P5yPYNdE2/Nl4wv+Ghpu9JQovbWyH3Rk169R67RLLEllXq8uANnSCI/zN6mjiKVjHSaMf3mGtMR3Q2sR7COn0C9BcJ7qSGdDuUv2cIFNV7LUxB5r0t2sOplgkGIUDaX50Q==;xZ9M/1I1IhQeyHyZ2yxLNA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2024/02/240212153531.htm"
 webUrl: "https://www.sciencedaily.com/releases/2024/02/240212153531.htm"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Climate change predictions: Anticipating and adapting to a warming world"
+    excerpt: "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-02-20T20:00:00Z
+    webUrl: "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 81
 
 secured: "b/WOjoTm445O2wONSldmOs6tjuKRmRkVyW1twDu9kY5V4ItcDwtfaJet9n4nIfp7zO307rahSXndBsjbpExXC4psYL3JcW4AYue1HEUSUv8Q4rSMHS0GPIqT/yCW79G3f4SHhVWB9oKw0xO9Hye5GDTYhuj1rQ6h0wRigeILESLs7X3elgrwBUuq+DmCDRnJFISX5rwlU6fliOmuAd5zUjd5ISqmsTSTpiAzmDGCDZ4kegWmiLDVV6iJURKPoQEcFafL50Gr4fGUKvns65I3um1fedbzgA7wcuF+7f3vQauO+6zsBOVZYISxicCZAoD6quHIRoYj7ep/Z3Jc16iEaB2HWGRelBVJUaDysAdp7cc=;rBtj4DdGJAscq8ejCEiFvg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotion
 ampWebUrl: "https://www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2024/02/18/moxie-how-this-emotionally-intelligent-ai-robot-can-play-with-and-teach-kids/amp/"
 type: article
-quality: 103
-heat: 113
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65d249717feeada5f565af34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -41,6 +42,6 @@ related:
       domain: forbes.com
     quality: 61
 
-secured: "kC85HoUEHMk7SR5Jkh4rfKWrgtuXkSLpfkRz+0hgZJDJF9SdXkAbYPL8KnyL6f1LJS5/td1B1VwM7QqBCOUUpiIxHsRtlfhhFHPVCvXPQmgYLX7v/V4k94sA/Ifz/5BaahPb+538N/FiJ/YK5JCKOx4u2myhMbJRsU6I/wL8ODTuLUsvYtAzTWWxHlBp3B5KnRlMRy+nzcPAIAEGZ2JGZmgz+TQgc90fc7WkuhAtcDXoSPuYf4ihJKTlLsVCXw9ZpUmGKfeKilWqqhU1yWIbEiwG3EXokRyKSdTD02FDmb/VLtzoJyEKOOkrl5YWg+0fnyV4/um8VlYrWG+ea0bxmOOGchVJsWQSvT318L9ufBg=;7ZccbNQTp2e7F+yTnImSgg=="
+secured: "0Qu1WmOM60I8hBoYBLK85vxY/bbcnQ3oeJrjRYQ3a/YJWLspCkUDOvCeWMgsK6GG78y90qay13LLaCJb5GoBhcLVh+2V1hPlKXYGZBg5IcJc/jk4zBehUuZ+dC30wynJFmE0E2pzX5XHYkgt8wl/eaXO8h9uaKyDIWB9c8WPTBxOYyUOhPT6WlStFbS7AsQoI5+mSmpundEZVcV8S+Muk1GYsiGqznUH3ulp+C6hOTA0Kg4Ba9+G68WLKb8h/+Adl9496HWZQG74pZvTCemhWpQ0lianIKRCHYtIRprAU7eZzwAR5lAvW8mS/3Ls/XQglOLEOyL8xbnwwoWA8olXGY9ldjCCXvcyP6KPu8hdo2txSPEN8aftbuxCrUWGNqJzNa1xaovzRXjCVsl8M6gcgrmsX+aU/HzEVw5pg6u+O+Lr+QpX7AF4gTbojCVu0kDGbX68NZvRnXV/mVQ+cM4uO8y0LN0AXXeGbI/RgHTT8YU3sVR7hCbMNcMrn4dCjJIOoub+TpLo+uuK8CUWLkagAw==;LV2EYza+a4+g5R/1/bhG/w=="
 ---
 

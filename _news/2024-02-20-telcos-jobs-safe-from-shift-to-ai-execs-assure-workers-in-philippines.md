@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/en/world/china-and-asia-pacific/telcos-jobs-sa
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/world/china-and-asia-pacific/telcos-jobs-safe-from-shift-to-ai-execs-assure-workers-in-philippines-ckmqxdyz?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 900
     height: 600
     isCached: true
+
+related:
+  - title: "Airports face biometrics systems arrive in Philippines, Nigeria and Spain"
+    excerpt: "In Bangkok, adoption is low for biometrics at check-in, while airports in Spain and the Philippines are implementing it for the first time."
+    publishedDateTime: 2024-02-20T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202402/airports-face-biometrics-systems-arrive-in-philippines-nigeria-and-spain"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/09/23090230/woman-phone-airport-scaled.jpg"
+        width: 2048
+        height: 1363
+        isCached: true
 
 secured: "6qHUIPk/zhnuv+T+H7/lnIdL2nGMAITzWiDOGRqVQmlcMFiuZq45pIR7e5C4MOSReIwIiKwOFB4jJFr6aLXY+SmC+B91/a70ian402kCXdJtrFi2UptYZp7p6Wr0VcIdfi58yDOJyvziAFuhUqanK29MYSu3YAXqPhXEUbQVrHImrNyMsZoUKok71/JDd70NTnm5bwoU0fIoB6R0juNidX6PirVbpB1dWPg4ILV2IggymrXY2oxUE+GOO47EyXhvLXlrJOgmkTZobNzW7orKQYk4RiuNVtRJYNZ7WLOb6kVou7momGYpGS9Eo+YAhso/Cut8H+eyAU+IWbABT9zMHHunQUY+WZgs+9sxaZj0NkY=;aI9w6JwFcmRwD5xhKUU0CA=="
 ---

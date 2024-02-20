@@ -160,6 +160,15 @@ related:
       name: news.bloomberglaw
       domain: bloomberglaw.com
     quality: 34
+  - title: "Planning a Career in the Age of AI"
+    excerpt: "After decades of industrial robots, factory layoffs, and outsourcing, automation has finally arrived in the cubicle. A recent Wall Street Journal article spotlighted how the new “robots for the mind”—the complex algorithms and language models of generative AI—are creating rising uncertainty in the professional class."
+    publishedDateTime: 2024-02-20T19:16:00Z
+    webUrl: "https://www.aei.org/articles/planning-a-career-in-the-age-of-ai/"
+    type: article
+    provider:
+      name: American Enterprise Institute
+      domain: aei.org
+    quality: 19
 
 secured: "8T0ON885wzya/+aA1x5r78cSIYiKlQEKvaocJ+naIxQqnrq12C2YhfEpw3SPcgrnTij3QuCBw5aOq3G4UXNblZwuQVD6v5WpBeXYkiuxyHEHU5JSkhf/HuMRqz0hWNetp1PM1ViLu1M9o6L4oeyW2uX0sX4Rx6lgp50hSuv/XbSAIiAOm1K+i2pO0xM1c2COkCqJhnKJLgBheokTSj+370qNKtJ9EKOX64NX610iwhHZ6uSYlnUx9CenTNSEnLTaJkvz1krx1SUYtDq+ag+2F/hf17TcYc/aPNFGyBlBwV8V0iKm+4IQMYsu7r7J7njoDNKt5boxjnLZ2pHvalpYAb8ZaAaT05F/y7nK5ozKIqo=;g7H3Dgc+EkHpvUM8YHEFoQ=="
 ---

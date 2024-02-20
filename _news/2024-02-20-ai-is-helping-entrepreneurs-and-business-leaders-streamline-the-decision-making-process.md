@@ -43,15 +43,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Poll: Lots of skepticism about artificial intelligence among Long Island business leaders"
-    excerpt: "Only 3 in 10 leaders of businesses, nonprofits in Nassau and Suffolk counties had made investments in AI, according to the 2024 HIA-LI Long Island Economic Survey."
-    publishedDateTime: 2024-02-15T19:29:00Z
-    webUrl: "https://www.newsday.com/business/ai-poll-executives-fmixdt4s"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 10
 
 secured: "3q17ol6YvswyOg8F4JIwK36UBVjP/sSfpjulBHwHSRKQIwnG3efsjVsgkcoU740Cu0cyTLxpgLGMA5ytzn+xqT1Hdfp86lGGxhZsKSV1Ax6AS7qAihBmoMlVVl0VohTpOxBovg/SOV8xj+wVfKYJJpnEuQ5ilqsJm2HDesJNwPT9kF6i4xqhRVwi0gK3TFZEsPJEI2LxFphbgapf4673KNR2Q+RLHt74l98QiXcgDrleVXL1b17S0SQuGfCYxnxJuqsu5NU0ZDWXli4L4xsgcOjmrgknIK3+YWsromnee4RiVQTyf/zg+p5/yJR3sjbAeZk5ziYWIJvfhSunPIZJmdOeUwRVbhO2DbzFepsuUj4=;SuNVlOVJdyuyhLCtTh8cGw=="
 ---

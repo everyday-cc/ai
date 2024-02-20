@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ais
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://pcdn.columbian.com/wp-content/uploads/2024/02/AI_Girlfriends_Boyfriends_81908-e9266.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Homes Of The Future: Getting More Comfortable With Artificial Intelligence"
-    excerpt: "But advances in artificial intelligence (AI) will allow our climate control systems to work even smarter. Artificial intelligence and the future of climate control Intuitively, we know that what goes on outside of the house changes what happens inside the ..."
-    publishedDateTime: 2024-02-15T23:01:00Z
-    webUrl: "https://menafn.com/1107859537/Homes-Of-The-Future-Getting-More-Comfortable-With-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?329364"
-        width: 444
-        height: 250
         isCached: true
   - title: "Top Technology Trends Shaping the Future of Business in 2024"
     excerpt: "Introduction: In the dynamic landscape of business, staying ahead of technological trends is crucial for sustained growth and competitiveness. As we step into 2024, the intersection of innovation and business is marked by transformative technologies that promise to reshape industries and redefine the way organizations operate."

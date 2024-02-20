@@ -34,6 +34,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 55
+  - title: "Can Unicorns Save Us? Investors Pour Money Into Cybersecurity and AI Companies as Threats Mount"
+    excerpt: "Unicorn companies in cybersecurity and AI defied fundraising challenges to achieve growth, driven by hype over generative AI and ongoing data privacy concerns."
+    publishedDateTime: 2024-02-20T20:18:00Z
+    webUrl: "https://www.inc.com/chloe-aiello/ai-cybersecurity-lead-unicorn-charge-in-2023-amid-challenging-market.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 7
+  - title: "Vectra AI and Gigamon Announce New OEM Partnership to Reduce Cybersecurity Risk for Large Enterprise Organizations"
+    excerpt: "The Vectra AI Platform leverages the integration with Gigamon GigaVUE Cloud Suite and is available now through Vectra AI, Vectra AI Reseller Partners, and the AWS, Microsoft Azure, and Google Cloud marketplace. For more information, visit: https://www.vectra.ai/products/platform."
+    publishedDateTime: 2024-02-20T15:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/02/20/9964831.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "YigpR89EETdfR4pFSgkqPlUAsSu1lehLOMxIgRXswgCIh6cxDCNccxb/NCNKRphDfXzHPt5AH57fmNoyRZrRUvm4dBWy4q8iLxrbNOGFCZb0rdEr4f0HxbdzpNXT9FvSVx1HQhmpJIPmQlZnCjZiCWbSmcVi+wOO7v77Prnq/uNKYvy6mm2rfADL6qBjI+1ZobwZaYePOpIKtlgJVg2X3fIcuHXgG2LCOckQ+oQm1J/9vhx0McShBFb7tBVkXaa/Ef17trlRUBJBlOwAbi5y7h/dD/hK7IucrJqO0OW2WxtPhQKqn+OHw2SlSfj4ydsgL7FfKNfjkDa1cdmwSDuwrogiz+VSVgTbKfmOMheBBpI=;WuxtNuc0dmXWWJ1tAcCI3g=="
 ---

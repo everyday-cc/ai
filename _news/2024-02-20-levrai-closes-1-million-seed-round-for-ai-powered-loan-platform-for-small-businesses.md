@@ -19,28 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Lambda Secures $320M Boost for AI Ambitions with Series C Led by USIT, Elevates GPU Cloud Platform"
-    excerpt: "AI infrastructure firm Lambda secured $320M in Series C funding led by USIT, with support from others like B Capital and SK Telecom."
-    publishedDateTime: 2024-02-17T16:23:00Z
-    webUrl: "https://hoodline.com/2024/02/lambda-secures-320m-boost-for-ai-ambitions-with-series-c-led-by-usit-elevates-gpu-cloud-platform/"
+  - title: "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology"
+    excerpt: "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ..."
+    publishedDateTime: 2024-02-20T16:52:00Z
+    webUrl: "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/"
+    ampWebUrl: "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/"
     type: article
     provider:
-      name: Hoodline
-      domain: hoodline.com
-    quality: 40
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
     images:
-      - url: "https://img.hoodline.com/2024/2/lambda-secures-dollar320m-boost-for-ai-ambitions-with-series-c-led-by-usit-elevates-gpu-cloud-platform-1.webp"
-        width: 1640
-        height: 924
+      - url: "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Lambda Snags $320 Million To Grow Its Rent-A-GPU Cloud"
-    excerpt: "Riding high on the AI hype cycle, Lambda – formerly known as Lambda Labs and well known to readers of The Next Platform – has received a $320 million cash"
-    publishedDateTime: 2024-02-16T19:20:00Z
-    webUrl: "https://www.nextplatform.com/2024/02/16/lambda-snags-320-million-to-grow-its-rent-a-gpu-cloud/"
+  - title: "This AI startup founded by ex-Googlers just raised $35 million. Check out the 12-slide pitch deck Bioptimus used to land the funds."
+    excerpt: "Bioptimus is the latest AI startup to emerge from France, with the company looking to create models to help accelerate innovation in life sciences."
+    publishedDateTime: 2024-02-20T08:00:00Z
+    webUrl: "https://www.businessinsider.com/bioptimus-new-ai-powered-bioscience-startup-raises-cash-top-funds-2024-2"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/65d36837a610a9069d5a6038?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Bioptimus nabs $35M to accelerate biology research with AI"
+    excerpt: "Bioptimus, a French artificial intelligence startup led by former DeepMind researchers, launched today with $35 million in seed funding. Healthcare-focused venture capital firm Sofinnova Partners led the investment. It was joined by more than a half-dozen ..."
+    publishedDateTime: 2024-02-20T19:12:00Z
+    webUrl: "https://siliconangle.com/2024/02/20/bioptimus-nabs-35m-accelerate-biology-research-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 19
 
 secured: "44/cZsS8GFTJsYQ/MOsn9dQyYll/xp8hi3kM643hzg7RXds1s1GghwzREaw9XtKTtErsdABhd2TDDmFKGccQo8sMNqf26pz9cLcBnWtjxCJpbbJ0pmp9flci6a49frOfgfBIdmFth9VRJtAUjKN5SySRrE9B6cyU9yf0guEqu+LZHGSUSRVZTglejgyC7cTdiW8C5i413gorj/qjb9teA1fr2x/4rnJ5+zHRG+Y8Pr1H43EjpQvdAtgYAhUTrJA9xYnMToKQ6wLv6MAoXPR3Ym9AEtIG96q2tlElw2HLyKO9cBLF+64LW8Fdzh2XIF7jCbYMEs6eZMQX5TQumDDL2zEvtDiNEaWj3dKQqvepdYTKlEuexQja8jowRa4oyQd0E5hu3gmTwA3F6z3s0OFSFvYOkC48A/346fLEMxPbHw6nI9/p6n/QXNzFmmammovy6mY6dwZIh9P5NDFJ3qJwY+rd/gPzU5BwLBPSd2jhhag78NR0MKRcpJM2JpzYcOExahx0pgvWIVE/ylyW9V9Gtw==;bKcNRxFlackyinFlL8+9mw=="

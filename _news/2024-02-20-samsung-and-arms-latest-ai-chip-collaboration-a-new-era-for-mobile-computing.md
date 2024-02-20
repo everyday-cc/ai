@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37218987"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37218987"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 830
     height: 553
     isCached: true
+
+related:
+  - title: "Collaboration delivers AI-as-a-service platform"
+    excerpt: "The combination of Supermicro’s Nvidia MGX-based servers and Vapor IO’s 5G- and AI-as-a-Service brings AI and 5G to the intelligent edge."
+    publishedDateTime: 2024-02-20T19:13:00Z
+    webUrl: "https://www.electronicproducts.com/collaboration-delivers-ai-as-a-service-platform/"
+    type: article
+    provider:
+      name: Electronic Products
+      domain: electronicproducts.com
+    quality: 19
 
 secured: "rIvx9TQXEAaZGZrfmDchzduBsKtHG/tpJPqARHylc7clwMIJSjPIwuaoM1AvYESpFBnKRxcxW59Ky55sk87qAtOgAkWNdgif4MV7YBHyemQQa/FqMFzxCqkRdNyh+yK5xAfLoSVlQgS9n3l8+sWt8VI8dxLU/ZnDxaoA0i1SZ8TFx31JA+CaSjiyE3o5iJL8OJpTnv4dDWyMZXDNEu++TmT8xiwXor78QvysWU2MhdUX8oKU+ebiAkDNqcpwoZCGk4gK6vKfUlh+d6TWFZgrnZH9el8ZYpV8HhYxVRejVC/PuSqvY/tjERxNi8PbVU02R2mg18rQH5+PLL+Z7dhGo9g63zzf4F/f2Kc37FrsGIU=;4vQL9kX6EJGWKRN2T/Zo6A=="
 ---

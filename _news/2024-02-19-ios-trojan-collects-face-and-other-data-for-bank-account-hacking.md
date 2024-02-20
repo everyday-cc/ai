@@ -9,7 +9,7 @@ ampWebUrl: "https://www.securityweek.com/ios-trojan-collects-face-and-other-data
 cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/ios-trojan-collects-face-and-other-data-for-bank-account-hacking/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "iPhone Devices Under Threat as New iOS Trojan That Targets Facial Recognition Data Reported"
+    excerpt: "The trojan affecting iPhone devices was discovered by cybersecurity firm Group-IB, which also named the malware."
+    publishedDateTime: 2024-02-16T15:11:00Z
+    webUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953"
+    ampWebUrl: "https://www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/mobiles/news/iphone-ios-trojan-malware-reported-targets-steals-facial-recognition-data-face-id-5070953/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 49
+    images:
+      - url: "https://i.gadgets360cdn.com/large/iphone_apps_pic_1708096164615.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "‘GoldDigger’ trojan targets iOS users to steal facial recognition data and bank accounts"
+    excerpt: "Apple constantly updates its operating systems with security patches, which are often exploited by hackers to attack users in"
+    publishedDateTime: 2024-02-16T00:13:00Z
+    webUrl: "https://9to5mac.com/2024/02/15/golddigger-trojan-ios-steal-bank-accounts/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 47
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iPhone-generic-trojan.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "First ever iOS trojan discovered and can steal Face ID data"
     excerpt: "The first ever iOS trojan has been discovered — and it’s stealing Face ID data to break into bank accounts, according to Tom’s Guide. According to a new report from Group-IB, the Android trojan GoldDi"
     publishedDateTime: 2024-02-16T14:19:00Z

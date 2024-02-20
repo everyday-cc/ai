@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "New report sheds light on Apple's upcoming AI features that will rival Microsoft's Copilot"
-    excerpt: "Apple has plans to launch an AI coding tool to developers as early as this year, per Bloomberg."
-    publishedDateTime: 2024-02-15T22:53:00Z
-    webUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2"
-    ampWebUrl: "https://www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-reportedly-plans-to-launch-an-ai-tool-this-year-2024-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/65ce8b2a6fcb546d2d50738d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "With Sora, OpenAI highlights the mystery and clarity of its mission | The AI Beat"
     excerpt: "Sora, OpenAI's new text-to-video model, may be a black-box mystery, but the company's unwavering mission to develop AGI is not."
     publishedDateTime: 2024-02-19T15:23:00Z

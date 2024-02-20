@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Self-Driving Startup Recogni Nabs $102 Million to Design AI Chip"
-excerpt: "Recogni Inc., an artificial intelligence startup that builds technology to support autonomous vehicles, has raised $102 million in funding after expanding into designing chips for generative AI."
-publishedDateTime: 2024-02-20T10:19:00Z
-originalUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-webUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
-ampWebUrl: "https://winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
-cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+excerpt: "Recogni Inc., an artificial intelligence startup that builds technology ... But in recent years, investors have retreated somewhat from ventures related to self-driving cars amid high-profile setbacks from leading businesses in the sector."
+publishedDateTime: 2024-02-20T00:00:00Z
+originalUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+webUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip"
+ampWebUrl: "https://financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/self-driving-startup-recogni-nabs-102-million-to-design-ai-chip/wcm/759ed640-16e0-4452-a63c-bca5ab7afe44/amp/"
 type: article
 quality: 76
 heat: -1
 published: false
 
 provider:
-  name: winnipegsun
-  domain: winnipegsun.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI in Autos
@@ -72,6 +72,20 @@ related:
         width: 1280
         height: 871
         isCached: true
+  - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
+    excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
+    publishedDateTime: 2024-02-20T17:05:00Z
+    webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Croydon support for Met Police facial recognition operation"
     excerpt: "The Mayor of Croydon has shown support for the Met Police’s facial recognition operations, saying ‘if you’ve got nothing to hide you’ve"
     publishedDateTime: 2024-02-16T05:00:00Z
@@ -100,20 +114,6 @@ related:
         width: 629
         height: 419
         isCached: true
-  - title: "AI hardware startup Recogni raises $102M for self-driving solutions"
-    excerpt: "Object detection requires a great deal of data taken from video and other sensors and Recogni’s hardware allows for more rapid recognition. The company said that its chips allow for higher computational power at lower energy use, meaning higher efficiency."
-    publishedDateTime: 2024-02-20T17:05:00Z
-    webUrl: "https://siliconangle.com/2024/02/20/ai-hardware-startup-recogni-raises-102m-self-driving-solutions/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/artificial-intelligence-g47a8f3489_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "More airports are using facial recognition technology"
     excerpt: "The Transportation Security Administration is planning to widen its use of facial recognition technology, hoping to speed up the boarding process. More than 30 airports across the country are already using such technology. The TSA plans to roll it out to ..."
     publishedDateTime: 2024-02-20T00:00:00Z
@@ -138,6 +138,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mF+qUhEp0fAGMtdRE1ZM10PFn4xhr3GgxZNPS2xXcUANUr9RduxuYxHBbqhEnowKEGS0VvwSRpGlfK36S1SoGv3nNsyjhJZzCEqIQliRMkpYiqHHBQxPtiRmfeoFpbX7Iw2Atgf4t5bdPa2a/BXYv400sfW9zoEeuC4lRwvcyrQnHm5XNJmD8btNjj6G7t8GWMCMMjxdhiJEZicAzk/cbWKW8TIPucjNL+2zW9OmvqrAytfaKsrXkUcg1cx0e2DUdZUYQU9LPxNmXl3ooFbU/qm8kDi1Z016bHZc5VTz78sqX/cRic37IENE0RDR1cluu/OLQ1WB4GA3x2guriZZfm8VzxC1QgHrgwVfD6aW7RA=;/jWoIckvo95EjN1NJpffJA=="
+secured: "MSF3k7DkNTO1U+X+s6Xfqk7vdJrHE4xrfMYtcBJFjb8YY1gTWglcBDd1vOABy1IPvaV39KxJF/ngO8oh1kfvd8AjCWYIyqzb+S0faoBVVA/4+0RmS/pLKo1NcpiJUaBIh4MkxQbBVhkWkXe0l1h4ePQk5G1uaYJmZhWgRm1r/uh4l5Tyi/wOqbECbcEPwyCjEflbAh7NqRWSIMPkesq33nZsig62uIiOgt7r+MIq4fHam1KIo/0JuKpGoWHDNKE6sTwY06+n3XdIl0XGdlV3rD5HAOksMXx//r2mJguXHmEF1N+MT5KT2cj5BaSPzyN90RpjgT4HJDOqP0WwJkyMvgGzu3i24ow61e2v7Fu0rfA=;IBiADCvWxWOjt17omzJhrw=="
 ---
 

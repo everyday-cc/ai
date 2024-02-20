@@ -43,20 +43,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Vapor IO and Supermicro Unveil Zero Gap AI, Leveraging NVIDIA GH200 Grace Hopper Superchip for Enhanced AI Services"
-    excerpt: "Vapor IO and Supermicro are today announcing a new collaboration called Zero Gap AI, powered by the NVIDIA MGX platform"
-    publishedDateTime: 2024-02-15T22:03:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vapor-io-and-supermicro-unveil-zero-gap-ai-leveraging-nvidia-gh200-grace-hopper-superchip-for-enhanced-ai-services/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 32
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/02/vapor-io-300x285.png"
-        width: 300
-        height: 285
-        isCached: true
 
 secured: "dj0FqqmimLTBo+vObeJ5vnWKY1zivH+QmAN8cihYIADtYSEBCugJoJLHTWj5XOgWa/0Ed+Y+zZGVK1TFIECvbnUxi35JekG3TZffOgrDvyHuAW7tT4b+fqXTInzw9GkidKl4K/AuZ+FxLmMIrdBCrSM5tqH9bNTQ4bDiCVaTIm2c0Q683iwzv66RmzdZ6EQhvgnDUcjTk/wrr3gbl0schMyOOTl5Czn69BXeQYci5zBbI2PUGihKtlnVK6SW2gAb5+8rOmO90VHW4+rL+iIDC/jN9qFa2gIZ2SxEN4eN8lpipD2K4pLOXy2HkB9EuwDEyO+/ICqI47yf7+q5vi9jTn7fnDlnVg++0k6vFGBOn/M=;Kr38Pa4FeNlt90pJUMxL1g=="
 ---

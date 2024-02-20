@@ -57,16 +57,7 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 34
-  - title: "VW partner Xpeng to hire 4,000, invest in artificial intelligence"
-    excerpt: "Xpeng, which has VW Group as a partner, plans to release around 30 new products or revised models within three years."
-    publishedDateTime: 2024-02-19T13:14:00Z
-    webUrl: "https://europe.autonews.com/automakers/xpeng-boost-workforce-25-invest-ai-driving-tech"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 17
 
-secured: "43yclK32x8UZcykr4aSsiS5bPpctM8E0SKnZ46hfVV2VDxnX/qkZB+dz7imYEkeq9elODTBtVw01FpsbFyocX+VsOO/8gN8bHAuDnZU+B/RA4l4tZbmphcM6fe5ni2IicKTZ04YqSMjbYYxKZ7F/+lVsPQXZvbnWJZH9lBqantuSpfgdRcTDQrgYN5HL+/04jZ82OA36N3ZghDTz3hQT65CbyI+/AH/0KTKRdwgmAoLobyzpJSQzMx2f5WbWWqpm4yovnt/arZdo6lBwQ07uVs78Kj+fYD4A2dXYREjaD6h+MgOHGghOeJoZ761ULr2yRSv6hyDMvvifRcjIl0NEBPaTIl/RnmFihjoPoQHyfCc=;7UGOXemRjcYNpNwJYd+YiQ=="
+secured: "P9ROgmZmmX6cgTCXGKotpXakw21g/AtGHXKTFTyRalrGk59fVjoPHGRSiHM5jIiiP7N06wlY8qbbrpzZXm0zVXNGqYx6/OvgPfzTWWyk3u721MBIUkhcf+RUxw20Kp5sXDKUNfw6IXhlFxTHsXOeQDhYB3WiMGpsayNIhDdLSpCm35QmnplxdFsS5gfj9oKt0UKQfjldlJjzGPlGTNGSQUOchFu0WSmipoh1dX5qo+diENyn1AM7jY7WkrVPAKeZ8hxrMYv1ymlGZkB2N++vbpkPxEroeUss+g+cd3G6txZ9KkBDi4NRfmLKC1eXfeg4pe9KlasbeOjHQ9uwDNPthtgxnJ1FPXohUBbT5hqsaEL6OCQXQsms68BoSOF88X8UnDROvjL58Tzi5PH4cPSglKA0ElTL8X9vsKk5kCMPXi5uVYLDojYnlkW5/mPwFwGA/V72BJ+JMSjgNEEkyF7y59lDCFMbTCAgmNmfcQg8wJ66o10Hssv/6n+NFmfZWa35krbrIcMGw6vV1AHtm4MSjQ==;NOFkICmYPt98QpKeA3ZrYw=="
 ---
 

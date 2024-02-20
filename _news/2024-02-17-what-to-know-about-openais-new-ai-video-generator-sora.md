@@ -44,15 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "OpenAI Unleashes Realistic Text-to-Video 'Sora' AI"
-    excerpt: "OpenAI's Sora tool can generate videos complete with skin textures and high-resolution environments. For now, it's available to red teamers as well as select filmmakers and artists."
-    publishedDateTime: 2024-02-15T20:35:00Z
-    webUrl: "https://www.pcmag.com/news/openai-unleashes-realistic-text-to-video-sora-ai"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "F1rZRcfdACh5jTGqFU8BQ3eTS/q4oy04kTQE2dayBtewna5pO4GkFrTXHurSNw1u03bjbAgWhSuc2MjfejxqEHFFJwt2PWzeQxTRiKuHy6+dNv2mUOFBSqS2FhZgJTIvnJnRz9HZsxiYVVTaabxZDrowH4MCwcze1evQPTRaBgBOMGrSOyhs42QFrihxZcwXpMUZ+xkQYGtb2Nd0Ns+L9Na1LwRFp0Bt0Z3jwM3HLDRqWwRQEbBJV/M2Ize2WSRHjBb4PJ5+o/Paxkgeh6jzeELs63IxgzLTrlqse/GNUewPBwPRrkH9zeHuJXbpNR5IHuap9QgRCcJqmmF3jjBY/BMymXFXrtSMb/7xW6GFrKQjUR5kWLpX9PFIV2rsOtrdrk+DNoLG4VQO8rtgYGNfKbpNRfLcR/9aCcN4jCoqUwbtw1wjqs1p1stIE2g8Qmk6EnQXX7j9+tXz5BY0PWmAVdl0nx+pNWi6w4kvB+qBRAoXiziQzcn2tITAN2HTuWqPoOZJedHiSi3mqJSvJf0oog==;YMcAYbBlii14Gax7K/mdSA=="
 ---

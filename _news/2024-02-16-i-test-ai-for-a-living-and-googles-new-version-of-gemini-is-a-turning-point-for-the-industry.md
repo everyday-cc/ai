@@ -134,15 +134,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 19
-  - title: "Google turbocharges its genAI engine with Gemini 1.5"
-    excerpt: "Gemini 1.0, first announced in December 2023, was released last week. With that move, Google said it had reconstructed and renamed its Bard chatbot. Gemini has the flexibility to run on everything from data centers to mobile devices. Though ChatGPT 4 ..."
-    publishedDateTime: 2024-02-15T20:41:00Z
-    webUrl: "https://www.computerworld.com/article/3712961/google-turbocharges-its-genai-engine-with-gemini-15.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 19
 
 secured: "wTQk0bV/y+HEaguVByQ4BwIg7Au3MLJFjeMmiomJplmHb+pj1nFHX5f3Dx4iCdfArJOLO4sgF6rqT5FNK/QiVZoP3+XAyl9clXIJQzJM1O4fOJ/5fzxNZ/b7vjvtiqwQADMhNXtiYEHOvjwud/5XU4/jovYqAa5ecmWXt0vrQ3JlzrjJX+kMYK9RKc14F9pyc5k0k49CZ4BCKQ7kYXFRr5MdFjXI4FTR1mVA6IQYQzZHpYjeBl6qpkpAn5RG9ozyc5spptqDVr2eRouUV8ERydkMlIMF9YDhSRmZIUfBjl7CfIVRQVNfydomHUzYDLJVMol9YuHRHiaTfnRQbQQCLE9TZ6pF0db+dSaKyEdsa2OlrEotbcjuc9sSzpBKKr1lPZoj0FLmyiFrfu3y8Z0A3UJhVfagbVQbKkqZ+fSRACIYR6L3aT9PUmGn/S5D+i4ct4apI+wTlIH11lYn5n/sbUXITt1qCY+NngV5CEJq30hX34cltMUIbgt1DxrBvLo+6f2WJvehZjlrWgbG6lQSlw==;dd2IUcDchfm/CEmQ1qsQag=="
 ---

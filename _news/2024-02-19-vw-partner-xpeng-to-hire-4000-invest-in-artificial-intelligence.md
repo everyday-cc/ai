@@ -18,51 +18,28 @@ topics:
   - AI
 
 related:
-  - title: "Chinese EV Maker Xpeng to Hire 4,000, Invest in AI"
-    excerpt: "SHANGHAI/BEIJING (Reuters) - Chinese electric vehicle maker Xpeng said it would hire 4,000 this year and invest millions in artificial intelligence, as it seeks to survive what it describes as a \"bloody sea\" of competition in the world's largest auto market."
-    publishedDateTime: 2024-02-19T06:48:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-02-19/chinese-ev-maker-xpeng-to-hire-4-000-invest-in-ai"
+  - title: "7 Ways to Invest in AI Smart Home Devices"
+    excerpt: "An indirect way to invest in smart home devices is to target property management firms that make smart building technology a priority to increase their profit margins. A property may require less maintenance or be more energy efficient once these devices get installed."
+    publishedDateTime: 2024-02-20T20:22:00Z
+    webUrl: "https://money.usnews.com/investing/articles/ways-to-invest-in-ai-smart-home-devices"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 47
-  - title: "'Better than a real man': Young Chinese women turn to AI boyfriends"
-    excerpt: "BEIJING — Twenty-five-year-old Chinese office worker Tufei says her boyfriend has everything she could ask for in a romantic partner: He's kind, empathetic, and sometimes they talk for hours."
-    publishedDateTime: 2024-02-17T00:00:00Z
-    webUrl: "https://www.todayonline.com/world/better-real-man-young-chinese-women-turn-ai-boyfriends-2361986"
+    quality: 51
+  - title: "3 Ways Top Marketers Are Putting AI Into Action"
+    excerpt: "ChatGPT may have sparked the revolution, but a year later, marketers are discovering endless possibilities with AI. Here's how it can boost your efficiency, accuracy--and creativity."
+    publishedDateTime: 2024-02-19T08:36:00Z
+    webUrl: "https://www.inc.com/amanda-pressner-kreuser/3-ways-top-marketers-are-putting-ai-into-action.html"
     type: article
     provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 39
+      name: Inc
+      domain: inc.com
+    quality: 37
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--WN-9H-ul--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/tdy/image/2024/02/13/20240213_afp_ai_boyfriend.jpg?itok=zzY4QWFh"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Chinese AI groups use cloud services to evade US chip export controls"
-    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 5,748 kr. 3,425 kr. for 1 year 285.42 kr. monthly equivalent Then 739 kr ..."
-    publishedDateTime: 2024-02-19T01:47:00Z
-    webUrl: "https://www.ft.com/content/9706c917-6440-4fa9-b588-b18fbc1503b9?_hsenc=p2ANqtz-_O7jzuUM2GswA4pqUdHJGw605HfbEkT_nKT3wem5rQ-ZIPu3ilowf56qBjs1I-CUZSUWCO"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
-  - title: "Nvidia hires ex-Xpeng staffers to boost its autonomous driving business in China"
-    excerpt: "Nvidia has reportedly hired multiple high-performing ex-Xpeng Motors employees to be part of its automotive team in China. The US chip powerhouse is"
-    publishedDateTime: 2024-02-20T10:00:00Z
-    webUrl: "https://technode.com/2024/02/20/nvidia-hires-ex-xpeng-staffers-to-boost-its-autonomous-driving-business-in-china/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 19
-    images:
-      - url: "https://technode.com/wp-content/uploads/2023/08/142394325_l_normal_none-scaled.jpg"
-        width: 2560
-        height: 1680
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1953449102_537414_uofog6.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "iw9GZjNdh0YnpC+yDT0Ci3iFrAW1JMBKMO6ArQ7EPq9vALFXT2o51FOibCNCgGMugPGRNGnkcyj5D0Wn6o8iARE1PJyf7stE67COPKNPEMiRHCCLBgPUEeCz2Z3KhnX968rMbJLwE/c6JLGQId2iwwnqKb9lBCSM2mlIklrPvxfxojYXdr2l3DiFct3dd6j9qFqMkgzTTbsTiaBUmtdPsRDw+IUQMUvq5corSjCTUr6HdjDU6NE1Sza8SAuTMlzbYYuH6/tUCmfn9EE557GalX4yprblua0upQnboosP0iaIZicXZmiO269oOBWqG/lNrHRppPHmA2B+RopRlRegRbP+exbL9s70fBYabCNER84FNyakp6mgJ3pKUBvQCFqvt4/e9azgkMIH7cEEE3K50e/UJp/lVr0y3nWC0CZv7KW3pXbXlTSKjmwusI8YLv+qRaXLD+D/z1bZ27VMjTX6CtuC7/5pdE7efQHCVv+CkU1rQ4PFPgNG603EIDMzBIZnlNXyWVqPnOt3L4Z5UPZJMA==;0StrURsg+zdE6q+UoZOOlw=="

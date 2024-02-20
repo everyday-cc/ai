@@ -83,20 +83,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
-  - title: "BIZCLIK MEDIA LAUNCHES FEBRUARY EDITION OF FINTECH MAGAZINE"
-    excerpt: "LONDON, Feb. 15, 2024 /PRNewswire/ -- BizClik, the UK's fastest-growing publishing company, has published the latest edition of FinTech Magazine. This publication is a highly regarded voice within the Financial Sector for its in-depth reports and interviews with prominent figures in the industry."
-    publishedDateTime: 2024-02-15T21:21:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 24
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Carbon acquires fintech firm to empower SMEs"
     excerpt: "Carbon, a digital financial service firm, has acquired Vella Finance, a Nigerian fintech company, to empower Small and Medium-sized Enterprises (SMEs)."
     publishedDateTime: 2024-02-16T08:36:00Z
@@ -196,15 +182,6 @@ related:
       name: BetaKit
       domain: betakit.com
     quality: 3
-  - title: "BIZCLIK MEDIA LAUNCHES DECEMBER EDITION OF FINTECH MAGAZINE AND INSURTECH MAGAZINE"
-    excerpt: "The December editions of FinTech Magazine and InsurTech Magazine include interviews with leading experts and executives from J.P. Morgan, GFT Group, Wolt and Apiture."
-    publishedDateTime: 2024-02-15T19:49:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/15/9963434.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
   - title: "PROVEX Fintech Limited Boosts Technological Innovation With Significant R&D Investment"
     excerpt: "In a bold move that underscores its commitment to leading the fintech industry, PROVEX Fintech Limited today announced a substantial increase in its"
     publishedDateTime: 2024-02-18T14:24:00Z

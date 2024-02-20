@@ -41,20 +41,18 @@ related:
         height: 733
         isCached: true
   - title: "Visual Studio adds AI-generated Git commits, previews AI chat"
-    excerpt: "Microsoft has made Visual Studio 17.9 generally available and introduced a preview of Visual Studio 17.10. Both bring support for new GitHub Copilot capabilities."
-    publishedDateTime: 2024-02-16T00:00:00Z
-    webUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.html"
-    ampWebUrl: "https://www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712788/visual-studio-adds-ai-generated-git-commits-previews-ai-chat.amp.html"
+    excerpt: "while Visual Studio 17.10 brings AI-powered chat into the IDE. Other productivity enhancements in Visual Studio 17.9 include the ability to open a GitHub or Azure DevOps pull request from either Visual Studio or a web browser, the ability to switch between ..."
+    publishedDateTime: 2024-02-16T11:00:00Z
+    webUrl: "https://www.reseller.co.nz/article/710095/visual-studio-adds-ai-generated-git-commits-previews-ai-chat/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 39
     images:
-      - url: "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/microsoft_visual_studio_26.jpg"
+        width: 505
+        height: 315
         isCached: true
 
 secured: "yiZL6aJfnNcU90AiMxz1srTmps7FrTbf5yxxJjzebaAvdyQfGVj1nEcppuYJuiwkIphugQkX3SUnVzRsW1Jocaei1dWWUd3gRbyIE5iVm+lFWRK19/z4Uo2gFauo3rI6EUeUZDWclI5Qw00THDWudIemBAPidQMZrGL3Z4PkIcTBFlACngU8B4O3k8ZqZI8KQswXKJLa99OUoQcSLWMWsG+lzq3AYSaDIdq0J+W3cmDCZLoikfhonoG66EmB5nbeT0qbm0y0tQIyAqXNlzpE3kurztDeZkW2C92O5myfAD2piYlVJIICX5n9CMjXEvhbL5HVAj/2jZUxurcpCenyzPkr89HiXYz6JScGSEnpafM=;dBsoZXT5QCGguYpOyvsjlg=="

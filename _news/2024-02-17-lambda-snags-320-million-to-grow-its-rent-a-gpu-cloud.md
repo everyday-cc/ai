@@ -33,15 +33,6 @@ related:
         width: 1640
         height: 924
         isCached: true
-  - title: "Levr.ai closes $1-million seed round for AI-powered loan platform for small businesses"
-    excerpt: "Vancouver-based FinTech startup Levr.ai has secured $1 million CAD in seed financing to continue scaling its artificial intelligence (AI)-powered loan software for small businesses. The seed round comes a year after Levr.ai raised $1-million in pre-seed ..."
-    publishedDateTime: 2024-02-20T00:00:00Z
-    webUrl: "https://betakit.com/levr-ai-closes-1-million-seed-round-for-ai-powered-loan-platform-for-small-businesses/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 11
 
 secured: "n4WISmB85KttVdu6/cXxytIzitHZ/sr4G9JYSh8qRc04uRjJjnTlEIliMbTq90zKqswtP3XKElULl4NYsaIHLbDKp4r6NeE574AQFsqHVtcWF9PAUuESAn2DDQ/+gvooCeKzcLqSN7GkqXmndAq27DFnAFy71WS3JieSPwHmA9j5R4cHOGcKxQoHchkZuebNFrbad1fdkMSSpuPbJj01ZKq7WpyR1yceWwxGD9gkxFGpwTq1iZnvx5lPpgU8KdlOSoEvQZnk9PRmyngZjG9KXbtTQSSOQ9GkhPAGr/Q3dbe8jdwntnbjNqgBzPS+iZvQFO/COStHoZNvTNFBqxwJMI+SYaldW9fO0bPlBmafaaQ=;wr3rJmwplbw2D9SNKT1cOg=="
 ---
