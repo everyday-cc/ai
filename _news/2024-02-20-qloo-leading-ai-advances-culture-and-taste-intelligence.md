@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/19/qloo-leading-ai-advances-culture-and-taste-intelligence/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "7x3+98Dkh1haPghQfV2NjlZaTU7dSFmyB3U+heS2/fyvjdJKKaZO5GgqJiTfCpoAURP3KK5EW+VG6GJitdRanT91USQ9+VatbxUxdwHyYopdWS/hNaZ1FbqIn2/lNF9nMPD4c+76OtcH3FnCZ21Ns+iUJ9QnX+mddJK4+tiB/OwDUh6lWBVbKAaKKBBdtKg9obqbOkOP5feXFUO0nLF/5ut2miPkywxJRKkq+lWrs9DNj8WCe0O3ccZDp6lHZZMT1wHj33TaCdLsCK7jpBe74MtxbjffmZgwVuOhjdRyUgnDyUQbtNQaJyxPf0WkhEkJyZcsgmUnLMnrmMCStif1+40X1DNRjtFOEpPNSxc6GAs=;Iw9VTwyVdqWpt82r5qG++A=="
+secured: "8CejyKwEeiIT1/lKtdmvOlHA5Yor9Ycmz6+55N4qn/7dSuXrziTPg4n3iDHMdXxzPZLdlCCITax/D5MUOlGxvvAyuDcXBXcCNgzOgdU4duAzDPeF7iNBhZOeJLeCb6P6VYQ0p0T/YPRJOfi1F/sWQJ3P8jMz1KlEHU9+R9z/cackPYI2BAMdy7SMut64KiDH35H93hPVGA8FljlWzbx52wCm5sM46Ld0wCi2kVHwPXOQB9KAV/XWn0e0IOh7bAQm0kjFzFCv75nYJnyo7buuSDI5AqnMn8DYaCpuHg7pgIaVYJQtIoVrmzjNoCyeSBhZZCwVPp0zg042moLdcKPl/0rW5YXB0vxhjzK6dMhfvwT0N/OOMNP+Oe+/I6wLnAq03cBfP8LK5bZH84VK279+b7IMCCnFKj5wpXkEDt1ohzi5w0CpGEX6zZwlTLRb3rctVqiZlSp3QMXbhn5OtD7FAnDM/+oY0/irqiPGAbQWbxjMinc2RogvdWdF2vRjLGb1OYjbq9r4abcEhEIne3weKA==;e37UyyIfLsLM7TIIxWmxBQ=="
 ---
 

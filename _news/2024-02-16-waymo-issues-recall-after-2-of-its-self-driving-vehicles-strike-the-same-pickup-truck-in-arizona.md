@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo issues a voluntary recall on its self-driving vehicle software"
-    excerpt: "Waymo announced a voluntary recall of its self-driving car software following two incidents involving its vehicles in Phoenix, Arizona. This marks the first recall by the Alphabet-owned self ..."
-    publishedDateTime: 2024-02-14T23:29:00Z
-    webUrl: "https://www.cnbc.com/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/13/waymo-issues-a-voluntary-recall-on-its-self-driving-vehicle-software.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107370336-17073249282022-12-13t080548z_2114347046_rc2v4y9ikrdb_rtrmadp_0_waymo-san-francisco.jpeg?v=1707324947"
-        width: 3200
-        height: 2400
-        isCached: true
   - title: "Alphabet's Waymo recalled vehicles to update automated driving software"
     excerpt: "The ADS systems, which had versions released prior to Dec. 20, may inaccurately predict the movement of a towed vehicle, according to the agency. Waymo has updated the software free of charge and all affected vehicles were repaired by Jan."
     publishedDateTime: 2024-02-15T11:09:00Z
@@ -58,20 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-200252,msid-107723122/file-photo-waymo-rider-only-robotaxi-test-ride-in-san-francisco.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Self-driving taxi company recalls software after crashes in Phoenix"
-    excerpt: "A driving technology company voluntarily recalled its self-driving car software after two of its robotaxis hit a towed vehicle in Phoenix at the end of last year. Waymo, a subsidiary of Google's parent company Alphabet,"
-    publishedDateTime: 2024-02-14T23:10:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/2857443/self-driving-taxi-company-recalls-software-crashes-phoenix/"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
-    images:
-      - url: "https://wex-s3.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/AP23077011657218-1-scaled.jpg"
-        width: 2560
-        height: 1403
         isCached: true
   - title: "Waymo issues software recall after two self-driving cars strike truck in Phoenix"
     excerpt: "Waymo’s recall involved 444 of its vehicles, which underwent a software update to address the issue between Dec. 20 and Jan. 12."

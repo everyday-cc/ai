@@ -95,6 +95,15 @@ related:
         width: 1280
         height: 866
         isCached: true
+  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
+    excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-under-the-radar-fintech-stocks-ready-to-make-a-move-1033078326"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Why Fintech In The Nordics Takes Some Finding"
     excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
     publishedDateTime: 2024-02-19T12:34:00Z

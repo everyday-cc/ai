@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning
 webUrl: "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-that-could-make-your-february-unforgettable-1033071832"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Exit Now! 7 Blue-Chip Stocks to Sell in February 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chips, or shares in established companies with long track records of"
-    publishedDateTime: 2024-02-19T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-7-blue-chip-stocks-to-sell-in-february-2024-1033079793"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "What Are the Best AI Stocks in February 2024? Our Top 3 Picks"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Investing in AI stocks is thrilling, especially now in February 2024."
     publishedDateTime: 2024-02-19T16:19:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/best-ai-stocks-in-february-2024-1033080818"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+  - title: "Exit Now! 7 Blue-Chip Stocks to Sell in February 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Blue-chips, or shares in established companies with long track records of"
+    publishedDateTime: 2024-02-19T11:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/exit-now-7-blue-chip-stocks-to-sell-in-february-2024-1033079793"
     type: article
     provider:
       name: Business Insider

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-sommelier-spilled-wine-on-my-pants-then-it-asked-for-a-tip/"
 type: article
 quality: 89
-heat: 94
+heat: 89
 published: true
 
 provider:

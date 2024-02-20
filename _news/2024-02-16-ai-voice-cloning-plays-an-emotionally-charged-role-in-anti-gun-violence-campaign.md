@@ -45,13 +45,18 @@ related:
     quality: 29
   - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
     excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-    publishedDateTime: 2024-02-19T12:30:00Z
-    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+    publishedDateTime: 2024-02-19T14:30:00Z
+    webUrl: "https://www.aol.com/news/six-young-people-died-gun-123023803.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 26
+      name: AOL
+      domain: aol.com
+    quality: 16
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_articles_945/bdbcf8e06331d0b16ce5b23c25d51f70"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AI-generated voices of 6 young people who died by gun violence are sending pleas to lawmakers"
     excerpt: "\"It does seem to kind of straddle the line between a good use of AI and something that's questionable,\" says Robert Wahl, an associate professor of computer science at Concordia University Wisconsin and an expert on the ethics of AI technology. Creating AI ..."
     publishedDateTime: 2024-02-19T12:14:00Z

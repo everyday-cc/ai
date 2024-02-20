@@ -57,6 +57,22 @@ related:
         height: 472
         isCached: true
   - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
+    excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds. Some are also starting to use artificial intelligence to generate synthetic voice clones that can save money or bring more characters to life."
+    publishedDateTime: 2024-02-20T00:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/tech/video-game-actors-ai-voice-clone/5151319/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 46
+    images:
+      - url: "https://media.nbcnewyork.com/2024/02/AP24036573718196.jpg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Some video game actors are letting AI clone their voices. They just don't want it to replace them"
     excerpt: "Video game studios pay professional actors to voice the soldiers, goblins, elves and aliens that populate virtual worlds"
     publishedDateTime: 2024-02-19T04:43:00Z
     webUrl: "https://www.washingtonpost.com/business/2024/02/19/aigenerated-voice-clones-video-game-actors-replica-studios-sagaftra/b88abcd2-cf13-11ee-ac8b-765284b5203e_story.html"

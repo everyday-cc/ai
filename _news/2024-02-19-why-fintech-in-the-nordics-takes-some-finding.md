@@ -99,6 +99,15 @@ related:
         width: 1280
         height: 866
         isCached: true
+  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
+    excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-under-the-radar-fintech-stocks-ready-to-make-a-move-1033078326"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Fintech Funding in Asia Sees Positive Signs Despite 56% Plunge"
     excerpt: "Fintech funding in Asia (including the Middle East) plunged by a significant 56% in 2023, carrying a downtrend that started the year prior. Despite the plunge, 2023 also recorded some positive indicators,"
     publishedDateTime: 2024-02-15T04:02:00Z

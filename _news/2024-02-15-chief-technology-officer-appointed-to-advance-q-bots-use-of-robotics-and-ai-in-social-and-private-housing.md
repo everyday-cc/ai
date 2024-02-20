@@ -71,20 +71,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "CHAI AI: A Top Platform for Conversational Artificial Intelligence"
-    excerpt: "On the consumer side, the main use case for Generative AI is for conversational purposes, with the leading platform, TikTok, amassing over 1 billion monthly active users. The largest emerging players are Character.AI and Chai AI, reporting 20 million and 5 million monthly active users, respectively."
-    publishedDateTime: 2024-02-14T23:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/02/14/9962686.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Graphcore reportedly explores sale amid tough competition in AI chip market"
     excerpt: "U.K. artificial intelligence chip startup Graphcore Ltd. is reportedly exploring a sale as it has struggled to compete with the likes of Nvidia Corp. in the booming AI chip market. The Telegraph reported Saturday that Graphcore has been discussing a potential deal with major tech companies to raise new funding to cover heavy losses."
     publishedDateTime: 2024-02-18T23:49:00Z

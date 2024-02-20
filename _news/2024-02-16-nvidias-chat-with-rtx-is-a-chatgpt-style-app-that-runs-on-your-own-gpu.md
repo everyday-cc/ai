@@ -101,7 +101,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 65
+    quality: 69
   - title: "Advisory Firm Ankura Launches Generative AI Tool Crafted With ChatGPT Developer"
     excerpt: "DUBAI (Reuters) - Advisory and forensic accounting firm Ankura Consulting said on Friday it had launched a custom, generative Artificial Intelligence (AI) tool developed in partnership with Microsoft-backed firm and ChatGPT creator OpenAI."
     publishedDateTime: 2024-02-16T06:50:00Z
@@ -153,22 +153,6 @@ related:
         width: 1640
         height: 924
         isCached: true
-  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
-    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
-    publishedDateTime: 2024-02-15T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
     excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
     publishedDateTime: 2024-02-16T05:30:00Z
@@ -206,6 +190,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 35
+  - title: "GitHub Copilot vs. ChatGPT: Which is Better for Coding?"
+    excerpt: "In essence, both GitHub Copilot and ChatGPT have unique strengths that can be strategically utilized for different aspects of software development. While Copilot enhances hands-on coding and productivity, ChatGPT provides foundational support in planning and problem-solving."
+    publishedDateTime: 2024-02-19T15:45:00Z
+    webUrl: "https://www.techopedia.com/github-copilot-vs-chatgpt-which-is-better-for-coding"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
 
 secured: "itWQTTpbUuODCq+LdhZujJTEfEgf/TyaugxsHMnsdBn0qxcrfDj8ssnOXdBEKGjJEDHs7gLUbgKv101zpYyMDBP+GoNiO4fzKb1VJJ2dMihtuV8eo8N+gLYVK+dYOL86WYUAtGjwQBjaGJ26jVDBfar7XNFUntqwZO0OuM5UfchxgznCY2s7+iQom1n/sODt8yoLX/i24btIb6hGLBZGiv8mnTZNniFCmJzr/1IqIlO9fDZ/9+H+Jt6Ipo65G8UZDE7akDumywh/9z6pKtbwtarE57FEI0/NbI4jVwEEoTP88UuE28mzm2u/L6+BnlCPC5F6xfBaQg/lONbSptHzTLz0P6zw4QyiNRAZxwhjatyyTa5Yx4KempifZVGUNv5ukCAYWSM5LfSqOxJk3yY+d2R5U1Dsidj7faevMVNgaMozB0qIl5ZUIf5LItVbjIaH0juTm8CEfFnELioOapZNwkgsWlXAfYi8N9YkKDfCbqs+782cNVJu2ddB/gh3/rMSzvIn4H5g/Fufhzgpp+wigw==;sa3wpgOFtbXE/P0X9KfK9w=="
 ---

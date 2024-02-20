@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to Watch the DAYTONA 500: TV Schedule, Live Stream and Start Time - Monday, February 19"
+    excerpt: "See how to watch the 2024 DAYTONA 500 on Monday, February 19 live streaming or on TV, with channel info, start time and more."
+    publishedDateTime: 2024-02-20T00:30:00Z
+    webUrl: "https://www.kmvt.com/sports/betting/2024/02/19/daytona-500-nascar-live-stream-tv/"
+    type: article
+    provider:
+      name: KMVT News
+      domain: kmvt.com
+    quality: 12
+    images:
+      - url: "https://gray-kmvt-prod.cdn.arcpublishing.com/resizer/v2/XQGRX4ITKNPHHDYQQU2YSPGL7Q.jpg?auth=8a1e6ae0f2c024d45281f914bb8ac047c55cd7bd145698f5977cdc9e7ca54c2c&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Wofford vs. Samford February 28 Tickets & Start Time"
     excerpt: "The Wofford Terriers (15-11, 8-5 SoCon) face the Samford Bulldogs (23-3, 12-1 SoCon) in a clash of SoCon teams at 7:00 PM ET on Wednesday. The game is available on ESPN+. If you're looking to go to this matchup in person, head to StubHub or Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-02-15T14:20:00Z

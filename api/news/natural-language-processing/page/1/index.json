@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2024-02-16-do-you-hear-an-echo-probably-and-it-could-be-the-answer-for-improving-ai-speech-recognition.md",
+      "title": "Do you hear an echo? Probably, and it could be the answer for improving AI speech recognition",
+      "excerpt": "The team from Zhejiang University said the discovery could pave the way for improving automatic speech recognition for machines to produce more accurate transcripts from recordings. “An intense ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/15/c5a52972-96cf-42e4-a162-c15abf165ccc_ff565909.jpg?itok=C8FistIM&v=1707989272",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3252076/do-you-hear-echo-probably-and-it-could-be-answer-improving-ai-speech-recognition",
+      "publishedDateTime": "2024-02-16T15:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-lex-friedman-weighs-in-on-the-future-of-ai-language-and-existential-self-reflection.md",
       "title": "Lex Friedman Weighs In On The Future Of AI, Language … And Existential Self-Reflection",
       "excerpt": "At the top of Lex's comments, he talked about disruption – predicting that two new trillion-dollar companies will emerge out of the AI era, and suggesting that Google, Meta and Microsoft will likely not be able to pivot quickly enough to maintain their dominance.",
@@ -167,7 +219,7 @@
       "originalUrl": "https://www.forbes.com/sites/markminevich/2024/02/15/the-rise-of-the-chief-ai-officer-powering-ais-corporate-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -563,7 +615,8 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -759,6 +812,49 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-brings-real-time-ai-chat-translator-to-connect-international-gamers.md",
+      "title": "Roblox Brings Real-Time AI Chat Translator to Connect International Gamers",
+      "excerpt": "The latest tool for Roblox looks to answer the linguistics divide on the platform, especially with its renowned global presence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
+      "originalUrl": "https://www.techtimes.com/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/435840/roblox.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/301372/20240205/roblox-brings-real-time-ai-chat-translator-connect-international-gamers.htm",
+      "publishedDateTime": "2024-02-06T02:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1314,84 +1410,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
-      "title": "Successfully implementing natural language processing and GenAI with knowledge management",
-      "excerpt": "Specifically, the integration of natural language processing via large language models (LLMs) and AI with private knowledge platforms poses significant value. Experts from Datavid joined KMWorld’s webinar, Integrating LLMs With a Private Knowledge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
-      "originalUrl": "https://www.kmworld.com/Articles/News/News/Successfully-implementing-natural-language-processing-and-GenAI-with-knowledge-management-162456.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-04-deep-learning-for-natural-language-processing.md",
-      "title": "Deep Learning for Natural Language Processing",
-      "excerpt": "This book makes these complexities accessible to those from a humanities and social sciences background, by providing a clear introduction to deep learning for natural language processing. It covers both theoretical and practical aspects, and assumes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/54D23147D52F30B63AF2ED473676DEF0",
-      "originalUrl": "https://www.cambridge.org/core/books/deep-learning-for-natural-language-processing/54D23147D52F30B63AF2ED473676DEF0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cambridge.org/97813165/15662/large_cover/9781316515662i.jpg",
-          "width": 427,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-03T23:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

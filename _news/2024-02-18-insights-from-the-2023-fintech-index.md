@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexlazarow/2024/02/18/insights-from-the-2023-fintech-index/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -91,6 +91,15 @@ related:
         width: 1280
         height: 866
         isCached: true
+  - title: "3 Under-the-Radar Fintech Stocks Ready to Make a Move"
+    excerpt: "The word \"in\". A play button in the shape of a television screen. A stylized camera. InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech stocks continue to lead the way with groundbreaking innovations in payments and customer services."
+    publishedDateTime: 2024-02-18T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/3-under-the-radar-fintech-stocks-ready-to-make-a-move-1033078326"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Why Fintech In The Nordics Takes Some Finding"
     excerpt: "Attendees gather at GoWest Nordic Venture Capital Forum in Gothenburg. February 2024. Despite the international renown and impact of Klarna, fintech was not one of the hot topics of conversation at the recent GoWest Nordic Venture Capital Forum."
     publishedDateTime: 2024-02-19T12:34:00Z
@@ -217,6 +226,6 @@ related:
       domain: menafn.com
     quality: 0
 
-secured: "fwIy3G08ckVXHFssz8ZY7Dfi2x68/GfAfJrx1j+OTXkibhOpmqWIDWM9oC2M7qLotZkn5PYAKM2EhKkr8ZOiYdMCHhAVNQVDlCsdaKzogdDQgt8zMVmTmrTL9ZeQCkFqdje6Y/kKEi/YzwRHXSC5vXyvNR5Clzk53icRu7q6UybqtvJTzc7JAngL7TjvqrpYMf9XL2H18rq6Tih5mtv+BWyrd7td5MUdQlCvrVrJnE1W75kr5C2eqHelhwayR4fZYvGg3lMr6tR6upD4JMbuh8l49qmKcGNplQY/RWScZXX3IDbbkarAdRt9JzR+xlHQXP+o6dI30Pykorql2ia5bq67xuRSXShgDQwi42plizY=;p5JgDQag9ykEYKUewUYTAA=="
+secured: "5Nm+QiZzXZgt6nFtg9IsSq1lD3sZvdvJZPxNZd8AmOHiOqKAUbJYElhQ8ALxOms0dJBkjmkDgfg2tdDVhDhds/q8t5LR68OEBu5IxYgaKkO4G1ZhxWMw91W9oXUDanUCh1VOvd+Qff1254UTlToNFpuUID7ot8Kwpl7UnIp41qwy7U1LeZEheiMrUwY/It4z9LVMJRkk3sHQKKFNA5WOntBXmWNlog8rZEjhhFCFvA72OwBa6rqIqO62ilH3mw1YLjR0femugI11Ibx8JqtfJwMxW/XDIcx6r9Wj2TUXAZ/U+Dpfnt+UlMI9gjrUlW4lgSfDMnZdTfdvcx+pFnnTGSF0+ZDzSlc0VY6G9+khBcnO8Cl7ooNLZR+tRur9x+btI/Qzjknt3chZaOnxjyHgXzeNnDxK4SDzZVlBZWR1oLiJVDly9kNg4mFwWt0LiXxP7NfR/0LQZLCL/h8Q9txFFQ1sWWum2M22m9trVGPIPMlfW4Z4tWl4jLbno2sfhopJ6pRm1PHGo4qsc0vNzIx38A==;9XVaV5+FHBDHlpK8UsXo+A=="
 ---
 

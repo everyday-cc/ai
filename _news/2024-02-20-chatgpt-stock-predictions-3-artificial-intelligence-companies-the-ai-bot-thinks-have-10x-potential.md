@@ -6,7 +6,7 @@ publishedDateTime: 2024-02-19T21:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-artificial-intelligence-companies-the-ai-bot-thinks-have-10x-potential-1033080966?user-agent=mozilla%2f5.0 %28windows nt 10.0%3b win64%3b x64%29 applewebkit%2f537.36 %28khtml%2c like gecko%29 chrome%2f102.0.5005.63 safari%2f537.36"
 webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-artificial-intelligence-companies-the-ai-bot-thinks-have-10x-potential-1033080966?user-agent=mozilla%2f5.0 %28windows nt 10.0%3b win64%3b x64%29 applewebkit%2f537.36 %28khtml%2c like gecko%29 chrome%2f102.0.5005.63 safari%2f537.36"
 type: article
-quality: 65
+quality: 69
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "I tested Meta's Code Lama with 3 AI coding challenges that ChatGPT aced - and it wasn't good"
@@ -150,22 +152,6 @@ related:
         width: 1640
         height: 924
         isCached: true
-  - title: "OpenAI's Chair Bret Taylor Dismisses Concerns About His AI Chatbot Startup Competing With ChatGPT-Parent: 'We Exist At A Different Layer'"
-    excerpt: "Bret Taylor, chairman of OpenAI, has launched a new AI chatbot startup, Sierra, securing $110 million in funding, and emphasizes that Sierra and OpenAI are not competitors but operate at different levels,"
-    publishedDateTime: 2024-02-15T01:02:00Z
-    webUrl: "https://www.benzinga.com/news/24/02/37147866/openais-chair-bret-taylor-dismisses-concerns-about-his-ai-chatbot-startup-competing-with-chatgpt-par"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37147866"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37147866"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/ChatGPT-OpenAI-Shutterstock_0.jpeg?width=1200&height=800&fit=crop"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Google Gemini Ultra 1.0 vs ChatGPT 4"
     excerpt: "In the rapidly evolving world of artificial intelligence, Google has taken a bold step forward with the introduction of Gemini Ultra 1.0. This new AI"
     publishedDateTime: 2024-02-16T05:30:00Z
@@ -203,6 +189,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 35
+  - title: "GitHub Copilot vs. ChatGPT: Which is Better for Coding?"
+    excerpt: "In essence, both GitHub Copilot and ChatGPT have unique strengths that can be strategically utilized for different aspects of software development. While Copilot enhances hands-on coding and productivity, ChatGPT provides foundational support in planning and problem-solving."
+    publishedDateTime: 2024-02-19T15:45:00Z
+    webUrl: "https://www.techopedia.com/github-copilot-vs-chatgpt-which-is-better-for-coding"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 21
 
 secured: "xa2bHgHcEJZjK/VTE21PMagrgiqK2JJtUR89B09PY+7vlTe1LO3+PC21fx4oRXg1Mi4rPNL5Ipnj7Qux1gLh+2Ymtpv9cH05mWedShDBY8twg6SuOBzfYggdCfnEr35xxT5do+LAFQWoYbfgEN2FvX6D8QPt1wIggVCfxU0Jpj5zjrYZUUy2nr8HlV13o/PNPzaGbq07CEUa0ZLmwNQgGE1f9MAhBLKLESmVu2XngK4JpFAuS1xl7RWzme+kYnnc1CJNc+Lem69k+xZD4JQGuAp96F+h9HOBtjeRKmhRL9NkYVhp6LxeVjAz1HTJq/TJV0nSTTy4m5BKMFnOBq8rjyuYYpPxoVNzNRplsUAxsZ2vIDItSN1wKfW57PrFcALUCVwDcdyb6hIfmrqKA7WLTaq6BgnN8rsAD/qwlheYr7TvvHnI3Df5eJOZQ/bc/BulGjbal4a20QM/ECKq6U+2kVGuLTsCaLAU+oS8uklI9R9D7rx9qzWri79vcogOlkBEtGHTDB6Vw93HipAuXu545A==;RG4yOIHobiSpAtq/7GT09g=="
 ---

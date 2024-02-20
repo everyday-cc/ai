@@ -14,6 +14,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://assets.medpagetoday.net/media/images/108xxx/108692.jpg"

@@ -2,25 +2,27 @@
 category: news
 title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
 excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-publishedDateTime: 2024-02-19T12:30:00Z
-originalUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
-webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+publishedDateTime: 2024-02-19T14:30:00Z
+originalUrl: "https://www.aol.com/news/six-young-people-died-gun-123023803.html"
+webUrl: "https://www.aol.com/news/six-young-people-died-gun-123023803.html"
 type: article
-quality: 26
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI Ethics
   - AI
+
+images:
+  - url: "https://media.zenfs.com/en/aol_cnn_articles_945/bdbcf8e06331d0b16ce5b23c25d51f70"
+    width: 960
+    height: 540
+    isCached: true
 
 related:
   - title: "AI-generated voices of gun violence victims are sending pleas to lawmakers"
@@ -67,6 +69,6 @@ related:
       domain: ksl.com
     quality: 8
 
-secured: "wOFKZGH/vdW1/Dikg0VYAoIgFLGfCSJJsueeQ5NM0S4gm6QzG+M4dkwyOPQPpHJfCmSNEl/KNaFT/sFVRqeuLIs2bDeZ7tcrVThRQ81GDrbkJvgZmtDS2opmf3HsddvJWQyHAgnY4xCqm9EYxkDMUls4m8c8+xtD21pzuafLzTHIHlOUVq7tKtMzotqEBB6oyTw8y6KafauEcQX31hqQ/5b9JDet4ztLL9ZLE5mzeTJ4CdzTZfmkfzFfrzQOxU/gPT9iueN0ahXH4lr3jGiLILuOagfc1a15NpOiG7OECDHFDJC792zkuXvfVT4wi6RfhBPktIuOZH2rfLWUViWeAj7KyDz+JaWGIJXHNbtCqLh3XlQOmRnlvnyYde4/t9ccHMSHYTtbO2GBxDuNNEWpQSzHIOuz3SxpNe6EI4zHx4WA8uezN84zfALyhyosynnCYQypUl3y/ombxEmKqELNYsW7sN9zyzVOb6uTpjmZjCsXdPyXAMJVefHfMlyyw3LWclMSxcAEf2i7gYwD7/88Kg==;SfXEzA/JRFM0bNiwhn5Rlg=="
+secured: "q/CXVvpNrwrUQjN7zDZq9sqbrIcN0Tq2h1KOsgfzrxaUfqFBoF0bq4+e3q99hRuYNcXqb0iCTHnKlJUvULG6V1dk1hh7WcKNdUBLB2w0LkZQtROqXGuKOHd9GXF91vv3Wpie+bE+HvOcFHfEHwGqvnXJqNSu3VoObjg0s9UHAhLHz2fU88tZZ9h4UGRPjaXyB5WxOkOel741lFWy83i9mr/WyrGOh3KehOYe8TmF+bpgoCNlLL4dAZjyt0tsCyK+EHnnADcDWjtqnJLDmOiv9j5LZail5tf1SqKQFdFpkZKBe3HaRYBr5DmWzsB9h1PXwDLwDbzwASO0fd7q+WcBafbKOuVkpKiYP95FH2JuLuQ=;g4qjmosmo1loQQWmUXkfqw=="
 ---
 

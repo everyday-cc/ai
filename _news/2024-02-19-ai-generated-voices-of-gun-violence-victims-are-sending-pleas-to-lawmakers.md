@@ -38,13 +38,18 @@ related:
     quality: 29
   - title: "These six young people died by gun violence. Now their AI-generated voices are sending gun control pleas to lawmakers"
     excerpt: "A new campaign is encouraging Americans to send pre-made voice messages to members of Congress pleading for stricter measures on gun control. But there’s a wrinkle: The six messages are all from young people who died by gun violence,"
-    publishedDateTime: 2024-02-19T12:30:00Z
-    webUrl: "https://www.cnn.com/2024/02/19/us/ai-generated-voices-victims-gun-control-cec/index.html"
+    publishedDateTime: 2024-02-19T14:30:00Z
+    webUrl: "https://www.aol.com/news/six-young-people-died-gun-123023803.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 26
+      name: AOL
+      domain: aol.com
+    quality: 16
+    images:
+      - url: "https://media.zenfs.com/en/aol_cnn_articles_945/bdbcf8e06331d0b16ce5b23c25d51f70"
+        width: 960
+        height: 540
+        isCached: true
   - title: "AI Voice Cloning Plays an Emotionally Charged Role in Anti-Gun Violence Campaign"
     excerpt: "The Shotline's use of the voices of children killed by guns raises profound questions about the use of this technology."
     publishedDateTime: 2024-02-15T18:56:00Z

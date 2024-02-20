@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox61.com/amp/article/news/health/hartford-healthcare-ar
 cdnAmpWebUrl: "https://www-fox61-com.cdn.ampproject.org/c/s/www.fox61.com/amp/article/news/health/hartford-healthcare-artificial-intelligence-center/520-7d511d95-cd9b-4922-a313-47b8962ebb60"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hartford HealthCare launches AI center"
-    excerpt: "Hartford (Conn.) HealthCare is launching a center dedicated to artificial intelligence. The Center for AI Innovation in Healthcare will focus on the research and development, education and training, collaboration and partnerships, and ethical and ..."
-    publishedDateTime: 2024-02-15T00:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/hartford-healthcare-launches-ai-center.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Congress tiptoes toward healthcare AI legislation"
     excerpt: "Lawmakers are focused on privacy, transparency and bias as they weigh how to protect Americans from abusive artificial intelligence systems algorithms while promoting business interests."
     publishedDateTime: 2024-02-15T19:19:00Z

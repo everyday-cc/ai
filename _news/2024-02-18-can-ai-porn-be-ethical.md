@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/feb/18/ethics-ai-porn"
 type: article
 quality: 74
-heat: 80
+heat: 74
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/long-context-window-ai-models/amp/
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/long-context-window-ai-models/amp/"
 type: article
 quality: 94
-heat: 98
+heat: 94
 published: true
 
 provider:
